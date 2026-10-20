@@ -61,11 +61,10 @@ awaiting a policy call, 3 have only postage stamps, and 5 cannot have a portrait
 
 ## Content
 
-- [ ] **Reconcile the OSM name differences.** `data/index.js` found four Arabic
-      variances: Oud Metha is tagged **شارع عود ميثاء** (ours: ميثا — likely a
-      typo), and Al Ittihad, Maliha and Al Rams are tagged **طريق** where we use
-      **شارع** — which is arguably more accurate for a road. Confirm, then fix the
-      data (and the stories that repeat the spelling).
+- [x] **OSM name differences — reviewed, no change.** Both forms are correct
+      Arabic: ميثا / ميثاء and شارع / طريق are variants, not errors. The house
+      style keeps **شارع** and **ميثا** throughout. Recorded in
+      `docs/arabic-style.md` so it is not raised again.
 
 - [ ] **Confirm with the municipality:** the official name of Umm Al Quwain's
       principal street; the Ajman "Sheikh Ammar bin Humaid" naming; Sharjah's

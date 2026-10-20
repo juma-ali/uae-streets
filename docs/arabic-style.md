@@ -36,6 +36,20 @@ nominal chains, `تم` + masdar, abstract nouns where a verb belongs — rewrite
 | واليوم **تحمل أبراجه الشاهقة اسمه** | واليوم **صار اسمه مقترناً** بأبراج المدينة الشاهقة | "towers carry his name" is English logic wearing Arabic words |
 | وتُذكر **ارتباطاً** بشركة كهربائية | **ويُربط اسمها** بشركة كهربائية | nominal `ارتباطاً` is a calque of "in connection with" |
 
+## Spelling choices (settled)
+
+Both forms are correct Arabic; these are house choices, so that 27 entries read as
+one publication rather than as 27 sources.
+
+- **شارع, not طريق** — for every street in the dataset, including the ones OSM tags
+  as طريق (Al Ittihad, Maliha, Al Rams).
+- **ميثا, not ميثاء** — Oud Metha.
+- **Western digits** — 1971, 2020, E11.
+- OSM's own tags in `data/index.js` keep *their* forms: that file is provenance, not
+  editorial text, and it is regenerated rather than edited.
+
+If a contributor "corrects" one of these, the answer is this section, not a debate.
+
 ## Workflow
 
 ```bash
