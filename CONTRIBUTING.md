@@ -33,6 +33,7 @@ Double-click `index.html`. That's it.
 | `README.md` | Visitor-facing front page — GitHub renders it | the project's story or feature list changes |
 | `CONTRIBUTING.md` | This maintainer guide | — |
 | `docs/arabic-style.md` | House style for the Arabic entries | you settle a wording question |
+| `docs/CONTRIBUTING.ar.md` | Arabic summary of this guide (linked from the Arabic footer) | the essentials change |
 | `docs/ROADMAP.md` | Open work with the trigger for each item | you close or add an item |
 | `docs/preview.png` | Screenshot used in the README | the design changes noticeably |
 | `tools/arabic-lint.mjs` | Mechanical Arabic checks | you add a rule |
