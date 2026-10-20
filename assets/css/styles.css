@@ -503,6 +503,18 @@ html[dir="rtl"] .eg-en { text-align: right; }
   margin-block-end: .5rem;
 }
 .footer p { font-size: .82rem; color: var(--ink-3); line-height: 1.65; max-width: 34ch; }
+
+.footer__links { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .5rem; }
+.footer__links a {
+  display: inline-flex; align-items: center; gap: .45rem; width: fit-content;
+  font-size: .83rem; color: var(--ink-2); text-decoration: none;
+  border-block-end: 1px solid transparent; transition: color .15s, border-color .15s;
+}
+.footer__links a:hover,
+.footer__links a:focus-visible { color: var(--accent); border-block-end-color: currentColor; }
+.footer__icon { width: 14px; height: 14px; flex: 0 0 auto; opacity: .8; }
+.footer__links a:hover .footer__icon { opacity: 1; }
+.footer__ext { font-size: .85em; opacity: .6; }
 .footer__base {
   display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
   margin-block-start: 2.6rem; padding-block-start: 1.2rem;
