@@ -50,11 +50,22 @@ JavaScript, no database, no CMS:
 }
 ```
 
-## Run it
+## Run it locally
 
-Double-click `index.html`. No build step, no install, no server — it works straight
-from the filesystem. To host it, copy the folder to any static host; there is nothing
-to configure.
+There is no build step, no dependencies and no server: `index.html` loads
+`data/streets.js` as a plain script, so a browser is all it needs.
+
+```bash
+git clone https://github.com/juma-ali/uae-streets.git
+cd uae-streets
+```
+
+Then open `index.html` — double-click it, or run `start index.html` on Windows or
+`open index.html` on macOS. If you'd rather not clone, **Code → Download ZIP** and
+unzip works exactly the same way.
+
+Deploying it is a different question, and that's covered in
+[CONTRIBUTING.md](CONTRIBUTING.md#6-publish-it).
 
 ## Contributing
 
@@ -78,4 +89,5 @@ Code is MIT; the street entries and stories are CC BY 4.0. See [LICENSE](LICENSE
 
 ## Status
 
-Public repository. The site is not deployed yet.
+Not deployed yet — the content is still being reviewed. Until then, run it locally as
+described above.
