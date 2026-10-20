@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UAE Streets — the stories behind the names</title>
+<meta name="description" content="A bilingual field guide to UAE street names: the people, words, places, tribes and events behind the roads of the seven emirates.">
+<meta name="theme-color" content="#faf5ec">
+<script>
+  /* apply a saved theme before first paint, so there is no flash */
+  try {
+    var savedTheme = localStorage.getItem("uae-streets-theme");
+    if (savedTheme === "dark" || savedTheme === "light") {
+      document.documentElement.setAttribute("data-theme", savedTheme);
+    }
+  } catch (e) {}
+</script>
+<meta property="og:title" content="UAE Streets — the stories behind the names">
+<meta property="og:description" content="Twenty-seven roads across the seven emirates, and why each one is called what it is called.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2314603f'/%3E%3Cpath d='M8 21h16M8 15h11M8 9h16' stroke='%23f6f1e5' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#streets" data-en="Skip to the streets" data-ar="تخطَّ إلى الشوارع">Skip to the streets</a>
+
+<header class="masthead">
+  <div class="wrap masthead__inner">
+    <a class="brand" href="#top">
+      <span class="brand__mark" aria-hidden="true">
+        <svg viewBox="0 0 32 32" width="32" height="32"><rect width="32" height="32" rx="7" fill="currentColor"/><path d="M8 21h16M8 15h11M8 9h16" stroke="#f6f1e5" stroke-width="3" stroke-linecap="round"/></svg>
+      </span>
+      <span class="brand__text">
+        <strong data-en="UAE Streets" data-ar="شوارع الإمارات">UAE Streets</strong>
+        <small data-en="a field guide to their names" data-ar="دليل ميداني لأسمائها">a field guide to their names</small>
+      </span>
+    </a>
+
+    <nav class="nav" aria-label="Sections">
+      <a href="#streets" data-en="Streets" data-ar="الشوارع">Streets</a>
+      <a href="#how" data-en="How names work" data-ar="كيف تُسمّى">How names work</a>
+      <a href="#about" data-en="About" data-ar="عن الدليل">About</a>
+    </nav>
+
+    <div class="controls">
+      <button type="button" class="theme-btn" id="theme-toggle" aria-label="Switch colour theme">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v2.2M12 18.8V21M3 12h2.2M18.8 12H21M5.6 5.6l1.6 1.6M16.8 16.8l1.6 1.6M18.4 5.6l-1.6 1.6M7.2 16.8l-1.6 1.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+      </button>
+      <div class="lang" role="group" aria-label="Language / اللغة">
+        <button type="button" class="lang__btn" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" class="lang__btn" data-lang="ar" aria-pressed="false">ع</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="wrap hero__grid">
+      <div class="hero__copy">
+        <p class="eyebrow">
+          <span class="eyebrow__rule" aria-hidden="true"></span>
+          <span data-en="Abu Dhabi to Fujairah" data-ar="من أبوظبي إلى الفجيرة">Abu Dhabi to Fujairah</span>
+        </p>
+        <h1 class="hero__title">
+          <span data-en="Why is that street called that?" data-ar="لماذا سُمّي هذا الشارع بهذا الاسم؟">Why is that street called that?</span>
+        </h1>
+        <p class="hero__lede" data-en="Every street name in the Emirates is a small record: a ruler, a tribe, a well, a date, a word for unity. Twenty-seven roads, seven emirates — and the stories behind the signs." data-ar="كل اسم شارع في الإمارات سجلّ صغير: حاكم، أو قبيلة، أو بئر، أو تاريخ، أو كلمة عن الوحدة. سبعة وعشرون طريقاً في سبع إمارات — وقصص خلف اللوحات.">
+          Every street name in the Emirates is a small record: a ruler, a tribe, a well, a date, a word for unity. Twenty-seven roads, seven emirates — and the stories behind the signs.
+        </p>
+
+        <form class="search" id="search-form" role="search" onsubmit="return false;">
+          <svg class="search__icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="m16 16 4.5 4.5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+          <label class="sr-only" for="search" data-en="Search streets" data-ar="ابحث في الشوارع">Search streets</label>
+          <input id="search" type="search" autocomplete="off" spellcheck="false"
+                 data-en-placeholder="Search a name — Al Wasl, Sheikh Zayed, Dubai…"
+                 data-ar-placeholder="ابحث باسم الشارع أو المنطقة"
+                 placeholder="Search a name — Al Wasl, Sheikh Zayed, Dubai…">
+          <button type="button" class="search__clear" id="search-clear" hidden aria-label="Clear search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg>
+          </button>
+          <kbd class="search__kbd" aria-hidden="true">/</kbd>
+        </form>
+
+        <p class="hero__meta">
+          <span id="total-count">27</span> <span data-en="streets" data-ar="شارعاً">streets</span>
+          <span class="dot" aria-hidden="true">·</span>
+          <span data-en="7 emirates" data-ar="7 إمارات">7 emirates</span>
+          <span class="dot" aria-hidden="true">·</span>
+          <span data-en="2 languages" data-ar="لغتان">2 languages</span>
+        </p>
+      </div>
+
+      <div class="hero__art" aria-hidden="true">
+        <div class="plate plate--back">
+          <span class="plate__ar">شارع الوصل</span>
+          <span class="plate__en" dir="ltr">AL WASL ROAD</span>
+        </div>
+        <div class="plate plate--front">
+          <span class="plate__shield">E11</span>
+          <span class="plate__ar">شارع الشيخ زايد</span>
+          <span class="plate__rule"></span>
+          <span class="plate__en" dir="ltr">SHEIKH ZAYED ROAD</span>
+          <span class="plate__bolts" aria-hidden="true"></span>
+        </div>
+        <p class="hero__art-note" data-en="The sign is where the story starts." data-ar="اللوحة هي حيث تبدأ القصة.">The sign is where the story starts.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FILTERS ============ -->
+  <section class="filters" id="filters" aria-label="Filter streets">
+    <div class="wrap">
+      <div class="filter-row">
+        <span class="filter-row__label" data-en="Emirate" data-ar="الإمارة">Emirate</span>
+        <div class="chips" id="emirate-chips" role="group" aria-label="Filter by emirate"></div>
+      </div>
+      <div class="filter-row">
+        <span class="filter-row__label" data-en="Named after" data-ar="الاسم مأخوذ من">Named after</span>
+        <div class="chips" id="category-chips" role="group" aria-label="Filter by naming pattern"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ COLLECTION ============ -->
+  <section class="collection" id="streets">
+    <div class="wrap">
+      <div class="collection__head">
+        <h2 class="collection__title" id="collection-title">All streets</h2>
+        <div class="collection__tools">
+          <button type="button" class="btn btn--ghost" id="shuffle">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7h3.5l9 10H21M3 17h3.5l2.2-2.44M21 7h-5.4l-1.6 1.78M18 4l3 3-3 3M18 14l3 3-3 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            <span data-en="Surprise me" data-ar="فاجئني">Surprise me</span>
+          </button>
+          <button type="button" class="btn btn--ghost" id="reset" hidden>
+            <span data-en="Clear filters" data-ar="مسح المرشّحات">Clear filters</span>
+          </button>
+        </div>
+      </div>
+      <p class="collection__count" id="result-count" aria-live="polite"></p>
+      <div class="grid" id="grid"></div>
+      <div class="empty" id="empty" hidden>
+        <p class="empty__title" data-en="No street by that name." data-ar="لا يوجد شارع بهذا الاسم.">No street by that name.</p>
+        <p data-en="Try an emirate, a word like “unity”, or part of an Arabic name." data-ar="جرّب إمارة، أو كلمة مثل «الوحدة»، أو جزءاً من اسم عربي.">Try an emirate, a word like “unity”, or part of an Arabic name.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HOW NAMES WORK ============ -->
+  <section class="how" id="how">
+    <div class="wrap">
+      <header class="section-head">
+        <p class="eyebrow"><span class="eyebrow__rule" aria-hidden="true"></span><span data-en="The grammar of a name" data-ar="قواعد الاسم">The grammar of a name</span></p>
+        <h2 data-en="Five ways a street gets its name" data-ar="خمس طرق يحصل بها الشارع على اسمه">Five ways a street gets its name</h2>
+        <p class="section-head__lede" data-en="UAE street names are not arbitrary. Almost every one belongs to a small number of patterns — learn the patterns and you can read a city quickly." data-ar="أسماء الشوارع في الإمارات ليست اعتباطية. كل اسم تقريباً ينتمي إلى عدد صغير من الأنماط — تعلّم الأنماط فتقرأ المدينة بسرعة.">
+          UAE street names are not arbitrary. Almost every one belongs to a small number of patterns — learn the patterns and you can read a city quickly.
+        </p>
+      </header>
+
+      <ol class="patterns">
+        <li>
+          <span class="patterns__num">01</span>
+          <h3 data-en="People" data-ar="الشخصيات">People</h3>
+          <p data-en="Rulers, founders, and members of the ruling families. The biggest roads usually carry the biggest names." data-ar="الحكّام والمؤسسون وأفراد الأسر الحاكمة. وأكبر الطرق تحمل عادةً أكبر الأسماء.">Rulers, founders, and members of the ruling families. The biggest roads usually carry the biggest names.</p>
+          <p class="patterns__eg"><span class="eg-ar" lang="ar" dir="rtl">شارع الشيخ زايد</span><span class="eg-en" dir="ltr">Sheikh Zayed Road</span></p>
+        </li>
+        <li>
+          <span class="patterns__num">02</span>
+          <h3 data-en="Places" data-ar="الأماكن">Places</h3>
+          <p data-en="The district itself, a well, a harbour, a hill, or a landmark the road happens to pass." data-ar="المنطقة نفسها، أو بئر، أو ميناء، أو تلّ، أو معلم يمرّ به الطريق.">The district itself, a well, a harbour, a hill, or a landmark the road happens to pass.</p>
+          <p class="patterns__eg"><span class="eg-ar" lang="ar" dir="rtl">شارع البحيرة</span><span class="eg-en" dir="ltr">Buhairah Corniche</span></p>
+        </li>
+        <li>
+          <span class="patterns__num">03</span>
+          <h3 data-en="Words" data-ar="الكلمات">Words</h3>
+          <p data-en="Abstract nouns and natural features: connection, unity, renaissance, peace, the Gulf. The street carries a value." data-ar="معانٍ مجرّدة وظواهر طبيعية: الوصل، الوحدة، النهضة، السلام، الخليج. الشارع يحمل قيمة.">Abstract nouns and natural features: connection, unity, renaissance, peace, the Gulf. The street carries a value.</p>
+          <p class="patterns__eg"><span class="eg-ar" lang="ar" dir="rtl">شارع الوصل</span><span class="eg-en" dir="ltr">Al Wasl Road</span></p>
+        </li>
+        <li>
+          <span class="patterns__num">04</span>
+          <h3 data-en="Tribes" data-ar="القبائل">Tribes</h3>
+          <p data-en="Bani Yas, Al Nuaimi, Al Mualla, Al Sharqi, Al Qasimi — tribal and family names that map the country's social geography onto its roads." data-ar="بني ياس، النعيمي، المعلا، الشرقي، القاسمي — أسماء قبائل وأسر ترسم جغرافيا البلاد الاجتماعية على شوارعها.">Bani Yas, Al Nuaimi, Al Mualla, Al Sharqi, Al Qasimi — tribal and family names that map the country's social geography onto its roads.</p>
+          <p class="patterns__eg"><span class="eg-ar" lang="ar" dir="rtl">شارع بني ياس</span><span class="eg-en" dir="ltr">Baniyas Road</span></p>
+        </li>
+        <li>
+          <span class="patterns__num">05</span>
+          <h3 data-en="Events" data-ar="الأحداث">Events</h3>
+          <p data-en="Dates and national milestones: the federation, National Day, a royal visit. The address becomes a commemoration." data-ar="تواريخ ومحطات وطنية: الاتحاد، العيد الوطني، زيارة ملكية. يصبح العنوان ذكرى.">Dates and national milestones: the federation, National Day, a royal visit. The address becomes a commemoration.</p>
+          <p class="patterns__eg"><span class="eg-ar" lang="ar" dir="rtl">شارع الثاني من ديسمبر</span><span class="eg-en" dir="ltr">2 December Street</span></p>
+        </li>
+      </ol>
+
+      <aside class="note">
+        <h3 data-en="A note on sources" data-ar="ملاحظة عن المصادر">A note on sources</h3>
+        <p data-en="Each entry is labelled. “Documented” means the person, event or landmark is on the record. “Local account” means the explanation is widely told but not officially recorded — we mark it rather than dress it up as fact. Spelling varies too: Al Wasl and Al Wasel are the same word, transliterated twice." data-ar="كل مدخل مصنّف. «موثّق» يعني أن الشخص أو الحدث أو المعلم مسجّل، و«رواية محلية» يعني أن التفسير شائع لكنه غير مسجّل رسمياً — نصنّفه بدل أن نقدّمه كحقيقة. والكتابة اللاتينية تختلف أيضاً: Al Wasl و Al Wasel كلمة واحدة بنقلين مختلفين.">
+          Each entry is labelled. “Documented” means the person, event or landmark is on the record. “Local account” means the explanation is widely told but not officially recorded — we mark it rather than dress it up as fact. Spelling varies too: Al Wasl and Al Wasel are the same word, transliterated twice.
+        </p>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ============ ABOUT ============ -->
+  <section class="about" id="about">
+    <div class="wrap about__grid">
+      <div class="about__copy">
+        <p class="eyebrow"><span class="eyebrow__rule" aria-hidden="true"></span><span data-en="About" data-ar="عن الدليل">About</span></p>
+        <h2 data-en="A starter set, built to grow" data-ar="بداية قابلة للنمو">A starter set, built to grow</h2>
+        <p data-en="This guide began with 27 well-known roads. It is deliberately small, and deliberately editable: every street lives in one plain data file, so adding the thirtieth takes a minute — and adding the three-hundredth is a copy-and-paste afternoon." data-ar="بدأ هذا الدليل بسبعة وعشرين طريقاً معروفاً. وهو صغير عن قصد، وقابل للتعديل عن قصد: كل شارع يعيش في ملف بيانات واحد بسيط، فإضافة الشارع الثلاثين تستغرق دقيقة، وإضافة الثلاثمئة أمسية من النسخ واللصق.">
+          This guide began with 27 well-known roads. It is deliberately small, and deliberately editable: every street lives in one plain data file, so adding the thirtieth takes a minute — and adding the three-hundredth is a copy-and-paste afternoon.
+        </p>
+        <p data-en="No frameworks, no build step, no server. Open the file and it runs." data-ar="بلا أطر عمل، وبلا خطوة بناء، وبلا خادم. افتح الملف فيعمل.">
+          No frameworks, no build step, no server. Open the file and it runs.
+        </p>
+      </div>
+      <dl class="about__stats" id="stats"></dl>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap footer__grid">
+    <div class="footer__brand">
+      <strong data-en="UAE Streets" data-ar="شوارع الإمارات">UAE Streets</strong>
+      <p data-en="A field guide to the names on the signs." data-ar="دليل ميداني إلى الأسماء على اللوحات.">A field guide to the names on the signs.</p>
+    </div>
+    <div>
+      <h3 data-en="Add a street" data-ar="أضف شارعاً">Add a street</h3>
+      <p data-en="Edit data/streets.js, copy an entry, refresh. The README has the full walkthrough." data-ar="عدّل الملف data/streets.js، وانسخ مدخلاً، وحدّث الصفحة. ودليل README يشرح الخطوات كاملة.">Edit <code>data/streets.js</code>, copy an entry, refresh. The README has the full walkthrough.</p>
+    </div>
+    <div>
+      <h3 data-en="Credits" data-ar="شكر وتقدير">Credits</h3>
+      <p data-en="Type: Fraunces, Inter, IBM Plex Sans Arabic. Facts checked against public reporting where noted; local accounts are labelled as such." data-ar="الخطوط: Fraunces وInter وIBM Plex Sans Arabic. دُقّقت الوقائع مقابل تقارير منشورة حيث أُشير، والروايات المحلية مصنّفة كذلك.">Type: Fraunces, Inter, IBM Plex Sans Arabic. Facts checked against public reporting where noted; local accounts are labelled as such.</p>
+    </div>
+  </div>
+  <div class="wrap footer__base">
+    <span data-en="Made with plain HTML, CSS and JavaScript." data-ar="صُنع بـHTML وCSS وJavaScript فقط.">Made with plain HTML, CSS and JavaScript.</span>
+    <a href="#top" class="footer__top" data-en="Back to top ↑" data-ar="إلى الأعلى ↑">Back to top ↑</a>
+  </div>
+</footer>
+
+<!-- ============ DETAIL SHEET ============ -->
+<dialog class="sheet" id="sheet" aria-labelledby="sheet-title">
+  <div class="sheet__bar">
+    <span class="sheet__hint" id="sheet-hint"></span>
+    <button type="button" class="sheet__close" id="sheet-close" aria-label="Close">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <div class="sheet__body" id="sheet-body"></div>
+</dialog>
+
+<script src="data/streets.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
