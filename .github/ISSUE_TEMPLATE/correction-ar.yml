@@ -1,0 +1,66 @@
+name: تصحيح (العربية)
+description: صحّح اسماً أو معنى أو قصة في الدليل
+title: "[تصحيح]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## المصدر شرط أساسي
+
+        **لا يُنظر في أي تصحيح دون مصدر عام يمكن التحقق منه.** التصحيح بلا مصدر
+        يُغلق دون إجراء: لا يمكننا التحقق من «سمعت» أو «يقول أهلي»، وتصحيح تخمين
+        بتخمين آخر يجعل الدليل أسوأ لا أفضل.
+
+        **المصادر المقبولة:** كتاب أو بحث أكاديمي، أرشيف صحفي، إصدار بلدي أو وزاري،
+        خريطة رسمية.
+        **غير المقبولة:** منشورات شبكات التواصل، المدونات بلا مصادر، الذاكرة الشخصية.
+
+        وإذا كانت الرواية شفهية فعلاً، فاذكر ذلك وسمِّ من رواها وأين. يمكن تسجيلها
+        كـ«رواية محلية» — مصنّفة كذلك، ولا تُقدَّم أبداً على أنها حقيقة.
+
+  - type: input
+    id: street
+    attributes:
+      label: أي شارع؟
+      description: الاسم كما يظهر في الموقع — بالعربية أو الإنجليزية.
+      placeholder: "شارع الوصل / Al Wasl Road"
+    validations:
+      required: true
+
+  - type: textarea
+    id: wrong
+    attributes:
+      label: ما الخطأ؟
+      description: انقل النص غير الصحيح حرفياً — الاسم أو المعنى أو القصة أو الإمارة.
+      placeholder: يقول المدخل «…» لكن …
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct
+    attributes:
+      label: ما الصواب؟
+      description: الصياغة الصحيحة، بأي لغة تستطيع الكتابة بها.
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: المصدر
+      description: رابط، أو توثيق كامل (المؤلف، العنوان، السنة، الصفحة). يجب أن يكون عاماً ويمكن لغيره التحقق منه.
+      placeholder: "https://… أو: المؤلف، العنوان، الناشر، السنة، صفحة …"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: قبل الإرسال
+      options:
+        - label: راجعت المدخل في الموقع، وهو ليس صحيحاً أصلاً.
+          required: true
+        - label: مصدري عام ويمكن التحقق منه — وليس منشوراً على شبكة اجتماعية أو ذاكرة شخصية.
+          required: true
+        - label: أتفهّم أن التقرير الناقص قد يُغلق دون إجراء.
+          required: true

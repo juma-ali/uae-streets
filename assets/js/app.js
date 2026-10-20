@@ -435,6 +435,12 @@
       if (v != null) el.placeholder = v;
     });
 
+    // Links that point at a language-specific page (the Arabic issue forms).
+    $$("[data-href-en]").forEach(function (el) {
+      var v = el.getAttribute("data-href-" + state.lang);
+      if (v) el.setAttribute("href", v);
+    });
+
     $$(".lang__btn").forEach(function (b) {
       b.setAttribute("aria-pressed", String(b.getAttribute("data-lang") === state.lang));
     });
