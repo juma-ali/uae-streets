@@ -3,6 +3,7 @@
 **A bilingual (Arabic/English) field guide to the names on UAE street signs** — the
 people, tribes, words and events behind them.
 
+[![checks](https://github.com/juma-ali/uae-streets/actions/workflows/checks.yml/badge.svg)](https://github.com/juma-ali/uae-streets/actions/workflows/checks.yml)
 **[Open the site →](https://juma-ali.github.io/uae-streets/)**
 
 ![UAE Streets: a search bar, filters by emirate and by naming pattern, and cards showing each street's Arabic and English names](docs/preview.png)
@@ -15,6 +16,10 @@ the seven emirates and explains, in both languages, where each name came from.
 Each entry has the Arabic name as it appears on the sign, an English transliteration,
 a one-line meaning, and a short story. Switch to Arabic and the whole layout flips to
 RTL — not just the text.
+
+**بالعربية:** دليل ميداني لأسماء شوارع الإمارات — من وراء كل اسم، ولماذا سُمّي به.
+بالعربية والإنجليزية، وبحث يتعامل مع الكتابة العربية كيفما كُتبت:
+[juma-ali.github.io/uae-streets](https://juma-ali.github.io/uae-streets/)
 
 ## What's inside
 
@@ -73,10 +78,19 @@ Deploying it is a different question, and that's covered in
 
 Adding a street takes about five minutes: copy an entry in `data/streets.js`, change
 the values, refresh. The field reference, the content rules and the publishing steps
-are in [CONTRIBUTING.md](CONTRIBUTING.md).
+are in [CONTRIBUTING.md](CONTRIBUTING.md) — [بالعربية](docs/CONTRIBUTING.ar.md).
 
-Corrections are especially welcome. If a name's origin is better documented than it
-is here, the fix belongs in the data — not in a comment.
+Not planning to touch the code? Two forms do the job:
+
+- **[Report a correction](https://github.com/juma-ali/uae-streets/issues/new?template=correction.yml)**
+- **[Suggest a street](https://github.com/juma-ali/uae-streets/issues/new?template=street.yml)**
+
+Both **require a public source**. A report without one is closed without action — a
+guess corrected by another guess makes the guide worse. If a name's origin is better
+documented than it is here, the fix belongs in the data, not in a comment.
+
+Every push is checked: `tools/arabic-lint.mjs` for the Arabic wording and
+`tools/validate-forms.mjs` for the issue forms.
 
 Planned work — performance, Arabic review, content gaps — is tracked in
 [docs/ROADMAP.md](docs/ROADMAP.md), each item with the trigger that starts it.
