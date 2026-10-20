@@ -120,18 +120,26 @@ for (const [i, st] of streets.entries()) {
         const arTag = details["name:ar"] || "";
         // Some features carry a Latin string in name:ar — ignore those.
         const nameAr = /[\u0600-\u06FF]/.test(arTag) ? arTag : "";
+        const a = best.address || {};
         rows.push({
           id: st.id,
           osm: best.osm_type + "/" + best.osm_id,
           name_en: details["name:en"] || best.name || "",
           name_ar: nameAr,
           emirate: st.emirate,
+          city: a.city || a.town || a.village || a.municipality || "",
+          district:
+            a.city_district || a.suburb || a.neighbourhood || a.quarter || a.borough || "",
+          county: a.county || "",
+          kind: best.type || "",
           lat: Number(best.lat),
           lon: Number(best.lon),
           match: how,
         });
         const arFlag = nameAr ? (nameAr === st.ar ? "=ar" : "≠ar") : "no-ar";
-        console.log(`${best.osm_type}/${best.osm_id} ${how} ${arFlag}`);
+        console.log(
+          `${best.osm_type}/${best.osm_id} ${how} ${arFlag} | ${a.city || a.town || "?"} / ${a.suburb || a.city_district || "?"}`
+        );
       }
     }
   } catch (e) {
