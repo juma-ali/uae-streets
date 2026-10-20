@@ -221,16 +221,21 @@
       var cat = categoryOf(s.category);
       var meaning = s.meaning ? s.meaning[state.lang] : "";
       var originLabel = s.origin === "local" ? T.originLocal : T.originDocumented;
+      // The name in the reader's own language is the heading and comes first.
+      var nameBlock = state.lang === "ar"
+        ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</h3>" +
+          '<p class="card__en" dir="ltr">' + esc(s.en) + "</p>"
+        : '<h3 class="card__en" dir="ltr">' + esc(s.en) + "</h3>" +
+          '<p class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</p>";
       return (
         '<a class="card" href="#street=' + esc(s.id) + '" data-id="' + esc(s.id) + '" ' +
           'style="--cat:' + cat.color + ';--i:' + Math.min(i, 14) + '" ' +
-          'aria-label="' + esc(s.en + " — " + em[state.lang]) + '">' +
+          'aria-label="' + esc((state.lang === "ar" ? s.ar : s.en) + " — " + em[state.lang]) + '">' +
           '<div class="card__top">' +
             '<span class="card__emirate">' + esc(em[state.lang]) + "</span>" +
             '<span class="badge badge--' + (s.origin === "local" ? "local" : "documented") + '">' + esc(originLabel) + "</span>" +
           "</div>" +
-          '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</h3>" +
-          '<p class="card__en" dir="ltr">' + esc(s.en) + "</p>" +
+          nameBlock +
           (meaning ? '<p class="card__meaning">' + esc(meaning) + "</p>" : "") +
           '<div class="card__foot">' +
             '<span class="card__tag">' + esc(T.categoryNoun[s.category] || cat[state.lang]) + "</span>" +
@@ -322,11 +327,17 @@
     var meaning = s.meaning ? (s.meaning[state.lang] || s.meaning.en) : "";
     var isLocal = s.origin === "local";
 
+    // Same rule as the cards: the reader's language is the heading, and first.
+    var titleBlock = state.lang === "ar"
+      ? '<h2 class="sheet__ar" id="sheet-title" lang="ar" dir="rtl">' + esc(s.ar) + "</h2>" +
+        '<p class="sheet__en" dir="ltr">' + esc(s.en) + "</p>"
+      : '<h2 class="sheet__en" id="sheet-title" dir="ltr">' + esc(s.en) + "</h2>" +
+        '<p class="sheet__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</p>";
+
     body.innerHTML =
       '<div class="sheet__head">' +
         '<p class="sheet__emirate">' + esc(em[state.lang]) + " · " + esc(cat[state.lang]) + "</p>" +
-        '<h2 class="sheet__ar" id="sheet-title" lang="ar" dir="rtl">' + esc(s.ar) + "</h2>" +
-        '<p class="sheet__en" dir="ltr">' + esc(s.en) + "</p>" +
+        titleBlock +
         (s.translit ? '<p class="sheet__translit" dir="ltr">' + esc(s.translit) + "</p>" : "") +
         '<div class="sheet__tags">' +
           '<span class="sheet__tag">' + esc(T.categoryNoun[s.category] || "") + "</span>" +

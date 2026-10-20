@@ -377,12 +377,14 @@ code { font-family: var(--font-mono); font-size: .86em; background: var(--paper-
 .badge--documented { color: var(--palm); background: color-mix(in srgb, var(--palm) 7%, transparent); }
 .badge--local { color: var(--clay); background: color-mix(in srgb, var(--clay) 7%, transparent); }
 
+/* English is the primary line in the default (LTR) layout; Arabic is the
+   supporting line. The two swap roles in Arabic mode — see the ar block. */
+.card__en { font-size: 1.16rem; font-weight: 600; color: var(--ink); line-height: 1.3; }
 .card__ar {
-  font-family: var(--font-ar); font-size: 1.5rem; font-weight: 600;
-  line-height: 1.45; color: var(--ink); direction: rtl; text-align: left;
-  margin-block-start: .15rem;
+  font-family: var(--font-ar); font-size: 1.06rem; font-weight: 500;
+  line-height: 1.65; color: var(--ink-3); direction: rtl; text-align: left;
+  margin-block-start: .3rem;
 }
-.card__en { font-size: .9rem; font-weight: 500; color: var(--ink-2); line-height: 1.35; }
 .card__meaning {
   font-size: .83rem; font-style: italic; color: var(--ink-3);
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
@@ -544,12 +546,13 @@ html[dir="rtl"] .eg-en { text-align: right; }
   font-size: .68rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase;
   color: var(--ink-3); display: flex; align-items: center; gap: .6rem;
 }
+/* Same hierarchy rule as the cards: English leads in LTR, Arabic leads in RTL. */
+.sheet__en { font-family: var(--font-display); font-size: clamp(1.5rem, 3.4vw, 1.95rem); color: var(--ink); line-height: 1.15; }
 .sheet__ar {
-  font-family: var(--font-ar); direction: rtl; text-align: start;
-  font-size: clamp(1.7rem, 4vw, 2.35rem); font-weight: 600; line-height: 1.45;
-  margin-block: .55rem .2rem;
+  font-family: var(--font-ar); direction: rtl; text-align: left;
+  font-size: 1.2rem; font-weight: 500; line-height: 1.7;
+  color: var(--ink-2); margin-block: .45rem .1rem;
 }
-.sheet__en { font-family: var(--font-display); font-size: clamp(1.1rem, 2.2vw, 1.35rem); color: var(--ink-2); line-height: 1.3; }
 .sheet__translit { font-size: .82rem; color: var(--ink-3); font-style: italic; margin-block-start: .35rem; }
 
 .sheet__tags { display: flex; gap: .4rem; flex-wrap: wrap; margin-block-start: 1rem; }
@@ -616,6 +619,24 @@ html[lang="ar"] .search input { font-size: .95rem; }
 html[lang="ar"] .patterns li h3 { font-size: 1.28rem; }
 html[lang="ar"] .footer p { max-width: 40ch; }
 html[lang="ar"] .sheet__story p { line-height: 2; }
+
+/* In Arabic mode the hierarchy flips back: the Arabic name leads, the Latin
+   name becomes the supporting line. */
+html[lang="ar"] .card__ar {
+  font-size: 1.5rem; font-weight: 600; color: var(--ink);
+  line-height: 1.45; margin-block-start: 0;
+}
+html[lang="ar"] .card__en {
+  font-size: .88rem; font-weight: 500; color: var(--ink-3); line-height: 1.35;
+}
+html[lang="ar"] .sheet__ar {
+  text-align: start; font-size: clamp(1.7rem, 4vw, 2.35rem);
+  font-weight: 600; color: var(--ink); line-height: 1.45;
+  margin-block: .55rem .2rem;
+}
+html[lang="ar"] .sheet__en {
+  font-size: clamp(1.1rem, 2.2vw, 1.35rem); color: var(--ink-2); line-height: 1.3;
+}
 
 /* Latin strings inside the Arabic layout: keep the internal order LTR
    (so "2 December Street" never loses its number) but align to the same
