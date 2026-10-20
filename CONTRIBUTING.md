@@ -32,7 +32,10 @@ Double-click `index.html`. That's it.
 | `LICENSE` | MIT for the code; the content is CC BY 4.0 (see §12) | — |
 | `README.md` | Visitor-facing front page — GitHub renders it | the project's story or feature list changes |
 | `CONTRIBUTING.md` | This maintainer guide | — |
+| `docs/arabic-style.md` | House style for the Arabic entries | you settle a wording question |
 | `docs/preview.png` | Screenshot used in the README | the design changes noticeably |
+| `tools/arabic-lint.mjs` | Mechanical Arabic checks | you add a rule |
+| `tools/arabic-review.mjs` | Review queue / approval state | — |
 
 The site reads `data/streets.js` as a plain script (it sets `window.STREETS`), so it
 works from `file://` with no server and no CORS problems.
@@ -118,6 +121,22 @@ solid its explanation is:
 
 The site shows these as “Documented name” / “Local account”, and the detail panel
 adds a line of context. When you're unsure, `local` is the honest choice.
+
+### Arabic checks
+
+Arabic is written from the same facts as the English, not translated from it.
+Two scripts keep that reviewable as the dataset grows:
+
+```bash
+node tools/arabic-lint.mjs      # punctuation, Latin leakage, calques, length balance
+node tools/arabic-review.mjs    # entries whose Arabic changed since you approved them
+```
+
+Run both before committing. The house style is [docs/arabic-style.md](docs/arabic-style.md).
+The review script keeps a hash of each entry's Arabic at the moment you accept it
+(`docs/arabic-review.json`), so approved entries never return to the queue unless
+their Arabic actually changes — review cost tracks new writing, not dataset size.
+Both run automatically in GitHub Actions on every push.
 
 ---
 

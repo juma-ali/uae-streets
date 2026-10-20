@@ -1,0 +1,25 @@
+name: checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  arabic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Mechanical Arabic checks: punctuation, Latin leakage, calques,
+      # ar/en length balance. Fails the run on any finding.
+      - name: Lint Arabic
+        run: node tools/arabic-lint.mjs --fail
+
+      # Informational: lists entries whose Arabic changed since it was
+      # approved. Never fails — it is a reading list, not a gate.
+      - name: Arabic review queue
+        run: node tools/arabic-review.mjs

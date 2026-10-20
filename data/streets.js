@@ -87,7 +87,7 @@ window.STREETS = [
     meaning: { en: "The Electra road", ar: "طريق بناية الإلكترا" },
     story: {
       en: "One of the capital's best-known shopping streets, Electra takes its name from a building — the Electra building, remembered in connection with an electrical company — that once anchored the street. Local accounts differ on the details, but everyone agrees the name arrived with a building, not a person.",
-      ar: "من أشهر شوارع التسوّق في العاصمة، ويحمل اسم بناية «الإلكترا» التي كانت علامة في الشارع وتُذكر ارتباطاً بشركة كهربائية. تختلف الروايات في التفاصيل، لكن الجميع يتفق على أن الاسم جاء مع بناية لا مع شخص."
+      ar: "من أشهر شوارع التسوّق في العاصمة، ويحمل اسم بناية «الإلكترا» التي كانت علامة مميزة في الشارع، ويُربط اسمها بشركة كهربائية. تختلف الروايات في التفاصيل، لكن الجميع يتفق على أن الاسم جاء مع بناية لا مع شخص."
     }
   },
   {
@@ -132,7 +132,7 @@ window.STREETS = [
     meaning: { en: "The founding father, the UAE's first President", ar: "المؤسس وأول رئيس للدولة" },
     story: {
       en: "Dubai's spine and the longest road in the UAE, E11 is named after Sheikh Zayed bin Sultan Al Nahyan, first President of the UAE and ruler of Abu Dhabi. When it was cut through the desert in the 1970s it carried more camels than cars; today the skyscraper corridor along it carries the founder's name.",
-      ar: "يُعدّ شارع الشيخ زايد (E11) أطول طرق الإمارات وعمود دبي الفقري، وقد سُمّي تيمّناً بالشيخ زايد بن سلطان آل نهيان، أول رئيس للدولة وحاكم أبوظبي. وحين شُقّ عبر الصحراء في سبعينيات القرن الماضي كانت الإبل تعبره أكثر من السيارات، واليوم تحمل أبراجه الشاهقة اسمه."
+      ar: "يُعدّ شارع الشيخ زايد (E11) أطول طرق الإمارات وعمود دبي الفقري، وقد سُمّي تيمّناً بالشيخ زايد بن سلطان آل نهيان، أول رئيس للدولة وحاكم أبوظبي. وحين شُقّ عبر الصحراء في سبعينيات القرن الماضي كانت الإبل تعبره أكثر من السيارات، واليوم صار اسمه مقترناً بأبراج المدينة الشاهقة."
     },
     refs: [{ label: "Khaleej Times — when the road had more camels than cars", url: "https://www.khaleejtimes.com/uae/rewind-50-years-when-dubais-sheikh-zayed-road-had-more-camels-than-cars" }]
   },
