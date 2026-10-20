@@ -78,6 +78,9 @@ are in [CONTRIBUTING.md](CONTRIBUTING.md).
 Corrections are especially welcome. If a name's origin is better documented than it
 is here, the fix belongs in the data — not in a comment.
 
+Planned work — performance, Arabic review, content gaps — is tracked in
+[docs/ROADMAP.md](docs/ROADMAP.md), each item with the trigger that starts it.
+
 ## Credits
 
 Type: [Fraunces](https://fonts.google.com/specimen/Fraunces),
