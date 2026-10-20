@@ -11,3 +11,7 @@ desktop.ini
 # Local preview / test artefacts
 .tmp/
 *.log
+
+# Installed only for tools/validate-forms.mjs (js-yaml), never committed
+node_modules/
+package-lock.json

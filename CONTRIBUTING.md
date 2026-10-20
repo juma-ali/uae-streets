@@ -37,6 +37,7 @@ Double-click `index.html`. That's it.
 | `docs/preview.png` | Screenshot used in the README | the design changes noticeably |
 | `tools/arabic-lint.mjs` | Mechanical Arabic checks | you add a rule |
 | `tools/arabic-review.mjs` | Review queue / approval state | — |
+| `tools/validate-forms.mjs` | Checks the issue-form YAML (needs `js-yaml`) | you edit `.github/ISSUE_TEMPLATE/*.yml` |
 
 The site reads `data/streets.js` as a plain script (it sets `window.STREETS`), so it
 works from `file://` with no server and no CORS problems.

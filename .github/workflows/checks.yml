@@ -23,3 +23,11 @@ jobs:
       # approved. Never fails — it is a reading list, not a gate.
       - name: Arabic review queue
         run: node tools/arabic-review.mjs
+
+      # Issue forms break silently if their YAML is wrong: the "New issue"
+      # page simply stops rendering the templates.
+      - name: Install js-yaml
+        run: npm install --no-save --no-audit --no-fund js-yaml@4
+
+      - name: Validate issue forms
+        run: node tools/validate-forms.mjs
