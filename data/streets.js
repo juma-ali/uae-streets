@@ -146,10 +146,9 @@ window.STREETS = [
     translit: "Shāriʿ al-Waṣl",
     meaning: { en: "Connection, joining", ar: "الوصل: ربط شيء بشيء" },
     story: {
-      en: "Wasl is the Arabic word for joining what was separate. The road is commonly explained as the link that tied Jumeirah and the coast to the Creek and Deira — and some accounts go further, saying Al Wasl was the name Dubai itself carried before 'Dubai' stuck. Al Wasl Sports Club, founded nearby in 1960, repeats that claim on its own history page. The older name is a local tradition rather than a documented fact, but it is why the word feels like more than a street.",
-      ar: "«الوصل» في العربية ربط ما انفصل. ويُفسَّر اسم الشارع بأنه الرابط الذي شدّ جميرا والساحل إلى الخور وديرة، ويروي بعضهم أن «الوصل» كان اسماً قديماً لدبي نفسها قبل أن يثبت اسمها الحالي؛ ويكرّر نادي الوصل الرياضي، الذي تأسس قريباً عام 1960، هذه الرواية في صفحة تاريخه. وهي رواية محلية لا حقيقة موثّقة، لكنها تجعل الكلمة أكبر من مجرد اسم شارع."
-    },
-    refs: [{ label: "Al Wasl Sports Club — Our History", url: "https://www.alwaslsc.ae/history" }]
+      en: "Wasl is the Arabic word for joining what was separate. The road is commonly explained as the link that tied Jumeirah and the coast to the Creek and Deira — and some accounts go further, saying Al Wasl was the name Dubai itself carried before 'Dubai' stuck. That older name is a local tradition rather than a documented fact.",
+      ar: "«الوصل» في العربية ربط ما انفصل. ويُفسَّر اسم الشارع بأنه الرابط الذي شدّ جميرا والساحل إلى الخور وديرة، ويروي بعضهم أن «الوصل» كان اسماً قديماً لدبي نفسها قبل أن يثبت اسمها الحالي. وهي رواية محلية لا حقيقة موثّقة."
+    }
   },
   {
     id: "jumeirah-road",

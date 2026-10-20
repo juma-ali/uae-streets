@@ -160,6 +160,8 @@ authoritative:
 - Ajman — confirm the Sheikh Ammar bin Humaid street naming.
 - Dubai folk etymologies (Al Rigga, Oud Metha, Jumeirah) are intentionally marked
   `local` — keep them that way unless you find a documented source.
+- Al Wasl — "the old name of Dubai" is widely repeated but currently carries no
+  source here. Add a citable one before promoting it from `local` to `documented`.
 - Spelling varies (Al Wasl / Al Wasel); the site notes this, but pick one form
   for each `en` field and stay consistent.
 
