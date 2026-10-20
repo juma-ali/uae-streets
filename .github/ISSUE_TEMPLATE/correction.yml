@@ -1,0 +1,67 @@
+name: Correction
+description: Correct a street name, its meaning, or the story behind it
+title: "[Correction]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## A public, checkable source is required
+
+        Corrections without a source are **closed without action**. We cannot verify
+        "I heard it" or "my family says so", and a guess corrected by another guess
+        makes the guide worse, not better.
+
+        **Good sources:** a book or academic paper, a newspaper archive, a
+        municipality or ministry publication, an official map.
+        **Not sources:** social media posts, unsourced blogs, personal recollection.
+
+        If the explanation really is oral history, say so and name who told you and
+        where. It can be recorded as a *local account* — labelled as such, never
+        presented as fact.
+
+  - type: input
+    id: street
+    attributes:
+      label: Which street?
+      description: The name as it appears on the site — English or Arabic.
+      placeholder: "Al Wasl Road / شارع الوصل"
+    validations:
+      required: true
+
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong?
+      description: Quote the exact text that is incorrect — the name, the meaning, the story, or the emirate.
+      placeholder: The entry says "…" but …
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct
+    attributes:
+      label: What should it say?
+      description: The corrected wording, in whichever language(s) you can write.
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link, or a full citation (author, title, year, page). It must be public and checkable by someone else.
+      placeholder: "https://… or: Author, Title, Publisher, year, page N"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked the entry on the live site, and it is not already correct.
+          required: true
+        - label: My source is public and checkable — not a social media post or personal recollection.
+          required: true
+        - label: I understand that an incomplete report may be closed without action.
+          required: true

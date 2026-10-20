@@ -52,8 +52,9 @@ these volumes; and numbered pagination — worse for browsing than "show more".
 
 - [ ] Add topics: `uae`, `street-names`, `arabic`, `bilingual`, `rtl`, `static-site`.
 - [ ] Paste the live URL into the repo's **Website** field.
-- [ ] Optional: issue forms — `.github/ISSUE_TEMPLATE/correction.yml` and
-      `street.yml` — so correction reports arrive with structured fields.
+- [x] Issue forms added — `.github/ISSUE_TEMPLATE/correction.yml` and `street.yml`.
+      Both make a public source a required field, so an unsourced report cannot be
+      submitted at all.
 
 ## Design
 
