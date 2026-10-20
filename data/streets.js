@@ -72,8 +72,8 @@ window.STREETS = [
     translit: "Shāriʿ al-Murūr",
     meaning: { en: "Traffic", ar: "المرور" },
     story: {
-      en: "Muroor simply means 'traffic', and the road is named for the traffic police headquarters that has long stood on it. Abu Dhabi drivers navigate by their errands rather than by geography: the traffic road, the airport road, the defence road.",
-      ar: "«المرور» اسم على مسمّاه: فإدارة المرور والترخيص في أبوظبي تقع على هذا الشارع، حتى صار الناس يسمّون الطريق بحسب أعمالهم لا بمعالمه — طريق المرور، وطريق المطار، وطريق الدفاع."
+      en: "Muroor simply means 'traffic', and the road is named for the traffic police headquarters that has long stood on it. Abu Dhabi drivers navigate by destination rather than by geography: the traffic road, the airport road, the defence road.",
+      ar: "«المرور» اسم على مسمّاه: فإدارة المرور والترخيص في أبوظبي تقع على هذا الشارع، حتى صار الناس يسمّون الطريق بوجهتهم لا بمعالمه — طريق المرور، وطريق المطار، وطريق الدفاع."
     }
   },
   {
