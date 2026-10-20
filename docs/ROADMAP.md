@@ -41,6 +41,24 @@ these volumes; and numbered pagination — worse for browsing than "show more".
 - [ ] **Al Wasl — find a citable source** for "the old name of Dubai", then promote
       the entry from `local` to `documented`.
 
+## Portraits (deferred 2026-10-20)
+
+Research is done and filed in [PORTRAITS.md](PORTRAITS.md) — candidates, licences,
+the two "wrong person" traps, and the policy (PD/CC0/CC BY only, monogram fallback,
+no AI likenesses, living rulers need permission).
+
+- [ ] **Decide the eight candidates.** The review tool is still in place:
+      open `.review/index.html`, press A / R / S, paste the resulting JSON back.
+- [ ] **Apply approvals:** crop to 480×640, store under `assets/img/people/`, add the
+      `portrait` field with its credit line.
+- [ ] **Add `tools/portrait-check.mjs`** to CI: six required fields, file exists,
+      size under 80 KB.
+- [ ] **Monogram tile** for every entry without a photo — the default, not a fallback
+      that looks broken.
+
+Of the 13 person entries: 3 have verified or likely-usable photos, 2 are living rulers
+awaiting a policy call, 3 have only postage stamps, and 5 cannot have a portrait.
+
 ## Content
 
 - [ ] **Confirm with the municipality:** the official name of Umm Al Quwain's
