@@ -3,6 +3,8 @@
 **A bilingual (Arabic/English) field guide to the names on UAE street signs** — the
 people, tribes, words and events behind them.
 
+**[Open the site →](https://juma-ali.github.io/uae-streets/)**
+
 ![UAE Streets: a search bar, filters by emirate and by naming pattern, and cards showing each street's Arabic and English names](docs/preview.png)
 
 Every road name in the Emirates is a small record. Some honour a ruler or a family;
@@ -89,5 +91,7 @@ Code is MIT; the street entries and stories are CC BY 4.0. See [LICENSE](LICENSE
 
 ## Status
 
-Not deployed yet — the content is still being reviewed. Until then, run it locally as
-described above.
+Live at **[juma-ali.github.io/uae-streets](https://juma-ali.github.io/uae-streets/)**,
+served from this repository by GitHub Pages. The content is still being reviewed —
+corrections are welcome, and the `local` labels mark what is told rather than
+officially recorded.
