@@ -28,6 +28,8 @@ Double-click `index.html`. That's it.
 | `assets/css/styles.css` | Design tokens, layout, dark mode, RTL | you want different colours, type, spacing |
 | `assets/js/app.js` | Search, filters, detail panel, language + theme, URL state | you want new behaviour |
 | `data/streets.js` | **The content.** All 27 streets live here | you add or correct a street |
+| `data/index.js` | Basic index: OSM id, name tags, coordinates (ODbL) | regenerate with `node tools/osm-import.mjs` |
+| `tools/osm-import.mjs` | Builds `data/index.js` from OpenStreetMap | you change the matching rules |
 | `CITATION.cff` | Citation metadata for anyone reusing the dataset | you want your name on it |
 | `LICENSE` | MIT for the code; the content is CC BY 4.0 (see §12) | — |
 | `README.md` | Visitor-facing front page — GitHub renders it | the project's story or feature list changes |
