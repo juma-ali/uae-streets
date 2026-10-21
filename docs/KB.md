@@ -49,16 +49,28 @@ replacing only the scope it was given. Overpass is flaky — see the roadmap.
 
 ## Current coverage
 
-| Area | Streets | Notes |
+| Area | Streets | Districts assigned |
 |---|---|---|
-| Capital and island | 4,559 | Corniche, Hamdan, Khalifa City … |
-| Al Ain | 2,552 | |
-| Liwa / Madinat Zayed | 275 | 1,020 numeric tracks excluded — oasis lanes are mostly numbered |
-| Ruwais | 36 | |
-| Sila | 34 | |
+| Capital and island | 4,559 | 50 |
+| Al Ain | 2,552 | 34 |
+| Liwa / Madinat Zayed | 275 | 2 |
+| Ruwais | 36 | 0 |
+| Sila | 34 | 0 |
 
-**7,679 streets total; 7,644 carry an Arabic name; 2.4 MB.** Khalifa City's 223 rows
-also carry the full four-level path; everything else is emirate level for now.
+**7,665 streets total; 7,408 carry an Arabic name; 2.4 MB.** **86 districts**, and
+7,087 streets (92%) resolve to the full path —
+
+```
+Abu Dhabi Emirate » Abu Dhabi » Abu Dhabi » Khalifa City
+```
+
+**578 streets stay at emirate level**: they fall outside any `admin_level 8` polygon
+(358 in Al Ain's rural outskirts, 169 around the capital, 51 in the west). They are
+kept, not dropped — `area: null` is honest about what we know.
+
+Assignment takes the **tightest containing polygon**, so a street inside both a city
+and a district lands in the district. City names for Al Ain and the Al Dhafra towns
+come from the collection boxes, because OSM has no boundary at that level there.
 
 Coverage is by **populated box**, not by geometry: five rectangles cover the capital
 and island, Al Ain, the Liwa/Madinat Zayed cluster, Ruwais and Sila. Desert between

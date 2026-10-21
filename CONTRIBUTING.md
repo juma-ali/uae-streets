@@ -29,8 +29,10 @@ Double-click `index.html`. That's it.
 | `assets/js/app.js` | Search, filters, detail panel, language + theme, URL state | you want new behaviour |
 | `data/streets.js` | **The content.** All 27 streets live here | you add or correct a street |
 | `data/index.js` | Basic index: OSM id, name tags, coordinates (ODbL) | regenerate with `node tools/osm-import.mjs` |
-| `data/kb.js` | Knowledge base: 7,679 streets, emirate + area + path (ODbL) — rules in `docs/KB.md` | regenerate with `tools/pbf-import.mjs` + `tools/kb-build.mjs` |
+| `data/kb.js` | Knowledge base: 7,665 streets in 86 districts (ODbL) — rules in `docs/KB.md` | regenerate with the three tools below |
 | `tools/pbf-import.mjs` | Reads the UAE extract offline and emits roads for one or more bboxes | the primary collector |
+| `tools/pbf-boundaries.mjs` | Stitches admin boundaries from the PBF into rings | districts are missing or wrong |
+| `tools/kb-districts.mjs` | Assigns each street to its containing boundary, rebuilding `areas` | after collecting a new area |
 | `tools/kb-collect.mjs` | Overpass fallback: collects an area's roads in bbox tiles | when no extract is at hand |
 | `tools/osm-district.mjs` | Lists named streets in a bounding box (cached) | you want a worklist, not a collection |
 | `tools/kb-build.mjs` | Turns a cached collection into `data/kb.js` rows | you add a district |

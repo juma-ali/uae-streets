@@ -182,7 +182,10 @@ function* ways(g, start, end) {
     if (f.field === 1) id = f.value;
     else if (f.field === 2) keys = packed(g.block, f.start, f.end);
     else if (f.field === 3) vals = packed(g.block, f.start, f.end);
-    else if (f.field === 8) refs = packed(g.block, f.start, f.end).map(zigzag);
+    else if (f.field === 8) refs = packed(g.block, f.start, f.end).map(zigzag).reduce((acc, d) => {
+      acc.push((acc.length ? acc[acc.length - 1] : 0) + d);
+      return acc;
+    }, []); // refs are delta-encoded: cumulate to absolute node ids
   }
   const tags = {};
   for (let i = 0; i < keys.length; i++) {
