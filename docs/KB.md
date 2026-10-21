@@ -49,25 +49,36 @@ replacing only the scope it was given. Overpass is flaky — see the roadmap.
 
 ## Current coverage
 
-| Scope | Streets | Status |
+| Area | Streets | Notes |
 |---|---|---|
-| Abu Dhabi » Khalifa City | 223 | complete for the district |
-| Abu Dhabi city (emirate level) | 5,354 | city bbox incl. the island; Al Ain and Al Dhafra outside it |
+| Capital and island | 4,559 | Corniche, Hamdan, Khalifa City … |
+| Al Ain | 2,552 | |
+| Liwa / Madinat Zayed | 275 | 1,020 numeric tracks excluded — oasis lanes are mostly numbered |
+| Ruwais | 36 | |
+| Sila | 34 | |
 
-**5,577 streets total; 5,567 carry an Arabic name.** Collected from the full UAE
-extract rather than Overpass — one 84 MB download, parsed in about 8 seconds, with
-no tiles and no 504s.
+**7,679 streets total; 7,644 carry an Arabic name; 2.4 MB.** Khalifa City's 223 rows
+also carry the full four-level path; everything else is emirate level for now.
+
+Coverage is by **populated box**, not by geometry: five rectangles cover the capital
+and island, Al Ain, the Liwa/Madinat Zayed cluster, Ruwais and Sila. Desert between
+them is excluded by design — there are no streets there to lose.
+
+1,658 numeric-only ways were excluded (339 in the capital, 246 in Al Ain, 1,020 in
+Liwa). The two cities run about 2% numeric; Liwa runs 38%, because oasis tracks are
+numbered rather than named.
 
 ## Collection: PBF, not Overpass
 
 ```bash
-node tools/pbf-import.mjs --name abu-dhabi-city --bbox 24.26,54.30,24.56,54.78
-node tools/kb-build.mjs   --emirate abu-dhabi-city --bbox 24.26,54.30,24.56,54.78 --note "…"
+node tools/pbf-import.mjs --name abu-dhabi --bbox "24.26,54.30,24.56,54.78;24.10,55.55,24.35,55.90;…"
+node tools/kb-build.mjs   --emirate abu-dhabi --bbox "…" --note "…"
 ```
 
 `pbf-import` downloads the UAE extract once (`.cache/`, gitignored), then walks it
-twice: named highways first, their node coordinates second. It writes the same JSON
-shape the Overpass collector produced, so `kb-build` is unchanged.
+twice: named highways first, their node coordinates second. `--bbox` takes several
+boxes separated by `;`, because an emirate is rarely one rectangle. It writes the same
+JSON shape the Overpass collector produced, so `kb-build` is unchanged.
 
 Overpass remains available (`kb-collect`, `osm-district`) for one-off lookups, but
 it is not the primary source any more: it 504s under load and silently returns

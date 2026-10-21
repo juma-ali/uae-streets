@@ -174,10 +174,17 @@ if (mode === "area") {
   const deduped = streets.filter((s) => !known.has(s.osm));
   const duplicates = streets.length - deduped.length;
 
+  // An emirate may be covered by several boxes (Al Ain and the Al Dhafra towns
+  // sit far from the capital), so keep them as a list when there is more than one.
+  const boxes = bbox
+    ? bbox.split(";").map((b) => b.split(",").map(Number)).filter((b) => b.length === 4)
+    : [];
+
   const rec = {
     id: emirateId,
     osm: osmRef || "",
-    bbox: bbox ? bbox.split(",").map(Number) : null,
+    bbox: boxes.length === 1 ? boxes[0] : null,
+    bboxes: boxes.length > 1 ? boxes : undefined,
     street_count: deduped.length,
     note: coverageNote || "Collected at emirate level; district assignment is a later step.",
   };

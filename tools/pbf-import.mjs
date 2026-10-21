@@ -26,12 +26,19 @@ const arg = (name, fallback) => {
 };
 const bboxArg = arg("--bbox", "");
 const name = arg("--name", "");
-const bb = bboxArg.split(",").map(Number);
-if (!name || bb.length !== 4 || bb.some((n) => !Number.isFinite(n))) {
-  console.error('Usage: node tools/pbf-import.mjs --name abu-dhabi-city --bbox s,w,n,e');
+// One or more boxes, separated by ";" — an emirate is rarely one rectangle
+// (Al Ain and the Al Dhafra towns sit far apart).
+const boxes = bboxArg.split(";").map((s) => s.split(",").map(Number));
+if (
+  !name ||
+  !boxes.length ||
+  boxes.some((b) => b.length !== 4 || b.some((n) => !Number.isFinite(n)))
+) {
+  console.error('Usage: node tools/pbf-import.mjs --name abu-dhabi --bbox "s,w,n,e[;s,w,n,e…]"');
   process.exit(2);
 }
-const [south, west, north, east] = bb;
+const insideAny = (lat, lon) =>
+  boxes.some(([s, w, n, e]) => lat >= s && lat <= n && lon >= w && lon <= e);
 
 const root = fileURLToPath(new URL("..", import.meta.url));
 const cacheDir = root + ".cache";
@@ -275,7 +282,7 @@ function wanted(tags) {
     }
     if (!n) { noCoord++; continue; }
     lat /= n; lon /= n;
-    if (lat < south || lat > north || lon < west || lon > east) { outside++; continue; }
+    if (!insideAny(lat, lon)) { outside++; continue; }
     elements.push({ id: w.id, tags: w.tags, center: { lat: Number(lat.toFixed(6)), lon: Number(lon.toFixed(6)) } });
   }
 
