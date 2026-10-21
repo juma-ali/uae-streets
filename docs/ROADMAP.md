@@ -59,6 +59,24 @@ no AI likenesses, living rulers need permission).
 Of the 13 person entries: 3 have verified or likely-usable photos, 2 are living rulers
 awaiting a policy call, 3 have only postage stamps, and 5 cannot have a portrait.
 
+## Knowledge base (in progress)
+
+Streets are collected district by district, each row resolving to
+`Emirate » City » Area » District`. OSM-derived, ODbL, never loaded by the site.
+
+- [x] **Khalifa City** (Abu Dhabi Emirate » Abu Dhabi » Abu Dhabi » Khalifa City) —
+      272 streets, 271 with Arabic names, all with coordinates, 76 KB.
+- [ ] **Next districts** — choose by whether names carry stories: Al Danah and
+      Al Markaziyah (Abu Dhabi), Al Qasimia (Sharjah), Jumeirah and Al Rigga (Dubai).
+- [ ] **Fold `data/index.js` into `data/kb.js`** once the KB covers those areas, so
+      there is one facts file rather than two.
+- [ ] **District notes** — the 237 word-named streets in Khalifa City are a naming
+      scheme (virtues, nature, heritage), not 237 separate stories. One district page
+      says more than 237 thin entries.
+
+Budget note: ~76 KB per district, so twenty districts ≈ 1.5 MB. Fine as a data file;
+it must stay out of the page bundle (see Performance, Stage 2).
+
 ## Content
 
 - [x] **OSM name differences — reviewed, no change.** Both forms are correct

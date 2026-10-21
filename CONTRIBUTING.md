@@ -29,6 +29,9 @@ Double-click `index.html`. That's it.
 | `assets/js/app.js` | Search, filters, detail panel, language + theme, URL state | you want new behaviour |
 | `data/streets.js` | **The content.** All 27 streets live here | you add or correct a street |
 | `data/index.js` | Basic index: OSM id, name tags, coordinates (ODbL) | regenerate with `node tools/osm-import.mjs` |
+| `data/kb.js` | Knowledge base: areas + streets, four-level path (ODbL) | regenerate with `node tools/kb-build.mjs` |
+| `tools/osm-district.mjs` | Lists named streets in a bounding box (cached) | you add a district |
+| `tools/kb-build.mjs` | Turns a cached district into `data/kb.js` rows | you add a district |
 | `tools/osm-import.mjs` | Builds `data/index.js` from OpenStreetMap | you change the matching rules |
 | `CITATION.cff` | Citation metadata for anyone reusing the dataset | you want your name on it |
 | `LICENSE` | MIT for the code; the content is CC BY 4.0 (see §12) | — |
