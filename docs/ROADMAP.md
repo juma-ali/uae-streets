@@ -63,19 +63,27 @@ awaiting a policy call, 3 have only postage stamps, and 5 cannot have a portrait
 
 Streets are collected district by district, each row resolving to
 `Emirate » City » Area » District`. OSM-derived, ODbL, never loaded by the site.
+Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 
-- [x] **Khalifa City** (Abu Dhabi Emirate » Abu Dhabi » Abu Dhabi » Khalifa City) —
-      272 streets, 271 with Arabic names, all with coordinates, 76 KB.
-- [ ] **Next districts** — choose by whether names carry stories: Al Danah and
-      Al Markaziyah (Abu Dhabi), Al Qasimia (Sharjah), Jumeirah and Al Rigga (Dubai).
+**Current: 3,603 streets, 3,599 with Arabic names, 1.1 MB.**
+
+- [x] **Khalifa City** — 269 streets after the numeric filter, full four-level path.
+- [x] **Abu Dhabi city (partial)** — 3,334 streets, emirate level, no district
+      assignment yet. **Coverage is the southern half only** (Mussafah side); the
+      island and northern districts are missing because Overpass returned empty
+      tiles and then 504'd. Recorded in the KB's own `note` field.
+- [ ] **Re-collect the island** — `--bbox 24.40,54.28,24.56,54.78` when Overpass is
+      responsive, then re-run `kb-build --emirate abu-dhabi-city`.
+- [ ] **Al Ain and Al Dhafra** — the other two population centres of the emirate.
+- [ ] **Assign districts** — the emirate-level rows need point-in-polygon against
+      district boundaries. Overpass returns boundary *segments*, not closed rings,
+      so the stitching has to be written first.
 - [ ] **Fold `data/index.js` into `data/kb.js`** once the KB covers those areas, so
       there is one facts file rather than two.
-- [ ] **District notes** — the 237 word-named streets in Khalifa City are a naming
-      scheme (virtues, nature, heritage), not 237 separate stories. One district page
-      says more than 237 thin entries.
 
-Budget note: ~76 KB per district, so twenty districts ≈ 1.5 MB. Fine as a data file;
-it must stay out of the page bundle (see Performance, Stage 2).
+Lessons already paid for: an area-wide query is too heavy (tile it), a bbox query on
+dense ground takes minutes, and Overpass at peak simply returns empty tiles rather
+than an error — so a "0 ways" tile must be re-checked, never trusted.
 
 ## Content
 
