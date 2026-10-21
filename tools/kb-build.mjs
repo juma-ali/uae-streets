@@ -89,33 +89,51 @@ const numericOnly = (en, ar) => {
   return words(en).length === 0 && words(ar).length === 0;
 };
 
+/* "Al Aqhuwanah 4 Street" is a segment of Al Aqhuwanah Street, not a street of its
+   own — the number marks the stretch, not the name. Strip a trailing variant number
+   so the numbered runs collapse into one row. */
+const baseName = (s) =>
+  String(s || "")
+    .replace(/\s+\d+[a-z]?\s*(street|road)\s*$/i, " $1") // "X 4 Street" → "X Street"
+    .replace(/\s+\d+[a-z]?\s*$/i, "") // "X 4" / "شارع X 4" → "X"
+    .trim();
+
 const byName = new Map();
 let skippedNumeric = 0;
+let mergedVariants = 0;
 for (const el of raw.elements || []) {
   const t = el.tags || {};
-  const en = t["name:en"] || t.name || "";
-  const ar = t["name:ar"] || "";
-  if (!en && !ar) continue;
-  if (numericOnly(en, ar)) {
+  const rawEn = t["name:en"] || t.name || "";
+  const rawAr = t["name:ar"] || "";
+  if (!rawEn && !rawAr) continue;
+  if (numericOnly(rawEn, rawAr)) {
     skippedNumeric++;
     continue;
   }
+  const en = baseName(rawEn);
+  const ar = baseName(rawAr);
   const key = (en || ar).toLowerCase();
   const prev = byName.get(key);
-  if (!prev || (!prev.name_ar && ar)) {
-    const scope = mode === "area" ? areaId : emirateId;
-    byName.set(key, {
-      id: scope + "/" + slug(en || ar),
-      area: mode === "area" ? areaId : null,
-      emirate: mode === "emirate" ? emirateId : null,
-      name_en: en || ar,
-      name_ar: ar,
-      osm: "way/" + el.id,
-      kind: t.highway || "",
-      lat: el.center ? Number(el.center.lat.toFixed(6)) : null,
-      lon: el.center ? Number(el.center.lon.toFixed(6)) : null,
-    });
+  if (prev) {
+    // Count only rows that were actually merged *because* they carried a variant
+    // number — not the many ways that share one name.
+    if (rawEn !== en || rawAr !== ar) prev.variants = (prev.variants || 1) + 1;
+    if (!prev.name_ar && ar) prev.name_ar = ar;
+    continue;
   }
+  const scope = mode === "area" ? areaId : emirateId;
+  byName.set(key, {
+    id: scope + "/" + slug(en || ar),
+    area: mode === "area" ? areaId : null,
+    emirate: mode === "emirate" ? emirateId : null,
+    name_en: en || ar,
+    name_ar: ar,
+    osm: "way/" + el.id,
+    kind: t.highway || "",
+    lat: el.center ? Number(el.center.lat.toFixed(6)) : null,
+    lon: el.center ? Number(el.center.lon.toFixed(6)) : null,
+    variants: 1,
+  });
 }
 const streets = [...byName.values()];
 

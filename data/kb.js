@@ -25,7 +25,7 @@ window.KB = {
         24.4496,
         54.6422
       ],
-      "street_count": 269
+      "street_count": 223
     }
   ],
   "streets": [
@@ -38,7 +38,8 @@ window.KB = {
       "osm": "way/820507429",
       "kind": "residential",
       "lat": 24.387091,
-      "lon": 54.620426
+      "lon": 54.620426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aliyah-street",
@@ -49,7 +50,8 @@ window.KB = {
       "osm": "way/635403255",
       "kind": "residential",
       "lat": 24.336542,
-      "lon": 54.782058
+      "lon": 54.782058,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aqabat-al-ashkharah-street",
@@ -60,7 +62,8 @@ window.KB = {
       "osm": "way/1346119981",
       "kind": "residential",
       "lat": 24.269721,
-      "lon": 54.670858
+      "lon": 54.670858,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aqabat-al-fay-street",
@@ -71,7 +74,8 @@ window.KB = {
       "osm": "way/91675961",
       "kind": "residential",
       "lat": 24.344462,
-      "lon": 54.553316
+      "lon": 54.553316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aqdat-al-mtaw-ah-street",
@@ -82,7 +86,8 @@ window.KB = {
       "osm": "way/85680613",
       "kind": "residential",
       "lat": 24.352421,
-      "lon": 54.556324
+      "lon": 54.556324,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-ad-daray-street",
@@ -93,7 +98,8 @@ window.KB = {
       "osm": "way/119551945",
       "kind": "residential",
       "lat": 24.392844,
-      "lon": 54.699275
+      "lon": 54.699275,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-al-iqaydat-street",
@@ -104,7 +110,8 @@ window.KB = {
       "osm": "way/115721306",
       "kind": "residential",
       "lat": 24.303898,
-      "lon": 54.647873
+      "lon": 54.647873,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-al-ouhah-street",
@@ -115,7 +122,8 @@ window.KB = {
       "osm": "way/974463480",
       "kind": "residential",
       "lat": 24.349053,
-      "lon": 54.604005
+      "lon": 54.604005,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-al-faw-street",
@@ -126,7 +134,8 @@ window.KB = {
       "osm": "way/235147609",
       "kind": "residential",
       "lat": 24.346684,
-      "lon": 54.697766
+      "lon": 54.697766,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-al-mandharah-street",
@@ -137,7 +146,8 @@ window.KB = {
       "osm": "way/91675955",
       "kind": "residential",
       "lat": 24.344947,
-      "lon": 54.561295
+      "lon": 54.561295,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-al-quwayid-street",
@@ -148,7 +158,8 @@ window.KB = {
       "osm": "way/116691034",
       "kind": "residential",
       "lat": 24.294063,
-      "lon": 54.635323
+      "lon": 54.635323,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-ar-radah-street",
@@ -159,7 +170,8 @@ window.KB = {
       "osm": "way/637317267",
       "kind": "residential",
       "lat": 24.306571,
-      "lon": 54.624004
+      "lon": 54.624004,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-ar-riqaybah-street",
@@ -170,7 +182,8 @@ window.KB = {
       "osm": "way/119551931",
       "kind": "residential",
       "lat": 24.394808,
-      "lon": 54.70171
+      "lon": 54.70171,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-as-siba-street",
@@ -181,7 +194,8 @@ window.KB = {
       "osm": "way/115726594",
       "kind": "residential",
       "lat": 24.305741,
-      "lon": 54.650187
+      "lon": 54.650187,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-as-sidayrah-street",
@@ -192,7 +206,8 @@ window.KB = {
       "osm": "way/94055554",
       "kind": "residential",
       "lat": 24.398439,
-      "lon": 54.658035
+      "lon": 54.658035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-at-tiyouh-street",
@@ -203,7 +218,8 @@ window.KB = {
       "osm": "way/1351812929",
       "kind": "residential",
       "lat": 24.278443,
-      "lon": 54.680534
+      "lon": 54.680534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-az-zour-street",
@@ -214,7 +230,8 @@ window.KB = {
       "osm": "way/115733322",
       "kind": "residential",
       "lat": 24.375601,
-      "lon": 54.664518
+      "lon": 54.664518,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-ghummad-street",
@@ -225,7 +242,8 @@ window.KB = {
       "osm": "way/235121467",
       "kind": "residential",
       "lat": 24.357454,
-      "lon": 54.698226
+      "lon": 54.698226,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-maraqqabat-street",
@@ -236,7 +254,8 @@ window.KB = {
       "osm": "way/1351812911",
       "kind": "residential",
       "lat": 24.277791,
-      "lon": 54.683965
+      "lon": 54.683965,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-midisees-street",
@@ -247,7 +266,8 @@ window.KB = {
       "osm": "way/635438721",
       "kind": "residential",
       "lat": 24.309596,
-      "lon": 54.589235
+      "lon": 54.589235,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-muwayzah-street",
@@ -258,7 +278,8 @@ window.KB = {
       "osm": "way/974606613",
       "kind": "residential",
       "lat": 24.407759,
-      "lon": 54.702738
+      "lon": 54.702738,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-qata-street",
@@ -269,7 +290,8 @@ window.KB = {
       "osm": "way/178947426",
       "kind": "residential",
       "lat": 24.27455,
-      "lon": 54.646301
+      "lon": 54.646301,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-saba-street",
@@ -280,7 +302,8 @@ window.KB = {
       "osm": "way/635438617",
       "kind": "residential",
       "lat": 24.324147,
-      "lon": 54.583709
+      "lon": 54.583709,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-shamma-street",
@@ -291,7 +314,8 @@ window.KB = {
       "osm": "way/54200935",
       "kind": "residential",
       "lat": 24.343985,
-      "lon": 54.627461
+      "lon": 54.627461,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-shideed-street",
@@ -302,7 +326,8 @@ window.KB = {
       "osm": "way/54201195",
       "kind": "residential",
       "lat": 24.369882,
-      "lon": 54.644035
+      "lon": 54.644035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arqoub-thuraya-street",
@@ -313,7 +338,8 @@ window.KB = {
       "osm": "way/94055570",
       "kind": "residential",
       "lat": 24.384431,
-      "lon": 54.648421
+      "lon": 54.648421,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/asharij-street",
@@ -324,7 +350,8 @@ window.KB = {
       "osm": "way/819496848",
       "kind": "residential",
       "lat": 24.378093,
-      "lon": 54.63497
+      "lon": 54.63497,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/awayin-al-biday-street",
@@ -335,7 +362,8 @@ window.KB = {
       "osm": "way/372767684",
       "kind": "residential",
       "lat": 24.364205,
-      "lon": 54.552125
+      "lon": 54.552125,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/awayin-al-faqi-street",
@@ -346,7 +374,8 @@ window.KB = {
       "osm": "way/177637682",
       "kind": "residential",
       "lat": 24.27785,
-      "lon": 54.692798
+      "lon": 54.692798,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/awayin-al-filay-street",
@@ -357,7 +386,8 @@ window.KB = {
       "osm": "way/635057857",
       "kind": "residential",
       "lat": 24.287996,
-      "lon": 54.629407
+      "lon": 54.629407,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/awidan-makhraz-street",
@@ -368,7 +398,8 @@ window.KB = {
       "osm": "way/820507511",
       "kind": "unclassified",
       "lat": 24.365247,
-      "lon": 54.602832
+      "lon": 54.602832,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/eedan-al-jarih-street",
@@ -379,7 +410,8 @@ window.KB = {
       "osm": "way/235147602",
       "kind": "residential",
       "lat": 24.353096,
-      "lon": 54.700553
+      "lon": 54.700553,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/eedan-ar-raddah-street",
@@ -390,7 +422,8 @@ window.KB = {
       "osm": "way/235124806",
       "kind": "residential",
       "lat": 24.358331,
-      "lon": 54.7089
+      "lon": 54.7089,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/iqdat-al-amriyah-street",
@@ -401,7 +434,8 @@ window.KB = {
       "osm": "way/92007300",
       "kind": "residential",
       "lat": 24.331879,
-      "lon": 54.565153
+      "lon": 54.565153,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/iqlat-rashid-street",
@@ -412,7 +446,8 @@ window.KB = {
       "osm": "way/820507515",
       "kind": "residential",
       "lat": 24.360221,
-      "lon": 54.599737
+      "lon": 54.599737,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-ad-deemah-street",
@@ -423,7 +458,8 @@ window.KB = {
       "osm": "way/91675971",
       "kind": "residential",
       "lat": 24.340797,
-      "lon": 54.565996
+      "lon": 54.565996,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-iwayd-street",
@@ -434,7 +470,8 @@ window.KB = {
       "osm": "way/474920684",
       "kind": "residential",
       "lat": 24.298472,
-      "lon": 54.569857
+      "lon": 54.569857,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-aslab-street",
@@ -445,7 +482,8 @@ window.KB = {
       "osm": "way/974606652",
       "kind": "residential",
       "lat": 24.406908,
-      "lon": 54.708319
+      "lon": 54.708319,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-ghatfah-street",
@@ -456,7 +494,8 @@ window.KB = {
       "osm": "way/974445544",
       "kind": "residential",
       "lat": 24.369933,
-      "lon": 54.594998
+      "lon": 54.594998,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-ghirreera-street",
@@ -467,7 +506,8 @@ window.KB = {
       "osm": "way/177637741",
       "kind": "residential",
       "lat": 24.264547,
-      "lon": 54.699783
+      "lon": 54.699783,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-hamd-street",
@@ -478,7 +518,8 @@ window.KB = {
       "osm": "way/91676414",
       "kind": "residential",
       "lat": 24.341407,
-      "lon": 54.56026
+      "lon": 54.56026,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-hayal-street",
@@ -489,7 +530,8 @@ window.KB = {
       "osm": "way/112455248",
       "kind": "residential",
       "lat": 24.38703,
-      "lon": 54.73193
+      "lon": 54.73193,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-hilayw-street",
@@ -500,7 +542,8 @@ window.KB = {
       "osm": "way/235147607",
       "kind": "residential",
       "lat": 24.351139,
-      "lon": 54.703166
+      "lon": 54.703166,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-huquf-street",
@@ -511,7 +554,8 @@ window.KB = {
       "osm": "way/818886408",
       "kind": "residential",
       "lat": 24.379079,
-      "lon": 54.673104
+      "lon": 54.673104,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-matla-iyat-street",
@@ -522,7 +566,8 @@ window.KB = {
       "osm": "way/116691903",
       "kind": "residential",
       "lat": 24.343253,
-      "lon": 54.531619
+      "lon": 54.531619,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-meraimeeth-street",
@@ -533,7 +578,8 @@ window.KB = {
       "osm": "way/396111548",
       "kind": "residential",
       "lat": 24.384791,
-      "lon": 54.537646
+      "lon": 54.537646,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-mihawi-street",
@@ -544,7 +590,8 @@ window.KB = {
       "osm": "way/247048136",
       "kind": "residential",
       "lat": 24.325554,
-      "lon": 54.531139
+      "lon": 54.531139,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-qirayah-street",
@@ -555,7 +602,8 @@ window.KB = {
       "osm": "way/820507550",
       "kind": "residential",
       "lat": 24.373759,
-      "lon": 54.597287
+      "lon": 54.597287,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-al-yiwayriyah-street",
@@ -566,7 +614,8 @@ window.KB = {
       "osm": "way/118783451",
       "kind": "residential",
       "lat": 24.398041,
-      "lon": 54.739844
+      "lon": 54.739844,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-ar-rams-street",
@@ -577,7 +626,8 @@ window.KB = {
       "osm": "way/173181683",
       "kind": "residential",
       "lat": 24.315776,
-      "lon": 54.548823
+      "lon": 54.548823,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-as-sidayrah-street",
@@ -588,7 +638,8 @@ window.KB = {
       "osm": "way/235148598",
       "kind": "residential",
       "lat": 24.364765,
-      "lon": 54.69737
+      "lon": 54.69737,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-as-simayh-street",
@@ -599,7 +650,8 @@ window.KB = {
       "osm": "way/116691008",
       "kind": "residential",
       "lat": 24.292205,
-      "lon": 54.628454
+      "lon": 54.628454,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-ath-thiwaymah-street",
@@ -610,7 +662,8 @@ window.KB = {
       "osm": "way/235124833",
       "kind": "residential",
       "lat": 24.36499,
-      "lon": 54.706943
+      "lon": 54.706943,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-az-zahr-street",
@@ -621,7 +674,8 @@ window.KB = {
       "osm": "way/474712095",
       "kind": "residential",
       "lat": 24.33244,
-      "lon": 54.577384
+      "lon": 54.577384,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-bu-ish-street",
@@ -632,7 +686,8 @@ window.KB = {
       "osm": "way/173391001",
       "kind": "residential",
       "lat": 24.316224,
-      "lon": 54.570837
+      "lon": 54.570837,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-bu-nkhaylah-street",
@@ -643,7 +698,8 @@ window.KB = {
       "osm": "way/91675959",
       "kind": "residential",
       "lat": 24.339607,
-      "lon": 54.566818
+      "lon": 54.566818,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-silayslah-street",
@@ -654,7 +710,8 @@ window.KB = {
       "osm": "way/818882073",
       "kind": "residential",
       "lat": 24.36307,
-      "lon": 54.667248
+      "lon": 54.667248,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/irq-watheeq-street",
@@ -665,7 +722,8 @@ window.KB = {
       "osm": "way/820507516",
       "kind": "residential",
       "lat": 24.361771,
-      "lon": 54.60151
+      "lon": 54.60151,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/isam-street",
@@ -676,7 +734,8 @@ window.KB = {
       "osm": "way/475192989",
       "kind": "residential",
       "lat": 24.287109,
-      "lon": 54.636744
+      "lon": 54.636744,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ish-an-nasr-street",
@@ -687,7 +746,8 @@ window.KB = {
       "osm": "way/473385210",
       "kind": "residential",
       "lat": 24.313445,
-      "lon": 54.536134
+      "lon": 54.536134,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-ad-darari-street",
@@ -698,7 +758,8 @@ window.KB = {
       "osm": "way/246999852",
       "kind": "residential",
       "lat": 24.296879,
-      "lon": 54.65647
+      "lon": 54.65647,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-al-hazm-street",
@@ -709,7 +770,8 @@ window.KB = {
       "osm": "way/1119601598",
       "kind": "residential",
       "lat": 24.388074,
-      "lon": 54.650605
+      "lon": 54.650605,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-al-hisan-street",
@@ -720,7 +782,8 @@ window.KB = {
       "osm": "way/173226837",
       "kind": "residential",
       "lat": 24.313797,
-      "lon": 54.554221
+      "lon": 54.554221,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-al-mahab-street",
@@ -731,7 +794,8 @@ window.KB = {
       "osm": "way/54202612",
       "kind": "residential",
       "lat": 24.376408,
-      "lon": 54.635075
+      "lon": 54.635075,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-al-yidad-street",
@@ -742,7 +806,8 @@ window.KB = {
       "osm": "way/115726573",
       "kind": "residential",
       "lat": 24.305756,
-      "lon": 54.651274
+      "lon": 54.651274,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-ar-raddah-street",
@@ -753,7 +818,8 @@ window.KB = {
       "osm": "way/161842247",
       "kind": "residential",
       "lat": 24.32363,
-      "lon": 54.53163
+      "lon": 54.53163,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-bin-saqhan-street",
@@ -764,7 +830,8 @@ window.KB = {
       "osm": "way/821077754",
       "kind": "residential",
       "lat": 24.382512,
-      "lon": 54.616195
+      "lon": 54.616195,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/oud-tahnoun-street",
@@ -775,7 +842,8 @@ window.KB = {
       "osm": "way/178947396",
       "kind": "residential",
       "lat": 24.276075,
-      "lon": 54.645505
+      "lon": 54.645505,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qibat-al-fayah-street",
@@ -786,7 +854,8 @@ window.KB = {
       "osm": "way/307145340",
       "kind": "residential",
       "lat": 24.274892,
-      "lon": 54.663477
+      "lon": 54.663477,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/uqdat-al-muwaij-i-street",
@@ -797,7 +866,8 @@ window.KB = {
       "osm": "way/248481440",
       "kind": "residential",
       "lat": 24.364436,
-      "lon": 54.686204
+      "lon": 54.686204,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/uqdat-al-qisad-street",
@@ -808,7 +878,8 @@ window.KB = {
       "osm": "way/974606614",
       "kind": "residential",
       "lat": 24.408503,
-      "lon": 54.703793
+      "lon": 54.703793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aban-bin-uthman-street",
@@ -819,7 +890,8 @@ window.KB = {
       "osm": "way/173398901",
       "kind": "residential",
       "lat": 24.30242,
-      "lon": 54.576066
+      "lon": 54.576066,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abd-al-as-hal-iyas-bin-aws-street",
@@ -830,7 +902,8 @@ window.KB = {
       "osm": "way/475193238",
       "kind": "residential",
       "lat": 24.283675,
-      "lon": 54.646566
+      "lon": 54.646566,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdulhadi-bin-shaaban-al-mansouri-street",
@@ -841,7 +914,8 @@ window.KB = {
       "osm": "way/818566874",
       "kind": "residential",
       "lat": 24.381719,
-      "lon": 54.673107
+      "lon": 54.673107,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdulhameed-sultan-al-hammadi-street",
@@ -852,7 +926,8 @@ window.KB = {
       "osm": "way/93177766",
       "kind": "residential",
       "lat": 24.397837,
-      "lon": 54.649603
+      "lon": 54.649603,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bilhoul-al-suwaidi-street",
@@ -863,7 +938,8 @@ window.KB = {
       "osm": "way/54202569",
       "kind": "tertiary",
       "lat": 24.38917,
-      "lon": 54.654649
+      "lon": 54.654649,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bin-hajash-street",
@@ -874,7 +950,8 @@ window.KB = {
       "osm": "way/116451495",
       "kind": "residential",
       "lat": 24.343153,
-      "lon": 54.64389
+      "lon": 54.64389,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bin-hatha-al-marar-street",
@@ -885,7 +962,8 @@ window.KB = {
       "osm": "way/27274539",
       "kind": "residential",
       "lat": 24.409011,
-      "lon": 54.738813
+      "lon": 54.738813,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bin-jubayr-street",
@@ -896,7 +974,8 @@ window.KB = {
       "osm": "way/821077753",
       "kind": "residential",
       "lat": 24.382944,
-      "lon": 54.613106
+      "lon": 54.613106,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bin-kenaish-al-hameli-street",
@@ -907,7 +986,8 @@ window.KB = {
       "osm": "way/95630441",
       "kind": "residential",
       "lat": 24.407021,
-      "lon": 54.754359
+      "lon": 54.754359,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bin-omar-street",
@@ -918,7 +998,8 @@ window.KB = {
       "osm": "way/627829938",
       "kind": "residential",
       "lat": 24.375052,
-      "lon": 54.608076
+      "lon": 54.608076,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bin-rawahah-street",
@@ -929,7 +1010,8 @@ window.KB = {
       "osm": "way/306671013",
       "kind": "tertiary",
       "lat": 24.327883,
-      "lon": 54.740536
+      "lon": 54.740536,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-bin-thabit-street",
@@ -940,7 +1022,8 @@ window.KB = {
       "osm": "way/173184956",
       "kind": "residential",
       "lat": 24.32179,
-      "lon": 54.557785
+      "lon": 54.557785,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdullah-ibn-al-habeet-street",
@@ -951,7 +1034,8 @@ window.KB = {
       "osm": "way/116429238",
       "kind": "residential",
       "lat": 24.310684,
-      "lon": 54.636381
+      "lon": 54.636381,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdulraheem-bin-taj-al-din-al-hashemi-street",
@@ -962,7 +1046,8 @@ window.KB = {
       "osm": "way/115720832",
       "kind": "tertiary",
       "lat": 24.301711,
-      "lon": 54.657973
+      "lon": 54.657973,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdulrahman-alneedi-al-qubaisi-street",
@@ -973,7 +1058,8 @@ window.KB = {
       "osm": "way/173013874",
       "kind": "tertiary",
       "lat": 24.36373,
-      "lon": 54.542424
+      "lon": 54.542424,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdulrahman-bin-awf-street",
@@ -984,7 +1070,8 @@ window.KB = {
       "osm": "way/475192983",
       "kind": "residential",
       "lat": 24.28696,
-      "lon": 54.643368
+      "lon": 54.643368,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdulrahman-bin-al-habeet-street",
@@ -995,7 +1082,8 @@ window.KB = {
       "osm": "way/118783454",
       "kind": "residential",
       "lat": 24.398494,
-      "lon": 54.736317
+      "lon": 54.736317,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abdulrahman-bin-ali-al-mubarak-street",
@@ -1006,7 +1094,8 @@ window.KB = {
       "osm": "way/54202576",
       "kind": "tertiary",
       "lat": 24.397596,
-      "lon": 54.660146
+      "lon": 54.660146,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-ad-dulou-street",
@@ -1017,7 +1106,8 @@ window.KB = {
       "osm": "way/24257412",
       "kind": "residential",
       "lat": 24.410386,
-      "lon": 54.469218
+      "lon": 54.469218,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-al-aliyah-al-basri-street",
@@ -1028,7 +1118,8 @@ window.KB = {
       "osm": "way/119551941",
       "kind": "residential",
       "lat": 24.391828,
-      "lon": 54.697883
+      "lon": 54.697883,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-al-aswad-ad-du-ali-street",
@@ -1039,51 +1130,20 @@ window.KB = {
       "osm": "way/1120999385",
       "kind": "residential",
       "lat": 24.337283,
-      "lon": 54.531015
+      "lon": 54.531015,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/abu-al-hinna-a-1-street",
+      "id": "abu-dhabi-city/abu-al-hinna-a-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Abu Al Hinna-a 1 Street",
-      "name_ar": "شارع أبو الحِنَّاء 1",
+      "name_en": "Abu Al Hinna-a Street",
+      "name_ar": "شارع أبو الحِنَّاء",
       "osm": "way/24337838",
       "kind": "unclassified",
       "lat": 24.372076,
-      "lon": 54.506104
-    },
-    {
-      "id": "abu-dhabi-city/abu-al-hinna-a-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Abu Al Hinna-a 3 Street",
-      "name_ar": "شارع أبو الحِنَّاء 3",
-      "osm": "way/24337847",
-      "kind": "unclassified",
-      "lat": 24.370818,
-      "lon": 54.506173
-    },
-    {
-      "id": "abu-dhabi-city/abu-al-hinna-a-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Abu Al Hinna-a 4 Street",
-      "name_ar": "شارع أبو الحِنَّاء 4",
-      "osm": "way/24337848",
-      "kind": "unclassified",
-      "lat": 24.370876,
-      "lon": 54.508341
-    },
-    {
-      "id": "abu-dhabi-city/abu-al-hinna-a-7-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Abu Al Hinna-a 7 Street",
-      "name_ar": "شارع أبو الحِنَّاء 7",
-      "osm": "way/24337839",
-      "kind": "unclassified",
-      "lat": 24.3695,
-      "lon": 54.506173
+      "lon": 54.506104,
+      "variants": 12
     },
     {
       "id": "abu-dhabi-city/abu-al-yasir-street",
@@ -1094,7 +1154,8 @@ window.KB = {
       "osm": "way/448037679",
       "kind": "residential",
       "lat": 24.357608,
-      "lon": 54.73963
+      "lon": 54.73963,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-ayoub-al-ansari-street",
@@ -1105,7 +1166,8 @@ window.KB = {
       "osm": "way/173177355",
       "kind": "residential",
       "lat": 24.320671,
-      "lon": 54.530912
+      "lon": 54.530912,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-bakr-bin-al-munkadir-street",
@@ -1116,7 +1178,8 @@ window.KB = {
       "osm": "way/121648415",
       "kind": "residential",
       "lat": 24.379078,
-      "lon": 54.70483
+      "lon": 54.70483,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-dhar-al-ghifari-street",
@@ -1127,7 +1190,8 @@ window.KB = {
       "osm": "way/247044147",
       "kind": "residential",
       "lat": 24.334139,
-      "lon": 54.537477
+      "lon": 54.537477,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-firas-al-hamadani-street",
@@ -1138,7 +1202,8 @@ window.KB = {
       "osm": "way/248467843",
       "kind": "residential",
       "lat": 24.339639,
-      "lon": 54.743295
+      "lon": 54.743295,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-fraydah-street",
@@ -1149,7 +1214,8 @@ window.KB = {
       "osm": "way/474893826",
       "kind": "residential",
       "lat": 24.340511,
-      "lon": 54.653487
+      "lon": 54.653487,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-hudaybah-street",
@@ -1160,7 +1226,8 @@ window.KB = {
       "osm": "way/820507477",
       "kind": "residential",
       "lat": 24.366787,
-      "lon": 54.609298
+      "lon": 54.609298,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-humayd-as-sa-idi-street",
@@ -1171,7 +1238,8 @@ window.KB = {
       "osm": "way/818882078",
       "kind": "residential",
       "lat": 24.366893,
-      "lon": 54.669017
+      "lon": 54.669017,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-hurayrah-street",
@@ -1182,7 +1250,8 @@ window.KB = {
       "osm": "way/248481465",
       "kind": "residential",
       "lat": 24.358334,
-      "lon": 54.685382
+      "lon": 54.685382,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-idris-al-khawlani-street",
@@ -1193,7 +1262,8 @@ window.KB = {
       "osm": "way/235124800",
       "kind": "residential",
       "lat": 24.36219,
-      "lon": 54.712079
+      "lon": 54.712079,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-is-haq-as-sabee-i-street",
@@ -1204,7 +1274,8 @@ window.KB = {
       "osm": "way/116692422",
       "kind": "residential",
       "lat": 24.370901,
-      "lon": 54.711898
+      "lon": 54.711898,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-jifeer-street",
@@ -1215,7 +1286,8 @@ window.KB = {
       "osm": "way/306671023",
       "kind": "residential",
       "lat": 24.322022,
-      "lon": 54.736665
+      "lon": 54.736665,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-kaylah-street",
@@ -1226,7 +1298,8 @@ window.KB = {
       "osm": "way/120291260",
       "kind": "residential",
       "lat": 24.394384,
-      "lon": 54.686467
+      "lon": 54.686467,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-malik-al-ash-ari-street",
@@ -1237,7 +1310,8 @@ window.KB = {
       "osm": "way/974606615",
       "kind": "residential",
       "lat": 24.402139,
-      "lon": 54.706235
+      "lon": 54.706235,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-mhad-street",
@@ -1248,7 +1322,8 @@ window.KB = {
       "osm": "way/91675954",
       "kind": "residential",
       "lat": 24.344842,
-      "lon": 54.546781
+      "lon": 54.546781,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-rmaythah-street",
@@ -1259,7 +1334,8 @@ window.KB = {
       "osm": "way/475123947",
       "kind": "residential",
       "lat": 24.326459,
-      "lon": 54.537856
+      "lon": 54.537856,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-saeed-al-khudri-street",
@@ -1270,7 +1346,8 @@ window.KB = {
       "osm": "way/819197995",
       "kind": "residential",
       "lat": 24.390911,
-      "lon": 54.669748
+      "lon": 54.669748,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-seenah-street",
@@ -1281,7 +1358,8 @@ window.KB = {
       "osm": "way/116692411",
       "kind": "residential",
       "lat": 24.367764,
-      "lon": 54.714948
+      "lon": 54.714948,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-shidad-street",
@@ -1292,7 +1370,8 @@ window.KB = {
       "osm": "way/91675980",
       "kind": "residential",
       "lat": 24.347818,
-      "lon": 54.558276
+      "lon": 54.558276,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-thimayrah-street",
@@ -1303,7 +1382,8 @@ window.KB = {
       "osm": "way/172917304",
       "kind": "residential",
       "lat": 24.377443,
-      "lon": 54.540522
+      "lon": 54.540522,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-wakir-street",
@@ -1314,7 +1394,8 @@ window.KB = {
       "osm": "way/54200920",
       "kind": "residential",
       "lat": 24.355175,
-      "lon": 54.638991
+      "lon": 54.638991,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abu-yird-street",
@@ -1325,7 +1406,8 @@ window.KB = {
       "osm": "way/306682863",
       "kind": "residential",
       "lat": 24.359898,
-      "lon": 54.75715
+      "lon": 54.75715,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/abulaziz-bin-hamed-al-mubarak-street",
@@ -1336,7 +1418,8 @@ window.KB = {
       "osm": "way/105451690",
       "kind": "residential",
       "lat": 24.326175,
-      "lon": 54.631126
+      "lon": 54.631126,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dabbas-street",
@@ -1347,7 +1430,8 @@ window.KB = {
       "osm": "way/974445533",
       "kind": "residential",
       "lat": 24.371051,
-      "lon": 54.612572
+      "lon": 54.612572,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-daffah-street",
@@ -1358,7 +1442,8 @@ window.KB = {
       "osm": "way/116428997",
       "kind": "residential",
       "lat": 24.315401,
-      "lon": 54.638309
+      "lon": 54.638309,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-daghar-street",
@@ -1369,7 +1454,8 @@ window.KB = {
       "osm": "way/246999851",
       "kind": "residential",
       "lat": 24.296396,
-      "lon": 54.656578
+      "lon": 54.656578,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dahhak-bin-qays-street",
@@ -1380,7 +1466,8 @@ window.KB = {
       "osm": "way/116428987",
       "kind": "residential",
       "lat": 24.312842,
-      "lon": 54.64266
+      "lon": 54.64266,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dahma-street",
@@ -1391,7 +1478,8 @@ window.KB = {
       "osm": "way/370205889",
       "kind": "residential",
       "lat": 24.370984,
-      "lon": 54.545408
+      "lon": 54.545408,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dakhnah-street",
@@ -1402,7 +1490,8 @@ window.KB = {
       "osm": "way/235124839",
       "kind": "tertiary",
       "lat": 24.343839,
-      "lon": 54.696297
+      "lon": 54.696297,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dalw-street",
@@ -1413,29 +1502,20 @@ window.KB = {
       "osm": "way/24300383",
       "kind": "residential",
       "lat": 24.40866,
-      "lon": 54.497346
+      "lon": 54.497346,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ad-dameemah-2-street",
+      "id": "abu-dhabi-city/ad-dameemah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ad Dameemah 2 Street",
-      "name_ar": "شارع الضميمة 2",
+      "name_en": "Ad Dameemah Street",
+      "name_ar": "شارع الضميمة",
       "osm": "way/24337841",
       "kind": "unclassified",
       "lat": 24.370707,
-      "lon": 54.504008
-    },
-    {
-      "id": "abu-dhabi-city/ad-dameemah-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Dameemah 4 Street",
-      "name_ar": "شارع الضميمة 4",
-      "osm": "way/24337844",
-      "kind": "unclassified",
-      "lat": 24.370677,
-      "lon": 54.503235
+      "lon": 54.504008,
+      "variants": 2
     },
     {
       "id": "abu-dhabi-city/ad-damlouj-street",
@@ -1446,7 +1526,8 @@ window.KB = {
       "osm": "way/474920688",
       "kind": "residential",
       "lat": 24.300453,
-      "lon": 54.569685
+      "lon": 54.569685,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-danat-street",
@@ -1457,7 +1538,8 @@ window.KB = {
       "osm": "way/118783438",
       "kind": "residential",
       "lat": 24.396462,
-      "lon": 54.740835
+      "lon": 54.740835,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dannan-street",
@@ -1468,7 +1550,8 @@ window.KB = {
       "osm": "way/115720831",
       "kind": "tertiary",
       "lat": 24.312502,
-      "lon": 54.651316
+      "lon": 54.651316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dar-street",
@@ -1479,7 +1562,8 @@ window.KB = {
       "osm": "way/974606732",
       "kind": "residential",
       "lat": 24.404355,
-      "lon": 54.679243
+      "lon": 54.679243,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dar-an-street",
@@ -1490,7 +1574,8 @@ window.KB = {
       "osm": "way/173227067",
       "kind": "residential",
       "lat": 24.321744,
-      "lon": 54.552217
+      "lon": 54.552217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-daraj-street",
@@ -1501,7 +1586,8 @@ window.KB = {
       "osm": "way/116429218",
       "kind": "residential",
       "lat": 24.318343,
-      "lon": 54.62394
+      "lon": 54.62394,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-darhaam-street",
@@ -1512,73 +1598,20 @@ window.KB = {
       "osm": "way/974606683",
       "kind": "residential",
       "lat": 24.402167,
-      "lon": 54.696738
+      "lon": 54.696738,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ad-darsa-i-1-street",
+      "id": "abu-dhabi-city/ad-darsa-i-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ad Darsa'i 1 Street",
-      "name_ar": "شارع الدرسعي 1",
-      "osm": "way/24350924",
-      "kind": "unclassified",
-      "lat": 24.354098,
-      "lon": 54.51442
-    },
-    {
-      "id": "abu-dhabi-city/ad-darsa-i-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Darsa'i 2 Street",
-      "name_ar": "شارع الدرسعي 2",
-      "osm": "way/1130911603",
-      "kind": "unclassified",
-      "lat": 24.355162,
-      "lon": 54.515919
-    },
-    {
-      "id": "abu-dhabi-city/ad-darsa-i-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Darsa'i 3 Street",
-      "name_ar": "شارع الدرسعي 3",
-      "osm": "way/24350923",
-      "kind": "unclassified",
-      "lat": 24.353088,
-      "lon": 54.514467
-    },
-    {
-      "id": "abu-dhabi-city/ad-darsa-i-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Darsa'i 4 Street",
-      "name_ar": "شارع الدرسعي 4",
+      "name_en": "Ad Darsa'i Street",
+      "name_ar": "شارع الدرسعي",
       "osm": "way/24350919",
       "kind": "unclassified",
       "lat": 24.352817,
-      "lon": 54.512967
-    },
-    {
-      "id": "abu-dhabi-city/ad-darsa-i-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Darsa'i 5 Street",
-      "name_ar": "شارع الدرسعي 5",
-      "osm": "way/24350922",
-      "kind": "unclassified",
-      "lat": 24.352075,
-      "lon": 54.514513
-    },
-    {
-      "id": "abu-dhabi-city/ad-darsa-i-7-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Darsa'i 7 Street",
-      "name_ar": "شارع الدرسعي 7",
-      "osm": "way/24350921",
-      "kind": "unclassified",
-      "lat": 24.351137,
-      "lon": 54.514556
+      "lon": 54.512967,
+      "variants": 7
     },
     {
       "id": "abu-dhabi-city/ad-daw-street",
@@ -1589,7 +1622,8 @@ window.KB = {
       "osm": "way/821077757",
       "kind": "residential",
       "lat": 24.38489,
-      "lon": 54.617165
+      "lon": 54.617165,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dawaween-street",
@@ -1600,7 +1634,8 @@ window.KB = {
       "osm": "way/235147554",
       "kind": "residential",
       "lat": 24.356651,
-      "lon": 54.703365
+      "lon": 54.703365,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dawdah-street",
@@ -1611,7 +1646,8 @@ window.KB = {
       "osm": "way/306818491",
       "kind": "residential",
       "lat": 24.300643,
-      "lon": 54.631673
+      "lon": 54.631673,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dayaji-street",
@@ -1622,7 +1658,8 @@ window.KB = {
       "osm": "way/115726568",
       "kind": "residential",
       "lat": 24.309366,
-      "lon": 54.649419
+      "lon": 54.649419,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dayh-street",
@@ -1633,7 +1670,8 @@ window.KB = {
       "osm": "way/247044171",
       "kind": "residential",
       "lat": 24.334954,
-      "lon": 54.532443
+      "lon": 54.532443,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-deem-street",
@@ -1644,7 +1682,8 @@ window.KB = {
       "osm": "way/93177757",
       "kind": "residential",
       "lat": 24.394855,
-      "lon": 54.654603
+      "lon": 54.654603,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-deemah-street",
@@ -1655,7 +1694,8 @@ window.KB = {
       "osm": "way/24307278",
       "kind": "residential",
       "lat": 24.408642,
-      "lon": 54.441901
+      "lon": 54.441901,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-di-an-street",
@@ -1666,40 +1706,20 @@ window.KB = {
       "osm": "way/974445534",
       "kind": "residential",
       "lat": 24.371365,
-      "lon": 54.610937
+      "lon": 54.610937,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ad-diman-4-street",
+      "id": "abu-dhabi-city/ad-diman-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ad Diman 4 Street",
-      "name_ar": "شارع الدِّمَن 4",
+      "name_en": "Ad Diman Street",
+      "name_ar": "شارع الدِّمَن",
       "osm": "way/99894724",
       "kind": "unclassified",
       "lat": 24.352415,
-      "lon": 54.524315
-    },
-    {
-      "id": "abu-dhabi-city/ad-diman-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Diman 6 Street",
-      "name_ar": "شارع الدِّمَن 6",
-      "osm": "way/99894730",
-      "kind": "unclassified",
-      "lat": 24.35134,
-      "lon": 54.518877
-    },
-    {
-      "id": "abu-dhabi-city/ad-diman-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Diman 8 Street",
-      "name_ar": "شارع الدِّمَن 8",
-      "osm": "way/99894726",
-      "kind": "unclassified",
-      "lat": 24.352736,
-      "lon": 54.517213
+      "lon": 54.524315,
+      "variants": 15
     },
     {
       "id": "abu-dhabi-city/ad-diqdaq-street",
@@ -1710,7 +1730,8 @@ window.KB = {
       "osm": "way/235148654",
       "kind": "residential",
       "lat": 24.370847,
-      "lon": 54.695133
+      "lon": 54.695133,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dirasah-street",
@@ -1721,51 +1742,20 @@ window.KB = {
       "osm": "way/173017127",
       "kind": "residential",
       "lat": 24.362159,
-      "lon": 54.55144
+      "lon": 54.55144,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ad-doja-1-street",
+      "id": "abu-dhabi-city/ad-doja-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ad Doja 1 Street",
-      "name_ar": "شارع الدجى 1",
-      "osm": "way/24350890",
-      "kind": "unclassified",
-      "lat": 24.350697,
-      "lon": 54.492188
-    },
-    {
-      "id": "abu-dhabi-city/ad-doja-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Doja 2 Street",
-      "name_ar": "شارع الدجى 2",
-      "osm": "way/24350889",
-      "kind": "unclassified",
-      "lat": 24.349853,
-      "lon": 54.490328
-    },
-    {
-      "id": "abu-dhabi-city/ad-doja-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Doja 5 Street",
-      "name_ar": "شارع الدجى 5",
-      "osm": "way/24350888",
-      "kind": "unclassified",
-      "lat": 24.350544,
-      "lon": 54.482704
-    },
-    {
-      "id": "abu-dhabi-city/ad-doja-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ad Doja 8 Street",
-      "name_ar": "شارع الدجى 8",
+      "name_en": "Ad Doja Street",
+      "name_ar": "شارع الدجى",
       "osm": "way/24350887",
       "kind": "unclassified",
       "lat": 24.349628,
-      "lon": 54.484617
+      "lon": 54.484617,
+      "variants": 16
     },
     {
       "id": "abu-dhabi-city/ad-doumi-street",
@@ -1776,7 +1766,8 @@ window.KB = {
       "osm": "way/820507482",
       "kind": "residential",
       "lat": 24.348008,
-      "lon": 54.601509
+      "lon": 54.601509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dubab-street",
@@ -1787,7 +1778,8 @@ window.KB = {
       "osm": "way/483067207",
       "kind": "residential",
       "lat": 24.398238,
-      "lon": 54.495956
+      "lon": 54.495956,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dukhoun-street",
@@ -1798,7 +1790,8 @@ window.KB = {
       "osm": "way/974463481",
       "kind": "residential",
       "lat": 24.350539,
-      "lon": 54.603984
+      "lon": 54.603984,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-durrah-street",
@@ -1809,7 +1802,8 @@ window.KB = {
       "osm": "way/24303597",
       "kind": "residential",
       "lat": 24.39597,
-      "lon": 54.491335
+      "lon": 54.491335,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ad-dustour-street",
@@ -1820,7 +1814,8 @@ window.KB = {
       "osm": "way/473381971",
       "kind": "residential",
       "lat": 24.319981,
-      "lon": 54.565085
+      "lon": 54.565085,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/adh-dha-i-street",
@@ -1831,7 +1826,8 @@ window.KB = {
       "osm": "way/974606634",
       "kind": "residential",
       "lat": 24.403913,
-      "lon": 54.705154
+      "lon": 54.705154,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/adh-dha-an-street",
@@ -1842,7 +1838,8 @@ window.KB = {
       "osm": "way/235147569",
       "kind": "residential",
       "lat": 24.349123,
-      "lon": 54.696449
+      "lon": 54.696449,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/adh-dhafeerah-street",
@@ -1853,7 +1850,8 @@ window.KB = {
       "osm": "way/247008839",
       "kind": "residential",
       "lat": 24.311086,
-      "lon": 54.654835
+      "lon": 54.654835,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/adh-dhahabi-street",
@@ -1864,7 +1862,8 @@ window.KB = {
       "osm": "way/474712091",
       "kind": "residential",
       "lat": 24.333338,
-      "lon": 54.576726
+      "lon": 54.576726,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/adh-dhannah-street",
@@ -1875,7 +1874,8 @@ window.KB = {
       "osm": "way/24303583",
       "kind": "residential",
       "lat": 24.396949,
-      "lon": 54.487313
+      "lon": 54.487313,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/adh-dhariyat-street",
@@ -1886,18 +1886,20 @@ window.KB = {
       "osm": "way/116429225",
       "kind": "residential",
       "lat": 24.320389,
-      "lon": 54.622677
+      "lon": 54.622677,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/adh-dheeb-1-street",
+      "id": "abu-dhabi-city/adh-dheeb-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Adh Dheeb 1 Street",
-      "name_ar": "شارع الذِّيب 1",
+      "name_en": "Adh Dheeb Street",
+      "name_ar": "شارع الذِّيب",
       "osm": "way/971320633",
       "kind": "residential",
       "lat": 24.403633,
-      "lon": 54.591913
+      "lon": 54.591913,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/adh-dheet-street",
@@ -1908,7 +1910,8 @@ window.KB = {
       "osm": "way/235147558",
       "kind": "residential",
       "lat": 24.354066,
-      "lon": 54.701351
+      "lon": 54.701351,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/adh-dhilal-street",
@@ -1919,7 +1922,8 @@ window.KB = {
       "osm": "way/173184949",
       "kind": "residential",
       "lat": 24.321082,
-      "lon": 54.559211
+      "lon": 54.559211,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/agnadeen-street",
@@ -1930,7 +1934,8 @@ window.KB = {
       "osm": "way/974606617",
       "kind": "residential",
       "lat": 24.407347,
-      "lon": 54.710054
+      "lon": 54.710054,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahl-al-joud-street",
@@ -1941,7 +1946,8 @@ window.KB = {
       "osm": "way/116447965",
       "kind": "residential",
       "lat": 24.31914,
-      "lon": 54.63599
+      "lon": 54.63599,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmad-shawqi-street",
@@ -1952,7 +1958,8 @@ window.KB = {
       "osm": "way/248467836",
       "kind": "residential",
       "lat": 24.338655,
-      "lon": 54.740178
+      "lon": 54.740178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmed-abdulla-ahmed-street",
@@ -1963,7 +1970,8 @@ window.KB = {
       "osm": "way/116692426",
       "kind": "residential",
       "lat": 24.368743,
-      "lon": 54.718007
+      "lon": 54.718007,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmed-bin-ali-al-rumaithi-street",
@@ -1974,7 +1982,8 @@ window.KB = {
       "osm": "way/116681828",
       "kind": "residential",
       "lat": 24.348958,
-      "lon": 54.652303
+      "lon": 54.652303,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmed-bin-bu-melha-al-marar-street",
@@ -1985,7 +1994,8 @@ window.KB = {
       "osm": "way/54200948",
       "kind": "residential",
       "lat": 24.349634,
-      "lon": 54.622176
+      "lon": 54.622176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmed-bin-hudhayba-al-hameli-street",
@@ -1996,7 +2006,8 @@ window.KB = {
       "osm": "way/474712083",
       "kind": "residential",
       "lat": 24.34307,
-      "lon": 54.570803
+      "lon": 54.570803,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmed-bin-majid-al-suwaidi-street",
@@ -2007,7 +2018,8 @@ window.KB = {
       "osm": "way/821077780",
       "kind": "unclassified",
       "lat": 24.375067,
-      "lon": 54.619014
+      "lon": 54.619014,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmed-bin-mohamed-al-fahim-street",
@@ -2018,7 +2030,8 @@ window.KB = {
       "osm": "way/54200896",
       "kind": "residential",
       "lat": 24.359816,
-      "lon": 54.623125
+      "lon": 54.623125,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ahmed-bin-shamlan-al-falahi-street",
@@ -2029,7 +2042,8 @@ window.KB = {
       "osm": "way/119287502",
       "kind": "residential",
       "lat": 24.399713,
-      "lon": 54.71038
+      "lon": 54.71038,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-abbarah-street",
@@ -2040,7 +2054,8 @@ window.KB = {
       "osm": "way/635403250",
       "kind": "residential",
       "lat": 24.333813,
-      "lon": 54.779853
+      "lon": 54.779853,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-abyah-street",
@@ -2051,7 +2066,8 @@ window.KB = {
       "osm": "way/93177786",
       "kind": "residential",
       "lat": 24.386411,
-      "lon": 54.657395
+      "lon": 54.657395,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adalah-street",
@@ -2062,7 +2078,8 @@ window.KB = {
       "osm": "way/634310294",
       "kind": "residential",
       "lat": 24.361973,
-      "lon": 54.732755
+      "lon": 54.732755,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adeeba-street",
@@ -2073,7 +2090,8 @@ window.KB = {
       "osm": "way/474930685",
       "kind": "residential",
       "lat": 24.319098,
-      "lon": 54.535996
+      "lon": 54.535996,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adeel-street",
@@ -2084,7 +2102,8 @@ window.KB = {
       "osm": "way/306808302",
       "kind": "residential",
       "lat": 24.313944,
-      "lon": 54.622072
+      "lon": 54.622072,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adhal-street",
@@ -2095,7 +2114,8 @@ window.KB = {
       "osm": "way/112191306",
       "kind": "tertiary",
       "lat": 24.334401,
-      "lon": 54.695049
+      "lon": 54.695049,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adhamiyah-street",
@@ -2106,7 +2126,8 @@ window.KB = {
       "osm": "way/235124805",
       "kind": "residential",
       "lat": 24.365711,
-      "lon": 54.705877
+      "lon": 54.705877,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adhb-street",
@@ -2117,7 +2138,8 @@ window.KB = {
       "osm": "way/306694601",
       "kind": "residential",
       "lat": 24.330767,
-      "lon": 54.748607
+      "lon": 54.748607,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adid-street",
@@ -2128,29 +2150,20 @@ window.KB = {
       "osm": "way/306808316",
       "kind": "residential",
       "lat": 24.30883,
-      "lon": 54.625809
+      "lon": 54.625809,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-afou-1-street",
+      "id": "abu-dhabi-city/al-afou-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al 'Afou 1 Street",
-      "name_ar": "شارع العَفُو 1",
+      "name_en": "Al 'Afou Street",
+      "name_ar": "شارع العَفُو",
       "osm": "way/24350928",
       "kind": "unclassified",
       "lat": 24.343856,
-      "lon": 54.507482
-    },
-    {
-      "id": "abu-dhabi-city/al-afou-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al 'Afou 5 Street",
-      "name_ar": "شارع العَفُو 5",
-      "osm": "way/24350930",
-      "kind": "unclassified",
-      "lat": 24.339684,
-      "lon": 54.512434
+      "lon": 54.507482,
+      "variants": 10
     },
     {
       "id": "abu-dhabi-city/al-ahd-street",
@@ -2161,7 +2174,8 @@ window.KB = {
       "osm": "way/116788435",
       "kind": "unclassified",
       "lat": 24.389486,
-      "lon": 54.724191
+      "lon": 54.724191,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aj-street",
@@ -2172,7 +2186,8 @@ window.KB = {
       "osm": "way/634416942",
       "kind": "residential",
       "lat": 24.367984,
-      "lon": 54.736772
+      "lon": 54.736772,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aja-ib-street",
@@ -2183,7 +2198,8 @@ window.KB = {
       "osm": "way/116429203",
       "kind": "residential",
       "lat": 24.315721,
-      "lon": 54.6331
+      "lon": 54.6331,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ajban-street",
@@ -2194,7 +2210,8 @@ window.KB = {
       "osm": "way/635033698",
       "kind": "residential",
       "lat": 24.365302,
-      "lon": 54.772647
+      "lon": 54.772647,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ajil-street",
@@ -2205,7 +2222,8 @@ window.KB = {
       "osm": "way/634310282",
       "kind": "residential",
       "lat": 24.366998,
-      "lon": 54.736607
+      "lon": 54.736607,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-akkasah-street",
@@ -2216,7 +2234,8 @@ window.KB = {
       "osm": "way/974427637",
       "kind": "residential",
       "lat": 24.315213,
-      "lon": 54.590468
+      "lon": 54.590468,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-alqa-street",
@@ -2227,7 +2246,8 @@ window.KB = {
       "osm": "way/635438626",
       "kind": "residential",
       "lat": 24.318391,
-      "lon": 54.586608
+      "lon": 54.586608,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-alwa-street",
@@ -2238,7 +2258,8 @@ window.KB = {
       "osm": "way/115725415",
       "kind": "residential",
       "lat": 24.29651,
-      "lon": 54.642684
+      "lon": 54.642684,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-alya-a-street",
@@ -2249,7 +2270,8 @@ window.KB = {
       "osm": "way/54201144",
       "kind": "residential",
       "lat": 24.366781,
-      "lon": 54.624295
+      "lon": 54.624295,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-amad-street",
@@ -2260,7 +2282,8 @@ window.KB = {
       "osm": "way/695162109",
       "kind": "residential",
       "lat": 24.331313,
-      "lon": 54.646575
+      "lon": 54.646575,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-amir-street",
@@ -2271,7 +2294,8 @@ window.KB = {
       "osm": "way/634310280",
       "kind": "residential",
       "lat": 24.365495,
-      "lon": 54.733851
+      "lon": 54.733851,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-amriyah-street",
@@ -2282,7 +2306,8 @@ window.KB = {
       "osm": "way/116691909",
       "kind": "secondary",
       "lat": 24.341669,
-      "lon": 54.53347
+      "lon": 54.53347,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-anbar-street",
@@ -2293,7 +2318,8 @@ window.KB = {
       "osm": "way/820507457",
       "kind": "unclassified",
       "lat": 24.352822,
-      "lon": 54.605805
+      "lon": 54.605805,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-andaleeb-street",
@@ -2304,7 +2330,8 @@ window.KB = {
       "osm": "way/474443085",
       "kind": "residential",
       "lat": 24.399229,
-      "lon": 54.489531
+      "lon": 54.489531,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-anzarout-street",
@@ -2315,7 +2342,8 @@ window.KB = {
       "osm": "way/173181927",
       "kind": "residential",
       "lat": 24.307287,
-      "lon": 54.543034
+      "lon": 54.543034,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aqar-street",
@@ -2326,7 +2354,8 @@ window.KB = {
       "osm": "way/306795071",
       "kind": "residential",
       "lat": 24.365662,
-      "lon": 54.739825
+      "lon": 54.739825,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aqbah-street",
@@ -2337,7 +2366,8 @@ window.KB = {
       "osm": "way/92007344",
       "kind": "residential",
       "lat": 24.355978,
-      "lon": 54.534505
+      "lon": 54.534505,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aqeeqah-street",
@@ -2348,7 +2378,8 @@ window.KB = {
       "osm": "way/235121441",
       "kind": "residential",
       "lat": 24.356758,
-      "lon": 54.696813
+      "lon": 54.696813,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aqqah-street",
@@ -2359,7 +2390,8 @@ window.KB = {
       "osm": "way/974606653",
       "kind": "residential",
       "lat": 24.406113,
-      "lon": 54.70928
+      "lon": 54.70928,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aqrabi-street",
@@ -2370,7 +2402,8 @@ window.KB = {
       "osm": "way/525041993",
       "kind": "residential",
       "lat": 24.299468,
-      "lon": 54.616582
+      "lon": 54.616582,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-arad-street",
@@ -2381,7 +2414,8 @@ window.KB = {
       "osm": "way/247048148",
       "kind": "residential",
       "lat": 24.326223,
-      "lon": 54.531998
+      "lon": 54.531998,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-araji-street",
@@ -2392,7 +2426,8 @@ window.KB = {
       "osm": "way/277568210",
       "kind": "tertiary",
       "lat": 24.304528,
-      "lon": 54.539119
+      "lon": 54.539119,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aras-street",
@@ -2403,7 +2438,8 @@ window.KB = {
       "osm": "way/974606612",
       "kind": "residential",
       "lat": 24.407159,
-      "lon": 54.702534
+      "lon": 54.702534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ardah-street",
@@ -2414,7 +2450,8 @@ window.KB = {
       "osm": "way/372767799",
       "kind": "tertiary",
       "lat": 24.355876,
-      "lon": 54.542859
+      "lon": 54.542859,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-areen-street",
@@ -2425,7 +2462,8 @@ window.KB = {
       "osm": "way/119287784",
       "kind": "residential",
       "lat": 24.381471,
-      "lon": 54.690606
+      "lon": 54.690606,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aryoun-street",
@@ -2436,7 +2474,8 @@ window.KB = {
       "osm": "way/306694617",
       "kind": "residential",
       "lat": 24.33923,
-      "lon": 54.747784
+      "lon": 54.747784,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-as-bin-hashim-street",
@@ -2447,7 +2486,8 @@ window.KB = {
       "osm": "way/92007360",
       "kind": "residential",
       "lat": 24.328879,
-      "lon": 54.555774
+      "lon": 54.555774,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ashayir-street",
@@ -2458,7 +2498,8 @@ window.KB = {
       "osm": "way/306694622",
       "kind": "residential",
       "lat": 24.338241,
-      "lon": 54.747888
+      "lon": 54.747888,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asheesh-street",
@@ -2469,7 +2510,8 @@ window.KB = {
       "osm": "way/247048138",
       "kind": "residential",
       "lat": 24.327771,
-      "lon": 54.531935
+      "lon": 54.531935,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ashiyah-street",
@@ -2480,7 +2522,8 @@ window.KB = {
       "osm": "way/111297865",
       "kind": "residential",
       "lat": 24.322444,
-      "lon": 54.638781
+      "lon": 54.638781,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asjad-street",
@@ -2491,7 +2534,8 @@ window.KB = {
       "osm": "way/178947429",
       "kind": "residential",
       "lat": 24.274857,
-      "lon": 54.654514
+      "lon": 54.654514,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asmi-street",
@@ -2502,7 +2546,8 @@ window.KB = {
       "osm": "way/635438206",
       "kind": "residential",
       "lat": 24.351396,
-      "lon": 54.779579
+      "lon": 54.779579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asmiyah-street",
@@ -2513,7 +2558,8 @@ window.KB = {
       "osm": "way/122093842",
       "kind": "residential",
       "lat": 24.385355,
-      "lon": 54.711172
+      "lon": 54.711172,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asr-street",
@@ -2524,7 +2570,20 @@ window.KB = {
       "osm": "way/438856585",
       "kind": "residential",
       "lat": 24.326392,
-      "lon": 54.536113
+      "lon": 54.536113,
+      "variants": 1
+    },
+    {
+      "id": "abu-dhabi-city/al-atad-street",
+      "area": null,
+      "emirate": "abu-dhabi-city",
+      "name_en": "Al 'Atad Street",
+      "name_ar": "شارع العَتاد",
+      "osm": "way/91927890",
+      "kind": "residential",
+      "lat": 24.410055,
+      "lon": 54.606999,
+      "variants": 2
     },
     {
       "id": "abu-dhabi-city/al-ataya-street",
@@ -2535,7 +2594,8 @@ window.KB = {
       "osm": "way/93177769",
       "kind": "residential",
       "lat": 24.38281,
-      "lon": 54.656371
+      "lon": 54.656371,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-atfah-street",
@@ -2546,7 +2606,8 @@ window.KB = {
       "osm": "way/118783432",
       "kind": "residential",
       "lat": 24.401244,
-      "lon": 54.738627
+      "lon": 54.738627,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-atir-street",
@@ -2557,7 +2618,8 @@ window.KB = {
       "osm": "way/116691020",
       "kind": "residential",
       "lat": 24.28667,
-      "lon": 54.637275
+      "lon": 54.637275,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-awali-street",
@@ -2568,7 +2630,8 @@ window.KB = {
       "osm": "way/306694608",
       "kind": "residential",
       "lat": 24.333641,
-      "lon": 54.747049
+      "lon": 54.747049,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-awiyah-street",
@@ -2579,7 +2642,8 @@ window.KB = {
       "osm": "way/306818512",
       "kind": "residential",
       "lat": 24.290155,
-      "lon": 54.637508
+      "lon": 54.637508,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ayid-street",
@@ -2590,7 +2654,8 @@ window.KB = {
       "osm": "way/223481250",
       "kind": "tertiary",
       "lat": 24.349601,
-      "lon": 54.682443
+      "lon": 54.682443,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aza-im-street",
@@ -2601,7 +2666,8 @@ window.KB = {
       "osm": "way/105451692",
       "kind": "residential",
       "lat": 24.326978,
-      "lon": 54.632988
+      "lon": 54.632988,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-azi-street",
@@ -2612,7 +2678,8 @@ window.KB = {
       "osm": "way/94058013",
       "kind": "residential",
       "lat": 24.37066,
-      "lon": 54.724814
+      "lon": 54.724814,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aziziyah-street",
@@ -2623,7 +2690,8 @@ window.KB = {
       "osm": "way/116429227",
       "kind": "residential",
       "lat": 24.320937,
-      "lon": 54.624579
+      "lon": 54.624579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-azm-street",
@@ -2634,7 +2702,8 @@ window.KB = {
       "osm": "way/54201019",
       "kind": "secondary",
       "lat": 24.353421,
-      "lon": 54.617708
+      "lon": 54.617708,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ibayan-street",
@@ -2645,7 +2714,8 @@ window.KB = {
       "osm": "way/381931517",
       "kind": "residential",
       "lat": 24.411504,
-      "lon": 54.467323
+      "lon": 54.467323,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ikamiyah-street",
@@ -2656,7 +2726,8 @@ window.KB = {
       "osm": "way/235147560",
       "kind": "residential",
       "lat": 24.343781,
-      "lon": 54.699582
+      "lon": 54.699582,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-iqaybah-street",
@@ -2667,7 +2738,8 @@ window.KB = {
       "osm": "way/116447841",
       "kind": "residential",
       "lat": 24.304284,
-      "lon": 54.619224
+      "lon": 54.619224,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ishoush-street",
@@ -2678,7 +2750,8 @@ window.KB = {
       "osm": "way/499491158",
       "kind": "residential",
       "lat": 24.345016,
-      "lon": 54.767125
+      "lon": 54.767125,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-oqab-street",
@@ -2689,7 +2762,8 @@ window.KB = {
       "osm": "way/974606719",
       "kind": "residential",
       "lat": 24.397496,
-      "lon": 54.674037
+      "lon": 54.674037,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-oud-al-aswad-street",
@@ -2700,40 +2774,8 @@ window.KB = {
       "osm": "way/856082259",
       "kind": "unclassified",
       "lat": 24.316906,
-      "lon": 54.613303
-    },
-    {
-      "id": "abu-dhabi-city/al-reemah-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al 'Reemah 1 Street",
-      "name_ar": "شارع العرِيمة 1",
-      "osm": "way/473908276",
-      "kind": "residential",
-      "lat": 24.409634,
-      "lon": 54.534998
-    },
-    {
-      "id": "abu-dhabi-city/al-reemah-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al 'Reemah 2 Street",
-      "name_ar": "شارع العرِيمة 2",
-      "osm": "way/473908281",
-      "kind": "residential",
-      "lat": 24.409356,
-      "lon": 54.535347
-    },
-    {
-      "id": "abu-dhabi-city/al-reemah-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al 'Reemah 3 Street",
-      "name_ar": "شارع العرِيمة 3",
-      "osm": "way/473908280",
-      "kind": "residential",
-      "lat": 24.410118,
-      "lon": 54.53424
+      "lon": 54.613303,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-reemah-street",
@@ -2741,10 +2783,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "Al 'Reemah Street",
       "name_ar": "شارع العرِيمة",
-      "osm": "way/473908277",
+      "osm": "way/473908276",
       "kind": "residential",
-      "lat": 24.409815,
-      "lon": 54.534902
+      "lat": 24.409634,
+      "lon": 54.534998,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/al-reeqat-street",
@@ -2755,7 +2798,8 @@ window.KB = {
       "osm": "way/475151942",
       "kind": "residential",
       "lat": 24.314693,
-      "lon": 54.649793
+      "lon": 54.649793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-uhoud-street",
@@ -2766,7 +2810,8 @@ window.KB = {
       "osm": "way/635445162",
       "kind": "residential",
       "lat": 24.342806,
-      "lon": 54.760102
+      "lon": 54.760102,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ula-street",
@@ -2777,7 +2822,8 @@ window.KB = {
       "osm": "way/120291280",
       "kind": "residential",
       "lat": 24.395795,
-      "lon": 54.689855
+      "lon": 54.689855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ulow-street",
@@ -2788,7 +2834,8 @@ window.KB = {
       "osm": "way/177640620",
       "kind": "residential",
       "lat": 24.260732,
-      "lon": 54.704853
+      "lon": 54.704853,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-umran-street",
@@ -2799,7 +2846,8 @@ window.KB = {
       "osm": "way/115726589",
       "kind": "residential",
       "lat": 24.303727,
-      "lon": 54.65553
+      "lon": 54.65553,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-unoud-street",
@@ -2810,7 +2858,8 @@ window.KB = {
       "osm": "way/473385230",
       "kind": "residential",
       "lat": 24.310259,
-      "lon": 54.556677
+      "lon": 54.556677,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-uola-street",
@@ -2821,7 +2870,8 @@ window.KB = {
       "osm": "way/246150269",
       "kind": "residential",
       "lat": 24.349303,
-      "lon": 54.747286
+      "lon": 54.747286,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-urban-street",
@@ -2832,7 +2882,8 @@ window.KB = {
       "osm": "way/173393618",
       "kind": "residential",
       "lat": 24.307626,
-      "lon": 54.571593
+      "lon": 54.571593,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-uroud-street",
@@ -2843,7 +2894,8 @@ window.KB = {
       "osm": "way/820507464",
       "kind": "residential",
       "lat": 24.361645,
-      "lon": 54.613185
+      "lon": 54.613185,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-utour-street",
@@ -2854,7 +2906,8 @@ window.KB = {
       "osm": "way/1240680950",
       "kind": "tertiary",
       "lat": 24.32903,
-      "lon": 54.618515
+      "lon": 54.618515,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-uwaynah-street",
@@ -2865,7 +2918,8 @@ window.KB = {
       "osm": "way/94055567",
       "kind": "residential",
       "lat": 24.387529,
-      "lon": 54.642032
+      "lon": 54.642032,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-uwaysi-street",
@@ -2876,7 +2930,8 @@ window.KB = {
       "osm": "way/820507426",
       "kind": "residential",
       "lat": 24.393202,
-      "lon": 54.619123
+      "lon": 54.619123,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-uzoum-street",
@@ -2887,7 +2942,8 @@ window.KB = {
       "osm": "way/307022474",
       "kind": "residential",
       "lat": 24.284553,
-      "lon": 54.638575
+      "lon": 54.638575,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-a-mal-street",
@@ -2898,7 +2954,8 @@ window.KB = {
       "osm": "way/252797517",
       "kind": "unclassified",
       "lat": 24.397921,
-      "lon": 54.688766
+      "lon": 54.688766,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-a-sha-street",
@@ -2909,7 +2966,8 @@ window.KB = {
       "osm": "way/116691044",
       "kind": "residential",
       "lat": 24.296886,
-      "lon": 54.624698
+      "lon": 54.624698,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-a-yan-street",
@@ -2920,7 +2978,8 @@ window.KB = {
       "osm": "way/92007338",
       "kind": "residential",
       "lat": 24.326159,
-      "lon": 54.556639
+      "lon": 54.556639,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aamal-street",
@@ -2931,7 +2990,8 @@ window.KB = {
       "osm": "way/95490097",
       "kind": "residential",
       "lat": 24.409574,
-      "lon": 54.724364
+      "lon": 54.724364,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-abar-street",
@@ -2942,7 +3002,8 @@ window.KB = {
       "osm": "way/635033705",
       "kind": "residential",
       "lat": 24.358882,
-      "lon": 54.773839
+      "lon": 54.773839,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-abbas-bin-ubadah-bin-nadlah-street",
@@ -2953,7 +3014,8 @@ window.KB = {
       "osm": "way/121648437",
       "kind": "residential",
       "lat": 24.384883,
-      "lon": 54.697835
+      "lon": 54.697835,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-abraq-street",
@@ -2964,7 +3026,8 @@ window.KB = {
       "osm": "way/248465703",
       "kind": "residential",
       "lat": 24.352077,
-      "lon": 54.746336
+      "lon": 54.746336,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-abyad-street",
@@ -2975,7 +3038,8 @@ window.KB = {
       "osm": "way/635033689",
       "kind": "residential",
       "lat": 24.364511,
-      "lon": 54.773594
+      "lon": 54.773594,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adab-street",
@@ -2986,7 +3050,8 @@ window.KB = {
       "osm": "way/54200922",
       "kind": "residential",
       "lat": 24.356052,
-      "lon": 54.637123
+      "lon": 54.637123,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adeeb-street",
@@ -2997,7 +3062,8 @@ window.KB = {
       "osm": "way/974606768",
       "kind": "residential",
       "lat": 24.391705,
-      "lon": 54.680175
+      "lon": 54.680175,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-adwa-a-street",
@@ -3008,7 +3074,8 @@ window.KB = {
       "osm": "way/974606741",
       "kind": "residential",
       "lat": 24.394955,
-      "lon": 54.681103
+      "lon": 54.681103,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aflaj-street",
@@ -3019,7 +3086,8 @@ window.KB = {
       "osm": "way/235121438",
       "kind": "residential",
       "lat": 24.355663,
-      "lon": 54.690962
+      "lon": 54.690962,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aflak-street",
@@ -3030,7 +3098,8 @@ window.KB = {
       "osm": "way/974606624",
       "kind": "residential",
       "lat": 24.407151,
-      "lon": 54.708232
+      "lon": 54.708232,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-afrah-street",
@@ -3041,7 +3110,8 @@ window.KB = {
       "osm": "way/223481244",
       "kind": "tertiary",
       "lat": 24.35779,
-      "lon": 54.701671
+      "lon": 54.701671,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aghareed-street",
@@ -3052,7 +3122,8 @@ window.KB = {
       "osm": "way/474654634",
       "kind": "residential",
       "lat": 24.330163,
-      "lon": 54.535474
+      "lon": 54.535474,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ahellah-street",
@@ -3063,7 +3134,8 @@ window.KB = {
       "osm": "way/247044204",
       "kind": "residential",
       "lat": 24.331949,
-      "lon": 54.531776
+      "lon": 54.531776,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ahibbah-street",
@@ -3074,7 +3146,8 @@ window.KB = {
       "osm": "way/178947418",
       "kind": "residential",
       "lat": 24.272364,
-      "lon": 54.649128
+      "lon": 54.649128,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ahlam-street",
@@ -3085,7 +3158,8 @@ window.KB = {
       "osm": "way/818882075",
       "kind": "residential",
       "lat": 24.364601,
-      "lon": 54.667956
+      "lon": 54.667956,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ahmadiyah-street",
@@ -3096,7 +3170,8 @@ window.KB = {
       "osm": "way/820507415",
       "kind": "residential",
       "lat": 24.395417,
-      "lon": 54.625308
+      "lon": 54.625308,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ahnaf-bin-qays-street",
@@ -3107,7 +3182,8 @@ window.KB = {
       "osm": "way/116692420",
       "kind": "residential",
       "lat": 24.366921,
-      "lon": 54.717659
+      "lon": 54.717659,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ahwas-bin-mas-oud-street",
@@ -3118,7 +3194,8 @@ window.KB = {
       "osm": "way/474654632",
       "kind": "residential",
       "lat": 24.327086,
-      "lon": 54.531516
+      "lon": 54.531516,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ajdad-street",
@@ -3129,7 +3206,8 @@ window.KB = {
       "osm": "way/635746740",
       "kind": "residential",
       "lat": 24.350102,
-      "lon": 54.758722
+      "lon": 54.758722,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ajwad-street",
@@ -3140,7 +3218,8 @@ window.KB = {
       "osm": "way/974606749",
       "kind": "residential",
       "lat": 24.393518,
-      "lon": 54.67226
+      "lon": 54.67226,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ajwali-street",
@@ -3151,7 +3230,8 @@ window.KB = {
       "osm": "way/92007290",
       "kind": "residential",
       "lat": 24.333213,
-      "lon": 54.54417
+      "lon": 54.54417,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ajyal-street",
@@ -3162,7 +3242,8 @@ window.KB = {
       "osm": "way/634310267",
       "kind": "residential",
       "lat": 24.346983,
-      "lon": 54.754807
+      "lon": 54.754807,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-akarim-street",
@@ -3173,7 +3254,8 @@ window.KB = {
       "osm": "way/637317269",
       "kind": "residential",
       "lat": 24.306235,
-      "lon": 54.62237
+      "lon": 54.62237,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-akhadir-street",
@@ -3184,7 +3266,8 @@ window.KB = {
       "osm": "way/820507425",
       "kind": "residential",
       "lat": 24.39251,
-      "lon": 54.61823
+      "lon": 54.61823,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-akhtal-street",
@@ -3195,7 +3278,8 @@ window.KB = {
       "osm": "way/306671039",
       "kind": "residential",
       "lat": 24.322857,
-      "lon": 54.733033
+      "lon": 54.733033,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-akliyah-street",
@@ -3206,7 +3290,8 @@ window.KB = {
       "osm": "way/474920680",
       "kind": "residential",
       "lat": 24.2993,
-      "lon": 54.573031
+      "lon": 54.573031,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-akrameen-street",
@@ -3217,7 +3302,8 @@ window.KB = {
       "osm": "way/116447973",
       "kind": "residential",
       "lat": 24.319701,
-      "lon": 54.631633
+      "lon": 54.631633,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-albab-street",
@@ -3228,7 +3314,8 @@ window.KB = {
       "osm": "way/92007292",
       "kind": "residential",
       "lat": 24.329691,
-      "lon": 54.554195
+      "lon": 54.554195,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-amanah-street",
@@ -3239,7 +3326,8 @@ window.KB = {
       "osm": "way/819194660",
       "kind": "residential",
       "lat": 24.403641,
-      "lon": 54.557895
+      "lon": 54.557895,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-amazoun-street",
@@ -3250,7 +3338,8 @@ window.KB = {
       "osm": "way/173399462",
       "kind": "residential",
       "lat": 24.309562,
-      "lon": 54.586838
+      "lon": 54.586838,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ameer-street",
@@ -3261,7 +3350,8 @@ window.KB = {
       "osm": "way/93177771",
       "kind": "residential",
       "lat": 24.393248,
-      "lon": 54.659035
+      "lon": 54.659035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-amwal-street",
@@ -3272,7 +3362,8 @@ window.KB = {
       "osm": "way/307012330",
       "kind": "residential",
       "lat": 24.318196,
-      "lon": 54.64751
+      "lon": 54.64751,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-anas-street",
@@ -3283,7 +3374,8 @@ window.KB = {
       "osm": "way/94329190",
       "kind": "tertiary",
       "lat": 24.269945,
-      "lon": 54.667396
+      "lon": 54.667396,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-anjal-street",
@@ -3294,7 +3386,8 @@ window.KB = {
       "osm": "way/93177782",
       "kind": "residential",
       "lat": 24.398274,
-      "lon": 54.651972
+      "lon": 54.651972,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ansar-street",
@@ -3305,7 +3398,8 @@ window.KB = {
       "osm": "way/173392556",
       "kind": "residential",
       "lat": 24.31035,
-      "lon": 54.567149
+      "lon": 54.567149,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-anwar-street",
@@ -3316,7 +3410,8 @@ window.KB = {
       "osm": "way/974606748",
       "kind": "residential",
       "lat": 24.394071,
-      "lon": 54.672318
+      "lon": 54.672318,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aram-street",
@@ -3327,29 +3422,20 @@ window.KB = {
       "osm": "way/1161282171",
       "kind": "residential",
       "lat": 24.394794,
-      "lon": 54.680002
+      "lon": 54.680002,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-ard-1-street",
+      "id": "abu-dhabi-city/al-ard-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Ard 1 Street",
-      "name_ar": "شارع الأَرض 1",
-      "osm": "way/975541916",
-      "kind": "unclassified",
-      "lat": 24.397609,
-      "lon": 54.559176
-    },
-    {
-      "id": "abu-dhabi-city/al-ard-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Ard 2 Street",
-      "name_ar": "شارع الأَرض 2",
+      "name_en": "Al Ard Street",
+      "name_ar": "شارع الأَرض",
       "osm": "way/634416491",
       "kind": "unclassified",
       "lat": 24.397439,
-      "lon": 54.561158
+      "lon": 54.561158,
+      "variants": 6
     },
     {
       "id": "abu-dhabi-city/al-arda-street",
@@ -3360,7 +3446,8 @@ window.KB = {
       "osm": "way/974606625",
       "kind": "residential",
       "lat": 24.407226,
-      "lon": 54.709148
+      "lon": 54.709148,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-arkan-street",
@@ -3371,7 +3458,8 @@ window.KB = {
       "osm": "way/115719772",
       "kind": "residential",
       "lat": 24.329735,
-      "lon": 54.642088
+      "lon": 54.642088,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-arkhabeel-street",
@@ -3382,7 +3470,8 @@ window.KB = {
       "osm": "way/105451666",
       "kind": "residential",
       "lat": 24.328571,
-      "lon": 54.631262
+      "lon": 54.631262,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-arta-street",
@@ -3393,7 +3482,8 @@ window.KB = {
       "osm": "way/115732784",
       "kind": "residential",
       "lat": 24.37272,
-      "lon": 54.668148
+      "lon": 54.668148,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-as-har-street",
@@ -3404,7 +3494,8 @@ window.KB = {
       "osm": "way/235147600",
       "kind": "residential",
       "lat": 24.351906,
-      "lon": 54.702061
+      "lon": 54.702061,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asad-street",
@@ -3415,7 +3506,8 @@ window.KB = {
       "osm": "way/116691912",
       "kind": "residential",
       "lat": 24.340875,
-      "lon": 54.532182
+      "lon": 54.532182,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asal-street",
@@ -3426,7 +3518,8 @@ window.KB = {
       "osm": "way/821077761",
       "kind": "residential",
       "lat": 24.382735,
-      "lon": 54.619906
+      "lon": 54.619906,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asayil-street",
@@ -3437,7 +3530,8 @@ window.KB = {
       "osm": "way/117208325",
       "kind": "unclassified",
       "lat": 24.407782,
-      "lon": 54.547052
+      "lon": 54.547052,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asbah-street",
@@ -3448,7 +3542,8 @@ window.KB = {
       "osm": "way/370205888",
       "kind": "residential",
       "lat": 24.371741,
-      "lon": 54.546906
+      "lon": 54.546906,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asfaran-street",
@@ -3459,7 +3554,8 @@ window.KB = {
       "osm": "way/54201190",
       "kind": "residential",
       "lat": 24.365404,
-      "lon": 54.639152
+      "lon": 54.639152,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ash-al-street",
@@ -3470,7 +3566,8 @@ window.KB = {
       "osm": "way/635438945",
       "kind": "residential",
       "lat": 24.348777,
-      "lon": 54.779669
+      "lon": 54.779669,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ashghal-street",
@@ -3481,7 +3578,8 @@ window.KB = {
       "osm": "way/475193001",
       "kind": "residential",
       "lat": 24.272265,
-      "lon": 54.644207
+      "lon": 54.644207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ashjar-street",
@@ -3492,7 +3590,8 @@ window.KB = {
       "osm": "way/974606638",
       "kind": "residential",
       "lat": 24.40289,
-      "lon": 54.706186
+      "lon": 54.706186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ashkhar-street",
@@ -3503,7 +3602,8 @@ window.KB = {
       "osm": "way/54200915",
       "kind": "residential",
       "lat": 24.351261,
-      "lon": 54.626245
+      "lon": 54.626245,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ashri-ah-street",
@@ -3514,7 +3614,8 @@ window.KB = {
       "osm": "way/112455239",
       "kind": "residential",
       "lat": 24.387193,
-      "lon": 54.730207
+      "lon": 54.730207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asl-street",
@@ -3525,7 +3626,8 @@ window.KB = {
       "osm": "way/820507562",
       "kind": "residential",
       "lat": 24.381075,
-      "lon": 54.596336
+      "lon": 54.596336,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aslab-street",
@@ -3536,7 +3638,8 @@ window.KB = {
       "osm": "way/235148610",
       "kind": "residential",
       "lat": 24.376757,
-      "lon": 54.693428
+      "lon": 54.693428,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asma-i-street",
@@ -3547,7 +3650,8 @@ window.KB = {
       "osm": "way/306671022",
       "kind": "residential",
       "lat": 24.329491,
-      "lon": 54.735144
+      "lon": 54.735144,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-asqa-street",
@@ -3558,7 +3662,8 @@ window.KB = {
       "osm": "way/247003355",
       "kind": "residential",
       "lat": 24.270509,
-      "lon": 54.6432
+      "lon": 54.6432,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-astorlab-street",
@@ -3569,7 +3674,8 @@ window.KB = {
       "osm": "way/115724080",
       "kind": "residential",
       "lat": 24.30349,
-      "lon": 54.641221
+      "lon": 54.641221,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-aswad-bin-hilal-street",
@@ -3580,7 +3686,8 @@ window.KB = {
       "osm": "way/819199177",
       "kind": "residential",
       "lat": 24.386009,
-      "lon": 54.671002
+      "lon": 54.671002,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-atayib-street",
@@ -3591,7 +3698,8 @@ window.KB = {
       "osm": "way/819198759",
       "kind": "residential",
       "lat": 24.388557,
-      "lon": 54.67268
+      "lon": 54.67268,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-athal-street",
@@ -3602,7 +3710,8 @@ window.KB = {
       "osm": "way/820507560",
       "kind": "residential",
       "lat": 24.383049,
-      "lon": 54.594894
+      "lon": 54.594894,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-atheel-street",
@@ -3613,7 +3722,8 @@ window.KB = {
       "osm": "way/482146970",
       "kind": "residential",
       "lat": 24.346867,
-      "lon": 54.531267
+      "lon": 54.531267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-athman-street",
@@ -3624,7 +3734,8 @@ window.KB = {
       "osm": "way/94055547",
       "kind": "residential",
       "lat": 24.389751,
-      "lon": 54.651565
+      "lon": 54.651565,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-athr-street",
@@ -3635,7 +3746,8 @@ window.KB = {
       "osm": "way/306795069",
       "kind": "residential",
       "lat": 24.373741,
-      "lon": 54.760425
+      "lon": 54.760425,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-awalah-street",
@@ -3646,7 +3758,8 @@ window.KB = {
       "osm": "way/247044163",
       "kind": "residential",
       "lat": 24.334188,
-      "lon": 54.532472
+      "lon": 54.532472,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-awqaf-street",
@@ -3657,7 +3770,8 @@ window.KB = {
       "osm": "way/54201193",
       "kind": "residential",
       "lat": 24.369889,
-      "lon": 54.648654
+      "lon": 54.648654,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-awsimah-street",
@@ -3668,7 +3782,8 @@ window.KB = {
       "osm": "way/247044177",
       "kind": "residential",
       "lat": 24.334601,
-      "lon": 54.534213
+      "lon": 54.534213,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-awtad-street",
@@ -3679,7 +3794,8 @@ window.KB = {
       "osm": "way/448037663",
       "kind": "residential",
       "lat": 24.373085,
-      "lon": 54.769957
+      "lon": 54.769957,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-awtan-street",
@@ -3690,7 +3806,8 @@ window.KB = {
       "osm": "way/306795066",
       "kind": "residential",
       "lat": 24.350574,
-      "lon": 54.742958
+      "lon": 54.742958,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ayk-street",
@@ -3701,7 +3818,8 @@ window.KB = {
       "osm": "way/173175029",
       "kind": "residential",
       "lat": 24.322329,
-      "lon": 54.549365
+      "lon": 54.549365,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-babah-street",
@@ -3712,7 +3830,8 @@ window.KB = {
       "osm": "way/448037726",
       "kind": "residential",
       "lat": 24.329411,
-      "lon": 54.754535
+      "lon": 54.754535,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bada-i-street",
@@ -3723,7 +3842,8 @@ window.KB = {
       "osm": "way/95630425",
       "kind": "residential",
       "lat": 24.410481,
-      "lon": 54.75183
+      "lon": 54.75183,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-badawah-street",
@@ -3734,7 +3854,8 @@ window.KB = {
       "osm": "way/115726567",
       "kind": "residential",
       "lat": 24.299077,
-      "lon": 54.661162
+      "lon": 54.661162,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-badhl-street",
@@ -3745,7 +3866,8 @@ window.KB = {
       "osm": "way/635443227",
       "kind": "residential",
       "lat": 24.34482,
-      "lon": 54.776132
+      "lon": 54.776132,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-baha-a-street",
@@ -3756,7 +3878,8 @@ window.KB = {
       "osm": "way/91676422",
       "kind": "residential",
       "lat": 24.332995,
-      "lon": 54.563
+      "lon": 54.563,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bahah-street",
@@ -3767,7 +3890,8 @@ window.KB = {
       "osm": "way/116691893",
       "kind": "residential",
       "lat": 24.342523,
-      "lon": 54.530373
+      "lon": 54.530373,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bahayis-street",
@@ -3778,7 +3902,8 @@ window.KB = {
       "osm": "way/119551933",
       "kind": "residential",
       "lat": 24.396458,
-      "lon": 54.701456
+      "lon": 54.701456,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bahloul-street",
@@ -3789,7 +3914,8 @@ window.KB = {
       "osm": "way/974606696",
       "kind": "residential",
       "lat": 24.403645,
-      "lon": 54.695325
+      "lon": 54.695325,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bakhour-street",
@@ -3800,7 +3926,8 @@ window.KB = {
       "osm": "way/24300416",
       "kind": "residential",
       "lat": 24.408829,
-      "lon": 54.493796
+      "lon": 54.493796,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bakra-street",
@@ -3811,7 +3938,8 @@ window.KB = {
       "osm": "way/974606734",
       "kind": "residential",
       "lat": 24.39877,
-      "lon": 54.671636
+      "lon": 54.671636,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-balabil-street",
@@ -3822,7 +3950,8 @@ window.KB = {
       "osm": "way/1161282187",
       "kind": "residential",
       "lat": 24.398486,
-      "lon": 54.675434
+      "lon": 54.675434,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-balaghah-street",
@@ -3833,7 +3962,8 @@ window.KB = {
       "osm": "way/635443212",
       "kind": "residential",
       "lat": 24.341877,
-      "lon": 54.770029
+      "lon": 54.770029,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-balam-street",
@@ -3844,7 +3974,8 @@ window.KB = {
       "osm": "way/473392994",
       "kind": "residential",
       "lat": 24.327998,
-      "lon": 54.538247
+      "lon": 54.538247,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-banah-street",
@@ -3855,7 +3986,8 @@ window.KB = {
       "osm": "way/89640078",
       "kind": "residential",
       "lat": 24.364852,
-      "lon": 54.534093
+      "lon": 54.534093,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bandar-street",
@@ -3866,7 +3998,8 @@ window.KB = {
       "osm": "way/1329185796",
       "kind": "secondary",
       "lat": 24.407916,
-      "lon": 54.61231
+      "lon": 54.61231,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-baqah-street",
@@ -3877,7 +4010,8 @@ window.KB = {
       "osm": "way/306808326",
       "kind": "residential",
       "lat": 24.31075,
-      "lon": 54.625189
+      "lon": 54.625189,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-baqeel-street",
@@ -3888,7 +4022,8 @@ window.KB = {
       "osm": "way/247044145",
       "kind": "residential",
       "lat": 24.333985,
-      "lon": 54.533784
+      "lon": 54.533784,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bara-a-bin-azib-street",
@@ -3899,7 +4034,8 @@ window.KB = {
       "osm": "way/54200931",
       "kind": "residential",
       "lat": 24.345766,
-      "lon": 54.621567
+      "lon": 54.621567,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bara-a-bin-ma-rour-street",
@@ -3910,7 +4046,8 @@ window.KB = {
       "osm": "way/91675984",
       "kind": "residential",
       "lat": 24.345537,
-      "lon": 54.546415
+      "lon": 54.546415,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bara-im-street",
@@ -3921,7 +4058,8 @@ window.KB = {
       "osm": "way/172374027",
       "kind": "tertiary",
       "lat": 24.259004,
-      "lon": 54.627391
+      "lon": 54.627391,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barajeel-street",
@@ -3932,7 +4070,8 @@ window.KB = {
       "osm": "way/247008814",
       "kind": "residential",
       "lat": 24.309754,
-      "lon": 54.646955
+      "lon": 54.646955,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barari-street",
@@ -3943,7 +4082,8 @@ window.KB = {
       "osm": "way/115732707",
       "kind": "tertiary",
       "lat": 24.367631,
-      "lon": 54.690115
+      "lon": 54.690115,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bardi-street",
@@ -3954,7 +4094,8 @@ window.KB = {
       "osm": "way/306694613",
       "kind": "residential",
       "lat": 24.334338,
-      "lon": 54.749205
+      "lon": 54.749205,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bareed-street",
@@ -3965,7 +4106,8 @@ window.KB = {
       "osm": "way/116691917",
       "kind": "residential",
       "lat": 24.341041,
-      "lon": 54.53613
+      "lon": 54.53613,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bareeq-street",
@@ -3976,7 +4118,8 @@ window.KB = {
       "osm": "way/248465682",
       "kind": "residential",
       "lat": 24.370209,
-      "lon": 54.752994
+      "lon": 54.752994,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bari-street",
@@ -3987,7 +4130,8 @@ window.KB = {
       "osm": "way/1041887907",
       "kind": "residential",
       "lat": 24.410905,
-      "lon": 54.585339
+      "lon": 54.585339,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barih-street",
@@ -3998,7 +4142,8 @@ window.KB = {
       "osm": "way/820507556",
       "kind": "residential",
       "lat": 24.384855,
-      "lon": 54.598554
+      "lon": 54.598554,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bariq-street",
@@ -4009,7 +4154,8 @@ window.KB = {
       "osm": "way/635013544",
       "kind": "residential",
       "lat": 24.370175,
-      "lon": 54.777142
+      "lon": 54.777142,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barjas-street",
@@ -4020,7 +4166,8 @@ window.KB = {
       "osm": "way/248465655",
       "kind": "tertiary",
       "lat": 24.368679,
-      "lon": 54.762988
+      "lon": 54.762988,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-baroud-street",
@@ -4031,7 +4178,8 @@ window.KB = {
       "osm": "way/473381977",
       "kind": "residential",
       "lat": 24.323162,
-      "lon": 54.570291
+      "lon": 54.570291,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barqa-a-street",
@@ -4042,7 +4190,8 @@ window.KB = {
       "osm": "way/1154210603",
       "kind": "residential",
       "lat": 24.383478,
-      "lon": 54.597039
+      "lon": 54.597039,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barraq-street",
@@ -4053,7 +4202,8 @@ window.KB = {
       "osm": "way/247008818",
       "kind": "residential",
       "lat": 24.307325,
-      "lon": 54.657539
+      "lon": 54.657539,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barriyyah-street",
@@ -4064,7 +4214,8 @@ window.KB = {
       "osm": "way/306682852",
       "kind": "residential",
       "lat": 24.353934,
-      "lon": 54.747587
+      "lon": 54.747587,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-barwah-street",
@@ -4075,7 +4226,8 @@ window.KB = {
       "osm": "way/974463501",
       "kind": "residential",
       "lat": 24.356989,
-      "lon": 54.610873
+      "lon": 54.610873,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-basateen-street",
@@ -4086,7 +4238,8 @@ window.KB = {
       "osm": "way/115732730",
       "kind": "tertiary",
       "lat": 24.371207,
-      "lon": 54.680316
+      "lon": 54.680316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-baseerah-street",
@@ -4097,7 +4250,8 @@ window.KB = {
       "osm": "way/173226866",
       "kind": "residential",
       "lat": 24.321558,
-      "lon": 54.565002
+      "lon": 54.565002,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-baseet-street",
@@ -4108,7 +4262,8 @@ window.KB = {
       "osm": "way/635013572",
       "kind": "residential",
       "lat": 24.376714,
-      "lon": 54.773005
+      "lon": 54.773005,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bat-ha-a-al-oudah-street",
@@ -4119,7 +4274,8 @@ window.KB = {
       "osm": "way/819199176",
       "kind": "residential",
       "lat": 24.385706,
-      "lon": 54.676434
+      "lon": 54.676434,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bathnah-street",
@@ -4130,7 +4286,8 @@ window.KB = {
       "osm": "way/105578719",
       "kind": "tertiary",
       "lat": 24.372142,
-      "lon": 54.708801
+      "lon": 54.708801,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-battar-street",
@@ -4141,7 +4298,8 @@ window.KB = {
       "osm": "way/473381970",
       "kind": "residential",
       "lat": 24.31902,
-      "lon": 54.576903
+      "lon": 54.576903,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bawadir-street",
@@ -4152,7 +4310,8 @@ window.KB = {
       "osm": "way/116429198",
       "kind": "residential",
       "lat": 24.319337,
-      "lon": 54.617261
+      "lon": 54.617261,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bawarij-street",
@@ -4163,7 +4322,8 @@ window.KB = {
       "osm": "way/306682848",
       "kind": "residential",
       "lat": 24.366913,
-      "lon": 54.748071
+      "lon": 54.748071,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bawasil-street",
@@ -4174,7 +4334,8 @@ window.KB = {
       "osm": "way/820507606",
       "kind": "unclassified",
       "lat": 24.385113,
-      "lon": 54.606669
+      "lon": 54.606669,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bawsalah-street",
@@ -4185,7 +4346,8 @@ window.KB = {
       "osm": "way/119551929",
       "kind": "residential",
       "lat": 24.388632,
-      "lon": 54.698987
+      "lon": 54.698987,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bayda-street",
@@ -4196,7 +4358,8 @@ window.KB = {
       "osm": "way/370664535",
       "kind": "residential",
       "lat": 24.315179,
-      "lon": 54.534745
+      "lon": 54.534745,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bayda-a-street",
@@ -4207,7 +4370,8 @@ window.KB = {
       "osm": "way/821077776",
       "kind": "residential",
       "lat": 24.376584,
-      "lon": 54.613808
+      "lon": 54.613808,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-baylasan-street",
@@ -4218,73 +4382,20 @@ window.KB = {
       "osm": "way/820507467",
       "kind": "residential",
       "lat": 24.364839,
-      "lon": 54.610777
+      "lon": 54.610777,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-bayli-1-street",
+      "id": "abu-dhabi-city/al-bayli-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Bayli 1 Street",
-      "name_ar": "شارع البَيلِي 1",
+      "name_en": "Al Bayli Street",
+      "name_ar": "شارع البَيلِي",
       "osm": "way/24313665",
       "kind": "unclassified",
       "lat": 24.380008,
-      "lon": 54.485893
-    },
-    {
-      "id": "abu-dhabi-city/al-bayli-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bayli 2 Street",
-      "name_ar": "شارع البَيلِي 2",
-      "osm": "way/636983967",
-      "kind": "unclassified",
-      "lat": 24.376502,
-      "lon": 54.490701
-    },
-    {
-      "id": "abu-dhabi-city/al-bayli-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bayli 3 Street",
-      "name_ar": "شارع البَيلِي 3",
-      "osm": "way/24313671",
-      "kind": "unclassified",
-      "lat": 24.378996,
-      "lon": 54.486082
-    },
-    {
-      "id": "abu-dhabi-city/al-bayli-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bayli 4 Street",
-      "name_ar": "شارع البَيلِي 4",
-      "osm": "way/24313668",
-      "kind": "unclassified",
-      "lat": 24.376917,
-      "lon": 54.488283
-    },
-    {
-      "id": "abu-dhabi-city/al-bayli-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bayli 5 Street",
-      "name_ar": "شارع البَيلِي 5",
-      "osm": "way/24313666",
-      "kind": "unclassified",
-      "lat": 24.373651,
-      "lon": 54.486277
-    },
-    {
-      "id": "abu-dhabi-city/al-bayli-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bayli 6 Street",
-      "name_ar": "شارع البَيلِي 6",
-      "osm": "way/24313669",
-      "kind": "unclassified",
-      "lat": 24.376751,
-      "lon": 54.484086
+      "lon": 54.485893,
+      "variants": 10
     },
     {
       "id": "abu-dhabi-city/al-bayraq-street",
@@ -4295,7 +4406,8 @@ window.KB = {
       "osm": "way/94058676",
       "kind": "tertiary",
       "lat": 24.370655,
-      "lon": 54.718669
+      "lon": 54.718669,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bazmi-street",
@@ -4306,7 +4418,8 @@ window.KB = {
       "osm": "way/974606658",
       "kind": "residential",
       "lat": 24.401627,
-      "lon": 54.710021
+      "lon": 54.710021,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bdeerat-street",
@@ -4317,139 +4430,20 @@ window.KB = {
       "osm": "way/173032731",
       "kind": "residential",
       "lat": 24.383345,
-      "lon": 54.534224
+      "lon": 54.534224,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-beerish-1-street",
+      "id": "abu-dhabi-city/al-beerish-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Beerish 1 Street",
-      "name_ar": "شارع البِيرِش 1",
-      "osm": "way/24350973",
-      "kind": "unclassified",
-      "lat": 24.338712,
-      "lon": 54.469499
-    },
-    {
-      "id": "abu-dhabi-city/al-beerish-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Beerish 2 Street",
-      "name_ar": "شارع البِيرِش 2",
-      "osm": "way/24350970",
-      "kind": "unclassified",
-      "lat": 24.338031,
-      "lon": 54.471249
-    },
-    {
-      "id": "abu-dhabi-city/al-beerish-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Beerish 3 Street",
-      "name_ar": "شارع البِيرِش 3",
-      "osm": "way/24350975",
-      "kind": "unclassified",
-      "lat": 24.338105,
-      "lon": 54.472038
-    },
-    {
-      "id": "abu-dhabi-city/al-beerish-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Beerish 5 Street",
-      "name_ar": "شارع البِيرِش 5",
-      "osm": "way/24350972",
-      "kind": "unclassified",
-      "lat": 24.337296,
-      "lon": 54.469557
-    },
-    {
-      "id": "abu-dhabi-city/al-beerish-7-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Beerish 7 Street",
-      "name_ar": "شارع البِيرِش 7",
-      "osm": "way/24350971",
-      "kind": "unclassified",
-      "lat": 24.335881,
-      "lon": 54.470286
-    },
-    {
-      "id": "abu-dhabi-city/al-beerish-9-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Beerish 9 Street",
-      "name_ar": "شارع البِيرِش 9",
+      "name_en": "Al Beerish Street",
+      "name_ar": "شارع البِيرِش",
       "osm": "way/24313100",
       "kind": "tertiary",
       "lat": 24.335652,
-      "lon": 54.478292
-    },
-    {
-      "id": "abu-dhabi-city/al-bees-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bees 1 Street",
-      "name_ar": "شارع البِيص 1",
-      "osm": "way/24313674",
-      "kind": "unclassified",
-      "lat": 24.3804,
-      "lon": 54.495885
-    },
-    {
-      "id": "abu-dhabi-city/al-bees-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bees 2 Street",
-      "name_ar": "شارع البِيص 2",
-      "osm": "way/24313673",
-      "kind": "unclassified",
-      "lat": 24.377366,
-      "lon": 54.499191
-    },
-    {
-      "id": "abu-dhabi-city/al-bees-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bees 3 Street",
-      "name_ar": "شارع البِيص 3",
-      "osm": "way/24313675",
-      "kind": "unclassified",
-      "lat": 24.374064,
-      "lon": 54.496196
-    },
-    {
-      "id": "abu-dhabi-city/al-bees-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bees 4 Street",
-      "name_ar": "شارع البِيص 4",
-      "osm": "way/24313676",
-      "kind": "unclassified",
-      "lat": 24.377275,
-      "lon": 54.497093
-    },
-    {
-      "id": "abu-dhabi-city/al-bees-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bees 6 Street",
-      "name_ar": "شارع البِيص 6",
-      "osm": "way/24313677",
-      "kind": "unclassified",
-      "lat": 24.377191,
-      "lon": 54.494978
-    },
-    {
-      "id": "abu-dhabi-city/al-bees-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Bees 8 Street",
-      "name_ar": "شارع البِيص 8",
-      "osm": "way/24313672",
-      "kind": "unclassified",
-      "lat": 24.377103,
-      "lon": 54.49289
+      "lon": 54.478292,
+      "variants": 11
     },
     {
       "id": "abu-dhabi-city/al-bees-street",
@@ -4460,7 +4454,8 @@ window.KB = {
       "osm": "way/24312012",
       "kind": "tertiary",
       "lat": 24.376997,
-      "lon": 54.491244
+      "lon": 54.491244,
+      "variants": 15
     },
     {
       "id": "abu-dhabi-city/al-bhi-street",
@@ -4471,7 +4466,8 @@ window.KB = {
       "osm": "way/248465658",
       "kind": "residential",
       "lat": 24.358723,
-      "lon": 54.748594
+      "lon": 54.748594,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bidn-street",
@@ -4482,7 +4478,8 @@ window.KB = {
       "osm": "way/24303626",
       "kind": "residential",
       "lat": 24.393021,
-      "lon": 54.50188
+      "lon": 54.50188,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bihriyyah-street",
@@ -4493,7 +4490,8 @@ window.KB = {
       "osm": "way/24300413",
       "kind": "residential",
       "lat": 24.406012,
-      "lon": 54.493836
+      "lon": 54.493836,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bilad-street",
@@ -4504,7 +4502,8 @@ window.KB = {
       "osm": "way/306686129",
       "kind": "residential",
       "lat": 24.361409,
-      "lon": 54.767518
+      "lon": 54.767518,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bilaym-street",
@@ -4515,7 +4514,8 @@ window.KB = {
       "osm": "way/974606622",
       "kind": "residential",
       "lat": 24.405,
-      "lon": 54.708603
+      "lon": 54.708603,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bireeqa-street",
@@ -4526,7 +4526,8 @@ window.KB = {
       "osm": "way/116691011",
       "kind": "residential",
       "lat": 24.295604,
-      "lon": 54.626241
+      "lon": 54.626241,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bishr-street",
@@ -4537,7 +4538,8 @@ window.KB = {
       "osm": "way/306795054",
       "kind": "residential",
       "lat": 24.374505,
-      "lon": 54.758773
+      "lon": 54.758773,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bisht-street",
@@ -4548,7 +4550,8 @@ window.KB = {
       "osm": "way/306694620",
       "kind": "residential",
       "lat": 24.33079,
-      "lon": 54.748932
+      "lon": 54.748932,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bisir-street",
@@ -4559,7 +4562,8 @@ window.KB = {
       "osm": "way/974606693",
       "kind": "residential",
       "lat": 24.404476,
-      "lon": 54.697008
+      "lon": 54.697008,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bizoum-street",
@@ -4570,7 +4574,8 @@ window.KB = {
       "osm": "way/115726584",
       "kind": "residential",
       "lat": 24.305042,
-      "lon": 54.653052
+      "lon": 54.653052,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-boum-street",
@@ -4581,7 +4586,8 @@ window.KB = {
       "osm": "way/90768139",
       "kind": "residential",
       "lat": 24.36042,
-      "lon": 54.559497
+      "lon": 54.559497,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-boursah-street",
@@ -4592,7 +4598,8 @@ window.KB = {
       "osm": "way/635438237",
       "kind": "residential",
       "lat": 24.331901,
-      "lon": 54.76934
+      "lon": 54.76934,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bsal-street",
@@ -4603,7 +4610,8 @@ window.KB = {
       "osm": "way/24311993",
       "kind": "tertiary",
       "lat": 24.376557,
-      "lon": 54.48106
+      "lon": 54.48106,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-budour-street",
@@ -4614,7 +4622,8 @@ window.KB = {
       "osm": "way/306686115",
       "kind": "residential",
       "lat": 24.356772,
-      "lon": 54.767469
+      "lon": 54.767469,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-buhturi-street",
@@ -4625,7 +4634,8 @@ window.KB = {
       "osm": "way/306671029",
       "kind": "residential",
       "lat": 24.33338,
-      "lon": 54.737702
+      "lon": 54.737702,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bukhari-street",
@@ -4636,7 +4646,8 @@ window.KB = {
       "osm": "way/820507543",
       "kind": "residential",
       "lat": 24.377396,
-      "lon": 54.600947
+      "lon": 54.600947,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bunduq-street",
@@ -4647,7 +4658,8 @@ window.KB = {
       "osm": "way/474712093",
       "kind": "residential",
       "lat": 24.335478,
-      "lon": 54.575813
+      "lon": 54.575813,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bunyan-street",
@@ -4658,7 +4670,8 @@ window.KB = {
       "osm": "way/24300415",
       "kind": "residential",
       "lat": 24.409326,
-      "lon": 54.49408
+      "lon": 54.49408,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-burdah-street",
@@ -4669,7 +4682,8 @@ window.KB = {
       "osm": "way/306682826",
       "kind": "residential",
       "lat": 24.362306,
-      "lon": 54.751568
+      "lon": 54.751568,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-burouq-street",
@@ -4680,7 +4694,8 @@ window.KB = {
       "osm": "way/161842255",
       "kind": "residential",
       "lat": 24.320944,
-      "lon": 54.532637
+      "lon": 54.532637,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-bustan-street",
@@ -4691,7 +4706,8 @@ window.KB = {
       "osm": "way/1354371527",
       "kind": "tertiary",
       "lat": 24.398444,
-      "lon": 54.636931
+      "lon": 54.636931,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dafafi-street",
@@ -4702,7 +4718,8 @@ window.KB = {
       "osm": "way/24303606",
       "kind": "residential",
       "lat": 24.396786,
-      "lon": 54.495488
+      "lon": 54.495488,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-daleel-street",
@@ -4713,7 +4730,8 @@ window.KB = {
       "osm": "way/177140865",
       "kind": "residential",
       "lat": 24.26375,
-      "lon": 54.671472
+      "lon": 54.671472,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dari-street",
@@ -4724,7 +4742,8 @@ window.KB = {
       "osm": "way/306795076",
       "kind": "residential",
       "lat": 24.350514,
-      "lon": 54.740804
+      "lon": 54.740804,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dawahi-street",
@@ -4735,7 +4754,8 @@ window.KB = {
       "osm": "way/635438212",
       "kind": "residential",
       "lat": 24.354535,
-      "lon": 54.777334
+      "lon": 54.777334,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dha-dha-street",
@@ -4746,7 +4766,8 @@ window.KB = {
       "osm": "way/94055563",
       "kind": "residential",
       "lat": 24.384211,
-      "lon": 54.6467
+      "lon": 54.6467,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhafir-street",
@@ -4757,7 +4778,8 @@ window.KB = {
       "osm": "way/94329176",
       "kind": "residential",
       "lat": 24.262368,
-      "lon": 54.694843
+      "lon": 54.694843,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhafra-ring-road",
@@ -4768,7 +4790,8 @@ window.KB = {
       "osm": "way/244679380",
       "kind": "residential",
       "lat": 24.261595,
-      "lon": 54.539809
+      "lon": 54.539809,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhahab-street",
@@ -4779,7 +4802,8 @@ window.KB = {
       "osm": "way/230235322",
       "kind": "residential",
       "lat": 24.354416,
-      "lon": 54.749144
+      "lon": 54.749144,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhahrah-street",
@@ -4790,7 +4814,8 @@ window.KB = {
       "osm": "way/246157221",
       "kind": "residential",
       "lat": 24.348357,
-      "lon": 54.751206
+      "lon": 54.751206,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhaman-street",
@@ -4801,7 +4826,8 @@ window.KB = {
       "osm": "way/306795014",
       "kind": "residential",
       "lat": 24.369855,
-      "lon": 54.741019
+      "lon": 54.741019,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhari-street",
@@ -4812,7 +4838,8 @@ window.KB = {
       "osm": "way/438847741",
       "kind": "residential",
       "lat": 24.332089,
-      "lon": 54.538613
+      "lon": 54.538613,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhlayma-street",
@@ -4823,7 +4850,8 @@ window.KB = {
       "osm": "way/247048147",
       "kind": "residential",
       "lat": 24.32738,
-      "lon": 54.532797
+      "lon": 54.532797,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dhri-street",
@@ -4834,7 +4862,8 @@ window.KB = {
       "osm": "way/635013566",
       "kind": "residential",
       "lat": 24.373728,
-      "lon": 54.776097
+      "lon": 54.776097,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-dirasat-street",
@@ -4845,7 +4874,8 @@ window.KB = {
       "osm": "way/306686121",
       "kind": "residential",
       "lat": 24.359109,
-      "lon": 54.761677
+      "lon": 54.761677,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-douh-street",
@@ -4856,7 +4886,8 @@ window.KB = {
       "osm": "way/635443225",
       "kind": "residential",
       "lat": 24.344497,
-      "lon": 54.773304
+      "lon": 54.773304,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-durar-street",
@@ -4867,7 +4898,8 @@ window.KB = {
       "osm": "way/306795015",
       "kind": "residential",
       "lat": 24.368875,
-      "lon": 54.741451
+      "lon": 54.741451,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-duroub-street",
@@ -4878,7 +4910,8 @@ window.KB = {
       "osm": "way/121648420",
       "kind": "residential",
       "lat": 24.372822,
-      "lon": 54.703153
+      "lon": 54.703153,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-eethar-street",
@@ -4889,7 +4922,8 @@ window.KB = {
       "osm": "way/820507566",
       "kind": "residential",
       "lat": 24.381825,
-      "lon": 54.600571
+      "lon": 54.600571,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fada-a-street",
@@ -4900,7 +4934,8 @@ window.KB = {
       "osm": "way/635057877",
       "kind": "residential",
       "lat": 24.285595,
-      "lon": 54.633729
+      "lon": 54.633729,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fajr-street",
@@ -4911,7 +4946,8 @@ window.KB = {
       "osm": "way/820507567",
       "kind": "residential",
       "lat": 24.380651,
-      "lon": 54.60179
+      "lon": 54.60179,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-falaj-street",
@@ -4922,7 +4958,8 @@ window.KB = {
       "osm": "way/635403245",
       "kind": "residential",
       "lat": 24.332329,
-      "lon": 54.780472
+      "lon": 54.780472,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-falih-street",
@@ -4933,7 +4970,8 @@ window.KB = {
       "osm": "way/627829935",
       "kind": "residential",
       "lat": 24.381922,
-      "lon": 54.608715
+      "lon": 54.608715,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fan-street",
@@ -4944,7 +4982,8 @@ window.KB = {
       "osm": "way/474510495",
       "kind": "residential",
       "lat": 24.368398,
-      "lon": 54.542463
+      "lon": 54.542463,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-far-ayn-street",
@@ -4955,7 +4994,8 @@ window.KB = {
       "osm": "way/635013555",
       "kind": "residential",
       "lat": 24.369037,
-      "lon": 54.770254
+      "lon": 54.770254,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-faras-street",
@@ -4966,7 +5006,8 @@ window.KB = {
       "osm": "way/635443201",
       "kind": "residential",
       "lat": 24.334178,
-      "lon": 54.770626
+      "lon": 54.770626,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-farazdaq-street",
@@ -4977,7 +5018,8 @@ window.KB = {
       "osm": "way/448037691",
       "kind": "residential",
       "lat": 24.376634,
-      "lon": 54.745917
+      "lon": 54.745917,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fardah-street",
@@ -4988,7 +5030,8 @@ window.KB = {
       "osm": "way/24303623",
       "kind": "residential",
       "lat": 24.394169,
-      "lon": 54.501332
+      "lon": 54.501332,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fardh-street",
@@ -4999,7 +5042,8 @@ window.KB = {
       "osm": "way/306671026",
       "kind": "tertiary",
       "lat": 24.331305,
-      "lon": 54.739154
+      "lon": 54.739154,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-farfar-street",
@@ -5010,7 +5054,8 @@ window.KB = {
       "osm": "way/482580081",
       "kind": "residential",
       "lat": 24.336738,
-      "lon": 54.533186
+      "lon": 54.533186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fari-street",
@@ -5021,7 +5066,8 @@ window.KB = {
       "osm": "way/821077760",
       "kind": "residential",
       "lat": 24.380753,
-      "lon": 54.618925
+      "lon": 54.618925,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fari-ah-street",
@@ -5032,7 +5078,8 @@ window.KB = {
       "osm": "way/307114535",
       "kind": "residential",
       "lat": 24.341018,
-      "lon": 54.643189
+      "lon": 54.643189,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-farwaniyyah-street",
@@ -5043,7 +5090,8 @@ window.KB = {
       "osm": "way/306694611",
       "kind": "residential",
       "lat": 24.337166,
-      "lon": 54.75053
+      "lon": 54.75053,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-faseeh-street",
@@ -5054,7 +5102,8 @@ window.KB = {
       "osm": "way/983380790",
       "kind": "residential",
       "lat": 24.362807,
-      "lon": 54.629416
+      "lon": 54.629416,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-faseel-street",
@@ -5065,7 +5114,8 @@ window.KB = {
       "osm": "way/635746750",
       "kind": "residential",
       "lat": 24.34935,
-      "lon": 54.756922
+      "lon": 54.756922,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-faseelah-street",
@@ -5076,7 +5126,8 @@ window.KB = {
       "osm": "way/95490095",
       "kind": "residential",
       "lat": 24.405585,
-      "lon": 54.72371
+      "lon": 54.72371,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fasht-street",
@@ -5087,7 +5138,8 @@ window.KB = {
       "osm": "way/112455231",
       "kind": "residential",
       "lat": 24.382927,
-      "lon": 54.731934
+      "lon": 54.731934,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fateelah-street",
@@ -5098,7 +5150,8 @@ window.KB = {
       "osm": "way/93177781",
       "kind": "residential",
       "lat": 24.393956,
-      "lon": 54.660601
+      "lon": 54.660601,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-faw-street",
@@ -5109,7 +5162,8 @@ window.KB = {
       "osm": "way/116681864",
       "kind": "residential",
       "lat": 24.359575,
-      "lon": 54.663312
+      "lon": 54.663312,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fawj-street",
@@ -5120,7 +5174,8 @@ window.KB = {
       "osm": "way/115726575",
       "kind": "residential",
       "lat": 24.301539,
-      "lon": 54.659622
+      "lon": 54.659622,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fayah-al-oudah-street",
@@ -5131,7 +5186,8 @@ window.KB = {
       "osm": "way/248481466",
       "kind": "residential",
       "lat": 24.36291,
-      "lon": 54.686045
+      "lon": 54.686045,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fayah-al-gharbiyah-street",
@@ -5142,7 +5198,8 @@ window.KB = {
       "osm": "way/54200916",
       "kind": "residential",
       "lat": 24.350381,
-      "lon": 54.62548
+      "lon": 54.62548,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fayha-street",
@@ -5153,7 +5210,8 @@ window.KB = {
       "osm": "way/306682851",
       "kind": "residential",
       "lat": 24.356723,
-      "lon": 54.755441
+      "lon": 54.755441,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fayi-street",
@@ -5164,7 +5222,8 @@ window.KB = {
       "osm": "way/448037735",
       "kind": "residential",
       "lat": 24.328538,
-      "lon": 54.761204
+      "lon": 54.761204,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fayrouz-street",
@@ -5175,7 +5234,8 @@ window.KB = {
       "osm": "way/248465689",
       "kind": "residential",
       "lat": 24.360664,
-      "lon": 54.744554
+      "lon": 54.744554,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-faysal-street",
@@ -5186,7 +5246,8 @@ window.KB = {
       "osm": "way/94058674",
       "kind": "residential",
       "lat": 24.375943,
-      "lon": 54.726261
+      "lon": 54.726261,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fayyah-street",
@@ -5197,7 +5258,8 @@ window.KB = {
       "osm": "way/820507475",
       "kind": "residential",
       "lat": 24.364892,
-      "lon": 54.609207
+      "lon": 54.609207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-faz-ah-street",
@@ -5208,7 +5270,8 @@ window.KB = {
       "osm": "way/821077765",
       "kind": "residential",
       "lat": 24.372752,
-      "lon": 54.621976
+      "lon": 54.621976,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fida-a-street",
@@ -5219,7 +5282,8 @@ window.KB = {
       "osm": "way/173019887",
       "kind": "tertiary",
       "lat": 24.299285,
-      "lon": 54.568119
+      "lon": 54.568119,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fina-a-street",
@@ -5230,7 +5294,8 @@ window.KB = {
       "osm": "way/54201199",
       "kind": "residential",
       "lat": 24.368983,
-      "lon": 54.643269
+      "lon": 54.643269,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-find-street",
@@ -5241,7 +5306,8 @@ window.KB = {
       "osm": "way/634310277",
       "kind": "residential",
       "lat": 24.364001,
-      "lon": 54.732249
+      "lon": 54.732249,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-firasah-street",
@@ -5252,7 +5318,8 @@ window.KB = {
       "osm": "way/306686132",
       "kind": "residential",
       "lat": 24.357261,
-      "lon": 54.76234
+      "lon": 54.76234,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-firsad-street",
@@ -5263,7 +5330,8 @@ window.KB = {
       "osm": "way/119287526",
       "kind": "residential",
       "lat": 24.393772,
-      "lon": 54.710815
+      "lon": 54.710815,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-firyah-street",
@@ -5274,7 +5342,8 @@ window.KB = {
       "osm": "way/247044179",
       "kind": "residential",
       "lat": 24.334074,
-      "lon": 54.535737
+      "lon": 54.535737,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fitnah-street",
@@ -5285,7 +5354,8 @@ window.KB = {
       "osm": "way/116896687",
       "kind": "unclassified",
       "lat": 24.398325,
-      "lon": 54.734823
+      "lon": 54.734823,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-flayah-street",
@@ -5296,7 +5366,8 @@ window.KB = {
       "osm": "way/306818481",
       "kind": "residential",
       "lat": 24.294909,
-      "lon": 54.632052
+      "lon": 54.632052,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fou-ah-street",
@@ -5307,7 +5378,8 @@ window.KB = {
       "osm": "way/95630396",
       "kind": "residential",
       "lat": 24.406121,
-      "lon": 54.75105
+      "lon": 54.75105,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fteysi-street",
@@ -5318,7 +5390,8 @@ window.KB = {
       "osm": "way/116691875",
       "kind": "residential",
       "lat": 24.34598,
-      "lon": 54.534842
+      "lon": 54.534842,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fu-ad-street",
@@ -5329,7 +5402,8 @@ window.KB = {
       "osm": "way/173392554",
       "kind": "residential",
       "lat": 24.312349,
-      "lon": 54.564688
+      "lon": 54.564688,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fuhoud-street",
@@ -5340,7 +5414,8 @@ window.KB = {
       "osm": "way/92007289",
       "kind": "residential",
       "lat": 24.357902,
-      "lon": 54.528705
+      "lon": 54.528705,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ful-street",
@@ -5351,7 +5426,8 @@ window.KB = {
       "osm": "way/94058661",
       "kind": "tertiary",
       "lat": 24.409333,
-      "lon": 54.74497
+      "lon": 54.74497,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-furqan-street",
@@ -5362,7 +5438,8 @@ window.KB = {
       "osm": "way/694566673",
       "kind": "residential",
       "lat": 24.371731,
-      "lon": 54.550731
+      "lon": 54.550731,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fursan-street",
@@ -5373,7 +5450,8 @@ window.KB = {
       "osm": "way/24297145",
       "kind": "secondary",
       "lat": 24.402473,
-      "lon": 54.55292
+      "lon": 54.55292,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-fusoul-street",
@@ -5384,7 +5462,8 @@ window.KB = {
       "osm": "way/116691053",
       "kind": "residential",
       "lat": 24.290951,
-      "lon": 54.632509
+      "lon": 54.632509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghabeeb-street",
@@ -5395,7 +5474,8 @@ window.KB = {
       "osm": "way/93177751",
       "kind": "residential",
       "lat": 24.392053,
-      "lon": 54.657143
+      "lon": 54.657143,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghadan-street",
@@ -5406,7 +5486,8 @@ window.KB = {
       "osm": "way/173180863",
       "kind": "residential",
       "lat": 24.31181,
-      "lon": 54.532312
+      "lon": 54.532312,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghadaq-street",
@@ -5417,7 +5498,8 @@ window.KB = {
       "osm": "way/54200957",
       "kind": "residential",
       "lat": 24.350665,
-      "lon": 54.618065
+      "lon": 54.618065,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghadayir-street",
@@ -5428,7 +5510,8 @@ window.KB = {
       "osm": "way/173175061",
       "kind": "residential",
       "lat": 24.320895,
-      "lon": 54.549106
+      "lon": 54.549106,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghadeer-street",
@@ -5439,7 +5522,8 @@ window.KB = {
       "osm": "way/105445454",
       "kind": "secondary",
       "lat": 24.303126,
-      "lon": 54.636313
+      "lon": 54.636313,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghadran-street",
@@ -5450,7 +5534,8 @@ window.KB = {
       "osm": "way/93177754",
       "kind": "residential",
       "lat": 24.394265,
-      "lon": 54.662029
+      "lon": 54.662029,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghait-street",
@@ -5461,7 +5546,8 @@ window.KB = {
       "osm": "way/820507405",
       "kind": "residential",
       "lat": 24.392546,
-      "lon": 54.626054
+      "lon": 54.626054,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghala-street",
@@ -5472,7 +5558,8 @@ window.KB = {
       "osm": "way/173116702",
       "kind": "residential",
       "lat": 24.325967,
-      "lon": 54.53834
+      "lon": 54.53834,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghanadeer-street",
@@ -5483,7 +5570,8 @@ window.KB = {
       "osm": "way/974606722",
       "kind": "residential",
       "lat": 24.39662,
-      "lon": 54.674534
+      "lon": 54.674534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghanj-street",
@@ -5494,7 +5582,8 @@ window.KB = {
       "osm": "way/635443228",
       "kind": "residential",
       "lat": 24.34712,
-      "lon": 54.776056
+      "lon": 54.776056,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-gharbi-street",
@@ -5505,7 +5594,8 @@ window.KB = {
       "osm": "way/634310269",
       "kind": "residential",
       "lat": 24.345216,
-      "lon": 54.753329
+      "lon": 54.753329,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-gharib-street",
@@ -5516,7 +5606,8 @@ window.KB = {
       "osm": "way/474920681",
       "kind": "residential",
       "lat": 24.29744,
-      "lon": 54.571048
+      "lon": 54.571048,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-gharnouq-street",
@@ -5527,7 +5618,8 @@ window.KB = {
       "osm": "way/635013536",
       "kind": "residential",
       "lat": 24.369314,
-      "lon": 54.777491
+      "lon": 54.777491,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghayliyah-street",
@@ -5538,7 +5630,8 @@ window.KB = {
       "osm": "way/54200976",
       "kind": "residential",
       "lat": 24.349494,
-      "lon": 54.615892
+      "lon": 54.615892,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghaym-street",
@@ -5549,7 +5642,8 @@ window.KB = {
       "osm": "way/94055569",
       "kind": "residential",
       "lat": 24.379107,
-      "lon": 54.649844
+      "lon": 54.649844,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghayth-street",
@@ -5560,7 +5654,8 @@ window.KB = {
       "osm": "way/230235317",
       "kind": "tertiary",
       "lat": 24.350462,
-      "lon": 54.744169
+      "lon": 54.744169,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghazayil-street",
@@ -5571,40 +5666,20 @@ window.KB = {
       "osm": "way/94055538",
       "kind": "residential",
       "lat": 24.385838,
-      "lon": 54.640411
+      "lon": 54.640411,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-ghazl-1-street",
+      "id": "abu-dhabi-city/al-ghazl-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Ghazl 1 Street",
-      "name_ar": "شارع الغَزل 1",
+      "name_en": "Al Ghazl Street",
+      "name_ar": "شارع الغَزل",
       "osm": "way/24350911",
       "kind": "unclassified",
       "lat": 24.348954,
-      "lon": 54.497385
-    },
-    {
-      "id": "abu-dhabi-city/al-ghazl-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Ghazl 3 Street",
-      "name_ar": "شارع الغَزل 3",
-      "osm": "way/24350912",
-      "kind": "unclassified",
-      "lat": 24.347082,
-      "lon": 54.497476
-    },
-    {
-      "id": "abu-dhabi-city/al-ghazl-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Ghazl 4 Street",
-      "name_ar": "شارع الغَزل 4",
-      "osm": "way/24350915",
-      "kind": "unclassified",
-      "lat": 24.348042,
-      "lon": 54.49809
+      "lon": 54.497385,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/al-ghda-street",
@@ -5615,7 +5690,8 @@ window.KB = {
       "osm": "way/306795060",
       "kind": "residential",
       "lat": 24.376581,
-      "lon": 54.750252
+      "lon": 54.750252,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghibaybah-street",
@@ -5626,7 +5702,8 @@ window.KB = {
       "osm": "way/92007308",
       "kind": "residential",
       "lat": 24.360309,
-      "lon": 54.529975
+      "lon": 54.529975,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghilal-street",
@@ -5637,7 +5714,8 @@ window.KB = {
       "osm": "way/177637678",
       "kind": "residential",
       "lat": 24.278781,
-      "lon": 54.689992
+      "lon": 54.689992,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghimd-street",
@@ -5648,7 +5726,8 @@ window.KB = {
       "osm": "way/105578240",
       "kind": "residential",
       "lat": 24.380553,
-      "lon": 54.740627
+      "lon": 54.740627,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghirizah-street",
@@ -5659,7 +5738,8 @@ window.KB = {
       "osm": "way/974606611",
       "kind": "residential",
       "lat": 24.40861,
-      "lon": 54.705141
+      "lon": 54.705141,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghiwayr-street",
@@ -5670,7 +5750,8 @@ window.KB = {
       "osm": "way/247044140",
       "kind": "residential",
       "lat": 24.336931,
-      "lon": 54.537805
+      "lon": 54.537805,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghiynah-street",
@@ -5681,7 +5762,8 @@ window.KB = {
       "osm": "way/92007333",
       "kind": "residential",
       "lat": 24.329875,
-      "lon": 54.558735
+      "lon": 54.558735,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghizlan-street",
@@ -5692,7 +5774,8 @@ window.KB = {
       "osm": "way/306671034",
       "kind": "residential",
       "lat": 24.333526,
-      "lon": 54.743072
+      "lon": 54.743072,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghizlaniyat-street",
@@ -5703,7 +5786,8 @@ window.KB = {
       "osm": "way/173398907",
       "kind": "residential",
       "lat": 24.30258,
-      "lon": 54.582726
+      "lon": 54.582726,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghouhi-street",
@@ -5714,7 +5798,8 @@ window.KB = {
       "osm": "way/24300380",
       "kind": "residential",
       "lat": 24.403948,
-      "lon": 54.49933
+      "lon": 54.49933,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghrabiah-street",
@@ -5725,7 +5810,8 @@ window.KB = {
       "osm": "way/474712087",
       "kind": "residential",
       "lat": 24.330449,
-      "lon": 54.578289
+      "lon": 54.578289,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghubouq-street",
@@ -5736,7 +5822,8 @@ window.KB = {
       "osm": "way/246998995",
       "kind": "residential",
       "lat": 24.288042,
-      "lon": 54.644988
+      "lon": 54.644988,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghumamah-street",
@@ -5747,7 +5834,8 @@ window.KB = {
       "osm": "way/247048135",
       "kind": "residential",
       "lat": 24.327737,
-      "lon": 54.53104
+      "lon": 54.53104,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghuroub-street",
@@ -5758,7 +5846,8 @@ window.KB = {
       "osm": "way/92007295",
       "kind": "residential",
       "lat": 24.329114,
-      "lon": 54.561104
+      "lon": 54.561104,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghusoun-street",
@@ -5769,7 +5858,8 @@ window.KB = {
       "osm": "way/306686112",
       "kind": "residential",
       "lat": 24.356227,
-      "lon": 54.764922
+      "lon": 54.764922,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ghzoul-street",
@@ -5780,7 +5870,8 @@ window.KB = {
       "osm": "way/235148648",
       "kind": "residential",
       "lat": 24.364455,
-      "lon": 54.698932
+      "lon": 54.698932,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-haal-street",
@@ -5791,7 +5882,8 @@ window.KB = {
       "osm": "way/635033694",
       "kind": "residential",
       "lat": 24.363218,
-      "lon": 54.779852
+      "lon": 54.779852,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-haboul-street",
@@ -5802,7 +5894,8 @@ window.KB = {
       "osm": "way/636059528",
       "kind": "residential",
       "lat": 24.358301,
-      "lon": 54.732698
+      "lon": 54.732698,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadabah-street",
@@ -5813,7 +5906,8 @@ window.KB = {
       "osm": "way/177637743",
       "kind": "residential",
       "lat": 24.263886,
-      "lon": 54.697256
+      "lon": 54.697256,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadaf-street",
@@ -5824,7 +5918,8 @@ window.KB = {
       "osm": "way/448037668",
       "kind": "residential",
       "lat": 24.357951,
-      "lon": 54.737558
+      "lon": 54.737558,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadar-street",
@@ -5835,7 +5930,8 @@ window.KB = {
       "osm": "way/94329203",
       "kind": "residential",
       "lat": 24.267096,
-      "lon": 54.664772
+      "lon": 54.664772,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadaya-street",
@@ -5846,7 +5942,8 @@ window.KB = {
       "osm": "way/248465717",
       "kind": "residential",
       "lat": 24.359686,
-      "lon": 54.744081
+      "lon": 54.744081,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadayiq-street",
@@ -5857,7 +5954,8 @@ window.KB = {
       "osm": "way/635456109",
       "kind": "residential",
       "lat": 24.348515,
-      "lon": 54.769153
+      "lon": 54.769153,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadeel-street",
@@ -5868,7 +5966,8 @@ window.KB = {
       "osm": "way/634416924",
       "kind": "residential",
       "lat": 24.369172,
-      "lon": 54.736633
+      "lon": 54.736633,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadhrah-street",
@@ -5879,7 +5978,8 @@ window.KB = {
       "osm": "way/473393001",
       "kind": "residential",
       "lat": 24.360123,
-      "lon": 54.542086
+      "lon": 54.542086,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hadwah-street",
@@ -5890,7 +5990,8 @@ window.KB = {
       "osm": "way/116429202",
       "kind": "residential",
       "lat": 24.310614,
-      "lon": 54.633436
+      "lon": 54.633436,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hafawah-street",
@@ -5901,7 +6002,8 @@ window.KB = {
       "osm": "way/24303615",
       "kind": "residential",
       "lat": 24.393839,
-      "lon": 54.497922
+      "lon": 54.497922,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hajoul-street",
@@ -5912,7 +6014,8 @@ window.KB = {
       "osm": "way/820507423",
       "kind": "residential",
       "lat": 24.391998,
-      "lon": 54.616483
+      "lon": 54.616483,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hajrayn-street",
@@ -5923,7 +6026,8 @@ window.KB = {
       "osm": "way/975362789",
       "kind": "residential",
       "lat": 24.402582,
-      "lon": 54.693627
+      "lon": 54.693627,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-haleeliyah-street",
@@ -5934,7 +6038,8 @@ window.KB = {
       "osm": "way/173175066",
       "kind": "residential",
       "lat": 24.320702,
-      "lon": 54.544199
+      "lon": 54.544199,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-halj-street",
@@ -5945,7 +6050,8 @@ window.KB = {
       "osm": "way/635438641",
       "kind": "residential",
       "lat": 24.316301,
-      "lon": 54.589315
+      "lon": 54.589315,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hamat-street",
@@ -5956,7 +6062,8 @@ window.KB = {
       "osm": "way/818597393",
       "kind": "residential",
       "lat": 24.305192,
-      "lon": 54.660976
+      "lon": 54.660976,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hamdaniyyah-street",
@@ -5967,7 +6074,8 @@ window.KB = {
       "osm": "way/306795043",
       "kind": "residential",
       "lat": 24.373186,
-      "lon": 54.764213
+      "lon": 54.764213,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hameediyah-street",
@@ -5978,7 +6086,8 @@ window.KB = {
       "osm": "way/635438634",
       "kind": "residential",
       "lat": 24.317428,
-      "lon": 54.588369
+      "lon": 54.588369,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hameem-street",
@@ -5989,7 +6098,8 @@ window.KB = {
       "osm": "way/24303584",
       "kind": "residential",
       "lat": 24.397849,
-      "lon": 54.49165
+      "lon": 54.49165,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hamlah-street",
@@ -6000,7 +6110,8 @@ window.KB = {
       "osm": "way/635438673",
       "kind": "residential",
       "lat": 24.310177,
-      "lon": 54.588252
+      "lon": 54.588252,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hamoul-street",
@@ -6011,7 +6122,8 @@ window.KB = {
       "osm": "way/473886529",
       "kind": "residential",
       "lat": 24.397823,
-      "lon": 54.495566
+      "lon": 54.495566,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hanyah-street",
@@ -6022,7 +6134,8 @@ window.KB = {
       "osm": "way/235124801",
       "kind": "residential",
       "lat": 24.364656,
-      "lon": 54.708489
+      "lon": 54.708489,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hanyourah-street",
@@ -6033,7 +6146,8 @@ window.KB = {
       "osm": "way/306671031",
       "kind": "residential",
       "lat": 24.322053,
-      "lon": 54.744736
+      "lon": 54.744736,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hara-ir-street",
@@ -6044,7 +6158,8 @@ window.KB = {
       "osm": "way/1132413098",
       "kind": "residential",
       "lat": 24.349524,
-      "lon": 54.602545
+      "lon": 54.602545,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-haramein-street",
@@ -6055,7 +6170,8 @@ window.KB = {
       "osm": "way/306671070",
       "kind": "residential",
       "lat": 24.321586,
-      "lon": 54.740372
+      "lon": 54.740372,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harash-street",
@@ -6066,7 +6182,8 @@ window.KB = {
       "osm": "way/306671027",
       "kind": "residential",
       "lat": 24.324551,
-      "lon": 54.747436
+      "lon": 54.747436,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harbiyah-street",
@@ -6077,7 +6194,8 @@ window.KB = {
       "osm": "way/974606705",
       "kind": "residential",
       "lat": 24.403279,
-      "lon": 54.680142
+      "lon": 54.680142,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harith-bin-abdullah-street",
@@ -6088,7 +6206,8 @@ window.KB = {
       "osm": "way/94058702",
       "kind": "residential",
       "lat": 24.406699,
-      "lon": 54.740545
+      "lon": 54.740545,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harith-bin-abi-dirar-street",
@@ -6099,7 +6218,8 @@ window.KB = {
       "osm": "way/54200929",
       "kind": "residential",
       "lat": 24.355048,
-      "lon": 54.634125
+      "lon": 54.634125,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harith-bin-al-azma-street",
@@ -6110,7 +6230,8 @@ window.KB = {
       "osm": "way/111297888",
       "kind": "residential",
       "lat": 24.324794,
-      "lon": 54.635316
+      "lon": 54.635316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harith-bin-ar-rabee-street",
@@ -6121,7 +6242,8 @@ window.KB = {
       "osm": "way/91675966",
       "kind": "residential",
       "lat": 24.344272,
-      "lon": 54.559794
+      "lon": 54.559794,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harith-bin-aws-bin-mu-adh-street",
@@ -6132,7 +6254,8 @@ window.KB = {
       "osm": "way/851542537",
       "kind": "residential",
       "lat": 24.353128,
-      "lon": 54.658375
+      "lon": 54.658375,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harith-bin-hani-a-street",
@@ -6143,7 +6266,8 @@ window.KB = {
       "osm": "way/818883190",
       "kind": "residential",
       "lat": 24.373066,
-      "lon": 54.671868
+      "lon": 54.671868,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harith-bin-salamah-street",
@@ -6154,7 +6278,8 @@ window.KB = {
       "osm": "way/974606682",
       "kind": "residential",
       "lat": 24.40229,
-      "lon": 54.697712
+      "lon": 54.697712,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harmouzi-street",
@@ -6165,7 +6290,8 @@ window.KB = {
       "osm": "way/974606723",
       "kind": "tertiary",
       "lat": 24.398538,
-      "lon": 54.673737
+      "lon": 54.673737,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-harth-street",
@@ -6176,7 +6302,8 @@ window.KB = {
       "osm": "way/116451533",
       "kind": "residential",
       "lat": 24.360215,
-      "lon": 54.653633
+      "lon": 54.653633,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hasah-street",
@@ -6187,7 +6314,8 @@ window.KB = {
       "osm": "way/91676412",
       "kind": "residential",
       "lat": 24.333271,
-      "lon": 54.554204
+      "lon": 54.554204,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hasan-bin-ali-street",
@@ -6198,7 +6326,8 @@ window.KB = {
       "osm": "way/473381973",
       "kind": "residential",
       "lat": 24.320913,
-      "lon": 54.568865
+      "lon": 54.568865,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hateel-street",
@@ -6209,7 +6338,8 @@ window.KB = {
       "osm": "way/637317268",
       "kind": "residential",
       "lat": 24.306826,
-      "lon": 54.623273
+      "lon": 54.623273,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hattal-street",
@@ -6220,7 +6350,8 @@ window.KB = {
       "osm": "way/54202614",
       "kind": "residential",
       "lat": 24.377463,
-      "lon": 54.633367
+      "lon": 54.633367,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hawadir-street",
@@ -6231,7 +6362,8 @@ window.KB = {
       "osm": "way/246999005",
       "kind": "residential",
       "lat": 24.292911,
-      "lon": 54.647305
+      "lon": 54.647305,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hawayir-street",
@@ -6242,7 +6374,8 @@ window.KB = {
       "osm": "way/173226863",
       "kind": "residential",
       "lat": 24.324966,
-      "lon": 54.56784
+      "lon": 54.56784,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hawd-street",
@@ -6253,7 +6386,8 @@ window.KB = {
       "osm": "way/105444685",
       "kind": "residential",
       "lat": 24.287203,
-      "lon": 54.66151
+      "lon": 54.66151,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hawweesah-street",
@@ -6264,62 +6398,8 @@ window.KB = {
       "osm": "way/460746497",
       "kind": "residential",
       "lat": 24.392297,
-      "lon": 54.490545
-    },
-    {
-      "id": "abu-dhabi-city/al-hayal-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hayal 1 Street",
-      "name_ar": "شارع الهَيَّال 1",
-      "osm": "way/24338206",
-      "kind": "unclassified",
-      "lat": 24.358488,
-      "lon": 54.514184
-    },
-    {
-      "id": "abu-dhabi-city/al-hayal-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hayal 2 Street",
-      "name_ar": "شارع الهَيَّال 2",
-      "osm": "way/24338204",
-      "kind": "unclassified",
-      "lat": 24.357539,
-      "lon": 54.515725
-    },
-    {
-      "id": "abu-dhabi-city/al-hayal-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hayal 3 Street",
-      "name_ar": "شارع الهَيَّال 3",
-      "osm": "way/24338208",
-      "kind": "unclassified",
-      "lat": 24.357496,
-      "lon": 54.514244
-    },
-    {
-      "id": "abu-dhabi-city/al-hayal-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hayal 4 Street",
-      "name_ar": "شارع الهَيَّال 4",
-      "osm": "way/24338205",
-      "kind": "unclassified",
-      "lat": 24.357403,
-      "lon": 54.51275
-    },
-    {
-      "id": "abu-dhabi-city/al-hayal-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hayal 5 Street",
-      "name_ar": "شارع الهَيَّال 5",
-      "osm": "way/24338209",
-      "kind": "unclassified",
-      "lat": 24.356476,
-      "lon": 54.514291
+      "lon": 54.490545,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hayal-street",
@@ -6330,7 +6410,8 @@ window.KB = {
       "osm": "way/24312027",
       "kind": "tertiary",
       "lat": 24.378411,
-      "lon": 54.510582
+      "lon": 54.510582,
+      "variants": 12
     },
     {
       "id": "abu-dhabi-city/al-hayeelah-street",
@@ -6341,7 +6422,8 @@ window.KB = {
       "osm": "way/118783490",
       "kind": "residential",
       "lat": 24.39572,
-      "lon": 54.721568
+      "lon": 54.721568,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hayil-street",
@@ -6352,7 +6434,8 @@ window.KB = {
       "osm": "way/306694618",
       "kind": "residential",
       "lat": 24.332075,
-      "lon": 54.746163
+      "lon": 54.746163,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hayri-street",
@@ -6363,7 +6446,8 @@ window.KB = {
       "osm": "way/635443213",
       "kind": "residential",
       "lat": 24.339214,
-      "lon": 54.767722
+      "lon": 54.767722,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-haytham-bin-al-aswad-street",
@@ -6374,7 +6458,8 @@ window.KB = {
       "osm": "way/473406651",
       "kind": "residential",
       "lat": 24.311405,
-      "lon": 54.646138
+      "lon": 54.646138,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hayyanah-street",
@@ -6385,7 +6470,8 @@ window.KB = {
       "osm": "way/635033707",
       "kind": "residential",
       "lat": 24.360317,
-      "lon": 54.776605
+      "lon": 54.776605,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hazam-street",
@@ -6396,7 +6482,8 @@ window.KB = {
       "osm": "way/1161282156",
       "kind": "residential",
       "lat": 24.401825,
-      "lon": 54.677917
+      "lon": 54.677917,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hazar-street",
@@ -6407,7 +6494,8 @@ window.KB = {
       "osm": "way/499491140",
       "kind": "residential",
       "lat": 24.34234,
-      "lon": 54.765135
+      "lon": 54.765135,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hazm-street",
@@ -6418,7 +6506,8 @@ window.KB = {
       "osm": "way/116451466",
       "kind": "residential",
       "lat": 24.358146,
-      "lon": 54.651163
+      "lon": 54.651163,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hbab-street",
@@ -6429,7 +6518,8 @@ window.KB = {
       "osm": "way/306682880",
       "kind": "residential",
       "lat": 24.359977,
-      "lon": 54.752364
+      "lon": 54.752364,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-heed-street",
@@ -6440,7 +6530,8 @@ window.KB = {
       "osm": "way/116447614",
       "kind": "residential",
       "lat": 24.309053,
-      "lon": 54.609976
+      "lon": 54.609976,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-heelah-street",
@@ -6451,7 +6542,8 @@ window.KB = {
       "osm": "way/321952041",
       "kind": "residential",
       "lat": 24.330736,
-      "lon": 54.533941
+      "lon": 54.533941,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-heetah-street",
@@ -6462,7 +6554,8 @@ window.KB = {
       "osm": "way/112191302",
       "kind": "residential",
       "lat": 24.336011,
-      "lon": 54.692132
+      "lon": 54.692132,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hibah-street",
@@ -6473,7 +6566,8 @@ window.KB = {
       "osm": "way/85680609",
       "kind": "residential",
       "lat": 24.357567,
-      "lon": 54.560968
+      "lon": 54.560968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hibalah-street",
@@ -6484,7 +6578,8 @@ window.KB = {
       "osm": "way/24303617",
       "kind": "residential",
       "lat": 24.395299,
-      "lon": 54.49426
+      "lon": 54.49426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hibi-street",
@@ -6495,7 +6590,8 @@ window.KB = {
       "osm": "way/473385213",
       "kind": "residential",
       "lat": 24.3036,
-      "lon": 54.577949
+      "lon": 54.577949,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hida-a-street",
@@ -6506,73 +6602,20 @@ window.KB = {
       "osm": "way/306818486",
       "kind": "residential",
       "lat": 24.295866,
-      "lon": 54.630739
+      "lon": 54.630739,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-hidab-1-street",
+      "id": "abu-dhabi-city/al-hidab-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Hidab 1 Street",
-      "name_ar": "شارع الهِضاب 1",
-      "osm": "way/24337816",
-      "kind": "unclassified",
-      "lat": 24.379287,
-      "lon": 54.519071
-    },
-    {
-      "id": "abu-dhabi-city/al-hidab-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hidab 2 Street",
-      "name_ar": "شارع الهِضاب 2",
-      "osm": "way/24337814",
-      "kind": "unclassified",
-      "lat": 24.380423,
-      "lon": 54.521973
-    },
-    {
-      "id": "abu-dhabi-city/al-hidab-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hidab 3 Street",
-      "name_ar": "شارع الهِضاب 3",
+      "name_en": "Al Hidab Street",
+      "name_ar": "شارع الهِضاب",
       "osm": "way/24337349",
       "kind": "tertiary",
       "lat": 24.37756,
-      "lon": 54.511235
-    },
-    {
-      "id": "abu-dhabi-city/al-hidab-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hidab 6 Street",
-      "name_ar": "شارع الهِضاب 6",
-      "osm": "way/24337352",
-      "kind": "tertiary",
-      "lat": 24.380194,
-      "lon": 54.515432
-    },
-    {
-      "id": "abu-dhabi-city/al-hidayah-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hidayah 1 Street",
-      "name_ar": "شارع الهِداية 1",
-      "osm": "way/248421315",
-      "kind": "tertiary",
-      "lat": 24.279288,
-      "lon": 54.610218
-    },
-    {
-      "id": "abu-dhabi-city/al-hidayah-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hidayah 3 Street",
-      "name_ar": "شارع الهِداية 3",
-      "osm": "way/248421309",
-      "kind": "tertiary",
-      "lat": 24.286026,
-      "lon": 54.602157
+      "lon": 54.511235,
+      "variants": 20
     },
     {
       "id": "abu-dhabi-city/al-hidayah-street",
@@ -6580,10 +6623,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "Al Hidayah Street",
       "name_ar": "شارع الهِداية",
-      "osm": "way/248421311",
+      "osm": "way/248421309",
       "kind": "tertiary",
-      "lat": 24.281002,
-      "lon": 54.604366
+      "lat": 24.286026,
+      "lon": 54.602157,
+      "variants": 4
     },
     {
       "id": "abu-dhabi-city/al-hidheeb-street",
@@ -6594,7 +6638,8 @@ window.KB = {
       "osm": "way/819199180",
       "kind": "residential",
       "lat": 24.386601,
-      "lon": 54.674564
+      "lon": 54.674564,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hijeeni-street",
@@ -6605,7 +6650,8 @@ window.KB = {
       "osm": "way/235124802",
       "kind": "residential",
       "lat": 24.35997,
-      "lon": 54.707444
+      "lon": 54.707444,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hijin-street",
@@ -6616,29 +6662,20 @@ window.KB = {
       "osm": "way/116692409",
       "kind": "residential",
       "lat": 24.367163,
-      "lon": 54.713308
+      "lon": 54.713308,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-hilm-3-street",
+      "id": "abu-dhabi-city/al-hilm-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Hilm 3 Street",
-      "name_ar": "شارع الحِلم 3",
-      "osm": "way/24350874",
-      "kind": "unclassified",
-      "lat": 24.355416,
-      "lon": 54.487222
-    },
-    {
-      "id": "abu-dhabi-city/al-hilm-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hilm 4 Street",
-      "name_ar": "شارع الحِلم 4",
+      "name_en": "Al Hilm Street",
+      "name_ar": "شارع الحِلم",
       "osm": "way/24350872",
       "kind": "unclassified",
       "lat": 24.354238,
-      "lon": 54.483806
+      "lon": 54.483806,
+      "variants": 6
     },
     {
       "id": "abu-dhabi-city/al-himam-street",
@@ -6649,7 +6686,8 @@ window.KB = {
       "osm": "way/108401997",
       "kind": "unclassified",
       "lat": 24.326635,
-      "lon": 54.618948
+      "lon": 54.618948,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-himayah-street",
@@ -6660,7 +6698,8 @@ window.KB = {
       "osm": "way/306682841",
       "kind": "residential",
       "lat": 24.364917,
-      "lon": 54.749104
+      "lon": 54.749104,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-himriyah-street",
@@ -6671,7 +6710,8 @@ window.KB = {
       "osm": "way/974606679",
       "kind": "residential",
       "lat": 24.40195,
-      "lon": 54.694426
+      "lon": 54.694426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hinwah-street",
@@ -6682,95 +6722,8 @@ window.KB = {
       "osm": "way/474709557",
       "kind": "residential",
       "lat": 24.333715,
-      "lon": 54.570638
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 1 Street",
-      "name_ar": "شارع الحرَف 1",
-      "osm": "way/24338117",
-      "kind": "unclassified",
-      "lat": 24.367292,
-      "lon": 54.506374
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 2 Street",
-      "name_ar": "شارع الحرَف 2",
-      "osm": "way/24338116",
-      "kind": "unclassified",
-      "lat": 24.364098,
-      "lon": 54.510273
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 3 Street",
-      "name_ar": "شارع الحرَف 3",
-      "osm": "way/24338119",
-      "kind": "unclassified",
-      "lat": 24.360758,
-      "lon": 54.506679
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 4 Street",
-      "name_ar": "شارع الحرَف 4",
-      "osm": "way/24338123",
-      "kind": "unclassified",
-      "lat": 24.364117,
-      "lon": 54.508787
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 5 Street",
-      "name_ar": "شارع الحرَف 5",
-      "osm": "way/24338120",
-      "kind": "unclassified",
-      "lat": 24.363934,
-      "lon": 54.504286
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 6 Street",
-      "name_ar": "شارع الحرَف 6",
-      "osm": "way/24338122",
-      "kind": "unclassified",
-      "lat": 24.364056,
-      "lon": 54.507288
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-7-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 7 Street",
-      "name_ar": "شارع الحرَف 7",
-      "osm": "way/24338115",
-      "kind": "unclassified",
-      "lat": 24.363794,
-      "lon": 54.502787
-    },
-    {
-      "id": "abu-dhabi-city/al-hiraf-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Hiraf 8 Street",
-      "name_ar": "شارع الحرَف 8",
-      "osm": "way/24338121",
-      "kind": "unclassified",
-      "lat": 24.363995,
-      "lon": 54.505786
+      "lon": 54.570638,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hiraf-street",
@@ -6781,7 +6734,8 @@ window.KB = {
       "osm": "way/24312005",
       "kind": "tertiary",
       "lat": 24.367186,
-      "lon": 54.476754
+      "lon": 54.476754,
+      "variants": 17
     },
     {
       "id": "abu-dhabi-city/al-hirreedah-street",
@@ -6792,7 +6746,8 @@ window.KB = {
       "osm": "way/474712065",
       "kind": "residential",
       "lat": 24.337373,
-      "lon": 54.575113
+      "lon": 54.575113,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hisayah-street",
@@ -6803,7 +6758,8 @@ window.KB = {
       "osm": "way/307012296",
       "kind": "residential",
       "lat": 24.315612,
-      "lon": 54.646257
+      "lon": 54.646257,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hishmah-street",
@@ -6814,7 +6770,8 @@ window.KB = {
       "osm": "way/473385227",
       "kind": "residential",
       "lat": 24.312325,
-      "lon": 54.549484
+      "lon": 54.549484,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hiwayat-street",
@@ -6825,7 +6782,8 @@ window.KB = {
       "osm": "way/116451523",
       "kind": "residential",
       "lat": 24.34752,
-      "lon": 54.646742
+      "lon": 54.646742,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hiyaymah-street",
@@ -6836,7 +6794,8 @@ window.KB = {
       "osm": "way/121648435",
       "kind": "residential",
       "lat": 24.381885,
-      "lon": 54.700958
+      "lon": 54.700958,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hizami-street",
@@ -6847,7 +6806,8 @@ window.KB = {
       "osm": "way/95490125",
       "kind": "residential",
       "lat": 24.40507,
-      "lon": 54.728344
+      "lon": 54.728344,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-houjar-street",
@@ -6858,7 +6818,8 @@ window.KB = {
       "osm": "way/177640661",
       "kind": "residential",
       "lat": 24.275491,
-      "lon": 54.674074
+      "lon": 54.674074,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-houmanah-street",
@@ -6869,7 +6830,8 @@ window.KB = {
       "osm": "way/1110973060",
       "kind": "residential",
       "lat": 24.301417,
-      "lon": 54.692161
+      "lon": 54.692161,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-houra-street",
@@ -6880,7 +6842,8 @@ window.KB = {
       "osm": "way/306682864",
       "kind": "residential",
       "lat": 24.362859,
-      "lon": 54.750618
+      "lon": 54.750618,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-houtah-street",
@@ -6891,7 +6854,8 @@ window.KB = {
       "osm": "way/475159795",
       "kind": "residential",
       "lat": 24.28953,
-      "lon": 54.651013
+      "lon": 54.651013,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-houz-street",
@@ -6902,7 +6866,8 @@ window.KB = {
       "osm": "way/122093826",
       "kind": "residential",
       "lat": 24.379243,
-      "lon": 54.709459
+      "lon": 54.709459,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-howar-street",
@@ -6913,7 +6878,8 @@ window.KB = {
       "osm": "way/821077734",
       "kind": "residential",
       "lat": 24.381027,
-      "lon": 54.622791
+      "lon": 54.622791,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hubab-bin-al-mundhir-street",
@@ -6924,7 +6890,8 @@ window.KB = {
       "osm": "way/473415608",
       "kind": "residential",
       "lat": 24.303979,
-      "lon": 54.653249
+      "lon": 54.653249,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hubab-bin-jubayr-street",
@@ -6935,7 +6902,8 @@ window.KB = {
       "osm": "way/819162668",
       "kind": "residential",
       "lat": 24.352549,
-      "lon": 54.54606
+      "lon": 54.54606,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hud-hud-street",
@@ -6946,7 +6914,8 @@ window.KB = {
       "osm": "way/118783455",
       "kind": "residential",
       "lat": 24.397341,
-      "lon": 54.721321
+      "lon": 54.721321,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hur-bin-qays-street",
@@ -6957,7 +6926,8 @@ window.KB = {
       "osm": "way/635438639",
       "kind": "residential",
       "lat": 24.314956,
-      "lon": 54.589388
+      "lon": 54.589388,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hurriyah-street",
@@ -6968,7 +6938,8 @@ window.KB = {
       "osm": "way/116692408",
       "kind": "residential",
       "lat": 24.372707,
-      "lon": 54.712277
+      "lon": 54.712277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-husayn-bin-as-sa-ib-street",
@@ -6979,7 +6950,8 @@ window.KB = {
       "osm": "way/248481442",
       "kind": "residential",
       "lat": 24.362149,
-      "lon": 54.68957
+      "lon": 54.68957,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-husayn-bin-sabrah-street",
@@ -6990,7 +6962,8 @@ window.KB = {
       "osm": "way/818601459",
       "kind": "residential",
       "lat": 24.301572,
-      "lon": 54.662194
+      "lon": 54.662194,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-hushoush-street",
@@ -7001,7 +6974,8 @@ window.KB = {
       "osm": "way/635438631",
       "kind": "residential",
       "lat": 24.317722,
-      "lon": 54.586902
+      "lon": 54.586902,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-huzoum-street",
@@ -7012,7 +6986,8 @@ window.KB = {
       "osm": "way/473385224",
       "kind": "residential",
       "lat": 24.319228,
-      "lon": 54.544254
+      "lon": 54.544254,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-i-mar-street",
@@ -7023,7 +6998,8 @@ window.KB = {
       "osm": "way/820507570",
       "kind": "unclassified",
       "lat": 24.382721,
-      "lon": 54.599521
+      "lon": 54.599521,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-i-tidal-street",
@@ -7034,7 +7010,8 @@ window.KB = {
       "osm": "way/178947401",
       "kind": "residential",
       "lat": 24.269672,
-      "lon": 54.657541
+      "lon": 54.657541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ibtihaj-street",
@@ -7045,7 +7022,8 @@ window.KB = {
       "osm": "way/479154627",
       "kind": "residential",
       "lat": 24.299119,
-      "lon": 54.619987
+      "lon": 54.619987,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-idrak-street",
@@ -7056,7 +7034,8 @@ window.KB = {
       "osm": "way/474712076",
       "kind": "residential",
       "lat": 24.340659,
-      "lon": 54.570487
+      "lon": 54.570487,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-iftikhar-street",
@@ -7067,7 +7046,8 @@ window.KB = {
       "osm": "way/821077770",
       "kind": "residential",
       "lat": 24.376384,
-      "lon": 54.622945
+      "lon": 54.622945,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ihsan-street",
@@ -7078,7 +7058,8 @@ window.KB = {
       "osm": "way/94055579",
       "kind": "residential",
       "lat": 24.39167,
-      "lon": 54.646371
+      "lon": 54.646371,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ihtimam-street",
@@ -7089,7 +7070,8 @@ window.KB = {
       "osm": "way/448037678",
       "kind": "residential",
       "lat": 24.358109,
-      "lon": 54.738591
+      "lon": 54.738591,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ikhtiyar-street",
@@ -7100,7 +7082,8 @@ window.KB = {
       "osm": "way/448037675",
       "kind": "residential",
       "lat": 24.35769,
-      "lon": 54.73317
+      "lon": 54.73317,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ikram-street",
@@ -7111,7 +7094,8 @@ window.KB = {
       "osm": "way/105451664",
       "kind": "residential",
       "lat": 24.325403,
-      "lon": 54.634178
+      "lon": 54.634178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ilham-street",
@@ -7122,7 +7106,8 @@ window.KB = {
       "osm": "way/818916821",
       "kind": "residential",
       "lat": 24.372108,
-      "lon": 54.551358
+      "lon": 54.551358,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-imam-ash-shafi-i-street",
@@ -7133,7 +7118,8 @@ window.KB = {
       "osm": "way/818881583",
       "kind": "residential",
       "lat": 24.36405,
-      "lon": 54.665793
+      "lon": 54.665793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-imtiyaz-street",
@@ -7144,7 +7130,8 @@ window.KB = {
       "osm": "way/122093808",
       "kind": "residential",
       "lat": 24.387947,
-      "lon": 54.713513
+      "lon": 54.713513,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-injazat-street",
@@ -7155,7 +7142,8 @@ window.KB = {
       "osm": "way/448037730",
       "kind": "residential",
       "lat": 24.331991,
-      "lon": 54.758558
+      "lon": 54.758558,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-insaf-street",
@@ -7166,7 +7154,8 @@ window.KB = {
       "osm": "way/635033690",
       "kind": "residential",
       "lat": 24.366853,
-      "lon": 54.774699
+      "lon": 54.774699,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-intilaq-street",
@@ -7177,7 +7166,8 @@ window.KB = {
       "osm": "way/306795083",
       "kind": "residential",
       "lat": 24.378418,
-      "lon": 54.752857
+      "lon": 54.752857,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-iqt-street",
@@ -7188,7 +7178,8 @@ window.KB = {
       "osm": "way/119287508",
       "kind": "residential",
       "lat": 24.397003,
-      "lon": 54.70579
+      "lon": 54.70579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-iqtidar-street",
@@ -7199,7 +7190,8 @@ window.KB = {
       "osm": "way/121648434",
       "kind": "residential",
       "lat": 24.374465,
-      "lon": 54.705253
+      "lon": 54.705253,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-iqtisad-street",
@@ -7210,7 +7202,8 @@ window.KB = {
       "osm": "way/173016718",
       "kind": "residential",
       "lat": 24.372152,
-      "lon": 54.54842
+      "lon": 54.54842,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-iradah-street",
@@ -7221,7 +7214,8 @@ window.KB = {
       "osm": "way/54200913",
       "kind": "residential",
       "lat": 24.347993,
-      "lon": 54.630853
+      "lon": 54.630853,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-irtiqa-a-street",
@@ -7232,18 +7226,20 @@ window.KB = {
       "osm": "way/821077758",
       "kind": "residential",
       "lat": 24.383883,
-      "lon": 54.616264
+      "lon": 54.616264,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-isayfir-4-street",
+      "id": "abu-dhabi-city/al-isayfir-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Isayfir 4 Street",
-      "name_ar": "شارع الإصَيفِر 4",
+      "name_en": "Al Isayfir Street",
+      "name_ar": "شارع الإصَيفِر",
       "osm": "way/24338210",
       "kind": "unclassified",
       "lat": 24.357095,
-      "lon": 54.503086
+      "lon": 54.503086,
+      "variants": 5
     },
     {
       "id": "abu-dhabi-city/al-isra-a-street",
@@ -7254,7 +7250,8 @@ window.KB = {
       "osm": "way/475193241",
       "kind": "residential",
       "lat": 24.28591,
-      "lon": 54.648005
+      "lon": 54.648005,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-istad-street",
@@ -7265,7 +7262,8 @@ window.KB = {
       "osm": "way/306682857",
       "kind": "residential",
       "lat": 24.363666,
-      "lon": 54.752135
+      "lon": 54.752135,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-istiqlal-street",
@@ -7276,7 +7274,8 @@ window.KB = {
       "osm": "way/116447839",
       "kind": "residential",
       "lat": 24.303334,
-      "lon": 54.620868
+      "lon": 54.620868,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-istishraf-street",
@@ -7287,7 +7286,8 @@ window.KB = {
       "osm": "way/94329178",
       "kind": "residential",
       "lat": 24.265522,
-      "lon": 54.667161
+      "lon": 54.667161,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ithmid-street",
@@ -7298,7 +7298,8 @@ window.KB = {
       "osm": "way/247044168",
       "kind": "residential",
       "lat": 24.336023,
-      "lon": 54.531067
+      "lon": 54.531067,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-itmi-anan-street",
@@ -7309,7 +7310,8 @@ window.KB = {
       "osm": "way/974606610",
       "kind": "residential",
       "lat": 24.409328,
-      "lon": 54.706399
+      "lon": 54.706399,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-itqan-street",
@@ -7320,7 +7322,8 @@ window.KB = {
       "osm": "way/24300412",
       "kind": "residential",
       "lat": 24.406669,
-      "lon": 54.493706
+      "lon": 54.493706,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jadarah-street",
@@ -7331,7 +7334,8 @@ window.KB = {
       "osm": "way/695139030",
       "kind": "residential",
       "lat": 24.330999,
-      "lon": 54.632753
+      "lon": 54.632753,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jaddaf-street",
@@ -7342,7 +7346,8 @@ window.KB = {
       "osm": "way/161842454",
       "kind": "residential",
       "lat": 24.323255,
-      "lon": 54.538434
+      "lon": 54.538434,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jafitouh-street",
@@ -7353,7 +7358,8 @@ window.KB = {
       "osm": "way/306818484",
       "kind": "residential",
       "lat": 24.29286,
-      "lon": 54.634858
+      "lon": 54.634858,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jafliyah-street",
@@ -7364,7 +7370,8 @@ window.KB = {
       "osm": "way/820507410",
       "kind": "residential",
       "lat": 24.393488,
-      "lon": 54.62481
+      "lon": 54.62481,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jalam-street",
@@ -7375,7 +7382,8 @@ window.KB = {
       "osm": "way/635013546",
       "kind": "residential",
       "lat": 24.368084,
-      "lon": 54.771415
+      "lon": 54.771415,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jamal-street",
@@ -7386,7 +7394,8 @@ window.KB = {
       "osm": "way/448037741",
       "kind": "residential",
       "lat": 24.3308,
-      "lon": 54.759217
+      "lon": 54.759217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jami-al-kabeer-street",
@@ -7397,7 +7406,8 @@ window.KB = {
       "osm": "way/24257060",
       "kind": "secondary",
       "lat": 24.410714,
-      "lon": 54.472227
+      "lon": 54.472227,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jami-street",
@@ -7408,73 +7418,20 @@ window.KB = {
       "osm": "way/116691014",
       "kind": "residential",
       "lat": 24.28889,
-      "lon": 54.635336
+      "lon": 54.635336,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-jammalah-1-street",
+      "id": "abu-dhabi-city/al-jammalah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Jammalah 1 Street",
-      "name_ar": "شارع الجَمَّالَة 1",
-      "osm": "way/24338146",
-      "kind": "unclassified",
-      "lat": 24.364593,
-      "lon": 54.520715
-    },
-    {
-      "id": "abu-dhabi-city/al-jammalah-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jammalah 2 Street",
-      "name_ar": "شارع الجَمَّالَة 2",
+      "name_en": "Al Jammalah Street",
+      "name_ar": "شارع الجَمَّالَة",
       "osm": "way/24338144",
       "kind": "tertiary",
       "lat": 24.364931,
-      "lon": 54.52463
-    },
-    {
-      "id": "abu-dhabi-city/al-jammalah-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jammalah 3 Street",
-      "name_ar": "شارع الجَمَّالَة 3",
-      "osm": "way/24338145",
-      "kind": "unclassified",
-      "lat": 24.363366,
-      "lon": 54.520804
-    },
-    {
-      "id": "abu-dhabi-city/al-jammalah-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jammalah 4 Street",
-      "name_ar": "شارع الجَمَّالَة 4",
-      "osm": "way/24338152",
-      "kind": "unclassified",
-      "lat": 24.364042,
-      "lon": 54.522333
-    },
-    {
-      "id": "abu-dhabi-city/al-jammalah-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jammalah 6 Street",
-      "name_ar": "شارع الجَمَّالَة 6",
-      "osm": "way/24338147",
-      "kind": "unclassified",
-      "lat": 24.366722,
-      "lon": 54.521511
-    },
-    {
-      "id": "abu-dhabi-city/al-jammalah-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jammalah 8 Street",
-      "name_ar": "شارع الجَمَّالَة 8",
-      "osm": "way/24338151",
-      "kind": "unclassified",
-      "lat": 24.363977,
-      "lon": 54.520624
+      "lon": 54.52463,
+      "variants": 16
     },
     {
       "id": "abu-dhabi-city/al-jamman-street",
@@ -7485,7 +7442,8 @@ window.KB = {
       "osm": "way/635443205",
       "kind": "residential",
       "lat": 24.334656,
-      "lon": 54.774156
+      "lon": 54.774156,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jamouh-street",
@@ -7496,7 +7454,8 @@ window.KB = {
       "osm": "way/115724104",
       "kind": "residential",
       "lat": 24.29974,
-      "lon": 54.640617
+      "lon": 54.640617,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jana-street",
@@ -7507,40 +7466,8 @@ window.KB = {
       "osm": "way/93177768",
       "kind": "residential",
       "lat": 24.400734,
-      "lon": 54.650523
-    },
-    {
-      "id": "abu-dhabi-city/al-janadil-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Janadil 1 Street",
-      "name_ar": "شارع الجَنادِل 1",
-      "osm": "way/248421310",
-      "kind": "tertiary",
-      "lat": 24.277033,
-      "lon": 54.602536
-    },
-    {
-      "id": "abu-dhabi-city/al-janadil-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Janadil 3 Street",
-      "name_ar": "شارع الجَنادِل 3",
-      "osm": "way/475350625",
-      "kind": "unclassified",
-      "lat": 24.285526,
-      "lon": 54.597638
-    },
-    {
-      "id": "abu-dhabi-city/al-janadil-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Janadil 5 Street",
-      "name_ar": "شارع الجَنادِل 5",
-      "osm": "way/475350614",
-      "kind": "unclassified",
-      "lat": 24.287687,
-      "lon": 54.59508
+      "lon": 54.650523,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-janadil-street",
@@ -7551,7 +7478,8 @@ window.KB = {
       "osm": "way/229675901",
       "kind": "tertiary",
       "lat": 24.290127,
-      "lon": 54.586004
+      "lon": 54.586004,
+      "variants": 13
     },
     {
       "id": "abu-dhabi-city/al-jandal-street",
@@ -7562,18 +7490,20 @@ window.KB = {
       "osm": "way/635443175",
       "kind": "residential",
       "lat": 24.353057,
-      "lon": 54.764949
+      "lon": 54.764949,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-jandaliyah-2-street",
+      "id": "abu-dhabi-city/al-jandaliyah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Jandaliyah 2 Street",
-      "name_ar": "شارع الجَندَلِيَّة 2",
+      "name_en": "Al Jandaliyah Street",
+      "name_ar": "شارع الجَندَلِيَّة",
       "osm": "way/24312173",
       "kind": "unclassified",
       "lat": 24.378515,
-      "lon": 54.476237
+      "lon": 54.476237,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/al-jandeelah-street",
@@ -7584,7 +7514,8 @@ window.KB = {
       "osm": "way/247048144",
       "kind": "residential",
       "lat": 24.325532,
-      "lon": 54.532891
+      "lon": 54.532891,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jar-street",
@@ -7595,7 +7526,8 @@ window.KB = {
       "osm": "way/54200912",
       "kind": "residential",
       "lat": 24.350224,
-      "lon": 54.632176
+      "lon": 54.632176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jaranees-street",
@@ -7606,7 +7538,8 @@ window.KB = {
       "osm": "way/94058653",
       "kind": "residential",
       "lat": 24.406806,
-      "lon": 54.741878
+      "lon": 54.741878,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jareenah-street",
@@ -7617,7 +7550,8 @@ window.KB = {
       "osm": "way/448037659",
       "kind": "residential",
       "lat": 24.409125,
-      "lon": 54.739593
+      "lon": 54.739593,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jarjari-street",
@@ -7628,7 +7562,8 @@ window.KB = {
       "osm": "way/474712066",
       "kind": "residential",
       "lat": 24.336638,
-      "lon": 54.573907
+      "lon": 54.573907,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jaroud-bin-al-mu-alla-street",
@@ -7639,7 +7574,8 @@ window.KB = {
       "osm": "way/93177763",
       "kind": "residential",
       "lat": 24.392173,
-      "lon": 54.659072
+      "lon": 54.659072,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jawahir-street",
@@ -7650,7 +7586,8 @@ window.KB = {
       "osm": "way/474687685",
       "kind": "tertiary",
       "lat": 24.356529,
-      "lon": 54.561686
+      "lon": 54.561686,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jawd-street",
@@ -7661,7 +7598,8 @@ window.KB = {
       "osm": "way/974606639",
       "kind": "residential",
       "lat": 24.402811,
-      "lon": 54.710987
+      "lon": 54.710987,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jawhar-street",
@@ -7672,7 +7610,8 @@ window.KB = {
       "osm": "way/54200950",
       "kind": "residential",
       "lat": 24.342169,
-      "lon": 54.615828
+      "lon": 54.615828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jawwal-street",
@@ -7683,7 +7622,8 @@ window.KB = {
       "osm": "way/172948081",
       "kind": "residential",
       "lat": 24.353643,
-      "lon": 54.544694
+      "lon": 54.544694,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jaz-ah-street",
@@ -7694,7 +7634,8 @@ window.KB = {
       "osm": "way/235147563",
       "kind": "residential",
       "lat": 24.355008,
-      "lon": 54.705734
+      "lon": 54.705734,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jazeerah-al-hamra-a-street",
@@ -7705,7 +7646,8 @@ window.KB = {
       "osm": "way/85680614",
       "kind": "residential",
       "lat": 24.361991,
-      "lon": 54.558862
+      "lon": 54.558862,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jazeerah-al-khadra-a-street",
@@ -7716,7 +7658,8 @@ window.KB = {
       "osm": "way/248421306",
       "kind": "tertiary",
       "lat": 24.284561,
-      "lon": 54.608267
+      "lon": 54.608267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jazeerah-street",
@@ -7727,7 +7670,8 @@ window.KB = {
       "osm": "way/635057863",
       "kind": "residential",
       "lat": 24.289617,
-      "lon": 54.629303
+      "lon": 54.629303,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jazi-street",
@@ -7738,7 +7682,8 @@ window.KB = {
       "osm": "way/161842251",
       "kind": "residential",
       "lat": 24.322092,
-      "lon": 54.533995
+      "lon": 54.533995,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jazm-street",
@@ -7749,29 +7694,20 @@ window.KB = {
       "osm": "way/247008845",
       "kind": "residential",
       "lat": 24.311466,
-      "lon": 54.653964
+      "lon": 54.653964,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-jazzaf-2-street",
+      "id": "abu-dhabi-city/al-jazzaf-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzaf 2 Street",
-      "name_ar": "شارع الجَزَّاف 2",
+      "name_en": "Al Jazzaf Street",
+      "name_ar": "شارع الجَزَّاف",
       "osm": "way/24313776",
       "kind": "unclassified",
       "lat": 24.370315,
-      "lon": 54.494218
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzaf-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzaf 4 Street",
-      "name_ar": "شارع الجَزَّاف 4",
-      "osm": "way/24313779",
-      "kind": "unclassified",
-      "lat": 24.370276,
-      "lon": 54.493338
+      "lon": 54.494218,
+      "variants": 2
     },
     {
       "id": "abu-dhabi-city/al-jazzat-street",
@@ -7782,84 +7718,8 @@ window.KB = {
       "osm": "way/235148611",
       "kind": "residential",
       "lat": 24.373113,
-      "lon": 54.69518
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzeem-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzeem 1 Street",
-      "name_ar": "شارع الجَزِّيم 1",
-      "osm": "way/24350906",
-      "kind": "unclassified",
-      "lat": 24.353345,
-      "lon": 54.497172
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzeem-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzeem 4 Street",
-      "name_ar": "شارع الجَزِّيم 4",
-      "osm": "way/24350910",
-      "kind": "unclassified",
-      "lat": 24.35249,
-      "lon": 54.499239
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzeem-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzeem 5 Street",
-      "name_ar": "شارع الجَزِّيم 5",
-      "osm": "way/24350902",
-      "kind": "unclassified",
-      "lat": 24.352228,
-      "lon": 54.493195
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzeem-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzeem 6 Street",
-      "name_ar": "شارع الجَزِّيم 6",
-      "osm": "way/24350909",
-      "kind": "unclassified",
-      "lat": 24.352439,
-      "lon": 54.497896
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzeem-7-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzeem 7 Street",
-      "name_ar": "شارع الجَزِّيم 7",
-      "osm": "way/24350905",
-      "kind": "unclassified",
-      "lat": 24.351479,
-      "lon": 54.497263
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzeem-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzeem 8 Street",
-      "name_ar": "شارع الجَزِّيم 8",
-      "osm": "way/24350908",
-      "kind": "unclassified",
-      "lat": 24.352386,
-      "lon": 54.496541
-    },
-    {
-      "id": "abu-dhabi-city/al-jazzeem-9-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Jazzeem 9 Street",
-      "name_ar": "شارع الجَزِّيم 9",
-      "osm": "way/24350897",
-      "kind": "unclassified",
-      "lat": 24.350199,
-      "lon": 54.497305
+      "lon": 54.69518,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jazzeem-street",
@@ -7870,7 +7730,8 @@ window.KB = {
       "osm": "way/24312020",
       "kind": "tertiary",
       "lat": 24.377135,
-      "lon": 54.501062
+      "lon": 54.501062,
+      "variants": 12
     },
     {
       "id": "abu-dhabi-city/al-jibal-street",
@@ -7881,7 +7742,8 @@ window.KB = {
       "osm": "way/116691890",
       "kind": "residential",
       "lat": 24.340961,
-      "lon": 54.537138
+      "lon": 54.537138,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jidayil-street",
@@ -7892,7 +7754,8 @@ window.KB = {
       "osm": "way/247044134",
       "kind": "residential",
       "lat": 24.335767,
-      "lon": 54.535584
+      "lon": 54.535584,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jifan-street",
@@ -7903,7 +7766,8 @@ window.KB = {
       "osm": "way/695139027",
       "kind": "residential",
       "lat": 24.33458,
-      "lon": 54.63516
+      "lon": 54.63516,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jila-street",
@@ -7914,7 +7778,8 @@ window.KB = {
       "osm": "way/92007315",
       "kind": "residential",
       "lat": 24.329208,
-      "lon": 54.563878
+      "lon": 54.563878,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jilafah-street",
@@ -7925,7 +7790,8 @@ window.KB = {
       "osm": "way/92007351",
       "kind": "residential",
       "lat": 24.329698,
-      "lon": 54.544425
+      "lon": 54.544425,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jileeb-street",
@@ -7936,7 +7802,8 @@ window.KB = {
       "osm": "way/173039595",
       "kind": "residential",
       "lat": 24.382958,
-      "lon": 54.532494
+      "lon": 54.532494,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jimayil-street",
@@ -7947,7 +7814,8 @@ window.KB = {
       "osm": "way/116447978",
       "kind": "residential",
       "lat": 24.31813,
-      "lon": 54.633689
+      "lon": 54.633689,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jizlan-street",
@@ -7958,7 +7826,8 @@ window.KB = {
       "osm": "way/475585799",
       "kind": "residential",
       "lat": 24.394661,
-      "lon": 54.502893
+      "lon": 54.502893,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-joudiyah-street",
@@ -7969,7 +7838,8 @@ window.KB = {
       "osm": "way/818886404",
       "kind": "residential",
       "lat": 24.382142,
-      "lon": 54.674515
+      "lon": 54.674515,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jouri-street",
@@ -7980,7 +7850,8 @@ window.KB = {
       "osm": "way/821077755",
       "kind": "residential",
       "lat": 24.380958,
-      "lon": 54.61606
+      "lon": 54.61606,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jouyan-street",
@@ -7991,7 +7862,8 @@ window.KB = {
       "osm": "way/120291271",
       "kind": "residential",
       "lat": 24.38686,
-      "lon": 54.682777
+      "lon": 54.682777,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jroudi-street",
@@ -8002,7 +7874,8 @@ window.KB = {
       "osm": "way/92007348",
       "kind": "residential",
       "lat": 24.333528,
-      "lon": 54.569981
+      "lon": 54.569981,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-juffeer-street",
@@ -8013,7 +7886,8 @@ window.KB = {
       "osm": "way/306686123",
       "kind": "residential",
       "lat": 24.358805,
-      "lon": 54.769404
+      "lon": 54.769404,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jumhour-street",
@@ -8024,7 +7898,8 @@ window.KB = {
       "osm": "way/118783499",
       "kind": "residential",
       "lat": 24.398963,
-      "lon": 54.743196
+      "lon": 54.743196,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jummarah-street",
@@ -8035,7 +7910,8 @@ window.KB = {
       "osm": "way/122093811",
       "kind": "residential",
       "lat": 24.389304,
-      "lon": 54.716042
+      "lon": 54.716042,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-jurf-street",
@@ -8046,7 +7922,8 @@ window.KB = {
       "osm": "way/820507418",
       "kind": "residential",
       "lat": 24.388881,
-      "lon": 54.622851
+      "lon": 54.622851,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kaf-street",
@@ -8057,7 +7934,8 @@ window.KB = {
       "osm": "way/306795053",
       "kind": "residential",
       "lat": 24.323104,
-      "lon": 54.765682
+      "lon": 54.765682,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kafa-at-street",
@@ -8068,7 +7946,8 @@ window.KB = {
       "osm": "way/818597389",
       "kind": "residential",
       "lat": 24.300661,
-      "lon": 54.658577
+      "lon": 54.658577,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kanah-street",
@@ -8079,7 +7958,8 @@ window.KB = {
       "osm": "way/635443182",
       "kind": "residential",
       "lat": 24.351893,
-      "lon": 54.761951
+      "lon": 54.761951,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-karam-street",
@@ -8090,73 +7970,8 @@ window.KB = {
       "osm": "way/235148620",
       "kind": "residential",
       "lat": 24.369598,
-      "lon": 54.701361
-    },
-    {
-      "id": "abu-dhabi-city/al-karrabi-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Karrabi 1 Street",
-      "name_ar": "شارع الكَرَّابي 1",
-      "osm": "way/473904535",
-      "kind": "residential",
-      "lat": 24.405993,
-      "lon": 54.53514
-    },
-    {
-      "id": "abu-dhabi-city/al-karrabi-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Karrabi 2 Street",
-      "name_ar": "شارع الكَرَّابي 2",
-      "osm": "way/473904539",
-      "kind": "residential",
-      "lat": 24.406253,
-      "lon": 54.535071
-    },
-    {
-      "id": "abu-dhabi-city/al-karrabi-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Karrabi 3 Street",
-      "name_ar": "شارع الكَرَّابي 3",
-      "osm": "way/473904542",
-      "kind": "residential",
-      "lat": 24.406857,
-      "lon": 54.53585
-    },
-    {
-      "id": "abu-dhabi-city/al-karrabi-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Karrabi 4 Street",
-      "name_ar": "شارع الكَرَّابي 4",
-      "osm": "way/473904541",
-      "kind": "residential",
-      "lat": 24.406618,
-      "lon": 54.535845
-    },
-    {
-      "id": "abu-dhabi-city/al-karrabi-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Karrabi 5 Street",
-      "name_ar": "شارع الكَرَّابي 5",
-      "osm": "way/473904540",
-      "kind": "residential",
-      "lat": 24.407139,
-      "lon": 54.53629
-    },
-    {
-      "id": "abu-dhabi-city/al-karrabi-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Karrabi 6 Street",
-      "name_ar": "شارع الكَرَّابي 6",
-      "osm": "way/473904544",
-      "kind": "residential",
-      "lat": 24.407726,
-      "lon": 54.536658
+      "lon": 54.701361,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-karrabi-street",
@@ -8164,54 +7979,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "Al Karrabi Street",
       "name_ar": "شارع الكَرَّابي",
-      "osm": "way/636931229",
+      "osm": "way/473904535",
       "kind": "residential",
-      "lat": 24.406747,
-      "lon": 54.536595
-    },
-    {
-      "id": "abu-dhabi-city/al-kawakib-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Kawakib 1 Street",
-      "name_ar": "شارع الكَواكِب 1",
-      "osm": "way/24338212",
-      "kind": "unclassified",
-      "lat": 24.358481,
-      "lon": 54.506779
-    },
-    {
-      "id": "abu-dhabi-city/al-kawakib-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Kawakib 2 Street",
-      "name_ar": "شارع الكَواكِب 2",
-      "osm": "way/24338211",
-      "kind": "unclassified",
-      "lat": 24.3553,
-      "lon": 54.510648
-    },
-    {
-      "id": "abu-dhabi-city/al-kawakib-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Kawakib 6 Street",
-      "name_ar": "شارع الكَواكِب 6",
-      "osm": "way/24338215",
-      "kind": "unclassified",
-      "lat": 24.357277,
-      "lon": 54.5076
-    },
-    {
-      "id": "abu-dhabi-city/al-kawakib-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Kawakib 8 Street",
-      "name_ar": "شارع الكَواكِب 8",
-      "osm": "way/24338216",
-      "kind": "unclassified",
-      "lat": 24.357225,
-      "lon": 54.506103
+      "lat": 24.405993,
+      "lon": 54.53514,
+      "variants": 7
     },
     {
       "id": "abu-dhabi-city/al-kawakib-street",
@@ -8222,7 +7994,8 @@ window.KB = {
       "osm": "way/24312031",
       "kind": "tertiary",
       "lat": 24.358175,
-      "lon": 54.477165
+      "lon": 54.477165,
+      "variants": 9
     },
     {
       "id": "abu-dhabi-city/al-kawn-street",
@@ -8233,7 +8006,8 @@ window.KB = {
       "osm": "way/248465664",
       "kind": "residential",
       "lat": 24.369918,
-      "lon": 54.756902
+      "lon": 54.756902,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kfayfah-street",
@@ -8244,7 +8018,8 @@ window.KB = {
       "osm": "way/94055555",
       "kind": "residential",
       "lat": 24.387183,
-      "lon": 54.644217
+      "lon": 54.644217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khalas-street",
@@ -8255,7 +8030,8 @@ window.KB = {
       "osm": "way/635013558",
       "kind": "residential",
       "lat": 24.368526,
-      "lon": 54.771793
+      "lon": 54.771793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khaleej-al-arabi-street",
@@ -8266,7 +8042,8 @@ window.KB = {
       "osm": "way/24151133",
       "kind": "trunk",
       "lat": 24.405974,
-      "lon": 54.477387
+      "lon": 54.477387,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khaleel-bin-ahmed-street",
@@ -8277,7 +8054,8 @@ window.KB = {
       "osm": "way/116691879",
       "kind": "residential",
       "lat": 24.340784,
-      "lon": 54.530832
+      "lon": 54.530832,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khama-il-street",
@@ -8288,7 +8066,8 @@ window.KB = {
       "osm": "way/820507472",
       "kind": "residential",
       "lat": 24.361533,
-      "lon": 54.607102
+      "lon": 54.607102,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khamayil-street",
@@ -8299,7 +8078,8 @@ window.KB = {
       "osm": "way/473097948",
       "kind": "residential",
       "lat": 24.384568,
-      "lon": 54.530839
+      "lon": 54.530839,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khameelah-street",
@@ -8310,7 +8090,8 @@ window.KB = {
       "osm": "way/976272089",
       "kind": "tertiary",
       "lat": 24.317856,
-      "lon": 54.698012
+      "lon": 54.698012,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khanajir-street",
@@ -8321,7 +8102,8 @@ window.KB = {
       "osm": "way/223481256",
       "kind": "residential",
       "lat": 24.354938,
-      "lon": 54.683269
+      "lon": 54.683269,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khansa-street",
@@ -8332,7 +8114,8 @@ window.KB = {
       "osm": "way/248465667",
       "kind": "residential",
       "lat": 24.367033,
-      "lon": 54.755306
+      "lon": 54.755306,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khasab-street",
@@ -8343,7 +8126,8 @@ window.KB = {
       "osm": "way/235121469",
       "kind": "residential",
       "lat": 24.355634,
-      "lon": 54.693421
+      "lon": 54.693421,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khateeb-street",
@@ -8354,7 +8138,8 @@ window.KB = {
       "osm": "way/818863323",
       "kind": "residential",
       "lat": 24.330103,
-      "lon": 54.630654
+      "lon": 54.630654,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khattat-street",
@@ -8365,7 +8150,8 @@ window.KB = {
       "osm": "way/24303598",
       "kind": "residential",
       "lat": 24.395404,
-      "lon": 54.490651
+      "lon": 54.490651,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khawali-street",
@@ -8376,7 +8162,8 @@ window.KB = {
       "osm": "way/474712337",
       "kind": "residential",
       "lat": 24.342382,
-      "lon": 54.567437
+      "lon": 54.567437,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khawas-street",
@@ -8387,7 +8174,8 @@ window.KB = {
       "osm": "way/54202598",
       "kind": "residential",
       "lat": 24.37528,
-      "lon": 54.645305
+      "lon": 54.645305,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khaymah-street",
@@ -8398,7 +8186,8 @@ window.KB = {
       "osm": "way/635057886",
       "kind": "residential",
       "lat": 24.287054,
-      "lon": 54.63508
+      "lon": 54.63508,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khayr-street",
@@ -8409,7 +8198,8 @@ window.KB = {
       "osm": "way/94058017",
       "kind": "primary",
       "lat": 24.376245,
-      "lon": 54.733787
+      "lon": 54.733787,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khayrah-street",
@@ -8420,7 +8210,8 @@ window.KB = {
       "osm": "way/54201146",
       "kind": "residential",
       "lat": 24.364212,
-      "lon": 54.62145
+      "lon": 54.62145,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khayrat-street",
@@ -8431,7 +8222,8 @@ window.KB = {
       "osm": "way/637591866",
       "kind": "residential",
       "lat": 24.378561,
-      "lon": 54.752553
+      "lon": 54.752553,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khayyalah-street",
@@ -8442,7 +8234,8 @@ window.KB = {
       "osm": "way/248465656",
       "kind": "residential",
       "lat": 24.356142,
-      "lon": 54.7445
+      "lon": 54.7445,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khayzuran-street",
@@ -8453,7 +8246,8 @@ window.KB = {
       "osm": "way/635456110",
       "kind": "residential",
       "lat": 24.33945,
-      "lon": 54.772213
+      "lon": 54.772213,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khazaf-street",
@@ -8464,7 +8258,8 @@ window.KB = {
       "osm": "way/306795033",
       "kind": "residential",
       "lat": 24.374526,
-      "lon": 54.759898
+      "lon": 54.759898,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khazan-street",
@@ -8475,7 +8270,8 @@ window.KB = {
       "osm": "way/474510497",
       "kind": "residential",
       "lat": 24.366506,
-      "lon": 54.547635
+      "lon": 54.547635,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khaznah-street",
@@ -8486,7 +8282,8 @@ window.KB = {
       "osm": "way/94058658",
       "kind": "residential",
       "lat": 24.408297,
-      "lon": 54.73943
+      "lon": 54.73943,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khibayb-street",
@@ -8497,7 +8294,8 @@ window.KB = {
       "osm": "way/637317265",
       "kind": "residential",
       "lat": 24.306626,
-      "lon": 54.622116
+      "lon": 54.622116,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khibbah-street",
@@ -8508,7 +8306,8 @@ window.KB = {
       "osm": "way/235148636",
       "kind": "residential",
       "lat": 24.372381,
-      "lon": 54.696234
+      "lon": 54.696234,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khidayri-street",
@@ -8519,7 +8318,8 @@ window.KB = {
       "osm": "way/1138004806",
       "kind": "residential",
       "lat": 24.400436,
-      "lon": 54.681936
+      "lon": 54.681936,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khillah-street",
@@ -8530,7 +8330,8 @@ window.KB = {
       "osm": "way/483067205",
       "kind": "residential",
       "lat": 24.397656,
-      "lon": 54.493601
+      "lon": 54.493601,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khireejah-street",
@@ -8541,7 +8342,8 @@ window.KB = {
       "osm": "way/974606628",
       "kind": "residential",
       "lat": 24.405201,
-      "lon": 54.704214
+      "lon": 54.704214,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khisal-street",
@@ -8552,7 +8354,8 @@ window.KB = {
       "osm": "way/119551915",
       "kind": "residential",
       "lat": 24.389228,
-      "lon": 54.697065
+      "lon": 54.697065,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khisayib-street",
@@ -8563,7 +8366,8 @@ window.KB = {
       "osm": "way/858300812",
       "kind": "residential",
       "lat": 24.34547,
-      "lon": 54.569973
+      "lon": 54.569973,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khiteefah-street",
@@ -8574,7 +8378,8 @@ window.KB = {
       "osm": "way/95490084",
       "kind": "residential",
       "lat": 24.410401,
-      "lon": 54.724531
+      "lon": 54.724531,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khiwayrah-street",
@@ -8585,7 +8390,8 @@ window.KB = {
       "osm": "way/80826264",
       "kind": "tertiary",
       "lat": 24.300517,
-      "lon": 54.625157
+      "lon": 54.625157,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khizam-street",
@@ -8596,7 +8402,8 @@ window.KB = {
       "osm": "way/475408326",
       "kind": "residential",
       "lat": 24.36943,
-      "lon": 54.750979
+      "lon": 54.750979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khizzaymah-street",
@@ -8607,7 +8414,8 @@ window.KB = {
       "osm": "way/492728288",
       "kind": "residential",
       "lat": 24.361326,
-      "lon": 54.738357
+      "lon": 54.738357,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khnyzi-street",
@@ -8618,7 +8426,8 @@ window.KB = {
       "osm": "way/635033695",
       "kind": "residential",
       "lat": 24.363554,
-      "lon": 54.779569
+      "lon": 54.779569,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khous-street",
@@ -8629,7 +8438,8 @@ window.KB = {
       "osm": "way/246998998",
       "kind": "residential",
       "lat": 24.288962,
-      "lon": 54.644985
+      "lon": 54.644985,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khrais-street",
@@ -8640,7 +8450,8 @@ window.KB = {
       "osm": "way/247044183",
       "kind": "residential",
       "lat": 24.336533,
-      "lon": 54.530597
+      "lon": 54.530597,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khtam-street",
@@ -8651,7 +8462,8 @@ window.KB = {
       "osm": "way/95490087",
       "kind": "tertiary",
       "lat": 24.411418,
-      "lon": 54.756507
+      "lon": 54.756507,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khtm-street",
@@ -8662,7 +8474,8 @@ window.KB = {
       "osm": "way/635013556",
       "kind": "residential",
       "lat": 24.369881,
-      "lon": 54.768582
+      "lon": 54.768582,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khubeirah-street",
@@ -8673,7 +8486,8 @@ window.KB = {
       "osm": "way/448043500",
       "kind": "residential",
       "lat": 24.321469,
-      "lon": 54.776698
+      "lon": 54.776698,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khusoub-street",
@@ -8684,7 +8498,8 @@ window.KB = {
       "osm": "way/474712068",
       "kind": "residential",
       "lat": 24.337913,
-      "lon": 54.574118
+      "lon": 54.574118,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-khuzama-street",
@@ -8695,7 +8510,8 @@ window.KB = {
       "osm": "way/230235336",
       "kind": "tertiary",
       "lat": 24.353125,
-      "lon": 54.76503
+      "lon": 54.76503,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kibs-al-gharbi-street",
@@ -8706,7 +8522,8 @@ window.KB = {
       "osm": "way/92007357",
       "kind": "residential",
       "lat": 24.328545,
-      "lon": 54.551855
+      "lon": 54.551855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kittan-street",
@@ -8717,7 +8534,8 @@ window.KB = {
       "osm": "way/448037677",
       "kind": "residential",
       "lat": 24.352794,
-      "lon": 54.736738
+      "lon": 54.736738,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kulafa-a-street",
@@ -8728,7 +8546,8 @@ window.KB = {
       "osm": "way/247044144",
       "kind": "residential",
       "lat": 24.334623,
-      "lon": 54.533843
+      "lon": 54.533843,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kunouz-street",
@@ -8739,7 +8558,8 @@ window.KB = {
       "osm": "way/637591871",
       "kind": "residential",
       "lat": 24.374567,
-      "lon": 54.752516
+      "lon": 54.752516,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-kuthban-street",
@@ -8750,7 +8570,8 @@ window.KB = {
       "osm": "way/306682881",
       "kind": "residential",
       "lat": 24.354384,
-      "lon": 54.756018
+      "lon": 54.756018,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-labsah-street",
@@ -8761,7 +8582,8 @@ window.KB = {
       "osm": "way/54201217",
       "kind": "residential",
       "lat": 24.361026,
-      "lon": 54.639012
+      "lon": 54.639012,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-lanj-street",
@@ -8772,7 +8594,8 @@ window.KB = {
       "osm": "way/448037721",
       "kind": "residential",
       "lat": 24.328717,
-      "lon": 54.754387
+      "lon": 54.754387,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-lata-if-street",
@@ -8783,7 +8606,8 @@ window.KB = {
       "osm": "way/819199179",
       "kind": "residential",
       "lat": 24.385933,
-      "lon": 54.673037
+      "lon": 54.673037,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-latayif-street",
@@ -8794,7 +8618,8 @@ window.KB = {
       "osm": "way/26726346",
       "kind": "residential",
       "lat": 24.287975,
-      "lon": 54.644586
+      "lon": 54.644586,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-laynah-street",
@@ -8805,7 +8630,8 @@ window.KB = {
       "osm": "way/24300377",
       "kind": "residential",
       "lat": 24.405471,
-      "lon": 54.496313
+      "lon": 54.496313,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-layth-bin-sa-d-street",
@@ -8816,7 +8642,8 @@ window.KB = {
       "osm": "way/974463490",
       "kind": "residential",
       "lat": 24.354069,
-      "lon": 54.601283
+      "lon": 54.601283,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-lazourd-street",
@@ -8827,7 +8654,8 @@ window.KB = {
       "osm": "way/89639277",
       "kind": "secondary",
       "lat": 24.368623,
-      "lon": 54.526427
+      "lon": 54.526427,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-leewan-street",
@@ -8838,7 +8666,8 @@ window.KB = {
       "osm": "way/473408457",
       "kind": "residential",
       "lat": 24.327911,
-      "lon": 54.74083
+      "lon": 54.74083,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-liban-street",
@@ -8849,7 +8678,8 @@ window.KB = {
       "osm": "way/24300414",
       "kind": "residential",
       "lat": 24.409773,
-      "lon": 54.493251
+      "lon": 54.493251,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-lisayli-street",
@@ -8860,7 +8690,8 @@ window.KB = {
       "osm": "way/474863829",
       "kind": "residential",
       "lat": 24.331892,
-      "lon": 54.570426
+      "lon": 54.570426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-liyani-street",
@@ -8871,7 +8702,8 @@ window.KB = {
       "osm": "way/235124837",
       "kind": "residential",
       "lat": 24.36088,
-      "lon": 54.712828
+      "lon": 54.712828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-lughat-street",
@@ -8882,7 +8714,8 @@ window.KB = {
       "osm": "way/122093818",
       "kind": "residential",
       "lat": 24.382562,
-      "lon": 54.715731
+      "lon": 54.715731,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-lujayn-street",
@@ -8893,7 +8726,8 @@ window.KB = {
       "osm": "way/229675913",
       "kind": "tertiary",
       "lat": 24.271282,
-      "lon": 54.572007
+      "lon": 54.572007,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-m-ayni-street",
@@ -8904,7 +8738,8 @@ window.KB = {
       "osm": "way/974606718",
       "kind": "residential",
       "lat": 24.398048,
-      "lon": 54.675752
+      "lon": 54.675752,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-athir-street",
@@ -8915,7 +8750,8 @@ window.KB = {
       "osm": "way/499491131",
       "kind": "residential",
       "lat": 24.333452,
-      "lon": 54.758406
+      "lon": 54.758406,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-alim-street",
@@ -8926,7 +8762,8 @@ window.KB = {
       "osm": "way/820507591",
       "kind": "residential",
       "lat": 24.379785,
-      "lon": 54.604384
+      "lon": 54.604384,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-ameel-street",
@@ -8937,7 +8774,8 @@ window.KB = {
       "osm": "way/635446534",
       "kind": "residential",
       "lat": 24.298552,
-      "lon": 54.617812
+      "lon": 54.617812,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-an-street",
@@ -8948,7 +8786,8 @@ window.KB = {
       "osm": "way/112191303",
       "kind": "residential",
       "lat": 24.331265,
-      "lon": 54.689301
+      "lon": 54.689301,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-ani-street",
@@ -8959,7 +8798,8 @@ window.KB = {
       "osm": "way/92007322",
       "kind": "residential",
       "lat": 24.336115,
-      "lon": 54.546273
+      "lon": 54.546273,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-arif-street",
@@ -8970,7 +8810,8 @@ window.KB = {
       "osm": "way/95490101",
       "kind": "unclassified",
       "lat": 24.40353,
-      "lon": 54.732655
+      "lon": 54.732655,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-bar-street",
@@ -8981,7 +8822,8 @@ window.KB = {
       "osm": "way/306682879",
       "kind": "residential",
       "lat": 24.363393,
-      "lon": 54.754681
+      "lon": 54.754681,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-had-street",
@@ -8992,7 +8834,8 @@ window.KB = {
       "osm": "way/306671019",
       "kind": "residential",
       "lat": 24.323979,
-      "lon": 54.730524
+      "lon": 54.730524,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-mour-street",
@@ -9003,7 +8846,8 @@ window.KB = {
       "osm": "way/306795041",
       "kind": "residential",
       "lat": 24.323423,
-      "lon": 54.75595
+      "lon": 54.75595,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-ounah-street",
@@ -9014,7 +8858,8 @@ window.KB = {
       "osm": "way/111297883",
       "kind": "residential",
       "lat": 24.32406,
-      "lon": 54.636818
+      "lon": 54.636818,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ma-rouf-street",
@@ -9025,7 +8870,8 @@ window.KB = {
       "osm": "way/89640069",
       "kind": "residential",
       "lat": 24.360842,
-      "lon": 54.535554
+      "lon": 54.535554,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mabahij-street",
@@ -9036,7 +8882,8 @@ window.KB = {
       "osm": "way/115732709",
       "kind": "residential",
       "lat": 24.375498,
-      "lon": 54.669302
+      "lon": 54.669302,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-madam-street",
@@ -9047,7 +8894,8 @@ window.KB = {
       "osm": "way/820507421",
       "kind": "residential",
       "lat": 24.390205,
-      "lon": 54.620359
+      "lon": 54.620359,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-madaris-street",
@@ -9058,62 +8906,20 @@ window.KB = {
       "osm": "way/159559346",
       "kind": "residential",
       "lat": 24.320523,
-      "lon": 54.539174
+      "lon": 54.539174,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-madeenah-as-sina-iyah-3-street",
+      "id": "abu-dhabi-city/al-madeenah-as-sina-iyah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Madeenah As Sina'iyah 3 Street",
-      "name_ar": "شارع المدينة الصناعية 3",
-      "osm": "way/24350943",
-      "kind": "unclassified",
-      "lat": 24.343292,
-      "lon": 54.49774
-    },
-    {
-      "id": "abu-dhabi-city/al-madeenah-as-sina-iyah-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Madeenah As Sina'iyah 5 Street",
-      "name_ar": "شارع المدينة الصناعية 5",
-      "osm": "way/24350941",
-      "kind": "unclassified",
-      "lat": 24.342142,
-      "lon": 54.497795
-    },
-    {
-      "id": "abu-dhabi-city/al-madeenah-as-sina-iyah-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Madeenah As Sina'iyah 6 Street",
-      "name_ar": "شارع المدينة الصناعية 6",
-      "osm": "way/24350944",
-      "kind": "unclassified",
-      "lat": 24.343243,
-      "lon": 54.496603
-    },
-    {
-      "id": "abu-dhabi-city/al-madeenah-as-sina-iyah-7-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Madeenah As Sina'iyah 7 Street",
-      "name_ar": "شارع المدينة الصناعية 7",
+      "name_en": "Al Madeenah As Sina'iyah Street",
+      "name_ar": "شارع المدينة الصناعية",
       "osm": "way/24350934",
       "kind": "unclassified",
       "lat": 24.34124,
-      "lon": 54.493
-    },
-    {
-      "id": "abu-dhabi-city/al-madeenah-as-sina-iyah-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Madeenah As Sina'iyah 8 Street",
-      "name_ar": "شارع المدينة الصناعية 8",
-      "osm": "way/24350936",
-      "kind": "unclassified",
-      "lat": 24.343211,
-      "lon": 54.494736
+      "lon": 54.493,
+      "variants": 11
     },
     {
       "id": "abu-dhabi-city/al-madeenah-street",
@@ -9124,7 +8930,8 @@ window.KB = {
       "osm": "way/306694605",
       "kind": "residential",
       "lat": 24.338801,
-      "lon": 54.746568
+      "lon": 54.746568,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mafaz-street",
@@ -9135,7 +8942,8 @@ window.KB = {
       "osm": "way/474918095",
       "kind": "residential",
       "lat": 24.299488,
-      "lon": 54.57207
+      "lon": 54.57207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mafraq-street",
@@ -9146,7 +8954,8 @@ window.KB = {
       "osm": "way/90768156",
       "kind": "tertiary",
       "lat": 24.304246,
-      "lon": 54.621959
+      "lon": 54.621959,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mafras-street",
@@ -9157,7 +8966,8 @@ window.KB = {
       "osm": "way/112174482",
       "kind": "residential",
       "lat": 24.317235,
-      "lon": 54.642722
+      "lon": 54.642722,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maghanim-street",
@@ -9168,7 +8978,8 @@ window.KB = {
       "osm": "way/94058678",
       "kind": "residential",
       "lat": 24.377827,
-      "lon": 54.72555
+      "lon": 54.72555,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maghayil-street",
@@ -9179,7 +8990,8 @@ window.KB = {
       "osm": "way/635438647",
       "kind": "residential",
       "lat": 24.313602,
-      "lon": 54.58581
+      "lon": 54.58581,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maghna-street",
@@ -9190,7 +9002,8 @@ window.KB = {
       "osm": "way/94058043",
       "kind": "tertiary",
       "lat": 24.37989,
-      "lon": 54.696148
+      "lon": 54.696148,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mahafil-street",
@@ -9201,7 +9014,8 @@ window.KB = {
       "osm": "way/635057869",
       "kind": "residential",
       "lat": 24.288982,
-      "lon": 54.632512
+      "lon": 54.632512,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mahamat-street",
@@ -9212,7 +9026,8 @@ window.KB = {
       "osm": "way/105451673",
       "kind": "residential",
       "lat": 24.324655,
-      "lon": 54.634047
+      "lon": 54.634047,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mahd-street",
@@ -9223,7 +9038,8 @@ window.KB = {
       "osm": "way/635443211",
       "kind": "residential",
       "lat": 24.339862,
-      "lon": 54.770038
+      "lon": 54.770038,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mahdar-street",
@@ -9234,7 +9050,8 @@ window.KB = {
       "osm": "way/207182400",
       "kind": "tertiary",
       "lat": 24.29343,
-      "lon": 54.469664
+      "lon": 54.469664,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mahmiyah-street",
@@ -9245,7 +9062,8 @@ window.KB = {
       "osm": "way/94329272",
       "kind": "residential",
       "lat": 24.275413,
-      "lon": 54.671869
+      "lon": 54.671869,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-majamee-street",
@@ -9256,7 +9074,8 @@ window.KB = {
       "osm": "way/178947436",
       "kind": "residential",
       "lat": 24.275524,
-      "lon": 54.647198
+      "lon": 54.647198,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-majaz-street",
@@ -9267,7 +9086,8 @@ window.KB = {
       "osm": "way/820507433",
       "kind": "residential",
       "lat": 24.388003,
-      "lon": 54.61382
+      "lon": 54.61382,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-majd-street",
@@ -9278,7 +9098,8 @@ window.KB = {
       "osm": "way/24257045",
       "kind": "tertiary",
       "lat": 24.407285,
-      "lon": 54.473971
+      "lon": 54.473971,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-makhayeel-street",
@@ -9289,7 +9110,8 @@ window.KB = {
       "osm": "way/1203503457",
       "kind": "unclassified",
       "lat": 24.295892,
-      "lon": 54.604362
+      "lon": 54.604362,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-makhwah-street",
@@ -9300,7 +9122,8 @@ window.KB = {
       "osm": "way/92007311",
       "kind": "residential",
       "lat": 24.32872,
-      "lon": 54.551467
+      "lon": 54.551467,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-malazeem-street",
@@ -9311,7 +9134,8 @@ window.KB = {
       "osm": "way/116690229",
       "kind": "residential",
       "lat": 24.341141,
-      "lon": 54.651718
+      "lon": 54.651718,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mamsha-street",
@@ -9322,7 +9146,8 @@ window.KB = {
       "osm": "way/635033708",
       "kind": "residential",
       "lat": 24.362098,
-      "lon": 54.777339
+      "lon": 54.777339,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manadhir-street",
@@ -9333,7 +9158,8 @@ window.KB = {
       "osm": "way/105447626",
       "kind": "residential",
       "lat": 24.329668,
-      "lon": 54.636108
+      "lon": 54.636108,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manafidh-street",
@@ -9344,7 +9170,8 @@ window.KB = {
       "osm": "way/247044193",
       "kind": "residential",
       "lat": 24.334563,
-      "lon": 54.533295
+      "lon": 54.533295,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manahij-street",
@@ -9355,7 +9182,8 @@ window.KB = {
       "osm": "way/693837405",
       "kind": "residential",
       "lat": 24.380894,
-      "lon": 54.644278
+      "lon": 54.644278,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manal-street",
@@ -9366,7 +9194,8 @@ window.KB = {
       "osm": "way/1116862605",
       "kind": "residential",
       "lat": 24.380481,
-      "lon": 54.541111
+      "lon": 54.541111,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manamah-street",
@@ -9377,7 +9206,8 @@ window.KB = {
       "osm": "way/820507529",
       "kind": "residential",
       "lat": 24.360913,
-      "lon": 54.59279
+      "lon": 54.59279,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manaqib-street",
@@ -9388,7 +9218,8 @@ window.KB = {
       "osm": "way/974463504",
       "kind": "residential",
       "lat": 24.358648,
-      "lon": 54.605014
+      "lon": 54.605014,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manasik-street",
@@ -9399,7 +9230,8 @@ window.KB = {
       "osm": "way/94329259",
       "kind": "residential",
       "lat": 24.26333,
-      "lon": 54.670655
+      "lon": 54.670655,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manassah-street",
@@ -9410,7 +9242,8 @@ window.KB = {
       "osm": "way/635438214",
       "kind": "residential",
       "lat": 24.353103,
-      "lon": 54.778072
+      "lon": 54.778072,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manazif-street",
@@ -9421,7 +9254,8 @@ window.KB = {
       "osm": "way/90771029",
       "kind": "residential",
       "lat": 24.35477,
-      "lon": 54.551437
+      "lon": 54.551437,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mandareen-street",
@@ -9432,7 +9266,8 @@ window.KB = {
       "osm": "way/261064375",
       "kind": "residential",
       "lat": 24.394973,
-      "lon": 54.492538
+      "lon": 54.492538,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mandous-street",
@@ -9443,7 +9278,8 @@ window.KB = {
       "osm": "way/116447606",
       "kind": "residential",
       "lat": 24.306523,
-      "lon": 54.610746
+      "lon": 54.610746,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maneefah-street",
@@ -9454,7 +9290,8 @@ window.KB = {
       "osm": "way/105578714",
       "kind": "tertiary",
       "lat": 24.390753,
-      "lon": 54.735893
+      "lon": 54.735893,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manhal-street",
@@ -9465,18 +9302,20 @@ window.KB = {
       "osm": "way/27507279",
       "kind": "secondary",
       "lat": 24.358437,
-      "lon": 54.537174
+      "lon": 54.537174,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-mantaqah-as-sina-iyah-1-street",
+      "id": "abu-dhabi-city/al-mantaqah-as-sina-iyah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Mantaqah As Sina'iyah 1 Street",
-      "name_ar": "شارع المنطقة الصناعية 1",
+      "name_en": "Al Mantaqah As Sina'iyah Street",
+      "name_ar": "شارع المنطقة الصناعية",
       "osm": "way/24312076",
       "kind": "tertiary",
       "lat": 24.353949,
-      "lon": 54.477412
+      "lon": 54.477412,
+      "variants": 14
     },
     {
       "id": "abu-dhabi-city/al-manwal-street",
@@ -9487,7 +9326,8 @@ window.KB = {
       "osm": "way/173180866",
       "kind": "residential",
       "lat": 24.31167,
-      "lon": 54.536776
+      "lon": 54.536776,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-manzilah-street",
@@ -9498,7 +9338,8 @@ window.KB = {
       "osm": "way/820507413",
       "kind": "residential",
       "lat": 24.397038,
-      "lon": 54.627379
+      "lon": 54.627379,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-marakeed-street",
@@ -9509,7 +9350,8 @@ window.KB = {
       "osm": "way/306795045",
       "kind": "residential",
       "lat": 24.323949,
-      "lon": 54.756225
+      "lon": 54.756225,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maram-street",
@@ -9520,7 +9362,8 @@ window.KB = {
       "osm": "way/306795026",
       "kind": "residential",
       "lat": 24.326959,
-      "lon": 54.775022
+      "lon": 54.775022,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maramri-street",
@@ -9531,7 +9374,8 @@ window.KB = {
       "osm": "way/247044176",
       "kind": "residential",
       "lat": 24.333892,
-      "lon": 54.531286
+      "lon": 54.531286,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-marati-street",
@@ -9542,7 +9386,8 @@ window.KB = {
       "osm": "way/475131614",
       "kind": "residential",
       "lat": 24.321851,
-      "lon": 54.641578
+      "lon": 54.641578,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maraya-street",
@@ -9553,7 +9398,8 @@ window.KB = {
       "osm": "way/635438231",
       "kind": "residential",
       "lat": 24.337158,
-      "lon": 54.773653
+      "lon": 54.773653,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mariyah-street",
@@ -9564,7 +9410,8 @@ window.KB = {
       "osm": "way/684412929",
       "kind": "residential",
       "lat": 24.318553,
-      "lon": 54.538202
+      "lon": 54.538202,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-marmar-street",
@@ -9575,62 +9422,20 @@ window.KB = {
       "osm": "way/635013564",
       "kind": "residential",
       "lat": 24.372969,
-      "lon": 54.773772
+      "lon": 54.773772,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-marmoumiyah-1-street",
+      "id": "abu-dhabi-city/al-marmoumiyah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Marmoumiyah 1 Street",
-      "name_ar": "شارع المرمومية 1",
-      "osm": "way/24337832",
-      "kind": "unclassified",
-      "lat": 24.372089,
-      "lon": 54.513436
-    },
-    {
-      "id": "abu-dhabi-city/al-marmoumiyah-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Marmoumiyah 2 Street",
-      "name_ar": "شارع المرمومية 2",
-      "osm": "way/24337830",
-      "kind": "unclassified",
-      "lat": 24.37076,
-      "lon": 54.515033
-    },
-    {
-      "id": "abu-dhabi-city/al-marmoumiyah-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Marmoumiyah 3 Street",
-      "name_ar": "شارع المرمومية 3",
-      "osm": "way/24337834",
-      "kind": "unclassified",
-      "lat": 24.371092,
-      "lon": 54.513598
-    },
-    {
-      "id": "abu-dhabi-city/al-marmoumiyah-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Marmoumiyah 4 Street",
-      "name_ar": "شارع المرمومية 4",
+      "name_en": "Al Marmoumiyah Street",
+      "name_ar": "شارع المرمومية",
       "osm": "way/24337829",
       "kind": "unclassified",
       "lat": 24.369058,
-      "lon": 54.512118
-    },
-    {
-      "id": "abu-dhabi-city/al-marmoumiyah-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Marmoumiyah 5 Street",
-      "name_ar": "شارع المرمومية 5",
-      "osm": "way/24337836",
-      "kind": "unclassified",
-      "lat": 24.370083,
-      "lon": 54.513652
+      "lon": 54.512118,
+      "variants": 9
     },
     {
       "id": "abu-dhabi-city/al-marou-ah-street",
@@ -9641,7 +9446,8 @@ window.KB = {
       "osm": "way/246999024",
       "kind": "residential",
       "lat": 24.297137,
-      "lon": 54.648978
+      "lon": 54.648978,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-marta-shah-street",
@@ -9652,7 +9458,8 @@ window.KB = {
       "osm": "way/247044187",
       "kind": "residential",
       "lat": 24.335149,
-      "lon": 54.531241
+      "lon": 54.531241,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-marthad-street",
@@ -9663,7 +9470,8 @@ window.KB = {
       "osm": "way/306671032",
       "kind": "residential",
       "lat": 24.327867,
-      "lon": 54.742477
+      "lon": 54.742477,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-marzoum-street",
@@ -9674,7 +9482,8 @@ window.KB = {
       "osm": "way/635013545",
       "kind": "residential",
       "lat": 24.366809,
-      "lon": 54.772875
+      "lon": 54.772875,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mas-street",
@@ -9685,7 +9494,8 @@ window.KB = {
       "osm": "way/483320324",
       "kind": "residential",
       "lat": 24.34272,
-      "lon": 54.757943
+      "lon": 54.757943,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masaqi-street",
@@ -9696,7 +9506,8 @@ window.KB = {
       "osm": "way/122093843",
       "kind": "residential",
       "lat": 24.380958,
-      "lon": 54.713579
+      "lon": 54.713579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masar-street",
@@ -9707,7 +9518,8 @@ window.KB = {
       "osm": "way/444298037",
       "kind": "residential",
       "lat": 24.404338,
-      "lon": 54.58199
+      "lon": 54.58199,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masarid-street",
@@ -9718,7 +9530,8 @@ window.KB = {
       "osm": "way/474930692",
       "kind": "residential",
       "lat": 24.319212,
-      "lon": 54.53863
+      "lon": 54.53863,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masayl-street",
@@ -9729,7 +9542,8 @@ window.KB = {
       "osm": "way/306671073",
       "kind": "residential",
       "lat": 24.335113,
-      "lon": 54.739213
+      "lon": 54.739213,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masbou-ah-street",
@@ -9740,7 +9554,8 @@ window.KB = {
       "osm": "way/474920685",
       "kind": "residential",
       "lat": 24.302581,
-      "lon": 54.569136
+      "lon": 54.569136,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maseerah-street",
@@ -9751,7 +9566,8 @@ window.KB = {
       "osm": "way/248465705",
       "kind": "residential",
       "lat": 24.36174,
-      "lon": 54.743242
+      "lon": 54.743242,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masha-il-street",
@@ -9762,7 +9578,8 @@ window.KB = {
       "osm": "way/821077763",
       "kind": "residential",
       "lat": 24.371726,
-      "lon": 54.621579
+      "lon": 54.621579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masharif-street",
@@ -9773,7 +9590,8 @@ window.KB = {
       "osm": "way/248465665",
       "kind": "residential",
       "lat": 24.366988,
-      "lon": 54.757424
+      "lon": 54.757424,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mashriq-street",
@@ -9784,7 +9602,8 @@ window.KB = {
       "osm": "way/111295878",
       "kind": "residential",
       "lat": 24.279487,
-      "lon": 54.643121
+      "lon": 54.643121,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masqat-street",
@@ -9795,7 +9614,8 @@ window.KB = {
       "osm": "way/235148639",
       "kind": "residential",
       "lat": 24.362841,
-      "lon": 54.695812
+      "lon": 54.695812,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-masraah-street",
@@ -9806,7 +9626,8 @@ window.KB = {
       "osm": "way/499491136",
       "kind": "residential",
       "lat": 24.339375,
-      "lon": 54.761861
+      "lon": 54.761861,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-matar-street",
@@ -9817,7 +9638,8 @@ window.KB = {
       "osm": "way/116451498",
       "kind": "residential",
       "lat": 24.342863,
-      "lon": 54.644553
+      "lon": 54.644553,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mataya-street",
@@ -9828,7 +9650,8 @@ window.KB = {
       "osm": "way/974463486",
       "kind": "residential",
       "lat": 24.352049,
-      "lon": 54.599238
+      "lon": 54.599238,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mathayil-street",
@@ -9839,7 +9662,8 @@ window.KB = {
       "osm": "way/509090257",
       "kind": "residential",
       "lat": 24.362764,
-      "lon": 54.734575
+      "lon": 54.734575,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-matir-street",
@@ -9850,7 +9674,8 @@ window.KB = {
       "osm": "way/474709783",
       "kind": "residential",
       "lat": 24.33562,
-      "lon": 54.572148
+      "lon": 54.572148,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mawajeeb-street",
@@ -9861,7 +9686,8 @@ window.KB = {
       "osm": "way/247008809",
       "kind": "residential",
       "lat": 24.312111,
-      "lon": 54.645956
+      "lon": 54.645956,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mawakib-street",
@@ -9872,7 +9698,8 @@ window.KB = {
       "osm": "way/635443198",
       "kind": "residential",
       "lat": 24.334601,
-      "lon": 54.771965
+      "lon": 54.771965,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mawani-street",
@@ -9883,7 +9710,8 @@ window.KB = {
       "osm": "way/306671083",
       "kind": "residential",
       "lat": 24.328556,
-      "lon": 54.733445
+      "lon": 54.733445,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mawaseel-street",
@@ -9894,7 +9722,8 @@ window.KB = {
       "osm": "way/116447844",
       "kind": "residential",
       "lat": 24.297831,
-      "lon": 54.629473
+      "lon": 54.629473,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maydour-street",
@@ -9905,7 +9734,8 @@ window.KB = {
       "osm": "way/321952072",
       "kind": "residential",
       "lat": 24.332311,
-      "lon": 54.533411
+      "lon": 54.533411,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maymanah-street",
@@ -9916,7 +9746,8 @@ window.KB = {
       "osm": "way/235124794",
       "kind": "residential",
       "lat": 24.361451,
-      "lon": 54.707669
+      "lon": 54.707669,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maymar-street",
@@ -9927,7 +9758,8 @@ window.KB = {
       "osm": "way/248465715",
       "kind": "residential",
       "lat": 24.355549,
-      "lon": 54.747609
+      "lon": 54.747609,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maymoun-street",
@@ -9938,7 +9770,8 @@ window.KB = {
       "osm": "way/499491133",
       "kind": "residential",
       "lat": 24.33848,
-      "lon": 54.762055
+      "lon": 54.762055,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mayr-street",
@@ -9949,7 +9782,8 @@ window.KB = {
       "osm": "way/635057868",
       "kind": "residential",
       "lat": 24.288542,
-      "lon": 54.632119
+      "lon": 54.632119,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mayrad-street",
@@ -9960,7 +9794,8 @@ window.KB = {
       "osm": "way/248481450",
       "kind": "residential",
       "lat": 24.359754,
-      "lon": 54.688414
+      "lon": 54.688414,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-maytha-a-street",
@@ -9971,7 +9806,8 @@ window.KB = {
       "osm": "way/475391048",
       "kind": "residential",
       "lat": 24.368106,
-      "lon": 54.759561
+      "lon": 54.759561,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mayyah-street",
@@ -9982,7 +9818,8 @@ window.KB = {
       "osm": "way/306686118",
       "kind": "residential",
       "lat": 24.356728,
-      "lon": 54.762701
+      "lon": 54.762701,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mayyas-street",
@@ -9993,7 +9830,8 @@ window.KB = {
       "osm": "way/230235343",
       "kind": "residential",
       "lat": 24.347033,
-      "lon": 54.74847
+      "lon": 54.74847,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mazhariyat-street",
@@ -10004,62 +9842,20 @@ window.KB = {
       "osm": "way/54202621",
       "kind": "residential",
       "lat": 24.368672,
-      "lon": 54.632759
+      "lon": 54.632759,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-mazj-1-street",
+      "id": "abu-dhabi-city/al-mazj-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Mazj 1 Street",
-      "name_ar": "شارع المَزج 1",
-      "osm": "way/24338133",
-      "kind": "unclassified",
-      "lat": 24.367543,
-      "lon": 54.513796
-    },
-    {
-      "id": "abu-dhabi-city/al-mazj-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Mazj 2 Street",
-      "name_ar": "شارع المَزج 2",
-      "osm": "way/24338132",
-      "kind": "unclassified",
-      "lat": 24.366488,
-      "lon": 54.515359
-    },
-    {
-      "id": "abu-dhabi-city/al-mazj-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Mazj 3 Street",
-      "name_ar": "شارع المَزج 3",
-      "osm": "way/24338134",
-      "kind": "unclassified",
-      "lat": 24.366538,
-      "lon": 54.513837
-    },
-    {
-      "id": "abu-dhabi-city/al-mazj-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Mazj 4 Street",
-      "name_ar": "شارع المَزج 4",
+      "name_en": "Al Mazj Street",
+      "name_ar": "شارع المَزج",
       "osm": "way/24338131",
       "kind": "unclassified",
       "lat": 24.366363,
-      "lon": 54.512314
-    },
-    {
-      "id": "abu-dhabi-city/al-mazj-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Mazj 5 Street",
-      "name_ar": "شارع المَزج 5",
-      "osm": "way/24338135",
-      "kind": "unclassified",
-      "lat": 24.365524,
-      "lon": 54.513886
+      "lon": 54.512314,
+      "variants": 12
     },
     {
       "id": "abu-dhabi-city/al-mazr-street",
@@ -10070,7 +9866,8 @@ window.KB = {
       "osm": "way/448037724",
       "kind": "residential",
       "lat": 24.332493,
-      "lon": 54.754093
+      "lon": 54.754093,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mazzar-street",
@@ -10081,7 +9878,8 @@ window.KB = {
       "osm": "way/93177785",
       "kind": "residential",
       "lat": 24.401619,
-      "lon": 54.651293
+      "lon": 54.651293,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mdabbas-street",
@@ -10092,7 +9890,8 @@ window.KB = {
       "osm": "way/116692395",
       "kind": "residential",
       "lat": 24.371741,
-      "lon": 54.713699
+      "lon": 54.713699,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mhajjalah-street",
@@ -10103,7 +9902,8 @@ window.KB = {
       "osm": "way/178947431",
       "kind": "residential",
       "lat": 24.268201,
-      "lon": 54.661187
+      "lon": 54.661187,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mi-dhanah-street",
@@ -10114,7 +9914,8 @@ window.KB = {
       "osm": "way/306694614",
       "kind": "residential",
       "lat": 24.339592,
-      "lon": 54.749473
+      "lon": 54.749473,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mi-dad-street",
@@ -10125,7 +9926,8 @@ window.KB = {
       "osm": "way/115733318",
       "kind": "residential",
       "lat": 24.37035,
-      "lon": 54.660541
+      "lon": 54.660541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mi-laq-street",
@@ -10136,7 +9938,8 @@ window.KB = {
       "osm": "way/476551349",
       "kind": "residential",
       "lat": 24.286973,
-      "lon": 54.651787
+      "lon": 54.651787,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mi-rad-street",
@@ -10147,7 +9950,8 @@ window.KB = {
       "osm": "way/230171493",
       "kind": "tertiary",
       "lat": 24.37074,
-      "lon": 54.779757
+      "lon": 54.779757,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-midayfi-street",
@@ -10158,7 +9962,8 @@ window.KB = {
       "osm": "way/818601464",
       "kind": "residential",
       "lat": 24.302738,
-      "lon": 54.665245
+      "lon": 54.665245,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mifaleeh-street",
@@ -10169,7 +9974,8 @@ window.KB = {
       "osm": "way/974463506",
       "kind": "residential",
       "lat": 24.359862,
-      "lon": 54.603972
+      "lon": 54.603972,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mifliqah-street",
@@ -10180,7 +9986,8 @@ window.KB = {
       "osm": "way/475192984",
       "kind": "residential",
       "lat": 24.286505,
-      "lon": 54.644275
+      "lon": 54.644275,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mihad-street",
@@ -10191,7 +9998,8 @@ window.KB = {
       "osm": "way/438846416",
       "kind": "secondary",
       "lat": 24.324673,
-      "lon": 54.530839
+      "lon": 54.530839,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mihbarah-street",
@@ -10202,7 +10010,8 @@ window.KB = {
       "osm": "way/90768122",
       "kind": "residential",
       "lat": 24.303242,
-      "lon": 54.623297
+      "lon": 54.623297,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mihrajan-street",
@@ -10213,7 +10022,8 @@ window.KB = {
       "osm": "way/635443192",
       "kind": "residential",
       "lat": 24.33843,
-      "lon": 54.764184
+      "lon": 54.764184,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mijaheem-street",
@@ -10224,7 +10034,8 @@ window.KB = {
       "osm": "way/306686124",
       "kind": "residential",
       "lat": 24.364823,
-      "lon": 54.766804
+      "lon": 54.766804,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mijza-street",
@@ -10235,7 +10046,8 @@ window.KB = {
       "osm": "way/248467845",
       "kind": "residential",
       "lat": 24.337832,
-      "lon": 54.743477
+      "lon": 54.743477,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mikheelah-street",
@@ -10246,7 +10058,8 @@ window.KB = {
       "osm": "way/173226736",
       "kind": "residential",
       "lat": 24.311278,
-      "lon": 54.5521
+      "lon": 54.5521,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mikyal-street",
@@ -10257,7 +10070,8 @@ window.KB = {
       "osm": "way/54201178",
       "kind": "residential",
       "lat": 24.371248,
-      "lon": 54.64412
+      "lon": 54.64412,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-min-ah-street",
@@ -10268,7 +10082,8 @@ window.KB = {
       "osm": "way/173294974",
       "kind": "residential",
       "lat": 24.308828,
-      "lon": 54.559537
+      "lon": 54.559537,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-minay-i-street",
@@ -10279,7 +10094,8 @@ window.KB = {
       "osm": "way/116691019",
       "kind": "residential",
       "lat": 24.295579,
-      "lon": 54.633273
+      "lon": 54.633273,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-minayzfah-street",
@@ -10290,7 +10106,8 @@ window.KB = {
       "osm": "way/116692399",
       "kind": "residential",
       "lat": 24.366285,
-      "lon": 54.709355
+      "lon": 54.709355,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-minbar-street",
@@ -10301,7 +10118,8 @@ window.KB = {
       "osm": "way/448037734",
       "kind": "residential",
       "lat": 24.329518,
-      "lon": 54.762239
+      "lon": 54.762239,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mindiban-street",
@@ -10312,7 +10130,8 @@ window.KB = {
       "osm": "way/475120988",
       "kind": "residential",
       "lat": 24.322449,
-      "lon": 54.534314
+      "lon": 54.534314,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-minhal-street",
@@ -10323,7 +10142,8 @@ window.KB = {
       "osm": "way/120291255",
       "kind": "residential",
       "lat": 24.385572,
-      "lon": 54.690982
+      "lon": 54.690982,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-miqdad-street",
@@ -10334,7 +10154,8 @@ window.KB = {
       "osm": "way/178947432",
       "kind": "residential",
       "lat": 24.270664,
-      "lon": 54.658091
+      "lon": 54.658091,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-miqdam-bin-ma-d-street",
@@ -10345,7 +10166,8 @@ window.KB = {
       "osm": "way/85680631",
       "kind": "residential",
       "lat": 24.350248,
-      "lon": 54.546027
+      "lon": 54.546027,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-miqnas-street",
@@ -10356,7 +10178,8 @@ window.KB = {
       "osm": "way/105578826",
       "kind": "tertiary",
       "lat": 24.385838,
-      "lon": 54.700461
+      "lon": 54.700461,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mir-ad-street",
@@ -10367,7 +10190,8 @@ window.KB = {
       "osm": "way/474702966",
       "kind": "residential",
       "lat": 24.327541,
-      "lon": 54.543429
+      "lon": 54.543429,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mirad-street",
@@ -10378,7 +10202,8 @@ window.KB = {
       "osm": "way/306682839",
       "kind": "residential",
       "lat": 24.353769,
-      "lon": 54.756953
+      "lon": 54.756953,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-miramiyah-street",
@@ -10389,7 +10214,8 @@ window.KB = {
       "osm": "way/474920691",
       "kind": "residential",
       "lat": 24.301953,
-      "lon": 54.573278
+      "lon": 54.573278,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-miraytbah-street",
@@ -10400,7 +10226,8 @@ window.KB = {
       "osm": "way/54201015",
       "kind": "residential",
       "lat": 24.353451,
-      "lon": 54.623115
+      "lon": 54.623115,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mireekhat-street",
@@ -10411,7 +10238,8 @@ window.KB = {
       "osm": "way/105447612",
       "kind": "residential",
       "lat": 24.330321,
-      "lon": 54.634867
+      "lon": 54.634867,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mirwah-street",
@@ -10422,7 +10250,8 @@ window.KB = {
       "osm": "way/116690221",
       "kind": "residential",
       "lat": 24.353914,
-      "lon": 54.656848
+      "lon": 54.656848,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-misaf-street",
@@ -10433,7 +10262,8 @@ window.KB = {
       "osm": "way/448037738",
       "kind": "residential",
       "lat": 24.329816,
-      "lon": 54.765342
+      "lon": 54.765342,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-misallah-street",
@@ -10444,7 +10274,8 @@ window.KB = {
       "osm": "way/974606762",
       "kind": "residential",
       "lat": 24.391324,
-      "lon": 54.675524
+      "lon": 54.675524,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-misbah-street",
@@ -10455,7 +10286,8 @@ window.KB = {
       "osm": "way/119551940",
       "kind": "residential",
       "lat": 24.39412,
-      "lon": 54.696339
+      "lon": 54.696339,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-misbar-street",
@@ -10466,7 +10298,8 @@ window.KB = {
       "osm": "way/473387531",
       "kind": "residential",
       "lat": 24.345213,
-      "lon": 54.556053
+      "lon": 54.556053,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-miseelah-street",
@@ -10477,7 +10310,8 @@ window.KB = {
       "osm": "way/161842254",
       "kind": "residential",
       "lat": 24.323712,
-      "lon": 54.53426
+      "lon": 54.53426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-misfat-street",
@@ -10488,7 +10322,8 @@ window.KB = {
       "osm": "way/116429209",
       "kind": "residential",
       "lat": 24.321343,
-      "lon": 54.625154
+      "lon": 54.625154,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mishkah-street",
@@ -10499,7 +10334,8 @@ window.KB = {
       "osm": "way/635746754",
       "kind": "residential",
       "lat": 24.349439,
-      "lon": 54.756261
+      "lon": 54.756261,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-misyal-street",
@@ -10510,7 +10346,8 @@ window.KB = {
       "osm": "way/120291266",
       "kind": "residential",
       "lat": 24.38586,
-      "lon": 54.684255
+      "lon": 54.684255,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mithna-street",
@@ -10521,7 +10358,8 @@ window.KB = {
       "osm": "way/306795075",
       "kind": "residential",
       "lat": 24.324743,
-      "lon": 54.765618
+      "lon": 54.765618,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mithqal-street",
@@ -10532,7 +10370,8 @@ window.KB = {
       "osm": "way/306671082",
       "kind": "residential",
       "lat": 24.321763,
-      "lon": 54.727217
+      "lon": 54.727217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mithyar-street",
@@ -10543,7 +10382,8 @@ window.KB = {
       "osm": "way/474654638",
       "kind": "residential",
       "lat": 24.331782,
-      "lon": 54.535853
+      "lon": 54.535853,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mitiyah-street",
@@ -10554,7 +10394,8 @@ window.KB = {
       "osm": "way/695162120",
       "kind": "residential",
       "lat": 24.328835,
-      "lon": 54.645886
+      "lon": 54.645886,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mitiyyah-street",
@@ -10565,7 +10406,8 @@ window.KB = {
       "osm": "way/695162111",
       "kind": "residential",
       "lat": 24.331051,
-      "lon": 54.647021
+      "lon": 54.647021,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mitla-street",
@@ -10576,7 +10418,8 @@ window.KB = {
       "osm": "way/248465727",
       "kind": "residential",
       "lat": 24.360811,
-      "lon": 54.756571
+      "lon": 54.756571,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mitla-i-street",
@@ -10587,7 +10430,8 @@ window.KB = {
       "osm": "way/116692424",
       "kind": "residential",
       "lat": 24.367769,
-      "lon": 54.710453
+      "lon": 54.710453,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mitla-iyat-street",
@@ -10598,7 +10442,8 @@ window.KB = {
       "osm": "way/105445479",
       "kind": "tertiary",
       "lat": 24.305412,
-      "lon": 54.645327
+      "lon": 54.645327,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-miyadeef-street",
@@ -10609,7 +10454,8 @@ window.KB = {
       "osm": "way/1161282157",
       "kind": "residential",
       "lat": 24.402962,
-      "lon": 54.677121
+      "lon": 54.677121,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mizmat-street",
@@ -10620,7 +10466,8 @@ window.KB = {
       "osm": "way/24303632",
       "kind": "residential",
       "lat": 24.397935,
-      "lon": 54.48952
+      "lon": 54.48952,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mkhammariyah-street",
@@ -10631,7 +10478,8 @@ window.KB = {
       "osm": "way/116429206",
       "kind": "residential",
       "lat": 24.317475,
-      "lon": 54.629145
+      "lon": 54.629145,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-modawi-street",
@@ -10642,7 +10490,8 @@ window.KB = {
       "osm": "way/115726582",
       "kind": "residential",
       "lat": 24.298045,
-      "lon": 54.662496
+      "lon": 54.662496,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mowrad-street",
@@ -10653,7 +10502,8 @@ window.KB = {
       "osm": "way/94058019",
       "kind": "secondary",
       "lat": 24.391998,
-      "lon": 54.683348
+      "lon": 54.683348,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mreer-street",
@@ -10664,7 +10514,8 @@ window.KB = {
       "osm": "way/247044142",
       "kind": "residential",
       "lat": 24.327957,
-      "lon": 54.536496
+      "lon": 54.536496,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mu-ti-street",
@@ -10675,7 +10526,8 @@ window.KB = {
       "osm": "way/1376406525",
       "kind": "residential",
       "lat": 24.31009,
-      "lon": 54.58197
+      "lon": 54.58197,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mubadarah-street",
@@ -10686,7 +10538,8 @@ window.KB = {
       "osm": "way/230145018",
       "kind": "residential",
       "lat": 24.396733,
-      "lon": 54.757596
+      "lon": 54.757596,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mubarazah-street",
@@ -10697,7 +10550,8 @@ window.KB = {
       "osm": "way/476507630",
       "kind": "residential",
       "lat": 24.301268,
-      "lon": 54.629686
+      "lon": 54.629686,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mudhaffar-street",
@@ -10708,7 +10562,8 @@ window.KB = {
       "osm": "way/54200986",
       "kind": "residential",
       "lat": 24.345764,
-      "lon": 54.617009
+      "lon": 54.617009,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muhallab-bin-abi-sufrah-street",
@@ -10719,7 +10574,8 @@ window.KB = {
       "osm": "way/246999012",
       "kind": "residential",
       "lat": 24.288594,
-      "lon": 54.653375
+      "lon": 54.653375,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muhallab-street",
@@ -10730,7 +10586,8 @@ window.KB = {
       "osm": "way/247044162",
       "kind": "residential",
       "lat": 24.332966,
-      "lon": 54.533939
+      "lon": 54.533939,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muhannad-street",
@@ -10741,7 +10598,8 @@ window.KB = {
       "osm": "way/306682835",
       "kind": "residential",
       "lat": 24.359678,
-      "lon": 54.753937
+      "lon": 54.753937,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muhawarah-street",
@@ -10752,7 +10610,8 @@ window.KB = {
       "osm": "way/448037742",
       "kind": "residential",
       "lat": 24.332538,
-      "lon": 54.759001
+      "lon": 54.759001,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muhriz-street",
@@ -10763,7 +10622,8 @@ window.KB = {
       "osm": "way/306795065",
       "kind": "residential",
       "lat": 24.32174,
-      "lon": 54.757098
+      "lon": 54.757098,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mujannad-street",
@@ -10774,7 +10634,8 @@ window.KB = {
       "osm": "way/230235328",
       "kind": "residential",
       "lat": 24.356069,
-      "lon": 54.751684
+      "lon": 54.751684,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mukhtasar-street",
@@ -10785,7 +10646,8 @@ window.KB = {
       "osm": "way/119551917",
       "kind": "residential",
       "lat": 24.392204,
-      "lon": 54.70088
+      "lon": 54.70088,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-munawwar-street",
@@ -10796,7 +10658,8 @@ window.KB = {
       "osm": "way/24303592",
       "kind": "residential",
       "lat": 24.396165,
-      "lon": 54.488294
+      "lon": 54.488294,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muraheb-street",
@@ -10807,7 +10670,8 @@ window.KB = {
       "osm": "way/248467835",
       "kind": "residential",
       "lat": 24.333917,
-      "lon": 54.741447
+      "lon": 54.741447,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muroua-ah-street",
@@ -10818,7 +10682,8 @@ window.KB = {
       "osm": "way/92007363",
       "kind": "residential",
       "lat": 24.328206,
-      "lon": 54.542299
+      "lon": 54.542299,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-musamahah-street",
@@ -10829,7 +10694,8 @@ window.KB = {
       "osm": "way/300460623",
       "kind": "residential",
       "lat": 24.271441,
-      "lon": 54.667606
+      "lon": 54.667606,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mushriqah-street",
@@ -10840,7 +10706,8 @@ window.KB = {
       "osm": "way/306682866",
       "kind": "residential",
       "lat": 24.365677,
-      "lon": 54.744719
+      "lon": 54.744719,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mustabbah-street",
@@ -10851,7 +10718,8 @@ window.KB = {
       "osm": "way/974606627",
       "kind": "residential",
       "lat": 24.405926,
-      "lon": 54.706308
+      "lon": 54.706308,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mustah-street",
@@ -10862,7 +10730,8 @@ window.KB = {
       "osm": "way/120291264",
       "kind": "residential",
       "lat": 24.391756,
-      "lon": 54.690537
+      "lon": 54.690537,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mustaqbal-street",
@@ -10873,7 +10742,8 @@ window.KB = {
       "osm": "way/319734958",
       "kind": "unclassified",
       "lat": 24.410649,
-      "lon": 54.525681
+      "lon": 54.525681,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mutafawiq-street",
@@ -10884,7 +10754,8 @@ window.KB = {
       "osm": "way/635013568",
       "kind": "residential",
       "lat": 24.377281,
-      "lon": 54.772208
+      "lon": 54.772208,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mutajir-street",
@@ -10895,7 +10766,8 @@ window.KB = {
       "osm": "way/305927241",
       "kind": "unclassified",
       "lat": 24.411024,
-      "lon": 54.513366
+      "lon": 54.513366,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mutanabbi-street",
@@ -10906,7 +10778,8 @@ window.KB = {
       "osm": "way/821077737",
       "kind": "residential",
       "lat": 24.379652,
-      "lon": 54.622482
+      "lon": 54.622482,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mutaw-ah-street",
@@ -10917,7 +10790,8 @@ window.KB = {
       "osm": "way/306682843",
       "kind": "residential",
       "lat": 24.368417,
-      "lon": 54.759763
+      "lon": 54.759763,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muthabir-street",
@@ -10928,7 +10802,8 @@ window.KB = {
       "osm": "way/26521595",
       "kind": "residential",
       "lat": 24.263134,
-      "lon": 54.662051
+      "lon": 54.662051,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-mutil-street",
@@ -10939,7 +10814,8 @@ window.KB = {
       "osm": "way/1117831083",
       "kind": "residential",
       "lat": 24.369895,
-      "lon": 54.549144
+      "lon": 54.549144,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muwaij-i-street",
@@ -10950,7 +10826,8 @@ window.KB = {
       "osm": "way/116428979",
       "kind": "tertiary",
       "lat": 24.312516,
-      "lon": 54.639132
+      "lon": 54.639132,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muwarid-street",
@@ -10961,7 +10838,8 @@ window.KB = {
       "osm": "way/94058728",
       "kind": "residential",
       "lat": 24.370928,
-      "lon": 54.722084
+      "lon": 54.722084,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muwashah-street",
@@ -10972,7 +10850,8 @@ window.KB = {
       "osm": "way/112455236",
       "kind": "residential",
       "lat": 24.383237,
-      "lon": 54.729951
+      "lon": 54.729951,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-muzoun-street",
@@ -10983,7 +10862,8 @@ window.KB = {
       "osm": "way/635443195",
       "kind": "residential",
       "lat": 24.336069,
-      "lon": 54.773588
+      "lon": 54.773588,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nabeel-street",
@@ -10994,7 +10874,8 @@ window.KB = {
       "osm": "way/474929246",
       "kind": "residential",
       "lat": 24.340181,
-      "lon": 54.741948
+      "lon": 54.741948,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-naddaf-street",
@@ -11005,7 +10886,8 @@ window.KB = {
       "osm": "way/306694616",
       "kind": "residential",
       "lat": 24.340513,
-      "lon": 54.749406
+      "lon": 54.749406,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nadi-street",
@@ -11016,7 +10898,8 @@ window.KB = {
       "osm": "way/306671069",
       "kind": "residential",
       "lat": 24.328512,
-      "lon": 54.744743
+      "lon": 54.744743,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nakhwah-street",
@@ -11027,7 +10910,8 @@ window.KB = {
       "osm": "way/24296883",
       "kind": "secondary",
       "lat": 24.411269,
-      "lon": 54.559311
+      "lon": 54.559311,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-namariq-street",
@@ -11038,7 +10922,8 @@ window.KB = {
       "osm": "way/414927445",
       "kind": "residential",
       "lat": 24.379606,
-      "lon": 54.747141
+      "lon": 54.747141,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-namous-street",
@@ -11049,7 +10934,8 @@ window.KB = {
       "osm": "way/306671063",
       "kind": "residential",
       "lat": 24.327365,
-      "lon": 54.736175
+      "lon": 54.736175,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-naseeb-street",
@@ -11060,7 +10946,8 @@ window.KB = {
       "osm": "way/248467842",
       "kind": "residential",
       "lat": 24.338594,
-      "lon": 54.741617
+      "lon": 54.741617,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nasiheen-street",
@@ -11071,7 +10958,8 @@ window.KB = {
       "osm": "way/635013540",
       "kind": "residential",
       "lat": 24.370082,
-      "lon": 54.769745
+      "lon": 54.769745,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nawaris-street",
@@ -11082,7 +10970,8 @@ window.KB = {
       "osm": "way/306795056",
       "kind": "residential",
       "lat": 24.321932,
-      "lon": 54.76325
+      "lon": 54.76325,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-naym-street",
@@ -11093,7 +10982,8 @@ window.KB = {
       "osm": "way/635438235",
       "kind": "residential",
       "lat": 24.331111,
-      "lon": 54.768786
+      "lon": 54.768786,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nazahah-street",
@@ -11104,7 +10994,8 @@ window.KB = {
       "osm": "way/306671015",
       "kind": "tertiary",
       "lat": 24.322621,
-      "lon": 54.732655
+      "lon": 54.732655,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nitaq-street",
@@ -11115,7 +11006,8 @@ window.KB = {
       "osm": "way/306682865",
       "kind": "residential",
       "lat": 24.36527,
-      "lon": 54.74685
+      "lon": 54.74685,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nouq-street",
@@ -11126,7 +11018,8 @@ window.KB = {
       "osm": "way/306686107",
       "kind": "residential",
       "lat": 24.362401,
-      "lon": 54.763103
+      "lon": 54.763103,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nourah-street",
@@ -11137,7 +11030,8 @@ window.KB = {
       "osm": "way/499509445",
       "kind": "residential",
       "lat": 24.338058,
-      "lon": 54.757889
+      "lon": 54.757889,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-nsr-street",
@@ -11148,7 +11042,8 @@ window.KB = {
       "osm": "way/306671085",
       "kind": "residential",
       "lat": 24.323561,
-      "lon": 54.74662
+      "lon": 54.74662,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-oudaba-street",
@@ -11159,7 +11054,8 @@ window.KB = {
       "osm": "way/306671012",
       "kind": "residential",
       "lat": 24.324824,
-      "lon": 54.737558
+      "lon": 54.737558,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-pitroul-street",
@@ -11170,7 +11066,8 @@ window.KB = {
       "osm": "way/94055546",
       "kind": "residential",
       "lat": 24.389497,
-      "lon": 54.645268
+      "lon": 54.645268,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qaaf-street",
@@ -11181,7 +11078,8 @@ window.KB = {
       "osm": "way/635438682",
       "kind": "residential",
       "lat": 24.320396,
-      "lon": 54.584609
+      "lon": 54.584609,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qaf-street",
@@ -11192,7 +11090,8 @@ window.KB = {
       "osm": "way/475159792",
       "kind": "residential",
       "lat": 24.288428,
-      "lon": 54.647092
+      "lon": 54.647092,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qana-ah-street",
@@ -11203,7 +11102,8 @@ window.KB = {
       "osm": "way/119287518",
       "kind": "residential",
       "lat": 24.394793,
-      "lon": 54.7143
+      "lon": 54.7143,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qanat-street",
@@ -11214,7 +11114,8 @@ window.KB = {
       "osm": "way/820507558",
       "kind": "residential",
       "lat": 24.383568,
-      "lon": 54.594695
+      "lon": 54.594695,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qanoun-street",
@@ -11225,7 +11126,8 @@ window.KB = {
       "osm": "way/173017087",
       "kind": "residential",
       "lat": 24.365435,
-      "lon": 54.552608
+      "lon": 54.552608,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qarhoud-street",
@@ -11236,7 +11138,8 @@ window.KB = {
       "osm": "way/247044172",
       "kind": "residential",
       "lat": 24.33241,
-      "lon": 54.535366
+      "lon": 54.535366,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qarmiyah-street",
@@ -11247,7 +11150,8 @@ window.KB = {
       "osm": "way/115721078",
       "kind": "residential",
       "lat": 24.298641,
-      "lon": 54.650125
+      "lon": 54.650125,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qarmoushah-street",
@@ -11258,7 +11162,8 @@ window.KB = {
       "osm": "way/173391007",
       "kind": "residential",
       "lat": 24.310577,
-      "lon": 54.572489
+      "lon": 54.572489,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qasa-id-street",
@@ -11269,7 +11174,8 @@ window.KB = {
       "osm": "way/235121434",
       "kind": "residential",
       "lat": 24.346345,
-      "lon": 54.704186
+      "lon": 54.704186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qaswa-a-street",
@@ -11280,7 +11186,8 @@ window.KB = {
       "osm": "way/92007284",
       "kind": "residential",
       "lat": 24.326581,
-      "lon": 54.567766
+      "lon": 54.567766,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qat-ah-street",
@@ -11291,7 +11198,8 @@ window.KB = {
       "osm": "way/818886411",
       "kind": "residential",
       "lat": 24.378114,
-      "lon": 54.674459
+      "lon": 54.674459,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qata-street",
@@ -11302,7 +11210,8 @@ window.KB = {
       "osm": "way/818882648",
       "kind": "residential",
       "lat": 24.367445,
-      "lon": 54.659652
+      "lon": 54.659652,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qawafi-street",
@@ -11313,7 +11222,8 @@ window.KB = {
       "osm": "way/94055543",
       "kind": "residential",
       "lat": 24.374196,
-      "lon": 54.648102
+      "lon": 54.648102,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qawafil-street",
@@ -11324,7 +11234,8 @@ window.KB = {
       "osm": "way/306795078",
       "kind": "residential",
       "lat": 24.323791,
-      "lon": 54.765395
+      "lon": 54.765395,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qawaqi-street",
@@ -11335,7 +11246,8 @@ window.KB = {
       "osm": "way/24303593",
       "kind": "residential",
       "lat": 24.396912,
-      "lon": 54.488423
+      "lon": 54.488423,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qawarib-street",
@@ -11346,7 +11258,8 @@ window.KB = {
       "osm": "way/24303594",
       "kind": "residential",
       "lat": 24.394485,
-      "lon": 54.487453
+      "lon": 54.487453,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qaymah-street",
@@ -11357,7 +11270,8 @@ window.KB = {
       "osm": "way/448037740",
       "kind": "residential",
       "lat": 24.330592,
-      "lon": 54.760446
+      "lon": 54.760446,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qaysoum-street",
@@ -11368,7 +11282,8 @@ window.KB = {
       "osm": "way/820507459",
       "kind": "residential",
       "lat": 24.367459,
-      "lon": 54.612791
+      "lon": 54.612791,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qee-an-street",
@@ -11379,7 +11294,8 @@ window.KB = {
       "osm": "way/246998988",
       "kind": "residential",
       "lat": 24.28881,
-      "lon": 54.64247
+      "lon": 54.64247,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qeelan-street",
@@ -11390,7 +11306,8 @@ window.KB = {
       "osm": "way/974606706",
       "kind": "residential",
       "lat": 24.402275,
-      "lon": 54.681111
+      "lon": 54.681111,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qeethari-street",
@@ -11401,7 +11318,8 @@ window.KB = {
       "osm": "way/473097953",
       "kind": "residential",
       "lat": 24.41059,
-      "lon": 54.564228
+      "lon": 54.564228,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qi-ayid-street",
@@ -11412,7 +11330,8 @@ window.KB = {
       "osm": "way/91675995",
       "kind": "residential",
       "lat": 24.345505,
-      "lon": 54.564002
+      "lon": 54.564002,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qifa-street",
@@ -11423,7 +11342,8 @@ window.KB = {
       "osm": "way/92007287",
       "kind": "residential",
       "lat": 24.334527,
-      "lon": 54.541947
+      "lon": 54.541947,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qifdah-street",
@@ -11434,7 +11354,8 @@ window.KB = {
       "osm": "way/54200943",
       "kind": "residential",
       "lat": 24.353915,
-      "lon": 54.613462
+      "lon": 54.613462,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qilaymi-street",
@@ -11445,7 +11366,8 @@ window.KB = {
       "osm": "way/235121440",
       "kind": "residential",
       "lat": 24.361338,
-      "lon": 54.694794
+      "lon": 54.694794,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qimmah-street",
@@ -11456,7 +11378,8 @@ window.KB = {
       "osm": "way/248465707",
       "kind": "residential",
       "lat": 24.367762,
-      "lon": 54.760426
+      "lon": 54.760426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qintaar-street",
@@ -11467,7 +11390,8 @@ window.KB = {
       "osm": "way/24303601",
       "kind": "residential",
       "lat": 24.396785,
-      "lon": 54.497136
+      "lon": 54.497136,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qirayah-street",
@@ -11478,7 +11402,8 @@ window.KB = {
       "osm": "way/821077739",
       "kind": "residential",
       "lat": 24.384691,
-      "lon": 54.626208
+      "lon": 54.626208,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qisad-street",
@@ -11489,7 +11414,8 @@ window.KB = {
       "osm": "way/90768138",
       "kind": "residential",
       "lat": 24.304476,
-      "lon": 54.617968
+      "lon": 54.617968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qisaydat-street",
@@ -11500,7 +11426,8 @@ window.KB = {
       "osm": "way/247044189",
       "kind": "residential",
       "lat": 24.334748,
-      "lon": 54.537907
+      "lon": 54.537907,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qismah-street",
@@ -11511,7 +11438,8 @@ window.KB = {
       "osm": "way/178947395",
       "kind": "residential",
       "lat": 24.276005,
-      "lon": 54.647642
+      "lon": 54.647642,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qist-street",
@@ -11522,7 +11450,8 @@ window.KB = {
       "osm": "way/483323374",
       "kind": "residential",
       "lat": 24.337713,
-      "lon": 54.621642
+      "lon": 54.621642,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qiwiyah-street",
@@ -11533,7 +11462,8 @@ window.KB = {
       "osm": "way/54200921",
       "kind": "residential",
       "lat": 24.355722,
-      "lon": 54.639437
+      "lon": 54.639437,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qiyam-street",
@@ -11544,7 +11474,8 @@ window.KB = {
       "osm": "way/94055568",
       "kind": "residential",
       "lat": 24.384081,
-      "lon": 54.638316
+      "lon": 54.638316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qlumi-street",
@@ -11555,7 +11486,8 @@ window.KB = {
       "osm": "way/261064376",
       "kind": "residential",
       "lat": 24.395445,
-      "lon": 54.493351
+      "lon": 54.493351,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qousarah-street",
@@ -11566,7 +11498,8 @@ window.KB = {
       "osm": "way/92007368",
       "kind": "residential",
       "lat": 24.328939,
-      "lon": 54.557303
+      "lon": 54.557303,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qoushi-street",
@@ -11577,7 +11510,8 @@ window.KB = {
       "osm": "way/474920686",
       "kind": "residential",
       "lat": 24.302017,
-      "lon": 54.568867
+      "lon": 54.568867,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qraih-street",
@@ -11588,7 +11522,8 @@ window.KB = {
       "osm": "way/474930695",
       "kind": "residential",
       "lat": 24.318177,
-      "lon": 54.537337
+      "lon": 54.537337,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qteefi-street",
@@ -11599,7 +11534,8 @@ window.KB = {
       "osm": "way/438856577",
       "kind": "residential",
       "lat": 24.326834,
-      "lon": 54.533259
+      "lon": 54.533259,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qudurat-street",
@@ -11610,7 +11546,8 @@ window.KB = {
       "osm": "way/92007367",
       "kind": "residential",
       "lat": 24.328591,
-      "lon": 54.548297
+      "lon": 54.548297,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qudwah-street",
@@ -11621,84 +11558,20 @@ window.KB = {
       "osm": "way/474443086",
       "kind": "residential",
       "lat": 24.39913,
-      "lon": 54.489894
+      "lon": 54.489894,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-qunout-1-street",
+      "id": "abu-dhabi-city/al-qunout-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Qunout 1 Street",
-      "name_ar": "شارع القنوت 1",
-      "osm": "way/24313761",
-      "kind": "unclassified",
-      "lat": 24.371301,
-      "lon": 54.486489
-    },
-    {
-      "id": "abu-dhabi-city/al-qunout-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Qunout 2 Street",
-      "name_ar": "شارع القنوت 2",
-      "osm": "way/24313767",
-      "kind": "unclassified",
-      "lat": 24.37013,
-      "lon": 54.489543
-    },
-    {
-      "id": "abu-dhabi-city/al-qunout-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Qunout 3 Street",
-      "name_ar": "شارع القنوت 3",
-      "osm": "way/24313768",
-      "kind": "unclassified",
-      "lat": 24.3702,
-      "lon": 54.490365
-    },
-    {
-      "id": "abu-dhabi-city/al-qunout-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Qunout 4 Street",
-      "name_ar": "شارع القنوت 4",
-      "osm": "way/24313765",
-      "kind": "unclassified",
-      "lat": 24.370097,
-      "lon": 54.488672
-    },
-    {
-      "id": "abu-dhabi-city/al-qunout-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Qunout 5 Street",
-      "name_ar": "شارع القنوت 5",
-      "osm": "way/24313764",
-      "kind": "unclassified",
-      "lat": 24.37003,
-      "lon": 54.486515
-    },
-    {
-      "id": "abu-dhabi-city/al-qunout-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Qunout 8 Street",
-      "name_ar": "شارع القنوت 8",
-      "osm": "way/24313760",
-      "kind": "unclassified",
-      "lat": 24.368414,
-      "lon": 54.486593
-    },
-    {
-      "id": "abu-dhabi-city/al-qunout-9-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Qunout 9 Street",
-      "name_ar": "شارع القنوت 9",
+      "name_en": "Al Qunout Street",
+      "name_ar": "شارع القنوت",
       "osm": "way/24313759",
       "kind": "unclassified",
       "lat": 24.368729,
-      "lon": 54.486601
+      "lon": 54.486601,
+      "variants": 19
     },
     {
       "id": "abu-dhabi-city/al-quroum-street",
@@ -11709,7 +11582,8 @@ window.KB = {
       "osm": "way/115726601",
       "kind": "residential",
       "lat": 24.303564,
-      "lon": 54.654121
+      "lon": 54.654121,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qusaseer-street",
@@ -11720,7 +11594,8 @@ window.KB = {
       "osm": "way/473392995",
       "kind": "residential",
       "lat": 24.326651,
-      "lon": 54.531542
+      "lon": 54.531542,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qusour-street",
@@ -11731,7 +11606,8 @@ window.KB = {
       "osm": "way/499491138",
       "kind": "residential",
       "lat": 24.341192,
-      "lon": 54.76234
+      "lon": 54.76234,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-qutban-street",
@@ -11742,7 +11618,8 @@ window.KB = {
       "osm": "way/306795052",
       "kind": "residential",
       "lat": 24.321364,
-      "lon": 54.758849
+      "lon": 54.758849,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rabat-street",
@@ -11753,7 +11630,8 @@ window.KB = {
       "osm": "way/635443222",
       "kind": "residential",
       "lat": 24.343308,
-      "lon": 54.777415
+      "lon": 54.777415,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-radef-street",
@@ -11764,7 +11642,8 @@ window.KB = {
       "osm": "way/483323725",
       "kind": "residential",
       "lat": 24.347717,
-      "lon": 54.760849
+      "lon": 54.760849,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-radiy-street",
@@ -11775,7 +11654,8 @@ window.KB = {
       "osm": "way/121648414",
       "kind": "residential",
       "lat": 24.376553,
-      "lon": 54.700158
+      "lon": 54.700158,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rahaj-street",
@@ -11786,7 +11666,8 @@ window.KB = {
       "osm": "way/306682808",
       "kind": "residential",
       "lat": 24.351332,
-      "lon": 54.749897
+      "lon": 54.749897,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rahayib-street",
@@ -11797,7 +11678,8 @@ window.KB = {
       "osm": "way/635037991",
       "kind": "residential",
       "lat": 24.351421,
-      "lon": 54.772673
+      "lon": 54.772673,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-raheeq-street",
@@ -11808,7 +11690,8 @@ window.KB = {
       "osm": "way/473884182",
       "kind": "residential",
       "lat": 24.398278,
-      "lon": 54.492951
+      "lon": 54.492951,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rahhalah-street",
@@ -11819,7 +11702,8 @@ window.KB = {
       "osm": "way/635403223",
       "kind": "residential",
       "lat": 24.337729,
-      "lon": 54.781872
+      "lon": 54.781872,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rakayib-street",
@@ -11830,7 +11714,8 @@ window.KB = {
       "osm": "way/306671074",
       "kind": "residential",
       "lat": 24.323732,
-      "lon": 54.728634
+      "lon": 54.728634,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ratab-street",
@@ -11841,7 +11726,8 @@ window.KB = {
       "osm": "way/248467834",
       "kind": "residential",
       "lat": 24.340653,
-      "lon": 54.742651
+      "lon": 54.742651,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rawa-i-street",
@@ -11852,7 +11738,8 @@ window.KB = {
       "osm": "way/499491141",
       "kind": "residential",
       "lat": 24.344479,
-      "lon": 54.764083
+      "lon": 54.764083,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rayhan-street",
@@ -11863,7 +11750,8 @@ window.KB = {
       "osm": "way/54201026",
       "kind": "residential",
       "lat": 24.353908,
-      "lon": 54.618229
+      "lon": 54.618229,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-razfah-street",
@@ -11874,7 +11762,8 @@ window.KB = {
       "osm": "way/178947435",
       "kind": "residential",
       "lat": 24.275747,
-      "lon": 54.649085
+      "lon": 54.649085,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-remaithah-street",
@@ -11885,7 +11774,8 @@ window.KB = {
       "osm": "way/91675982",
       "kind": "residential",
       "lat": 24.344111,
-      "lon": 54.564067
+      "lon": 54.564067,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rida-street",
@@ -11896,7 +11786,8 @@ window.KB = {
       "osm": "way/635746755",
       "kind": "residential",
       "lat": 24.348756,
-      "lon": 54.756366
+      "lon": 54.756366,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rifa-ah-street",
@@ -11907,7 +11798,8 @@ window.KB = {
       "osm": "way/248467833",
       "kind": "residential",
       "lat": 24.335868,
-      "lon": 54.744475
+      "lon": 54.744475,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rifadah-street",
@@ -11918,7 +11810,8 @@ window.KB = {
       "osm": "way/93177794",
       "kind": "residential",
       "lat": 24.392895,
-      "lon": 54.654959
+      "lon": 54.654959,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rifq-street",
@@ -11929,7 +11822,8 @@ window.KB = {
       "osm": "way/693837404",
       "kind": "residential",
       "lat": 24.374717,
-      "lon": 54.639541
+      "lon": 54.639541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rihab-street",
@@ -11940,7 +11834,8 @@ window.KB = {
       "osm": "way/248465669",
       "kind": "residential",
       "lat": 24.35805,
-      "lon": 54.749648
+      "lon": 54.749648,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rkha-street",
@@ -11951,7 +11846,8 @@ window.KB = {
       "osm": "way/94055584",
       "kind": "residential",
       "lat": 24.381971,
-      "lon": 54.639223
+      "lon": 54.639223,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rufaqah-street",
@@ -11962,7 +11858,8 @@ window.KB = {
       "osm": "way/306671047",
       "kind": "residential",
       "lat": 24.327467,
-      "lon": 54.732589
+      "lon": 54.732589,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ruha-street",
@@ -11973,7 +11870,8 @@ window.KB = {
       "osm": "way/1377472531",
       "kind": "tertiary",
       "lat": 24.295366,
-      "lon": 54.569564
+      "lon": 54.569564,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rukban-street",
@@ -11984,7 +11882,8 @@ window.KB = {
       "osm": "way/306694621",
       "kind": "residential",
       "lat": 24.34199,
-      "lon": 54.747318
+      "lon": 54.747318,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ruqiy-street",
@@ -11995,7 +11894,8 @@ window.KB = {
       "osm": "way/173019884",
       "kind": "residential",
       "lat": 24.295411,
-      "lon": 54.550273
+      "lon": 54.550273,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-rushd-street",
@@ -12006,7 +11906,8 @@ window.KB = {
       "osm": "way/94055575",
       "kind": "residential",
       "lat": 24.377367,
-      "lon": 54.643427
+      "lon": 54.643427,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ruwad-street",
@@ -12017,7 +11918,8 @@ window.KB = {
       "osm": "way/474904391",
       "kind": "residential",
       "lat": 24.346121,
-      "lon": 54.628539
+      "lon": 54.628539,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ruwayni-street",
@@ -12028,7 +11930,8 @@ window.KB = {
       "osm": "way/306694615",
       "kind": "residential",
       "lat": 24.33269,
-      "lon": 54.749674
+      "lon": 54.749674,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ruzoum-street",
@@ -12039,7 +11942,8 @@ window.KB = {
       "osm": "way/306671057",
       "kind": "residential",
       "lat": 24.328868,
-      "lon": 54.734358
+      "lon": 54.734358,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sa-afah-street",
@@ -12050,7 +11954,8 @@ window.KB = {
       "osm": "way/306671046",
       "kind": "residential",
       "lat": 24.321623,
-      "lon": 54.731476
+      "lon": 54.731476,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sab-street",
@@ -12061,7 +11966,8 @@ window.KB = {
       "osm": "way/292000015",
       "kind": "unclassified",
       "lat": 24.327576,
-      "lon": 54.662508
+      "lon": 54.662508,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sabeh-street",
@@ -12072,7 +11978,8 @@ window.KB = {
       "osm": "way/306682878",
       "kind": "residential",
       "lat": 24.368091,
-      "lon": 54.749293
+      "lon": 54.749293,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sadad-street",
@@ -12083,7 +11990,8 @@ window.KB = {
       "osm": "way/635746739",
       "kind": "residential",
       "lat": 24.352717,
-      "lon": 54.779956
+      "lon": 54.779956,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sadd-street",
@@ -12094,7 +12002,8 @@ window.KB = {
       "osm": "way/634310262",
       "kind": "residential",
       "lat": 24.341044,
-      "lon": 54.752434
+      "lon": 54.752434,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sadir-street",
@@ -12105,7 +12014,8 @@ window.KB = {
       "osm": "way/306694599",
       "kind": "residential",
       "lat": 24.328954,
-      "lon": 54.749035
+      "lon": 54.749035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-safan-street",
@@ -12116,7 +12026,8 @@ window.KB = {
       "osm": "way/635443206",
       "kind": "residential",
       "lat": 24.337886,
-      "lon": 54.775537
+      "lon": 54.775537,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sahil-street",
@@ -12127,7 +12038,8 @@ window.KB = {
       "osm": "way/230145031",
       "kind": "residential",
       "lat": 24.401206,
-      "lon": 54.756659
+      "lon": 54.756659,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sahm-street",
@@ -12138,7 +12050,8 @@ window.KB = {
       "osm": "way/54202619",
       "kind": "residential",
       "lat": 24.378336,
-      "lon": 54.638828
+      "lon": 54.638828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sahoud-street",
@@ -12149,7 +12062,8 @@ window.KB = {
       "osm": "way/818864470",
       "kind": "residential",
       "lat": 24.334625,
-      "lon": 54.646318
+      "lon": 54.646318,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sahra-a-al-kubra-street",
@@ -12160,7 +12074,8 @@ window.KB = {
       "osm": "way/306671079",
       "kind": "residential",
       "lat": 24.321375,
-      "lon": 54.735587
+      "lon": 54.735587,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-salayim-street",
@@ -12171,7 +12086,8 @@ window.KB = {
       "osm": "way/306686126",
       "kind": "residential",
       "lat": 24.360545,
-      "lon": 54.761927
+      "lon": 54.761927,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sanbouk-street",
@@ -12182,7 +12098,8 @@ window.KB = {
       "osm": "way/306795079",
       "kind": "residential",
       "lat": 24.320924,
-      "lon": 54.763762
+      "lon": 54.763762,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sanoubar-street",
@@ -12193,7 +12110,8 @@ window.KB = {
       "osm": "way/483320333",
       "kind": "residential",
       "lat": 24.341304,
-      "lon": 54.752696
+      "lon": 54.752696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sanoun-street",
@@ -12204,7 +12122,8 @@ window.KB = {
       "osm": "way/635013549",
       "kind": "residential",
       "lat": 24.368105,
-      "lon": 54.777737
+      "lon": 54.777737,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sarayir-street",
@@ -12215,7 +12134,8 @@ window.KB = {
       "osm": "way/306682845",
       "kind": "residential",
       "lat": 24.360564,
-      "lon": 54.753234
+      "lon": 54.753234,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-saree-street",
@@ -12226,7 +12146,8 @@ window.KB = {
       "osm": "way/448037647",
       "kind": "unclassified",
       "lat": 24.401452,
-      "lon": 54.690615
+      "lon": 54.690615,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sarh-street",
@@ -12237,7 +12158,8 @@ window.KB = {
       "osm": "way/248465722",
       "kind": "residential",
       "lat": 24.366243,
-      "lon": 54.755356
+      "lon": 54.755356,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sarimeen-street",
@@ -12248,7 +12170,8 @@ window.KB = {
       "osm": "way/306682833",
       "kind": "residential",
       "lat": 24.354693,
-      "lon": 54.753339
+      "lon": 54.753339,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sary-street",
@@ -12259,7 +12182,8 @@ window.KB = {
       "osm": "way/448043504",
       "kind": "residential",
       "lat": 24.323526,
-      "lon": 54.781841
+      "lon": 54.781841,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sati-street",
@@ -12270,7 +12194,8 @@ window.KB = {
       "osm": "way/306682856",
       "kind": "residential",
       "lat": 24.367196,
-      "lon": 54.756352
+      "lon": 54.756352,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-say-street",
@@ -12281,7 +12206,8 @@ window.KB = {
       "osm": "way/230145039",
       "kind": "residential",
       "lat": 24.402198,
-      "lon": 54.757701
+      "lon": 54.757701,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sayir-street",
@@ -12292,7 +12218,8 @@ window.KB = {
       "osm": "way/248465657",
       "kind": "residential",
       "lat": 24.37032,
-      "lon": 54.755821
+      "lon": 54.755821,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-seer-street",
@@ -12303,7 +12230,8 @@ window.KB = {
       "osm": "way/306795064",
       "kind": "residential",
       "lat": 24.321527,
-      "lon": 54.768123
+      "lon": 54.768123,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sha-ir-street",
@@ -12314,7 +12242,8 @@ window.KB = {
       "osm": "way/474926009",
       "kind": "residential",
       "lat": 24.363108,
-      "lon": 54.690616
+      "lon": 54.690616,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shaji-street",
@@ -12325,7 +12254,8 @@ window.KB = {
       "osm": "way/54200926",
       "kind": "residential",
       "lat": 24.35246,
-      "lon": 54.629235
+      "lon": 54.629235,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shamkha-bridge",
@@ -12336,7 +12266,8 @@ window.KB = {
       "osm": "way/89583464",
       "kind": "secondary",
       "lat": 24.340123,
-      "lon": 54.636858
+      "lon": 54.636858,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shamkhah-street",
@@ -12347,7 +12278,8 @@ window.KB = {
       "osm": "way/248465685",
       "kind": "residential",
       "lat": 24.371048,
-      "lon": 54.754733
+      "lon": 54.754733,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shammar-street",
@@ -12358,7 +12290,8 @@ window.KB = {
       "osm": "way/634416923",
       "kind": "residential",
       "lat": 24.370928,
-      "lon": 54.737376
+      "lon": 54.737376,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shayf-street",
@@ -12369,7 +12302,8 @@ window.KB = {
       "osm": "way/634310281",
       "kind": "residential",
       "lat": 24.36411,
-      "lon": 54.735894
+      "lon": 54.735894,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sheemah-street",
@@ -12380,7 +12314,8 @@ window.KB = {
       "osm": "way/635445164",
       "kind": "residential",
       "lat": 24.346712,
-      "lon": 54.766851
+      "lon": 54.766851,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shi-aybah-street",
@@ -12391,7 +12326,8 @@ window.KB = {
       "osm": "way/634310279",
       "kind": "residential",
       "lat": 24.362478,
-      "lon": 54.733693
+      "lon": 54.733693,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shi-eb-street",
@@ -12402,7 +12338,8 @@ window.KB = {
       "osm": "way/635443224",
       "kind": "residential",
       "lat": 24.344863,
-      "lon": 54.776158
+      "lon": 54.776158,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shifa-street",
@@ -12413,7 +12350,8 @@ window.KB = {
       "osm": "way/634310276",
       "kind": "residential",
       "lat": 24.361201,
-      "lon": 54.731992
+      "lon": 54.731992,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shiwayb-street",
@@ -12424,7 +12362,8 @@ window.KB = {
       "osm": "way/635013570",
       "kind": "residential",
       "lat": 24.376908,
-      "lon": 54.774846
+      "lon": 54.774846,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shuhour-street",
@@ -12435,7 +12374,8 @@ window.KB = {
       "osm": "way/1121667889",
       "kind": "residential",
       "lat": 24.282463,
-      "lon": 54.632422
+      "lon": 54.632422,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-shuhub-street",
@@ -12446,7 +12386,8 @@ window.KB = {
       "osm": "way/54200961",
       "kind": "residential",
       "lat": 24.353172,
-      "lon": 54.61186
+      "lon": 54.61186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sibarah-street",
@@ -12457,7 +12398,8 @@ window.KB = {
       "osm": "way/635443230",
       "kind": "residential",
       "lat": 24.346073,
-      "lon": 54.771751
+      "lon": 54.771751,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sifr-street",
@@ -12468,7 +12410,8 @@ window.KB = {
       "osm": "way/448037672",
       "kind": "residential",
       "lat": 24.354628,
-      "lon": 54.734067
+      "lon": 54.734067,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sileel-street",
@@ -12479,7 +12422,8 @@ window.KB = {
       "osm": "way/54200909",
       "kind": "residential",
       "lat": 24.359204,
-      "lon": 54.632936
+      "lon": 54.632936,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sireefah-street",
@@ -12490,7 +12434,8 @@ window.KB = {
       "osm": "way/635443193",
       "kind": "residential",
       "lat": 24.338445,
-      "lon": 54.774212
+      "lon": 54.774212,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-siwayib-street",
@@ -12501,7 +12446,8 @@ window.KB = {
       "osm": "way/306671084",
       "kind": "residential",
       "lat": 24.333444,
-      "lon": 54.737582
+      "lon": 54.737582,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-siyadah-street",
@@ -12512,7 +12458,8 @@ window.KB = {
       "osm": "way/306682858",
       "kind": "residential",
       "lat": 24.355872,
-      "lon": 54.757523
+      "lon": 54.757523,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-srd-street",
@@ -12523,7 +12470,8 @@ window.KB = {
       "osm": "way/635443210",
       "kind": "residential",
       "lat": 24.337805,
-      "lon": 54.76805
+      "lon": 54.76805,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sufrah-street",
@@ -12534,7 +12482,8 @@ window.KB = {
       "osm": "way/306795042",
       "kind": "residential",
       "lat": 24.323816,
-      "lon": 54.757344
+      "lon": 54.757344,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-suheel-street",
@@ -12545,7 +12494,8 @@ window.KB = {
       "osm": "way/635033693",
       "kind": "residential",
       "lat": 24.363078,
-      "lon": 54.780316
+      "lon": 54.780316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-suhub-street",
@@ -12556,7 +12506,8 @@ window.KB = {
       "osm": "way/24303588",
       "kind": "residential",
       "lat": 24.399672,
-      "lon": 54.487289
+      "lon": 54.487289,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sulafah-street",
@@ -12567,7 +12518,8 @@ window.KB = {
       "osm": "way/306795018",
       "kind": "residential",
       "lat": 24.375533,
-      "lon": 54.756515
+      "lon": 54.756515,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sullaf-street",
@@ -12578,7 +12530,8 @@ window.KB = {
       "osm": "way/306682829",
       "kind": "residential",
       "lat": 24.354916,
-      "lon": 54.755394
+      "lon": 54.755394,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-sumou-street",
@@ -12589,7 +12542,8 @@ window.KB = {
       "osm": "way/635438943",
       "kind": "residential",
       "lat": 24.348384,
-      "lon": 54.779902
+      "lon": 54.779902,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-surour-street",
@@ -12600,7 +12554,8 @@ window.KB = {
       "osm": "way/1130630695",
       "kind": "residential",
       "lat": 24.399582,
-      "lon": 54.492044
+      "lon": 54.492044,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-suweef-street",
@@ -12611,7 +12566,8 @@ window.KB = {
       "osm": "way/24303599",
       "kind": "residential",
       "lat": 24.395211,
-      "lon": 54.491339
+      "lon": 54.491339,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-suyouf-street",
@@ -12622,7 +12578,8 @@ window.KB = {
       "osm": "way/483319381",
       "kind": "residential",
       "lat": 24.345298,
-      "lon": 54.759583
+      "lon": 54.759583,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ta-sees-street",
@@ -12633,7 +12590,8 @@ window.KB = {
       "osm": "way/448037676",
       "kind": "residential",
       "lat": 24.358395,
-      "lon": 54.736011
+      "lon": 54.736011,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ta-theer-street",
@@ -12644,7 +12602,8 @@ window.KB = {
       "osm": "way/306795024",
       "kind": "residential",
       "lat": 24.36553,
-      "lon": 54.741126
+      "lon": 54.741126,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ta-ayush-street",
@@ -12655,7 +12614,8 @@ window.KB = {
       "osm": "way/1351173708",
       "kind": "unclassified",
       "lat": 24.402803,
-      "lon": 54.689166
+      "lon": 54.689166,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tafau-ol-street",
@@ -12666,7 +12626,8 @@ window.KB = {
       "osm": "way/693837409",
       "kind": "residential",
       "lat": 24.38388,
-      "lon": 54.640091
+      "lon": 54.640091,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-taghreed-street",
@@ -12677,7 +12638,8 @@ window.KB = {
       "osm": "way/306795020",
       "kind": "residential",
       "lat": 24.324446,
-      "lon": 54.766049
+      "lon": 54.766049,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tahseel-street",
@@ -12688,7 +12650,8 @@ window.KB = {
       "osm": "way/634310292",
       "kind": "residential",
       "lat": 24.36476,
-      "lon": 54.733159
+      "lon": 54.733159,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-takaful-street",
@@ -12699,7 +12662,8 @@ window.KB = {
       "osm": "way/54200966",
       "kind": "residential",
       "lat": 24.346597,
-      "lon": 54.616579
+      "lon": 54.616579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-takamul-street",
@@ -12710,7 +12674,8 @@ window.KB = {
       "osm": "way/54201177",
       "kind": "residential",
       "lat": 24.36493,
-      "lon": 54.637803
+      "lon": 54.637803,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tamam-street",
@@ -12721,7 +12686,8 @@ window.KB = {
       "osm": "way/248465676",
       "kind": "residential",
       "lat": 24.363946,
-      "lon": 54.749977
+      "lon": 54.749977,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tamas-street",
@@ -12732,7 +12698,8 @@ window.KB = {
       "osm": "way/247003348",
       "kind": "residential",
       "lat": 24.271308,
-      "lon": 54.643327
+      "lon": 54.643327,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tamayyuz-street",
@@ -12743,7 +12710,8 @@ window.KB = {
       "osm": "way/54200890",
       "kind": "residential",
       "lat": 24.36004,
-      "lon": 54.618581
+      "lon": 54.618581,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tamreen-street",
@@ -12754,7 +12722,8 @@ window.KB = {
       "osm": "way/248465700",
       "kind": "residential",
       "lat": 24.361705,
-      "lon": 54.744353
+      "lon": 54.744353,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tana-um-street",
@@ -12765,7 +12734,8 @@ window.KB = {
       "osm": "way/54200987",
       "kind": "residential",
       "lat": 24.347585,
-      "lon": 54.609137
+      "lon": 54.609137,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-taqah-street",
@@ -12776,7 +12746,8 @@ window.KB = {
       "osm": "way/635438233",
       "kind": "residential",
       "lat": 24.339446,
-      "lon": 54.772208
+      "lon": 54.772208,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-taqwa-street",
@@ -12787,7 +12758,8 @@ window.KB = {
       "osm": "way/54200958",
       "kind": "residential",
       "lat": 24.351626,
-      "lon": 54.61406
+      "lon": 54.61406,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tariq-street",
@@ -12798,7 +12770,8 @@ window.KB = {
       "osm": "way/306671024",
       "kind": "residential",
       "lat": 24.322815,
-      "lon": 54.748829
+      "lon": 54.748829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tarkhees-street",
@@ -12809,7 +12782,8 @@ window.KB = {
       "osm": "way/635443203",
       "kind": "residential",
       "lat": 24.332954,
-      "lon": 54.770785
+      "lon": 54.770785,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tars-street",
@@ -12820,7 +12794,8 @@ window.KB = {
       "osm": "way/473884591",
       "kind": "residential",
       "lat": 24.397777,
-      "lon": 54.494783
+      "lon": 54.494783,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tashjeer-street",
@@ -12831,7 +12806,8 @@ window.KB = {
       "osm": "way/235124808",
       "kind": "residential",
       "lat": 24.361836,
-      "lon": 54.702704
+      "lon": 54.702704,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tawali-street",
@@ -12842,7 +12818,8 @@ window.KB = {
       "osm": "way/200029376",
       "kind": "unclassified",
       "lat": 24.334435,
-      "lon": 54.619096
+      "lon": 54.619096,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-taybat-street",
@@ -12853,7 +12830,8 @@ window.KB = {
       "osm": "way/306795040",
       "kind": "residential",
       "lat": 24.324331,
-      "lon": 54.762741
+      "lon": 54.762741,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-teeb-street",
@@ -12864,7 +12842,8 @@ window.KB = {
       "osm": "way/448037728",
       "kind": "residential",
       "lat": 24.329856,
-      "lon": 54.756908
+      "lon": 54.756908,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-teebah-street",
@@ -12875,7 +12854,8 @@ window.KB = {
       "osm": "way/54200953",
       "kind": "residential",
       "lat": 24.350762,
-      "lon": 54.60915
+      "lon": 54.60915,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-thameen-street",
@@ -12886,7 +12866,8 @@ window.KB = {
       "osm": "way/306795017",
       "kind": "residential",
       "lat": 24.368337,
-      "lon": 54.740441
+      "lon": 54.740441,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-thaqib-street",
@@ -12897,7 +12878,8 @@ window.KB = {
       "osm": "way/248465659",
       "kind": "residential",
       "lat": 24.358618,
-      "lon": 54.744241
+      "lon": 54.744241,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tharwah-street",
@@ -12908,7 +12890,8 @@ window.KB = {
       "osm": "way/306795034",
       "kind": "residential",
       "lat": 24.375508,
-      "lon": 54.752095
+      "lon": 54.752095,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-thawab-street",
@@ -12919,7 +12902,8 @@ window.KB = {
       "osm": "way/306671062",
       "kind": "residential",
       "lat": 24.329006,
-      "lon": 54.732903
+      "lon": 54.732903,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-tijarah-street",
@@ -12930,7 +12914,8 @@ window.KB = {
       "osm": "way/635037984",
       "kind": "residential",
       "lat": 24.345734,
-      "lon": 54.781485
+      "lon": 54.781485,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-twi-street",
@@ -12941,7 +12926,8 @@ window.KB = {
       "osm": "way/635013553",
       "kind": "residential",
       "lat": 24.371927,
-      "lon": 54.775694
+      "lon": 54.775694,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ufuq-street",
@@ -12952,7 +12938,8 @@ window.KB = {
       "osm": "way/178947415",
       "kind": "residential",
       "lat": 24.272017,
-      "lon": 54.653313
+      "lon": 54.653313,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ukhuwwah-street",
@@ -12963,18 +12950,20 @@ window.KB = {
       "osm": "way/54200900",
       "kind": "residential",
       "lat": 24.352826,
-      "lon": 54.637639
+      "lon": 54.637639,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-uqhuwan-2-street",
+      "id": "abu-dhabi-city/al-uqhuwan-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Uqhuwan 2 Street",
-      "name_ar": "شارع الأقحُوان 2",
+      "name_en": "Al Uqhuwan Street",
+      "name_ar": "شارع الأقحُوان",
       "osm": "way/474679130",
       "kind": "unclassified",
       "lat": 24.363056,
-      "lon": 54.483269
+      "lon": 54.483269,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-usrah-street",
@@ -12985,7 +12974,8 @@ window.KB = {
       "osm": "way/177637766",
       "kind": "residential",
       "lat": 24.260959,
-      "lon": 54.699265
+      "lon": 54.699265,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wa-been-street",
@@ -12996,7 +12986,8 @@ window.KB = {
       "osm": "way/54200891",
       "kind": "residential",
       "lat": 24.360934,
-      "lon": 54.619341
+      "lon": 54.619341,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wabil-street",
@@ -13007,7 +12998,8 @@ window.KB = {
       "osm": "way/91675991",
       "kind": "residential",
       "lat": 24.340717,
-      "lon": 54.545923
+      "lon": 54.545923,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wada-i-street",
@@ -13018,7 +13010,8 @@ window.KB = {
       "osm": "way/635033697",
       "kind": "residential",
       "lat": 24.363572,
-      "lon": 54.772517
+      "lon": 54.772517,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-waddah-street",
@@ -13029,7 +13022,8 @@ window.KB = {
       "osm": "way/306671078",
       "kind": "residential",
       "lat": 24.327875,
-      "lon": 54.739457
+      "lon": 54.739457,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wadee-ah-street",
@@ -13040,7 +13034,8 @@ window.KB = {
       "osm": "way/248467844",
       "kind": "residential",
       "lat": 24.34177,
-      "lon": 54.743622
+      "lon": 54.743622,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wadiyeen-street",
@@ -13051,7 +13046,8 @@ window.KB = {
       "osm": "way/54200924",
       "kind": "residential",
       "lat": 24.35204,
-      "lon": 54.62782
+      "lon": 54.62782,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-waffa-street",
@@ -13062,7 +13058,8 @@ window.KB = {
       "osm": "way/54200955",
       "kind": "residential",
       "lat": 24.346806,
-      "lon": 54.614942
+      "lon": 54.614942,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wahdah-street",
@@ -13073,7 +13070,8 @@ window.KB = {
       "osm": "way/821077762",
       "kind": "residential",
       "lat": 24.384858,
-      "lon": 54.619705
+      "lon": 54.619705,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-waheedah-street",
@@ -13084,7 +13082,8 @@ window.KB = {
       "osm": "way/820507553",
       "kind": "residential",
       "lat": 24.380859,
-      "lon": 54.595449
+      "lon": 54.595449,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-waleed-bin-abdulmalik-street",
@@ -13095,7 +13094,8 @@ window.KB = {
       "osm": "way/159559356",
       "kind": "residential",
       "lat": 24.321835,
-      "lon": 54.539107
+      "lon": 54.539107,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wameed-street",
@@ -13106,7 +13106,8 @@ window.KB = {
       "osm": "way/173175054",
       "kind": "residential",
       "lat": 24.319852,
-      "lon": 54.539602
+      "lon": 54.539602,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-waqar-street",
@@ -13117,7 +13118,8 @@ window.KB = {
       "osm": "way/982808424",
       "kind": "residential",
       "lat": 24.299375,
-      "lon": 54.61355
+      "lon": 54.61355,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wara-ah-street",
@@ -13128,7 +13130,8 @@ window.KB = {
       "osm": "way/306808342",
       "kind": "residential",
       "lat": 24.310632,
-      "lon": 54.626494
+      "lon": 54.626494,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wasim-street",
@@ -13139,7 +13142,8 @@ window.KB = {
       "osm": "way/54201175",
       "kind": "residential",
       "lat": 24.370554,
-      "lon": 54.630103
+      "lon": 54.630103,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wasl-street",
@@ -13150,7 +13154,8 @@ window.KB = {
       "osm": "way/247044161",
       "kind": "residential",
       "lat": 24.330116,
-      "lon": 54.534435
+      "lon": 54.534435,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wasmi-street",
@@ -13161,7 +13166,8 @@ window.KB = {
       "osm": "way/24307277",
       "kind": "residential",
       "lat": 24.406503,
-      "lon": 54.448234
+      "lon": 54.448234,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wathb-street",
@@ -13172,7 +13178,8 @@ window.KB = {
       "osm": "way/24303591",
       "kind": "residential",
       "lat": 24.399402,
-      "lon": 54.488021
+      "lon": 54.488021,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wi-am-street",
@@ -13183,7 +13190,8 @@ window.KB = {
       "osm": "way/306671033",
       "kind": "residential",
       "lat": 24.32673,
-      "lon": 54.7369
+      "lon": 54.7369,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-widheeni-street",
@@ -13194,7 +13202,8 @@ window.KB = {
       "osm": "way/448037736",
       "kind": "residential",
       "lat": 24.330096,
-      "lon": 54.762912
+      "lon": 54.762912,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wifadah-street",
@@ -13205,7 +13214,8 @@ window.KB = {
       "osm": "way/818601199",
       "kind": "residential",
       "lat": 24.304492,
-      "lon": 54.660862
+      "lon": 54.660862,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wifaq-street",
@@ -13216,7 +13226,8 @@ window.KB = {
       "osm": "way/821077730",
       "kind": "residential",
       "lat": 24.384895,
-      "lon": 54.628883
+      "lon": 54.628883,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wiheed-street",
@@ -13227,7 +13238,8 @@ window.KB = {
       "osm": "way/246150271",
       "kind": "residential",
       "lat": 24.347434,
-      "lon": 54.747533
+      "lon": 54.747533,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wijdan-street",
@@ -13238,7 +13250,8 @@ window.KB = {
       "osm": "way/24303618",
       "kind": "residential",
       "lat": 24.394571,
-      "lon": 54.49407
+      "lon": 54.49407,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wisayid-street",
@@ -13249,84 +13262,20 @@ window.KB = {
       "osm": "way/473886528",
       "kind": "residential",
       "lat": 24.397221,
-      "lon": 54.495512
+      "lon": 54.495512,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/al-withaq-1-street",
+      "id": "abu-dhabi-city/al-withaq-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Al Withaq 1 Street",
-      "name_ar": "شارع الوِثاق 1",
+      "name_en": "Al Withaq Street",
+      "name_ar": "شارع الوِثاق",
       "osm": "way/24312159",
       "kind": "unclassified",
       "lat": 24.379621,
-      "lon": 54.476186
-    },
-    {
-      "id": "abu-dhabi-city/al-withaq-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Withaq 3 Street",
-      "name_ar": "شارع الوِثاق 3",
-      "osm": "way/24312160",
-      "kind": "unclassified",
-      "lat": 24.377647,
-      "lon": 54.476285
-    },
-    {
-      "id": "abu-dhabi-city/al-withaq-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Withaq 4 Street",
-      "name_ar": "شارع الوِثاق 4",
-      "osm": "way/24312162",
-      "kind": "unclassified",
-      "lat": 24.372292,
-      "lon": 54.478514
-    },
-    {
-      "id": "abu-dhabi-city/al-withaq-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Withaq 5 Street",
-      "name_ar": "شارع الوِثاق 5",
-      "osm": "way/24312161",
-      "kind": "unclassified",
-      "lat": 24.376436,
-      "lon": 54.47634
-    },
-    {
-      "id": "abu-dhabi-city/al-withaq-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Withaq 6 Street",
-      "name_ar": "شارع الوِثاق 6",
-      "osm": "way/24312163",
-      "kind": "unclassified",
-      "lat": 24.37208,
-      "lon": 54.474323
-    },
-    {
-      "id": "abu-dhabi-city/al-withaq-7-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Withaq 7 Street",
-      "name_ar": "شارع الوِثاق 7",
-      "osm": "way/24312171",
-      "kind": "unclassified",
-      "lat": 24.375102,
-      "lon": 54.476419
-    },
-    {
-      "id": "abu-dhabi-city/al-withaq-9-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Withaq 9 Street",
-      "name_ar": "شارع الوِثاق 9",
-      "osm": "way/24312172",
-      "kind": "unclassified",
-      "lat": 24.37328,
-      "lon": 54.476495
+      "lon": 54.476186,
+      "variants": 23
     },
     {
       "id": "abu-dhabi-city/al-wtar-street",
@@ -13337,7 +13286,8 @@ window.KB = {
       "osm": "way/499491143",
       "kind": "residential",
       "lat": 24.342815,
-      "lon": 54.76685
+      "lon": 54.76685,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wu-oud-street",
@@ -13348,7 +13298,8 @@ window.KB = {
       "osm": "way/818897047",
       "kind": "residential",
       "lat": 24.394852,
-      "lon": 54.65753
+      "lon": 54.65753,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-wujoud-street",
@@ -13359,7 +13310,8 @@ window.KB = {
       "osm": "way/92007365",
       "kind": "residential",
       "lat": 24.328123,
-      "lon": 54.554273
+      "lon": 54.554273,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yahili-street",
@@ -13370,7 +13322,8 @@ window.KB = {
       "osm": "way/475391051",
       "kind": "residential",
       "lat": 24.373009,
-      "lon": 54.775999
+      "lon": 54.775999,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yakht-street",
@@ -13381,7 +13334,8 @@ window.KB = {
       "osm": "way/635443216",
       "kind": "residential",
       "lat": 24.335234,
-      "lon": 54.764091
+      "lon": 54.764091,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yal-street",
@@ -13392,18 +13346,8 @@ window.KB = {
       "osm": "way/105451680",
       "kind": "tertiary",
       "lat": 24.326772,
-      "lon": 54.636329
-    },
-    {
-      "id": "abu-dhabi-city/al-yamam-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Al Yamam 1 Street",
-      "name_ar": "شارع اليَمام 1",
-      "osm": "way/474494940",
-      "kind": "residential",
-      "lat": 24.409812,
-      "lon": 54.562488
+      "lon": 54.636329,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yamam-street",
@@ -13411,10 +13355,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "Al Yamam Street",
       "name_ar": "شارع اليَمام",
-      "osm": "way/819186847",
+      "osm": "way/474494940",
       "kind": "residential",
-      "lat": 24.410381,
-      "lon": 54.561548
+      "lat": 24.409812,
+      "lon": 54.562488,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yamamah-street",
@@ -13425,7 +13370,8 @@ window.KB = {
       "osm": "way/473903590",
       "kind": "residential",
       "lat": 24.409572,
-      "lon": 54.510849
+      "lon": 54.510849,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yamani-street",
@@ -13436,7 +13382,8 @@ window.KB = {
       "osm": "way/306694612",
       "kind": "residential",
       "lat": 24.331629,
-      "lon": 54.749653
+      "lon": 54.749653,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yamdah-street",
@@ -13447,7 +13394,8 @@ window.KB = {
       "osm": "way/24300378",
       "kind": "residential",
       "lat": 24.403711,
-      "lon": 54.502756
+      "lon": 54.502756,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yanabee-street",
@@ -13458,7 +13406,8 @@ window.KB = {
       "osm": "way/820507469",
       "kind": "residential",
       "lat": 24.362631,
-      "lon": 54.610165
+      "lon": 54.610165,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yanam-street",
@@ -13469,7 +13418,8 @@ window.KB = {
       "osm": "way/24303619",
       "kind": "residential",
       "lat": 24.394122,
-      "lon": 54.495249
+      "lon": 54.495249,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yanbou-street",
@@ -13480,7 +13430,8 @@ window.KB = {
       "osm": "way/121648429",
       "kind": "residential",
       "lat": 24.383245,
-      "lon": 54.703473
+      "lon": 54.703473,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yanhah-street",
@@ -13491,7 +13442,8 @@ window.KB = {
       "osm": "way/818881582",
       "kind": "residential",
       "lat": 24.363299,
-      "lon": 54.665399
+      "lon": 54.665399,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yari-street",
@@ -13502,7 +13454,8 @@ window.KB = {
       "osm": "way/448037670",
       "kind": "residential",
       "lat": 24.355604,
-      "lon": 54.736843
+      "lon": 54.736843,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yas-as-safli-street",
@@ -13513,7 +13466,8 @@ window.KB = {
       "osm": "way/235124813",
       "kind": "tertiary",
       "lat": 24.355496,
-      "lon": 54.711964
+      "lon": 54.711964,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yasmeen-street",
@@ -13524,7 +13478,8 @@ window.KB = {
       "osm": "way/306795091",
       "kind": "residential",
       "lat": 24.37203,
-      "lon": 54.741747
+      "lon": 54.741747,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yaz-ah-street",
@@ -13535,7 +13490,8 @@ window.KB = {
       "osm": "way/818608521",
       "kind": "residential",
       "lat": 24.306023,
-      "lon": 54.591066
+      "lon": 54.591066,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yireed-street",
@@ -13546,7 +13502,8 @@ window.KB = {
       "osm": "way/635438234",
       "kind": "residential",
       "lat": 24.332926,
-      "lon": 54.772233
+      "lon": 54.772233,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yirz-street",
@@ -13557,7 +13514,8 @@ window.KB = {
       "osm": "way/173226975",
       "kind": "residential",
       "lat": 24.319277,
-      "lon": 54.568176
+      "lon": 54.568176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-yusr-street",
@@ -13568,7 +13526,8 @@ window.KB = {
       "osm": "way/974606702",
       "kind": "residential",
       "lat": 24.398593,
-      "lon": 54.672328
+      "lon": 54.672328,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zahou-street",
@@ -13579,7 +13538,8 @@ window.KB = {
       "osm": "way/306682853",
       "kind": "residential",
       "lat": 24.366586,
-      "lon": 54.7453
+      "lon": 54.7453,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zawwar-street",
@@ -13590,7 +13550,8 @@ window.KB = {
       "osm": "way/306671064",
       "kind": "residential",
       "lat": 24.325583,
-      "lon": 54.737502
+      "lon": 54.737502,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zbad-street",
@@ -13601,7 +13562,8 @@ window.KB = {
       "osm": "way/448037661",
       "kind": "residential",
       "lat": 24.374942,
-      "lon": 54.774016
+      "lon": 54.774016,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zi-baq-street",
@@ -13612,7 +13574,8 @@ window.KB = {
       "osm": "way/248465690",
       "kind": "residential",
       "lat": 24.359282,
-      "lon": 54.747901
+      "lon": 54.747901,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zihab-street",
@@ -13623,7 +13586,8 @@ window.KB = {
       "osm": "way/306795073",
       "kind": "residential",
       "lat": 24.350018,
-      "lon": 54.740622
+      "lon": 54.740622,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zihbah-street",
@@ -13634,7 +13598,8 @@ window.KB = {
       "osm": "way/635033692",
       "kind": "residential",
       "lat": 24.361101,
-      "lon": 54.779414
+      "lon": 54.779414,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zira-ah-street",
@@ -13645,7 +13610,8 @@ window.KB = {
       "osm": "way/105578246",
       "kind": "tertiary",
       "lat": 24.387346,
-      "lon": 54.743772
+      "lon": 54.743772,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ziran-street",
@@ -13656,7 +13622,8 @@ window.KB = {
       "osm": "way/306682828",
       "kind": "residential",
       "lat": 24.363709,
-      "lon": 54.746049
+      "lon": 54.746049,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-ziyad-street",
@@ -13667,7 +13634,8 @@ window.KB = {
       "osm": "way/499509442",
       "kind": "residential",
       "lat": 24.33799,
-      "lon": 54.754041
+      "lon": 54.754041,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zman-street",
@@ -13678,7 +13646,8 @@ window.KB = {
       "osm": "way/306795085",
       "kind": "residential",
       "lat": 24.351289,
-      "lon": 54.74012
+      "lon": 54.74012,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/al-zumalaa-street",
@@ -13689,7 +13658,8 @@ window.KB = {
       "osm": "way/499491134",
       "kind": "residential",
       "lat": 24.339938,
-      "lon": 54.762534
+      "lon": 54.762534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/alasry-bin-hamouda-al-dhaheri-street",
@@ -13700,7 +13670,8 @@ window.KB = {
       "osm": "way/306671055",
       "kind": "tertiary",
       "lat": 24.325949,
-      "lon": 54.736727
+      "lon": 54.736727,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/alhabaishi-bin-bahlol-al-mansouri-street",
@@ -13711,7 +13682,8 @@ window.KB = {
       "osm": "way/120291258",
       "kind": "residential",
       "lat": 24.385262,
-      "lon": 54.693398
+      "lon": 54.693398,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/alhabeeb-bin-ahmed-al-muhairbi-street",
@@ -13722,7 +13694,8 @@ window.KB = {
       "osm": "way/90768111",
       "kind": "tertiary",
       "lat": 24.336582,
-      "lon": 54.553704
+      "lon": 54.553704,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ali-bin-alkindi-al-marar-street",
@@ -13733,7 +13706,8 @@ window.KB = {
       "osm": "way/448037718",
       "kind": "tertiary",
       "lat": 24.351416,
-      "lon": 54.765623
+      "lon": 54.765623,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ali-bin-dihayr-al-mazrouei-street",
@@ -13744,7 +13718,8 @@ window.KB = {
       "osm": "way/246998992",
       "kind": "residential",
       "lat": 24.294194,
-      "lon": 54.651538
+      "lon": 54.651538,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ali-bin-shaiban-al-khemairi-street",
@@ -13755,7 +13730,8 @@ window.KB = {
       "osm": "way/637591803",
       "kind": "unclassified",
       "lat": 24.407904,
-      "lon": 54.730526
+      "lon": 54.730526,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ali-bin-thani-al-rumaithi-street",
@@ -13766,7 +13742,8 @@ window.KB = {
       "osm": "way/115732725",
       "kind": "residential",
       "lat": 24.37504,
-      "lon": 54.666236
+      "lon": 54.666236,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/alkindi-bin-musabah-al-marar-street",
@@ -13777,7 +13754,8 @@ window.KB = {
       "osm": "way/24297185",
       "kind": "tertiary",
       "lat": 24.407579,
-      "lon": 54.596307
+      "lon": 54.596307,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/altaher-bin-ali-al-marar-street",
@@ -13788,7 +13766,8 @@ window.KB = {
       "osm": "way/90771034",
       "kind": "residential",
       "lat": 24.35888,
-      "lon": 54.551419
+      "lon": 54.551419,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/amir-bin-fuhairah-street",
@@ -13799,7 +13778,8 @@ window.KB = {
       "osm": "way/492728287",
       "kind": "residential",
       "lat": 24.36055,
-      "lon": 54.737166
+      "lon": 54.737166,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-n-am-street",
@@ -13810,7 +13790,8 @@ window.KB = {
       "osm": "way/116690228",
       "kind": "residential",
       "lat": 24.352255,
-      "lon": 54.659895
+      "lon": 54.659895,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-na-eem-street",
@@ -13821,7 +13802,8 @@ window.KB = {
       "osm": "way/112455245",
       "kind": "residential",
       "lat": 24.384549,
-      "lon": 54.72655
+      "lon": 54.72655,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-na-eemiyah-street",
@@ -13832,7 +13814,8 @@ window.KB = {
       "osm": "way/247044148",
       "kind": "residential",
       "lat": 24.331706,
-      "lon": 54.534002
+      "lon": 54.534002,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nabahah-street",
@@ -13843,7 +13826,8 @@ window.KB = {
       "osm": "way/1041982912",
       "kind": "residential",
       "lat": 24.406651,
-      "lon": 54.582435
+      "lon": 54.582435,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nabat-street",
@@ -13854,7 +13838,8 @@ window.KB = {
       "osm": "way/820507470",
       "kind": "residential",
       "lat": 24.36405,
-      "lon": 54.611606
+      "lon": 54.611606,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nabghah-street",
@@ -13865,7 +13850,8 @@ window.KB = {
       "osm": "way/974606747",
       "kind": "residential",
       "lat": 24.395235,
-      "lon": 54.672431
+      "lon": 54.672431,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nadarah-street",
@@ -13876,7 +13862,8 @@ window.KB = {
       "osm": "way/483968823",
       "kind": "residential",
       "lat": 24.34466,
-      "lon": 54.559818
+      "lon": 54.559818,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nadeeb-street",
@@ -13887,7 +13874,8 @@ window.KB = {
       "osm": "way/90962253",
       "kind": "tertiary",
       "lat": 24.363332,
-      "lon": 54.563997
+      "lon": 54.563997,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nadeem-street",
@@ -13898,7 +13886,8 @@ window.KB = {
       "osm": "way/818597390",
       "kind": "residential",
       "lat": 24.304833,
-      "lon": 54.661888
+      "lon": 54.661888,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nadwah-street",
@@ -13909,7 +13898,8 @@ window.KB = {
       "osm": "way/116447845",
       "kind": "residential",
       "lat": 24.302726,
-      "lon": 54.621253
+      "lon": 54.621253,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nafal-street",
@@ -13920,7 +13910,8 @@ window.KB = {
       "osm": "way/116429201",
       "kind": "tertiary",
       "lat": 24.316681,
-      "lon": 54.615946
+      "lon": 54.615946,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nahadah-street",
@@ -13931,7 +13922,8 @@ window.KB = {
       "osm": "way/247044201",
       "kind": "residential",
       "lat": 24.331268,
-      "lon": 54.534895
+      "lon": 54.534895,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nahdah-street",
@@ -13942,7 +13934,8 @@ window.KB = {
       "osm": "way/26497905",
       "kind": "tertiary",
       "lat": 24.259904,
-      "lon": 54.699896
+      "lon": 54.699896,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-naja-street",
@@ -13953,7 +13946,8 @@ window.KB = {
       "osm": "way/306671059",
       "kind": "residential",
       "lat": 24.324217,
-      "lon": 54.731312
+      "lon": 54.731312,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-najdah-street",
@@ -13964,7 +13958,8 @@ window.KB = {
       "osm": "way/230320479",
       "kind": "residential",
       "lat": 24.283709,
-      "lon": 54.657729
+      "lon": 54.657729,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-najmat-street",
@@ -13975,18 +13970,20 @@ window.KB = {
       "osm": "way/173226972",
       "kind": "residential",
       "lat": 24.322204,
-      "lon": 54.560919
+      "lon": 54.560919,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/an-najwa-4-street",
+      "id": "abu-dhabi-city/an-najwa-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "An Najwa 4 Street",
-      "name_ar": "شارع النَّجوَى 4",
+      "name_en": "An Najwa Street",
+      "name_ar": "شارع النَّجوَى",
       "osm": "way/24297301",
       "kind": "unclassified",
       "lat": 24.402545,
-      "lon": 54.574136
+      "lon": 54.574136,
+      "variants": 16
     },
     {
       "id": "abu-dhabi-city/an-najwah-street",
@@ -13997,7 +13994,8 @@ window.KB = {
       "osm": "way/306671065",
       "kind": "residential",
       "lat": 24.332866,
-      "lon": 54.740242
+      "lon": 54.740242,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-narjeel-street",
@@ -14008,7 +14006,8 @@ window.KB = {
       "osm": "way/94058704",
       "kind": "residential",
       "lat": 24.372584,
-      "lon": 54.721174
+      "lon": 54.721174,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-naseehah-street",
@@ -14019,7 +14018,8 @@ window.KB = {
       "osm": "way/229675920",
       "kind": "unclassified",
       "lat": 24.287264,
-      "lon": 54.567663
+      "lon": 54.567663,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nashat-street",
@@ -14030,7 +14030,8 @@ window.KB = {
       "osm": "way/95490091",
       "kind": "residential",
       "lat": 24.404836,
-      "lon": 54.726559
+      "lon": 54.726559,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nashr-street",
@@ -14041,7 +14042,8 @@ window.KB = {
       "osm": "way/1041982905",
       "kind": "residential",
       "lat": 24.406366,
-      "lon": 54.581371
+      "lon": 54.581371,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nasiriyah-street",
@@ -14052,7 +14054,8 @@ window.KB = {
       "osm": "way/473385222",
       "kind": "residential",
       "lat": 24.297438,
-      "lon": 54.561675
+      "lon": 54.561675,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nasmah-street",
@@ -14063,7 +14066,8 @@ window.KB = {
       "osm": "way/821077750",
       "kind": "residential",
       "lat": 24.380419,
-      "lon": 54.613156
+      "lon": 54.613156,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nasmat-street",
@@ -14074,7 +14078,8 @@ window.KB = {
       "osm": "way/24303582",
       "kind": "residential",
       "lat": 24.400108,
-      "lon": 54.490931
+      "lon": 54.490931,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nasr-street",
@@ -14085,7 +14090,8 @@ window.KB = {
       "osm": "way/90762769",
       "kind": "tertiary",
       "lat": 24.328419,
-      "lon": 54.551537
+      "lon": 54.551537,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-natal-street",
@@ -14096,7 +14102,8 @@ window.KB = {
       "osm": "way/24300386",
       "kind": "residential",
       "lat": 24.408725,
-      "lon": 54.499912
+      "lon": 54.499912,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nawahi-street",
@@ -14107,7 +14114,8 @@ window.KB = {
       "osm": "way/54201145",
       "kind": "residential",
       "lat": 24.365886,
-      "lon": 54.623538
+      "lon": 54.623538,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nawamees-street",
@@ -14118,7 +14126,8 @@ window.KB = {
       "osm": "way/473097949",
       "kind": "residential",
       "lat": 24.386166,
-      "lon": 54.532259
+      "lon": 54.532259,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nawar-bint-malik-street",
@@ -14129,7 +14138,8 @@ window.KB = {
       "osm": "way/116451476",
       "kind": "residential",
       "lat": 24.356812,
-      "lon": 54.652774
+      "lon": 54.652774,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nawwas-bin-sam-an-street",
@@ -14140,7 +14150,8 @@ window.KB = {
       "osm": "way/173393484",
       "kind": "residential",
       "lat": 24.308079,
-      "lon": 54.564714
+      "lon": 54.564714,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nazzal-bin-subrah-street",
@@ -14151,7 +14162,8 @@ window.KB = {
       "osm": "way/235148627",
       "kind": "residential",
       "lat": 24.369254,
-      "lon": 54.691996
+      "lon": 54.691996,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nijeebah-street",
@@ -14162,7 +14174,8 @@ window.KB = {
       "osm": "way/94055541",
       "kind": "residential",
       "lat": 24.377967,
-      "lon": 54.651476
+      "lon": 54.651476,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-niqyan-street",
@@ -14173,7 +14186,8 @@ window.KB = {
       "osm": "way/971320613",
       "kind": "residential",
       "lat": 24.406509,
-      "lon": 54.588128
+      "lon": 54.588128,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nisaylah-street",
@@ -14184,7 +14198,8 @@ window.KB = {
       "osm": "way/39425337",
       "kind": "secondary",
       "lat": 24.322602,
-      "lon": 54.488979
+      "lon": 54.488979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-niyaq-street",
@@ -14195,7 +14210,8 @@ window.KB = {
       "osm": "way/235121462",
       "kind": "residential",
       "lat": 24.352045,
-      "lon": 54.693775
+      "lon": 54.693775,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-noud-street",
@@ -14206,7 +14222,8 @@ window.KB = {
       "osm": "way/94058689",
       "kind": "tertiary",
       "lat": 24.408059,
-      "lon": 54.733449
+      "lon": 54.733449,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nubl-street",
@@ -14217,7 +14234,8 @@ window.KB = {
       "osm": "way/475585800",
       "kind": "residential",
       "lat": 24.395791,
-      "lon": 54.497221
+      "lon": 54.497221,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nujoud-street",
@@ -14228,7 +14246,8 @@ window.KB = {
       "osm": "way/91675953",
       "kind": "residential",
       "lat": 24.338656,
-      "lon": 54.546864
+      "lon": 54.546864,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nukhbah-street",
@@ -14239,7 +14258,8 @@ window.KB = {
       "osm": "way/116429224",
       "kind": "residential",
       "lat": 24.312545,
-      "lon": 54.628777
+      "lon": 54.628777,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/an-nuzhat-street",
@@ -14250,7 +14270,8 @@ window.KB = {
       "osm": "way/307022475",
       "kind": "residential",
       "lat": 24.284448,
-      "lon": 54.641032
+      "lon": 54.641032,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/anas-bin-fudalah-street",
@@ -14261,7 +14282,8 @@ window.KB = {
       "osm": "way/474869768",
       "kind": "residential",
       "lat": 24.360291,
-      "lon": 54.554205
+      "lon": 54.554205,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/anis-al-ansari-street",
@@ -14272,7 +14294,8 @@ window.KB = {
       "osm": "way/119287535",
       "kind": "residential",
       "lat": 24.395517,
-      "lon": 54.706921
+      "lon": 54.706921,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aqil-bin-al-bakeer-street",
@@ -14283,7 +14306,8 @@ window.KB = {
       "osm": "way/635438613",
       "kind": "residential",
       "lat": 24.321223,
-      "lon": 54.586498
+      "lon": 54.586498,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-ra-lah-street",
@@ -14294,7 +14318,8 @@ window.KB = {
       "osm": "way/247044160",
       "kind": "residential",
       "lat": 24.335404,
-      "lon": 54.537416
+      "lon": 54.537416,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rabee-bin-anas-street",
@@ -14305,7 +14330,8 @@ window.KB = {
       "osm": "way/820507478",
       "kind": "residential",
       "lat": 24.362683,
-      "lon": 54.615968
+      "lon": 54.615968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rabee-bin-khuthaym-street",
@@ -14316,7 +14342,8 @@ window.KB = {
       "osm": "way/475133951",
       "kind": "residential",
       "lat": 24.318316,
-      "lon": 54.638431
+      "lon": 54.638431,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rabee-street",
@@ -14327,7 +14354,8 @@ window.KB = {
       "osm": "way/975413108",
       "kind": "residential",
       "lat": 24.390449,
-      "lon": 54.678963
+      "lon": 54.678963,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rabiyah-street",
@@ -14338,7 +14366,8 @@ window.KB = {
       "osm": "way/820507465",
       "kind": "unclassified",
       "lat": 24.362756,
-      "lon": 54.61513
+      "lon": 54.61513,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-radeemah-street",
@@ -14349,7 +14378,8 @@ window.KB = {
       "osm": "way/306818497",
       "kind": "residential",
       "lat": 24.315362,
-      "lon": 54.652877
+      "lon": 54.652877,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-radi-street",
@@ -14360,7 +14390,8 @@ window.KB = {
       "osm": "way/24303634",
       "kind": "residential",
       "lat": 24.39587,
-      "lon": 54.502822
+      "lon": 54.502822,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rafahiyah-street",
@@ -14371,7 +14402,8 @@ window.KB = {
       "osm": "way/90771030",
       "kind": "residential",
       "lat": 24.355291,
-      "lon": 54.553743
+      "lon": 54.553743,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rafiy-street",
@@ -14382,51 +14414,20 @@ window.KB = {
       "osm": "way/1430562120",
       "kind": "residential",
       "lat": 24.396784,
-      "lon": 54.670939
+      "lon": 54.670939,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ar-raha-2-street",
+      "id": "abu-dhabi-city/ar-raha-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ar Raha 2 Street",
-      "name_ar": "شارع الرحى 2",
-      "osm": "way/24337825",
-      "kind": "unclassified",
-      "lat": 24.372552,
-      "lon": 54.520662
-    },
-    {
-      "id": "abu-dhabi-city/ar-raha-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ar Raha 4 Street",
-      "name_ar": "شارع الرحا 4",
-      "osm": "way/474422878",
-      "kind": "unclassified",
-      "lat": 24.371079,
-      "lon": 54.520618
-    },
-    {
-      "id": "abu-dhabi-city/ar-raha-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ar Raha 6 Street",
-      "name_ar": "شارع الرحى 6",
-      "osm": "way/474426181",
-      "kind": "unclassified",
-      "lat": 24.369299,
-      "lon": 54.519127
-    },
-    {
-      "id": "abu-dhabi-city/ar-raha-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ar Raha 8 Street",
-      "name_ar": "شارع الرحى 8",
+      "name_en": "Ar Raha Street",
+      "name_ar": "شارع الرحى",
       "osm": "way/24337341",
       "kind": "tertiary",
       "lat": 24.364403,
-      "lon": 54.516567
+      "lon": 54.516567,
+      "variants": 22
     },
     {
       "id": "abu-dhabi-city/ar-rahayil-street",
@@ -14437,7 +14438,8 @@ window.KB = {
       "osm": "way/24313137",
       "kind": "tertiary",
       "lat": 24.336418,
-      "lon": 54.497955
+      "lon": 54.497955,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rahhal-street",
@@ -14448,29 +14450,20 @@ window.KB = {
       "osm": "way/116447956",
       "kind": "residential",
       "lat": 24.317404,
-      "lon": 54.635705
+      "lon": 54.635705,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ar-rahmah-2-street",
+      "id": "abu-dhabi-city/ar-rahmah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ar Rahmah 2 Street",
-      "name_ar": "شارع الرَّحمة 2",
-      "osm": "way/24350907",
-      "kind": "unclassified",
-      "lat": 24.352335,
-      "lon": 54.495207
-    },
-    {
-      "id": "abu-dhabi-city/ar-rahmah-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ar Rahmah 4 Street",
-      "name_ar": "شارع الرَّحمة 4",
+      "name_en": "Ar Rahmah Street",
+      "name_ar": "شارع الرَّحمة",
       "osm": "way/24350900",
       "kind": "unclassified",
       "lat": 24.345603,
-      "lon": 54.494129
+      "lon": 54.494129,
+      "variants": 7
     },
     {
       "id": "abu-dhabi-city/ar-rahmaniyat-street",
@@ -14481,7 +14474,8 @@ window.KB = {
       "osm": "way/974606687",
       "kind": "residential",
       "lat": 24.403449,
-      "lon": 54.700292
+      "lon": 54.700292,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rajahah-street",
@@ -14492,7 +14486,8 @@ window.KB = {
       "osm": "way/90768121",
       "kind": "residential",
       "lat": 24.361656,
-      "lon": 54.558656
+      "lon": 54.558656,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rakb-street",
@@ -14503,7 +14498,8 @@ window.KB = {
       "osm": "way/306818513",
       "kind": "residential",
       "lat": 24.294051,
-      "lon": 54.637427
+      "lon": 54.637427,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rakeezah-street",
@@ -14514,7 +14510,8 @@ window.KB = {
       "osm": "way/474931234",
       "kind": "residential",
       "lat": 24.310821,
-      "lon": 54.623096
+      "lon": 54.623096,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rakiyah-street",
@@ -14525,7 +14522,8 @@ window.KB = {
       "osm": "way/246999020",
       "kind": "residential",
       "lat": 24.28709,
-      "lon": 54.649101
+      "lon": 54.649101,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-ramram-street",
@@ -14536,7 +14534,8 @@ window.KB = {
       "osm": "way/71103094",
       "kind": "residential",
       "lat": 24.376373,
-      "lon": 54.533484
+      "lon": 54.533484,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-ramramiyat-street",
@@ -14547,7 +14546,8 @@ window.KB = {
       "osm": "way/246999023",
       "kind": "residential",
       "lat": 24.29289,
-      "lon": 54.650396
+      "lon": 54.650396,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rams-street",
@@ -14558,7 +14558,8 @@ window.KB = {
       "osm": "way/116451527",
       "kind": "residential",
       "lat": 24.36289,
-      "lon": 54.655534
+      "lon": 54.655534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-ramtha-a-street",
@@ -14569,7 +14570,8 @@ window.KB = {
       "osm": "way/116428994",
       "kind": "residential",
       "lat": 24.312443,
-      "lon": 54.642768
+      "lon": 54.642768,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-ranqiyah-street",
@@ -14580,7 +14582,8 @@ window.KB = {
       "osm": "way/173175069",
       "kind": "residential",
       "lat": 24.322273,
-      "lon": 54.548283
+      "lon": 54.548283,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-raseen-street",
@@ -14591,29 +14594,20 @@ window.KB = {
       "osm": "way/121648450",
       "kind": "residential",
       "lat": 24.385564,
-      "lon": 54.703178
+      "lon": 54.703178,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ar-rashad-2-street",
+      "id": "abu-dhabi-city/ar-rashad-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ar Rashad 2 Street",
-      "name_ar": "شارع الرَّشاد 2",
+      "name_en": "Ar Rashad Street",
+      "name_ar": "شارع الرَّشاد",
       "osm": "way/24337445",
       "kind": "unclassified",
       "lat": 24.380027,
-      "lon": 54.514657
-    },
-    {
-      "id": "abu-dhabi-city/ar-rashad-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ar Rashad 4 Street",
-      "name_ar": "شارع الرَّشاد 4",
-      "osm": "way/24337450",
-      "kind": "unclassified",
-      "lat": 24.379906,
-      "lon": 54.511681
+      "lon": 54.514657,
+      "variants": 10
     },
     {
       "id": "abu-dhabi-city/ar-rasi-street",
@@ -14624,18 +14618,20 @@ window.KB = {
       "osm": "way/159559353",
       "kind": "residential",
       "lat": 24.317705,
-      "lon": 54.535134
+      "lon": 54.535134,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ar-rasin-2-street",
+      "id": "abu-dhabi-city/ar-rasin-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ar Rasin 2 Street",
-      "name_ar": "شارع الرَّاسِن 2",
+      "name_en": "Ar Rasin Street",
+      "name_ar": "شارع الرَّاسِن",
       "osm": "way/24338148",
       "kind": "unclassified",
       "lat": 24.366614,
-      "lon": 54.519381
+      "lon": 54.519381,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/ar-raw-ah-street",
@@ -14646,7 +14642,8 @@ window.KB = {
       "osm": "way/115721085",
       "kind": "residential",
       "lat": 24.300175,
-      "lon": 54.652704
+      "lon": 54.652704,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rawajih-street",
@@ -14657,7 +14654,8 @@ window.KB = {
       "osm": "way/115724072",
       "kind": "residential",
       "lat": 24.301033,
-      "lon": 54.636807
+      "lon": 54.636807,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rawdah-ash-sharqiyah-street",
@@ -14668,7 +14666,8 @@ window.KB = {
       "osm": "way/235121429",
       "kind": "residential",
       "lat": 24.356782,
-      "lon": 54.694356
+      "lon": 54.694356,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rawlah-street",
@@ -14679,7 +14678,8 @@ window.KB = {
       "osm": "way/473385228",
       "kind": "residential",
       "lat": 24.310688,
-      "lon": 54.551378
+      "lon": 54.551378,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rawwah-street",
@@ -14690,7 +14690,8 @@ window.KB = {
       "osm": "way/474712096",
       "kind": "residential",
       "lat": 24.328487,
-      "lon": 54.576108
+      "lon": 54.576108,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rayat-street",
@@ -14701,7 +14702,8 @@ window.KB = {
       "osm": "way/89639285",
       "kind": "tertiary",
       "lat": 24.338276,
-      "lon": 54.527005
+      "lon": 54.527005,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rayihah-street",
@@ -14712,7 +14714,8 @@ window.KB = {
       "osm": "way/122093829",
       "kind": "residential",
       "lat": 24.386987,
-      "lon": 54.710928
+      "lon": 54.710928,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rayn-street",
@@ -14723,7 +14726,8 @@ window.KB = {
       "osm": "way/474712094",
       "kind": "residential",
       "lat": 24.333466,
-      "lon": 54.575493
+      "lon": 54.575493,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-razi-street",
@@ -14734,7 +14738,8 @@ window.KB = {
       "osm": "way/116447843",
       "kind": "residential",
       "lat": 24.302477,
-      "lon": 54.621972
+      "lon": 54.621972,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-razim-street",
@@ -14745,7 +14750,8 @@ window.KB = {
       "osm": "way/173039846",
       "kind": "residential",
       "lat": 24.381544,
-      "lon": 54.530979
+      "lon": 54.530979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-raznah-street",
@@ -14756,7 +14762,8 @@ window.KB = {
       "osm": "way/173394036",
       "kind": "residential",
       "lat": 24.314345,
-      "lon": 54.574989
+      "lon": 54.574989,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rifa-ah-street",
@@ -14767,7 +14774,8 @@ window.KB = {
       "osm": "way/820507432",
       "kind": "residential",
       "lat": 24.387524,
-      "lon": 54.617815
+      "lon": 54.617815,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rifah-street",
@@ -14778,7 +14786,8 @@ window.KB = {
       "osm": "way/120291281",
       "kind": "residential",
       "lat": 24.385997,
-      "lon": 54.687807
+      "lon": 54.687807,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rifd-street",
@@ -14789,7 +14798,8 @@ window.KB = {
       "osm": "way/698681797",
       "kind": "residential",
       "lat": 24.35548,
-      "lon": 54.565024
+      "lon": 54.565024,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rifqah-street",
@@ -14800,7 +14810,8 @@ window.KB = {
       "osm": "way/974463484",
       "kind": "residential",
       "lat": 24.350649,
-      "lon": 54.601224
+      "lon": 54.601224,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-righaylat-street",
@@ -14811,7 +14822,8 @@ window.KB = {
       "osm": "way/974606689",
       "kind": "residential",
       "lat": 24.403046,
-      "lon": 54.697692
+      "lon": 54.697692,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rihab-street",
@@ -14822,7 +14834,8 @@ window.KB = {
       "osm": "way/94055539",
       "kind": "residential",
       "lat": 24.385258,
-      "lon": 54.649201
+      "lon": 54.649201,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rihayl-street",
@@ -14833,18 +14846,20 @@ window.KB = {
       "osm": "way/247044141",
       "kind": "residential",
       "lat": 24.336895,
-      "lon": 54.536879
+      "lon": 54.536879,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ar-rikhaymah-2-street",
+      "id": "abu-dhabi-city/ar-rikhaymah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ar Rikhaymah 2 Street",
-      "name_ar": "شارع الرخيمَة 2",
+      "name_en": "Ar Rikhaymah Street",
+      "name_ar": "شارع الرخيمَة",
       "osm": "way/24313678",
       "kind": "unclassified",
       "lat": 24.377458,
-      "lon": 54.502441
+      "lon": 54.502441,
+      "variants": 2
     },
     {
       "id": "abu-dhabi-city/ar-rimayrim-street",
@@ -14855,7 +14870,8 @@ window.KB = {
       "osm": "way/235121461",
       "kind": "residential",
       "lat": 24.358454,
-      "lon": 54.696558
+      "lon": 54.696558,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-riqayyib-street",
@@ -14866,7 +14882,8 @@ window.KB = {
       "osm": "way/306682860",
       "kind": "residential",
       "lat": 24.365446,
-      "lon": 54.752419
+      "lon": 54.752419,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-risagh-street",
@@ -14877,7 +14894,8 @@ window.KB = {
       "osm": "way/116691915",
       "kind": "residential",
       "lat": 24.344288,
-      "lon": 54.537023
+      "lon": 54.537023,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-risha-a-street",
@@ -14888,7 +14906,8 @@ window.KB = {
       "osm": "way/85680606",
       "kind": "residential",
       "lat": 24.350811,
-      "lon": 54.560217
+      "lon": 54.560217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-riyah-street",
@@ -14899,7 +14918,8 @@ window.KB = {
       "osm": "way/473393002",
       "kind": "residential",
       "lat": 24.358192,
-      "lon": 54.543341
+      "lon": 54.543341,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-riyay-ah-street",
@@ -14910,7 +14930,8 @@ window.KB = {
       "osm": "way/974427636",
       "kind": "residential",
       "lat": 24.316532,
-      "lon": 54.58996
+      "lon": 54.58996,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rubadah-street",
@@ -14921,7 +14942,8 @@ window.KB = {
       "osm": "way/635438610",
       "kind": "residential",
       "lat": 24.322517,
-      "lon": 54.584711
+      "lon": 54.584711,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rubou-street",
@@ -14932,7 +14954,8 @@ window.KB = {
       "osm": "way/120291269",
       "kind": "residential",
       "lat": 24.388682,
-      "lon": 54.692779
+      "lon": 54.692779,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rud-hah-street",
@@ -14943,7 +14966,8 @@ window.KB = {
       "osm": "way/818601465",
       "kind": "residential",
       "lat": 24.301603,
-      "lon": 54.664623
+      "lon": 54.664623,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rufouk-street",
@@ -14954,7 +14978,8 @@ window.KB = {
       "osm": "way/118783453",
       "kind": "residential",
       "lat": 24.398352,
-      "lon": 54.724809
+      "lon": 54.724809,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-rukn-street",
@@ -14965,7 +14990,8 @@ window.KB = {
       "osm": "way/475330563",
       "kind": "residential",
       "lat": 24.289624,
-      "lon": 54.643214
+      "lon": 54.643214,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-ruqiy-street",
@@ -14976,7 +15002,8 @@ window.KB = {
       "osm": "way/474692088",
       "kind": "residential",
       "lat": 24.296275,
-      "lon": 54.552628
+      "lon": 54.552628,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ar-ruways-street",
@@ -14987,7 +15014,8 @@ window.KB = {
       "osm": "way/821077768",
       "kind": "residential",
       "lat": 24.374603,
-      "lon": 54.62416
+      "lon": 54.62416,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ara-street",
@@ -14998,7 +15026,8 @@ window.KB = {
       "osm": "way/105578711",
       "kind": "tertiary",
       "lat": 24.386274,
-      "lon": 54.738002
+      "lon": 54.738002,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arwa-bint-abd-al-muttalib-street",
@@ -15009,7 +15038,8 @@ window.KB = {
       "osm": "way/91676376",
       "kind": "residential",
       "lat": 24.339112,
-      "lon": 54.563217
+      "lon": 54.563217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/arwayah-street",
@@ -15020,7 +15050,8 @@ window.KB = {
       "osm": "way/635443232",
       "kind": "residential",
       "lat": 24.351603,
-      "lon": 54.771163
+      "lon": 54.771163,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sa-ib-bin-uthman-street",
@@ -15031,7 +15062,8 @@ window.KB = {
       "osm": "way/635438659",
       "kind": "residential",
       "lat": 24.310719,
-      "lon": 54.589674
+      "lon": 54.589674,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sa-adah-street",
@@ -15042,7 +15074,8 @@ window.KB = {
       "osm": "way/54200960",
       "kind": "residential",
       "lat": 24.352373,
-      "lon": 54.612147
+      "lon": 54.612147,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saaf-street",
@@ -15053,7 +15086,8 @@ window.KB = {
       "osm": "way/974606766",
       "kind": "residential",
       "lat": 24.389113,
-      "lon": 54.678967
+      "lon": 54.678967,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saba-street",
@@ -15064,7 +15098,8 @@ window.KB = {
       "osm": "way/635446531",
       "kind": "residential",
       "lat": 24.297392,
-      "lon": 54.621087
+      "lon": 54.621087,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sababah-street",
@@ -15075,7 +15110,8 @@ window.KB = {
       "osm": "way/116428983",
       "kind": "residential",
       "lat": 24.31757,
-      "lon": 54.638287
+      "lon": 54.638287,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sabah-street",
@@ -15086,7 +15122,8 @@ window.KB = {
       "osm": "way/116429242",
       "kind": "residential",
       "lat": 24.317006,
-      "lon": 54.628621
+      "lon": 54.628621,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sabbar-street",
@@ -15097,7 +15134,8 @@ window.KB = {
       "osm": "way/161842258",
       "kind": "residential",
       "lat": 24.323099,
-      "lon": 54.534758
+      "lon": 54.534758,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sabkhah-street",
@@ -15108,7 +15146,8 @@ window.KB = {
       "osm": "way/247008843",
       "kind": "residential",
       "lat": 24.305037,
-      "lon": 54.65872
+      "lon": 54.65872,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sabq-street",
@@ -15119,7 +15158,8 @@ window.KB = {
       "osm": "way/173226862",
       "kind": "residential",
       "lat": 24.320853,
-      "lon": 54.56734
+      "lon": 54.56734,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sabr-street",
@@ -15130,7 +15170,8 @@ window.KB = {
       "osm": "way/247044197",
       "kind": "residential",
       "lat": 24.336123,
-      "lon": 54.533363
+      "lon": 54.533363,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sada-street",
@@ -15141,40 +15182,20 @@ window.KB = {
       "osm": "way/94058720",
       "kind": "residential",
       "lat": 24.37636,
-      "lon": 54.723189
+      "lon": 54.723189,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/as-saddah-3-street",
+      "id": "abu-dhabi-city/as-saddah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "As Saddah 3 Street",
-      "name_ar": "شارع الصَّدَّاح 3",
-      "osm": "way/24337813",
-      "kind": "unclassified",
-      "lat": 24.377081,
-      "lon": 54.518109
-    },
-    {
-      "id": "abu-dhabi-city/as-saddah-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Saddah 4 Street",
-      "name_ar": "شارع الصَّدَّاح 4",
+      "name_en": "As Saddah Street",
+      "name_ar": "شارع الصَّدَّاح",
       "osm": "way/24337808",
       "kind": "tertiary",
       "lat": 24.376189,
-      "lon": 54.52035
-    },
-    {
-      "id": "abu-dhabi-city/as-saddah-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Saddah 5 Street",
-      "name_ar": "شارع الصَّدَّاح 5",
-      "osm": "way/24337811",
-      "kind": "unclassified",
-      "lat": 24.374477,
-      "lon": 54.520047
+      "lon": 54.52035,
+      "variants": 12
     },
     {
       "id": "abu-dhabi-city/as-sadeem-street",
@@ -15185,7 +15206,8 @@ window.KB = {
       "osm": "way/474930686",
       "kind": "residential",
       "lat": 24.320131,
-      "lon": 54.537243
+      "lon": 54.537243,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sadeer-street",
@@ -15196,7 +15218,8 @@ window.KB = {
       "osm": "way/116451514",
       "kind": "residential",
       "lat": 24.355645,
-      "lon": 54.650414
+      "lon": 54.650414,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saf-street",
@@ -15207,7 +15230,8 @@ window.KB = {
       "osm": "way/24300385",
       "kind": "residential",
       "lat": 24.40732,
-      "lon": 54.499456
+      "lon": 54.499456,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-safeer-street",
@@ -15218,7 +15242,8 @@ window.KB = {
       "osm": "way/105451695",
       "kind": "residential",
       "lat": 24.326194,
-      "lon": 54.634008
+      "lon": 54.634008,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-safh-street",
@@ -15229,7 +15254,8 @@ window.KB = {
       "osm": "way/115726565",
       "kind": "residential",
       "lat": 24.305043,
-      "lon": 54.651876
+      "lon": 54.651876,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-safin-street",
@@ -15240,7 +15266,8 @@ window.KB = {
       "osm": "way/983378615",
       "kind": "residential",
       "lat": 24.366035,
-      "lon": 54.634692
+      "lon": 54.634692,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-safiq-street",
@@ -15251,7 +15278,8 @@ window.KB = {
       "osm": "way/235147562",
       "kind": "residential",
       "lat": 24.352389,
-      "lon": 54.69915
+      "lon": 54.69915,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-safrawi-street",
@@ -15262,7 +15290,8 @@ window.KB = {
       "osm": "way/321952077",
       "kind": "residential",
       "lat": 24.332351,
-      "lon": 54.534332
+      "lon": 54.534332,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sahaabah-street",
@@ -15273,7 +15302,8 @@ window.KB = {
       "osm": "way/820507617",
       "kind": "residential",
       "lat": 24.370647,
-      "lon": 54.602661
+      "lon": 54.602661,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sahayib-street",
@@ -15284,7 +15314,8 @@ window.KB = {
       "osm": "way/636986987",
       "kind": "tertiary",
       "lat": 24.405366,
-      "lon": 54.603136
+      "lon": 54.603136,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sahma-a-street",
@@ -15295,7 +15326,8 @@ window.KB = {
       "osm": "way/122093813",
       "kind": "residential",
       "lat": 24.382887,
-      "lon": 54.71973
+      "lon": 54.71973,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sahra-a-street",
@@ -15306,7 +15338,8 @@ window.KB = {
       "osm": "way/820507481",
       "kind": "residential",
       "lat": 24.350869,
-      "lon": 54.60223
+      "lon": 54.60223,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sajaya-street",
@@ -15317,7 +15350,8 @@ window.KB = {
       "osm": "way/54202617",
       "kind": "residential",
       "lat": 24.376007,
-      "lon": 54.64227
+      "lon": 54.64227,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saji-street",
@@ -15328,7 +15362,8 @@ window.KB = {
       "osm": "way/235148624",
       "kind": "residential",
       "lat": 24.371102,
-      "lon": 54.697007
+      "lon": 54.697007,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sajjat-street",
@@ -15339,7 +15374,8 @@ window.KB = {
       "osm": "way/54200996",
       "kind": "residential",
       "lat": 24.343317,
-      "lon": 54.622829
+      "lon": 54.622829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sakb-street",
@@ -15350,40 +15386,20 @@ window.KB = {
       "osm": "way/119287785",
       "kind": "residential",
       "lat": 24.380418,
-      "lon": 54.693313
+      "lon": 54.693313,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/as-sakeenah-1-street",
+      "id": "abu-dhabi-city/as-sakeenah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "As Sakeenah 1 Street",
-      "name_ar": "شارع السَّكِينة 1",
-      "osm": "way/24338001",
-      "kind": "unclassified",
-      "lat": 24.366736,
-      "lon": 54.496519
-    },
-    {
-      "id": "abu-dhabi-city/as-sakeenah-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sakeenah 3 Street",
-      "name_ar": "شارع السَّكِينة 3",
+      "name_en": "As Sakeenah Street",
+      "name_ar": "شارع السَّكِينة",
       "osm": "way/24338000",
       "kind": "unclassified",
       "lat": 24.360417,
-      "lon": 54.496836
-    },
-    {
-      "id": "abu-dhabi-city/as-sakeenah-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sakeenah 4 Street",
-      "name_ar": "شارع السَّكِينة 4",
-      "osm": "way/24338003",
-      "kind": "unclassified",
-      "lat": 24.363615,
-      "lon": 54.497734
+      "lon": 54.496836,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/as-sakha-a-street",
@@ -15394,7 +15410,8 @@ window.KB = {
       "osm": "way/520125179",
       "kind": "residential",
       "lat": 24.399479,
-      "lon": 54.491472
+      "lon": 54.491472,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sakhi-street",
@@ -15405,7 +15422,8 @@ window.KB = {
       "osm": "way/116690233",
       "kind": "residential",
       "lat": 24.35459,
-      "lon": 54.659326
+      "lon": 54.659326,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sakhyah-street",
@@ -15416,7 +15434,8 @@ window.KB = {
       "osm": "way/818883189",
       "kind": "residential",
       "lat": 24.373831,
-      "lon": 54.672222
+      "lon": 54.672222,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saktoun-street",
@@ -15427,7 +15446,8 @@ window.KB = {
       "osm": "way/92007329",
       "kind": "residential",
       "lat": 24.334702,
-      "lon": 54.546337
+      "lon": 54.546337,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-salaf-street",
@@ -15438,73 +15458,8 @@ window.KB = {
       "osm": "way/856082260",
       "kind": "unclassified",
       "lat": 24.315306,
-      "lon": 54.613764
-    },
-    {
-      "id": "abu-dhabi-city/as-salami-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Salami 1 Street",
-      "name_ar": "شارع السَّلامِي 1",
-      "osm": "way/24313681",
-      "kind": "unclassified",
-      "lat": 24.380654,
-      "lon": 54.505743
-    },
-    {
-      "id": "abu-dhabi-city/as-salami-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Salami 2 Street",
-      "name_ar": "شارع السَّلامِي 2",
-      "osm": "way/474418053",
-      "kind": "unclassified",
-      "lat": 24.377708,
-      "lon": 54.509357
-    },
-    {
-      "id": "abu-dhabi-city/as-salami-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Salami 3 Street",
-      "name_ar": "شارع السَّلامِي 3",
-      "osm": "way/24313680",
-      "kind": "unclassified",
-      "lat": 24.374333,
-      "lon": 54.506034
-    },
-    {
-      "id": "abu-dhabi-city/as-salami-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Salami 4 Street",
-      "name_ar": "شارع السَّلامِي 4",
-      "osm": "way/24313684",
-      "kind": "unclassified",
-      "lat": 24.377658,
-      "lon": 54.507667
-    },
-    {
-      "id": "abu-dhabi-city/as-salami-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Salami 6 Street",
-      "name_ar": "شارع السَّلامِي 6",
-      "osm": "way/24313683",
-      "kind": "unclassified",
-      "lat": 24.377587,
-      "lon": 54.505869
-    },
-    {
-      "id": "abu-dhabi-city/as-salami-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Salami 8 Street",
-      "name_ar": "شارع السَّلامِي 8",
-      "osm": "way/24313682",
-      "kind": "unclassified",
-      "lat": 24.377516,
-      "lon": 54.504067
+      "lon": 54.613764,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-salami-street",
@@ -15515,7 +15470,8 @@ window.KB = {
       "osm": "way/24311980",
       "kind": "tertiary",
       "lat": 24.38073,
-      "lon": 54.476108
+      "lon": 54.476108,
+      "variants": 10
     },
     {
       "id": "abu-dhabi-city/as-saleehah-street",
@@ -15526,7 +15482,8 @@ window.KB = {
       "osm": "way/235124793",
       "kind": "residential",
       "lat": 24.360591,
-      "lon": 54.708929
+      "lon": 54.708929,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-salsabeel-street",
@@ -15537,7 +15494,8 @@ window.KB = {
       "osm": "way/122093803",
       "kind": "tertiary",
       "lat": 24.383301,
-      "lon": 54.712345
+      "lon": 54.712345,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-salwa-street",
@@ -15548,7 +15506,8 @@ window.KB = {
       "osm": "way/821077752",
       "kind": "residential",
       "lat": 24.385136,
-      "lon": 54.614424
+      "lon": 54.614424,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sam-a-street",
@@ -15559,7 +15518,8 @@ window.KB = {
       "osm": "way/91675498",
       "kind": "unclassified",
       "lat": 24.365097,
-      "lon": 54.536932
+      "lon": 54.536932,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-samahah-street",
@@ -15570,7 +15530,8 @@ window.KB = {
       "osm": "way/116447837",
       "kind": "residential",
       "lat": 24.304215,
-      "lon": 54.6176
+      "lon": 54.6176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-samha-a-street",
@@ -15581,7 +15542,8 @@ window.KB = {
       "osm": "way/94058701",
       "kind": "residential",
       "lat": 24.406222,
-      "lon": 54.737415
+      "lon": 54.737415,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-samil-street",
@@ -15592,7 +15554,8 @@ window.KB = {
       "osm": "way/120291262",
       "kind": "residential",
       "lat": 24.390306,
-      "lon": 54.692543
+      "lon": 54.692543,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-samir-street",
@@ -15603,7 +15566,8 @@ window.KB = {
       "osm": "way/974606740",
       "kind": "residential",
       "lat": 24.394298,
-      "lon": 54.680693
+      "lon": 54.680693,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-samman-street",
@@ -15614,7 +15578,8 @@ window.KB = {
       "osm": "way/1126965707",
       "kind": "residential",
       "lat": 24.300083,
-      "lon": 54.569768
+      "lon": 54.569768,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-samsam-street",
@@ -15625,7 +15590,8 @@ window.KB = {
       "osm": "way/173180024",
       "kind": "residential",
       "lat": 24.314846,
-      "lon": 54.534745
+      "lon": 54.534745,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sana-street",
@@ -15636,7 +15602,8 @@ window.KB = {
       "osm": "way/821077744",
       "kind": "residential",
       "lat": 24.379097,
-      "lon": 54.62732
+      "lon": 54.62732,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sana-a-street",
@@ -15647,7 +15614,8 @@ window.KB = {
       "osm": "way/111297890",
       "kind": "residential",
       "lat": 24.321674,
-      "lon": 54.638973
+      "lon": 54.638973,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sanam-street",
@@ -15658,7 +15626,8 @@ window.KB = {
       "osm": "way/306671041",
       "kind": "residential",
       "lat": 24.321646,
-      "lon": 54.737602
+      "lon": 54.737602,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saqiyah-street",
@@ -15669,7 +15638,8 @@ window.KB = {
       "osm": "way/974463503",
       "kind": "residential",
       "lat": 24.357407,
-      "lon": 54.608045
+      "lon": 54.608045,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saqqar-street",
@@ -15680,7 +15650,8 @@ window.KB = {
       "osm": "way/177637703",
       "kind": "residential",
       "lat": 24.264891,
-      "lon": 54.689765
+      "lon": 54.689765,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saqqayah-street",
@@ -15691,7 +15662,8 @@ window.KB = {
       "osm": "way/120291257",
       "kind": "residential",
       "lat": 24.387811,
-      "lon": 54.684401
+      "lon": 54.684401,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saqr-street",
@@ -15702,7 +15674,8 @@ window.KB = {
       "osm": "way/177637680",
       "kind": "residential",
       "lat": 24.260238,
-      "lon": 54.699551
+      "lon": 54.699551,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sareeh-street",
@@ -15713,7 +15686,8 @@ window.KB = {
       "osm": "way/476616836",
       "kind": "residential",
       "lat": 24.328058,
-      "lon": 54.537764
+      "lon": 54.537764,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sari-street",
@@ -15724,7 +15698,8 @@ window.KB = {
       "osm": "way/115726557",
       "kind": "residential",
       "lat": 24.302331,
-      "lon": 54.656413
+      "lon": 54.656413,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sariyah-street",
@@ -15735,7 +15710,8 @@ window.KB = {
       "osm": "way/161842456",
       "kind": "residential",
       "lat": 24.322952,
-      "lon": 54.535807
+      "lon": 54.535807,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sariyat-street",
@@ -15746,7 +15722,8 @@ window.KB = {
       "osm": "way/473381968",
       "kind": "residential",
       "lat": 24.314037,
-      "lon": 54.570712
+      "lon": 54.570712,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sarj-street",
@@ -15757,7 +15734,8 @@ window.KB = {
       "osm": "way/820507607",
       "kind": "residential",
       "lat": 24.382062,
-      "lon": 54.604948
+      "lon": 54.604948,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sarm-ash-shimali-street",
@@ -15768,7 +15746,8 @@ window.KB = {
       "osm": "way/121648453",
       "kind": "residential",
       "lat": 24.37382,
-      "lon": 54.701699
+      "lon": 54.701699,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sarni-street",
@@ -15779,7 +15758,8 @@ window.KB = {
       "osm": "way/24303609",
       "kind": "residential",
       "lat": 24.393585,
-      "lon": 54.498837
+      "lon": 54.498837,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sarouj-street",
@@ -15790,7 +15770,8 @@ window.KB = {
       "osm": "way/473884183",
       "kind": "residential",
       "lat": 24.398965,
-      "lon": 54.493345
+      "lon": 54.493345,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-satwah-street",
@@ -15801,7 +15782,8 @@ window.KB = {
       "osm": "way/288272160",
       "kind": "residential",
       "lat": 24.34333,
-      "lon": 54.540353
+      "lon": 54.540353,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sawahil-street",
@@ -15812,95 +15794,20 @@ window.KB = {
       "osm": "way/115724058",
       "kind": "residential",
       "lat": 24.299858,
-      "lon": 54.645874
+      "lon": 54.645874,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/as-sawaqi-1-street",
+      "id": "abu-dhabi-city/as-sawari-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "As Sawaqi 1 Street",
-      "name_ar": "شارع السَّواقي 1",
-      "osm": "way/974463453",
-      "kind": "residential",
-      "lat": 24.403944,
-      "lon": 54.564474
-    },
-    {
-      "id": "abu-dhabi-city/as-sawari-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sawari 1 Street",
-      "name_ar": "شارع السَّوارِي 1",
-      "osm": "way/24313773",
-      "kind": "unclassified",
-      "lat": 24.371687,
-      "lon": 54.496244
-    },
-    {
-      "id": "abu-dhabi-city/as-sawari-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sawari 2 Street",
-      "name_ar": "شارع السَّوارِي 2",
-      "osm": "way/24313774",
-      "kind": "unclassified",
-      "lat": 24.370517,
-      "lon": 54.49939
-    },
-    {
-      "id": "abu-dhabi-city/as-sawari-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sawari 4 Street",
-      "name_ar": "شارع السَّوارِي 4",
-      "osm": "way/24313775",
-      "kind": "unclassified",
-      "lat": 24.370484,
-      "lon": 54.498529
-    },
-    {
-      "id": "abu-dhabi-city/as-sawari-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sawari 5 Street",
-      "name_ar": "شارع السَّوارِي 5",
-      "osm": "way/24313781",
-      "kind": "unclassified",
-      "lat": 24.370385,
-      "lon": 54.496374
-    },
-    {
-      "id": "abu-dhabi-city/as-sawari-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sawari 6 Street",
-      "name_ar": "شارع السَّوارِي 6",
-      "osm": "way/24313783",
-      "kind": "unclassified",
-      "lat": 24.371982,
-      "lon": 54.496264
-    },
-    {
-      "id": "abu-dhabi-city/as-sawari-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sawari 8 Street",
-      "name_ar": "شارع السَّوارِي 8",
-      "osm": "way/24313772",
-      "kind": "unclassified",
-      "lat": 24.368818,
-      "lon": 54.496584
-    },
-    {
-      "id": "abu-dhabi-city/as-sawari-9-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sawari 9 Street",
-      "name_ar": "شارع السَّوارِي 9",
+      "name_en": "As Sawari Street",
+      "name_ar": "شارع السَّوارِي",
       "osm": "way/24313771",
       "kind": "unclassified",
       "lat": 24.369101,
-      "lon": 54.496398
+      "lon": 54.496398,
+      "variants": 19
     },
     {
       "id": "abu-dhabi-city/as-sawarih-street",
@@ -15911,7 +15818,8 @@ window.KB = {
       "osm": "way/637317271",
       "kind": "residential",
       "lat": 24.308393,
-      "lon": 54.623078
+      "lon": 54.623078,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sawarim-street",
@@ -15922,7 +15830,8 @@ window.KB = {
       "osm": "way/105447633",
       "kind": "residential",
       "lat": 24.333175,
-      "lon": 54.63907
+      "lon": 54.63907,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sawsan-street",
@@ -15933,7 +15842,8 @@ window.KB = {
       "osm": "way/974463491",
       "kind": "unclassified",
       "lat": 24.356402,
-      "lon": 54.603535
+      "lon": 54.603535,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sayb-street",
@@ -15944,7 +15854,8 @@ window.KB = {
       "osm": "way/115721076",
       "kind": "residential",
       "lat": 24.299606,
-      "lon": 54.651149
+      "lon": 54.651149,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sayh-street",
@@ -15955,7 +15866,8 @@ window.KB = {
       "osm": "way/993625395",
       "kind": "tertiary",
       "lat": 24.328908,
-      "lon": 54.778948
+      "lon": 54.778948,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sayram-street",
@@ -15966,7 +15878,8 @@ window.KB = {
       "osm": "way/173226971",
       "kind": "residential",
       "lat": 24.32238,
-      "lon": 54.568041
+      "lon": 54.568041,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-saysam-street",
@@ -15977,7 +15890,8 @@ window.KB = {
       "osm": "way/473884594",
       "kind": "residential",
       "lat": 24.398306,
-      "lon": 54.494304
+      "lon": 54.494304,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-seebah-street",
@@ -15988,7 +15902,8 @@ window.KB = {
       "osm": "way/473406643",
       "kind": "residential",
       "lat": 24.357913,
-      "lon": 54.683642
+      "lon": 54.683642,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-si-an-street",
@@ -15999,7 +15914,8 @@ window.KB = {
       "osm": "way/247044169",
       "kind": "residential",
       "lat": 24.328469,
-      "lon": 54.534158
+      "lon": 54.534158,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-si-een-street",
@@ -16010,7 +15926,8 @@ window.KB = {
       "osm": "way/473385225",
       "kind": "residential",
       "lat": 24.31774,
-      "lon": 54.544334
+      "lon": 54.544334,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sibeekah-street",
@@ -16021,7 +15938,8 @@ window.KB = {
       "osm": "way/246999009",
       "kind": "residential",
       "lat": 24.292544,
-      "lon": 54.649265
+      "lon": 54.649265,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sidayfi-street",
@@ -16032,7 +15950,8 @@ window.KB = {
       "osm": "way/24303589",
       "kind": "residential",
       "lat": 24.399105,
-      "lon": 54.489087
+      "lon": 54.489087,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sidayrah-street",
@@ -16043,7 +15962,8 @@ window.KB = {
       "osm": "way/635057874",
       "kind": "residential",
       "lat": 24.28751,
-      "lon": 54.633351
+      "lon": 54.633351,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sidmah-street",
@@ -16054,7 +15974,8 @@ window.KB = {
       "osm": "way/115724052",
       "kind": "residential",
       "lat": 24.299591,
-      "lon": 54.639413
+      "lon": 54.639413,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sifeef-street",
@@ -16065,7 +15986,8 @@ window.KB = {
       "osm": "way/116429240",
       "kind": "residential",
       "lat": 24.32069,
-      "lon": 54.620239
+      "lon": 54.620239,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-silam-street",
@@ -16076,7 +15998,8 @@ window.KB = {
       "osm": "way/819198268",
       "kind": "residential",
       "lat": 24.389683,
-      "lon": 54.670463
+      "lon": 54.670463,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-silaymi-street",
@@ -16087,7 +16010,8 @@ window.KB = {
       "osm": "way/24307258",
       "kind": "unclassified",
       "lat": 24.405913,
-      "lon": 54.47105
+      "lon": 54.47105,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-silmiyah-street",
@@ -16098,7 +16022,8 @@ window.KB = {
       "osm": "way/820507569",
       "kind": "unclassified",
       "lat": 24.382093,
-      "lon": 54.597979
+      "lon": 54.597979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sina-iyah-street",
@@ -16109,7 +16034,8 @@ window.KB = {
       "osm": "way/229675953",
       "kind": "unclassified",
       "lat": 24.275839,
-      "lon": 54.568574
+      "lon": 54.568574,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sinyari-street",
@@ -16120,29 +16046,8 @@ window.KB = {
       "osm": "way/248438596",
       "kind": "residential",
       "lat": 24.340941,
-      "lon": 54.54059
-    },
-    {
-      "id": "abu-dhabi-city/as-siqa-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Siqa 3 Street",
-      "name_ar": "شارع السِّقا 3",
-      "osm": "way/474923696",
-      "kind": "unclassified",
-      "lat": 24.28998,
-      "lon": 54.574415
-    },
-    {
-      "id": "abu-dhabi-city/as-siqa-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Siqa 5 Street",
-      "name_ar": "شارع السِّقا 5",
-      "osm": "way/229675969",
-      "kind": "unclassified",
-      "lat": 24.290405,
-      "lon": 54.565395
+      "lon": 54.54059,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-siqa-street",
@@ -16150,10 +16055,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "As Siqa Street",
       "name_ar": "شارع السِّقا",
-      "osm": "way/229675990",
+      "osm": "way/229675969",
       "kind": "unclassified",
-      "lat": 24.293325,
-      "lon": 54.580758
+      "lat": 24.290405,
+      "lon": 54.565395,
+      "variants": 6
     },
     {
       "id": "abu-dhabi-city/as-siyoul-street",
@@ -16164,7 +16070,8 @@ window.KB = {
       "osm": "way/974606673",
       "kind": "residential",
       "lat": 24.400563,
-      "lon": 54.696706
+      "lon": 54.696706,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-soula-iyah-street",
@@ -16175,7 +16082,8 @@ window.KB = {
       "osm": "way/173181680",
       "kind": "residential",
       "lat": 24.310546,
-      "lon": 54.545008
+      "lon": 54.545008,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-souq-street",
@@ -16186,7 +16094,8 @@ window.KB = {
       "osm": "way/116428972",
       "kind": "tertiary",
       "lat": 24.31536,
-      "lon": 54.636157
+      "lon": 54.636157,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-su-dah-street",
@@ -16197,7 +16106,8 @@ window.KB = {
       "osm": "way/116429232",
       "kind": "residential",
       "lat": 24.319419,
-      "lon": 54.627139
+      "lon": 54.627139,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-su-oud-street",
@@ -16208,7 +16118,8 @@ window.KB = {
       "osm": "way/24300379",
       "kind": "residential",
       "lat": 24.405353,
-      "lon": 54.499782
+      "lon": 54.499782,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-subouh-street",
@@ -16219,7 +16130,8 @@ window.KB = {
       "osm": "way/974606721",
       "kind": "residential",
       "lat": 24.3971,
-      "lon": 54.673344
+      "lon": 54.673344,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suds-street",
@@ -16230,7 +16142,8 @@ window.KB = {
       "osm": "way/974606750",
       "kind": "residential",
       "lat": 24.39307,
-      "lon": 54.673584
+      "lon": 54.673584,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sufad-street",
@@ -16241,7 +16154,8 @@ window.KB = {
       "osm": "way/173398386",
       "kind": "residential",
       "lat": 24.304022,
-      "lon": 54.582769
+      "lon": 54.582769,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suhbah-street",
@@ -16252,7 +16166,8 @@ window.KB = {
       "osm": "way/1154229230",
       "kind": "residential",
       "lat": 24.379311,
-      "lon": 54.614256
+      "lon": 54.614256,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suhoub-street",
@@ -16263,7 +16178,8 @@ window.KB = {
       "osm": "way/115725420",
       "kind": "residential",
       "lat": 24.300413,
-      "lon": 54.643957
+      "lon": 54.643957,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suhuf-street",
@@ -16274,7 +16190,8 @@ window.KB = {
       "osm": "way/246999007",
       "kind": "residential",
       "lat": 24.287403,
-      "lon": 54.647007
+      "lon": 54.647007,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sukoun-street",
@@ -16285,7 +16202,8 @@ window.KB = {
       "osm": "way/116429215",
       "kind": "residential",
       "lat": 24.317718,
-      "lon": 54.630537
+      "lon": 54.630537,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-sumoud-street",
@@ -16296,29 +16214,8 @@ window.KB = {
       "osm": "way/634310297",
       "kind": "residential",
       "lat": 24.360512,
-      "lon": 54.732071
-    },
-    {
-      "id": "abu-dhabi-city/as-sunna-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sunna' 2 Street",
-      "name_ar": "شارع الصُّنَّاع 2",
-      "osm": "way/975037985",
-      "kind": "residential",
-      "lat": 24.399877,
-      "lon": 54.563582
-    },
-    {
-      "id": "abu-dhabi-city/as-sunna-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "As Sunna' Street",
-      "name_ar": "شارع الصُّنَّاع",
-      "osm": "way/975037988",
-      "kind": "tertiary",
-      "lat": 24.397494,
-      "lon": 54.558642
+      "lon": 54.732071,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-surour-street",
@@ -16329,7 +16226,8 @@ window.KB = {
       "osm": "way/24303586",
       "kind": "residential",
       "lat": 24.398419,
-      "lon": 54.492598
+      "lon": 54.492598,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suwan-street",
@@ -16340,7 +16238,8 @@ window.KB = {
       "osm": "way/91675495",
       "kind": "residential",
       "lat": 24.356149,
-      "lon": 54.537417
+      "lon": 54.537417,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suwar-street",
@@ -16351,7 +16250,8 @@ window.KB = {
       "osm": "way/974463489",
       "kind": "residential",
       "lat": 24.356437,
-      "lon": 54.601117
+      "lon": 54.601117,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suwaytiyah-street",
@@ -16362,7 +16262,8 @@ window.KB = {
       "osm": "way/974606737",
       "kind": "tertiary",
       "lat": 24.400101,
-      "lon": 54.675517
+      "lon": 54.675517,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/as-suweehat-street",
@@ -16373,7 +16274,8 @@ window.KB = {
       "osm": "way/112174479",
       "kind": "residential",
       "lat": 24.320319,
-      "lon": 54.641741
+      "lon": 54.641741,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shabhanah-street",
@@ -16384,7 +16286,8 @@ window.KB = {
       "osm": "way/24303612",
       "kind": "residential",
       "lat": 24.396603,
-      "lon": 54.498829
+      "lon": 54.498829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shafaq-street",
@@ -16395,7 +16298,8 @@ window.KB = {
       "osm": "way/173019889",
       "kind": "residential",
       "lat": 24.29742,
-      "lon": 54.558971
+      "lon": 54.558971,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shafeef-street",
@@ -16406,7 +16310,8 @@ window.KB = {
       "osm": "way/118783484",
       "kind": "residential",
       "lat": 24.39827,
-      "lon": 54.728468
+      "lon": 54.728468,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shaghameem-street",
@@ -16417,7 +16322,8 @@ window.KB = {
       "osm": "way/974606672",
       "kind": "residential",
       "lat": 24.40068,
-      "lon": 54.697592
+      "lon": 54.697592,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shahba-a-street",
@@ -16428,7 +16334,8 @@ window.KB = {
       "osm": "way/820507431",
       "kind": "residential",
       "lat": 24.39054,
-      "lon": 54.615092
+      "lon": 54.615092,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shahla-a-street",
@@ -16439,7 +16346,8 @@ window.KB = {
       "osm": "way/974606675",
       "kind": "residential",
       "lat": 24.400331,
-      "lon": 54.694935
+      "lon": 54.694935,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shajan-street",
@@ -16450,29 +16358,20 @@ window.KB = {
       "osm": "way/95490121",
       "kind": "residential",
       "lat": 24.406243,
-      "lon": 54.724513
+      "lon": 54.724513,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ash-shallal-2-street",
+      "id": "abu-dhabi-city/ash-shallal-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ash Shallal 2 Street",
-      "name_ar": "شارع الشَّلَّال 2",
-      "osm": "way/24350948",
-      "kind": "unclassified",
-      "lat": 24.340425,
-      "lon": 54.4811
-    },
-    {
-      "id": "abu-dhabi-city/ash-shallal-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ash Shallal 8 Street",
-      "name_ar": "شارع الشَّلَّال 8",
+      "name_en": "Ash Shallal Street",
+      "name_ar": "شارع الشَّلَّال",
       "osm": "way/24350947",
       "kind": "unclassified",
       "lat": 24.340211,
-      "lon": 54.475105
+      "lon": 54.475105,
+      "variants": 10
     },
     {
       "id": "abu-dhabi-city/ash-shamam-street",
@@ -16483,7 +16382,8 @@ window.KB = {
       "osm": "way/85680632",
       "kind": "residential",
       "lat": 24.350729,
-      "lon": 54.549072
+      "lon": 54.549072,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shamikh-street",
@@ -16494,7 +16394,8 @@ window.KB = {
       "osm": "way/91675968",
       "kind": "residential",
       "lat": 24.344557,
-      "lon": 54.557606
+      "lon": 54.557606,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shamroukh-street",
@@ -16505,7 +16406,8 @@ window.KB = {
       "osm": "way/54201014",
       "kind": "residential",
       "lat": 24.355854,
-      "lon": 54.62446
+      "lon": 54.62446,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shandaghah-street",
@@ -16516,7 +16418,8 @@ window.KB = {
       "osm": "way/115733335",
       "kind": "residential",
       "lat": 24.370896,
-      "lon": 54.659228
+      "lon": 54.659228,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-sharfah-al-gharbiyah-street",
@@ -16527,7 +16430,8 @@ window.KB = {
       "osm": "way/122093828",
       "kind": "unclassified",
       "lat": 24.383753,
-      "lon": 54.707415
+      "lon": 54.707415,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-sharfah-ash-sharqiyah-street",
@@ -16538,7 +16442,8 @@ window.KB = {
       "osm": "way/635438689",
       "kind": "residential",
       "lat": 24.312077,
-      "lon": 54.591644
+      "lon": 54.591644,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-sharhah-street",
@@ -16549,7 +16454,8 @@ window.KB = {
       "osm": "way/116691901",
       "kind": "residential",
       "lat": 24.343287,
-      "lon": 54.532484
+      "lon": 54.532484,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-sharta-street",
@@ -16560,7 +16466,8 @@ window.KB = {
       "osm": "way/121648454",
       "kind": "residential",
       "lat": 24.381607,
-      "lon": 54.703722
+      "lon": 54.703722,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shawamekh-street",
@@ -16571,7 +16478,8 @@ window.KB = {
       "osm": "way/105447601",
       "kind": "tertiary",
       "lat": 24.343179,
-      "lon": 54.647267
+      "lon": 54.647267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shayboub-street",
@@ -16582,7 +16490,8 @@ window.KB = {
       "osm": "way/1161286881",
       "kind": "residential",
       "lat": 24.396631,
-      "lon": 54.68349
+      "lon": 54.68349,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shayma-a-bint-al-harith-street",
@@ -16593,7 +16502,8 @@ window.KB = {
       "osm": "way/247044151",
       "kind": "residential",
       "lat": 24.336206,
-      "lon": 54.535635
+      "lon": 54.535635,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-sheehanah-street",
@@ -16604,62 +16514,8 @@ window.KB = {
       "osm": "way/94058684",
       "kind": "residential",
       "lat": 24.375235,
-      "lon": 54.718848
-    },
-    {
-      "id": "abu-dhabi-city/ash-shi-a-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ash Shi'a' 1 Street",
-      "name_ar": "شارع الشِّعاع 1",
-      "osm": "way/473904549",
-      "kind": "residential",
-      "lat": 24.407773,
-      "lon": 54.534809
-    },
-    {
-      "id": "abu-dhabi-city/ash-shi-a-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ash Shi'a' 2 Street",
-      "name_ar": "شارع الشِّعاع 2",
-      "osm": "way/636931228",
-      "kind": "residential",
-      "lat": 24.405629,
-      "lon": 54.534299
-    },
-    {
-      "id": "abu-dhabi-city/ash-shi-a-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ash Shi'a' 3 Street",
-      "name_ar": "شارع الشِّعاع 3",
-      "osm": "way/473904538",
-      "kind": "residential",
-      "lat": 24.40649,
-      "lon": 54.533918
-    },
-    {
-      "id": "abu-dhabi-city/ash-shi-a-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ash Shi'a' 4 Street",
-      "name_ar": "شارع الشِّعاع 4",
-      "osm": "way/473904533",
-      "kind": "residential",
-      "lat": 24.405861,
-      "lon": 54.534638
-    },
-    {
-      "id": "abu-dhabi-city/ash-shi-a-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ash Shi'a' 5 Street",
-      "name_ar": "شارع الشِّعاع 5",
-      "osm": "way/473904534",
-      "kind": "residential",
-      "lat": 24.405579,
-      "lon": 54.535099
+      "lon": 54.718848,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shi-a-street",
@@ -16667,10 +16523,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "Ash Shi'a' Street",
       "name_ar": "شارع الشِّعاع",
-      "osm": "way/473904536",
+      "osm": "way/473904533",
       "kind": "residential",
-      "lat": 24.407056,
-      "lon": 54.534684
+      "lat": 24.405861,
+      "lon": 54.534638,
+      "variants": 6
     },
     {
       "id": "abu-dhabi-city/ash-shi-aab-street",
@@ -16681,7 +16538,8 @@ window.KB = {
       "osm": "way/247008834",
       "kind": "residential",
       "lat": 24.311055,
-      "lon": 54.647317
+      "lon": 54.647317,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shidad-street",
@@ -16692,7 +16550,8 @@ window.KB = {
       "osm": "way/474712063",
       "kind": "residential",
       "lat": 24.33806,
-      "lon": 54.572448
+      "lon": 54.572448,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shighab-street",
@@ -16703,7 +16562,8 @@ window.KB = {
       "osm": "way/473097942",
       "kind": "residential",
       "lat": 24.384722,
-      "lon": 54.534806
+      "lon": 54.534806,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shilayli-street",
@@ -16714,7 +16574,8 @@ window.KB = {
       "osm": "way/92007293",
       "kind": "residential",
       "lat": 24.330034,
-      "lon": 54.573348
+      "lon": 54.573348,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shinayin-street",
@@ -16725,7 +16586,8 @@ window.KB = {
       "osm": "way/974445551",
       "kind": "unclassified",
       "lat": 24.352899,
-      "lon": 54.601837
+      "lon": 54.601837,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shiryas-street",
@@ -16736,7 +16598,8 @@ window.KB = {
       "osm": "way/974606697",
       "kind": "residential",
       "lat": 24.399895,
-      "lon": 54.697636
+      "lon": 54.697636,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shumoukh-street",
@@ -16747,7 +16610,8 @@ window.KB = {
       "osm": "way/120291279",
       "kind": "residential",
       "lat": 24.386118,
-      "lon": 54.692369
+      "lon": 54.692369,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shurouf-street",
@@ -16758,7 +16622,8 @@ window.KB = {
       "osm": "way/173175049",
       "kind": "residential",
       "lat": 24.320059,
-      "lon": 54.547281
+      "lon": 54.547281,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shutfah-street",
@@ -16769,7 +16634,8 @@ window.KB = {
       "osm": "way/247044149",
       "kind": "residential",
       "lat": 24.334532,
-      "lon": 54.531607
+      "lon": 54.531607,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ash-shuweehat-street",
@@ -16780,7 +16646,8 @@ window.KB = {
       "osm": "way/91676460",
       "kind": "residential",
       "lat": 24.335552,
-      "lon": 54.560652
+      "lon": 54.560652,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ashqar-street",
@@ -16791,7 +16658,8 @@ window.KB = {
       "osm": "way/474654097",
       "kind": "residential",
       "lat": 24.329474,
-      "lon": 54.534006
+      "lon": 54.534006,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/asma-bint-umays-street",
@@ -16802,7 +16670,8 @@ window.KB = {
       "osm": "way/120291256",
       "kind": "residential",
       "lat": 24.393589,
-      "lon": 54.688262
+      "lon": 54.688262,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/asma-bint-salamah-street",
@@ -16813,7 +16682,8 @@ window.KB = {
       "osm": "way/173226827",
       "kind": "residential",
       "lat": 24.311953,
-      "lon": 54.546395
+      "lon": 54.546395,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-ta-anni-street",
@@ -16824,7 +16694,8 @@ window.KB = {
       "osm": "way/247044185",
       "kind": "residential",
       "lat": 24.335339,
-      "lon": 54.535893
+      "lon": 54.535893,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-ta-azur-street",
@@ -16835,7 +16706,8 @@ window.KB = {
       "osm": "way/974606633",
       "kind": "residential",
       "lat": 24.404443,
-      "lon": 54.706884
+      "lon": 54.706884,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-ta-allum-street",
@@ -16846,7 +16718,8 @@ window.KB = {
       "osm": "way/247044191",
       "kind": "residential",
       "lat": 24.330628,
-      "lon": 54.537685
+      "lon": 54.537685,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-ta-atuf-street",
@@ -16857,7 +16730,8 @@ window.KB = {
       "osm": "way/116447594",
       "kind": "residential",
       "lat": 24.306835,
-      "lon": 54.61212
+      "lon": 54.61212,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-ta-ayush-street",
@@ -16868,7 +16742,8 @@ window.KB = {
       "osm": "way/54200910",
       "kind": "residential",
       "lat": 24.35794,
-      "lon": 54.634457
+      "lon": 54.634457,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-ta-meer-street",
@@ -16879,7 +16754,8 @@ window.KB = {
       "osm": "way/119287775",
       "kind": "residential",
       "lat": 24.383089,
-      "lon": 54.693608
+      "lon": 54.693608,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tabbab-street",
@@ -16890,7 +16766,8 @@ window.KB = {
       "osm": "way/90771043",
       "kind": "residential",
       "lat": 24.356535,
-      "lon": 54.549785
+      "lon": 54.549785,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tad-hiyah-street",
@@ -16901,7 +16778,8 @@ window.KB = {
       "osm": "way/116690220",
       "kind": "residential",
       "lat": 24.34033,
-      "lon": 54.65007
+      "lon": 54.65007,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tadamun-street",
@@ -16912,7 +16790,8 @@ window.KB = {
       "osm": "way/246999000",
       "kind": "residential",
       "lat": 24.288615,
-      "lon": 54.646407
+      "lon": 54.646407,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tafani-street",
@@ -16923,40 +16802,20 @@ window.KB = {
       "osm": "way/173394365",
       "kind": "residential",
       "lat": 24.320417,
-      "lon": 54.576578
+      "lon": 54.576578,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/at-tafawwuq-1-street",
+      "id": "abu-dhabi-city/at-tafawwuq-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Tafawwuq 1 Street",
-      "name_ar": "شارع التَّفَوُّق 1",
-      "osm": "way/996069496",
-      "kind": "residential",
-      "lat": 24.397806,
-      "lon": 54.549078
-    },
-    {
-      "id": "abu-dhabi-city/at-tafawwuq-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tafawwuq 2 Street",
-      "name_ar": "شارع التَّفَوُّق 2",
-      "osm": "way/996069495",
-      "kind": "residential",
-      "lat": 24.397895,
-      "lon": 54.547919
-    },
-    {
-      "id": "abu-dhabi-city/at-tafawwuq-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tafawwuq 3 Street",
-      "name_ar": "شارع التَّفَوُّق 3",
+      "name_en": "At Tafawwuq Street",
+      "name_ar": "شارع التَّفَوُّق",
       "osm": "way/996069494",
       "kind": "residential",
       "lat": 24.398162,
-      "lon": 54.546688
+      "lon": 54.546688,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/at-tahaddi-street",
@@ -16967,7 +16826,8 @@ window.KB = {
       "osm": "way/247044165",
       "kind": "residential",
       "lat": 24.3345,
-      "lon": 54.530683
+      "lon": 54.530683,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tahaluf-street",
@@ -16978,7 +16838,8 @@ window.KB = {
       "osm": "way/116447607",
       "kind": "residential",
       "lat": 24.310065,
-      "lon": 54.607849
+      "lon": 54.607849,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tahani-street",
@@ -16989,7 +16850,8 @@ window.KB = {
       "osm": "way/475132273",
       "kind": "residential",
       "lat": 24.315897,
-      "lon": 54.633634
+      "lon": 54.633634,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tahleel-street",
@@ -17000,7 +16862,8 @@ window.KB = {
       "osm": "way/54202615",
       "kind": "residential",
       "lat": 24.373275,
-      "lon": 54.639267
+      "lon": 54.639267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tahr-al-arabi-street",
@@ -17011,7 +16874,8 @@ window.KB = {
       "osm": "way/122093836",
       "kind": "residential",
       "lat": 24.378963,
-      "lon": 54.716465
+      "lon": 54.716465,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-taj-street",
@@ -17022,18 +16886,20 @@ window.KB = {
       "osm": "way/115724054",
       "kind": "residential",
       "lat": 24.297848,
-      "lon": 54.642513
+      "lon": 54.642513,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/at-tajalli-4-street",
+      "id": "abu-dhabi-city/at-tajalli-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Tajalli 4 Street",
-      "name_ar": "شارع التَّجلِّي 4",
+      "name_en": "At Tajalli Street",
+      "name_ar": "شارع التَّجلِّي",
       "osm": "way/24338138",
       "kind": "unclassified",
       "lat": 24.362095,
-      "lon": 54.512491
+      "lon": 54.512491,
+      "variants": 4
     },
     {
       "id": "abu-dhabi-city/at-tajweed-street",
@@ -17044,7 +16910,8 @@ window.KB = {
       "osm": "way/474490161",
       "kind": "residential",
       "lat": 24.374311,
-      "lon": 54.709828
+      "lon": 54.709828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-takatuf-street",
@@ -17055,7 +16922,8 @@ window.KB = {
       "osm": "way/173180858",
       "kind": "residential",
       "lat": 24.309972,
-      "lon": 54.538006
+      "lon": 54.538006,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tal-street",
@@ -17066,7 +16934,8 @@ window.KB = {
       "osm": "way/820507471",
       "kind": "unclassified",
       "lat": 24.363277,
-      "lon": 54.612141
+      "lon": 54.612141,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tal-an-street",
@@ -17077,7 +16946,8 @@ window.KB = {
       "osm": "way/974606670",
       "kind": "residential",
       "lat": 24.400912,
-      "lon": 54.69936
+      "lon": 54.69936,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tala-i-street",
@@ -17088,7 +16958,8 @@ window.KB = {
       "osm": "way/306818469",
       "kind": "residential",
       "lat": 24.291974,
-      "lon": 54.635186
+      "lon": 54.635186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tala-street",
@@ -17099,7 +16970,8 @@ window.KB = {
       "osm": "way/820507564",
       "kind": "residential",
       "lat": 24.381511,
-      "lon": 54.602054
+      "lon": 54.602054,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-talaqi-street",
@@ -17110,7 +16982,8 @@ window.KB = {
       "osm": "way/524992495",
       "kind": "residential",
       "lat": 24.296108,
-      "lon": 54.650965
+      "lon": 54.650965,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-talbouk-street",
@@ -17121,7 +16994,8 @@ window.KB = {
       "osm": "way/820507563",
       "kind": "residential",
       "lat": 24.379302,
-      "lon": 54.600651
+      "lon": 54.600651,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-talh-street",
@@ -17132,7 +17006,8 @@ window.KB = {
       "osm": "way/974606755",
       "kind": "residential",
       "lat": 24.395492,
-      "lon": 54.677629
+      "lon": 54.677629,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tall-street",
@@ -17143,7 +17018,8 @@ window.KB = {
       "osm": "way/974606743",
       "kind": "residential",
       "lat": 24.393855,
-      "lon": 54.674374
+      "lon": 54.674374,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-talliy-street",
@@ -17154,7 +17030,8 @@ window.KB = {
       "osm": "way/173178566",
       "kind": "residential",
       "lat": 24.293985,
-      "lon": 54.564135
+      "lon": 54.564135,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tamasuk-street",
@@ -17165,7 +17042,8 @@ window.KB = {
       "osm": "way/499491139",
       "kind": "residential",
       "lat": 24.341769,
-      "lon": 54.764953
+      "lon": 54.764953,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tamr-street",
@@ -17176,7 +17054,8 @@ window.KB = {
       "osm": "way/820507473",
       "kind": "residential",
       "lat": 24.363613,
-      "lon": 54.607385
+      "lon": 54.607385,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tamrah-street",
@@ -17187,51 +17066,8 @@ window.KB = {
       "osm": "way/695139029",
       "kind": "residential",
       "lat": 24.331608,
-      "lon": 54.63327
-    },
-    {
-      "id": "abu-dhabi-city/at-tamweel-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tamweel 1 Street",
-      "name_ar": "شارع التَّمويل 1",
-      "osm": "way/1138274426",
-      "kind": "residential",
-      "lat": 24.407074,
-      "lon": 54.53266
-    },
-    {
-      "id": "abu-dhabi-city/at-tamweel-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tamweel 2 Street",
-      "name_ar": "شارع التَّمويل 2",
-      "osm": "way/473904795",
-      "kind": "residential",
-      "lat": 24.407354,
-      "lon": 54.532204
-    },
-    {
-      "id": "abu-dhabi-city/at-tamweel-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tamweel 3 Street",
-      "name_ar": "شارع التَّمويل 3",
-      "osm": "way/473904794",
-      "kind": "residential",
-      "lat": 24.407551,
-      "lon": 54.531883
-    },
-    {
-      "id": "abu-dhabi-city/at-tamweel-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tamweel 4 Street",
-      "name_ar": "شارع التَّمويل 4",
-      "osm": "way/473904805",
-      "kind": "residential",
-      "lat": 24.407142,
-      "lon": 54.531835
+      "lon": 54.63327,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tamweel-street",
@@ -17239,10 +17075,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "At Tamweel Street",
       "name_ar": "شارع التَّمويل",
-      "osm": "way/473904807",
+      "osm": "way/473904794",
       "kind": "residential",
-      "lat": 24.407651,
-      "lon": 54.532434
+      "lat": 24.407551,
+      "lon": 54.531883,
+      "variants": 4
     },
     {
       "id": "abu-dhabi-city/at-taqaddum-street",
@@ -17253,7 +17090,8 @@ window.KB = {
       "osm": "way/116447954",
       "kind": "residential",
       "lat": 24.320517,
-      "lon": 54.633343
+      "lon": 54.633343,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-taqdeer-street",
@@ -17264,7 +17102,8 @@ window.KB = {
       "osm": "way/820507458",
       "kind": "unclassified",
       "lat": 24.356188,
-      "lon": 54.607006
+      "lon": 54.607006,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-taqseerah-street",
@@ -17275,7 +17114,8 @@ window.KB = {
       "osm": "way/173032742",
       "kind": "residential",
       "lat": 24.384789,
-      "lon": 54.532523
+      "lon": 54.532523,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tarannum-street",
@@ -17286,18 +17126,20 @@ window.KB = {
       "osm": "way/473097973",
       "kind": "unclassified",
       "lat": 24.412081,
-      "lon": 54.606564
+      "lon": 54.606564,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/at-tarfeeh-1-street",
+      "id": "abu-dhabi-city/at-tarfeeh-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Tarfeeh 1 Street",
-      "name_ar": "شارع التَّرفِيه 1",
+      "name_en": "At Tarfeeh Street",
+      "name_ar": "شارع التَّرفِيه",
       "osm": "way/684677044",
       "kind": "residential",
       "lat": 24.402604,
-      "lon": 54.58679
+      "lon": 54.58679,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/at-tarif-street",
@@ -17308,18 +17150,20 @@ window.KB = {
       "osm": "way/121648447",
       "kind": "residential",
       "lat": 24.370489,
-      "lon": 54.70666
+      "lon": 54.70666,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/at-tarjeebah-7-street",
+      "id": "abu-dhabi-city/at-tarjeebah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Tarjeebah 7 Street",
-      "name_ar": "شارع التَّرجِيبة 7",
+      "name_en": "At Tarjeebah Street",
+      "name_ar": "شارع التَّرجِيبة",
       "osm": "way/99894728",
       "kind": "unclassified",
       "lat": 24.351125,
-      "lon": 54.51813
+      "lon": 54.51813,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tasafi-street",
@@ -17330,7 +17174,8 @@ window.KB = {
       "osm": "way/235148613",
       "kind": "residential",
       "lat": 24.367385,
-      "lon": 54.696729
+      "lon": 54.696729,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tashawur-street",
@@ -17341,7 +17186,8 @@ window.KB = {
       "osm": "way/105451679",
       "kind": "residential",
       "lat": 24.328161,
-      "lon": 54.634181
+      "lon": 54.634181,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tashree-street",
@@ -17352,7 +17198,8 @@ window.KB = {
       "osm": "way/116690222",
       "kind": "residential",
       "lat": 24.352645,
-      "lon": 54.659198
+      "lon": 54.659198,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tashreefat-street",
@@ -17363,7 +17210,8 @@ window.KB = {
       "osm": "way/116451488",
       "kind": "residential",
       "lat": 24.359043,
-      "lon": 54.654243
+      "lon": 54.654243,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tatawwu-street",
@@ -17374,7 +17222,8 @@ window.KB = {
       "osm": "way/119287501",
       "kind": "residential",
       "lat": 24.392104,
-      "lon": 54.706536
+      "lon": 54.706536,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-taw-iyah-street",
@@ -17385,7 +17234,8 @@ window.KB = {
       "osm": "way/1041982915",
       "kind": "residential",
       "lat": 24.409623,
-      "lon": 54.578615
+      "lon": 54.578615,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tawaf-street",
@@ -17396,7 +17246,8 @@ window.KB = {
       "osm": "way/248481437",
       "kind": "residential",
       "lat": 24.363371,
-      "lon": 54.693247
+      "lon": 54.693247,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tawafuq-street",
@@ -17407,7 +17258,8 @@ window.KB = {
       "osm": "way/684217775",
       "kind": "residential",
       "lat": 24.367393,
-      "lon": 54.557197
+      "lon": 54.557197,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tawfeeq-street",
@@ -17418,62 +17270,44 @@ window.KB = {
       "osm": "way/820507420",
       "kind": "residential",
       "lat": 24.390403,
-      "lon": 54.619233
+      "lon": 54.619233,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/at-tazkiyah-9-street",
+      "id": "abu-dhabi-city/at-tazkiyah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Tazkiyah 9 Street",
-      "name_ar": "شارع التَّزكية 9",
+      "name_en": "At Tazkiyah Street",
+      "name_ar": "شارع التَّزكية",
       "osm": "way/172374023",
       "kind": "tertiary",
       "lat": 24.26195,
-      "lon": 54.629413
+      "lon": 54.629413,
+      "variants": 6
     },
     {
-      "id": "abu-dhabi-city/at-tibayli-2-street",
+      "id": "abu-dhabi-city/at-tibayli-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Tibayli 2 Street",
-      "name_ar": "شارع الطِّبَيلِي 2",
-      "osm": "way/24313763",
-      "kind": "unclassified",
-      "lat": 24.369924,
-      "lon": 54.484347
-    },
-    {
-      "id": "abu-dhabi-city/at-tibayli-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tibayli 4 Street",
-      "name_ar": "شارع الطِّبَيلِي 4",
+      "name_en": "At Tibayli Street",
+      "name_ar": "شارع الطِّبَيلِي",
       "osm": "way/24313762",
       "kind": "unclassified",
       "lat": 24.369897,
-      "lon": 54.483509
+      "lon": 54.483509,
+      "variants": 2
     },
     {
-      "id": "abu-dhabi-city/at-tiblaghah-6-street",
+      "id": "abu-dhabi-city/at-tiblaghah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Tiblaghah 6 Street",
-      "name_ar": "شارع التِّبلاغة 6",
-      "osm": "way/24350963",
-      "kind": "unclassified",
-      "lat": 24.339902,
-      "lon": 54.467713
-    },
-    {
-      "id": "abu-dhabi-city/at-tiblaghah-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "At Tiblaghah 8 Street",
-      "name_ar": "شارع التِّبلاغة 8",
+      "name_en": "At Tiblaghah Street",
+      "name_ar": "شارع التِّبلاغة",
       "osm": "way/24350962",
       "kind": "unclassified",
       "lat": 24.329336,
-      "lon": 54.466631
+      "lon": 54.466631,
+      "variants": 14
     },
     {
       "id": "abu-dhabi-city/at-tilwah-street",
@@ -17484,7 +17318,8 @@ window.KB = {
       "osm": "way/24303631",
       "kind": "residential",
       "lat": 24.395505,
-      "lon": 54.501623
+      "lon": 54.501623,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-timar-street",
@@ -17495,7 +17330,8 @@ window.KB = {
       "osm": "way/89640064",
       "kind": "residential",
       "lat": 24.373144,
-      "lon": 54.528418
+      "lon": 54.528418,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tiqniyah-street",
@@ -17506,7 +17342,8 @@ window.KB = {
       "osm": "way/91676380",
       "kind": "residential",
       "lat": 24.33553,
-      "lon": 54.555983
+      "lon": 54.555983,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tirhab-street",
@@ -17517,18 +17354,20 @@ window.KB = {
       "osm": "way/111295888",
       "kind": "residential",
       "lat": 24.282044,
-      "lon": 54.643383
+      "lon": 54.643383,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/at-toufan-6-street",
+      "id": "abu-dhabi-city/at-toufan-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "At Toufan 6 Street",
-      "name_ar": "شارع الطُّوفان 6",
+      "name_en": "At Toufan Street",
+      "name_ar": "شارع الطُّوفان",
       "osm": "way/245585136",
       "kind": "unclassified",
       "lat": 24.356097,
-      "lon": 54.476579
+      "lon": 54.476579,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/at-toulat-street",
@@ -17539,7 +17378,8 @@ window.KB = {
       "osm": "way/306671030",
       "kind": "residential",
       "lat": 24.321734,
-      "lon": 54.739277
+      "lon": 54.739277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tufayl-bin-amr-street",
@@ -17550,7 +17390,8 @@ window.KB = {
       "osm": "way/247048140",
       "kind": "residential",
       "lat": 24.328534,
-      "lon": 54.536008
+      "lon": 54.536008,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-turoub-street",
@@ -17561,7 +17402,8 @@ window.KB = {
       "osm": "way/247044150",
       "kind": "residential",
       "lat": 24.33678,
-      "lon": 54.534093
+      "lon": 54.534093,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-turoush-street",
@@ -17572,7 +17414,8 @@ window.KB = {
       "osm": "way/94058015",
       "kind": "secondary",
       "lat": 24.365834,
-      "lon": 54.709849
+      "lon": 54.709849,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tuwal-street",
@@ -17583,7 +17426,8 @@ window.KB = {
       "osm": "way/1430562121",
       "kind": "residential",
       "lat": 24.39274,
-      "lon": 54.677106
+      "lon": 54.677106,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tuwar-street",
@@ -17594,7 +17438,8 @@ window.KB = {
       "osm": "way/92007307",
       "kind": "residential",
       "lat": 24.356027,
-      "lon": 54.535609
+      "lon": 54.535609,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/at-tuyour-street",
@@ -17605,7 +17450,8 @@ window.KB = {
       "osm": "way/235124834",
       "kind": "residential",
       "lat": 24.358532,
-      "lon": 54.710716
+      "lon": 54.710716,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thamayd-street",
@@ -17616,7 +17462,8 @@ window.KB = {
       "osm": "way/24303613",
       "kind": "residential",
       "lat": 24.396449,
-      "lon": 54.498093
+      "lon": 54.498093,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thanaya-street",
@@ -17627,7 +17474,8 @@ window.KB = {
       "osm": "way/247008817",
       "kind": "residential",
       "lat": 24.308754,
-      "lon": 54.646065
+      "lon": 54.646065,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thaqafat-street",
@@ -17638,7 +17486,8 @@ window.KB = {
       "osm": "way/474712067",
       "kind": "residential",
       "lat": 24.338859,
-      "lon": 54.573317
+      "lon": 54.573317,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-tharawat-street",
@@ -17649,7 +17498,8 @@ window.KB = {
       "osm": "way/168402185",
       "kind": "residential",
       "lat": 24.319155,
-      "lon": 54.537299
+      "lon": 54.537299,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thawabit-street",
@@ -17660,7 +17510,8 @@ window.KB = {
       "osm": "way/173017128",
       "kind": "residential",
       "lat": 24.36204,
-      "lon": 54.547936
+      "lon": 54.547936,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thimayriyah-street",
@@ -17671,51 +17522,20 @@ window.KB = {
       "osm": "way/820507411",
       "kind": "residential",
       "lat": 24.395272,
-      "lon": 54.627078
+      "lon": 54.627078,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/ath-thiqah-1-street",
+      "id": "abu-dhabi-city/ath-thiqah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Ath Thiqah 1 Street",
-      "name_ar": "شارع الثِّقة 1",
-      "osm": "way/24337993",
-      "kind": "unclassified",
-      "lat": 24.366327,
-      "lon": 54.486611
-    },
-    {
-      "id": "abu-dhabi-city/ath-thiqah-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ath Thiqah 5 Street",
-      "name_ar": "شارع الثِّقة 5",
+      "name_en": "Ath Thiqah Street",
+      "name_ar": "شارع الثِّقة",
       "osm": "way/24337992",
       "kind": "unclassified",
       "lat": 24.360026,
-      "lon": 54.486919
-    },
-    {
-      "id": "abu-dhabi-city/ath-thiqah-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ath Thiqah 6 Street",
-      "name_ar": "شارع الثِّقة 6",
-      "osm": "way/474679131",
-      "kind": "unclassified",
-      "lat": 24.362744,
-      "lon": 54.48685
-    },
-    {
-      "id": "abu-dhabi-city/ath-thiqah-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Ath Thiqah 8 Street",
-      "name_ar": "شارع الثِّقة 8",
-      "osm": "way/24337995",
-      "kind": "unclassified",
-      "lat": 24.363106,
-      "lon": 54.484744
+      "lon": 54.486919,
+      "variants": 8
     },
     {
       "id": "abu-dhabi-city/ath-thmam-street",
@@ -17726,7 +17546,8 @@ window.KB = {
       "osm": "way/116691897",
       "kind": "residential",
       "lat": 24.338968,
-      "lon": 54.531614
+      "lon": 54.531614,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thouriyah-street",
@@ -17737,7 +17558,8 @@ window.KB = {
       "osm": "way/92007283",
       "kind": "residential",
       "lat": 24.335935,
-      "lon": 54.54188
+      "lon": 54.54188,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thubout-street",
@@ -17748,7 +17570,8 @@ window.KB = {
       "osm": "way/115721701",
       "kind": "residential",
       "lat": 24.306862,
-      "lon": 54.644301
+      "lon": 54.644301,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thumoumah-street",
@@ -17759,7 +17582,8 @@ window.KB = {
       "osm": "way/438858593",
       "kind": "residential",
       "lat": 24.325747,
-      "lon": 54.535691
+      "lon": 54.535691,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thuraya-street",
@@ -17770,7 +17594,8 @@ window.KB = {
       "osm": "way/92007354",
       "kind": "residential",
       "lat": 24.329322,
-      "lon": 54.566817
+      "lon": 54.566817,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ath-thurayb-street",
@@ -17781,7 +17606,8 @@ window.KB = {
       "osm": "way/115721700",
       "kind": "residential",
       "lat": 24.306998,
-      "lon": 54.642907
+      "lon": 54.642907,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/athan-street",
@@ -17792,7 +17618,8 @@ window.KB = {
       "osm": "way/980939139",
       "kind": "residential",
       "lat": 24.36951,
-      "lon": 54.611659
+      "lon": 54.611659,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/atiq-bin-arian-al-muhairi-street",
@@ -17803,7 +17630,8 @@ window.KB = {
       "osm": "way/121648419",
       "kind": "residential",
       "lat": 24.373422,
-      "lon": 54.699029
+      "lon": 54.699029,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aws-bin-al-samit-street",
@@ -17814,7 +17642,8 @@ window.KB = {
       "osm": "way/473908918",
       "kind": "residential",
       "lat": 24.37869,
-      "lon": 54.530854
+      "lon": 54.530854,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/aylan-bin-ali-al-sabousi-street",
@@ -17825,7 +17654,8 @@ window.KB = {
       "osm": "way/116451478",
       "kind": "residential",
       "lat": 24.360426,
-      "lon": 54.655172
+      "lon": 54.655172,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ayoub-as-sikhtiyani-street",
@@ -17836,7 +17666,8 @@ window.KB = {
       "osm": "way/54201186",
       "kind": "residential",
       "lat": 24.372834,
-      "lon": 54.644513
+      "lon": 54.644513,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zabaad-street",
@@ -17847,7 +17678,8 @@ window.KB = {
       "osm": "way/115724050",
       "kind": "residential",
       "lat": 24.301873,
-      "lon": 54.63645
+      "lon": 54.63645,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zabad-street",
@@ -17858,7 +17690,8 @@ window.KB = {
       "osm": "way/122093821",
       "kind": "residential",
       "lat": 24.379957,
-      "lon": 54.715029
+      "lon": 54.715029,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zabarjad-street",
@@ -17869,73 +17702,20 @@ window.KB = {
       "osm": "way/122094300",
       "kind": "residential",
       "lat": 24.405794,
-      "lon": 54.732178
+      "lon": 54.732178,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/az-zad-1-street",
+      "id": "abu-dhabi-city/az-zad-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Az Zad 1 Street",
-      "name_ar": "شارع الزَّاد 1",
-      "osm": "way/686190668",
-      "kind": "unclassified",
-      "lat": 24.351746,
-      "lon": 54.469034
-    },
-    {
-      "id": "abu-dhabi-city/az-zad-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Az Zad 2 Street",
-      "name_ar": "شارع الزَّاد 2",
-      "osm": "way/474688466",
-      "kind": "unclassified",
-      "lat": 24.351111,
-      "lon": 54.470692
-    },
-    {
-      "id": "abu-dhabi-city/az-zad-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Az Zad 3 Street",
-      "name_ar": "شارع الزَّاد 3",
-      "osm": "way/474688465",
-      "kind": "unclassified",
-      "lat": 24.351121,
-      "lon": 54.471445
-    },
-    {
-      "id": "abu-dhabi-city/az-zad-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Az Zad 5 Street",
-      "name_ar": "شارع الزَّاد 5",
-      "osm": "way/686190667",
-      "kind": "unclassified",
-      "lat": 24.350281,
-      "lon": 54.469104
-    },
-    {
-      "id": "abu-dhabi-city/az-zad-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Az Zad 6 Street",
-      "name_ar": "شارع الزَّاد 6",
+      "name_en": "Az Zad Street",
+      "name_ar": "شارع الزَّاد",
       "osm": "way/24350978",
       "kind": "unclassified",
       "lat": 24.348867,
-      "lon": 54.465703
-    },
-    {
-      "id": "abu-dhabi-city/az-zad-8-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Az Zad 8 Street",
-      "name_ar": "شارع الزَّاد 8",
-      "osm": "way/24350979",
-      "kind": "unclassified",
-      "lat": 24.348749,
-      "lon": 54.462753
+      "lon": 54.465703,
+      "variants": 15
     },
     {
       "id": "abu-dhabi-city/az-zahi-street",
@@ -17946,7 +17726,8 @@ window.KB = {
       "osm": "way/94058654",
       "kind": "residential",
       "lat": 24.378331,
-      "lon": 54.71897
+      "lon": 54.71897,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zahiyat-street",
@@ -17957,18 +17738,20 @@ window.KB = {
       "osm": "way/627829940",
       "kind": "residential",
       "lat": 24.37766,
-      "lon": 54.608868
+      "lon": 54.608868,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/az-zakhrafah-2-street",
+      "id": "abu-dhabi-city/az-zakhrafah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Az Zakhrafah 2 Street",
-      "name_ar": "شارع الزَّخرَفة 2",
+      "name_en": "Az Zakhrafah Street",
+      "name_ar": "شارع الزَّخرَفة",
       "osm": "way/24338128",
       "kind": "tertiary",
       "lat": 24.364124,
-      "lon": 54.513913
+      "lon": 54.513913,
+      "variants": 2
     },
     {
       "id": "abu-dhabi-city/az-zamah-street",
@@ -17979,29 +17762,20 @@ window.KB = {
       "osm": "way/173032736",
       "kind": "residential",
       "lat": 24.385396,
-      "lon": 54.529105
+      "lon": 54.529105,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/az-zanbaq-2-street",
+      "id": "abu-dhabi-city/az-zanbaq-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Az Zanbaq 2 Street",
-      "name_ar": "شارع الزَّنبَق 2",
+      "name_en": "Az Zanbaq Street",
+      "name_ar": "شارع الزَّنبَق",
       "osm": "way/475338931",
       "kind": "unclassified",
       "lat": 24.277492,
-      "lon": 54.590543
-    },
-    {
-      "id": "abu-dhabi-city/az-zanbaq-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Az Zanbaq 3 Street",
-      "name_ar": "شارع الزَّنبَق 3",
-      "osm": "way/636057532",
-      "kind": "unclassified",
-      "lat": 24.279339,
-      "lon": 54.593489
+      "lon": 54.590543,
+      "variants": 8
     },
     {
       "id": "abu-dhabi-city/az-zarf-street",
@@ -18012,7 +17786,8 @@ window.KB = {
       "osm": "way/635446549",
       "kind": "residential",
       "lat": 24.301631,
-      "lon": 54.61442
+      "lon": 54.61442,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zarqa-a-street",
@@ -18023,7 +17798,8 @@ window.KB = {
       "osm": "way/89640077",
       "kind": "residential",
       "lat": 24.369662,
-      "lon": 54.536353
+      "lon": 54.536353,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zaytoun-street",
@@ -18034,7 +17810,8 @@ window.KB = {
       "osm": "way/820507422",
       "kind": "residential",
       "lat": 24.390096,
-      "lon": 54.617158
+      "lon": 54.617158,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zeenah-street",
@@ -18045,7 +17822,8 @@ window.KB = {
       "osm": "way/473868322",
       "kind": "residential",
       "lat": 24.394162,
-      "lon": 54.496271
+      "lon": 54.496271,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zihbah-street",
@@ -18056,7 +17834,8 @@ window.KB = {
       "osm": "way/1120973244",
       "kind": "residential",
       "lat": 24.316283,
-      "lon": 54.631424
+      "lon": 54.631424,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zinnad-street",
@@ -18067,7 +17846,8 @@ window.KB = {
       "osm": "way/121648458",
       "kind": "residential",
       "lat": 24.379195,
-      "lon": 54.705065
+      "lon": 54.705065,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zirayqa-street",
@@ -18078,7 +17858,8 @@ window.KB = {
       "osm": "way/520125173",
       "kind": "residential",
       "lat": 24.399012,
-      "lon": 54.491326
+      "lon": 54.491326,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zuhour-street",
@@ -18089,7 +17870,8 @@ window.KB = {
       "osm": "way/475585801",
       "kind": "residential",
       "lat": 24.396321,
-      "lon": 54.499746
+      "lon": 54.499746,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zukhruf-street",
@@ -18100,7 +17882,8 @@ window.KB = {
       "osm": "way/235121449",
       "kind": "residential",
       "lat": 24.351083,
-      "lon": 54.692979
+      "lon": 54.692979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zumoul-street",
@@ -18111,7 +17894,8 @@ window.KB = {
       "osm": "way/475134140",
       "kind": "residential",
       "lat": 24.310701,
-      "lon": 54.627343
+      "lon": 54.627343,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zurouf-street",
@@ -18122,7 +17906,8 @@ window.KB = {
       "osm": "way/818886403",
       "kind": "residential",
       "lat": 24.382896,
-      "lon": 54.674892
+      "lon": 54.674892,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/az-zuweer-street",
@@ -18133,7 +17918,8 @@ window.KB = {
       "osm": "way/974606703",
       "kind": "residential",
       "lat": 24.397818,
-      "lon": 54.672291
+      "lon": 54.672291,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/azzam-street",
@@ -18144,7 +17930,8 @@ window.KB = {
       "osm": "way/306682850",
       "kind": "residential",
       "lat": 24.355646,
-      "lon": 54.758075
+      "lon": 54.758075,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/azzan-bin-mohammed-al-mazrouei-street",
@@ -18155,7 +17942,8 @@ window.KB = {
       "osm": "way/483541776",
       "kind": "residential",
       "lat": 24.340936,
-      "lon": 54.574272
+      "lon": 54.574272,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ba-leesah-street",
@@ -18166,7 +17954,8 @@ window.KB = {
       "osm": "way/173175052",
       "kind": "residential",
       "lat": 24.324688,
-      "lon": 54.54603
+      "lon": 54.54603,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-akouzi-street",
@@ -18177,7 +17966,8 @@ window.KB = {
       "osm": "way/178947398",
       "kind": "residential",
       "lat": 24.273076,
-      "lon": 54.651508
+      "lon": 54.651508,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-amer-street",
@@ -18188,7 +17978,8 @@ window.KB = {
       "osm": "way/164826157",
       "kind": "residential",
       "lat": 24.324511,
-      "lon": 54.53696
+      "lon": 54.53696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-ilaywah-street",
@@ -18199,7 +17990,8 @@ window.KB = {
       "osm": "way/116447612",
       "kind": "tertiary",
       "lat": 24.309324,
-      "lon": 54.610861
+      "lon": 54.610861,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-iteej-street",
@@ -18210,7 +18002,8 @@ window.KB = {
       "osm": "way/119551930",
       "kind": "residential",
       "lat": 24.388285,
-      "lon": 54.7027
+      "lon": 54.7027,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-ad-deebani-street",
@@ -18221,7 +18014,8 @@ window.KB = {
       "osm": "way/235148586",
       "kind": "residential",
       "lat": 24.368839,
-      "lon": 54.696953
+      "lon": 54.696953,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-ankah-street",
@@ -18232,7 +18026,8 @@ window.KB = {
       "osm": "way/94055580",
       "kind": "residential",
       "lat": 24.387563,
-      "lon": 54.652443
+      "lon": 54.652443,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-eeman-street",
@@ -18243,7 +18038,8 @@ window.KB = {
       "osm": "way/474510496",
       "kind": "residential",
       "lat": 24.366546,
-      "lon": 54.549257
+      "lon": 54.549257,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-inayzi-street",
@@ -18254,7 +18050,8 @@ window.KB = {
       "osm": "way/172916696",
       "kind": "residential",
       "lat": 24.380367,
-      "lon": 54.53933
+      "lon": 54.53933,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-oudi-street",
@@ -18265,7 +18062,8 @@ window.KB = {
       "osm": "way/172917306",
       "kind": "residential",
       "lat": 24.379471,
-      "lon": 54.542951
+      "lon": 54.542951,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-banat-street",
@@ -18276,7 +18074,8 @@ window.KB = {
       "osm": "way/1119380887",
       "kind": "residential",
       "lat": 24.342063,
-      "lon": 54.547676
+      "lon": 54.547676,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-boush-street",
@@ -18287,7 +18086,8 @@ window.KB = {
       "osm": "way/173181684",
       "kind": "residential",
       "lat": 24.308163,
-      "lon": 54.543621
+      "lon": 54.543621,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-fatmi-street",
@@ -18298,7 +18098,8 @@ window.KB = {
       "osm": "way/173227072",
       "kind": "residential",
       "lat": 24.318546,
-      "lon": 54.564387
+      "lon": 54.564387,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-ghiynah-street",
@@ -18309,7 +18110,8 @@ window.KB = {
       "osm": "way/448037733",
       "kind": "residential",
       "lat": 24.329414,
-      "lon": 54.758684
+      "lon": 54.758684,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-houmanah-street",
@@ -18320,7 +18122,8 @@ window.KB = {
       "osm": "way/306795031",
       "kind": "residential",
       "lat": 24.322318,
-      "lon": 54.754646
+      "lon": 54.754646,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-khibbah-street",
@@ -18331,7 +18134,8 @@ window.KB = {
       "osm": "way/115719786",
       "kind": "residential",
       "lat": 24.33091,
-      "lon": 54.641642
+      "lon": 54.641642,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-khiwayrah-street",
@@ -18342,7 +18146,8 @@ window.KB = {
       "osm": "way/119551937",
       "kind": "residential",
       "lat": 24.395171,
-      "lon": 54.697975
+      "lon": 54.697975,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-mghanni-street",
@@ -18353,7 +18158,8 @@ window.KB = {
       "osm": "way/116447604",
       "kind": "residential",
       "lat": 24.312438,
-      "lon": 54.606525
+      "lon": 54.606525,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-qamzan-street",
@@ -18364,7 +18170,8 @@ window.KB = {
       "osm": "way/819198760",
       "kind": "residential",
       "lat": 24.38478,
-      "lon": 54.678147
+      "lon": 54.678147,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-al-waqb-street",
@@ -18375,7 +18182,8 @@ window.KB = {
       "osm": "way/54200914",
       "kind": "residential",
       "lat": 24.350218,
-      "lon": 54.627924
+      "lon": 54.627924,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-ali-street",
@@ -18386,7 +18194,8 @@ window.KB = {
       "osm": "way/306808280",
       "kind": "residential",
       "lat": 24.313061,
-      "lon": 54.623264
+      "lon": 54.623264,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-ar-rasays-street",
@@ -18397,7 +18206,8 @@ window.KB = {
       "osm": "way/173226830",
       "kind": "residential",
       "lat": 24.31007,
-      "lon": 54.549397
+      "lon": 54.549397,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-at-tiwayil-street",
@@ -18408,7 +18218,8 @@ window.KB = {
       "osm": "way/173184950",
       "kind": "residential",
       "lat": 24.322367,
-      "lon": 54.554551
+      "lon": 54.554551,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bilhatab-street",
@@ -18419,7 +18230,8 @@ window.KB = {
       "osm": "way/851281775",
       "kind": "residential",
       "lat": 24.372552,
-      "lon": 54.630162
+      "lon": 54.630162,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bin-imayr-street",
@@ -18430,7 +18242,8 @@ window.KB = {
       "osm": "way/116692416",
       "kind": "residential",
       "lat": 24.369584,
-      "lon": 54.710793
+      "lon": 54.710793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bin-oushanah-street",
@@ -18441,7 +18254,8 @@ window.KB = {
       "osm": "way/94055542",
       "kind": "residential",
       "lat": 24.391173,
-      "lon": 54.647971
+      "lon": 54.647971,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bin-dimaythan-street",
@@ -18452,7 +18266,8 @@ window.KB = {
       "osm": "way/818566869",
       "kind": "residential",
       "lat": 24.379976,
-      "lon": 54.674729
+      "lon": 54.674729,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bin-harib-street",
@@ -18463,7 +18278,8 @@ window.KB = {
       "osm": "way/54201120",
       "kind": "residential",
       "lat": 24.360837,
-      "lon": 54.623989
+      "lon": 54.623989,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bin-khizam-street",
@@ -18474,7 +18290,8 @@ window.KB = {
       "osm": "way/54201219",
       "kind": "residential",
       "lat": 24.364904,
-      "lon": 54.642491
+      "lon": 54.642491,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bin-qirran-street",
@@ -18485,7 +18302,8 @@ window.KB = {
       "osm": "way/54200969",
       "kind": "residential",
       "lat": 24.349245,
-      "lon": 54.61417
+      "lon": 54.61417,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-bu-hisayah-street",
@@ -18496,7 +18314,8 @@ window.KB = {
       "osm": "way/115732738",
       "kind": "residential",
       "lat": 24.373153,
-      "lon": 54.671048
+      "lon": 54.671048,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-fardah-street",
@@ -18507,7 +18326,8 @@ window.KB = {
       "osm": "way/116429197",
       "kind": "residential",
       "lat": 24.309428,
-      "lon": 54.636847
+      "lon": 54.636847,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-firayh-street",
@@ -18518,7 +18338,8 @@ window.KB = {
       "osm": "way/177640618",
       "kind": "residential",
       "lat": 24.271012,
-      "lon": 54.665867
+      "lon": 54.665867,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-ghanim-street",
@@ -18529,7 +18350,8 @@ window.KB = {
       "osm": "way/306671075",
       "kind": "residential",
       "lat": 24.323718,
-      "lon": 54.736242
+      "lon": 54.736242,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-ghayth-street",
@@ -18540,7 +18362,8 @@ window.KB = {
       "osm": "way/1210149617",
       "kind": "residential",
       "lat": 24.267657,
-      "lon": 54.658755
+      "lon": 54.658755,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hadhah-street",
@@ -18551,7 +18374,8 @@ window.KB = {
       "osm": "way/635033688",
       "kind": "residential",
       "lat": 24.36324,
-      "lon": 54.777287
+      "lon": 54.777287,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hamamah-street",
@@ -18562,7 +18386,8 @@ window.KB = {
       "osm": "way/635033706",
       "kind": "residential",
       "lat": 24.360247,
-      "lon": 54.774448
+      "lon": 54.774448,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hamdan-street",
@@ -18573,7 +18398,8 @@ window.KB = {
       "osm": "way/820507424",
       "kind": "residential",
       "lat": 24.391161,
-      "lon": 54.616868
+      "lon": 54.616868,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-harib-street",
@@ -18584,7 +18410,8 @@ window.KB = {
       "osm": "way/172916700",
       "kind": "residential",
       "lat": 24.378898,
-      "lon": 54.537925
+      "lon": 54.537925,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hasan-street",
@@ -18595,7 +18422,8 @@ window.KB = {
       "osm": "way/116447605",
       "kind": "residential",
       "lat": 24.307917,
-      "lon": 54.614043
+      "lon": 54.614043,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hazza-street",
@@ -18606,7 +18434,8 @@ window.KB = {
       "osm": "way/475160479",
       "kind": "residential",
       "lat": 24.293048,
-      "lon": 54.646451
+      "lon": 54.646451,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hifayyif-street",
@@ -18617,7 +18446,8 @@ window.KB = {
       "osm": "way/635443194",
       "kind": "residential",
       "lat": 24.340222,
-      "lon": 54.773453
+      "lon": 54.773453,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hissah-street",
@@ -18628,7 +18458,8 @@ window.KB = {
       "osm": "way/306682873",
       "kind": "residential",
       "lat": 24.355847,
-      "lon": 54.759541
+      "lon": 54.759541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-hizeem-street",
@@ -18639,7 +18470,8 @@ window.KB = {
       "osm": "way/306686128",
       "kind": "residential",
       "lat": 24.359983,
-      "lon": 54.767913
+      "lon": 54.767913,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-jarsh-street",
@@ -18650,7 +18482,8 @@ window.KB = {
       "osm": "way/247008807",
       "kind": "residential",
       "lat": 24.311544,
-      "lon": 54.647553
+      "lon": 54.647553,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-kahayl-street",
@@ -18661,7 +18494,8 @@ window.KB = {
       "osm": "way/116429200",
       "kind": "residential",
       "lat": 24.311481,
-      "lon": 54.637918
+      "lon": 54.637918,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-khalaf-street",
@@ -18672,7 +18506,8 @@ window.KB = {
       "osm": "way/116428969",
       "kind": "residential",
       "lat": 24.315702,
-      "lon": 54.639477
+      "lon": 54.639477,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-khmayis-street",
@@ -18683,7 +18518,8 @@ window.KB = {
       "osm": "way/235148632",
       "kind": "residential",
       "lat": 24.36372,
-      "lon": 54.699984
+      "lon": 54.699984,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-mbarak-street",
@@ -18694,7 +18530,8 @@ window.KB = {
       "osm": "way/173180865",
       "kind": "residential",
       "lat": 24.31046,
-      "lon": 54.536173
+      "lon": 54.536173,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-misfir-street",
@@ -18705,7 +18542,8 @@ window.KB = {
       "osm": "way/122093812",
       "kind": "residential",
       "lat": 24.378185,
-      "lon": 54.71097
+      "lon": 54.71097,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-msa-id-street",
@@ -18716,7 +18554,8 @@ window.KB = {
       "osm": "way/306686120",
       "kind": "residential",
       "lat": 24.358365,
-      "lon": 54.762507
+      "lon": 54.762507,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-nhayyan-street",
@@ -18727,7 +18566,8 @@ window.KB = {
       "osm": "way/635443231",
       "kind": "residential",
       "lat": 24.350045,
-      "lon": 54.772047
+      "lon": 54.772047,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-qadhlan-street",
@@ -18738,7 +18578,8 @@ window.KB = {
       "osm": "way/820507552",
       "kind": "unclassified",
       "lat": 24.374111,
-      "lon": 54.598649
+      "lon": 54.598649,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-qarsh-street",
@@ -18749,7 +18590,8 @@ window.KB = {
       "osm": "way/119287519",
       "kind": "residential",
       "lat": 24.392336,
-      "lon": 54.708307
+      "lon": 54.708307,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-rakan-street",
@@ -18760,7 +18602,8 @@ window.KB = {
       "osm": "way/116692400",
       "kind": "residential",
       "lat": 24.365602,
-      "lon": 54.716574
+      "lon": 54.716574,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-rayah-street",
@@ -18771,7 +18614,8 @@ window.KB = {
       "osm": "way/635438731",
       "kind": "residential",
       "lat": 24.315012,
-      "lon": 54.588282
+      "lon": 54.588282,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-salih-street",
@@ -18782,7 +18626,8 @@ window.KB = {
       "osm": "way/91676434",
       "kind": "residential",
       "lat": 24.33645,
-      "lon": 54.562503
+      "lon": 54.562503,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-salim-street",
@@ -18793,7 +18638,8 @@ window.KB = {
       "osm": "way/448037667",
       "kind": "residential",
       "lat": 24.356317,
-      "lon": 54.733328
+      "lon": 54.733328,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-samnan-street",
@@ -18804,7 +18650,8 @@ window.KB = {
       "osm": "way/111295893",
       "kind": "residential",
       "lat": 24.277554,
-      "lon": 54.641353
+      "lon": 54.641353,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-sari-street",
@@ -18815,7 +18662,8 @@ window.KB = {
       "osm": "way/635013539",
       "kind": "residential",
       "lat": 24.366162,
-      "lon": 54.772611
+      "lon": 54.772611,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-sihmi-street",
@@ -18826,7 +18674,8 @@ window.KB = {
       "osm": "way/177637762",
       "kind": "residential",
       "lat": 24.267119,
-      "lon": 54.692215
+      "lon": 54.692215,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-siwaydan-street",
@@ -18837,7 +18686,8 @@ window.KB = {
       "osm": "way/173184953",
       "kind": "residential",
       "lat": 24.321726,
-      "lon": 54.556116
+      "lon": 54.556116,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-siwaylim-street",
@@ -18848,7 +18698,8 @@ window.KB = {
       "osm": "way/91675965",
       "kind": "residential",
       "lat": 24.34344,
-      "lon": 54.546846
+      "lon": 54.546846,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-thalab-street",
@@ -18859,7 +18710,8 @@ window.KB = {
       "osm": "way/818601194",
       "kind": "residential",
       "lat": 24.30259,
-      "lon": 54.664274
+      "lon": 54.664274,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-thani-street",
@@ -18870,7 +18722,8 @@ window.KB = {
       "osm": "way/974606742",
       "kind": "tertiary",
       "lat": 24.39886,
-      "lon": 54.678991
+      "lon": 54.678991,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-um-as-sa-adan-street",
@@ -18881,7 +18734,8 @@ window.KB = {
       "osm": "way/235121448",
       "kind": "residential",
       "lat": 24.358935,
-      "lon": 54.693656
+      "lon": 54.693656,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bad-yideed-street",
@@ -18892,7 +18746,8 @@ window.KB = {
       "osm": "way/248465695",
       "kind": "residential",
       "lat": 24.353061,
-      "lon": 54.745737
+      "lon": 54.745737,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bahjat-an-nufous-street",
@@ -18903,7 +18758,8 @@ window.KB = {
       "osm": "way/476618776",
       "kind": "residential",
       "lat": 24.325827,
-      "lon": 54.534641
+      "lon": 54.534641,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/balaqi-street",
@@ -18914,7 +18770,8 @@ window.KB = {
       "osm": "way/474702967",
       "kind": "residential",
       "lat": 24.328964,
-      "lon": 54.543362
+      "lon": 54.543362,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/balqa-street",
@@ -18925,7 +18782,8 @@ window.KB = {
       "osm": "way/119551927",
       "kind": "residential",
       "lat": 24.395764,
-      "lon": 54.696076
+      "lon": 54.696076,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bani-yas-street",
@@ -18936,7 +18794,8 @@ window.KB = {
       "osm": "way/26726393",
       "kind": "tertiary",
       "lat": 24.285861,
-      "lon": 54.642738
+      "lon": 54.642738,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barak-hissah-street",
@@ -18947,7 +18806,8 @@ window.KB = {
       "osm": "way/974606692",
       "kind": "residential",
       "lat": 24.40447,
-      "lon": 54.697913
+      "lon": 54.697913,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barakah-street",
@@ -18958,7 +18818,8 @@ window.KB = {
       "osm": "way/116451479",
       "kind": "residential",
       "lat": 24.351224,
-      "lon": 54.649286
+      "lon": 54.649286,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-awwad-street",
@@ -18969,7 +18830,8 @@ window.KB = {
       "osm": "way/115724059",
       "kind": "residential",
       "lat": 24.298111,
-      "lon": 54.646496
+      "lon": 54.646496,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-irjan-street",
@@ -18980,7 +18842,8 @@ window.KB = {
       "osm": "way/92007319",
       "kind": "residential",
       "lat": 24.327862,
-      "lon": 54.547586
+      "lon": 54.547586,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-ad-darb-street",
@@ -18991,7 +18854,8 @@ window.KB = {
       "osm": "way/248481452",
       "kind": "residential",
       "lat": 24.356461,
-      "lon": 54.685739
+      "lon": 54.685739,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-ad-diba-street",
@@ -19002,7 +18866,8 @@ window.KB = {
       "osm": "way/116690223",
       "kind": "residential",
       "lat": 24.343575,
-      "lon": 54.652183
+      "lon": 54.652183,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-ad-difeenah-street",
@@ -19013,7 +18878,8 @@ window.KB = {
       "osm": "way/54200919",
       "kind": "residential",
       "lat": 24.354729,
-      "lon": 54.637624
+      "lon": 54.637624,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-ak-hal-street",
@@ -19024,7 +18890,8 @@ window.KB = {
       "osm": "way/248465728",
       "kind": "residential",
       "lat": 24.36142,
-      "lon": 54.744052
+      "lon": 54.744052,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-alam-street",
@@ -19035,7 +18902,8 @@ window.KB = {
       "osm": "way/91675964",
       "kind": "residential",
       "lat": 24.344305,
-      "lon": 54.550921
+      "lon": 54.550921,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-iqaylah-street",
@@ -19046,7 +18914,8 @@ window.KB = {
       "osm": "way/116691892",
       "kind": "residential",
       "lat": 24.342381,
-      "lon": 54.529489
+      "lon": 54.529489,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-binaw-street",
@@ -19057,7 +18926,8 @@ window.KB = {
       "osm": "way/116691009",
       "kind": "residential",
       "lat": 24.299075,
-      "lon": 54.635991
+      "lon": 54.635991,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-biwayrat-street",
@@ -19068,7 +18938,8 @@ window.KB = {
       "osm": "way/116429223",
       "kind": "residential",
       "lat": 24.318394,
-      "lon": 54.615818
+      "lon": 54.615818,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-ghirwil-street",
@@ -19079,7 +18950,8 @@ window.KB = {
       "osm": "way/121648428",
       "kind": "residential",
       "lat": 24.371834,
-      "lon": 54.704584
+      "lon": 54.704584,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-hawiyah-street",
@@ -19090,7 +18962,8 @@ window.KB = {
       "osm": "way/247008808",
       "kind": "residential",
       "lat": 24.310194,
-      "lon": 54.653319
+      "lon": 54.653319,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-magharah-street",
@@ -19101,7 +18974,8 @@ window.KB = {
       "osm": "way/94055536",
       "kind": "residential",
       "lat": 24.377494,
-      "lon": 54.6478
+      "lon": 54.6478,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-maqhamah-street",
@@ -19112,7 +18986,8 @@ window.KB = {
       "osm": "way/54201206",
       "kind": "residential",
       "lat": 24.3658,
-      "lon": 54.643254
+      "lon": 54.643254,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-markhayah-street",
@@ -19123,7 +18998,8 @@ window.KB = {
       "osm": "way/473406645",
       "kind": "residential",
       "lat": 24.289813,
-      "lon": 54.6475
+      "lon": 54.6475,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-mayd-street",
@@ -19134,7 +19010,8 @@ window.KB = {
       "osm": "way/524992494",
       "kind": "residential",
       "lat": 24.293553,
-      "lon": 54.645795
+      "lon": 54.645795,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-midba-ah-street",
@@ -19145,7 +19022,8 @@ window.KB = {
       "osm": "way/122093849",
       "kind": "residential",
       "lat": 24.383152,
-      "lon": 54.712373
+      "lon": 54.712373,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-qoumnayat-street",
@@ -19156,7 +19034,8 @@ window.KB = {
       "osm": "way/819199173",
       "kind": "residential",
       "lat": 24.386275,
-      "lon": 54.677796
+      "lon": 54.677796,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-al-wuhaydah-street",
@@ -19167,7 +19046,8 @@ window.KB = {
       "osm": "way/119287530",
       "kind": "residential",
       "lat": 24.396431,
-      "lon": 54.714037
+      "lon": 54.714037,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-an-naqah-street",
@@ -19178,7 +19058,8 @@ window.KB = {
       "osm": "way/119287786",
       "kind": "residential",
       "lat": 24.3791,
-      "lon": 54.69416
+      "lon": 54.69416,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-an-nasab-street",
@@ -19189,7 +19070,8 @@ window.KB = {
       "osm": "way/116690236",
       "kind": "residential",
       "lat": 24.353568,
-      "lon": 54.657545
+      "lon": 54.657545,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-ar-reehani-street",
@@ -19200,7 +19082,8 @@ window.KB = {
       "osm": "way/635446539",
       "kind": "residential",
       "lat": 24.295935,
-      "lon": 54.623094
+      "lon": 54.623094,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-as-salahib-street",
@@ -19211,7 +19094,8 @@ window.KB = {
       "osm": "way/94055559",
       "kind": "residential",
       "lat": 24.382509,
-      "lon": 54.645076
+      "lon": 54.645076,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-as-salf-street",
@@ -19222,7 +19106,8 @@ window.KB = {
       "osm": "way/116447962",
       "kind": "residential",
       "lat": 24.324237,
-      "lon": 54.628288
+      "lon": 54.628288,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-ash-shubouk-street",
@@ -19233,7 +19118,8 @@ window.KB = {
       "osm": "way/122093839",
       "kind": "residential",
       "lat": 24.381585,
-      "lon": 54.71715
+      "lon": 54.71715,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-ath-thimayim-street",
@@ -19244,7 +19130,8 @@ window.KB = {
       "osm": "way/1120991350",
       "kind": "residential",
       "lat": 24.379204,
-      "lon": 54.639573
+      "lon": 54.639573,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-b-aya-street",
@@ -19255,7 +19142,8 @@ window.KB = {
       "osm": "way/235121447",
       "kind": "residential",
       "lat": 24.353995,
-      "lon": 54.688755
+      "lon": 54.688755,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-bilqee-an-street",
@@ -19266,7 +19154,8 @@ window.KB = {
       "osm": "way/119287523",
       "kind": "residential",
       "lat": 24.393034,
-      "lon": 54.713644
+      "lon": 54.713644,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-bin-talfahah-street",
@@ -19277,7 +19166,8 @@ window.KB = {
       "osm": "way/821077751",
       "kind": "residential",
       "lat": 24.382662,
-      "lon": 54.612723
+      "lon": 54.612723,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-bu-hasah-street",
@@ -19288,7 +19178,8 @@ window.KB = {
       "osm": "way/635438627",
       "kind": "residential",
       "lat": 24.318728,
-      "lon": 54.587864
+      "lon": 54.587864,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-bu-mhad-street",
@@ -19299,7 +19190,8 @@ window.KB = {
       "osm": "way/92007337",
       "kind": "residential",
       "lat": 24.331951,
-      "lon": 54.567855
+      "lon": 54.567855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-karayd-street",
@@ -19310,7 +19202,8 @@ window.KB = {
       "osm": "way/246998987",
       "kind": "residential",
       "lat": 24.29203,
-      "lon": 54.650302
+      "lon": 54.650302,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-lufouq-street",
@@ -19321,7 +19214,8 @@ window.KB = {
       "osm": "way/93177746",
       "kind": "residential",
       "lat": 24.397087,
-      "lon": 54.657793
+      "lon": 54.657793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-meerah-street",
@@ -19332,7 +19226,8 @@ window.KB = {
       "osm": "way/54200927",
       "kind": "residential",
       "lat": 24.35335,
-      "lon": 54.629991
+      "lon": 54.629991,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-mfalli-street",
@@ -19343,7 +19238,8 @@ window.KB = {
       "osm": "way/80927723",
       "kind": "secondary",
       "lat": 24.361003,
-      "lon": 54.561858
+      "lon": 54.561858,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-mtaylan-street",
@@ -19354,7 +19250,8 @@ window.KB = {
       "osm": "way/634416928",
       "kind": "residential",
       "lat": 24.36903,
-      "lon": 54.735854
+      "lon": 54.735854,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-nasqah-street",
@@ -19365,7 +19262,8 @@ window.KB = {
       "osm": "way/246999014",
       "kind": "residential",
       "lat": 24.29024,
-      "lon": 54.652359
+      "lon": 54.652359,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-rashid-street",
@@ -19376,7 +19274,8 @@ window.KB = {
       "osm": "way/473392999",
       "kind": "residential",
       "lat": 24.366208,
-      "lon": 54.54774
+      "lon": 54.54774,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-sayf-street",
@@ -19387,7 +19286,8 @@ window.KB = {
       "osm": "way/306795068",
       "kind": "residential",
       "lat": 24.321644,
-      "lon": 54.755981
+      "lon": 54.755981,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-shams-street",
@@ -19398,7 +19298,8 @@ window.KB = {
       "osm": "way/54200898",
       "kind": "residential",
       "lat": 24.359432,
-      "lon": 54.62818
+      "lon": 54.62818,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-thamir-street",
@@ -19409,7 +19310,8 @@ window.KB = {
       "osm": "way/306808303",
       "kind": "residential",
       "lat": 24.309291,
-      "lon": 54.624928
+      "lon": 54.624928,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-thamoud-street",
@@ -19420,7 +19322,8 @@ window.KB = {
       "osm": "way/856082262",
       "kind": "unclassified",
       "lat": 24.315881,
-      "lon": 54.613151
+      "lon": 54.613151,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-um-al-ashtan-street",
@@ -19431,7 +19334,8 @@ window.KB = {
       "osm": "way/115721079",
       "kind": "residential",
       "lat": 24.29948,
-      "lon": 54.653876
+      "lon": 54.653876,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-um-al-quwasir-street",
@@ -19442,7 +19346,8 @@ window.KB = {
       "osm": "way/95630392",
       "kind": "residential",
       "lat": 24.406468,
-      "lon": 54.749351
+      "lon": 54.749351,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-um-al-yuwabi-street",
@@ -19453,7 +19358,8 @@ window.KB = {
       "osm": "way/85680605",
       "kind": "residential",
       "lat": 24.350741,
-      "lon": 54.558569
+      "lon": 54.558569,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-um-bab-street",
@@ -19464,7 +19370,8 @@ window.KB = {
       "osm": "way/115724079",
       "kind": "residential",
       "lat": 24.296326,
-      "lon": 54.643652
+      "lon": 54.643652,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqa-um-dhari-street",
@@ -19475,7 +19382,8 @@ window.KB = {
       "osm": "way/116429207",
       "kind": "residential",
       "lat": 24.317229,
-      "lon": 54.63135
+      "lon": 54.63135,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barqah-street",
@@ -19486,7 +19394,8 @@ window.KB = {
       "osm": "way/1127507686",
       "kind": "residential",
       "lat": 24.38204,
-      "lon": 54.73881
+      "lon": 54.73881,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barr-al-arazeel-street",
@@ -19497,7 +19406,8 @@ window.KB = {
       "osm": "way/116692423",
       "kind": "residential",
       "lat": 24.363788,
-      "lon": 54.716186
+      "lon": 54.716186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barr-al-khidayrah-street",
@@ -19508,7 +19418,8 @@ window.KB = {
       "osm": "way/91675990",
       "kind": "residential",
       "lat": 24.343868,
-      "lon": 54.557197
+      "lon": 54.557197,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barr-al-mamlahah-street",
@@ -19519,7 +19430,8 @@ window.KB = {
       "osm": "way/94055571",
       "kind": "residential",
       "lat": 24.392932,
-      "lon": 54.646749
+      "lon": 54.646749,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barr-al-marhabani-street",
@@ -19530,7 +19442,8 @@ window.KB = {
       "osm": "way/820507554",
       "kind": "residential",
       "lat": 24.382611,
-      "lon": 54.600644
+      "lon": 54.600644,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/barr-um-al-jana-street",
@@ -19541,7 +19454,8 @@ window.KB = {
       "osm": "way/91675956",
       "kind": "residential",
       "lat": 24.337149,
-      "lon": 54.56707
+      "lon": 54.56707,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/basateen-al-falah-street",
@@ -19552,7 +19466,8 @@ window.KB = {
       "osm": "way/54200897",
       "kind": "residential",
       "lat": 24.362745,
-      "lon": 54.627708
+      "lon": 54.627708,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/basheer-bin-ma-bad-street",
@@ -19563,7 +19478,8 @@ window.KB = {
       "osm": "way/105447660",
       "kind": "residential",
       "lat": 24.334289,
-      "lon": 54.635696
+      "lon": 54.635696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bat-ha-al-ashkhar-street",
@@ -19574,7 +19490,8 @@ window.KB = {
       "osm": "way/974606694",
       "kind": "residential",
       "lat": 24.404163,
-      "lon": 54.696143
+      "lon": 54.696143,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bat-ha-bin-hilal-street",
@@ -19585,7 +19502,8 @@ window.KB = {
       "osm": "way/974463499",
       "kind": "residential",
       "lat": 24.353256,
-      "lon": 54.607738
+      "lon": 54.607738,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bat-ha-qata-street",
@@ -19596,7 +19514,8 @@ window.KB = {
       "osm": "way/235121471",
       "kind": "residential",
       "lat": 24.353238,
-      "lon": 54.692278
+      "lon": 54.692278,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bateen-al-oud-street",
@@ -19607,7 +19526,8 @@ window.KB = {
       "osm": "way/116691900",
       "kind": "residential",
       "lat": 24.343311,
-      "lon": 54.533798
+      "lon": 54.533798,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bateen-al-hilayw-street",
@@ -19618,7 +19538,8 @@ window.KB = {
       "osm": "way/1161286878",
       "kind": "residential",
       "lat": 24.397809,
-      "lon": 54.684886
+      "lon": 54.684886,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bateen-bu-artah-street",
@@ -19629,7 +19550,8 @@ window.KB = {
       "osm": "way/94329207",
       "kind": "residential",
       "lat": 24.27515,
-      "lon": 54.670408
+      "lon": 54.670408,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bateen-ishghabah-street",
@@ -19640,7 +19562,8 @@ window.KB = {
       "osm": "way/116692394",
       "kind": "residential",
       "lat": 24.364793,
-      "lon": 54.714755
+      "lon": 54.714755,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bawabat-ash-sharq-street",
@@ -19651,7 +19574,8 @@ window.KB = {
       "osm": "way/306808276",
       "kind": "tertiary",
       "lat": 24.315008,
-      "lon": 54.619393
+      "lon": 54.619393,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bi-ar-zayed-street",
@@ -19662,7 +19586,8 @@ window.KB = {
       "osm": "way/116788434",
       "kind": "unclassified",
       "lat": 24.392426,
-      "lon": 54.72624
+      "lon": 54.72624,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/biderat-murgham-street",
@@ -19673,7 +19598,8 @@ window.KB = {
       "osm": "way/974606691",
       "kind": "residential",
       "lat": 24.404586,
-      "lon": 54.698805
+      "lon": 54.698805,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bidou-khalifa-street",
@@ -19684,7 +19610,8 @@ window.KB = {
       "osm": "way/94055576",
       "kind": "residential",
       "lat": 24.401268,
-      "lon": 54.653866
+      "lon": 54.653866,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bikr-bin-umayah-street",
@@ -19695,7 +19622,8 @@ window.KB = {
       "osm": "way/173398705",
       "kind": "residential",
       "lat": 24.30605,
-      "lon": 54.581529
+      "lon": 54.581529,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bil-ital-street",
@@ -19706,7 +19634,8 @@ window.KB = {
       "osm": "way/974606626",
       "kind": "residential",
       "lat": 24.406636,
-      "lon": 54.707483
+      "lon": 54.707483,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilal-bin-abi-ad-darda-a-street",
@@ -19717,7 +19646,8 @@ window.KB = {
       "osm": "way/818883192",
       "kind": "residential",
       "lat": 24.370772,
-      "lon": 54.670806
+      "lon": 54.670806,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilbazm-street",
@@ -19728,7 +19658,8 @@ window.KB = {
       "osm": "way/634310268",
       "kind": "residential",
       "lat": 24.345945,
-      "lon": 54.754289
+      "lon": 54.754289,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilddikhan-street",
@@ -19739,7 +19670,8 @@ window.KB = {
       "osm": "way/235148594",
       "kind": "residential",
       "lat": 24.373467,
-      "lon": 54.698249
+      "lon": 54.698249,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilhabthar-street",
@@ -19750,7 +19682,8 @@ window.KB = {
       "osm": "way/248481463",
       "kind": "residential",
       "lat": 24.36119,
-      "lon": 54.688785
+      "lon": 54.688785,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilhasa-street",
@@ -19761,7 +19694,8 @@ window.KB = {
       "osm": "way/173019882",
       "kind": "residential",
       "lat": 24.297161,
-      "lon": 54.559016
+      "lon": 54.559016,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilmiyas-street",
@@ -19772,7 +19706,8 @@ window.KB = {
       "osm": "way/306671076",
       "kind": "residential",
       "lat": 24.322488,
-      "lon": 54.733705
+      "lon": 54.733705,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilrimeed-street",
@@ -19783,7 +19718,8 @@ window.KB = {
       "osm": "way/246999017",
       "kind": "residential",
       "lat": 24.290855,
-      "lon": 54.648429
+      "lon": 54.648429,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bilttuboul-street",
@@ -19794,7 +19730,8 @@ window.KB = {
       "osm": "way/92007288",
       "kind": "residential",
       "lat": 24.33779,
-      "lon": 54.544111
+      "lon": 54.544111,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bin-isheesh-street",
@@ -19805,7 +19742,8 @@ window.KB = {
       "osm": "way/246999003",
       "kind": "residential",
       "lat": 24.285374,
-      "lon": 54.649886
+      "lon": 54.649886,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bint-al-matar-street",
@@ -19816,7 +19754,8 @@ window.KB = {
       "osm": "way/161842257",
       "kind": "residential",
       "lat": 24.324181,
-      "lon": 54.53726
+      "lon": 54.53726,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/birkat-as-simayh-street",
@@ -19827,7 +19766,8 @@ window.KB = {
       "osm": "way/120291275",
       "kind": "residential",
       "lat": 24.383862,
-      "lon": 54.68712
+      "lon": 54.68712,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/birkat-kulayb-street",
@@ -19838,7 +19778,8 @@ window.KB = {
       "osm": "way/119287509",
       "kind": "residential",
       "lat": 24.395021,
-      "lon": 54.709708
+      "lon": 54.709708,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bishr-bin-abdullah-street",
@@ -19849,7 +19790,8 @@ window.KB = {
       "osm": "way/230251959",
       "kind": "residential",
       "lat": 24.356013,
-      "lon": 54.683909
+      "lon": 54.683909,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bitah-salwan-street",
@@ -19860,7 +19802,8 @@ window.KB = {
       "osm": "way/974606619",
       "kind": "residential",
       "lat": 24.405552,
-      "lon": 54.710293
+      "lon": 54.710293,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/biteen-as-silimah-street",
@@ -19871,7 +19814,8 @@ window.KB = {
       "osm": "way/95630389",
       "kind": "residential",
       "lat": 24.411239,
-      "lon": 54.753271
+      "lon": 54.753271,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/breeh-street",
@@ -19882,18 +19826,20 @@ window.KB = {
       "osm": "way/94055556",
       "kind": "residential",
       "lat": 24.393833,
-      "lon": 54.647495
+      "lon": 54.647495,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/breej-3-street",
+      "id": "abu-dhabi-city/breej-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Breej 3 Street",
-      "name_ar": "شارع بريج 3",
+      "name_en": "Breej Street",
+      "name_ar": "شارع بريج",
       "osm": "way/24350951",
       "kind": "unclassified",
       "lat": 24.338186,
-      "lon": 54.474347
+      "lon": 54.474347,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/bu-saybah-street",
@@ -19904,7 +19850,8 @@ window.KB = {
       "osm": "way/54200904",
       "kind": "residential",
       "lat": 24.346885,
-      "lon": 54.632607
+      "lon": 54.632607,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-barid-street",
@@ -19915,7 +19862,8 @@ window.KB = {
       "osm": "way/89640079",
       "kind": "residential",
       "lat": 24.360719,
-      "lon": 54.531528
+      "lon": 54.531528,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-dheeb-street",
@@ -19926,7 +19874,8 @@ window.KB = {
       "osm": "way/306682869",
       "kind": "residential",
       "lat": 24.365745,
-      "lon": 54.746181
+      "lon": 54.746181,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-farashah-street",
@@ -19937,7 +19886,8 @@ window.KB = {
       "osm": "way/974463505",
       "kind": "residential",
       "lat": 24.35957,
-      "lon": 54.605832
+      "lon": 54.605832,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-hbayl-street",
@@ -19948,7 +19898,8 @@ window.KB = {
       "osm": "way/173013873",
       "kind": "residential",
       "lat": 24.360433,
-      "lon": 54.542838
+      "lon": 54.542838,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-hisn-street",
@@ -19959,7 +19910,8 @@ window.KB = {
       "osm": "way/974606716",
       "kind": "residential",
       "lat": 24.40045,
-      "lon": 54.673902
+      "lon": 54.673902,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-hiyay-street",
@@ -19970,7 +19922,8 @@ window.KB = {
       "osm": "way/54200905",
       "kind": "residential",
       "lat": 24.347102,
-      "lon": 54.6301
+      "lon": 54.6301,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-kirayah-street",
@@ -19981,7 +19934,8 @@ window.KB = {
       "osm": "way/235147556",
       "kind": "residential",
       "lat": 24.349457,
-      "lon": 54.703407
+      "lon": 54.703407,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-m-an-street",
@@ -19992,7 +19946,8 @@ window.KB = {
       "osm": "way/974606765",
       "kind": "residential",
       "lat": 24.390967,
-      "lon": 54.678194
+      "lon": 54.678194,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-mahharah-street",
@@ -20003,7 +19958,8 @@ window.KB = {
       "osm": "way/820507462",
       "kind": "residential",
       "lat": 24.360582,
-      "lon": 54.610725
+      "lon": 54.610725,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-mayrkah-street",
@@ -20014,7 +19970,8 @@ window.KB = {
       "osm": "way/235121442",
       "kind": "residential",
       "lat": 24.359667,
-      "lon": 54.692601
+      "lon": 54.692601,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-mirdah-street",
@@ -20025,7 +19982,8 @@ window.KB = {
       "osm": "way/248443301",
       "kind": "residential",
       "lat": 24.288972,
-      "lon": 54.667044
+      "lon": 54.667044,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/bu-yawabi-street",
@@ -20036,7 +19994,8 @@ window.KB = {
       "osm": "way/635438616",
       "kind": "residential",
       "lat": 24.323375,
-      "lon": 54.584024
+      "lon": 54.584024,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buhour-ash-shi-r-street",
@@ -20047,7 +20006,8 @@ window.KB = {
       "osm": "way/247044167",
       "kind": "residential",
       "lat": 24.333057,
-      "lon": 54.535789
+      "lon": 54.535789,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buhouth-al-jireenah-street",
@@ -20058,7 +20018,8 @@ window.KB = {
       "osm": "way/95630404",
       "kind": "residential",
       "lat": 24.40927,
-      "lon": 54.748172
+      "lon": 54.748172,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buhouth-himayid-street",
@@ -20069,7 +20030,8 @@ window.KB = {
       "osm": "way/820507602",
       "kind": "residential",
       "lat": 24.382411,
-      "lon": 54.610179
+      "lon": 54.610179,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buhouth-thalthah-street",
@@ -20080,7 +20042,8 @@ window.KB = {
       "osm": "way/90771037",
       "kind": "residential",
       "lat": 24.355381,
-      "lon": 54.556035
+      "lon": 54.556035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buhouth-yibarah-street",
@@ -20091,7 +20054,8 @@ window.KB = {
       "osm": "way/235147565",
       "kind": "residential",
       "lat": 24.360374,
-      "lon": 54.700651
+      "lon": 54.700651,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buraydah-bin-al-haseeb-street",
@@ -20102,7 +20066,8 @@ window.KB = {
       "osm": "way/821077732",
       "kind": "residential",
       "lat": 24.383587,
-      "lon": 54.625717
+      "lon": 54.625717,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buraydah-street",
@@ -20113,7 +20078,8 @@ window.KB = {
       "osm": "way/306694623",
       "kind": "residential",
       "lat": 24.337264,
-      "lon": 54.748051
+      "lon": 54.748051,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-al-adwani-street",
@@ -20124,7 +20090,8 @@ window.KB = {
       "osm": "way/116692407",
       "kind": "residential",
       "lat": 24.36776,
-      "lon": 54.719436
+      "lon": 54.719436,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-al-alali-street",
@@ -20135,7 +20102,8 @@ window.KB = {
       "osm": "way/1123895802",
       "kind": "residential",
       "lat": 24.314895,
-      "lon": 54.630145
+      "lon": 54.630145,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-al-wastani-street",
@@ -20146,7 +20114,8 @@ window.KB = {
       "osm": "way/95490107",
       "kind": "residential",
       "lat": 24.408211,
-      "lon": 54.72696
+      "lon": 54.72696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-an-najdi-street",
@@ -20157,7 +20126,8 @@ window.KB = {
       "osm": "way/819198271",
       "kind": "residential",
       "lat": 24.387916,
-      "lon": 54.668927
+      "lon": 54.668927,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-an-nakhl-street",
@@ -20168,7 +20138,8 @@ window.KB = {
       "osm": "way/235124810",
       "kind": "residential",
       "lat": 24.362048,
-      "lon": 54.709148
+      "lon": 54.709148,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-at-tareef-street",
@@ -20179,7 +20150,8 @@ window.KB = {
       "osm": "way/974606648",
       "kind": "residential",
       "lat": 24.401031,
-      "lon": 54.705827
+      "lon": 54.705827,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-bin-hilal-street",
@@ -20190,7 +20162,8 @@ window.KB = {
       "osm": "way/1444225172",
       "kind": "residential",
       "lat": 24.335582,
-      "lon": 54.53132
+      "lon": 54.53132,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-bin-hlees-street",
@@ -20201,7 +20174,8 @@ window.KB = {
       "osm": "way/173184954",
       "kind": "residential",
       "lat": 24.318739,
-      "lon": 54.557236
+      "lon": 54.557236,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-bin-khatroush-street",
@@ -20212,7 +20186,8 @@ window.KB = {
       "osm": "way/974427635",
       "kind": "residential",
       "lat": 24.313638,
-      "lon": 54.590526
+      "lon": 54.590526,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-daniq-street",
@@ -20223,7 +20198,8 @@ window.KB = {
       "osm": "way/635438671",
       "kind": "residential",
       "lat": 24.309651,
-      "lon": 54.588347
+      "lon": 54.588347,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burj-khat-street",
@@ -20234,7 +20210,8 @@ window.KB = {
       "osm": "way/173181677",
       "kind": "residential",
       "lat": 24.316016,
-      "lon": 54.544135
+      "lon": 54.544135,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burq-al-ghuweifat-street",
@@ -20245,7 +20222,8 @@ window.KB = {
       "osm": "way/116681841",
       "kind": "residential",
       "lat": 24.35433,
-      "lon": 54.662541
+      "lon": 54.662541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burq-al-mamlahah-street",
@@ -20256,7 +20234,8 @@ window.KB = {
       "osm": "way/974606618",
       "kind": "residential",
       "lat": 24.405768,
-      "lon": 54.711095
+      "lon": 54.711095,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/burq-as-sila-street",
@@ -20267,7 +20246,8 @@ window.KB = {
       "osm": "way/306682842",
       "kind": "residential",
       "lat": 24.355901,
-      "lon": 54.756122
+      "lon": 54.756122,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/butti-bin-mohammed-al-qubaisi-street",
@@ -20278,7 +20258,8 @@ window.KB = {
       "osm": "way/428329385",
       "kind": "tertiary",
       "lat": 24.406801,
-      "lon": 54.60101
+      "lon": 54.60101,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/buwaytir-street",
@@ -20289,7 +20270,8 @@ window.KB = {
       "osm": "way/173041001",
       "kind": "residential",
       "lat": 24.325141,
-      "lon": 54.53627
+      "lon": 54.53627,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/da-sah-street",
@@ -20300,7 +20282,8 @@ window.KB = {
       "osm": "way/91676405",
       "kind": "residential",
       "lat": 24.334889,
-      "lon": 54.562709
+      "lon": 54.562709,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/daba-al-ghurfah-street",
@@ -20311,7 +20294,8 @@ window.KB = {
       "osm": "way/974606681",
       "kind": "residential",
       "lat": 24.402069,
-      "lon": 54.695996
+      "lon": 54.695996,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dahin-street",
@@ -20322,7 +20306,8 @@ window.KB = {
       "osm": "way/95490111",
       "kind": "residential",
       "lat": 24.407301,
-      "lon": 54.719798
+      "lon": 54.719798,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dahiyat-al-biday-street",
@@ -20333,7 +20318,8 @@ window.KB = {
       "osm": "way/974606671",
       "kind": "residential",
       "lat": 24.400796,
-      "lon": 54.698475
+      "lon": 54.698475,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dahiyat-at-tay-street",
@@ -20344,7 +20330,8 @@ window.KB = {
       "osm": "way/177640621",
       "kind": "residential",
       "lat": 24.283054,
-      "lon": 54.654229
+      "lon": 54.654229,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dahiyat-wasit-street",
@@ -20355,7 +20342,8 @@ window.KB = {
       "osm": "way/54200974",
       "kind": "residential",
       "lat": 24.349083,
-      "lon": 54.615314
+      "lon": 54.615314,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dalmoun-street",
@@ -20366,7 +20354,8 @@ window.KB = {
       "osm": "way/306671037",
       "kind": "residential",
       "lat": 24.328011,
-      "lon": 54.743969
+      "lon": 54.743969,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/danube-street",
@@ -20377,7 +20366,8 @@ window.KB = {
       "osm": "way/90771031",
       "kind": "residential",
       "lat": 24.357143,
-      "lon": 54.552887
+      "lon": 54.552887,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/darwish-bilhaddad-al-rumaithi-street",
@@ -20388,7 +20378,8 @@ window.KB = {
       "osm": "way/474712100",
       "kind": "residential",
       "lat": 24.328715,
-      "lon": 54.577117
+      "lon": 54.577117,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/darwish-bin-karam-al-mohammed-street",
@@ -20399,7 +20390,8 @@ window.KB = {
       "osm": "way/116428976",
       "kind": "residential",
       "lat": 24.316325,
-      "lon": 54.641918
+      "lon": 54.641918,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dawhat-al-far-street",
@@ -20410,7 +20402,8 @@ window.KB = {
       "osm": "way/122093827",
       "kind": "residential",
       "lat": 24.386353,
-      "lon": 54.713749
+      "lon": 54.713749,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dawhat-al-sila-street",
@@ -20421,7 +20414,8 @@ window.KB = {
       "osm": "way/306686125",
       "kind": "residential",
       "lat": 24.355285,
-      "lon": 54.764248
+      "lon": 54.764248,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dawhat-an-nakhlah-street",
@@ -20432,7 +20426,8 @@ window.KB = {
       "osm": "way/92007306",
       "kind": "residential",
       "lat": 24.330339,
-      "lon": 54.542533
+      "lon": 54.542533,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dawhat-tallab-street",
@@ -20443,7 +20438,8 @@ window.KB = {
       "osm": "way/93177775",
       "kind": "residential",
       "lat": 24.396182,
-      "lon": 54.657035
+      "lon": 54.657035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dawhat-um-al-khirshif-street",
@@ -20454,7 +20450,8 @@ window.KB = {
       "osm": "way/118783440",
       "kind": "residential",
       "lat": 24.395617,
-      "lon": 54.725228
+      "lon": 54.725228,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dayrat-al-wu-aybah-street",
@@ -20465,7 +20462,8 @@ window.KB = {
       "osm": "way/235147603",
       "kind": "residential",
       "lat": 24.347689,
-      "lon": 54.696097
+      "lon": 54.696097,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/deerat-ar-riqou-street",
@@ -20476,7 +20474,8 @@ window.KB = {
       "osm": "way/116447968",
       "kind": "residential",
       "lat": 24.321127,
-      "lon": 54.63083
+      "lon": 54.63083,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dhahar-al-musalla-street",
@@ -20487,7 +20486,8 @@ window.KB = {
       "osm": "way/161842266",
       "kind": "residential",
       "lat": 24.322863,
-      "lon": 54.533414
+      "lon": 54.533414,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dhahar-al-qaffay-street",
@@ -20498,7 +20498,8 @@ window.KB = {
       "osm": "way/112174480",
       "kind": "residential",
       "lat": 24.317482,
-      "lon": 54.642717
+      "lon": 54.642717,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dhahir-as-safwah-street",
@@ -20509,7 +20510,8 @@ window.KB = {
       "osm": "way/54200893",
       "kind": "residential",
       "lat": 24.361707,
-      "lon": 54.629435
+      "lon": 54.629435,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dhakwan-bin-abdullah-qays-street",
@@ -20520,7 +20522,8 @@ window.KB = {
       "osm": "way/974606690",
       "kind": "residential",
       "lat": 24.403737,
-      "lon": 54.699846
+      "lon": 54.699846,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dhannan-street",
@@ -20531,7 +20534,8 @@ window.KB = {
       "osm": "way/93177770",
       "kind": "residential",
       "lat": 24.39468,
-      "lon": 54.656475
+      "lon": 54.656475,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dhibaybah-street",
@@ -20542,7 +20546,8 @@ window.KB = {
       "osm": "way/974606774",
       "kind": "tertiary",
       "lat": 24.400696,
-      "lon": 54.702676
+      "lon": 54.702676,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dhiyban-street",
@@ -20553,7 +20558,8 @@ window.KB = {
       "osm": "way/820507571",
       "kind": "residential",
       "lat": 24.382435,
-      "lon": 54.596759
+      "lon": 54.596759,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/diba-al-hisn-street",
@@ -20564,7 +20570,8 @@ window.KB = {
       "osm": "way/173392749",
       "kind": "residential",
       "lat": 24.304805,
-      "lon": 54.555416
+      "lon": 54.555416,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/difan-an-nakheel-street",
@@ -20575,7 +20582,8 @@ window.KB = {
       "osm": "way/116681833",
       "kind": "residential",
       "lat": 24.343585,
-      "lon": 54.648211
+      "lon": 54.648211,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/diham-street",
@@ -20586,7 +20594,8 @@ window.KB = {
       "osm": "way/448037725",
       "kind": "residential",
       "lat": 24.331474,
-      "lon": 54.754166
+      "lon": 54.754166,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dihn-al-oud-street",
@@ -20597,7 +20606,8 @@ window.KB = {
       "osm": "way/112455235",
       "kind": "residential",
       "lat": 24.385713,
-      "lon": 54.730866
+      "lon": 54.730866,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimthat-al-khbar-street",
@@ -20608,7 +20618,8 @@ window.KB = {
       "osm": "way/95490098",
       "kind": "residential",
       "lat": 24.408291,
-      "lon": 54.723304
+      "lon": 54.723304,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimthat-eisa-street",
@@ -20619,7 +20630,8 @@ window.KB = {
       "osm": "way/635438677",
       "kind": "residential",
       "lat": 24.314629,
-      "lon": 54.588545
+      "lon": 54.588545,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyaat-al-hasani-street",
@@ -20630,7 +20642,8 @@ window.KB = {
       "osm": "way/116447851",
       "kind": "residential",
       "lat": 24.30346,
-      "lon": 54.621911
+      "lon": 54.621911,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-afra-street",
@@ -20641,7 +20654,8 @@ window.KB = {
       "osm": "way/118783489",
       "kind": "residential",
       "lat": 24.399099,
-      "lon": 54.721959
+      "lon": 54.721959,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-al-faras-street",
@@ -20652,7 +20666,8 @@ window.KB = {
       "osm": "way/173039849",
       "kind": "residential",
       "lat": 24.378767,
-      "lon": 54.535107
+      "lon": 54.535107,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-bin-nihayeel-street",
@@ -20663,7 +20678,8 @@ window.KB = {
       "osm": "way/819198275",
       "kind": "residential",
       "lat": 24.388928,
-      "lon": 54.667289
+      "lon": 54.667289,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-bin-shimal-street",
@@ -20674,7 +20690,8 @@ window.KB = {
       "osm": "way/695682573",
       "kind": "residential",
       "lat": 24.264542,
-      "lon": 54.703921
+      "lon": 54.703921,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-bint-oun-street",
@@ -20685,7 +20702,8 @@ window.KB = {
       "osm": "way/85680604",
       "kind": "residential",
       "lat": 24.350681,
-      "lon": 54.557046
+      "lon": 54.557046,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-faylah-street",
@@ -20696,7 +20714,8 @@ window.KB = {
       "osm": "way/635059337",
       "kind": "residential",
       "lat": 24.277818,
-      "lon": 54.648914
+      "lon": 54.648914,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-tahnoun-street",
@@ -20707,7 +20726,8 @@ window.KB = {
       "osm": "way/94058710",
       "kind": "residential",
       "lat": 24.406121,
-      "lon": 54.736072
+      "lon": 54.736072,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dimyat-um-ash-shouk-street",
@@ -20718,7 +20738,8 @@ window.KB = {
       "osm": "way/820507517",
       "kind": "residential",
       "lat": 24.363567,
-      "lon": 54.59756
+      "lon": 54.59756,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/diraf-street",
@@ -20729,7 +20750,8 @@ window.KB = {
       "osm": "way/635013567",
       "kind": "residential",
       "lat": 24.374414,
-      "lon": 54.774694
+      "lon": 54.774694,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dismal-street",
@@ -20740,7 +20762,8 @@ window.KB = {
       "osm": "way/474443087",
       "kind": "residential",
       "lat": 24.398737,
-      "lon": 54.488829
+      "lon": 54.488829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dolphin-street",
@@ -20751,7 +20774,8 @@ window.KB = {
       "osm": "way/173116700",
       "kind": "residential",
       "lat": 24.326833,
-      "lon": 54.538878
+      "lon": 54.538878,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/dumat-al-jandal-street",
@@ -20762,7 +20786,8 @@ window.KB = {
       "osm": "way/112174466",
       "kind": "residential",
       "lat": 24.318935,
-      "lon": 54.641604
+      "lon": 54.641604,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/eid-bin-musabeh-al-amimi-street",
@@ -20773,7 +20798,8 @@ window.KB = {
       "osm": "way/80927752",
       "kind": "tertiary",
       "lat": 24.363334,
-      "lon": 54.556979
+      "lon": 54.556979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/falaj-adh-dheed-street",
@@ -20784,7 +20810,8 @@ window.KB = {
       "osm": "way/121648433",
       "kind": "residential",
       "lat": 24.382547,
-      "lon": 54.698093
+      "lon": 54.698093,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/falaj-al-jimi-street",
@@ -20795,7 +20822,8 @@ window.KB = {
       "osm": "way/635037992",
       "kind": "residential",
       "lat": 24.346465,
-      "lon": 54.771807
+      "lon": 54.771807,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/fallat-street",
@@ -20806,7 +20834,8 @@ window.KB = {
       "osm": "way/116691911",
       "kind": "residential",
       "lat": 24.342485,
-      "lon": 54.533696
+      "lon": 54.533696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/fares-bin-ghanem-al-mazrouei-street",
@@ -20817,7 +20846,8 @@ window.KB = {
       "osm": "way/54201201",
       "kind": "residential",
       "lat": 24.369947,
-      "lon": 54.639593
+      "lon": 54.639593,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/farhat-street",
@@ -20828,7 +20858,8 @@ window.KB = {
       "osm": "way/306686122",
       "kind": "residential",
       "lat": 24.364304,
-      "lon": 54.765471
+      "lon": 54.765471,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/faroud-street",
@@ -20839,7 +20870,8 @@ window.KB = {
       "osm": "way/24303627",
       "kind": "residential",
       "lat": 24.392795,
-      "lon": 54.502786
+      "lon": 54.502786,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/farqad-street",
@@ -20850,7 +20882,8 @@ window.KB = {
       "osm": "way/306671036",
       "kind": "residential",
       "lat": 24.32265,
-      "lon": 54.729435
+      "lon": 54.729435,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/fatima-az-zahra-a-street",
@@ -20861,7 +20894,8 @@ window.KB = {
       "osm": "way/111297885",
       "kind": "residential",
       "lat": 24.321083,
-      "lon": 54.635779
+      "lon": 54.635779,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/fay-al-kniwud-street",
@@ -20872,7 +20906,8 @@ window.KB = {
       "osm": "way/235148607",
       "kind": "residential",
       "lat": 24.365731,
-      "lon": 54.698162
+      "lon": 54.698162,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/fay-an-niqam-street",
@@ -20883,7 +20918,8 @@ window.KB = {
       "osm": "way/306993012",
       "kind": "residential",
       "lat": 24.322042,
-      "lon": 54.632831
+      "lon": 54.632831,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/fay-as-sahab-street",
@@ -20894,7 +20930,8 @@ window.KB = {
       "osm": "way/116691047",
       "kind": "residential",
       "lat": 24.292669,
-      "lon": 54.638325
+      "lon": 54.638325,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/fay-majid-street",
@@ -20905,7 +20942,8 @@ window.KB = {
       "osm": "way/92007321",
       "kind": "residential",
       "lat": 24.33535,
-      "lon": 54.544915
+      "lon": 54.544915,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/filiy-street",
@@ -20916,7 +20954,8 @@ window.KB = {
       "osm": "way/173392691",
       "kind": "residential",
       "lat": 24.312904,
-      "lon": 54.567712
+      "lon": 54.567712,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/freejad-al-janoubi-street",
@@ -20927,7 +20966,8 @@ window.KB = {
       "osm": "way/474712092",
       "kind": "residential",
       "lat": 24.334927,
-      "lon": 54.576812
+      "lon": 54.576812,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/george-matthew-street",
@@ -20938,7 +20978,8 @@ window.KB = {
       "osm": "way/108401994",
       "kind": "tertiary",
       "lat": 24.325483,
-      "lon": 54.616012
+      "lon": 54.616012,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghabat-al-maydour-street",
@@ -20949,7 +20990,8 @@ window.KB = {
       "osm": "way/627829931",
       "kind": "residential",
       "lat": 24.369024,
-      "lon": 54.604786
+      "lon": 54.604786,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghabat-al-mighayil-street",
@@ -20960,7 +21002,8 @@ window.KB = {
       "osm": "way/54201210",
       "kind": "residential",
       "lat": 24.36207,
-      "lon": 54.643848
+      "lon": 54.643848,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghabat-al-mlaysa-street",
@@ -20971,7 +21014,8 @@ window.KB = {
       "osm": "way/121648448",
       "kind": "residential",
       "lat": 24.379281,
-      "lon": 54.69861
+      "lon": 54.69861,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghabat-as-sa-adiyah-street",
@@ -20982,7 +21026,8 @@ window.KB = {
       "osm": "way/85680616",
       "kind": "residential",
       "lat": 24.358571,
-      "lon": 54.561932
+      "lon": 54.561932,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghabat-mayhoulah-street",
@@ -20993,7 +21038,8 @@ window.KB = {
       "osm": "way/174748710",
       "kind": "residential",
       "lat": 24.270278,
-      "lon": 54.655272
+      "lon": 54.655272,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghabat-yi-aylah-street",
@@ -21004,7 +21050,8 @@ window.KB = {
       "osm": "way/118783494",
       "kind": "residential",
       "lat": 24.400022,
-      "lon": 54.729112
+      "lon": 54.729112,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghadeer-al-hasat-street",
@@ -21015,7 +21062,8 @@ window.KB = {
       "osm": "way/116429234",
       "kind": "residential",
       "lat": 24.309513,
-      "lon": 54.639763
+      "lon": 54.639763,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghadeer-at-tayr-street",
@@ -21026,7 +21074,8 @@ window.KB = {
       "osm": "way/235147570",
       "kind": "residential",
       "lat": 24.355992,
-      "lon": 54.701741
+      "lon": 54.701741,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghadeer-bin-habis-street",
@@ -21037,7 +21086,8 @@ window.KB = {
       "osm": "way/119287779",
       "kind": "residential",
       "lat": 24.382281,
-      "lon": 54.692132
+      "lon": 54.692132,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghadeer-rakan-street",
@@ -21048,7 +21098,8 @@ window.KB = {
       "osm": "way/627829929",
       "kind": "residential",
       "lat": 24.371316,
-      "lon": 54.605277
+      "lon": 54.605277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghadeer-zayed-street",
@@ -21059,7 +21110,8 @@ window.KB = {
       "osm": "way/246999004",
       "kind": "residential",
       "lat": 24.296263,
-      "lon": 54.650076
+      "lon": 54.650076,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaf-al-ayas-street",
@@ -21070,7 +21122,8 @@ window.KB = {
       "osm": "way/1351812933",
       "kind": "residential",
       "lat": 24.278405,
-      "lon": 54.681417
+      "lon": 54.681417,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaf-qiseewrah-street",
@@ -21081,7 +21134,8 @@ window.KB = {
       "osm": "way/975362749",
       "kind": "residential",
       "lat": 24.406993,
-      "lon": 54.71189
+      "lon": 54.71189,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaf-qummash-street",
@@ -21092,7 +21146,8 @@ window.KB = {
       "osm": "way/974606609",
       "kind": "residential",
       "lat": 24.409416,
-      "lon": 54.705487
+      "lon": 54.705487,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafah-street",
@@ -21103,7 +21158,8 @@ window.KB = {
       "osm": "way/635013541",
       "kind": "residential",
       "lat": 24.377085,
-      "lon": 54.771975
+      "lon": 54.771975,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-adh-dhilayma-street",
@@ -21114,7 +21170,8 @@ window.KB = {
       "osm": "way/635438687",
       "kind": "residential",
       "lat": 24.313195,
-      "lon": 54.590843
+      "lon": 54.590843,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-al-biyout-street",
@@ -21125,7 +21182,8 @@ window.KB = {
       "osm": "way/54201006",
       "kind": "residential",
       "lat": 24.341935,
-      "lon": 54.625878
+      "lon": 54.625878,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-al-fari-street",
@@ -21136,7 +21194,8 @@ window.KB = {
       "osm": "way/119287537",
       "kind": "residential",
       "lat": 24.395239,
-      "lon": 54.711488
+      "lon": 54.711488,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-al-fuhoud-street",
@@ -21147,7 +21206,8 @@ window.KB = {
       "osm": "way/474712088",
       "kind": "residential",
       "lat": 24.330991,
-      "lon": 54.576701
+      "lon": 54.576701,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-al-hasah-street",
@@ -21158,7 +21218,8 @@ window.KB = {
       "osm": "way/116691016",
       "kind": "residential",
       "lat": 24.291082,
-      "lon": 54.637241
+      "lon": 54.637241,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-al-hiyayrah-street",
@@ -21169,7 +21230,8 @@ window.KB = {
       "osm": "way/54200959",
       "kind": "residential",
       "lat": 24.350502,
-      "lon": 54.612261
+      "lon": 54.612261,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-al-hulwah-street",
@@ -21180,7 +21242,8 @@ window.KB = {
       "osm": "way/474920678",
       "kind": "residential",
       "lat": 24.303444,
-      "lon": 54.573568
+      "lon": 54.573568,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-al-yafrah-street",
@@ -21191,7 +21254,8 @@ window.KB = {
       "osm": "way/116691885",
       "kind": "residential",
       "lat": 24.344137,
-      "lon": 54.533322
+      "lon": 54.533322,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-ar-raddah-street",
@@ -21202,7 +21266,8 @@ window.KB = {
       "osm": "way/474712103",
       "kind": "residential",
       "lat": 24.330004,
-      "lon": 54.575705
+      "lon": 54.575705,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-as-sahal-street",
@@ -21213,7 +21278,8 @@ window.KB = {
       "osm": "way/473385221",
       "kind": "residential",
       "lat": 24.297664,
-      "lon": 54.566147
+      "lon": 54.566147,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-as-sayil-street",
@@ -21224,7 +21290,8 @@ window.KB = {
       "osm": "way/177637729",
       "kind": "residential",
       "lat": 24.27645,
-      "lon": 54.689797
+      "lon": 54.689797,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-at-tayar-street",
@@ -21235,7 +21302,8 @@ window.KB = {
       "osm": "way/85680630",
       "kind": "residential",
       "lat": 24.350307,
-      "lon": 54.54756
+      "lon": 54.54756,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-barashi-street",
@@ -21246,7 +21314,8 @@ window.KB = {
       "osm": "way/635446550",
       "kind": "residential",
       "lat": 24.301067,
-      "lon": 54.613912
+      "lon": 54.613912,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-bilhayah-street",
@@ -21257,7 +21326,8 @@ window.KB = {
       "osm": "way/1161282166",
       "kind": "residential",
       "lat": 24.397986,
-      "lon": 54.681323
+      "lon": 54.681323,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-bu-nkhaylah-street",
@@ -21268,7 +21338,8 @@ window.KB = {
       "osm": "way/161842265",
       "kind": "residential",
       "lat": 24.323031,
-      "lon": 54.532973
+      "lon": 54.532973,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-da-in-street",
@@ -21279,7 +21350,8 @@ window.KB = {
       "osm": "way/820507548",
       "kind": "residential",
       "lat": 24.376522,
-      "lon": 54.598185
+      "lon": 54.598185,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-dalwayn-street",
@@ -21290,7 +21362,8 @@ window.KB = {
       "osm": "way/116447966",
       "kind": "residential",
       "lat": 24.326597,
-      "lon": 54.626918
+      "lon": 54.626918,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-ghumaylah-street",
@@ -21301,7 +21374,8 @@ window.KB = {
       "osm": "way/820507540",
       "kind": "residential",
       "lat": 24.372355,
-      "lon": 54.600968
+      "lon": 54.600968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-khirayzah-street",
@@ -21312,7 +21386,8 @@ window.KB = {
       "osm": "way/974606764",
       "kind": "residential",
       "lat": 24.392106,
-      "lon": 54.676282
+      "lon": 54.676282,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-mghayran-street",
@@ -21323,7 +21398,8 @@ window.KB = {
       "osm": "way/115724073",
       "kind": "residential",
       "lat": 24.30047,
-      "lon": 54.637687
+      "lon": 54.637687,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-mouzah-street",
@@ -21334,7 +21410,8 @@ window.KB = {
       "osm": "way/974445539",
       "kind": "residential",
       "lat": 24.36392,
-      "lon": 54.60375
+      "lon": 54.60375,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-qinanees-street",
@@ -21345,7 +21422,8 @@ window.KB = {
       "osm": "way/177637756",
       "kind": "residential",
       "lat": 24.26318,
-      "lon": 54.697767
+      "lon": 54.697767,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-rimah-street",
@@ -21356,7 +21434,8 @@ window.KB = {
       "osm": "way/92007328",
       "kind": "residential",
       "lat": 24.331894,
-      "lon": 54.553979
+      "lon": 54.553979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-sannoutah-street",
@@ -21367,7 +21446,8 @@ window.KB = {
       "osm": "way/173039599",
       "kind": "residential",
       "lat": 24.37882,
-      "lon": 54.53423
+      "lon": 54.53423,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-shaheen-street",
@@ -21378,7 +21458,8 @@ window.KB = {
       "osm": "way/306671051",
       "kind": "residential",
       "lat": 24.320882,
-      "lon": 54.734898
+      "lon": 54.734898,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-slaymah-street",
@@ -21389,7 +21470,8 @@ window.KB = {
       "osm": "way/235148623",
       "kind": "residential",
       "lat": 24.368619,
-      "lon": 54.700551
+      "lon": 54.700551,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafat-srour-street",
@@ -21400,7 +21482,8 @@ window.KB = {
       "osm": "way/54200990",
       "kind": "residential",
       "lat": 24.349509,
-      "lon": 54.611712
+      "lon": 54.611712,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghafwah-street",
@@ -21411,7 +21494,8 @@ window.KB = {
       "osm": "way/91676466",
       "kind": "residential",
       "lat": 24.33668,
-      "lon": 54.55129
+      "lon": 54.55129,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-atash-street",
@@ -21422,7 +21506,8 @@ window.KB = {
       "osm": "way/173179290",
       "kind": "residential",
       "lat": 24.298724,
-      "lon": 54.55486
+      "lon": 54.55486,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-ad-dahabi-street",
@@ -21433,7 +21518,8 @@ window.KB = {
       "osm": "way/173226909",
       "kind": "residential",
       "lat": 24.32122,
-      "lon": 54.57426
+      "lon": 54.57426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-adh-dhabi-street",
@@ -21444,7 +21530,8 @@ window.KB = {
       "osm": "way/112455247",
       "kind": "residential",
       "lat": 24.385867,
-      "lon": 54.727638
+      "lon": 54.727638,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-al-haylah-street",
@@ -21455,7 +21542,8 @@ window.KB = {
       "osm": "way/173226680",
       "kind": "residential",
       "lat": 24.315315,
-      "lon": 54.54806
+      "lon": 54.54806,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-al-hireedah-street",
@@ -21466,7 +21554,8 @@ window.KB = {
       "osm": "way/116429220",
       "kind": "residential",
       "lat": 24.30472,
-      "lon": 54.636338
+      "lon": 54.636338,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-al-qirayib-street",
@@ -21477,7 +21566,8 @@ window.KB = {
       "osm": "way/161842462",
       "kind": "residential",
       "lat": 24.323216,
-      "lon": 54.537512
+      "lon": 54.537512,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-ar-ruwaydah-street",
@@ -21488,7 +21578,8 @@ window.KB = {
       "osm": "way/473385218",
       "kind": "residential",
       "lat": 24.297845,
-      "lon": 54.567484
+      "lon": 54.567484,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-bil-ayad-street",
@@ -21499,7 +21590,8 @@ window.KB = {
       "osm": "way/818881585",
       "kind": "residential",
       "lat": 24.36453,
-      "lon": 54.664091
+      "lon": 54.664091,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-bildhiba-a-street",
@@ -21510,7 +21602,8 @@ window.KB = {
       "osm": "way/974606745",
       "kind": "residential",
       "lat": 24.393357,
-      "lon": 54.672848
+      "lon": 54.672848,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-bin-hatroush-street",
@@ -21521,7 +21614,8 @@ window.KB = {
       "osm": "way/85680615",
       "kind": "residential",
       "lat": 24.360151,
-      "lon": 54.558191
+      "lon": 54.558191,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-bu-saybah-street",
@@ -21532,7 +21626,8 @@ window.KB = {
       "osm": "way/306808315",
       "kind": "residential",
       "lat": 24.309881,
-      "lon": 54.625653
+      "lon": 54.625653,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-bu-dhabi-street",
@@ -21543,7 +21638,8 @@ window.KB = {
       "osm": "way/820507608",
       "kind": "residential",
       "lat": 24.384207,
-      "lon": 54.607946
+      "lon": 54.607946,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-bu-mahharah-street",
@@ -21554,7 +21650,8 @@ window.KB = {
       "osm": "way/54202611",
       "kind": "residential",
       "lat": 24.379797,
-      "lon": 54.634664
+      "lon": 54.634664,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-bu-rayal-street",
@@ -21565,7 +21662,8 @@ window.KB = {
       "osm": "way/474712085",
       "kind": "residential",
       "lat": 24.335894,
-      "lon": 54.574599
+      "lon": 54.574599,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-difan-street",
@@ -21576,7 +21674,8 @@ window.KB = {
       "osm": "way/54201003",
       "kind": "residential",
       "lat": 24.341532,
-      "lon": 54.629029
+      "lon": 54.629029,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-ghazal-street",
@@ -21587,7 +21686,8 @@ window.KB = {
       "osm": "way/173179293",
       "kind": "tertiary",
       "lat": 24.299837,
-      "lon": 54.556676
+      "lon": 54.556676,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-ghiyadh-street",
@@ -21598,7 +21698,8 @@ window.KB = {
       "osm": "way/820507618",
       "kind": "residential",
       "lat": 24.369255,
-      "lon": 54.60232
+      "lon": 54.60232,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-midrakah-street",
@@ -21609,7 +21710,8 @@ window.KB = {
       "osm": "way/818601190",
       "kind": "residential",
       "lat": 24.30237,
-      "lon": 54.664203
+      "lon": 54.664203,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-nqayran-street",
@@ -21620,7 +21722,8 @@ window.KB = {
       "osm": "way/116691894",
       "kind": "residential",
       "lat": 24.344175,
-      "lon": 54.534205
+      "lon": 54.534205,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-riqay-ah-street",
@@ -21631,7 +21734,8 @@ window.KB = {
       "osm": "way/173184951",
       "kind": "residential",
       "lat": 24.325112,
-      "lon": 54.556513
+      "lon": 54.556513,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-shineen-street",
@@ -21642,7 +21746,8 @@ window.KB = {
       "osm": "way/818566868",
       "kind": "residential",
       "lat": 24.378332,
-      "lon": 54.672759
+      "lon": 54.672759,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-sinaybil-street",
@@ -21653,7 +21758,8 @@ window.KB = {
       "osm": "way/247044166",
       "kind": "residential",
       "lat": 24.33671,
-      "lon": 54.532338
+      "lon": 54.532338,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-um-al-bisr-street",
@@ -21664,7 +21770,8 @@ window.KB = {
       "osm": "way/306808307",
       "kind": "residential",
       "lat": 24.309325,
-      "lon": 54.623949
+      "lon": 54.623949,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-wasit-street",
@@ -21675,7 +21782,8 @@ window.KB = {
       "osm": "way/235121458",
       "kind": "tertiary",
       "lat": 24.364452,
-      "lon": 54.689276
+      "lon": 54.689276,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghait-yirayrah-street",
@@ -21686,7 +21794,8 @@ window.KB = {
       "osm": "way/116691056",
       "kind": "residential",
       "lat": 24.292029,
-      "lon": 54.637107
+      "lon": 54.637107,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaith-bin-mohanna-al-muhairi-street",
@@ -21697,7 +21806,8 @@ window.KB = {
       "osm": "way/177637721",
       "kind": "residential",
       "lat": 24.280209,
-      "lon": 54.695241
+      "lon": 54.695241,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-awyan-street",
@@ -21708,7 +21818,8 @@ window.KB = {
       "osm": "way/54200992",
       "kind": "residential",
       "lat": 24.34053,
-      "lon": 54.619125
+      "lon": 54.619125,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-ad-darb-street",
@@ -21719,7 +21830,8 @@ window.KB = {
       "osm": "way/818897048",
       "kind": "residential",
       "lat": 24.395358,
-      "lon": 54.656848
+      "lon": 54.656848,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-ad-darrah-street",
@@ -21730,7 +21842,8 @@ window.KB = {
       "osm": "way/627829936",
       "kind": "residential",
       "lat": 24.372209,
-      "lon": 54.607585
+      "lon": 54.607585,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-ad-diwayni-street",
@@ -21741,7 +21854,8 @@ window.KB = {
       "osm": "way/820507468",
       "kind": "residential",
       "lat": 24.363912,
-      "lon": 54.610207
+      "lon": 54.610207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-adh-dhiba-a-street",
@@ -21752,7 +21866,8 @@ window.KB = {
       "osm": "way/177640634",
       "kind": "residential",
       "lat": 24.261581,
-      "lon": 54.702315
+      "lon": 54.702315,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-asafeer-street",
@@ -21763,7 +21878,8 @@ window.KB = {
       "osm": "way/54201194",
       "kind": "residential",
       "lat": 24.370117,
-      "lon": 54.650397
+      "lon": 54.650397,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-imd-street",
@@ -21774,7 +21890,8 @@ window.KB = {
       "osm": "way/635057864",
       "kind": "residential",
       "lat": 24.286028,
-      "lon": 54.631968
+      "lon": 54.631968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-iwaynah-street",
@@ -21785,7 +21902,8 @@ window.KB = {
       "osm": "way/820507589",
       "kind": "residential",
       "lat": 24.382244,
-      "lon": 54.604695
+      "lon": 54.604695,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-izaybah-street",
@@ -21796,7 +21914,8 @@ window.KB = {
       "osm": "way/116691052",
       "kind": "residential",
       "lat": 24.293497,
-      "lon": 54.628665
+      "lon": 54.628665,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-bayt-street",
@@ -21807,7 +21926,8 @@ window.KB = {
       "osm": "way/173019881",
       "kind": "residential",
       "lat": 24.296902,
-      "lon": 54.556321
+      "lon": 54.556321,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-ghafah-street",
@@ -21818,7 +21938,8 @@ window.KB = {
       "osm": "way/744421000",
       "kind": "tertiary",
       "lat": 24.370888,
-      "lon": 54.561735
+      "lon": 54.561735,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-ghishbah-street",
@@ -21829,7 +21950,8 @@ window.KB = {
       "osm": "way/820507542",
       "kind": "residential",
       "lat": 24.374005,
-      "lon": 54.600379
+      "lon": 54.600379,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-hisoun-street",
@@ -21840,7 +21962,8 @@ window.KB = {
       "osm": "way/635446551",
       "kind": "residential",
       "lat": 24.300345,
-      "lon": 54.613636
+      "lon": 54.613636,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-jarih-street",
@@ -21851,7 +21974,8 @@ window.KB = {
       "osm": "way/1210149608",
       "kind": "residential",
       "lat": 24.267047,
-      "lon": 54.65602
+      "lon": 54.65602,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-koud-street",
@@ -21862,7 +21986,8 @@ window.KB = {
       "osm": "way/91675978",
       "kind": "residential",
       "lat": 24.344161,
-      "lon": 54.547236
+      "lon": 54.547236,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-laydi-street",
@@ -21873,7 +21998,8 @@ window.KB = {
       "osm": "way/172916969",
       "kind": "residential",
       "lat": 24.381879,
-      "lon": 54.541368
+      "lon": 54.541368,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-m-azzib-street",
@@ -21884,7 +22010,8 @@ window.KB = {
       "osm": "way/820507414",
       "kind": "residential",
       "lat": 24.395518,
-      "lon": 54.621597
+      "lon": 54.621597,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-masadarah-street",
@@ -21895,7 +22022,8 @@ window.KB = {
       "osm": "way/307022476",
       "kind": "residential",
       "lat": 24.286768,
-      "lon": 54.638022
+      "lon": 54.638022,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-qarah-street",
@@ -21906,7 +22034,8 @@ window.KB = {
       "osm": "way/983380788",
       "kind": "residential",
       "lat": 24.360914,
-      "lon": 54.627392
+      "lon": 54.627392,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-yafar-street",
@@ -21917,7 +22046,8 @@ window.KB = {
       "osm": "way/819199172",
       "kind": "residential",
       "lat": 24.3869,
-      "lon": 54.675845
+      "lon": 54.675845,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-yannour-street",
@@ -21928,7 +22058,8 @@ window.KB = {
       "osm": "way/635438609",
       "kind": "residential",
       "lat": 24.322472,
-      "lon": 54.583987
+      "lon": 54.583987,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-yimay-street",
@@ -21939,7 +22070,8 @@ window.KB = {
       "osm": "way/91676394",
       "kind": "residential",
       "lat": 24.337892,
-      "lon": 54.561182
+      "lon": 54.561182,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-al-yiraf-street",
@@ -21950,7 +22082,8 @@ window.KB = {
       "osm": "way/475109643",
       "kind": "residential",
       "lat": 24.310372,
-      "lon": 54.610022
+      "lon": 54.610022,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-an-nayd-street",
@@ -21961,7 +22094,8 @@ window.KB = {
       "osm": "way/115725432",
       "kind": "residential",
       "lat": 24.301057,
-      "lon": 54.644605
+      "lon": 54.644605,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-an-nishr-street",
@@ -21972,7 +22106,8 @@ window.KB = {
       "osm": "way/635057859",
       "kind": "residential",
       "lat": 24.288979,
-      "lon": 54.628139
+      "lon": 54.628139,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-ar-rafsah-street",
@@ -21983,7 +22118,8 @@ window.KB = {
       "osm": "way/818601201",
       "kind": "residential",
       "lat": 24.301479,
-      "lon": 54.658841
+      "lon": 54.658841,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-ar-rasal-street",
@@ -21994,7 +22130,8 @@ window.KB = {
       "osm": "way/635438636",
       "kind": "residential",
       "lat": 24.316057,
-      "lon": 54.588079
+      "lon": 54.588079,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-ar-rimab-street",
@@ -22005,7 +22142,8 @@ window.KB = {
       "osm": "way/1042977590",
       "kind": "residential",
       "lat": 24.302604,
-      "lon": 54.629519
+      "lon": 54.629519,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-as-safafeer-street",
@@ -22016,7 +22154,8 @@ window.KB = {
       "osm": "way/476618774",
       "kind": "residential",
       "lat": 24.325055,
-      "lon": 54.534218
+      "lon": 54.534218,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-as-siraymah-street",
@@ -22027,7 +22166,8 @@ window.KB = {
       "osm": "way/974606635",
       "kind": "residential",
       "lat": 24.403725,
-      "lon": 54.704268
+      "lon": 54.704268,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-as-suqul-street",
@@ -22038,7 +22178,8 @@ window.KB = {
       "osm": "way/116447953",
       "kind": "residential",
       "lat": 24.319059,
-      "lon": 54.633466
+      "lon": 54.633466,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-ash-shams-street",
@@ -22049,7 +22190,8 @@ window.KB = {
       "osm": "way/94058705",
       "kind": "residential",
       "lat": 24.376549,
-      "lon": 54.721417
+      "lon": 54.721417,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-at-taweel-street",
@@ -22060,7 +22202,8 @@ window.KB = {
       "osm": "way/54201180",
       "kind": "residential",
       "lat": 24.367613,
-      "lon": 54.629774
+      "lon": 54.629774,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-bal-asnan-street",
@@ -22071,7 +22214,8 @@ window.KB = {
       "osm": "way/820507509",
       "kind": "residential",
       "lat": 24.366467,
-      "lon": 54.597385
+      "lon": 54.597385,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-batlah-street",
@@ -22082,7 +22226,8 @@ window.KB = {
       "osm": "way/54200999",
       "kind": "residential",
       "lat": 24.342846,
-      "lon": 54.621099
+      "lon": 54.621099,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-bin-nawmah-street",
@@ -22093,7 +22238,8 @@ window.KB = {
       "osm": "way/120291265",
       "kind": "residential",
       "lat": 24.393576,
-      "lon": 54.692031
+      "lon": 54.692031,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-bin-shuwayq-street",
@@ -22104,7 +22250,8 @@ window.KB = {
       "osm": "way/1346119982",
       "kind": "residential",
       "lat": 24.269722,
-      "lon": 54.670835
+      "lon": 54.670835,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-diqayiq-street",
@@ -22115,7 +22262,8 @@ window.KB = {
       "osm": "way/974445541",
       "kind": "residential",
       "lat": 24.365512,
-      "lon": 54.601241
+      "lon": 54.601241,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-huwarah-street",
@@ -22126,7 +22274,8 @@ window.KB = {
       "osm": "way/306818473",
       "kind": "residential",
       "lat": 24.293068,
-      "lon": 54.636551
+      "lon": 54.636551,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-laghraf-street",
@@ -22137,7 +22286,8 @@ window.KB = {
       "osm": "way/112174470",
       "kind": "residential",
       "lat": 24.317164,
-      "lon": 54.645693
+      "lon": 54.645693,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-lathan-street",
@@ -22148,7 +22298,8 @@ window.KB = {
       "osm": "way/93177792",
       "kind": "residential",
       "lat": 24.397487,
-      "lon": 54.654048
+      "lon": 54.654048,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-miryal-street",
@@ -22159,7 +22310,8 @@ window.KB = {
       "osm": "way/116447613",
       "kind": "residential",
       "lat": 24.30691,
-      "lon": 54.614532
+      "lon": 54.614532,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-rikaybah-street",
@@ -22170,7 +22322,8 @@ window.KB = {
       "osm": "way/818594408",
       "kind": "residential",
       "lat": 24.307108,
-      "lon": 54.658417
+      "lon": 54.658417,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-salim-street",
@@ -22181,7 +22334,8 @@ window.KB = {
       "osm": "way/235121443",
       "kind": "residential",
       "lat": 24.356402,
-      "lon": 54.689898
+      "lon": 54.689898,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-um-imeem-street",
@@ -22192,7 +22346,8 @@ window.KB = {
       "osm": "way/173226742",
       "kind": "residential",
       "lat": 24.308872,
-      "lon": 54.556749
+      "lon": 54.556749,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleel-um-al-hatab-street",
@@ -22203,7 +22358,8 @@ window.KB = {
       "osm": "way/91676392",
       "kind": "residential",
       "lat": 24.336057,
-      "lon": 54.551308
+      "lon": 54.551308,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaleelah-street",
@@ -22214,7 +22370,8 @@ window.KB = {
       "osm": "way/473385212",
       "kind": "residential",
       "lat": 24.312848,
-      "lon": 54.536053
+      "lon": 54.536053,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghalilat-da-an-street",
@@ -22225,7 +22382,8 @@ window.KB = {
       "osm": "way/1126481206",
       "kind": "residential",
       "lat": 24.315085,
-      "lon": 54.656272
+      "lon": 54.656272,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghaneem-street",
@@ -22236,7 +22394,8 @@ window.KB = {
       "osm": "way/499491137",
       "kind": "residential",
       "lat": 24.338686,
-      "lon": 54.760814
+      "lon": 54.760814,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghanem-bin-hamila-al-mazrouei-street",
@@ -22247,7 +22406,8 @@ window.KB = {
       "osm": "way/115733342",
       "kind": "residential",
       "lat": 24.371914,
-      "lon": 54.663336
+      "lon": 54.663336,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghantout-street",
@@ -22258,7 +22418,8 @@ window.KB = {
       "osm": "way/476507441",
       "kind": "residential",
       "lat": 24.301327,
-      "lon": 54.631183
+      "lon": 54.631183,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghar-um-laylah-street",
@@ -22269,7 +22430,8 @@ window.KB = {
       "osm": "way/173180856",
       "kind": "residential",
       "lat": 24.31109,
-      "lon": 54.531312
+      "lon": 54.531312,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/gharabah-street",
@@ -22280,7 +22442,8 @@ window.KB = {
       "osm": "way/173660263",
       "kind": "residential",
       "lat": 24.296626,
-      "lon": 54.564997
+      "lon": 54.564997,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghayt-al-da-ayah-street",
@@ -22291,7 +22454,8 @@ window.KB = {
       "osm": "way/247003343",
       "kind": "residential",
       "lat": 24.270556,
-      "lon": 54.64373
+      "lon": 54.64373,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghayt-khanyar-street",
@@ -22302,7 +22466,8 @@ window.KB = {
       "osm": "way/54201197",
       "kind": "residential",
       "lat": 24.371556,
-      "lon": 54.646005
+      "lon": 54.646005,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghbaynah-street",
@@ -22313,7 +22478,8 @@ window.KB = {
       "osm": "way/246999015",
       "kind": "residential",
       "lat": 24.29101,
-      "lon": 54.650529
+      "lon": 54.650529,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/gheenat-al-adab-street",
@@ -22324,7 +22490,8 @@ window.KB = {
       "osm": "way/94058726",
       "kind": "residential",
       "lat": 24.380487,
-      "lon": 54.723214
+      "lon": 54.723214,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghibshah-street",
@@ -22335,7 +22502,8 @@ window.KB = {
       "osm": "way/851280276",
       "kind": "residential",
       "lat": 24.369497,
-      "lon": 54.634677
+      "lon": 54.634677,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghillan-al-ghazal-street",
@@ -22346,7 +22514,8 @@ window.KB = {
       "osm": "way/94055553",
       "kind": "residential",
       "lat": 24.380829,
-      "lon": 54.643104
+      "lon": 54.643104,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghiyathi-street",
@@ -22357,7 +22526,8 @@ window.KB = {
       "osm": "way/499491135",
       "kind": "residential",
       "lat": 24.34065,
-      "lon": 54.763454
+      "lon": 54.763454,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghiyout-tabour-street",
@@ -22368,7 +22538,8 @@ window.KB = {
       "osm": "way/119551944",
       "kind": "residential",
       "lat": 24.391207,
-      "lon": 54.699517
+      "lon": 54.699517,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghmaysah-street",
@@ -22379,7 +22550,8 @@ window.KB = {
       "osm": "way/173180860",
       "kind": "residential",
       "lat": 24.309785,
-      "lon": 54.540161
+      "lon": 54.540161,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ghnaymah-street",
@@ -22390,7 +22562,8 @@ window.KB = {
       "osm": "way/634310284",
       "kind": "residential",
       "lat": 24.364816,
-      "lon": 54.736356
+      "lon": 54.736356,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-umayr-street",
@@ -22401,7 +22574,8 @@ window.KB = {
       "osm": "way/821077777",
       "kind": "residential",
       "lat": 24.376573,
-      "lon": 54.612243
+      "lon": 54.612243,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-abi-al-yusr-street",
@@ -22412,7 +22586,8 @@ window.KB = {
       "osm": "way/819199170",
       "kind": "residential",
       "lat": 24.387695,
-      "lon": 54.673608
+      "lon": 54.673608,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-abi-thabit-street",
@@ -22423,7 +22598,8 @@ window.KB = {
       "osm": "way/246999849",
       "kind": "residential",
       "lat": 24.295644,
-      "lon": 54.656268
+      "lon": 54.656268,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-al-harith-street",
@@ -22434,7 +22610,8 @@ window.KB = {
       "osm": "way/116447597",
       "kind": "residential",
       "lat": 24.311309,
-      "lon": 54.609592
+      "lon": 54.609592,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-hamamah-street",
@@ -22445,7 +22622,8 @@ window.KB = {
       "osm": "way/306818504",
       "kind": "residential",
       "lat": 24.294923,
-      "lon": 54.630971
+      "lon": 54.630971,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-marwan-street",
@@ -22456,7 +22634,8 @@ window.KB = {
       "osm": "way/115733317",
       "kind": "residential",
       "lat": 24.370463,
-      "lon": 54.659815
+      "lon": 54.659815,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-siba-street",
@@ -22467,7 +22646,8 @@ window.KB = {
       "osm": "way/974606769",
       "kind": "residential",
       "lat": 24.390287,
-      "lon": 54.679756
+      "lon": 54.679756,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-usayd-street",
@@ -22478,7 +22658,8 @@ window.KB = {
       "osm": "way/975448353",
       "kind": "residential",
       "lat": 24.363051,
-      "lon": 54.53436
+      "lon": 54.53436,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeeb-bin-zayd-street",
@@ -22489,7 +22670,8 @@ window.KB = {
       "osm": "way/473392993",
       "kind": "residential",
       "lat": 24.327813,
-      "lon": 54.533622
+      "lon": 54.533622,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeebah-bint-kharijah-street",
@@ -22500,7 +22682,8 @@ window.KB = {
       "osm": "way/112174486",
       "kind": "residential",
       "lat": 24.317943,
-      "lon": 54.644533
+      "lon": 54.644533,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habeebah-bint-sahl-street",
@@ -22511,7 +22694,8 @@ window.KB = {
       "osm": "way/115721695",
       "kind": "residential",
       "lat": 24.306636,
-      "lon": 54.643054
+      "lon": 54.643054,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habis-bin-mudhi-al-mansouri-street",
@@ -22522,7 +22706,8 @@ window.KB = {
       "osm": "way/89639286",
       "kind": "secondary",
       "lat": 24.360364,
-      "lon": 54.527202
+      "lon": 54.527202,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/habl-al-mushrif-street",
@@ -22533,7 +22718,8 @@ window.KB = {
       "osm": "way/173226890",
       "kind": "residential",
       "lat": 24.321031,
-      "lon": 54.571921
+      "lon": 54.571921,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-al-daqal-street",
@@ -22544,7 +22730,8 @@ window.KB = {
       "osm": "way/499509440",
       "kind": "residential",
       "lat": 24.337545,
-      "lon": 54.756643
+      "lon": 54.756643,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-al-firaydah-street",
@@ -22555,7 +22742,8 @@ window.KB = {
       "osm": "way/974606631",
       "kind": "residential",
       "lat": 24.405861,
-      "lon": 54.704915
+      "lon": 54.704915,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-al-ghibaym-street",
@@ -22566,7 +22754,8 @@ window.KB = {
       "osm": "way/1119601597",
       "kind": "residential",
       "lat": 24.388455,
-      "lon": 54.650035
+      "lon": 54.650035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-al-mabradah-street",
@@ -22577,7 +22766,8 @@ window.KB = {
       "osm": "way/819199175",
       "kind": "residential",
       "lat": 24.384196,
-      "lon": 54.676683
+      "lon": 54.676683,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-al-muslal-street",
@@ -22588,7 +22778,8 @@ window.KB = {
       "osm": "way/115726578",
       "kind": "residential",
       "lat": 24.307617,
-      "lon": 54.649575
+      "lon": 54.649575,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-al-tayr-street",
@@ -22599,7 +22790,8 @@ window.KB = {
       "osm": "way/448037673",
       "kind": "residential",
       "lat": 24.356864,
-      "lon": 54.734904
+      "lon": 54.734904,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-al-wasab-street",
@@ -22610,7 +22802,8 @@ window.KB = {
       "osm": "way/475116872",
       "kind": "residential",
       "lat": 24.299436,
-      "lon": 54.625507
+      "lon": 54.625507,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-at-tayf-street",
@@ -22621,7 +22814,8 @@ window.KB = {
       "osm": "way/173017129",
       "kind": "residential",
       "lat": 24.361981,
-      "lon": 54.548628
+      "lon": 54.548628,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-shira-street",
@@ -22632,7 +22826,8 @@ window.KB = {
       "osm": "way/173394047",
       "kind": "residential",
       "lat": 24.313119,
-      "lon": 54.574644
+      "lon": 54.574644,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/had-tlay-street",
@@ -22643,7 +22838,8 @@ window.KB = {
       "osm": "way/116451471",
       "kind": "residential",
       "lat": 24.355547,
-      "lon": 54.652793
+      "lon": 54.652793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadabah-street",
@@ -22654,7 +22850,8 @@ window.KB = {
       "osm": "way/974463488",
       "kind": "residential",
       "lat": 24.355203,
-      "lon": 54.602255
+      "lon": 54.602255,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadadi-street",
@@ -22665,7 +22862,8 @@ window.KB = {
       "osm": "way/974606760",
       "kind": "residential",
       "lat": 24.391345,
-      "lon": 54.676215
+      "lon": 54.676215,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadbat-ad-diroub-street",
@@ -22676,7 +22874,8 @@ window.KB = {
       "osm": "way/54201017",
       "kind": "residential",
       "lat": 24.355886,
-      "lon": 54.619783
+      "lon": 54.619783,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadbat-al-fardah-street",
@@ -22687,7 +22886,8 @@ window.KB = {
       "osm": "way/475172050",
       "kind": "residential",
       "lat": 24.290169,
-      "lon": 54.638579
+      "lon": 54.638579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadbat-al-maydour-street",
@@ -22698,7 +22898,8 @@ window.KB = {
       "osm": "way/54200902",
       "kind": "residential",
       "lat": 24.349148,
-      "lon": 54.633869
+      "lon": 54.633869,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadbat-as-sammagh-street",
@@ -22709,7 +22910,8 @@ window.KB = {
       "osm": "way/820507561",
       "kind": "residential",
       "lat": 24.381834,
-      "lon": 54.594942
+      "lon": 54.594942,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadbat-shakhbout-street",
@@ -22720,7 +22922,8 @@ window.KB = {
       "osm": "way/54200980",
       "kind": "tertiary",
       "lat": 24.339308,
-      "lon": 54.628501
+      "lon": 54.628501,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadbat-yamrah-street",
@@ -22731,7 +22934,8 @@ window.KB = {
       "osm": "way/116447977",
       "kind": "residential",
       "lat": 24.322677,
-      "lon": 54.630871
+      "lon": 54.630871,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadr-street",
@@ -22742,7 +22946,8 @@ window.KB = {
       "osm": "way/778662620",
       "kind": "tertiary",
       "lat": 24.368982,
-      "lon": 54.524354
+      "lon": 54.524354,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hadrad-bin-abi-hadrad-street",
@@ -22753,7 +22958,8 @@ window.KB = {
       "osm": "way/475163051",
       "kind": "residential",
       "lat": 24.292333,
-      "lon": 54.649828
+      "lon": 54.649828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hafidh-ibrahim-street",
@@ -22764,7 +22970,8 @@ window.KB = {
       "osm": "way/54200895",
       "kind": "residential",
       "lat": 24.356921,
-      "lon": 54.622787
+      "lon": 54.622787,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hafsa-bint-omar-bin-al-khattab-street",
@@ -22775,7 +22982,8 @@ window.KB = {
       "osm": "way/820507585",
       "kind": "residential",
       "lat": 24.387815,
-      "lon": 54.603859
+      "lon": 54.603859,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hajjaj-bin-amr-street",
@@ -22786,7 +22994,8 @@ window.KB = {
       "osm": "way/115732763",
       "kind": "residential",
       "lat": 24.372093,
-      "lon": 54.666238
+      "lon": 54.666238,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hajjaj-bin-malik-street",
@@ -22797,7 +23006,8 @@ window.KB = {
       "osm": "way/91675494",
       "kind": "unclassified",
       "lat": 24.369623,
-      "lon": 54.536745
+      "lon": 54.536745,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hakeem-bin-hizam-street",
@@ -22808,7 +23018,8 @@ window.KB = {
       "osm": "way/247048145",
       "kind": "residential",
       "lat": 24.325593,
-      "lon": 54.532035
+      "lon": 54.532035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-al-bahrani-street",
@@ -22819,7 +23030,8 @@ window.KB = {
       "osm": "way/235148637",
       "kind": "residential",
       "lat": 24.372064,
-      "lon": 54.697798
+      "lon": 54.697798,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-al-maqta-street",
@@ -22830,7 +23042,8 @@ window.KB = {
       "osm": "way/105451667",
       "kind": "residential",
       "lat": 24.329331,
-      "lon": 54.632673
+      "lon": 54.632673,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-bu-niyaydah-street",
@@ -22841,7 +23054,8 @@ window.KB = {
       "osm": "way/819198274",
       "kind": "residential",
       "lat": 24.389607,
-      "lon": 54.667603
+      "lon": 54.667603,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-hideed-street",
@@ -22852,7 +23066,8 @@ window.KB = {
       "osm": "way/974606654",
       "kind": "residential",
       "lat": 24.404488,
-      "lon": 54.704131
+      "lon": 54.704131,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-jameelah-street",
@@ -22863,7 +23078,8 @@ window.KB = {
       "osm": "way/974445531",
       "kind": "unclassified",
       "lat": 24.369812,
-      "lon": 54.615526
+      "lon": 54.615526,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-mbarraz-street",
@@ -22874,7 +23090,8 @@ window.KB = {
       "osm": "way/119551922",
       "kind": "residential",
       "lat": 24.387597,
-      "lon": 54.697339
+      "lon": 54.697339,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-msammah-street",
@@ -22885,7 +23102,8 @@ window.KB = {
       "osm": "way/247001287",
       "kind": "residential",
       "lat": 24.316289,
-      "lon": 54.619215
+      "lon": 54.619215,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halat-saeed-street",
@@ -22896,7 +23114,8 @@ window.KB = {
       "osm": "way/111297873",
       "kind": "residential",
       "lat": 24.320923,
-      "lon": 54.63954
+      "lon": 54.63954,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/halwan-street",
@@ -22907,7 +23126,8 @@ window.KB = {
       "osm": "way/821077749",
       "kind": "residential",
       "lat": 24.371302,
-      "lon": 54.619985
+      "lon": 54.619985,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hamed-bin-dasmal-al-suwaidi-street",
@@ -22918,7 +23138,8 @@ window.KB = {
       "osm": "way/54201176",
       "kind": "residential",
       "lat": 24.372638,
-      "lon": 54.634001
+      "lon": 54.634001,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hamed-bin-musabeh-al-mashghouni-street",
@@ -22929,7 +23150,8 @@ window.KB = {
       "osm": "way/95490092",
       "kind": "residential",
       "lat": 24.407877,
-      "lon": 54.7301
+      "lon": 54.7301,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hamel-bin-khadim-al-qubaisi-street",
@@ -22940,7 +23162,8 @@ window.KB = {
       "osm": "way/122093807",
       "kind": "residential",
       "lat": 24.37794,
-      "lon": 54.718074
+      "lon": 54.718074,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hami-rouhah-street",
@@ -22951,7 +23174,8 @@ window.KB = {
       "osm": "way/235124828",
       "kind": "residential",
       "lat": 24.359497,
-      "lon": 54.711511
+      "lon": 54.711511,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hammad-bin-salamah-street",
@@ -22962,7 +23186,8 @@ window.KB = {
       "osm": "way/821077759",
       "kind": "residential",
       "lat": 24.383136,
-      "lon": 54.619002
+      "lon": 54.619002,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hamran-street",
@@ -22973,7 +23198,8 @@ window.KB = {
       "osm": "way/115720834",
       "kind": "tertiary",
       "lat": 24.308512,
-      "lon": 54.656534
+      "lon": 54.656534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/harbah-street",
@@ -22984,7 +23210,8 @@ window.KB = {
       "osm": "way/248465719",
       "kind": "residential",
       "lat": 24.35564,
-      "lon": 54.7446
+      "lon": 54.7446,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/harithah-bin-amr-street",
@@ -22995,7 +23222,8 @@ window.KB = {
       "osm": "way/474712089",
       "kind": "residential",
       "lat": 24.334212,
-      "lon": 54.577803
+      "lon": 54.577803,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/harithah-bin-sahl-street",
@@ -23006,7 +23234,8 @@ window.KB = {
       "osm": "way/306818516",
       "kind": "residential",
       "lat": 24.294575,
-      "lon": 54.634054
+      "lon": 54.634054,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/harithah-bin-sharaheel-street",
@@ -23017,7 +23246,8 @@ window.KB = {
       "osm": "way/173226684",
       "kind": "residential",
       "lat": 24.313647,
-      "lon": 54.544979
+      "lon": 54.544979,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/harithah-bin-suraqah-street",
@@ -23028,7 +23258,8 @@ window.KB = {
       "osm": "way/115724069",
       "kind": "residential",
       "lat": 24.304122,
-      "lon": 54.640079
+      "lon": 54.640079,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/harmalah-bin-amr-street",
@@ -23039,7 +23270,8 @@ window.KB = {
       "osm": "way/116681860",
       "kind": "residential",
       "lat": 24.356954,
-      "lon": 54.660869
+      "lon": 54.660869,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/harmalah-bin-al-waleed-street",
@@ -23050,7 +23282,8 @@ window.KB = {
       "osm": "way/475330915",
       "kind": "residential",
       "lat": 24.290441,
-      "lon": 54.643963
+      "lon": 54.643963,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hasaat-al-yimayli-street",
@@ -23061,7 +23294,8 @@ window.KB = {
       "osm": "way/983378614",
       "kind": "residential",
       "lat": 24.365387,
-      "lon": 54.634126
+      "lon": 54.634126,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hasaat-as-siweed-street",
@@ -23072,7 +23306,8 @@ window.KB = {
       "osm": "way/974606640",
       "kind": "residential",
       "lat": 24.402212,
-      "lon": 54.711793
+      "lon": 54.711793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hasan-bin-hamila-al-mazrouei-street",
@@ -23083,7 +23318,8 @@ window.KB = {
       "osm": "way/91675979",
       "kind": "residential",
       "lat": 24.342924,
-      "lon": 54.548344
+      "lon": 54.548344,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hasaya-bin-marshoud-street",
@@ -23094,7 +23330,8 @@ window.KB = {
       "osm": "way/230320466",
       "kind": "residential",
       "lat": 24.289597,
-      "lon": 54.655995
+      "lon": 54.655995,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hashim-bin-atabah-street",
@@ -23105,7 +23342,8 @@ window.KB = {
       "osm": "way/474712072",
       "kind": "residential",
       "lat": 24.345573,
-      "lon": 54.568862
+      "lon": 54.568862,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hassan-bin-an-nu-man-street",
@@ -23116,7 +23354,8 @@ window.KB = {
       "osm": "way/306992997",
       "kind": "residential",
       "lat": 24.323358,
-      "lon": 54.640379
+      "lon": 54.640379,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hassan-bin-jabir-street",
@@ -23127,7 +23366,8 @@ window.KB = {
       "osm": "way/635438729",
       "kind": "residential",
       "lat": 24.31581,
-      "lon": 54.584847
+      "lon": 54.584847,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hassan-bin-shaddad-street",
@@ -23138,7 +23378,8 @@ window.KB = {
       "osm": "way/247008841",
       "kind": "residential",
       "lat": 24.310755,
-      "lon": 54.652157
+      "lon": 54.652157,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hassan-bin-thabit-street",
@@ -23149,7 +23390,8 @@ window.KB = {
       "osm": "way/173394045",
       "kind": "residential",
       "lat": 24.312878,
-      "lon": 54.576545
+      "lon": 54.576545,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hatib-bin-abi-balta-ah-street",
@@ -23160,7 +23402,8 @@ window.KB = {
       "osm": "way/235121446",
       "kind": "residential",
       "lat": 24.356026,
-      "lon": 54.697878
+      "lon": 54.697878,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hatib-bin-al-harith-street",
@@ -23171,7 +23414,8 @@ window.KB = {
       "osm": "way/974606644",
       "kind": "residential",
       "lat": 24.402031,
-      "lon": 54.709066
+      "lon": 54.709066,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hatim-al-ta-i-street",
@@ -23182,7 +23426,8 @@ window.KB = {
       "osm": "way/306686117",
       "kind": "residential",
       "lat": 24.362518,
-      "lon": 54.767108
+      "lon": 54.767108,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hatta-street",
@@ -23193,7 +23438,8 @@ window.KB = {
       "osm": "way/974606739",
       "kind": "residential",
       "lat": 24.393766,
-      "lon": 54.680514
+      "lon": 54.680514,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hawiyat-faraysh-street",
@@ -23204,7 +23450,8 @@ window.KB = {
       "osm": "way/116451475",
       "kind": "residential",
       "lat": 24.354332,
-      "lon": 54.652822
+      "lon": 54.652822,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hawwa-a-bint-yazeed-street",
@@ -23215,7 +23462,8 @@ window.KB = {
       "osm": "way/235147608",
       "kind": "residential",
       "lat": 24.350156,
-      "lon": 54.704828
+      "lon": 54.704828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hay-ash-sharq-street",
@@ -23226,7 +23474,8 @@ window.KB = {
       "osm": "way/635059343",
       "kind": "residential",
       "lat": 24.275286,
-      "lon": 54.651555
+      "lon": 54.651555,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hayeerat-bin-thani-street",
@@ -23237,7 +23486,8 @@ window.KB = {
       "osm": "way/635438669",
       "kind": "residential",
       "lat": 24.310098,
-      "lon": 54.589099
+      "lon": 54.589099,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hayriyat-al-khusoub-street",
@@ -23248,7 +23498,8 @@ window.KB = {
       "osm": "way/1193528952",
       "kind": "residential",
       "lat": 24.271763,
-      "lon": 54.66501
+      "lon": 54.66501,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/haywah-bin-shurayh-street",
@@ -23259,7 +23510,8 @@ window.KB = {
       "osm": "way/115721073",
       "kind": "residential",
       "lat": 24.300849,
-      "lon": 54.651523
+      "lon": 54.651523,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hayy-juma-hayy-al-hameli-street",
@@ -23270,7 +23522,8 @@ window.KB = {
       "osm": "way/24297241",
       "kind": "tertiary",
       "lat": 24.40997,
-      "lon": 54.574265
+      "lon": 54.574265,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hayyani-street",
@@ -23281,7 +23534,8 @@ window.KB = {
       "osm": "way/306795013",
       "kind": "residential",
       "lat": 24.322822,
-      "lon": 54.752584
+      "lon": 54.752584,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/haz-al-aswad-street",
@@ -23292,7 +23546,8 @@ window.KB = {
       "osm": "way/173227070",
       "kind": "residential",
       "lat": 24.3186,
-      "lon": 54.565915
+      "lon": 54.565915,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/haz-al-maqam-street",
@@ -23303,7 +23558,8 @@ window.KB = {
       "osm": "way/112455251",
       "kind": "residential",
       "lat": 24.388182,
-      "lon": 54.736268
+      "lon": 54.736268,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/haz-bin-yalad-street",
@@ -23314,7 +23570,8 @@ window.KB = {
       "osm": "way/635446541",
       "kind": "residential",
       "lat": 24.294574,
-      "lon": 54.622949
+      "lon": 54.622949,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hazm-bin-abi-ka-b-street",
@@ -23325,7 +23582,8 @@ window.KB = {
       "osm": "way/974606647",
       "kind": "residential",
       "lat": 24.401146,
-      "lon": 54.706729
+      "lon": 54.706729,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hazza-bin-nasser-al-mansouri-street",
@@ -23336,7 +23594,8 @@ window.KB = {
       "osm": "way/105578712",
       "kind": "tertiary",
       "lat": 24.392448,
-      "lon": 54.725524
+      "lon": 54.725524,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hid-um-al-keezan-street",
@@ -23347,7 +23606,8 @@ window.KB = {
       "osm": "way/819198270",
       "kind": "residential",
       "lat": 24.388566,
-      "lon": 54.669315
+      "lon": 54.669315,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hidab-al-ghuweifat-street",
@@ -23358,7 +23618,8 @@ window.KB = {
       "osm": "way/94329184",
       "kind": "residential",
       "lat": 24.262654,
-      "lon": 54.662139
+      "lon": 54.662139,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hidbat-al-mi-tirid-street",
@@ -23369,7 +23630,8 @@ window.KB = {
       "osm": "way/91676374",
       "kind": "residential",
       "lat": 24.335636,
-      "lon": 54.562541
+      "lon": 54.562541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hidbat-bilaswad-street",
@@ -23380,7 +23642,8 @@ window.KB = {
       "osm": "way/1120991339",
       "kind": "residential",
       "lat": 24.371819,
-      "lon": 54.644604
+      "lon": 54.644604,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hilal-bin-saeed-al-falahi-street",
@@ -23391,7 +23654,8 @@ window.KB = {
       "osm": "way/90768108",
       "kind": "tertiary",
       "lat": 24.337753,
-      "lon": 54.568137
+      "lon": 54.568137,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hirash-bin-umayah-street",
@@ -23402,7 +23666,8 @@ window.KB = {
       "osm": "way/306818482",
       "kind": "residential",
       "lat": 24.31584,
-      "lon": 54.655379
+      "lon": 54.655379,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hiraybah-street",
@@ -23413,7 +23678,8 @@ window.KB = {
       "osm": "way/119287504",
       "kind": "residential",
       "lat": 24.397945,
-      "lon": 54.712889
+      "lon": 54.712889,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hisn-al-ankah-street",
@@ -23424,7 +23690,8 @@ window.KB = {
       "osm": "way/112455230",
       "kind": "residential",
       "lat": 24.385552,
-      "lon": 54.732595
+      "lon": 54.732595,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hisn-al-jahili-street",
@@ -23435,7 +23702,8 @@ window.KB = {
       "osm": "way/91675976",
       "kind": "residential",
       "lat": 24.344249,
-      "lon": 54.549392
+      "lon": 54.549392,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hisn-al-madam-street",
@@ -23446,7 +23714,8 @@ window.KB = {
       "osm": "way/116429213",
       "kind": "residential",
       "lat": 24.317604,
-      "lon": 54.617986
+      "lon": 54.617986,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hisn-ar-rabi-street",
@@ -23457,7 +23726,8 @@ window.KB = {
       "osm": "way/94329242",
       "kind": "residential",
       "lat": 24.275838,
-      "lon": 54.66068
+      "lon": 54.66068,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hisn-ash-shariqah-street",
@@ -23468,7 +23738,8 @@ window.KB = {
       "osm": "way/818886407",
       "kind": "residential",
       "lat": 24.379849,
-      "lon": 54.673459
+      "lon": 54.673459,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hisn-khor-kalba-street",
@@ -23479,7 +23750,8 @@ window.KB = {
       "osm": "way/119287514",
       "kind": "residential",
       "lat": 24.398172,
-      "lon": 54.714683
+      "lon": 54.714683,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hisn-naslah-street",
@@ -23490,7 +23762,8 @@ window.KB = {
       "osm": "way/1121243576",
       "kind": "residential",
       "lat": 24.354119,
-      "lon": 54.636951
+      "lon": 54.636951,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hiwal-as-seer-street",
@@ -23501,7 +23774,8 @@ window.KB = {
       "osm": "way/173175048",
       "kind": "residential",
       "lat": 24.317909,
-      "lon": 54.548485
+      "lon": 54.548485,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hor-al-hasat-street",
@@ -23512,7 +23786,8 @@ window.KB = {
       "osm": "way/1346119960",
       "kind": "residential",
       "lat": 24.271288,
-      "lon": 54.672582
+      "lon": 54.672582,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/howa-aya-street",
@@ -23523,7 +23798,8 @@ window.KB = {
       "osm": "way/1161286888",
       "kind": "residential",
       "lat": 24.40173,
-      "lon": 54.684693
+      "lon": 54.684693,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hubaysh-bin-khalid-street",
@@ -23534,7 +23810,8 @@ window.KB = {
       "osm": "way/116447847",
       "kind": "residential",
       "lat": 24.303073,
-      "lon": 54.621575
+      "lon": 54.621575,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hudhayfah-bin-al-yaman-street",
@@ -23545,7 +23822,8 @@ window.KB = {
       "osm": "way/116429219",
       "kind": "residential",
       "lat": 24.320502,
-      "lon": 54.624317
+      "lon": 54.624317,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hudhayfah-bin-aws-street",
@@ -23556,7 +23834,8 @@ window.KB = {
       "osm": "way/95490128",
       "kind": "residential",
       "lat": 24.406588,
-      "lon": 54.727207
+      "lon": 54.727207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/hudoud-ghireeb-street",
@@ -23567,7 +23846,8 @@ window.KB = {
       "osm": "way/635446547",
       "kind": "residential",
       "lat": 24.301971,
-      "lon": 54.615126
+      "lon": 54.615126,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/humaid-bin-abdullah-al-rumaithi-street",
@@ -23578,7 +23858,8 @@ window.KB = {
       "osm": "way/24297186",
       "kind": "tertiary",
       "lat": 24.406844,
-      "lon": 54.583926
+      "lon": 54.583926,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/humayd-bin-abdulrahman-street",
@@ -23589,7 +23870,8 @@ window.KB = {
       "osm": "way/819197990",
       "kind": "residential",
       "lat": 24.391419,
-      "lon": 54.669716
+      "lon": 54.669716,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/humran-bin-aban-street",
@@ -23600,7 +23882,8 @@ window.KB = {
       "osm": "way/115721307",
       "kind": "residential",
       "lat": 24.302854,
-      "lon": 54.648714
+      "lon": 54.648714,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/huwal-adh-dhabi-street",
@@ -23611,7 +23894,8 @@ window.KB = {
       "osm": "way/851280277",
       "kind": "residential",
       "lat": 24.368744,
-      "lon": 54.634351
+      "lon": 54.634351,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/huwayisah-bin-mas-oud-street",
@@ -23622,7 +23906,8 @@ window.KB = {
       "osm": "way/116428981",
       "kind": "residential",
       "lat": 24.316548,
-      "lon": 54.640567
+      "lon": 54.640567,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ibn-al-nafis-street",
@@ -23633,7 +23918,8 @@ window.KB = {
       "osm": "way/306795089",
       "kind": "residential",
       "lat": 24.321317,
-      "lon": 54.753792
+      "lon": 54.753792,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ibn-ar-roumi-street",
@@ -23644,7 +23930,8 @@ window.KB = {
       "osm": "way/173398725",
       "kind": "residential",
       "lat": 24.30726,
-      "lon": 54.583134
+      "lon": 54.583134,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ibn-battoutah-street",
@@ -23655,7 +23942,8 @@ window.KB = {
       "osm": "way/820507407",
       "kind": "residential",
       "lat": 24.39443,
-      "lon": 54.623369
+      "lon": 54.623369,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ibn-khaldoun-street",
@@ -23666,7 +23954,8 @@ window.KB = {
       "osm": "way/473381976",
       "kind": "residential",
       "lat": 24.320267,
-      "lon": 54.57043
+      "lon": 54.57043,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ibn-sina-street",
@@ -23677,7 +23966,8 @@ window.KB = {
       "osm": "way/974606730",
       "kind": "tertiary",
       "lat": 24.401799,
-      "lon": 54.6865
+      "lon": 54.6865,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ibrahim-at-taymi-street",
@@ -23688,7 +23978,8 @@ window.KB = {
       "osm": "way/115733315",
       "kind": "residential",
       "lat": 24.374209,
-      "lon": 54.659777
+      "lon": 54.659777,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/imru-al-qays-street",
@@ -23699,7 +23990,8 @@ window.KB = {
       "osm": "way/306686109",
       "kind": "residential",
       "lat": 24.359663,
-      "lon": 54.761383
+      "lon": 54.761383,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/is-haq-bin-talhah-street",
@@ -23710,7 +24002,8 @@ window.KB = {
       "osm": "way/119551938",
       "kind": "residential",
       "lat": 24.388863,
-      "lon": 54.700807
+      "lon": 54.700807,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/isfini-street",
@@ -23721,7 +24014,8 @@ window.KB = {
       "osm": "way/974606685",
       "kind": "residential",
       "lat": 24.402664,
-      "lon": 54.700461
+      "lon": 54.700461,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-abu-as-samasim-street",
@@ -23732,7 +24026,8 @@ window.KB = {
       "osm": "way/94058666",
       "kind": "residential",
       "lat": 24.407041,
-      "lon": 54.743192
+      "lon": 54.743192,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-abu-diba-street",
@@ -23743,7 +24038,8 @@ window.KB = {
       "osm": "way/173394366",
       "kind": "residential",
       "lat": 24.3223,
-      "lon": 54.576998
+      "lon": 54.576998,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ad-da-lah-street",
@@ -23754,7 +24050,8 @@ window.KB = {
       "osm": "way/819199178",
       "kind": "residential",
       "lat": 24.386314,
-      "lon": 54.672236
+      "lon": 54.672236,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ad-dahir-street",
@@ -23765,7 +24062,8 @@ window.KB = {
       "osm": "way/116447836",
       "kind": "residential",
       "lat": 24.303875,
-      "lon": 54.620628
+      "lon": 54.620628,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ad-deeri-street",
@@ -23776,7 +24074,8 @@ window.KB = {
       "osm": "way/473385223",
       "kind": "residential",
       "lat": 24.297041,
-      "lon": 54.554857
+      "lon": 54.554857,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ad-di-aynah-street",
@@ -23787,7 +24086,8 @@ window.KB = {
       "osm": "way/54202613",
       "kind": "residential",
       "lat": 24.376557,
-      "lon": 54.632633
+      "lon": 54.632633,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-areen-street",
@@ -23798,7 +24098,8 @@ window.KB = {
       "osm": "way/172917307",
       "kind": "residential",
       "lat": 24.377159,
-      "lon": 54.546176
+      "lon": 54.546176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-iqaybat-street",
@@ -23809,7 +24110,8 @@ window.KB = {
       "osm": "way/475192985",
       "kind": "residential",
       "lat": 24.285411,
-      "lon": 54.645687
+      "lon": 54.645687,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-itim-street",
@@ -23820,7 +24122,8 @@ window.KB = {
       "osm": "way/235121445",
       "kind": "residential",
       "lat": 24.358431,
-      "lon": 54.699024
+      "lon": 54.699024,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-anbar-street",
@@ -23831,7 +24134,8 @@ window.KB = {
       "osm": "way/173017090",
       "kind": "residential",
       "lat": 24.366154,
-      "lon": 54.554439
+      "lon": 54.554439,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-ashkal-street",
@@ -23842,7 +24146,8 @@ window.KB = {
       "osm": "way/115726604",
       "kind": "residential",
       "lat": 24.300143,
-      "lon": 54.659599
+      "lon": 54.659599,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-ashqar-street",
@@ -23853,7 +24158,8 @@ window.KB = {
       "osm": "way/173016210",
       "kind": "residential",
       "lat": 24.353547,
-      "lon": 54.543128
+      "lon": 54.543128,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-bahr-street",
@@ -23864,7 +24170,8 @@ window.KB = {
       "osm": "way/474920692",
       "kind": "residential",
       "lat": 24.300573,
-      "lon": 54.573286
+      "lon": 54.573286,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-bashiyah-street",
@@ -23875,7 +24182,8 @@ window.KB = {
       "osm": "way/818886410",
       "kind": "residential",
       "lat": 24.379639,
-      "lon": 54.675164
+      "lon": 54.675164,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-blaydah-street",
@@ -23886,7 +24194,8 @@ window.KB = {
       "osm": "way/121648439",
       "kind": "residential",
       "lat": 24.375775,
-      "lon": 54.707836
+      "lon": 54.707836,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-firayd-street",
@@ -23897,7 +24206,8 @@ window.KB = {
       "osm": "way/473406644",
       "kind": "residential",
       "lat": 24.291236,
-      "lon": 54.644701
+      "lon": 54.644701,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-ghameelah-street",
@@ -23908,7 +24218,8 @@ window.KB = {
       "osm": "way/974606649",
       "kind": "residential",
       "lat": 24.401478,
-      "lon": 54.704759
+      "lon": 54.704759,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-hakeemah-street",
@@ -23919,7 +24230,8 @@ window.KB = {
       "osm": "way/161842457",
       "kind": "residential",
       "lat": 24.323868,
-      "lon": 54.537942
+      "lon": 54.537942,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-haleefah-street",
@@ -23930,7 +24242,8 @@ window.KB = {
       "osm": "way/115724083",
       "kind": "residential",
       "lat": 24.298616,
-      "lon": 54.640678
+      "lon": 54.640678,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-jeer-street",
@@ -23941,7 +24254,8 @@ window.KB = {
       "osm": "way/90771042",
       "kind": "residential",
       "lat": 24.356788,
-      "lon": 54.555974
+      "lon": 54.555974,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-khishaym-street",
@@ -23952,7 +24266,8 @@ window.KB = {
       "osm": "way/821077772",
       "kind": "residential",
       "lat": 24.374896,
-      "lon": 54.620631
+      "lon": 54.620631,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-khteem-street",
@@ -23963,7 +24278,8 @@ window.KB = {
       "osm": "way/94055540",
       "kind": "residential",
       "lat": 24.386171,
-      "lon": 54.649951
+      "lon": 54.649951,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-kifayat-street",
@@ -23974,7 +24290,8 @@ window.KB = {
       "osm": "way/635438708",
       "kind": "residential",
       "lat": 24.306835,
-      "lon": 54.589973
+      "lon": 54.589973,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-kisouh-street",
@@ -23985,7 +24302,8 @@ window.KB = {
       "osm": "way/111295883",
       "kind": "residential",
       "lat": 24.279369,
-      "lon": 54.640978
+      "lon": 54.640978,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-kitab-street",
@@ -23996,7 +24314,8 @@ window.KB = {
       "osm": "way/161842273",
       "kind": "residential",
       "lat": 24.319013,
-      "lon": 54.533618
+      "lon": 54.533618,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-kiteebah-street",
@@ -24007,7 +24326,8 @@ window.KB = {
       "osm": "way/235148585",
       "kind": "residential",
       "lat": 24.367994,
-      "lon": 54.698211
+      "lon": 54.698211,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-lattan-street",
@@ -24018,7 +24338,8 @@ window.KB = {
       "osm": "way/1161282164",
       "kind": "residential",
       "lat": 24.399345,
-      "lon": 54.680257
+      "lon": 54.680257,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-mi-tirid-street",
@@ -24029,7 +24350,8 @@ window.KB = {
       "osm": "way/54200997",
       "kind": "residential",
       "lat": 24.344141,
-      "lon": 54.623823
+      "lon": 54.623823,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-midaykim-street",
@@ -24040,7 +24362,8 @@ window.KB = {
       "osm": "way/306818499",
       "kind": "residential",
       "lat": 24.302794,
-      "lon": 54.628554
+      "lon": 54.628554,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-miqasha-street",
@@ -24051,7 +24374,8 @@ window.KB = {
       "osm": "way/247008812",
       "kind": "residential",
       "lat": 24.309223,
-      "lon": 54.652551
+      "lon": 54.652551,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-mirba-a-street",
@@ -24062,7 +24386,8 @@ window.KB = {
       "osm": "way/745488872",
       "kind": "residential",
       "lat": 24.300545,
-      "lon": 54.565949
+      "lon": 54.565949,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-misheet-street",
@@ -24073,7 +24398,8 @@ window.KB = {
       "osm": "way/473393003",
       "kind": "residential",
       "lat": 24.358419,
-      "lon": 54.549644
+      "lon": 54.549644,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-mseed-street",
@@ -24084,7 +24410,8 @@ window.KB = {
       "osm": "way/635057865",
       "kind": "residential",
       "lat": 24.286453,
-      "lon": 54.632352
+      "lon": 54.632352,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-qadah-street",
@@ -24095,7 +24422,8 @@ window.KB = {
       "osm": "way/54201209",
       "kind": "residential",
       "lat": 24.360876,
-      "lon": 54.643498
+      "lon": 54.643498,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-qinan-street",
@@ -24106,7 +24434,8 @@ window.KB = {
       "osm": "way/473415611",
       "kind": "residential",
       "lat": 24.259027,
-      "lon": 54.708853
+      "lon": 54.708853,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-qisayd-street",
@@ -24117,7 +24446,8 @@ window.KB = {
       "osm": "way/116429210",
       "kind": "residential",
       "lat": 24.320465,
-      "lon": 54.618356
+      "lon": 54.618356,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-qoulah-street",
@@ -24128,7 +24458,8 @@ window.KB = {
       "osm": "way/93177783",
       "kind": "residential",
       "lat": 24.383438,
-      "lon": 54.653808
+      "lon": 54.653808,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-qumar-street",
@@ -24139,7 +24470,8 @@ window.KB = {
       "osm": "way/637540025",
       "kind": "residential",
       "lat": 24.331795,
-      "lon": 54.544181
+      "lon": 54.544181,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-wishayl-street",
@@ -24150,7 +24482,8 @@ window.KB = {
       "osm": "way/54200956",
       "kind": "residential",
       "lat": 24.351493,
-      "lon": 54.615015
+      "lon": 54.615015,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-witayid-street",
@@ -24161,7 +24494,8 @@ window.KB = {
       "osm": "way/122093816",
       "kind": "residential",
       "lat": 24.388623,
-      "lon": 54.710684
+      "lon": 54.710684,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-al-yirab-street",
@@ -24172,7 +24506,8 @@ window.KB = {
       "osm": "way/116428978",
       "kind": "residential",
       "lat": 24.314386,
-      "lon": 54.638491
+      "lon": 54.638491,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ar-rawt-street",
@@ -24183,7 +24518,8 @@ window.KB = {
       "osm": "way/247008824",
       "kind": "residential",
       "lat": 24.314287,
-      "lon": 54.648781
+      "lon": 54.648781,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ar-raybah-street",
@@ -24194,7 +24530,8 @@ window.KB = {
       "osm": "way/173181678",
       "kind": "residential",
       "lat": 24.307373,
-      "lon": 54.533695
+      "lon": 54.533695,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ar-riq-street",
@@ -24205,7 +24542,8 @@ window.KB = {
       "osm": "way/1161286884",
       "kind": "residential",
       "lat": 24.396651,
-      "lon": 54.68341
+      "lon": 54.68341,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-arhabah-street",
@@ -24216,7 +24554,8 @@ window.KB = {
       "osm": "way/974606637",
       "kind": "residential",
       "lat": 24.403958,
-      "lon": 54.711013
+      "lon": 54.711013,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-as-sabah-street",
@@ -24227,7 +24566,8 @@ window.KB = {
       "osm": "way/235121437",
       "kind": "residential",
       "lat": 24.356982,
-      "lon": 54.692769
+      "lon": 54.692769,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-as-salwa-street",
@@ -24238,7 +24578,8 @@ window.KB = {
       "osm": "way/474920683",
       "kind": "residential",
       "lat": 24.298615,
-      "lon": 54.570878
+      "lon": 54.570878,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-as-satif-street",
@@ -24249,7 +24590,8 @@ window.KB = {
       "osm": "way/856082258",
       "kind": "unclassified",
       "lat": 24.31752,
-      "lon": 54.612494
+      "lon": 54.612494,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-as-sibaytan-street",
@@ -24260,7 +24602,8 @@ window.KB = {
       "osm": "way/115732727",
       "kind": "residential",
       "lat": 24.36769,
-      "lon": 54.665671
+      "lon": 54.665671,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-as-sidayrah-street",
@@ -24271,7 +24614,8 @@ window.KB = {
       "osm": "way/635438633",
       "kind": "residential",
       "lat": 24.317106,
-      "lon": 54.587868
+      "lon": 54.587868,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-as-silaywah-street",
@@ -24282,7 +24626,8 @@ window.KB = {
       "osm": "way/92007335",
       "kind": "residential",
       "lat": 24.328306,
-      "lon": 54.55881
+      "lon": 54.55881,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-as-sutouh-street",
@@ -24293,7 +24638,8 @@ window.KB = {
       "osm": "way/246999002",
       "kind": "residential",
       "lat": 24.288287,
-      "lon": 54.641991
+      "lon": 54.641991,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ash-shawqah-street",
@@ -24304,7 +24650,8 @@ window.KB = {
       "osm": "way/637317270",
       "kind": "residential",
       "lat": 24.30565,
-      "lon": 54.621648
+      "lon": 54.621648,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-at-taffah-street",
@@ -24315,7 +24662,8 @@ window.KB = {
       "osm": "way/974445535",
       "kind": "residential",
       "lat": 24.370847,
-      "lon": 54.614174
+      "lon": 54.614174,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ath-theeb-street",
@@ -24326,7 +24674,8 @@ window.KB = {
       "osm": "way/115733349",
       "kind": "residential",
       "lat": 24.377895,
-      "lon": 54.663241
+      "lon": 54.663241,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-barakah-street",
@@ -24337,7 +24686,8 @@ window.KB = {
       "osm": "way/974445529",
       "kind": "residential",
       "lat": 24.369605,
-      "lon": 54.618477
+      "lon": 54.618477,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-bu-talib-street",
@@ -24348,7 +24698,8 @@ window.KB = {
       "osm": "way/474869485",
       "kind": "residential",
       "lat": 24.356773,
-      "lon": 54.625327
+      "lon": 54.625327,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-dhabbar-street",
@@ -24359,7 +24710,8 @@ window.KB = {
       "osm": "way/1210149615",
       "kind": "residential",
       "lat": 24.265286,
-      "lon": 54.659536
+      "lon": 54.659536,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-dhayb-street",
@@ -24370,7 +24722,8 @@ window.KB = {
       "osm": "way/627829941",
       "kind": "residential",
       "lat": 24.376608,
-      "lon": 54.607578
+      "lon": 54.607578,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-diqayiq-street",
@@ -24381,7 +24734,8 @@ window.KB = {
       "osm": "way/235124803",
       "kind": "residential",
       "lat": 24.363702,
-      "lon": 54.707701
+      "lon": 54.707701,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ghabbas-street",
@@ -24392,7 +24746,8 @@ window.KB = {
       "osm": "way/820507434",
       "kind": "unclassified",
       "lat": 24.386226,
-      "lon": 54.616742
+      "lon": 54.616742,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ghandous-street",
@@ -24403,7 +24758,8 @@ window.KB = {
       "osm": "way/820507530",
       "kind": "unclassified",
       "lat": 24.366121,
-      "lon": 54.593435
+      "lon": 54.593435,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-gharal-street",
@@ -24414,7 +24770,8 @@ window.KB = {
       "osm": "way/475192931",
       "kind": "residential",
       "lat": 24.275519,
-      "lon": 54.653145
+      "lon": 54.653145,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-gheena-street",
@@ -24425,7 +24782,8 @@ window.KB = {
       "osm": "way/475192987",
       "kind": "residential",
       "lat": 24.287936,
-      "lon": 54.636651
+      "lon": 54.636651,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-ghulous-street",
@@ -24436,7 +24794,8 @@ window.KB = {
       "osm": "way/821077731",
       "kind": "residential",
       "lat": 24.382174,
-      "lon": 54.630591
+      "lon": 54.630591,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-half-street",
@@ -24447,7 +24806,8 @@ window.KB = {
       "osm": "way/178947389",
       "kind": "residential",
       "lat": 24.273232,
-      "lon": 54.649924
+      "lon": 54.649924,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-hidayhid-street",
@@ -24458,7 +24818,8 @@ window.KB = {
       "osm": "way/1119386210",
       "kind": "residential",
       "lat": 24.392246,
-      "lon": 54.653452
+      "lon": 54.653452,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-hudayd-street",
@@ -24469,7 +24830,8 @@ window.KB = {
       "osm": "way/474882738",
       "kind": "residential",
       "lat": 24.355599,
-      "lon": 54.554497
+      "lon": 54.554497,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-lahah-street",
@@ -24480,7 +24842,8 @@ window.KB = {
       "osm": "way/820507528",
       "kind": "residential",
       "lat": 24.367733,
-      "lon": 54.592235
+      "lon": 54.592235,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-lahrayah-street",
@@ -24491,7 +24854,8 @@ window.KB = {
       "osm": "way/820507427",
       "kind": "residential",
       "lat": 24.39324,
-      "lon": 54.616828
+      "lon": 54.616828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-limraybi-street",
@@ -24502,7 +24866,8 @@ window.KB = {
       "osm": "way/635438715",
       "kind": "residential",
       "lat": 24.308896,
-      "lon": 54.590012
+      "lon": 54.590012,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-lishan-street",
@@ -24513,7 +24878,8 @@ window.KB = {
       "osm": "way/635446540",
       "kind": "residential",
       "lat": 24.296383,
-      "lon": 54.622378
+      "lon": 54.622378,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-malaqat-street",
@@ -24524,7 +24890,8 @@ window.KB = {
       "osm": "way/820507587",
       "kind": "residential",
       "lat": 24.386894,
-      "lon": 54.605776
+      "lon": 54.605776,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-mhayeer-street",
@@ -24535,7 +24902,8 @@ window.KB = {
       "osm": "way/306682870",
       "kind": "residential",
       "lat": 24.369384,
-      "lon": 54.746615
+      "lon": 54.746615,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-minab-street",
@@ -24546,7 +24914,8 @@ window.KB = {
       "osm": "way/94329230",
       "kind": "residential",
       "lat": 24.269357,
-      "lon": 54.669117
+      "lon": 54.669117,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-mindassah-street",
@@ -24557,7 +24926,8 @@ window.KB = {
       "osm": "way/54202616",
       "kind": "residential",
       "lat": 24.374521,
-      "lon": 54.637728
+      "lon": 54.637728,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-mouzouh-street",
@@ -24568,7 +24938,8 @@ window.KB = {
       "osm": "way/54201203",
       "kind": "residential",
       "lat": 24.366562,
-      "lon": 54.648743
+      "lon": 54.648743,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-msayree-street",
@@ -24579,7 +24950,8 @@ window.KB = {
       "osm": "way/178947428",
       "kind": "residential",
       "lat": 24.272953,
-      "lon": 54.654045
+      "lon": 54.654045,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-rahab-street",
@@ -24590,7 +24962,8 @@ window.KB = {
       "osm": "way/479141671",
       "kind": "residential",
       "lat": 24.283707,
-      "lon": 54.64102
+      "lon": 54.64102,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-rumah-street",
@@ -24601,7 +24974,8 @@ window.KB = {
       "osm": "way/820507531",
       "kind": "unclassified",
       "lat": 24.366913,
-      "lon": 54.596071
+      "lon": 54.596071,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-sadariyah-street",
@@ -24612,7 +24986,8 @@ window.KB = {
       "osm": "way/819198273",
       "kind": "residential",
       "lat": 24.390606,
-      "lon": 54.668077
+      "lon": 54.668077,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-safan-street",
@@ -24623,7 +24998,8 @@ window.KB = {
       "osm": "way/821077745",
       "kind": "residential",
       "lat": 24.379729,
-      "lon": 54.625277
+      "lon": 54.625277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-sawda-a-street",
@@ -24634,7 +25010,8 @@ window.KB = {
       "osm": "way/91676396",
       "kind": "residential",
       "lat": 24.338168,
-      "lon": 54.557772
+      "lon": 54.557772,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-sharyah-street",
@@ -24645,7 +25022,8 @@ window.KB = {
       "osm": "way/1161282165",
       "kind": "residential",
       "lat": 24.398475,
-      "lon": 54.680499
+      "lon": 54.680499,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-shi-aybi-street",
@@ -24656,7 +25034,8 @@ window.KB = {
       "osm": "way/94055574",
       "kind": "residential",
       "lat": 24.37867,
-      "lon": 54.64381
+      "lon": 54.64381,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-sir-street",
@@ -24667,7 +25046,8 @@ window.KB = {
       "osm": "way/1351812935",
       "kind": "residential",
       "lat": 24.279164,
-      "lon": 54.682889
+      "lon": 54.682889,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-thanees-street",
@@ -24678,7 +25058,8 @@ window.KB = {
       "osm": "way/635438706",
       "kind": "residential",
       "lat": 24.30676,
-      "lon": 54.591267
+      "lon": 54.591267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabal-wiheed-street",
@@ -24689,7 +25070,8 @@ window.KB = {
       "osm": "way/119287528",
       "kind": "residential",
       "lat": 24.396488,
-      "lon": 54.710394
+      "lon": 54.710394,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabalah-bin-sharaheel-street",
@@ -24700,7 +25082,8 @@ window.KB = {
       "osm": "way/92007330",
       "kind": "residential",
       "lat": 24.330149,
-      "lon": 54.565304
+      "lon": 54.565304,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabalah-bin-tha-labah-street",
@@ -24711,7 +25094,8 @@ window.KB = {
       "osm": "way/873156894",
       "kind": "residential",
       "lat": 24.364086,
-      "lon": 54.622978
+      "lon": 54.622978,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabed-bin-hayy-al-mansouri-street",
@@ -24722,7 +25106,8 @@ window.KB = {
       "osm": "way/235124831",
       "kind": "tertiary",
       "lat": 24.35384,
-      "lon": 54.704667
+      "lon": 54.704667,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jabir-bin-sheeban-street",
@@ -24733,7 +25118,8 @@ window.KB = {
       "osm": "way/54200903",
       "kind": "residential",
       "lat": 24.348705,
-      "lon": 54.632513
+      "lon": 54.632513,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jafrat-ar-rimth-street",
@@ -24744,7 +25130,8 @@ window.KB = {
       "osm": "way/173394037",
       "kind": "residential",
       "lat": 24.312751,
-      "lon": 54.575902
+      "lon": 54.575902,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jameelah-bint-thabit-street",
@@ -24755,7 +25142,8 @@ window.KB = {
       "osm": "way/974606763",
       "kind": "residential",
       "lat": 24.391967,
-      "lon": 54.676025
+      "lon": 54.676025,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jananah-street",
@@ -24766,7 +25154,8 @@ window.KB = {
       "osm": "way/483067208",
       "kind": "residential",
       "lat": 24.397238,
-      "lon": 54.496707
+      "lon": 54.496707,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jareer-bin-abdullah-street",
@@ -24777,7 +25166,8 @@ window.KB = {
       "osm": "way/54201010",
       "kind": "residential",
       "lat": 24.339744,
-      "lon": 54.625774
+      "lon": 54.625774,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jarn-al-jamal-street",
@@ -24788,7 +25178,8 @@ window.KB = {
       "osm": "way/91676366",
       "kind": "residential",
       "lat": 24.334579,
-      "lon": 54.551376
+      "lon": 54.551376,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jarn-um-al-hamd-street",
@@ -24799,7 +25190,8 @@ window.KB = {
       "osm": "way/91675981",
       "kind": "residential",
       "lat": 24.342561,
-      "lon": 54.542952
+      "lon": 54.542952,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jasir-street",
@@ -24810,7 +25202,8 @@ window.KB = {
       "osm": "way/115732750",
       "kind": "residential",
       "lat": 24.374722,
-      "lon": 54.669876
+      "lon": 54.669876,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-abu-mousa-street",
@@ -24821,7 +25214,8 @@ window.KB = {
       "osm": "way/473408454",
       "kind": "residential",
       "lat": 24.349392,
-      "lon": 54.741774
+      "lon": 54.741774,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-al-ak-ab-street",
@@ -24832,7 +25226,8 @@ window.KB = {
       "osm": "way/118783441",
       "kind": "residential",
       "lat": 24.395005,
-      "lon": 54.738465
+      "lon": 54.738465,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-al-aqqah-street",
@@ -24843,7 +25238,8 @@ window.KB = {
       "osm": "way/1210149612",
       "kind": "residential",
       "lat": 24.26602,
-      "lon": 54.659114
+      "lon": 54.659114,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-al-bidyah-street",
@@ -24854,7 +25250,8 @@ window.KB = {
       "osm": "way/473385229",
       "kind": "residential",
       "lat": 24.307095,
-      "lon": 54.556834
+      "lon": 54.556834,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-al-qurm-street",
@@ -24865,7 +25262,8 @@ window.KB = {
       "osm": "way/115724066",
       "kind": "residential",
       "lat": 24.299582,
-      "lon": 54.636318
+      "lon": 54.636318,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-as-safyah-street",
@@ -24876,7 +25274,8 @@ window.KB = {
       "osm": "way/115721696",
       "kind": "residential",
       "lat": 24.305093,
-      "lon": 54.641766
+      "lon": 54.641766,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-az-zawrah-street",
@@ -24887,7 +25286,8 @@ window.KB = {
       "osm": "way/246999019",
       "kind": "residential",
       "lat": 24.294261,
-      "lon": 54.647145
+      "lon": 54.647145,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-das-street",
@@ -24898,7 +25298,8 @@ window.KB = {
       "osm": "way/116691910",
       "kind": "residential",
       "lat": 24.339999,
-      "lon": 54.534038
+      "lon": 54.534038,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-milah-street",
@@ -24909,7 +25310,8 @@ window.KB = {
       "osm": "way/94055573",
       "kind": "residential",
       "lat": 24.387388,
-      "lon": 54.648255
+      "lon": 54.648255,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-nashaylah-street",
@@ -24920,7 +25322,8 @@ window.KB = {
       "osm": "way/161842452",
       "kind": "residential",
       "lat": 24.3161,
-      "lon": 54.532009
+      "lon": 54.532009,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-ramhan-street",
@@ -24931,7 +25334,8 @@ window.KB = {
       "osm": "way/93177747",
       "kind": "residential",
       "lat": 24.397452,
-      "lon": 54.652031
+      "lon": 54.652031,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-salahah-street",
@@ -24942,7 +25346,8 @@ window.KB = {
       "osm": "way/178947424",
       "kind": "residential",
       "lat": 24.273703,
-      "lon": 54.64864
+      "lon": 54.64864,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-shiray-ah-street",
@@ -24953,7 +25358,8 @@ window.KB = {
       "osm": "way/54200892",
       "kind": "residential",
       "lat": 24.36463,
-      "lon": 54.625067
+      "lon": 54.625067,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jazeerat-zarkoh-street",
@@ -24964,7 +25370,8 @@ window.KB = {
       "osm": "way/821077735",
       "kind": "residential",
       "lat": 24.382084,
-      "lon": 54.622873
+      "lon": 54.622873,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jees-street",
@@ -24975,7 +25382,8 @@ window.KB = {
       "osm": "way/173398900",
       "kind": "residential",
       "lat": 24.305025,
-      "lon": 54.582263
+      "lon": 54.582263,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jibal-ad-daybi-street",
@@ -24986,7 +25394,8 @@ window.KB = {
       "osm": "way/1346119961",
       "kind": "residential",
       "lat": 24.271369,
-      "lon": 54.670792
+      "lon": 54.670792,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jibal-al-hamrah-street",
@@ -24997,7 +25406,8 @@ window.KB = {
       "osm": "way/90771041",
       "kind": "residential",
       "lat": 24.35788,
-      "lon": 54.548131
+      "lon": 54.548131,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jibal-as-suhoub-street",
@@ -25008,7 +25418,8 @@ window.KB = {
       "osm": "way/116429231",
       "kind": "residential",
       "lat": 24.319928,
-      "lon": 54.627502
+      "lon": 54.627502,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jibal-shouma-street",
@@ -25019,7 +25430,8 @@ window.KB = {
       "osm": "way/819198269",
       "kind": "residential",
       "lat": 24.390068,
-      "lon": 54.669653
+      "lon": 54.669653,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jila-as-sagheerah-street",
@@ -25030,7 +25442,8 @@ window.KB = {
       "osm": "way/246998999",
       "kind": "residential",
       "lat": 24.284999,
-      "lon": 54.638981
+      "lon": 54.638981,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jilfar-street",
@@ -25041,7 +25454,8 @@ window.KB = {
       "osm": "way/173179292",
       "kind": "residential",
       "lat": 24.301289,
-      "lon": 54.560921
+      "lon": 54.560921,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jisaywrah-street",
@@ -25052,7 +25466,8 @@ window.KB = {
       "osm": "way/306682871",
       "kind": "residential",
       "lat": 24.353116,
-      "lon": 54.7579
+      "lon": 54.7579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jiz-at-mnahhaz-street",
@@ -25063,7 +25478,8 @@ window.KB = {
       "osm": "way/818882077",
       "kind": "residential",
       "lat": 24.367656,
-      "lon": 54.669369
+      "lon": 54.669369,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jubayr-bin-mut-im-street",
@@ -25074,7 +25490,8 @@ window.KB = {
       "osm": "way/54202622",
       "kind": "residential",
       "lat": 24.373907,
-      "lon": 54.629666
+      "lon": 54.629666,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jumada-al-akhirah-street",
@@ -25085,7 +25502,8 @@ window.KB = {
       "osm": "way/474930684",
       "kind": "residential",
       "lat": 24.319759,
-      "lon": 54.536618
+      "lon": 54.536618,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jumanah-bint-abi-taleb-street",
@@ -25096,7 +25514,8 @@ window.KB = {
       "osm": "way/94055557",
       "kind": "residential",
       "lat": 24.38468,
-      "lon": 54.642087
+      "lon": 54.642087,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/jundub-bin-abdullah-street",
@@ -25107,7 +25526,8 @@ window.KB = {
       "osm": "way/974606629",
       "kind": "residential",
       "lat": 24.405816,
-      "lon": 54.703985
+      "lon": 54.703985,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/juwayriyah-bint-al-harith-street",
@@ -25118,7 +25538,8 @@ window.KB = {
       "osm": "way/91675999",
       "kind": "residential",
       "lat": 24.343159,
-      "lon": 54.564349
+      "lon": 54.564349,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/k-haylan-street",
@@ -25129,7 +25550,8 @@ window.KB = {
       "osm": "way/116428974",
       "kind": "residential",
       "lat": 24.315963,
-      "lon": 54.636453
+      "lon": 54.636453,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khab-al-fuwad-street",
@@ -25140,7 +25562,8 @@ window.KB = {
       "osm": "way/246157222",
       "kind": "tertiary",
       "lat": 24.347548,
-      "lon": 54.763512
+      "lon": 54.763512,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khab-al-hitham-street",
@@ -25151,7 +25574,8 @@ window.KB = {
       "osm": "way/116447600",
       "kind": "residential",
       "lat": 24.312731,
-      "lon": 54.60798
+      "lon": 54.60798,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khab-bu-sumrah-street",
@@ -25162,7 +25586,8 @@ window.KB = {
       "osm": "way/635438643",
       "kind": "residential",
       "lat": 24.31544,
-      "lon": 54.588397
+      "lon": 54.588397,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khabbat-balheem-street",
@@ -25173,7 +25598,8 @@ window.KB = {
       "osm": "way/235124830",
       "kind": "residential",
       "lat": 24.36112,
-      "lon": 54.703755
+      "lon": 54.703755,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khabbat-hammad-street",
@@ -25184,7 +25610,8 @@ window.KB = {
       "osm": "way/161842259",
       "kind": "residential",
       "lat": 24.323962,
-      "lon": 54.531613
+      "lon": 54.531613,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khadeerman-street",
@@ -25195,7 +25622,8 @@ window.KB = {
       "osm": "way/116451490",
       "kind": "residential",
       "lat": 24.352645,
-      "lon": 54.650178
+      "lon": 54.650178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalad-bin-suwayd-street",
@@ -25206,7 +25634,8 @@ window.KB = {
       "osm": "way/122093848",
       "kind": "residential",
       "lat": 24.385776,
-      "lon": 54.717294
+      "lon": 54.717294,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalaf-bin-abdullah-al-otaiba-street",
@@ -25217,7 +25646,8 @@ window.KB = {
       "osm": "way/54201213",
       "kind": "tertiary",
       "lat": 24.358974,
-      "lon": 54.637504
+      "lon": 54.637504,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalfan-bin-ramadan-al-mansouri-street",
@@ -25228,7 +25658,8 @@ window.KB = {
       "osm": "way/94058665",
       "kind": "tertiary",
       "lat": 24.374896,
-      "lon": 54.715727
+      "lon": 54.715727,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalid-bin-abi-jabal-street",
@@ -25239,7 +25670,8 @@ window.KB = {
       "osm": "way/116451489",
       "kind": "residential",
       "lat": 24.362235,
-      "lon": 54.656793
+      "lon": 54.656793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalid-bin-hizam-street",
@@ -25250,7 +25682,8 @@ window.KB = {
       "osm": "way/820507604",
       "kind": "residential",
       "lat": 24.380966,
-      "lon": 54.607085
+      "lon": 54.607085,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalid-bin-nafi-street",
@@ -25261,7 +25694,8 @@ window.KB = {
       "osm": "way/235124811",
       "kind": "residential",
       "lat": 24.360786,
-      "lon": 54.70532
+      "lon": 54.70532,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalid-bin-thabit-street",
@@ -25272,7 +25706,8 @@ window.KB = {
       "osm": "way/173019885",
       "kind": "residential",
       "lat": 24.296165,
-      "lon": 54.563636
+      "lon": 54.563636,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalifa-bilqouba-al-humairi-street",
@@ -25283,7 +25718,8 @@ window.KB = {
       "osm": "way/93177756",
       "kind": "tertiary",
       "lat": 24.394698,
-      "lon": 54.64898
+      "lon": 54.64898,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalifa-bin-khamis-al-dehaili-street",
@@ -25294,7 +25730,8 @@ window.KB = {
       "osm": "way/91676402",
       "kind": "tertiary",
       "lat": 24.336856,
-      "lon": 54.557801
+      "lon": 54.557801,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalifa-bin-khamis-al-suwaidi-street",
@@ -25305,7 +25742,8 @@ window.KB = {
       "osm": "way/24307288",
       "kind": "residential",
       "lat": 24.408883,
-      "lon": 54.434914
+      "lon": 54.434914,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khalifa-bin-yousef-al-khemairi-street",
@@ -25316,7 +25754,8 @@ window.KB = {
       "osm": "way/111297867",
       "kind": "residential",
       "lat": 24.325385,
-      "lon": 54.63018
+      "lon": 54.63018,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/kham-maqta-street",
@@ -25327,7 +25766,8 @@ window.KB = {
       "osm": "way/122093841",
       "kind": "residential",
       "lat": 24.387666,
-      "lon": 54.716287
+      "lon": 54.716287,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khamis-bin-ali-al-mazrouei-street",
@@ -25338,7 +25778,8 @@ window.KB = {
       "osm": "way/173180022",
       "kind": "residential",
       "lat": 24.310087,
-      "lon": 54.535733
+      "lon": 54.535733,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khamis-bin-mohammed-al-mazrouei-street",
@@ -25349,7 +25790,8 @@ window.KB = {
       "osm": "way/111297893",
       "kind": "residential",
       "lat": 24.321983,
-      "lon": 54.636565
+      "lon": 54.636565,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khareejat-al-hilew-street",
@@ -25360,7 +25802,8 @@ window.KB = {
       "osm": "way/119551932",
       "kind": "residential",
       "lat": 24.3954,
-      "lon": 54.699796
+      "lon": 54.699796,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khareejat-bu-salaf-street",
@@ -25371,7 +25814,8 @@ window.KB = {
       "osm": "way/173226744",
       "kind": "residential",
       "lat": 24.3106,
-      "lon": 54.554277
+      "lon": 54.554277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khareejat-qarnayn-street",
@@ -25382,7 +25826,8 @@ window.KB = {
       "osm": "way/115733312",
       "kind": "residential",
       "lat": 24.378003,
-      "lon": 54.662526
+      "lon": 54.662526,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khareemat-al-aslab-street",
@@ -25393,7 +25838,8 @@ window.KB = {
       "osm": "way/116691028",
       "kind": "residential",
       "lat": 24.291871,
-      "lon": 54.636164
+      "lon": 54.636164,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khareemat-al-harith-street",
@@ -25404,7 +25850,8 @@ window.KB = {
       "osm": "way/695682572",
       "kind": "residential",
       "lat": 24.26452,
-      "lon": 54.702258
+      "lon": 54.702258,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khasbat-ar-reem-street",
@@ -25415,7 +25862,8 @@ window.KB = {
       "osm": "way/1110705964",
       "kind": "tertiary",
       "lat": 24.305208,
-      "lon": 54.700743
+      "lon": 54.700743,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khawlah-bint-malik-street",
@@ -25426,7 +25874,8 @@ window.KB = {
       "osm": "way/247044152",
       "kind": "residential",
       "lat": 24.329878,
-      "lon": 54.537692
+      "lon": 54.537692,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khibay-ar-raddah-street",
@@ -25437,7 +25886,8 @@ window.KB = {
       "osm": "way/974463483",
       "kind": "residential",
       "lat": 24.353057,
-      "lon": 54.598143
+      "lon": 54.598143,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khibay-as-samr-street",
@@ -25448,7 +25898,8 @@ window.KB = {
       "osm": "way/637317273",
       "kind": "residential",
       "lat": 24.307999,
-      "lon": 54.623539
+      "lon": 54.623539,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khibay-maktoum-street",
@@ -25459,7 +25910,8 @@ window.KB = {
       "osm": "way/1351812938",
       "kind": "residential",
       "lat": 24.279736,
-      "lon": 54.681006
+      "lon": 54.681006,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khibbat-al-matarih-street",
@@ -25470,7 +25922,8 @@ window.KB = {
       "osm": "way/635057875",
       "kind": "residential",
       "lat": 24.288038,
-      "lon": 54.633813
+      "lon": 54.633813,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khidayrah-street",
@@ -25481,7 +25934,8 @@ window.KB = {
       "osm": "way/247008816",
       "kind": "residential",
       "lat": 24.311735,
-      "lon": 54.654644
+      "lon": 54.654644,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khisayfah-street",
@@ -25492,7 +25946,8 @@ window.KB = {
       "osm": "way/473406648",
       "kind": "residential",
       "lat": 24.313296,
-      "lon": 54.648522
+      "lon": 54.648522,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-asarid-street",
@@ -25503,7 +25958,8 @@ window.KB = {
       "osm": "way/235147567",
       "kind": "residential",
       "lat": 24.348382,
-      "lon": 54.697505
+      "lon": 54.697505,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-ajman-street",
@@ -25514,7 +25970,8 @@ window.KB = {
       "osm": "way/115725428",
       "kind": "residential",
       "lat": 24.297787,
-      "lon": 54.641021
+      "lon": 54.641021,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-al-bazam-street",
@@ -25525,7 +25982,8 @@ window.KB = {
       "osm": "way/217890353",
       "kind": "tertiary",
       "lat": 24.327703,
-      "lon": 54.694253
+      "lon": 54.694253,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-al-hamriyah-street",
@@ -25536,7 +25994,8 @@ window.KB = {
       "osm": "way/118783467",
       "kind": "residential",
       "lat": 24.398863,
-      "lon": 54.720177
+      "lon": 54.720177,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-al-khiwayr-street",
@@ -25547,7 +26006,8 @@ window.KB = {
       "osm": "way/116691017",
       "kind": "residential",
       "lat": 24.292631,
-      "lon": 54.630056
+      "lon": 54.630056,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-al-manaheel-street",
@@ -25558,7 +26018,8 @@ window.KB = {
       "osm": "way/820507549",
       "kind": "residential",
       "lat": 24.375214,
-      "lon": 54.597611
+      "lon": 54.597611,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-al-marshadiyah-street",
@@ -25569,7 +26030,8 @@ window.KB = {
       "osm": "way/115724074",
       "kind": "residential",
       "lat": 24.299774,
-      "lon": 54.638445
+      "lon": 54.638445,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-al-mnayaf-street",
@@ -25580,7 +26042,8 @@ window.KB = {
       "osm": "way/116690217",
       "kind": "residential",
       "lat": 24.349257,
-      "lon": 54.655865
+      "lon": 54.655865,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-al-wasami-street",
@@ -25591,7 +26054,8 @@ window.KB = {
       "osm": "way/247044173",
       "kind": "residential",
       "lat": 24.332443,
-      "lon": 54.536277
+      "lon": 54.536277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-az-zawra-street",
@@ -25602,7 +26066,8 @@ window.KB = {
       "osm": "way/116429235",
       "kind": "residential",
       "lat": 24.303677,
-      "lon": 54.634441
+      "lon": 54.634441,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-bin-hifaydh-street",
@@ -25613,7 +26078,8 @@ window.KB = {
       "osm": "way/821077775",
       "kind": "residential",
       "lat": 24.374962,
-      "lon": 54.614702
+      "lon": 54.614702,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-bin-surour-street",
@@ -25624,7 +26090,8 @@ window.KB = {
       "osm": "way/474712090",
       "kind": "residential",
       "lat": 24.333346,
-      "lon": 54.578125
+      "lon": 54.578125,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-dubai-street",
@@ -25635,7 +26102,8 @@ window.KB = {
       "osm": "way/974606655",
       "kind": "residential",
       "lat": 24.403209,
-      "lon": 54.708598
+      "lon": 54.708598,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-jabr-street",
@@ -25646,7 +26114,8 @@ window.KB = {
       "osm": "way/54200901",
       "kind": "residential",
       "lat": 24.350041,
-      "lon": 54.634634
+      "lon": 54.634634,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-kalba-street",
@@ -25657,7 +26126,8 @@ window.KB = {
       "osm": "way/818597392",
       "kind": "residential",
       "lat": 24.307042,
-      "lon": 54.660384
+      "lon": 54.660384,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-khalifa-street",
@@ -25668,7 +26138,8 @@ window.KB = {
       "osm": "way/1351812882",
       "kind": "residential",
       "lat": 24.276214,
-      "lon": 54.680744
+      "lon": 54.680744,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-madfi-street",
@@ -25679,7 +26150,8 @@ window.KB = {
       "osm": "way/54201207",
       "kind": "residential",
       "lat": 24.362417,
-      "lon": 54.645794
+      "lon": 54.645794,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-qantour-street",
@@ -25690,7 +26162,8 @@ window.KB = {
       "osm": "way/115726591",
       "kind": "residential",
       "lat": 24.298865,
-      "lon": 54.6585
+      "lon": 54.6585,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-umm-al-quwain-street",
@@ -25701,7 +26174,8 @@ window.KB = {
       "osm": "way/635438705",
       "kind": "residential",
       "lat": 24.3076,
-      "lon": 54.590708
+      "lon": 54.590708,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khor-yifrah-street",
@@ -25712,7 +26186,8 @@ window.KB = {
       "osm": "way/94058655",
       "kind": "residential",
       "lat": 24.379175,
-      "lon": 54.722116
+      "lon": 54.722116,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/khourat-al-heel-street",
@@ -25723,7 +26198,8 @@ window.KB = {
       "osm": "way/298218409",
       "kind": "residential",
       "lat": 24.376296,
-      "lon": 54.531252
+      "lon": 54.531252,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/kunna-bint-saeed-al-humairi-street",
@@ -25734,7 +26210,8 @@ window.KB = {
       "osm": "way/975044217",
       "kind": "tertiary",
       "lat": 24.407073,
-      "lon": 54.56394
+      "lon": 54.56394,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/lakhweerah-street",
@@ -25745,106 +26222,20 @@ window.KB = {
       "osm": "way/974606620",
       "kind": "residential",
       "lat": 24.405271,
-      "lon": 54.70946
+      "lon": 54.70946,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/lane-2301",
+      "id": "abu-dhabi-city/lane",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2301",
-      "name_ar": "ممر 2301",
-      "osm": "way/1147633827",
-      "kind": "residential",
-      "lat": 24.366231,
-      "lon": 54.724905
-    },
-    {
-      "id": "abu-dhabi-city/lane-2303",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2303",
-      "name_ar": "ممر 2303",
-      "osm": "way/1147633824",
-      "kind": "residential",
-      "lat": 24.357038,
-      "lon": 54.721188
-    },
-    {
-      "id": "abu-dhabi-city/lane-2304",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2304",
-      "name_ar": "ممر 2304",
-      "osm": "way/448037685",
-      "kind": "residential",
-      "lat": 24.359397,
-      "lon": 54.723101
-    },
-    {
-      "id": "abu-dhabi-city/lane-2306",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2306",
-      "name_ar": "ممر 2306",
-      "osm": "way/448037684",
-      "kind": "residential",
-      "lat": 24.361741,
-      "lon": 54.725038
-    },
-    {
-      "id": "abu-dhabi-city/lane-2308",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2308",
-      "name_ar": "ممر 2308",
-      "osm": "way/448037683",
-      "kind": "residential",
-      "lat": 24.364057,
-      "lon": 54.726952
-    },
-    {
-      "id": "abu-dhabi-city/lane-2310",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2310",
-      "name_ar": "ممر 2310",
-      "osm": "way/448037682",
-      "kind": "residential",
-      "lat": 24.366369,
-      "lon": 54.728862
-    },
-    {
-      "id": "abu-dhabi-city/lane-2312",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2312",
-      "name_ar": "ممر 2312",
+      "name_en": "Lane",
+      "name_ar": "ممر",
       "osm": "way/448037680",
       "kind": "residential",
       "lat": 24.368682,
-      "lon": 54.730773
-    },
-    {
-      "id": "abu-dhabi-city/lane-2314",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2314",
-      "name_ar": "ممر 2314",
-      "osm": "way/1147633828",
-      "kind": "residential",
-      "lat": 24.370981,
-      "lon": 54.732715
-    },
-    {
-      "id": "abu-dhabi-city/lane-2316",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Lane 2316",
-      "name_ar": "ممر 2316",
-      "osm": "way/1147633825",
-      "kind": "residential",
-      "lat": 24.372877,
-      "lon": 54.734043
+      "lon": 54.730773,
+      "variants": 9
     },
     {
       "id": "abu-dhabi-city/lidamah-street",
@@ -25855,7 +26246,8 @@ window.KB = {
       "osm": "way/94055581",
       "kind": "residential",
       "lat": 24.381333,
-      "lon": 54.646783
+      "lon": 54.646783,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/lighzay-street",
@@ -25866,7 +26258,8 @@ window.KB = {
       "osm": "way/474893836",
       "kind": "residential",
       "lat": 24.36381,
-      "lon": 54.638141
+      "lon": 54.638141,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/lijeej-street",
@@ -25877,7 +26270,8 @@ window.KB = {
       "osm": "way/306682834",
       "kind": "residential",
       "lat": 24.361503,
-      "lon": 54.752389
+      "lon": 54.752389,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/liteer-street",
@@ -25888,7 +26282,8 @@ window.KB = {
       "osm": "way/235147545",
       "kind": "residential",
       "lat": 24.348348,
-      "lon": 54.699995
+      "lon": 54.699995,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/liwa-street",
@@ -25899,7 +26294,8 @@ window.KB = {
       "osm": "way/974606650",
       "kind": "residential",
       "lat": 24.40593,
-      "lon": 54.714267
+      "lon": 54.714267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/liytaq-street",
@@ -25910,7 +26306,8 @@ window.KB = {
       "osm": "way/247044156",
       "kind": "residential",
       "lat": 24.327962,
-      "lon": 54.537323
+      "lon": 54.537323,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/m-aysim-street",
@@ -25921,7 +26318,8 @@ window.KB = {
       "osm": "way/54201002",
       "kind": "residential",
       "lat": 24.337227,
-      "lon": 54.623741
+      "lon": 54.623741,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/madarat-bin-marshoud-street",
@@ -25932,7 +26330,8 @@ window.KB = {
       "osm": "way/173017088",
       "kind": "residential",
       "lat": 24.3648,
-      "lon": 54.547809
+      "lon": 54.547809,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/madarat-bu-qallah-street",
@@ -25943,7 +26342,8 @@ window.KB = {
       "osm": "way/635446535",
       "kind": "residential",
       "lat": 24.296977,
-      "lon": 54.618037
+      "lon": 54.618037,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/madi-street",
@@ -25954,7 +26354,8 @@ window.KB = {
       "osm": "way/306686131",
       "kind": "residential",
       "lat": 24.355713,
-      "lon": 54.768777
+      "lon": 54.768777,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/maghayil-ayah-street",
@@ -25965,7 +26366,8 @@ window.KB = {
       "osm": "way/635446536",
       "kind": "residential",
       "lat": 24.295791,
-      "lon": 54.619597
+      "lon": 54.619597,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/maghayil-harib-street",
@@ -25976,73 +26378,8 @@ window.KB = {
       "osm": "way/635446532",
       "kind": "residential",
       "lat": 24.298646,
-      "lon": 54.61958
-    },
-    {
-      "id": "abu-dhabi-city/maghazi-1-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Maghazi 1 Street",
-      "name_ar": "شارع مَغازي 1",
-      "osm": "way/473904803",
-      "kind": "residential",
-      "lat": 24.408318,
-      "lon": 54.534266
-    },
-    {
-      "id": "abu-dhabi-city/maghazi-2-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Maghazi 2 Street",
-      "name_ar": "شارع مَغازي 2",
-      "osm": "way/473908282",
-      "kind": "residential",
-      "lat": 24.408855,
-      "lon": 54.532179
-    },
-    {
-      "id": "abu-dhabi-city/maghazi-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Maghazi 3 Street",
-      "name_ar": "شارع مَغازي 3",
-      "osm": "way/473904799",
-      "kind": "residential",
-      "lat": 24.40891,
-      "lon": 54.534129
-    },
-    {
-      "id": "abu-dhabi-city/maghazi-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Maghazi 4 Street",
-      "name_ar": "شارع مَغازي 4",
-      "osm": "way/473904801",
-      "kind": "residential",
-      "lat": 24.408994,
-      "lon": 54.533461
-    },
-    {
-      "id": "abu-dhabi-city/maghazi-5-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Maghazi 5 Street",
-      "name_ar": "شارع مَغازي 5",
-      "osm": "way/473904798",
-      "kind": "residential",
-      "lat": 24.408653,
-      "lon": 54.53306
-    },
-    {
-      "id": "abu-dhabi-city/maghazi-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Maghazi 6 Street",
-      "name_ar": "شارع مَغازي 6",
-      "osm": "way/473904806",
-      "kind": "residential",
-      "lat": 24.408055,
-      "lon": 54.532764
+      "lon": 54.61958,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/maghazi-street",
@@ -26050,10 +26387,11 @@ window.KB = {
       "emirate": "abu-dhabi-city",
       "name_en": "Maghazi Street",
       "name_ar": "شارع مَغازي",
-      "osm": "way/473904804",
+      "osm": "way/473904798",
       "kind": "residential",
-      "lat": 24.409862,
-      "lon": 54.534305
+      "lat": 24.408653,
+      "lon": 54.53306,
+      "variants": 8
     },
     {
       "id": "abu-dhabi-city/mahaya-street",
@@ -26064,7 +26402,8 @@ window.KB = {
       "osm": "way/635037993",
       "kind": "residential",
       "lat": 24.351113,
-      "lon": 54.772358
+      "lon": 54.772358,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-adh-dhiwayihir-street",
@@ -26075,7 +26414,8 @@ window.KB = {
       "osm": "way/235124807",
       "kind": "residential",
       "lat": 24.361239,
-      "lon": 54.711288
+      "lon": 54.711288,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-al-khareemah-street",
@@ -26086,7 +26426,8 @@ window.KB = {
       "osm": "way/247008813",
       "kind": "residential",
       "lat": 24.306475,
-      "lon": 54.658827
+      "lon": 54.658827,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-al-khees-street",
@@ -26097,7 +26438,8 @@ window.KB = {
       "osm": "way/820507572",
       "kind": "residential",
       "lat": 24.38175,
-      "lon": 54.593937
+      "lon": 54.593937,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-al-mashroub-street",
@@ -26108,7 +26450,8 @@ window.KB = {
       "osm": "way/115721072",
       "kind": "residential",
       "lat": 24.299623,
-      "lon": 54.655648
+      "lon": 54.655648,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-al-muslimiyat-street",
@@ -26119,7 +26462,8 @@ window.KB = {
       "osm": "way/819198761",
       "kind": "residential",
       "lat": 24.385996,
-      "lon": 54.674903
+      "lon": 54.674903,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-al-salmi-street",
@@ -26130,7 +26474,8 @@ window.KB = {
       "osm": "way/247003347",
       "kind": "residential",
       "lat": 24.27154,
-      "lon": 54.642457
+      "lon": 54.642457,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-al-yaryah-street",
@@ -26141,7 +26486,8 @@ window.KB = {
       "osm": "way/223481246",
       "kind": "residential",
       "lat": 24.360558,
-      "lon": 54.683453
+      "lon": 54.683453,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-an-niseebiyat-street",
@@ -26152,7 +26498,8 @@ window.KB = {
       "osm": "way/121648443",
       "kind": "residential",
       "lat": 24.375449,
-      "lon": 54.703838
+      "lon": 54.703838,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-at-taraq-street",
@@ -26163,7 +26510,8 @@ window.KB = {
       "osm": "way/116447592",
       "kind": "residential",
       "lat": 24.311427,
-      "lon": 54.607854
+      "lon": 54.607854,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-bu-saddeen-street",
@@ -26174,7 +26522,8 @@ window.KB = {
       "osm": "way/115724065",
       "kind": "residential",
       "lat": 24.300836,
-      "lon": 54.641614
+      "lon": 54.641614,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-qiraymdah-street",
@@ -26185,7 +26534,8 @@ window.KB = {
       "osm": "way/121648446",
       "kind": "residential",
       "lat": 24.378294,
-      "lon": 54.703374
+      "lon": 54.703374,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-qurmidah-street",
@@ -26196,7 +26546,8 @@ window.KB = {
       "osm": "way/819197993",
       "kind": "residential",
       "lat": 24.389069,
-      "lon": 54.668242
+      "lon": 54.668242,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahdar-yuwaybir-street",
@@ -26207,7 +26558,8 @@ window.KB = {
       "osm": "way/54200962",
       "kind": "residential",
       "lat": 24.350444,
-      "lon": 54.609801
+      "lon": 54.609801,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mahwi-roundabout",
@@ -26218,7 +26570,8 @@ window.KB = {
       "osm": "way/90768109",
       "kind": "secondary",
       "lat": 24.353889,
-      "lon": 54.57089
+      "lon": 54.57089,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mak-halah-street",
@@ -26229,7 +26582,8 @@ window.KB = {
       "osm": "way/821077773",
       "kind": "residential",
       "lat": 24.378045,
-      "lon": 54.616881
+      "lon": 54.616881,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/makhadeer-street",
@@ -26240,7 +26594,8 @@ window.KB = {
       "osm": "way/635445184",
       "kind": "residential",
       "lat": 24.348836,
-      "lon": 54.763794
+      "lon": 54.763794,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mansoor-bin-nasser-al-mansouri-street",
@@ -26251,7 +26606,8 @@ window.KB = {
       "osm": "way/112455222",
       "kind": "residential",
       "lat": 24.385623,
-      "lon": 54.736812
+      "lon": 54.736812,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mansour-bin-ghanem-al-mazrouei-street",
@@ -26262,7 +26618,8 @@ window.KB = {
       "osm": "way/637540046",
       "kind": "residential",
       "lat": 24.351767,
-      "lon": 54.559548
+      "lon": 54.559548,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/maqar-al-dhabi-street",
@@ -26273,7 +26630,8 @@ window.KB = {
       "osm": "way/248465721",
       "kind": "residential",
       "lat": 24.359204,
-      "lon": 54.749255
+      "lon": 54.749255,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/masafi-street",
@@ -26284,7 +26642,8 @@ window.KB = {
       "osm": "way/820507615",
       "kind": "unclassified",
       "lat": 24.373255,
-      "lon": 54.604518
+      "lon": 54.604518,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mashras-street",
@@ -26295,7 +26654,8 @@ window.KB = {
       "osm": "way/1116399736",
       "kind": "residential",
       "lat": 24.335254,
-      "lon": 54.53372
+      "lon": 54.53372,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/maskar-al-qou-ah-street",
@@ -26306,7 +26666,8 @@ window.KB = {
       "osm": "way/91676398",
       "kind": "residential",
       "lat": 24.337455,
-      "lon": 54.55124
+      "lon": 54.55124,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/maskar-bilwisayil-street",
@@ -26317,7 +26678,8 @@ window.KB = {
       "osm": "way/820507412",
       "kind": "residential",
       "lat": 24.39423,
-      "lon": 54.626474
+      "lon": 54.626474,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/matar-bin-khadim-al-muhairi-street",
@@ -26328,7 +26690,8 @@ window.KB = {
       "osm": "way/54201211",
       "kind": "residential",
       "lat": 24.366808,
-      "lon": 54.644114
+      "lon": 54.644114,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mbazzarah-street",
@@ -26339,7 +26702,8 @@ window.KB = {
       "osm": "way/94058694",
       "kind": "residential",
       "lat": 24.406468,
-      "lon": 54.738757
+      "lon": 54.738757,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mdawwarah-street",
@@ -26350,7 +26714,8 @@ window.KB = {
       "osm": "way/476506505",
       "kind": "residential",
       "lat": 24.312573,
-      "lon": 54.608987
+      "lon": 54.608987,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mehidi-bin-saeed-al-hameli-street",
@@ -26361,7 +26726,8 @@ window.KB = {
       "osm": "way/122093805",
       "kind": "residential",
       "lat": 24.384872,
-      "lon": 54.715605
+      "lon": 54.715605,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mezyad-street",
@@ -26372,7 +26738,8 @@ window.KB = {
       "osm": "way/974606720",
       "kind": "residential",
       "lat": 24.396971,
-      "lon": 54.67384
+      "lon": 54.67384,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mfalli-street",
@@ -26383,7 +26750,8 @@ window.KB = {
       "osm": "way/821077771",
       "kind": "residential",
       "lat": 24.377005,
-      "lon": 54.621059
+      "lon": 54.621059,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mhadar-ar-rayghah-street",
@@ -26394,7 +26762,8 @@ window.KB = {
       "osm": "way/91675958",
       "kind": "residential",
       "lat": 24.346829,
-      "lon": 54.548348
+      "lon": 54.548348,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mhayya-street",
@@ -26405,7 +26774,8 @@ window.KB = {
       "osm": "way/306682810",
       "kind": "residential",
       "lat": 24.361831,
-      "lon": 54.752757
+      "lon": 54.752757,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mihayeer-street",
@@ -26416,7 +26786,8 @@ window.KB = {
       "osm": "way/235147605",
       "kind": "residential",
       "lat": 24.34593,
-      "lon": 54.698875
+      "lon": 54.698875,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mihzam-street",
@@ -26427,7 +26798,8 @@ window.KB = {
       "osm": "way/974606761",
       "kind": "residential",
       "lat": 24.390612,
-      "lon": 54.676085
+      "lon": 54.676085,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/misaybih-street",
@@ -26438,7 +26810,8 @@ window.KB = {
       "osm": "way/473406642",
       "kind": "residential",
       "lat": 24.35914,
-      "lon": 54.685576
+      "lon": 54.685576,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/moahmmed-bin-brook-al-humairi-street",
@@ -26449,7 +26822,8 @@ window.KB = {
       "osm": "way/24303581",
       "kind": "residential",
       "lat": 24.397774,
-      "lon": 54.493888
+      "lon": 54.493888,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohamed-khalfan-al-seyabi-street",
@@ -26460,7 +26834,8 @@ window.KB = {
       "osm": "way/119551924",
       "kind": "residential",
       "lat": 24.389908,
-      "lon": 54.702444
+      "lon": 54.702444,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-abdullah-al-sayegh-street",
@@ -26471,7 +26846,8 @@ window.KB = {
       "osm": "way/235121473",
       "kind": "tertiary",
       "lat": 24.351407,
-      "lon": 54.689937
+      "lon": 54.689937,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-ahmed-al-shinqiti-street",
@@ -26482,7 +26858,8 @@ window.KB = {
       "osm": "way/174040700",
       "kind": "residential",
       "lat": 24.328996,
-      "lon": 54.534767
+      "lon": 54.534767,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-ali-abu-athaina-street",
@@ -26493,7 +26870,8 @@ window.KB = {
       "osm": "way/173016713",
       "kind": "residential",
       "lat": 24.369027,
-      "lon": 54.54539
+      "lon": 54.54539,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-aziz-al-mansouri-street",
@@ -26504,7 +26882,8 @@ window.KB = {
       "osm": "way/26726107",
       "kind": "tertiary",
       "lat": 24.287272,
-      "lon": 54.664989
+      "lon": 54.664989,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-ghateel-al-muhairbi-street",
@@ -26515,7 +26894,8 @@ window.KB = {
       "osm": "way/54202567",
       "kind": "tertiary",
       "lat": 24.387494,
-      "lon": 54.642867
+      "lon": 54.642867,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-habroush-al-suwaidi-street",
@@ -26526,7 +26906,8 @@ window.KB = {
       "osm": "way/1155730271",
       "kind": "residential",
       "lat": 24.329366,
-      "lon": 54.567683
+      "lon": 54.567683,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-hayy-al-hameli-street",
@@ -26537,7 +26918,8 @@ window.KB = {
       "osm": "way/483107644",
       "kind": "tertiary",
       "lat": 24.382239,
-      "lon": 54.525811
+      "lon": 54.525811,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-jaber-al-hameli-street",
@@ -26548,7 +26930,8 @@ window.KB = {
       "osm": "way/173398871",
       "kind": "residential",
       "lat": 24.30437,
-      "lon": 54.5829
+      "lon": 54.5829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-jrayw-al-mansouri-street",
@@ -26559,7 +26942,8 @@ window.KB = {
       "osm": "way/94329186",
       "kind": "residential",
       "lat": 24.274188,
-      "lon": 54.674143
+      "lon": 54.674143,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-khalifa-al-kindi-street",
@@ -26570,7 +26954,8 @@ window.KB = {
       "osm": "way/24312062",
       "kind": "unclassified",
       "lat": 24.344261,
-      "lon": 54.465845
+      "lon": 54.465845,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-markhan-al-mansouri-street",
@@ -26581,7 +26966,8 @@ window.KB = {
       "osm": "way/118783431",
       "kind": "residential",
       "lat": 24.403345,
-      "lon": 54.738657
+      "lon": 54.738657,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-murshid-al-humairi-street",
@@ -26592,7 +26978,8 @@ window.KB = {
       "osm": "way/115732724",
       "kind": "residential",
       "lat": 24.369146,
-      "lon": 54.670423
+      "lon": 54.670423,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-nasser-al-mansouri-street",
@@ -26603,7 +26990,8 @@ window.KB = {
       "osm": "way/448037690",
       "kind": "tertiary",
       "lat": 24.376157,
-      "lon": 54.741276
+      "lon": 54.741276,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-obaid-al-muhairi-street",
@@ -26614,7 +27002,8 @@ window.KB = {
       "osm": "way/173175040",
       "kind": "residential",
       "lat": 24.32001,
-      "lon": 54.546102
+      "lon": 54.546102,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-sabaa-al-kindi-street",
@@ -26625,7 +27014,8 @@ window.KB = {
       "osm": "way/93177743",
       "kind": "tertiary",
       "lat": 24.391034,
-      "lon": 54.65556
+      "lon": 54.65556,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-salem-al-dhaheri-street",
@@ -26636,7 +27026,8 @@ window.KB = {
       "osm": "way/173012753",
       "kind": "residential",
       "lat": 24.35603,
-      "lon": 54.532824
+      "lon": 54.532824,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-salhoum-al-qubaisi-street",
@@ -26647,7 +27038,8 @@ window.KB = {
       "osm": "way/173391004",
       "kind": "residential",
       "lat": 24.312716,
-      "lon": 54.568502
+      "lon": 54.568502,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bin-shabib-al-muhairi-street",
@@ -26658,7 +27050,8 @@ window.KB = {
       "osm": "way/119551916",
       "kind": "residential",
       "lat": 24.394981,
-      "lon": 54.703644
+      "lon": 54.703644,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mohammed-bu-gbay-al-mansouri-street",
@@ -26669,7 +27062,8 @@ window.KB = {
       "osm": "way/173041464",
       "kind": "residential",
       "lat": 24.327446,
-      "lon": 54.535181
+      "lon": 54.535181,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mousal-street",
@@ -26680,7 +27074,8 @@ window.KB = {
       "osm": "way/974445526",
       "kind": "residential",
       "lat": 24.378675,
-      "lon": 54.615659
+      "lon": 54.615659,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mousham-street",
@@ -26691,7 +27086,8 @@ window.KB = {
       "osm": "way/974463492",
       "kind": "residential",
       "lat": 24.354221,
-      "lon": 54.610696
+      "lon": 54.610696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mouyah-al-hideeb-street",
@@ -26702,7 +27098,8 @@ window.KB = {
       "osm": "way/627829930",
       "kind": "residential",
       "lat": 24.370035,
-      "lon": 54.605209
+      "lon": 54.605209,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mraddah-street",
@@ -26713,7 +27110,8 @@ window.KB = {
       "osm": "way/974463500",
       "kind": "residential",
       "lat": 24.355006,
-      "lon": 54.609493
+      "lon": 54.609493,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/msaybeekh-street",
@@ -26724,7 +27122,8 @@ window.KB = {
       "osm": "way/246998993",
       "kind": "residential",
       "lat": 24.289604,
-      "lon": 54.651778
+      "lon": 54.651778,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/msayhan-street",
@@ -26735,7 +27134,8 @@ window.KB = {
       "osm": "way/116691021",
       "kind": "secondary",
       "lat": 24.291524,
-      "lon": 54.625613
+      "lon": 54.625613,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/msayteeh-street",
@@ -26746,7 +27146,8 @@ window.KB = {
       "osm": "way/635446546",
       "kind": "residential",
       "lat": 24.302456,
-      "lon": 54.61462
+      "lon": 54.61462,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/msayyan-street",
@@ -26757,7 +27158,8 @@ window.KB = {
       "osm": "way/306682877",
       "kind": "residential",
       "lat": 24.366787,
-      "lon": 54.746988
+      "lon": 54.746988,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mu-adh-bin-jabal-street",
@@ -26768,7 +27170,8 @@ window.KB = {
       "osm": "way/118783452",
       "kind": "residential",
       "lat": 24.401651,
-      "lon": 54.745891
+      "lon": 54.745891,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mubarak-alhabnoni-al-ameri-street",
@@ -26779,7 +27182,8 @@ window.KB = {
       "osm": "way/26277979",
       "kind": "tertiary",
       "lat": 24.351492,
-      "lon": 54.533203
+      "lon": 54.533203,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mubarak-bin-hader-al-muhairi-street",
@@ -26790,7 +27194,8 @@ window.KB = {
       "osm": "way/173226902",
       "kind": "residential",
       "lat": 24.320885,
-      "lon": 54.568097
+      "lon": 54.568097,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mubarak-bin-qaran-al-mansouri-street",
@@ -26801,7 +27206,8 @@ window.KB = {
       "osm": "way/635013554",
       "kind": "residential",
       "lat": 24.359709,
-      "lon": 54.777998
+      "lon": 54.777998,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mughayl-hamamah-street",
@@ -26812,7 +27218,8 @@ window.KB = {
       "osm": "way/818885991",
       "kind": "residential",
       "lat": 24.379464,
-      "lon": 54.670948
+      "lon": 54.670948,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mulawih-street",
@@ -26823,7 +27230,8 @@ window.KB = {
       "osm": "way/475129450",
       "kind": "residential",
       "lat": 24.324007,
-      "lon": 54.630901
+      "lon": 54.630901,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/murshid-bin-ali-al-marar-street",
@@ -26834,7 +27242,8 @@ window.KB = {
       "osm": "way/24297172",
       "kind": "tertiary",
       "lat": 24.410579,
-      "lon": 54.58677
+      "lon": 54.58677,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/musallam-saif-alrashdi-street",
@@ -26845,7 +27254,8 @@ window.KB = {
       "osm": "way/115724099",
       "kind": "residential",
       "lat": 24.30111,
-      "lon": 54.638277
+      "lon": 54.638277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/muslim-bin-maktoum-al-mazrouei-street",
@@ -26856,7 +27266,8 @@ window.KB = {
       "osm": "way/173184955",
       "kind": "residential",
       "lat": 24.321751,
-      "lon": 54.556809
+      "lon": 54.556809,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/mwafjah-street",
@@ -26867,7 +27278,8 @@ window.KB = {
       "osm": "way/974606729",
       "kind": "residential",
       "lat": 24.401934,
-      "lon": 54.682446
+      "lon": 54.682446,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nad-ar-risas-street",
@@ -26878,7 +27290,8 @@ window.KB = {
       "osm": "way/635057887",
       "kind": "residential",
       "lat": 24.286571,
-      "lon": 54.634626
+      "lon": 54.634626,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nad-bilad-street",
@@ -26889,7 +27302,8 @@ window.KB = {
       "osm": "way/247008828",
       "kind": "residential",
       "lat": 24.310441,
-      "lon": 54.654325
+      "lon": 54.654325,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nad-um-al-hasat-street",
@@ -26900,7 +27314,8 @@ window.KB = {
       "osm": "way/54201009",
       "kind": "residential",
       "lat": 24.339127,
-      "lon": 54.62632
+      "lon": 54.62632,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/naffa-street",
@@ -26911,7 +27326,8 @@ window.KB = {
       "osm": "way/635445159",
       "kind": "residential",
       "lat": 24.341711,
-      "lon": 54.760765
+      "lon": 54.760765,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nafhat-al-oud-street",
@@ -26922,7 +27338,8 @@ window.KB = {
       "osm": "way/370220801",
       "kind": "residential",
       "lat": 24.368963,
-      "lon": 54.543971
+      "lon": 54.543971,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nafja-bint-obaid-al-teneiji-street",
@@ -26933,7 +27350,8 @@ window.KB = {
       "osm": "way/246999848",
       "kind": "residential",
       "lat": 24.29664,
-      "lon": 54.656837
+      "lon": 54.656837,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/najd-abyad-street",
@@ -26944,7 +27362,8 @@ window.KB = {
       "osm": "way/54201011",
       "kind": "residential",
       "lat": 24.338381,
-      "lon": 54.624705
+      "lon": 54.624705,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/najd-al-manzafah-street",
@@ -26955,7 +27374,8 @@ window.KB = {
       "osm": "way/865402769",
       "kind": "residential",
       "lat": 24.302654,
-      "lon": 54.569904
+      "lon": 54.569904,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/najd-maydaq-street",
@@ -26966,7 +27386,8 @@ window.KB = {
       "osm": "way/635438652",
       "kind": "residential",
       "lat": 24.313002,
-      "lon": 54.58623
+      "lon": 54.58623,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/najm-suhail-street",
@@ -26977,7 +27398,8 @@ window.KB = {
       "osm": "way/27772755",
       "kind": "secondary",
       "lat": 24.355593,
-      "lon": 54.528582
+      "lon": 54.528582,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nakheel-al-faqi-street",
@@ -26988,7 +27410,8 @@ window.KB = {
       "osm": "way/474712086",
       "kind": "residential",
       "lat": 24.330701,
-      "lon": 54.579259
+      "lon": 54.579259,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nakhlat-al-qarayin-street",
@@ -26999,7 +27422,8 @@ window.KB = {
       "osm": "way/635446537",
       "kind": "residential",
       "lat": 24.294265,
-      "lon": 54.621557
+      "lon": 54.621557,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nasser-bin-mohammed-al-mansouri-street",
@@ -27010,7 +27434,8 @@ window.KB = {
       "osm": "way/122093804",
       "kind": "residential",
       "lat": 24.385631,
-      "lon": 54.717043
+      "lon": 54.717043,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nasser-bin-saeed-al-mansouri-street",
@@ -27021,7 +27446,8 @@ window.KB = {
       "osm": "way/474708516",
       "kind": "residential",
       "lat": 24.336956,
-      "lon": 54.561827
+      "lon": 54.561827,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nassib-bin-ahmed-al-humairi-street",
@@ -27032,7 +27458,8 @@ window.KB = {
       "osm": "way/340634795",
       "kind": "tertiary",
       "lat": 24.372985,
-      "lon": 54.539423
+      "lon": 54.539423,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/naymrou-street",
@@ -27043,7 +27470,8 @@ window.KB = {
       "osm": "way/635438709",
       "kind": "residential",
       "lat": 24.307436,
-      "lon": 54.589545
+      "lon": 54.589545,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/naywat-bin-allan-street",
@@ -27054,7 +27482,8 @@ window.KB = {
       "osm": "way/635438619",
       "kind": "residential",
       "lat": 24.320999,
-      "lon": 54.584183
+      "lon": 54.584183,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/naywat-yibraf-street",
@@ -27065,7 +27494,8 @@ window.KB = {
       "osm": "way/635438657",
       "kind": "residential",
       "lat": 24.312096,
-      "lon": 54.586673
+      "lon": 54.586673,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nazwah-street",
@@ -27076,7 +27506,8 @@ window.KB = {
       "osm": "way/821077738",
       "kind": "residential",
       "lat": 24.383299,
-      "lon": 54.622723
+      "lon": 54.622723,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/neeshan-street",
@@ -27087,7 +27518,8 @@ window.KB = {
       "osm": "way/483319377",
       "kind": "residential",
       "lat": 24.345198,
-      "lon": 54.763301
+      "lon": 54.763301,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nibras-street",
@@ -27098,7 +27530,8 @@ window.KB = {
       "osm": "way/483319378",
       "kind": "residential",
       "lat": 24.346741,
-      "lon": 54.760914
+      "lon": 54.760914,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/nikdat-bu-sit-street",
@@ -27109,7 +27542,8 @@ window.KB = {
       "osm": "way/116691876",
       "kind": "residential",
       "lat": 24.339035,
-      "lon": 54.53321
+      "lon": 54.53321,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-fahyah-street",
@@ -27120,7 +27554,8 @@ window.KB = {
       "osm": "way/177637751",
       "kind": "residential",
       "lat": 24.265973,
-      "lon": 54.693684
+      "lon": 54.693684,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-fardani-street",
@@ -27131,7 +27566,8 @@ window.KB = {
       "osm": "way/695162108",
       "kind": "residential",
       "lat": 24.330674,
-      "lon": 54.646107
+      "lon": 54.646107,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-hanyoufah-street",
@@ -27142,7 +27578,8 @@ window.KB = {
       "osm": "way/818566870",
       "kind": "residential",
       "lat": 24.377698,
-      "lon": 54.672492
+      "lon": 54.672492,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-hawawees-street",
@@ -27153,7 +27590,8 @@ window.KB = {
       "osm": "way/974445537",
       "kind": "residential",
       "lat": 24.365711,
-      "lon": 54.60553
+      "lon": 54.60553,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-hilayw-street",
@@ -27164,7 +27602,8 @@ window.KB = {
       "osm": "way/112455238",
       "kind": "residential",
       "lat": 24.389843,
-      "lon": 54.730855
+      "lon": 54.730855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-houz-street",
@@ -27175,7 +27614,8 @@ window.KB = {
       "osm": "way/474930693",
       "kind": "residential",
       "lat": 24.319173,
-      "lon": 54.537714
+      "lon": 54.537714,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-mikasir-street",
@@ -27186,7 +27626,8 @@ window.KB = {
       "osm": "way/173017091",
       "kind": "residential",
       "lat": 24.364459,
-      "lon": 54.553573
+      "lon": 54.553573,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-qar-street",
@@ -27197,7 +27638,8 @@ window.KB = {
       "osm": "way/116691895",
       "kind": "residential",
       "lat": 24.344147,
-      "lon": 54.536016
+      "lon": 54.536016,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-al-yeef-street",
@@ -27208,7 +27650,8 @@ window.KB = {
       "osm": "way/475156990",
       "kind": "residential",
       "lat": 24.297897,
-      "lon": 54.660158
+      "lon": 54.660158,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-an-nawa-street",
@@ -27219,7 +27662,8 @@ window.KB = {
       "osm": "way/116429196",
       "kind": "residential",
       "lat": 24.309981,
-      "lon": 54.636745
+      "lon": 54.636745,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-an-nisouriyah-street",
@@ -27230,7 +27674,8 @@ window.KB = {
       "osm": "way/92007371",
       "kind": "residential",
       "lat": 24.330367,
-      "lon": 54.571409
+      "lon": 54.571409,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-az-zahar-street",
@@ -27241,7 +27686,8 @@ window.KB = {
       "osm": "way/91676423",
       "kind": "residential",
       "lat": 24.339263,
-      "lon": 54.560686
+      "lon": 54.560686,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-bin-hadah-street",
@@ -27252,7 +27698,8 @@ window.KB = {
       "osm": "way/235121459",
       "kind": "residential",
       "lat": 24.359176,
-      "lon": 54.695509
+      "lon": 54.695509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-bu-andab-street",
@@ -27263,7 +27710,8 @@ window.KB = {
       "osm": "way/235124804",
       "kind": "residential",
       "lat": 24.360146,
-      "lon": 54.713881
+      "lon": 54.713881,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-bu-artah-street",
@@ -27274,7 +27722,8 @@ window.KB = {
       "osm": "way/821077778",
       "kind": "residential",
       "lat": 24.375592,
-      "lon": 54.617534
+      "lon": 54.617534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-bu-sahoubah-street",
@@ -27285,7 +27734,8 @@ window.KB = {
       "osm": "way/116447603",
       "kind": "residential",
       "lat": 24.307478,
-      "lon": 54.612943
+      "lon": 54.612943,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-bu-sumrah-street",
@@ -27296,7 +27746,8 @@ window.KB = {
       "osm": "way/90771045",
       "kind": "residential",
       "lat": 24.35508,
-      "lon": 54.549332
+      "lon": 54.549332,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-ghallah-street",
@@ -27307,7 +27758,8 @@ window.KB = {
       "osm": "way/635446530",
       "kind": "residential",
       "lat": 24.295113,
-      "lon": 54.622281
+      "lon": 54.622281,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-hamdoun-street",
@@ -27318,7 +27770,8 @@ window.KB = {
       "osm": "way/820507584",
       "kind": "residential",
       "lat": 24.390042,
-      "lon": 54.610442
+      "lon": 54.610442,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-houfan-street",
@@ -27329,7 +27782,8 @@ window.KB = {
       "osm": "way/627829934",
       "kind": "residential",
       "lat": 24.369696,
-      "lon": 54.60778
+      "lon": 54.60778,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-lafhad-street",
@@ -27340,7 +27794,8 @@ window.KB = {
       "osm": "way/120291272",
       "kind": "residential",
       "lat": 24.39193,
-      "lon": 54.688539
+      "lon": 54.688539,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-rashid-street",
@@ -27351,7 +27806,8 @@ window.KB = {
       "osm": "way/27506832",
       "kind": "unclassified",
       "lat": 24.368575,
-      "lon": 54.55454
+      "lon": 54.55454,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqa-sira-street",
@@ -27362,7 +27818,8 @@ window.KB = {
       "osm": "way/820507609",
       "kind": "residential",
       "lat": 24.380161,
-      "lon": 54.609938
+      "lon": 54.609938,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqyan-ad-da-ay-street",
@@ -27373,7 +27830,8 @@ window.KB = {
       "osm": "way/306818489",
       "kind": "residential",
       "lat": 24.314431,
-      "lon": 54.609205
+      "lon": 54.609205,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niqyan-jabr-street",
@@ -27384,7 +27842,8 @@ window.KB = {
       "osm": "way/112455243",
       "kind": "residential",
       "lat": 24.384232,
-      "lon": 54.728528
+      "lon": 54.728528,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/niwayran-street",
@@ -27395,7 +27854,8 @@ window.KB = {
       "osm": "way/94055537",
       "kind": "residential",
       "lat": 24.377571,
-      "lon": 54.651863
+      "lon": 54.651863,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/obaid-bilhamoudi-al-muhairbi-street",
@@ -27406,7 +27866,8 @@ window.KB = {
       "osm": "way/105444692",
       "kind": "tertiary",
       "lat": 24.291488,
-      "lon": 54.640829
+      "lon": 54.640829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/obaid-bin-khalfan-al-mazrouei-street",
@@ -27417,7 +27878,8 @@ window.KB = {
       "osm": "way/54200906",
       "kind": "residential",
       "lat": 24.353119,
-      "lon": 54.632509
+      "lon": 54.632509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/obaid-bin-rashid-al-mansouri-street",
@@ -27428,7 +27890,8 @@ window.KB = {
       "osm": "way/1351812884",
       "kind": "residential",
       "lat": 24.276339,
-      "lon": 54.680504
+      "lon": 54.680504,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/obaid-bin-saeed-al-mansouri-street",
@@ -27439,7 +27902,8 @@ window.KB = {
       "osm": "way/115732737",
       "kind": "tertiary",
       "lat": 24.377915,
-      "lon": 54.669048
+      "lon": 54.669048,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/obaid-mohammed-abdulla-al-kaabi-street",
@@ -27450,7 +27914,8 @@ window.KB = {
       "osm": "way/1468702873",
       "kind": "secondary",
       "lat": 24.4101,
-      "lon": 54.603968
+      "lon": 54.603968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/omair-bin-hayy-al-hameli-street",
@@ -27461,7 +27926,8 @@ window.KB = {
       "osm": "way/173184582",
       "kind": "unclassified",
       "lat": 24.318392,
-      "lon": 54.558763
+      "lon": 54.558763,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/omair-bin-muaded-al-mashghoni-street",
@@ -27472,7 +27938,8 @@ window.KB = {
       "osm": "way/90771039",
       "kind": "residential",
       "lat": 24.358094,
-      "lon": 54.553452
+      "lon": 54.553452,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/omair-bin-yousef-al-muhairi-street",
@@ -27483,7 +27950,8 @@ window.KB = {
       "osm": "way/105445475",
       "kind": "secondary",
       "lat": 24.308838,
-      "lon": 54.645078
+      "lon": 54.645078,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/omer-alsalek-al-shinqiti-street",
@@ -27494,7 +27962,8 @@ window.KB = {
       "osm": "way/89640063",
       "kind": "residential",
       "lat": 24.363975,
-      "lon": 54.532725
+      "lon": 54.532725,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/plot-no-m-26",
@@ -27505,7 +27974,8 @@ window.KB = {
       "osm": "way/99894725",
       "kind": "unclassified",
       "lat": 24.355261,
-      "lon": 54.522593
+      "lon": 54.522593,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-al-badyah-street",
@@ -27516,7 +27986,8 @@ window.KB = {
       "osm": "way/820507406",
       "kind": "residential",
       "lat": 24.394348,
-      "lon": 54.621699
+      "lon": 54.621699,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-al-bathnah-street",
@@ -27527,7 +27998,8 @@ window.KB = {
       "osm": "way/94058706",
       "kind": "residential",
       "lat": 24.375045,
-      "lon": 54.722097
+      "lon": 54.722097,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-al-fihaydi-street",
@@ -27538,7 +28010,8 @@ window.KB = {
       "osm": "way/120291270",
       "kind": "residential",
       "lat": 24.389269,
-      "lon": 54.690885
+      "lon": 54.690885,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-al-fujairah-street",
@@ -27549,7 +28022,8 @@ window.KB = {
       "osm": "way/235147568",
       "kind": "residential",
       "lat": 24.353922,
-      "lon": 54.707328
+      "lon": 54.707328,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-al-ghayl-street",
@@ -27560,7 +28034,8 @@ window.KB = {
       "osm": "way/818882072",
       "kind": "residential",
       "lat": 24.362307,
-      "lon": 54.666898
+      "lon": 54.666898,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-awhalah-street",
@@ -27571,7 +28046,8 @@ window.KB = {
       "osm": "way/92007298",
       "kind": "residential",
       "lat": 24.328395,
-      "lon": 54.565386
+      "lon": 54.565386,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-filiy-street",
@@ -27582,7 +28058,8 @@ window.KB = {
       "osm": "way/112455232",
       "kind": "residential",
       "lat": 24.381694,
-      "lon": 54.730334
+      "lon": 54.730334,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-masafi-street",
@@ -27593,7 +28070,8 @@ window.KB = {
       "osm": "way/115719775",
       "kind": "residential",
       "lat": 24.328337,
-      "lon": 54.642969
+      "lon": 54.642969,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-sa-street",
@@ -27604,7 +28082,8 @@ window.KB = {
       "osm": "way/235148609",
       "kind": "residential",
       "lat": 24.369456,
-      "lon": 54.698442
+      "lon": 54.698442,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-sakamkam-street",
@@ -27615,7 +28094,8 @@ window.KB = {
       "osm": "way/93177799",
       "kind": "residential",
       "lat": 24.395553,
-      "lon": 54.652403
+      "lon": 54.652403,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qal-at-whalah-street",
@@ -27626,7 +28106,8 @@ window.KB = {
       "osm": "way/115733347",
       "kind": "residential",
       "lat": 24.375608,
-      "lon": 54.662168
+      "lon": 54.662168,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qamrah-street",
@@ -27637,7 +28118,8 @@ window.KB = {
       "osm": "way/634310299",
       "kind": "residential",
       "lat": 24.36606,
-      "lon": 54.734941
+      "lon": 54.734941,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qamshi-street",
@@ -27648,7 +28130,8 @@ window.KB = {
       "osm": "way/85680612",
       "kind": "residential",
       "lat": 24.352183,
-      "lon": 54.559524
+      "lon": 54.559524,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qas-bin-ghirayib-street",
@@ -27659,7 +28142,8 @@ window.KB = {
       "osm": "way/247017238",
       "kind": "residential",
       "lat": 24.260869,
-      "lon": 54.702842
+      "lon": 54.702842,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qassabi-street",
@@ -27670,7 +28154,8 @@ window.KB = {
       "osm": "way/85680611",
       "kind": "residential",
       "lat": 24.351922,
-      "lon": 54.563358
+      "lon": 54.563358,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qateefah-street",
@@ -27681,7 +28166,8 @@ window.KB = {
       "osm": "way/173392690",
       "kind": "residential",
       "lat": 24.31192,
-      "lon": 54.566219
+      "lon": 54.566219,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qatfah-street",
@@ -27692,7 +28178,8 @@ window.KB = {
       "osm": "way/818883191",
       "kind": "residential",
       "lat": 24.372293,
-      "lon": 54.67151
+      "lon": 54.67151,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qati-street",
@@ -27703,7 +28190,8 @@ window.KB = {
       "osm": "way/306795012",
       "kind": "residential",
       "lat": 24.36723,
-      "lon": 54.739716
+      "lon": 54.739716,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qays-bin-abi-hazim-street",
@@ -27714,7 +28202,8 @@ window.KB = {
       "osm": "way/173175032",
       "kind": "residential",
       "lat": 24.321627,
-      "lon": 54.546445
+      "lon": 54.546445,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qays-bin-al-mulawwah-street",
@@ -27725,7 +28214,8 @@ window.KB = {
       "osm": "way/306671038",
       "kind": "residential",
       "lat": 24.320874,
-      "lon": 54.727639
+      "lon": 54.727639,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qillat-al-hisn-street",
@@ -27736,7 +28226,8 @@ window.KB = {
       "osm": "way/818885992",
       "kind": "residential",
       "lat": 24.381006,
-      "lon": 54.671661
+      "lon": 54.671661,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qintar-liwa-street",
@@ -27747,7 +28238,8 @@ window.KB = {
       "osm": "way/476611399",
       "kind": "residential",
       "lat": 24.337538,
-      "lon": 54.537278
+      "lon": 54.537278,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qirmat-as-siwaydah-street",
@@ -27758,7 +28250,8 @@ window.KB = {
       "osm": "way/235148650",
       "kind": "residential",
       "lat": 24.36694,
-      "lon": 54.700819
+      "lon": 54.700819,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qirqishan-street",
@@ -27769,7 +28262,8 @@ window.KB = {
       "osm": "way/476618779",
       "kind": "residential",
       "lat": 24.326316,
-      "lon": 54.534163
+      "lon": 54.534163,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qismah-street",
@@ -27780,7 +28274,8 @@ window.KB = {
       "osm": "way/173016722",
       "kind": "residential",
       "lat": 24.372153,
-      "lon": 54.545361
+      "lon": 54.545361,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qrain-al-aysh-street",
@@ -27791,7 +28286,8 @@ window.KB = {
       "osm": "way/820507428",
       "kind": "unclassified",
       "lat": 24.39006,
-      "lon": 54.618992
+      "lon": 54.618992,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qrain-mhawi-street",
@@ -27802,7 +28298,8 @@ window.KB = {
       "osm": "way/820507594",
       "kind": "secondary",
       "lat": 24.379081,
-      "lon": 54.607184
+      "lon": 54.607184,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qrain-salih-street",
@@ -27813,7 +28310,8 @@ window.KB = {
       "osm": "way/821077746",
       "kind": "residential",
       "lat": 24.383121,
-      "lon": 54.629354
+      "lon": 54.629354,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qroun-al-isi-street",
@@ -27824,7 +28322,8 @@ window.KB = {
       "osm": "way/473406646",
       "kind": "residential",
       "lat": 24.313851,
-      "lon": 54.649844
+      "lon": 54.649844,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qroun-al-fardah-street",
@@ -27835,7 +28334,8 @@ window.KB = {
       "osm": "way/93177772",
       "kind": "residential",
       "lat": 24.3938,
-      "lon": 54.655728
+      "lon": 54.655728,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qroun-al-yafyafah-street",
@@ -27846,7 +28346,8 @@ window.KB = {
       "osm": "way/235147557",
       "kind": "residential",
       "lat": 24.349709,
-      "lon": 54.699321
+      "lon": 54.699321,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qroun-al-yahaliyah-street",
@@ -27857,7 +28358,8 @@ window.KB = {
       "osm": "way/974445538",
       "kind": "residential",
       "lat": 24.364605,
-      "lon": 54.605075
+      "lon": 54.605075,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qroun-an-na-am-street",
@@ -27868,7 +28370,8 @@ window.KB = {
       "osm": "way/91676370",
       "kind": "residential",
       "lat": 24.338855,
-      "lon": 54.551175
+      "lon": 54.551175,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qroun-um-al-ashtan-street",
@@ -27879,7 +28382,8 @@ window.KB = {
       "osm": "way/172917127",
       "kind": "residential",
       "lat": 24.381885,
-      "lon": 54.539575
+      "lon": 54.539575,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qroun-um-ghayth-street",
@@ -27890,7 +28394,8 @@ window.KB = {
       "osm": "way/820507512",
       "kind": "residential",
       "lat": 24.366393,
-      "lon": 54.598746
+      "lon": 54.598746,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qshash-street",
@@ -27901,7 +28406,8 @@ window.KB = {
       "osm": "way/91676373",
       "kind": "residential",
       "lat": 24.338188,
-      "lon": 54.553634
+      "lon": 54.553634,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/quf-ar-riyayeel-street",
@@ -27912,7 +28418,8 @@ window.KB = {
       "osm": "way/474878761",
       "kind": "unclassified",
       "lat": 24.35007,
-      "lon": 54.541975
+      "lon": 54.541975,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/quf-as-salboukh-street",
@@ -27923,7 +28430,8 @@ window.KB = {
       "osm": "way/635446545",
       "kind": "residential",
       "lat": 24.298175,
-      "lon": 54.616481
+      "lon": 54.616481,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qullat-mahafiz-street",
@@ -27934,7 +28442,8 @@ window.KB = {
       "osm": "way/1117579382",
       "kind": "residential",
       "lat": 24.367075,
-      "lon": 54.529078
+      "lon": 54.529078,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qunwan-street",
@@ -27945,7 +28454,8 @@ window.KB = {
       "osm": "way/1040535195",
       "kind": "residential",
       "lat": 24.358903,
-      "lon": 54.618581
+      "lon": 54.618581,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qur-ar-rakibi-street",
@@ -27956,7 +28466,8 @@ window.KB = {
       "osm": "way/115721308",
       "kind": "residential",
       "lat": 24.304847,
-      "lon": 54.646932
+      "lon": 54.646932,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/quraynah-street",
@@ -27967,7 +28478,8 @@ window.KB = {
       "osm": "way/634310287",
       "kind": "residential",
       "lat": 24.358618,
-      "lon": 54.7283
+      "lon": 54.7283,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-iwaysim-street",
@@ -27978,7 +28490,8 @@ window.KB = {
       "osm": "way/116447957",
       "kind": "residential",
       "lat": 24.321818,
-      "lon": 54.634571
+      "lon": 54.634571,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-al-ibayah-street",
@@ -27989,7 +28502,8 @@ window.KB = {
       "osm": "way/173390999",
       "kind": "residential",
       "lat": 24.315587,
-      "lon": 54.565811
+      "lon": 54.565811,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-al-barr-street",
@@ -28000,7 +28514,8 @@ window.KB = {
       "osm": "way/1138004809",
       "kind": "residential",
       "lat": 24.399942,
-      "lon": 54.682756
+      "lon": 54.682756,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-al-masayaf-street",
@@ -28011,7 +28526,8 @@ window.KB = {
       "osm": "way/111297878",
       "kind": "residential",
       "lat": 24.323809,
-      "lon": 54.638963
+      "lon": 54.638963,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-al-midba-ah-street",
@@ -28022,7 +28538,8 @@ window.KB = {
       "osm": "way/627829937",
       "kind": "unclassified",
       "lat": 24.373521,
-      "lon": 54.608292
+      "lon": 54.608292,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-al-munbatih-street",
@@ -28033,7 +28550,8 @@ window.KB = {
       "osm": "way/821077741",
       "kind": "residential",
       "lat": 24.381529,
-      "lon": 54.628732
+      "lon": 54.628732,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-al-wuhaydah-street",
@@ -28044,7 +28562,8 @@ window.KB = {
       "osm": "way/474653794",
       "kind": "residential",
       "lat": 24.328357,
-      "lon": 54.531451
+      "lon": 54.531451,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-ash-shasur-street",
@@ -28055,7 +28574,8 @@ window.KB = {
       "osm": "way/818885993",
       "kind": "residential",
       "lat": 24.381768,
-      "lon": 54.672013
+      "lon": 54.672013,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-balhamid-street",
@@ -28066,7 +28586,8 @@ window.KB = {
       "osm": "way/635438711",
       "kind": "residential",
       "lat": 24.308204,
-      "lon": 54.590276
+      "lon": 54.590276,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-barakah-street",
@@ -28077,7 +28598,8 @@ window.KB = {
       "osm": "way/92007350",
       "kind": "residential",
       "lat": 24.33529,
-      "lon": 54.543384
+      "lon": 54.543384,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-barmaan-street",
@@ -28088,7 +28610,8 @@ window.KB = {
       "osm": "way/475192934",
       "kind": "residential",
       "lat": 24.281665,
-      "lon": 54.663006
+      "lon": 54.663006,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-bayt-ash-sha-ar-street",
@@ -28099,7 +28622,8 @@ window.KB = {
       "osm": "way/818601195",
       "kind": "residential",
       "lat": 24.299932,
-      "lon": 54.66364
+      "lon": 54.66364,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-bu-mayrkah-street",
@@ -28110,7 +28634,8 @@ window.KB = {
       "osm": "way/474920679",
       "kind": "residential",
       "lat": 24.303148,
-      "lon": 54.57307
+      "lon": 54.57307,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-ghidayan-street",
@@ -28121,7 +28646,8 @@ window.KB = {
       "osm": "way/105447650",
       "kind": "residential",
       "lat": 24.333336,
-      "lon": 54.637568
+      "lon": 54.637568,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-ikhyadir-street",
@@ -28132,7 +28658,8 @@ window.KB = {
       "osm": "way/116447976",
       "kind": "residential",
       "lat": 24.323484,
-      "lon": 54.632425
+      "lon": 54.632425,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-khuzam-street",
@@ -28143,7 +28670,8 @@ window.KB = {
       "osm": "way/635446544",
       "kind": "residential",
       "lat": 24.296709,
-      "lon": 54.619597
+      "lon": 54.619597,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-mneesab-street",
@@ -28154,7 +28682,8 @@ window.KB = {
       "osm": "way/115726581",
       "kind": "residential",
       "lat": 24.302828,
-      "lon": 54.655935
+      "lon": 54.655935,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-sabi-street",
@@ -28165,7 +28694,8 @@ window.KB = {
       "osm": "way/94055545",
       "kind": "residential",
       "lat": 24.386732,
-      "lon": 54.641168
+      "lon": 54.641168,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qurn-sayram-street",
@@ -28176,7 +28706,8 @@ window.KB = {
       "osm": "way/116447610",
       "kind": "residential",
       "lat": 24.309255,
-      "lon": 54.607134
+      "lon": 54.607134,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-abu-sheerah-street",
@@ -28187,7 +28718,8 @@ window.KB = {
       "osm": "way/1138004805",
       "kind": "residential",
       "lat": 24.399075,
-      "lon": 54.682997
+      "lon": 54.682997,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-al-keer-street",
@@ -28198,7 +28730,8 @@ window.KB = {
       "osm": "way/173175063",
       "kind": "residential",
       "lat": 24.32212,
-      "lon": 54.544135
+      "lon": 54.544135,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-al-ma-street",
@@ -28209,7 +28742,8 @@ window.KB = {
       "osm": "way/682780264",
       "kind": "residential",
       "lat": 24.373257,
-      "lon": 54.651451
+      "lon": 54.651451,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-al-madfar-street",
@@ -28220,7 +28754,8 @@ window.KB = {
       "osm": "way/253019277",
       "kind": "residential",
       "lat": 24.410403,
-      "lon": 54.737074
+      "lon": 54.737074,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-al-milh-street",
@@ -28231,7 +28766,8 @@ window.KB = {
       "osm": "way/473381966",
       "kind": "residential",
       "lat": 24.313865,
-      "lon": 54.566128
+      "lon": 54.566128,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-al-mistideerah-street",
@@ -28242,7 +28778,8 @@ window.KB = {
       "osm": "way/693837410",
       "kind": "residential",
       "lat": 24.384851,
-      "lon": 54.640279
+      "lon": 54.640279,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-al-qoum-street",
@@ -28253,7 +28790,8 @@ window.KB = {
       "osm": "way/635438623",
       "kind": "residential",
       "lat": 24.319463,
-      "lon": 54.587671
+      "lon": 54.587671,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-b-aya-street",
@@ -28264,7 +28802,8 @@ window.KB = {
       "osm": "way/115732782",
       "kind": "residential",
       "lat": 24.365475,
-      "lon": 54.664661
+      "lon": 54.664661,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-barayjah-street",
@@ -28275,7 +28814,8 @@ window.KB = {
       "osm": "way/474712079",
       "kind": "residential",
       "lat": 24.342814,
-      "lon": 54.571815
+      "lon": 54.571815,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-bu-taj-street",
@@ -28286,7 +28826,8 @@ window.KB = {
       "osm": "way/115725418",
       "kind": "residential",
       "lat": 24.297216,
-      "lon": 54.641921
+      "lon": 54.641921,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-fateem-street",
@@ -28297,7 +28838,8 @@ window.KB = {
       "osm": "way/818897049",
       "kind": "residential",
       "lat": 24.397167,
-      "lon": 54.650417
+      "lon": 54.650417,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-jam-ah-street",
@@ -28308,7 +28850,8 @@ window.KB = {
       "osm": "way/85680617",
       "kind": "residential",
       "lat": 24.355632,
-      "lon": 54.56106
+      "lon": 54.56106,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qussar-um-yalayah-street",
@@ -28319,7 +28862,8 @@ window.KB = {
       "osm": "way/1120980895",
       "kind": "residential",
       "lat": 24.299474,
-      "lon": 54.627263
+      "lon": 54.627263,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/qutada-bin-an-nu-man-street",
@@ -28330,7 +28874,8 @@ window.KB = {
       "osm": "way/246999001",
       "kind": "residential",
       "lat": 24.293633,
-      "lon": 54.646562
+      "lon": 54.646562,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ra-lat-al-mazi-street",
@@ -28341,7 +28886,8 @@ window.KB = {
       "osm": "way/1210149609",
       "kind": "residential",
       "lat": 24.267165,
-      "lon": 54.657454
+      "lon": 54.657454,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-ad-da-ayah-street",
@@ -28352,7 +28898,8 @@ window.KB = {
       "osm": "way/116447958",
       "kind": "residential",
       "lat": 24.32291,
-      "lon": 54.628234
+      "lon": 54.628234,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-al-hilayqah-street",
@@ -28363,7 +28910,8 @@ window.KB = {
       "osm": "way/820507503",
       "kind": "residential",
       "lat": 24.366819,
-      "lon": 54.594152
+      "lon": 54.594152,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-al-mishash-street",
@@ -28374,7 +28922,8 @@ window.KB = {
       "osm": "way/172916843",
       "kind": "residential",
       "lat": 24.376842,
-      "lon": 54.540343
+      "lon": 54.540343,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-bu-maqla-street",
@@ -28385,7 +28934,8 @@ window.KB = {
       "osm": "way/820507430",
       "kind": "residential",
       "lat": 24.389335,
-      "lon": 54.6141
+      "lon": 54.6141,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-bu-sumrah-street",
@@ -28396,7 +28946,8 @@ window.KB = {
       "osm": "way/235147564",
       "kind": "residential",
       "lat": 24.346728,
-      "lon": 54.695313
+      "lon": 54.695313,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-ghimaysah-street",
@@ -28407,7 +28958,8 @@ window.KB = {
       "osm": "way/635057878",
       "kind": "residential",
       "lat": 24.28517,
-      "lon": 54.633334
+      "lon": 54.633334,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-haleebah-street",
@@ -28418,7 +28970,8 @@ window.KB = {
       "osm": "way/819197991",
       "kind": "residential",
       "lat": 24.392797,
-      "lon": 54.668217
+      "lon": 54.668217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-mishaylish-street",
@@ -28429,7 +28982,8 @@ window.KB = {
       "osm": "way/818883188",
       "kind": "residential",
       "lat": 24.374596,
-      "lon": 54.672576
+      "lon": 54.672576,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rabbadat-um-ath-thamam-street",
@@ -28440,7 +28994,8 @@ window.KB = {
       "osm": "way/820507527",
       "kind": "residential",
       "lat": 24.35916,
-      "lon": 54.597631
+      "lon": 54.597631,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rajab-street",
@@ -28451,7 +29006,8 @@ window.KB = {
       "osm": "way/370220802",
       "kind": "residential",
       "lat": 24.366008,
-      "lon": 54.542574
+      "lon": 54.542574,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rajjaf-street",
@@ -28462,7 +29018,8 @@ window.KB = {
       "osm": "way/634310257",
       "kind": "residential",
       "lat": 24.340794,
-      "lon": 54.751255
+      "lon": 54.751255,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rakat-harib-street",
@@ -28473,7 +29030,8 @@ window.KB = {
       "osm": "way/974606686",
       "kind": "residential",
       "lat": 24.402879,
-      "lon": 54.70133
+      "lon": 54.70133,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramhan-street",
@@ -28484,7 +29042,8 @@ window.KB = {
       "osm": "way/54201004",
       "kind": "residential",
       "lat": 24.342804,
-      "lon": 54.626455
+      "lon": 54.626455,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramil-al-barqa-a-street",
@@ -28495,7 +29054,8 @@ window.KB = {
       "osm": "way/247044181",
       "kind": "residential",
       "lat": 24.334712,
-      "lon": 54.536992
+      "lon": 54.536992,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/raml-wasit-street",
@@ -28506,7 +29066,8 @@ window.KB = {
       "osm": "way/115726559",
       "kind": "residential",
       "lat": 24.30258,
-      "lon": 54.658401
+      "lon": 54.658401,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlah-bint-abi-awf-street",
@@ -28517,7 +29078,8 @@ window.KB = {
       "osm": "way/116428992",
       "kind": "residential",
       "lat": 24.316777,
-      "lon": 54.638491
+      "lon": 54.638491,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-ad-dihaymah-street",
@@ -28528,7 +29090,8 @@ window.KB = {
       "osm": "way/94055566",
       "kind": "residential",
       "lat": 24.390784,
-      "lon": 54.645621
+      "lon": 54.645621,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-iqaylah-street",
@@ -28539,7 +29102,8 @@ window.KB = {
       "osm": "way/116691896",
       "kind": "residential",
       "lat": 24.346024,
-      "lon": 54.536246
+      "lon": 54.536246,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-badee-street",
@@ -28550,7 +29114,8 @@ window.KB = {
       "osm": "way/94058687",
       "kind": "residential",
       "lat": 24.372248,
-      "lon": 54.723165
+      "lon": 54.723165,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-bazmi-street",
@@ -28561,7 +29126,8 @@ window.KB = {
       "osm": "way/116691036",
       "kind": "residential",
       "lat": 24.29637,
-      "lon": 54.632173
+      "lon": 54.632173,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-birayr-street",
@@ -28572,7 +29138,8 @@ window.KB = {
       "osm": "way/821077767",
       "kind": "residential",
       "lat": 24.375019,
-      "lon": 54.625943
+      "lon": 54.625943,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-ghabbah-street",
@@ -28583,7 +29150,8 @@ window.KB = {
       "osm": "way/93177791",
       "kind": "residential",
       "lat": 24.390421,
-      "lon": 54.658451
+      "lon": 54.658451,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-hamam-street",
@@ -28594,7 +29162,8 @@ window.KB = {
       "osm": "way/89640082",
       "kind": "residential",
       "lat": 24.364839,
-      "lon": 54.528477
+      "lon": 54.528477,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-hamra-street",
@@ -28605,7 +29174,8 @@ window.KB = {
       "osm": "way/54202629",
       "kind": "residential",
       "lat": 24.367437,
-      "lon": 54.634283
+      "lon": 54.634283,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-khab-street",
@@ -28616,7 +29186,8 @@ window.KB = {
       "osm": "way/818566867",
       "kind": "residential",
       "lat": 24.379804,
-      "lon": 54.67583
+      "lon": 54.67583,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-khadar-street",
@@ -28627,7 +29198,8 @@ window.KB = {
       "osm": "way/177637753",
       "kind": "residential",
       "lat": 24.26277,
-      "lon": 54.696806
+      "lon": 54.696806,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-khishoum-street",
@@ -28638,7 +29210,8 @@ window.KB = {
       "osm": "way/93177804",
       "kind": "residential",
       "lat": 24.382442,
-      "lon": 54.653176
+      "lon": 54.653176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-manayif-street",
@@ -28649,7 +29222,8 @@ window.KB = {
       "osm": "way/476611401",
       "kind": "residential",
       "lat": 24.336776,
-      "lon": 54.535154
+      "lon": 54.535154,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-mihar-street",
@@ -28660,7 +29234,8 @@ window.KB = {
       "osm": "way/306818480",
       "kind": "residential",
       "lat": 24.300213,
-      "lon": 54.628019
+      "lon": 54.628019,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-mitla-street",
@@ -28671,7 +29246,8 @@ window.KB = {
       "osm": "way/635057871",
       "kind": "residential",
       "lat": 24.288964,
-      "lon": 54.633611
+      "lon": 54.633611,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-qisees-street",
@@ -28682,7 +29258,8 @@ window.KB = {
       "osm": "way/91676410",
       "kind": "residential",
       "lat": 24.335357,
-      "lon": 54.558263
+      "lon": 54.558263,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-sahib-street",
@@ -28693,7 +29270,8 @@ window.KB = {
       "osm": "way/54200994",
       "kind": "residential",
       "lat": 24.344154,
-      "lon": 54.618443
+      "lon": 54.618443,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-al-yahliyah-street",
@@ -28704,7 +29282,8 @@ window.KB = {
       "osm": "way/235121444",
       "kind": "residential",
       "lat": 24.353471,
-      "lon": 54.69413
+      "lon": 54.69413,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-as-sileel-street",
@@ -28715,7 +29294,8 @@ window.KB = {
       "osm": "way/54201185",
       "kind": "residential",
       "lat": 24.373741,
-      "lon": 54.64526
+      "lon": 54.64526,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-ash-shanayin-street",
@@ -28726,7 +29306,8 @@ window.KB = {
       "osm": "way/94055565",
       "kind": "residential",
       "lat": 24.379565,
-      "lon": 54.644572
+      "lon": 54.644572,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-ash-shibaykah-street",
@@ -28737,7 +29318,8 @@ window.KB = {
       "osm": "way/54200930",
       "kind": "residential",
       "lat": 24.346573,
-      "lon": 54.621153
+      "lon": 54.621153,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-ash-shurouq-street",
@@ -28748,7 +29330,8 @@ window.KB = {
       "osm": "way/635438628",
       "kind": "residential",
       "lat": 24.318923,
-      "lon": 54.588026
+      "lon": 54.588026,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-az-zallalah-street",
@@ -28759,7 +29342,8 @@ window.KB = {
       "osm": "way/173392558",
       "kind": "residential",
       "lat": 24.310186,
-      "lon": 54.561852
+      "lon": 54.561852,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-bad-zayed-street",
@@ -28770,7 +29354,8 @@ window.KB = {
       "osm": "way/118783479",
       "kind": "residential",
       "lat": 24.399611,
-      "lon": 54.738875
+      "lon": 54.738875,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-bu-artah-street",
@@ -28781,7 +29366,8 @@ window.KB = {
       "osm": "way/246998996",
       "kind": "residential",
       "lat": 24.291114,
-      "lon": 54.642207
+      "lon": 54.642207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-bu-dab-street",
@@ -28792,7 +29378,8 @@ window.KB = {
       "osm": "way/635438645",
       "kind": "residential",
       "lat": 24.314136,
-      "lon": 54.587252
+      "lon": 54.587252,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-funoud-street",
@@ -28803,7 +29390,8 @@ window.KB = {
       "osm": "way/93177797",
       "kind": "residential",
       "lat": 24.384723,
-      "lon": 54.654633
+      "lon": 54.654633,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-hifeer-street",
@@ -28814,7 +29402,8 @@ window.KB = {
       "osm": "way/246999006",
       "kind": "residential",
       "lat": 24.292744,
-      "lon": 54.648278
+      "lon": 54.648278,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-lufouq-street",
@@ -28825,7 +29414,8 @@ window.KB = {
       "osm": "way/695093245",
       "kind": "residential",
       "lat": 24.340413,
-      "lon": 54.642133
+      "lon": 54.642133,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-m-aysim-street",
@@ -28836,7 +29426,8 @@ window.KB = {
       "osm": "way/248481447",
       "kind": "residential",
       "lat": 24.357183,
-      "lon": 54.684694
+      "lon": 54.684694,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-mdayroum-street",
@@ -28847,7 +29438,8 @@ window.KB = {
       "osm": "way/820507555",
       "kind": "residential",
       "lat": 24.38381,
-      "lon": 54.599111
+      "lon": 54.599111,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ramlat-niseeb-street",
@@ -28858,7 +29450,8 @@ window.KB = {
       "osm": "way/695162115",
       "kind": "residential",
       "lat": 24.330033,
-      "lon": 54.645595
+      "lon": 54.645595,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rammay-street",
@@ -28869,7 +29462,8 @@ window.KB = {
       "osm": "way/24303610",
       "kind": "residential",
       "lat": 24.397515,
-      "lon": 54.499636
+      "lon": 54.499636,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-abu-al-abyad-street",
@@ -28880,7 +29474,8 @@ window.KB = {
       "osm": "way/499491142",
       "kind": "residential",
       "lat": 24.34437,
-      "lon": 54.766512
+      "lon": 54.766512,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-ad-dibay-ah-street",
@@ -28891,7 +29486,8 @@ window.KB = {
       "osm": "way/235121476",
       "kind": "tertiary",
       "lat": 24.353387,
-      "lon": 54.682347
+      "lon": 54.682347,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-barbar-street",
@@ -28902,7 +29498,8 @@ window.KB = {
       "osm": "way/695093246",
       "kind": "residential",
       "lat": 24.341596,
-      "lon": 54.640401
+      "lon": 54.640401,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-bateen-street",
@@ -28913,7 +29510,8 @@ window.KB = {
       "osm": "way/820507518",
       "kind": "residential",
       "lat": 24.362994,
-      "lon": 54.598311
+      "lon": 54.598311,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-buhouth-street",
@@ -28924,7 +29522,8 @@ window.KB = {
       "osm": "way/474712075",
       "kind": "residential",
       "lat": 24.340757,
-      "lon": 54.571037
+      "lon": 54.571037,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-buwaytir-street",
@@ -28935,7 +29534,8 @@ window.KB = {
       "osm": "way/974463497",
       "kind": "residential",
       "lat": 24.351906,
-      "lon": 54.60454
+      "lon": 54.60454,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-furdah-street",
@@ -28946,7 +29546,8 @@ window.KB = {
       "osm": "way/173184948",
       "kind": "residential",
       "lat": 24.3226,
-      "lon": 54.559138
+      "lon": 54.559138,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-hayali-street",
@@ -28957,7 +29558,8 @@ window.KB = {
       "osm": "way/248481439",
       "kind": "residential",
       "lat": 24.360469,
-      "lon": 54.687383
+      "lon": 54.687383,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-jila-street",
@@ -28968,7 +29570,8 @@ window.KB = {
       "osm": "way/247044178",
       "kind": "residential",
       "lat": 24.336557,
-      "lon": 54.531508
+      "lon": 54.531508,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-kahf-street",
@@ -28979,7 +29582,8 @@ window.KB = {
       "osm": "way/975377818",
       "kind": "residential",
       "lat": 24.398462,
-      "lon": 54.679216
+      "lon": 54.679216,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-madar-street",
@@ -28990,7 +29594,8 @@ window.KB = {
       "osm": "way/819198272",
       "kind": "residential",
       "lat": 24.387256,
-      "lon": 54.668534
+      "lon": 54.668534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-moutar-street",
@@ -29001,7 +29606,8 @@ window.KB = {
       "osm": "way/105444690",
       "kind": "residential",
       "lat": 24.283527,
-      "lon": 54.647977
+      "lon": 54.647977,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-al-yareefah-street",
@@ -29012,7 +29618,8 @@ window.KB = {
       "osm": "way/635438612",
       "kind": "residential",
       "lat": 24.321762,
-      "lon": 54.585992
+      "lon": 54.585992,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-ar-riyay-ah-street",
@@ -29023,7 +29630,8 @@ window.KB = {
       "osm": "way/247044159",
       "kind": "residential",
       "lat": 24.334682,
-      "lon": 54.535258
+      "lon": 54.535258,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-ar-ruways-street",
@@ -29034,7 +29642,8 @@ window.KB = {
       "osm": "way/383613886",
       "kind": "residential",
       "lat": 24.410072,
-      "lon": 54.469549
+      "lon": 54.469549,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-ar-ruwaysiyah-street",
@@ -29045,7 +29654,8 @@ window.KB = {
       "osm": "way/474712097",
       "kind": "residential",
       "lat": 24.327933,
-      "lon": 54.57866
+      "lon": 54.57866,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-as-samdah-street",
@@ -29056,7 +29666,8 @@ window.KB = {
       "osm": "way/93177806",
       "kind": "residential",
       "lat": 24.395035,
-      "lon": 54.659661
+      "lon": 54.659661,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-az-zirmah-street",
@@ -29067,7 +29678,8 @@ window.KB = {
       "osm": "way/235121463",
       "kind": "residential",
       "lat": 24.36037,
-      "lon": 54.694008
+      "lon": 54.694008,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-bu-ghouri-street",
@@ -29078,7 +29690,8 @@ window.KB = {
       "osm": "way/89640102",
       "kind": "residential",
       "lat": 24.364858,
-      "lon": 54.530239
+      "lon": 54.530239,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-dadna-street",
@@ -29089,7 +29702,8 @@ window.KB = {
       "osm": "way/235148659",
       "kind": "residential",
       "lat": 24.36852,
-      "lon": 54.693057
+      "lon": 54.693057,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-hsayan-street",
@@ -29100,7 +29714,8 @@ window.KB = {
       "osm": "way/115732779",
       "kind": "residential",
       "lat": 24.375405,
-      "lon": 54.668294
+      "lon": 54.668294,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-miqayshit-street",
@@ -29111,7 +29726,8 @@ window.KB = {
       "osm": "way/105451676",
       "kind": "residential",
       "lat": 24.327645,
-      "lon": 54.629475
+      "lon": 54.629475,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ras-sayhama-street",
@@ -29122,7 +29738,8 @@ window.KB = {
       "osm": "way/974463487",
       "kind": "residential",
       "lat": 24.353632,
-      "lon": 54.599855
+      "lon": 54.599855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rashid-bin-jaber-al-hameli-street",
@@ -29133,7 +29750,8 @@ window.KB = {
       "osm": "way/24300368",
       "kind": "tertiary",
       "lat": 24.405703,
-      "lon": 54.495231
+      "lon": 54.495231,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rastan-street",
@@ -29144,7 +29762,8 @@ window.KB = {
       "osm": "way/173019872",
       "kind": "residential",
       "lat": 24.296316,
-      "lon": 54.560308
+      "lon": 54.560308,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/razam-street",
@@ -29155,7 +29774,8 @@ window.KB = {
       "osm": "way/448037732",
       "kind": "residential",
       "lat": 24.333205,
-      "lon": 54.75556
+      "lon": 54.75556,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/razim-street",
@@ -29166,7 +29786,8 @@ window.KB = {
       "osm": "way/475120181",
       "kind": "residential",
       "lat": 24.320355,
-      "lon": 54.535496
+      "lon": 54.535496,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rifa-ah-bin-amr-street",
@@ -29177,7 +29798,8 @@ window.KB = {
       "osm": "way/173117060",
       "kind": "residential",
       "lat": 24.325201,
-      "lon": 54.537918
+      "lon": 54.537918,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rifa-ah-bin-waqsh-street",
@@ -29188,7 +29810,8 @@ window.KB = {
       "osm": "way/118783471",
       "kind": "residential",
       "lat": 24.396867,
-      "lon": 54.724121
+      "lon": 54.724121,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rikab-al-bad-ah-street",
@@ -29199,7 +29822,8 @@ window.KB = {
       "osm": "way/116681881",
       "kind": "residential",
       "lat": 24.360435,
-      "lon": 54.661584
+      "lon": 54.661584,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rimah-street",
@@ -29210,7 +29834,8 @@ window.KB = {
       "osm": "way/475163432",
       "kind": "tertiary",
       "lat": 24.322312,
-      "lon": 54.742178
+      "lon": 54.742178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-ad-da-ali-street",
@@ -29221,7 +29846,8 @@ window.KB = {
       "osm": "way/122093844",
       "kind": "residential",
       "lat": 24.383879,
-      "lon": 54.718292
+      "lon": 54.718292,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-al-aweedah-street",
@@ -29232,7 +29858,8 @@ window.KB = {
       "osm": "way/635438654",
       "kind": "residential",
       "lat": 24.312407,
-      "lon": 54.587209
+      "lon": 54.587209,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-al-bidou-street",
@@ -29243,7 +29870,8 @@ window.KB = {
       "osm": "way/475391049",
       "kind": "residential",
       "lat": 24.370874,
-      "lon": 54.769564
+      "lon": 54.769564,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-al-birayr-street",
@@ -29254,7 +29882,8 @@ window.KB = {
       "osm": "way/635438204",
       "kind": "residential",
       "lat": 24.353379,
-      "lon": 54.776856
+      "lon": 54.776856,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-al-isaywid-street",
@@ -29265,7 +29894,8 @@ window.KB = {
       "osm": "way/235148592",
       "kind": "residential",
       "lat": 24.368193,
-      "lon": 54.694617
+      "lon": 54.694617,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-al-rawdah-street",
@@ -29276,7 +29906,8 @@ window.KB = {
       "osm": "way/473408453",
       "kind": "residential",
       "lat": 24.360988,
-      "lon": 54.747225
+      "lon": 54.747225,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-ar-ribiy-ah-street",
@@ -29287,7 +29918,8 @@ window.KB = {
       "osm": "way/695682571",
       "kind": "residential",
       "lat": 24.264919,
-      "lon": 54.703084
+      "lon": 54.703084,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-bu-fraydah-street",
@@ -29298,7 +29930,8 @@ window.KB = {
       "osm": "way/635059342",
       "kind": "residential",
       "lat": 24.277056,
-      "lon": 54.649262
+      "lon": 54.649262,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-bu-seeh-street",
@@ -29309,7 +29942,8 @@ window.KB = {
       "osm": "way/94058733",
       "kind": "residential",
       "lat": 24.37883,
-      "lon": 54.724101
+      "lon": 54.724101,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-hasan-street",
@@ -29320,7 +29954,8 @@ window.KB = {
       "osm": "way/247048150",
       "kind": "residential",
       "lat": 24.325764,
-      "lon": 54.533727
+      "lon": 54.533727,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-maytha-street",
@@ -29331,7 +29966,8 @@ window.KB = {
       "osm": "way/474712078",
       "kind": "residential",
       "lat": 24.341292,
-      "lon": 54.572385
+      "lon": 54.572385,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-mijlad-street",
@@ -29342,7 +29978,8 @@ window.KB = {
       "osm": "way/173392746",
       "kind": "residential",
       "lat": 24.307316,
-      "lon": 54.562119
+      "lon": 54.562119,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-qamrah-street",
@@ -29353,7 +29990,8 @@ window.KB = {
       "osm": "way/635446552",
       "kind": "residential",
       "lat": 24.299339,
-      "lon": 54.613744
+      "lon": 54.613744,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-salih-street",
@@ -29364,7 +30002,8 @@ window.KB = {
       "osm": "way/91676407",
       "kind": "residential",
       "lat": 24.336455,
-      "lon": 54.548882
+      "lon": 54.548882,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riq-at-silayib-street",
@@ -29375,7 +30014,8 @@ window.KB = {
       "osm": "way/974606688",
       "kind": "residential",
       "lat": 24.40277,
-      "lon": 54.698631
+      "lon": 54.698631,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riqa-street",
@@ -29386,7 +30026,8 @@ window.KB = {
       "osm": "way/306671071",
       "kind": "residential",
       "lat": 24.32206,
-      "lon": 54.728785
+      "lon": 54.728785,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riqa-ar-rimth-street",
@@ -29397,7 +30038,8 @@ window.KB = {
       "osm": "way/635057866",
       "kind": "residential",
       "lat": 24.28755,
-      "lon": 54.631198
+      "lon": 54.631198,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riqoum-street",
@@ -29408,7 +30050,8 @@ window.KB = {
       "osm": "way/820507460",
       "kind": "residential",
       "lat": 24.365628,
-      "lon": 54.617027
+      "lon": 54.617027,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/riyadh-street",
@@ -29419,7 +30062,8 @@ window.KB = {
       "osm": "way/230235308",
       "kind": "tertiary",
       "lat": 24.352528,
-      "lon": 54.732968
+      "lon": 54.732968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rizim-bint-sarnah-street",
@@ -29430,7 +30074,8 @@ window.KB = {
       "osm": "way/974606636",
       "kind": "residential",
       "lat": 24.403376,
-      "lon": 54.703446
+      "lon": 54.703446,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rizoum-al-bidayir-street",
@@ -29441,7 +30086,8 @@ window.KB = {
       "osm": "way/173039594",
       "kind": "residential",
       "lat": 24.381708,
-      "lon": 54.534912
+      "lon": 54.534912,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rkan-street",
@@ -29452,7 +30098,8 @@ window.KB = {
       "osm": "way/634310270",
       "kind": "residential",
       "lat": 24.346467,
-      "lon": 54.753061
+      "lon": 54.753061,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rmaylat-al-khalal-street",
@@ -29463,18 +30110,20 @@ window.KB = {
       "osm": "way/818597391",
       "kind": "residential",
       "lat": 24.306578,
-      "lon": 54.66099
+      "lon": 54.66099,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/rouh-al-ata-a-4-street",
+      "id": "abu-dhabi-city/rouh-al-ata-a-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Rouh Al 'Ata-a 4 Street",
-      "name_ar": "شارع رُوح العَطاء 4",
+      "name_en": "Rouh Al 'Ata-a Street",
+      "name_ar": "شارع رُوح العَطاء",
       "osm": "way/24337362",
       "kind": "tertiary",
       "lat": 24.341017,
-      "lon": 54.517563
+      "lon": 54.517563,
+      "variants": 4
     },
     {
       "id": "abu-dhabi-city/roul-diba-street",
@@ -29485,7 +30134,8 @@ window.KB = {
       "osm": "way/161842464",
       "kind": "residential",
       "lat": 24.322602,
-      "lon": 54.538003
+      "lon": 54.538003,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ru-ous-al-jibal-street",
@@ -29496,7 +30146,8 @@ window.KB = {
       "osm": "way/173180859",
       "kind": "residential",
       "lat": 24.309779,
-      "lon": 54.54106
+      "lon": 54.54106,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ruhaybi-street",
@@ -29507,7 +30158,8 @@ window.KB = {
       "osm": "way/91675960",
       "kind": "residential",
       "lat": 24.345295,
-      "lon": 54.558661
+      "lon": 54.558661,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rukbat-al-maftoul-street",
@@ -29518,7 +30170,8 @@ window.KB = {
       "osm": "way/1210149610",
       "kind": "residential",
       "lat": 24.266359,
-      "lon": 54.656985
+      "lon": 54.656985,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/rzeem-street",
@@ -29529,7 +30182,8 @@ window.KB = {
       "osm": "way/94058669",
       "kind": "residential",
       "lat": 24.373586,
-      "lon": 54.719736
+      "lon": 54.719736,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sa-d-bin-suwayd-bin-qays-street",
@@ -29540,7 +30194,8 @@ window.KB = {
       "osm": "way/118783500",
       "kind": "residential",
       "lat": 24.397102,
-      "lon": 54.725916
+      "lon": 54.725916,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabeel-al-ma-rifah-street",
@@ -29551,7 +30206,8 @@ window.KB = {
       "osm": "way/307014490",
       "kind": "residential",
       "lat": 24.320832,
-      "lon": 54.621461
+      "lon": 54.621461,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-al-hadar-street",
@@ -29562,7 +30218,8 @@ window.KB = {
       "osm": "way/54201172",
       "kind": "residential",
       "lat": 24.371624,
-      "lon": 54.6284
+      "lon": 54.6284,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-al-hasoun-street",
@@ -29573,7 +30230,8 @@ window.KB = {
       "osm": "way/974606717",
       "kind": "residential",
       "lat": 24.399806,
-      "lon": 54.676838
+      "lon": 54.676838,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-al-hayriyah-street",
@@ -29584,7 +30242,8 @@ window.KB = {
       "osm": "way/635438696",
       "kind": "residential",
       "lat": 24.308302,
-      "lon": 54.595817
+      "lon": 54.595817,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-al-hiwaydhah-street",
@@ -29595,7 +30254,8 @@ window.KB = {
       "osm": "way/1364448847",
       "kind": "residential",
       "lat": 24.343802,
-      "lon": 54.623223
+      "lon": 54.623223,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-al-midba-ah-street",
@@ -29606,7 +30266,8 @@ window.KB = {
       "osm": "way/235147566",
       "kind": "residential",
       "lat": 24.346187,
-      "lon": 54.700727
+      "lon": 54.700727,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-al-salamiyah-street",
@@ -29617,7 +30278,8 @@ window.KB = {
       "osm": "way/820507417",
       "kind": "residential",
       "lat": 24.389169,
-      "lon": 54.621294
+      "lon": 54.621294,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-al-wutayid-street",
@@ -29628,7 +30290,8 @@ window.KB = {
       "osm": "way/91676390",
       "kind": "residential",
       "lat": 24.338342,
-      "lon": 54.558583
+      "lon": 54.558583,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-ath-thiqeebah-street",
@@ -29639,7 +30302,8 @@ window.KB = {
       "osm": "way/94055562",
       "kind": "residential",
       "lat": 24.377795,
-      "lon": 54.64969
+      "lon": 54.64969,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-bilhasa-street",
@@ -29650,7 +30314,8 @@ window.KB = {
       "osm": "way/95490088",
       "kind": "residential",
       "lat": 24.405668,
-      "lon": 54.720055
+      "lon": 54.720055,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-bu-huffafah-street",
@@ -29661,7 +30326,8 @@ window.KB = {
       "osm": "way/818886405",
       "kind": "residential",
       "lat": 24.381382,
-      "lon": 54.674165
+      "lon": 54.674165,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-bu-timeer-street",
@@ -29672,7 +30338,8 @@ window.KB = {
       "osm": "way/1346119962",
       "kind": "residential",
       "lat": 24.272056,
-      "lon": 54.672556
+      "lon": 54.672556,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-haleebah-street",
@@ -29683,7 +30350,8 @@ window.KB = {
       "osm": "way/473392998",
       "kind": "residential",
       "lat": 24.367427,
-      "lon": 54.542939
+      "lon": 54.542939,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-hamamah-street",
@@ -29694,7 +30362,8 @@ window.KB = {
       "osm": "way/173394507",
       "kind": "residential",
       "lat": 24.309311,
-      "lon": 54.583544
+      "lon": 54.583544,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-hiraymah-street",
@@ -29705,7 +30374,8 @@ window.KB = {
       "osm": "way/851270839",
       "kind": "residential",
       "lat": 24.35344,
-      "lon": 54.543169
+      "lon": 54.543169,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-matti-street",
@@ -29716,7 +30386,8 @@ window.KB = {
       "osm": "way/474938492",
       "kind": "residential",
       "lat": 24.351883,
-      "lon": 54.738191
+      "lon": 54.738191,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-milayhah-street",
@@ -29727,7 +30398,8 @@ window.KB = {
       "osm": "way/94055558",
       "kind": "residential",
       "lat": 24.383398,
-      "lon": 54.645828
+      "lon": 54.645828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-qirayteesah-street",
@@ -29738,7 +30410,8 @@ window.KB = {
       "osm": "way/1351812936",
       "kind": "residential",
       "lat": 24.278866,
-      "lon": 54.680906
+      "lon": 54.680906,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabkhat-um-lailah-street",
@@ -29749,7 +30422,8 @@ window.KB = {
       "osm": "way/116429241",
       "kind": "residential",
       "lat": 24.317139,
-      "lon": 54.624994
+      "lon": 54.624994,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabou-street",
@@ -29760,7 +30434,8 @@ window.KB = {
       "osm": "way/248465718",
       "kind": "residential",
       "lat": 24.357427,
-      "lon": 54.743721
+      "lon": 54.743721,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sabrah-street",
@@ -29771,7 +30446,8 @@ window.KB = {
       "osm": "way/306682868",
       "kind": "residential",
       "lat": 24.369972,
-      "lon": 54.751838
+      "lon": 54.751838,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sad-dalam-street",
@@ -29782,7 +30458,8 @@ window.KB = {
       "osm": "way/235147551",
       "kind": "residential",
       "lat": 24.351134,
-      "lon": 54.70563
+      "lon": 54.70563,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sad-mirbah-street",
@@ -29793,7 +30470,8 @@ window.KB = {
       "osm": "way/247048142",
       "kind": "residential",
       "lat": 24.327273,
-      "lon": 54.536069
+      "lon": 54.536069,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sad-tawiyan-street",
@@ -29804,7 +30482,8 @@ window.KB = {
       "osm": "way/54200907",
       "kind": "residential",
       "lat": 24.357892,
-      "lon": 54.632777
+      "lon": 54.632777,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sad-wurayah-street",
@@ -29815,7 +30494,8 @@ window.KB = {
       "osm": "way/235148605",
       "kind": "residential",
       "lat": 24.367231,
-      "lon": 54.693817
+      "lon": 54.693817,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saddah-street",
@@ -29826,7 +30506,8 @@ window.KB = {
       "osm": "way/820507409",
       "kind": "residential",
       "lat": 24.397397,
-      "lon": 54.627305
+      "lon": 54.627305,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-alraqraqi-al-mazrouei-street",
@@ -29837,7 +30518,8 @@ window.KB = {
       "osm": "way/116429208",
       "kind": "residential",
       "lat": 24.317378,
-      "lon": 54.627273
+      "lon": 54.627273,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-bin-abdullah-al-qubaisi-street",
@@ -29848,7 +30530,8 @@ window.KB = {
       "osm": "way/90762777",
       "kind": "tertiary",
       "lat": 24.331985,
-      "lon": 54.556325
+      "lon": 54.556325,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-bin-ablan-al-mazrouei-street",
@@ -29859,7 +30542,8 @@ window.KB = {
       "osm": "way/975032992",
       "kind": "tertiary",
       "lat": 24.405501,
-      "lon": 54.568775
+      "lon": 54.568775,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-bin-dumithan-al-qamzi-street",
@@ -29870,7 +30554,8 @@ window.KB = {
       "osm": "way/118783434",
       "kind": "residential",
       "lat": 24.396234,
-      "lon": 54.71832
+      "lon": 54.71832,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-bin-majid-al-mansouri-street",
@@ -29881,7 +30566,8 @@ window.KB = {
       "osm": "way/115732754",
       "kind": "tertiary",
       "lat": 24.371984,
-      "lon": 54.692386
+      "lon": 54.692386,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-bin-sweed-al-mansouri-street",
@@ -29892,7 +30578,8 @@ window.KB = {
       "osm": "way/94329180",
       "kind": "tertiary",
       "lat": 24.276036,
-      "lon": 54.680645
+      "lon": 54.680645,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-bin-yarouf-al-mansouri-street",
@@ -29903,7 +30590,8 @@ window.KB = {
       "osm": "way/105447595",
       "kind": "residential",
       "lat": 24.331129,
-      "lon": 54.636197
+      "lon": 54.636197,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saeed-mohamed-al-hajeri-street",
@@ -29914,7 +30602,8 @@ window.KB = {
       "osm": "way/54200932",
       "kind": "residential",
       "lat": 24.345269,
-      "lon": 54.623009
+      "lon": 54.623009,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/safwan-street",
@@ -29925,7 +30614,8 @@ window.KB = {
       "osm": "way/821077756",
       "kind": "residential",
       "lat": 24.38241,
-      "lon": 54.614256
+      "lon": 54.614256,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sahl-ibn-al-handhaliyah-street",
@@ -29936,7 +30626,8 @@ window.KB = {
       "osm": "way/118783439",
       "kind": "residential",
       "lat": 24.398104,
-      "lon": 54.742944
+      "lon": 54.742944,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saif-bin-kasib-al-muhairi-street",
@@ -29947,7 +30638,8 @@ window.KB = {
       "osm": "way/173184577",
       "kind": "tertiary",
       "lat": 24.318246,
-      "lon": 54.556985
+      "lon": 54.556985,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saif-bin-khalfan-al-amimi-street",
@@ -29958,7 +30650,8 @@ window.KB = {
       "osm": "way/173019886",
       "kind": "tertiary",
       "lat": 24.300419,
-      "lon": 54.544973
+      "lon": 54.544973,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saif-bin-saluma-al-mansouri-street",
@@ -29969,7 +30662,8 @@ window.KB = {
       "osm": "way/695659029",
       "kind": "tertiary",
       "lat": 24.306838,
-      "lon": 54.654794
+      "lon": 54.654794,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saif-bin-shdhaib-al-mansouri-street",
@@ -29980,7 +30674,8 @@ window.KB = {
       "osm": "way/54201137",
       "kind": "residential",
       "lat": 24.359847,
-      "lon": 54.623115
+      "lon": 54.623115,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sakan-bu-yidi-street",
@@ -29991,7 +30686,8 @@ window.KB = {
       "osm": "way/635059340",
       "kind": "residential",
       "lat": 24.275902,
-      "lon": 54.650158
+      "lon": 54.650158,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/salamah-bin-al-akwa-street",
@@ -30002,7 +30698,8 @@ window.KB = {
       "osm": "way/235148655",
       "kind": "residential",
       "lat": 24.368314,
-      "lon": 54.702117
+      "lon": 54.702117,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saleh-hasan-binomar-street",
@@ -30013,7 +30710,8 @@ window.KB = {
       "osm": "way/818601196",
       "kind": "residential",
       "lat": 24.304703,
-      "lon": 54.663426
+      "lon": 54.663426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/salem-bin-fares-al-mazrouei-street",
@@ -30024,7 +30722,8 @@ window.KB = {
       "osm": "way/54200984",
       "kind": "tertiary",
       "lat": 24.345114,
-      "lon": 54.610704
+      "lon": 54.610704,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/salem-bin-thuaylib-al-amri-street",
@@ -30035,7 +30734,8 @@ window.KB = {
       "osm": "way/247044139",
       "kind": "residential",
       "lat": 24.333504,
-      "lon": 54.534607
+      "lon": 54.534607,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/salem-bu-melha-al-marar-street",
@@ -30046,7 +30746,8 @@ window.KB = {
       "osm": "way/93177748",
       "kind": "tertiary",
       "lat": 24.385665,
-      "lon": 54.644981
+      "lon": 54.644981,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sallat-mahanna-street",
@@ -30057,7 +30758,8 @@ window.KB = {
       "osm": "way/635057856",
       "kind": "residential",
       "lat": 24.288497,
-      "lon": 54.628772
+      "lon": 54.628772,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/samurah-bin-jundub-street",
@@ -30068,7 +30770,8 @@ window.KB = {
       "osm": "way/116451509",
       "kind": "residential",
       "lat": 24.350903,
-      "lon": 54.647742
+      "lon": 54.647742,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/saqr-bin-hamdan-al-falahi-street",
@@ -30079,7 +30782,8 @@ window.KB = {
       "osm": "way/122093806",
       "kind": "unclassified",
       "lat": 24.388554,
-      "lon": 54.708308
+      "lon": 54.708308,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarm-sayf-street",
@@ -30090,7 +30794,8 @@ window.KB = {
       "osm": "way/820507546",
       "kind": "residential",
       "lat": 24.37231,
-      "lon": 54.596885
+      "lon": 54.596885,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-al-gharaz-street",
@@ -30101,7 +30806,8 @@ window.KB = {
       "osm": "way/818886409",
       "kind": "residential",
       "lat": 24.38118,
-      "lon": 54.675876
+      "lon": 54.675876,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-al-hubara-street",
@@ -30112,7 +30818,8 @@ window.KB = {
       "osm": "way/820507504",
       "kind": "residential",
       "lat": 24.365935,
-      "lon": 54.59222
+      "lon": 54.59222,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-al-yahli-street",
@@ -30123,7 +30830,8 @@ window.KB = {
       "osm": "way/95490114",
       "kind": "residential",
       "lat": 24.408802,
-      "lon": 54.718675
+      "lon": 54.718675,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-az-zahar-street",
@@ -30134,7 +30842,8 @@ window.KB = {
       "osm": "way/54200993",
       "kind": "residential",
       "lat": 24.34385,
-      "lon": 54.614425
+      "lon": 54.614425,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-bu-sit-street",
@@ -30145,7 +30854,8 @@ window.KB = {
       "osm": "way/635438692",
       "kind": "residential",
       "lat": 24.310937,
-      "lon": 54.592465
+      "lon": 54.592465,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-niqa-jarah-street",
@@ -30156,7 +30866,8 @@ window.KB = {
       "osm": "way/116447596",
       "kind": "residential",
       "lat": 24.314212,
-      "lon": 54.607108
+      "lon": 54.607108,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-sbaytan-street",
@@ -30167,7 +30878,8 @@ window.KB = {
       "osm": "way/475193240",
       "kind": "residential",
       "lat": 24.284079,
-      "lon": 54.647049
+      "lon": 54.647049,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sarouq-um-ad-dili-street",
@@ -30178,7 +30890,8 @@ window.KB = {
       "osm": "way/635446542",
       "kind": "residential",
       "lat": 24.294159,
-      "lon": 54.623484
+      "lon": 54.623484,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sat-h-al-jinaneer-street",
@@ -30189,7 +30902,8 @@ window.KB = {
       "osm": "way/173226892",
       "kind": "residential",
       "lat": 24.32175,
-      "lon": 54.570359
+      "lon": 54.570359,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sat-h-al-razbout-street",
@@ -30200,7 +30914,8 @@ window.KB = {
       "osm": "way/821077736",
       "kind": "residential",
       "lat": 24.380916,
-      "lon": 54.624298
+      "lon": 54.624298,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sat-h-um-al-qussar-street",
@@ -30211,7 +30926,8 @@ window.KB = {
       "osm": "way/974463493",
       "kind": "residential",
       "lat": 24.358092,
-      "lon": 54.610695
+      "lon": 54.610695,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/satwat-baroudah-street",
@@ -30222,7 +30938,8 @@ window.KB = {
       "osm": "way/173017130",
       "kind": "residential",
       "lat": 24.361186,
-      "lon": 54.547679
+      "lon": 54.547679,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayah-street",
@@ -30233,7 +30950,8 @@ window.KB = {
       "osm": "way/306671072",
       "kind": "residential",
       "lat": 24.324296,
-      "lon": 54.744408
+      "lon": 54.744408,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayfi-bin-qaydhi-street",
@@ -30244,7 +30962,8 @@ window.KB = {
       "osm": "way/474926016",
       "kind": "residential",
       "lat": 24.366802,
-      "lon": 54.688615
+      "lon": 54.688615,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-ad-da-ay-street",
@@ -30255,7 +30974,8 @@ window.KB = {
       "osm": "way/820507565",
       "kind": "residential",
       "lat": 24.381136,
-      "lon": 54.60056
+      "lon": 54.60056,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-ad-dahal-street",
@@ -30266,7 +30986,8 @@ window.KB = {
       "osm": "way/115726563",
       "kind": "residential",
       "lat": 24.307259,
-      "lon": 54.650176
+      "lon": 54.650176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-araybi-street",
@@ -30277,7 +30998,8 @@ window.KB = {
       "osm": "way/474930690",
       "kind": "residential",
       "lat": 24.319823,
-      "lon": 54.53814
+      "lon": 54.53814,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-awiyah-street",
@@ -30288,7 +31010,8 @@ window.KB = {
       "osm": "way/974606630",
       "kind": "residential",
       "lat": 24.405297,
-      "lon": 54.703235
+      "lon": 54.703235,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-ishoush-street",
@@ -30299,7 +31022,8 @@ window.KB = {
       "osm": "way/94055560",
       "kind": "residential",
       "lat": 24.382851,
-      "lon": 54.639968
+      "lon": 54.639968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-bahah-street",
@@ -30310,7 +31034,8 @@ window.KB = {
       "osm": "way/745488873",
       "kind": "residential",
       "lat": 24.299201,
-      "lon": 54.566639
+      "lon": 54.566639,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-barq-street",
@@ -30321,7 +31046,8 @@ window.KB = {
       "osm": "way/974463507",
       "kind": "residential",
       "lat": 24.357451,
-      "lon": 54.604615
+      "lon": 54.604615,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-bidou-street",
@@ -30332,7 +31058,8 @@ window.KB = {
       "osm": "way/116429239",
       "kind": "residential",
       "lat": 24.316346,
-      "lon": 54.632438
+      "lon": 54.632438,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-birayr-street",
@@ -30343,7 +31070,8 @@ window.KB = {
       "osm": "way/1161282163",
       "kind": "residential",
       "lat": 24.400917,
-      "lon": 54.679066
+      "lon": 54.679066,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-buhouth-street",
@@ -30354,7 +31082,8 @@ window.KB = {
       "osm": "way/230320482",
       "kind": "residential",
       "lat": 24.285197,
-      "lon": 54.661016
+      "lon": 54.661016,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-fardah-street",
@@ -30365,7 +31094,8 @@ window.KB = {
       "osm": "way/974606668",
       "kind": "residential",
       "lat": 24.400338,
-      "lon": 54.697572
+      "lon": 54.697572,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-fareedah-street",
@@ -30376,7 +31106,8 @@ window.KB = {
       "osm": "way/54200933",
       "kind": "residential",
       "lat": 24.347323,
-      "lon": 54.622758
+      "lon": 54.622758,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-ghadeer-street",
@@ -30387,7 +31118,8 @@ window.KB = {
       "osm": "way/173226682",
       "kind": "residential",
       "lat": 24.313279,
-      "lon": 54.549728
+      "lon": 54.549728,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-ghayl-street",
@@ -30398,7 +31130,8 @@ window.KB = {
       "osm": "way/1187520202",
       "kind": "tertiary",
       "lat": 24.284803,
-      "lon": 54.714332
+      "lon": 54.714332,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-ghidhayan-street",
@@ -30409,7 +31142,8 @@ window.KB = {
       "osm": "way/635057858",
       "kind": "residential",
       "lat": 24.288899,
-      "lon": 54.629137
+      "lon": 54.629137,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-ghub-street",
@@ -30420,7 +31154,8 @@ window.KB = {
       "osm": "way/856082261",
       "kind": "unclassified",
       "lat": 24.31221,
-      "lon": 54.612945
+      "lon": 54.612945,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-hamd-street",
@@ -30431,7 +31166,8 @@ window.KB = {
       "osm": "way/820507544",
       "kind": "unclassified",
       "lat": 24.373955,
-      "lon": 54.600611
+      "lon": 54.600611,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-jalhad-street",
@@ -30442,7 +31178,8 @@ window.KB = {
       "osm": "way/1040535194",
       "kind": "residential",
       "lat": 24.358235,
-      "lon": 54.618014
+      "lon": 54.618014,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-jawabir-street",
@@ -30453,7 +31190,8 @@ window.KB = {
       "osm": "way/173175039",
       "kind": "residential",
       "lat": 24.320001,
-      "lon": 54.545764
+      "lon": 54.545764,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-layan-street",
@@ -30464,7 +31202,8 @@ window.KB = {
       "osm": "way/111295882",
       "kind": "residential",
       "lat": 24.278581,
-      "lon": 54.642308
+      "lon": 54.642308,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-lulu-iyah-street",
@@ -30475,7 +31214,8 @@ window.KB = {
       "osm": "way/819199171",
       "kind": "residential",
       "lat": 24.388392,
-      "lon": 54.674104
+      "lon": 54.674104,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-marmath-street",
@@ -30486,7 +31226,8 @@ window.KB = {
       "osm": "way/745488871",
       "kind": "residential",
       "lat": 24.300424,
-      "lon": 54.565534
+      "lon": 54.565534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-maryouhah-street",
@@ -30497,7 +31238,8 @@ window.KB = {
       "osm": "way/246998986",
       "kind": "residential",
       "lat": 24.290789,
-      "lon": 54.644298
+      "lon": 54.644298,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-qaseedat-street",
@@ -30508,7 +31250,8 @@ window.KB = {
       "osm": "way/637540063",
       "kind": "residential",
       "lat": 24.299081,
-      "lon": 54.573169
+      "lon": 54.573169,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-qat-street",
@@ -30519,7 +31262,8 @@ window.KB = {
       "osm": "way/230305463",
       "kind": "tertiary",
       "lat": 24.336881,
-      "lon": 54.736015
+      "lon": 54.736015,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-qou-street",
@@ -30530,7 +31274,8 @@ window.KB = {
       "osm": "way/173181688",
       "kind": "residential",
       "lat": 24.310024,
-      "lon": 54.539324
+      "lon": 54.539324,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-wyayah-street",
@@ -30541,7 +31286,8 @@ window.KB = {
       "osm": "way/695139031",
       "kind": "residential",
       "lat": 24.330682,
-      "lon": 54.632524
+      "lon": 54.632524,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-al-yiwayriyah-street",
@@ -30552,7 +31298,8 @@ window.KB = {
       "osm": "way/820507506",
       "kind": "residential",
       "lat": 24.366756,
-      "lon": 54.592954
+      "lon": 54.592954,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-ar-raqeebah-street",
@@ -30563,7 +31310,8 @@ window.KB = {
       "osm": "way/116447974",
       "kind": "residential",
       "lat": 24.323608,
-      "lon": 54.629783
+      "lon": 54.629783,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-ar-riwaydat-street",
@@ -30574,7 +31322,8 @@ window.KB = {
       "osm": "way/116447840",
       "kind": "residential",
       "lat": 24.298562,
-      "lon": 54.628893
+      "lon": 54.628893,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-as-sababah-street",
@@ -30585,7 +31334,8 @@ window.KB = {
       "osm": "way/105451670",
       "kind": "residential",
       "lat": 24.324812,
-      "lon": 54.633077
+      "lon": 54.633077,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-as-safiyah-street",
@@ -30596,7 +31346,8 @@ window.KB = {
       "osm": "way/27506925",
       "kind": "residential",
       "lat": 24.351738,
-      "lon": 54.548256
+      "lon": 54.548256,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-as-salaymat-street",
@@ -30607,7 +31358,8 @@ window.KB = {
       "osm": "way/91675969",
       "kind": "residential",
       "lat": 24.342533,
-      "lon": 54.566729
+      "lon": 54.566729,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-as-saqlah-street",
@@ -30618,7 +31370,8 @@ window.KB = {
       "osm": "way/635438632",
       "kind": "residential",
       "lat": 24.317036,
-      "lon": 54.589175
+      "lon": 54.589175,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-as-sileel-street",
@@ -30629,7 +31382,8 @@ window.KB = {
       "osm": "way/85680610",
       "kind": "residential",
       "lat": 24.351862,
-      "lon": 54.561826
+      "lon": 54.561826,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-az-za-lah-street",
@@ -30640,7 +31394,8 @@ window.KB = {
       "osm": "way/474654635",
       "kind": "residential",
       "lat": 24.329556,
-      "lon": 54.535961
+      "lon": 54.535961,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-bilhiwaydh-street",
@@ -30651,7 +31406,8 @@ window.KB = {
       "osm": "way/173039845",
       "kind": "residential",
       "lat": 24.380143,
-      "lon": 54.532543
+      "lon": 54.532543,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-bilrruwaweel-street",
@@ -30662,7 +31418,8 @@ window.KB = {
       "osm": "way/821077779",
       "kind": "residential",
       "lat": 24.373493,
-      "lon": 54.61482
+      "lon": 54.61482,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-bin-oman-street",
@@ -30673,7 +31430,8 @@ window.KB = {
       "osm": "way/119287781",
       "kind": "unclassified",
       "lat": 24.377429,
-      "lon": 54.695232
+      "lon": 54.695232,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-ghufur-street",
@@ -30684,7 +31442,8 @@ window.KB = {
       "osm": "way/1346119972",
       "kind": "residential",
       "lat": 24.270377,
-      "lon": 54.674735
+      "lon": 54.674735,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-hirz-street",
@@ -30695,7 +31454,8 @@ window.KB = {
       "osm": "way/1351812932",
       "kind": "residential",
       "lat": 24.27708,
-      "lon": 54.681717
+      "lon": 54.681717,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-kamran-street",
@@ -30706,7 +31466,8 @@ window.KB = {
       "osm": "way/54201005",
       "kind": "residential",
       "lat": 24.34042,
-      "lon": 54.623868
+      "lon": 54.623868,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-khmayis-street",
@@ -30717,7 +31478,8 @@ window.KB = {
       "osm": "way/1193528948",
       "kind": "residential",
       "lat": 24.272607,
-      "lon": 54.664174
+      "lon": 54.664174,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-kirayah-street",
@@ -30728,7 +31490,8 @@ window.KB = {
       "osm": "way/684012122",
       "kind": "residential",
       "lat": 24.29016,
-      "lon": 54.650886
+      "lon": 54.650886,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-lashkari-street",
@@ -30739,7 +31502,8 @@ window.KB = {
       "osm": "way/116451525",
       "kind": "residential",
       "lat": 24.349398,
-      "lon": 54.647968
+      "lon": 54.647968,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-libaytir-street",
@@ -30750,7 +31514,8 @@ window.KB = {
       "osm": "way/1351812915",
       "kind": "residential",
       "lat": 24.280604,
-      "lon": 54.682015
+      "lon": 54.682015,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-madran-street",
@@ -30761,7 +31526,8 @@ window.KB = {
       "osm": "way/116429245",
       "kind": "residential",
       "lat": 24.317473,
-      "lon": 54.616083
+      "lon": 54.616083,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-mahari-street",
@@ -30772,7 +31538,8 @@ window.KB = {
       "osm": "way/54201181",
       "kind": "residential",
       "lat": 24.370736,
-      "lon": 54.627649
+      "lon": 54.627649,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-mak-houlah-street",
@@ -30783,7 +31550,8 @@ window.KB = {
       "osm": "way/173226976",
       "kind": "residential",
       "lat": 24.32066,
-      "lon": 54.562366
+      "lon": 54.562366,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-missannid-street",
@@ -30794,7 +31562,8 @@ window.KB = {
       "osm": "way/474712077",
       "kind": "residential",
       "lat": 24.341809,
-      "lon": 54.570796
+      "lon": 54.570796,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-nisasah-street",
@@ -30805,7 +31574,8 @@ window.KB = {
       "osm": "way/306808318",
       "kind": "residential",
       "lat": 24.311085,
-      "lon": 54.625051
+      "lon": 54.625051,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-rihaf-street",
@@ -30816,7 +31586,8 @@ window.KB = {
       "osm": "way/473415609",
       "kind": "residential",
       "lat": 24.294185,
-      "lon": 54.645661
+      "lon": 54.645661,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-riqaytuwwah-street",
@@ -30827,7 +31598,8 @@ window.KB = {
       "osm": "way/820507590",
       "kind": "residential",
       "lat": 24.382595,
-      "lon": 54.603451
+      "lon": 54.603451,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-sulaiman-street",
@@ -30838,7 +31610,8 @@ window.KB = {
       "osm": "way/1120973245",
       "kind": "residential",
       "lat": 24.314424,
-      "lon": 54.633108
+      "lon": 54.633108,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-um-al-oush-street",
@@ -30849,7 +31622,8 @@ window.KB = {
       "osm": "way/820507519",
       "kind": "residential",
       "lat": 24.362159,
-      "lon": 54.599485
+      "lon": 54.599485,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayh-yafoukh-street",
@@ -30860,18 +31634,20 @@ window.KB = {
       "osm": "way/694583173",
       "kind": "residential",
       "lat": 24.367318,
-      "lon": 54.534761
+      "lon": 54.534761,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/sayourah-2-street",
+      "id": "abu-dhabi-city/sayourah-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Sayourah 2 Street",
-      "name_ar": "شارع سايُورة 2",
+      "name_en": "Sayourah Street",
+      "name_ar": "شارع سايُورة",
       "osm": "way/24350885",
       "kind": "unclassified",
       "lat": 24.35667,
-      "lon": 54.49503
+      "lon": 54.49503,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sayyah-street",
@@ -30882,7 +31658,8 @@ window.KB = {
       "osm": "way/306671068",
       "kind": "residential",
       "lat": 24.332855,
-      "lon": 54.737625
+      "lon": 54.737625,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seebat-al-ashqarah-street",
@@ -30893,7 +31670,8 @@ window.KB = {
       "osm": "way/54200998",
       "kind": "residential",
       "lat": 24.342863,
-      "lon": 54.622274
+      "lon": 54.622274,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seebat-al-mutfarrij-street",
@@ -30904,7 +31682,8 @@ window.KB = {
       "osm": "way/1123895815",
       "kind": "residential",
       "lat": 24.315538,
-      "lon": 54.630208
+      "lon": 54.630208,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seedaf-al-jabal-street",
@@ -30915,7 +31694,8 @@ window.KB = {
       "osm": "way/821077733",
       "kind": "residential",
       "lat": 24.384532,
-      "lon": 54.624587
+      "lon": 54.624587,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seeh-al-nab-ah-street",
@@ -30926,7 +31706,8 @@ window.KB = {
       "osm": "way/693837403",
       "kind": "residential",
       "lat": 24.375251,
-      "lon": 54.639978
+      "lon": 54.639978,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seeh-al-sad-street",
@@ -30937,7 +31718,8 @@ window.KB = {
       "osm": "way/634310273",
       "kind": "residential",
       "lat": 24.357814,
-      "lon": 54.727595
+      "lon": 54.727595,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seeh-al-silimah-street",
@@ -30948,7 +31730,8 @@ window.KB = {
       "osm": "way/306671042",
       "kind": "residential",
       "lat": 24.332763,
-      "lon": 54.742024
+      "lon": 54.742024,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seeh-gharabah-street",
@@ -30959,7 +31742,8 @@ window.KB = {
       "osm": "way/54200918",
       "kind": "residential",
       "lat": 24.355559,
-      "lon": 54.629153
+      "lon": 54.629153,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seeh-hamran-street",
@@ -30970,7 +31754,8 @@ window.KB = {
       "osm": "way/636059526",
       "kind": "residential",
       "lat": 24.357707,
-      "lon": 54.738387
+      "lon": 54.738387,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seeh-sabrah-street",
@@ -30981,7 +31766,8 @@ window.KB = {
       "osm": "way/24300384",
       "kind": "residential",
       "lat": 24.407363,
-      "lon": 54.502015
+      "lon": 54.502015,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/seeh-sweihan-street",
@@ -30992,7 +31778,8 @@ window.KB = {
       "osm": "way/635013551",
       "kind": "residential",
       "lat": 24.371137,
-      "lon": 54.776581
+      "lon": 54.776581,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sha-bat-bin-anbar-street",
@@ -31003,7 +31790,8 @@ window.KB = {
       "osm": "way/635438630",
       "kind": "residential",
       "lat": 24.317652,
-      "lon": 54.585869
+      "lon": 54.585869,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sha-bat-bin-bat-han-street",
@@ -31014,7 +31802,8 @@ window.KB = {
       "osm": "way/479154630",
       "kind": "residential",
       "lat": 24.299985,
-      "lon": 54.612961
+      "lon": 54.612961,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sha-biyat-al-hiyar-street",
@@ -31025,7 +31814,8 @@ window.KB = {
       "osm": "way/173226893",
       "kind": "residential",
       "lat": 24.318771,
-      "lon": 54.570506
+      "lon": 54.570506,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sha-biyat-al-maryah-street",
@@ -31036,7 +31826,8 @@ window.KB = {
       "osm": "way/635057854",
       "kind": "residential",
       "lat": 24.287188,
-      "lon": 54.629855
+      "lon": 54.629855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sha-lan-street",
@@ -31047,7 +31838,8 @@ window.KB = {
       "osm": "way/118783457",
       "kind": "residential",
       "lat": 24.399422,
-      "lon": 54.745528
+      "lon": 54.745528,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shabhanat-al-khabeesi-street",
@@ -31058,7 +31850,8 @@ window.KB = {
       "osm": "way/818882076",
       "kind": "residential",
       "lat": 24.365362,
-      "lon": 54.66831
+      "lon": 54.66831,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shabkat-um-ar-rak-street",
@@ -31069,7 +31862,8 @@ window.KB = {
       "osm": "way/474712098",
       "kind": "residential",
       "lat": 24.328887,
-      "lon": 54.578698
+      "lon": 54.578698,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shaddad-bin-aws-street",
@@ -31080,7 +31874,8 @@ window.KB = {
       "osm": "way/974606674",
       "kind": "residential",
       "lat": 24.400447,
-      "lon": 54.695822
+      "lon": 54.695822,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shadliyah-street",
@@ -31091,7 +31886,8 @@ window.KB = {
       "osm": "way/54200954",
       "kind": "residential",
       "lat": 24.349485,
-      "lon": 54.617063
+      "lon": 54.617063,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shahl-street",
@@ -31102,7 +31898,8 @@ window.KB = {
       "osm": "way/161842262",
       "kind": "residential",
       "lat": 24.323063,
-      "lon": 54.533817
+      "lon": 54.533817,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shahlah-street",
@@ -31113,7 +31910,8 @@ window.KB = {
       "osm": "way/306671020",
       "kind": "residential",
       "lat": 24.324401,
-      "lon": 54.744113
+      "lon": 54.744113,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shallal-al-wiray-ah-street",
@@ -31124,7 +31922,8 @@ window.KB = {
       "osm": "way/974606669",
       "kind": "residential",
       "lat": 24.400947,
-      "lon": 54.700178
+      "lon": 54.700178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shalwa-street",
@@ -31135,7 +31934,8 @@ window.KB = {
       "osm": "way/161842248",
       "kind": "residential",
       "lat": 24.32238,
-      "lon": 54.531696
+      "lon": 54.531696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shami-street",
@@ -31146,7 +31946,8 @@ window.KB = {
       "osm": "way/448037720",
       "kind": "residential",
       "lat": 24.327243,
-      "lon": 54.754363
+      "lon": 54.754363,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shaqran-street",
@@ -31157,7 +31958,8 @@ window.KB = {
       "osm": "way/306795055",
       "kind": "residential",
       "lat": 24.377436,
-      "lon": 54.754862
+      "lon": 54.754862,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharaf-jubarah-street",
@@ -31168,7 +31970,8 @@ window.KB = {
       "osm": "way/474712073",
       "kind": "residential",
       "lat": 24.342388,
-      "lon": 54.569761
+      "lon": 54.569761,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-ijeel-street",
@@ -31179,7 +31982,8 @@ window.KB = {
       "osm": "way/173392693",
       "kind": "residential",
       "lat": 24.308883,
-      "lon": 54.567433
+      "lon": 54.567433,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-ad-darrifanah-street",
@@ -31190,7 +31994,8 @@ window.KB = {
       "osm": "way/1346119959",
       "kind": "residential",
       "lat": 24.270599,
-      "lon": 54.674393
+      "lon": 54.674393,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-al-izbah-street",
@@ -31201,7 +32006,8 @@ window.KB = {
       "osm": "way/173227076",
       "kind": "residential",
       "lat": 24.316404,
-      "lon": 54.565681
+      "lon": 54.565681,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-al-ghfalah-street",
@@ -31212,7 +32018,8 @@ window.KB = {
       "osm": "way/54200951",
       "kind": "residential",
       "lat": 24.34375,
-      "lon": 54.619167
+      "lon": 54.619167,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-al-hisan-street",
@@ -31223,7 +32030,8 @@ window.KB = {
       "osm": "way/247048143",
       "kind": "residential",
       "lat": 24.32785,
-      "lon": 54.534538
+      "lon": 54.534538,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-ar-rikban-street",
@@ -31234,7 +32042,8 @@ window.KB = {
       "osm": "way/116429221",
       "kind": "residential",
       "lat": 24.30949,
-      "lon": 54.641531
+      "lon": 54.641531,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-bin-da-in-street",
@@ -31245,7 +32054,8 @@ window.KB = {
       "osm": "way/173226803",
       "kind": "residential",
       "lat": 24.310754,
-      "lon": 54.553244
+      "lon": 54.553244,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-fitayr-street",
@@ -31256,7 +32066,8 @@ window.KB = {
       "osm": "way/247008838",
       "kind": "residential",
       "lat": 24.308042,
-      "lon": 54.658407
+      "lon": 54.658407,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-ghabish-street",
@@ -31267,7 +32078,8 @@ window.KB = {
       "osm": "way/1121243581",
       "kind": "residential",
       "lat": 24.35714,
-      "lon": 54.632514
+      "lon": 54.632514,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-mirdas-street",
@@ -31278,7 +32090,8 @@ window.KB = {
       "osm": "way/820507581",
       "kind": "residential",
       "lat": 24.388558,
-      "lon": 54.609692
+      "lon": 54.609692,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-nay-ah-street",
@@ -31289,7 +32102,8 @@ window.KB = {
       "osm": "way/820507545",
       "kind": "residential",
       "lat": 24.372411,
-      "lon": 54.596051
+      "lon": 54.596051,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-qannoun-street",
@@ -31300,7 +32114,8 @@ window.KB = {
       "osm": "way/95490112",
       "kind": "residential",
       "lat": 24.404151,
-      "lon": 54.721207
+      "lon": 54.721207,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sharf-sqay-street",
@@ -31311,7 +32126,8 @@ window.KB = {
       "osm": "way/695682570",
       "kind": "residential",
       "lat": 24.264136,
-      "lon": 54.703095
+      "lon": 54.703095,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sheel-al-hasah-street",
@@ -31322,7 +32138,8 @@ window.KB = {
       "osm": "way/474920689",
       "kind": "residential",
       "lat": 24.303111,
-      "lon": 54.573054
+      "lon": 54.573054,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shees-street",
@@ -31333,7 +32150,8 @@ window.KB = {
       "osm": "way/173391008",
       "kind": "residential",
       "lat": 24.31375,
-      "lon": 54.572267
+      "lon": 54.572267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sheikh-faisal-al-qasimi-street",
@@ -31344,7 +32162,8 @@ window.KB = {
       "osm": "way/24258430",
       "kind": "unclassified",
       "lat": 24.407334,
-      "lon": 54.482096
+      "lon": 54.482096,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sheikh-mohammed-bin-rashid-al-maktoum-street",
@@ -31355,7 +32174,8 @@ window.KB = {
       "osm": "way/26719352",
       "kind": "primary",
       "lat": 24.279654,
-      "lon": 54.64678
+      "lon": 54.64678,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-ab-al-ish-street",
@@ -31366,7 +32186,8 @@ window.KB = {
       "osm": "way/821077764",
       "kind": "residential",
       "lat": 24.372255,
-      "lon": 54.619961
+      "lon": 54.619961,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-ab-dhaba-street",
@@ -31377,7 +32198,8 @@ window.KB = {
       "osm": "way/246999013",
       "kind": "residential",
       "lat": 24.294888,
-      "lon": 54.645189
+      "lon": 54.645189,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-ab-shareef-street",
@@ -31388,7 +32210,8 @@ window.KB = {
       "osm": "way/983378616",
       "kind": "residential",
       "lat": 24.366236,
-      "lon": 54.633843
+      "lon": 54.633843,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-af-al-markh-street",
@@ -31399,7 +32222,8 @@ window.KB = {
       "osm": "way/118783496",
       "kind": "residential",
       "lat": 24.395467,
-      "lon": 54.742261
+      "lon": 54.742261,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-ayb-al-hawiyah-street",
@@ -31410,7 +32234,8 @@ window.KB = {
       "osm": "way/1210149613",
       "kind": "residential",
       "lat": 24.266008,
-      "lon": 54.660171
+      "lon": 54.660171,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-aybat-as-sidir-street",
@@ -31421,7 +32246,8 @@ window.KB = {
       "osm": "way/474712070",
       "kind": "residential",
       "lat": 24.344736,
-      "lon": 54.569999
+      "lon": 54.569999,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-b-al-ghayl-street",
@@ -31432,7 +32258,8 @@ window.KB = {
       "osm": "way/118783474",
       "kind": "residential",
       "lat": 24.40042,
-      "lon": 54.74409
+      "lon": 54.74409,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-eedan-street",
@@ -31443,7 +32270,8 @@ window.KB = {
       "osm": "way/173391000",
       "kind": "residential",
       "lat": 24.312643,
-      "lon": 54.570784
+      "lon": 54.570784,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-inyah-street",
@@ -31454,7 +32282,8 @@ window.KB = {
       "osm": "way/54200989",
       "kind": "residential",
       "lat": 24.34833,
-      "lon": 54.610709
+      "lon": 54.610709,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-oud-street",
@@ -31465,7 +32294,8 @@ window.KB = {
       "osm": "way/306682844",
       "kind": "residential",
       "lat": 24.354806,
-      "lon": 54.756575
+      "lon": 54.756575,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-farwu-street",
@@ -31476,7 +32306,8 @@ window.KB = {
       "osm": "way/818881587",
       "kind": "residential",
       "lat": 24.365285,
-      "lon": 54.662699
+      "lon": 54.662699,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-ghafah-street",
@@ -31487,7 +32318,8 @@ window.KB = {
       "osm": "way/820507507",
       "kind": "residential",
       "lat": 24.362469,
-      "lon": 54.592894
+      "lon": 54.592894,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-hiluw-street",
@@ -31498,7 +32330,8 @@ window.KB = {
       "osm": "way/820507559",
       "kind": "residential",
       "lat": 24.383987,
-      "lon": 54.594346
+      "lon": 54.594346,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-latan-street",
@@ -31509,7 +32342,8 @@ window.KB = {
       "osm": "way/818601200",
       "kind": "residential",
       "lat": 24.302063,
-      "lon": 54.659371
+      "lon": 54.659371,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-manzal-street",
@@ -31520,7 +32354,8 @@ window.KB = {
       "osm": "way/475131721",
       "kind": "residential",
       "lat": 24.310765,
-      "lon": 54.635734
+      "lon": 54.635734,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-marah-street",
@@ -31531,7 +32366,8 @@ window.KB = {
       "osm": "way/475109640",
       "kind": "residential",
       "lat": 24.308788,
-      "lon": 54.61206
+      "lon": 54.61206,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-al-qisayd-street",
@@ -31542,7 +32378,8 @@ window.KB = {
       "osm": "way/370626492",
       "kind": "residential",
       "lat": 24.317126,
-      "lon": 54.5325
+      "lon": 54.5325,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-alma-street",
@@ -31553,7 +32390,8 @@ window.KB = {
       "osm": "way/474712084",
       "kind": "residential",
       "lat": 24.343539,
-      "lon": 54.569879
+      "lon": 54.569879,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-an-najd-street",
@@ -31564,7 +32402,8 @@ window.KB = {
       "osm": "way/91675967",
       "kind": "residential",
       "lat": 24.342724,
-      "lon": 54.546541
+      "lon": 54.546541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-as-sidrah-street",
@@ -31575,7 +32414,8 @@ window.KB = {
       "osm": "way/93177784",
       "kind": "residential",
       "lat": 24.397371,
-      "lon": 54.651223
+      "lon": 54.651223,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-as-silaym-street",
@@ -31586,7 +32426,8 @@ window.KB = {
       "osm": "way/635438620",
       "kind": "residential",
       "lat": 24.321715,
-      "lon": 54.583415
+      "lon": 54.583415,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-as-simeemi-street",
@@ -31597,7 +32438,8 @@ window.KB = {
       "osm": "way/818886406",
       "kind": "residential",
       "lat": 24.380615,
-      "lon": 54.673811
+      "lon": 54.673811,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-ash-shahlah-street",
@@ -31608,7 +32450,8 @@ window.KB = {
       "osm": "way/473385219",
       "kind": "residential",
       "lat": 24.299027,
-      "lon": 54.560543
+      "lon": 54.560543,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-ath-thiqab-street",
@@ -31619,7 +32462,8 @@ window.KB = {
       "osm": "way/474654633",
       "kind": "residential",
       "lat": 24.330207,
-      "lon": 54.536391
+      "lon": 54.536391,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-hiyar-al-ghaf-street",
@@ -31630,7 +32474,8 @@ window.KB = {
       "osm": "way/974445542",
       "kind": "residential",
       "lat": 24.365825,
-      "lon": 54.59998
+      "lon": 54.59998,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-likhtam-street",
@@ -31641,7 +32486,8 @@ window.KB = {
       "osm": "way/307020843",
       "kind": "residential",
       "lat": 24.305719,
-      "lon": 54.659267
+      "lon": 54.659267,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-mgheel-street",
@@ -31652,7 +32498,8 @@ window.KB = {
       "osm": "way/475330463",
       "kind": "residential",
       "lat": 24.289039,
-      "lon": 54.640113
+      "lon": 54.640113,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-sa-d-street",
@@ -31663,7 +32510,8 @@ window.KB = {
       "osm": "way/173041004",
       "kind": "residential",
       "lat": 24.324851,
-      "lon": 54.537131
+      "lon": 54.537131,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-surour-street",
@@ -31674,7 +32522,8 @@ window.KB = {
       "osm": "way/92007346",
       "kind": "residential",
       "lat": 24.327923,
-      "lon": 54.549116
+      "lon": 54.549116,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-um-lihlah-street",
@@ -31685,7 +32534,8 @@ window.KB = {
       "osm": "way/118783483",
       "kind": "residential",
       "lat": 24.394886,
-      "lon": 54.728074
+      "lon": 54.728074,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shi-bat-y-atami-street",
@@ -31696,7 +32546,8 @@ window.KB = {
       "osm": "way/820507610",
       "kind": "residential",
       "lat": 24.377783,
-      "lon": 54.604856
+      "lon": 54.604856,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shibl-street",
@@ -31707,7 +32558,8 @@ window.KB = {
       "osm": "way/173226865",
       "kind": "residential",
       "lat": 24.322984,
-      "lon": 54.565703
+      "lon": 54.565703,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shighab-al-ma-street",
@@ -31718,7 +32570,8 @@ window.KB = {
       "osm": "way/306795072",
       "kind": "residential",
       "lat": 24.348326,
-      "lon": 54.74321
+      "lon": 54.74321,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shighab-al-qussar-street",
@@ -31729,7 +32582,8 @@ window.KB = {
       "osm": "way/178947405",
       "kind": "residential",
       "lat": 24.274325,
-      "lon": 54.648294
+      "lon": 54.648294,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shiwayb-al-oud-street",
@@ -31740,7 +32594,8 @@ window.KB = {
       "osm": "way/820507505",
       "kind": "residential",
       "lat": 24.36844,
-      "lon": 54.593006
+      "lon": 54.593006,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shmaylah-street",
@@ -31751,7 +32606,8 @@ window.KB = {
       "osm": "way/112455233",
       "kind": "residential",
       "lat": 24.391174,
-      "lon": 54.731954
+      "lon": 54.731954,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shnaf-street",
@@ -31762,7 +32618,8 @@ window.KB = {
       "osm": "way/235148657",
       "kind": "residential",
       "lat": 24.369897,
-      "lon": 54.694355
+      "lon": 54.694355,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shu-bat-as-samur-street",
@@ -31773,7 +32630,8 @@ window.KB = {
       "osm": "way/92007286",
       "kind": "residential",
       "lat": 24.335429,
-      "lon": 54.548093
+      "lon": 54.548093,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shurayi-ah-street",
@@ -31784,7 +32642,8 @@ window.KB = {
       "osm": "way/91676406",
       "kind": "residential",
       "lat": 24.339605,
-      "lon": 54.556181
+      "lon": 54.556181,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/shurouf-rakan-street",
@@ -31795,7 +32654,8 @@ window.KB = {
       "osm": "way/820507526",
       "kind": "residential",
       "lat": 24.360688,
-      "lon": 54.595326
+      "lon": 54.595326,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sidarah-street",
@@ -31806,7 +32666,8 @@ window.KB = {
       "osm": "way/54202618",
       "kind": "residential",
       "lat": 24.377446,
-      "lon": 54.638077
+      "lon": 54.638077,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sidrat-al-nadd-street",
@@ -31817,7 +32678,8 @@ window.KB = {
       "osm": "way/306795077",
       "kind": "residential",
       "lat": 24.351926,
-      "lon": 54.741623
+      "lon": 54.741623,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sidrat-bin-hilal-street",
@@ -31828,7 +32690,8 @@ window.KB = {
       "osm": "way/116691913",
       "kind": "residential",
       "lat": 24.340986,
-      "lon": 54.534314
+      "lon": 54.534314,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sileel-al-harmal-street",
@@ -31839,7 +32702,8 @@ window.KB = {
       "osm": "way/85680633",
       "kind": "residential",
       "lat": 24.350428,
-      "lon": 54.55062
+      "lon": 54.55062,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sillay-street",
@@ -31850,29 +32714,8 @@ window.KB = {
       "osm": "way/115732711",
       "kind": "tertiary",
       "lat": 24.374671,
-      "lon": 54.688701
-    },
-    {
-      "id": "abu-dhabi-city/sireef-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Sireef 4 Street",
-      "name_ar": "شارع صِرِيف 4",
-      "osm": "way/24313696",
-      "kind": "unclassified",
-      "lat": 24.369708,
-      "lon": 54.478762
-    },
-    {
-      "id": "abu-dhabi-city/sireef-6-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Sireef 6 Street",
-      "name_ar": "شارع صِرِيف 6",
-      "osm": "way/24313695",
-      "kind": "unclassified",
-      "lat": 24.367548,
-      "lon": 54.474721
+      "lon": 54.688701,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sireef-street",
@@ -31883,7 +32726,8 @@ window.KB = {
       "osm": "way/24311983",
       "kind": "tertiary",
       "lat": 24.376172,
-      "lon": 54.471638
+      "lon": 54.471638,
+      "variants": 11
     },
     {
       "id": "abu-dhabi-city/sleem-bin-al-harith-street",
@@ -31894,7 +32738,8 @@ window.KB = {
       "osm": "way/116690231",
       "kind": "residential",
       "lat": 24.347886,
-      "lon": 54.65498
+      "lon": 54.65498,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/soughah-street",
@@ -31905,7 +32750,8 @@ window.KB = {
       "osm": "way/635037994",
       "kind": "residential",
       "lat": 24.349087,
-      "lon": 54.77186
+      "lon": 54.77186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/souq-sabi-street",
@@ -31916,7 +32762,8 @@ window.KB = {
       "osm": "way/116691889",
       "kind": "residential",
       "lat": 24.342403,
-      "lon": 54.531235
+      "lon": 54.531235,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/suhail-bilaswad-al-ameri-street",
@@ -31927,7 +32774,8 @@ window.KB = {
       "osm": "way/90768173",
       "kind": "tertiary",
       "lat": 24.305915,
-      "lon": 54.61706
+      "lon": 54.61706,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/suhail-bin-hilal-al-mazrouei-street",
@@ -31938,7 +32786,8 @@ window.KB = {
       "osm": "way/1371065805",
       "kind": "tertiary",
       "lat": 24.314941,
-      "lon": 54.530685
+      "lon": 54.530685,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sulaiman-abdullah-al-ebri-street",
@@ -31949,7 +32798,8 @@ window.KB = {
       "osm": "way/112174462",
       "kind": "residential",
       "lat": 24.319611,
-      "lon": 54.645201
+      "lon": 54.645201,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sulaiman-bin-yasar-street",
@@ -31960,7 +32810,8 @@ window.KB = {
       "osm": "way/173180867",
       "kind": "residential",
       "lat": 24.310499,
-      "lon": 54.536838
+      "lon": 54.536838,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sultan-bin-mohammed-al-qubaisi-street",
@@ -31971,7 +32822,8 @@ window.KB = {
       "osm": "way/24311991",
       "kind": "secondary",
       "lat": 24.371662,
-      "lon": 54.476571
+      "lon": 54.476571,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sultan-bin-qaran-al-mansouri-street",
@@ -31982,7 +32834,8 @@ window.KB = {
       "osm": "way/172368316",
       "kind": "tertiary",
       "lat": 24.258443,
-      "lon": 54.654255
+      "lon": 54.654255,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/sultani-street",
@@ -31993,7 +32846,8 @@ window.KB = {
       "osm": "way/1041058134",
       "kind": "residential",
       "lat": 24.398448,
-      "lon": 54.559637
+      "lon": 54.559637,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/suqya-street",
@@ -32004,7 +32858,8 @@ window.KB = {
       "osm": "way/173031871",
       "kind": "unclassified",
       "lat": 24.385581,
-      "lon": 54.538829
+      "lon": 54.538829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/suroub-street",
@@ -32015,7 +32870,8 @@ window.KB = {
       "osm": "way/306671044",
       "kind": "residential",
       "lat": 24.325618,
-      "lon": 54.736708
+      "lon": 54.736708,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/swasi-street",
@@ -32026,7 +32882,8 @@ window.KB = {
       "osm": "way/473884589",
       "kind": "residential",
       "lat": 24.397679,
-      "lon": 54.495128
+      "lon": 54.495128,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tabshourah-street",
@@ -32037,7 +32894,8 @@ window.KB = {
       "osm": "way/473903589",
       "kind": "residential",
       "lat": 24.408708,
-      "lon": 54.512937
+      "lon": 54.512937,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tal-az-za-faran-street",
@@ -32048,7 +32906,8 @@ window.KB = {
       "osm": "way/820507588",
       "kind": "residential",
       "lat": 24.387292,
-      "lon": 54.603542
+      "lon": 54.603542,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/talhah-bin-ubaydallah-street",
@@ -32059,7 +32918,8 @@ window.KB = {
       "osm": "way/974606726",
       "kind": "residential",
       "lat": 24.404465,
-      "lon": 54.683501
+      "lon": 54.683501,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tameem-ad-dari-street",
@@ -32070,7 +32930,8 @@ window.KB = {
       "osm": "way/54200988",
       "kind": "residential",
       "lat": 24.348192,
-      "lon": 54.614333
+      "lon": 54.614333,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tameem-bin-al-harith-street",
@@ -32081,7 +32942,8 @@ window.KB = {
       "osm": "way/54201218",
       "kind": "residential",
       "lat": 24.361135,
-      "lon": 54.641425
+      "lon": 54.641425,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tameem-bin-rabee-ah-street",
@@ -32092,7 +32954,8 @@ window.KB = {
       "osm": "way/94055548",
       "kind": "residential",
       "lat": 24.387362,
-      "lon": 54.650272
+      "lon": 54.650272,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tameem-bin-salamah-street",
@@ -32103,7 +32966,8 @@ window.KB = {
       "osm": "way/173032732",
       "kind": "residential",
       "lat": 24.386028,
-      "lon": 54.530571
+      "lon": 54.530571,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tameem-bin-usayd-street",
@@ -32114,7 +32978,8 @@ window.KB = {
       "osm": "way/819496847",
       "kind": "residential",
       "lat": 24.377869,
-      "lon": 54.634672
+      "lon": 54.634672,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tareef-al-juhayni-street",
@@ -32125,7 +32990,8 @@ window.KB = {
       "osm": "way/475330462",
       "kind": "residential",
       "lat": 24.287965,
-      "lon": 54.64171
+      "lon": 54.64171,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tarif-street",
@@ -32136,7 +33002,8 @@ window.KB = {
       "osm": "way/118783465",
       "kind": "residential",
       "lat": 24.399447,
-      "lon": 54.742468
+      "lon": 54.742468,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-arzeemah-street",
@@ -32147,7 +33014,8 @@ window.KB = {
       "osm": "way/116429236",
       "kind": "residential",
       "lat": 24.313908,
-      "lon": 54.632688
+      "lon": 54.632688,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-inad-street",
@@ -32158,7 +33026,8 @@ window.KB = {
       "osm": "way/108401995",
       "kind": "tertiary",
       "lat": 24.327869,
-      "lon": 54.616856
+      "lon": 54.616856,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-iwaydah-street",
@@ -32169,7 +33038,8 @@ window.KB = {
       "osm": "way/173039850",
       "kind": "residential",
       "lat": 24.382821,
-      "lon": 54.529319
+      "lon": 54.529319,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-llaywat-street",
@@ -32180,7 +33050,8 @@ window.KB = {
       "osm": "way/306818466",
       "kind": "residential",
       "lat": 24.295417,
-      "lon": 54.633734
+      "lon": 54.633734,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-abu-miraykhah-street",
@@ -32191,7 +33062,8 @@ window.KB = {
       "osm": "way/473381967",
       "kind": "residential",
       "lat": 24.308727,
-      "lon": 54.562476
+      "lon": 54.562476,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ad-deewan-street",
@@ -32202,7 +33074,8 @@ window.KB = {
       "osm": "way/475192988",
       "kind": "residential",
       "lat": 24.285558,
-      "lon": 54.634821
+      "lon": 54.634821,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-afrah-street",
@@ -32213,7 +33086,8 @@ window.KB = {
       "osm": "way/92007339",
       "kind": "residential",
       "lat": 24.331753,
-      "lon": 54.54277
+      "lon": 54.54277,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-asmiyah-street",
@@ -32224,7 +33098,8 @@ window.KB = {
       "osm": "way/819197999",
       "kind": "residential",
       "lat": 24.391419,
-      "lon": 54.670744
+      "lon": 54.670744,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-aweenyah-street",
@@ -32235,7 +33110,8 @@ window.KB = {
       "osm": "way/94055577",
       "kind": "residential",
       "lat": 24.379994,
-      "lon": 54.650632
+      "lon": 54.650632,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-ayif-street",
@@ -32246,7 +33122,8 @@ window.KB = {
       "osm": "way/173398354",
       "kind": "residential",
       "lat": 24.30281,
-      "lon": 54.584724
+      "lon": 54.584724,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-idhayb-street",
@@ -32257,7 +33134,8 @@ window.KB = {
       "osm": "way/115726560",
       "kind": "residential",
       "lat": 24.301612,
-      "lon": 54.657511
+      "lon": 54.657511,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-iqabiyah-street",
@@ -32268,7 +33146,8 @@ window.KB = {
       "osm": "way/635057885",
       "kind": "residential",
       "lat": 24.286576,
-      "lon": 54.633549
+      "lon": 54.633549,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-iqayr-street",
@@ -32279,7 +33158,8 @@ window.KB = {
       "osm": "way/820507525",
       "kind": "unclassified",
       "lat": 24.361689,
-      "lon": 54.597287
+      "lon": 54.597287,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-ireed-street",
@@ -32290,7 +33170,8 @@ window.KB = {
       "osm": "way/974463496",
       "kind": "residential",
       "lat": 24.358184,
-      "lon": 54.606723
+      "lon": 54.606723,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-aslab-street",
@@ -32301,7 +33182,8 @@ window.KB = {
       "osm": "way/313098959",
       "kind": "residential",
       "lat": 24.352995,
-      "lon": 54.687742
+      "lon": 54.687742,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-atan-street",
@@ -32312,7 +33194,8 @@ window.KB = {
       "osm": "way/235124832",
       "kind": "residential",
       "lat": 24.362485,
-      "lon": 54.705047
+      "lon": 54.705047,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-bad-street",
@@ -32323,7 +33206,8 @@ window.KB = {
       "osm": "way/91676437",
       "kind": "residential",
       "lat": 24.334459,
-      "lon": 54.555657
+      "lon": 54.555657,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-baqqah-street",
@@ -32334,7 +33218,8 @@ window.KB = {
       "osm": "way/235148621",
       "kind": "residential",
       "lat": 24.36759,
-      "lon": 54.703183
+      "lon": 54.703183,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-bdi-at-street",
@@ -32345,7 +33230,8 @@ window.KB = {
       "osm": "way/173226735",
       "kind": "residential",
       "lat": 24.309566,
-      "lon": 54.552044
+      "lon": 54.552044,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-bdou-street",
@@ -32356,7 +33242,8 @@ window.KB = {
       "osm": "way/94329179",
       "kind": "residential",
       "lat": 24.266455,
-      "lon": 54.667249
+      "lon": 54.667249,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-bihouth-street",
@@ -32367,7 +33254,8 @@ window.KB = {
       "osm": "way/997118261",
       "kind": "residential",
       "lat": 24.356575,
-      "lon": 54.56399
+      "lon": 54.56399,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-fadyah-street",
@@ -32378,7 +33266,8 @@ window.KB = {
       "osm": "way/92007325",
       "kind": "residential",
       "lat": 24.328929,
-      "lon": 54.556462
+      "lon": 54.556462,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-fayid-street",
@@ -32389,7 +33278,8 @@ window.KB = {
       "osm": "way/116691012",
       "kind": "residential",
       "lat": 24.290223,
-      "lon": 54.632178
+      "lon": 54.632178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-ghantalah-street",
@@ -32400,7 +33290,8 @@ window.KB = {
       "osm": "way/821077748",
       "kind": "residential",
       "lat": 24.379052,
-      "lon": 54.629862
+      "lon": 54.629862,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-hamriyah-street",
@@ -32411,7 +33302,8 @@ window.KB = {
       "osm": "way/821077747",
       "kind": "unclassified",
       "lat": 24.381776,
-      "lon": 54.62661
+      "lon": 54.62661,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-hasi-street",
@@ -32422,7 +33314,8 @@ window.KB = {
       "osm": "way/118783442",
       "kind": "residential",
       "lat": 24.394203,
-      "lon": 54.722721
+      "lon": 54.722721,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-hayer-street",
@@ -32433,7 +33326,8 @@ window.KB = {
       "osm": "way/820507551",
       "kind": "residential",
       "lat": 24.374568,
-      "lon": 54.595472
+      "lon": 54.595472,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-hayir-street",
@@ -32444,7 +33338,8 @@ window.KB = {
       "osm": "way/116451465",
       "kind": "residential",
       "lat": 24.343539,
-      "lon": 54.643328
+      "lon": 54.643328,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-hisn-street",
@@ -32455,7 +33350,8 @@ window.KB = {
       "osm": "way/473385216",
       "kind": "residential",
       "lat": 24.310512,
-      "lon": 54.583257
+      "lon": 54.583257,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-jabahnah-street",
@@ -32466,7 +33362,8 @@ window.KB = {
       "osm": "way/248481445",
       "kind": "residential",
       "lat": 24.359587,
-      "lon": 54.686172
+      "lon": 54.686172,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-jana-i-street",
@@ -32477,7 +33374,8 @@ window.KB = {
       "osm": "way/483600430",
       "kind": "residential",
       "lat": 24.379013,
-      "lon": 54.541685
+      "lon": 54.541685,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-jee-ah-street",
@@ -32488,7 +33386,8 @@ window.KB = {
       "osm": "way/235147553",
       "kind": "residential",
       "lat": 24.345455,
-      "lon": 54.701777
+      "lon": 54.701777,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-khisayib-street",
@@ -32499,7 +33398,8 @@ window.KB = {
       "osm": "way/119287777",
       "kind": "residential",
       "lat": 24.377875,
-      "lon": 54.694942
+      "lon": 54.694942,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-kitabiyah-street",
@@ -32510,7 +33410,8 @@ window.KB = {
       "osm": "way/173394364",
       "kind": "residential",
       "lat": 24.320961,
-      "lon": 54.578384
+      "lon": 54.578384,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-liyayf-street",
@@ -32521,7 +33422,8 @@ window.KB = {
       "osm": "way/116447835",
       "kind": "residential",
       "lat": 24.299618,
-      "lon": 54.627393
+      "lon": 54.627393,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-markhiyah-street",
@@ -32532,7 +33434,8 @@ window.KB = {
       "osm": "way/974445543",
       "kind": "residential",
       "lat": 24.367543,
-      "lon": 54.597252
+      "lon": 54.597252,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-marqat-street",
@@ -32543,7 +33446,8 @@ window.KB = {
       "osm": "way/54201016",
       "kind": "residential",
       "lat": 24.354994,
-      "lon": 54.619031
+      "lon": 54.619031,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-milhah-street",
@@ -32554,7 +33458,8 @@ window.KB = {
       "osm": "way/818882074",
       "kind": "residential",
       "lat": 24.363838,
-      "lon": 54.667601
+      "lon": 54.667601,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-mlaysa-street",
@@ -32565,7 +33470,8 @@ window.KB = {
       "osm": "way/173392557",
       "kind": "residential",
       "lat": 24.310499,
-      "lon": 54.563296
+      "lon": 54.563296,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-qarah-street",
@@ -32576,7 +33482,8 @@ window.KB = {
       "osm": "way/115721304",
       "kind": "residential",
       "lat": 24.3026,
-      "lon": 54.64668
+      "lon": 54.64668,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-qattar-street",
@@ -32587,7 +33494,8 @@ window.KB = {
       "osm": "way/54200965",
       "kind": "residential",
       "lat": 24.348302,
-      "lon": 54.618754
+      "lon": 54.618754,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-qaymah-street",
@@ -32598,7 +33506,8 @@ window.KB = {
       "osm": "way/54201088",
       "kind": "secondary",
       "lat": 24.373936,
-      "lon": 54.647962
+      "lon": 54.647962,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-qibliyah-street",
@@ -32609,7 +33518,8 @@ window.KB = {
       "osm": "way/473385232",
       "kind": "residential",
       "lat": 24.313807,
-      "lon": 54.546509
+      "lon": 54.546509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-qin-ah-street",
@@ -32620,7 +33530,8 @@ window.KB = {
       "osm": "way/173392748",
       "kind": "residential",
       "lat": 24.308319,
-      "lon": 54.567591
+      "lon": 54.567591,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-qurn-street",
@@ -32631,7 +33542,8 @@ window.KB = {
       "osm": "way/1421484693",
       "kind": "residential",
       "lat": 24.309727,
-      "lon": 54.563202
+      "lon": 54.563202,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-siwaytiyyah-street",
@@ -32642,7 +33554,8 @@ window.KB = {
       "osm": "way/54201192",
       "kind": "residential",
       "lat": 24.367834,
-      "lon": 54.647107
+      "lon": 54.647107,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-witayid-street",
@@ -32653,7 +33566,8 @@ window.KB = {
       "osm": "way/235147606",
       "kind": "residential",
       "lat": 24.344743,
-      "lon": 54.700386
+      "lon": 54.700386,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-yahar-street",
@@ -32664,7 +33578,8 @@ window.KB = {
       "osm": "way/173175030",
       "kind": "residential",
       "lat": 24.319338,
-      "lon": 54.549186
+      "lon": 54.549186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-yarboub-street",
@@ -32675,7 +33590,8 @@ window.KB = {
       "osm": "way/821077740",
       "kind": "residential",
       "lat": 24.382892,
-      "lon": 54.62664
+      "lon": 54.62664,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-al-yifayr-street",
@@ -32686,7 +33602,8 @@ window.KB = {
       "osm": "way/820507621",
       "kind": "unclassified",
       "lat": 24.382481,
-      "lon": 54.60707
+      "lon": 54.60707,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ar-rafay-ah-street",
@@ -32697,7 +33614,8 @@ window.KB = {
       "osm": "way/627829944",
       "kind": "unclassified",
       "lat": 24.373192,
-      "lon": 54.605745
+      "lon": 54.605745,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ar-rikaysah-street",
@@ -32708,7 +33626,8 @@ window.KB = {
       "osm": "way/473385217",
       "kind": "residential",
       "lat": 24.305873,
-      "lon": 54.584847
+      "lon": 54.584847,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ar-riwayha-street",
@@ -32719,7 +33638,8 @@ window.KB = {
       "osm": "way/177637717",
       "kind": "residential",
       "lat": 24.277185,
-      "lon": 54.68983
+      "lon": 54.68983,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-as-sa-diyah-street",
@@ -32730,7 +33650,8 @@ window.KB = {
       "osm": "way/246999016",
       "kind": "residential",
       "lat": 24.297328,
-      "lon": 54.646193
+      "lon": 54.646193,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-as-sablah-street",
@@ -32741,7 +33662,8 @@ window.KB = {
       "osm": "way/177640658",
       "kind": "residential",
       "lat": 24.261322,
-      "lon": 54.705593
+      "lon": 54.705593,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-as-sibay-i-street",
@@ -32752,7 +33674,8 @@ window.KB = {
       "osm": "way/229675923",
       "kind": "residential",
       "lat": 24.299307,
-      "lon": 54.620204
+      "lon": 54.620204,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-as-sila-street",
@@ -32763,7 +33686,8 @@ window.KB = {
       "osm": "way/247048137",
       "kind": "residential",
       "lat": 24.327203,
-      "lon": 54.534222
+      "lon": 54.534222,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ash-shar-street",
@@ -32774,7 +33698,8 @@ window.KB = {
       "osm": "way/54201196",
       "kind": "residential",
       "lat": 24.363022,
-      "lon": 54.638769
+      "lon": 54.638769,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ash-sharfa-street",
@@ -32785,7 +33710,8 @@ window.KB = {
       "osm": "way/173226743",
       "kind": "residential",
       "lat": 24.30915,
-      "lon": 54.555178
+      "lon": 54.555178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ash-shibaykah-street",
@@ -32796,7 +33722,8 @@ window.KB = {
       "osm": "way/115733314",
       "kind": "residential",
       "lat": 24.377424,
-      "lon": 54.663809
+      "lon": 54.663809,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ash-shiq-street",
@@ -32807,7 +33734,8 @@ window.KB = {
       "osm": "way/173177366",
       "kind": "residential",
       "lat": 24.320674,
-      "lon": 54.551763
+      "lon": 54.551763,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ash-shiwayb-street",
@@ -32818,7 +33746,8 @@ window.KB = {
       "osm": "way/1351812937",
       "kind": "residential",
       "lat": 24.279782,
-      "lon": 54.679998
+      "lon": 54.679998,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-az-zallaqi-street",
@@ -32829,7 +33758,8 @@ window.KB = {
       "osm": "way/247044155",
       "kind": "residential",
       "lat": 24.32792,
-      "lon": 54.535579
+      "lon": 54.535579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-baraq-street",
@@ -32840,7 +33770,8 @@ window.KB = {
       "osm": "way/116691891",
       "kind": "residential",
       "lat": 24.340602,
-      "lon": 54.533541
+      "lon": 54.533541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bildhiyab-street",
@@ -32851,7 +33782,8 @@ window.KB = {
       "osm": "way/172948082",
       "kind": "residential",
       "lat": 24.350713,
-      "lon": 54.548293
+      "lon": 54.548293,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bilhasa-street",
@@ -32862,7 +33794,8 @@ window.KB = {
       "osm": "way/474687682",
       "kind": "residential",
       "lat": 24.355265,
-      "lon": 54.559682
+      "lon": 54.559682,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bilyidou-street",
@@ -32873,7 +33806,8 @@ window.KB = {
       "osm": "way/178947404",
       "kind": "residential",
       "lat": 24.27414,
-      "lon": 54.645927
+      "lon": 54.645927,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bin-hayir-street",
@@ -32884,7 +33818,8 @@ window.KB = {
       "osm": "way/95630454",
       "kind": "residential",
       "lat": 24.407746,
-      "lon": 54.750056
+      "lon": 54.750056,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bin-hizeem-street",
@@ -32895,7 +33830,8 @@ window.KB = {
       "osm": "way/92007323",
       "kind": "residential",
       "lat": 24.331694,
-      "lon": 54.53986
+      "lon": 54.53986,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bin-khizam-street",
@@ -32906,7 +33842,8 @@ window.KB = {
       "osm": "way/89640114",
       "kind": "residential",
       "lat": 24.371544,
-      "lon": 54.529932
+      "lon": 54.529932,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bin-salamah-street",
@@ -32917,7 +33854,8 @@ window.KB = {
       "osm": "way/247048141",
       "kind": "residential",
       "lat": 24.328145,
-      "lon": 54.532765
+      "lon": 54.532765,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bin-timeem-street",
@@ -32928,7 +33866,8 @@ window.KB = {
       "osm": "way/105445472",
       "kind": "residential",
       "lat": 24.295553,
-      "lon": 54.636828
+      "lon": 54.636828,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bin-zayed-street",
@@ -32939,7 +33878,8 @@ window.KB = {
       "osm": "way/116429214",
       "kind": "residential",
       "lat": 24.318573,
-      "lon": 54.622592
+      "lon": 54.622592,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-oud-street",
@@ -32950,7 +33890,8 @@ window.KB = {
       "osm": "way/235124809",
       "kind": "residential",
       "lat": 24.356298,
-      "lon": 54.710694
+      "lon": 54.710694,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-saybah-street",
@@ -32961,7 +33902,8 @@ window.KB = {
       "osm": "way/173019871",
       "kind": "residential",
       "lat": 24.294789,
-      "lon": 54.559622
+      "lon": 54.559622,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-at-tiyour-street",
@@ -32972,7 +33914,8 @@ window.KB = {
       "osm": "way/306992990",
       "kind": "residential",
       "lat": 24.323087,
-      "lon": 54.637808
+      "lon": 54.637808,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-fraydah-street",
@@ -32983,7 +33926,8 @@ window.KB = {
       "osm": "way/473381972",
       "kind": "residential",
       "lat": 24.322924,
-      "lon": 54.564188
+      "lon": 54.564188,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-ghar-street",
@@ -32994,7 +33938,8 @@ window.KB = {
       "osm": "way/112174471",
       "kind": "residential",
       "lat": 24.321084,
-      "lon": 54.640217
+      "lon": 54.640217,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-hanyoufah-street",
@@ -33005,7 +33950,8 @@ window.KB = {
       "osm": "way/105447600",
       "kind": "residential",
       "lat": 24.330853,
-      "lon": 54.633613
+      "lon": 54.633613,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-hyay-street",
@@ -33016,7 +33962,8 @@ window.KB = {
       "osm": "way/118783491",
       "kind": "residential",
       "lat": 24.401872,
-      "lon": 54.743022
+      "lon": 54.743022,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-ruways-street",
@@ -33027,7 +33974,8 @@ window.KB = {
       "osm": "way/235148652",
       "kind": "residential",
       "lat": 24.36596,
-      "lon": 54.700018
+      "lon": 54.700018,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-samhah-street",
@@ -33038,7 +33986,8 @@ window.KB = {
       "osm": "way/246999021",
       "kind": "residential",
       "lat": 24.291146,
-      "lon": 54.64139
+      "lon": 54.64139,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-tay-street",
@@ -33049,7 +33998,8 @@ window.KB = {
       "osm": "way/116691914",
       "kind": "residential",
       "lat": 24.345,
-      "lon": 54.533642
+      "lon": 54.533642,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-bu-touq-street",
@@ -33060,7 +34010,8 @@ window.KB = {
       "osm": "way/116451593",
       "kind": "residential",
       "lat": 24.359108,
-      "lon": 54.658259
+      "lon": 54.658259,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ghadeer-street",
@@ -33071,7 +34022,8 @@ window.KB = {
       "osm": "way/974606608",
       "kind": "residential",
       "lat": 24.409325,
-      "lon": 54.705062
+      "lon": 54.705062,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-ghimeedah-street",
@@ -33082,7 +34034,8 @@ window.KB = {
       "osm": "way/115719787",
       "kind": "residential",
       "lat": 24.32969,
-      "lon": 54.642022
+      "lon": 54.642022,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-hafira-street",
@@ -33093,7 +34046,8 @@ window.KB = {
       "osm": "way/818885444",
       "kind": "tertiary",
       "lat": 24.385072,
-      "lon": 54.67238
+      "lon": 54.67238,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-halah-street",
@@ -33104,7 +34058,8 @@ window.KB = {
       "osm": "way/115733331",
       "kind": "residential",
       "lat": 24.376839,
-      "lon": 54.660473
+      "lon": 54.660473,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-jadra-street",
@@ -33115,7 +34070,8 @@ window.KB = {
       "osm": "way/235147548",
       "kind": "residential",
       "lat": 24.349498,
-      "lon": 54.700946
+      "lon": 54.700946,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-jattiyah-street",
@@ -33126,7 +34082,8 @@ window.KB = {
       "osm": "way/116447975",
       "kind": "residential",
       "lat": 24.32132,
-      "lon": 54.633464
+      "lon": 54.633464,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-khiseebah-street",
@@ -33137,7 +34094,8 @@ window.KB = {
       "osm": "way/24307240",
       "kind": "unclassified",
       "lat": 24.404615,
-      "lon": 54.460793
+      "lon": 54.460793,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-khudayr-street",
@@ -33148,7 +34106,8 @@ window.KB = {
       "osm": "way/54201008",
       "kind": "residential",
       "lat": 24.341629,
-      "lon": 54.628148
+      "lon": 54.628148,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-maghis-street",
@@ -33159,7 +34118,8 @@ window.KB = {
       "osm": "way/94058692",
       "kind": "residential",
       "lat": 24.373918,
-      "lon": 54.717771
+      "lon": 54.717771,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mahyan-street",
@@ -33170,7 +34130,8 @@ window.KB = {
       "osm": "way/173017094",
       "kind": "residential",
       "lat": 24.365335,
-      "lon": 54.552757
+      "lon": 54.552757,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mala-street",
@@ -33181,7 +34142,8 @@ window.KB = {
       "osm": "way/1161286875",
       "kind": "residential",
       "lat": 24.39902,
-      "lon": 54.686752
+      "lon": 54.686752,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-marafi-street",
@@ -33192,7 +34154,8 @@ window.KB = {
       "osm": "way/54200925",
       "kind": "residential",
       "lat": 24.342558,
-      "lon": 54.623538
+      "lon": 54.623538,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-marqab-street",
@@ -33203,7 +34166,8 @@ window.KB = {
       "osm": "way/173013872",
       "kind": "residential",
       "lat": 24.359766,
-      "lon": 54.543181
+      "lon": 54.543181,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mhanna-street",
@@ -33214,7 +34178,8 @@ window.KB = {
       "osm": "way/177637746",
       "kind": "residential",
       "lat": 24.265965,
-      "lon": 54.690746
+      "lon": 54.690746,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mheeshah-street",
@@ -33225,7 +34190,8 @@ window.KB = {
       "osm": "way/1346119954",
       "kind": "residential",
       "lat": 24.272381,
-      "lon": 54.674057
+      "lon": 54.674057,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mihsin-street",
@@ -33236,7 +34202,8 @@ window.KB = {
       "osm": "way/474689470",
       "kind": "tertiary",
       "lat": 24.303952,
-      "lon": 54.535411
+      "lon": 54.535411,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mila-street",
@@ -33247,7 +34214,8 @@ window.KB = {
       "osm": "way/116447852",
       "kind": "residential",
       "lat": 24.300447,
-      "lon": 54.629316
+      "lon": 54.629316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-milayhah-street",
@@ -33258,7 +34226,8 @@ window.KB = {
       "osm": "way/818882079",
       "kind": "residential",
       "lat": 24.366131,
-      "lon": 54.668663
+      "lon": 54.668663,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-miwaylhah-street",
@@ -33269,7 +34238,8 @@ window.KB = {
       "osm": "way/235121454",
       "kind": "residential",
       "lat": 24.355436,
-      "lon": 54.695012
+      "lon": 54.695012,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mqattarah-street",
@@ -33280,7 +34250,8 @@ window.KB = {
       "osm": "way/93177761",
       "kind": "residential",
       "lat": 24.383475,
-      "lon": 54.654764
+      "lon": 54.654764,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mughayath-street",
@@ -33291,7 +34262,8 @@ window.KB = {
       "osm": "way/478960167",
       "kind": "residential",
       "lat": 24.296447,
-      "lon": 54.617523
+      "lon": 54.617523,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-murgham-street",
@@ -33302,7 +34274,8 @@ window.KB = {
       "osm": "way/115721692",
       "kind": "residential",
       "lat": 24.308244,
-      "lon": 54.644563
+      "lon": 54.644563,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mussaddir-street",
@@ -33313,7 +34286,8 @@ window.KB = {
       "osm": "way/1040535193",
       "kind": "residential",
       "lat": 24.364757,
-      "lon": 54.623543
+      "lon": 54.623543,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-mutraq-street",
@@ -33324,7 +34298,8 @@ window.KB = {
       "osm": "way/54200894",
       "kind": "residential",
       "lat": 24.358806,
-      "lon": 54.620132
+      "lon": 54.620132,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-nakheelah-street",
@@ -33335,7 +34310,8 @@ window.KB = {
       "osm": "way/95490127",
       "kind": "residential",
       "lat": 24.403911,
-      "lon": 54.719411
+      "lon": 54.719411,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-nmaylah-street",
@@ -33346,7 +34322,8 @@ window.KB = {
       "osm": "way/118783458",
       "kind": "residential",
       "lat": 24.395107,
-      "lon": 54.729857
+      "lon": 54.729857,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-qitnah-street",
@@ -33357,7 +34334,8 @@ window.KB = {
       "osm": "way/161842263",
       "kind": "residential",
       "lat": 24.324331,
-      "lon": 54.531974
+      "lon": 54.531974,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-rastan-street",
@@ -33368,7 +34346,8 @@ window.KB = {
       "osm": "way/856082263",
       "kind": "unclassified",
       "lat": 24.314414,
-      "lon": 54.613675
+      "lon": 54.613675,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-rumh-street",
@@ -33379,7 +34358,8 @@ window.KB = {
       "osm": "way/116429204",
       "kind": "residential",
       "lat": 24.318221,
-      "lon": 54.61689
+      "lon": 54.61689,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-rwayan-street",
@@ -33390,7 +34370,8 @@ window.KB = {
       "osm": "way/178429995",
       "kind": "tertiary",
       "lat": 24.385886,
-      "lon": 54.580934
+      "lon": 54.580934,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-samghalayl-street",
@@ -33401,7 +34382,8 @@ window.KB = {
       "osm": "way/116447967",
       "kind": "residential",
       "lat": 24.325024,
-      "lon": 54.627419
+      "lon": 54.627419,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-samhan-street",
@@ -33412,7 +34394,8 @@ window.KB = {
       "osm": "way/54201174",
       "kind": "residential",
       "lat": 24.372483,
-      "lon": 54.633861
+      "lon": 54.633861,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-sifat-street",
@@ -33423,7 +34406,8 @@ window.KB = {
       "osm": "way/634310288",
       "kind": "residential",
       "lat": 24.358659,
-      "lon": 54.729733
+      "lon": 54.729733,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-slaybeekh-street",
@@ -33434,7 +34418,8 @@ window.KB = {
       "osm": "way/105447657",
       "kind": "residential",
       "lat": 24.33361,
-      "lon": 54.640191
+      "lon": 54.640191,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-sweihan-street",
@@ -33445,7 +34430,8 @@ window.KB = {
       "osm": "way/116428995",
       "kind": "residential",
       "lat": 24.315212,
-      "lon": 54.640904
+      "lon": 54.640904,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-um-hfaf-street",
@@ -33456,7 +34442,8 @@ window.KB = {
       "osm": "way/851281776",
       "kind": "residential",
       "lat": 24.371888,
-      "lon": 54.629592
+      "lon": 54.629592,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-um-ywayl-street",
@@ -33467,7 +34454,8 @@ window.KB = {
       "osm": "way/178947419",
       "kind": "residential",
       "lat": 24.269309,
-      "lon": 54.6598
+      "lon": 54.6598,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-waraqah-street",
@@ -33478,7 +34466,8 @@ window.KB = {
       "osm": "way/54201123",
       "kind": "residential",
       "lat": 24.361722,
-      "lon": 54.624741
+      "lon": 54.624741,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-yabsah-street",
@@ -33489,7 +34478,8 @@ window.KB = {
       "osm": "way/111295885",
       "kind": "residential",
       "lat": 24.283128,
-      "lon": 54.639438
+      "lon": 54.639438,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-yafir-street",
@@ -33500,7 +34490,8 @@ window.KB = {
       "osm": "way/94329209",
       "kind": "residential",
       "lat": 24.275707,
-      "lon": 54.6772
+      "lon": 54.6772,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-yal-street",
@@ -33511,7 +34502,8 @@ window.KB = {
       "osm": "way/116429228",
       "kind": "residential",
       "lat": 24.308505,
-      "lon": 54.635995
+      "lon": 54.635995,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-yallah-street",
@@ -33522,7 +34514,8 @@ window.KB = {
       "osm": "way/235147555",
       "kind": "residential",
       "lat": 24.348138,
-      "lon": 54.701608
+      "lon": 54.701608,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-yilal-street",
@@ -33533,7 +34526,8 @@ window.KB = {
       "osm": "way/118783435",
       "kind": "residential",
       "lat": 24.397896,
-      "lon": 54.739611
+      "lon": 54.739611,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-yirayid-street",
@@ -33544,7 +34538,8 @@ window.KB = {
       "osm": "way/974606641",
       "kind": "residential",
       "lat": 24.401563,
-      "lon": 54.71271
+      "lon": 54.71271,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-zayd-street",
@@ -33555,7 +34550,8 @@ window.KB = {
       "osm": "way/247008836",
       "kind": "residential",
       "lat": 24.308315,
-      "lon": 54.660522
+      "lon": 54.660522,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-zayed-street",
@@ -33566,7 +34562,8 @@ window.KB = {
       "osm": "way/247001288",
       "kind": "residential",
       "lat": 24.316337,
-      "lon": 54.619511
+      "lon": 54.619511,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-zimmah-street",
@@ -33577,7 +34574,8 @@ window.KB = {
       "osm": "way/116690235",
       "kind": "residential",
       "lat": 24.341618,
-      "lon": 54.649776
+      "lon": 54.649776,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tawi-zinjar-street",
@@ -33588,7 +34586,8 @@ window.KB = {
       "osm": "way/54200928",
       "kind": "residential",
       "lat": 24.354156,
-      "lon": 54.63337
+      "lon": 54.63337,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tbabah-street",
@@ -33599,7 +34598,8 @@ window.KB = {
       "osm": "way/248465666",
       "kind": "residential",
       "lat": 24.36486,
-      "lon": 54.756961
+      "lon": 54.756961,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/teebi-street",
@@ -33610,7 +34610,8 @@ window.KB = {
       "osm": "way/820507583",
       "kind": "residential",
       "lat": 24.387194,
-      "lon": 54.608691
+      "lon": 54.608691,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-al-bunani-street",
@@ -33621,7 +34622,8 @@ window.KB = {
       "osm": "way/105451682",
       "kind": "residential",
       "lat": 24.325696,
-      "lon": 54.631915
+      "lon": 54.631915,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-ad-dahhak-street",
@@ -33632,7 +34634,8 @@ window.KB = {
       "osm": "way/307012308",
       "kind": "residential",
       "lat": 24.320749,
-      "lon": 54.643772
+      "lon": 54.643772,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-al-harith-street",
@@ -33643,7 +34646,8 @@ window.KB = {
       "osm": "way/54200889",
       "kind": "residential",
       "lat": 24.358241,
-      "lon": 54.616382
+      "lon": 54.616382,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-as-samit-street",
@@ -33654,7 +34658,8 @@ window.KB = {
       "osm": "way/173226807",
       "kind": "residential",
       "lat": 24.309157,
-      "lon": 54.553579
+      "lon": 54.553579,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-deenar-street",
@@ -33665,7 +34670,8 @@ window.KB = {
       "osm": "way/54201188",
       "kind": "residential",
       "lat": 24.369192,
-      "lon": 54.640736
+      "lon": 54.640736,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-qays-street",
@@ -33676,7 +34682,8 @@ window.KB = {
       "osm": "way/173394369",
       "kind": "residential",
       "lat": 24.320943,
-      "lon": 54.577443
+      "lon": 54.577443,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-rifa-ah-street",
@@ -33687,7 +34694,8 @@ window.KB = {
       "osm": "way/253019276",
       "kind": "residential",
       "lat": 24.409873,
-      "lon": 54.739282
+      "lon": 54.739282,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-waqsh-street",
@@ -33698,7 +34706,8 @@ window.KB = {
       "osm": "way/475163040",
       "kind": "residential",
       "lat": 24.286745,
-      "lon": 54.648777
+      "lon": 54.648777,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-yazeed-street",
@@ -33709,7 +34718,8 @@ window.KB = {
       "osm": "way/54201173",
       "kind": "residential",
       "lat": 24.371593,
-      "lon": 54.633112
+      "lon": 54.633112,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thabit-bin-zayd-street",
@@ -33720,7 +34730,8 @@ window.KB = {
       "osm": "way/983380789",
       "kind": "residential",
       "lat": 24.361405,
-      "lon": 54.628214
+      "lon": 54.628214,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thajjaj-street",
@@ -33731,7 +34742,8 @@ window.KB = {
       "osm": "way/974445530",
       "kind": "residential",
       "lat": 24.368035,
-      "lon": 54.616561
+      "lon": 54.616561,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thallab-street",
@@ -33742,7 +34754,8 @@ window.KB = {
       "osm": "way/116690224",
       "kind": "residential",
       "lat": 24.35166,
-      "lon": 54.657422
+      "lon": 54.657422,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thanyat-al-uwahi-street",
@@ -33753,7 +34766,8 @@ window.KB = {
       "osm": "way/116692401",
       "kind": "residential",
       "lat": 24.368744,
-      "lon": 54.709009
+      "lon": 54.709009,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thanyat-al-freej-street",
@@ -33764,7 +34778,8 @@ window.KB = {
       "osm": "way/974606643",
       "kind": "residential",
       "lat": 24.402955,
-      "lon": 54.709553
+      "lon": 54.709553,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thanyat-al-hadwaniyah-street",
@@ -33775,7 +34790,8 @@ window.KB = {
       "osm": "way/235124798",
       "kind": "residential",
       "lat": 24.35737,
-      "lon": 54.708101
+      "lon": 54.708101,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thanyat-myadif-street",
@@ -33786,7 +34802,8 @@ window.KB = {
       "osm": "way/695139032",
       "kind": "residential",
       "lat": 24.330304,
-      "lon": 54.632411
+      "lon": 54.632411,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thanyat-qirayib-street",
@@ -33797,7 +34814,8 @@ window.KB = {
       "osm": "way/115732766",
       "kind": "residential",
       "lat": 24.367536,
-      "lon": 54.666562
+      "lon": 54.666562,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tharb-an-nad-h-street",
@@ -33808,7 +34826,8 @@ window.KB = {
       "osm": "way/819199174",
       "kind": "residential",
       "lat": 24.385535,
-      "lon": 54.677375
+      "lon": 54.677375,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tharb-bakheetah-street",
@@ -33819,7 +34838,8 @@ window.KB = {
       "osm": "way/111295892",
       "kind": "residential",
       "lat": 24.278088,
-      "lon": 54.641856
+      "lon": 54.641856,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/theyab-bin-eissa-street",
@@ -33830,7 +34850,8 @@ window.KB = {
       "osm": "way/24297238",
       "kind": "secondary",
       "lat": 24.40037,
-      "lon": 54.573337
+      "lon": 54.573337,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thouban-street",
@@ -33841,7 +34862,8 @@ window.KB = {
       "osm": "way/161842459",
       "kind": "residential",
       "lat": 24.322232,
-      "lon": 54.53735
+      "lon": 54.53735,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thumamah-bin-uthal-street",
@@ -33852,7 +34874,8 @@ window.KB = {
       "osm": "way/54202624",
       "kind": "residential",
       "lat": 24.372308,
-      "lon": 54.638506
+      "lon": 54.638506,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thuqbat-al-mazmi-street",
@@ -33863,7 +34886,8 @@ window.KB = {
       "osm": "way/635438707",
       "kind": "residential",
       "lat": 24.306632,
-      "lon": 54.591109
+      "lon": 54.591109,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/thuqbat-sa-street",
@@ -33874,7 +34898,8 @@ window.KB = {
       "osm": "way/974606700",
       "kind": "residential",
       "lat": 24.403614,
-      "lon": 54.694418
+      "lon": 54.694418,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tibayqat-sa-street",
@@ -33885,7 +34910,8 @@ window.KB = {
       "osm": "way/1424572042",
       "kind": "residential",
       "lat": 24.285055,
-      "lon": 54.634316
+      "lon": 54.634316,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tilal-al-marfa-street",
@@ -33896,7 +34922,8 @@ window.KB = {
       "osm": "way/306795080",
       "kind": "residential",
       "lat": 24.320913,
-      "lon": 54.762697
+      "lon": 54.762697,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tilal-liwa-street",
@@ -33907,7 +34934,8 @@ window.KB = {
       "osm": "way/306671067",
       "kind": "residential",
       "lat": 24.322372,
-      "lon": 54.73465
+      "lon": 54.73465,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tlay-ah-street",
@@ -33918,7 +34946,8 @@ window.KB = {
       "osm": "way/306682867",
       "kind": "residential",
       "lat": 24.365033,
-      "lon": 54.747768
+      "lon": 54.747768,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/touyat-bin-hilal-street",
@@ -33929,7 +34958,8 @@ window.KB = {
       "osm": "way/115732745",
       "kind": "residential",
       "lat": 24.368164,
-      "lon": 54.664957
+      "lon": 54.664957,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tunb-as-sughra-street",
@@ -33940,7 +34970,8 @@ window.KB = {
       "osm": "way/24257151",
       "kind": "tertiary",
       "lat": 24.409945,
-      "lon": 54.463802
+      "lon": 54.463802,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tuwarif-street",
@@ -33951,7 +34982,8 @@ window.KB = {
       "osm": "way/974606651",
       "kind": "residential",
       "lat": 24.409741,
-      "lon": 54.709954
+      "lon": 54.709954,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/tuweemi-street",
@@ -33962,7 +34994,8 @@ window.KB = {
       "osm": "way/24303616",
       "kind": "residential",
       "lat": 24.394859,
-      "lon": 54.49531
+      "lon": 54.49531,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/twayqan-street",
@@ -33973,7 +35006,8 @@ window.KB = {
       "osm": "way/635438713",
       "kind": "residential",
       "lat": 24.311339,
-      "lon": 54.586223
+      "lon": 54.586223,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ubadah-bin-as-samit-street",
@@ -33984,7 +35018,8 @@ window.KB = {
       "osm": "way/111295887",
       "kind": "residential",
       "lat": 24.278992,
-      "lon": 54.642697
+      "lon": 54.642697,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ubay-bin-ka-b-street",
@@ -33995,7 +35030,8 @@ window.KB = {
       "osm": "way/438858596",
       "kind": "residential",
       "lat": 24.325782,
-      "lon": 54.536605
+      "lon": 54.536605,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-ad-diba-street",
@@ -34006,7 +35042,8 @@ window.KB = {
       "osm": "way/248481461",
       "kind": "residential",
       "lat": 24.362164,
-      "lon": 54.687118
+      "lon": 54.687118,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-imad-street",
@@ -34017,7 +35054,8 @@ window.KB = {
       "osm": "way/476618773",
       "kind": "residential",
       "lat": 24.326832,
-      "lon": 54.532389
+      "lon": 54.532389,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-bindiq-street",
@@ -34028,7 +35066,8 @@ window.KB = {
       "osm": "way/173016711",
       "kind": "residential",
       "lat": 24.372031,
-      "lon": 54.542291
+      "lon": 54.542291,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-bisr-street",
@@ -34039,7 +35078,8 @@ window.KB = {
       "osm": "way/247044157",
       "kind": "residential",
       "lat": 24.332654,
-      "lon": 54.531299
+      "lon": 54.531299,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-biyout-street",
@@ -34050,7 +35090,8 @@ window.KB = {
       "osm": "way/473393000",
       "kind": "residential",
       "lat": 24.366903,
-      "lon": 54.547709
+      "lon": 54.547709,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-difaf-street",
@@ -34061,7 +35102,8 @@ window.KB = {
       "osm": "way/306682854",
       "kind": "residential",
       "lat": 24.361714,
-      "lon": 54.753954
+      "lon": 54.753954,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-ghiran-street",
@@ -34072,7 +35114,8 @@ window.KB = {
       "osm": "way/116447593",
       "kind": "residential",
       "lat": 24.308525,
-      "lon": 54.610665
+      "lon": 54.610665,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-hatab-street",
@@ -34083,7 +35126,8 @@ window.KB = {
       "osm": "way/118783505",
       "kind": "residential",
       "lat": 24.393956,
-      "lon": 54.72095
+      "lon": 54.72095,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-hizzan-street",
@@ -34094,7 +35138,8 @@ window.KB = {
       "osm": "way/119287517",
       "kind": "residential",
       "lat": 24.39386,
-      "lon": 54.707178
+      "lon": 54.707178,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-khashash-street",
@@ -34105,7 +35150,8 @@ window.KB = {
       "osm": "way/116429230",
       "kind": "residential",
       "lat": 24.313639,
-      "lon": 54.628994
+      "lon": 54.628994,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-khateeb-street",
@@ -34116,7 +35162,8 @@ window.KB = {
       "osm": "way/820507480",
       "kind": "residential",
       "lat": 24.360716,
-      "lon": 54.608854
+      "lon": 54.608854,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-libd-street",
@@ -34127,7 +35174,8 @@ window.KB = {
       "osm": "way/247044203",
       "kind": "residential",
       "lat": 24.335507,
-      "lon": 54.531992
+      "lon": 54.531992,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-qurm-street",
@@ -34138,7 +35186,8 @@ window.KB = {
       "osm": "way/820507620",
       "kind": "residential",
       "lat": 24.375149,
-      "lon": 54.605023
+      "lon": 54.605023,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-al-yamayeem-street",
@@ -34149,7 +35198,8 @@ window.KB = {
       "osm": "way/246999010",
       "kind": "residential",
       "lat": 24.288889,
-      "lon": 54.652524
+      "lon": 54.652524,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-ar-ramram-street",
@@ -34160,7 +35210,8 @@ window.KB = {
       "osm": "way/974606695",
       "kind": "residential",
       "lat": 24.40379,
-      "lon": 54.697566
+      "lon": 54.697566,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-ar-rous-street",
@@ -34171,7 +35222,8 @@ window.KB = {
       "osm": "way/91675957",
       "kind": "residential",
       "lat": 24.344333,
-      "lon": 54.553676
+      "lon": 54.553676,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-as-safad-street",
@@ -34182,7 +35234,8 @@ window.KB = {
       "osm": "way/173398870",
       "kind": "residential",
       "lat": 24.304154,
-      "lon": 54.579693
+      "lon": 54.579693,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-as-salam-street",
@@ -34193,7 +35246,8 @@ window.KB = {
       "osm": "way/247008823",
       "kind": "residential",
       "lat": 24.309484,
-      "lon": 54.65474
+      "lon": 54.65474,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-as-subat-street",
@@ -34204,7 +35258,8 @@ window.KB = {
       "osm": "way/474920690",
       "kind": "residential",
       "lat": 24.302557,
-      "lon": 54.571122
+      "lon": 54.571122,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-as-suwaheek-street",
@@ -34215,7 +35270,8 @@ window.KB = {
       "osm": "way/93177762",
       "kind": "residential",
       "lat": 24.386722,
-      "lon": 54.653683
+      "lon": 54.653683,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-ash-shinayeeb-street",
@@ -34226,7 +35282,8 @@ window.KB = {
       "osm": "way/974606623",
       "kind": "residential",
       "lat": 24.406535,
-      "lon": 54.708462
+      "lon": 54.708462,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-az-zibad-street",
@@ -34237,7 +35294,8 @@ window.KB = {
       "osm": "way/172917310",
       "kind": "residential",
       "lat": 24.377676,
-      "lon": 54.54541
+      "lon": 54.54541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-dhari-street",
@@ -34248,7 +35306,8 @@ window.KB = {
       "osm": "way/95630483",
       "kind": "residential",
       "lat": 24.410371,
-      "lon": 54.754956
+      "lon": 54.754956,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-ghar-street",
@@ -34259,7 +35318,8 @@ window.KB = {
       "osm": "way/821077774",
       "kind": "residential",
       "lat": 24.376396,
-      "lon": 54.616172
+      "lon": 54.616172,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-ghimaygheem-street",
@@ -34270,7 +35330,8 @@ window.KB = {
       "osm": "way/116451472",
       "kind": "residential",
       "lat": 24.35621,
-      "lon": 54.651556
+      "lon": 54.651556,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-ghwayr-street",
@@ -34281,7 +35342,8 @@ window.KB = {
       "osm": "way/306682862",
       "kind": "residential",
       "lat": 24.359108,
-      "lon": 54.755035
+      "lon": 54.755035,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-hani-bint-abi-talib-street",
@@ -34292,7 +35354,8 @@ window.KB = {
       "osm": "way/116447971",
       "kind": "residential",
       "lat": 24.32038,
-      "lon": 54.635801
+      "lon": 54.635801,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-hraym-street",
@@ -34303,7 +35366,8 @@ window.KB = {
       "osm": "way/475163043",
       "kind": "residential",
       "lat": 24.287535,
-      "lon": 54.649515
+      "lon": 54.649515,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-kharaz-street",
@@ -34314,7 +35378,8 @@ window.KB = {
       "osm": "way/438856594",
       "kind": "residential",
       "lat": 24.324037,
-      "lon": 54.533728
+      "lon": 54.533728,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-kulthoum-bint-uqbah-street",
@@ -34325,7 +35390,8 @@ window.KB = {
       "osm": "way/820507463",
       "kind": "residential",
       "lat": 24.360792,
-      "lon": 54.613423
+      "lon": 54.613423,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-kulthoum-bint-al-abbas-street",
@@ -34336,7 +35402,8 @@ window.KB = {
       "osm": "way/635438704",
       "kind": "residential",
       "lat": 24.308259,
-      "lon": 54.591488
+      "lon": 54.591488,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-lammad-street",
@@ -34347,7 +35414,8 @@ window.KB = {
       "osm": "way/473406641",
       "kind": "residential",
       "lat": 24.353962,
-      "lon": 54.691213
+      "lon": 54.691213,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-qrain-street",
@@ -34358,7 +35426,8 @@ window.KB = {
       "osm": "way/247044164",
       "kind": "residential",
       "lat": 24.33472,
-      "lon": 54.536162
+      "lon": 54.536162,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-qussar-street",
@@ -34369,7 +35438,8 @@ window.KB = {
       "osm": "way/476499336",
       "kind": "residential",
       "lat": 24.310723,
-      "lon": 54.627108
+      "lon": 54.627108,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-samur-street",
@@ -34380,7 +35450,8 @@ window.KB = {
       "osm": "way/684000832",
       "kind": "residential",
       "lat": 24.311452,
-      "lon": 54.623286
+      "lon": 54.623286,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-sdeerah-street",
@@ -34391,7 +35462,8 @@ window.KB = {
       "osm": "way/818566866",
       "kind": "residential",
       "lat": 24.373113,
-      "lon": 54.671843
+      "lon": 54.671843,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-shash-street",
@@ -34402,7 +35474,8 @@ window.KB = {
       "osm": "way/306682830",
       "kind": "residential",
       "lat": 24.366493,
-      "lon": 54.759377
+      "lon": 54.759377,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-sulaym-bint-milhan-street",
@@ -34413,7 +35486,8 @@ window.KB = {
       "osm": "way/94055551",
       "kind": "residential",
       "lat": 24.376169,
-      "lon": 54.649361
+      "lon": 54.649361,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/um-waraqah-bint-abdullah-street",
@@ -34424,7 +35498,8 @@ window.KB = {
       "osm": "way/235121466",
       "kind": "residential",
       "lat": 24.354962,
-      "lon": 54.689541
+      "lon": 54.689541,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/umaymah-bint-subayh-street",
@@ -34435,7 +35510,8 @@ window.KB = {
       "osm": "way/974606680",
       "kind": "residential",
       "lat": 24.401954,
-      "lon": 54.69513
+      "lon": 54.69513,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/uqbah-bin-amer-street",
@@ -34446,7 +35522,8 @@ window.KB = {
       "osm": "way/820507582",
       "kind": "residential",
       "lat": 24.387496,
-      "lon": 54.609734
+      "lon": 54.609734,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/usayd-bin-hudayr-street",
@@ -34457,7 +35534,8 @@ window.KB = {
       "osm": "way/474930694",
       "kind": "residential",
       "lat": 24.318497,
-      "lon": 54.536676
+      "lon": 54.536676,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wa-ab-al-arsh-street",
@@ -34468,7 +35546,8 @@ window.KB = {
       "osm": "way/1346119969",
       "kind": "residential",
       "lat": 24.270265,
-      "lon": 54.674785
+      "lon": 54.674785,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wa-ab-al-harf-street",
@@ -34479,7 +35558,8 @@ window.KB = {
       "osm": "way/820507466",
       "kind": "residential",
       "lat": 24.364839,
-      "lon": 54.608215
+      "lon": 54.608215,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wa-ab-al-ksayfah-street",
@@ -34490,7 +35570,8 @@ window.KB = {
       "osm": "way/820507612",
       "kind": "residential",
       "lat": 24.374792,
-      "lon": 54.604077
+      "lon": 54.604077,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wa-ab-al-yidayli-street",
@@ -34501,7 +35582,8 @@ window.KB = {
       "osm": "way/116691038",
       "kind": "residential",
       "lat": 24.290637,
-      "lon": 54.632934
+      "lon": 54.632934,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wa-ab-meenah-street",
@@ -34512,7 +35594,8 @@ window.KB = {
       "osm": "way/94329237",
       "kind": "residential",
       "lat": 24.260929,
-      "lon": 54.699095
+      "lon": 54.699095,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-afya-street",
@@ -34523,7 +35606,8 @@ window.KB = {
       "osm": "way/85680607",
       "kind": "residential",
       "lat": 24.350627,
-      "lon": 54.555647
+      "lon": 54.555647,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-arqeeyah-street",
@@ -34534,7 +35618,8 @@ window.KB = {
       "osm": "way/173117061",
       "kind": "residential",
       "lat": 24.325926,
-      "lon": 54.537423
+      "lon": 54.537423,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-idhayq-street",
@@ -34545,7 +35630,8 @@ window.KB = {
       "osm": "way/118783446",
       "kind": "residential",
       "lat": 24.396633,
-      "lon": 54.728715
+      "lon": 54.728715,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ishasah-street",
@@ -34556,7 +35642,8 @@ window.KB = {
       "osm": "way/974445540",
       "kind": "residential",
       "lat": 24.366733,
-      "lon": 54.600293
+      "lon": 54.600293,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ouf-street",
@@ -34567,7 +35654,8 @@ window.KB = {
       "osm": "way/818882647",
       "kind": "residential",
       "lat": 24.367873,
-      "lon": 54.658865
+      "lon": 54.658865,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-ijayli-street",
@@ -34578,7 +35666,8 @@ window.KB = {
       "osm": "way/54201000",
       "kind": "residential",
       "lat": 24.34082,
-      "lon": 54.623144
+      "lon": 54.623144,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-imayiq-street",
@@ -34589,7 +35678,8 @@ window.KB = {
       "osm": "way/627829933",
       "kind": "residential",
       "lat": 24.367558,
-      "lon": 54.606702
+      "lon": 54.606702,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-iqab-street",
@@ -34600,7 +35690,8 @@ window.KB = {
       "osm": "way/116429212",
       "kind": "residential",
       "lat": 24.322674,
-      "lon": 54.622707
+      "lon": 54.622707,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-iqbah-street",
@@ -34611,7 +35702,8 @@ window.KB = {
       "osm": "way/116429217",
       "kind": "residential",
       "lat": 24.313085,
-      "lon": 54.634895
+      "lon": 54.634895,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-iyaynah-street",
@@ -34622,7 +35714,8 @@ window.KB = {
       "osm": "way/820507622",
       "kind": "residential",
       "lat": 24.377631,
-      "lon": 54.609797
+      "lon": 54.609797,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-amah-street",
@@ -34633,7 +35726,8 @@ window.KB = {
       "osm": "way/819197997",
       "kind": "residential",
       "lat": 24.388954,
-      "lon": 54.670141
+      "lon": 54.670141,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-bad-street",
@@ -34644,7 +35738,8 @@ window.KB = {
       "osm": "way/820507616",
       "kind": "residential",
       "lat": 24.371949,
-      "lon": 54.608531
+      "lon": 54.608531,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-bat-ha-a-street",
@@ -34655,7 +35750,8 @@ window.KB = {
       "osm": "way/818883187",
       "kind": "residential",
       "lat": 24.375349,
-      "lon": 54.672925
+      "lon": 54.672925,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-bday-street",
@@ -34666,7 +35762,8 @@ window.KB = {
       "osm": "way/820507586",
       "kind": "residential",
       "lat": 24.386965,
-      "lon": 54.602078
+      "lon": 54.602078,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-beeh-street",
@@ -34677,7 +35774,8 @@ window.KB = {
       "osm": "way/121648451",
       "kind": "residential",
       "lat": 24.376786,
-      "lon": 54.706395
+      "lon": 54.706395,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-farayid-street",
@@ -34688,7 +35786,8 @@ window.KB = {
       "osm": "way/116691906",
       "kind": "residential",
       "lat": 24.345909,
-      "lon": 54.533102
+      "lon": 54.533102,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-fayah-street",
@@ -34699,7 +35798,8 @@ window.KB = {
       "osm": "way/820507474",
       "kind": "residential",
       "lat": 24.362938,
-      "lon": 54.606609
+      "lon": 54.606609,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-faydah-street",
@@ -34710,7 +35810,8 @@ window.KB = {
       "osm": "way/121648416",
       "kind": "residential",
       "lat": 24.380918,
-      "lon": 54.698335
+      "lon": 54.698335,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-filay-street",
@@ -34721,7 +35822,8 @@ window.KB = {
       "osm": "way/474510488",
       "kind": "residential",
       "lat": 24.384867,
-      "lon": 54.538491
+      "lon": 54.538491,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-halah-street",
@@ -34732,7 +35834,8 @@ window.KB = {
       "osm": "way/974606756",
       "kind": "residential",
       "lat": 24.395603,
-      "lon": 54.678818
+      "lon": 54.678818,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-harrah-street",
@@ -34743,7 +35846,8 @@ window.KB = {
       "osm": "way/475159794",
       "kind": "residential",
       "lat": 24.289033,
-      "lon": 54.651652
+      "lon": 54.651652,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-hiyayrah-street",
@@ -34754,7 +35858,8 @@ window.KB = {
       "osm": "way/116691907",
       "kind": "residential",
       "lat": 24.339099,
-      "lon": 54.534802
+      "lon": 54.534802,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-huwaydi-street",
@@ -34765,7 +35870,8 @@ window.KB = {
       "osm": "way/94055549",
       "kind": "residential",
       "lat": 24.388615,
-      "lon": 54.644494
+      "lon": 54.644494,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-jazeerah-street",
@@ -34776,7 +35882,8 @@ window.KB = {
       "osm": "way/116447970",
       "kind": "residential",
       "lat": 24.321882,
-      "lon": 54.630549
+      "lon": 54.630549,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-khanfariyah-street",
@@ -34787,7 +35894,8 @@ window.KB = {
       "osm": "way/818916822",
       "kind": "residential",
       "lat": 24.371831,
-      "lon": 54.551958
+      "lon": 54.551958,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-khirays-street",
@@ -34798,7 +35906,8 @@ window.KB = {
       "osm": "way/474926018",
       "kind": "residential",
       "lat": 24.364645,
-      "lon": 54.691743
+      "lon": 54.691743,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-khor-street",
@@ -34809,7 +35918,8 @@ window.KB = {
       "osm": "way/116690218",
       "kind": "residential",
       "lat": 24.340629,
-      "lon": 54.65425
+      "lon": 54.65425,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-kinoud-street",
@@ -34820,7 +35930,8 @@ window.KB = {
       "osm": "way/1154210600",
       "kind": "residential",
       "lat": 24.386621,
-      "lon": 54.603213
+      "lon": 54.603213,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-liwari-street",
@@ -34831,7 +35942,8 @@ window.KB = {
       "osm": "way/1120991351",
       "kind": "residential",
       "lat": 24.373001,
-      "lon": 54.637767
+      "lon": 54.637767,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-madaynah-street",
@@ -34842,7 +35954,8 @@ window.KB = {
       "osm": "way/474712071",
       "kind": "residential",
       "lat": 24.344161,
-      "lon": 54.568693
+      "lon": 54.568693,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-maksar-street",
@@ -34853,7 +35966,8 @@ window.KB = {
       "osm": "way/91676368",
       "kind": "residential",
       "lat": 24.335467,
-      "lon": 54.553744
+      "lon": 54.553744,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-mas-oudi-street",
@@ -34864,7 +35978,8 @@ window.KB = {
       "osm": "way/474863283",
       "kind": "residential",
       "lat": 24.328617,
-      "lon": 54.570726
+      "lon": 54.570726,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-mbazzarah-street",
@@ -34875,7 +35990,8 @@ window.KB = {
       "osm": "way/111297869",
       "kind": "residential",
       "lat": 24.325584,
-      "lon": 54.636785
+      "lon": 54.636785,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-mdheem-street",
@@ -34886,7 +36002,8 @@ window.KB = {
       "osm": "way/1161286886",
       "kind": "residential",
       "lat": 24.396361,
-      "lon": 54.682421
+      "lon": 54.682421,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-mikhaylfah-street",
@@ -34897,7 +36014,8 @@ window.KB = {
       "osm": "way/247044146",
       "kind": "residential",
       "lat": 24.337473,
-      "lon": 54.535573
+      "lon": 54.535573,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-mrabba-ah-street",
@@ -34908,7 +36026,8 @@ window.KB = {
       "osm": "way/235124829",
       "kind": "residential",
       "lat": 24.357022,
-      "lon": 54.70965
+      "lon": 54.70965,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-murrah-street",
@@ -34919,7 +36038,8 @@ window.KB = {
       "osm": "way/54200949",
       "kind": "residential",
       "lat": 24.348179,
-      "lon": 54.619715
+      "lon": 54.619715,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-qara-street",
@@ -34930,7 +36050,8 @@ window.KB = {
       "osm": "way/1346119983",
       "kind": "residential",
       "lat": 24.268034,
-      "lon": 54.672002
+      "lon": 54.672002,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-qilay-ah-street",
@@ -34941,7 +36062,8 @@ window.KB = {
       "osm": "way/818862488",
       "kind": "residential",
       "lat": 24.313573,
-      "lon": 54.657962
+      "lon": 54.657962,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-qirayih-street",
@@ -34952,7 +36074,8 @@ window.KB = {
       "osm": "way/975413113",
       "kind": "residential",
       "lat": 24.396697,
-      "lon": 54.67832
+      "lon": 54.67832,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-qourah-street",
@@ -34963,7 +36086,8 @@ window.KB = {
       "osm": "way/635059341",
       "kind": "residential",
       "lat": 24.276617,
-      "lon": 54.649831
+      "lon": 54.649831,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-yam-street",
@@ -34974,7 +36098,8 @@ window.KB = {
       "osm": "way/820507603",
       "kind": "residential",
       "lat": 24.382753,
-      "lon": 54.61078
+      "lon": 54.61078,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-al-yirayf-street",
@@ -34985,7 +36110,8 @@ window.KB = {
       "osm": "way/173175051",
       "kind": "residential",
       "lat": 24.31795,
-      "lon": 54.549591
+      "lon": 54.549591,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-an-najd-street",
@@ -34996,7 +36122,8 @@ window.KB = {
       "osm": "way/247044135",
       "kind": "residential",
       "lat": 24.336327,
-      "lon": 54.537353
+      "lon": 54.537353,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-an-nibiyah-street",
@@ -35007,7 +36134,8 @@ window.KB = {
       "osm": "way/247044174",
       "kind": "residential",
       "lat": 24.337388,
-      "lon": 54.533724
+      "lon": 54.533724,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ar-ras-street",
@@ -35018,7 +36146,8 @@ window.KB = {
       "osm": "way/306808321",
       "kind": "residential",
       "lat": 24.312081,
-      "lon": 54.625426
+      "lon": 54.625426,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ar-rawah-street",
@@ -35029,7 +36158,8 @@ window.KB = {
       "osm": "way/178947407",
       "kind": "residential",
       "lat": 24.270808,
-      "lon": 54.652364
+      "lon": 54.652364,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ar-rumani-street",
@@ -35040,7 +36170,8 @@ window.KB = {
       "osm": "way/635446548",
       "kind": "residential",
       "lat": 24.300762,
-      "lon": 54.613068
+      "lon": 54.613068,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-as-saffari-street",
@@ -35051,7 +36182,8 @@ window.KB = {
       "osm": "way/1210149614",
       "kind": "residential",
       "lat": 24.265397,
-      "lon": 54.661516
+      "lon": 54.661516,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-as-safsaf-street",
@@ -35062,7 +36194,8 @@ window.KB = {
       "osm": "way/1210149606",
       "kind": "residential",
       "lat": 24.267773,
-      "lon": 54.655441
+      "lon": 54.655441,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-as-seeji-street",
@@ -35073,7 +36206,8 @@ window.KB = {
       "osm": "way/684000799",
       "kind": "residential",
       "lat": 24.297252,
-      "lon": 54.619514
+      "lon": 54.619514,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-as-si-een-street",
@@ -35084,7 +36218,8 @@ window.KB = {
       "osm": "way/697003676",
       "kind": "residential",
       "lat": 24.293933,
-      "lon": 54.620827
+      "lon": 54.620827,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-as-silat-street",
@@ -35095,7 +36230,8 @@ window.KB = {
       "osm": "way/91675952",
       "kind": "residential",
       "lat": 24.339534,
-      "lon": 54.564771
+      "lon": 54.564771,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-as-silaymi-street",
@@ -35106,7 +36242,8 @@ window.KB = {
       "osm": "way/235121439",
       "kind": "residential",
       "lat": 24.352749,
-      "lon": 54.695183
+      "lon": 54.695183,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-as-siwaydah-street",
@@ -35117,7 +36254,8 @@ window.KB = {
       "osm": "way/91675989",
       "kind": "residential",
       "lat": 24.341978,
-      "lon": 54.565176
+      "lon": 54.565176,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ash-shiwayn-street",
@@ -35128,7 +36266,8 @@ window.KB = {
       "osm": "way/974445528",
       "kind": "residential",
       "lat": 24.37037,
-      "lon": 54.618986
+      "lon": 54.618986,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-at-taradees-street",
@@ -35139,7 +36278,8 @@ window.KB = {
       "osm": "way/818881584",
       "kind": "residential",
       "lat": 24.364147,
-      "lon": 54.664799
+      "lon": 54.664799,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-at-taraf-street",
@@ -35150,7 +36290,8 @@ window.KB = {
       "osm": "way/172917305",
       "kind": "residential",
       "lat": 24.378324,
-      "lon": 54.54451
+      "lon": 54.54451,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-at-tiwaysah-street",
@@ -35161,7 +36302,8 @@ window.KB = {
       "osm": "way/818601460",
       "kind": "residential",
       "lat": 24.300179,
-      "lon": 54.660233
+      "lon": 54.660233,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-at-tuwa-street",
@@ -35172,7 +36314,8 @@ window.KB = {
       "osm": "way/90768160",
       "kind": "residential",
       "lat": 24.301108,
-      "lon": 54.623353
+      "lon": 54.623353,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-at-tuwayib-street",
@@ -35183,7 +36326,8 @@ window.KB = {
       "osm": "way/820507408",
       "kind": "residential",
       "lat": 24.397548,
-      "lon": 54.624753
+      "lon": 54.624753,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-baraq-street",
@@ -35194,7 +36338,8 @@ window.KB = {
       "osm": "way/54200991",
       "kind": "residential",
       "lat": 24.341677,
-      "lon": 54.620099
+      "lon": 54.620099,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-dalham-street",
@@ -35205,7 +36350,8 @@ window.KB = {
       "osm": "way/94055550",
       "kind": "residential",
       "lat": 24.388862,
-      "lon": 54.650812
+      "lon": 54.650812,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-diyani-street",
@@ -35216,7 +36362,8 @@ window.KB = {
       "osm": "way/92007331",
       "kind": "residential",
       "lat": 24.328928,
-      "lon": 54.561495
+      "lon": 54.561495,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ghaleelah-street",
@@ -35227,7 +36374,8 @@ window.KB = {
       "osm": "way/1446899740",
       "kind": "residential",
       "lat": 24.273676,
-      "lon": 54.670403
+      "lon": 54.670403,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ghar-street",
@@ -35238,7 +36386,8 @@ window.KB = {
       "osm": "way/115721309",
       "kind": "residential",
       "lat": 24.302399,
-      "lon": 54.647509
+      "lon": 54.647509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ghoub-street",
@@ -35249,7 +36398,8 @@ window.KB = {
       "osm": "way/820507557",
       "kind": "residential",
       "lat": 24.384606,
-      "lon": 54.599829
+      "lon": 54.599829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-halayim-street",
@@ -35260,7 +36410,8 @@ window.KB = {
       "osm": "way/635438611",
       "kind": "residential",
       "lat": 24.322829,
-      "lon": 54.585787
+      "lon": 54.585787,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-ham-street",
@@ -35271,7 +36422,8 @@ window.KB = {
       "osm": "way/635438685",
       "kind": "residential",
       "lat": 24.314314,
-      "lon": 54.590034
+      "lon": 54.590034,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-hamdah-street",
@@ -35282,7 +36434,8 @@ window.KB = {
       "osm": "way/247000231",
       "kind": "residential",
       "lat": 24.284015,
-      "lon": 54.658473
+      "lon": 54.658473,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-haqeel-street",
@@ -35293,7 +36446,8 @@ window.KB = {
       "osm": "way/116447972",
       "kind": "residential",
       "lat": 24.327365,
-      "lon": 54.626607
+      "lon": 54.626607,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-iydayah-street",
@@ -35304,7 +36458,8 @@ window.KB = {
       "osm": "way/116691022",
       "kind": "residential",
       "lat": 24.289679,
-      "lon": 54.634264
+      "lon": 54.634264,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-kadrah-street",
@@ -35315,7 +36470,8 @@ window.KB = {
       "osm": "way/173180862",
       "kind": "residential",
       "lat": 24.310408,
-      "lon": 54.536566
+      "lon": 54.536566,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-kawakib-street",
@@ -35326,7 +36482,8 @@ window.KB = {
       "osm": "way/474654636",
       "kind": "residential",
       "lat": 24.330815,
-      "lon": 54.535896
+      "lon": 54.535896,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-kida-ah-street",
@@ -35337,7 +36494,8 @@ window.KB = {
       "osm": "way/474712064",
       "kind": "residential",
       "lat": 24.336759,
-      "lon": 54.576034
+      "lon": 54.576034,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-kirayb-street",
@@ -35348,7 +36506,8 @@ window.KB = {
       "osm": "way/635446533",
       "kind": "residential",
       "lat": 24.299783,
-      "lon": 54.617969
+      "lon": 54.617969,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-laffat-street",
@@ -35359,7 +36518,8 @@ window.KB = {
       "osm": "way/635438625",
       "kind": "residential",
       "lat": 24.319891,
-      "lon": 54.587131
+      "lon": 54.587131,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-leel-street",
@@ -35370,7 +36530,8 @@ window.KB = {
       "osm": "way/116691007",
       "kind": "residential",
       "lat": 24.295935,
-      "lon": 54.63527
+      "lon": 54.63527,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-lmsalla-street",
@@ -35381,7 +36542,8 @@ window.KB = {
       "osm": "way/974606699",
       "kind": "residential",
       "lat": 24.402837,
-      "lon": 54.695658
+      "lon": 54.695658,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-loud-street",
@@ -35392,7 +36554,8 @@ window.KB = {
       "osm": "way/974606767",
       "kind": "residential",
       "lat": 24.389692,
-      "lon": 54.679481
+      "lon": 54.679481,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-lousat-street",
@@ -35403,7 +36566,8 @@ window.KB = {
       "osm": "way/821077742",
       "kind": "residential",
       "lat": 24.377558,
-      "lon": 54.627006
+      "lon": 54.627006,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-mad-hah-street",
@@ -35414,7 +36578,8 @@ window.KB = {
       "osm": "way/474712074",
       "kind": "residential",
       "lat": 24.342807,
-      "lon": 54.570565
+      "lon": 54.570565,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-malahah-street",
@@ -35425,7 +36590,8 @@ window.KB = {
       "osm": "way/635438667",
       "kind": "residential",
       "lat": 24.310757,
-      "lon": 54.58782
+      "lon": 54.58782,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-maragh-street",
@@ -35436,7 +36602,8 @@ window.KB = {
       "osm": "way/177637737",
       "kind": "residential",
       "lat": 24.278078,
-      "lon": 54.687614
+      "lon": 54.687614,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-mayhoulah-street",
@@ -35447,7 +36614,8 @@ window.KB = {
       "osm": "way/820507508",
       "kind": "residential",
       "lat": 24.362914,
-      "lon": 54.593704
+      "lon": 54.593704,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-mi-aytiq-street",
@@ -35458,7 +36626,8 @@ window.KB = {
       "osm": "way/1123895812",
       "kind": "residential",
       "lat": 24.315058,
-      "lon": 54.630829
+      "lon": 54.630829,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-mihayl-street",
@@ -35469,7 +36638,8 @@ window.KB = {
       "osm": "way/635057867",
       "kind": "residential",
       "lat": 24.287115,
-      "lon": 54.630797
+      "lon": 54.630797,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-murtaqam-street",
@@ -35480,7 +36650,8 @@ window.KB = {
       "osm": "way/112174481",
       "kind": "residential",
       "lat": 24.318725,
-      "lon": 54.643582
+      "lon": 54.643582,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-mus-ad-street",
@@ -35491,7 +36662,8 @@ window.KB = {
       "osm": "way/635057862",
       "kind": "residential",
       "lat": 24.29067,
-      "lon": 54.629314
+      "lon": 54.629314,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-nammir-street",
@@ -35502,7 +36674,8 @@ window.KB = {
       "osm": "way/119287524",
       "kind": "residential",
       "lat": 24.397249,
-      "lon": 54.707561
+      "lon": 54.707561,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-nassas-street",
@@ -35513,7 +36686,8 @@ window.KB = {
       "osm": "way/235147561",
       "kind": "residential",
       "lat": 24.351668,
-      "lon": 54.700203
+      "lon": 54.700203,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-njoud-street",
@@ -35524,7 +36698,8 @@ window.KB = {
       "osm": "way/112455234",
       "kind": "residential",
       "lat": 24.388521,
-      "lon": 54.734278
+      "lon": 54.734278,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-quba-street",
@@ -35535,7 +36710,8 @@ window.KB = {
       "osm": "way/92007352",
       "kind": "residential",
       "lat": 24.329456,
-      "lon": 54.548271
+      "lon": 54.548271,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-rasyah-street",
@@ -35546,7 +36722,8 @@ window.KB = {
       "osm": "way/95490106",
       "kind": "residential",
       "lat": 24.409698,
-      "lon": 54.719141
+      "lon": 54.719141,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-sahah-street",
@@ -35557,7 +36734,8 @@ window.KB = {
       "osm": "way/111297882",
       "kind": "residential",
       "lat": 24.322593,
-      "lon": 54.636657
+      "lon": 54.636657,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-salwan-street",
@@ -35568,7 +36746,8 @@ window.KB = {
       "osm": "way/820507541",
       "kind": "residential",
       "lat": 24.375332,
-      "lon": 54.601623
+      "lon": 54.601623,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-samah-street",
@@ -35579,7 +36758,8 @@ window.KB = {
       "osm": "way/473387534",
       "kind": "residential",
       "lat": 24.343094,
-      "lon": 54.561385
+      "lon": 54.561385,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-sanad-street",
@@ -35590,7 +36770,8 @@ window.KB = {
       "osm": "way/820507611",
       "kind": "residential",
       "lat": 24.376591,
-      "lon": 54.603904
+      "lon": 54.603904,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-sarraj-street",
@@ -35601,7 +36782,8 @@ window.KB = {
       "osm": "way/821077743",
       "kind": "residential",
       "lat": 24.378281,
-      "lon": 54.626034
+      "lon": 54.626034,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-sayraq-street",
@@ -35612,7 +36794,8 @@ window.KB = {
       "osm": "way/119287531",
       "kind": "residential",
       "lat": 24.393251,
-      "lon": 54.715438
+      "lon": 54.715438,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-shaq-street",
@@ -35623,7 +36806,8 @@ window.KB = {
       "osm": "way/94058721",
       "kind": "residential",
       "lat": 24.374895,
-      "lon": 54.723814
+      "lon": 54.723814,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-shimal-street",
@@ -35634,7 +36818,8 @@ window.KB = {
       "osm": "way/173294970",
       "kind": "residential",
       "lat": 24.308676,
-      "lon": 54.559131
+      "lon": 54.559131,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-shoukah-street",
@@ -35645,7 +36830,8 @@ window.KB = {
       "osm": "way/475171127",
       "kind": "residential",
       "lat": 24.261341,
-      "lon": 54.703799
+      "lon": 54.703799,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-sibayah-street",
@@ -35656,7 +36842,8 @@ window.KB = {
       "osm": "way/820507523",
       "kind": "residential",
       "lat": 24.359278,
-      "lon": 54.595509
+      "lon": 54.595509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-siqayli-street",
@@ -35667,7 +36854,8 @@ window.KB = {
       "osm": "way/173184952",
       "kind": "residential",
       "lat": 24.320799,
-      "lon": 54.554617
+      "lon": 54.554617,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-suhailah-street",
@@ -35678,7 +36866,8 @@ window.KB = {
       "osm": "way/1132437502",
       "kind": "residential",
       "lat": 24.374771,
-      "lon": 54.595215
+      "lon": 54.595215,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-thawban-street",
@@ -35689,7 +36878,8 @@ window.KB = {
       "osm": "way/635438718",
       "kind": "residential",
       "lat": 24.30857,
-      "lon": 54.588958
+      "lon": 54.588958,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-wahalah-street",
@@ -35700,7 +36890,8 @@ window.KB = {
       "osm": "way/116691883",
       "kind": "residential",
       "lat": 24.338158,
-      "lon": 54.536387
+      "lon": 54.536387,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-wishah-street",
@@ -35711,7 +36902,8 @@ window.KB = {
       "osm": "way/820507514",
       "kind": "residential",
       "lat": 24.360084,
-      "lon": 54.601001
+      "lon": 54.601001,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-yaman-street",
@@ -35722,7 +36914,8 @@ window.KB = {
       "osm": "way/974445532",
       "kind": "residential",
       "lat": 24.369889,
-      "lon": 54.612028
+      "lon": 54.612028,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wadi-yifanah-street",
@@ -35733,7 +36926,8 @@ window.KB = {
       "osm": "way/161842461",
       "kind": "residential",
       "lat": 24.323802,
-      "lon": 54.536419
+      "lon": 54.536419,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wahat-al-karama-street",
@@ -35744,7 +36938,8 @@ window.KB = {
       "osm": "way/24154075",
       "kind": "trunk",
       "lat": 24.407966,
-      "lon": 54.477955
+      "lon": 54.477955,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/waqid-bin-abdullah-street",
@@ -35755,7 +36950,8 @@ window.KB = {
       "osm": "way/247044208",
       "kind": "residential",
       "lat": 24.330306,
-      "lon": 54.531433
+      "lon": 54.531433,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/warsan-street",
@@ -35766,7 +36962,8 @@ window.KB = {
       "osm": "way/820507419",
       "kind": "residential",
       "lat": 24.390466,
-      "lon": 54.622164
+      "lon": 54.622164,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/watheeq-street",
@@ -35777,7 +36974,8 @@ window.KB = {
       "osm": "way/235124799",
       "kind": "residential",
       "lat": 24.359826,
-      "lon": 54.704527
+      "lon": 54.704527,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wi-ayb-al-hinna-street",
@@ -35788,7 +36986,8 @@ window.KB = {
       "osm": "way/820507513",
       "kind": "residential",
       "lat": 24.360575,
-      "lon": 54.60186
+      "lon": 54.60186,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wijnat-atash-street",
@@ -35799,7 +36998,8 @@ window.KB = {
       "osm": "way/635438663",
       "kind": "residential",
       "lat": 24.312258,
-      "lon": 54.58838
+      "lon": 54.58838,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wudayhan-street",
@@ -35810,7 +37010,8 @@ window.KB = {
       "osm": "way/120291277",
       "kind": "residential",
       "lat": 24.388737,
-      "lon": 54.686048
+      "lon": 54.686048,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wuqnat-sareej-street",
@@ -35821,7 +37022,8 @@ window.KB = {
       "osm": "way/1154262703",
       "kind": "residential",
       "lat": 24.365378,
-      "lon": 54.604177
+      "lon": 54.604177,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/wushah-street",
@@ -35832,7 +37034,8 @@ window.KB = {
       "osm": "way/820507416",
       "kind": "residential",
       "lat": 24.383413,
-      "lon": 54.618174
+      "lon": 54.618174,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yafrat-al-milayhah-street",
@@ -35843,7 +37046,8 @@ window.KB = {
       "osm": "way/635438622",
       "kind": "residential",
       "lat": 24.320038,
-      "lon": 54.585935
+      "lon": 54.585935,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-aradah-street",
@@ -35854,7 +37058,8 @@ window.KB = {
       "osm": "way/1210149607",
       "kind": "residential",
       "lat": 24.267648,
-      "lon": 54.654781
+      "lon": 54.654781,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-awwad-street",
@@ -35865,7 +37070,8 @@ window.KB = {
       "osm": "way/94055544",
       "kind": "residential",
       "lat": 24.375273,
-      "lon": 54.648597
+      "lon": 54.648597,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-idhayb-street",
@@ -35876,7 +37082,8 @@ window.KB = {
       "osm": "way/54201202",
       "kind": "residential",
       "lat": 24.365491,
-      "lon": 54.648237
+      "lon": 54.648237,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-adh-dhibaybiyah-street",
@@ -35887,7 +37094,8 @@ window.KB = {
       "osm": "way/115733324",
       "kind": "residential",
       "lat": 24.374588,
-      "lon": 54.660513
+      "lon": 54.660513,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-iqaylah-street",
@@ -35898,7 +37106,8 @@ window.KB = {
       "osm": "way/115721312",
       "kind": "residential",
       "lat": 24.304853,
-      "lon": 54.648961
+      "lon": 54.648961,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-oud-street",
@@ -35909,7 +37118,8 @@ window.KB = {
       "osm": "way/173398724",
       "kind": "residential",
       "lat": 24.309258,
-      "lon": 54.581786
+      "lon": 54.581786,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-ain-street",
@@ -35920,7 +37130,8 @@ window.KB = {
       "osm": "way/173180854",
       "kind": "residential",
       "lat": 24.309805,
-      "lon": 54.534832
+      "lon": 54.534832,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-ghuweifat-street",
@@ -35931,7 +37142,8 @@ window.KB = {
       "osm": "way/247044153",
       "kind": "residential",
       "lat": 24.330079,
-      "lon": 54.533512
+      "lon": 54.533512,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-hidbah-street",
@@ -35942,7 +37154,8 @@ window.KB = {
       "osm": "way/112455237",
       "kind": "residential",
       "lat": 24.389508,
-      "lon": 54.73285
+      "lon": 54.73285,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-hilayqah-street",
@@ -35953,7 +37166,8 @@ window.KB = {
       "osm": "way/1155730280",
       "kind": "residential",
       "lat": 24.319871,
-      "lon": 54.542712
+      "lon": 54.542712,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-khasam-street",
@@ -35964,7 +37178,8 @@ window.KB = {
       "osm": "way/475129737",
       "kind": "residential",
       "lat": 24.31841,
-      "lon": 54.546596
+      "lon": 54.546596,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-khuwaweer-street",
@@ -35975,7 +37190,8 @@ window.KB = {
       "osm": "way/95490109",
       "kind": "residential",
       "lat": 24.406013,
-      "lon": 54.722727
+      "lon": 54.722727,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-lidhaynah-street",
@@ -35986,7 +37202,8 @@ window.KB = {
       "osm": "way/54202620",
       "kind": "residential",
       "lat": 24.368602,
-      "lon": 54.635959
+      "lon": 54.635959,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-manba-ij-street",
@@ -35997,7 +37214,8 @@ window.KB = {
       "osm": "way/235147559",
       "kind": "residential",
       "lat": 24.348723,
-      "lon": 54.704473
+      "lon": 54.704473,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-wijaynah-street",
@@ -36008,7 +37226,8 @@ window.KB = {
       "osm": "way/92007310",
       "kind": "residential",
       "lat": 24.328553,
-      "lon": 54.546017
+      "lon": 54.546017,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-al-yayf-street",
@@ -36019,7 +37238,8 @@ window.KB = {
       "osm": "way/820507461",
       "kind": "residential",
       "lat": 24.365716,
-      "lon": 54.615771
+      "lon": 54.615771,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-an-naqah-street",
@@ -36030,7 +37250,8 @@ window.KB = {
       "osm": "way/92007334",
       "kind": "residential",
       "lat": 24.360373,
-      "lon": 54.531346
+      "lon": 54.531346,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-ar-ree-aniyah-street",
@@ -36041,7 +37262,8 @@ window.KB = {
       "osm": "way/116692417",
       "kind": "residential",
       "lat": 24.368773,
-      "lon": 54.713509
+      "lon": 54.713509,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-ar-riqayib-street",
@@ -36052,7 +37274,8 @@ window.KB = {
       "osm": "way/173226911",
       "kind": "residential",
       "lat": 24.317037,
-      "lon": 54.570696
+      "lon": 54.570696,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-as-sibat-street",
@@ -36063,7 +37286,8 @@ window.KB = {
       "osm": "way/89640088",
       "kind": "residential",
       "lat": 24.36063,
-      "lon": 54.530195
+      "lon": 54.530195,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-ash-shahriyah-street",
@@ -36074,7 +37298,8 @@ window.KB = {
       "osm": "way/93177776",
       "kind": "residential",
       "lat": 24.394041,
-      "lon": 54.657961
+      "lon": 54.657961,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-ath-thouriyah-street",
@@ -36085,7 +37310,8 @@ window.KB = {
       "osm": "way/627829939",
       "kind": "residential",
       "lat": 24.376079,
-      "lon": 54.609392
+      "lon": 54.609392,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-az-zahar-street",
@@ -36096,7 +37322,8 @@ window.KB = {
       "osm": "way/306818518",
       "kind": "residential",
       "lat": 24.299915,
-      "lon": 54.632169
+      "lon": 54.632169,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-bad-al-gheenah-street",
@@ -36107,7 +37334,8 @@ window.KB = {
       "osm": "way/635438638",
       "kind": "residential",
       "lat": 24.315896,
-      "lon": 54.589985
+      "lon": 54.589985,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-biraykeenah-street",
@@ -36118,7 +37346,8 @@ window.KB = {
       "osm": "way/635057861",
       "kind": "residential",
       "lat": 24.290072,
-      "lon": 54.627993
+      "lon": 54.627993,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-bu-alqah-street",
@@ -36129,7 +37358,8 @@ window.KB = {
       "osm": "way/94055552",
       "kind": "residential",
       "lat": 24.391085,
-      "lon": 54.643866
+      "lon": 54.643866,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-bu-sultan-street",
@@ -36140,7 +37370,8 @@ window.KB = {
       "osm": "way/178947417",
       "kind": "residential",
       "lat": 24.267799,
-      "lon": 54.66296
+      "lon": 54.66296,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-bu-yazzalah-street",
@@ -36151,7 +37382,8 @@ window.KB = {
       "osm": "way/95630416",
       "kind": "residential",
       "lat": 24.405071,
-      "lon": 54.74808
+      "lon": 54.74808,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-hirayth-street",
@@ -36162,7 +37394,8 @@ window.KB = {
       "osm": "way/116447850",
       "kind": "residential",
       "lat": 24.300259,
-      "lon": 54.624996
+      "lon": 54.624996,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-khatha-im-street",
@@ -36173,7 +37406,8 @@ window.KB = {
       "osm": "way/1351812926",
       "kind": "residential",
       "lat": 24.277162,
-      "lon": 54.679809
+      "lon": 54.679809,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-khdayrah-street",
@@ -36184,7 +37418,8 @@ window.KB = {
       "osm": "way/444062535",
       "kind": "residential",
       "lat": 24.26998,
-      "lon": 54.651868
+      "lon": 54.651868,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-kribiyah-street",
@@ -36195,7 +37430,8 @@ window.KB = {
       "osm": "way/227743866",
       "kind": "tertiary",
       "lat": 24.390018,
-      "lon": 54.579096
+      "lon": 54.579096,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-manyour-street",
@@ -36206,7 +37442,8 @@ window.KB = {
       "osm": "way/820507522",
       "kind": "residential",
       "lat": 24.357695,
-      "lon": 54.595636
+      "lon": 54.595636,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-maragh-street",
@@ -36217,7 +37454,8 @@ window.KB = {
       "osm": "way/307022473",
       "kind": "residential",
       "lat": 24.28536,
-      "lon": 54.639298
+      "lon": 54.639298,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-maras-street",
@@ -36228,7 +37466,8 @@ window.KB = {
       "osm": "way/93177744",
       "kind": "residential",
       "lat": 24.38404,
-      "lon": 54.65296
+      "lon": 54.65296,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-mhaya-street",
@@ -36239,7 +37478,8 @@ window.KB = {
       "osm": "way/89583463",
       "kind": "secondary",
       "lat": 24.367397,
-      "lon": 54.614798
+      "lon": 54.614798,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-mighaydir-street",
@@ -36250,7 +37490,8 @@ window.KB = {
       "osm": "way/474712069",
       "kind": "residential",
       "lat": 24.339395,
-      "lon": 54.574196
+      "lon": 54.574196,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-mishayjriyah-street",
@@ -36261,7 +37502,8 @@ window.KB = {
       "osm": "way/1123895799",
       "kind": "residential",
       "lat": 24.315704,
-      "lon": 54.630888
+      "lon": 54.630888,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-mqayti-street",
@@ -36272,7 +37514,8 @@ window.KB = {
       "osm": "way/820507524",
       "kind": "unclassified",
       "lat": 24.362489,
-      "lon": 54.594537
+      "lon": 54.594537,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-mqayyadh-street",
@@ -36283,7 +37526,8 @@ window.KB = {
       "osm": "way/483296491",
       "kind": "residential",
       "lat": 24.395009,
-      "lon": 54.508931
+      "lon": 54.508931,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-mtaylan-street",
@@ -36294,7 +37538,8 @@ window.KB = {
       "osm": "way/820507479",
       "kind": "residential",
       "lat": 24.367393,
-      "lon": 54.611656
+      "lon": 54.611656,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-mulqitah-street",
@@ -36305,7 +37550,8 @@ window.KB = {
       "osm": "way/820507476",
       "kind": "residential",
       "lat": 24.365071,
-      "lon": 54.613547
+      "lon": 54.613547,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-nmayl-street",
@@ -36316,7 +37562,8 @@ window.KB = {
       "osm": "way/635438624",
       "kind": "residential",
       "lat": 24.320023,
-      "lon": 54.585765
+      "lon": 54.585765,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-riqaytuwat-street",
@@ -36327,7 +37574,8 @@ window.KB = {
       "osm": "way/112174463",
       "kind": "residential",
       "lat": 24.316367,
-      "lon": 54.646068
+      "lon": 54.646068,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-sanad-street",
@@ -36338,7 +37586,8 @@ window.KB = {
       "osm": "way/635446543",
       "kind": "residential",
       "lat": 24.297268,
-      "lon": 54.620103
+      "lon": 54.620103,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-thalatheen-street",
@@ -36349,7 +37598,8 @@ window.KB = {
       "osm": "way/1043478558",
       "kind": "residential",
       "lat": 24.309909,
-      "lon": 54.622276
+      "lon": 54.622276,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-um-jarn-street",
@@ -36360,7 +37610,8 @@ window.KB = {
       "osm": "way/120291254",
       "kind": "residential",
       "lat": 24.391274,
-      "lon": 54.688874
+      "lon": 54.688874,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-um-qrain-street",
@@ -36371,7 +37622,8 @@ window.KB = {
       "osm": "way/235124827",
       "kind": "residential",
       "lat": 24.363459,
-      "lon": 54.705855
+      "lon": 54.705855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yaw-waraq-street",
@@ -36382,7 +37634,8 @@ window.KB = {
       "osm": "way/635438661",
       "kind": "residential",
       "lat": 24.311271,
-      "lon": 54.587235
+      "lon": 54.587235,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yawwan-as-salabeekh-street",
@@ -36393,7 +37646,8 @@ window.KB = {
       "osm": "way/820507547",
       "kind": "residential",
       "lat": 24.37679,
-      "lon": 54.597218
+      "lon": 54.597218,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yida-street",
@@ -36404,7 +37658,8 @@ window.KB = {
       "osm": "way/120291267",
       "kind": "residential",
       "lat": 24.391007,
-      "lon": 54.683738
+      "lon": 54.683738,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/ymar-street",
@@ -36415,7 +37670,8 @@ window.KB = {
       "osm": "way/306795046",
       "kind": "residential",
       "lat": 24.373373,
-      "lon": 54.761578
+      "lon": 54.761578,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yousef-bin-afsan-al-muhairi-street",
@@ -36426,7 +37682,8 @@ window.KB = {
       "osm": "way/80927676",
       "kind": "tertiary",
       "lat": 24.354607,
-      "lon": 54.55596
+      "lon": 54.55596,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yousif-mohamed-al-wheibi-street",
@@ -36437,7 +37694,8 @@ window.KB = {
       "osm": "way/112455250",
       "kind": "residential",
       "lat": 24.386851,
-      "lon": 54.735184
+      "lon": 54.735184,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/yuwaybir-street",
@@ -36448,7 +37706,8 @@ window.KB = {
       "osm": "way/115724061",
       "kind": "residential",
       "lat": 24.303425,
-      "lon": 54.636622
+      "lon": 54.636622,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/za-beel-street",
@@ -36459,7 +37718,8 @@ window.KB = {
       "osm": "way/115726574",
       "kind": "residential",
       "lat": 24.308372,
-      "lon": 54.652353
+      "lon": 54.652353,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zahr-al-uyoun-street",
@@ -36470,7 +37730,8 @@ window.KB = {
       "osm": "way/475193002",
       "kind": "residential",
       "lat": 24.271784,
-      "lon": 54.647078
+      "lon": 54.647078,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zahrat-al-ara-street",
@@ -36481,40 +37742,20 @@ window.KB = {
       "osm": "way/974606684",
       "kind": "residential",
       "lat": 24.402545,
-      "lon": 54.699577
+      "lon": 54.699577,
+      "variants": 1
     },
     {
-      "id": "abu-dhabi-city/zahrat-al-ashkhar-1-street",
+      "id": "abu-dhabi-city/zahrat-al-ashkhar-street",
       "area": null,
       "emirate": "abu-dhabi-city",
-      "name_en": "Zahrat Al Ashkhar 1 Street",
-      "name_ar": "شارع زَهرة الأشخَر 1",
+      "name_en": "Zahrat Al Ashkhar Street",
+      "name_ar": "شارع زَهرة الأشخَر",
       "osm": "way/24350880",
       "kind": "unclassified",
       "lat": 24.357625,
-      "lon": 54.496969
-    },
-    {
-      "id": "abu-dhabi-city/zahrat-al-ashkhar-3-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Zahrat Al Ashkhar 3 Street",
-      "name_ar": "شارع زَهرة الأشخَر 3",
-      "osm": "way/24350881",
-      "kind": "unclassified",
-      "lat": 24.355871,
-      "lon": 54.497061
-    },
-    {
-      "id": "abu-dhabi-city/zahrat-al-ashkhar-4-street",
-      "area": null,
-      "emirate": "abu-dhabi-city",
-      "name_en": "Zahrat Al Ashkhar 4 Street",
-      "name_ar": "شارع زَهرة الأشخَر 4",
-      "osm": "way/24350882",
-      "kind": "unclassified",
-      "lat": 24.356826,
-      "lon": 54.499035
+      "lon": 54.496969,
+      "variants": 3
     },
     {
       "id": "abu-dhabi-city/zamlah-street",
@@ -36525,7 +37766,8 @@ window.KB = {
       "osm": "way/306795082",
       "kind": "residential",
       "lat": 24.378325,
-      "lon": 54.752003
+      "lon": 54.752003,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zayd-bin-aslam-street",
@@ -36536,7 +37778,8 @@ window.KB = {
       "osm": "way/161842458",
       "kind": "residential",
       "lat": 24.322538,
-      "lon": 54.53648
+      "lon": 54.53648,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zayd-bin-harithah-street",
@@ -36547,7 +37790,8 @@ window.KB = {
       "osm": "way/820507568",
       "kind": "residential",
       "lat": 24.380378,
-      "lon": 54.600531
+      "lon": 54.600531,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zayd-bin-wahb-street",
@@ -36558,7 +37802,8 @@ window.KB = {
       "osm": "way/92007294",
       "kind": "residential",
       "lat": 24.331378,
-      "lon": 54.569017
+      "lon": 54.569017,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zayed-al-khayr-street",
@@ -36569,7 +37814,8 @@ window.KB = {
       "osm": "way/820507600",
       "kind": "tertiary",
       "lat": 24.382243,
-      "lon": 54.601445
+      "lon": 54.601445,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zayed-bin-khalfan-al-mazrouei-street",
@@ -36580,7 +37826,8 @@ window.KB = {
       "osm": "way/173227207",
       "kind": "tertiary",
       "lat": 24.309932,
-      "lon": 54.576855
+      "lon": 54.576855,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zayed-city-street",
@@ -36591,7 +37838,8 @@ window.KB = {
       "osm": "way/694526321",
       "kind": "secondary",
       "lat": 24.367746,
-      "lon": 54.608007
+      "lon": 54.608007,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zayed-musallam-al-ameri-street",
@@ -36602,7 +37850,8 @@ window.KB = {
       "osm": "way/116451482",
       "kind": "residential",
       "lat": 24.345345,
-      "lon": 54.64534
+      "lon": 54.64534,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zaynab-bint-al-awwam-street",
@@ -36613,7 +37862,8 @@ window.KB = {
       "osm": "way/635446538",
       "kind": "residential",
       "lat": 24.29478,
-      "lon": 54.620902
+      "lon": 54.620902,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zaytoun-bin-mohammed-al-mansouri-street",
@@ -36624,7 +37874,8 @@ window.KB = {
       "osm": "way/26719424",
       "kind": "tertiary",
       "lat": 24.279343,
-      "lon": 54.637851
+      "lon": 54.637851,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zibarat-htayl-street",
@@ -36635,7 +37886,8 @@ window.KB = {
       "osm": "way/818862486",
       "kind": "residential",
       "lat": 24.314394,
-      "lon": 54.65717
+      "lon": 54.65717,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zimeem-street",
@@ -36646,7 +37898,8 @@ window.KB = {
       "osm": "way/448037665",
       "kind": "residential",
       "lat": 24.375837,
-      "lon": 54.773574
+      "lon": 54.773574,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zirfal-street",
@@ -36657,7 +37910,8 @@ window.KB = {
       "osm": "way/974606754",
       "kind": "residential",
       "lat": 24.396147,
-      "lon": 54.677948
+      "lon": 54.677948,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zor-al-bashiq-street",
@@ -36668,7 +37922,8 @@ window.KB = {
       "osm": "way/118783433",
       "kind": "residential",
       "lat": 24.399791,
-      "lon": 54.727322
+      "lon": 54.727322,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zor-um-al-ghillan-street",
@@ -36679,7 +37934,8 @@ window.KB = {
       "osm": "way/54200995",
       "kind": "residential",
       "lat": 24.345012,
-      "lon": 54.615399
+      "lon": 54.615399,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zour-ash-shiyoukh-street",
@@ -36690,7 +37946,8 @@ window.KB = {
       "osm": "way/821077769",
       "kind": "residential",
       "lat": 24.375688,
-      "lon": 54.622346
+      "lon": 54.622346,
+      "variants": 1
     },
     {
       "id": "abu-dhabi-city/zour-khisayfah-street",
@@ -36701,7 +37958,8 @@ window.KB = {
       "osm": "way/93177755",
       "kind": "residential",
       "lat": 24.396403,
-      "lon": 54.650395
+      "lon": 54.650395,
+      "variants": 1
     },
     {
       "id": "khalifa-city/abdullah-almasoud-al-muhairbi-street",
@@ -36712,7 +37970,8 @@ window.KB = {
       "osm": "way/24303571",
       "kind": "tertiary",
       "lat": 24.395028,
-      "lon": 54.509796
+      "lon": 54.509796,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-dahna-a-street",
@@ -36723,7 +37982,8 @@ window.KB = {
       "osm": "way/24300091",
       "kind": "residential",
       "lat": 24.405512,
-      "lon": 54.519016
+      "lon": 54.519016,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-darabah-street",
@@ -36734,7 +37994,8 @@ window.KB = {
       "osm": "way/24300395",
       "kind": "residential",
       "lat": 24.410224,
-      "lon": 54.501373
+      "lon": 54.501373,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-deebaj-street",
@@ -36745,7 +38006,8 @@ window.KB = {
       "osm": "way/24297283",
       "kind": "residential",
       "lat": 24.419739,
-      "lon": 54.589455
+      "lon": 54.589455,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-deemas-street",
@@ -36756,7 +38018,8 @@ window.KB = {
       "osm": "way/24296917",
       "kind": "residential",
       "lat": 24.415048,
-      "lon": 54.559743
+      "lon": 54.559743,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-dihaymah-street",
@@ -36767,7 +38030,8 @@ window.KB = {
       "osm": "way/24300105",
       "kind": "residential",
       "lat": 24.398795,
-      "lon": 54.52074
+      "lon": 54.52074,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-dirayah-street",
@@ -36778,7 +38042,8 @@ window.KB = {
       "osm": "way/24297274",
       "kind": "residential",
       "lat": 24.410943,
-      "lon": 54.592238
+      "lon": 54.592238,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-diyafah-street",
@@ -36789,7 +38054,8 @@ window.KB = {
       "osm": "way/24153443",
       "kind": "tertiary",
       "lat": 24.428033,
-      "lon": 54.643836
+      "lon": 54.643836,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ad-douj-street",
@@ -36800,7 +38066,8 @@ window.KB = {
       "osm": "way/24296906",
       "kind": "residential",
       "lat": 24.418955,
-      "lon": 54.558417
+      "lon": 54.558417,
+      "variants": 1
     },
     {
       "id": "khalifa-city/adel-seddeeq-al-asmani-street",
@@ -36811,7 +38078,8 @@ window.KB = {
       "osm": "way/24296791",
       "kind": "residential",
       "lat": 24.425397,
-      "lon": 54.576156
+      "lon": 54.576156,
+      "variants": 1
     },
     {
       "id": "khalifa-city/adh-dhannah-street",
@@ -36822,7 +38090,8 @@ window.KB = {
       "osm": "way/204619343",
       "kind": "residential",
       "lat": 24.393285,
-      "lon": 54.501414
+      "lon": 54.501414,
+      "variants": 1
     },
     {
       "id": "khalifa-city/adh-dhikrayat-street",
@@ -36833,7 +38102,8 @@ window.KB = {
       "osm": "way/24296817",
       "kind": "residential",
       "lat": 24.428211,
-      "lon": 54.571024
+      "lon": 54.571024,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ahmed-bin-abulaziz-al-mubarak-street",
@@ -36844,7 +38114,8 @@ window.KB = {
       "osm": "way/198735647",
       "kind": "tertiary",
       "lat": 24.442697,
-      "lon": 54.600477
+      "lon": 54.600477,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ahmed-bin-kulaib-al-hameli-street",
@@ -36855,7 +38126,8 @@ window.KB = {
       "osm": "way/91927814",
       "kind": "tertiary",
       "lat": 24.432206,
-      "lon": 54.595974
+      "lon": 54.595974,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ahmed-bin-saif-al-falahi-street",
@@ -36866,7 +38138,8 @@ window.KB = {
       "osm": "way/24297198",
       "kind": "tertiary",
       "lat": 24.411051,
-      "lon": 54.558223
+      "lon": 54.558223,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-alim-street",
@@ -36877,7 +38150,8 @@ window.KB = {
       "osm": "way/24303577",
       "kind": "residential",
       "lat": 24.393335,
-      "lon": 54.506054
+      "lon": 54.506054,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-amareen-street",
@@ -36888,7 +38162,8 @@ window.KB = {
       "osm": "way/24300347",
       "kind": "residential",
       "lat": 24.404426,
-      "lon": 54.512785
+      "lon": 54.512785,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-araqeeb-street",
@@ -36899,40 +38174,8 @@ window.KB = {
       "osm": "way/24296912",
       "kind": "residential",
       "lat": 24.42135,
-      "lon": 54.561889
-    },
-    {
-      "id": "khalifa-city/al-atad-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al 'Atad 2 Street",
-      "name_ar": "شارع العَتاد 2",
-      "osm": "way/91927891",
-      "kind": "residential",
-      "lat": 24.410522,
-      "lon": 54.608739
-    },
-    {
-      "id": "khalifa-city/al-atad-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al 'Atad 3 Street",
-      "name_ar": "شارع العَتاد 3",
-      "osm": "way/91927890",
-      "kind": "residential",
-      "lat": 24.410055,
-      "lon": 54.606999
-    },
-    {
-      "id": "khalifa-city/al-atad-5-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al 'Atad 5 Street",
-      "name_ar": "شارع العَتاد 5",
-      "osm": "way/91927835",
-      "kind": "residential",
-      "lat": 24.412382,
-      "lon": 54.607448
+      "lon": 54.561889,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-atad-street",
@@ -36943,7 +38186,8 @@ window.KB = {
       "osm": "way/91927821",
       "kind": "residential",
       "lat": 24.411589,
-      "lon": 54.607277
+      "lon": 54.607277,
+      "variants": 4
     },
     {
       "id": "khalifa-city/al-oun-street",
@@ -36954,7 +38198,8 @@ window.KB = {
       "osm": "way/24300365",
       "kind": "residential",
       "lat": 24.407297,
-      "lon": 54.513715
+      "lon": 54.513715,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-uwayin-street",
@@ -36965,7 +38210,8 @@ window.KB = {
       "osm": "way/24297272",
       "kind": "residential",
       "lat": 24.41391,
-      "lon": 54.582781
+      "lon": 54.582781,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ad-ham-street",
@@ -36976,7 +38222,8 @@ window.KB = {
       "osm": "way/24303637",
       "kind": "residential",
       "lat": 24.393303,
-      "lon": 54.508379
+      "lon": 54.508379,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ad-aj-street",
@@ -36987,7 +38234,8 @@ window.KB = {
       "osm": "way/24297248",
       "kind": "residential",
       "lat": 24.417531,
-      "lon": 54.581731
+      "lon": 54.581731,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ahqab-street",
@@ -36998,7 +38246,8 @@ window.KB = {
       "osm": "way/24297330",
       "kind": "residential",
       "lat": 24.409966,
-      "lon": 54.602571
+      "lon": 54.602571,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ajdal-street",
@@ -37009,7 +38258,8 @@ window.KB = {
       "osm": "way/24297250",
       "kind": "residential",
       "lat": 24.405914,
-      "lon": 54.574463
+      "lon": 54.574463,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-arsad-street",
@@ -37020,73 +38270,20 @@ window.KB = {
       "osm": "way/24297279",
       "kind": "residential",
       "lat": 24.415872,
-      "lon": 54.587835
+      "lon": 54.587835,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/al-aryam-1-street",
+      "id": "khalifa-city/al-aryam-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "Al Aryam 1 Street",
-      "name_ar": "شارع الأريام 1",
+      "name_en": "Al Aryam Street",
+      "name_ar": "شارع الأريام",
       "osm": "way/91927791",
       "kind": "residential",
       "lat": 24.42032,
-      "lon": 54.607487
-    },
-    {
-      "id": "khalifa-city/al-aryam-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Aryam 3 Street",
-      "name_ar": "شارع الأريام 3",
-      "osm": "way/91927909",
-      "kind": "residential",
-      "lat": 24.420582,
-      "lon": 54.601722
-    },
-    {
-      "id": "khalifa-city/al-aryam-4-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Aryam 4 Street",
-      "name_ar": "شارع الأريام 4",
-      "osm": "way/91927881",
-      "kind": "residential",
-      "lat": 24.420287,
-      "lon": 54.603023
-    },
-    {
-      "id": "khalifa-city/al-aryam-5-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Aryam 5 Street",
-      "name_ar": "شارع الأريام 5",
-      "osm": "way/173118072",
-      "kind": "residential",
-      "lat": 24.421704,
-      "lon": 54.60495
-    },
-    {
-      "id": "khalifa-city/al-aryam-6-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Aryam 6 Street",
-      "name_ar": "شارع الأريام 6",
-      "osm": "way/91927906",
-      "kind": "residential",
-      "lat": 24.420368,
-      "lon": 54.6054
-    },
-    {
-      "id": "khalifa-city/al-aryam-7-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Aryam 7 Street",
-      "name_ar": "شارع الأريام 7",
-      "osm": "way/91927867",
-      "kind": "residential",
-      "lat": 24.419055,
-      "lon": 54.605845
+      "lon": 54.607487,
+      "variants": 6
     },
     {
       "id": "khalifa-city/al-aswaq-street",
@@ -37097,7 +38294,8 @@ window.KB = {
       "osm": "way/172640961",
       "kind": "residential",
       "lat": 24.420567,
-      "lon": 54.565719
+      "lon": 54.565719,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-awa-il-street",
@@ -37108,7 +38306,8 @@ window.KB = {
       "osm": "way/24300342",
       "kind": "residential",
       "lat": 24.403014,
-      "lon": 54.505294
+      "lon": 54.505294,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ayham-street",
@@ -37119,7 +38318,8 @@ window.KB = {
       "osm": "way/91927910",
       "kind": "residential",
       "lat": 24.434752,
-      "lon": 54.587772
+      "lon": 54.587772,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-azaheer-street",
@@ -37130,7 +38330,8 @@ window.KB = {
       "osm": "way/24296830",
       "kind": "residential",
       "lat": 24.419108,
-      "lon": 54.574094
+      "lon": 54.574094,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-bahharah-street",
@@ -37141,7 +38342,8 @@ window.KB = {
       "osm": "way/24300108",
       "kind": "residential",
       "lat": 24.398584,
-      "lon": 54.521715
+      "lon": 54.521715,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ballout-street",
@@ -37152,7 +38354,8 @@ window.KB = {
       "osm": "way/24296789",
       "kind": "residential",
       "lat": 24.419115,
-      "lon": 54.581022
+      "lon": 54.581022,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-bandar-street",
@@ -37163,7 +38366,8 @@ window.KB = {
       "osm": "way/88819813",
       "kind": "secondary",
       "lat": 24.443234,
-      "lon": 54.601094
+      "lon": 54.601094,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-barakah-street",
@@ -37174,7 +38378,8 @@ window.KB = {
       "osm": "way/24297208",
       "kind": "residential",
       "lat": 24.407289,
-      "lon": 54.552605
+      "lon": 54.552605,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-barq-street",
@@ -37185,7 +38390,8 @@ window.KB = {
       "osm": "way/24297214",
       "kind": "residential",
       "lat": 24.405179,
-      "lon": 54.563306
+      "lon": 54.563306,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-basamat-street",
@@ -37196,7 +38402,8 @@ window.KB = {
       "osm": "way/24296890",
       "kind": "residential",
       "lat": 24.411142,
-      "lon": 54.552831
+      "lon": 54.552831,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-basim-street",
@@ -37207,18 +38414,20 @@ window.KB = {
       "osm": "way/24297227",
       "kind": "residential",
       "lat": 24.403031,
-      "lon": 54.56251
+      "lon": 54.56251,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/al-bidayat-1-street",
+      "id": "khalifa-city/al-bidayat-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "Al Bidayat 1 Street",
-      "name_ar": "شارع البدايات 1",
+      "name_en": "Al Bidayat Street",
+      "name_ar": "شارع البدايات",
       "osm": "way/24297293",
       "kind": "residential",
       "lat": 24.417875,
-      "lon": 54.596782
+      "lon": 54.596782,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-bild-street",
@@ -37229,7 +38438,8 @@ window.KB = {
       "osm": "way/24300104",
       "kind": "residential",
       "lat": 24.400442,
-      "lon": 54.517766
+      "lon": 54.517766,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-biqayshi-street",
@@ -37240,7 +38450,8 @@ window.KB = {
       "osm": "way/24300097",
       "kind": "residential",
       "lat": 24.403683,
-      "lon": 54.518329
+      "lon": 54.518329,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-bouh-street",
@@ -37251,18 +38462,8 @@ window.KB = {
       "osm": "way/24296899",
       "kind": "residential",
       "lat": 24.421018,
-      "lon": 54.553595
-    },
-    {
-      "id": "khalifa-city/al-fajri-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Fajri 1 Street",
-      "name_ar": "شارع الفجري 1",
-      "osm": "way/172651687",
-      "kind": "residential",
-      "lat": 24.428856,
-      "lon": 54.566526
+      "lon": 54.553595,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-fajri-street",
@@ -37270,10 +38471,11 @@ window.KB = {
       "emirate": null,
       "name_en": "Al Fajri Street",
       "name_ar": "شارع الفجري",
-      "osm": "way/172651688",
+      "osm": "way/172651687",
       "kind": "residential",
-      "lat": 24.429602,
-      "lon": 54.569033
+      "lat": 24.428856,
+      "lon": 54.566526,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-fanous-street",
@@ -37284,7 +38486,8 @@ window.KB = {
       "osm": "way/24300397",
       "kind": "residential",
       "lat": 24.412548,
-      "lon": 54.501522
+      "lon": 54.501522,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-fasa-il-street",
@@ -37295,7 +38498,8 @@ window.KB = {
       "osm": "way/24297258",
       "kind": "residential",
       "lat": 24.410315,
-      "lon": 54.581477
+      "lon": 54.581477,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-fursan-street",
@@ -37306,7 +38510,8 @@ window.KB = {
       "osm": "way/24296838",
       "kind": "tertiary",
       "lat": 24.425224,
-      "lon": 54.54531
+      "lon": 54.54531,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ghioum-street",
@@ -37317,7 +38522,8 @@ window.KB = {
       "osm": "way/24297277",
       "kind": "residential",
       "lat": 24.412501,
-      "lon": 54.589198
+      "lon": 54.589198,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hadrah-street",
@@ -37328,7 +38534,8 @@ window.KB = {
       "osm": "way/24297236",
       "kind": "residential",
       "lat": 24.408768,
-      "lon": 54.564605
+      "lon": 54.564605,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hafil-street",
@@ -37339,7 +38546,8 @@ window.KB = {
       "osm": "way/24297216",
       "kind": "residential",
       "lat": 24.402106,
-      "lon": 54.554353
+      "lon": 54.554353,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hanfa-street",
@@ -37350,7 +38558,8 @@ window.KB = {
       "osm": "way/24303629",
       "kind": "residential",
       "lat": 24.394142,
-      "lon": 54.506318
+      "lon": 54.506318,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hatoun-street",
@@ -37361,7 +38570,8 @@ window.KB = {
       "osm": "way/24296921",
       "kind": "residential",
       "lat": 24.414533,
-      "lon": 54.562897
+      "lon": 54.562897,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hayfi-street",
@@ -37372,7 +38582,8 @@ window.KB = {
       "osm": "way/24296870",
       "kind": "residential",
       "lat": 24.422199,
-      "lon": 54.551614
+      "lon": 54.551614,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hayoulah-street",
@@ -37383,7 +38594,8 @@ window.KB = {
       "osm": "way/24300360",
       "kind": "residential",
       "lat": 24.407911,
-      "lon": 54.51176
+      "lon": 54.51176,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hinyami-street",
@@ -37394,7 +38606,8 @@ window.KB = {
       "osm": "way/24300394",
       "kind": "residential",
       "lat": 24.410225,
-      "lon": 54.504884
+      "lon": 54.504884,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-hiyayrah-street",
@@ -37405,7 +38618,8 @@ window.KB = {
       "osm": "way/24300398",
       "kind": "residential",
       "lat": 24.411604,
-      "lon": 54.501819
+      "lon": 54.501819,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ibda-street",
@@ -37416,7 +38630,8 @@ window.KB = {
       "osm": "way/91927847",
       "kind": "secondary",
       "lat": 24.416585,
-      "lon": 54.605629
+      "lon": 54.605629,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ihtifa-a-street",
@@ -37427,7 +38642,8 @@ window.KB = {
       "osm": "way/24300346",
       "kind": "residential",
       "lat": 24.404518,
-      "lon": 54.506709
+      "lon": 54.506709,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ikhlas-street",
@@ -37438,7 +38654,8 @@ window.KB = {
       "osm": "way/24297210",
       "kind": "residential",
       "lat": 24.407461,
-      "lon": 54.558114
+      "lon": 54.558114,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-intima-a-street",
@@ -37449,7 +38666,8 @@ window.KB = {
       "osm": "way/24297262",
       "kind": "residential",
       "lat": 24.404634,
-      "lon": 54.583178
+      "lon": 54.583178,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-irshad-street",
@@ -37460,7 +38678,8 @@ window.KB = {
       "osm": "way/91927911",
       "kind": "residential",
       "lat": 24.432202,
-      "lon": 54.588429
+      "lon": 54.588429,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ittihad-street",
@@ -37471,7 +38690,8 @@ window.KB = {
       "osm": "way/24300354",
       "kind": "secondary",
       "lat": 24.406595,
-      "lon": 54.505235
+      "lon": 54.505235,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-jada-il-street",
@@ -37482,7 +38702,8 @@ window.KB = {
       "osm": "way/24297212",
       "kind": "residential",
       "lat": 24.400725,
-      "lon": 54.556347
+      "lon": 54.556347,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-jadawil-street",
@@ -37493,7 +38714,8 @@ window.KB = {
       "osm": "way/24297235",
       "kind": "residential",
       "lat": 24.408546,
-      "lon": 54.561931
+      "lon": 54.561931,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-jadeel-street",
@@ -37504,7 +38726,8 @@ window.KB = {
       "osm": "way/24296798",
       "kind": "residential",
       "lat": 24.420992,
-      "lon": 54.577885
+      "lon": 54.577885,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-jameel-street",
@@ -37515,29 +38738,20 @@ window.KB = {
       "osm": "way/91927850",
       "kind": "residential",
       "lat": 24.42717,
-      "lon": 54.595563
+      "lon": 54.595563,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/al-jawdah-1-street",
+      "id": "khalifa-city/al-jawdah-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "Al Jawdah 1 Street",
-      "name_ar": "شارع الجَودة 1",
+      "name_en": "Al Jawdah Street",
+      "name_ar": "شارع الجَودة",
       "osm": "way/91927851",
       "kind": "residential",
       "lat": 24.428109,
-      "lon": 54.594144
-    },
-    {
-      "id": "khalifa-city/al-jawdah-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Jawdah 2 Street",
-      "name_ar": "شارع الجَودة 2",
-      "osm": "way/91927892",
-      "kind": "residential",
-      "lat": 24.428519,
-      "lon": 54.595608
+      "lon": 54.594144,
+      "variants": 2
     },
     {
       "id": "khalifa-city/al-jawharah-street",
@@ -37548,7 +38762,8 @@ window.KB = {
       "osm": "way/24303638",
       "kind": "residential",
       "lat": 24.393752,
-      "lon": 54.512203
+      "lon": 54.512203,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-jawshan-street",
@@ -37559,7 +38774,8 @@ window.KB = {
       "osm": "way/24297298",
       "kind": "residential",
       "lat": 24.41252,
-      "lon": 54.596134
+      "lon": 54.596134,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-katli-street",
@@ -37570,7 +38786,8 @@ window.KB = {
       "osm": "way/24300096",
       "kind": "residential",
       "lat": 24.401918,
-      "lon": 54.521763
+      "lon": 54.521763,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-khaleej-al-arabi-street",
@@ -37581,7 +38798,8 @@ window.KB = {
       "osm": "way/167462148",
       "kind": "secondary",
       "lat": 24.424865,
-      "lon": 54.641344
+      "lon": 54.641344,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-khalis-street",
@@ -37592,7 +38810,8 @@ window.KB = {
       "osm": "way/24297331",
       "kind": "residential",
       "lat": 24.409692,
-      "lon": 54.601376
+      "lon": 54.601376,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-khawalid-street",
@@ -37603,51 +38822,20 @@ window.KB = {
       "osm": "way/24297233",
       "kind": "residential",
       "lat": 24.405758,
-      "lon": 54.567156
+      "lon": 54.567156,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/al-khayl-1-street",
+      "id": "khalifa-city/al-khayl-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "Al Khayl 1 Street",
-      "name_ar": "شارع الخَيل 1",
-      "osm": "way/91927863",
-      "kind": "residential",
-      "lat": 24.437161,
-      "lon": 54.599705
-    },
-    {
-      "id": "khalifa-city/al-khayl-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Khayl 2 Street",
-      "name_ar": "شارع الخَيل 2",
+      "name_en": "Al Khayl Street",
+      "name_ar": "شارع الخَيل",
       "osm": "way/91927804",
       "kind": "residential",
       "lat": 24.435566,
-      "lon": 54.60024
-    },
-    {
-      "id": "khalifa-city/al-khayl-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Khayl 3 Street",
-      "name_ar": "شارع الخَيل 3",
-      "osm": "way/91927880",
-      "kind": "residential",
-      "lat": 24.434186,
-      "lon": 54.600707
-    },
-    {
-      "id": "khalifa-city/al-khayl-4-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Khayl 4 Street",
-      "name_ar": "شارع الخَيل 4",
-      "osm": "way/91927810",
-      "kind": "residential",
-      "lat": 24.43311,
-      "lon": 54.601071
+      "lon": 54.60024,
+      "variants": 4
     },
     {
       "id": "khalifa-city/al-khuld-street",
@@ -37658,7 +38846,8 @@ window.KB = {
       "osm": "way/91927858",
       "kind": "residential",
       "lat": 24.435302,
-      "lon": 54.592317
+      "lon": 54.592317,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-kifah-street",
@@ -37669,7 +38858,8 @@ window.KB = {
       "osm": "way/24297207",
       "kind": "residential",
       "lat": 24.407631,
-      "lon": 54.55378
+      "lon": 54.55378,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-liba-street",
@@ -37680,7 +38870,8 @@ window.KB = {
       "osm": "way/24296871",
       "kind": "residential",
       "lat": 24.424048,
-      "lon": 54.551225
+      "lon": 54.551225,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-lizeemah-street",
@@ -37691,7 +38882,8 @@ window.KB = {
       "osm": "way/24300095",
       "kind": "residential",
       "lat": 24.402301,
-      "lon": 54.517882
+      "lon": 54.517882,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-louz-street",
@@ -37702,7 +38894,8 @@ window.KB = {
       "osm": "way/24296918",
       "kind": "residential",
       "lat": 24.414719,
-      "lon": 54.558566
+      "lon": 54.558566,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-ma-abir-street",
@@ -37713,40 +38906,8 @@ window.KB = {
       "osm": "way/91927839",
       "kind": "tertiary",
       "lat": 24.43103,
-      "lon": 54.601902
-    },
-    {
-      "id": "khalifa-city/al-mada-ih-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mada-ih 1 Street",
-      "name_ar": "شارع المَدائِح 1",
-      "osm": "way/91927882",
-      "kind": "residential",
-      "lat": 24.433957,
-      "lon": 54.59056
-    },
-    {
-      "id": "khalifa-city/al-mada-ih-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mada-ih 2 Street",
-      "name_ar": "شارع المَدائِح 2",
-      "osm": "way/91927845",
-      "kind": "residential",
-      "lat": 24.433159,
-      "lon": 54.587194
-    },
-    {
-      "id": "khalifa-city/al-mada-ih-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mada-ih 3 Street",
-      "name_ar": "شارع المَدائِح 3",
-      "osm": "way/91927884",
-      "kind": "residential",
-      "lat": 24.433029,
-      "lon": 54.586184
+      "lon": 54.601902,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mada-ih-street",
@@ -37757,7 +38918,8 @@ window.KB = {
       "osm": "way/91927808",
       "kind": "residential",
       "lat": 24.434154,
-      "lon": 54.58808
+      "lon": 54.58808,
+      "variants": 4
     },
     {
       "id": "khalifa-city/al-mahajir-street",
@@ -37768,7 +38930,8 @@ window.KB = {
       "osm": "way/24297252",
       "kind": "residential",
       "lat": 24.407279,
-      "lon": 54.572525
+      "lon": 54.572525,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mahasin-street",
@@ -37779,18 +38942,8 @@ window.KB = {
       "osm": "way/24296825",
       "kind": "residential",
       "lat": 24.431618,
-      "lon": 54.576184
-    },
-    {
-      "id": "khalifa-city/al-mandhoum-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mandhoum 1 Street",
-      "name_ar": "شارع المَنظُوم 1",
-      "osm": "way/24297300",
-      "kind": "residential",
-      "lat": 24.414923,
-      "lon": 54.600887
+      "lon": 54.576184,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mandhoum-street",
@@ -37801,7 +38954,8 @@ window.KB = {
       "osm": "way/24297299",
       "kind": "residential",
       "lat": 24.413066,
-      "lon": 54.59997
+      "lon": 54.59997,
+      "variants": 2
     },
     {
       "id": "khalifa-city/al-manjaf-street",
@@ -37812,51 +38966,8 @@ window.KB = {
       "osm": "way/24300359",
       "kind": "residential",
       "lat": 24.408864,
-      "lon": 54.509375
-    },
-    {
-      "id": "khalifa-city/al-mansourah-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mansourah 1 Street",
-      "name_ar": "شارع المَنصُورة 1",
-      "osm": "way/91927824",
-      "kind": "residential",
-      "lat": 24.426862,
-      "lon": 54.590796
-    },
-    {
-      "id": "khalifa-city/al-mansourah-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mansourah 2 Street",
-      "name_ar": "شارع المَنصُورة 2",
-      "osm": "way/91927871",
-      "kind": "residential",
-      "lat": 24.426152,
-      "lon": 54.591792
-    },
-    {
-      "id": "khalifa-city/al-mansourah-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mansourah 3 Street",
-      "name_ar": "شارع المَنصُورة 3",
-      "osm": "way/91927876",
-      "kind": "residential",
-      "lat": 24.425292,
-      "lon": 54.593001
-    },
-    {
-      "id": "khalifa-city/al-mansourah-4-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mansourah 4 Street",
-      "name_ar": "شارع المَنصُورة 4",
-      "osm": "way/91927803",
-      "kind": "residential",
-      "lat": 24.424622,
-      "lon": 54.59692
+      "lon": 54.509375,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mansourah-street",
@@ -37864,10 +38975,11 @@ window.KB = {
       "emirate": null,
       "name_en": "Al Mansourah Street",
       "name_ar": "شارع المَنصُورة",
-      "osm": "way/91927887",
+      "osm": "way/91927803",
       "kind": "residential",
-      "lat": 24.42711,
-      "lon": 54.594538
+      "lat": 24.424622,
+      "lon": 54.59692,
+      "variants": 4
     },
     {
       "id": "khalifa-city/al-maqasid-street",
@@ -37878,7 +38990,8 @@ window.KB = {
       "osm": "way/217432664",
       "kind": "tertiary",
       "lat": 24.419286,
-      "lon": 54.514368
+      "lon": 54.514368,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-maqta-street",
@@ -37889,7 +39002,8 @@ window.KB = {
       "osm": "way/24300075",
       "kind": "tertiary",
       "lat": 24.398448,
-      "lon": 54.522274
+      "lon": 54.522274,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-masa-street",
@@ -37900,18 +39014,8 @@ window.KB = {
       "osm": "way/24296797",
       "kind": "residential",
       "lat": 24.420337,
-      "lon": 54.578109
-    },
-    {
-      "id": "khalifa-city/al-mashariq-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Al Mashariq 1 Street",
-      "name_ar": "شارع المَشارِق 1",
-      "osm": "way/172679932",
-      "kind": "residential",
-      "lat": 24.426442,
-      "lon": 54.58639
+      "lon": 54.578109,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mashariq-street",
@@ -37922,7 +39026,8 @@ window.KB = {
       "osm": "way/24296794",
       "kind": "residential",
       "lat": 24.426284,
-      "lon": 54.584319
+      "lon": 54.584319,
+      "variants": 2
     },
     {
       "id": "khalifa-city/al-mawsoul-street",
@@ -37933,7 +39038,8 @@ window.KB = {
       "osm": "way/24297329",
       "kind": "residential",
       "lat": 24.407793,
-      "lon": 54.601758
+      "lon": 54.601758,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-midhaheer-street",
@@ -37944,7 +39050,8 @@ window.KB = {
       "osm": "way/24296895",
       "kind": "residential",
       "lat": 24.416768,
-      "lon": 54.550694
+      "lon": 54.550694,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-milahah-street",
@@ -37955,7 +39062,8 @@ window.KB = {
       "osm": "way/24303642",
       "kind": "residential",
       "lat": 24.392906,
-      "lon": 54.514703
+      "lon": 54.514703,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mirdab-street",
@@ -37966,7 +39074,8 @@ window.KB = {
       "osm": "way/24296905",
       "kind": "residential",
       "lat": 24.421018,
-      "lon": 54.560708
+      "lon": 54.560708,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mireef-street",
@@ -37977,7 +39086,8 @@ window.KB = {
       "osm": "way/24296813",
       "kind": "secondary",
       "lat": 24.429414,
-      "lon": 54.562368
+      "lon": 54.562368,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mirkaz-street",
@@ -37988,7 +39098,8 @@ window.KB = {
       "osm": "way/24296822",
       "kind": "residential",
       "lat": 24.430222,
-      "lon": 54.573239
+      "lon": 54.573239,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-miryah-street",
@@ -37999,7 +39110,8 @@ window.KB = {
       "osm": "way/24297213",
       "kind": "residential",
       "lat": 24.401948,
-      "lon": 54.558693
+      "lon": 54.558693,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mishar-street",
@@ -38010,18 +39122,20 @@ window.KB = {
       "osm": "way/24300361",
       "kind": "residential",
       "lat": 24.408321,
-      "lon": 54.510544
+      "lon": 54.510544,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/al-mu-akhat-3-street",
+      "id": "khalifa-city/al-mu-akhat-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "Al Mu-akhat 3 Street",
-      "name_ar": "شارع المُؤاخاة 3",
+      "name_en": "Al Mu-akhat Street",
+      "name_ar": "شارع المُؤاخاة",
       "osm": "way/91927907",
       "kind": "residential",
       "lat": 24.429097,
-      "lon": 54.59782
+      "lon": 54.59782,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mu-ayyid-street",
@@ -38032,7 +39146,8 @@ window.KB = {
       "osm": "way/24296828",
       "kind": "residential",
       "lat": 24.4304,
-      "lon": 54.578732
+      "lon": 54.578732,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mualeef-street",
@@ -38043,7 +39158,8 @@ window.KB = {
       "osm": "way/24297232",
       "kind": "residential",
       "lat": 24.405419,
-      "lon": 54.56598
+      "lon": 54.56598,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-muneer-street",
@@ -38054,7 +39170,8 @@ window.KB = {
       "osm": "way/24296898",
       "kind": "residential",
       "lat": 24.416988,
-      "lon": 54.553365
+      "lon": 54.553365,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-murahib-street",
@@ -38065,7 +39182,8 @@ window.KB = {
       "osm": "way/24297282",
       "kind": "residential",
       "lat": 24.418245,
-      "lon": 54.591308
+      "lon": 54.591308,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-mus-if-street",
@@ -38076,7 +39194,8 @@ window.KB = {
       "osm": "way/24297246",
       "kind": "residential",
       "lat": 24.411065,
-      "lon": 54.572717
+      "lon": 54.572717,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-musalla-street",
@@ -38087,7 +39206,8 @@ window.KB = {
       "osm": "way/91927836",
       "kind": "residential",
       "lat": 24.434075,
-      "lon": 54.597704
+      "lon": 54.597704,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-muthabarah-street",
@@ -38098,7 +39218,8 @@ window.KB = {
       "osm": "way/24300088",
       "kind": "residential",
       "lat": 24.405454,
-      "lon": 54.517372
+      "lon": 54.517372,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-nakhwah-street",
@@ -38109,7 +39230,8 @@ window.KB = {
       "osm": "way/24296788",
       "kind": "secondary",
       "lat": 24.416211,
-      "lon": 54.576701
+      "lon": 54.576701,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-nusouh-street",
@@ -38120,7 +39242,8 @@ window.KB = {
       "osm": "way/24296920",
       "kind": "residential",
       "lat": 24.414866,
-      "lon": 54.564075
+      "lon": 54.564075,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-qantarah-street",
@@ -38131,7 +39254,8 @@ window.KB = {
       "osm": "way/24296819",
       "kind": "residential",
       "lat": 24.427625,
-      "lon": 54.567129
+      "lon": 54.567129,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-qaseed-street",
@@ -38142,7 +39266,8 @@ window.KB = {
       "osm": "way/24296909",
       "kind": "residential",
       "lat": 24.424129,
-      "lon": 54.559424
+      "lon": 54.559424,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-qudrah-street",
@@ -38153,7 +39278,8 @@ window.KB = {
       "osm": "way/91927788",
       "kind": "residential",
       "lat": 24.426224,
-      "lon": 54.602596
+      "lon": 54.602596,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-qurba-street",
@@ -38164,7 +39290,8 @@ window.KB = {
       "osm": "way/24297297",
       "kind": "residential",
       "lat": 24.412848,
-      "lon": 54.597314
+      "lon": 54.597314,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-qurunful-street",
@@ -38175,7 +39302,8 @@ window.KB = {
       "osm": "way/24297328",
       "kind": "residential",
       "lat": 24.407719,
-      "lon": 54.599046
+      "lon": 54.599046,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-stah-street",
@@ -38186,7 +39314,8 @@ window.KB = {
       "osm": "way/24303628",
       "kind": "residential",
       "lat": 24.393405,
-      "lon": 54.50744
+      "lon": 54.50744,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-tirhal-street",
@@ -38197,7 +39326,8 @@ window.KB = {
       "osm": "way/24153444",
       "kind": "secondary",
       "lat": 24.423783,
-      "lon": 54.641386
+      "lon": 54.641386,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-wajidi-street",
@@ -38208,7 +39338,8 @@ window.KB = {
       "osm": "way/24300103",
       "kind": "residential",
       "lat": 24.400563,
-      "lon": 54.51429
+      "lon": 54.51429,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-wajihah-street",
@@ -38219,7 +39350,8 @@ window.KB = {
       "osm": "way/24296901",
       "kind": "residential",
       "lat": 24.424164,
-      "lon": 54.556659
+      "lon": 54.556659,
+      "variants": 1
     },
     {
       "id": "khalifa-city/al-yahl-street",
@@ -38230,7 +39362,8 @@ window.KB = {
       "osm": "way/24296824",
       "kind": "residential",
       "lat": 24.430074,
-      "lon": 54.577564
+      "lon": 54.577564,
+      "variants": 1
     },
     {
       "id": "khalifa-city/alkindi-bin-musabah-al-marar-street",
@@ -38241,7 +39374,8 @@ window.KB = {
       "osm": "way/24297180",
       "kind": "tertiary",
       "lat": 24.412928,
-      "lon": 54.594465
+      "lon": 54.594465,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nabd-street",
@@ -38252,7 +39386,8 @@ window.KB = {
       "osm": "way/24297275",
       "kind": "residential",
       "lat": 24.41309,
-      "lon": 54.593058
+      "lon": 54.593058,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nadirah-street",
@@ -38263,7 +39398,8 @@ window.KB = {
       "osm": "way/24297209",
       "kind": "residential",
       "lat": 24.40884,
-      "lon": 54.556122
+      "lon": 54.556122,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nadyah-street",
@@ -38274,7 +39410,8 @@ window.KB = {
       "osm": "way/24297259",
       "kind": "residential",
       "lat": 24.407455,
-      "lon": 54.578039
+      "lon": 54.578039,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nafees-street",
@@ -38285,7 +39422,8 @@ window.KB = {
       "osm": "way/24297264",
       "kind": "residential",
       "lat": 24.41057,
-      "lon": 54.584148
+      "lon": 54.584148,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nahi-street",
@@ -38296,40 +39434,8 @@ window.KB = {
       "osm": "way/24297327",
       "kind": "residential",
       "lat": 24.40948,
-      "lon": 54.598677
-    },
-    {
-      "id": "khalifa-city/an-najwa-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "An Najwa 1 Street",
-      "name_ar": "شارع النَّجوَى 1",
-      "osm": "way/24297315",
-      "kind": "residential",
-      "lat": 24.403043,
-      "lon": 54.579532
-    },
-    {
-      "id": "khalifa-city/an-najwa-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "An Najwa 2 Street",
-      "name_ar": "شارع النَّجوَى 2",
-      "osm": "way/24297316",
-      "kind": "residential",
-      "lat": 24.402759,
-      "lon": 54.57834
-    },
-    {
-      "id": "khalifa-city/an-najwa-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "An Najwa 3 Street",
-      "name_ar": "شارع النَّجوَى 3",
-      "osm": "way/24297302",
-      "kind": "residential",
-      "lat": 24.402718,
-      "lon": 54.575364
+      "lon": 54.598677,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-najwa-street",
@@ -38337,10 +39443,11 @@ window.KB = {
       "emirate": null,
       "name_en": "An Najwa Street",
       "name_ar": "شارع النَّجوَى",
-      "osm": "way/24297314",
+      "osm": "way/24297302",
       "kind": "residential",
-      "lat": 24.403631,
-      "lon": 54.577817
+      "lat": 24.402718,
+      "lon": 54.575364,
+      "variants": 3
     },
     {
       "id": "khalifa-city/an-nathriyyah-street",
@@ -38351,7 +39458,8 @@ window.KB = {
       "osm": "way/172651686",
       "kind": "residential",
       "lat": 24.423172,
-      "lon": 54.585591
+      "lon": 54.585591,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nisaylah-street",
@@ -38362,7 +39470,8 @@ window.KB = {
       "osm": "way/93177745",
       "kind": "primary",
       "lat": 24.391557,
-      "lon": 54.642662
+      "lon": 54.642662,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nu-man-bin-malik-street",
@@ -38373,7 +39482,8 @@ window.KB = {
       "osm": "way/24300345",
       "kind": "residential",
       "lat": 24.40149,
-      "lon": 54.50831
+      "lon": 54.50831,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nubough-street",
@@ -38384,7 +39494,8 @@ window.KB = {
       "osm": "way/91927903",
       "kind": "residential",
       "lat": 24.42831,
-      "lon": 54.602698
+      "lon": 54.602698,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nujoum-street",
@@ -38395,18 +39506,8 @@ window.KB = {
       "osm": "way/24296897",
       "kind": "residential",
       "lat": 24.418829,
-      "lon": 54.552987
-    },
-    {
-      "id": "khalifa-city/an-nuwadir-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "An Nuwadir 1 Street",
-      "name_ar": "شارع النُّوادر 1",
-      "osm": "way/24296793",
-      "kind": "residential",
-      "lat": 24.427751,
-      "lon": 54.58264
+      "lon": 54.552987,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nuwadir-street",
@@ -38414,32 +39515,11 @@ window.KB = {
       "emirate": null,
       "name_en": "An Nuwadir Street",
       "name_ar": "شارع النُّوادر",
-      "osm": "way/24296795",
+      "osm": "way/24296793",
       "kind": "residential",
-      "lat": 24.425945,
-      "lon": 54.583142
-    },
-    {
-      "id": "khalifa-city/an-nuwwarah-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "An Nuwwarah 1 Street",
-      "name_ar": "شارع النُّوَّارة 1",
-      "osm": "way/24297326",
-      "kind": "residential",
-      "lat": 24.408091,
-      "lon": 54.594754
-    },
-    {
-      "id": "khalifa-city/an-nuwwarah-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "An Nuwwarah 2 Street",
-      "name_ar": "شارع النُّوَّارة 2",
-      "osm": "way/24297322",
-      "kind": "residential",
-      "lat": 24.407808,
-      "lon": 54.593556
+      "lat": 24.427751,
+      "lon": 54.58264,
+      "variants": 1
     },
     {
       "id": "khalifa-city/an-nuwwarah-street",
@@ -38447,10 +39527,11 @@ window.KB = {
       "emirate": null,
       "name_en": "An Nuwwarah Street",
       "name_ar": "شارع النُّوَّارة",
-      "osm": "way/24297325",
+      "osm": "way/24297322",
       "kind": "residential",
-      "lat": 24.406213,
-      "lon": 54.593856
+      "lat": 24.407808,
+      "lon": 54.593556,
+      "variants": 2
     },
     {
       "id": "khalifa-city/ar-rafee-street",
@@ -38461,7 +39542,8 @@ window.KB = {
       "osm": "way/24297266",
       "kind": "residential",
       "lat": 24.413684,
-      "lon": 54.580108
+      "lon": 54.580108,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ar-rafraf-street",
@@ -38472,7 +39554,8 @@ window.KB = {
       "osm": "way/24296910",
       "kind": "residential",
       "lat": 24.418622,
-      "lon": 54.557242
+      "lon": 54.557242,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ar-rahah-street",
@@ -38483,7 +39566,8 @@ window.KB = {
       "osm": "way/172029028",
       "kind": "secondary",
       "lat": 24.44817,
-      "lon": 54.600722
+      "lon": 54.600722,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ar-rahb-street",
@@ -38494,7 +39578,8 @@ window.KB = {
       "osm": "way/24297296",
       "kind": "residential",
       "lat": 24.414912,
-      "lon": 54.5996
+      "lon": 54.5996,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ar-rasd-street",
@@ -38505,7 +39590,8 @@ window.KB = {
       "osm": "way/24300388",
       "kind": "residential",
       "lat": 24.40714,
-      "lon": 54.503251
+      "lon": 54.503251,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ar-rawdah-road",
@@ -38516,7 +39602,8 @@ window.KB = {
       "osm": "way/24165645",
       "kind": "trunk",
       "lat": 24.40105,
-      "lon": 54.52015
+      "lon": 54.52015,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ar-rimaylah-street",
@@ -38527,7 +39614,8 @@ window.KB = {
       "osm": "way/24300348",
       "kind": "residential",
       "lat": 24.404502,
-      "lon": 54.509789
+      "lon": 54.509789,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ar-roushinah-street",
@@ -38538,7 +39626,8 @@ window.KB = {
       "osm": "way/24303633",
       "kind": "residential",
       "lat": 24.395437,
-      "lon": 54.504035
+      "lon": 54.504035,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-sa-eed-street",
@@ -38549,7 +39638,8 @@ window.KB = {
       "osm": "way/24296902",
       "kind": "residential",
       "lat": 24.423828,
-      "lon": 54.555484
+      "lon": 54.555484,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-safare-street",
@@ -38560,7 +39650,8 @@ window.KB = {
       "osm": "way/24300387",
       "kind": "residential",
       "lat": 24.406729,
-      "lon": 54.504423
+      "lon": 54.504423,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-safawi-street",
@@ -38571,7 +39662,8 @@ window.KB = {
       "osm": "way/24296919",
       "kind": "residential",
       "lat": 24.416231,
-      "lon": 54.56209
+      "lon": 54.56209,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-safsaf-street",
@@ -38582,7 +39674,8 @@ window.KB = {
       "osm": "way/24296831",
       "kind": "residential",
       "lat": 24.4244,
-      "lon": 54.570796
+      "lon": 54.570796,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-sal-street",
@@ -38593,7 +39686,8 @@ window.KB = {
       "osm": "way/24303624",
       "kind": "residential",
       "lat": 24.394001,
-      "lon": 54.504916
+      "lon": 54.504916,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-saladah-street",
@@ -38604,18 +39698,8 @@ window.KB = {
       "osm": "way/24296891",
       "kind": "residential",
       "lat": 24.412854,
-      "lon": 54.55202
-    },
-    {
-      "id": "khalifa-city/as-samah-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Samah 2 Street",
-      "name_ar": "شارع السَّماح 2",
-      "osm": "way/24296875",
-      "kind": "residential",
-      "lat": 24.426782,
-      "lon": 54.560053
+      "lon": 54.55202,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-samah-street",
@@ -38626,40 +39710,8 @@ window.KB = {
       "osm": "way/24296874",
       "kind": "residential",
       "lat": 24.424799,
-      "lon": 54.559198
-    },
-    {
-      "id": "khalifa-city/as-saqi-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Saqi 1 Street",
-      "name_ar": "شارع السَّاقِي 1",
-      "osm": "way/91927826",
-      "kind": "residential",
-      "lat": 24.435761,
-      "lon": 54.593756
-    },
-    {
-      "id": "khalifa-city/as-saqi-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Saqi 2 Street",
-      "name_ar": "شارع السَّاقِي 2",
-      "osm": "way/91927898",
-      "kind": "residential",
-      "lat": 24.436177,
-      "lon": 54.595223
-    },
-    {
-      "id": "khalifa-city/as-saqi-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Saqi 3 Street",
-      "name_ar": "شارع السَّاقِي 3",
-      "osm": "way/91927859",
-      "kind": "residential",
-      "lat": 24.436588,
-      "lon": 54.596688
+      "lon": 54.559198,
+      "variants": 2
     },
     {
       "id": "khalifa-city/as-saqi-street",
@@ -38667,10 +39719,11 @@ window.KB = {
       "emirate": null,
       "name_en": "As Saqi Street",
       "name_ar": "شارع السَّاقِي",
-      "osm": "way/91927837",
+      "osm": "way/91927826",
       "kind": "residential",
-      "lat": 24.434839,
-      "lon": 54.595678
+      "lat": 24.435761,
+      "lon": 54.593756,
+      "variants": 3
     },
     {
       "id": "khalifa-city/as-saqoul-street",
@@ -38681,7 +39734,8 @@ window.KB = {
       "osm": "way/24300087",
       "kind": "residential",
       "lat": 24.404851,
-      "lon": 54.515685
+      "lon": 54.515685,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-saray-street",
@@ -38692,7 +39746,8 @@ window.KB = {
       "osm": "way/24296792",
       "kind": "residential",
       "lat": 24.425057,
-      "lon": 54.574985
+      "lon": 54.574985,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-sawaqi-street",
@@ -38703,7 +39758,8 @@ window.KB = {
       "osm": "way/24297225",
       "kind": "residential",
       "lat": 24.403361,
-      "lon": 54.563688
+      "lon": 54.563688,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-sawari-street",
@@ -38714,18 +39770,20 @@ window.KB = {
       "osm": "way/24296834",
       "kind": "residential",
       "lat": 24.41877,
-      "lon": 54.57292
+      "lon": 54.57292,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/as-seeri-1-street",
+      "id": "khalifa-city/as-seeri-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "As Seeri 1 Street",
-      "name_ar": "شارع السِّيري 1",
+      "name_en": "As Seeri Street",
+      "name_ar": "شارع السِّيري",
       "osm": "way/91927866",
       "kind": "tertiary",
       "lat": 24.407484,
-      "lon": 54.60862
+      "lon": 54.60862,
+      "variants": 1
     },
     {
       "id": "khalifa-city/as-shaba-street",
@@ -38736,51 +39794,32 @@ window.KB = {
       "osm": "way/24303640",
       "kind": "residential",
       "lat": 24.394935,
-      "lon": 54.506191
+      "lon": 54.506191,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/as-simmani-1-street",
+      "id": "khalifa-city/as-simmani-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "As Simmani 1 Street",
-      "name_ar": "شارع السِّمَّانِي 1",
-      "osm": "way/91927865",
-      "kind": "residential",
-      "lat": 24.428176,
-      "lon": 54.604808
-    },
-    {
-      "id": "khalifa-city/as-simmani-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Simmani 2 Street",
-      "name_ar": "شارع السِّمَّانِي 2",
+      "name_en": "As Simmani Street",
+      "name_ar": "شارع السِّمَّانِي",
       "osm": "way/91927817",
       "kind": "residential",
       "lat": 24.424504,
-      "lon": 54.603205
+      "lon": 54.603205,
+      "variants": 2
     },
     {
-      "id": "khalifa-city/as-su-adaa-1-street",
+      "id": "khalifa-city/as-su-adaa-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "As Su'adaa 1 Street",
-      "name_ar": "شارع السُّعداء 1",
-      "osm": "way/177853086",
-      "kind": "residential",
-      "lat": 24.433273,
-      "lon": 54.579977
-    },
-    {
-      "id": "khalifa-city/as-su-adaa-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Su'adaa 2 Street",
-      "name_ar": "شارع السُّعداء 2",
+      "name_en": "As Su'adaa Street",
+      "name_ar": "شارع السُّعداء",
       "osm": "way/177853085",
       "kind": "residential",
       "lat": 24.434174,
-      "lon": 54.583138
+      "lon": 54.583138,
+      "variants": 2
     },
     {
       "id": "khalifa-city/as-sufara-a-street",
@@ -38791,62 +39830,20 @@ window.KB = {
       "osm": "way/24296868",
       "kind": "residential",
       "lat": 24.421651,
-      "lon": 54.547755
+      "lon": 54.547755,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/as-sunna-1-street",
+      "id": "khalifa-city/as-sunna-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "As Sunna' 1 Street",
-      "name_ar": "شارع الصُّنَّاع 1",
-      "osm": "way/24297228",
-      "kind": "residential",
-      "lat": 24.400188,
-      "lon": 54.564766
-    },
-    {
-      "id": "khalifa-city/as-sunna-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Sunna' 3 Street",
-      "name_ar": "شارع الصُّنَّاع 3",
-      "osm": "way/24297223",
-      "kind": "residential",
-      "lat": 24.398319,
-      "lon": 54.556938
-    },
-    {
-      "id": "khalifa-city/as-sunna-4-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Sunna' 4 Street",
-      "name_ar": "شارع الصُّنَّاع 4",
+      "name_en": "As Sunna' Street",
+      "name_ar": "شارع الصُّنَّاع",
       "osm": "way/24297222",
       "kind": "residential",
       "lat": 24.398019,
-      "lon": 54.555748
-    },
-    {
-      "id": "khalifa-city/as-suqour-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Suqour 2 Street",
-      "name_ar": "شارع الصُّقُور 2",
-      "osm": "way/24296766",
-      "kind": "residential",
-      "lat": 24.420887,
-      "lon": 54.586137
-    },
-    {
-      "id": "khalifa-city/as-suqour-3-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "As Suqour 3 Street",
-      "name_ar": "شارع الصُّقُور 3",
-      "osm": "way/24296767",
-      "kind": "residential",
-      "lat": 24.418957,
-      "lon": 54.58556
+      "lon": 54.555748,
+      "variants": 3
     },
     {
       "id": "khalifa-city/as-suqour-street",
@@ -38857,7 +39854,8 @@ window.KB = {
       "osm": "way/24296765",
       "kind": "residential",
       "lat": 24.422512,
-      "lon": 54.58582
+      "lon": 54.58582,
+      "variants": 3
     },
     {
       "id": "khalifa-city/ash-shammaa-street",
@@ -38868,18 +39866,8 @@ window.KB = {
       "osm": "way/24297271",
       "kind": "residential",
       "lat": 24.417706,
-      "lon": 54.587445
-    },
-    {
-      "id": "khalifa-city/ash-shat-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Ash Shat 1 Street",
-      "name_ar": "شارع الشَّط 1",
-      "osm": "way/24296724",
-      "kind": "tertiary",
-      "lat": 24.433796,
-      "lon": 54.576739
+      "lon": 54.587445,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ash-shat-street",
@@ -38887,10 +39875,11 @@ window.KB = {
       "emirate": null,
       "name_en": "Ash Shat Street",
       "name_ar": "شارع الشَّط",
-      "osm": "way/24296821",
-      "kind": "residential",
-      "lat": 24.432402,
-      "lon": 54.573721
+      "osm": "way/24296724",
+      "kind": "tertiary",
+      "lat": 24.433796,
+      "lon": 54.576739,
+      "variants": 3
     },
     {
       "id": "khalifa-city/ash-sheeshi-street",
@@ -38901,7 +39890,8 @@ window.KB = {
       "osm": "way/24297273",
       "kind": "residential",
       "lat": 24.416054,
-      "lon": 54.583585
+      "lon": 54.583585,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ash-shibaqi-street",
@@ -38912,7 +39902,8 @@ window.KB = {
       "osm": "way/24300107",
       "kind": "residential",
       "lat": 24.399029,
-      "lon": 54.517302
+      "lon": 54.517302,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ash-shighar-street",
@@ -38923,7 +39914,8 @@ window.KB = {
       "osm": "way/24300093",
       "kind": "residential",
       "lat": 24.402113,
-      "lon": 54.520847
+      "lon": 54.520847,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ash-shumoul-street",
@@ -38934,7 +39926,8 @@ window.KB = {
       "osm": "way/24296796",
       "kind": "residential",
       "lat": 24.42096,
-      "lon": 54.580645
+      "lon": 54.580645,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-ta-leem-street",
@@ -38945,7 +39938,8 @@ window.KB = {
       "osm": "way/24297263",
       "kind": "residential",
       "lat": 24.408762,
-      "lon": 54.584532
+      "lon": 54.584532,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tadbeer-street",
@@ -38956,7 +39950,8 @@ window.KB = {
       "osm": "way/24297254",
       "kind": "residential",
       "lat": 24.412608,
-      "lon": 54.576287
+      "lon": 54.576287,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tahaddur-street",
@@ -38967,18 +39962,8 @@ window.KB = {
       "osm": "way/24297206",
       "kind": "residential",
       "lat": 24.405937,
-      "lon": 54.554589
-    },
-    {
-      "id": "khalifa-city/at-tajdeed-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "At Tajdeed 1 Street",
-      "name_ar": "شارع التَّجدِيد 1",
-      "osm": "way/91927798",
-      "kind": "residential",
-      "lat": 24.438073,
-      "lon": 54.594433
+      "lon": 54.554589,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tajdeed-street",
@@ -38986,10 +39971,11 @@ window.KB = {
       "emirate": null,
       "name_en": "At Tajdeed Street",
       "name_ar": "شارع التَّجدِيد",
-      "osm": "way/91927862",
+      "osm": "way/91927798",
       "kind": "residential",
-      "lat": 24.437927,
-      "lon": 54.596241
+      "lat": 24.438073,
+      "lon": 54.594433,
+      "variants": 3
     },
     {
       "id": "khalifa-city/at-takhteet-street",
@@ -39000,7 +39986,8 @@ window.KB = {
       "osm": "way/24297229",
       "kind": "residential",
       "lat": 24.400678,
-      "lon": 54.56736
+      "lon": 54.56736,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-talee-street",
@@ -39011,7 +39998,8 @@ window.KB = {
       "osm": "way/24303635",
       "kind": "residential",
       "lat": 24.396098,
-      "lon": 54.503506
+      "lon": 54.503506,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tanasur-street",
@@ -39022,7 +40010,8 @@ window.KB = {
       "osm": "way/24296904",
       "kind": "residential",
       "lat": 24.420779,
-      "lon": 54.557996
+      "lon": 54.557996,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tarabut-street",
@@ -39033,18 +40022,20 @@ window.KB = {
       "osm": "way/91927905",
       "kind": "residential",
       "lat": 24.424681,
-      "lon": 54.594961
+      "lon": 54.594961,
+      "variants": 1
     },
     {
-      "id": "khalifa-city/at-taradi-1-street",
+      "id": "khalifa-city/at-taradi-street",
       "area": "khalifa-city",
       "emirate": null,
-      "name_en": "At Taradi 1 Street",
-      "name_ar": "شارع التَّراضي 1",
+      "name_en": "At Taradi Street",
+      "name_ar": "شارع التَّراضي",
       "osm": "way/91927883",
       "kind": "residential",
       "lat": 24.430346,
-      "lon": 54.601193
+      "lon": 54.601193,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tarahum-street",
@@ -39055,7 +40046,8 @@ window.KB = {
       "osm": "way/24297295",
       "kind": "residential",
       "lat": 24.414683,
-      "lon": 54.596919
+      "lon": 54.596919,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tarfah-street",
@@ -39066,7 +40058,8 @@ window.KB = {
       "osm": "way/24297278",
       "kind": "residential",
       "lat": 24.415543,
-      "lon": 54.586655
+      "lon": 54.586655,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tarteel-street",
@@ -39077,29 +40070,8 @@ window.KB = {
       "osm": "way/24297289",
       "kind": "residential",
       "lat": 24.417733,
-      "lon": 54.594375
-    },
-    {
-      "id": "khalifa-city/at-tas-heel-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "At Tas-heel 1 Street",
-      "name_ar": "شارع التَّسهيل 1",
-      "osm": "way/91927812",
-      "kind": "residential",
-      "lat": 24.414566,
-      "lon": 54.607364
-    },
-    {
-      "id": "khalifa-city/at-tas-heel-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "At Tas-heel 2 Street",
-      "name_ar": "شارع التَّسهيل 2",
-      "osm": "way/91927853",
-      "kind": "residential",
-      "lat": 24.414074,
-      "lon": 54.605633
+      "lon": 54.594375,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tas-heel-street",
@@ -39107,10 +40079,11 @@ window.KB = {
       "emirate": null,
       "name_en": "At Tas-heel Street",
       "name_ar": "شارع التَّسهيل",
-      "osm": "way/91927843",
+      "osm": "way/91927812",
       "kind": "residential",
-      "lat": 24.412941,
-      "lon": 54.606825
+      "lat": 24.414566,
+      "lon": 54.607364,
+      "variants": 2
     },
     {
       "id": "khalifa-city/at-tasafuh-street",
@@ -39121,7 +40094,8 @@ window.KB = {
       "osm": "way/24296829",
       "kind": "residential",
       "lat": 24.416933,
-      "lon": 54.573318
+      "lon": 54.573318,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tasawi-street",
@@ -39132,7 +40106,8 @@ window.KB = {
       "osm": "way/24297217",
       "kind": "residential",
       "lat": 24.402439,
-      "lon": 54.555532
+      "lon": 54.555532,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-taw-ah-street",
@@ -39143,7 +40118,8 @@ window.KB = {
       "osm": "way/24296820",
       "kind": "residential",
       "lat": 24.425602,
-      "lon": 54.564911
+      "lon": 54.564911,
+      "variants": 1
     },
     {
       "id": "khalifa-city/at-tibyan-street",
@@ -39154,7 +40130,8 @@ window.KB = {
       "osm": "way/24296896",
       "kind": "residential",
       "lat": 24.414047,
-      "lon": 54.554366
+      "lon": 54.554366,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ath-thamir-street",
@@ -39165,7 +40142,8 @@ window.KB = {
       "osm": "way/168533787",
       "kind": "residential",
       "lat": 24.412349,
-      "lon": 54.555173
+      "lon": 54.555173,
+      "variants": 1
     },
     {
       "id": "khalifa-city/az-ziyarah-street",
@@ -39176,7 +40154,8 @@ window.KB = {
       "osm": "way/24297249",
       "kind": "residential",
       "lat": 24.413341,
-      "lon": 54.578933
+      "lon": 54.578933,
+      "variants": 1
     },
     {
       "id": "khalifa-city/bariz-street",
@@ -39187,7 +40166,8 @@ window.KB = {
       "osm": "way/24296869",
       "kind": "residential",
       "lat": 24.421974,
-      "lon": 54.548937
+      "lon": 54.548937,
+      "variants": 1
     },
     {
       "id": "khalifa-city/diba-street",
@@ -39198,29 +40178,8 @@ window.KB = {
       "osm": "way/24300358",
       "kind": "residential",
       "lat": 24.409516,
-      "lon": 54.507413
-    },
-    {
-      "id": "khalifa-city/dimyah-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Dimyah 1 Street",
-      "name_ar": "شارع دِمْيَة 1",
-      "osm": "way/24296773",
-      "kind": "residential",
-      "lat": 24.422907,
-      "lon": 54.589733
-    },
-    {
-      "id": "khalifa-city/dimyah-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Dimyah 2 Street",
-      "name_ar": "شارع دِمْيَة 2",
-      "osm": "way/24296768",
-      "kind": "residential",
-      "lat": 24.42197,
-      "lon": 54.591411
+      "lon": 54.507413,
+      "variants": 1
     },
     {
       "id": "khalifa-city/dimyah-street",
@@ -39228,10 +40187,11 @@ window.KB = {
       "emirate": null,
       "name_en": "Dimyah Street",
       "name_ar": "شارع دِمْيَة",
-      "osm": "way/24296772",
+      "osm": "way/24296768",
       "kind": "residential",
-      "lat": 24.423135,
-      "lon": 54.588369
+      "lat": 24.42197,
+      "lon": 54.591411,
+      "variants": 4
     },
     {
       "id": "khalifa-city/dr-mohamed-saeed-al-badi-al-dhaheri-street",
@@ -39242,7 +40202,8 @@ window.KB = {
       "osm": "way/24300083",
       "kind": "tertiary",
       "lat": 24.401266,
-      "lon": 54.517877
+      "lon": 54.517877,
+      "variants": 1
     },
     {
       "id": "khalifa-city/fard-liwa-street",
@@ -39253,7 +40214,8 @@ window.KB = {
       "osm": "way/24297251",
       "kind": "residential",
       "lat": 24.407614,
-      "lon": 54.573704
+      "lon": 54.573704,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ghabat-bu-dheeb-street",
@@ -39264,7 +40226,8 @@ window.KB = {
       "osm": "way/24297231",
       "kind": "residential",
       "lat": 24.403623,
-      "lon": 54.56636
+      "lon": 54.56636,
+      "variants": 1
     },
     {
       "id": "khalifa-city/ghazar-street",
@@ -39275,7 +40238,8 @@ window.KB = {
       "osm": "way/24297253",
       "kind": "residential",
       "lat": 24.412281,
-      "lon": 54.575107
+      "lon": 54.575107,
+      "variants": 1
     },
     {
       "id": "khalifa-city/hamad-mohamed-thani-al-rumaithi-street",
@@ -39286,7 +40250,8 @@ window.KB = {
       "osm": "way/24300101",
       "kind": "tertiary",
       "lat": 24.397928,
-      "lon": 54.517097
+      "lon": 54.517097,
+      "variants": 1
     },
     {
       "id": "khalifa-city/hayy-juma-hayy-al-hameli-street",
@@ -39297,7 +40262,8 @@ window.KB = {
       "osm": "way/24296745",
       "kind": "tertiary",
       "lat": 24.412013,
-      "lon": 54.582173
+      "lon": 54.582173,
+      "variants": 1
     },
     {
       "id": "khalifa-city/humaid-bin-abdullah-al-rumaithi-street",
@@ -39308,29 +40274,8 @@ window.KB = {
       "osm": "way/24297181",
       "kind": "tertiary",
       "lat": 24.410203,
-      "lon": 54.595821
-    },
-    {
-      "id": "khalifa-city/jabbar-1-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Jabbar 1 Street",
-      "name_ar": "شارع جَبَّار 1",
-      "osm": "way/24297323",
-      "kind": "residential",
-      "lat": 24.405591,
-      "lon": 54.590032
-    },
-    {
-      "id": "khalifa-city/jabbar-2-street",
-      "area": "khalifa-city",
-      "emirate": null,
-      "name_en": "Jabbar 2 Street",
-      "name_ar": "شارع جَبَّار 2",
-      "osm": "way/24297324",
-      "kind": "residential",
-      "lat": 24.405857,
-      "lon": 54.591236
+      "lon": 54.595821,
+      "variants": 1
     },
     {
       "id": "khalifa-city/jabbar-street",
@@ -39341,7 +40286,8 @@ window.KB = {
       "osm": "way/24297320",
       "kind": "residential",
       "lat": 24.407349,
-      "lon": 54.590958
+      "lon": 54.590958,
+      "variants": 3
     },
     {
       "id": "khalifa-city/juma-bu-jamhour-al-qubaisi-street",
@@ -39352,7 +40298,8 @@ window.KB = {
       "osm": "way/24296756",
       "kind": "tertiary",
       "lat": 24.426235,
-      "lon": 54.571884
+      "lon": 54.571884,
+      "variants": 1
     },
     {
       "id": "khalifa-city/khalfan-matar-saeed-al-rumaithi-street",
@@ -39363,7 +40310,8 @@ window.KB = {
       "osm": "way/24300333",
       "kind": "tertiary",
       "lat": 24.407907,
-      "lon": 54.505612
+      "lon": 54.505612,
+      "variants": 1
     },
     {
       "id": "khalifa-city/khalifa-bin-ahmed-al-suwaidi-street",
@@ -39374,7 +40322,8 @@ window.KB = {
       "osm": "way/24296748",
       "kind": "tertiary",
       "lat": 24.408415,
-      "lon": 54.579035
+      "lon": 54.579035,
+      "variants": 1
     },
     {
       "id": "khalifa-city/khor-ghanadhah-street",
@@ -39385,7 +40334,8 @@ window.KB = {
       "osm": "way/196406656",
       "kind": "tertiary",
       "lat": 24.441173,
-      "lon": 54.592899
+      "lon": 54.592899,
+      "variants": 1
     },
     {
       "id": "khalifa-city/kitaylah-street",
@@ -39396,7 +40346,8 @@ window.KB = {
       "osm": "way/24296823",
       "kind": "residential",
       "lat": 24.428879,
-      "lon": 54.575221
+      "lon": 54.575221,
+      "variants": 1
     },
     {
       "id": "khalifa-city/layih-street",
@@ -39407,7 +40358,8 @@ window.KB = {
       "osm": "way/24300344",
       "kind": "residential",
       "lat": 24.40127,
-      "lon": 54.511749
+      "lon": 54.511749,
+      "variants": 1
     },
     {
       "id": "khalifa-city/milayhah-street",
@@ -39418,7 +40370,8 @@ window.KB = {
       "osm": "way/24300343",
       "kind": "residential",
       "lat": 24.402873,
-      "lon": 54.508759
+      "lon": 54.508759,
+      "variants": 1
     },
     {
       "id": "khalifa-city/mohamed-ali-al-bastaki-street",
@@ -39429,7 +40382,8 @@ window.KB = {
       "osm": "way/91927874",
       "kind": "residential",
       "lat": 24.411552,
-      "lon": 54.604601
+      "lon": 54.604601,
+      "variants": 1
     },
     {
       "id": "khalifa-city/mohammed-bin-ali-al-muhairi-street",
@@ -39440,7 +40394,8 @@ window.KB = {
       "osm": "way/24296846",
       "kind": "tertiary",
       "lat": 24.418478,
-      "lon": 54.564631
+      "lon": 54.564631,
+      "variants": 1
     },
     {
       "id": "khalifa-city/murshid-bin-adaeed-al-hameli-street",
@@ -39451,7 +40406,8 @@ window.KB = {
       "osm": "way/24300085",
       "kind": "tertiary",
       "lat": 24.40525,
-      "lon": 54.514529
+      "lon": 54.514529,
+      "variants": 1
     },
     {
       "id": "khalifa-city/murshid-bin-ali-al-marar-street",
@@ -39462,7 +40418,8 @@ window.KB = {
       "osm": "way/24296735",
       "kind": "tertiary",
       "lat": 24.420953,
-      "lon": 54.5833
+      "lon": 54.5833,
+      "variants": 1
     },
     {
       "id": "khalifa-city/muwaylih-street",
@@ -39473,7 +40430,8 @@ window.KB = {
       "osm": "way/24296786",
       "kind": "residential",
       "lat": 24.423672,
-      "lon": 54.576972
+      "lon": 54.576972,
+      "variants": 1
     },
     {
       "id": "khalifa-city/nameer-street",
@@ -39484,7 +40442,8 @@ window.KB = {
       "osm": "way/24297276",
       "kind": "residential",
       "lat": 24.412759,
-      "lon": 54.591881
+      "lon": 54.591881,
+      "variants": 1
     },
     {
       "id": "khalifa-city/niqa-yarrah-street",
@@ -39495,7 +40454,8 @@ window.KB = {
       "osm": "way/227743862",
       "kind": "tertiary",
       "lat": 24.389085,
-      "lon": 54.581213
+      "lon": 54.581213,
+      "variants": 1
     },
     {
       "id": "khalifa-city/obaid-mohammed-abdulla-al-kaabi-street",
@@ -39506,7 +40466,8 @@ window.KB = {
       "osm": "way/91927800",
       "kind": "secondary",
       "lat": 24.42748,
-      "lon": 54.585359
+      "lon": 54.585359,
+      "variants": 1
     },
     {
       "id": "khalifa-city/rashid-bin-daafous-al-mazrouei-street",
@@ -39517,7 +40478,8 @@ window.KB = {
       "osm": "way/24296736",
       "kind": "tertiary",
       "lat": 24.424364,
-      "lon": 54.585529
+      "lon": 54.585529,
+      "variants": 1
     },
     {
       "id": "khalifa-city/rashid-bin-jabr-al-halami-street",
@@ -39528,7 +40490,8 @@ window.KB = {
       "osm": "way/216588909",
       "kind": "tertiary",
       "lat": 24.435769,
-      "lon": 54.564843
+      "lon": 54.564843,
+      "variants": 1
     },
     {
       "id": "khalifa-city/saif-mohamed-al-qubaisi-street",
@@ -39539,7 +40502,8 @@ window.KB = {
       "osm": "way/24297260",
       "kind": "residential",
       "lat": 24.407119,
-      "lon": 54.576879
+      "lon": 54.576879,
+      "variants": 1
     },
     {
       "id": "khalifa-city/sarmad-street",
@@ -39550,7 +40514,8 @@ window.KB = {
       "osm": "way/91927877",
       "kind": "residential",
       "lat": 24.419656,
-      "lon": 54.604041
+      "lon": 54.604041,
+      "variants": 1
     },
     {
       "id": "khalifa-city/sheikh-rashid-bin-saeed-street",
@@ -39561,7 +40526,8 @@ window.KB = {
       "osm": "way/217432663",
       "kind": "trunk",
       "lat": 24.413364,
-      "lon": 54.506729
+      "lon": 54.506729,
+      "variants": 1
     },
     {
       "id": "khalifa-city/shuja-bin-wahab-street",
@@ -39572,7 +40538,8 @@ window.KB = {
       "osm": "way/24296771",
       "kind": "residential",
       "lat": 24.421303,
-      "lon": 54.588757
+      "lon": 54.588757,
+      "variants": 1
     },
     {
       "id": "khalifa-city/soughan-street",
@@ -39583,7 +40550,8 @@ window.KB = {
       "osm": "way/24297234",
       "kind": "residential",
       "lat": 24.408212,
-      "lon": 54.560754
+      "lon": 54.560754,
+      "variants": 1
     },
     {
       "id": "khalifa-city/tawi-rwayan-street",
@@ -39594,7 +40562,8 @@ window.KB = {
       "osm": "way/227743861",
       "kind": "tertiary",
       "lat": 24.393352,
-      "lon": 54.577836
+      "lon": 54.577836,
+      "variants": 1
     },
     {
       "id": "khalifa-city/theyab-bin-eissa-street",
@@ -39605,7 +40574,8 @@ window.KB = {
       "osm": "way/24296800",
       "kind": "secondary",
       "lat": 24.427202,
-      "lon": 54.564281
+      "lon": 54.564281,
+      "variants": 1
     },
     {
       "id": "khalifa-city/um-habeebah-street",
@@ -39616,7 +40586,8 @@ window.KB = {
       "osm": "way/24297215",
       "kind": "residential",
       "lat": 24.402286,
-      "lon": 54.559869
+      "lon": 54.559869,
+      "variants": 1
     },
     {
       "id": "khalifa-city/uqbah-bin-nafi-street",
@@ -39627,7 +40598,8 @@ window.KB = {
       "osm": "way/24300349",
       "kind": "residential",
       "lat": 24.40589,
-      "lon": 54.510239
+      "lon": 54.510239,
+      "variants": 1
     },
     {
       "id": "khalifa-city/wadi-m-aysheeq-street",
@@ -39638,7 +40610,8 @@ window.KB = {
       "osm": "way/24296911",
       "kind": "residential",
       "lat": 24.419182,
-      "lon": 54.561095
+      "lon": 54.561095,
+      "variants": 1
     },
     {
       "id": "khalifa-city/waleed-ebrahim-al-ali-street",
@@ -39649,7 +40622,8 @@ window.KB = {
       "osm": "way/24296790",
       "kind": "residential",
       "lat": 24.421289,
-      "lon": 54.581819
+      "lon": 54.581819,
+      "variants": 1
     },
     {
       "id": "khalifa-city/yaw-kribiyah-street",
@@ -39660,7 +40634,8 @@ window.KB = {
       "osm": "way/227743867",
       "kind": "tertiary",
       "lat": 24.391151,
-      "lon": 54.584795
+      "lon": 54.584795,
+      "variants": 1
     }
   ],
   "emirates": [
@@ -39673,8 +40648,8 @@ window.KB = {
         24.56,
         54.78
       ],
-      "street_count": 3334,
-      "note": "Partial: southern half only (mainland / Mussafah side). The island and northern districts are missing — Overpass returned empty for those tiles and then went down with 504s. Re-run tools/kb-collect.mjs for bbox 24.40,54.28,24.56,54.78 when the service is responsive."
+      "street_count": 3161,
+      "note": "Partial: southern half only (mainland / Mussafah side). The island and northern districts are missing - Overpass returned empty for those tiles and then went down with 504s."
     }
   ]
 };
