@@ -81,7 +81,9 @@ const numericOnly = (en, ar) => {
       // Latin road words need \b; Arabic ones must NOT use it — \b is ASCII-only,
       // so "شارع" would never match and every Arabic name would look non-numeric.
       .replace(/\b(street|road|st|rd|ave|avenue|lane)\b/gi, " ")
-      .replace(/شارع|طريق|جادة/g, " ")
+      // Arabic road words: شارع street, طريق road, جادة avenue, ممر lane/passage,
+      // حارة lane, زقاق alley, درب path, نهج street (Abu Dhabi usage).
+      .replace(/شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج/g, " ")
       .replace(/\d+\s*(st|nd|rd|th)\b/gi, " ") // 1st, 2nd …
       .replace(/[0-9]+[a-z]?/gi, " ") // 112, 1b
       .replace(/[^\p{L}\s]/gu, " ")

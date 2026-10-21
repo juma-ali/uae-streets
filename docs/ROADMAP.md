@@ -65,25 +65,23 @@ Streets are collected district by district, each row resolving to
 `Emirate » City » Area » District`. OSM-derived, ODbL, never loaded by the site.
 Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 
-**Current: 3,603 streets, 3,599 with Arabic names, 1.1 MB.**
+**Current: 5,577 streets, 5,567 with Arabic names, 1.8 MB.** Rules in
+[KB.md](KB.md).
 
-- [x] **Khalifa City** — 269 streets after the numeric filter, full four-level path.
-- [x] **Abu Dhabi city (partial)** — 3,334 streets, emirate level, no district
-      assignment yet. **Coverage is the southern half only** (Mussafah side); the
-      island and northern districts are missing because Overpass returned empty
-      tiles and then 504'd. Recorded in the KB's own `note` field.
-- [ ] **Re-collect the island** — `--bbox 24.40,54.28,24.56,54.78` when Overpass is
-      responsive, then re-run `kb-build --emirate abu-dhabi-city`.
-- [ ] **Al Ain and Al Dhafra** — the other two population centres of the emirate.
+- [x] **Khalifa City** — 223 streets after merging, full four-level path.
+- [x] **Abu Dhabi city** — 5,354 streets at emirate level, incl. the island.
+- [x] **Offline collection** — `tools/pbf-import.mjs` reads the 84 MB UAE extract in
+      ~8 s. This replaced Overpass for collection after it 504'd and, worse, returned
+      empty tiles that silently dropped the island.
+- [ ] **Al Ain and Al Dhafra** — outside the current bbox; same command, new bbox.
 - [ ] **Assign districts** — the emirate-level rows need point-in-polygon against
-      district boundaries. Overpass returns boundary *segments*, not closed rings,
-      so the stitching has to be written first.
-- [ ] **Fold `data/index.js` into `data/kb.js`** once the KB covers those areas, so
-      there is one facts file rather than two.
+      district boundaries. A PBF contains *complete* relation geometry, so the ring
+      stitching that Overpass made impossible is now tractable.
+- [ ] **Fold `data/index.js` into `data/kb.js`** so there is one facts file.
 
-Lessons already paid for: an area-wide query is too heavy (tile it), a bbox query on
-dense ground takes minutes, and Overpass at peak simply returns empty tiles rather
-than an error — so a "0 ways" tile must be re-checked, never trusted.
+Lessons paid for: an area-wide Overpass query is too heavy; a dense bbox tile takes
+minutes; and Overpass answers "busy" with an *empty result*, not an error — so a
+"0 ways" tile must never be trusted. The PBF route removes all three problems.
 
 ## Content
 

@@ -47,15 +47,31 @@ node tools/kb-build.mjs --emirate abu-dhabi-city --osm relation/3766481 \
 `kb-collect` writes to `.cache/` (gitignored); `kb-build` merges into `data/kb.js`,
 replacing only the scope it was given. Overpass is flaky — see the roadmap.
 
-## Current coverage — partial, deliberately recorded
+## Current coverage
 
 | Scope | Streets | Status |
 |---|---|---|
 | Abu Dhabi » Khalifa City | 223 | complete for the district |
-| Abu Dhabi city (emirate level) | 3,161 | **southern half only** — island and north missing |
+| Abu Dhabi city (emirate level) | 5,354 | city bbox incl. the island; Al Ain and Al Dhafra outside it |
 
-The emirate record carries a `note` explaining the gap, so the file never implies
-more completeness than it has.
+**5,577 streets total; 5,567 carry an Arabic name.** Collected from the full UAE
+extract rather than Overpass — one 84 MB download, parsed in about 8 seconds, with
+no tiles and no 504s.
+
+## Collection: PBF, not Overpass
+
+```bash
+node tools/pbf-import.mjs --name abu-dhabi-city --bbox 24.26,54.30,24.56,54.78
+node tools/kb-build.mjs   --emirate abu-dhabi-city --bbox 24.26,54.30,24.56,54.78 --note "…"
+```
+
+`pbf-import` downloads the UAE extract once (`.cache/`, gitignored), then walks it
+twice: named highways first, their node coordinates second. It writes the same JSON
+shape the Overpass collector produced, so `kb-build` is unchanged.
+
+Overpass remains available (`kb-collect`, `osm-district`) for one-off lookups, but
+it is not the primary source any more: it 504s under load and silently returns
+**empty tiles**, which is how the island went missing the first time.
 
 ## Meanings belong elsewhere
 
