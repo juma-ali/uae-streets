@@ -1,36 +1,71 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" dir="ltr" data-title-en="Streets of the UAE" data-title-ar="شوارع الإمارات العربية المتحدة">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Streets of the UAE</title>
+<script>try{var p=new URLSearchParams(location.search).get("lang");var s=null;try{s=localStorage.getItem("directory-lang");}catch(e){}if((p||s)==="ar"){document.documentElement.lang="ar";document.documentElement.dir="rtl";}}catch(e){}</script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<button class="langbtn" id="lang" type="button">العربية</button>
 <div class="wrap">
 
-<h1>Streets of the United Arab Emirates</h1>
-<p class="lede">11,530 named streets in 344 districts across seven emirates,
-as mapped in OpenStreetMap. Numbered names (&ldquo;12A Street&rdquo;) are excluded by choice.</p>
+<h1><span data-en="Streets of the United Arab Emirates" data-ar="شوارع الإمارات العربية المتحدة">Streets of the United Arab Emirates</span></h1>
+<p class="lede"><span data-en="11,530 named streets in 344 districts across seven emirates, as mapped in OpenStreetMap. Numbered names (“12A Street”) are excluded by choice." data-ar="١١٬٥٣٠ شارعاً مسمّى في ٣٤٤ حياً في سبع إمارات، كما هي مرسومة في OpenStreetMap. الأسماء الرقمية («شارع 12A») مستثناة عمداً.">11,530 named streets in 344 districts across seven emirates, as mapped in OpenStreetMap. Numbered names (“12A Street”) are excluded by choice.</span></p>
 <form class="searchbox" action="search.html" method="get">
-  <input type="search" name="q" placeholder="Search a street — English or Arabic" aria-label="Search streets">
-  <button type="submit">Search</button>
+  <input type="search" name="q" data-placeholder-en="Search a street — English or Arabic" data-placeholder-ar="ابحث عن شارع — بالعربية أو الإنجليزية" placeholder="Search a street — English or Arabic" aria-label="Search streets">
+  <button type="submit"><span data-en="Search" data-ar="بحث">Search</span></button>
 </form>
 <ul class="list">
-  <li><a href="abu-dhabi/index.html"><span>Abu Dhabi</span><span class="count">8,967 streets</span></a></li>
-  <li><a href="dubai/index.html"><span>Dubai</span><span class="count">934 streets</span></a></li>
-  <li><a href="sharjah/index.html"><span>Sharjah</span><span class="count">881 streets</span></a></li>
-  <li><a href="umm-al-quwain/index.html"><span>Umm Al Quwain</span><span class="count">466 streets</span></a></li>
-  <li><a href="ajman/index.html"><span>Ajman</span><span class="count">111 streets</span></a></li>
-  <li><a href="ras-al-khaimah/index.html"><span>Ras Al Khaimah</span><span class="count">92 streets</span></a></li>
-  <li><a href="fujairah/index.html"><span>Fujairah</span><span class="count">79 streets</span></a></li>
+  <li><a href="abu-dhabi/index.html"><span><span data-en="Abu Dhabi" data-ar="أبو ظبي">Abu Dhabi</span></span><span class="count"><span data-en="8,967 streets" data-ar="٨٬٩٦٧ شارع">8,967 streets</span></span></a></li>
+  <li><a href="dubai/index.html"><span><span data-en="Dubai" data-ar="دبي">Dubai</span></span><span class="count"><span data-en="934 streets" data-ar="٩٣٤ شارع">934 streets</span></span></a></li>
+  <li><a href="sharjah/index.html"><span><span data-en="Sharjah" data-ar="الشارقة">Sharjah</span></span><span class="count"><span data-en="881 streets" data-ar="٨٨١ شارع">881 streets</span></span></a></li>
+  <li><a href="umm-al-quwain/index.html"><span><span data-en="Umm Al Quwain" data-ar="أم القيوين">Umm Al Quwain</span></span><span class="count"><span data-en="466 streets" data-ar="٤٦٦ شارع">466 streets</span></span></a></li>
+  <li><a href="ajman/index.html"><span><span data-en="Ajman" data-ar="عجمان">Ajman</span></span><span class="count"><span data-en="111 streets" data-ar="١١١ شارع">111 streets</span></span></a></li>
+  <li><a href="ras-al-khaimah/index.html"><span><span data-en="Ras Al Khaimah" data-ar="رأس الخيمة">Ras Al Khaimah</span></span><span class="count"><span data-en="92 streets" data-ar="٩٢ شارع">92 streets</span></span></a></li>
+  <li><a href="fujairah/index.html"><span><span data-en="Fujairah" data-ar="الفجيرة">Fujairah</span></span><span class="count"><span data-en="79 streets" data-ar="٧٩ شارع">79 streets</span></span></a></li>
 </ul>
-<p class="note">This directory is generated from <code>data/kb.js</code>. It is a listing, not a history:
-the curated entries with the stories behind the names live on the <a href="../index.html">main site</a>.</p>
+<p class="note"><span data-en="This directory is generated from" data-ar="هذا الدليل مُولَّد من">This directory is generated from</span>
+<code>data/kb.js</code><span data-en=". It is a listing, not a history: the curated entries with the stories behind the names live on the" data-ar=": قائمة لا تاريخ. المقالات المشروحة التي تحكي قصة الأسماء على">. It is a listing, not a history: the curated entries with the stories behind the names live on the</span> <a href="../index.html"><span data-en="main site" data-ar="الموقع الرئيسي">main site</span></a>.</p>
 <footer>
-  Street names and coordinates &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL 1.0.
-  Collected 2026-10-22 &middot; 11,530 streets.
+  <span data-en="Street names and coordinates" data-ar="أسماء الشوارع والإحداثيات">Street names and coordinates</span> &copy;
+  <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>,
+  <span data-en="ODbL 1.0" data-ar="رخصة ODbL 1.0">ODbL 1.0</span>.
+  <span data-en="Collected 2026-10-22 · 11,530 streets." data-ar="جُمعت في 2026-10-22 · ١١٬٥٣٠ شارع.">Collected 2026-10-22 · 11,530 streets.</span>
 </footer>
 </div>
+<script>
+(function () {
+  var KEY = "directory-lang";
+  var q = new URLSearchParams(location.search).get("lang");
+  function stored() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  var lang = q || stored() || (document.documentElement.lang === "ar" ? "ar" : "en");
+
+  function apply(l) {
+    var ar = l === "ar";
+    document.documentElement.lang = ar ? "ar" : "en";
+    document.documentElement.dir = ar ? "rtl" : "ltr";
+    document.querySelectorAll("[data-en]").forEach(function (el) {
+      var v = el.getAttribute(ar ? "data-ar" : "data-en");
+      if (v !== null) el.textContent = v;
+    });
+    document.querySelectorAll("[data-placeholder-en]").forEach(function (el) {
+      el.placeholder = el.getAttribute(ar ? "data-placeholder-ar" : "data-placeholder-en");
+    });
+    var t = document.documentElement.getAttribute(ar ? "data-title-ar" : "data-title-en");
+    if (t) document.title = t;
+    var b = document.getElementById("lang");
+    if (b) b.textContent = ar ? "English" : "العربية";
+    try { localStorage.setItem(KEY, l); } catch (e) {}
+  }
+
+  var btn = document.getElementById("lang");
+  if (btn) btn.addEventListener("click", function () {
+    apply(document.documentElement.lang === "ar" ? "en" : "ar");
+  });
+  apply(lang);
+})();
+</script>
 </body>
 </html>

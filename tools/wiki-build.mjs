@@ -5,8 +5,12 @@
  *   directory/index.html                      emirates
  *   directory/<emirate>/index.html            districts in that emirate
  *   directory/<emirate>/<area>.html           the street table
+ *   directory/search.html + search-index.js   search
  *
- * Plain HTML, no JavaScript, no build step beyond this script.
+ * Bilingual: every piece of chrome carries data-en/data-ar and the toggle swaps
+ * it, flips the document to RTL, and remembers the choice. Street names are
+ * already bilingual in the data, so they are not duplicated here.
+ *
  * Data © OpenStreetMap contributors, ODbL 1.0.
  */
 
@@ -21,9 +25,16 @@ new Function("window", readFileSync(root + "data/kb.js", "utf8"))(sandbox);
 const KB = sandbox.KB;
 
 const esc = (s) =>
-  String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
-const EMIRATE_LABEL = {
+/* Arabic-Indic digits in Arabic mode, Western digits in English. */
+const fmt = (n, lang) => Number(n).toLocaleString(lang === "ar" ? "ar-EG" : "en");
+
+/* One bilingual string: renders English, swaps to Arabic on toggle. */
+const bi = (en, ar) =>
+  `<span data-en="${esc(en)}" data-ar="${esc(ar)}">${esc(en)}</span>`;
+
+const EMIRATE_EN = {
   "abu-dhabi": "Abu Dhabi",
   dubai: "Dubai",
   sharjah: "Sharjah",
@@ -32,14 +43,27 @@ const EMIRATE_LABEL = {
   "ras-al-khaimah": "Ras Al Khaimah",
   fujairah: "Fujairah",
 };
+const EMIRATE_AR = {
+  "abu-dhabi": "أبو ظبي",
+  dubai: "دبي",
+  sharjah: "الشارقة",
+  ajman: "عجمان",
+  "umm-al-quwain": "أم القيوين",
+  "ras-al-khaimah": "رأس الخيمة",
+  fujairah: "الفجيرة",
+};
+const emEn = (id) => EMIRATE_EN[id] || id;
+const emAr = (id) => EMIRATE_AR[id] || EMIRATE_EN[id] || id;
 
 const css = `
 :root{--paper:#faf5ec;--card:#fffdf8;--ink:#211b14;--ink2:#4c4337;--ink3:#7d7263;--line:#e6dac6;--accent:#a94f22}
 *{box-sizing:border-box}
 body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 "Inter",system-ui,-apple-system,"Segoe UI",sans-serif}
+html[lang="ar"] body{font-family:"Noto Naskh Arabic",Georgia,serif;line-height:1.9}
 .wrap{width:min(100% - 2.5rem,940px);margin-inline:auto;padding-block:2rem 3rem}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 h1{font-family:Georgia,serif;font-size:clamp(1.5rem,3vw,2.1rem);margin:.2rem 0 .4rem;letter-spacing:-.01em;line-height:1.2}
+html[lang="ar"] h1{letter-spacing:0}
 .crumb{font-size:.78rem;color:var(--ink3);margin-bottom:.6rem}
 .crumb a{color:var(--ink3)}
 .lede{color:var(--ink2);max-width:60ch;margin:0 0 1.6rem}
@@ -48,7 +72,7 @@ ul.list a{display:flex;justify-content:space-between;gap:1rem;padding:.55rem .8r
 ul.list a:hover{border-color:var(--ink3);text-decoration:none}
 .count{color:var(--ink3);font-variant-numeric:tabular-nums;font-size:.85rem}
 table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden}
-th,td{text-align:left;padding:.5rem .8rem;border-bottom:1px solid var(--line);font-size:.92rem;vertical-align:top}
+th,td{text-align:start;padding:.5rem .8rem;border-bottom:1px solid var(--line);font-size:.92rem;vertical-align:top}
 th{font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);font-weight:600}
 tr:last-child td{border-bottom:0}
 td.ar{direction:rtl;text-align:right;font-size:1.05rem;min-width:12rem}
@@ -59,26 +83,69 @@ td.kind{color:var(--ink3);font-size:.8rem;white-space:nowrap}
 ul.list small.where{color:var(--ink3)}
 .note{margin-top:2rem;padding:.9rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);font-size:.8rem;color:var(--ink3)}
 footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid var(--line);padding-top:1rem}
+.langbtn{position:fixed;top:.8rem;inset-inline-end:1rem;z-index:20;font:inherit;font-size:.78rem;padding:.35rem .8rem;border:1px solid var(--line);border-radius:99px;background:var(--card);color:var(--ink);cursor:pointer}
+.langbtn:hover{border-color:var(--ink3)}
 `;
 
-function page(title, body, depth) {
+const SCRIPT = `
+(function () {
+  var KEY = "directory-lang";
+  var q = new URLSearchParams(location.search).get("lang");
+  function stored() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  var lang = q || stored() || (document.documentElement.lang === "ar" ? "ar" : "en");
+
+  function apply(l) {
+    var ar = l === "ar";
+    document.documentElement.lang = ar ? "ar" : "en";
+    document.documentElement.dir = ar ? "rtl" : "ltr";
+    document.querySelectorAll("[data-en]").forEach(function (el) {
+      var v = el.getAttribute(ar ? "data-ar" : "data-en");
+      if (v !== null) el.textContent = v;
+    });
+    document.querySelectorAll("[data-placeholder-en]").forEach(function (el) {
+      el.placeholder = el.getAttribute(ar ? "data-placeholder-ar" : "data-placeholder-en");
+    });
+    var t = document.documentElement.getAttribute(ar ? "data-title-ar" : "data-title-en");
+    if (t) document.title = t;
+    var b = document.getElementById("lang");
+    if (b) b.textContent = ar ? "English" : "العربية";
+    try { localStorage.setItem(KEY, l); } catch (e) {}
+  }
+
+  var btn = document.getElementById("lang");
+  if (btn) btn.addEventListener("click", function () {
+    apply(document.documentElement.lang === "ar" ? "en" : "ar");
+  });
+  apply(lang);
+})();
+`;
+
+function page(titleEn, titleAr, body, depth) {
   const up = "../".repeat(depth);
   return `<!doctype html>
-<html lang="en">
+<html lang="en" dir="ltr" data-title-en="${esc(titleEn)}" data-title-ar="${esc(titleAr)}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${esc(title)}</title>
+<title>${esc(titleEn)}</title>
+<script>try{var p=new URLSearchParams(location.search).get("lang");var s=null;try{s=localStorage.getItem("directory-lang");}catch(e){}if((p||s)==="ar"){document.documentElement.lang="ar";document.documentElement.dir="rtl";}}catch(e){}</script>
 <link rel="stylesheet" href="${up}style.css">
 </head>
 <body>
+<button class="langbtn" id="lang" type="button">العربية</button>
 <div class="wrap">
 ${body}
 <footer>
-  Street names and coordinates &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL 1.0.
-  Collected ${new Date().toISOString().slice(0, 10)} &middot; ${KB.streets.length.toLocaleString("en")} streets.
+  ${bi("Street names and coordinates", "أسماء الشوارع والإحداثيات")} &copy;
+  <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>,
+  ${bi("ODbL 1.0", "رخصة ODbL 1.0")}.
+  ${bi(
+    `Collected ${new Date().toISOString().slice(0, 10)} · ${fmt(KB.streets.length, "en")} streets.`,
+    `جُمعت في ${new Date().toISOString().slice(0, 10)} · ${fmt(KB.streets.length, "ar")} شارع.`
+  )}
 </footer>
 </div>
+<script>${SCRIPT}</script>
 </body>
 </html>`;
 }
@@ -96,23 +163,35 @@ for (const s of KB.streets) {
 const emirates = [...byEmirate.entries()].sort((a, b) => b[1].length - a[1].length);
 
 const indexBody = `
-<h1>Streets of the United Arab Emirates</h1>
-<p class="lede">${KB.streets.length.toLocaleString("en")} named streets in ${KB.areas.length} districts across seven emirates,
-as mapped in OpenStreetMap. Numbered names (&ldquo;12A Street&rdquo;) are excluded by choice.</p>
+<h1>${bi("Streets of the United Arab Emirates", "شوارع الإمارات العربية المتحدة")}</h1>
+<p class="lede">${bi(
+  `${fmt(KB.streets.length, "en")} named streets in ${fmt(KB.areas.length, "en")} districts across seven emirates, as mapped in OpenStreetMap. Numbered names (“12A Street”) are excluded by choice.`,
+  `${fmt(KB.streets.length, "ar")} شارعاً مسمّى في ${fmt(KB.areas.length, "ar")} حياً في سبع إمارات، كما هي مرسومة في OpenStreetMap. الأسماء الرقمية («شارع 12A») مستثناة عمداً.`
+)}</p>
 <form class="searchbox" action="search.html" method="get">
-  <input type="search" name="q" placeholder="Search a street — English or Arabic" aria-label="Search streets">
-  <button type="submit">Search</button>
+  <input type="search" name="q" data-placeholder-en="Search a street — English or Arabic" data-placeholder-ar="ابحث عن شارع — بالعربية أو الإنجليزية" placeholder="Search a street — English or Arabic" aria-label="Search streets">
+  <button type="submit">${bi("Search", "بحث")}</button>
 </form>
 <ul class="list">
 ${emirates
   .map(
-    ([id, rows]) => `  <li><a href="${esc(id)}/index.html"><span>${esc(EMIRATE_LABEL[id] || id)}</span><span class="count">${rows.length.toLocaleString("en")} streets</span></a></li>`
+    ([id, rows]) =>
+      `  <li><a href="${esc(id)}/index.html"><span>${bi(emEn(id), emAr(id))}</span><span class="count">${bi(
+        `${fmt(rows.length, "en")} streets`,
+        `${fmt(rows.length, "ar")} شارع`
+      )}</span></a></li>`
   )
   .join("\n")}
 </ul>
-<p class="note">This directory is generated from <code>data/kb.js</code>. It is a listing, not a history:
-the curated entries with the stories behind the names live on the <a href="../index.html">main site</a>.</p>`;
-writeFileSync(out + "/index.html", page("Streets of the UAE", indexBody, 0));
+<p class="note">${bi("This directory is generated from", "هذا الدليل مُولَّد من")}
+<code>data/kb.js</code>${bi(
+  ". It is a listing, not a history: the curated entries with the stories behind the names live on the",
+  ": قائمة لا تاريخ. المقالات المشروحة التي تحكي قصة الأسماء على"
+)} <a href="../index.html">${bi("main site", "الموقع الرئيسي")}</a>.</p>`;
+writeFileSync(
+  out + "/index.html",
+  page("Streets of the UAE", "شوارع الإمارات العربية المتحدة", indexBody, 0)
+);
 
 /* ---------- one page per emirate, one per district ---------- */
 let pages = 0;
@@ -121,62 +200,93 @@ for (const [em, rows] of emirates) {
   const areas = KB.areas.filter((a) => a.path[0] && rows.some((r) => r.area === a.id));
   const noDistrict = rows.filter((r) => !r.area);
   const emRec = KB.emirates.find((e) => e.id === em) || {};
-  // Say why a page is thin, with the number, instead of leaving the reader to guess.
-  // Say why a page is thin, with the number, instead of leaving the reader to guess.
+
+  /* Say why a page is short, with the number, where numbering dominates. */
   const numericNote =
     emRec.numeric_skipped && emRec.numeric_skipped / emRec.roads_total >= 0.2
-      ? `<p class="note">OpenStreetMap names ${emRec.roads_total.toLocaleString("en")} roads in ${esc(EMIRATE_LABEL[em] || em)}. ${emRec.numeric_skipped.toLocaleString("en")} of them — ${Math.round((100 * emRec.numeric_skipped) / emRec.roads_total)}% — are plot numbers such as &ldquo;12A Street&rdquo;, excluded by design. The ${rows.length.toLocaleString("en")} below are the ones that carry a name.</p>`
+      ? `<p class="note">${bi(
+          `OpenStreetMap names ${fmt(emRec.roads_total, "en")} roads in ${emEn(em)}. ${fmt(emRec.numeric_skipped, "en")} of them — ${Math.round((100 * emRec.numeric_skipped) / emRec.roads_total)}% — are plot numbers such as “12A Street”, excluded by design. The ${fmt(rows.length, "en")} below are the ones that carry a name.`,
+          `يرسم OpenStreetMap ${fmt(emRec.roads_total, "ar")} طريقاً في ${emAr(em)}. منها ${fmt(emRec.numeric_skipped, "ar")} — ${Math.round((100 * emRec.numeric_skipped) / emRec.roads_total)}٪ — أرقام قطع مثل «شارع 12A»، مستثناة عمداً. الشوارع الـ${fmt(rows.length, "ar")} أدناه هي التي تحمل اسماً.`
+        )}</p>`
       : "";
 
+  const ledeEn =
+    `${fmt(rows.length, "en")} streets` +
+    (areas.length ? ` in ${fmt(areas.length, "en")} districts` : "") +
+    (noDistrict.length ? `, plus ${fmt(noDistrict.length, "en")} without a district boundary` : "") +
+    ".";
+  const ledeAr =
+    `${fmt(rows.length, "ar")} شارعاً` +
+    (areas.length ? ` في ${fmt(areas.length, "ar")} حياً` : "") +
+    (noDistrict.length ? `، إضافة إلى ${fmt(noDistrict.length, "ar")} بلا حدود حي` : "") +
+    ".";
+
   const body = `
-<p class="crumb"><a href="../index.html">United Arab Emirates</a> &rsaquo; ${esc(EMIRATE_LABEL[em] || em)}</p>
-<h1>${esc(EMIRATE_LABEL[em] || em)}</h1>
+<p class="crumb"><a href="../index.html">${bi("United Arab Emirates", "الإمارات العربية المتحدة")}</a> &rsaquo; ${bi(
+    emEn(em),
+    emAr(em)
+  )}</p>
+<h1>${bi(emEn(em), emAr(em))}</h1>
 <form class="searchbox" action="../search.html" method="get">
-  <input type="search" name="q" placeholder="Search a street — English or Arabic" aria-label="Search streets">
-  <button type="submit">Search</button>
+  <input type="search" name="q" data-placeholder-en="Search a street — English or Arabic" data-placeholder-ar="ابحث عن شارع — بالعربية أو الإنجليزية" placeholder="Search a street — English or Arabic" aria-label="Search streets">
+  <button type="submit">${bi("Search", "بحث")}</button>
 </form>
-<p class="lede">${rows.length.toLocaleString("en")} streets${areas.length ? ` in ${areas.length} districts` : ""}${noDistrict.length ? `, plus ${noDistrict.length.toLocaleString("en")} without a district boundary` : ""}.</p>
+<p class="lede">${bi(ledeEn, ledeAr)}</p>
 ${numericNote}
 <ul class="list">
 ${areas
   .map((a) => {
     const n = rows.filter((r) => r.area === a.id).length;
     const file = a.id.replace(/[^\w-]/g, "_");
-    return `  <li><a href="${esc(file)}.html"><span>${esc(a.path[3])}</span><span class="count">${n.toLocaleString("en")}</span></a></li>`;
+    return `  <li><a href="${esc(file)}.html"><span>${bi(a.path[3], a.name_ar || a.path[3])}</span><span class="count">${fmt(n, "en")}</span></a></li>`;
   })
   .join("\n")}
-${noDistrict.length ? `  <li><a href="_no-district.html"><span><em>No district boundary</em></span><span class="count">${noDistrict.length.toLocaleString("en")}</span></a></li>` : ""}
+${
+  noDistrict.length
+    ? `  <li><a href="_no-district.html"><span><em>${bi("No district boundary", "بلا حدود حي")}</em></span><span class="count">${fmt(noDistrict.length, "en")}</span></a></li>`
+    : ""
+}
 </ul>`;
-  writeFileSync(out + "/" + em + "/index.html", page(`${EMIRATE_LABEL[em] || em} — streets`, body, 1));
+  writeFileSync(out + "/" + em + "/index.html", page(`${emEn(em)} — streets`, `${emAr(em)} — الشوارع`, body, 1));
   pages++;
 
   const groups = [
     ...areas.map((a) => ({ area: a, rows: rows.filter((r) => r.area === a.id) })),
-    ...(noDistrict.length ? [{ area: { id: "_no-district", path: [EMIRATE_LABEL[em] || em, "", "", "No district boundary"] }, rows: noDistrict }] : []),
+    ...(noDistrict.length
+      ? [{ area: { id: "_no-district", path: [emEn(em), "", "", "No district boundary"], name_ar: "بلا حدود حي" }, rows: noDistrict }]
+      : []),
   ];
 
   for (const g of groups) {
     const file = g.area.id.replace(/[^\w-]/g, "_") + ".html";
-    const crumb = [EMIRATE_LABEL[em] || em, ...g.area.path.slice(1, 4)].filter(Boolean).join(" » ");
+    const areaEn = g.area.path[3];
+    const areaAr = g.area.name_ar || areaEn;
     const list = g.rows
       .slice()
-      .sort((a, b) => a.name_en.localeCompare(b.name_en))
+      .sort((a, b) => (a.name_en || a.name_ar).localeCompare(b.name_en || b.name_ar))
       .map(
-        (s) => `    <tr><td>${esc(s.name_en || s.name_ar)}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
+        (s) =>
+          `    <tr><td>${esc(s.name_en || s.name_ar)}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
       )
       .join("\n");
 
     const b = `
-<p class="crumb"><a href="../../index.html">United Arab Emirates</a> &rsaquo; <a href="../index.html">${esc(EMIRATE_LABEL[em] || em)}</a> &rsaquo; ${esc(g.area.path[3])}</p>
-<h1>${esc(g.area.path[3])}</h1>
-<p class="lede">${g.rows.length.toLocaleString("en")} streets in ${esc(g.area.path[1])}</p>
+<p class="crumb"><a href="../../index.html">${bi("United Arab Emirates", "الإمارات العربية المتحدة")}</a> &rsaquo; <a href="../index.html">${bi(
+      emEn(em),
+      emAr(em)
+    )}</a> &rsaquo; ${bi(areaEn, areaAr)}</p>
+<h1>${bi(areaEn, areaAr)}</h1>
+<p class="lede">${bi(
+      `${fmt(g.rows.length, "en")} streets in ${emEn(em)}`,
+      `${fmt(g.rows.length, "ar")} شارعاً في ${emAr(em)}`
+    )}</p>
 <table>
-  <thead><tr><th>Street</th><th>Arabic</th><th>Type</th></tr></thead>
+  <thead><tr><th>${bi("Street", "الشارع")}</th><th>${bi("Arabic", "بالعربية")}</th><th>${bi("Type", "النوع")}</th></tr></thead>
   <tbody>
 ${list}
   </tbody>
 </table>`;
-    writeFileSync(out + "/" + em + "/" + file, page(`${g.area.path[3]} — streets`, b, 1));
+    writeFileSync(out + "/" + em + "/" + file, page(`${areaEn} — streets`, `${areaAr} — الشوارع`, b, 1));
     pages++;
   }
 }
@@ -186,9 +296,9 @@ const areaById = new Map(KB.areas.map((a) => [a.id, a]));
 const areaTable = {};
 const searchIndex = KB.streets.map((s) => {
   const a = areaById.get(s.area);
-  const file = (s.area ? s.area.replace(/[^\w-]/g, "_") : "_no-district");
+  const file = s.area ? s.area.replace(/[^\w-]/g, "_") : "_no-district";
   if (!areaTable[file]) {
-    areaTable[file] = [s.emirate, (a && a.path[3]) || "", EMIRATE_LABEL[s.emirate] || s.emirate];
+    areaTable[file] = [s.emirate, (a && a.path[3]) || "", (a && a.name_ar) || "", EMIRATE_EN[s.emirate] || s.emirate, EMIRATE_AR[s.emirate] || s.emirate];
   }
   return [s.name_en || s.name_ar, s.name_ar || "", file];
 });
@@ -199,5 +309,5 @@ writeFileSync(
 );
 writeFileSync(out + "/search.html", readFileSync(root + "tools/templates/search.html", "utf8"));
 console.log(`search : ${searchIndex.length} entries, ${Math.round(readFileSync(out + "/search-index.js").length / 1024)} KB`);
-console.log(`pages: ${pages + 1} (${emirates.length} emirates, ${KB.areas.length} districts)`);
-console.log(`out  : directory/ (${Math.round(readFileSync(out + "/index.html").length / 1024)} KB index)`);
+console.log(`pages  : ${pages + 1} (${emirates.length} emirates, ${KB.areas.length} districts)`);
+console.log(`out    : directory/`);

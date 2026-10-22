@@ -94,6 +94,8 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
       cannot be invented downstream.
 - [x] **Naming convention** — followed the OSM UAE wiki (`name` is Arabic);
       removed 42 rows that had Arabic text in the English field.
+- [x] **Bilingual directory** — every page has an EN/AR toggle, RTL layout, Arabic
+      district names and Arabic-Indic numerals.
 - [ ] **Fold `data/index.js` into `data/kb.js`** so there is one facts file.
 - [x] **All seven emirates** — country-wide import + boundary assignment. Note the
       consequence of the numeric rule: Dubai keeps only 934 named streets out of 23,960

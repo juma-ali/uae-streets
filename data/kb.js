@@ -78,6 +78,7 @@ window.KB = {
         "Abu Dhabi",
         "Abu Al Abyad Island"
       ],
+      "name_ar": "جزيرة أبو الأبيض",
       "osm": "relation/13251471",
       "bbox": [
         24.093496,
@@ -95,6 +96,7 @@ window.KB = {
         "Abu Dhabi",
         "Abu Dhabi Industrial City"
       ],
+      "name_ar": "مَدينة أبوظبي الصناعية",
       "osm": "relation/13251451",
       "bbox": [
         24.213135,
@@ -112,6 +114,7 @@ window.KB = {
         "Abu Dhabi",
         "Al 'Adlah"
       ],
+      "name_ar": "العَدلَة",
       "osm": "relation/13251371",
       "bbox": [
         24.356215,
@@ -129,6 +132,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Bahyah"
       ],
+      "name_ar": "البَاهية",
       "osm": "relation/13251343",
       "bbox": [
         24.484913,
@@ -146,6 +150,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Bateen"
       ],
+      "name_ar": "البطين",
       "osm": "relation/13251348",
       "bbox": [
         24.425792,
@@ -163,6 +168,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Bihouth"
       ],
+      "name_ar": "البِحوث",
       "osm": "relation/13251461",
       "bbox": [
         24.087372,
@@ -180,6 +186,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Danah"
       ],
+      "name_ar": "الدَّانَةْ",
       "osm": "relation/13251311",
       "bbox": [
         24.470191,
@@ -197,6 +204,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Falah"
       ],
+      "name_ar": "الفلاح",
       "osm": "relation/13251359",
       "bbox": [
         24.40953,
@@ -214,6 +222,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Haffar"
       ],
+      "name_ar": "الحَفَّار",
       "osm": "relation/13251365",
       "bbox": [
         24.206198,
@@ -231,6 +240,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Hidayriyyat"
       ],
+      "name_ar": "الحِدَيريات",
       "osm": "relation/13251452",
       "bbox": [
         24.283111,
@@ -248,6 +258,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Hisn"
       ],
+      "name_ar": "الحِصِن",
       "osm": "relation/13251312",
       "bbox": [
         24.471472,
@@ -265,6 +276,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Kasir"
       ],
+      "name_ar": "الكَاسِر",
       "osm": "relation/13251349",
       "bbox": [
         24.470122,
@@ -282,6 +294,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Khalidiyah"
       ],
+      "name_ar": "الخَالِدية",
       "osm": "relation/13251313",
       "bbox": [
         24.456551,
@@ -299,6 +312,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Khatm"
       ],
+      "name_ar": "الخَتْم",
       "osm": "relation/13251367",
       "bbox": [
         24.155719,
@@ -316,6 +330,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Kheeran"
       ],
+      "name_ar": "الخِيران",
       "osm": "relation/13251319",
       "bbox": [
         24.419254,
@@ -333,6 +348,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Layyan"
       ],
+      "name_ar": "اللَّيان",
       "osm": "relation/13251382",
       "bbox": [
         24.658188,
@@ -350,6 +366,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Ma'mourah"
       ],
+      "name_ar": "المَعْمُورَة",
       "osm": "relation/13251377",
       "bbox": [
         24.695416,
@@ -367,6 +384,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Manhal"
       ],
+      "name_ar": "المَنهَل",
       "osm": "relation/13251314",
       "bbox": [
         24.445131,
@@ -384,6 +402,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Maryah Island"
       ],
+      "name_ar": "جزيرة المارية",
       "osm": "relation/13251307",
       "bbox": [
         24.489834,
@@ -401,6 +420,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Matar"
       ],
+      "name_ar": "المطار",
       "osm": "relation/13251356",
       "bbox": [
         24.407305,
@@ -418,6 +438,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Mi'rad"
       ],
+      "name_ar": "المِعْرَاض",
       "osm": "relation/13251362",
       "bbox": [
         24.338627,
@@ -435,6 +456,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Muntazah"
       ],
+      "name_ar": "المُنتَزه",
       "osm": "relation/13251318",
       "bbox": [
         24.416362,
@@ -452,6 +474,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Mushrif"
       ],
+      "name_ar": "المُشرِف",
       "osm": "relation/13251315",
       "bbox": [
         24.424504,
@@ -469,6 +492,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Muzoun"
       ],
+      "name_ar": "المُزُون",
       "osm": "relation/13251346",
       "bbox": [
         24.39313,
@@ -486,6 +510,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Nahdah"
       ],
+      "name_ar": "النَّهضة",
       "osm": "relation/13251364",
       "bbox": [
         24.238462,
@@ -503,6 +528,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Nahyan"
       ],
+      "name_ar": "آل نَهيان",
       "osm": "relation/13251310",
       "bbox": [
         24.447093,
@@ -520,6 +546,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Qurm"
       ],
+      "name_ar": "القُرْم",
       "osm": "relation/13251347",
       "bbox": [
         24.409662,
@@ -537,6 +564,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Rahah"
       ],
+      "name_ar": "الراحة",
       "osm": "relation/13251330",
       "bbox": [
         24.422854,
@@ -554,6 +582,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Rahbah"
       ],
+      "name_ar": "الرَّحبة",
       "osm": "relation/13251352",
       "bbox": [
         24.563966,
@@ -571,6 +600,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Ras Al Akhdar"
       ],
+      "name_ar": "الرأس الأخضر",
       "osm": "relation/13251453",
       "bbox": [
         24.448557,
@@ -588,6 +618,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Rawdah"
       ],
+      "name_ar": "الروضة",
       "osm": "relation/13251344",
       "bbox": [
         24.40338,
@@ -605,6 +636,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Reef"
       ],
+      "name_ar": "الريف",
       "osm": "relation/13251354",
       "bbox": [
         24.447257,
@@ -622,6 +654,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Reem Island"
       ],
+      "name_ar": "جَزِيرَة الرِّيم",
       "osm": "relation/13251308",
       "bbox": [
         24.470788,
@@ -639,6 +672,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Sa'adah"
       ],
+      "name_ar": "السَّعادة",
       "osm": "relation/13251317",
       "bbox": [
         24.426213,
@@ -656,6 +690,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Saadiyat Island"
       ],
+      "name_ar": "جزيرة السعديات",
       "osm": "relation/13251326",
       "bbox": [
         24.488685,
@@ -673,6 +708,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Sader"
       ],
+      "name_ar": "الصَّدر",
       "osm": "relation/13251342",
       "bbox": [
         24.57651,
@@ -690,6 +726,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Samhah"
       ],
+      "name_ar": "السَّمْحة",
       "osm": "relation/13251374",
       "bbox": [
         24.620906,
@@ -707,6 +744,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Shahamah"
       ],
+      "name_ar": "الشهامة",
       "osm": "relation/13251353",
       "bbox": [
         24.464071,
@@ -724,6 +762,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Shamkhah"
       ],
+      "name_ar": "الشَّامْخَة",
       "osm": "relation/13251360",
       "bbox": [
         24.337277,
@@ -741,6 +780,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Shawamekh"
       ],
+      "name_ar": "الشَّوامخ",
       "osm": "relation/13251361",
       "bbox": [
         24.303073,
@@ -758,6 +798,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Shinayin"
       ],
+      "name_ar": "الشِّنَايِن",
       "osm": "relation/13251468",
       "bbox": [
         23.667871,
@@ -775,6 +816,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Taweelah"
       ],
+      "name_ar": "الطَّوِيلَة",
       "osm": "relation/13251376",
       "bbox": [
         24.683229,
@@ -792,6 +834,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Wathbah"
       ],
+      "name_ar": "الوَثْبَة",
       "osm": "relation/13251460",
       "bbox": [
         24.135028,
@@ -809,6 +852,7 @@ window.KB = {
         "Abu Dhabi",
         "Al Zahiyah"
       ],
+      "name_ar": "الزَّاهية",
       "osm": "relation/13251306",
       "bbox": [
         24.48045,
@@ -826,6 +870,7 @@ window.KB = {
         "Abu Dhabi",
         "Bani Yas"
       ],
+      "name_ar": "بني ياس",
       "osm": "relation/13251447",
       "bbox": [
         24.281033,
@@ -843,6 +888,7 @@ window.KB = {
         "Abu Dhabi",
         "Dihan"
       ],
+      "name_ar": "دِهان",
       "osm": "relation/13251368",
       "bbox": [
         24.180593,
@@ -860,6 +906,7 @@ window.KB = {
         "Abu Dhabi",
         "Ghantout"
       ],
+      "name_ar": "غَنْتُوت",
       "osm": "relation/13251381",
       "bbox": [
         24.844349,
@@ -877,6 +924,7 @@ window.KB = {
         "Abu Dhabi",
         "Hadbat Al Za'faranah"
       ],
+      "name_ar": "حَدْبَة الزَّعْفَرَانَة",
       "osm": "relation/13251316",
       "bbox": [
         24.432602,
@@ -894,6 +942,7 @@ window.KB = {
         "Abu Dhabi",
         "Jarn Yafour"
       ],
+      "name_ar": "جَرْن يَافُور",
       "osm": "relation/13251448",
       "bbox": [
         24.246573,
@@ -911,6 +960,7 @@ window.KB = {
         "Abu Dhabi",
         "Khalifa City"
       ],
+      "name_ar": "مدينة خليفة",
       "osm": "relation/13251355",
       "bbox": [
         24.390494,
@@ -928,6 +978,7 @@ window.KB = {
         "Abu Dhabi",
         "Madinat Al Riyad"
       ],
+      "name_ar": "مدينة الرياض",
       "osm": "relation/13251363",
       "bbox": [
         24.318651,
@@ -945,6 +996,7 @@ window.KB = {
         "Abu Dhabi",
         "Mohamed Bin Zayed City"
       ],
+      "name_ar": "مدينة محمد بن زايد",
       "osm": "relation/13251449",
       "bbox": [
         24.287897,
@@ -962,6 +1014,7 @@ window.KB = {
         "Abu Dhabi",
         "Mshayrif"
       ],
+      "name_ar": "مْشَيْرِف",
       "osm": "relation/13251462",
       "bbox": [
         23.817237,
@@ -979,6 +1032,7 @@ window.KB = {
         "Abu Dhabi",
         "Musaffah"
       ],
+      "name_ar": "مُصَفَح",
       "osm": "relation/13251450",
       "bbox": [
         24.311844,
@@ -996,6 +1050,7 @@ window.KB = {
         "Abu Dhabi",
         "Muwaylih"
       ],
+      "name_ar": "مُوَيلح",
       "osm": "relation/13251375",
       "bbox": [
         24.596587,
@@ -1013,6 +1068,7 @@ window.KB = {
         "Abu Dhabi",
         "Qasr Al Bahr"
       ],
+      "name_ar": "قَصر البَحر",
       "osm": "relation/13251309",
       "bbox": [
         24.446672,
@@ -1030,6 +1086,7 @@ window.KB = {
         "Abu Dhabi",
         "Rabdan"
       ],
+      "name_ar": "ربدان",
       "osm": "relation/13251345",
       "bbox": [
         24.390148,
@@ -1047,6 +1104,7 @@ window.KB = {
         "Abu Dhabi",
         "Rabdan"
       ],
+      "name_ar": "ربدان",
       "osm": "relation/13251350",
       "bbox": [
         24.383632,
@@ -1064,6 +1122,7 @@ window.KB = {
         "Abu Dhabi",
         "Rawdat Al Reef"
       ],
+      "name_ar": "رُوْضَة الرِّيْف",
       "osm": "relation/13251372",
       "bbox": [
         24.46062,
@@ -1081,6 +1140,7 @@ window.KB = {
         "Abu Dhabi",
         "Sas Al Nakhl"
       ],
+      "name_ar": "ساس النَّخْل",
       "osm": "relation/13251322",
       "bbox": [
         24.414474,
@@ -1098,6 +1158,7 @@ window.KB = {
         "Abu Dhabi",
         "Shakhbout City"
       ],
+      "name_ar": "مدينة شخبوط",
       "osm": "relation/13251358",
       "bbox": [
         24.308873,
@@ -1115,6 +1176,7 @@ window.KB = {
         "Abu Dhabi",
         "Yas Island"
       ],
+      "name_ar": "جزيرة ياس",
       "osm": "relation/13251334",
       "bbox": [
         24.452053,
@@ -1132,6 +1194,7 @@ window.KB = {
         "Abu Dhabi",
         "Zayed City"
       ],
+      "name_ar": "مدينة زايد",
       "osm": "relation/13251357",
       "bbox": [
         24.327965,
@@ -1149,6 +1212,7 @@ window.KB = {
         "Abu Dhabi",
         "Zayed Military City"
       ],
+      "name_ar": "مَدينة زايد العسكرية",
       "osm": "relation/13251384",
       "bbox": [
         24.4193,
@@ -1166,6 +1230,7 @@ window.KB = {
         "Abu Dhabi",
         "Zayed Port"
       ],
+      "name_ar": "ميناء زايد",
       "osm": "relation/13251325",
       "bbox": [
         24.504582,
@@ -1183,6 +1248,7 @@ window.KB = {
         "Al Ain",
         "'Asharij"
       ],
+      "name_ar": "عَشَارِج",
       "osm": "relation/13251408",
       "bbox": [
         24.185044,
@@ -1200,6 +1266,7 @@ window.KB = {
         "Al Ain",
         "Abu Samrah"
       ],
+      "name_ar": "أبو سمْرة",
       "osm": "relation/13251440",
       "bbox": [
         24.171294,
@@ -1217,6 +1284,7 @@ window.KB = {
         "Al Ain",
         "Ain Al Faydah"
       ],
+      "name_ar": "عَيْن الفَايْضَة",
       "osm": "relation/13251441",
       "bbox": [
         24.034361,
@@ -1234,6 +1302,7 @@ window.KB = {
         "Al Ain",
         "Al 'Ajban"
       ],
+      "name_ar": "العَجْبَان",
       "osm": "relation/13251429",
       "bbox": [
         24.466916,
@@ -1251,6 +1320,7 @@ window.KB = {
         "Al Ain",
         "Al 'Arad"
       ],
+      "name_ar": "العَراد",
       "osm": "relation/13251464",
       "bbox": [
         23.729251,
@@ -1268,6 +1338,7 @@ window.KB = {
         "Al Ain",
         "Al 'Iqabiyyah"
       ],
+      "name_ar": "العِقَابِيَّة",
       "osm": "relation/13251409",
       "bbox": [
         24.153206,
@@ -1285,6 +1356,7 @@ window.KB = {
         "Al Ain",
         "Al Aamerah"
       ],
+      "name_ar": "العامرة",
       "osm": "relation/13251438",
       "bbox": [
         24.164996,
@@ -1302,6 +1374,7 @@ window.KB = {
         "Al Ain",
         "Al Ain International Airport"
       ],
+      "name_ar": "مطار العين الدولي",
       "osm": "relation/13251421",
       "bbox": [
         24.23078,
@@ -1319,6 +1392,7 @@ window.KB = {
         "Al Ain",
         "Al Bateen"
       ],
+      "name_ar": "البطين",
       "osm": "relation/13251413",
       "bbox": [
         24.184296,
@@ -1336,6 +1410,7 @@ window.KB = {
         "Al Ain",
         "Al Dahma"
       ],
+      "name_ar": "الدَّهْماء",
       "osm": "relation/13251414",
       "bbox": [
         24.201806,
@@ -1353,6 +1428,7 @@ window.KB = {
         "Al Ain",
         "Al Dhahir"
       ],
+      "name_ar": "الظَّاهِر",
       "osm": "relation/13251400",
       "bbox": [
         24.064101,
@@ -1370,6 +1446,7 @@ window.KB = {
         "Al Ain",
         "Al Dhahrah"
       ],
+      "name_ar": "الظَّاهْرة",
       "osm": "relation/13251444",
       "bbox": [
         23.893569,
@@ -1387,6 +1464,7 @@ window.KB = {
         "Al Ain",
         "Al Faqa'"
       ],
+      "name_ar": "الفقع",
       "osm": "relation/13251426",
       "bbox": [
         24.58417,
@@ -1404,6 +1482,7 @@ window.KB = {
         "Al Ain",
         "Al Fou'ah"
       ],
+      "name_ar": "الفُوعَة",
       "osm": "relation/13251422",
       "bbox": [
         24.315933,
@@ -1421,6 +1500,7 @@ window.KB = {
         "Al Ain",
         "Al Hiyar"
       ],
+      "name_ar": "الهِيَر",
       "osm": "relation/13251425",
       "bbox": [
         24.464142,
@@ -1438,6 +1518,7 @@ window.KB = {
         "Al Ain",
         "Al Jahili"
       ],
+      "name_ar": "الجَاهلِي",
       "osm": "relation/13251385",
       "bbox": [
         24.203633,
@@ -1455,6 +1536,7 @@ window.KB = {
         "Al Ain",
         "Al Jimi"
       ],
+      "name_ar": "الجيمي",
       "osm": "relation/13251416",
       "bbox": [
         24.228842,
@@ -1472,6 +1554,7 @@ window.KB = {
         "Al Ain",
         "Al Khaznah"
       ],
+      "name_ar": "الخَزنة",
       "osm": "relation/13251446",
       "bbox": [
         23.981362,
@@ -1489,6 +1572,7 @@ window.KB = {
         "Al Ain",
         "Al Khibeesi"
       ],
+      "name_ar": "الخِبِيصِي",
       "osm": "relation/13251411",
       "bbox": [
         24.216989,
@@ -1506,6 +1590,7 @@ window.KB = {
         "Al Ain",
         "Al Khirayr"
       ],
+      "name_ar": "الخِرَيْر",
       "osm": "relation/13251396",
       "bbox": [
         24.110436,
@@ -1523,6 +1608,7 @@ window.KB = {
         "Al Ain",
         "Al Madeenah As Sina'iyah 3 Street"
       ],
+      "name_ar": "شارع المدينة الصناعية 3",
       "osm": "relation/13251443",
       "bbox": [
         23.97699,
@@ -1540,6 +1626,7 @@ window.KB = {
         "Al Ain",
         "Al Maqam"
       ],
+      "name_ar": "المَقَام",
       "osm": "relation/13251410",
       "bbox": [
         24.166203,
@@ -1557,6 +1644,7 @@ window.KB = {
         "Al Ain",
         "Al Markhaniyyah"
       ],
+      "name_ar": "المَرْخَانِيَّة",
       "osm": "relation/13251412",
       "bbox": [
         24.196476,
@@ -1574,6 +1662,7 @@ window.KB = {
         "Al Ain",
         "Al Mas'oudi"
       ],
+      "name_ar": "المَسْعُودِي",
       "osm": "relation/13251418",
       "bbox": [
         24.265189,
@@ -1591,6 +1680,7 @@ window.KB = {
         "Al Ain",
         "Al Mu'tarid"
       ],
+      "name_ar": "المُعْتَرِض",
       "osm": "relation/13251406",
       "bbox": [
         24.202711,
@@ -1608,6 +1698,7 @@ window.KB = {
         "Al Ain",
         "Al Mutaw'ah"
       ],
+      "name_ar": "المُطَاوْعَة",
       "osm": "relation/13251386",
       "bbox": [
         24.205159,
@@ -1625,6 +1716,7 @@ window.KB = {
         "Al Ain",
         "Al Muwaij'i"
       ],
+      "name_ar": "المُويجْعِي",
       "osm": "relation/13251407",
       "bbox": [
         24.188936,
@@ -1642,6 +1734,7 @@ window.KB = {
         "Al Ain",
         "Al Qattarah"
       ],
+      "name_ar": "القَطَّارَة",
       "osm": "relation/13251417",
       "bbox": [
         24.251734,
@@ -1659,6 +1752,7 @@ window.KB = {
         "Al Ain",
         "Al Qou'"
       ],
+      "name_ar": "القوع",
       "osm": "relation/13251495",
       "bbox": [
         23.047919,
@@ -1676,6 +1770,7 @@ window.KB = {
         "Al Ain",
         "Al Rawdah Al Sharqiyah"
       ],
+      "name_ar": "الروضة الشرقية",
       "osm": "relation/13251433",
       "bbox": [
         24.126643,
@@ -1693,6 +1788,7 @@ window.KB = {
         "Al Ain",
         "Al Ruwaydat"
       ],
+      "name_ar": "الرُّويضات",
       "osm": "relation/13251395",
       "bbox": [
         24.099062,
@@ -1710,6 +1806,7 @@ window.KB = {
         "Al Ain",
         "Al Sad"
       ],
+      "name_ar": "الساد",
       "osm": "relation/13251439",
       "bbox": [
         24.16118,
@@ -1727,6 +1824,7 @@ window.KB = {
         "Al Ain",
         "Al Salamat"
       ],
+      "name_ar": "السَّلاَمَات",
       "osm": "relation/13251437",
       "bbox": [
         24.130868,
@@ -1744,6 +1842,7 @@ window.KB = {
         "Al Ain",
         "Al Sarouj"
       ],
+      "name_ar": "الصَّارُوج",
       "osm": "relation/13251392",
       "bbox": [
         24.182984,
@@ -1761,6 +1860,7 @@ window.KB = {
         "Al Ain",
         "Al Shiwayb"
       ],
+      "name_ar": "الشِّوَيْب",
       "osm": "relation/13251427",
       "bbox": [
         24.661699,
@@ -1778,6 +1878,7 @@ window.KB = {
         "Al Ain",
         "Al Shuwaymah"
       ],
+      "name_ar": "الشُّوَيْمَة",
       "osm": "relation/13251393",
       "bbox": [
         24.170075,
@@ -1795,6 +1896,7 @@ window.KB = {
         "Al Ain",
         "Al Tiwayya"
       ],
+      "name_ar": "الطِّوَيَّة",
       "osm": "relation/13251415",
       "bbox": [
         24.233454,
@@ -1812,6 +1914,7 @@ window.KB = {
         "Al Ain",
         "Al Wiqan"
       ],
+      "name_ar": "الوِقن",
       "osm": "relation/13251465",
       "bbox": [
         23.513934,
@@ -1829,6 +1932,7 @@ window.KB = {
         "Al Ain",
         "Bad' Bint Sa'oud"
       ],
+      "name_ar": "بَدْع بِنت سَعود",
       "osm": "relation/13251423",
       "bbox": [
         24.307224,
@@ -1846,6 +1950,7 @@ window.KB = {
         "Al Ain",
         "Bu Kirayyah"
       ],
+      "name_ar": "بو كِرَيَّة",
       "osm": "relation/13251463",
       "bbox": [
         23.868668,
@@ -1863,6 +1968,7 @@ window.KB = {
         "Al Ain",
         "Central District"
       ],
+      "name_ar": "وسط المدينة",
       "osm": "relation/13251405",
       "bbox": [
         24.200424,
@@ -1880,6 +1986,7 @@ window.KB = {
         "Al Ain",
         "Falaj Hazza'"
       ],
+      "name_ar": "فَلَج هَزَّاع",
       "osm": "relation/13251391",
       "bbox": [
         24.168261,
@@ -1897,6 +2004,7 @@ window.KB = {
         "Al Ain",
         "Ghireebah"
       ],
+      "name_ar": "غِرِيْبَة",
       "osm": "relation/13251436",
       "bbox": [
         24.123218,
@@ -1914,6 +2022,7 @@ window.KB = {
         "Al Ain",
         "Ghnaymah"
       ],
+      "name_ar": "غْنَيْمَة",
       "osm": "relation/13251435",
       "bbox": [
         24.115923,
@@ -1931,6 +2040,7 @@ window.KB = {
         "Al Ain",
         "Hili"
       ],
+      "name_ar": "هِيلِي",
       "osm": "relation/13251419",
       "bbox": [
         24.262092,
@@ -1948,6 +2058,7 @@ window.KB = {
         "Al Ain",
         "Industrial Area"
       ],
+      "name_ar": "المنطقة الصناعية",
       "osm": "relation/13251387",
       "bbox": [
         24.111992,
@@ -1965,6 +2076,7 @@ window.KB = {
         "Al Ain",
         "Jabal Hafeet"
       ],
+      "name_ar": "جبل حَفيت",
       "osm": "relation/13251399",
       "bbox": [
         24.01463,
@@ -1982,6 +2094,7 @@ window.KB = {
         "Al Ain",
         "Malaqit"
       ],
+      "name_ar": "مَلاقط",
       "osm": "relation/13251397",
       "bbox": [
         24.119318,
@@ -1999,6 +2112,7 @@ window.KB = {
         "Al Ain",
         "Masakin"
       ],
+      "name_ar": "مَسَاكِن",
       "osm": "relation/13251424",
       "bbox": [
         24.366971,
@@ -2016,6 +2130,7 @@ window.KB = {
         "Al Ain",
         "Mazyad"
       ],
+      "name_ar": "مَزْيَد",
       "osm": "relation/13251401",
       "bbox": [
         24.015602,
@@ -2033,6 +2148,7 @@ window.KB = {
         "Al Ain",
         "Mbazzarah Al Khadra"
       ],
+      "name_ar": "مْبَزَّرَة الخَضْراء",
       "osm": "relation/13251398",
       "bbox": [
         24.054295,
@@ -2050,6 +2166,7 @@ window.KB = {
         "Al Ain",
         "Nahil"
       ],
+      "name_ar": "نَاهِل",
       "osm": "relation/13251428",
       "bbox": [
         24.369894,
@@ -2067,6 +2184,7 @@ window.KB = {
         "Al Ain",
         "Ni'mah"
       ],
+      "name_ar": "نِعْمة",
       "osm": "relation/13251389",
       "bbox": [
         24.099666,
@@ -2084,6 +2202,7 @@ window.KB = {
         "Al Ain",
         "Niqa Al Dheeb"
       ],
+      "name_ar": "نقا الذِّيب",
       "osm": "relation/13251431",
       "bbox": [
         24.411411,
@@ -2101,6 +2220,7 @@ window.KB = {
         "Al Ain",
         "Ramlat Sweihan"
       ],
+      "name_ar": "رملة سويحان",
       "osm": "relation/13251432",
       "bbox": [
         24.26105,
@@ -2118,6 +2238,7 @@ window.KB = {
         "Al Ain",
         "Rimah"
       ],
+      "name_ar": "رِمَاح",
       "osm": "relation/13251445",
       "bbox": [
         23.986247,
@@ -2135,6 +2256,7 @@ window.KB = {
         "Al Ain",
         "Sa'"
       ],
+      "name_ar": "صَاع",
       "osm": "relation/13251403",
       "bbox": [
         24.062487,
@@ -2152,6 +2274,7 @@ window.KB = {
         "Al Ain",
         "Shi'bat Al Wutah"
       ],
+      "name_ar": "شعبة الوُطَاه",
       "osm": "relation/13251388",
       "bbox": [
         24.104029,
@@ -2169,6 +2292,7 @@ window.KB = {
         "Al Ain",
         "Shiab Al Ashkhar"
       ],
+      "name_ar": "شعاب الأشخر",
       "osm": "relation/13251390",
       "bbox": [
         24.132528,
@@ -2186,6 +2310,7 @@ window.KB = {
         "Al Ain",
         "Sweihan"
       ],
+      "name_ar": "سوِيحَان",
       "osm": "relation/13251430",
       "bbox": [
         24.270498,
@@ -2203,6 +2328,7 @@ window.KB = {
         "Al Ain",
         "Um Al Zumoul"
       ],
+      "name_ar": "أم الزمول",
       "osm": "relation/13251496",
       "bbox": [
         22.631621,
@@ -2220,6 +2346,7 @@ window.KB = {
         "Al Ain",
         "Um Ghafah"
       ],
+      "name_ar": "أم غَافة",
       "osm": "relation/13251402",
       "bbox": [
         24.052257,
@@ -2237,6 +2364,7 @@ window.KB = {
         "Al Ain",
         "Zakhir"
       ],
+      "name_ar": "زاخِر",
       "osm": "relation/13251673",
       "bbox": [
         24.077159,
@@ -2254,6 +2382,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al 'Azeezah"
       ],
+      "name_ar": "العزيزة",
       "osm": "relation/13251493",
       "bbox": [
         23.045782,
@@ -2271,6 +2400,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Dhannah City"
       ],
+      "name_ar": "مدينة الظنة",
       "osm": "relation/13251509",
       "bbox": [
         24.096946,
@@ -2288,6 +2418,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Ghuweifat"
       ],
+      "name_ar": "الغويفات",
       "osm": "relation/13251517",
       "bbox": [
         24.074033,
@@ -2305,6 +2436,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Hadwaniyyah"
       ],
+      "name_ar": "الهدوانية",
       "osm": "relation/13251476",
       "bbox": [
         23.88512,
@@ -2322,6 +2454,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Hamra"
       ],
+      "name_ar": "الحَمْرَا",
       "osm": "relation/13251508",
       "bbox": [
         24.003903,
@@ -2339,6 +2472,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Harmiyyah"
       ],
+      "name_ar": "الهَرميَّة",
       "osm": "relation/13251472",
       "bbox": [
         24.064867,
@@ -2356,6 +2490,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Jazeerah"
       ],
+      "name_ar": "الجَزيرَة",
       "osm": "relation/13251512",
       "bbox": [
         23.028813,
@@ -2373,6 +2508,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Marfa"
       ],
+      "name_ar": "المرْفَأ",
       "osm": "relation/13251481",
       "bbox": [
         24.030345,
@@ -2390,6 +2526,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Mirayr"
       ],
+      "name_ar": "المِرَيْر",
       "osm": "relation/13251497",
       "bbox": [
         22.692784,
@@ -2407,6 +2544,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Rideem"
       ],
+      "name_ar": "الرِّدِيم",
       "osm": "relation/13251483",
       "bbox": [
         24.004267,
@@ -2424,6 +2562,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Ruways Industrial City"
       ],
+      "name_ar": "مدينة الرويس الصناعية",
       "osm": "relation/13251475",
       "bbox": [
         24.044541,
@@ -2441,6 +2580,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Shuweehat"
       ],
+      "name_ar": "الشُّوِيهَات",
       "osm": "relation/13251510",
       "bbox": [
         24.040759,
@@ -2458,6 +2598,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Sila'"
       ],
+      "name_ar": "السِّلَع",
       "osm": "relation/13251518",
       "bbox": [
         24.000901,
@@ -2475,6 +2616,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Taf Al Gharbi"
       ],
+      "name_ar": "الطف الغربي",
       "osm": "relation/13251482",
       "bbox": [
         23.903632,
@@ -2492,6 +2634,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Al Wuhaydah"
       ],
+      "name_ar": "الوُهَيْدَة",
       "osm": "relation/13251516",
       "bbox": [
         23.934195,
@@ -2509,6 +2652,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Bad' Al Mutaw'ah"
       ],
+      "name_ar": "بَدْع المُطاوْعة",
       "osm": "relation/13251506",
       "bbox": [
         23.738333,
@@ -2526,6 +2670,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Barakah"
       ],
+      "name_ar": "بَرَاكَة",
       "osm": "relation/13251513",
       "bbox": [
         23.933476,
@@ -2543,6 +2688,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Bateen Liwa"
       ],
+      "name_ar": "بَطين ليوا",
       "osm": "relation/13251500",
       "bbox": [
         22.725925,
@@ -2560,6 +2706,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Bilji'an"
       ],
+      "name_ar": "بِلْجِعان",
       "osm": "relation/13251488",
       "bbox": [
         23.676084,
@@ -2577,6 +2724,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Bu Al Dhiyab"
       ],
+      "name_ar": "بو الذياب",
       "osm": "relation/13251492",
       "bbox": [
         23.029872,
@@ -2594,6 +2742,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Bu Hasa"
       ],
+      "name_ar": "بُو حَصَا",
       "osm": "relation/13251491",
       "bbox": [
         23.358932,
@@ -2611,6 +2760,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Delma"
       ],
+      "name_ar": "دلما",
       "osm": "relation/18471630",
       "bbox": [
         24.408197,
@@ -2628,6 +2778,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Eastern Mahadir"
       ],
+      "name_ar": "المحاضر الشرقية",
       "osm": "relation/13251499",
       "bbox": [
         22.93519,
@@ -2645,6 +2796,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Ghiyathi"
       ],
+      "name_ar": "غِيَّاثِي",
       "osm": "relation/13251478",
       "bbox": [
         23.660456,
@@ -2662,6 +2814,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Habshan"
       ],
+      "name_ar": "حَبْشَان",
       "osm": "relation/13251480",
       "bbox": [
         23.654923,
@@ -2679,6 +2832,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Hameem"
       ],
+      "name_ar": "حميم",
       "osm": "relation/13251498",
       "bbox": [
         22.897132,
@@ -2696,6 +2850,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Mahmiyyat Al Suqour"
       ],
+      "name_ar": "مَحْمِيَّة الصُّقُور",
       "osm": "relation/13251515",
       "bbox": [
         23.934449,
@@ -2713,6 +2868,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Mkhayriz"
       ],
+      "name_ar": "مْخَيرِز",
       "osm": "relation/13251503",
       "bbox": [
         22.875355,
@@ -2730,6 +2886,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Mzeerʻah"
       ],
+      "name_ar": "مْزِيرْعَة",
       "osm": "relation/13251501",
       "bbox": [
         22.976357,
@@ -2747,6 +2904,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Ras Mshayrib"
       ],
+      "name_ar": "رَأس مْشَيْرِب",
       "osm": "relation/13251519",
       "bbox": [
         24.193835,
@@ -2764,6 +2922,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Sabkhat Matti"
       ],
+      "name_ar": "سَبْخَة مَطِّي",
       "osm": "relation/13251514",
       "bbox": [
         23.675655,
@@ -2781,6 +2940,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Tarif"
       ],
+      "name_ar": "طَرِيف",
       "osm": "relation/13251484",
       "bbox": [
         23.928046,
@@ -2798,6 +2958,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Um Al Ashtan"
       ],
+      "name_ar": "أم الأشطان",
       "osm": "relation/13251511",
       "bbox": [
         23.698832,
@@ -2815,6 +2976,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Um Laylah"
       ],
+      "name_ar": "أم ليله",
       "osm": "relation/13251486",
       "bbox": [
         23.735353,
@@ -2832,6 +2994,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Western Mahadir"
       ],
+      "name_ar": "المحاضر الغربية",
       "osm": "relation/13251502",
       "bbox": [
         22.848352,
@@ -2849,6 +3012,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Yaw Al Nadhrah"
       ],
+      "name_ar": "يَوْ النَّظْرَة",
       "osm": "relation/13251505",
       "bbox": [
         23.264913,
@@ -2866,6 +3030,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Zayed City"
       ],
+      "name_ar": "مدينة زايد",
       "osm": "relation/13251490",
       "bbox": [
         23.385578,
@@ -2883,6 +3048,7 @@ window.KB = {
         "Al Dhafrah Region",
         "Zirku Island"
       ],
+      "name_ar": "جزيرة زركوه",
       "osm": "relation/18471642",
       "bbox": [
         24.854264,
@@ -2900,6 +3066,7 @@ window.KB = {
         "Ajman",
         "Al Bustan"
       ],
+      "name_ar": "",
       "osm": "relation/18471693",
       "bbox": [
         25.40213,
@@ -2917,6 +3084,7 @@ window.KB = {
         "Ajman",
         "Al Helio"
       ],
+      "name_ar": "الحليو",
       "osm": "relation/12905783",
       "bbox": [
         25.376426,
@@ -2934,6 +3102,7 @@ window.KB = {
         "Ajman",
         "Al Jerf"
       ],
+      "name_ar": "الجرف",
       "osm": "relation/12905777",
       "bbox": [
         25.391524,
@@ -2951,6 +3120,7 @@ window.KB = {
         "Ajman",
         "Al Nakhil"
       ],
+      "name_ar": "النخيل",
       "osm": "relation/12905745",
       "bbox": [
         25.406842,
@@ -2968,6 +3138,7 @@ window.KB = {
         "Ajman",
         "Al Nuaimia"
       ],
+      "name_ar": "النعيمية",
       "osm": "relation/18471696",
       "bbox": [
         25.375861,
@@ -2985,6 +3156,7 @@ window.KB = {
         "Ajman",
         "Al Rashidiya"
       ],
+      "name_ar": "الراشدية",
       "osm": "relation/18471692",
       "bbox": [
         25.389796,
@@ -3002,6 +3174,7 @@ window.KB = {
         "Ajman",
         "Al Rumailah"
       ],
+      "name_ar": "الرميلة",
       "osm": "relation/12905744",
       "bbox": [
         25.393601,
@@ -3019,6 +3192,7 @@ window.KB = {
         "Ajman",
         "Al Sawan"
       ],
+      "name_ar": "السوان",
       "osm": "relation/18471695",
       "bbox": [
         25.391778,
@@ -3036,6 +3210,7 @@ window.KB = {
         "Ajman",
         "Al Zahraa"
       ],
+      "name_ar": "الزهراء",
       "osm": "relation/12905776",
       "bbox": [
         25.381026,
@@ -3053,6 +3228,7 @@ window.KB = {
         "Ajman",
         "Al Zawarah"
       ],
+      "name_ar": "الزوراء",
       "osm": "relation/12905747",
       "bbox": [
         25.416431,
@@ -3070,6 +3246,7 @@ window.KB = {
         "Ajman",
         "Hamidiya"
       ],
+      "name_ar": "الحميدية",
       "osm": "relation/12905778",
       "bbox": [
         25.380372,
@@ -3087,6 +3264,7 @@ window.KB = {
         "Ajman",
         "Meshairef"
       ],
+      "name_ar": "مشيرف",
       "osm": "relation/18471704",
       "bbox": [
         25.388818,
@@ -3104,6 +3282,7 @@ window.KB = {
         "Ajman",
         "Muntazy"
       ],
+      "name_ar": "المنتزي",
       "osm": "relation/12905782",
       "bbox": [
         25.356022,
@@ -3121,6 +3300,7 @@ window.KB = {
         "Ajman",
         "New Industrial"
       ],
+      "name_ar": "الصناعية الجديدة",
       "osm": "relation/12905769",
       "bbox": [
         25.364828,
@@ -3138,6 +3318,7 @@ window.KB = {
         "Ajman",
         "Yasmeen"
       ],
+      "name_ar": "الياسمين",
       "osm": "relation/12905780",
       "bbox": [
         25.363081,
@@ -3155,6 +3336,7 @@ window.KB = {
         "Dubai",
         "Abu Hail"
       ],
+      "name_ar": "أبو هيل",
       "osm": "relation/18471786",
       "bbox": [
         25.278663,
@@ -3172,6 +3354,7 @@ window.KB = {
         "Dubai",
         "Al Awir 1"
       ],
+      "name_ar": "العوير 1",
       "osm": "relation/21217663",
       "bbox": [
         25.161847,
@@ -3189,6 +3372,7 @@ window.KB = {
         "Dubai",
         "Al Bada'a"
       ],
+      "name_ar": "البدع",
       "osm": "relation/18471722",
       "bbox": [
         25.209987,
@@ -3206,6 +3390,7 @@ window.KB = {
         "Dubai",
         "Al Baraha"
       ],
+      "name_ar": "البراحة",
       "osm": "relation/18471780",
       "bbox": [
         25.276599,
@@ -3223,6 +3408,7 @@ window.KB = {
         "Dubai",
         "Al Barsha South 3"
       ],
+      "name_ar": "البرشاء جنوب 3",
       "osm": "relation/18471699",
       "bbox": [
         25.051924,
@@ -3240,6 +3426,7 @@ window.KB = {
         "Dubai",
         "Al Barsha South 5"
       ],
+      "name_ar": "البرشاء جنوب 5",
       "osm": "relation/18471834",
       "bbox": [
         25.029417,
@@ -3257,6 +3444,7 @@ window.KB = {
         "Dubai",
         "Al Bateen"
       ],
+      "name_ar": "البطين",
       "osm": "relation/14506839",
       "bbox": [
         25.267138,
@@ -3274,6 +3462,7 @@ window.KB = {
         "Dubai",
         "Al Dhagaya"
       ],
+      "name_ar": "الضغاية",
       "osm": "relation/18471663",
       "bbox": [
         25.27027,
@@ -3291,6 +3480,7 @@ window.KB = {
         "Dubai",
         "Al Garhoud"
       ],
+      "name_ar": "القرهود",
       "osm": "relation/18471788",
       "bbox": [
         25.229882,
@@ -3308,6 +3498,7 @@ window.KB = {
         "Dubai",
         "Al Hamriya"
       ],
+      "name_ar": "الحمرية",
       "osm": "relation/18471710",
       "bbox": [
         25.254811,
@@ -3325,6 +3516,7 @@ window.KB = {
         "Dubai",
         "Al Hebiah 2"
       ],
+      "name_ar": "الحبية 2",
       "osm": "relation/18471650",
       "bbox": [
         25.025808,
@@ -3342,6 +3534,7 @@ window.KB = {
         "Dubai",
         "Al Hebiah 5"
       ],
+      "name_ar": "الحبية 5",
       "osm": "relation/18471818",
       "bbox": [
         24.992006,
@@ -3359,6 +3552,7 @@ window.KB = {
         "Dubai",
         "Al Hudaiba"
       ],
+      "name_ar": "الحضيبة",
       "osm": "relation/18471790",
       "bbox": [
         25.234994,
@@ -3376,6 +3570,7 @@ window.KB = {
         "Dubai",
         "Al Jaddaf"
       ],
+      "name_ar": "الجداف",
       "osm": "relation/18471794",
       "bbox": [
         25.180817,
@@ -3393,6 +3588,7 @@ window.KB = {
         "Dubai",
         "Al Jafiliya"
       ],
+      "name_ar": "الجافلية",
       "osm": "relation/18471800",
       "bbox": [
         25.229719,
@@ -3410,6 +3606,7 @@ window.KB = {
         "Dubai",
         "Al Karama"
       ],
+      "name_ar": "الكرامة",
       "osm": "relation/18471789",
       "bbox": [
         25.234827,
@@ -3427,6 +3624,7 @@ window.KB = {
         "Dubai",
         "Al Lesaily"
       ],
+      "name_ar": "الليسيلي",
       "osm": "relation/18471841",
       "bbox": [
         24.853552,
@@ -3444,6 +3642,7 @@ window.KB = {
         "Dubai",
         "Al Mamzar"
       ],
+      "name_ar": "الممزر",
       "osm": "relation/18471731",
       "bbox": [
         25.281038,
@@ -3461,6 +3660,7 @@ window.KB = {
         "Dubai",
         "Al Manara"
       ],
+      "name_ar": "المنارة",
       "osm": "relation/18471689",
       "bbox": [
         25.133761,
@@ -3478,6 +3678,7 @@ window.KB = {
         "Dubai",
         "Al Mankhool"
       ],
+      "name_ar": "المنخول",
       "osm": "relation/18471793",
       "bbox": [
         25.239677,
@@ -3495,6 +3696,7 @@ window.KB = {
         "Dubai",
         "Al Mina"
       ],
+      "name_ar": "الميناء",
       "osm": "relation/18471712",
       "bbox": [
         25.238254,
@@ -3512,6 +3714,7 @@ window.KB = {
         "Dubai",
         "Al Mizhar"
       ],
+      "name_ar": "المزهر",
       "osm": "relation/18471787",
       "bbox": [
         25.228616,
@@ -3529,6 +3732,7 @@ window.KB = {
         "Dubai",
         "Al Muraqqabat"
       ],
+      "name_ar": "المرقبات",
       "osm": "relation/18471665",
       "bbox": [
         25.25865,
@@ -3546,6 +3750,7 @@ window.KB = {
         "Dubai",
         "Al Murar"
       ],
+      "name_ar": "المرر",
       "osm": "relation/18471782",
       "bbox": [
         25.273453,
@@ -3563,6 +3768,7 @@ window.KB = {
         "Dubai",
         "Al Muteena"
       ],
+      "name_ar": "المطينة",
       "osm": "relation/18471783",
       "bbox": [
         25.270086,
@@ -3580,6 +3786,7 @@ window.KB = {
         "Dubai",
         "Al Nahda"
       ],
+      "name_ar": "النهدة",
       "osm": "relation/18471785",
       "bbox": [
         25.278168,
@@ -3597,6 +3804,7 @@ window.KB = {
         "Dubai",
         "Al Quoz Community"
       ],
+      "name_ar": "مجتمع القوز",
       "osm": "relation/15621952",
       "bbox": [
         25.102329,
@@ -3614,6 +3822,7 @@ window.KB = {
         "Dubai",
         "Al Qusais"
       ],
+      "name_ar": "القصيص",
       "osm": "relation/18471660",
       "bbox": [
         25.251739,
@@ -3631,6 +3840,7 @@ window.KB = {
         "Dubai",
         "Al Qusais Industrial Area"
       ],
+      "name_ar": "القصيص الصناعية",
       "osm": "relation/18471784",
       "bbox": [
         25.270951,
@@ -3648,6 +3858,7 @@ window.KB = {
         "Dubai",
         "Al Raffa"
       ],
+      "name_ar": "الرفاعة",
       "osm": "relation/18471711",
       "bbox": [
         25.246504,
@@ -3665,6 +3876,7 @@ window.KB = {
         "Dubai",
         "Al Ras"
       ],
+      "name_ar": "الرأس",
       "osm": "relation/14506838",
       "bbox": [
         25.265731,
@@ -3682,6 +3894,7 @@ window.KB = {
         "Dubai",
         "Al Rigga"
       ],
+      "name_ar": "الرقة",
       "osm": "relation/14506842",
       "bbox": [
         25.261992,
@@ -3699,6 +3912,7 @@ window.KB = {
         "Dubai",
         "Al Ruwayyah 1"
       ],
+      "name_ar": "الروية 1",
       "osm": "relation/18471643",
       "bbox": [
         25.102955,
@@ -3716,6 +3930,7 @@ window.KB = {
         "Dubai",
         "Al Ruwayyah 2"
       ],
+      "name_ar": "الروية 2",
       "osm": "relation/18471659",
       "bbox": [
         25.087525,
@@ -3733,6 +3948,7 @@ window.KB = {
         "Dubai",
         "Al Sabkha"
       ],
+      "name_ar": "السبخة",
       "osm": "relation/14506840",
       "bbox": [
         25.26726,
@@ -3750,6 +3966,7 @@ window.KB = {
         "Dubai",
         "Al Safa"
       ],
+      "name_ar": "الصفا",
       "osm": "relation/18471742",
       "bbox": [
         25.149336,
@@ -3767,6 +3984,7 @@ window.KB = {
         "Dubai",
         "Al Satwa"
       ],
+      "name_ar": "السطوة",
       "osm": "relation/18471715",
       "bbox": [
         25.20578,
@@ -3784,6 +4002,7 @@ window.KB = {
         "Dubai",
         "Al Selal/Madinat Latifa"
       ],
+      "name_ar": "الصلال/مدينة لطيفة",
       "osm": "relation/18471684",
       "bbox": [
         24.817891,
@@ -3801,6 +4020,7 @@ window.KB = {
         "Dubai",
         "Al Souk Al Kabeer"
       ],
+      "name_ar": "السوق الكبير",
       "osm": "relation/18471713",
       "bbox": [
         25.258252,
@@ -3818,6 +4038,7 @@ window.KB = {
         "Dubai",
         "Al Waheda"
       ],
+      "name_ar": "الوحيدة",
       "osm": "relation/14506841",
       "bbox": [
         25.283757,
@@ -3835,6 +4056,7 @@ window.KB = {
         "Dubai",
         "Al Warqa"
       ],
+      "name_ar": "الورقاء",
       "osm": "relation/18471737",
       "bbox": [
         25.168043,
@@ -3852,6 +4074,7 @@ window.KB = {
         "Dubai",
         "Al Wasl"
       ],
+      "name_ar": "الوصل",
       "osm": "relation/18471795",
       "bbox": [
         25.180275,
@@ -3869,6 +4092,7 @@ window.KB = {
         "Dubai",
         "Al Yalayis 1"
       ],
+      "name_ar": "اليلايس 1",
       "osm": "relation/18471697",
       "bbox": [
         24.989225,
@@ -3886,6 +4110,7 @@ window.KB = {
         "Dubai",
         "Al Yalayis 2"
       ],
+      "name_ar": "اليلايس 2",
       "osm": "relation/18471752",
       "bbox": [
         24.973824,
@@ -3903,6 +4128,7 @@ window.KB = {
         "Dubai",
         "Al Yufrah 2"
       ],
+      "name_ar": "اليفرة 2",
       "osm": "relation/18471652",
       "bbox": [
         24.949883,
@@ -3920,6 +4146,7 @@ window.KB = {
         "Dubai",
         "Bukadra"
       ],
+      "name_ar": "بو كدرة",
       "osm": "relation/18471797",
       "bbox": [
         25.169608,
@@ -3937,6 +4164,7 @@ window.KB = {
         "Dubai",
         "Business Bay"
       ],
+      "name_ar": "الخليج التجاري",
       "osm": "relation/18471755",
       "bbox": [
         25.169013,
@@ -3954,6 +4182,7 @@ window.KB = {
         "Dubai",
         "Corniche Deira"
       ],
+      "name_ar": "كورنيش ديرة",
       "osm": "relation/14506837",
       "bbox": [
         25.273473,
@@ -3971,6 +4200,7 @@ window.KB = {
         "Dubai",
         "Downtown Dubai"
       ],
+      "name_ar": "وسط مدينة دبي",
       "osm": "relation/18471738",
       "bbox": [
         25.18476,
@@ -3988,6 +4218,7 @@ window.KB = {
         "Dubai",
         "Dubai International Airport"
       ],
+      "name_ar": "مطار دبي الدولي",
       "osm": "relation/18471754",
       "bbox": [
         25.230195,
@@ -4005,6 +4236,7 @@ window.KB = {
         "Dubai",
         "Grayteesah"
       ],
+      "name_ar": "قريطيسة",
       "osm": "relation/18471807",
       "bbox": [
         24.788391,
@@ -4022,6 +4254,7 @@ window.KB = {
         "Dubai",
         "Green Community East"
       ],
+      "name_ar": "جرين كميونيتي الشرق",
       "osm": "relation/18471835",
       "bbox": [
         25.002343,
@@ -4039,6 +4272,7 @@ window.KB = {
         "Dubai",
         "Green Community West"
       ],
+      "name_ar": "قرية المجتمع الخضراء",
       "osm": "relation/18471844",
       "bbox": [
         24.990024,
@@ -4056,6 +4290,7 @@ window.KB = {
         "Dubai",
         "Hadaeq Sheikh Mohammed Bin Rashid"
       ],
+      "name_ar": "حدائق الشيخ محمد بن راشد",
       "osm": "relation/18471757",
       "bbox": [
         25.055923,
@@ -4073,6 +4308,7 @@ window.KB = {
         "Dubai",
         "Hessyan 1"
       ],
+      "name_ar": "حصيان 1",
       "osm": "relation/18471799",
       "bbox": [
         24.929063,
@@ -4090,6 +4326,7 @@ window.KB = {
         "Dubai",
         "Hor Al Anz"
       ],
+      "name_ar": "هور العنز",
       "osm": "relation/14506843",
       "bbox": [
         25.27047,
@@ -4107,6 +4344,7 @@ window.KB = {
         "Dubai",
         "Jabal Ali Industrial 2"
       ],
+      "name_ar": "جبل علي الصناعية 2",
       "osm": "relation/18471645",
       "bbox": [
         24.919593,
@@ -4124,6 +4362,7 @@ window.KB = {
         "Dubai",
         "Jabal Ali Industrial 3"
       ],
+      "name_ar": "جبل علي الصناعية 3",
       "osm": "relation/18471829",
       "bbox": [
         24.89184,
@@ -4141,6 +4380,7 @@ window.KB = {
         "Dubai",
         "Jebel Ali North Free Zone"
       ],
+      "name_ar": "المنطقة الحرة شمال جبل علي",
       "osm": "relation/18471647",
       "bbox": [
         24.949868,
@@ -4158,6 +4398,7 @@ window.KB = {
         "Dubai",
         "Jumeirah"
       ],
+      "name_ar": "جميرا",
       "osm": "relation/11912729",
       "bbox": [
         25.16964,
@@ -4175,6 +4416,7 @@ window.KB = {
         "Dubai",
         "Jumeirah Golf Estates"
       ],
+      "name_ar": "ملاعب الجميره للغولف",
       "osm": "relation/18471779",
       "bbox": [
         25.012138,
@@ -4192,6 +4434,7 @@ window.KB = {
         "Dubai",
         "Jumeirah Islands"
       ],
+      "name_ar": "جزر الجميرا",
       "osm": "relation/18471847",
       "bbox": [
         25.046277,
@@ -4209,6 +4452,7 @@ window.KB = {
         "Dubai",
         "Margham"
       ],
+      "name_ar": "مرغم",
       "osm": "relation/18471845",
       "bbox": [
         24.875868,
@@ -4226,6 +4470,7 @@ window.KB = {
         "Dubai",
         "MBR- Al Merkad"
       ],
+      "name_ar": "المركاض",
       "osm": "relation/18471803",
       "bbox": [
         25.150801,
@@ -4243,6 +4488,7 @@ window.KB = {
         "Dubai",
         "Mirdif"
       ],
+      "name_ar": "مردف",
       "osm": "relation/18471716",
       "bbox": [
         25.205619,
@@ -4260,6 +4506,7 @@ window.KB = {
         "Dubai",
         "Muhaisnah"
       ],
+      "name_ar": "محيصنة",
       "osm": "relation/18471781",
       "bbox": [
         25.233002,
@@ -4277,6 +4524,7 @@ window.KB = {
         "Dubai",
         "Mushrif"
       ],
+      "name_ar": "مشرف",
       "osm": "relation/18471728",
       "bbox": [
         25.189817,
@@ -4294,6 +4542,7 @@ window.KB = {
         "Dubai",
         "Nad Al Sheba"
       ],
+      "name_ar": "ند الشبا",
       "osm": "relation/18471683",
       "bbox": [
         25.119936,
@@ -4311,6 +4560,7 @@ window.KB = {
         "Dubai",
         "Nadd Al Sheba 2"
       ],
+      "name_ar": "ند الشبا 2",
       "osm": "relation/18471707",
       "bbox": [
         25.142011,
@@ -4328,6 +4578,7 @@ window.KB = {
         "Dubai",
         "Nadd Al Sheba 3"
       ],
+      "name_ar": "ند الشبا 3",
       "osm": "relation/18471747",
       "bbox": [
         25.138728,
@@ -4345,6 +4596,7 @@ window.KB = {
         "Dubai",
         "Nadd Hessa"
       ],
+      "name_ar": "ند حصة",
       "osm": "relation/18471700",
       "bbox": [
         25.103802,
@@ -4362,6 +4614,7 @@ window.KB = {
         "Dubai",
         "Naif"
       ],
+      "name_ar": "نايف",
       "osm": "relation/18471792",
       "bbox": [
         25.268909,
@@ -4379,6 +4632,7 @@ window.KB = {
         "Dubai",
         "Oud Al Muteena"
       ],
+      "name_ar": "عود المطينة",
       "osm": "relation/18471758",
       "bbox": [
         25.255202,
@@ -4396,6 +4650,7 @@ window.KB = {
         "Dubai",
         "Port Saeed"
       ],
+      "name_ar": "بور سعيد",
       "osm": "relation/12431735",
       "bbox": [
         25.234679,
@@ -4413,6 +4668,7 @@ window.KB = {
         "Dubai",
         "Riggat Al Buteen"
       ],
+      "name_ar": "رقة البطين",
       "osm": "relation/14506836",
       "bbox": [
         25.252947,
@@ -4430,6 +4686,7 @@ window.KB = {
         "Dubai",
         "Saih Al Salam"
       ],
+      "name_ar": "سيح السلم",
       "osm": "relation/18471725",
       "bbox": [
         24.800598,
@@ -4447,6 +4704,7 @@ window.KB = {
         "Dubai",
         "Saih Shuaib 1"
       ],
+      "name_ar": "سيح شعيب 1",
       "osm": "relation/18471796",
       "bbox": [
         24.868171,
@@ -4464,6 +4722,7 @@ window.KB = {
         "Dubai",
         "The Meadows"
       ],
+      "name_ar": "ميدوز",
       "osm": "relation/18471657",
       "bbox": [
         25.041311,
@@ -4481,6 +4740,7 @@ window.KB = {
         "Dubai",
         "The Springs"
       ],
+      "name_ar": "الينابيع",
       "osm": "relation/18471656",
       "bbox": [
         25.047851,
@@ -4498,6 +4758,7 @@ window.KB = {
         "Dubai",
         "Trade Centre"
       ],
+      "name_ar": "المركز التجاري",
       "osm": "relation/18471719",
       "bbox": [
         25.203909,
@@ -4515,6 +4776,7 @@ window.KB = {
         "Dubai",
         "Umm Hurair"
       ],
+      "name_ar": "أم هرير",
       "osm": "relation/18471718",
       "bbox": [
         25.225552,
@@ -4532,6 +4794,7 @@ window.KB = {
         "Dubai",
         "Umm Nahad 3/Madinat Hind 3"
       ],
+      "name_ar": "أم نهد 3/مدينة هند 3",
       "osm": "relation/18471670",
       "bbox": [
         24.99843,
@@ -4549,6 +4812,7 @@ window.KB = {
         "Dubai",
         "Umm Nahad 4/Madinat Hind 4"
       ],
+      "name_ar": "أم نهد 4/مدينة هند 4",
       "osm": "relation/21217661",
       "bbox": [
         24.964014,
@@ -4566,6 +4830,7 @@ window.KB = {
         "Dubai",
         "Umm Ramool"
       ],
+      "name_ar": "أم رمول",
       "osm": "relation/18471720",
       "bbox": [
         25.217023,
@@ -4583,6 +4848,7 @@ window.KB = {
         "Dubai",
         "Umm Suqeim"
       ],
+      "name_ar": "أم سقيم",
       "osm": "relation/18471749",
       "bbox": [
         25.127996,
@@ -4600,6 +4866,7 @@ window.KB = {
         "Dubai",
         "Wadi Al Amardi"
       ],
+      "name_ar": "وادي العمردي",
       "osm": "relation/18471729",
       "bbox": [
         25.164439,
@@ -4617,6 +4884,7 @@ window.KB = {
         "Dubai",
         "Wadi Al Safa 3"
       ],
+      "name_ar": "وادي الصفا 3",
       "osm": "relation/18471709",
       "bbox": [
         25.065408,
@@ -4634,6 +4902,7 @@ window.KB = {
         "Dubai",
         "Wadi Al Safa 4"
       ],
+      "name_ar": "وادي الصفا 4",
       "osm": "relation/18471837",
       "bbox": [
         25.058259,
@@ -4651,6 +4920,7 @@ window.KB = {
         "Dubai",
         "Wadi Al Safa 6"
       ],
+      "name_ar": "وادي الصفا 6",
       "osm": "relation/18471658",
       "bbox": [
         25.03206,
@@ -4668,6 +4938,7 @@ window.KB = {
         "Dubai",
         "Warsan"
       ],
+      "name_ar": "ورسان",
       "osm": "relation/18471741",
       "bbox": [
         25.114396,
@@ -4685,6 +4956,7 @@ window.KB = {
         "Dubai",
         "Zabeel"
       ],
+      "name_ar": "زعبيل",
       "osm": "relation/18471721",
       "bbox": [
         25.180738,
@@ -4702,6 +4974,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Burairat"
       ],
+      "name_ar": "البريرات",
       "osm": "relation/18471662",
       "bbox": [
         25.746812,
@@ -4719,6 +4992,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Dhait North"
       ],
+      "name_ar": "الظيت الشمالي",
       "osm": "relation/18471811",
       "bbox": [
         25.732807,
@@ -4736,6 +5010,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Dhait South"
       ],
+      "name_ar": "الظيت الجنوبي",
       "osm": "relation/18471708",
       "bbox": [
         25.696854,
@@ -4753,6 +5028,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Fahlain"
       ],
+      "name_ar": "الفحلين",
       "osm": "relation/17394844",
       "bbox": [
         25.642314,
@@ -4770,6 +5046,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Gurum Resort"
       ],
+      "name_ar": "القرم",
       "osm": "relation/18471776",
       "bbox": [
         25.762492,
@@ -4787,6 +5064,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Hamra Free Zone"
       ],
+      "name_ar": "المنطقة الحرة بالحمرا",
       "osm": "relation/18471816",
       "bbox": [
         25.657207,
@@ -4804,6 +5082,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Hamra Industrial Area"
       ],
+      "name_ar": "المنطقة الصناعية بالحمرا",
       "osm": "relation/18471815",
       "bbox": [
         25.624212,
@@ -4821,6 +5100,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Hamraniyah"
       ],
+      "name_ar": "الحمرانية",
       "osm": "relation/18471771",
       "bbox": [
         25.543936,
@@ -4838,6 +5118,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Jazirah Al Hamra"
       ],
+      "name_ar": "الجزيرة الحمرة",
       "osm": "relation/18471823",
       "bbox": [
         25.637892,
@@ -4855,6 +5136,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Mairid"
       ],
+      "name_ar": "المعيريض",
       "osm": "relation/18471673",
       "bbox": [
         25.802349,
@@ -4872,6 +5154,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Marjan Island"
       ],
+      "name_ar": "جزيرة المرجان",
       "osm": "relation/18471809",
       "bbox": [
         25.660029,
@@ -4889,6 +5172,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Nakhil"
       ],
+      "name_ar": "النخيل",
       "osm": "relation/18471764",
       "bbox": [
         25.783451,
@@ -4906,6 +5190,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Rafaah"
       ],
+      "name_ar": "الرفاعة",
       "osm": "relation/18471820",
       "bbox": [
         25.665336,
@@ -4923,6 +5208,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Ragibah"
       ],
+      "name_ar": "الرجيبة",
       "osm": "relation/18471814",
       "bbox": [
         25.642351,
@@ -4940,6 +5226,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Al Tharfah"
       ],
+      "name_ar": "الطرفة",
       "osm": "relation/18471702",
       "bbox": [
         25.747652,
@@ -4957,6 +5244,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Burial Khor Ras Al Khaimah"
       ],
+      "name_ar": "دفن الخور راس الخيمه",
       "osm": "relation/18471761",
       "bbox": [
         25.779823,
@@ -4974,6 +5262,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Dafan Al Khor"
       ],
+      "name_ar": "دفان الخور",
       "osm": "relation/18471767",
       "bbox": [
         25.765808,
@@ -4991,6 +5280,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Dafan Al Nakheel"
       ],
+      "name_ar": "دفان النخيل",
       "osm": "relation/18471778",
       "bbox": [
         25.781339,
@@ -5008,6 +5298,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Ghalilah"
       ],
+      "name_ar": "غليلة",
       "osm": "relation/18471775",
       "bbox": [
         25.914743,
@@ -5025,6 +5316,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Khatt"
       ],
+      "name_ar": "خت",
       "osm": "relation/18471822",
       "bbox": [
         25.609072,
@@ -5042,6 +5334,7 @@ window.KB = {
         "Ras al-Khaimah",
         "RAK City"
       ],
+      "name_ar": "مدينة رأس الخيمة",
       "osm": "relation/18471760",
       "bbox": [
         25.792621,
@@ -5059,6 +5352,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Saih Al Hudiabah"
       ],
+      "name_ar": "سيح الحديبة",
       "osm": "relation/18471765",
       "bbox": [
         25.785228,
@@ -5076,6 +5370,7 @@ window.KB = {
         "Ras al-Khaimah",
         "Shabiat Rashed"
       ],
+      "name_ar": "شعبية راشد",
       "osm": "relation/18471675",
       "bbox": [
         25.831114,
@@ -5093,6 +5388,7 @@ window.KB = {
         "Sharjah",
         "Al Batayih"
       ],
+      "name_ar": "البطائح",
       "osm": "relation/12905784",
       "bbox": [
         25.055457,
@@ -5110,6 +5406,7 @@ window.KB = {
         "Sharjah",
         "Al Dhaid"
       ],
+      "name_ar": "الذيد",
       "osm": "relation/12905764",
       "bbox": [
         25.177494,
@@ -5127,6 +5424,7 @@ window.KB = {
         "Sharjah",
         "Al Gharb"
       ],
+      "name_ar": "الغرب",
       "osm": "relation/18471745",
       "bbox": [
         25.351934,
@@ -5144,6 +5442,7 @@ window.KB = {
         "Sharjah",
         "Al Hamriya"
       ],
+      "name_ar": "الحمرية",
       "osm": "relation/12905746",
       "bbox": [
         25.442005,
@@ -5161,6 +5460,7 @@ window.KB = {
         "Sharjah",
         "Al Jubail"
       ],
+      "name_ar": "الجبيل",
       "osm": "relation/18471751",
       "bbox": [
         25.347471,
@@ -5178,6 +5478,7 @@ window.KB = {
         "Sharjah",
         "Al Khalidiyah"
       ],
+      "name_ar": "الخالدية",
       "osm": "relation/18471736",
       "bbox": [
         25.330596,
@@ -5195,6 +5496,7 @@ window.KB = {
         "Sharjah",
         "Al Madam"
       ],
+      "name_ar": "المدام",
       "osm": "relation/12905765",
       "bbox": [
         24.757259,
@@ -5212,6 +5514,7 @@ window.KB = {
         "Sharjah",
         "Al Majaz"
       ],
+      "name_ar": "المجاز",
       "osm": "relation/18471746",
       "bbox": [
         25.313612,
@@ -5229,6 +5532,7 @@ window.KB = {
         "Sharjah",
         "Al Nahda"
       ],
+      "name_ar": "النهدة",
       "osm": "relation/18471733",
       "bbox": [
         25.29691,
@@ -5246,6 +5550,7 @@ window.KB = {
         "Sharjah",
         "Al Qasimia"
       ],
+      "name_ar": "القاسمية",
       "osm": "relation/18471734",
       "bbox": [
         25.328175,
@@ -5263,6 +5568,7 @@ window.KB = {
         "Sharjah",
         "Al Rahmaniya"
       ],
+      "name_ar": "الرحمانية",
       "osm": "relation/18471682",
       "bbox": [
         25.301774,
@@ -5280,6 +5586,7 @@ window.KB = {
         "Sharjah",
         "Al Ramlah"
       ],
+      "name_ar": "الرملة",
       "osm": "relation/12905774",
       "bbox": [
         25.425812,
@@ -5297,6 +5604,7 @@ window.KB = {
         "Sharjah",
         "Al Riqqa"
       ],
+      "name_ar": "الرقة",
       "osm": "relation/18471681",
       "bbox": [
         25.350429,
@@ -5314,6 +5622,7 @@ window.KB = {
         "Sharjah",
         "Al Seef"
       ],
+      "name_ar": "السيف",
       "osm": "relation/12905743",
       "bbox": [
         25.364182,
@@ -5331,6 +5640,7 @@ window.KB = {
         "Sharjah",
         "Al Sharq"
       ],
+      "name_ar": "الشرق",
       "osm": "relation/18471744",
       "bbox": [
         25.354187,
@@ -5348,6 +5658,7 @@ window.KB = {
         "Sharjah",
         "Al Soor"
       ],
+      "name_ar": "السور",
       "osm": "relation/18471727",
       "bbox": [
         25.345099,
@@ -5365,6 +5676,7 @@ window.KB = {
         "Sharjah",
         "Albade'i"
       ],
+      "name_ar": "البديع",
       "osm": "relation/18471680",
       "bbox": [
         25.23477,
@@ -5382,6 +5694,7 @@ window.KB = {
         "Sharjah",
         "Dibba Al Hisn"
       ],
+      "name_ar": "دبا الحصن",
       "osm": "relation/18471676",
       "bbox": [
         25.605061,
@@ -5399,6 +5712,7 @@ window.KB = {
         "Sharjah",
         "Halwan"
       ],
+      "name_ar": "حلوان",
       "osm": "relation/18471735",
       "bbox": [
         25.332832,
@@ -5416,6 +5730,7 @@ window.KB = {
         "Sharjah",
         "Kalba"
       ],
+      "name_ar": "كلباء",
       "osm": "relation/12482829",
       "bbox": [
         24.890713,
@@ -5433,6 +5748,7 @@ window.KB = {
         "Sharjah",
         "Khor Fakkan"
       ],
+      "name_ar": "خورفكان",
       "osm": "relation/12497695",
       "bbox": [
         25.260572,
@@ -5450,6 +5766,7 @@ window.KB = {
         "Sharjah",
         "Milehah"
       ],
+      "name_ar": "مليحة",
       "osm": "relation/12905766",
       "bbox": [
         25.005631,
@@ -5467,6 +5784,7 @@ window.KB = {
         "Sharjah",
         "Mughaidir"
       ],
+      "name_ar": "مغيدر",
       "osm": "relation/18471748",
       "bbox": [
         25.316243,
@@ -5484,6 +5802,7 @@ window.KB = {
         "Sharjah",
         "Muwaileh"
       ],
+      "name_ar": "مويلح",
       "osm": "relation/18471750",
       "bbox": [
         25.256562,
@@ -5501,6 +5820,7 @@ window.KB = {
         "Sharjah",
         "Sharjah"
       ],
+      "name_ar": "مدينة الشارقة",
       "osm": "relation/12905785",
       "bbox": [
         25.20718,
@@ -5518,6 +5838,7 @@ window.KB = {
         "Sharjah",
         "Wasit"
       ],
+      "name_ar": "واسط",
       "osm": "relation/12905768",
       "bbox": [
         25.334328,
@@ -5535,6 +5856,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Aahad"
       ],
+      "name_ar": "العهد",
       "osm": "relation/12905753",
       "bbox": [
         25.519258,
@@ -5552,6 +5874,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Abraq"
       ],
+      "name_ar": "الأبرق",
       "osm": "relation/12905770",
       "bbox": [
         25.476571,
@@ -5569,6 +5892,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Dar Al Baidah"
       ],
+      "name_ar": "الدار البيضاء",
       "osm": "relation/12905754",
       "bbox": [
         25.547943,
@@ -5586,6 +5910,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Haditha"
       ],
+      "name_ar": "الحديثة",
       "osm": "relation/12905762",
       "bbox": [
         25.532697,
@@ -5603,6 +5928,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Hamrah"
       ],
+      "name_ar": "الحمرة",
       "osm": "relation/12905752",
       "bbox": [
         25.530173,
@@ -5620,6 +5946,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Haweah"
       ],
+      "name_ar": "الحوية",
       "osm": "relation/12905757",
       "bbox": [
         25.575591,
@@ -5637,6 +5964,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Khor"
       ],
+      "name_ar": "الخور",
       "osm": "relation/12905755",
       "bbox": [
         25.54723,
@@ -5654,6 +5982,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Madar"
       ],
+      "name_ar": "المدار",
       "osm": "relation/12905763",
       "bbox": [
         25.519066,
@@ -5671,6 +6000,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Maidan"
       ],
+      "name_ar": "الميدان",
       "osm": "relation/12905761",
       "bbox": [
         25.544137,
@@ -5688,6 +6018,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Medfeq"
       ],
+      "name_ar": "المدفق",
       "osm": "relation/18471808",
       "bbox": [
         25.628887,
@@ -5705,6 +6036,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Raas"
       ],
+      "name_ar": "الرأس",
       "osm": "relation/12905760",
       "bbox": [
         25.553362,
@@ -5722,6 +6054,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Ramlah"
       ],
+      "name_ar": "الرملة",
       "osm": "relation/18471827",
       "bbox": [
         25.499201,
@@ -5739,6 +6072,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Reqqah"
       ],
+      "name_ar": "الرقة",
       "osm": "relation/12905751",
       "bbox": [
         25.550733,
@@ -5756,6 +6090,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Rowdah"
       ],
+      "name_ar": "الروضة",
       "osm": "relation/12905756",
       "bbox": [
         25.570152,
@@ -5773,6 +6108,7 @@ window.KB = {
         "Umm al-Quwain",
         "Al Salmah"
       ],
+      "name_ar": "السلمة",
       "osm": "relation/12905771",
       "bbox": [
         25.480013,
@@ -5790,6 +6126,7 @@ window.KB = {
         "Umm al-Quwain",
         "Defence Camp"
       ],
+      "name_ar": "الحرس الوطني",
       "osm": "relation/12905749",
       "bbox": [
         25.521973,
@@ -5807,6 +6144,7 @@ window.KB = {
         "Umm al-Quwain",
         "Emirates Modern Industrial"
       ],
+      "name_ar": "صناعية الإمارات الحديثة",
       "osm": "relation/18471739",
       "bbox": [
         25.527967,
@@ -5824,6 +6162,7 @@ window.KB = {
         "Umm al-Quwain",
         "Green Belt"
       ],
+      "name_ar": "الحزام الأخضر",
       "osm": "relation/12905750",
       "bbox": [
         25.504904,
@@ -5841,6 +6180,7 @@ window.KB = {
         "Umm al-Quwain",
         "Industrial Area"
       ],
+      "name_ar": "المنطقة الصناعية",
       "osm": "relation/12905748",
       "bbox": [
         25.493072,
@@ -5858,6 +6198,7 @@ window.KB = {
         "Umm al-Quwain",
         "Lamagdar"
       ],
+      "name_ar": "لمغدر",
       "osm": "relation/12905758",
       "bbox": [
         25.579697,
@@ -5875,6 +6216,7 @@ window.KB = {
         "Umm al-Quwain",
         "Old Town Area"
       ],
+      "name_ar": "المدينة القديمة",
       "osm": "relation/12905759",
       "bbox": [
         25.581095,
@@ -5892,6 +6234,7 @@ window.KB = {
         "Umm al-Quwain",
         "Shanteer"
       ],
+      "name_ar": "شنتير",
       "osm": "relation/12905773",
       "bbox": [
         25.44723,
@@ -5909,6 +6252,7 @@ window.KB = {
         "Umm al-Quwain",
         "Umm Al Quwain Airport"
       ],
+      "name_ar": "مطار أم القيوين",
       "osm": "relation/18471824",
       "bbox": [
         25.550428,

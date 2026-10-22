@@ -130,6 +130,15 @@ Overpass remains available (`kb-collect`, `osm-district`) for one-off lookups, b
 it is not the primary source any more: it 504s under load and silently returns
 **empty tiles**, which is how the island went missing the first time.
 
+## The directory is bilingual
+
+`tools/wiki-build.mjs` emits English and Arabic side by side: every label carries
+`data-en`/`data-ar`, a toggle flips `lang` and `dir`, and the choice is remembered
+in `localStorage` (or `?lang=ar` for sharing). Numbers switch to Arabic-Indic digits
+in Arabic, and districts show their own Arabic name (`area.name_ar`) rather than a
+transliteration. Street names are already bilingual in the data, so they are not
+duplicated.
+
 ## Meanings belong elsewhere
 
 The base names are often ordinary Arabic words — الأُقحوان is the chrysanthemum

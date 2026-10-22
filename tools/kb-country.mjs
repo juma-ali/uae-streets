@@ -194,7 +194,7 @@ for (const el of roads) {
   if (d8) {
     areaId = slug(path[3]) + "-" + d8.osm.split("/")[1];
     if (!areas.has(areaId)) {
-      areas.set(areaId, { id: areaId, path, osm: d8.osm, bbox: bounds(d8), street_count: 0 });
+      areas.set(areaId, { id: areaId, path, name_ar: d8.name_ar || "", osm: d8.osm, bbox: bounds(d8), street_count: 0 });
     }
     areas.get(areaId).street_count++;
   }

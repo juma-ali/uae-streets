@@ -1,19 +1,21 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" dir="ltr" data-title-en="No district boundary — streets" data-title-ar="بلا حدود حي — الشوارع">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>No district boundary — streets</title>
+<script>try{var p=new URLSearchParams(location.search).get("lang");var s=null;try{s=localStorage.getItem("directory-lang");}catch(e){}if((p||s)==="ar"){document.documentElement.lang="ar";document.documentElement.dir="rtl";}}catch(e){}</script>
 <link rel="stylesheet" href="../style.css">
 </head>
 <body>
+<button class="langbtn" id="lang" type="button">العربية</button>
 <div class="wrap">
 
-<p class="crumb"><a href="../../index.html">United Arab Emirates</a> &rsaquo; <a href="../index.html">Umm Al Quwain</a> &rsaquo; No district boundary</p>
-<h1>No district boundary</h1>
-<p class="lede">11 streets in </p>
+<p class="crumb"><a href="../../index.html"><span data-en="United Arab Emirates" data-ar="الإمارات العربية المتحدة">United Arab Emirates</span></a> &rsaquo; <a href="../index.html"><span data-en="Umm Al Quwain" data-ar="أم القيوين">Umm Al Quwain</span></a> &rsaquo; <span data-en="No district boundary" data-ar="بلا حدود حي">No district boundary</span></p>
+<h1><span data-en="No district boundary" data-ar="بلا حدود حي">No district boundary</span></h1>
+<p class="lede"><span data-en="11 streets in Umm Al Quwain" data-ar="١١ شارعاً في أم القيوين">11 streets in Umm Al Quwain</span></p>
 <table>
-  <thead><tr><th>Street</th><th>Arabic</th><th>Type</th></tr></thead>
+  <thead><tr><th><span data-en="Street" data-ar="الشارع">Street</span></th><th><span data-en="Arabic" data-ar="بالعربية">Arabic</span></th><th><span data-en="Type" data-ar="النوع">Type</span></th></tr></thead>
   <tbody>
     <tr><td>Al Aflaj Street</td><td class="ar" lang="ar">شارع الأفلاج</td><td class="kind">tertiary</td></tr>
     <tr><td>Al Alyaah St</td><td class="ar" lang="ar">شارع العالية</td><td class="kind">tertiary</td></tr>
@@ -29,9 +31,43 @@
   </tbody>
 </table>
 <footer>
-  Street names and coordinates &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, ODbL 1.0.
-  Collected 2026-10-22 &middot; 11,530 streets.
+  <span data-en="Street names and coordinates" data-ar="أسماء الشوارع والإحداثيات">Street names and coordinates</span> &copy;
+  <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>,
+  <span data-en="ODbL 1.0" data-ar="رخصة ODbL 1.0">ODbL 1.0</span>.
+  <span data-en="Collected 2026-10-22 · 11,530 streets." data-ar="جُمعت في 2026-10-22 · ١١٬٥٣٠ شارع.">Collected 2026-10-22 · 11,530 streets.</span>
 </footer>
 </div>
+<script>
+(function () {
+  var KEY = "directory-lang";
+  var q = new URLSearchParams(location.search).get("lang");
+  function stored() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  var lang = q || stored() || (document.documentElement.lang === "ar" ? "ar" : "en");
+
+  function apply(l) {
+    var ar = l === "ar";
+    document.documentElement.lang = ar ? "ar" : "en";
+    document.documentElement.dir = ar ? "rtl" : "ltr";
+    document.querySelectorAll("[data-en]").forEach(function (el) {
+      var v = el.getAttribute(ar ? "data-ar" : "data-en");
+      if (v !== null) el.textContent = v;
+    });
+    document.querySelectorAll("[data-placeholder-en]").forEach(function (el) {
+      el.placeholder = el.getAttribute(ar ? "data-placeholder-ar" : "data-placeholder-en");
+    });
+    var t = document.documentElement.getAttribute(ar ? "data-title-ar" : "data-title-en");
+    if (t) document.title = t;
+    var b = document.getElementById("lang");
+    if (b) b.textContent = ar ? "English" : "العربية";
+    try { localStorage.setItem(KEY, l); } catch (e) {}
+  }
+
+  var btn = document.getElementById("lang");
+  if (btn) btn.addEventListener("click", function () {
+    apply(document.documentElement.lang === "ar" ? "en" : "ar");
+  });
+  apply(lang);
+})();
+</script>
 </body>
 </html>
