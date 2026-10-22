@@ -144,7 +144,8 @@
     return d !== 0 ? d : a.en.localeCompare(b.en);
   });
 
-  var state = { lang: "en", q: "", emirate: "all", category: "all", showRoads: false };
+  var state = { lang: "en", q: "", emirate: "all", category: "all", district: "all", showRoads: false };
+  var storyDistrict = {};
   var results = [];
   var lastRoads = [];
   var ROAD_PAGE = 60;
@@ -158,10 +159,12 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023c";
+    s.src = "data/cards.js?v=20261023d";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
+      storyDistrict = {};
+      if (ROADS) ROADS.rows.forEach(function (r) { if (r[7]) storyDistrict[r[7]] = r[2]; });
       setTotals();
       try { renderStats(); } catch (e) {}
       roadsWaiting.splice(0).forEach(function (f) { f(); });
@@ -177,6 +180,7 @@
     for (var i = 0; i < ROADS.rows.length; i++) {
       var r = ROADS.rows[i];
       var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
+      if (state.district !== "all" && String(r[2]) !== String(state.district)) continue;
       var hay = (r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : "")).toLowerCase();
       var ok = true;
       for (var t = 0; t < tokens.length; t++) if (hay.indexOf(tokens[t]) === -1) { ok = false; break; }
@@ -252,6 +256,7 @@
     return STREETS.filter(function (s) {
       if (state.emirate !== "all" && s.emirate !== state.emirate) return false;
       if (state.category !== "all" && s.category !== state.category) return false;
+      if (state.district !== "all" && String(storyDistrict[s.id]) !== String(state.district)) return false;
       if (!tokens.length) return true;
       return tokens.every(function (t) { return s._index.indexOf(t) !== -1; });
     });
@@ -341,6 +346,47 @@
   }
 
   /* ---------- render: grid ---------- */
+  function renderDistrictChips() {
+    var wrap = $("#district-chips");
+    var row = $("#district-row");
+    if (!wrap || !row) return;
+    if (!ROADS || state.emirate === "all") { row.hidden = true; wrap.innerHTML = ""; return; }
+
+    var em = state.emirate === "uaq" ? "umm-al-quwain" : state.emirate;
+    var tokens = norm(state.q).split(" ").filter(Boolean);
+    var counts = {};
+    ROADS.rows.forEach(function (r) {
+      var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
+      if (!d || d[2] !== em) return;
+      if (state.category !== "all" && r[3] !== state.category) return;
+      if (tokens.length) {
+        var hay = norm(r[0] + " " + r[1] + " " + (d[0] || ""));
+        if (!tokens.every(function (t) { return hay.indexOf(t) !== -1; })) return;
+      }
+      counts[r[2]] = (counts[r[2]] || 0) + 1;
+    });
+
+    var total = 0;
+    Object.keys(counts).forEach(function (k) { total += counts[k]; });
+    var html = '<button type="button" class="chip" data-group="district" data-value="all" aria-pressed="' +
+      (state.district === "all") + '"><span class="chip__label">' +
+      esc(state.lang === "ar" ? "كل الأحياء" : "All districts") + '</span><span class="chip__count">' +
+      total.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</span></button>";
+
+    Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; }).forEach(function (id) {
+      var d = ROADS.districts[id];
+      var label = state.lang === "ar" ? (d[1] || d[0]) : d[0];
+      if (!label) label = state.lang === "ar" ? "بلا حي" : "no district";
+      html += '<button type="button" class="chip" data-group="district" data-value="' + id +
+        '" aria-pressed="' + (String(state.district) === String(id)) + '"><span class="chip__label">' +
+        esc(label) + '</span><span class="chip__count">' +
+        counts[id].toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</span></button>";
+    });
+
+    wrap.innerHTML = html;
+    row.hidden = false;
+  }
+
   function renderGrid(animate) {
     var grid = $("#grid");
     lastRoads = state.showRoads ? roadMatches() : [];
@@ -474,6 +520,7 @@
     var p = new URLSearchParams();
     if (state.emirate !== "all") p.set("emirate", state.emirate);
     if (state.category !== "all") p.set("category", state.category);
+    if (state.district !== "all") p.set("district", state.district);
     if (state.q) p.set("q", state.q);
     if (state.lang === "ar") p.set("lang", "ar");
     var dt = document.documentElement.getAttribute("data-theme");
@@ -652,6 +699,7 @@
     results = filterStreets();
     renderGrid(animate !== false);
     refreshChipCounts();
+    renderDistrictChips();
     renderChrome();
     syncUrl();
   }
@@ -683,7 +731,7 @@
     }
     if (resetBtn) {
       resetBtn.addEventListener("click", function () {
-        state.q = ""; state.emirate = "all"; state.category = "all";
+        state.q = ""; state.emirate = "all"; state.category = "all"; state.district = "all";
         state.showRoads = false;
         if (search) search.value = "";
         update(true);
@@ -706,7 +754,7 @@
       });
     }
 
-    ["#emirate-chips", "#category-chips"].forEach(function (sel) {
+    ["#emirate-chips", "#category-chips", "#district-chips"].forEach(function (sel) {
       var wrap = $(sel);
       if (!wrap) return;
       wrap.addEventListener("click", function (e) {
@@ -714,8 +762,9 @@
         if (!chip) return;
         var group = chip.getAttribute("data-group");
         var value = chip.getAttribute("data-value");
-        if (group === "emirate") state.emirate = value;
+        if (group === "emirate") { state.emirate = value; state.district = "all"; }
         if (group === "category") state.category = value;
+        if (group === "district") state.district = value;
         state.showRoads = true;
         update(true);
       });
@@ -812,6 +861,8 @@
     if (emParam && EMIRATES.some(function (e) { return e.id === emParam; })) state.emirate = emParam;
     var catParam = params.get("category");
     if (catParam && CATEGORIES.some(function (c) { return c.id === catParam; })) state.category = catParam;
+    var dParam = params.get("district");
+    if (dParam) state.district = dParam;
     var qParam = params.get("q");
     if (qParam) {
       state.q = qParam;

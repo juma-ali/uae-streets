@@ -730,3 +730,7 @@ html[dir="rtl"] .card__ar { text-align: right; }
 .card--kb { min-height: 0; }
 
 .show-all { display: flex; justify-content: center; margin: 1.8rem 0 .4rem; }
+
+#district-row { align-items: flex-start; }
+#district-row .filter-row__label { padding-top: .45rem; }
+#district-chips { max-height: 11rem; overflow-y: auto; }

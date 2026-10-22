@@ -22,7 +22,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/styles.css?v=20261023c">
+<link rel="stylesheet" href="assets/css/styles.css?v=20261023d">
 </head>
 <body>
 <a class="skip-link" href="#streets" data-en="Skip to the streets" data-ar="تخطَّ إلى الشوارع">Skip to the streets</a>
@@ -120,6 +120,10 @@
       <div class="filter-row">
         <span class="filter-row__label" data-en="Emirate" data-ar="الإمارة">Emirate</span>
         <div class="chips" id="emirate-chips" role="group" aria-label="Filter by emirate"></div>
+      </div>
+      <div class="filter-row" id="district-row" hidden>
+        <span class="filter-row__label" data-en="District" data-ar="الحي">District</span>
+        <div class="chips" id="district-chips" role="group" aria-label="Filter by district"></div>
       </div>
       <div class="filter-row">
         <span class="filter-row__label" data-en="Named after" data-ar="الاسم مأخوذ من">Named after</span>
@@ -305,7 +309,7 @@
   <div class="sheet__body" id="sheet-body"></div>
 </dialog>
 
-<script src="data/streets.js?v=20261023c"></script>
-<script src="assets/js/app.js?v=20261023c"></script>
+<script src="data/streets.js?v=20261023d"></script>
+<script src="assets/js/app.js?v=20261023d"></script>
 </body>
 </html>
