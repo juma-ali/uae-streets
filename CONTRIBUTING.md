@@ -382,3 +382,15 @@ Two details that were wrong at first and are worth keeping right:
 - the emirate chips use the id `uaq` while the index uses `umm-al-quwain`; without a mapping
   Umm Al Quwain showed **1** instead of 444;
 - the hero total is formatted with `toLocaleString` — it read `11470`.
+
+### Counts and caching
+
+Every count comes from **one source at a time**: while the index is loading the chips count
+the curated list (35), and once it is in they count the index (11,470). Adding the two
+double-counted the stories, which read `11505`.
+
+Rows outside any district keep their emirate through a synthetic district entry, so the
+emirate filters reach them — without it Dubai showed 554 instead of 902.
+
+Asset URLs carry `?v=` so a browser cannot keep serving yesterday's `app.js`; a stale
+script is indistinguishable from a bug when the numbers are wrong.

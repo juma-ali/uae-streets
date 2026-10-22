@@ -133,11 +133,12 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js";
+    s.src = "data/cards.js?v=20261023a";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
       setTotals();
+      try { renderStats(); } catch (e) {}
       roadsWaiting.splice(0).forEach(function (f) { f(); });
     };
     document.head.appendChild(s);
@@ -154,7 +155,6 @@
       var hay = (r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : "")).toLowerCase();
       var ok = true;
       for (var t = 0; t < tokens.length; t++) if (hay.indexOf(tokens[t]) === -1) { ok = false; break; }
-      if (r[7]) continue; // a curated card already covers this road
       if (ok) out.push({ row: r, district: d });
     }
     return out;
@@ -162,6 +162,7 @@
 
   function roadMatches() {
     return roadQueryMatches().filter(function (x) {
+      if (x.row[7]) return false; // a curated card already covers this road
       var emId = state.emirate === "uaq" ? "umm-al-quwain" : state.emirate;
       if (emId !== "all" && (!x.district || x.district[2] !== emId)) return false;
       if (state.category !== "all" && x.row[3] !== state.category) return false;
@@ -174,6 +175,7 @@
     var em = d ? emirateOf(d[2])[state.lang] : "";
     var catLabel = T.categoryNoun[r[3]] || r[3];
     var where = d ? (state.lang === "ar" ? d[1] || d[0] : d[0]) : "";
+    if (!where) where = em;
     var href = d ? "directory/" + d[2] + "/" + String(d[3]).replace(/[^\w-]/g, "_") + ".html" : "directory/index.html";
     var name = state.lang === "ar" && r[1]
       ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</h3>" +
@@ -270,38 +272,46 @@
   function refreshChipCounts() {
     $$('#emirate-chips .chip').forEach(function (chip) {
       var v = chip.getAttribute("data-value");
-      var n = STREETS.filter(function (s) {
-        if (v !== "all" && s.emirate !== v) return false;
-        if (state.category !== "all" && s.category !== state.category) return false;
-        var q = norm(state.q);
-        if (!q) return true;
-        return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
-      }).length;
       var emId = v === "uaq" ? "umm-al-quwain" : v;
-      n += roadQueryMatches().filter(function (x) {
-        if (emId !== "all" && (!x.district || x.district[2] !== emId)) return false;
-        if (state.category !== "all" && x.row[3] !== state.category) return false;
-        return true;
-      }).length;
+      var n;
+      if (ROADS) {
+        n = roadQueryMatches().filter(function (x) {
+          if (emId !== "all" && (!x.district || x.district[2] !== emId)) return false;
+          if (state.category !== "all" && x.row[3] !== state.category) return false;
+          return true;
+        }).length;
+      } else {
+        n = STREETS.filter(function (s) {
+          if (v !== "all" && s.emirate !== v) return false;
+          if (state.category !== "all" && s.category !== state.category) return false;
+          var q = norm(state.q);
+          if (!q) return true;
+          return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
+        }).length;
+      }
       chip.querySelector(".chip__count").textContent = n;
       chip.setAttribute("aria-pressed", String(state.emirate === v));
     });
 
     $$('#category-chips .chip').forEach(function (chip) {
       var v = chip.getAttribute("data-value");
-      var n = STREETS.filter(function (s) {
-        if (v !== "all" && s.category !== v) return false;
-        if (state.emirate !== "all" && s.emirate !== state.emirate) return false;
-        var q = norm(state.q);
-        if (!q) return true;
-        return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
-      }).length;
       var emId2 = state.emirate === "uaq" ? "umm-al-quwain" : state.emirate;
-      n += roadQueryMatches().filter(function (x) {
-        if (v !== "all" && x.row[3] !== v) return false;
-        if (emId2 !== "all" && (!x.district || x.district[2] !== emId2)) return false;
-        return true;
-      }).length;
+      var n;
+      if (ROADS) {
+        n = roadQueryMatches().filter(function (x) {
+          if (v !== "all" && x.row[3] !== v) return false;
+          if (emId2 !== "all" && (!x.district || x.district[2] !== emId2)) return false;
+          return true;
+        }).length;
+      } else {
+        n = STREETS.filter(function (s) {
+          if (v !== "all" && s.category !== v) return false;
+          if (state.emirate !== "all" && s.emirate !== state.emirate) return false;
+          var q = norm(state.q);
+          if (!q) return true;
+          return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
+        }).length;
+      }
       chip.querySelector(".chip__count").textContent = n;
       chip.setAttribute("aria-pressed", String(state.category === v));
     });
@@ -405,12 +415,21 @@
   function renderStats() {
     var box = $("#stats");
     if (!box) return;
+    var roadsFor = function (id) {
+      if (!ROADS) return 0;
+      var want = id === "uaq" ? "umm-al-quwain" : id;
+      return ROADS.rows.filter(function (r) {
+        var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
+        return d && d[2] === want;
+      }).length;
+    };
     var html = EMIRATES.map(function (e) {
-      var n = STREETS.filter(function (s) { return s.emirate === e.id; }).length;
-      return '<div class="stat"><dt>' + esc(e[state.lang]) + "</dt><dd>" + n + "</dd></div>";
+      var n = ROADS ? roadsFor(e.id) : STREETS.filter(function (s) { return s.emirate === e.id; }).length;
+      return '<div class="stat"><dt>' + esc(e[state.lang]) + "</dt><dd>" + n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</dd></div>";
     }).join("");
+    var total = (ROADS && ROADS.rows.length) || STREETS.length;
     html += '<div class="stat stat--total"><dt>' +
-      (state.lang === "ar" ? "المجموع" : "Total") + "</dt><dd>" + STREETS.length + "</dd></div>";
+      (state.lang === "ar" ? "المجموع" : "Total") + "</dt><dd>" + total.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</dd></div>";
     box.innerHTML = html;
   }
 

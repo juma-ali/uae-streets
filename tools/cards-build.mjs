@@ -49,11 +49,13 @@ const areaById = new Map(KB.areas.map((a) => [a.id, a]));
 const districts = [];
 const districtIndex = new Map();
 const districtFor = (areaId, emirate) => {
-  if (!areaId) return -1;
-  if (districtIndex.has(areaId)) return districtIndex.get(areaId);
-  const a = areaById.get(areaId);
-  districts.push([a ? a.path[3] : "", (a && a.name_ar) || "", emirate, areaId]);
-  districtIndex.set(areaId, districts.length - 1);
+  /* A road outside any district still has an emirate — keep it, so the emirate
+     filters can reach it. These rows share one synthetic entry per emirate. */
+  const key = areaId || "em:" + emirate;
+  if (districtIndex.has(key)) return districtIndex.get(key);
+  const a = areaId ? areaById.get(areaId) : null;
+  districts.push([a ? a.path[3] : "", (a && a.name_ar) || "", emirate, areaId || ""]);
+  districtIndex.set(key, districts.length - 1);
   return districts.length - 1;
 };
 
