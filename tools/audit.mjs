@@ -22,7 +22,8 @@ const arg = (n, d) => {
 };
 
 const sandbox = {};
-new Function("window", readFileSync(root + "data/kb.js", "utf8"))(sandbox);
+const kbPath = (() => { const i = process.argv.indexOf("--kb"); return i > -1 && process.argv[i + 1] ? process.argv[i + 1] : root + "data/kb.js"; })();
+new Function("window", readFileSync(kbPath, "utf8"))(sandbox);
 const KB = sandbox.KB;
 const S = KB.streets;
 
@@ -142,7 +143,7 @@ if (externalPath) {
   if (diffRows.length) lines.push("Spelling differences:", ...diffRows.slice(0, 10).map((x) => `- ${x}`), "");
 }
 
-writeFileSync(root + "docs/AUDIT.md", lines.join("\n") + "\n");
+if (!process.argv.includes("--assert")) writeFileSync(root + "docs/AUDIT.md", lines.join("\n") + "\n");
 
 console.log("checks:");
 for (const c of checks) console.log("  " + c.name.padEnd(36) + String(c.rows.length).padStart(6) + "  " + pct(c.rows.length));
@@ -163,6 +164,24 @@ if (strict) {
   bad("unknown emirate", S.filter((s) => !["abu-dhabi","dubai","sharjah","ajman","umm-al-quwain","ras-al-khaimah","fujairah"].includes(s.emirate)));
   bad("area rows that no street references", KB.areas.filter((a) => !S.some((s) => s.area === a.id)));
   bad("areas without a four-level path", KB.areas.filter((a) => !Array.isArray(a.path) || a.path.length !== 4));
+
+  /* Values can be valid while a whole emirate has silently vanished — that is
+     exactly what happened when "Ras al-Khaimah" (hyphens) failed the lookup and
+     2,000 streets were dropped as "outside any emirate". Assert presence, not
+     just validity. */
+  const SEVEN = ["abu-dhabi","dubai","sharjah","ajman","umm-al-quwain","ras-al-khaimah","fujairah"];
+  const recs = new Map((KB.emirates || []).map((e) => [e.id, e]));
+  for (const id of SEVEN) {
+    const rec = recs.get(id);
+    if (!rec) problems.push("emirate missing from KB.emirates: " + id);
+    else if (!rec.street_count) problems.push("emirate has no streets: " + id);
+    else {
+      const actual = S.filter((s) => s.emirate === id).length;
+      if (actual !== rec.street_count) problems.push("street_count is stale for " + id + " (" + rec.street_count + " vs " + actual + ")");
+    }
+  }
+  const total = [...recs.values()].reduce((n, e) => n + (e.street_count || 0), 0);
+  if (total !== S.length) problems.push("emirate totals sum to " + total + " but there are " + S.length + " streets");
 
   if (problems.length) {
     console.error("KB assertions failed:");

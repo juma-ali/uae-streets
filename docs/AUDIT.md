@@ -1,17 +1,17 @@
 # Integrity audit
 
-Generated 2026-10-22 · 11,530 streets · 344 districts
+Generated 2026-10-22 · 11,451 streets · 344 districts
 
 ## Internal checks
 
 | Check | Streets | Share | Note |
 |---|---|---|---|
-| No Arabic name | 317 | 2.75% | English-only rows |
-| Arabic name has no road word | 89 | 0.77% | usually bridges, roundabouts, districts |
+| No Arabic name | 310 | 2.71% | English-only rows |
+| Arabic name has no road word | 85 | 0.74% | usually bridges, roundabouts, districts |
 | Arabic name repeated as English | 1 | 0.01% | untranslated |
-| Name still contains digits | 57 | 0.49% | leftover numbering |
+| Name still contains digits | 57 | 0.50% | leftover numbering |
 | Name has stray punctuation | 0 | 0.00% |  |
-| No district assigned | 463 | 4.02% | outside admin_level 8/10 polygons |
+| No district assigned | 385 | 3.36% | outside admin_level 8/10 polygons |
 | Same name >15 km apart | 0 | 0.00% | possible wrong merge |
 | Points shared by >4 streets | 0 | 0.00% | centring bug indicator |
 
