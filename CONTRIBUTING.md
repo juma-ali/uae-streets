@@ -350,3 +350,14 @@ Under the street name, in this order:
 2. **Route E11 / D 94** — the official route number (`ref` in OSM), 409 streets;
 3. **formerly …** — the previous name (`old_name`), 133 major-road renames;
 4. **the gloss** — what the head noun means, place and word streets only.
+
+### The all-roads page
+
+`roads.html` renders a card for **every** road — all 11,470 — without loading the KB.
+`tools/cards-build.mjs` writes `data/cards.js` (~1 MB): one array per road holding both
+names, a district index, the category, route, former name, gloss and any story id.
+The grid draws 60 at a time with `Show more`; filtering and search happen in memory.
+
+Why not load `data/kb.js`? It is 4.7 MB and the guide's performance budget assumes a
+small page. The card index is the same trick as the search index: precompute what the
+UI shows, leave the rest out.

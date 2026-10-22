@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en" dir="ltr" data-title-en="All roads — UAE Streets" data-title-ar="كل الشوارع — شوارع الإمارات">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>All roads — UAE Streets</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="assets/css/styles.css">
+<style>
+  .roads-controls { display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; margin: 1.2rem 0 1.6rem; }
+  .roads-controls input, .roads-controls select {
+    font: inherit; padding: .55rem .8rem; border: 1px solid var(--line); border-radius: 10px;
+    background: var(--card); color: var(--ink);
+  }
+  .roads-controls input { flex: 1; min-width: 14rem; }
+  .roads-grid { display: grid; gap: .8rem; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .rcard { display: flex; flex-direction: column; gap: .35rem; padding: .8rem .9rem; border: 1px solid var(--line); border-radius: 12px; background: var(--card); text-decoration: none; color: var(--ink); }
+  .rcard:hover { border-color: var(--ink-3); text-decoration: none; }
+  .rcard__en { font-weight: 600; font-size: .96rem; line-height: 1.25; }
+  .rcard__ar { font-size: 1.02rem; color: var(--ink-2); direction: rtl; text-align: right; }
+  .rcard__where { font-size: .74rem; color: var(--ink-3); }
+  .rcard__meta { display: flex; flex-wrap: wrap; gap: .3rem; margin-top: .1rem; }
+  .rcard__chip { font-size: .64rem; letter-spacing: .06em; text-transform: uppercase; padding: .1rem .45rem; border: 1px solid var(--line); border-radius: 99px; color: var(--ink-3); }
+  .rcard__chip--story { border-color: var(--accent); color: var(--accent); }
+  .rcard__line { font-size: .76rem; color: var(--ink-3); }
+  .rcard__gloss { font-size: .8rem; color: var(--ink-2); }
+  .roads-more { margin: 1.6rem 0 3rem; text-align: center; }
+  .roads-count { font-size: .82rem; color: var(--ink-3); }
+</style>
+</head>
+<body>
+<header class="site-header" style="position:static">
+  <div class="wrap" style="display:flex;justify-content:space-between;align-items:center;gap:1rem">
+    <a class="brand" href="index.html" style="text-decoration:none;color:inherit">
+      <strong data-en="UAE Streets" data-ar="شوارع الإمارات">UAE Streets</strong>
+      <small data-en="all roads" data-ar="كل الشوارع">all roads</small>
+    </a>
+    <div style="display:flex;gap:.5rem;align-items:center">
+      <a href="directory/index.html" data-en="Directory" data-ar="الدليل" style="font-size:.85rem">Directory</a>
+      <button type="button" id="lang" class="btn" style="font-size:.78rem;padding:.3rem .7rem">العربية</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <h1 style="margin-top:1.4rem"><span data-en="Every road" data-ar="كل طريق">Every road</span></h1>
+  <p class="lede"><span data-en="All 11,470 named roads we hold, one card each — with the district, the naming pattern, route numbers, former names and, where a source exists, what the word means."
+     data-ar="كل الطرق المسمّاة لدينا، ١١٬٤٧٠ طريقاً، في بطاقة لكل طريق — مع الحي ونمط التسمية وأرقام الطرق والأسماء السابقة، ومعنى الكلمة حيث يوجد مصدر.">All 11,470 named roads we hold, one card each — with the district, the naming pattern, route numbers, former names and, where a source exists, what the word means.</span></p>
+
+  <div class="roads-controls">
+    <input id="q" type="search" autocomplete="off" data-placeholder-en="Search a name — English or Arabic" data-placeholder-ar="ابحث عن اسم — بالعربية أو الإنجليزية" placeholder="Search a name — English or Arabic">
+    <select id="em">
+      <option value="all" data-en="All emirates" data-ar="كل الإمارات">All emirates</option>
+    </select>
+    <select id="cat"></select>
+    <span class="roads-count" id="count"></span>
+  </div>
+
+  <div class="roads-grid" id="grid"></div>
+  <div class="roads-more"><button type="button" class="btn" id="more" hidden></button></div>
+</main>
+
+<script src="data/cards.js"></script>
+<script src="assets/js/roads.js"></script>
+</body>
+</html>
