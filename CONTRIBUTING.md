@@ -311,6 +311,9 @@ standard Arabic meanings for terms like وادي، جبل، رملة، سبخة�
 taken from UAE sources (نقا / عرقوب from *لهجتنا المحلية*; هور / هيرات from the NLA
 glossary).
 
+`ساروق` — "low ground between two dunes" — comes from Dubai Municipality's
+heritage director, quoted in [Al Bayan](https://www.albayan.ae/across-the-uae/news-and-reports/2016-06-23-1.2666647).
+
 Terms whose Gulf sense is not certain — بدع، محضر، غيط، وعبة — are deliberately
 **left out** rather than guessed, and those streets show no gloss.
 
