@@ -32,6 +32,8 @@
       prev: "Previous",
       next: "Next",
       sheetHint: "Street",
+      formerly: "Formerly",
+      now: "Now officially",
       meaning: "Meaning",
       sources: "Sources",
       originDocumented: "Documented name",
@@ -53,6 +55,8 @@
       prev: "السابق",
       next: "التالي",
       sheetHint: "شارع",
+      formerly: "كان يُعرف سابقاً باسم",
+      now: "يُعرف رسمياً الآن باسم",
       meaning: "المعنى",
       sources: "المصادر",
       originDocumented: "اسم موثّق",
@@ -339,6 +343,8 @@
         '<p class="sheet__emirate">' + esc(em[state.lang]) + " · " + esc(cat[state.lang]) + "</p>" +
         titleBlock +
         (s.translit ? '<p class="sheet__translit" dir="ltr">' + esc(s.translit) + "</p>" : "") +
+        (s.now ? '<p class="sheet__rename">' + esc(T.now) + " " + esc(s.now[state.lang]) + "</p>" : "") +
+        (s.former ? '<p class="sheet__rename">' + esc(T.formerly) + " " + esc(s.former[state.lang]) + "</p>" : "") +
         '<div class="sheet__tags">' +
           '<span class="sheet__tag">' + esc(T.categoryNoun[s.category] || "") + "</span>" +
           '<span class="sheet__tag sheet__tag--origin' + (isLocal ? " is-local" : "") + '">' +

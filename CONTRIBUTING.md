@@ -27,7 +27,7 @@ Double-click `index.html`. That's it.
 | `index.html` | Page structure + all fixed text (each string has an `data-en` and `data-ar` twin) | you want to change headings, the “How names work” section, or the footer |
 | `assets/css/styles.css` | Design tokens, layout, dark mode, RTL | you want different colours, type, spacing |
 | `assets/js/app.js` | Search, filters, detail panel, language + theme, URL state | you want new behaviour |
-| `data/streets.js` | **The content.** All 27 streets live here | you add or correct a street |
+| `data/streets.js` | **The content.** All 27 streets live here; optional `former:` / `now:` record renames | you add or correct a street |
 | `data/kb.js` | Knowledge base: 11,567 streets, 7 emirates, 344 districts (ODbL) — rules in `docs/KB.md` | regenerate with the tools below |
 | `tools/pbf-import.mjs` | Reads the UAE extract offline and emits roads for one or more bboxes | the primary collector |
 | `tools/pbf-boundaries.mjs` | Stitches admin boundaries from the PBF into rings | districts are missing or wrong |
@@ -264,3 +264,18 @@ repository URL into `CITATION.cff`.
 
 Built with plain HTML, CSS and JavaScript. Type: Fraunces, Inter, IBM Plex Sans Arabic.
 Content compiled from public sources; local accounts are labelled as such.
+
+
+### Renames
+
+Two optional fields on a street entry, both `{ en, ar }`:
+
+- `former:` — the name the road used to carry. Shown when the entry uses the
+  current name, e.g. *Zayed The First Street* → "Formerly Electra Street".
+- `now:` — the name the road carries officially today. Shown when the entry uses
+  the name people still say, e.g. *Electra Street* → "Now officially Zayed The
+  First Street".
+
+Both render under the transliteration in the detail sheet, in whichever language
+is active. Use them when the sign and the street disagree; do not use them for
+translations (`ar`/`en` already carry those).

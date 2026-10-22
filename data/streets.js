@@ -42,6 +42,7 @@ window.STREETS = [
     ar: "شارع زايد الأول",
     en: "Zayed the First Street",
     translit: "Shāriʿ Zāyid al-Awwal",
+    former: { en: "Electra Street", ar: "شارع الإلكترا" },
     meaning: { en: "The 19th-century ruler called Zayed the Great", ar: "حاكم القرن التاسع عشر الملقّب بزايد الكبير" },
     story: {
       en: "Not the founding father, but his great-grandfather: Sheikh Zayed bin Khalifa Al Nahyan, 'Zayed the Great', ruled Abu Dhabi from 1855 to 1909. His reign was the age when pearl diving made the town rich and Al Nahyan influence spread along the coast — which is why the family kept reusing the name.",
@@ -70,6 +71,7 @@ window.STREETS = [
     ar: "شارع المرور",
     en: "Muroor Road",
     translit: "Shāriʿ al-Murūr",
+    now: { en: "Sultan Bin Zayed The First Street", ar: "شارع سلطان بن زايد الأول" },
     meaning: { en: "Traffic", ar: "المرور" },
     story: {
       en: "Muroor simply means 'traffic', and the road is named for the traffic police headquarters that has long stood on it. Abu Dhabi drivers navigate by destination rather than by geography: the traffic road, the airport road, the defence road.",
@@ -84,6 +86,7 @@ window.STREETS = [
     ar: "شارع الإلكترا",
     en: "Electra Street",
     translit: "Shāriʿ al-Electra",
+    now: { en: "Zayed The First Street", ar: "شارع زايد الأول" },
     meaning: { en: "The Electra road", ar: "طريق بناية الإلكترا" },
     story: {
       en: "One of the capital's best-known shopping streets, Electra takes its name from a building — the Electra building, remembered in connection with an electrical company — that once anchored the street. Local accounts differ on the details, but everyone agrees the name arrived with a building, not a person.",
