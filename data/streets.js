@@ -52,15 +52,16 @@ window.STREETS = [
   {
     id: "al-najda-street",
     emirate: "abu-dhabi",
-    category: "word",
+    category: "place",
     origin: "local",
     ar: "شارع النجدة",
     en: "Al Najda Street",
     translit: "Shāriʿ an-Najda",
-    meaning: { en: "Help, rescue", ar: "العون والإنقاذ" },
+    now: { en: "Sheikha Fatima bint Mubarak Street", ar: "شارع الشيخة فاطمة بنت مبارك" },
+    meaning: { en: "Rescue — after the civil defence station", ar: "الإنقاذ — نسبة إلى محطة النجدة" },
     story: {
-      en: "Najda is the Arabic word for help or rescue. A widely repeated local account says the name stuck because the road led to the city's hospital and emergency services; others simply hear a name of good omen. Either way, it is one of the capital's oldest commercial streets.",
-      ar: "«النجدة» في العربية العون والإنقاذ. ويروي أهل المدينة أن الاسم لصق بالشارع لأنه كان يؤدّي إلى المستشفى وخدمات الطوارئ، فيما يسمع آخرون فيه اسماً مباركاً لا أكثر. وعلى أي حال، فهو من أقدم شوارع العاصمة التجارية."
+      en: "The street is officially named Sheikha Fatima bint Mubarak Street, but generations of Abu Dhabi residents know it as Al Najda — from al-najda, 'rescue' — after the main fire and rescue station that stood on it. The passage of ambulances and fire engines made the name a familiar daily landmark, and the street is one of the capital's oldest commercial ones.",
+      ar: "يُعرف الشارع رسمياً باسم شارع الشيخة فاطمة بنت مبارك، لكن أجيالاً من سكان أبوظبي تعرفه بـ«النجدة»، نسبة إلى محطة الإطفاء والإنقاذ الرئيسية التي كانت تقع فيه. وقد ارتبط الاسم في أذهان الناس بمرور سيارات الإسعاف والإطفاء، فصار علامة استدلالية يومية، وهو من أقدم شوارع العاصمة التجارية."
     }
   },
   {

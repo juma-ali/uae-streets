@@ -31,7 +31,7 @@ const EDITORIAL = load(root + "data/streets.js", "STREETS");
 /* The guide's name for a street and OSM's name for it differ in 3 cases; these
    aliases are the whole fix. The other 5 stories have no mapped street at all. */
 const ALIAS = {
-  "Al Najda Street": "Al Najdah Street",
+  "Al Najda Street": "Sheikha Fatima bint Mubarak Street",
   "Oud Metha Road": "Oud Maitha Road",
   "Sheikh Mohammed bin Salem Street": "Sheikh Mohammad Bin Salem Road",
   // Abu Dhabi renamed these; the guide keeps the names people use.
