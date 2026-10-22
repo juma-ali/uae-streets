@@ -57,7 +57,7 @@ const body = rows
     return `<tr data-i="${i}" data-id="${esc(r.osm)}">
   <td class="num">${i + 1}</td>
   <td><div class="en">${esc(r.en)}</div><div class="ar" lang="ar" dir="rtl">${esc(r.ar)}</div></td>
-  <td class="where">${esc(r.district)}<br><span>${esc(r.emirate)}</span></td>
+  <td class="where"><span class="d">${esc(r.district)}</span><br><span class="e">${esc(r.emirate)}</span></td>
   <td class="links"><a href="${gmaps}" target="_blank" rel="noopener">Map</a> · <a href="${osm}" target="_blank" rel="noopener">OSM</a></td>
   <td class="verdict">
     <button data-v="ok">ok</button><button data-v="typo">typo</button><button data-v="wrong">wrong</button><button data-v="missing">missing</button>
@@ -106,6 +106,7 @@ td.links a{color:var(--accent);text-decoration:none;font-size:.8rem}
   <label style="font-size:.82rem;color:var(--ink3)"><input type="checkbox" id="hide"> hide done</label>
   <button id="export">Export CSV</button>
   <button id="reset">Reset</button>
+  <label style="font-size:.82rem;color:var(--ink3);cursor:pointer">Import CSV<input type="file" id="import" accept=".csv" hidden></label>
 </header>
 <div class="wrap">
 <table><tbody>
@@ -157,8 +158,8 @@ document.getElementById("export").addEventListener("click", function () {
     var c = tr.children;
     var en = c[1].querySelector(".en").textContent;
     var ar = c[1].querySelector(".ar").textContent;
-    var where = c[2].textContent.split("\\n")[0];
-    var em = c[2].querySelector("span").textContent;
+    var where = c[2].querySelector(".d").textContent;
+    var em = c[2].querySelector(".e").textContent;
     var osm = tr.dataset.id;
     var lat = "", lon = "";
     var link = c[3].querySelector("a").href;
@@ -172,6 +173,38 @@ document.getElementById("export").addEventListener("click", function () {
   a.download = "verification-sample.csv";
   a.click();
   URL.revokeObjectURL(a.href);
+});
+
+document.getElementById("import").addEventListener("change", function (e) {
+  var f = e.target.files && e.target.files[0];
+  if (!f) return;
+  var reader = new FileReader();
+  reader.onload = function () {
+    var text = String(reader.result).replace(/^\uFEFF/, "");
+    var lines = text.split(/\r?\n/).filter(Boolean).slice(1);
+    var n = 0;
+    lines.forEach(function (line) {
+      // all columns are quoted: split on commas that are outside quotes
+      var f2 = [], cur = "", q = false;
+      for (var i = 0; i < line.length; i++) {
+        var c = line[i];
+        if (q) {
+          if (c === '"' && line[i + 1] === '"') { cur += '"'; i++; }
+          else if (c === '"') q = false;
+          else cur += c;
+        } else if (c === '"') q = true;
+        else if (c === ",") { f2.push(cur); cur = ""; }
+        else cur += c;
+      }
+      f2.push(cur);
+      var osm = f2[6], verdict = (f2[7] || "").trim();
+      if (osm && verdict) { store[osm] = verdict; n++; }
+    });
+    localStorage.setItem(KEY, JSON.stringify(store));
+    paint();
+    alert("Imported " + n + " verdicts.");
+  };
+  reader.readAsText(f);
 });
 
 paint();
