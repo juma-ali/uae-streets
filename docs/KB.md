@@ -80,13 +80,13 @@ replacing only the scope it was given. Overpass is flaky — see the roadmap.
 
 | Emirate | Streets | Named roads in OSM | Districts |
 |---|---|---|---|
-| Abu Dhabi | 8,963 | 42,868 | 0 |
-| Dubai | 902 | 23,960 | 0 |
-| Sharjah | 869 | 5,555 | 0 |
-| Umm al-Quwain | 459 | 1,217 | 0 |
-| Ajman | 109 | 2,009 | 0 |
-| Ras al-Khaimah | 90 | 741 | 0 |
-| Fujairah | 78 | 1,029 | 0 |
+| Abu Dhabi | 8,963 | 42,868 | 166 |
+| Dubai | 902 | 23,960 | 91 |
+| Sharjah | 869 | 5,555 | 26 |
+| Umm al-Quwain | 459 | 1,217 | 23 |
+| Ajman | 109 | 2,009 | 15 |
+| Ras al-Khaimah | 90 | 741 | 23 |
+| Fujairah | 78 | 1,029 | 1 |
 
 **11,470 streets · 11,153 with Arabic names · 344 districts · 4.4 MB.**
 
