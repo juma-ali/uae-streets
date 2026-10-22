@@ -110,8 +110,9 @@ const L4 = prepared.filter((b) => b.level === 4 && EMIRATE_NAMES[(b.name_en || "
 const L5 = prepared.filter((b) => b.level === 5);
 const L6 = prepared.filter((b) => b.level === 6);
 const L8 = prepared.filter((b) => b.level === 8);
+const L10 = prepared.filter((b) => b.level === 10);
 
-console.log(`boundaries: ${L4.length} emirates, ${L5.length} L5, ${L6.length} L6, ${L8.length} districts`);
+console.log(`boundaries: ${L4.length} emirates, ${L5.length} L5, ${L6.length} L6, ${L8.length} L8, ${L10.length} L10`);
 
 /* ---------- assign ---------- */
 const emirates = new Map();   // id -> {id, osm, name_en, name_ar, street_count}
@@ -151,13 +152,17 @@ for (const el of roads) {
     continue;
   }
 
-  const d8 = containing(L8, c.lat, c.lon);
+  // Some emirates (notably Dubai) have no admin_level 8; level 10 is the
+  // neighbourhood boundary there, so it serves as the district fallback.
+  let d8 = containing(L8, c.lat, c.lon) || containing(L10, c.lat, c.lon);
+  if (d8 && !d8.name_en && !d8.name_ar) d8 = null; // unnamed polygon → no district
   const l6 = containing(L6, c.lat, c.lon);
   const l5 = containing(L5, c.lat, c.lon);
 
   const emName = em.name_en || emId;
+  const emShort = emName.replace(/ Emirate$/i, "");
   const path = d8
-    ? [emName, (l5 && l5.name_en) || emName, (l6 && l6.name_en) || emName, d8.name_en || d8.name_ar]
+    ? [emName, (l5 && l5.name_en) || emShort, (l6 && l6.name_en) || emShort, d8.name_en || d8.name_ar]
     : null;
 
   let areaId = null;

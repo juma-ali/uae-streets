@@ -51,7 +51,7 @@ replacing only the scope it was given. Overpass is flaky — see the roadmap.
 
 | Emirate | Streets | Named roads in OSM | Districts |
 |---|---|---|---|
-| Abu Dhabi | 9,004 | 42,868 | most of the 258 |
+| Abu Dhabi | 9,004 | 42,868 | most of the 344 |
 | Dubai | 934 | 23,960 | few |
 | Sharjah | 881 | 5,555 | some |
 | Umm Al Quwain | 466 | 1,217 | some |
@@ -59,7 +59,7 @@ replacing only the scope it was given. Overpass is flaky — see the roadmap.
 | Ras Al Khaimah | 92 | 741 | few |
 | Fujairah | 79 | 1,029 | few |
 
-**11,567 streets · 11,186 with Arabic names · 258 districts · 3.8 MB.**
+**11,567 streets · 11,186 with Arabic names · 344 districts · 3.8 MB.**
 
 Two numbers explain the shape of that table:
 
@@ -67,8 +67,9 @@ Two numbers explain the shape of that table:
   934 streets because **54% of its roads are numbered** (`12A Street`, `Street 5`).
   Ajman is 62% numeric. That is the owner's rule working as intended, not a bug — but
   it means the Dubai listing is thin by design, not by accident.
-- **958 streets have no district** (mostly Dubai), because OSM has no
-  `admin_level 8` polygon there. They keep `area: null` rather than being guessed.
+- **463 streets have no district**: `admin_level 8` where it exists, `admin_level 10`
+  as Dubai's neighbourhood fallback (that recovered 562), and `area: null` for the
+  rest — plus one unnamed polygon, which is dropped rather than shown blank.
 
 Abu Dhabi remains the deepest: 86 districts and 92% of its streets resolve to the
 full path —

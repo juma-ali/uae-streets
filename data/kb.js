@@ -60,7 +60,7 @@ window.KB = {
       "id": "abu-al-abyad-island-13251471",
       "path": [
         "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
+        "Abu Dhabi",
         "Abu Dhabi",
         "Abu Al Abyad Island"
       ],
@@ -77,7 +77,7 @@ window.KB = {
       "id": "abu-dhabi-industrial-city-13251451",
       "path": [
         "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
+        "Abu Dhabi",
         "Abu Dhabi",
         "Abu Dhabi Industrial City"
       ],
@@ -94,7 +94,7 @@ window.KB = {
       "id": "al-adlah-13251371",
       "path": [
         "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
+        "Abu Dhabi",
         "Abu Dhabi",
         "Al 'Adlah"
       ],
@@ -111,7 +111,7 @@ window.KB = {
       "id": "al-bahyah-13251343",
       "path": [
         "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
+        "Abu Dhabi",
         "Abu Dhabi",
         "Al Bahyah"
       ],
@@ -123,2131 +123,6 @@ window.KB = {
         54.695923
       ],
       "street_count": 127
-    },
-    {
-      "id": "al-bihouth-13251461",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Bihouth"
-      ],
-      "osm": "relation/13251461",
-      "bbox": [
-        24.087372,
-        54.414846,
-        24.287897,
-        54.604551
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "al-haffar-13251365",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Haffar"
-      ],
-      "osm": "relation/13251365",
-      "bbox": [
-        24.206198,
-        54.737505,
-        24.346232,
-        54.974579
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "al-hidayriyyat-13251452",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Hidayriyyat"
-      ],
-      "osm": "relation/13251452",
-      "bbox": [
-        24.283111,
-        54.317206,
-        24.448765,
-        54.464262
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "al-khatm-13251367",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Khatm"
-      ],
-      "osm": "relation/13251367",
-      "bbox": [
-        24.155719,
-        54.905986,
-        24.201972,
-        55.049448
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "al-layyan-13251382",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Layyan"
-      ],
-      "osm": "relation/13251382",
-      "bbox": [
-        24.658188,
-        54.851674,
-        24.897527,
-        55.170739
-      ],
-      "street_count": 23
-    },
-    {
-      "id": "al-ma-mourah-13251377",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Ma'mourah"
-      ],
-      "osm": "relation/13251377",
-      "bbox": [
-        24.695416,
-        54.612137,
-        24.855387,
-        54.764964
-      ],
-      "street_count": 9
-    },
-    {
-      "id": "al-mi-rad-13251362",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Mi'rad"
-      ],
-      "osm": "relation/13251362",
-      "bbox": [
-        24.338627,
-        54.742879,
-        24.436588,
-        54.841487
-      ],
-      "street_count": 4
-    },
-    {
-      "id": "al-nahdah-13251364",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Nahdah"
-      ],
-      "osm": "relation/13251364",
-      "bbox": [
-        24.238462,
-        54.647821,
-        24.390459,
-        54.761204
-      ],
-      "street_count": 82
-    },
-    {
-      "id": "al-rahbah-13251352",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Rahbah"
-      ],
-      "osm": "relation/13251352",
-      "bbox": [
-        24.563966,
-        54.669283,
-        24.634375,
-        54.71702
-      ],
-      "street_count": 51
-    },
-    {
-      "id": "al-sader-13251342",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Sader"
-      ],
-      "osm": "relation/13251342",
-      "bbox": [
-        24.57651,
-        54.635526,
-        24.720699,
-        54.730104
-      ],
-      "street_count": 36
-    },
-    {
-      "id": "al-samhah-13251374",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Samhah"
-      ],
-      "osm": "relation/13251374",
-      "bbox": [
-        24.620906,
-        54.699058,
-        24.710808,
-        54.803055
-      ],
-      "street_count": 118
-    },
-    {
-      "id": "al-shahamah-13251353",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Shahamah"
-      ],
-      "osm": "relation/13251353",
-      "bbox": [
-        24.464071,
-        54.643934,
-        24.547743,
-        54.69411
-      ],
-      "street_count": 64
-    },
-    {
-      "id": "al-shinayin-13251468",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Shinayin"
-      ],
-      "osm": "relation/13251468",
-      "bbox": [
-        23.667871,
-        54.115667,
-        24.213135,
-        54.420275
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "al-taweelah-13251376",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Taweelah"
-      ],
-      "osm": "relation/13251376",
-      "bbox": [
-        24.683229,
-        54.626609,
-        24.788241,
-        54.730029
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "al-wathbah-13251460",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Al Wathbah"
-      ],
-      "osm": "relation/13251460",
-      "bbox": [
-        24.135028,
-        54.553305,
-        24.281033,
-        54.857723
-      ],
-      "street_count": 55
-    },
-    {
-      "id": "dihan-13251368",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Dihan"
-      ],
-      "osm": "relation/13251368",
-      "bbox": [
-        24.180593,
-        54.897619,
-        24.273179,
-        55.102821
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "ghantout-13251381",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Ghantout"
-      ],
-      "osm": "relation/13251381",
-      "bbox": [
-        24.844349,
-        54.843118,
-        24.923647,
-        54.940734
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "jarn-yafour-13251448",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Jarn Yafour"
-      ],
-      "osm": "relation/13251448",
-      "bbox": [
-        24.246573,
-        54.552906,
-        24.308873,
-        54.647821
-      ],
-      "street_count": 56
-    },
-    {
-      "id": "madinat-al-riyad-13251363",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Madinat Al Riyad"
-      ],
-      "osm": "relation/13251363",
-      "bbox": [
-        24.318651,
-        54.722958,
-        24.387744,
-        54.799618
-      ],
-      "street_count": 288
-    },
-    {
-      "id": "mshayrif-13251462",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Mshayrif"
-      ],
-      "osm": "relation/13251462",
-      "bbox": [
-        23.817237,
-        54.412425,
-        24.20212,
-        55.104734
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "musaffah-13251450",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Musaffah"
-      ],
-      "osm": "relation/13251450",
-      "bbox": [
-        24.311844,
-        54.447187,
-        24.385895,
-        54.526523
-      ],
-      "street_count": 51
-    },
-    {
-      "id": "muwaylih-13251375",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Muwaylih"
-      ],
-      "osm": "relation/13251375",
-      "bbox": [
-        24.596587,
-        54.71702,
-        24.657113,
-        54.903381
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "rawdat-al-reef-13251372",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Rawdat Al Reef"
-      ],
-      "osm": "relation/13251372",
-      "bbox": [
-        24.46062,
-        54.675226,
-        24.555621,
-        54.747402
-      ],
-      "street_count": 20
-    },
-    {
-      "id": "zayed-military-city-13251384",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Abu Dhabi",
-        "Zayed Military City"
-      ],
-      "osm": "relation/13251384",
-      "bbox": [
-        24.4193,
-        54.745363,
-        24.619369,
-        55.126875
-      ],
-      "street_count": 6
-    },
-    {
-      "id": "asharij-13251408",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "'Asharij"
-      ],
-      "osm": "relation/13251408",
-      "bbox": [
-        24.185044,
-        55.650387,
-        24.216989,
-        55.692505
-      ],
-      "street_count": 45
-    },
-    {
-      "id": "abu-samrah-13251440",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Abu Samrah"
-      ],
-      "osm": "relation/13251440",
-      "bbox": [
-        24.171294,
-        55.359241,
-        24.229671,
-        55.428937
-      ],
-      "street_count": 12
-    },
-    {
-      "id": "ain-al-faydah-13251441",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Ain Al Faydah"
-      ],
-      "osm": "relation/13251441",
-      "bbox": [
-        24.034361,
-        55.628969,
-        24.104029,
-        55.728266
-      ],
-      "street_count": 86
-    },
-    {
-      "id": "al-ajban-13251429",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al 'Ajban"
-      ],
-      "osm": "relation/13251429",
-      "bbox": [
-        24.466916,
-        55.126875,
-        24.694054,
-        55.562073
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "al-arad-13251464",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al 'Arad"
-      ],
-      "osm": "relation/13251464",
-      "bbox": [
-        23.729251,
-        55.274649,
-        23.904491,
-        55.535747
-      ],
-      "street_count": 10
-    },
-    {
-      "id": "al-iqabiyyah-13251409",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al 'Iqabiyyah"
-      ],
-      "osm": "relation/13251409",
-      "bbox": [
-        24.153206,
-        55.659404,
-        24.19795,
-        55.704456
-      ],
-      "street_count": 54
-    },
-    {
-      "id": "al-aamerah-13251438",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Aamerah"
-      ],
-      "osm": "relation/13251438",
-      "bbox": [
-        24.164996,
-        55.485778,
-        24.306409,
-        55.601606
-      ],
-      "street_count": 239
-    },
-    {
-      "id": "al-ain-international-airport-13251421",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Ain International Airport"
-      ],
-      "osm": "relation/13251421",
-      "bbox": [
-        24.23078,
-        55.578533,
-        24.349783,
-        55.66936
-      ],
-      "street_count": 5
-    },
-    {
-      "id": "al-bateen-13251413",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Bateen"
-      ],
-      "osm": "relation/13251413",
-      "bbox": [
-        24.184296,
-        55.584798,
-        24.220943,
-        55.64542
-      ],
-      "street_count": 63
-    },
-    {
-      "id": "al-dahma-13251414",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Dahma"
-      ],
-      "osm": "relation/13251414",
-      "bbox": [
-        24.201806,
-        55.594005,
-        24.26279,
-        55.679344
-      ],
-      "street_count": 32
-    },
-    {
-      "id": "al-dhahir-13251400",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Dhahir"
-      ],
-      "osm": "relation/13251400",
-      "bbox": [
-        24.064101,
-        55.821453,
-        24.119345,
-        55.876776
-      ],
-      "street_count": 220
-    },
-    {
-      "id": "al-dhahrah-13251444",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Dhahrah"
-      ],
-      "osm": "relation/13251444",
-      "bbox": [
-        23.893569,
-        55.425559,
-        24.043573,
-        55.674888
-      ],
-      "street_count": 23
-    },
-    {
-      "id": "al-faqa-13251426",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Faqa'"
-      ],
-      "osm": "relation/13251426",
-      "bbox": [
-        24.58417,
-        55.522614,
-        24.745607,
-        55.736126
-      ],
-      "street_count": 19
-    },
-    {
-      "id": "al-fou-ah-13251422",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Fou'ah"
-      ],
-      "osm": "relation/13251422",
-      "bbox": [
-        24.315933,
-        55.777875,
-        24.40956,
-        55.834202
-      ],
-      "street_count": 101
-    },
-    {
-      "id": "al-hiyar-13251425",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Hiyar"
-      ],
-      "osm": "relation/13251425",
-      "bbox": [
-        24.464142,
-        55.552602,
-        24.690612,
-        55.836581
-      ],
-      "street_count": 64
-    },
-    {
-      "id": "al-jahili-13251385",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Jahili"
-      ],
-      "osm": "relation/13251385",
-      "bbox": [
-        24.203633,
-        55.745229,
-        24.220768,
-        55.760127
-      ],
-      "street_count": 25
-    },
-    {
-      "id": "al-jimi-13251416",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Jimi"
-      ],
-      "osm": "relation/13251416",
-      "bbox": [
-        24.228842,
-        55.719427,
-        24.269348,
-        55.755738
-      ],
-      "street_count": 133
-    },
-    {
-      "id": "al-khaznah-13251446",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Khaznah"
-      ],
-      "osm": "relation/13251446",
-      "bbox": [
-        23.981362,
-        55.036059,
-        24.303346,
-        55.250124
-      ],
-      "street_count": 25
-    },
-    {
-      "id": "al-khibeesi-13251411",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Khibeesi"
-      ],
-      "osm": "relation/13251411",
-      "bbox": [
-        24.216989,
-        55.679344,
-        24.242853,
-        55.719554
-      ],
-      "street_count": 91
-    },
-    {
-      "id": "al-khirayr-13251396",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Khirayr"
-      ],
-      "osm": "relation/13251396",
-      "bbox": [
-        24.110436,
-        55.803015,
-        24.164659,
-        55.902172
-      ],
-      "street_count": 7
-    },
-    {
-      "id": "al-madeenah-as-sina-iyah-3-street-13251443",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Madeenah As Sina'iyah 3 Street"
-      ],
-      "osm": "relation/13251443",
-      "bbox": [
-        23.97699,
-        55.419147,
-        24.090454,
-        55.66887
-      ],
-      "street_count": 4
-    },
-    {
-      "id": "al-maqam-13251410",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Maqam"
-      ],
-      "osm": "relation/13251410",
-      "bbox": [
-        24.166203,
-        55.596349,
-        24.204459,
-        55.664223
-      ],
-      "street_count": 66
-    },
-    {
-      "id": "al-markhaniyyah-13251412",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Markhaniyyah"
-      ],
-      "osm": "relation/13251412",
-      "bbox": [
-        24.196476,
-        55.629133,
-        24.233454,
-        55.683221
-      ],
-      "street_count": 80
-    },
-    {
-      "id": "al-mas-oudi-13251418",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Mas'oudi"
-      ],
-      "osm": "relation/13251418",
-      "bbox": [
-        24.265189,
-        55.71955,
-        24.304994,
-        55.759138
-      ],
-      "street_count": 57
-    },
-    {
-      "id": "al-mu-tarid-13251406",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Mu'tarid"
-      ],
-      "osm": "relation/13251406",
-      "bbox": [
-        24.202711,
-        55.730165,
-        24.239838,
-        55.7549
-      ],
-      "street_count": 87
-    },
-    {
-      "id": "al-mutaw-ah-13251386",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Mutaw'ah"
-      ],
-      "osm": "relation/13251386",
-      "bbox": [
-        24.205159,
-        55.749578,
-        24.2145,
-        55.769624
-      ],
-      "street_count": 18
-    },
-    {
-      "id": "al-muwaij-i-13251407",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Muwaij'i"
-      ],
-      "osm": "relation/13251407",
-      "bbox": [
-        24.188936,
-        55.683221,
-        24.233783,
-        55.737414
-      ],
-      "street_count": 145
-    },
-    {
-      "id": "al-qattarah-13251417",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Qattarah"
-      ],
-      "osm": "relation/13251417",
-      "bbox": [
-        24.251734,
-        55.740321,
-        24.273213,
-        55.767056
-      ],
-      "street_count": 31
-    },
-    {
-      "id": "al-qou-13251495",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Qou'"
-      ],
-      "osm": "relation/13251495",
-      "bbox": [
-        23.047919,
-        54.775111,
-        23.575755,
-        55.484224
-      ],
-      "street_count": 103
-    },
-    {
-      "id": "al-rawdah-al-sharqiyah-13251433",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Rawdah Al Sharqiyah"
-      ],
-      "osm": "relation/13251433",
-      "bbox": [
-        24.126643,
-        55.62067,
-        24.174007,
-        55.676562
-      ],
-      "street_count": 94
-    },
-    {
-      "id": "al-ruwaydat-13251395",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Ruwaydat"
-      ],
-      "osm": "relation/13251395",
-      "bbox": [
-        24.099062,
-        55.755165,
-        24.199542,
-        55.825606
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "al-sad-13251439",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Sad"
-      ],
-      "osm": "relation/13251439",
-      "bbox": [
-        24.16118,
-        55.365224,
-        24.319294,
-        55.530189
-      ],
-      "street_count": 40
-    },
-    {
-      "id": "al-salamat-13251437",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Salamat"
-      ],
-      "osm": "relation/13251437",
-      "bbox": [
-        24.130868,
-        55.477988,
-        24.234211,
-        55.624011
-      ],
-      "street_count": 67
-    },
-    {
-      "id": "al-sarouj-13251392",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Sarouj"
-      ],
-      "osm": "relation/13251392",
-      "bbox": [
-        24.182984,
-        55.766892,
-        24.213247,
-        55.82098
-      ],
-      "street_count": 90
-    },
-    {
-      "id": "al-shiwayb-13251427",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Shiwayb"
-      ],
-      "osm": "relation/13251427",
-      "bbox": [
-        24.661699,
-        55.705177,
-        24.793647,
-        55.836481
-      ],
-      "street_count": 39
-    },
-    {
-      "id": "al-shuwaymah-13251393",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Shuwaymah"
-      ],
-      "osm": "relation/13251393",
-      "bbox": [
-        24.170075,
-        55.806142,
-        24.206436,
-        55.854351
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "al-tiwayya-13251415",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Tiwayya"
-      ],
-      "osm": "relation/13251415",
-      "bbox": [
-        24.233454,
-        55.66936,
-        24.2746,
-        55.720512
-      ],
-      "street_count": 103
-    },
-    {
-      "id": "al-wiqan-13251465",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Al Wiqan"
-      ],
-      "osm": "relation/13251465",
-      "bbox": [
-        23.513934,
-        55.260503,
-        23.759487,
-        55.572309
-      ],
-      "street_count": 40
-    },
-    {
-      "id": "bad-bint-sa-oud-13251423",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Bad' Bint Sa'oud"
-      ],
-      "osm": "relation/13251423",
-      "bbox": [
-        24.307224,
-        55.555581,
-        24.440214,
-        55.768707
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "bu-kirayyah-13251463",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Bu Kirayyah"
-      ],
-      "osm": "relation/13251463",
-      "bbox": [
-        23.868668,
-        55.225098,
-        24.006795,
-        55.445438
-      ],
-      "street_count": 7
-    },
-    {
-      "id": "central-district-13251405",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Central District"
-      ],
-      "osm": "relation/13251405",
-      "bbox": [
-        24.200424,
-        55.750786,
-        24.23473,
-        55.833396
-      ],
-      "street_count": 110
-    },
-    {
-      "id": "falaj-hazza-13251391",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Falaj Hazza'"
-      ],
-      "osm": "relation/13251391",
-      "bbox": [
-        24.168261,
-        55.698038,
-        24.205862,
-        55.754957
-      ],
-      "street_count": 78
-    },
-    {
-      "id": "ghireebah-13251436",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Ghireebah"
-      ],
-      "osm": "relation/13251436",
-      "bbox": [
-        24.123218,
-        55.534694,
-        24.184296,
-        55.657831
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "ghnaymah-13251435",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Ghnaymah"
-      ],
-      "osm": "relation/13251435",
-      "bbox": [
-        24.115923,
-        55.572342,
-        24.175201,
-        55.664874
-      ],
-      "street_count": 43
-    },
-    {
-      "id": "hili-13251419",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Hili"
-      ],
-      "osm": "relation/13251419",
-      "bbox": [
-        24.262092,
-        55.744503,
-        24.346641,
-        55.815721
-      ],
-      "street_count": 177
-    },
-    {
-      "id": "industrial-area-13251387",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Industrial Area"
-      ],
-      "osm": "relation/13251387",
-      "bbox": [
-        24.111992,
-        55.736739,
-        24.205661,
-        55.775301
-      ],
-      "street_count": 6
-    },
-    {
-      "id": "jabal-hafeet-13251399",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Jabal Hafeet"
-      ],
-      "osm": "relation/13251399",
-      "bbox": [
-        24.01463,
-        55.739158,
-        24.125753,
-        55.839194
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "malaqit-13251397",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Malaqit"
-      ],
-      "osm": "relation/13251397",
-      "bbox": [
-        24.119318,
-        55.852264,
-        24.199243,
-        55.942965
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "masakin-13251424",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Masakin"
-      ],
-      "osm": "relation/13251424",
-      "bbox": [
-        24.366971,
-        55.635405,
-        24.489518,
-        55.828959
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "mazyad-13251401",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Mazyad"
-      ],
-      "osm": "relation/13251401",
-      "bbox": [
-        24.015602,
-        55.832987,
-        24.069989,
-        55.927908
-      ],
-      "street_count": 79
-    },
-    {
-      "id": "mbazzarah-al-khadra-13251398",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Mbazzarah Al Khadra"
-      ],
-      "osm": "relation/13251398",
-      "bbox": [
-        24.054295,
-        55.719467,
-        24.14002,
-        55.76021
-      ],
-      "street_count": 121
-    },
-    {
-      "id": "nahil-13251428",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Nahil"
-      ],
-      "osm": "relation/13251428",
-      "bbox": [
-        24.369894,
-        55.435358,
-        24.588541,
-        55.665539
-      ],
-      "street_count": 33
-    },
-    {
-      "id": "ni-mah-13251389",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Ni'mah"
-      ],
-      "osm": "relation/13251389",
-      "bbox": [
-        24.099666,
-        55.694068,
-        24.135978,
-        55.719467
-      ],
-      "street_count": 82
-    },
-    {
-      "id": "niqa-al-dheeb-13251431",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Niqa Al Dheeb"
-      ],
-      "osm": "relation/13251431",
-      "bbox": [
-        24.411411,
-        55.028725,
-        24.601419,
-        55.326449
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "ramlat-sweihan-13251432",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Ramlat Sweihan"
-      ],
-      "osm": "relation/13251432",
-      "bbox": [
-        24.26105,
-        55.054675,
-        24.466916,
-        55.415682
-      ],
-      "street_count": 15
-    },
-    {
-      "id": "rimah-13251445",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Rimah"
-      ],
-      "osm": "relation/13251445",
-      "bbox": [
-        23.986247,
-        55.195261,
-        24.284098,
-        55.486431
-      ],
-      "street_count": 33
-    },
-    {
-      "id": "sa-13251403",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Sa'"
-      ],
-      "osm": "relation/13251403",
-      "bbox": [
-        24.062487,
-        55.923197,
-        24.180431,
-        56.017398
-      ],
-      "street_count": 4
-    },
-    {
-      "id": "shi-bat-al-wutah-13251388",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Shi'bat Al Wutah"
-      ],
-      "osm": "relation/13251388",
-      "bbox": [
-        24.104029,
-        55.713426,
-        24.13605,
-        55.736983
-      ],
-      "street_count": 69
-    },
-    {
-      "id": "shiab-al-ashkhar-13251390",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Shiab Al Ashkhar"
-      ],
-      "osm": "relation/13251390",
-      "bbox": [
-        24.132528,
-        55.711257,
-        24.186875,
-        55.756703
-      ],
-      "street_count": 58
-    },
-    {
-      "id": "sweihan-13251430",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Sweihan"
-      ],
-      "osm": "relation/13251430",
-      "bbox": [
-        24.270498,
-        55.326449,
-        24.502197,
-        55.589398
-      ],
-      "street_count": 34
-    },
-    {
-      "id": "um-al-zumoul-13251496",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Um Al Zumoul"
-      ],
-      "osm": "relation/13251496",
-      "bbox": [
-        22.631621,
-        54.653594,
-        23.053605,
-        55.229725
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "um-ghafah-13251402",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Um Ghafah"
-      ],
-      "osm": "relation/13251402",
-      "bbox": [
-        24.052257,
-        55.866613,
-        24.134274,
-        55.982954
-      ],
-      "street_count": 119
-    },
-    {
-      "id": "zakhir-13251673",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Ain",
-        "Zakhir"
-      ],
-      "osm": "relation/13251673",
-      "bbox": [
-        24.077159,
-        55.617863,
-        24.178912,
-        55.713428
-      ],
-      "street_count": 230
-    },
-    {
-      "id": "al-azeezah-13251493",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al 'Azeezah"
-      ],
-      "osm": "relation/13251493",
-      "bbox": [
-        23.045782,
-        53.761697,
-        23.635133,
-        54.397898
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "al-dhannah-city-13251509",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Dhannah City"
-      ],
-      "osm": "relation/13251509",
-      "bbox": [
-        24.096946,
-        52.529053,
-        24.229829,
-        52.665019
-      ],
-      "street_count": 6
-    },
-    {
-      "id": "al-ghuweifat-13251517",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Ghuweifat"
-      ],
-      "osm": "relation/13251517",
-      "bbox": [
-        24.074033,
-        51.590033,
-        24.201998,
-        51.691078
-      ],
-      "street_count": 6
-    },
-    {
-      "id": "al-hadwaniyyah-13251476",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Hadwaniyyah"
-      ],
-      "osm": "relation/13251476",
-      "bbox": [
-        23.88512,
-        53.028931,
-        24.09631,
-        53.434375
-      ],
-      "street_count": 4
-    },
-    {
-      "id": "al-hamra-13251508",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Hamra"
-      ],
-      "osm": "relation/13251508",
-      "bbox": [
-        24.003903,
-        52.316743,
-        24.120812,
-        52.630189
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "al-harmiyyah-13251472",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Harmiyyah"
-      ],
-      "osm": "relation/13251472",
-      "bbox": [
-        24.064867,
-        53.297517,
-        24.13235,
-        53.415186
-      ],
-      "street_count": 16
-    },
-    {
-      "id": "al-jazeerah-13251512",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Jazeerah"
-      ],
-      "osm": "relation/13251512",
-      "bbox": [
-        23.028813,
-        51.920365,
-        23.74771,
-        52.506909
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "al-marfa-13251481",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Marfa"
-      ],
-      "osm": "relation/13251481",
-      "bbox": [
-        24.030345,
-        53.399132,
-        24.144689,
-        53.589493
-      ],
-      "street_count": 48
-    },
-    {
-      "id": "al-mirayr-13251497",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Mirayr"
-      ],
-      "osm": "relation/13251497",
-      "bbox": [
-        22.692784,
-        54.299362,
-        23.016757,
-        54.689816
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "al-rideem-13251483",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Rideem"
-      ],
-      "osm": "relation/13251483",
-      "bbox": [
-        24.004267,
-        53.558452,
-        24.074403,
-        53.710324
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "al-ruways-industrial-city-13251475",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Ruways Industrial City"
-      ],
-      "osm": "relation/13251475",
-      "bbox": [
-        24.044541,
-        52.607326,
-        24.226072,
-        53.062912
-      ],
-      "street_count": 24
-    },
-    {
-      "id": "al-shuweehat-13251510",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Shuweehat"
-      ],
-      "osm": "relation/13251510",
-      "bbox": [
-        24.040759,
-        52.41678,
-        24.14343,
-        52.534162
-      ],
-      "street_count": 7
-    },
-    {
-      "id": "al-sila-13251518",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Sila'"
-      ],
-      "osm": "relation/13251518",
-      "bbox": [
-        24.000901,
-        51.690691,
-        24.195473,
-        51.80501
-      ],
-      "street_count": 33
-    },
-    {
-      "id": "al-taf-al-gharbi-13251482",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Taf Al Gharbi"
-      ],
-      "osm": "relation/13251482",
-      "bbox": [
-        23.903632,
-        53.351989,
-        24.059771,
-        53.733176
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "al-wuhaydah-13251516",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Al Wuhaydah"
-      ],
-      "osm": "relation/13251516",
-      "bbox": [
-        23.934195,
-        51.778215,
-        24.084873,
-        51.934177
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "bad-al-mutaw-ah-13251506",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Bad' Al Mutaw'ah"
-      ],
-      "osm": "relation/13251506",
-      "bbox": [
-        23.738333,
-        52.477426,
-        23.89188,
-        52.610881
-      ],
-      "street_count": 16
-    },
-    {
-      "id": "barakah-13251513",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Barakah"
-      ],
-      "osm": "relation/13251513",
-      "bbox": [
-        23.933476,
-        52.095067,
-        24.042352,
-        52.344082
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "bateen-liwa-13251500",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Bateen Liwa"
-      ],
-      "osm": "relation/13251500",
-      "bbox": [
-        22.725925,
-        53.372937,
-        23.015639,
-        54.427719
-      ],
-      "street_count": 5
-    },
-    {
-      "id": "bilji-an-13251488",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Bilji'an"
-      ],
-      "osm": "relation/13251488",
-      "bbox": [
-        23.676084,
-        53.71322,
-        23.973893,
-        53.924297
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "bu-al-dhiyab-13251492",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Bu Al Dhiyab"
-      ],
-      "osm": "relation/13251492",
-      "bbox": [
-        23.029872,
-        53.114519,
-        23.401444,
-        53.788297
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "bu-hasa-13251491",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Bu Hasa"
-      ],
-      "osm": "relation/13251491",
-      "bbox": [
-        23.358932,
-        52.926147,
-        23.704659,
-        53.581215
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "delma-18471630",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Delma"
-      ],
-      "osm": "relation/18471630",
-      "bbox": [
-        24.408197,
-        52.270774,
-        24.550582,
-        52.353066
-      ],
-      "street_count": 61
-    },
-    {
-      "id": "eastern-mahadir-13251499",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Eastern Mahadir"
-      ],
-      "osm": "relation/13251499",
-      "bbox": [
-        22.93519,
-        53.859273,
-        23.20195,
-        54.22782
-      ],
-      "street_count": 45
-    },
-    {
-      "id": "ghiyathi-13251478",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Ghiyathi"
-      ],
-      "osm": "relation/13251478",
-      "bbox": [
-        23.660456,
-        52.610314,
-        24.102203,
-        53.096491
-      ],
-      "street_count": 59
-    },
-    {
-      "id": "habshan-13251480",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Habshan"
-      ],
-      "osm": "relation/13251480",
-      "bbox": [
-        23.654923,
-        53.133357,
-        23.967673,
-        53.887365
-      ],
-      "street_count": 4
-    },
-    {
-      "id": "hameem-13251498",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Hameem"
-      ],
-      "osm": "relation/13251498",
-      "bbox": [
-        22.897132,
-        54.13848,
-        23.063686,
-        54.339565
-      ],
-      "street_count": 13
-    },
-    {
-      "id": "mahmiyyat-al-suqour-13251515",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Mahmiyyat Al Suqour"
-      ],
-      "osm": "relation/13251515",
-      "bbox": [
-        23.934449,
-        51.915121,
-        24.129868,
-        52.111543
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "mkhayriz-13251503",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Mkhayriz"
-      ],
-      "osm": "relation/13251503",
-      "bbox": [
-        22.875355,
-        52.58104,
-        23.358932,
-        53.396361
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "mzeerʻah-13251501",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Mzeerʻah"
-      ],
-      "osm": "relation/13251501",
-      "bbox": [
-        22.976357,
-        53.677496,
-        23.211791,
-        53.94608
-      ],
-      "street_count": 45
-    },
-    {
-      "id": "ras-mshayrib-13251519",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Ras Mshayrib"
-      ],
-      "osm": "relation/13251519",
-      "bbox": [
-        24.193835,
-        51.639364,
-        24.350949,
-        51.804887
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "sabkhat-matti-13251514",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Sabkhat Matti"
-      ],
-      "osm": "relation/13251514",
-      "bbox": [
-        23.675655,
-        51.635401,
-        24.102412,
-        52.334923
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "tarif-13251484",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Tarif"
-      ],
-      "osm": "relation/13251484",
-      "bbox": [
-        23.928046,
-        53.676366,
-        24.097196,
-        53.888302
-      ],
-      "street_count": 4
-    },
-    {
-      "id": "um-al-ashtan-13251511",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Um Al Ashtan"
-      ],
-      "osm": "relation/13251511",
-      "bbox": [
-        23.698832,
-        52.231198,
-        24.028373,
-        52.48283
-      ],
-      "street_count": 3
-    },
-    {
-      "id": "um-laylah-13251486",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Um Laylah"
-      ],
-      "osm": "relation/13251486",
-      "bbox": [
-        23.735353,
-        53.861812,
-        24.091666,
-        54.243466
-      ],
-      "street_count": 2
-    },
-    {
-      "id": "western-mahadir-13251502",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Western Mahadir"
-      ],
-      "osm": "relation/13251502",
-      "bbox": [
-        22.848352,
-        53.13853,
-        23.185708,
-        53.71321
-      ],
-      "street_count": 23
-    },
-    {
-      "id": "yaw-al-nadhrah-13251505",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Yaw Al Nadhrah"
-      ],
-      "osm": "relation/13251505",
-      "bbox": [
-        23.264913,
-        52.482556,
-        23.76263,
-        53.117331
-      ],
-      "street_count": 1
-    },
-    {
-      "id": "zayed-city-13251490",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Zayed City"
-      ],
-      "osm": "relation/13251490",
-      "bbox": [
-        23.385578,
-        53.47558,
-        23.731442,
-        53.890995
-      ],
-      "street_count": 161
-    },
-    {
-      "id": "zirku-island-18471642",
-      "path": [
-        "Abu Dhabi Emirate",
-        "Abu Dhabi Emirate",
-        "Al Dhafrah Region",
-        "Zirku Island"
-      ],
-      "osm": "relation/18471642",
-      "bbox": [
-        24.854264,
-        53.055882,
-        24.901092,
-        53.093172
-      ],
-      "street_count": 2
     },
     {
       "id": "al-bateen-13251348",
@@ -2265,6 +140,23 @@ window.KB = {
         54.376675
       ],
       "street_count": 133
+    },
+    {
+      "id": "al-bihouth-13251461",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Bihouth"
+      ],
+      "osm": "relation/13251461",
+      "bbox": [
+        24.087372,
+        54.414846,
+        24.287897,
+        54.604551
+      ],
+      "street_count": 2
     },
     {
       "id": "al-danah-13251311",
@@ -2299,6 +191,40 @@ window.KB = {
         54.765911
       ],
       "street_count": 294
+    },
+    {
+      "id": "al-haffar-13251365",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Haffar"
+      ],
+      "osm": "relation/13251365",
+      "bbox": [
+        24.206198,
+        54.737505,
+        24.346232,
+        54.974579
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-hidayriyyat-13251452",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Hidayriyyat"
+      ],
+      "osm": "relation/13251452",
+      "bbox": [
+        24.283111,
+        54.317206,
+        24.448765,
+        54.464262
+      ],
+      "street_count": 1
     },
     {
       "id": "al-hisn-13251312",
@@ -2352,6 +278,23 @@ window.KB = {
       "street_count": 55
     },
     {
+      "id": "al-khatm-13251367",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Khatm"
+      ],
+      "osm": "relation/13251367",
+      "bbox": [
+        24.155719,
+        54.905986,
+        24.201972,
+        55.049448
+      ],
+      "street_count": 3
+    },
+    {
       "id": "al-kheeran-13251319",
       "path": [
         "Abu Dhabi Emirate",
@@ -2367,6 +310,40 @@ window.KB = {
         54.485933
       ],
       "street_count": 1
+    },
+    {
+      "id": "al-layyan-13251382",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Layyan"
+      ],
+      "osm": "relation/13251382",
+      "bbox": [
+        24.658188,
+        54.851674,
+        24.897527,
+        55.170739
+      ],
+      "street_count": 23
+    },
+    {
+      "id": "al-ma-mourah-13251377",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Ma'mourah"
+      ],
+      "osm": "relation/13251377",
+      "bbox": [
+        24.695416,
+        54.612137,
+        24.855387,
+        54.764964
+      ],
+      "street_count": 9
     },
     {
       "id": "al-manhal-13251314",
@@ -2420,6 +397,23 @@ window.KB = {
       "street_count": 7
     },
     {
+      "id": "al-mi-rad-13251362",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Mi'rad"
+      ],
+      "osm": "relation/13251362",
+      "bbox": [
+        24.338627,
+        54.742879,
+        24.436588,
+        54.841487
+      ],
+      "street_count": 4
+    },
+    {
       "id": "al-muntazah-13251318",
       "path": [
         "Abu Dhabi Emirate",
@@ -2471,6 +465,23 @@ window.KB = {
       "street_count": 8
     },
     {
+      "id": "al-nahdah-13251364",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Nahdah"
+      ],
+      "osm": "relation/13251364",
+      "bbox": [
+        24.238462,
+        54.647821,
+        24.390459,
+        54.761204
+      ],
+      "street_count": 82
+    },
+    {
       "id": "al-nahyan-13251310",
       "path": [
         "Abu Dhabi Emirate",
@@ -2520,6 +531,23 @@ window.KB = {
         54.643934
       ],
       "street_count": 4
+    },
+    {
+      "id": "al-rahbah-13251352",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Rahbah"
+      ],
+      "osm": "relation/13251352",
+      "bbox": [
+        24.563966,
+        54.669283,
+        24.634375,
+        54.71702
+      ],
+      "street_count": 51
     },
     {
       "id": "al-ras-al-akhdar-13251453",
@@ -2624,6 +652,57 @@ window.KB = {
       "street_count": 10
     },
     {
+      "id": "al-sader-13251342",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Sader"
+      ],
+      "osm": "relation/13251342",
+      "bbox": [
+        24.57651,
+        54.635526,
+        24.720699,
+        54.730104
+      ],
+      "street_count": 36
+    },
+    {
+      "id": "al-samhah-13251374",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Samhah"
+      ],
+      "osm": "relation/13251374",
+      "bbox": [
+        24.620906,
+        54.699058,
+        24.710808,
+        54.803055
+      ],
+      "street_count": 118
+    },
+    {
+      "id": "al-shahamah-13251353",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Shahamah"
+      ],
+      "osm": "relation/13251353",
+      "bbox": [
+        24.464071,
+        54.643934,
+        24.547743,
+        54.69411
+      ],
+      "street_count": 64
+    },
+    {
       "id": "al-shamkhah-13251360",
       "path": [
         "Abu Dhabi Emirate",
@@ -2656,6 +735,57 @@ window.KB = {
         54.699508
       ],
       "street_count": 126
+    },
+    {
+      "id": "al-shinayin-13251468",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Shinayin"
+      ],
+      "osm": "relation/13251468",
+      "bbox": [
+        23.667871,
+        54.115667,
+        24.213135,
+        54.420275
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-taweelah-13251376",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Taweelah"
+      ],
+      "osm": "relation/13251376",
+      "bbox": [
+        24.683229,
+        54.626609,
+        24.788241,
+        54.730029
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-wathbah-13251460",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Al Wathbah"
+      ],
+      "osm": "relation/13251460",
+      "bbox": [
+        24.135028,
+        54.553305,
+        24.281033,
+        54.857723
+      ],
+      "street_count": 55
     },
     {
       "id": "al-zahiyah-13251306",
@@ -2692,6 +822,40 @@ window.KB = {
       "street_count": 295
     },
     {
+      "id": "dihan-13251368",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Dihan"
+      ],
+      "osm": "relation/13251368",
+      "bbox": [
+        24.180593,
+        54.897619,
+        24.273179,
+        55.102821
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "ghantout-13251381",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Ghantout"
+      ],
+      "osm": "relation/13251381",
+      "bbox": [
+        24.844349,
+        54.843118,
+        24.923647,
+        54.940734
+      ],
+      "street_count": 2
+    },
+    {
       "id": "hadbat-al-za-faranah-13251316",
       "path": [
         "Abu Dhabi Emirate",
@@ -2707,6 +871,23 @@ window.KB = {
         54.419394
       ],
       "street_count": 87
+    },
+    {
+      "id": "jarn-yafour-13251448",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Jarn Yafour"
+      ],
+      "osm": "relation/13251448",
+      "bbox": [
+        24.246573,
+        54.552906,
+        24.308873,
+        54.647821
+      ],
+      "street_count": 56
     },
     {
       "id": "khalifa-city-13251355",
@@ -2726,6 +907,23 @@ window.KB = {
       "street_count": 225
     },
     {
+      "id": "madinat-al-riyad-13251363",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Madinat Al Riyad"
+      ],
+      "osm": "relation/13251363",
+      "bbox": [
+        24.318651,
+        54.722958,
+        24.387744,
+        54.799618
+      ],
+      "street_count": 288
+    },
+    {
       "id": "mohamed-bin-zayed-city-13251449",
       "path": [
         "Abu Dhabi Emirate",
@@ -2741,6 +939,57 @@ window.KB = {
         54.60116
       ],
       "street_count": 579
+    },
+    {
+      "id": "mshayrif-13251462",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Mshayrif"
+      ],
+      "osm": "relation/13251462",
+      "bbox": [
+        23.817237,
+        54.412425,
+        24.20212,
+        55.104734
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "musaffah-13251450",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Musaffah"
+      ],
+      "osm": "relation/13251450",
+      "bbox": [
+        24.311844,
+        54.447187,
+        24.385895,
+        54.526523
+      ],
+      "street_count": 51
+    },
+    {
+      "id": "muwaylih-13251375",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Muwaylih"
+      ],
+      "osm": "relation/13251375",
+      "bbox": [
+        24.596587,
+        54.71702,
+        24.657113,
+        54.903381
+      ],
+      "street_count": 1
     },
     {
       "id": "qasr-al-bahr-13251309",
@@ -2792,6 +1041,23 @@ window.KB = {
         54.52424
       ],
       "street_count": 58
+    },
+    {
+      "id": "rawdat-al-reef-13251372",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Rawdat Al Reef"
+      ],
+      "osm": "relation/13251372",
+      "bbox": [
+        24.46062,
+        54.675226,
+        24.555621,
+        54.747402
+      ],
+      "street_count": 20
     },
     {
       "id": "sas-al-nakhl-13251322",
@@ -2862,6 +1128,23 @@ window.KB = {
       "street_count": 109
     },
     {
+      "id": "zayed-military-city-13251384",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Abu Dhabi",
+        "Zayed Military City"
+      ],
+      "osm": "relation/13251384",
+      "bbox": [
+        24.4193,
+        54.745363,
+        24.619369,
+        55.126875
+      ],
+      "street_count": 6
+    },
+    {
       "id": "zayed-port-13251325",
       "path": [
         "Abu Dhabi Emirate",
@@ -2879,11 +1162,1728 @@ window.KB = {
       "street_count": 28
     },
     {
+      "id": "asharij-13251408",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "'Asharij"
+      ],
+      "osm": "relation/13251408",
+      "bbox": [
+        24.185044,
+        55.650387,
+        24.216989,
+        55.692505
+      ],
+      "street_count": 45
+    },
+    {
+      "id": "abu-samrah-13251440",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Abu Samrah"
+      ],
+      "osm": "relation/13251440",
+      "bbox": [
+        24.171294,
+        55.359241,
+        24.229671,
+        55.428937
+      ],
+      "street_count": 12
+    },
+    {
+      "id": "ain-al-faydah-13251441",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Ain Al Faydah"
+      ],
+      "osm": "relation/13251441",
+      "bbox": [
+        24.034361,
+        55.628969,
+        24.104029,
+        55.728266
+      ],
+      "street_count": 86
+    },
+    {
+      "id": "al-ajban-13251429",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al 'Ajban"
+      ],
+      "osm": "relation/13251429",
+      "bbox": [
+        24.466916,
+        55.126875,
+        24.694054,
+        55.562073
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-arad-13251464",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al 'Arad"
+      ],
+      "osm": "relation/13251464",
+      "bbox": [
+        23.729251,
+        55.274649,
+        23.904491,
+        55.535747
+      ],
+      "street_count": 10
+    },
+    {
+      "id": "al-iqabiyyah-13251409",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al 'Iqabiyyah"
+      ],
+      "osm": "relation/13251409",
+      "bbox": [
+        24.153206,
+        55.659404,
+        24.19795,
+        55.704456
+      ],
+      "street_count": 54
+    },
+    {
+      "id": "al-aamerah-13251438",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Aamerah"
+      ],
+      "osm": "relation/13251438",
+      "bbox": [
+        24.164996,
+        55.485778,
+        24.306409,
+        55.601606
+      ],
+      "street_count": 239
+    },
+    {
+      "id": "al-ain-international-airport-13251421",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Ain International Airport"
+      ],
+      "osm": "relation/13251421",
+      "bbox": [
+        24.23078,
+        55.578533,
+        24.349783,
+        55.66936
+      ],
+      "street_count": 5
+    },
+    {
+      "id": "al-bateen-13251413",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Bateen"
+      ],
+      "osm": "relation/13251413",
+      "bbox": [
+        24.184296,
+        55.584798,
+        24.220943,
+        55.64542
+      ],
+      "street_count": 63
+    },
+    {
+      "id": "al-dahma-13251414",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Dahma"
+      ],
+      "osm": "relation/13251414",
+      "bbox": [
+        24.201806,
+        55.594005,
+        24.26279,
+        55.679344
+      ],
+      "street_count": 32
+    },
+    {
+      "id": "al-dhahir-13251400",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Dhahir"
+      ],
+      "osm": "relation/13251400",
+      "bbox": [
+        24.064101,
+        55.821453,
+        24.119345,
+        55.876776
+      ],
+      "street_count": 220
+    },
+    {
+      "id": "al-dhahrah-13251444",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Dhahrah"
+      ],
+      "osm": "relation/13251444",
+      "bbox": [
+        23.893569,
+        55.425559,
+        24.043573,
+        55.674888
+      ],
+      "street_count": 23
+    },
+    {
+      "id": "al-faqa-13251426",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Faqa'"
+      ],
+      "osm": "relation/13251426",
+      "bbox": [
+        24.58417,
+        55.522614,
+        24.745607,
+        55.736126
+      ],
+      "street_count": 19
+    },
+    {
+      "id": "al-fou-ah-13251422",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Fou'ah"
+      ],
+      "osm": "relation/13251422",
+      "bbox": [
+        24.315933,
+        55.777875,
+        24.40956,
+        55.834202
+      ],
+      "street_count": 101
+    },
+    {
+      "id": "al-hiyar-13251425",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Hiyar"
+      ],
+      "osm": "relation/13251425",
+      "bbox": [
+        24.464142,
+        55.552602,
+        24.690612,
+        55.836581
+      ],
+      "street_count": 64
+    },
+    {
+      "id": "al-jahili-13251385",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Jahili"
+      ],
+      "osm": "relation/13251385",
+      "bbox": [
+        24.203633,
+        55.745229,
+        24.220768,
+        55.760127
+      ],
+      "street_count": 25
+    },
+    {
+      "id": "al-jimi-13251416",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Jimi"
+      ],
+      "osm": "relation/13251416",
+      "bbox": [
+        24.228842,
+        55.719427,
+        24.269348,
+        55.755738
+      ],
+      "street_count": 133
+    },
+    {
+      "id": "al-khaznah-13251446",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Khaznah"
+      ],
+      "osm": "relation/13251446",
+      "bbox": [
+        23.981362,
+        55.036059,
+        24.303346,
+        55.250124
+      ],
+      "street_count": 25
+    },
+    {
+      "id": "al-khibeesi-13251411",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Khibeesi"
+      ],
+      "osm": "relation/13251411",
+      "bbox": [
+        24.216989,
+        55.679344,
+        24.242853,
+        55.719554
+      ],
+      "street_count": 91
+    },
+    {
+      "id": "al-khirayr-13251396",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Khirayr"
+      ],
+      "osm": "relation/13251396",
+      "bbox": [
+        24.110436,
+        55.803015,
+        24.164659,
+        55.902172
+      ],
+      "street_count": 7
+    },
+    {
+      "id": "al-madeenah-as-sina-iyah-3-street-13251443",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Madeenah As Sina'iyah 3 Street"
+      ],
+      "osm": "relation/13251443",
+      "bbox": [
+        23.97699,
+        55.419147,
+        24.090454,
+        55.66887
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "al-maqam-13251410",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Maqam"
+      ],
+      "osm": "relation/13251410",
+      "bbox": [
+        24.166203,
+        55.596349,
+        24.204459,
+        55.664223
+      ],
+      "street_count": 66
+    },
+    {
+      "id": "al-markhaniyyah-13251412",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Markhaniyyah"
+      ],
+      "osm": "relation/13251412",
+      "bbox": [
+        24.196476,
+        55.629133,
+        24.233454,
+        55.683221
+      ],
+      "street_count": 80
+    },
+    {
+      "id": "al-mas-oudi-13251418",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Mas'oudi"
+      ],
+      "osm": "relation/13251418",
+      "bbox": [
+        24.265189,
+        55.71955,
+        24.304994,
+        55.759138
+      ],
+      "street_count": 57
+    },
+    {
+      "id": "al-mu-tarid-13251406",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Mu'tarid"
+      ],
+      "osm": "relation/13251406",
+      "bbox": [
+        24.202711,
+        55.730165,
+        24.239838,
+        55.7549
+      ],
+      "street_count": 87
+    },
+    {
+      "id": "al-mutaw-ah-13251386",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Mutaw'ah"
+      ],
+      "osm": "relation/13251386",
+      "bbox": [
+        24.205159,
+        55.749578,
+        24.2145,
+        55.769624
+      ],
+      "street_count": 18
+    },
+    {
+      "id": "al-muwaij-i-13251407",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Muwaij'i"
+      ],
+      "osm": "relation/13251407",
+      "bbox": [
+        24.188936,
+        55.683221,
+        24.233783,
+        55.737414
+      ],
+      "street_count": 145
+    },
+    {
+      "id": "al-qattarah-13251417",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Qattarah"
+      ],
+      "osm": "relation/13251417",
+      "bbox": [
+        24.251734,
+        55.740321,
+        24.273213,
+        55.767056
+      ],
+      "street_count": 31
+    },
+    {
+      "id": "al-qou-13251495",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Qou'"
+      ],
+      "osm": "relation/13251495",
+      "bbox": [
+        23.047919,
+        54.775111,
+        23.575755,
+        55.484224
+      ],
+      "street_count": 103
+    },
+    {
+      "id": "al-rawdah-al-sharqiyah-13251433",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Rawdah Al Sharqiyah"
+      ],
+      "osm": "relation/13251433",
+      "bbox": [
+        24.126643,
+        55.62067,
+        24.174007,
+        55.676562
+      ],
+      "street_count": 94
+    },
+    {
+      "id": "al-ruwaydat-13251395",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Ruwaydat"
+      ],
+      "osm": "relation/13251395",
+      "bbox": [
+        24.099062,
+        55.755165,
+        24.199542,
+        55.825606
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-sad-13251439",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Sad"
+      ],
+      "osm": "relation/13251439",
+      "bbox": [
+        24.16118,
+        55.365224,
+        24.319294,
+        55.530189
+      ],
+      "street_count": 40
+    },
+    {
+      "id": "al-salamat-13251437",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Salamat"
+      ],
+      "osm": "relation/13251437",
+      "bbox": [
+        24.130868,
+        55.477988,
+        24.234211,
+        55.624011
+      ],
+      "street_count": 67
+    },
+    {
+      "id": "al-sarouj-13251392",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Sarouj"
+      ],
+      "osm": "relation/13251392",
+      "bbox": [
+        24.182984,
+        55.766892,
+        24.213247,
+        55.82098
+      ],
+      "street_count": 90
+    },
+    {
+      "id": "al-shiwayb-13251427",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Shiwayb"
+      ],
+      "osm": "relation/13251427",
+      "bbox": [
+        24.661699,
+        55.705177,
+        24.793647,
+        55.836481
+      ],
+      "street_count": 39
+    },
+    {
+      "id": "al-shuwaymah-13251393",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Shuwaymah"
+      ],
+      "osm": "relation/13251393",
+      "bbox": [
+        24.170075,
+        55.806142,
+        24.206436,
+        55.854351
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-tiwayya-13251415",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Tiwayya"
+      ],
+      "osm": "relation/13251415",
+      "bbox": [
+        24.233454,
+        55.66936,
+        24.2746,
+        55.720512
+      ],
+      "street_count": 103
+    },
+    {
+      "id": "al-wiqan-13251465",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Al Wiqan"
+      ],
+      "osm": "relation/13251465",
+      "bbox": [
+        23.513934,
+        55.260503,
+        23.759487,
+        55.572309
+      ],
+      "street_count": 40
+    },
+    {
+      "id": "bad-bint-sa-oud-13251423",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Bad' Bint Sa'oud"
+      ],
+      "osm": "relation/13251423",
+      "bbox": [
+        24.307224,
+        55.555581,
+        24.440214,
+        55.768707
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "bu-kirayyah-13251463",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Bu Kirayyah"
+      ],
+      "osm": "relation/13251463",
+      "bbox": [
+        23.868668,
+        55.225098,
+        24.006795,
+        55.445438
+      ],
+      "street_count": 7
+    },
+    {
+      "id": "central-district-13251405",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Central District"
+      ],
+      "osm": "relation/13251405",
+      "bbox": [
+        24.200424,
+        55.750786,
+        24.23473,
+        55.833396
+      ],
+      "street_count": 110
+    },
+    {
+      "id": "falaj-hazza-13251391",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Falaj Hazza'"
+      ],
+      "osm": "relation/13251391",
+      "bbox": [
+        24.168261,
+        55.698038,
+        24.205862,
+        55.754957
+      ],
+      "street_count": 78
+    },
+    {
+      "id": "ghireebah-13251436",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Ghireebah"
+      ],
+      "osm": "relation/13251436",
+      "bbox": [
+        24.123218,
+        55.534694,
+        24.184296,
+        55.657831
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "ghnaymah-13251435",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Ghnaymah"
+      ],
+      "osm": "relation/13251435",
+      "bbox": [
+        24.115923,
+        55.572342,
+        24.175201,
+        55.664874
+      ],
+      "street_count": 43
+    },
+    {
+      "id": "hili-13251419",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Hili"
+      ],
+      "osm": "relation/13251419",
+      "bbox": [
+        24.262092,
+        55.744503,
+        24.346641,
+        55.815721
+      ],
+      "street_count": 177
+    },
+    {
+      "id": "industrial-area-13251387",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Industrial Area"
+      ],
+      "osm": "relation/13251387",
+      "bbox": [
+        24.111992,
+        55.736739,
+        24.205661,
+        55.775301
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "jabal-hafeet-13251399",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Jabal Hafeet"
+      ],
+      "osm": "relation/13251399",
+      "bbox": [
+        24.01463,
+        55.739158,
+        24.125753,
+        55.839194
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "malaqit-13251397",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Malaqit"
+      ],
+      "osm": "relation/13251397",
+      "bbox": [
+        24.119318,
+        55.852264,
+        24.199243,
+        55.942965
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "masakin-13251424",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Masakin"
+      ],
+      "osm": "relation/13251424",
+      "bbox": [
+        24.366971,
+        55.635405,
+        24.489518,
+        55.828959
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "mazyad-13251401",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Mazyad"
+      ],
+      "osm": "relation/13251401",
+      "bbox": [
+        24.015602,
+        55.832987,
+        24.069989,
+        55.927908
+      ],
+      "street_count": 79
+    },
+    {
+      "id": "mbazzarah-al-khadra-13251398",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Mbazzarah Al Khadra"
+      ],
+      "osm": "relation/13251398",
+      "bbox": [
+        24.054295,
+        55.719467,
+        24.14002,
+        55.76021
+      ],
+      "street_count": 121
+    },
+    {
+      "id": "nahil-13251428",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Nahil"
+      ],
+      "osm": "relation/13251428",
+      "bbox": [
+        24.369894,
+        55.435358,
+        24.588541,
+        55.665539
+      ],
+      "street_count": 33
+    },
+    {
+      "id": "ni-mah-13251389",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Ni'mah"
+      ],
+      "osm": "relation/13251389",
+      "bbox": [
+        24.099666,
+        55.694068,
+        24.135978,
+        55.719467
+      ],
+      "street_count": 82
+    },
+    {
+      "id": "niqa-al-dheeb-13251431",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Niqa Al Dheeb"
+      ],
+      "osm": "relation/13251431",
+      "bbox": [
+        24.411411,
+        55.028725,
+        24.601419,
+        55.326449
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "ramlat-sweihan-13251432",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Ramlat Sweihan"
+      ],
+      "osm": "relation/13251432",
+      "bbox": [
+        24.26105,
+        55.054675,
+        24.466916,
+        55.415682
+      ],
+      "street_count": 15
+    },
+    {
+      "id": "rimah-13251445",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Rimah"
+      ],
+      "osm": "relation/13251445",
+      "bbox": [
+        23.986247,
+        55.195261,
+        24.284098,
+        55.486431
+      ],
+      "street_count": 33
+    },
+    {
+      "id": "sa-13251403",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Sa'"
+      ],
+      "osm": "relation/13251403",
+      "bbox": [
+        24.062487,
+        55.923197,
+        24.180431,
+        56.017398
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "shi-bat-al-wutah-13251388",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Shi'bat Al Wutah"
+      ],
+      "osm": "relation/13251388",
+      "bbox": [
+        24.104029,
+        55.713426,
+        24.13605,
+        55.736983
+      ],
+      "street_count": 69
+    },
+    {
+      "id": "shiab-al-ashkhar-13251390",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Shiab Al Ashkhar"
+      ],
+      "osm": "relation/13251390",
+      "bbox": [
+        24.132528,
+        55.711257,
+        24.186875,
+        55.756703
+      ],
+      "street_count": 58
+    },
+    {
+      "id": "sweihan-13251430",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Sweihan"
+      ],
+      "osm": "relation/13251430",
+      "bbox": [
+        24.270498,
+        55.326449,
+        24.502197,
+        55.589398
+      ],
+      "street_count": 34
+    },
+    {
+      "id": "um-al-zumoul-13251496",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Um Al Zumoul"
+      ],
+      "osm": "relation/13251496",
+      "bbox": [
+        22.631621,
+        54.653594,
+        23.053605,
+        55.229725
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "um-ghafah-13251402",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Um Ghafah"
+      ],
+      "osm": "relation/13251402",
+      "bbox": [
+        24.052257,
+        55.866613,
+        24.134274,
+        55.982954
+      ],
+      "street_count": 119
+    },
+    {
+      "id": "zakhir-13251673",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Ain",
+        "Zakhir"
+      ],
+      "osm": "relation/13251673",
+      "bbox": [
+        24.077159,
+        55.617863,
+        24.178912,
+        55.713428
+      ],
+      "street_count": 230
+    },
+    {
+      "id": "al-azeezah-13251493",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al 'Azeezah"
+      ],
+      "osm": "relation/13251493",
+      "bbox": [
+        23.045782,
+        53.761697,
+        23.635133,
+        54.397898
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-dhannah-city-13251509",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Dhannah City"
+      ],
+      "osm": "relation/13251509",
+      "bbox": [
+        24.096946,
+        52.529053,
+        24.229829,
+        52.665019
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "al-ghuweifat-13251517",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Ghuweifat"
+      ],
+      "osm": "relation/13251517",
+      "bbox": [
+        24.074033,
+        51.590033,
+        24.201998,
+        51.691078
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "al-hadwaniyyah-13251476",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Hadwaniyyah"
+      ],
+      "osm": "relation/13251476",
+      "bbox": [
+        23.88512,
+        53.028931,
+        24.09631,
+        53.434375
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "al-hamra-13251508",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Hamra"
+      ],
+      "osm": "relation/13251508",
+      "bbox": [
+        24.003903,
+        52.316743,
+        24.120812,
+        52.630189
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-harmiyyah-13251472",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Harmiyyah"
+      ],
+      "osm": "relation/13251472",
+      "bbox": [
+        24.064867,
+        53.297517,
+        24.13235,
+        53.415186
+      ],
+      "street_count": 16
+    },
+    {
+      "id": "al-jazeerah-13251512",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Jazeerah"
+      ],
+      "osm": "relation/13251512",
+      "bbox": [
+        23.028813,
+        51.920365,
+        23.74771,
+        52.506909
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-marfa-13251481",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Marfa"
+      ],
+      "osm": "relation/13251481",
+      "bbox": [
+        24.030345,
+        53.399132,
+        24.144689,
+        53.589493
+      ],
+      "street_count": 48
+    },
+    {
+      "id": "al-mirayr-13251497",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Mirayr"
+      ],
+      "osm": "relation/13251497",
+      "bbox": [
+        22.692784,
+        54.299362,
+        23.016757,
+        54.689816
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-rideem-13251483",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Rideem"
+      ],
+      "osm": "relation/13251483",
+      "bbox": [
+        24.004267,
+        53.558452,
+        24.074403,
+        53.710324
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-ruways-industrial-city-13251475",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Ruways Industrial City"
+      ],
+      "osm": "relation/13251475",
+      "bbox": [
+        24.044541,
+        52.607326,
+        24.226072,
+        53.062912
+      ],
+      "street_count": 24
+    },
+    {
+      "id": "al-shuweehat-13251510",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Shuweehat"
+      ],
+      "osm": "relation/13251510",
+      "bbox": [
+        24.040759,
+        52.41678,
+        24.14343,
+        52.534162
+      ],
+      "street_count": 7
+    },
+    {
+      "id": "al-sila-13251518",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Sila'"
+      ],
+      "osm": "relation/13251518",
+      "bbox": [
+        24.000901,
+        51.690691,
+        24.195473,
+        51.80501
+      ],
+      "street_count": 33
+    },
+    {
+      "id": "al-taf-al-gharbi-13251482",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Taf Al Gharbi"
+      ],
+      "osm": "relation/13251482",
+      "bbox": [
+        23.903632,
+        53.351989,
+        24.059771,
+        53.733176
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-wuhaydah-13251516",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Al Wuhaydah"
+      ],
+      "osm": "relation/13251516",
+      "bbox": [
+        23.934195,
+        51.778215,
+        24.084873,
+        51.934177
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "bad-al-mutaw-ah-13251506",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Bad' Al Mutaw'ah"
+      ],
+      "osm": "relation/13251506",
+      "bbox": [
+        23.738333,
+        52.477426,
+        23.89188,
+        52.610881
+      ],
+      "street_count": 16
+    },
+    {
+      "id": "barakah-13251513",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Barakah"
+      ],
+      "osm": "relation/13251513",
+      "bbox": [
+        23.933476,
+        52.095067,
+        24.042352,
+        52.344082
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "bateen-liwa-13251500",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Bateen Liwa"
+      ],
+      "osm": "relation/13251500",
+      "bbox": [
+        22.725925,
+        53.372937,
+        23.015639,
+        54.427719
+      ],
+      "street_count": 5
+    },
+    {
+      "id": "bilji-an-13251488",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Bilji'an"
+      ],
+      "osm": "relation/13251488",
+      "bbox": [
+        23.676084,
+        53.71322,
+        23.973893,
+        53.924297
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "bu-al-dhiyab-13251492",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Bu Al Dhiyab"
+      ],
+      "osm": "relation/13251492",
+      "bbox": [
+        23.029872,
+        53.114519,
+        23.401444,
+        53.788297
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "bu-hasa-13251491",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Bu Hasa"
+      ],
+      "osm": "relation/13251491",
+      "bbox": [
+        23.358932,
+        52.926147,
+        23.704659,
+        53.581215
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "delma-18471630",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Delma"
+      ],
+      "osm": "relation/18471630",
+      "bbox": [
+        24.408197,
+        52.270774,
+        24.550582,
+        52.353066
+      ],
+      "street_count": 61
+    },
+    {
+      "id": "eastern-mahadir-13251499",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Eastern Mahadir"
+      ],
+      "osm": "relation/13251499",
+      "bbox": [
+        22.93519,
+        53.859273,
+        23.20195,
+        54.22782
+      ],
+      "street_count": 45
+    },
+    {
+      "id": "ghiyathi-13251478",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Ghiyathi"
+      ],
+      "osm": "relation/13251478",
+      "bbox": [
+        23.660456,
+        52.610314,
+        24.102203,
+        53.096491
+      ],
+      "street_count": 59
+    },
+    {
+      "id": "habshan-13251480",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Habshan"
+      ],
+      "osm": "relation/13251480",
+      "bbox": [
+        23.654923,
+        53.133357,
+        23.967673,
+        53.887365
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "hameem-13251498",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Hameem"
+      ],
+      "osm": "relation/13251498",
+      "bbox": [
+        22.897132,
+        54.13848,
+        23.063686,
+        54.339565
+      ],
+      "street_count": 13
+    },
+    {
+      "id": "mahmiyyat-al-suqour-13251515",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Mahmiyyat Al Suqour"
+      ],
+      "osm": "relation/13251515",
+      "bbox": [
+        23.934449,
+        51.915121,
+        24.129868,
+        52.111543
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "mkhayriz-13251503",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Mkhayriz"
+      ],
+      "osm": "relation/13251503",
+      "bbox": [
+        22.875355,
+        52.58104,
+        23.358932,
+        53.396361
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "mzeerʻah-13251501",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Mzeerʻah"
+      ],
+      "osm": "relation/13251501",
+      "bbox": [
+        22.976357,
+        53.677496,
+        23.211791,
+        53.94608
+      ],
+      "street_count": 45
+    },
+    {
+      "id": "ras-mshayrib-13251519",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Ras Mshayrib"
+      ],
+      "osm": "relation/13251519",
+      "bbox": [
+        24.193835,
+        51.639364,
+        24.350949,
+        51.804887
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "sabkhat-matti-13251514",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Sabkhat Matti"
+      ],
+      "osm": "relation/13251514",
+      "bbox": [
+        23.675655,
+        51.635401,
+        24.102412,
+        52.334923
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "tarif-13251484",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Tarif"
+      ],
+      "osm": "relation/13251484",
+      "bbox": [
+        23.928046,
+        53.676366,
+        24.097196,
+        53.888302
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "um-al-ashtan-13251511",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Um Al Ashtan"
+      ],
+      "osm": "relation/13251511",
+      "bbox": [
+        23.698832,
+        52.231198,
+        24.028373,
+        52.48283
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "um-laylah-13251486",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Um Laylah"
+      ],
+      "osm": "relation/13251486",
+      "bbox": [
+        23.735353,
+        53.861812,
+        24.091666,
+        54.243466
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "western-mahadir-13251502",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Western Mahadir"
+      ],
+      "osm": "relation/13251502",
+      "bbox": [
+        22.848352,
+        53.13853,
+        23.185708,
+        53.71321
+      ],
+      "street_count": 23
+    },
+    {
+      "id": "yaw-al-nadhrah-13251505",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Yaw Al Nadhrah"
+      ],
+      "osm": "relation/13251505",
+      "bbox": [
+        23.264913,
+        52.482556,
+        23.76263,
+        53.117331
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "zayed-city-13251490",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Zayed City"
+      ],
+      "osm": "relation/13251490",
+      "bbox": [
+        23.385578,
+        53.47558,
+        23.731442,
+        53.890995
+      ],
+      "street_count": 161
+    },
+    {
+      "id": "zirku-island-18471642",
+      "path": [
+        "Abu Dhabi Emirate",
+        "Abu Dhabi",
+        "Al Dhafrah Region",
+        "Zirku Island"
+      ],
+      "osm": "relation/18471642",
+      "bbox": [
+        24.854264,
+        53.055882,
+        24.901092,
+        53.093172
+      ],
+      "street_count": 2
+    },
+    {
       "id": "al-bustan-18471693",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Bustan"
       ],
       "osm": "relation/18471693",
@@ -2899,8 +2899,8 @@ window.KB = {
       "id": "al-helio-12905783",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Helio"
       ],
       "osm": "relation/12905783",
@@ -2916,8 +2916,8 @@ window.KB = {
       "id": "al-jerf-12905777",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Jerf"
       ],
       "osm": "relation/12905777",
@@ -2933,8 +2933,8 @@ window.KB = {
       "id": "al-nakhil-12905745",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Nakhil"
       ],
       "osm": "relation/12905745",
@@ -2950,8 +2950,8 @@ window.KB = {
       "id": "al-nuaimia-18471696",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Nuaimia"
       ],
       "osm": "relation/18471696",
@@ -2967,8 +2967,8 @@ window.KB = {
       "id": "al-rashidiya-18471692",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Rashidiya"
       ],
       "osm": "relation/18471692",
@@ -2984,8 +2984,8 @@ window.KB = {
       "id": "al-rumailah-12905744",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Rumailah"
       ],
       "osm": "relation/12905744",
@@ -3001,8 +3001,8 @@ window.KB = {
       "id": "al-sawan-18471695",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Sawan"
       ],
       "osm": "relation/18471695",
@@ -3018,8 +3018,8 @@ window.KB = {
       "id": "al-zahraa-12905776",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Zahraa"
       ],
       "osm": "relation/12905776",
@@ -3035,8 +3035,8 @@ window.KB = {
       "id": "al-zawarah-12905747",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Al Zawarah"
       ],
       "osm": "relation/12905747",
@@ -3052,8 +3052,8 @@ window.KB = {
       "id": "hamidiya-12905778",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Hamidiya"
       ],
       "osm": "relation/12905778",
@@ -3069,8 +3069,8 @@ window.KB = {
       "id": "meshairef-18471704",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Meshairef"
       ],
       "osm": "relation/18471704",
@@ -3086,8 +3086,8 @@ window.KB = {
       "id": "muntazy-12905782",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Muntazy"
       ],
       "osm": "relation/12905782",
@@ -3103,8 +3103,8 @@ window.KB = {
       "id": "new-industrial-12905769",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "New Industrial"
       ],
       "osm": "relation/12905769",
@@ -3120,8 +3120,8 @@ window.KB = {
       "id": "yasmeen-12905780",
       "path": [
         "Ajman Emirate",
-        "Ajman Emirate",
-        "Ajman Emirate",
+        "Ajman",
+        "Ajman",
         "Yasmeen"
       ],
       "osm": "relation/12905780",
@@ -3134,28 +3134,793 @@ window.KB = {
       "street_count": 2
     },
     {
-      "id": "-18471832",
+      "id": "abu-hail-18471786",
       "path": [
         "Dubai Emirate",
-        "Dubai Emirate",
-        "Dubai Emirate",
-        ""
+        "Dubai",
+        "Dubai",
+        "Abu Hail"
       ],
-      "osm": "relation/18471832",
+      "osm": "relation/18471786",
       "bbox": [
-        25.002477,
-        55.23994,
-        25.103777,
-        55.392117
+        25.278663,
+        55.32223,
+        25.292571,
+        55.338551
       ],
-      "street_count": 67
+      "street_count": 2
+    },
+    {
+      "id": "al-awir-1-21217663",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Awir 1"
+      ],
+      "osm": "relation/21217663",
+      "bbox": [
+        25.161847,
+        55.49551,
+        25.23477,
+        55.633029
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-bada-a-18471722",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Bada'a"
+      ],
+      "osm": "relation/18471722",
+      "bbox": [
+        25.209987,
+        55.257229,
+        25.23887,
+        55.278928
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-baraha-18471780",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Baraha"
+      ],
+      "osm": "relation/18471780",
+      "bbox": [
+        25.276599,
+        55.310088,
+        25.287825,
+        55.327126
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-barsha-south-3-18471699",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Barsha South 3"
+      ],
+      "osm": "relation/18471699",
+      "bbox": [
+        25.051924,
+        55.220822,
+        25.068637,
+        55.24981
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-barsha-south-5-18471834",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Barsha South 5"
+      ],
+      "osm": "relation/18471834",
+      "bbox": [
+        25.029417,
+        55.168577,
+        25.063683,
+        55.199762
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "al-bateen-14506839",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Bateen"
+      ],
+      "osm": "relation/14506839",
+      "bbox": [
+        25.267138,
+        55.297275,
+        25.270772,
+        55.302363
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-dhagaya-18471663",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Dhagaya"
+      ],
+      "osm": "relation/18471663",
+      "bbox": [
+        25.27027,
+        55.297393,
+        25.27515,
+        55.302377
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-garhoud-18471788",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Garhoud"
+      ],
+      "osm": "relation/18471788",
+      "bbox": [
+        25.229882,
+        55.336471,
+        25.256199,
+        55.368779
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-hamriya-18471710",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Hamriya"
+      ],
+      "osm": "relation/18471710",
+      "bbox": [
+        25.254811,
+        55.297541,
+        25.265235,
+        55.309679
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-hebiah-2-18471650",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Hebiah 2"
+      ],
+      "osm": "relation/18471650",
+      "bbox": [
+        25.025808,
+        55.231904,
+        25.045712,
+        55.254817
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-hebiah-5-18471818",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Hebiah 5"
+      ],
+      "osm": "relation/18471818",
+      "bbox": [
+        24.992006,
+        55.216786,
+        25.024089,
+        55.260165
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-hudaiba-18471790",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Hudaiba"
+      ],
+      "osm": "relation/18471790",
+      "bbox": [
+        25.234994,
+        55.273728,
+        25.249794,
+        55.284875
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-jaddaf-18471794",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Jaddaf"
+      ],
+      "osm": "relation/18471794",
+      "bbox": [
+        25.180817,
+        55.309029,
+        25.231821,
+        55.345331
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "al-jafiliya-18471800",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Jafiliya"
+      ],
+      "osm": "relation/18471800",
+      "bbox": [
+        25.229719,
+        55.278751,
+        25.246504,
+        55.295319
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-karama-18471789",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Karama"
+      ],
+      "osm": "relation/18471789",
+      "bbox": [
+        25.234827,
+        55.295319,
+        25.254811,
+        55.314213
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "al-lesaily-18471841",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Lesaily"
+      ],
+      "osm": "relation/18471841",
+      "bbox": [
+        24.853552,
+        55.376283,
+        24.964752,
+        55.521261
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-mamzar-18471731",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Mamzar"
+      ],
+      "osm": "relation/18471731",
+      "bbox": [
+        25.281038,
+        55.332201,
+        25.32784,
+        55.373324
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-manara-18471689",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Manara"
+      ],
+      "osm": "relation/18471689",
+      "bbox": [
+        25.133761,
+        55.204462,
+        25.154692,
+        55.223981
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-mankhool-18471793",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Mankhool"
+      ],
+      "osm": "relation/18471793",
+      "bbox": [
+        25.239677,
+        55.284875,
+        25.258252,
+        55.304263
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-mina-18471712",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Mina"
+      ],
+      "osm": "relation/18471712",
+      "bbox": [
+        25.238254,
+        55.249148,
+        25.28855,
+        55.29439
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-mizhar-18471787",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Mizhar"
+      ],
+      "osm": "relation/18471787",
+      "bbox": [
+        25.228616,
+        55.425441,
+        25.258259,
+        55.469394
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-muraqqabat-18471665",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Muraqqabat"
+      ],
+      "osm": "relation/18471665",
+      "bbox": [
+        25.25865,
+        55.314346,
+        25.27047,
+        55.330571
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "al-murar-18471782",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Murar"
+      ],
+      "osm": "relation/18471782",
+      "bbox": [
+        25.273453,
+        55.304809,
+        25.27987,
+        55.315369
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-muteena-18471783",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Muteena"
+      ],
+      "osm": "relation/18471783",
+      "bbox": [
+        25.270086,
+        55.315369,
+        25.278663,
+        55.330358
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-nahda-18471785",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Nahda"
+      ],
+      "osm": "relation/18471785",
+      "bbox": [
+        25.278168,
+        55.35572,
+        25.299126,
+        55.388417
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-quoz-community-15621952",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Quoz Community"
+      ],
+      "osm": "relation/15621952",
+      "bbox": [
+        25.102329,
+        55.201941,
+        25.180275,
+        55.279206
+      ],
+      "street_count": 11
+    },
+    {
+      "id": "al-qusais-18471660",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Qusais"
+      ],
+      "osm": "relation/18471660",
+      "bbox": [
+        25.251739,
+        55.360484,
+        25.288161,
+        55.409949
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-qusais-industrial-area-18471784",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Qusais Industrial Area"
+      ],
+      "osm": "relation/18471784",
+      "bbox": [
+        25.270951,
+        55.376706,
+        25.302612,
+        55.427893
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "al-raffa-18471711",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Raffa"
+      ],
+      "osm": "relation/18471711",
+      "bbox": [
+        25.246504,
+        55.280342,
+        25.260844,
+        55.297541
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-ras-14506838",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Ras"
+      ],
+      "osm": "relation/14506838",
+      "bbox": [
+        25.265731,
+        55.292122,
+        25.274401,
+        55.298607
+      ],
+      "street_count": 8
+    },
+    {
+      "id": "al-rigga-14506842",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Rigga"
+      ],
+      "osm": "relation/14506842",
+      "bbox": [
+        25.261992,
+        55.303305,
+        25.270086,
+        55.316431
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-ruwayyah-1-18471643",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Ruwayyah 1"
+      ],
+      "osm": "relation/18471643",
+      "bbox": [
+        25.102955,
+        55.407474,
+        25.140353,
+        55.463164
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-ruwayyah-2-18471659",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Ruwayyah 2"
+      ],
+      "osm": "relation/18471659",
+      "bbox": [
+        25.087525,
+        55.37866,
+        25.125205,
+        55.414938
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-sabkha-14506840",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Sabkha"
+      ],
+      "osm": "relation/14506840",
+      "bbox": [
+        25.26726,
+        55.300479,
+        25.271501,
+        55.303373
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-safa-18471742",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Safa"
+      ],
+      "osm": "relation/18471742",
+      "bbox": [
+        25.149336,
+        55.215937,
+        25.186783,
+        55.249607
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "al-satwa-18471715",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Satwa"
+      ],
+      "osm": "relation/18471715",
+      "bbox": [
+        25.20578,
+        55.261132,
+        25.234994,
+        55.286128
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "al-selal-madinat-latifa-18471684",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Selal/Madinat Latifa"
+      ],
+      "osm": "relation/18471684",
+      "bbox": [
+        24.817891,
+        55.184268,
+        24.957132,
+        55.345305
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-souk-al-kabeer-18471713",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Souk Al Kabeer"
+      ],
+      "osm": "relation/18471713",
+      "bbox": [
+        25.258252,
+        55.284325,
+        25.265528,
+        55.301962
+      ],
+      "street_count": 10
+    },
+    {
+      "id": "al-waheda-14506841",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Waheda"
+      ],
+      "osm": "relation/14506841",
+      "bbox": [
+        25.283757,
+        55.327567,
+        25.298332,
+        55.345471
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-warqa-18471737",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Warqa"
+      ],
+      "osm": "relation/18471737",
+      "bbox": [
+        25.168043,
+        55.396669,
+        25.212347,
+        55.464558
+      ],
+      "street_count": 3
+    },
+    {
+      "id": "al-wasl-18471795",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Wasl"
+      ],
+      "osm": "relation/18471795",
+      "bbox": [
+        25.180275,
+        55.23977,
+        25.212059,
+        55.270807
+      ],
+      "street_count": 8
+    },
+    {
+      "id": "al-yalayis-1-18471697",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Yalayis 1"
+      ],
+      "osm": "relation/18471697",
+      "bbox": [
+        24.989225,
+        55.281596,
+        25.049366,
+        55.33546
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "al-yalayis-2-18471752",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Yalayis 2"
+      ],
+      "osm": "relation/18471752",
+      "bbox": [
+        24.973824,
+        55.260057,
+        25.022209,
+        55.321048
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "al-yufrah-2-18471652",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Al Yufrah 2"
+      ],
+      "osm": "relation/18471652",
+      "bbox": [
+        24.949883,
+        55.363434,
+        24.986911,
+        55.415556
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "bukadra-18471797",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Bukadra"
+      ],
+      "osm": "relation/18471797",
+      "bbox": [
+        25.169608,
+        55.315066,
+        25.18495,
+        55.332669
+      ],
+      "street_count": 1
     },
     {
       "id": "business-bay-18471755",
       "path": [
         "Dubai Emirate",
-        "Dubai Emirate",
-        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
         "Business Bay"
       ],
       "osm": "relation/18471755",
@@ -3168,11 +3933,198 @@ window.KB = {
       "street_count": 7
     },
     {
+      "id": "corniche-deira-14506837",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Corniche Deira"
+      ],
+      "osm": "relation/14506837",
+      "bbox": [
+        25.273473,
+        55.294844,
+        25.294703,
+        55.327567
+      ],
+      "street_count": 9
+    },
+    {
+      "id": "downtown-dubai-18471738",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Downtown Dubai"
+      ],
+      "osm": "relation/18471738",
+      "bbox": [
+        25.18476,
+        55.26454,
+        25.204854,
+        55.289143
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "dubai-international-airport-18471754",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Dubai International Airport"
+      ],
+      "osm": "relation/18471754",
+      "bbox": [
+        25.230195,
+        55.336703,
+        25.274784,
+        55.40421
+      ],
+      "street_count": 9
+    },
+    {
+      "id": "grayteesah-18471807",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Grayteesah"
+      ],
+      "osm": "relation/18471807",
+      "bbox": [
+        24.788391,
+        55.442335,
+        24.923637,
+        55.572984
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "green-community-east-18471835",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Green Community East"
+      ],
+      "osm": "relation/18471835",
+      "bbox": [
+        25.002343,
+        55.155352,
+        25.008844,
+        55.165728
+      ],
+      "street_count": 24
+    },
+    {
+      "id": "green-community-west-18471844",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Green Community West"
+      ],
+      "osm": "relation/18471844",
+      "bbox": [
+        24.990024,
+        55.156583,
+        25.002889,
+        55.172113
+      ],
+      "street_count": 40
+    },
+    {
+      "id": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Hadaeq Sheikh Mohammed Bin Rashid"
+      ],
+      "osm": "relation/18471757",
+      "bbox": [
+        25.055923,
+        55.233023,
+        25.155397,
+        55.295766
+      ],
+      "street_count": 10
+    },
+    {
+      "id": "hessyan-1-18471799",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Hessyan 1"
+      ],
+      "osm": "relation/18471799",
+      "bbox": [
+        24.929063,
+        54.988935,
+        24.988276,
+        55.062365
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "hor-al-anz-14506843",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Hor Al Anz"
+      ],
+      "osm": "relation/14506843",
+      "bbox": [
+        25.27047,
+        55.327126,
+        25.290199,
+        55.35572
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "jabal-ali-industrial-2-18471645",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Jabal Ali Industrial 2"
+      ],
+      "osm": "relation/18471645",
+      "bbox": [
+        24.919593,
+        55.062365,
+        24.987629,
+        55.142268
+      ],
+      "street_count": 5
+    },
+    {
+      "id": "jabal-ali-industrial-3-18471829",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Jabal Ali Industrial 3"
+      ],
+      "osm": "relation/18471829",
+      "bbox": [
+        24.89184,
+        55.0102,
+        24.94702,
+        55.103912
+      ],
+      "street_count": 3
+    },
+    {
       "id": "jebel-ali-north-free-zone-18471647",
       "path": [
         "Dubai Emirate",
-        "Dubai Emirate",
-        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
         "Jebel Ali North Free Zone"
       ],
       "osm": "relation/18471647",
@@ -3185,11 +4137,45 @@ window.KB = {
       "street_count": 8
     },
     {
+      "id": "jumeirah-11912729",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Jumeirah"
+      ],
+      "osm": "relation/11912729",
+      "bbox": [
+        25.16964,
+        55.216396,
+        25.2497,
+        55.272603
+      ],
+      "street_count": 73
+    },
+    {
+      "id": "jumeirah-golf-estates-18471779",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Jumeirah Golf Estates"
+      ],
+      "osm": "relation/18471779",
+      "bbox": [
+        25.012138,
+        55.184378,
+        25.031429,
+        55.215443
+      ],
+      "street_count": 7
+    },
+    {
       "id": "jumeirah-islands-18471847",
       "path": [
         "Dubai Emirate",
-        "Dubai Emirate",
-        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
         "Jumeirah Islands"
       ],
       "osm": "relation/18471847",
@@ -3202,11 +4188,266 @@ window.KB = {
       "street_count": 1
     },
     {
+      "id": "margham-18471845",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Margham"
+      ],
+      "osm": "relation/18471845",
+      "bbox": [
+        24.875868,
+        55.494188,
+        25.023143,
+        55.661038
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "mbr-al-merkad-18471803",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "MBR- Al Merkad"
+      ],
+      "osm": "relation/18471803",
+      "bbox": [
+        25.150801,
+        55.267876,
+        25.183154,
+        55.317354
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "mirdif-18471716",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Mirdif"
+      ],
+      "osm": "relation/18471716",
+      "bbox": [
+        25.205619,
+        55.402812,
+        25.235221,
+        55.442403
+      ],
+      "street_count": 9
+    },
+    {
+      "id": "muhaisnah-18471781",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Muhaisnah"
+      ],
+      "osm": "relation/18471781",
+      "bbox": [
+        25.233002,
+        55.396162,
+        25.288473,
+        55.443769
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "mushrif-18471728",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Mushrif"
+      ],
+      "osm": "relation/18471728",
+      "bbox": [
+        25.189817,
+        55.433826,
+        25.23208,
+        55.465159
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "nad-al-sheba-18471683",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Nad Al Sheba"
+      ],
+      "osm": "relation/18471683",
+      "bbox": [
+        25.119936,
+        55.284237,
+        25.17082,
+        55.391127
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "nadd-al-sheba-2-18471707",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Nadd Al Sheba 2"
+      ],
+      "osm": "relation/18471707",
+      "bbox": [
+        25.142011,
+        55.324646,
+        25.169885,
+        55.365862
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "nadd-al-sheba-3-18471747",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Nadd Al Sheba 3"
+      ],
+      "osm": "relation/18471747",
+      "bbox": [
+        25.138728,
+        55.36171,
+        25.168054,
+        55.391127
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "nadd-hessa-18471700",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Nadd Hessa"
+      ],
+      "osm": "relation/18471700",
+      "bbox": [
+        25.103802,
+        55.364864,
+        25.138728,
+        55.408323
+      ],
+      "street_count": 5
+    },
+    {
+      "id": "naif-18471792",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Naif"
+      ],
+      "osm": "relation/18471792",
+      "bbox": [
+        25.268909,
+        55.302377,
+        25.276599,
+        55.316419
+      ],
+      "street_count": 5
+    },
+    {
+      "id": "oud-al-muteena-18471758",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Oud Al Muteena"
+      ],
+      "osm": "relation/18471758",
+      "bbox": [
+        25.255202,
+        55.429721,
+        25.280604,
+        55.472623
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "port-saeed-12431735",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Port Saeed"
+      ],
+      "osm": "relation/12431735",
+      "bbox": [
+        25.234679,
+        55.322004,
+        25.264045,
+        55.340683
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "riggat-al-buteen-14506836",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Riggat Al Buteen"
+      ],
+      "osm": "relation/14506836",
+      "bbox": [
+        25.252947,
+        55.312231,
+        25.264549,
+        55.32645
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "saih-al-salam-18471725",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Saih Al Salam"
+      ],
+      "osm": "relation/18471725",
+      "bbox": [
+        24.800598,
+        55.340317,
+        24.950295,
+        55.442335
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "saih-shuaib-1-18471796",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Saih Shuaib 1"
+      ],
+      "osm": "relation/18471796",
+      "bbox": [
+        24.868171,
+        54.940376,
+        24.929063,
+        55.060775
+      ],
+      "street_count": 5
+    },
+    {
       "id": "the-meadows-18471657",
       "path": [
         "Dubai Emirate",
-        "Dubai Emirate",
-        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
         "The Meadows"
       ],
       "osm": "relation/18471657",
@@ -3219,11 +4460,232 @@ window.KB = {
       "street_count": 1
     },
     {
+      "id": "the-springs-18471656",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "The Springs"
+      ],
+      "osm": "relation/18471656",
+      "bbox": [
+        25.047851,
+        55.15718,
+        25.072181,
+        55.195617
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "trade-centre-18471719",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Trade Centre"
+      ],
+      "osm": "relation/18471719",
+      "bbox": [
+        25.203909,
+        55.269035,
+        25.231207,
+        55.292466
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "umm-hurair-18471718",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Umm Hurair"
+      ],
+      "osm": "relation/18471718",
+      "bbox": [
+        25.225552,
+        55.304263,
+        25.260159,
+        55.336887
+      ],
+      "street_count": 5
+    },
+    {
+      "id": "umm-nahad-3-madinat-hind-3-18471670",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Umm Nahad 3/Madinat Hind 3"
+      ],
+      "osm": "relation/18471670",
+      "bbox": [
+        24.99843,
+        55.40288,
+        25.062582,
+        55.445132
+      ],
+      "street_count": 6
+    },
+    {
+      "id": "umm-nahad-4-madinat-hind-4-21217661",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Umm Nahad 4/Madinat Hind 4"
+      ],
+      "osm": "relation/21217661",
+      "bbox": [
+        24.964014,
+        55.314175,
+        25.055912,
+        55.409884
+      ],
+      "street_count": 7
+    },
+    {
+      "id": "umm-ramool-18471720",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Umm Ramool"
+      ],
+      "osm": "relation/18471720",
+      "bbox": [
+        25.217023,
+        55.353077,
+        25.241152,
+        55.377801
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "umm-suqeim-18471749",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Umm Suqeim"
+      ],
+      "osm": "relation/18471749",
+      "bbox": [
+        25.127996,
+        55.183562,
+        25.176588,
+        55.227652
+      ],
+      "street_count": 122
+    },
+    {
+      "id": "wadi-al-amardi-18471729",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Wadi Al Amardi"
+      ],
+      "osm": "relation/18471729",
+      "bbox": [
+        25.164439,
+        55.460084,
+        25.228616,
+        55.532362
+      ],
+      "street_count": 2
+    },
+    {
+      "id": "wadi-al-safa-3-18471709",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Wadi Al Safa 3"
+      ],
+      "osm": "relation/18471709",
+      "bbox": [
+        25.065408,
+        55.277151,
+        25.141991,
+        55.364864
+      ],
+      "street_count": 4
+    },
+    {
+      "id": "wadi-al-safa-4-18471837",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Wadi Al Safa 4"
+      ],
+      "osm": "relation/18471837",
+      "bbox": [
+        25.058259,
+        55.295108,
+        25.096922,
+        55.336682
+      ],
+      "street_count": 1
+    },
+    {
+      "id": "wadi-al-safa-6-18471658",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Wadi Al Safa 6"
+      ],
+      "osm": "relation/18471658",
+      "bbox": [
+        25.03206,
+        55.247656,
+        25.065395,
+        55.301218
+      ],
+      "street_count": 19
+    },
+    {
+      "id": "warsan-18471741",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Warsan"
+      ],
+      "osm": "relation/18471741",
+      "bbox": [
+        25.114396,
+        55.391127,
+        25.17989,
+        55.495119
+      ],
+      "street_count": 11
+    },
+    {
+      "id": "zabeel-18471721",
+      "path": [
+        "Dubai Emirate",
+        "Dubai",
+        "Dubai",
+        "Zabeel"
+      ],
+      "osm": "relation/18471721",
+      "bbox": [
+        25.180738,
+        55.272732,
+        25.239677,
+        55.315608
+      ],
+      "street_count": 10
+    },
+    {
       "id": "al-burairat-18471662",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Burairat"
       ],
       "osm": "relation/18471662",
@@ -3239,8 +4701,8 @@ window.KB = {
       "id": "al-dhait-north-18471811",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Dhait North"
       ],
       "osm": "relation/18471811",
@@ -3256,8 +4718,8 @@ window.KB = {
       "id": "al-dhait-south-18471708",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Dhait South"
       ],
       "osm": "relation/18471708",
@@ -3273,8 +4735,8 @@ window.KB = {
       "id": "al-fahlain-17394844",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Fahlain"
       ],
       "osm": "relation/17394844",
@@ -3290,8 +4752,8 @@ window.KB = {
       "id": "al-gurum-resort-18471776",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Gurum Resort"
       ],
       "osm": "relation/18471776",
@@ -3307,8 +4769,8 @@ window.KB = {
       "id": "al-hamra-free-zone-18471816",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Hamra Free Zone"
       ],
       "osm": "relation/18471816",
@@ -3324,8 +4786,8 @@ window.KB = {
       "id": "al-hamra-industrial-area-18471815",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Hamra Industrial Area"
       ],
       "osm": "relation/18471815",
@@ -3341,8 +4803,8 @@ window.KB = {
       "id": "al-hamraniyah-18471771",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Hamraniyah"
       ],
       "osm": "relation/18471771",
@@ -3358,8 +4820,8 @@ window.KB = {
       "id": "al-jazirah-al-hamra-18471823",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Jazirah Al Hamra"
       ],
       "osm": "relation/18471823",
@@ -3375,8 +4837,8 @@ window.KB = {
       "id": "al-mairid-18471673",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Mairid"
       ],
       "osm": "relation/18471673",
@@ -3392,8 +4854,8 @@ window.KB = {
       "id": "al-marjan-island-18471809",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Marjan Island"
       ],
       "osm": "relation/18471809",
@@ -3409,8 +4871,8 @@ window.KB = {
       "id": "al-nakhil-18471764",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Nakhil"
       ],
       "osm": "relation/18471764",
@@ -3426,8 +4888,8 @@ window.KB = {
       "id": "al-rafaah-18471820",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Rafaah"
       ],
       "osm": "relation/18471820",
@@ -3443,8 +4905,8 @@ window.KB = {
       "id": "al-ragibah-18471814",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Ragibah"
       ],
       "osm": "relation/18471814",
@@ -3460,8 +4922,8 @@ window.KB = {
       "id": "al-tharfah-18471702",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Al Tharfah"
       ],
       "osm": "relation/18471702",
@@ -3477,8 +4939,8 @@ window.KB = {
       "id": "burial-khor-ras-al-khaimah-18471761",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Burial Khor Ras Al Khaimah"
       ],
       "osm": "relation/18471761",
@@ -3494,8 +4956,8 @@ window.KB = {
       "id": "dafan-al-khor-18471767",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Dafan Al Khor"
       ],
       "osm": "relation/18471767",
@@ -3511,8 +4973,8 @@ window.KB = {
       "id": "dafan-al-nakheel-18471778",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Dafan Al Nakheel"
       ],
       "osm": "relation/18471778",
@@ -3528,8 +4990,8 @@ window.KB = {
       "id": "ghalilah-18471775",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Ghalilah"
       ],
       "osm": "relation/18471775",
@@ -3545,8 +5007,8 @@ window.KB = {
       "id": "khatt-18471822",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Khatt"
       ],
       "osm": "relation/18471822",
@@ -3562,8 +5024,8 @@ window.KB = {
       "id": "rak-city-18471760",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "RAK City"
       ],
       "osm": "relation/18471760",
@@ -3579,8 +5041,8 @@ window.KB = {
       "id": "saih-al-hudiabah-18471765",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Saih Al Hudiabah"
       ],
       "osm": "relation/18471765",
@@ -3596,8 +5058,8 @@ window.KB = {
       "id": "shabiat-rashed-18471675",
       "path": [
         "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
-        "Ras al-Khaimah Emirate",
+        "Ras al-Khaimah",
+        "Ras al-Khaimah",
         "Shabiat Rashed"
       ],
       "osm": "relation/18471675",
@@ -3613,8 +5075,8 @@ window.KB = {
       "id": "al-batayih-12905784",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Batayih"
       ],
       "osm": "relation/12905784",
@@ -3630,8 +5092,8 @@ window.KB = {
       "id": "al-dhaid-12905764",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Dhaid"
       ],
       "osm": "relation/12905764",
@@ -3647,8 +5109,8 @@ window.KB = {
       "id": "al-gharb-18471745",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Gharb"
       ],
       "osm": "relation/18471745",
@@ -3664,8 +5126,8 @@ window.KB = {
       "id": "al-hamriya-12905746",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Hamriya"
       ],
       "osm": "relation/12905746",
@@ -3681,8 +5143,8 @@ window.KB = {
       "id": "al-jubail-18471751",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Jubail"
       ],
       "osm": "relation/18471751",
@@ -3698,8 +5160,8 @@ window.KB = {
       "id": "al-khalidiyah-18471736",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Khalidiyah"
       ],
       "osm": "relation/18471736",
@@ -3715,8 +5177,8 @@ window.KB = {
       "id": "al-madam-12905765",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Madam"
       ],
       "osm": "relation/12905765",
@@ -3732,8 +5194,8 @@ window.KB = {
       "id": "al-majaz-18471746",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Majaz"
       ],
       "osm": "relation/18471746",
@@ -3749,8 +5211,8 @@ window.KB = {
       "id": "al-nahda-18471733",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Nahda"
       ],
       "osm": "relation/18471733",
@@ -3766,8 +5228,8 @@ window.KB = {
       "id": "al-qasimia-18471734",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Qasimia"
       ],
       "osm": "relation/18471734",
@@ -3783,8 +5245,8 @@ window.KB = {
       "id": "al-rahmaniya-18471682",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Rahmaniya"
       ],
       "osm": "relation/18471682",
@@ -3800,8 +5262,8 @@ window.KB = {
       "id": "al-ramlah-12905774",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Ramlah"
       ],
       "osm": "relation/12905774",
@@ -3817,8 +5279,8 @@ window.KB = {
       "id": "al-riqqa-18471681",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Riqqa"
       ],
       "osm": "relation/18471681",
@@ -3834,8 +5296,8 @@ window.KB = {
       "id": "al-seef-12905743",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Seef"
       ],
       "osm": "relation/12905743",
@@ -3851,8 +5313,8 @@ window.KB = {
       "id": "al-sharq-18471744",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Sharq"
       ],
       "osm": "relation/18471744",
@@ -3868,8 +5330,8 @@ window.KB = {
       "id": "al-soor-18471727",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Al Soor"
       ],
       "osm": "relation/18471727",
@@ -3885,8 +5347,8 @@ window.KB = {
       "id": "albade-i-18471680",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Albade'i"
       ],
       "osm": "relation/18471680",
@@ -3902,8 +5364,8 @@ window.KB = {
       "id": "dibba-al-hisn-18471676",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Dibba Al Hisn"
       ],
       "osm": "relation/18471676",
@@ -3919,8 +5381,8 @@ window.KB = {
       "id": "halwan-18471735",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Halwan"
       ],
       "osm": "relation/18471735",
@@ -3936,8 +5398,8 @@ window.KB = {
       "id": "kalba-12482829",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Kalba"
       ],
       "osm": "relation/12482829",
@@ -3953,8 +5415,8 @@ window.KB = {
       "id": "khor-fakkan-12497695",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Khor Fakkan"
       ],
       "osm": "relation/12497695",
@@ -3970,8 +5432,8 @@ window.KB = {
       "id": "milehah-12905766",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Milehah"
       ],
       "osm": "relation/12905766",
@@ -3987,8 +5449,8 @@ window.KB = {
       "id": "mughaidir-18471748",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Mughaidir"
       ],
       "osm": "relation/18471748",
@@ -4004,8 +5466,8 @@ window.KB = {
       "id": "muwaileh-18471750",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Muwaileh"
       ],
       "osm": "relation/18471750",
@@ -4021,8 +5483,8 @@ window.KB = {
       "id": "sharjah-12905785",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Sharjah"
       ],
       "osm": "relation/12905785",
@@ -4038,8 +5500,8 @@ window.KB = {
       "id": "wasit-12905768",
       "path": [
         "Sharjah Emirate",
-        "Sharjah Emirate",
-        "Sharjah Emirate",
+        "Sharjah",
+        "Sharjah",
         "Wasit"
       ],
       "osm": "relation/12905768",
@@ -4055,8 +5517,8 @@ window.KB = {
       "id": "al-aahad-12905753",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Aahad"
       ],
       "osm": "relation/12905753",
@@ -4072,8 +5534,8 @@ window.KB = {
       "id": "al-abraq-12905770",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Abraq"
       ],
       "osm": "relation/12905770",
@@ -4089,8 +5551,8 @@ window.KB = {
       "id": "al-dar-al-baidah-12905754",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Dar Al Baidah"
       ],
       "osm": "relation/12905754",
@@ -4106,8 +5568,8 @@ window.KB = {
       "id": "al-haditha-12905762",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Haditha"
       ],
       "osm": "relation/12905762",
@@ -4123,8 +5585,8 @@ window.KB = {
       "id": "al-hamrah-12905752",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Hamrah"
       ],
       "osm": "relation/12905752",
@@ -4140,8 +5602,8 @@ window.KB = {
       "id": "al-haweah-12905757",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Haweah"
       ],
       "osm": "relation/12905757",
@@ -4157,8 +5619,8 @@ window.KB = {
       "id": "al-khor-12905755",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Khor"
       ],
       "osm": "relation/12905755",
@@ -4174,8 +5636,8 @@ window.KB = {
       "id": "al-madar-12905763",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Madar"
       ],
       "osm": "relation/12905763",
@@ -4191,8 +5653,8 @@ window.KB = {
       "id": "al-maidan-12905761",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Maidan"
       ],
       "osm": "relation/12905761",
@@ -4208,8 +5670,8 @@ window.KB = {
       "id": "al-medfeq-18471808",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Medfeq"
       ],
       "osm": "relation/18471808",
@@ -4225,8 +5687,8 @@ window.KB = {
       "id": "al-raas-12905760",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Raas"
       ],
       "osm": "relation/12905760",
@@ -4242,8 +5704,8 @@ window.KB = {
       "id": "al-ramlah-18471827",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Ramlah"
       ],
       "osm": "relation/18471827",
@@ -4259,8 +5721,8 @@ window.KB = {
       "id": "al-reqqah-12905751",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Reqqah"
       ],
       "osm": "relation/12905751",
@@ -4276,8 +5738,8 @@ window.KB = {
       "id": "al-rowdah-12905756",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Rowdah"
       ],
       "osm": "relation/12905756",
@@ -4293,8 +5755,8 @@ window.KB = {
       "id": "al-salmah-12905771",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Al Salmah"
       ],
       "osm": "relation/12905771",
@@ -4310,8 +5772,8 @@ window.KB = {
       "id": "defence-camp-12905749",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Defence Camp"
       ],
       "osm": "relation/12905749",
@@ -4327,8 +5789,8 @@ window.KB = {
       "id": "emirates-modern-industrial-18471739",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Emirates Modern Industrial"
       ],
       "osm": "relation/18471739",
@@ -4344,8 +5806,8 @@ window.KB = {
       "id": "green-belt-12905750",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Green Belt"
       ],
       "osm": "relation/12905750",
@@ -4361,8 +5823,8 @@ window.KB = {
       "id": "industrial-area-12905748",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Industrial Area"
       ],
       "osm": "relation/12905748",
@@ -4378,8 +5840,8 @@ window.KB = {
       "id": "lamagdar-12905758",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Lamagdar"
       ],
       "osm": "relation/12905758",
@@ -4395,8 +5857,8 @@ window.KB = {
       "id": "old-town-area-12905759",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Old Town Area"
       ],
       "osm": "relation/12905759",
@@ -4412,8 +5874,8 @@ window.KB = {
       "id": "shanteer-12905773",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Shanteer"
       ],
       "osm": "relation/12905773",
@@ -4429,8 +5891,8 @@ window.KB = {
       "id": "umm-al-quwain-airport-18471824",
       "path": [
         "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
-        "Umm al-Quwain Emirate",
+        "Umm al-Quwain",
+        "Umm al-Quwain",
         "Umm Al Quwain Airport"
       ],
       "osm": "relation/18471824",
@@ -113838,7 +115300,7 @@ window.KB = {
     },
     {
       "id": "dubai/2nd-december-street",
-      "area": null,
+      "area": "al-hudaiba-18471790",
       "emirate": "dubai",
       "name_en": "2nd December Street",
       "name_ar": "شارع 2 ديسمبر",
@@ -113850,7 +115312,7 @@ window.KB = {
     },
     {
       "id": "dubai/35c-شارع",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "35c شارع",
       "name_ar": "35c شارع",
@@ -113862,7 +115324,7 @@ window.KB = {
     },
     {
       "id": "dubai/7b-streeet",
-      "area": null,
+      "area": "hor-al-anz-14506843",
       "emirate": "dubai",
       "name_en": "7b Streeet",
       "name_ar": "7b شارع",
@@ -113886,7 +115348,7 @@ window.KB = {
     },
     {
       "id": "dubai/a-ali-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "A'ali Street",
       "name_ar": "شارع العالي",
@@ -113898,7 +115360,7 @@ window.KB = {
     },
     {
       "id": "dubai/a-tfah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "A'tfah Street",
       "name_ar": "شارع عطفة",
@@ -113946,7 +115408,7 @@ window.KB = {
     },
     {
       "id": "dubai/abu-baker-al-siddique-road",
-      "area": null,
+      "area": "port-saeed-12431735",
       "emirate": "dubai",
       "name_en": "Abu Baker Al Siddique Road",
       "name_ar": "طريق أبو بكر الصديق",
@@ -113958,7 +115420,7 @@ window.KB = {
     },
     {
       "id": "dubai/abu-hail-street",
-      "area": null,
+      "area": "abu-hail-18471786",
       "emirate": "dubai",
       "name_en": "Abu Hail Street",
       "name_ar": "شارع أبو هيل",
@@ -113982,7 +115444,7 @@ window.KB = {
     },
     {
       "id": "dubai/ad-deem-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Ad Deem Street",
       "name_ar": "",
@@ -113994,7 +115456,7 @@ window.KB = {
     },
     {
       "id": "dubai/aden-street",
-      "area": null,
+      "area": "bukadra-18471797",
       "emirate": "dubai",
       "name_en": "Aden Street",
       "name_ar": "شارع عدن",
@@ -114018,7 +115480,7 @@ window.KB = {
     },
     {
       "id": "dubai/adventure-street",
-      "area": null,
+      "area": "saih-shuaib-1-18471796",
       "emirate": "dubai",
       "name_en": "Adventure Street",
       "name_ar": "",
@@ -114030,7 +115492,7 @@ window.KB = {
     },
     {
       "id": "dubai/airport-road",
-      "area": null,
+      "area": "al-garhoud-18471788",
       "emirate": "dubai",
       "name_en": "Airport Road",
       "name_ar": "طريق المطار",
@@ -114042,7 +115504,7 @@ window.KB = {
     },
     {
       "id": "dubai/airport-terminal",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Airport Terminal",
       "name_ar": "المطار رقم",
@@ -114054,7 +115516,7 @@ window.KB = {
     },
     {
       "id": "dubai/airport-terminal-02-road",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Airport Terminal 02 Road.",
       "name_ar": "مطار محطة 02 الطريق.",
@@ -114066,7 +115528,7 @@ window.KB = {
     },
     {
       "id": "dubai/airport-terminal-road",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Airport Terminal Road",
       "name_ar": "مطار محطة 02 الطريق.",
@@ -114078,7 +115540,7 @@ window.KB = {
     },
     {
       "id": "dubai/airport-tunnel",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Airport Tunnel",
       "name_ar": "نفق المطار",
@@ -114090,7 +115552,7 @@ window.KB = {
     },
     {
       "id": "dubai/akoya",
-      "area": null,
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
       "emirate": "dubai",
       "name_en": "Akoya",
       "name_ar": "",
@@ -114102,7 +115564,7 @@ window.KB = {
     },
     {
       "id": "dubai/akoya-albizia",
-      "area": null,
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
       "emirate": "dubai",
       "name_en": "Akoya Albizia",
       "name_ar": "",
@@ -114114,7 +115576,7 @@ window.KB = {
     },
     {
       "id": "dubai/akoya-amargo",
-      "area": null,
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
       "emirate": "dubai",
       "name_en": "Akoya Amargo",
       "name_ar": "",
@@ -114126,7 +115588,7 @@ window.KB = {
     },
     {
       "id": "dubai/akoya-amazonia",
-      "area": null,
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
       "emirate": "dubai",
       "name_en": "Akoya Amazonia",
       "name_ar": "",
@@ -114138,7 +115600,7 @@ window.KB = {
     },
     {
       "id": "dubai/akoya-sancnary",
-      "area": null,
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
       "emirate": "dubai",
       "name_en": "Akoya Sancnary",
       "name_ar": "",
@@ -114150,7 +115612,7 @@ window.KB = {
     },
     {
       "id": "dubai/akoya-vardon",
-      "area": null,
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
       "emirate": "dubai",
       "name_en": "Akoya Vardon",
       "name_ar": "",
@@ -114162,7 +115624,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-a-ajbah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al A’ajbah Street",
       "name_ar": "",
@@ -114198,7 +115660,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-a-yay-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al A'yay Street",
       "name_ar": "شارع العايعي",
@@ -114210,7 +115672,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-aamlah-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Aamlah Street",
       "name_ar": "شارع العملة",
@@ -114222,7 +115684,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-abaari-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Abaari Street",
       "name_ar": "شارع العباري",
@@ -114234,7 +115696,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-abjar-street",
-      "area": null,
+      "area": "wadi-al-safa-3-18471709",
       "emirate": "dubai",
       "name_en": "Al Abjar Street",
       "name_ar": "",
@@ -114246,7 +115708,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-abra-street",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Al Abra Street",
       "name_ar": "شارع العبرة",
@@ -114258,7 +115720,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-abrah-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Abrah Street",
       "name_ar": "شارع العبره",
@@ -114270,7 +115732,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-adham-street",
-      "area": null,
+      "area": "wadi-al-safa-3-18471709",
       "emirate": "dubai",
       "name_en": "Al Adham Street",
       "name_ar": "شارع الادهم",
@@ -114282,7 +115744,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-afnan-street",
-      "area": null,
+      "area": "the-springs-18471656",
       "emirate": "dubai",
       "name_en": "Al Afnan Street",
       "name_ar": "شارع الأفنان",
@@ -114306,7 +115768,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ahmadiya-street",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Al Ahmadiya Street",
       "name_ar": "شارع الأحمديية",
@@ -114342,7 +115804,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-amardhi-street",
-      "area": null,
+      "area": "al-awir-1-21217663",
       "emirate": "dubai",
       "name_en": "Al Amardhi Street",
       "name_ar": "شارع العمردي",
@@ -114426,7 +115888,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-athar-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Athar Street",
       "name_ar": "شارع الاثار",
@@ -114450,7 +115912,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-azhar-street",
-      "area": null,
+      "area": "al-barsha-south-5-18471834",
       "emirate": "dubai",
       "name_en": "Al Azhar Street",
       "name_ar": "شارع الأزهار",
@@ -114462,7 +115924,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-badaa-street",
-      "area": null,
+      "area": "al-satwa-18471715",
       "emirate": "dubai",
       "name_en": "Al Badaa' Street",
       "name_ar": "شارع البدع",
@@ -114510,7 +115972,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-bagaara-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Bagaara Street",
       "name_ar": "شارع البقارة",
@@ -114522,7 +115984,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-baghla-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Baghla Street",
       "name_ar": "شارع البغلة",
@@ -114534,7 +115996,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-bailee-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Bailee Street",
       "name_ar": "شارع البيلي",
@@ -114558,7 +116020,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-baloulah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Baloulah Street",
       "name_ar": "شارع البلولة",
@@ -114570,7 +116032,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-banoosh-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Banoosh Street",
       "name_ar": "شارع البانوش",
@@ -114582,7 +116044,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-baraha-street",
-      "area": null,
+      "area": "al-baraha-18471780",
       "emirate": "dubai",
       "name_en": "Al Baraha Street",
       "name_ar": "شارع البراحة",
@@ -114606,7 +116068,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-barry-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Barry Street",
       "name_ar": "شارع البري",
@@ -114630,7 +116092,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-bawoura-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Bawoura Street",
       "name_ar": "شارع البوورة",
@@ -114642,7 +116104,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-baz-street",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Al Baz Street",
       "name_ar": "شارع الباز",
@@ -114654,7 +116116,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-beeta-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Beeta Street",
       "name_ar": "شارع البيتا",
@@ -114666,7 +116128,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-besheen-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Besheen Street",
       "name_ar": "شارع البشين",
@@ -114678,7 +116140,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-beteel-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Beteel Street",
       "name_ar": "شارع البيتل",
@@ -114690,7 +116152,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-boom-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Boom Street",
       "name_ar": "شارع البوم",
@@ -114702,7 +116164,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-boomiya-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Boomiya Street",
       "name_ar": "شارع البومية",
@@ -114714,7 +116176,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-borj-street",
-      "area": null,
+      "area": "naif-18471792",
       "emirate": "dubai",
       "name_en": "Al Borj Street",
       "name_ar": "شارع البرج",
@@ -114726,7 +116188,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-boursa-street",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Al Boursa Street",
       "name_ar": "شارع البورصة",
@@ -114738,7 +116200,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-boussi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Boussi Street",
       "name_ar": "شارع البوصي",
@@ -114774,7 +116236,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-corniche-street",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Al Corniche Street",
       "name_ar": "شارع الكورنيش",
@@ -114798,7 +116260,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-daffrah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Daffrah Street",
       "name_ar": "شارع الدفرة",
@@ -114810,7 +116272,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-daghaya-street",
-      "area": null,
+      "area": "al-dhagaya-18471663",
       "emirate": "dubai",
       "name_en": "Al Daghaya Street",
       "name_ar": "شارع الضغاية",
@@ -114834,7 +116296,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-damin-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Damin Street",
       "name_ar": "شارع الدامين",
@@ -114846,7 +116308,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-dana-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Dana Street",
       "name_ar": "شارع الدانة",
@@ -114858,7 +116320,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-dangah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Dangah Street",
       "name_ar": "شارع الدنقه",
@@ -114870,7 +116332,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-darmeet-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Darmeet Street",
       "name_ar": "شارع الدرميت",
@@ -114882,7 +116344,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-dassi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Dassi Street",
       "name_ar": "شارع الداسي",
@@ -114894,7 +116356,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-deem-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Deem Street",
       "name_ar": "",
@@ -114906,7 +116368,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-degal-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Degal street",
       "name_ar": "شارع الدقل",
@@ -114918,7 +116380,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-dhabi-street",
-      "area": null,
+      "area": "al-yalayis-1-18471697",
       "emirate": "dubai",
       "name_en": "Al Dhabi Street",
       "name_ar": "شارع الظبي",
@@ -114930,7 +116392,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-dobaya-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Dobaya Street",
       "name_ar": "شارع الدوباية",
@@ -114942,7 +116404,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-doom-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Doom Street",
       "name_ar": "شارع الدوم",
@@ -114954,7 +116416,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-dorar-street",
-      "area": null,
+      "area": "al-satwa-18471715",
       "emirate": "dubai",
       "name_en": "Al Dorar Street",
       "name_ar": "شارع الدرار",
@@ -114978,7 +116440,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-dustoor-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Dustoor Street",
       "name_ar": "شارع الدستور",
@@ -114990,7 +116452,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ebdaa-street",
-      "area": null,
+      "area": "al-satwa-18471715",
       "emirate": "dubai",
       "name_en": "Al Ebdaa' Street",
       "name_ar": "شارع الإبداع",
@@ -115002,7 +116464,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-enjaaz-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Al Enjaaz Street",
       "name_ar": "شارع الانجاز",
@@ -115014,7 +116476,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-esbij-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Esbij Street",
       "name_ar": "شارع الاسبيج",
@@ -115026,7 +116488,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-estaad-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Estaad Street",
       "name_ar": "شارع الاستاد",
@@ -115038,7 +116500,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ettihad-road",
-      "area": null,
+      "area": "port-saeed-12431735",
       "emirate": "dubai",
       "name_en": "Al Ettihad Road",
       "name_ar": "طريق الاتحاد",
@@ -115050,7 +116512,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-fahidi-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Fahidi Street",
       "name_ar": "شارع الفهيدي",
@@ -115098,7 +116560,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-famna-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Famna Street",
       "name_ar": "شارع الفامنة",
@@ -115170,7 +116632,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ferman-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Ferman Street",
       "name_ar": "شارع الفرمن",
@@ -115182,7 +116644,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-fils-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Fils Street",
       "name_ar": "شارع الفلس",
@@ -115194,7 +116656,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-fintaas-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Fintaas Street",
       "name_ar": "شارع الفنطاس",
@@ -115230,7 +116692,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-gaadoof-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Gaadoof Street",
       "name_ar": "شارع الغادوف",
@@ -115242,7 +116704,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-gaflah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Gaflah Street",
       "name_ar": "شارع الغفلة",
@@ -115254,7 +116716,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-garffa-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Garffa Street",
       "name_ar": "شارع الغرافة",
@@ -115266,7 +116728,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-geettan-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Geettan Street",
       "name_ar": "شارع القيطان",
@@ -115290,7 +116752,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ghais-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Ghais Street",
       "name_ar": "شارع الغيص",
@@ -115302,7 +116764,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ghala-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Ghala Street",
       "name_ar": "شارع الغاله",
@@ -115326,7 +116788,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ghazal-street",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Al Ghazal Street",
       "name_ar": "شارع الغزال",
@@ -115338,7 +116800,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ghazhal-street",
-      "area": null,
+      "area": "al-yalayis-1-18471697",
       "emirate": "dubai",
       "name_en": "Al Ghazhal Street",
       "name_ar": "",
@@ -115350,7 +116812,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ghelaan-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Ghelaan Street",
       "name_ar": "شارع الغلان",
@@ -115362,7 +116824,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ghubaiba-road",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Ghubaiba Road",
       "name_ar": "طريق الغبيبة",
@@ -115374,7 +116836,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ghubaiba-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Ghubaiba Street",
       "name_ar": "شارع الغبيبة",
@@ -115386,7 +116848,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-graibi-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Graibi Street",
       "name_ar": "شارع الغريبي",
@@ -115398,7 +116860,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-habel-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Habel Street",
       "name_ar": "شارع الحبل",
@@ -115410,7 +116872,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hadaeq-st",
-      "area": null,
+      "area": "al-barsha-south-3-18471699",
       "emirate": "dubai",
       "name_en": "Al Hadaeq St",
       "name_ar": "شارع الحدائق",
@@ -115422,7 +116884,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hadd-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Hadd Street",
       "name_ar": "شارع الحد",
@@ -115434,7 +116896,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hadiqa-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Al Hadiqa Street",
       "name_ar": "شارع الحديقة",
@@ -115446,7 +116908,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hair-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Hair Street",
       "name_ar": "شارع الشعر",
@@ -115458,7 +116920,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hamlah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Hamlah Street",
       "name_ar": "شارع الحملة",
@@ -115470,7 +116932,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hamoor-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Hamoor Street",
       "name_ar": "شارع الحمور",
@@ -115482,7 +116944,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hamra-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Hamra Street",
       "name_ar": "شارع الحمرا",
@@ -115494,7 +116956,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hamriyah-street",
-      "area": null,
+      "area": "abu-hail-18471786",
       "emirate": "dubai",
       "name_en": "Al Hamriyah Street",
       "name_ar": "شارع الحمرية",
@@ -115518,7 +116980,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-harth-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Harth Street",
       "name_ar": "شارع الحارث",
@@ -115530,7 +116992,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hasah-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Hasah Street",
       "name_ar": "شارع الحصة",
@@ -115542,7 +117004,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hassabi-street",
-      "area": null,
+      "area": "al-satwa-18471715",
       "emirate": "dubai",
       "name_en": "Al Hassabi Street",
       "name_ar": "شارع الحسابي",
@@ -115566,7 +117028,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-heeba-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Heeba Street",
       "name_ar": "شارع الحيبة",
@@ -115590,7 +117052,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-heyaab-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Heyaab Street",
       "name_ar": "شارع الحياب",
@@ -115614,7 +117076,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hisn-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Hisn Street",
       "name_ar": "شارع الحصن",
@@ -115626,7 +117088,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hizamat-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Hizamat Street",
       "name_ar": "شارع الحزامات",
@@ -115650,7 +117112,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-hudaiba-street",
-      "area": null,
+      "area": "al-bada-a-18471722",
       "emirate": "dubai",
       "name_en": "Al Hudaiba Street",
       "name_ar": "شارع الحضيبة",
@@ -115662,7 +117124,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ittihad-road",
-      "area": null,
+      "area": "port-saeed-12431735",
       "emirate": "dubai",
       "name_en": "Al Ittihad Road",
       "name_ar": "طريق الاتحاد",
@@ -115686,7 +117148,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jadaf-street",
-      "area": null,
+      "area": "al-jaddaf-18471794",
       "emirate": "dubai",
       "name_en": "Al Jadaf Street",
       "name_ar": "شارع الجداف",
@@ -115710,7 +117172,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jafiliya-street",
-      "area": null,
+      "area": "al-jafiliya-18471800",
       "emirate": "dubai",
       "name_en": "Al jafiliya Street",
       "name_ar": "شارع الجافلية",
@@ -115722,7 +117184,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jalboot-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Jalboot Street",
       "name_ar": "شارع الجالبوت",
@@ -115734,7 +117196,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jali-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Jali Street",
       "name_ar": "شارع الجالي",
@@ -115758,7 +117220,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jaydoom-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Jaydoom Street",
       "name_ar": "شارع الجدوم",
@@ -115770,7 +117232,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jazeera-street",
-      "area": null,
+      "area": "al-muraqqabat-18471665",
       "emirate": "dubai",
       "name_en": "Al Jazeera Street",
       "name_ar": "شارع الجزيرة",
@@ -115782,7 +117244,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jeer-drive",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Al Jeer Drive",
       "name_ar": "شارع الجير",
@@ -115794,7 +117256,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-jesh-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Jesh Street",
       "name_ar": "شارع الجيش",
@@ -115818,7 +117280,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-kahrman-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Kahrman Street",
       "name_ar": "شارع الكهرمان",
@@ -115830,7 +117292,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-kait-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Kait Street",
       "name_ar": "شارع الكيت",
@@ -115842,7 +117304,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-kanah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Kanah Street",
       "name_ar": "شارع الكانه",
@@ -115854,7 +117316,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-karama-street",
-      "area": null,
+      "area": "al-karama-18471789",
       "emirate": "dubai",
       "name_en": "Al karama Street",
       "name_ar": "شارع الكرامة",
@@ -115878,7 +117340,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-kelfat-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Kelfat Street",
       "name_ar": "شارع الكلفات",
@@ -115890,7 +117352,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khadra-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Khadra Street",
       "name_ar": "شارع الخضراء",
@@ -115926,7 +117388,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khaleej-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Al Khaleej Street",
       "name_ar": "شارع الخليج",
@@ -115938,7 +117400,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khalkhal-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Al Khalkhal Street",
       "name_ar": "شارع الخلخال",
@@ -115962,7 +117424,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khana-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Khana Street",
       "name_ar": "شارع الخانة",
@@ -115986,7 +117448,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khawaneej-road",
-      "area": null,
+      "area": "wadi-al-amardi-18471729",
       "emirate": "dubai",
       "name_en": "Al Khawaneej Road",
       "name_ar": "شارع الخوانيج",
@@ -116010,7 +117472,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khazmeya-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Khazmeya Street",
       "name_ar": "شارع الخزمية",
@@ -116022,7 +117484,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khin-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Khin Street",
       "name_ar": "شارع الخين",
@@ -116046,7 +117508,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khor-street",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Al Khor Street",
       "name_ar": "شارع الخور",
@@ -116058,7 +117520,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khub-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Khub Street",
       "name_ar": "شارع الخب",
@@ -116070,7 +117532,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-khwaher-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Khwaher Street",
       "name_ar": "شارع الخواهر",
@@ -116094,7 +117556,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-kooteia-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Kooteia Street",
       "name_ar": "شارع الكوتية",
@@ -116106,7 +117568,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-koss-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Koss Street",
       "name_ar": "شارع الكوس",
@@ -116118,7 +117580,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-koufar-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Koufar Street",
       "name_ar": "شارع الكوفر",
@@ -116130,7 +117592,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-kwaaher-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Kwaaher Street",
       "name_ar": "شارع الكواهر",
@@ -116142,7 +117604,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-leyiaan-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Leyiaan Street",
       "name_ar": "شارع الليان",
@@ -116154,7 +117616,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-lu-lu-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Lu'lu Street",
       "name_ar": "شارع اللؤلو",
@@ -116190,7 +117652,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-madda-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Madda Street",
       "name_ar": "شارع المادة",
@@ -116202,7 +117664,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-madina-al-tebbia-street",
-      "area": null,
+      "area": "umm-hurair-18471718",
       "emirate": "dubai",
       "name_en": "Al Madina Al Tebbia Street",
       "name_ar": "",
@@ -116214,7 +117676,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-madina-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Al Madina Street",
       "name_ar": "شارع المدينة",
@@ -116238,7 +117700,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-maghzi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Maghzi Street",
       "name_ar": "شارع المغزي",
@@ -116250,7 +117712,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-maha-street",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Al Maha Street",
       "name_ar": "شارع المها",
@@ -116262,7 +117724,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mail-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Mail Street",
       "name_ar": "شارع الرئيسي",
@@ -116286,7 +117748,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-majlis-street",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Al Majlis Street",
       "name_ar": "شارع المجلس",
@@ -116298,7 +117760,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-maktoum-airport-street",
-      "area": null,
+      "area": "hessyan-1-18471799",
       "emirate": "dubai",
       "name_en": "Al Maktoum Airport Street",
       "name_ar": "شارع مطار آل مكتوم",
@@ -116322,7 +117784,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-maktoum-hospital-road",
-      "area": null,
+      "area": "al-rigga-14506842",
       "emirate": "dubai",
       "name_en": "Al Maktoum Hospital Road",
       "name_ar": "شارع مستشفى المكتوم",
@@ -116334,7 +117796,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-maktoum-road",
-      "area": null,
+      "area": "riggat-al-buteen-14506836",
       "emirate": "dubai",
       "name_en": "Al Maktoum Road",
       "name_ar": "شارع آل مكتوم",
@@ -116346,7 +117808,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-maktoum-street",
-      "area": null,
+      "area": "port-saeed-12431735",
       "emirate": "dubai",
       "name_en": "Al Maktoum Street",
       "name_ar": "شارع آل مكتوم",
@@ -116370,7 +117832,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mamzar-beach-street",
-      "area": null,
+      "area": "al-mamzar-18471731",
       "emirate": "dubai",
       "name_en": "Al Mamzar Beach Street",
       "name_ar": "شارع شاطئ الممزر",
@@ -116382,7 +117844,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-manara-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Manara Street",
       "name_ar": "شارع المنارة",
@@ -116406,7 +117868,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-marabea-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Marabea' Street",
       "name_ar": "شارع المرابع",
@@ -116418,7 +117880,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-marcup-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Marcup Street",
       "name_ar": "شارع المركب",
@@ -116430,7 +117892,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-marji-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Marji Street",
       "name_ar": "شارع المرجي",
@@ -116442,7 +117904,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-marsa-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Marsa Street",
       "name_ar": "شارع المرسى",
@@ -116466,7 +117928,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-marya-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Al Marya Street",
       "name_ar": "شارع المارية",
@@ -116490,7 +117952,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mashowa-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Mashowa Street",
       "name_ar": "شارع الماشوه",
@@ -116502,7 +117964,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-masser-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Masser Street",
       "name_ar": "شارع الماصر",
@@ -116526,7 +117988,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-maydar-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Maydar Street",
       "name_ar": "شارع الميدار",
@@ -116538,7 +118000,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-meedaf-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Meedaf Street",
       "name_ar": "شارع الميداف",
@@ -116562,7 +118024,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mehaar-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Mehaar Street",
       "name_ar": "شارع المحار",
@@ -116574,7 +118036,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mehemal-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Mehemal Street",
       "name_ar": "شارع المحمل",
@@ -116586,7 +118048,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mejadmi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Mejadmi Street",
       "name_ar": "شارع المجدمي",
@@ -116598,7 +118060,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-meydan-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Meydan Street",
       "name_ar": "شارع الميدان",
@@ -116610,7 +118072,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mina-street",
-      "area": null,
+      "area": "al-mina-18471712",
       "emirate": "dubai",
       "name_en": "Al Mina Street",
       "name_ar": "شارع الميناء",
@@ -116634,7 +118096,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-miyani-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Miyani Street",
       "name_ar": "شارع المياني",
@@ -116658,7 +118120,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mouje-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Mouje Street",
       "name_ar": "شارع الموج",
@@ -116682,7 +118144,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-murraqqabat-road",
-      "area": null,
+      "area": "al-muraqqabat-18471665",
       "emirate": "dubai",
       "name_en": "Al Murraqqabat Road",
       "name_ar": "شارع المرقبات",
@@ -116694,7 +118156,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-murtaesha-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Al Murtaesha Street",
       "name_ar": "شارع المرتعشة",
@@ -116706,7 +118168,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mussalla-road",
-      "area": null,
+      "area": "naif-18471792",
       "emirate": "dubai",
       "name_en": "Al Mussalla Road",
       "name_ar": "طريق المصلى",
@@ -116718,7 +118180,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-mustaqbal-street",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Al Mustaqbal Street",
       "name_ar": "شارع المستقبل",
@@ -116730,7 +118192,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-muteena-street",
-      "area": null,
+      "area": "al-muteena-18471783",
       "emirate": "dubai",
       "name_en": "Al Muteena Street",
       "name_ar": "شارع المطينة",
@@ -116778,7 +118240,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naeela-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Naeela Street",
       "name_ar": "شارع النعيلة",
@@ -116814,7 +118276,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-nahda-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Nahda Street",
       "name_ar": "شارع النهضة",
@@ -116826,7 +118288,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-nahham-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Nahham Street",
       "name_ar": "شارع النهام",
@@ -116838,7 +118300,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naisir-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Naisir Street",
       "name_ar": "شارع الناصر",
@@ -116850,7 +118312,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-najoom-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Najoom Street",
       "name_ar": "",
@@ -116862,7 +118324,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-nakhal-street",
-      "area": null,
+      "area": "naif-18471792",
       "emirate": "dubai",
       "name_en": "Al Nakhal Street",
       "name_ar": "شارع النخل",
@@ -116886,7 +118348,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-a-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem A Street",
       "name_ar": "",
@@ -116898,7 +118360,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-b-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem B Street",
       "name_ar": "",
@@ -116910,7 +118372,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-b1-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem B1 Street",
       "name_ar": "",
@@ -116922,7 +118384,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-b2-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem B2 Street",
       "name_ar": "",
@@ -116934,7 +118396,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-b3-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem B3 Street",
       "name_ar": "",
@@ -116946,7 +118408,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-c1-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem C1 Street",
       "name_ar": "",
@@ -116958,7 +118420,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-c2-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem C2 Street",
       "name_ar": "",
@@ -116970,7 +118432,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-c3-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem C3 Street",
       "name_ar": "",
@@ -116982,7 +118444,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-f1-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem F1 Street",
       "name_ar": "",
@@ -116994,7 +118456,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-f2-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem F2 Street",
       "name_ar": "",
@@ -117006,7 +118468,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-naseem-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Naseem Street",
       "name_ar": "شارع النسيم",
@@ -117030,7 +118492,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-neb-ash-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Neb-ash Street",
       "name_ar": "شارع النب-الرماد",
@@ -117042,7 +118504,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-nessnass-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Nessnass Street",
       "name_ar": "شارع النسناس",
@@ -117066,7 +118528,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-nnaiyla-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Nnaiyla Street",
       "name_ar": "شارع النايلة",
@@ -117078,7 +118540,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-nokhtha-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Nokhtha Street",
       "name_ar": "شارع النوخذة",
@@ -117102,7 +118564,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ohood-street",
-      "area": null,
+      "area": "downtown-dubai-18471738",
       "emirate": "dubai",
       "name_en": "Al Ohood Street",
       "name_ar": "شارع العهود",
@@ -117114,7 +118576,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-omlaat-street",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Al Omlaat Street",
       "name_ar": "شارع العملات",
@@ -117126,7 +118588,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-oshaar-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Oshaar Street",
       "name_ar": "شارع العشار",
@@ -117138,7 +118600,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qaarib-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Qaarib Street",
       "name_ar": "شارع القارب",
@@ -117150,7 +118612,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qeirab-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Qeirab Street",
       "name_ar": "شارع القيرب",
@@ -117162,7 +118624,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qersh-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Qersh Street",
       "name_ar": "شارع القرش",
@@ -117174,7 +118636,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qouz-central-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Qouz Central Street",
       "name_ar": "",
@@ -117186,7 +118648,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qouz-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Qouz Street",
       "name_ar": "شارع القوز",
@@ -117198,7 +118660,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-quarda-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Quarda Street",
       "name_ar": "",
@@ -117210,7 +118672,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qubba-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Qubba Street",
       "name_ar": "شارع القبة",
@@ -117222,7 +118684,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qudra-street",
-      "area": null,
+      "area": "al-yalayis-2-18471752",
       "emirate": "dubai",
       "name_en": "Al Qudra Street",
       "name_ar": "طريق القدرة",
@@ -117234,7 +118696,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-quds-street",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Al Quds Street",
       "name_ar": "شارع القدس",
@@ -117246,7 +118708,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-qumash-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Qumash Street",
       "name_ar": "شارع القماش",
@@ -117258,7 +118720,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-quoz-central-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Quoz Central Street",
       "name_ar": "",
@@ -117270,7 +118732,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-quoz-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Quoz Street",
       "name_ar": "شارع القوز",
@@ -117294,7 +118756,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-raaji-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Raaji Street",
       "name_ar": "شارع الراجي",
@@ -117306,7 +118768,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-raazi-street",
-      "area": null,
+      "area": "umm-hurair-18471718",
       "emirate": "dubai",
       "name_en": "Al Raazi Street",
       "name_ar": "شارع الرازي",
@@ -117354,7 +118816,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rabsh-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Rabsh Street",
       "name_ar": "شارع الربش",
@@ -117366,7 +118828,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-raddi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Raddi Street",
       "name_ar": "شارع الرادي",
@@ -117378,7 +118840,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-raffa-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Raffa Street",
       "name_ar": "شارع الرفاع",
@@ -117402,7 +118864,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ragaayeh-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Ragaayeh Street",
       "name_ar": "شارع الرقاية",
@@ -117414,7 +118876,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ragay-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Ragay Street",
       "name_ar": "شارع الرقاي",
@@ -117450,7 +118912,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-ras-link",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Al Ras Link",
       "name_ar": "آل راس لينك",
@@ -117474,7 +118936,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rasheed-street",
-      "area": null,
+      "area": "al-mamzar-18471731",
       "emirate": "dubai",
       "name_en": "Al Rasheed Street",
       "name_ar": "شارع الرشيد",
@@ -117498,7 +118960,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-raya-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Al Raya Street",
       "name_ar": "شارع الراية",
@@ -117510,7 +118972,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-redheef-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Redheef Street",
       "name_ar": "شارع الرضيف",
@@ -117522,7 +118984,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-reem-avenue",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Al Reem Avenue",
       "name_ar": "شارع الريم",
@@ -117534,7 +118996,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-reem-street",
-      "area": null,
+      "area": "al-yalayis-1-18471697",
       "emirate": "dubai",
       "name_en": "Al Reem Street",
       "name_ar": "شارع الريم",
@@ -117558,7 +119020,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-riga-a-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Riga'a Street",
       "name_ar": "شارع الرقعة",
@@ -117570,7 +119032,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rigga-street",
-      "area": null,
+      "area": "al-muraqqabat-18471665",
       "emirate": "dubai",
       "name_en": "Al Rigga Street",
       "name_ar": "شارع الرقة",
@@ -117582,7 +119044,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rizeem-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Rizeem Street",
       "name_ar": "",
@@ -117594,7 +119056,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rofood-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Rofood Street",
       "name_ar": "شارع الروفود",
@@ -117606,7 +119068,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rolla-street",
-      "area": null,
+      "area": "al-raffa-18471711",
       "emirate": "dubai",
       "name_en": "Al Rolla Street",
       "name_ar": "شارع الرولة",
@@ -117618,7 +119080,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rumiah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Rumiah Street",
       "name_ar": "شارع الرمية",
@@ -117630,7 +119092,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-rundah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Rundah Street",
       "name_ar": "شارع الرنده",
@@ -117642,7 +119104,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sabkha-road",
-      "area": null,
+      "area": "al-sabkha-14506840",
       "emirate": "dubai",
       "name_en": "Al Sabkha Road",
       "name_ar": "طريق السبخة",
@@ -117678,7 +119140,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-safa-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Al Safa Street",
       "name_ar": "شارع الصفا",
@@ -117702,7 +119164,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-safee-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Safee Street",
       "name_ar": "شارع الصافي",
@@ -117714,7 +119176,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-safeena-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Safeena Street",
       "name_ar": "شارع السفينه",
@@ -117726,7 +119188,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sagi-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Sagi Street",
       "name_ar": "شارع الساجي",
@@ -117750,7 +119212,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-salam-a-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Salam A Street",
       "name_ar": "",
@@ -117762,7 +119224,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-salam-b-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Salam B Street",
       "name_ar": "",
@@ -117774,7 +119236,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-salam-c-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Salam C Street",
       "name_ar": "",
@@ -117786,7 +119248,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-salam-d-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Salam D Street",
       "name_ar": "",
@@ -117798,7 +119260,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-salam-e-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Salam E Street",
       "name_ar": "",
@@ -117810,7 +119272,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-salam-f-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Salam F Street",
       "name_ar": "",
@@ -117822,7 +119284,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-salam-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Salam Street",
       "name_ar": "شارع السلام",
@@ -117834,7 +119296,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sama-a-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Sama'a Street",
       "name_ar": "شارع السمعة",
@@ -117846,7 +119308,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-samak-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Samak Street",
       "name_ar": "شارع السمك",
@@ -117858,7 +119320,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sanabel-street",
-      "area": null,
+      "area": "the-springs-18471656",
       "emirate": "dubai",
       "name_en": "Al Sanabel Street",
       "name_ar": "شارع السنابل",
@@ -117870,7 +119332,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sanbook-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Sanbook Street",
       "name_ar": "شارع السنبوك",
@@ -117882,7 +119344,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-saqool-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Saqool Street",
       "name_ar": "شارع الصاقول",
@@ -117918,7 +119380,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-satwa-road",
-      "area": null,
+      "area": "al-satwa-18471715",
       "emirate": "dubai",
       "name_en": "Al Satwa Road",
       "name_ar": "شارع السطوة",
@@ -117954,7 +119416,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-seeb-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Seeb Street",
       "name_ar": "شارع السيب",
@@ -117966,7 +119428,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-seedaan-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Seedaan Street",
       "name_ar": "شارع السيدان",
@@ -118002,7 +119464,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-seef-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Seef Street",
       "name_ar": "شارع السيف",
@@ -118026,7 +119488,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sejil-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Sejil Street",
       "name_ar": "شارع السجل",
@@ -118038,7 +119500,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sekatli-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Sekatli Street",
       "name_ar": "شارع السكتلي",
@@ -118050,7 +119512,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-senn-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Senn Street",
       "name_ar": "شارع السن",
@@ -118062,7 +119524,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-seram-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Seram Street",
       "name_ar": "شارع السيرام",
@@ -118074,7 +119536,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-serdaal-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Serdaal Street",
       "name_ar": "شارع السردال",
@@ -118098,7 +119560,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-shaari-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Shaari Street",
       "name_ar": "شارع الشعري",
@@ -118110,7 +119572,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-shahoof-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Shahoof Street",
       "name_ar": "شارع الشاحوف",
@@ -118146,7 +119608,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-shasha-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Shasha Street",
       "name_ar": "شارع الشاشه",
@@ -118158,7 +119620,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-shawari-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Shawari Street",
       "name_ar": "شارع الشواري",
@@ -118170,7 +119632,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sheera-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Sheera Street",
       "name_ar": "شارع الشراع",
@@ -118182,7 +119644,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-shemandi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Shemandi Street",
       "name_ar": "شارع الشمندي",
@@ -118194,7 +119656,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-shindagha-tunnel",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Al Shindagha Tunnel",
       "name_ar": "نفق الشندغة",
@@ -118218,7 +119680,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-shnas-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Al Shnas Street",
       "name_ar": "شارع الشناص",
@@ -118230,7 +119692,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sho-ee-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Sho'ee street",
       "name_ar": "شارع الشوعي",
@@ -118254,7 +119716,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-siaafi-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Siaafi Street",
       "name_ar": "شارع السيافي",
@@ -118266,7 +119728,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sikkan-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Sikkan Street",
       "name_ar": "شارع السكان",
@@ -118290,7 +119752,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sinyar-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Sinyar Street",
       "name_ar": "شارع السنيار",
@@ -118302,7 +119764,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sitmi-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Al Sitmi Street",
       "name_ar": "شارع الستمي",
@@ -118314,7 +119776,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-skooni-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Skooni Street",
       "name_ar": "شارع السكوني",
@@ -118326,7 +119788,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sohool-street",
-      "area": null,
+      "area": "the-springs-18471656",
       "emirate": "dubai",
       "name_en": "Al Sohool Street",
       "name_ar": "شارع السهول",
@@ -118338,7 +119800,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-soon-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Soon Street",
       "name_ar": "شارع السون",
@@ -118350,7 +119812,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-soor-street",
-      "area": null,
+      "area": "al-dhagaya-18471663",
       "emirate": "dubai",
       "name_en": "Al Soor Street",
       "name_ar": "شارع السور",
@@ -118362,7 +119824,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-souk-al-kabeer-street",
-      "area": null,
+      "area": "al-bateen-14506839",
       "emirate": "dubai",
       "name_en": "Al Souk Al Kabeer Street",
       "name_ar": "شارع السوق الكبير",
@@ -118386,7 +119848,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-sukook-street",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Al Sukook Street",
       "name_ar": "شارع الصكوك",
@@ -118422,7 +119884,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-suq-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Al Suq Street",
       "name_ar": "شارع السوق",
@@ -118470,7 +119932,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-tabbab-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Tabbab Street",
       "name_ar": "شارع التباب",
@@ -118494,7 +119956,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-tabla-street",
-      "area": null,
+      "area": "al-dhagaya-18471663",
       "emirate": "dubai",
       "name_en": "Al Tabla Street",
       "name_ar": "شارع الطبلة",
@@ -118518,7 +119980,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-talay-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Talay Street",
       "name_ar": "شارع التلاي",
@@ -118530,7 +119992,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-tarad-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Tarad Street",
       "name_ar": "شارع الطراد",
@@ -118578,7 +120040,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-tawaash-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Tawaash Street",
       "name_ar": "شارع الطواش",
@@ -118590,7 +120052,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-tayari-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Tayari Street",
       "name_ar": "شارع الطياري",
@@ -118602,7 +120064,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-tenkaasah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Tenkaasah Street",
       "name_ar": "",
@@ -118614,7 +120076,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-thaber-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Thaber Street",
       "name_ar": "شارع الثبر",
@@ -118638,7 +120100,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-thammam-street",
-      "area": null,
+      "area": "al-hebiah-5-18471818",
       "emirate": "dubai",
       "name_en": "Al Thammam Street",
       "name_ar": "شارع الثمام",
@@ -118650,7 +120112,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-thanya-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Thanya Street",
       "name_ar": "شارع الثنية",
@@ -118662,7 +120124,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-thanyah-street",
-      "area": null,
+      "area": "al-manara-18471689",
       "emirate": "dubai",
       "name_en": "Al Thanyah Street",
       "name_ar": "شارع الثنية",
@@ -118698,7 +120160,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-thuraya-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Al Thuraya street",
       "name_ar": "",
@@ -118710,7 +120172,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-urouba-road",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Urouba Road",
       "name_ar": "شارع العروبة",
@@ -118722,7 +120184,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-waha-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Waha Street",
       "name_ar": "شارع الواحة",
@@ -118734,7 +120196,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-walam-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Walam Street",
       "name_ar": "شارع الولم",
@@ -118746,7 +120208,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-wanes-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Wanes Street",
       "name_ar": "شارع الوانس",
@@ -118758,7 +120220,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-warqa-a-street",
-      "area": null,
+      "area": "al-warqa-18471737",
       "emirate": "dubai",
       "name_en": "Al Warqa'a Street",
       "name_ar": "شارع الورقاء",
@@ -118770,7 +120232,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-wasl-club-street",
-      "area": null,
+      "area": "al-jaddaf-18471794",
       "emirate": "dubai",
       "name_en": "Al Wasl Club Street",
       "name_ar": "شارع نادي الوصل",
@@ -118782,7 +120244,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-wasl-road",
-      "area": null,
+      "area": "al-safa-18471742",
       "emirate": "dubai",
       "name_en": "Al Wasl Road",
       "name_ar": "شارع الوصل",
@@ -118794,7 +120256,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-wesaayed-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Wesaayed Street",
       "name_ar": "شارع الوسايد",
@@ -118818,7 +120280,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-woushar-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Woushar Street",
       "name_ar": "شارع الوشار",
@@ -118830,7 +120292,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-wuheida-street",
-      "area": null,
+      "area": "al-waheda-14506841",
       "emirate": "dubai",
       "name_en": "Al Wuheida Street",
       "name_ar": "شارع الوحيدة",
@@ -118878,7 +120340,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-yamamah-street",
-      "area": null,
+      "area": "downtown-dubai-18471738",
       "emirate": "dubai",
       "name_en": "Al Yamamah Street",
       "name_ar": "شارع اليمامة",
@@ -118890,7 +120352,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-yame-eh-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Yame'eh Street",
       "name_ar": "شارع اليامعه",
@@ -118902,7 +120364,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-yanabeea-street",
-      "area": null,
+      "area": "the-springs-18471656",
       "emirate": "dubai",
       "name_en": "Al Yanabeea' Street",
       "name_ar": "شارع الينابيع",
@@ -118914,7 +120376,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-yardeela-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Yardeela Street",
       "name_ar": "شارع اليرديله",
@@ -118926,7 +120388,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-yazzi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Al Yazzi Street",
       "name_ar": "شارع اليازي",
@@ -118950,7 +120412,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-yoosh-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Yoosh Street",
       "name_ar": "شارع اليوش",
@@ -118974,7 +120436,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-zahrawi-street",
-      "area": null,
+      "area": "al-jaddaf-18471794",
       "emirate": "dubai",
       "name_en": "Al Zahrawi Street",
       "name_ar": "شارع الزهراوى",
@@ -118986,7 +120448,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-zubaidi-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Al Zubaidi Street",
       "name_ar": "شارع الزبيدي",
@@ -118998,7 +120460,7 @@ window.KB = {
     },
     {
       "id": "dubai/al-zumorrod-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Al Zumorrod Street",
       "name_ar": "شارع الزمرد",
@@ -119010,7 +120472,7 @@ window.KB = {
     },
     {
       "id": "dubai/albay-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Albay Street",
       "name_ar": "شارع البي",
@@ -119022,7 +120484,7 @@ window.KB = {
     },
     {
       "id": "dubai/algeria-street",
-      "area": null,
+      "area": "al-warqa-18471737",
       "emirate": "dubai",
       "name_en": "Algeria Street",
       "name_ar": "شارع الجزائر",
@@ -119034,7 +120496,7 @@ window.KB = {
     },
     {
       "id": "dubai/alghandi-residence",
-      "area": null,
+      "area": "nadd-al-sheba-2-18471707",
       "emirate": "dubai",
       "name_en": "ALGHANDI RESIDENCE",
       "name_ar": "",
@@ -119046,7 +120508,7 @@ window.KB = {
     },
     {
       "id": "dubai/ali-bin-abi-talib-street",
-      "area": null,
+      "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
       "name_en": "Ali bin Abi Talib Street",
       "name_ar": "شارع علي بن أبي طالب",
@@ -119058,7 +120520,7 @@ window.KB = {
     },
     {
       "id": "dubai/alvorada-1-avenue",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Alvorada 1 Avenue",
       "name_ar": "شارع ألفورادا",
@@ -119070,7 +120532,7 @@ window.KB = {
     },
     {
       "id": "dubai/alvorada-2-way",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Alvorada 2 Way",
       "name_ar": "شارع ألفورادا",
@@ -119082,7 +120544,7 @@ window.KB = {
     },
     {
       "id": "dubai/alvorada-3-way",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Alvorada 3 Way",
       "name_ar": "شارع ألفورادا",
@@ -119094,7 +120556,7 @@ window.KB = {
     },
     {
       "id": "dubai/amman-street",
-      "area": null,
+      "area": "al-qusais-18471660",
       "emirate": "dubai",
       "name_en": "Amman Street",
       "name_ar": "شارع عمان",
@@ -119106,7 +120568,7 @@ window.KB = {
     },
     {
       "id": "dubai/anyar-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Anyar Street",
       "name_ar": "شارع أنير",
@@ -119118,7 +120580,7 @@ window.KB = {
     },
     {
       "id": "dubai/arabella-drive-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Arabella Drive Street",
       "name_ar": "",
@@ -119130,7 +120592,7 @@ window.KB = {
     },
     {
       "id": "dubai/arabella-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Arabella Street",
       "name_ar": "",
@@ -119142,7 +120604,7 @@ window.KB = {
     },
     {
       "id": "dubai/arabian-ranches",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Arabian Ranches",
       "name_ar": "المرابع العربية",
@@ -119154,7 +120616,7 @@ window.KB = {
     },
     {
       "id": "dubai/arabian-ranches-colf-club",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Arabian Ranches Colf Club",
       "name_ar": "",
@@ -119178,7 +120640,7 @@ window.KB = {
     },
     {
       "id": "dubai/arwa-street",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Arwa Street",
       "name_ar": "شارع أروى",
@@ -119202,7 +120664,7 @@ window.KB = {
     },
     {
       "id": "dubai/awaffy-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Awaffy Street",
       "name_ar": "شارع عوافي",
@@ -119214,7 +120676,7 @@ window.KB = {
     },
     {
       "id": "dubai/azalea",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Azalea",
       "name_ar": "",
@@ -119226,7 +120688,7 @@ window.KB = {
     },
     {
       "id": "dubai/azalea-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Azalea Lane",
       "name_ar": "طريق الأزالية",
@@ -119238,7 +120700,7 @@ window.KB = {
     },
     {
       "id": "dubai/azalea-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Azalea Street",
       "name_ar": "",
@@ -119250,7 +120712,7 @@ window.KB = {
     },
     {
       "id": "dubai/azhar-street",
-      "area": null,
+      "area": "al-barsha-south-5-18471834",
       "emirate": "dubai",
       "name_en": "Azhar Street",
       "name_ar": "",
@@ -119262,7 +120724,7 @@ window.KB = {
     },
     {
       "id": "dubai/baghdad-street",
-      "area": null,
+      "area": "al-nahda-18471785",
       "emirate": "dubai",
       "name_en": "Baghdad Street",
       "name_ar": "شارع بغداد",
@@ -119274,7 +120736,7 @@ window.KB = {
     },
     {
       "id": "dubai/bandool-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Bandool Street",
       "name_ar": "شارع بندول",
@@ -119286,7 +120748,7 @@ window.KB = {
     },
     {
       "id": "dubai/baniyas-road",
-      "area": null,
+      "area": "port-saeed-12431735",
       "emirate": "dubai",
       "name_en": "Baniyas Road",
       "name_ar": "شارع بني ياس",
@@ -119310,7 +120772,7 @@ window.KB = {
     },
     {
       "id": "dubai/begonia-road",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Begonia Road",
       "name_ar": "طريق بغونية",
@@ -119322,7 +120784,7 @@ window.KB = {
     },
     {
       "id": "dubai/beirut-street",
-      "area": null,
+      "area": "muhaisnah-18471781",
       "emirate": "dubai",
       "name_en": "Beirut Street",
       "name_ar": "شارع بيروت",
@@ -119334,7 +120796,7 @@ window.KB = {
     },
     {
       "id": "dubai/bellflower-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Bellflower Way",
       "name_ar": "طريق بلفلاور",
@@ -119346,7 +120808,7 @@ window.KB = {
     },
     {
       "id": "dubai/berdwan-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Berdwan Street",
       "name_ar": "شارع بردوان",
@@ -119358,7 +120820,7 @@ window.KB = {
     },
     {
       "id": "dubai/bilqetair-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Bilqetair Street",
       "name_ar": "شارع بلقيتير",
@@ -119370,7 +120832,7 @@ window.KB = {
     },
     {
       "id": "dubai/birouwaana-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Birouwaana Street",
       "name_ar": "",
@@ -119382,7 +120844,7 @@ window.KB = {
     },
     {
       "id": "dubai/blue-bell-way",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Blue Bell Way",
       "name_ar": "طريق بلوبيل",
@@ -119418,7 +120880,7 @@ window.KB = {
     },
     {
       "id": "dubai/brandah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Brandah Street",
       "name_ar": "شارع برندة",
@@ -119430,7 +120892,7 @@ window.KB = {
     },
     {
       "id": "dubai/brayw-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Brayw Street",
       "name_ar": "شارع برايو",
@@ -119442,7 +120904,7 @@ window.KB = {
     },
     {
       "id": "dubai/burj-khalifa-boulevard",
-      "area": null,
+      "area": "downtown-dubai-18471738",
       "emirate": "dubai",
       "name_en": "Burj Khalifa Boulevard",
       "name_ar": "برج خليفة",
@@ -119466,7 +120928,7 @@ window.KB = {
     },
     {
       "id": "dubai/buttercup-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Buttercup Way",
       "name_ar": "طريق بتركب",
@@ -119478,7 +120940,7 @@ window.KB = {
     },
     {
       "id": "dubai/cairo-street",
-      "area": null,
+      "area": "al-mamzar-18471731",
       "emirate": "dubai",
       "name_en": "Cairo Street",
       "name_ar": "شارع القاهرة",
@@ -119514,7 +120976,7 @@ window.KB = {
     },
     {
       "id": "dubai/camelia",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Camelia",
       "name_ar": "",
@@ -119526,7 +120988,7 @@ window.KB = {
     },
     {
       "id": "dubai/camelia-1-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Camelia 1 - Street",
       "name_ar": "",
@@ -119538,7 +121000,7 @@ window.KB = {
     },
     {
       "id": "dubai/camelia-2-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Camelia 2 - Street",
       "name_ar": "",
@@ -119550,7 +121012,7 @@ window.KB = {
     },
     {
       "id": "dubai/camelia-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Camelia Way",
       "name_ar": "طريق الكاميليا",
@@ -119574,7 +121036,7 @@ window.KB = {
     },
     {
       "id": "dubai/camomile-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Camomile Lane",
       "name_ar": "طريق الكاموميل",
@@ -119634,7 +121096,7 @@ window.KB = {
     },
     {
       "id": "dubai/casa",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Casa",
       "name_ar": "",
@@ -119646,7 +121108,7 @@ window.KB = {
     },
     {
       "id": "dubai/casa-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Casa Street",
       "name_ar": "",
@@ -119658,7 +121120,7 @@ window.KB = {
     },
     {
       "id": "dubai/casablanca-street",
-      "area": null,
+      "area": "al-garhoud-18471788",
       "emirate": "dubai",
       "name_en": "Casablanca Street",
       "name_ar": "شارع الدار البيضاء",
@@ -119670,7 +121132,7 @@ window.KB = {
     },
     {
       "id": "dubai/cedre-villas-street",
-      "area": null,
+      "area": "nadd-hessa-18471700",
       "emirate": "dubai",
       "name_en": "Cedre Villas Street",
       "name_ar": "",
@@ -119682,7 +121144,7 @@ window.KB = {
     },
     {
       "id": "dubai/central-boulevard",
-      "area": null,
+      "area": "mbr-al-merkad-18471803",
       "emirate": "dubai",
       "name_en": "Central Boulevard",
       "name_ar": "",
@@ -119694,7 +121156,7 @@ window.KB = {
     },
     {
       "id": "dubai/centro-courtyard",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Centro Courtyard",
       "name_ar": "",
@@ -119706,7 +121168,7 @@ window.KB = {
     },
     {
       "id": "dubai/centro-road",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Centro Road",
       "name_ar": "شارع سنترو",
@@ -119718,7 +121180,7 @@ window.KB = {
     },
     {
       "id": "dubai/chatifah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Chatifah Street",
       "name_ar": "شارع خطيفه",
@@ -119730,7 +121192,7 @@ window.KB = {
     },
     {
       "id": "dubai/cherywood-road-east",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Cherywood Road East",
       "name_ar": "طريق شيري وود الشرقي",
@@ -119742,7 +121204,7 @@ window.KB = {
     },
     {
       "id": "dubai/cherywood-road-north",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Cherywood Road North",
       "name_ar": "طريق شيري وود الشمالي",
@@ -119754,7 +121216,7 @@ window.KB = {
     },
     {
       "id": "dubai/cherywood-road-west",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Cherywood Road West",
       "name_ar": "طريق شيري وود الغربي",
@@ -119766,7 +121228,7 @@ window.KB = {
     },
     {
       "id": "dubai/cinematic-adventure-street",
-      "area": null,
+      "area": "saih-shuaib-1-18471796",
       "emirate": "dubai",
       "name_en": "Cinematic Adventure Street",
       "name_ar": "",
@@ -119802,7 +121264,7 @@ window.KB = {
     },
     {
       "id": "dubai/club-villas",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Club Villas",
       "name_ar": "",
@@ -119814,7 +121276,7 @@ window.KB = {
     },
     {
       "id": "dubai/cornflower-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Cornflower Way",
       "name_ar": "طريق كورنفلاور",
@@ -119850,7 +121312,7 @@ window.KB = {
     },
     {
       "id": "dubai/creek-boulevard",
-      "area": null,
+      "area": "mbr-al-merkad-18471803",
       "emirate": "dubai",
       "name_en": "Creek Boulevard",
       "name_ar": "",
@@ -119910,7 +121372,7 @@ window.KB = {
     },
     {
       "id": "dubai/daffodil-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Daffodil Way",
       "name_ar": "طريق الدافوديل",
@@ -119922,7 +121384,7 @@ window.KB = {
     },
     {
       "id": "dubai/dahlia-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Dahlia Way",
       "name_ar": "طريق الداليا",
@@ -119946,7 +121408,7 @@ window.KB = {
     },
     {
       "id": "dubai/damac-hills",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Damac Hills",
       "name_ar": "داماك هيلز",
@@ -119958,7 +121420,7 @@ window.KB = {
     },
     {
       "id": "dubai/damascus-street",
-      "area": null,
+      "area": "al-qusais-industrial-area-18471784",
       "emirate": "dubai",
       "name_en": "Damascus Street",
       "name_ar": "شارع دمشق",
@@ -119982,7 +121444,7 @@ window.KB = {
     },
     {
       "id": "dubai/dandelion-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Dandelion Way",
       "name_ar": "طريق دانديلاين",
@@ -120006,7 +121468,7 @@ window.KB = {
     },
     {
       "id": "dubai/deira-street",
-      "area": null,
+      "area": "naif-18471792",
       "emirate": "dubai",
       "name_en": "Deira Street",
       "name_ar": "شارع ديرة",
@@ -120066,7 +121528,7 @@ window.KB = {
     },
     {
       "id": "dubai/doha-road",
-      "area": null,
+      "area": "al-qusais-industrial-area-18471784",
       "emirate": "dubai",
       "name_en": "Doha Road",
       "name_ar": "طريق الدوحة",
@@ -120078,7 +121540,7 @@ window.KB = {
     },
     {
       "id": "dubai/doomi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Doomi Street",
       "name_ar": "شارع دومي",
@@ -120090,7 +121552,7 @@ window.KB = {
     },
     {
       "id": "dubai/dubai-international-airport-arrivals",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Dubai International Airport Arrivals",
       "name_ar": "مطار دبي الدولي القادمون",
@@ -120102,7 +121564,7 @@ window.KB = {
     },
     {
       "id": "dubai/dubai-international-airport-departures",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Dubai International Airport Departures",
       "name_ar": "مطار دبي الدولي",
@@ -120114,7 +121576,7 @@ window.KB = {
     },
     {
       "id": "dubai/dubai-parks-street",
-      "area": null,
+      "area": "saih-shuaib-1-18471796",
       "emirate": "dubai",
       "name_en": "Dubai Parks Street",
       "name_ar": "شارع دبي باركس",
@@ -120126,7 +121588,7 @@ window.KB = {
     },
     {
       "id": "dubai/dubai-studio-city",
-      "area": null,
+      "area": "al-hebiah-2-18471650",
       "emirate": "dubai",
       "name_en": "Dubai Studio City",
       "name_ar": "مدينة دبي للاستوديوهات",
@@ -120138,7 +121600,7 @@ window.KB = {
     },
     {
       "id": "dubai/dubai-taxi-parking-lot",
-      "area": null,
+      "area": "muhaisnah-18471781",
       "emirate": "dubai",
       "name_en": "Dubai taxi parking lot",
       "name_ar": "مواقف سيارات الأجرة في دبي",
@@ -120150,7 +121612,7 @@ window.KB = {
     },
     {
       "id": "dubai/dubai-water-canal-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Dubai Water Canal Street",
       "name_ar": "شارع قناة مياه دبي",
@@ -120198,7 +121660,7 @@ window.KB = {
     },
     {
       "id": "dubai/east",
-      "area": null,
+      "area": "al-barsha-south-3-18471699",
       "emirate": "dubai",
       "name_en": "East",
       "name_ar": "",
@@ -120222,7 +121684,7 @@ window.KB = {
     },
     {
       "id": "dubai/ebaidaar-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Ebaidaar Street",
       "name_ar": "شارع عبيدار",
@@ -120246,7 +121708,7 @@ window.KB = {
     },
     {
       "id": "dubai/elderberry-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Elderberry Lane",
       "name_ar": "طريق إلدربيري",
@@ -120270,7 +121732,7 @@ window.KB = {
     },
     {
       "id": "dubai/emirates-cluster",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Emirates Cluster",
       "name_ar": "",
@@ -120306,7 +121768,7 @@ window.KB = {
     },
     {
       "id": "dubai/entry-to-dubai-al-ain-road",
-      "area": null,
+      "area": "umm-nahad-3-madinat-hind-3-18471670",
       "emirate": "dubai",
       "name_en": "Entry to Dubai Al Ain Road",
       "name_ar": "",
@@ -120342,7 +121804,7 @@ window.KB = {
     },
     {
       "id": "dubai/eucalyptus-grove",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Eucalyptus Grove",
       "name_ar": "طريق الأوكالبتوس",
@@ -120354,7 +121816,7 @@ window.KB = {
     },
     {
       "id": "dubai/evergreen-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Evergreen Way",
       "name_ar": "طريق إيفرغرين",
@@ -120378,7 +121840,7 @@ window.KB = {
     },
     {
       "id": "dubai/exhibition-street",
-      "area": null,
+      "area": "trade-centre-18471719",
       "emirate": "dubai",
       "name_en": "Exhibition Street",
       "name_ar": "شارع المعارض",
@@ -120390,7 +121852,7 @@ window.KB = {
     },
     {
       "id": "dubai/exit",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Exit",
       "name_ar": "",
@@ -120426,7 +121888,7 @@ window.KB = {
     },
     {
       "id": "dubai/fairways",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Fairways",
       "name_ar": "",
@@ -120438,7 +121900,7 @@ window.KB = {
     },
     {
       "id": "dubai/fern-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Fern Way",
       "name_ar": "طريق فرن",
@@ -120462,7 +121924,7 @@ window.KB = {
     },
     {
       "id": "dubai/financial-center-street",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Financial Center Street",
       "name_ar": "شارع المركز المالي",
@@ -120486,7 +121948,7 @@ window.KB = {
     },
     {
       "id": "dubai/first-al-khail-street",
-      "area": null,
+      "area": "jabal-ali-industrial-2-18471645",
       "emirate": "dubai",
       "name_en": "First Al-Khail Street",
       "name_ar": "شارع الخيل الأول",
@@ -120498,7 +121960,7 @@ window.KB = {
     },
     {
       "id": "dubai/fish-roundabout",
-      "area": null,
+      "area": "naif-18471792",
       "emirate": "dubai",
       "name_en": "Fish Roundabout",
       "name_ar": "دوار السمك",
@@ -120510,7 +121972,7 @@ window.KB = {
     },
     {
       "id": "dubai/flame-tree-ridge-street",
-      "area": null,
+      "area": "jumeirah-golf-estates-18471779",
       "emirate": "dubai",
       "name_en": "Flame Tree Ridge street",
       "name_ar": "",
@@ -120558,7 +122020,7 @@ window.KB = {
     },
     {
       "id": "dubai/foxglove-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Foxglove Way",
       "name_ar": "طريق فوكسغلوف",
@@ -120570,7 +122032,7 @@ window.KB = {
     },
     {
       "id": "dubai/frangipani-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Frangipani Way",
       "name_ar": "طريق فرانجيباني",
@@ -120594,7 +122056,7 @@ window.KB = {
     },
     {
       "id": "dubai/freesia-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Freesia Way",
       "name_ar": "طريق فريزيا",
@@ -120750,7 +122212,7 @@ window.KB = {
     },
     {
       "id": "dubai/fuchsia-drive",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Fuchsia Drive",
       "name_ar": "طريق فوشيا",
@@ -120786,7 +122248,7 @@ window.KB = {
     },
     {
       "id": "dubai/gardenia-1-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Gardenia 1 Lane",
       "name_ar": "طريق الجاردينيا",
@@ -120798,7 +122260,7 @@ window.KB = {
     },
     {
       "id": "dubai/gardenia-2-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Gardenia 2 Lane",
       "name_ar": "طريق الجاردينيا",
@@ -120810,7 +122272,7 @@ window.KB = {
     },
     {
       "id": "dubai/gardenia-3-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Gardenia 3 Lane",
       "name_ar": "طريق الجاردينيا",
@@ -120822,7 +122284,7 @@ window.KB = {
     },
     {
       "id": "dubai/gardenia-4-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Gardenia 4 Lane",
       "name_ar": "طريق الجاردينيا",
@@ -120882,7 +122344,7 @@ window.KB = {
     },
     {
       "id": "dubai/gate-street",
-      "area": null,
+      "area": "jabal-ali-industrial-2-18471645",
       "emirate": "dubai",
       "name_en": "Gate Street",
       "name_ar": "شارع البوابة",
@@ -120906,7 +122368,7 @@ window.KB = {
     },
     {
       "id": "dubai/geranium-road",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Geranium Road",
       "name_ar": "طريق جيرانيوم",
@@ -120918,7 +122380,7 @@ window.KB = {
     },
     {
       "id": "dubai/gerbera-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Gerbera Way",
       "name_ar": "طريق جيربيرا",
@@ -120942,7 +122404,7 @@ window.KB = {
     },
     {
       "id": "dubai/gharaneeg-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Gharaneeg Street",
       "name_ar": "شارع غرانيج",
@@ -120954,7 +122416,7 @@ window.KB = {
     },
     {
       "id": "dubai/gladioli-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Gladioli Way",
       "name_ar": "طريق غلاديولي",
@@ -120966,7 +122428,7 @@ window.KB = {
     },
     {
       "id": "dubai/glen-street",
-      "area": null,
+      "area": "al-qusais-industrial-area-18471784",
       "emirate": "dubai",
       "name_en": "Glen Street",
       "name_ar": "شارع غلين",
@@ -120978,7 +122440,7 @@ window.KB = {
     },
     {
       "id": "dubai/gmdc-street",
-      "area": null,
+      "area": "al-qusais-industrial-area-18471784",
       "emirate": "dubai",
       "name_en": "GMDC Street",
       "name_ar": "شارع جي دي إم سي",
@@ -121002,7 +122464,7 @@ window.KB = {
     },
     {
       "id": "dubai/golf-town",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Golf Town",
       "name_ar": "",
@@ -121038,7 +122500,7 @@ window.KB = {
     },
     {
       "id": "dubai/greece-k",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Greece k",
       "name_ar": "اليونان k",
@@ -121050,7 +122512,7 @@ window.KB = {
     },
     {
       "id": "dubai/greece-l",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Greece L",
       "name_ar": "اليونان L",
@@ -121062,7 +122524,7 @@ window.KB = {
     },
     {
       "id": "dubai/green-boulevard",
-      "area": null,
+      "area": "mbr-al-merkad-18471803",
       "emirate": "dubai",
       "name_en": "Green Boulevard",
       "name_ar": "",
@@ -121086,7 +122548,7 @@ window.KB = {
     },
     {
       "id": "dubai/hadaeq-sheikh-mohammed-bin-rashid",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Hadaeq Sheikh Mohammed Bin Rashid",
       "name_ar": "",
@@ -121098,7 +122560,7 @@ window.KB = {
     },
     {
       "id": "dubai/halab-street",
-      "area": null,
+      "area": "muhaisnah-18471781",
       "emirate": "dubai",
       "name_en": "Halab Street",
       "name_ar": "شارع حلب",
@@ -121122,7 +122584,7 @@ window.KB = {
     },
     {
       "id": "dubai/happiness-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Happiness Street",
       "name_ar": "شارع السعادة",
@@ -121158,7 +122620,7 @@ window.KB = {
     },
     {
       "id": "dubai/hattan-avenue",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Hattan Avenue",
       "name_ar": "شارع هتان",
@@ -121170,7 +122632,7 @@ window.KB = {
     },
     {
       "id": "dubai/hattan-street",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Hattan Street",
       "name_ar": "شارع هتان",
@@ -121182,7 +122644,7 @@ window.KB = {
     },
     {
       "id": "dubai/hawthron-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Hawthron Lane",
       "name_ar": "طريق الزعرور",
@@ -121218,7 +122680,7 @@ window.KB = {
     },
     {
       "id": "dubai/hibiscus-way",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Hibiscus Way",
       "name_ar": "طريق الهبسكس",
@@ -121230,7 +122692,7 @@ window.KB = {
     },
     {
       "id": "dubai/hills-grove",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Hills Grove",
       "name_ar": "",
@@ -121242,7 +122704,7 @@ window.KB = {
     },
     {
       "id": "dubai/hills-view",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Hills View",
       "name_ar": "",
@@ -121254,7 +122716,7 @@ window.KB = {
     },
     {
       "id": "dubai/hillside-street",
-      "area": null,
+      "area": "jumeirah-golf-estates-18471779",
       "emirate": "dubai",
       "name_en": "Hillside street",
       "name_ar": "",
@@ -121266,7 +122728,7 @@ window.KB = {
     },
     {
       "id": "dubai/holly-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Holly Lane",
       "name_ar": "طريق هولي",
@@ -121278,7 +122740,7 @@ window.KB = {
     },
     {
       "id": "dubai/honeysuckle-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Honeysuckle Way",
       "name_ar": "طريق هونيسكل",
@@ -121302,7 +122764,7 @@ window.KB = {
     },
     {
       "id": "dubai/hor-al-anz-street",
-      "area": null,
+      "area": "hor-al-anz-14506843",
       "emirate": "dubai",
       "name_en": "Hor Al Anz Street",
       "name_ar": "شارع هور العنز",
@@ -121314,7 +122776,7 @@ window.KB = {
     },
     {
       "id": "dubai/hyacinth-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Hyacinth Way",
       "name_ar": "طريق الصفير",
@@ -121338,7 +122800,7 @@ window.KB = {
     },
     {
       "id": "dubai/ibn-seena-street",
-      "area": null,
+      "area": "umm-hurair-18471718",
       "emirate": "dubai",
       "name_en": "Ibn Seena Street",
       "name_ar": "شارع ابن سينا",
@@ -121362,7 +122824,7 @@ window.KB = {
     },
     {
       "id": "dubai/infinity-bridge",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Infinity Bridge",
       "name_ar": "جسر إنفينيتي",
@@ -121386,7 +122848,7 @@ window.KB = {
     },
     {
       "id": "dubai/international-city-street",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "International City Street",
       "name_ar": "شارع المدينة العالمية",
@@ -121410,7 +122872,7 @@ window.KB = {
     },
     {
       "id": "dubai/iris-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Iris Way",
       "name_ar": "طريق آيرس",
@@ -121422,7 +122884,7 @@ window.KB = {
     },
     {
       "id": "dubai/italy-u-street",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Italy-U Street",
       "name_ar": "",
@@ -121434,7 +122896,7 @@ window.KB = {
     },
     {
       "id": "dubai/ithra-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "Ithra Street",
       "name_ar": "شارع اثراء",
@@ -121446,7 +122908,7 @@ window.KB = {
     },
     {
       "id": "dubai/ivy-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Ivy Way",
       "name_ar": "طريق ايفي",
@@ -121458,7 +122920,7 @@ window.KB = {
     },
     {
       "id": "dubai/jabal-ali-central-street",
-      "area": null,
+      "area": "jabal-ali-industrial-2-18471645",
       "emirate": "dubai",
       "name_en": "Jabal Ali Central Street",
       "name_ar": "شارع جبل علي المركزي",
@@ -121482,7 +122944,7 @@ window.KB = {
     },
     {
       "id": "dubai/jasmine-drive",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Jasmine Drive",
       "name_ar": "طريق الياسمين",
@@ -121518,7 +122980,7 @@ window.KB = {
     },
     {
       "id": "dubai/jebel-ali-lahbab-road",
-      "area": null,
+      "area": "al-yufrah-2-18471652",
       "emirate": "dubai",
       "name_en": "Jebel Ali - Lahbab Road",
       "name_ar": "طريق جبل علي - لهباب",
@@ -121542,7 +123004,7 @@ window.KB = {
     },
     {
       "id": "dubai/jebel-ali-hills",
-      "area": null,
+      "area": "saih-shuaib-1-18471796",
       "emirate": "dubai",
       "name_en": "Jebel Ali Hills",
       "name_ar": "",
@@ -121554,7 +123016,7 @@ window.KB = {
     },
     {
       "id": "dubai/joory-street",
-      "area": null,
+      "area": "al-barsha-south-5-18471834",
       "emirate": "dubai",
       "name_en": "Joory Street",
       "name_ar": "",
@@ -121590,7 +123052,7 @@ window.KB = {
     },
     {
       "id": "dubai/jumeira-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Jumeira Street",
       "name_ar": "شارع جميرا",
@@ -121602,7 +123064,7 @@ window.KB = {
     },
     {
       "id": "dubai/jumeirah-beach-road",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Jumeirah Beach Road",
       "name_ar": "شارع جميرة",
@@ -121686,7 +123148,7 @@ window.KB = {
     },
     {
       "id": "dubai/juniper-place",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Juniper Place",
       "name_ar": "",
@@ -121698,7 +123160,7 @@ window.KB = {
     },
     {
       "id": "dubai/juniper-way-street",
-      "area": null,
+      "area": "jumeirah-golf-estates-18471779",
       "emirate": "dubai",
       "name_en": "Juniper Way street",
       "name_ar": "",
@@ -121710,7 +123172,7 @@ window.KB = {
     },
     {
       "id": "dubai/jvt-district",
-      "area": null,
+      "area": "al-barsha-south-5-18471834",
       "emirate": "dubai",
       "name_en": "JVT District",
       "name_ar": "",
@@ -121734,7 +123196,7 @@ window.KB = {
     },
     {
       "id": "dubai/khaamari-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Khaamari Street",
       "name_ar": "شارع الخماري",
@@ -121746,7 +123208,7 @@ window.KB = {
     },
     {
       "id": "dubai/khalid-bin-waleed-road",
-      "area": null,
+      "area": "umm-hurair-18471718",
       "emirate": "dubai",
       "name_en": "Khalid Bin Waleed Road",
       "name_ar": "طريق خالد بن الوليد",
@@ -121758,7 +123220,7 @@ window.KB = {
     },
     {
       "id": "dubai/khartoum-street",
-      "area": null,
+      "area": "al-mizhar-18471787",
       "emirate": "dubai",
       "name_en": "Khartoum Street",
       "name_ar": "شارع الخرطوم",
@@ -121770,7 +123232,7 @@ window.KB = {
     },
     {
       "id": "dubai/khayoor-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Khayoor Street",
       "name_ar": "",
@@ -121794,7 +123256,7 @@ window.KB = {
     },
     {
       "id": "dubai/kite-beach-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Kite Beach Street",
       "name_ar": "شارع كايت بيتش",
@@ -121806,7 +123268,7 @@ window.KB = {
     },
     {
       "id": "dubai/ko-zaw-lay-stre",
-      "area": null,
+      "area": "al-qusais-18471660",
       "emirate": "dubai",
       "name_en": "KO Zaw Lay Stre",
       "name_ar": "",
@@ -121830,7 +123292,7 @@ window.KB = {
     },
     {
       "id": "dubai/kunooz-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Kunooz Street",
       "name_ar": "",
@@ -121842,7 +123304,7 @@ window.KB = {
     },
     {
       "id": "dubai/kuwait-street",
-      "area": null,
+      "area": "al-mankhool-18471793",
       "emirate": "dubai",
       "name_en": "Kuwait Street",
       "name_ar": "شارع الكويت",
@@ -121854,7 +123316,7 @@ window.KB = {
     },
     {
       "id": "dubai/la-colección-avenue",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "La Colección Avenue",
       "name_ar": "شارع لا كولشيون",
@@ -121926,7 +123388,7 @@ window.KB = {
     },
     {
       "id": "dubai/latifa-bint-hamdan-street",
-      "area": null,
+      "area": "al-quoz-community-15621952",
       "emirate": "dubai",
       "name_en": "Latifa Bint Hamdan Street",
       "name_ar": "شارع لطيفة بنت حمدان",
@@ -121938,7 +123400,7 @@ window.KB = {
     },
     {
       "id": "dubai/latifa-hospital-street",
-      "area": null,
+      "area": "al-jaddaf-18471794",
       "emirate": "dubai",
       "name_en": "Latifa Hospital Street",
       "name_ar": "شارع مستشفى لطيفة",
@@ -121950,7 +123412,7 @@ window.KB = {
     },
     {
       "id": "dubai/laurel-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Laurel Way",
       "name_ar": "طريق لوريل",
@@ -121974,7 +123436,7 @@ window.KB = {
     },
     {
       "id": "dubai/lavender-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Lavender Way",
       "name_ar": "طربق اللافندر",
@@ -121986,7 +123448,7 @@ window.KB = {
     },
     {
       "id": "dubai/layeh-street",
-      "area": null,
+      "area": "jumeirah-11912729",
       "emirate": "dubai",
       "name_en": "Layeh Street",
       "name_ar": "شارع لايح",
@@ -121998,7 +123460,7 @@ window.KB = {
     },
     {
       "id": "dubai/lila",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Lila",
       "name_ar": "",
@@ -122010,7 +123472,7 @@ window.KB = {
     },
     {
       "id": "dubai/lila-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Lila Street",
       "name_ar": "",
@@ -122034,7 +123496,7 @@ window.KB = {
     },
     {
       "id": "dubai/lilac-way",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Lilac Way",
       "name_ar": "طريق الليّلك",
@@ -122058,7 +123520,7 @@ window.KB = {
     },
     {
       "id": "dubai/lily-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Lily Lane",
       "name_ar": "طريق ليلي",
@@ -122070,7 +123532,7 @@ window.KB = {
     },
     {
       "id": "dubai/lime-tree-valley-street",
-      "area": null,
+      "area": "jumeirah-golf-estates-18471779",
       "emirate": "dubai",
       "name_en": "Lime Tree Valley street",
       "name_ar": "",
@@ -122094,7 +123556,7 @@ window.KB = {
     },
     {
       "id": "dubai/lotus-grove",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Lotus Grove",
       "name_ar": "طربق لوتس",
@@ -122106,7 +123568,7 @@ window.KB = {
     },
     {
       "id": "dubai/lowaina-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Lowaina Street",
       "name_ar": "شارع لوينا",
@@ -122118,7 +123580,7 @@ window.KB = {
     },
     {
       "id": "dubai/lupinus-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Lupinus Way",
       "name_ar": "طريق لوبينوس",
@@ -122130,7 +123592,7 @@ window.KB = {
     },
     {
       "id": "dubai/ma-ared-street",
-      "area": null,
+      "area": "jabal-ali-industrial-2-18471645",
       "emirate": "dubai",
       "name_en": "Ma'ared Street",
       "name_ar": "شارع المعارض",
@@ -122142,7 +123604,7 @@ window.KB = {
     },
     {
       "id": "dubai/madam-road",
-      "area": null,
+      "area": "margham-18471845",
       "emirate": "dubai",
       "name_en": "Madam Road",
       "name_ar": "طريق المدام",
@@ -122154,7 +123616,7 @@ window.KB = {
     },
     {
       "id": "dubai/madinat-jumeirah",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Madinat Jumeirah",
       "name_ar": "",
@@ -122178,7 +123640,7 @@ window.KB = {
     },
     {
       "id": "dubai/magnolia-1-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Magnolia 1 Lane",
       "name_ar": "طريق مغنولية",
@@ -122190,7 +123652,7 @@ window.KB = {
     },
     {
       "id": "dubai/magnolia-2-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Magnolia 2 Lane",
       "name_ar": "طريق مغنولية",
@@ -122202,7 +123664,7 @@ window.KB = {
     },
     {
       "id": "dubai/magnolia-4-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Magnolia 4 Lane",
       "name_ar": "طريق مغنولية",
@@ -122226,7 +123688,7 @@ window.KB = {
     },
     {
       "id": "dubai/mai-street",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Mai Street",
       "name_ar": "شارع مي",
@@ -122238,7 +123700,7 @@ window.KB = {
     },
     {
       "id": "dubai/mai-tower",
-      "area": null,
+      "area": "al-nahda-18471785",
       "emirate": "dubai",
       "name_en": "Mai Tower",
       "name_ar": "",
@@ -122250,7 +123712,7 @@ window.KB = {
     },
     {
       "id": "dubai/main-avenue",
-      "area": null,
+      "area": "wadi-al-safa-3-18471709",
       "emirate": "dubai",
       "name_en": "Main Avenue",
       "name_ar": "الشارع الرئيسي",
@@ -122262,7 +123724,7 @@ window.KB = {
     },
     {
       "id": "dubai/majalis-road",
-      "area": null,
+      "area": "saih-al-salam-18471725",
       "emirate": "dubai",
       "name_en": "Majalis Road",
       "name_ar": "شارع المجلس",
@@ -122274,7 +123736,7 @@ window.KB = {
     },
     {
       "id": "dubai/manama-road",
-      "area": null,
+      "area": "al-ruwayyah-1-18471643",
       "emirate": "dubai",
       "name_en": "Manama Road",
       "name_ar": "طريق المنامة",
@@ -122298,7 +123760,7 @@ window.KB = {
     },
     {
       "id": "dubai/mandeh-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Mandeh Street",
       "name_ar": "شارع منده",
@@ -122310,7 +123772,7 @@ window.KB = {
     },
     {
       "id": "dubai/maple",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Maple",
       "name_ar": "",
@@ -122322,7 +123784,7 @@ window.KB = {
     },
     {
       "id": "dubai/maplewood-road",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Maplewood Road",
       "name_ar": "طريق مابلوود",
@@ -122346,7 +123808,7 @@ window.KB = {
     },
     {
       "id": "dubai/marigold-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Marigold Way",
       "name_ar": "طريق ماريجولد",
@@ -122382,7 +123844,7 @@ window.KB = {
     },
     {
       "id": "dubai/marrakech-road",
-      "area": null,
+      "area": "al-garhoud-18471788",
       "emirate": "dubai",
       "name_en": "Marrakech Road",
       "name_ar": "طريق مراكش",
@@ -122430,7 +123892,7 @@ window.KB = {
     },
     {
       "id": "dubai/mbr-villa-road3",
-      "area": null,
+      "area": "umm-nahad-3-madinat-hind-3-18471670",
       "emirate": "dubai",
       "name_en": "MBR Villa road3",
       "name_ar": "",
@@ -122442,7 +123904,7 @@ window.KB = {
     },
     {
       "id": "dubai/mbr-villas-central-road",
-      "area": null,
+      "area": "umm-nahad-3-madinat-hind-3-18471670",
       "emirate": "dubai",
       "name_en": "MBR Villas Central Road",
       "name_ar": "",
@@ -122454,7 +123916,7 @@ window.KB = {
     },
     {
       "id": "dubai/mbr-villas-project-entry",
-      "area": null,
+      "area": "umm-nahad-3-madinat-hind-3-18471670",
       "emirate": "dubai",
       "name_en": "MBR Villas Project Entry",
       "name_ar": "",
@@ -122466,7 +123928,7 @@ window.KB = {
     },
     {
       "id": "dubai/mbr-villas-road",
-      "area": null,
+      "area": "umm-nahad-3-madinat-hind-3-18471670",
       "emirate": "dubai",
       "name_en": "MBR Villas Road",
       "name_ar": "",
@@ -122478,7 +123940,7 @@ window.KB = {
     },
     {
       "id": "dubai/mbr-villas-road1",
-      "area": null,
+      "area": "umm-nahad-3-madinat-hind-3-18471670",
       "emirate": "dubai",
       "name_en": "MBR Villas Road1",
       "name_ar": "",
@@ -122490,7 +123952,7 @@ window.KB = {
     },
     {
       "id": "dubai/meadows",
-      "area": null,
+      "area": "the-springs-18471656",
       "emirate": "dubai",
       "name_en": "Meadows",
       "name_ar": "شارع",
@@ -122502,7 +123964,7 @@ window.KB = {
     },
     {
       "id": "dubai/mejsemi-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Mejsemi Street",
       "name_ar": "شارع مجسمي",
@@ -122514,7 +123976,7 @@ window.KB = {
     },
     {
       "id": "dubai/meyanib-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Meyanib Street",
       "name_ar": "",
@@ -122526,7 +123988,7 @@ window.KB = {
     },
     {
       "id": "dubai/mimosa-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Mimosa Way",
       "name_ar": "طريق ميموزا",
@@ -122550,7 +124012,7 @@ window.KB = {
     },
     {
       "id": "dubai/mira",
-      "area": null,
+      "area": "al-yalayis-1-18471697",
       "emirate": "dubai",
       "name_en": "Mira",
       "name_ar": "",
@@ -122562,7 +124024,7 @@ window.KB = {
     },
     {
       "id": "dubai/mizmelah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Mizmelah Street",
       "name_ar": "شارع مزمله",
@@ -122574,7 +124036,7 @@ window.KB = {
     },
     {
       "id": "dubai/mohammed-bin-rashid-al-maktoum-city-district-one",
-      "area": null,
+      "area": "mbr-al-merkad-18471803",
       "emirate": "dubai",
       "name_en": "Mohammed Bin Rashid Al Maktoum City District One",
       "name_ar": "",
@@ -122598,7 +124060,7 @@ window.KB = {
     },
     {
       "id": "dubai/morocco-i",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Morocco I",
       "name_ar": "",
@@ -122610,7 +124072,7 @@ window.KB = {
     },
     {
       "id": "dubai/morocco-j",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Morocco J",
       "name_ar": "",
@@ -122622,7 +124084,7 @@ window.KB = {
     },
     {
       "id": "dubai/mudon-boulevard",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Mudon Boulevard",
       "name_ar": "",
@@ -122634,7 +124096,7 @@ window.KB = {
     },
     {
       "id": "dubai/mudon-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Mudon Street",
       "name_ar": "شارع مُدن",
@@ -122646,7 +124108,7 @@ window.KB = {
     },
     {
       "id": "dubai/mulberry-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Mulberry Lane",
       "name_ar": "طريق ملبيري",
@@ -122658,7 +124120,7 @@ window.KB = {
     },
     {
       "id": "dubai/muscat-street",
-      "area": null,
+      "area": "mbr-al-merkad-18471803",
       "emirate": "dubai",
       "name_en": "Muscat Street",
       "name_ar": "شارع مسقط",
@@ -122670,7 +124132,7 @@ window.KB = {
     },
     {
       "id": "dubai/nad-al-hamar-road",
-      "area": null,
+      "area": "umm-ramool-18471720",
       "emirate": "dubai",
       "name_en": "Nad Al Hamar Road",
       "name_ar": "شارع ند الحمر",
@@ -122682,7 +124144,7 @@ window.KB = {
     },
     {
       "id": "dubai/nadd-al-hamar-street",
-      "area": null,
+      "area": "nadd-al-sheba-2-18471707",
       "emirate": "dubai",
       "name_en": "Nadd Al Hamar Street",
       "name_ar": "شارع ند الحمر",
@@ -122694,7 +124156,7 @@ window.KB = {
     },
     {
       "id": "dubai/nadd-al-sheba-road",
-      "area": null,
+      "area": "nad-al-sheba-18471683",
       "emirate": "dubai",
       "name_en": "Nadd Al Sheba Road",
       "name_ar": "شارع ند الشبا",
@@ -122706,7 +124168,7 @@ window.KB = {
     },
     {
       "id": "dubai/nadd-al-sheba-villas",
-      "area": null,
+      "area": "nadd-al-sheba-3-18471747",
       "emirate": "dubai",
       "name_en": "Nadd Al Sheba Villas",
       "name_ar": "",
@@ -122718,7 +124180,7 @@ window.KB = {
     },
     {
       "id": "dubai/nadd-umm-al-hassa-street",
-      "area": null,
+      "area": "nadd-al-sheba-3-18471747",
       "emirate": "dubai",
       "name_en": "Nadd Umm Al Hassa Street",
       "name_ar": "شارع ند ام الحصا",
@@ -122730,7 +124192,7 @@ window.KB = {
     },
     {
       "id": "dubai/naif-road",
-      "area": null,
+      "area": "al-bateen-14506839",
       "emirate": "dubai",
       "name_en": "Naif Road",
       "name_ar": "شارع نايف",
@@ -122790,7 +124252,7 @@ window.KB = {
     },
     {
       "id": "dubai/nord-anglia-international-school-access-road",
-      "area": null,
+      "area": "al-barsha-south-3-18471699",
       "emirate": "dubai",
       "name_en": "Nord Anglia International School Access Road",
       "name_ar": "شارع مدرسة نورد أنجليا الدولية",
@@ -122814,7 +124276,7 @@ window.KB = {
     },
     {
       "id": "dubai/nouakchott-street",
-      "area": null,
+      "area": "al-warqa-18471737",
       "emirate": "dubai",
       "name_en": "Nouakchott Street",
       "name_ar": "شارع نواكشوط",
@@ -122838,7 +124300,7 @@ window.KB = {
     },
     {
       "id": "dubai/oakwood-road",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Oakwood Road",
       "name_ar": "طريق أوك وود",
@@ -122862,7 +124324,7 @@ window.KB = {
     },
     {
       "id": "dubai/old-baladiya-street",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Old Baladiya Street",
       "name_ar": "شارع البلدية القديم",
@@ -122886,7 +124348,7 @@ window.KB = {
     },
     {
       "id": "dubai/olive-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Olive Way",
       "name_ar": "طريق الزيتون",
@@ -122898,7 +124360,7 @@ window.KB = {
     },
     {
       "id": "dubai/omar-bin-al-khattab-street",
-      "area": null,
+      "area": "al-murar-18471782",
       "emirate": "dubai",
       "name_en": "Omar Bin Al Khattab Street",
       "name_ar": "شارع عمر بن الخطاب",
@@ -122910,7 +124372,7 @@ window.KB = {
     },
     {
       "id": "dubai/orange-lake-street",
-      "area": null,
+      "area": "jumeirah-golf-estates-18471779",
       "emirate": "dubai",
       "name_en": "Orange Lake street",
       "name_ar": "",
@@ -122922,7 +124384,7 @@ window.KB = {
     },
     {
       "id": "dubai/orchid-drive",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Orchid Drive",
       "name_ar": "طريق الأوركيد",
@@ -122958,7 +124420,7 @@ window.KB = {
     },
     {
       "id": "dubai/oud-maitha-road",
-      "area": null,
+      "area": "al-jaddaf-18471794",
       "emirate": "dubai",
       "name_en": "Oud Maitha Road",
       "name_ar": "شارع عود ميثاء",
@@ -122970,7 +124432,7 @@ window.KB = {
     },
     {
       "id": "dubai/palm-coves",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Palm Coves",
       "name_ar": "شارع بالم",
@@ -122982,7 +124444,7 @@ window.KB = {
     },
     {
       "id": "dubai/palm-groves",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Palm Groves",
       "name_ar": "شارع بالم",
@@ -123018,7 +124480,7 @@ window.KB = {
     },
     {
       "id": "dubai/palm-link",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Palm Link",
       "name_ar": "شارع بالم",
@@ -123030,7 +124492,7 @@ window.KB = {
     },
     {
       "id": "dubai/palm-way",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Palm Way",
       "name_ar": "شارع بالم",
@@ -123042,7 +124504,7 @@ window.KB = {
     },
     {
       "id": "dubai/palma",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Palma",
       "name_ar": "",
@@ -123066,7 +124528,7 @@ window.KB = {
     },
     {
       "id": "dubai/palma-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Palma Street",
       "name_ar": "",
@@ -123078,7 +124540,7 @@ window.KB = {
     },
     {
       "id": "dubai/palmera-1-way",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Palmera 1 Way",
       "name_ar": "شارع بالميرا",
@@ -123102,7 +124564,7 @@ window.KB = {
     },
     {
       "id": "dubai/park-avenue",
-      "area": null,
+      "area": "mbr-al-merkad-18471803",
       "emirate": "dubai",
       "name_en": "Park Avenue",
       "name_ar": "",
@@ -123114,7 +124576,7 @@ window.KB = {
     },
     {
       "id": "dubai/park-road-east-street",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Park Road East Street",
       "name_ar": "",
@@ -123126,7 +124588,7 @@ window.KB = {
     },
     {
       "id": "dubai/park-road-south-street",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Park Road South Street",
       "name_ar": "",
@@ -123138,7 +124600,7 @@ window.KB = {
     },
     {
       "id": "dubai/parkways",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Parkways",
       "name_ar": "",
@@ -123162,7 +124624,7 @@ window.KB = {
     },
     {
       "id": "dubai/persia-m",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Persia M",
       "name_ar": "فارس M",
@@ -123174,7 +124636,7 @@ window.KB = {
     },
     {
       "id": "dubai/persia-n",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Persia N",
       "name_ar": "فارس N",
@@ -123186,7 +124648,7 @@ window.KB = {
     },
     {
       "id": "dubai/persia-o",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Persia O",
       "name_ar": "فارس O",
@@ -123198,7 +124660,7 @@ window.KB = {
     },
     {
       "id": "dubai/petunia-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Petunia Lane",
       "name_ar": "طريق بيتونيا",
@@ -123210,7 +124672,7 @@ window.KB = {
     },
     {
       "id": "dubai/poinsettia-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Poinsettia Way",
       "name_ar": "طريق البونسيتة",
@@ -123222,7 +124684,7 @@ window.KB = {
     },
     {
       "id": "dubai/pompidou-road",
-      "area": null,
+      "area": "al-ruwayyah-2-18471659",
       "emirate": "dubai",
       "name_en": "Pompidou Road",
       "name_ar": "",
@@ -123234,7 +124696,7 @@ window.KB = {
     },
     {
       "id": "dubai/poppy-lane",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Poppy Lane",
       "name_ar": "طريق الخشخاش",
@@ -123246,7 +124708,7 @@ window.KB = {
     },
     {
       "id": "dubai/poppy-lane-west",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Poppy Lane West",
       "name_ar": "طريق الخشخاش الغربي",
@@ -123258,7 +124720,7 @@ window.KB = {
     },
     {
       "id": "dubai/primrose-lane",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Primrose Lane",
       "name_ar": "طريق بريمروز",
@@ -123270,7 +124732,7 @@ window.KB = {
     },
     {
       "id": "dubai/private-access",
-      "area": null,
+      "area": "mushrif-18471728",
       "emirate": "dubai",
       "name_en": "Private access",
       "name_ar": "",
@@ -123330,7 +124792,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-c1-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat C1 Street",
       "name_ar": "",
@@ -123342,7 +124804,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-c2-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat C2 Street",
       "name_ar": "",
@@ -123354,7 +124816,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-c3-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat C3 Street",
       "name_ar": "",
@@ -123366,7 +124828,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-c4-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat C4 Street",
       "name_ar": "",
@@ -123378,7 +124840,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-c5-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat C5 Street",
       "name_ar": "",
@@ -123390,7 +124852,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-d1-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat D1 Street",
       "name_ar": "",
@@ -123402,7 +124864,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-d2-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat D2 Street",
       "name_ar": "",
@@ -123414,7 +124876,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-d3-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat D3 Street",
       "name_ar": "",
@@ -123426,7 +124888,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-e1-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat E1 Street",
       "name_ar": "",
@@ -123438,7 +124900,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-e2-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat E2 Street",
       "name_ar": "",
@@ -123450,7 +124912,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-e3-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat E3 Street",
       "name_ar": "",
@@ -123462,7 +124924,7 @@ window.KB = {
     },
     {
       "id": "dubai/rahat-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rahat Street",
       "name_ar": "شارع رهط",
@@ -123486,7 +124948,7 @@ window.KB = {
     },
     {
       "id": "dubai/rasha-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rasha Street",
       "name_ar": "",
@@ -123498,7 +124960,7 @@ window.KB = {
     },
     {
       "id": "dubai/reem",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Reem",
       "name_ar": "",
@@ -123510,7 +124972,7 @@ window.KB = {
     },
     {
       "id": "dubai/reem-street",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Reem Street",
       "name_ar": "شارع ريم",
@@ -123534,7 +124996,7 @@ window.KB = {
     },
     {
       "id": "dubai/remraam-street",
-      "area": null,
+      "area": "al-hebiah-5-18471818",
       "emirate": "dubai",
       "name_en": "Remraam Street",
       "name_ar": "شارع رمرام",
@@ -123546,7 +125008,7 @@ window.KB = {
     },
     {
       "id": "dubai/richmond-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Richmond Street",
       "name_ar": "",
@@ -123558,7 +125020,7 @@ window.KB = {
     },
     {
       "id": "dubai/ring-road",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Ring Road",
       "name_ar": "",
@@ -123570,7 +125032,7 @@ window.KB = {
     },
     {
       "id": "dubai/riyadh-street",
-      "area": null,
+      "area": "umm-hurair-18471718",
       "emirate": "dubai",
       "name_en": "Riyadh Street",
       "name_ar": "شارع الرياض",
@@ -123594,7 +125056,7 @@ window.KB = {
     },
     {
       "id": "dubai/rochester-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rochester Street",
       "name_ar": "",
@@ -123606,7 +125068,7 @@ window.KB = {
     },
     {
       "id": "dubai/rockwood-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rockwood Street",
       "name_ar": "",
@@ -123618,7 +125080,7 @@ window.KB = {
     },
     {
       "id": "dubai/rosa",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Rosa",
       "name_ar": "",
@@ -123642,7 +125104,7 @@ window.KB = {
     },
     {
       "id": "dubai/rose-drive",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Rose Drive",
       "name_ar": "طريق روز",
@@ -123666,7 +125128,7 @@ window.KB = {
     },
     {
       "id": "dubai/sabah-al-ahmed-al-jaber-al-sabah-street",
-      "area": null,
+      "area": "al-hamriya-18471710",
       "emirate": "dubai",
       "name_en": "Sabah Al Ahmed Al Jaber Al Sabah Street",
       "name_ar": "شارع الشيخ صباح الأحمد الجابر الصباح",
@@ -123690,7 +125152,7 @@ window.KB = {
     },
     {
       "id": "dubai/saheel-street",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Saheel Street",
       "name_ar": "شارع صهيل",
@@ -123714,7 +125176,7 @@ window.KB = {
     },
     {
       "id": "dubai/saih-al-salam-street",
-      "area": null,
+      "area": "al-selal-madinat-latifa-18471684",
       "emirate": "dubai",
       "name_en": "Saih Al Salam Street",
       "name_ar": "شارع سيح السلم",
@@ -123726,7 +125188,7 @@ window.KB = {
     },
     {
       "id": "dubai/saih-shuaib-street",
-      "area": null,
+      "area": "saih-shuaib-1-18471796",
       "emirate": "dubai",
       "name_en": "Saih Shuaib Street",
       "name_ar": "شارع سيح شعيب",
@@ -123738,7 +125200,7 @@ window.KB = {
     },
     {
       "id": "dubai/salah-al-din-street",
-      "area": null,
+      "area": "al-muraqqabat-18471665",
       "emirate": "dubai",
       "name_en": "Salah Al Din Street",
       "name_ar": "شارع صلاح الدين",
@@ -123750,7 +125212,7 @@ window.KB = {
     },
     {
       "id": "dubai/samara",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Samara",
       "name_ar": "",
@@ -123762,7 +125224,7 @@ window.KB = {
     },
     {
       "id": "dubai/samara-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Samara Street",
       "name_ar": "",
@@ -123786,7 +125248,7 @@ window.KB = {
     },
     {
       "id": "dubai/satwa-road",
-      "area": null,
+      "area": "al-satwa-18471715",
       "emirate": "dubai",
       "name_en": "Satwa Road",
       "name_ar": "شارع السطوة",
@@ -123822,7 +125284,7 @@ window.KB = {
     },
     {
       "id": "dubai/school-street",
-      "area": null,
+      "area": "downtown-dubai-18471738",
       "emirate": "dubai",
       "name_en": "School Street",
       "name_ar": "شارع المدرسة",
@@ -123834,7 +125296,7 @@ window.KB = {
     },
     {
       "id": "dubai/semmer-a-street",
-      "area": null,
+      "area": "nadd-hessa-18471700",
       "emirate": "dubai",
       "name_en": "Semmer A Street",
       "name_ar": "",
@@ -123846,7 +125308,7 @@ window.KB = {
     },
     {
       "id": "dubai/semmer-b-street",
-      "area": null,
+      "area": "nadd-hessa-18471700",
       "emirate": "dubai",
       "name_en": "Semmer B Street",
       "name_ar": "",
@@ -123858,7 +125320,7 @@ window.KB = {
     },
     {
       "id": "dubai/semmer-c-street",
-      "area": null,
+      "area": "nadd-hessa-18471700",
       "emirate": "dubai",
       "name_en": "Semmer C Street",
       "name_ar": "",
@@ -123870,7 +125332,7 @@ window.KB = {
     },
     {
       "id": "dubai/semmer-d-street",
-      "area": null,
+      "area": "nadd-hessa-18471700",
       "emirate": "dubai",
       "name_en": "Semmer D Street",
       "name_ar": "",
@@ -123882,7 +125344,7 @@ window.KB = {
     },
     {
       "id": "dubai/sharjah-ring-road",
-      "area": null,
+      "area": "muhaisnah-18471781",
       "emirate": "dubai",
       "name_en": "Sharjah Ring Road",
       "name_ar": "",
@@ -123894,7 +125356,7 @@ window.KB = {
     },
     {
       "id": "dubai/sheikh-khalifa-bin-zayed-street",
-      "area": null,
+      "area": "al-karama-18471789",
       "emirate": "dubai",
       "name_en": "Sheikh Khalifa Bin Zayed Street",
       "name_ar": "شارع الشيخ خليفة بن زايد",
@@ -123906,7 +125368,7 @@ window.KB = {
     },
     {
       "id": "dubai/sheikh-mohammed-bin-rashid-boulevard",
-      "area": null,
+      "area": "downtown-dubai-18471738",
       "emirate": "dubai",
       "name_en": "Sheikh Mohammed bin Rashid Boulevard",
       "name_ar": "شارع الشيخ محمد بن راشد",
@@ -123918,7 +125380,7 @@ window.KB = {
     },
     {
       "id": "dubai/sheikh-mohammed-bin-zayed-road",
-      "area": null,
+      "area": "jabal-ali-industrial-3-18471829",
       "emirate": "dubai",
       "name_en": "Sheikh Mohammed bin Zayed Road",
       "name_ar": "شارع الشيخ محمد بن زايد",
@@ -123930,7 +125392,7 @@ window.KB = {
     },
     {
       "id": "dubai/sheikh-rashid-road",
-      "area": null,
+      "area": "al-hudaiba-18471790",
       "emirate": "dubai",
       "name_en": "Sheikh Rashid Road",
       "name_ar": "شارع الشيخ راشد",
@@ -123942,7 +125404,7 @@ window.KB = {
     },
     {
       "id": "dubai/sheikh-sabah-al-ahmad-al-jaber-al-sabah-street",
-      "area": null,
+      "area": "al-jafiliya-18471800",
       "emirate": "dubai",
       "name_en": "Sheikh Sabah Al Ahmad Al Jaber Al Sabah Street",
       "name_ar": "شارع الشيخ صباح الأحمد الجابر الصباح",
@@ -123954,7 +125416,7 @@ window.KB = {
     },
     {
       "id": "dubai/sheikh-zayed-bin-hamdan-al-nahyan-street",
-      "area": null,
+      "area": "wadi-al-amardi-18471729",
       "emirate": "dubai",
       "name_en": "Sheikh Zayed bin Hamdan Al Nahyan Street",
       "name_ar": "شارع الشيخ زايد بن حمدان آل نهيان",
@@ -124014,7 +125476,7 @@ window.KB = {
     },
     {
       "id": "dubai/shorooq-drive",
-      "area": null,
+      "area": "mirdif-18471716",
       "emirate": "dubai",
       "name_en": "Shorooq Drive",
       "name_ar": "شارع شروق",
@@ -124026,7 +125488,7 @@ window.KB = {
     },
     {
       "id": "dubai/sidra",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "Sidra",
       "name_ar": "",
@@ -124038,7 +125500,7 @@ window.KB = {
     },
     {
       "id": "dubai/siidra",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "siidra",
       "name_ar": "",
@@ -124050,7 +125512,7 @@ window.KB = {
     },
     {
       "id": "dubai/sikkat-al-khail-road",
-      "area": null,
+      "area": "al-ras-14506838",
       "emirate": "dubai",
       "name_en": "Sikkat Al Khail Road",
       "name_ar": "طريق سكة الخيل",
@@ -124062,7 +125524,7 @@ window.KB = {
     },
     {
       "id": "dubai/silk-leaf",
-      "area": null,
+      "area": "wadi-al-safa-3-18471709",
       "emirate": "dubai",
       "name_en": "Silk Leaf",
       "name_ar": "",
@@ -124074,7 +125536,7 @@ window.KB = {
     },
     {
       "id": "dubai/souk-deira-street",
-      "area": null,
+      "area": "al-bateen-14506839",
       "emirate": "dubai",
       "name_en": "Souk Deira Street",
       "name_ar": "شارع سوق ديرة",
@@ -124098,7 +125560,7 @@ window.KB = {
     },
     {
       "id": "dubai/springs",
-      "area": null,
+      "area": "the-springs-18471656",
       "emirate": "dubai",
       "name_en": "Springs",
       "name_ar": "شارع",
@@ -124110,7 +125572,7 @@ window.KB = {
     },
     {
       "id": "dubai/sun-flower-way",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Sun Flower Way",
       "name_ar": "طريق عباد الشمس",
@@ -124134,7 +125596,7 @@ window.KB = {
     },
     {
       "id": "dubai/ta-an-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Ta'an Street",
       "name_ar": "شارع طعان",
@@ -124146,7 +125608,7 @@ window.KB = {
     },
     {
       "id": "dubai/ta-lah-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Ta'lah Street",
       "name_ar": "شارع تعلاه",
@@ -124158,7 +125620,7 @@ window.KB = {
     },
     {
       "id": "dubai/tannef-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Tannef Street",
       "name_ar": "شارع تانف",
@@ -124170,7 +125632,7 @@ window.KB = {
     },
     {
       "id": "dubai/tari-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Tari Street",
       "name_ar": "شارع تاري",
@@ -124182,7 +125644,7 @@ window.KB = {
     },
     {
       "id": "dubai/terminal-03-arrival",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Terminal 03 Arrival",
       "name_ar": "",
@@ -124194,7 +125656,7 @@ window.KB = {
     },
     {
       "id": "dubai/terminal-03-departure",
-      "area": null,
+      "area": "dubai-international-airport-18471754",
       "emirate": "dubai",
       "name_en": "Terminal 03 Departure",
       "name_ar": "",
@@ -124206,7 +125668,7 @@ window.KB = {
     },
     {
       "id": "dubai/terranova-avenue",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Terranova Avenue",
       "name_ar": "شارع تيرانوفا",
@@ -124218,7 +125680,7 @@ window.KB = {
     },
     {
       "id": "dubai/teslaama-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Teslaama Street",
       "name_ar": "شارع تسلامه",
@@ -124230,7 +125692,7 @@ window.KB = {
     },
     {
       "id": "dubai/the-galleries-road",
-      "area": null,
+      "area": "jabal-ali-industrial-2-18471645",
       "emirate": "dubai",
       "name_en": "The Galleries Road",
       "name_ar": "شارع الجاليريا",
@@ -124242,7 +125704,7 @@ window.KB = {
     },
     {
       "id": "dubai/the-old-town-avenue",
-      "area": null,
+      "area": "downtown-dubai-18471738",
       "emirate": "dubai",
       "name_en": "The Old Town Avenue",
       "name_ar": "شارع المدينة القديمة",
@@ -124266,7 +125728,7 @@ window.KB = {
     },
     {
       "id": "dubai/the-waterfront-street",
-      "area": null,
+      "area": "corniche-deira-14506837",
       "emirate": "dubai",
       "name_en": "The Waterfront Street",
       "name_ar": "شارع الواجهة البحرية",
@@ -124278,7 +125740,7 @@ window.KB = {
     },
     {
       "id": "dubai/thenaan-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Thenaan Street",
       "name_ar": "شارع ذنان",
@@ -124314,7 +125776,7 @@ window.KB = {
     },
     {
       "id": "dubai/tishaala-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Tishaala Street",
       "name_ar": "شارع تشالة",
@@ -124326,7 +125788,7 @@ window.KB = {
     },
     {
       "id": "dubai/topanga-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Topanga Street",
       "name_ar": "",
@@ -124338,7 +125800,7 @@ window.KB = {
     },
     {
       "id": "dubai/trade-center-street",
-      "area": null,
+      "area": "trade-centre-18471719",
       "emirate": "dubai",
       "name_en": "Trade Center Street",
       "name_ar": "شارع مركز التجارة",
@@ -124362,7 +125824,7 @@ window.KB = {
     },
     {
       "id": "dubai/tulip-way",
-      "area": null,
+      "area": "green-community-east-18471835",
       "emirate": "dubai",
       "name_en": "Tulip Way",
       "name_ar": "طريق التوليب",
@@ -124374,7 +125836,7 @@ window.KB = {
     },
     {
       "id": "dubai/tunis-street",
-      "area": null,
+      "area": "al-mizhar-18471787",
       "emirate": "dubai",
       "name_en": "Tunis Street",
       "name_ar": "شارع تونس",
@@ -124398,7 +125860,7 @@ window.KB = {
     },
     {
       "id": "dubai/umm-al-sheif-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Umm Al Sheif Street",
       "name_ar": "شارع أم الشيف",
@@ -124410,7 +125872,7 @@ window.KB = {
     },
     {
       "id": "dubai/umm-amara-street",
-      "area": null,
+      "area": "al-wasl-18471795",
       "emirate": "dubai",
       "name_en": "Umm Amara Street",
       "name_ar": "شارع أم عمارة",
@@ -124422,7 +125884,7 @@ window.KB = {
     },
     {
       "id": "dubai/umm-hurair-road",
-      "area": null,
+      "area": "port-saeed-12431735",
       "emirate": "dubai",
       "name_en": "Umm Hurair Road",
       "name_ar": "طريق أم حرير",
@@ -124458,7 +125920,7 @@ window.KB = {
     },
     {
       "id": "dubai/valencia-grove-street",
-      "area": null,
+      "area": "jumeirah-golf-estates-18471779",
       "emirate": "dubai",
       "name_en": "Valencia Grove street",
       "name_ar": "",
@@ -124494,7 +125956,7 @@ window.KB = {
     },
     {
       "id": "dubai/violet-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Violet Way",
       "name_ar": "طريق فيوليت",
@@ -124518,7 +125980,7 @@ window.KB = {
     },
     {
       "id": "dubai/wadi-al-safa-street",
-      "area": null,
+      "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
       "name_en": "Wadi Al Safa Street",
       "name_ar": "شارع وادي الصفا",
@@ -124530,7 +125992,7 @@ window.KB = {
     },
     {
       "id": "dubai/warsan-street",
-      "area": null,
+      "area": "warsan-18471741",
       "emirate": "dubai",
       "name_en": "Warsan Street",
       "name_ar": "شارع ورسان",
@@ -124542,7 +126004,7 @@ window.KB = {
     },
     {
       "id": "dubai/west",
-      "area": null,
+      "area": "hadaeq-sheikh-mohammed-bin-rashid-18471757",
       "emirate": "dubai",
       "name_en": "West",
       "name_ar": "",
@@ -124578,7 +126040,7 @@ window.KB = {
     },
     {
       "id": "dubai/wildflower-street",
-      "area": null,
+      "area": "jumeirah-golf-estates-18471779",
       "emirate": "dubai",
       "name_en": "Wildflower street",
       "name_ar": "",
@@ -124590,7 +126052,7 @@ window.KB = {
     },
     {
       "id": "dubai/willow-way",
-      "area": null,
+      "area": "green-community-west-18471844",
       "emirate": "dubai",
       "name_en": "Willow Way",
       "name_ar": "طريق ويلو",
@@ -124602,7 +126064,7 @@ window.KB = {
     },
     {
       "id": "dubai/yammtowa-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Yammtowa Street",
       "name_ar": "شارع يمتوا",
@@ -124614,7 +126076,7 @@ window.KB = {
     },
     {
       "id": "dubai/yamoor-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Yamoor Street",
       "name_ar": "شارع يامور",
@@ -124638,7 +126100,7 @@ window.KB = {
     },
     {
       "id": "dubai/yasmin",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Yasmin",
       "name_ar": "",
@@ -124650,7 +126112,7 @@ window.KB = {
     },
     {
       "id": "dubai/yasmin-street",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "Yasmin Street",
       "name_ar": "",
@@ -124662,7 +126124,7 @@ window.KB = {
     },
     {
       "id": "dubai/za-abeel-street",
-      "area": null,
+      "area": "al-karama-18471789",
       "emirate": "dubai",
       "name_en": "Za'abeel Street",
       "name_ar": "شارع زعبيل",
@@ -124674,7 +126136,7 @@ window.KB = {
     },
     {
       "id": "dubai/zaa-beel-palace-street",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "Zaa'beel Palace Street",
       "name_ar": "شارع قصر زعبيل",
@@ -124686,7 +126148,7 @@ window.KB = {
     },
     {
       "id": "dubai/zaa-beel-street",
-      "area": null,
+      "area": "al-karama-18471789",
       "emirate": "dubai",
       "name_en": "Zaa'beel Street",
       "name_ar": "شارع زعبيل",
@@ -124698,7 +126160,7 @@ window.KB = {
     },
     {
       "id": "dubai/zaghoor-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Zaghoor Street",
       "name_ar": "",
@@ -124710,7 +126172,7 @@ window.KB = {
     },
     {
       "id": "dubai/zaglaba-street",
-      "area": null,
+      "area": "umm-suqeim-18471749",
       "emirate": "dubai",
       "name_en": "Zaglaba Street",
       "name_ar": "شارع زغلابة",
@@ -124830,7 +126292,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-أم-الشيف",
-      "area": null,
+      "area": "al-safa-18471742",
       "emirate": "dubai",
       "name_en": "شارع أم الشيف",
       "name_ar": "",
@@ -124842,7 +126304,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الثاني-من-ديسمبر",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "شارع الثاني من ديسمبر",
       "name_ar": "",
@@ -124854,7 +126316,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الجداف",
-      "area": null,
+      "area": "al-jaddaf-18471794",
       "emirate": "dubai",
       "name_en": "شارع الجداف",
       "name_ar": "شارع الجداف",
@@ -124878,7 +126340,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الخيل-الأول",
-      "area": null,
+      "area": "jabal-ali-industrial-3-18471829",
       "emirate": "dubai",
       "name_en": "شارع الخيل الأول",
       "name_ar": "",
@@ -124890,7 +126352,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الخيل-الاول",
-      "area": null,
+      "area": "jabal-ali-industrial-3-18471829",
       "emirate": "dubai",
       "name_en": "شارع الخيل الاول",
       "name_ar": "",
@@ -124902,7 +126364,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الروية",
-      "area": null,
+      "area": "al-ruwayyah-2-18471659",
       "emirate": "dubai",
       "name_en": "شارع الروية",
       "name_ar": "",
@@ -124914,7 +126376,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الشرطة",
-      "area": null,
+      "area": "oud-al-muteena-18471758",
       "emirate": "dubai",
       "name_en": "شارع الشرطة",
       "name_ar": "",
@@ -124926,7 +126388,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الشيخ-خليفة-بن-زايد",
-      "area": null,
+      "area": "al-jafiliya-18471800",
       "emirate": "dubai",
       "name_en": "شارع الشيخ خليفة بن زايد",
       "name_ar": "",
@@ -124938,7 +126400,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-الفرسان",
-      "area": "-18471832",
+      "area": null,
       "emirate": "dubai",
       "name_en": "شارع الفرسان",
       "name_ar": "",
@@ -124962,7 +126424,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-زعبيل",
-      "area": null,
+      "area": "zabeel-18471721",
       "emirate": "dubai",
       "name_en": "شارع زعبيل",
       "name_ar": "",
@@ -124974,7 +126436,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-سيح-السلم",
-      "area": null,
+      "area": "al-lesaily-18471841",
       "emirate": "dubai",
       "name_en": "شارع سيح السلم",
       "name_ar": "",
@@ -124986,7 +126448,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-لطيفة-بنت-حمدان",
-      "area": null,
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
       "emirate": "dubai",
       "name_en": "شارع لطيفة بنت حمدان",
       "name_ar": "",
@@ -124998,7 +126460,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-مدينة-العربية",
-      "area": null,
+      "area": "wadi-al-safa-4-18471837",
       "emirate": "dubai",
       "name_en": "شارع مدينة العربية",
       "name_ar": "شارع مدينة العربية",
@@ -125010,7 +126472,7 @@ window.KB = {
     },
     {
       "id": "dubai/شارع-مرغم",
-      "area": null,
+      "area": "grayteesah-18471807",
       "emirate": "dubai",
       "name_en": "شارع مرغم",
       "name_ar": "",

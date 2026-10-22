@@ -84,8 +84,10 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 - [x] **All seven emirates** — country-wide import + boundary assignment. Note the
       consequence of the numeric rule: Dubai keeps only 934 named streets out of 23,960
       named roads because 54% are numbered.
-- [ ] **Dubai's districts** — 958 streets have no `admin_level 8` polygon; either add
-      boundaries upstream or fall back to OSM's `admin_level 9/10`.
+- [x] **Dubai's districts** — `admin_level 10` used as the fallback; 562 streets
+      recovered, 463 remain without a district.
+- [x] **Static directory pages** — `tools/wiki-build.mjs` emits 358 pages
+      (emirates → districts → street table), 1.8 MB total.
 
 Lessons paid for: an area-wide Overpass query is too heavy; a dense bbox tile takes
 minutes; and Overpass answers "busy" with an *empty result*, not an error — so a
