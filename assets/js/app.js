@@ -39,8 +39,10 @@
       sources: "Sources",
       originDocumented: "Documented name",
       originLocal: "Local account",
+      originAccount: "Recorded account",
       caveatDocumented: "The person, event or landmark behind this name is on the record.",
       caveatLocal: "This explanation is widely told locally, but it is not officially recorded — treat it as oral history.",
+      caveatAccount: "This account is recorded by the project; no published source is cited.",
       categoryNoun: { person: "Named after a person", place: "Named after a place", word: "An Arabic word", tribe: "Named after a tribe", event: "Named after an event" },
       countOne: "1 street",
       countMany: "{n} streets",
@@ -63,8 +65,10 @@
       sources: "المصادر",
       originDocumented: "اسم موثّق",
       originLocal: "رواية محلية",
+      originAccount: "رواية مسجّلة",
       caveatDocumented: "الشخص أو الحدث أو المعلم الذي يحمل الشارع اسمه مسجّل وموثّق.",
       caveatLocal: "هذا التفسير شائع محلياً لكنه غير مسجّل رسمياً — تعامل معه كتاريخ شفهي.",
+      caveatAccount: "هذه الرواية مسجّلة في المشروع، ولا يُذكر مصدر منشور.",
       categoryNoun: { person: "سُمّي على اسم شخص", place: "سُمّي على اسم مكان", word: "كلمة عربية", tribe: "سُمّي على اسم قبيلة", event: "سُمّي على اسم حدث" },
       countOne: "شارع واحد",
       countMany: "{n} شارعاً",
@@ -226,7 +230,7 @@
       var em = emirateOf(s.emirate);
       var cat = categoryOf(s.category);
       var meaning = s.meaning ? s.meaning[state.lang] : "";
-      var originLabel = s.origin === "local" ? T.originLocal : T.originDocumented;
+      var originLabel = s.origin === "account" ? T.originAccount : s.origin === "local" ? T.originLocal : T.originDocumented;
       // The name in the reader's own language is the heading and comes first.
       var nameBlock = state.lang === "ar"
         ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</h3>" +
@@ -331,7 +335,7 @@
 
     var story = s.story ? (s.story[state.lang] || s.story.en) : "";
     var meaning = s.meaning ? (s.meaning[state.lang] || s.meaning.en) : "";
-    var isLocal = s.origin === "local";
+    var origin = s.origin || "documented";
 
     // Same rule as the cards: the reader's language is the heading, and first.
     var titleBlock = state.lang === "ar"
@@ -350,8 +354,8 @@
         (s.former ? '<p class="sheet__rename">' + esc(T.formerly) + " " + esc(s.former[state.lang]) + "</p>" : "") +
         '<div class="sheet__tags">' +
           '<span class="sheet__tag">' + esc(T.categoryNoun[s.category] || "") + "</span>" +
-          '<span class="sheet__tag sheet__tag--origin' + (isLocal ? " is-local" : "") + '">' +
-            esc(isLocal ? T.originLocal : T.originDocumented) + "</span>" +
+          '<span class="sheet__tag sheet__tag--origin' + (origin === "local" ? " is-local" : origin === "account" ? " is-account" : "") + '">' +
+            esc(origin === "account" ? T.originAccount : origin === "local" ? T.originLocal : T.originDocumented) + "</span>" +
         "</div>" +
       "</div>" +
       (meaning
@@ -362,7 +366,7 @@
       '<p class="sheet__dir"><a href="directory/search.html?q=' + encodeURIComponent(s.en) + '">' +
         (state.lang === "ar" ? "ابحث عنه في دليل الشوارع ←" : "Find it in the street directory →") +
         "</a></p>" +
-      '<p class="sheet__caveat">' + esc(isLocal ? T.caveatLocal : T.caveatDocumented) + "</p>" +
+      '<p class="sheet__caveat">' + esc(origin === "account" ? T.caveatAccount : origin === "local" ? T.caveatLocal : T.caveatDocumented) + "</p>" +
       '<div class="sheet__footer">' +
         (s.refs && s.refs.length
           ? '<div><span class="sheet__meaning-label">' + esc(T.sources) + "</span>" +

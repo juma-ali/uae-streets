@@ -720,3 +720,5 @@ html[dir="rtl"] .card__ar { text-align: right; }
 
 .sheet__route { margin: 0 0 0.5rem; font-size: 0.8rem; letter-spacing: 0.04em; color: var(--ink-3); }
 .sheet__route::before { content: "⬦ "; opacity: 0.7; }
+
+.sheet__tag--origin.is-account { border-color: var(--ink-3); color: var(--ink-3); }
