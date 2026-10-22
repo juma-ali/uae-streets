@@ -329,3 +329,14 @@ Streets named after a word show its gloss under the English name, e.g.
 notes ("elative degree of", "plural of") and proper nouns are dropped, because a
 street named `الأربح` is not the elative of anything.
 
+
+### Where glosses come from
+
+1. **Wiktionary** (via kaikki.org) — the bulk, English glosses.
+2. **Curated landforms** in `tools/dictionary.mjs` — standard Arabic meanings, some
+   sourced from UAE material (`ساروق` from Dubai Municipality via Al Bayan; `نقا`,
+   `عرقوب` from *لهجتنا المحلية*; `هور`, `هيرات` from the NLA glossary).
+3. **[معجم عربي](https://www.arabicterminology.com/) — the classical lexicons**
+   (Lisan al-Arab, Taj al-Arus, al-Wasit, al-Muhit…). Consulted by hand; it is not
+   wired into the build, and it does **not** resolve place names: asked for `ساروق`
+   it answers "a small saw", for `رباضة` "a lion". A toponym is not a lexical sense.

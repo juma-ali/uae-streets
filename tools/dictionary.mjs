@@ -65,6 +65,15 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "دمثه": "soft ground",
+  "ظهره": "ridge, back",
+  "جرن": "basin, hollow",
+  "فريج": "neighbourhood (Gulf Arabic)",
+  "عيدان": "branches, sticks",
+  "رملات": "sandy patches",
+  "حاره": "quarter, lane",
+  "حدائق": "gardens",
+  "سلام": "peace",
   "ساروق": "low ground between two dunes",
   "بو": "“father of …” — place-name prefix (colloquial)",
   "ابو": "“father of …” — a place-name prefix",
