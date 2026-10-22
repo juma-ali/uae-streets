@@ -138,6 +138,12 @@ for (const el of roads) {
   const enIsArabic = /[\u0600-\u06FF]/.test(enTag);
   const rawEn = !enIsArabic && enTag ? enTag : nameIsArabic || enIsArabic ? "" : rawName;
   const rawAr = t["name:ar"] || (nameIsArabic ? rawName : enIsArabic ? enTag : "");
+
+  // OSM records renames in old_name / old_name:en / old_name:ar — read them.
+  const oldTag = t.old_name || "";
+  const oldIsArabic = /[\u0600-\u06FF]/.test(oldTag);
+  const oldEn = t["old_name:en"] || (oldTag && !oldIsArabic ? oldTag : "");
+  const oldAr = t["old_name:ar"] || (oldTag && oldIsArabic ? oldTag : "");
   if (!rawEn && !rawAr) continue;
 
   // Normalise first, then judge: "1 Saheel Street" is Saheel Street, not a number.
@@ -209,6 +215,8 @@ for (const el of roads) {
     kind: t.highway || "",
     lat: Number(c.lat.toFixed(6)),
     lon: Number(c.lon.toFixed(6)),
+    old_name_en: oldEn || null,
+    old_name_ar: oldAr || null,
     variants: 1,
   });
 }

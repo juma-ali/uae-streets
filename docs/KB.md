@@ -35,6 +35,21 @@ Earlier builds used `name:en || name`, which quietly wrote Arabic text into the
 English field (42 rows, 28 of them with no Arabic anywhere else). The directory and
 the search show the Arabic name where English is absent.
 
+## Previous names
+
+OSM records renames in `old_name` / `old_name:en` / `old_name:ar`, and this KB now
+carries them: **4,889 streets have a previous name**, 4,287 of them meaningfully
+(not just a plot number). The distribution is telling — 4,228 are in Abu Dhabi,
+and many read `13th Street → 'Aliyah Street`: the emirate has been replacing
+numbered streets with names, which is the opposite of Dubai's grid.
+
+Two consequences:
+
+- The guide's story for a renamed road (Electra Street, Muroor Road) now resolves
+  through `old_name` instead of a hand-kept alias list — the data carries it.
+- The directory does not print old names in its tables; 4,000 extra lines would
+  bury the current ones. They stay in `data/kb.js` for the cards and for future use.
+
 ## Two rules that shape the data
 
 **1. Numeric-only names are excluded.** `Road 1b`, `Street 112`, `42nd Street`,

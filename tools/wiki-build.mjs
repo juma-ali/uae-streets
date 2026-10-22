@@ -34,9 +34,6 @@ const ALIAS = {
   "Al Najda Street": "Sheikha Fatima bint Mubarak Street",
   "Oud Metha Road": "Oud Maitha Road",
   "Sheikh Mohammed bin Salem Street": "Sheikh Mohammad Bin Salem Road",
-  // Abu Dhabi renamed these; the guide keeps the names people use.
-  "Electra Street": "Zayed The First Street",
-  "Muroor Road": "Sultan Bin Zayed The First Street",
 };
 
 const normName = (s) =>
@@ -48,6 +45,9 @@ const byName = new Map();
 for (const s of KB.streets) {
   byName.set(normName(s.name_en) + "|" + s.emirate, s);
   byName.set(normName(s.name_ar) + "|" + s.emirate, s);
+  // OSM records renames; a story using the old name should still resolve
+  if (s.old_name_en) byName.set(normName(s.old_name_en) + "|" + s.emirate, s);
+  if (s.old_name_ar) byName.set(normName(s.old_name_ar) + "|" + s.emirate, s);
 }
 /* storyOf[osm] = editorial id, so a table row can link back to the guide. */
 const storyOf = new Map(); // osm -> [editorial ids]
