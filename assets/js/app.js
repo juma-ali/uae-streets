@@ -160,7 +160,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023i";
+    s.src = "data/cards.js?v=20261023j";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -207,7 +207,11 @@
   function describeRoad(r, d, em, where) {
     var ar = state.lang === "ar";
     var parts = [];
-    if (d) parts.push(ar ? ("طريق في " + where + "، " + em) : ("A road in " + where + ", " + em));
+    if (d) {
+      var near = d[4] === "approx";
+      parts.push(ar ? (near ? "طريق قرب " : "طريق في ") + where + "، " + em
+                     : (near ? "A road near " : "A road in ") + where + ", " + em);
+    }
     var named = {
       person: ar ? "سُمّي نسبةً إلى شخص" : "named after a person",
       place: ar ? "سُمّي نسبةً إلى مكان" : "named after a place",

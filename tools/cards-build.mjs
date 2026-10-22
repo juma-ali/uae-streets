@@ -24,6 +24,7 @@ const KB = load("data/kb.js", "KB");
 const CATS = load("data/categories.js", "STREET_CATEGORIES");
 const GLOSSES = (() => { try { return load("data/dictionary.js", "STREET_GLOSSES"); } catch { return {}; } })();
 const EDITORIAL = load("data/streets.js", "STREETS");
+const LOCALITIES = (() => { try { return load("data/localities.js", "LOCALITIES"); } catch { return {}; } })();
 
 const norm = (s) =>
   String(s || "")
@@ -48,13 +49,15 @@ for (const e of EDITORIAL) {
 const areaById = new Map(KB.areas.map((a) => [a.id, a]));
 const districts = [];
 const districtIndex = new Map();
-const districtFor = (areaId, emirate) => {
+const districtFor = (areaId, emirate, osm) => {
+  /* no admin district? use the nearest OSM place node (towns/suburbs, see tools/localities.mjs) */
+  const loc = !areaId && LOCALITIES[osm];
   /* A road outside any district still has an emirate — keep it, so the emirate
      filters can reach it. These rows share one synthetic entry per emirate. */
-  const key = areaId || "em:" + emirate;
+  const key = areaId || (loc ? "loc:" + loc[0] : "em:" + emirate);
   if (districtIndex.has(key)) return districtIndex.get(key);
   const a = areaId ? areaById.get(areaId) : null;
-  districts.push([a ? a.path[3] : "", (a && a.name_ar) || "", emirate, areaId || ""]);
+  districts.push([a ? a.path[3] : (loc ? loc[0] : ""), (a && a.name_ar) || (loc ? loc[1] : "") || "", emirate, areaId || "", loc ? "approx" : ""]);
   districtIndex.set(key, districts.length - 1);
   return districts.length - 1;
 };
@@ -70,7 +73,7 @@ for (const s of KB.streets) {
   rows.push([
     en,
     ar,
-    districtFor(s.area, s.emirate),
+    districtFor(s.area, s.emirate, s.osm),
     cat,
     s.ref || "",
     s.old_name_en || "",

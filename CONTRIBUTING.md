@@ -394,3 +394,21 @@ emirate filters reach them — without it Dubai showed 554 instead of 902.
 
 Asset URLs carry `?v=` so a browser cannot keep serving yesterday's `app.js`; a stale
 script is indistinguishable from a bug when the numbers are wrong.
+
+### Roads outside every district
+
+454 roads — 348 of them in Dubai — sit outside every `admin_level 8/10` polygon. Rather than
+leave them blank, `tools/localities.mjs` assigns each the nearest OSM `place=*` node:
+suburbs and neighbourhoods outrank villages, which outrank localities, within 6 km.
+453 of 454 now have a name.
+
+Two things this is **not**:
+
+- it is **not** an administrative district — the card says "near Sufouh Gardens", not "in";
+- it is a **nearest** label. `Expo Village Boulevard` lands on a neighbouring area, because
+  no place node exists at Expo Village itself. Say "near" and the statement stays true.
+
+The place nodes come from Overpass into `.cache/places.json`, and `data/localities.js` is keyed
+by OSM id. The alternative — scraping openalfa.com, which groups streets by locality — was
+rejected: its `robots.txt` disallows GPTBot, ChatGPT-User, CCBot and OpenAI. The same
+assignment is reproducible from OSM, so there was no need to take it from them.
