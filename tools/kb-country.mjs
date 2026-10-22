@@ -46,9 +46,14 @@ const EMIRATE_NAMES = {
    "1 R/A", "42nd Street". The Arabic side is ignored for this test — "شارع 10أ"
    leaves a letter behind and would defeat the check. */
 const numericOnly = (en) => {
+  const raw = String(en || "").trim();
+  // plot codes: "RA02", "OBR06", "Plot No. M-26" — identifiers, not names
+  if (/\bplot\s*(?:no\.?)?\s*[-#]?\s*[a-z]?[- ]?\d+/i.test(raw)) return true;
+  if (/^(unit|villa|building|flat)\s*[-#]?\s*[a-z]?\d+/i.test(raw)) return true;
+  if (/^[a-z]{1,4}[- ]?\d{1,4}[a-z]?$/i.test(raw)) return true;
   const rest = String(en || "")
     .toLowerCase()
-    .replace(/\b(street|road|st|rd|ave|avenue|lane|sikka|roundabout)\b/g, " ")
+    .replace(/\b(street|road|st|rd|ave|avenue|lane|sikka|roundabout|court|drive|boulevard|close|terrace|circle|square|plaza)\b/g, " ")
     .replace(/\d+\s*(st|nd|rd|th)\b/g, " ")
     .replace(/[0-9]+[a-z]?/g, " ")
     .replace(/[^\p{L}\s]/gu, " ")
@@ -64,6 +69,8 @@ const numericOnly = (en) => {
    - "Al Aqhuwanah 4 Street" → drop the trailing stretch number                       */
 const baseName = (s) => {
   let name = String(s || "").trim();
+  const plot = /^(?:court|street|road|avenue|lane|villa|plot|unit|building|flat)\s+\d+[a-z]?\s*,\s*(.+)$/i.exec(name);
+  if (plot) name = plot[1].trim();
   const paren = /\(([^)]{3,})\)/.exec(name);
   if (paren) name = paren[1].trim();
   const lead = /^(\d+[a-z]?)\s+(.+)$/i.exec(name);

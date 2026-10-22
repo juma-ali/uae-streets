@@ -80,6 +80,9 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 - [ ] **The 578 orphan streets** — outside any district polygon (Al Ain's rural
       outskirts, the capital's edges). Either accept emirate-level, or add the
       missing boundaries upstream in OSM.
+- [x] **Integrity audit** — `tools/audit.mjs`: internal checks plus a reproducible
+      299-street sample (`data/verification-sample.csv`) for checking against an
+      official source. Results in [AUDIT.md](AUDIT.md).
 - [ ] **Fold `data/index.js` into `data/kb.js`** so there is one facts file.
 - [x] **All seven emirates** — country-wide import + boundary assignment. Note the
       consequence of the numeric rule: Dubai keeps only 934 named streets out of 23,960

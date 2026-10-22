@@ -34,6 +34,7 @@ Double-click `index.html`. That's it.
 | `tools/pbf-boundaries.mjs` | Stitches admin boundaries from the PBF into rings | districts are missing or wrong |
 | `tools/kb-districts.mjs` | Assigns Abu Dhabi streets to districts (area refreshes) | after collecting a new area |
 | `tools/kb-country.mjs` | Country build: emirate + district assignment for all seven | the main KB build |
+| `tools/audit.mjs` | Internal integrity checks; emits a stratified sample for cross-checking | before publishing, after a big import |
 | `tools/wiki-build.mjs` | Generates `directory/`: 358 browse pages + `search.html` + the search index | the KB changed |
 | `tools/templates/search.html` | The search page template (hand-edited, copied on build) | you change search behaviour |
 | `directory/` | Generated browse pages (emirates → districts → streets) | never edited by hand |

@@ -10,7 +10,7 @@ window.KB = {
       "osm": "relation/3766481",
       "name_en": "Abu Dhabi Emirate",
       "name_ar": "أبو ظبي",
-      "street_count": 9004
+      "street_count": 8967
     },
     {
       "id": "ajman",
@@ -24,7 +24,7 @@ window.KB = {
       "osm": "relation/3766483",
       "name_en": "Dubai Emirate",
       "name_ar": "دبي",
-      "street_count": 934
+      "street_count": 933
     },
     {
       "id": "fujairah",
@@ -326,7 +326,7 @@ window.KB = {
         24.897527,
         55.170739
       ],
-      "street_count": 23
+      "street_count": 10
     },
     {
       "id": "al-ma-mourah-13251377",
@@ -649,7 +649,7 @@ window.KB = {
         24.601854,
         54.48115
       ],
-      "street_count": 10
+      "street_count": 9
     },
     {
       "id": "al-sader-13251342",
@@ -972,7 +972,7 @@ window.KB = {
         24.385895,
         54.526523
       ],
-      "street_count": 51
+      "street_count": 50
     },
     {
       "id": "muwaylih-13251375",
@@ -2298,7 +2298,7 @@ window.KB = {
         24.09631,
         53.434375
       ],
-      "street_count": 4
+      "street_count": 3
     },
     {
       "id": "al-hamra-13251508",
@@ -2417,7 +2417,7 @@ window.KB = {
         24.226072,
         53.062912
       ],
-      "street_count": 24
+      "street_count": 3
     },
     {
       "id": "al-shuweehat-13251510",
@@ -66303,174 +66303,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "abu-dhabi/court",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court",
-      "name_ar": "منطقة",
-      "osm": "way/360690484",
-      "kind": "residential",
-      "lat": 24.84181,
-      "lon": 55.024254,
-      "variants": 4
-    },
-    {
-      "id": "abu-dhabi/court-1-oaisis",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 1, Oaisis",
-      "name_ar": "",
-      "osm": "way/360690482",
-      "kind": "residential",
-      "lat": 24.840576,
-      "lon": 55.025287,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-1-oasis",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 1, Oasis",
-      "name_ar": "",
-      "osm": "way/493730070",
-      "kind": "residential",
-      "lat": 24.840821,
-      "lon": 55.024966,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-1-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 1, Waterfall",
-      "name_ar": "",
-      "osm": "way/492392840",
-      "kind": "residential",
-      "lat": 24.844859,
-      "lon": 55.025848,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-10-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 10, Waterfall",
-      "name_ar": "",
-      "osm": "way/360690486",
-      "kind": "residential",
-      "lat": 24.842818,
-      "lon": 55.022745,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-11-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 11, Waterfall",
-      "name_ar": "",
-      "osm": "way/360690485",
-      "kind": "residential",
-      "lat": 24.842387,
-      "lon": 55.023325,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-12-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 12, Waterfall",
-      "name_ar": "",
-      "osm": "way/493727019",
-      "kind": "residential",
-      "lat": 24.841593,
-      "lon": 55.023997,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-2-oaisis",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 2, Oaisis",
-      "name_ar": "",
-      "osm": "way/360690481",
-      "kind": "residential",
-      "lat": 24.841087,
-      "lon": 55.025751,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-2-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 2, Waterfall",
-      "name_ar": "",
-      "osm": "way/360690491",
-      "kind": "residential",
-      "lat": 24.845802,
-      "lon": 55.026487,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-3-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 3, Waterfall",
-      "name_ar": "منطقة ٣، حديقة الشلال",
-      "osm": "way/360690493",
-      "kind": "residential",
-      "lat": 24.845435,
-      "lon": 55.023891,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-4-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 4, Waterfall",
-      "name_ar": "منطقة ٤، حديقة الشلال",
-      "osm": "way/360690492",
-      "kind": "residential",
-      "lat": 24.845689,
-      "lon": 55.024568,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-5-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 5, Waterfall",
-      "name_ar": "منطقة ٥، حديقة الشلال",
-      "osm": "way/360690497",
-      "kind": "residential",
-      "lat": 24.844652,
-      "lon": 55.024913,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-6-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 6, Waterfall",
-      "name_ar": "",
-      "osm": "way/360690495",
-      "kind": "residential",
-      "lat": 24.844719,
-      "lon": 55.022717,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/court-9-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Court 9, Waterfall",
-      "name_ar": "",
-      "osm": "way/360690487",
-      "kind": "residential",
-      "lat": 24.843244,
-      "lon": 55.022155,
-      "variants": 1
-    },
-    {
       "id": "abu-dhabi/da-bat-ar-ruways-street",
       "area": "al-iqabiyyah-13251409",
       "emirate": "abu-dhabi",
@@ -67945,18 +67777,6 @@ window.KB = {
       "lat": 24.401254,
       "lon": 54.518023,
       "variants": 1
-    },
-    {
-      "id": "abu-dhabi/drive",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "DRIVE",
-      "name_ar": "",
-      "osm": "way/162069818",
-      "kind": "residential",
-      "lat": 24.081317,
-      "lon": 52.642852,
-      "variants": 8
     },
     {
       "id": "abu-dhabi/droub-al-khair-street",
@@ -88563,6 +88383,30 @@ window.KB = {
       "variants": 1
     },
     {
+      "id": "abu-dhabi/oaisis",
+      "area": "al-layyan-13251382",
+      "emirate": "abu-dhabi",
+      "name_en": "Oaisis",
+      "name_ar": "",
+      "osm": "way/360690481",
+      "kind": "residential",
+      "lat": 24.841087,
+      "lon": 55.025751,
+      "variants": 3
+    },
+    {
+      "id": "abu-dhabi/oasis",
+      "area": "al-layyan-13251382",
+      "emirate": "abu-dhabi",
+      "name_en": "Oasis",
+      "name_ar": "",
+      "osm": "way/493730070",
+      "kind": "residential",
+      "lat": 24.840821,
+      "lon": 55.024966,
+      "variants": 1
+    },
+    {
       "id": "abu-dhabi/obaid-bilartee-al-humairi-street",
       "area": "al-fou-ah-13251422",
       "emirate": "abu-dhabi",
@@ -88716,18 +88560,6 @@ window.KB = {
       "kind": "secondary",
       "lat": 24.42954,
       "lon": 54.582452,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/obr06",
-      "area": "al-hadwaniyyah-13251476",
-      "emirate": "abu-dhabi",
-      "name_en": "OBR06",
-      "name_ar": "",
-      "osm": "way/451705524",
-      "kind": "unclassified",
-      "lat": 24.058642,
-      "lon": 53.358173,
       "variants": 1
     },
     {
@@ -88956,30 +88788,6 @@ window.KB = {
       "kind": "residential",
       "lat": 24.450445,
       "lon": 54.398743,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/plaza-drive",
-      "area": "al-saadiyat-island-13251326",
-      "emirate": "abu-dhabi",
-      "name_en": "Plaza Drive",
-      "name_ar": "",
-      "osm": "way/685946497",
-      "kind": "residential",
-      "lat": 24.56524,
-      "lon": 54.45888,
-      "variants": 2
-    },
-    {
-      "id": "abu-dhabi/plot-no-m-26",
-      "area": "musaffah-13251450",
-      "emirate": "abu-dhabi",
-      "name_en": "Plot No. M-26",
-      "name_ar": "",
-      "osm": "way/99894725",
-      "kind": "unclassified",
-      "lat": 24.355261,
-      "lon": 54.522593,
       "variants": 1
     },
     {
@@ -91080,246 +90888,6 @@ window.KB = {
       "kind": "residential",
       "lat": 24.267165,
       "lon": 54.657454,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra02",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA02",
-      "name_ar": "",
-      "osm": "way/117623766",
-      "kind": "tertiary",
-      "lat": 24.094381,
-      "lon": 52.64062,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra04",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA04",
-      "name_ar": "",
-      "osm": "way/205749553",
-      "kind": "unclassified",
-      "lat": 24.090514,
-      "lon": 52.638558,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra05",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA05",
-      "name_ar": "",
-      "osm": "way/156430894",
-      "kind": "residential",
-      "lat": 24.088085,
-      "lon": 52.639838,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra07",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA07",
-      "name_ar": "",
-      "osm": "way/156430895",
-      "kind": "residential",
-      "lat": 24.085165,
-      "lon": 52.639975,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra09",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA09",
-      "name_ar": "",
-      "osm": "way/117623758",
-      "kind": "tertiary",
-      "lat": 24.086473,
-      "lon": 52.651314,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra10",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA10",
-      "name_ar": "",
-      "osm": "way/156430893",
-      "kind": "tertiary",
-      "lat": 24.085287,
-      "lon": 52.648654,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra12",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA12",
-      "name_ar": "",
-      "osm": "way/156190544",
-      "kind": "residential",
-      "lat": 24.084617,
-      "lon": 52.64425,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra13",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA13",
-      "name_ar": "",
-      "osm": "way/156191165",
-      "kind": "residential",
-      "lat": 24.083158,
-      "lon": 52.641027,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra14",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA14",
-      "name_ar": "",
-      "osm": "way/205715133",
-      "kind": "unclassified",
-      "lat": 24.086124,
-      "lon": 52.656246,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra15",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA15",
-      "name_ar": "",
-      "osm": "way/117623763",
-      "kind": "residential",
-      "lat": 24.084406,
-      "lon": 52.652408,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra16",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA16",
-      "name_ar": "",
-      "osm": "way/156430378",
-      "kind": "residential",
-      "lat": 24.083221,
-      "lon": 52.649752,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra17",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA17",
-      "name_ar": "",
-      "osm": "way/156190656",
-      "kind": "residential",
-      "lat": 24.081514,
-      "lon": 52.645909,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra19",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA19",
-      "name_ar": "",
-      "osm": "way/24415379",
-      "kind": "tertiary",
-      "lat": 24.081172,
-      "lon": 52.650897,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra20",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA20",
-      "name_ar": "",
-      "osm": "way/117623762",
-      "kind": "tertiary",
-      "lat": 24.082355,
-      "lon": 52.653503,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra21",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA21",
-      "name_ar": "",
-      "osm": "way/117623767",
-      "kind": "tertiary",
-      "lat": 24.08351,
-      "lon": 52.656069,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra23",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA23",
-      "name_ar": "",
-      "osm": "way/24415381",
-      "kind": "tertiary",
-      "lat": 24.076787,
-      "lon": 52.653285,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra24",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA24",
-      "name_ar": "",
-      "osm": "way/24415383",
-      "kind": "tertiary",
-      "lat": 24.077899,
-      "lon": 52.655872,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra25",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA25",
-      "name_ar": "",
-      "osm": "way/205445330",
-      "kind": "tertiary",
-      "lat": 24.07649,
-      "lon": 52.665026,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra26",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA26",
-      "name_ar": "",
-      "osm": "way/205445325",
-      "kind": "tertiary",
-      "lat": 24.07792,
-      "lon": 52.668825,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/ra27",
-      "area": "al-ruways-industrial-city-13251475",
-      "emirate": "abu-dhabi",
-      "name_en": "RA27",
-      "name_ar": "",
-      "osm": "way/205424607",
-      "kind": "tertiary",
-      "lat": 24.081093,
-      "lon": 52.671229,
       "variants": 1
     },
     {
@@ -101004,30 +100572,6 @@ window.KB = {
       "kind": "residential",
       "lat": 24.342381,
       "lon": 54.531236,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/street-1-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Street 1, Waterfall",
-      "name_ar": "",
-      "osm": "way/360690504",
-      "kind": "residential",
-      "lat": 24.843923,
-      "lon": 55.026672,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/street-5-waterfall",
-      "area": "al-layyan-13251382",
-      "emirate": "abu-dhabi",
-      "name_en": "Street 5, Waterfall",
-      "name_ar": "شارع ٥",
-      "osm": "way/360690488",
-      "kind": "residential",
-      "lat": 24.844716,
-      "lon": 55.024202,
       "variants": 1
     },
     {
@@ -111075,6 +110619,18 @@ window.KB = {
       "variants": 1
     },
     {
+      "id": "abu-dhabi/waterfall",
+      "area": "al-layyan-13251382",
+      "emirate": "abu-dhabi",
+      "name_en": "Waterfall",
+      "name_ar": "شارع ٥",
+      "osm": "way/360690485",
+      "kind": "residential",
+      "lat": 24.842387,
+      "lon": 55.023325,
+      "variants": 40
+    },
+    {
       "id": "abu-dhabi/waterfall-avenue",
       "area": "al-layyan-13251382",
       "emirate": "abu-dhabi",
@@ -115284,18 +114840,6 @@ window.KB = {
       "kind": "secondary",
       "lat": 25.385818,
       "lon": 55.484508,
-      "variants": 1
-    },
-    {
-      "id": "dubai/2020-boulevard",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "2020 Boulevard",
-      "name_ar": "",
-      "osm": "way/611657208",
-      "kind": "tertiary",
-      "lat": 24.96637,
-      "lon": 55.15433,
       "variants": 1
     },
     {
