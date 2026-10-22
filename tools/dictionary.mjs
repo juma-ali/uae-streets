@@ -65,6 +65,7 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "بدع": "water source, well (in Liwa place names)",
   "عقبات": "mountain passes",
   "عقاب": "mountain pass, steep ascent",
   "عقب": "mountain pass, steep ascent",

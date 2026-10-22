@@ -585,5 +585,22 @@ window.STREETS = [
     refs: [
       { label: "الموسوعة العربية — أبان بن عثمان", url: "https://arab-ency.com.sy/details/1456" }
     ]
+  },
+  {
+    id: "abdulhadi-bin-daen-al-hameli-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "documented",
+    ar: "شارع عبدالهادي بن ضاعن الهاملي",
+    en: "Abdulhadi Bin Daen Al Hameli Street",
+    translit: "Shāriʿ ʿAbd al-Hādī bin Ḍāʿin al-Hāmlī",
+    meaning: { en: "A poet of Al Dhafra, known for the taghrooda", ar: "شاعر من الظفرة اشتهر بفنّ التغرودة" },
+    story: {
+      en: "Abdulhadi bin Daen Al Hameli (c. 1850 — early 20th century) was one of the poets of Al Dhafra known for the taghrooda, the Bedouin sung poem. He spent the hot season at Madhhar Al Sabkha in Liwa, and in winter took his family and camels to Batanat Liwa, to a water source called Bad' Hilees that he owned, about four kilometres east of Al 'Asab. He was a contemporary and friend of the poets Sa'id bin 'Utaij Al Hameli and Salem bin Mahsh Al Hameli.",
+      ar: "عبدالهادي بن ضاعن الهاملي (نحو ١٨٥٠م — أوائل القرن العشرين) أحد شعراء الظفرة الذين اشتهروا بفنّ التغرودة. كان يقيم في القيظ في محضر الصبخة في ليوا، وفي الشتاء يذهب بأهله وإبله إلى بطانة ليوا عند مورد ماء يُسمّى «بدع حليس» يملكه، ويقع شرق العصب بنحو أربعة كيلومترات. وكان معاصراً وصديقاً للشاعرين سعيد بن عتيج الهاملي وسالم بن محش الهاملي."
+    },
+    refs: [
+      { label: "شعراء الظفرة — عبد الهادي بن ضاعن الهاملي", url: "http://shuaraaldhafrh.blogspot.com/2012/04/blog-post_15.html" }
+    ]
   }
 ];
