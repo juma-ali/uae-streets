@@ -267,6 +267,19 @@ Built with plain HTML, CSS and JavaScript. Type: Fraunces, Inter, IBM Plex Sans 
 Content compiled from public sources; local accounts are labelled as such.
 
 
+### What counts as a source
+
+A `refs` entry needs a name and a URL. In order of preference:
+
+1. a municipal or institutional publication (Abu Dhabi DMT, Dubai Culture);
+2. a named study or journal — e.g. **مؤسسة الموروث للدراسات الإماراتية**, which
+   documents studies based on the UAE's oral heritage (its journal is *الموروث*);
+3. an encyclopaedia entry that states the same fact;
+4. the institution's own channel, when nothing better is published — label it as
+   such, so the card does not imply more than it has.
+
+An entry with no `refs` stays `origin: "account"`, and its card says so plainly.
+
 ### Route numbers
 
 `route:` — the official route number where the road has one (`E 66`, `D 94`). It

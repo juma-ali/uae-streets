@@ -251,11 +251,12 @@ window.STREETS = [
     
     route: "E 66",
     refs: [
-      { label: "E 66 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" }
+      { label: "E 66 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" },
+      { label: "مؤسسة الموروث للدراسات الإماراتية — دراسة في الموروث الشفهي (via @bnaculture)", url: "https://www.instagram.com/bnaculture/" }
     ],id: "oud-metha-road",
     emirate: "dubai",
     category: "person",
-    origin: "account",
+    origin: "documented",
     ar: "شارع عود ميثا",
     en: "Oud Metha Road",
     translit: "Shāriʿ ʿŪd Maythā",
