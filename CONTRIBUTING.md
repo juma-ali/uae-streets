@@ -36,6 +36,7 @@ Double-click `index.html`. That's it.
 | `tools/kb-country.mjs` | Country build: emirate + district assignment for all seven | the main KB build |
 | `tools/verify.mjs` | Builds `.review/verify.html`: 50 stratified, risk-first streets, one click each | you are verifying names by hand |
 | `tools/wiki-check.mjs` | Cross-checks Dubai roads against Wikipedia's route lists | you want an independent signal |
+| `tools/web-check.mjs` | Corroborates a few names through a local SearXNG (rate-limited — see WEB-CHECK.md) | answering "does this road exist?" |
 | `tools/audit.mjs` | Internal integrity checks; emits a stratified sample for cross-checking | before publishing, after a big import |
 | `tools/wiki-build.mjs` | Generates `directory/`: 358 browse pages + `search.html` + the search index | the KB changed |
 | `tools/templates/search.html` | The search page template (hand-edited, copied on build) | you change search behaviour |
