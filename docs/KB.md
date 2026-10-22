@@ -143,9 +143,16 @@ duplicated.
 
 22 of the 27 curated entries resolve to a street here. Their rows carry a `story`
 badge linking to `../index.html#street=<id>`, and the guide's detail sheet links
-back to a directory search for the same name. The other five — Muroor Road,
-Electra Street, Khalifa Street, Buhairah Corniche, Sheikh Rashid bin Ahmad Al
-Mualla Street — exist in the guide but not, under those names, in OpenStreetMap.
+back to a directory search for the same name. The guide keeps the names people use; OSM carries the names on the signs. Two of
+those are official renames and are linked through aliases:
+
+- **Electra Street → Zayed The First Street**
+- **Muroor Road → Sultan Bin Zayed The First Street**
+
+Both stories hang off the renamed street, so that row shows two badges. Three
+remain unlinked because the match is genuinely ambiguous: Khalifa Street (Abu
+Dhabi), Buhairah Corniche (Sharjah), Sheikh Rashid bin Ahmad Al Mualla Street
+(Umm Al Quwain).
 
 ## Meanings belong elsewhere
 

@@ -34,6 +34,9 @@ const ALIAS = {
   "Al Najda Street": "Al Najdah Street",
   "Oud Metha Road": "Oud Maitha Road",
   "Sheikh Mohammed bin Salem Street": "Sheikh Mohammad Bin Salem Road",
+  // Abu Dhabi renamed these; the guide keeps the names people use.
+  "Electra Street": "Zayed The First Street",
+  "Muroor Road": "Sultan Bin Zayed The First Street",
 };
 
 const normName = (s) =>
@@ -47,12 +50,12 @@ for (const s of KB.streets) {
   byName.set(normName(s.name_ar) + "|" + s.emirate, s);
 }
 /* storyOf[osm] = editorial id, so a table row can link back to the guide. */
-const storyOf = new Map();
+const storyOf = new Map(); // osm -> [editorial ids]
 const unlinked = [];
 for (const e of EDITORIAL) {
   const wanted = ALIAS[e.en] || e.en;
   const hit = byName.get(normName(wanted) + "|" + e.emirate) || byName.get(normName(e.ar) + "|" + e.emirate);
-  if (hit) storyOf.set(hit.osm, e.id);
+  if (hit) { if (!storyOf.has(hit.osm)) storyOf.set(hit.osm, []); storyOf.get(hit.osm).push({ id: e.id, label: e.en }); }
   else unlinked.push(e.en);
 }
 console.log(`stories : ${storyOf.size} linked of ${EDITORIAL.length} — unmapped: ${unlinked.join(", ")}`);
@@ -302,7 +305,7 @@ ${
       .sort((a, b) => (a.name_en || a.name_ar).localeCompare(b.name_en || b.name_ar))
       .map(
         (s) =>
-          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? ` <a class="badge" href="../../index.html#street=${esc(storyOf.get(s.osm))}">${bi("story", "قصة")}</a>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
+          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
       )
       .join("\n");
 
