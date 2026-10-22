@@ -602,5 +602,20 @@ window.STREETS = [
     refs: [
       { label: "شعراء الظفرة — عبد الهادي بن ضاعن الهاملي", url: "http://shuaraaldhafrh.blogspot.com/2012/04/blog-post_15.html" }
     ]
+  },
+  {
+    id: "abdulhadi-bin-shaaban-al-mansouri-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "account",
+    ar: "شارع عبدالهادي بن شعبان المنصوري",
+    en: "Abdulhadi Bin Shaaban Al Mansouri Street",
+    translit: "Shāriʿ ʿAbd al-Hādī bin Shaʿbān al-Manṣūrī",
+    meaning: { en: "A Nabati poet of Liwa", ar: "شاعر نبطي من ليوا" },
+    story: {
+      en: "Abdulhadi bin Shaaban Al Matyou'i Al Mansouri, known as Abdulhadi bin Shaaban Al Shatheeb, was an Emirati Nabati poet, counted among the mukhadramin — the poets who span two eras. He was born in the early nineteenth century in Liwa, in the Al Dhafra region of Abu Dhabi.",
+      ar: "عبدالهادي بن شعبان المطيوعي المنصوري، المعروف بعبدالهادي بن شعبان آل شظيب، شاعر إماراتي بارز من شعراء النبط المخضرمين، وُلد في أوائل القرن التاسع عشر في منطقة ليوا بإمارة أبوظبي."
+    },
+    refs: []
   }
 ];
