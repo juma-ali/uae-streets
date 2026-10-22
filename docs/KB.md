@@ -157,7 +157,7 @@ duplicated.
 
 ## Two-way links to the guide
 
-22 of the 27 curated entries resolve to a street here. Their rows carry a `story`
+30 of the 34 curated entries resolve to a street here. Their rows carry a `story`
 badge linking to `../index.html#street=<id>`, and the guide's detail sheet links
 back to a directory search for the same name. The guide keeps the names people use; OSM carries the names on the signs. Two of
 those are official renames and are linked through aliases:

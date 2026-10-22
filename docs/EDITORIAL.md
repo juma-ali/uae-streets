@@ -65,4 +65,4 @@ contributor can tell which one they tripped and why.
 
 If a genuine fact trips a rule (for example the word "alliance" in the name of a
 place), rewrite the sentence rather than weakening the pattern: the pattern is
-what keeps the register consistent across 27 entries and two languages.
+what keeps the register consistent across 34 entries and two languages.

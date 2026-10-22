@@ -431,4 +431,110 @@ window.STREETS = [
       ar: "الشارع الرئيسي في الفجيرة يحمل اسم الشيخ حمد بن عبدالله الشرقي الذي حكم بين 1938 و1974. وآل الشرقي يحكمون الفجيرة منذ القرن التاسع عشر، ويمرّ الشارع في البلدة التي نمت بين الجبال وخليج عُمان."
     }
   }
+,
+  {
+    id: "al-istiqlal-street",
+    emirate: "abu-dhabi",
+    category: "event",
+    origin: "documented",
+    ar: "شارع الاستقلال",
+    en: "Al Istiqlal Street",
+    translit: "Shāriʿ al-Istiqlāl",
+    meaning: { en: "Independence", ar: "الاستقلال" },
+    story: {
+      en: "Istiqlal is the Arabic word for independence. The UAE's treaty arrangements with Britain ended in December 1971 and the federation was proclaimed on 2 December that year; streets carrying the word mark that moment. This one runs in Bani Yas, on the mainland west of Abu Dhabi city.",
+      ar: "«الاستقلال» كلمة تحمل تاريخ الدولة: انتهت الترتيبات المعاهدية مع بريطانيا في ديسمبر 1971، وأُعلن الاتحاد في الثاني من ديسمبر من العام نفسه، فحملت شوارع الاسم ذكرى تلك اللحظة. وهذا الشارع في بني ياس، غرب مدينة أبوظبي."
+    },
+    refs: [{ label: "United Arab Emirates — Wikipedia", url: "https://en.wikipedia.org/wiki/United_Arab_Emirates" }]
+  },
+  {
+    id: "al-ihtifal-street",
+    emirate: "abu-dhabi",
+    category: "event",
+    origin: "documented",
+    ar: "شارع الاحتفال",
+    en: "Al Ihtifal Street",
+    translit: "Shāriʿ al-Iḥtifāl",
+    meaning: { en: "Celebration", ar: "الاحتفال" },
+    story: {
+      en: "Ihtifal means celebration. The name belongs to the vocabulary of the newer residential districts, where streets carry ideas rather than people or places. This one lies in Al Sarouj, in Al Ain.",
+      ar: "«الاحتفال» من مفردات تسمية الأحياء الحديثة، حيث تحمل الشوارع معاني مجرّدة بدل أسماء الأشخاص والأماكن. ويقع هذا الشارع في الساروج بالعين."
+    },
+    refs: []
+  },
+  {
+    id: "al-ihtifalat-street",
+    emirate: "abu-dhabi",
+    category: "event",
+    origin: "documented",
+    ar: "شارع الاحتفالات",
+    en: "Al Ihtifalat Street",
+    translit: "Shāriʿ al-Iḥtifālāt",
+    meaning: { en: "Celebrations", ar: "الاحتفالات" },
+    story: {
+      en: "Ihtifalat is the plural — celebrations. It sits in Khalifa City, Abu Dhabi, among streets named for concepts rather than individuals.",
+      ar: "«الاحتفالات» جمع الاحتفال، ويقع الشارع في مدينة خليفة بأبوظبي، بين شوارع سُمّيت بمعانٍ مجرّدة لا بأسماء أفراد."
+    },
+    refs: []
+  },
+  {
+    id: "al-mihrajan-street",
+    emirate: "abu-dhabi",
+    category: "event",
+    origin: "documented",
+    ar: "شارع المهرجان",
+    en: "Al Mihrajan Street",
+    translit: "Shāriʿ al-Mihrajān",
+    meaning: { en: "Festival", ar: "المهرجان" },
+    story: {
+      en: "Mihrajan means festival. In Al Jimi, Al Ain, it takes its place among the word-named streets of the newer districts.",
+      ar: "«المهرجان» اسم معروف، ويقع الشارع في الجيمي بالعين، بين شوارع الأحياء الحديثة التي سُمّيت بالمعاني."
+    },
+    refs: []
+  },
+  {
+    id: "expo-road",
+    emirate: "dubai",
+    category: "event",
+    origin: "documented",
+    ar: "شارع إكسبو",
+    en: "Expo Road",
+    translit: "Shāriʿ Eksbū",
+    meaning: { en: "Named for Expo 2020 Dubai", ar: "نسبة إلى إكسبو 2020 دبي" },
+    story: {
+      en: "Named for Expo 2020 Dubai, the world exposition hosted from October 2021 to March 2022. Its site lies south-west of the city near Jebel Ali, and this trunk road serves it.",
+      ar: "سُمّي باسم إكسبو 2020 دبي، المعرض العالمي الذي استضافته المدينة بين أكتوبر 2021 ومارس 2022. ويقع موقعه جنوب غرب المدينة قرب جبل علي، ويخدمه هذا الطريق الرئيسي."
+    },
+    refs: [{ label: "Expo 2020 — Wikipedia", url: "https://en.wikipedia.org/wiki/Expo_2020" }]
+  },
+  {
+    id: "expo-village-boulevard",
+    emirate: "dubai",
+    category: "event",
+    origin: "documented",
+    ar: "جادة إكسبو فيليج",
+    en: "Expo Village Boulevard",
+    translit: "Jādat Eksbū Fīlīj",
+    meaning: { en: "The boulevard through Expo Village", ar: "جادة قرية إكسبو" },
+    story: {
+      en: "The boulevard through Expo Village, the residential quarter built to house people working at Expo 2020 Dubai.",
+      ar: "جادة تمرّ في «قرية إكسبو»، الحي السكني الذي بُني لإسكان العاملين في إكسبو 2020 دبي."
+    },
+    refs: [{ label: "Expo 2020 — Wikipedia", url: "https://en.wikipedia.org/wiki/Expo_2020" }]
+  },
+  {
+    id: "festival-boulevard",
+    emirate: "dubai",
+    category: "event",
+    origin: "documented",
+    ar: "جادة المهرجان",
+    en: "Festival Boulevard",
+    translit: "Jādat al-Mahrajān",
+    meaning: { en: "Named for the Dubai Shopping Festival", ar: "نسبة إلى مهرجان دبي للتسوق" },
+    story: {
+      en: "Named for the Dubai Shopping Festival, the city's annual retail festival, first held in 1996. The boulevard runs through Dubai Festival City.",
+      ar: "سُمّيت باسم مهرجان دبي للتسوق، المهرجان السنوي الذي انطلق عام 1996، وتمرّ الجادة في دبي فستيفال سيتي."
+    },
+    refs: [{ label: "Dubai Shopping Festival — Wikipedia", url: "https://en.wikipedia.org/wiki/Dubai_Shopping_Festival" }]
+  }
 ];

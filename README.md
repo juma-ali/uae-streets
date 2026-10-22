@@ -12,7 +12,7 @@ directory of 11,470 named streets.**
 
 Two halves of one dataset:
 
-- **The guide** explains names. 27 researched entries — a ruler, a tribe, a harbour,
+- **The guide** explains names. 34 researched entries — a ruler, a tribe, a harbour,
   a plain Arabic word — with the story behind each, in both languages.
 - **The directory** lists them. Every named street collected from OpenStreetMap,
   grouped **emirate → district**, searchable, and bilingual throughout.
@@ -27,7 +27,7 @@ Both are static: no framework, no build step, no trackers.
 
 **The guide**
 
-- **27 streets, all seven emirates** — from Sheikh Zayed Road to a single street in
+- **34 streets, all seven emirates** — from Sheikh Zayed Road to a single street in
   Umm Al Quwain.
 - **Five naming patterns** — people, places, words, tribes, events.
 - **Three sourcing states**, printed on every card: `documented` (on the record),
@@ -60,7 +60,7 @@ Three files, one story:
 
 | File | What it is | Licence |
 |---|---|---|
-| [`data/streets.js`](data/streets.js) | The 27 editorial entries | CC BY 4.0 |
+| [`data/streets.js`](data/streets.js) | The 34 editorial entries | CC BY 4.0 |
 | [`data/kb.js`](data/kb.js) | 11,470 streets, 344 districts, 7 emirates | **ODbL** |
 | [`directory/`](directory/) | 358 generated pages + search index | **ODbL** |
 
@@ -142,13 +142,13 @@ Street names and coordinates © [OpenStreetMap contributors](https://www.openstr
 
 ## License
 
-Code is MIT; the 27 editorial entries are CC BY 4.0; the knowledge base and the
+Code is MIT; the 34 editorial entries are CC BY 4.0; the knowledge base and the
 generated directory are ODbL 1.0. See [LICENSE](LICENSE).
 
 ## Status
 
 Live at **[juma-ali.github.io/uae-streets](https://juma-ali.github.io/uae-streets/)**,
-served from this repository by GitHub Pages. The guide's 27 entries are reviewed;
+served from this repository by GitHub Pages. The guide's 34 entries are reviewed;
 the directory follows OpenStreetMap, including its gaps — 13 streets the guide or
 Wikipedia knows about that OSM does not yet name are tracked in
 [docs/ROADMAP.md](docs/ROADMAP.md).

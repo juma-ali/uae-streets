@@ -27,7 +27,7 @@ Double-click `index.html`. That's it.
 | `index.html` | Page structure + all fixed text (each string has an `data-en` and `data-ar` twin) | you want to change headings, the “How names work” section, or the footer |
 | `assets/css/styles.css` | Design tokens, layout, dark mode, RTL | you want different colours, type, spacing |
 | `assets/js/app.js` | Search, filters, detail panel, language + theme, URL state | you want new behaviour |
-| `data/streets.js` | **The content.** All 27 streets live here; optional `former:` / `now:` record renames | you add or correct a street |
+| `data/streets.js` | **The content.** All 34 streets live here; optional `former:` / `now:` record renames | you add or correct a street |
 | `data/kb.js` | Knowledge base: 11,567 streets, 7 emirates, 344 districts (ODbL) — rules in `docs/KB.md` | regenerate with the tools below |
 | `tools/pbf-import.mjs` | Reads the UAE extract offline and emits roads for one or more bboxes | the primary collector |
 | `tools/pbf-boundaries.mjs` | Stitches admin boundaries from the PBF into rings | districts are missing or wrong |
@@ -220,7 +220,7 @@ authoritative:
 
 - The browser Back button does not close the street panel (the URL is updated with
   `replaceState`, not a history entry). Esc, ✕, or a backdrop click does.
-- The dataset is deliberately small — 27 streets, not a gazetteer.
+- The dataset is deliberately small — 34 streets, not a gazetteer.
 - Arabic and English stories are editorial summaries, not official translations.
 - No map yet. Adding coordinates to each entry plus Leaflet would be the natural
   next step.

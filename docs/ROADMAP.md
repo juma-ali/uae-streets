@@ -96,7 +96,7 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
       removed 42 rows that had Arabic text in the English field.
 - [x] **Bilingual directory** — every page has an EN/AR toggle, RTL layout, Arabic
       district names and Arabic-Indic numerals.
-- [x] **Story cross-links** — 22 of the 27 editorial entries badge their street in
+- [x] **Story cross-links** — 30 of the 34 editorial entries badge their street in
       the directory tables and link back to the guide; the guide's sheet links to the
       directory. **3 stories still unlinked**: Khalifa Street, Buhairah Corniche, Sheikh Rashid bin
       Ahmad Al Mualla Street — ambiguous matches, pending local confirmation. Muroor
