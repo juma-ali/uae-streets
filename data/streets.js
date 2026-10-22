@@ -162,7 +162,8 @@ window.STREETS = [
     
     route: "D 94",
     refs: [
-      { label: "D 94 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" }
+      { label: "D 94 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" },
+      { label: "Jumeirah Archaeological Site — Wikipedia", url: "https://en.wikipedia.org/wiki/Jumeirah" }
     ],id: "jumeirah-road",
     emirate: "dubai",
     category: "place",
