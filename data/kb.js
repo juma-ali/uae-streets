@@ -10,49 +10,63 @@ window.KB = {
       "osm": "relation/3766481",
       "name_en": "Abu Dhabi Emirate",
       "name_ar": "أبو ظبي",
-      "street_count": 8967
+      "street_count": 8967,
+      "roads_total": 42868,
+      "numeric_skipped": 3509
     },
     {
       "id": "ajman",
       "osm": "relation/3766482",
       "name_en": "Ajman Emirate",
       "name_ar": "إمارة عجمان",
-      "street_count": 111
+      "street_count": 111,
+      "roads_total": 2009,
+      "numeric_skipped": 1243
     },
     {
       "id": "dubai",
       "osm": "relation/3766483",
       "name_en": "Dubai Emirate",
       "name_ar": "دبي",
-      "street_count": 934
+      "street_count": 934,
+      "roads_total": 23960,
+      "numeric_skipped": 14502
     },
     {
       "id": "fujairah",
       "osm": "relation/3766484",
       "name_en": "Fujairah Emirate",
       "name_ar": "الفجيرة",
-      "street_count": 79
+      "street_count": 79,
+      "roads_total": 1029,
+      "numeric_skipped": 0
     },
     {
       "id": "ras-al-khaimah",
       "osm": "relation/3766485",
       "name_en": "Ras al-Khaimah Emirate",
       "name_ar": "رأس الخيمة",
-      "street_count": 92
+      "street_count": 92,
+      "roads_total": 741,
+      "numeric_skipped": 104
     },
     {
       "id": "sharjah",
       "osm": "relation/3766486",
       "name_en": "Sharjah Emirate",
       "name_ar": "الشارقة",
-      "street_count": 881
+      "street_count": 881,
+      "roads_total": 5555,
+      "numeric_skipped": 2307
     },
     {
       "id": "umm-al-quwain",
       "osm": "relation/3766487",
       "name_en": "Umm al-Quwain Emirate",
       "name_ar": "أم القيوين",
-      "street_count": 466
+      "street_count": 466,
+      "roads_total": 1217,
+      "numeric_skipped": 0
     }
   ],
   "areas": [

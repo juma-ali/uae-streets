@@ -143,8 +143,6 @@ for (const el of roads) {
   // Normalise first, then judge: "1 Saheel Street" is Saheel Street, not a number.
   const en = baseName(rawEn);
   const ar = baseName(rawAr);
-  if (en && numericOnly(en)) { skippedNumeric++; continue; }
-  if (!en && !ar) { skippedNumeric++; continue; }
 
   const c = el.center;
   if (!c) continue;
@@ -154,9 +152,23 @@ for (const el of roads) {
   const emId = EMIRATE_NAMES[emKey];
   if (!emId) { outside.count++; continue; }
 
+  // Per-emirate counters, so the directory can explain why a page is thin
+  // rather than just being thin.
+  if (!emirates.has(emId)) {
+    emirates.set(emId, {
+      id: emId, osm: em.osm, name_en: em.name_en, name_ar: em.name_ar,
+      street_count: 0, roads_total: 0, numeric_skipped: 0,
+    });
+  }
+  const emRec = emirates.get(emId);
+  emRec.roads_total++;
+
+  if (en && numericOnly(en)) { emRec.numeric_skipped++; skippedNumeric++; continue; }
+  if (!en && !ar) { emRec.numeric_skipped++; skippedNumeric++; continue; }
+
   const key = (en || ar).toLowerCase();
 
-  if (!byEmirateName.has(emId)) { byEmirateName.set(emId, new Map()); emirates.set(emId, { id: emId, osm: em.osm, name_en: em.name_en, name_ar: em.name_ar, street_count: 0 }); }
+  if (!byEmirateName.has(emId)) byEmirateName.set(emId, new Map());
   const bucket = byEmirateName.get(emId);
   const prev = bucket.get(key);
   if (prev) {

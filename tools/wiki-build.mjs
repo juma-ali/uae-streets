@@ -120,6 +120,13 @@ for (const [em, rows] of emirates) {
   mkdirSync(out + "/" + em, { recursive: true });
   const areas = KB.areas.filter((a) => a.path[0] && rows.some((r) => r.area === a.id));
   const noDistrict = rows.filter((r) => !r.area);
+  const emRec = KB.emirates.find((e) => e.id === em) || {};
+  // Say why a page is thin, with the number, instead of leaving the reader to guess.
+  // Say why a page is thin, with the number, instead of leaving the reader to guess.
+  const numericNote =
+    emRec.numeric_skipped && emRec.numeric_skipped / emRec.roads_total >= 0.2
+      ? `<p class="note">OpenStreetMap names ${emRec.roads_total.toLocaleString("en")} roads in ${esc(EMIRATE_LABEL[em] || em)}. ${emRec.numeric_skipped.toLocaleString("en")} of them — ${Math.round((100 * emRec.numeric_skipped) / emRec.roads_total)}% — are plot numbers such as &ldquo;12A Street&rdquo;, excluded by design. The ${rows.length.toLocaleString("en")} below are the ones that carry a name.</p>`
+      : "";
 
   const body = `
 <p class="crumb"><a href="../index.html">United Arab Emirates</a> &rsaquo; ${esc(EMIRATE_LABEL[em] || em)}</p>
@@ -129,6 +136,7 @@ for (const [em, rows] of emirates) {
   <button type="submit">Search</button>
 </form>
 <p class="lede">${rows.length.toLocaleString("en")} streets${areas.length ? ` in ${areas.length} districts` : ""}${noDistrict.length ? `, plus ${noDistrict.length.toLocaleString("en")} without a district boundary` : ""}.</p>
+${numericNote}
 <ul class="list">
 ${areas
   .map((a) => {
