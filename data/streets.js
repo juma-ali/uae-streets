@@ -259,10 +259,10 @@ window.STREETS = [
     ar: "شارع عود ميثا",
     en: "Oud Metha Road",
     translit: "Shāriʿ ʿŪd Maythā",
-    meaning: { en: "The oud tree of Maitha", ar: "شجرة عود ميثاء" },
+    meaning: { en: "The oud — the trunk of a ghaf tree", ar: "العود: جذع شجرة الغاف" },
     story: {
-      en: "The account dates the name to about 1879, when Sheikha Maitha placed her son Sheikh Saeed bin Maktoum Al Maktoum — later ruler of Dubai (1912–1958) — in the shade of a large, well-known oud tree at this spot. The place took its name from that tree, Oud Maitha, and the name has remained in use; the district carries it officially today.",
-      ar: "تعود الرواية إلى عام 1879 تقريباً، حين وضعت الشيخة ميثاء ابنها الشيخ سعيد بن مكتوم آل مكتوم — حاكم دبي لاحقاً (1912–1958) — في ظل شجرة «عود» كبيرة ومعروفة في هذا الموضع. فأخذ المكان اسمه من تلك الشجرة، «عود ميثاء»، وبقي الاسم مستخدماً، ويحمله الحي اليوم رسمياً."
+      en: "Oud Maitha carries the name of Sheikha Maitha bint Obaid Al Falasi, mother of Sheikh Saeed bin Maktoum, ruler of Dubai from 1912 to 1958. She spent the winter in Umm Hurair, and her home stood beside a large ghaf tree — an oud is the trunk of a ghaf that has risen and spread — which took her name. Sheikh Saeed was born in its shade around 1879, in the reign of his grandfather Sheikh Hasher bin Maktoum. The land around her house is still known as Fareej Maitha bint Obaid, and the mooring opposite it on the Creek as Mishra' Maitha.",
+      ar: "يحمل عود ميثاء اسم الشيخة ميثاء بنت عبيد الفلاسي، والدة الشيخ سعيد بن مكتوم حاكم دبي (1912–1958). كانت تقضي الشتاء في أم هرير، وكان مسكنها بجانب شجرة غاف كبيرة حملت اسمها، فالعود جذع الغاف إذا ارتفع وتفرّعت أغصانه. وُلد الشيخ سعيد في ظلالها عام 1879 تقريباً، في عهد جدّه الشيخ حشر بن مكتوم. ولا يزال المكان حول مسكنها يُعرف بفريج ميثاء بنت عبيد، ويقابله على الخور «مِشرَع ميثاء» لوقوف القوارب."
     }
   },
   {
