@@ -46,7 +46,7 @@ const GEO_EN = /(^|\s)(tawi|sayh|wadi|jabal|jebel|niqa|arqoub|hadbah|qarn|ras|ja
 
 /* Given names: a street starting with one is named after a person. */
 const GIVEN = new Set(
-  `محمد احمد علي سعيد عمر سيف سعد عبدالله خليفه زايد راشد مكتوم حمدان سلطان طحنون هزاع منصور فيصل خالد سالم حميد ماجد عمار حشر جمعه عبيد ميثاء فاطمه عائشه شما لطيفه مريم حصه سلامه موزه شيخه ريسه مبارك بطي سهيل مروان عيسي موسي يوسف ابراهيم اسحاق اسماعيل جاسم ربيع ثاني سيف سعيد`
+  `محمد احمد علي سعيد عمر سيف سعد عبدالله خليفه زايد راشد مكتوم حمدان سلطان طحنون هزاع منصور فيصل خالد سالم حميد ماجد عمار حشر جمعه عبيد ميثاء فاطمه عائشه شما لطيفه مريم حصه سلامه موزه شيخه ريسه مبارك بطي سهيل مروان عيسي موسي يوسف ابراهيم اسحاق اسماعيل جاسم ربيع ثاني سيف سعيد ثابت عبدالرحمن حبيب حمد تميم`
     .split(/\s+/)
 );
 
@@ -74,7 +74,9 @@ function classify(s) {
 
   // a person: patronymic markers, or a given name as the head
   if (PERSON_EN.test(n) || PERSON_AR.test(norm(a))) return "person";
-  if (GIVEN.has(h)) return "person";
+  // given names may carry the article: `الثابت` is Thabit
+  const hDef = h.replace(/^ال/, "");
+  if (GIVEN.has(h) || GIVEN.has(hDef)) return "person";
   if (tokens.length >= 2 && GIVEN.has(norm(tokens[0]))) return "person";
 
   // a bare family name is a tribe; "given + family" is already a person above
