@@ -162,10 +162,10 @@ window.STREETS = [
     ar: "شارع جميرا",
     en: "Jumeirah Road",
     translit: "Shāriʿ Jumayrā",
-    meaning: { en: "The Jumeirah road", ar: "اسم منطقة، أصله محلّ خلاف" },
+    meaning: { en: "Named after the Jumeirah area", ar: "نسبة إلى منطقة جميرا" },
     story: {
-      en: "Jumeirah is older than the city that grew around it, and its origin is genuinely contested: some trace it to jamr, 'glowing embers', for ground that baked in the sun; others to a word for beauty. What is documented is the place, not the etymology — a good reminder to treat any single explanation with care.",
-      ar: "«جميرا» أقدم من المدينة التي التفّت حولها، وأصل اسمها محلّ خلاف حقيقي: فريق يردّها إلى «الجمر» أي الأرض التي تحترق من الشمس، وآخر إلى معنى الجمال. المؤكد هو المكان لا الاشتقاق، وهو تذكير جيد بأن نتعامل بحذر مع أي تفسير واحد."
+      en: "The street carries the name of the Jumeirah area, where settlement dates back to the 9th to 11th centuries. The Jumeirah Archaeological Site was a major trading station linking Iraq and Oman during the Abbasid Caliphate. For generations the road has marked the life of Dubai's people along the Gulf coast, and it is bound up with the memory of the founding generation.",
+      ar: "يحمل الشارع اسم منطقة جميرا، التي يعود الاستيطان فيها إلى القرنين التاسع والحادي عشر الميلاديين. وكان موقع جميرا الأثري محطة تجارية رئيسية تربط بين العراق وعُمان في زمن الخلافة العباسية. وظلّ الشارع على مدى أجيال شاهداً على حياة أهل دبي على ساحل الخليج العربي، ومرتبطاً بذاكرة جيل المؤسسين."
     }
   },
   {
