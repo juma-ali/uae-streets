@@ -32,6 +32,7 @@
       prev: "Previous",
       next: "Next",
       sheetHint: "Street",
+      route: "Route",
       formerly: "Formerly",
       now: "Now officially",
       meaning: "Meaning",
@@ -55,6 +56,7 @@
       prev: "السابق",
       next: "التالي",
       sheetHint: "شارع",
+      route: "الطريق",
       formerly: "كان يُعرف سابقاً باسم",
       now: "يُعرف رسمياً الآن باسم",
       meaning: "المعنى",
@@ -343,6 +345,7 @@
         '<p class="sheet__emirate">' + esc(em[state.lang]) + " · " + esc(cat[state.lang]) + "</p>" +
         titleBlock +
         (s.translit ? '<p class="sheet__translit" dir="ltr">' + esc(s.translit) + "</p>" : "") +
+        (s.route ? '<p class="sheet__route">' + esc(T.route) + " " + esc(s.route) + "</p>" : "") +
         (s.now ? '<p class="sheet__rename">' + esc(T.now) + " " + esc(s.now[state.lang]) + "</p>" : "") +
         (s.former ? '<p class="sheet__rename">' + esc(T.formerly) + " " + esc(s.former[state.lang]) + "</p>" : "") +
         '<div class="sheet__tags">' +

@@ -141,7 +141,11 @@ window.STREETS = [
     refs: [{ label: "Khaleej Times — when the road had more camels than cars", url: "https://www.khaleejtimes.com/uae/rewind-50-years-when-dubais-sheikh-zayed-road-had-more-camels-than-cars" }]
   },
   {
-    id: "al-wasl-road",
+    
+    route: "D 92",
+    refs: [
+      { label: "D 92 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" }
+    ],id: "al-wasl-road",
     emirate: "dubai",
     category: "word",
     origin: "documented",
@@ -155,7 +159,11 @@ window.STREETS = [
     }
   },
   {
-    id: "jumeirah-road",
+    
+    route: "D 94",
+    refs: [
+      { label: "D 94 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" }
+    ],id: "jumeirah-road",
     emirate: "dubai",
     category: "place",
     origin: "documented",
@@ -239,7 +247,11 @@ window.STREETS = [
     }
   },
   {
-    id: "oud-metha-road",
+    
+    route: "E 66",
+    refs: [
+      { label: "E 66 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" }
+    ],id: "oud-metha-road",
     emirate: "dubai",
     category: "person",
     origin: "documented",

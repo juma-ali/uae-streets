@@ -267,6 +267,13 @@ Built with plain HTML, CSS and JavaScript. Type: Fraunces, Inter, IBM Plex Sans 
 Content compiled from public sources; local accounts are labelled as such.
 
 
+### Route numbers
+
+`route:` — the official route number where the road has one (`E 66`, `D 94`). It
+renders as a line on the card and is the one field a road article can cite without
+also implying it documents the naming story. Wikipedia's *Dubai* article gives
+these in its Road section.
+
 ### Renames
 
 Two optional fields on a street entry, both `{ en, ar }`:
