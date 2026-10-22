@@ -50,6 +50,7 @@ const normName = (s) =>
 
 const byName = new Map();
 const globalByName = new Map(); // a name is the same road family in every emirate
+const globalRows = new Map(); // normalised English name → every row carrying it
 for (const s of KB.streets) {
   byName.set(normName(s.name_en) + "|" + s.emirate, s);
   byName.set(normName(s.name_ar) + "|" + s.emirate, s);
@@ -57,7 +58,10 @@ for (const s of KB.streets) {
   if (s.old_name_ar) byName.set(normName(s.old_name_ar) + "|" + s.emirate, s);
   for (const nm of [s.name_en, s.old_name_en]) {
     const k = normName(nm);
-    if (k && !globalByName.has(k)) globalByName.set(k, s);
+    if (!k) continue;
+    if (!globalByName.has(k)) globalByName.set(k, s);
+    if (!globalRows.has(k)) globalRows.set(k, []);
+    if (!globalRows.get(k).includes(s)) globalRows.get(k).push(s);
   }
 }
 /* storyOf[osm] = editorial id, so a table row can link back to the guide. */
@@ -74,16 +78,25 @@ const SYNONYMS = {
 for (const e of EDITORIAL) {
   const candidates = [e.en, ALIAS[e.en], ...(SYNONYMS[e.en] || [])].filter(Boolean);
   let hit = null;
+  const matched = new Set();
   for (const nm of candidates) {
-    hit = byName.get(normName(nm) + "|" + e.emirate) || globalByName.get(normName(nm));
-    if (hit) break;
+    for (const s of globalRows.get(normName(nm)) || []) matched.add(s);
+    const local = byName.get(normName(nm) + "|" + e.emirate);
+    if (local) matched.add(local);
   }
-  // the Arabic name is a name too, and sometimes the only match
-  if (!hit) hit = byName.get(normName(e.ar) + "|" + e.emirate);
-  if (hit) { if (!storyOf.has(hit.osm)) storyOf.set(hit.osm, []); storyOf.get(hit.osm).push({ id: e.id, label: e.en }); }
-  else unlinked.push(e.en);
+  // the Arabic name is a name too, but only inside its emirate: different roads
+  // share an Arabic name across the country ("شارع البحيرة" is Lake Drive too)
+  const localAr = byName.get(normName(e.ar) + "|" + e.emirate);
+  if (localAr) matched.add(localAr);
+
+  if (matched.size) {
+    for (const s of matched) {
+      if (!storyOf.has(s.osm)) storyOf.set(s.osm, []);
+      storyOf.get(s.osm).push({ id: e.id, label: e.en });
+    }
+  } else unlinked.push(e.en);
 }
-console.log(`stories : ${storyOf.size} linked of ${EDITORIAL.length} — unmapped: ${unlinked.join(", ")}`);
+console.log(`stories : ${EDITORIAL.length - unlinked.length} cards → ${storyOf.size} street rows` + (unlinked.length ? ` · unmapped: ${unlinked.join(", ")}` : ""));
 
 const esc = (s) =>
   String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
