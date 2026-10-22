@@ -101,7 +101,8 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
       directory. **5 stories have no mapped street**: Muroor Road, Electra Street,
       Khalifa Street, Buhairah Corniche, Sheikh Rashid bin Ahmad Al Mualla Street —
       OSM has no road under those names, the same gap class as Dubai's Deira roads.
-- [ ] **Fold `data/index.js` into `data/kb.js`** so there is one facts file.
+- [x] **Removed `data/index.js`** — nothing loaded it any more, and `tools/osm-import.mjs`
+      went with it. One facts file: `data/kb.js`.
 - [x] **All seven emirates** — country-wide import + boundary assignment. Note the
       consequence of the numeric rule: Dubai keeps only 934 named streets out of 23,960
       named roads because 54% are numbered.

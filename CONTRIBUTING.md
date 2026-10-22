@@ -28,7 +28,6 @@ Double-click `index.html`. That's it.
 | `assets/css/styles.css` | Design tokens, layout, dark mode, RTL | you want different colours, type, spacing |
 | `assets/js/app.js` | Search, filters, detail panel, language + theme, URL state | you want new behaviour |
 | `data/streets.js` | **The content.** All 27 streets live here | you add or correct a street |
-| `data/index.js` | Basic index: OSM id, name tags, coordinates (ODbL) | regenerate with `node tools/osm-import.mjs` |
 | `data/kb.js` | Knowledge base: 11,567 streets, 7 emirates, 344 districts (ODbL) — rules in `docs/KB.md` | regenerate with the tools below |
 | `tools/pbf-import.mjs` | Reads the UAE extract offline and emits roads for one or more bboxes | the primary collector |
 | `tools/pbf-boundaries.mjs` | Stitches admin boundaries from the PBF into rings | districts are missing or wrong |
@@ -37,14 +36,13 @@ Double-click `index.html`. That's it.
 | `tools/verify.mjs` | Builds `.review/verify.html`: 50 stratified, risk-first streets, one click each | you are verifying names by hand |
 | `tools/wiki-check.mjs` | Cross-checks Dubai roads against Wikipedia's route lists | you want an independent signal |
 | `tools/web-check.mjs` | Corroborates a few names through a local SearXNG (rate-limited — see WEB-CHECK.md) | answering "does this road exist?" |
-| `tools/audit.mjs` | Internal integrity checks; emits a stratified sample for cross-checking | before publishing, after a big import |
+| `tools/audit.mjs` | Integrity checks; `--assert` is the CI gate on KB invariants | before publishing, after a big import | Internal integrity checks; emits a stratified sample for cross-checking | before publishing, after a big import |
 | `tools/wiki-build.mjs` | Generates `directory/`: 358 browse pages + `search.html` + the search index | the KB changed |
 | `tools/templates/search.html` | The search page template (hand-edited, copied on build) | you change search behaviour |
 | `directory/` | Generated browse pages (emirates → districts → streets) | never edited by hand |
 | `tools/kb-collect.mjs` | Overpass fallback: collects an area's roads in bbox tiles | when no extract is at hand |
 | `tools/osm-district.mjs` | Lists named streets in a bounding box (cached) | you want a worklist, not a collection |
 | `tools/kb-build.mjs` | Turns a cached collection into `data/kb.js` rows | you add a district |
-| `tools/osm-import.mjs` | Builds `data/index.js` from OpenStreetMap | you change the matching rules |
 | `CITATION.cff` | Citation metadata for anyone reusing the dataset | you want your name on it |
 | `LICENSE` | MIT for the code; the content is CC BY 4.0 (see §12) | — |
 | `README.md` | Visitor-facing front page — GitHub renders it | the project's story or feature list changes |

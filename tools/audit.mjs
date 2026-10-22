@@ -148,6 +148,30 @@ for (const c of checks) console.log("  " + c.name.padEnd(36) + String(c.rows.len
 console.log("\nwrote docs/AUDIT.md");
 
 /* ---------------- stratified sample ---------------- */
+/* ---------- assertions (CI gate) ---------- */
+const strict = process.argv.includes("--assert");
+if (strict) {
+  const AR = /[\u0600-\u06FF]/;
+  const problems = [];
+  const bad = (label, list) => { if (list.length) problems.push(label + ": " + list.length + " — e.g. " + list.slice(0, 3).map((s) => s.name_en || s.name_ar || s.osm).join(" · ")); };
+
+  bad("name_en contains Arabic (OSM wiki convention: name is Arabic)", S.filter((s) => AR.test(s.name_en || "")));
+  bad("numeric-only names leaked past the filter", S.filter((s) => s.name_en && /^(?:street|road|lane|court)?\s*\d+[a-z]?$/i.test(s.name_en.trim())));
+  bad("duplicate OSM ids", S.filter((s, i) => S.findIndex((x) => x.osm === s.osm) !== i));
+  bad("missing coordinates", S.filter((s) => !Number.isFinite(s.lat) || !Number.isFinite(s.lon)));
+  bad("unknown emirate", S.filter((s) => !["abu-dhabi","dubai","sharjah","ajman","umm-al-quwain","ras-al-khaimah","fujairah"].includes(s.emirate)));
+  bad("area rows that no street references", KB.areas.filter((a) => !S.some((s) => s.area === a.id)));
+  bad("areas without a four-level path", KB.areas.filter((a) => !Array.isArray(a.path) || a.path.length !== 4));
+
+  if (problems.length) {
+    console.error("KB assertions failed:");
+    problems.forEach((p) => console.error("  ✗ " + p));
+    process.exit(1);
+  }
+  console.log("KB assertions passed: " + S.length + " streets, " + KB.areas.length + " districts.");
+  process.exit(0);
+}
+
 const n = Number(arg("--sample", "0"));
 const outFile = arg("--out", "");
 if (n > 0 && outFile) {

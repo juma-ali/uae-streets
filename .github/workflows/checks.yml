@@ -31,3 +31,18 @@ jobs:
 
       - name: Validate issue forms
         run: node tools/validate-forms.mjs
+
+  kb:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Guards the invariants this project established: the OSM UAE naming
+      # convention, the plot-number filter, unique OSM ids, coordinates,
+      # known emirates, and districts that streets actually reference.
+      - name: Knowledge base assertions
+        run: node tools/audit.mjs --assert
