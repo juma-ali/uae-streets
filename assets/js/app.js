@@ -159,7 +159,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023d";
+    s.src = "data/cards.js?v=20261023f";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -184,7 +184,7 @@
       var hay = (r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : "")).toLowerCase();
       var ok = true;
       for (var t = 0; t < tokens.length; t++) if (hay.indexOf(tokens[t]) === -1) { ok = false; break; }
-      if (ok) out.push({ row: r, district: d });
+      if (ok) out.push({ row: r, district: d, idx: i });
     }
     return out;
   }
@@ -223,13 +223,42 @@
     return s.charAt(0).toUpperCase() + s.slice(1) + (ar ? "." : ".");
   }
 
+  function openRoadSheet(idx) {
+    if (!ROADS) return;
+    var r = ROADS.rows[idx];
+    if (!r) return;
+    var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
+    var em = d ? emirateOf(d[2]) : null;
+    var sheet = $("#sheet"), body = $("#sheet-body");
+    if (!sheet || !body) return;
+    if (!sheet.open) lastTrigger = document.activeElement;
+    var where = d ? (state.lang === "ar" ? d[1] || d[0] : d[0]) : "";
+    if (!where) where = em ? em[state.lang] : "";
+    var titleBlock = state.lang === "ar" && r[1]
+      ? '<h2 class="sheet__ar" id="sheet-title" lang="ar" dir="rtl">' + esc(r[1]) + "</h2><p class=\"sheet__en\" dir=\"ltr\">" + esc(r[0]) + "</p>"
+      : '<h2 class="sheet__en" id="sheet-title" dir="ltr">' + esc(r[0] || r[1]) + "</h2>" +
+        (r[1] ? '<p class="sheet__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</p>" : "");
+    var text = describeRoad(r, d, em ? em[state.lang] : "", where);
+    var gloss = r[6] ? '<div class="sheet__meaning"><span class="sheet__meaning-label">' + esc(T.meaning) + "</span><p class=\"sheet__meaning-text\">" + esc(r[6]) + "</p></div>" : "";
+    body.innerHTML =
+      '<div class="sheet__head"><p class="sheet__emirate">' + esc(em ? em[state.lang] : "") + " · " + esc(T.categoryNoun[r[3]] || "") + "</p>" +
+        titleBlock +
+        (r[4] ? '<p class="sheet__route">' + esc(T.route) + " " + esc(r[4]) + "</p>" : "") +
+        (r[5] ? '<p class="sheet__rename">' + esc(T.formerly) + " " + esc(r[5]) + "</p>" : "") +
+        '<div class="sheet__tags"><span class="sheet__tag">' + esc(T.categoryNoun[r[3]] || "") + "</span></div></div>" +
+      gloss +
+      '<div class="sheet__story"><p>' + esc(text) + "</p></div>" +
+      '<p class="sheet__caveat">' + esc(state.lang === "ar" ? "الاسم والموقع من خريطة الشوارع المفتوحة (OpenStreetMap)." : "Name and location from OpenStreetMap (ODbL).") + "</p>";
+    sheet.showModal();
+  }
+
   function renderRoadCard(x, i) {
     var r = x.row, d = x.district;
     var em = d ? emirateOf(d[2])[state.lang] : "";
     var catLabel = T.categoryNoun[r[3]] || r[3];
     var where = d ? (state.lang === "ar" ? d[1] || d[0] : d[0]) : "";
     if (!where) where = em;
-    var href = d ? "directory/" + d[2] + "/" + String(d[3]).replace(/[^\w-]/g, "_") + ".html" : "directory/index.html";
+    var href = "#road=" + x.idx;
     var name = state.lang === "ar" && r[1]
       ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</h3>" +
         (r[0] ? '<p class="card__en" dir="ltr">' + esc(r[0]) + "</p>" : "")
@@ -244,7 +273,7 @@
       (text ? '<p class="card__note">' + esc(text) + "</p>" : "") +
       '<div class="card__foot">' +
         '<span class="card__tag">' + esc(catLabel) + "</span>" +
-        '<span class="card__more">' + esc(state.lang === "ar" ? "في الدليل" : "Open in directory") + ' <span class="arrow" aria-hidden="true">→</span></span>' +
+        '<span class="card__more">' + esc(state.lang === "ar" ? "التفاصيل" : "Details") + ' <span class="arrow" aria-hidden="true">→</span></span>' +
       "</div>" +
     "</a>";
   }
@@ -737,6 +766,10 @@
         update(true);
       });
     }
+    window.addEventListener("hashchange", function () {
+      var rm = /#road=(\d+)/.exec(location.hash);
+      if (rm) openRoadSheet(Number(rm[1]));
+    });
     var showAll = $("#show-all");
     if (showAll) {
       showAll.addEventListener("click", function () {
@@ -872,6 +905,13 @@
 
     applyLanguage(initial);
 
+    var rm = /#road=(\d+)/.exec(deepHash);
+    if (rm) {
+      state.showRoads = true;
+      var ridx = Number(rm[1]);
+      if (!ROADS) loadRoads(function () { update(false); openRoadSheet(ridx); });
+      else openRoadSheet(ridx);
+    }
     var m = /#street=([\w-]+)/.exec(deepHash);
     if (m) {
       var id = m[1];

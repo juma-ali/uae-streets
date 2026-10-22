@@ -31,11 +31,11 @@
   function t(en, ar) { return state.lang === "ar" ? ar : en; }
 
   /* rows: [en, ar, districtIndex, category, route, former, gloss, storyId] */
-  var rows = DATA.rows.map(function (r) {
+  var rows = DATA.rows.map(function (r, rowIndex) {
     var d = r[2] >= 0 ? DATA.districts[r[2]] : null;
     return {
       en: r[0], ar: r[1], district: d, cat: r[3], ref: r[4], former: r[5], gloss: r[6], story: r[7],
-      ne: norm(r[0]), na: norm(r[1]), nd: norm(d ? d[0] : "")
+      idx: rowIndex, ne: norm(r[0]), na: norm(r[1]), nd: norm(d ? d[0] : "")
     };
   });
 
@@ -84,9 +84,7 @@
   }
 
   function card(r) {
-    var href = r.story
-      ? "index.html#street=" + encodeURIComponent(r.story)
-      : r.district ? "directory/" + r.district[2] + "/" + String(r.district[3]).replace(/[^\w-]/g, "_") + ".html" : "directory/index.html";
+    var href = r.story ? "index.html#street=" + encodeURIComponent(r.story) : "index.html#road=" + r.idx;
     var where = r.district ? (state.lang === "ar" ? (r.district[1] || r.district[0]) : r.district[0]) : t("no district", "بلا حي");
     var em = r.district ? DATA.emirates[r.district[2]][state.lang === "ar" ? 1 : 0] : "";
     var chips = '<span class="rcard__chip">' + esc(state.lang === "ar" ? CAT_AR[r.cat] : CAT_EN[r.cat]) + "</span>";
