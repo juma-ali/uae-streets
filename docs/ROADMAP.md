@@ -83,6 +83,12 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 - [x] **Integrity audit** — `tools/audit.mjs`: internal checks plus a reproducible
       299-street sample (`data/verification-sample.csv`) for checking against an
       official source. Results in [AUDIT.md](AUDIT.md).
+- [x] **Wikipedia cross-check** — `tools/wiki-check.mjs` against the Dubai route
+      lists: 83% exact, 6 transliteration variants, **8 roads missing from OSM**
+      (Mankhool, Al Musallah, Al Rebat, Al Diyafah, Discovery Garden, Deira Islands,
+      E 611, Dubai–Al Ain). See [WIKI-CHECK.md](WIKI-CHECK.md).
+- [ ] **Fix the 8 upstream** — add or correct those roads in OpenStreetMap; they
+      cannot be invented downstream.
 - [ ] **Fold `data/index.js` into `data/kb.js`** so there is one facts file.
 - [x] **All seven emirates** — country-wide import + boundary assignment. Note the
       consequence of the numeric rule: Dubai keeps only 934 named streets out of 23,960

@@ -2,6 +2,15 @@
 
 Generated 2026-10-22 · 11,529 streets · 344 districts
 
+## Cross-check against an independent source
+
+See [WIKI-CHECK.md](WIKI-CHECK.md): 81 Dubai roads named by Wikipedia, **67 exact (83%)**,
+**6 more under a different transliteration** (Oud Metha = Oud Maitha, Salahuddin = Salah Al Din),
+and **8 absent from OpenStreetMap entirely** — Mankhool Road, Al Musallah Road, Al Rebat Street,
+Al Diyafah Street, Discovery Garden Road, Deira Islands Street, Emirates Road (E 611) and
+Dubai–Al Ain Road. Those are gaps in OSM's coverage of older Deira/Bur Dubai streets, not
+artefacts of this pipeline: every name we hold matches the source or differs only in spelling.
+
 ## Internal checks
 
 | Check | Streets | Share | Note |
