@@ -40,8 +40,7 @@ const firstEn = (s) => (s.name_en || "").trim().split(/\s+/)[0].toLowerCase();
 
 /* Landforms and built landmarks: the Places category. */
 const GEO = new Set(
-  `طوي وادي جبل يو سيح بدع غليل رمله برقا نقا غيط راس غافات قرن عرقوب عرق سبخه شعبه خور محضر رقعه برج حدبه دوار جزيره عود شرف ثنيه وعبه قصر حصن سوق مزرعه بستان فلج عين بير ميناء كورنيش جسر نفق مطار حديقه ساحه محطه مصلي شاطئ خليج بحيره حديقه`
-    .split(/\s+/)
+  `طوي وادي جبل يو سيح بدع غليل رمله برقا نقا غيط راس غافات قرن عرقوب عرق سبخه شعبه خور محضر رقعه برج حدبه دوار جزيره عود شرف ثنيه وعبه قصر قصار حصن سوق مزرعه بستان فلج عين بير ميناء كورنيش جسر نفق مطار حديقه ساحه محطه مصلي شاطئ خليج بحيره ظهر سهله كثبان كثيب حوض وادي جرف هضبه سهل روضه روضه فيض فياضه دحل كهف مغاره حجره صخره صفا رمله قاع قيعان شعب مخرج مدخل مفرق تقاطع حد ند قرون وعب دوحه غابه هور نجد برق غدير غافه حاله جبال غاف سد عقده بر ديره مدينه ذيد ذياب رمث رمله سهب حضيض`.split(/\s+/)
 );
 const GEO_EN = /(^|\s)(tawi|sayh|wadi|jabal|jebel|niqa|arqoub|hadbah|qarn|ras|jazirat|jazeera|khor|sabkha|raml|ruwaydat|bad'|qal'at|hisn|suq|port|island|hill|valley|creek|corniche|bridge|tunnel|airport|park|square|roundabout)(\s|$)/i;
 
@@ -61,7 +60,7 @@ const EVENT = /(ittihad|etihad|wahda|istiqlal|ihtifal|mihrajan|expo|festival|nat
 const EVENT_AR = /(اتحاد|وحده|استقلال|احتفال|مهرجان|اكسبو|يوبيل|ذكري)/;
 
 const PERSON_EN = /(^|\s)(bin|bint|ibn|abdul|abdullah|abdur|abd|sheikh|shaikh|sheikha|shaheed|marty?r)(\s|$)/i;
-const PERSON_AR = /(^|\s)(بن|بنت|عبد|الشيخ|الشيخه|الشهيد)(\s|$)/;
+const PERSON_AR = /(^|\s)(بن|بنت|ابن|ابي|أبي|عبد|الشيخ|الشيخه|الشهيد)(\s|$)/;
 
 const GEO_WORDS_EN = /(^|\s)(tawi|sayh|wadi|jabal|jebel|niqa|arqoub|hadbah|qarn|ras|jazirat|khor|sabkha|raml|bad'|qal'at|hisn|suq)(\s|$)/i;
 
@@ -88,6 +87,12 @@ function classify(s) {
   if (GEO.has(h)) return "place";
   if (GEO_EN.test(n) || GEO_WORDS_EN.test(n)) return "place";
 
+  // "Umm X" / "Abu X" name a locality unless X is a person's name
+  if (/^(ام|أم|ابو|أبو|بو)$/.test(h)) {
+    const second = norm(a).replace(/^(شارع|طريق|جادة)\s+/, "").split(" ")[1] || "";
+    if (!GIVEN.has(second)) return "place";
+  }
+
   return "word";
 }
 
@@ -113,4 +118,20 @@ for (const c of ["person", "place", "word", "tribe", "event"]) {
   console.log(`\n${c} (${counts[c] || 0}):`);
   console.log("   " + [...new Set(samples[c] || [])].slice(0, 8).join(" · "));
 }
+/* The residual bucket is a long tail: 5,235 distinct head nouns for 6,906 rows.
+   Export the ones worth reviewing, for a human to classify in bulk. */
+const headStats = new Map();
+for (const s of KB.streets) {
+  const h = headAr(s);
+  if (!h) continue;
+  if (!headStats.has(h)) headStats.set(h, { n: 0, cat: mapping[s.osm] });
+  headStats.get(h).n++;
+}
+const rows = [...headStats.entries()]
+  .filter(([, v]) => v.n >= 2)
+  .sort((a, b) => b[1].n - a[1].n)
+  .map(([h, v]) => [h, v.n, v.cat, ""].map((x) => '"' + String(x).replace(/"/g, '""') + '"').join(","));
+writeFileSync(root + "data/head-nouns.csv", "\uFEFF" + ["head_ar,streets,current_category,your_category", ...rows].join("\n") + "\n", "utf8");
+console.log("wrote data/head-nouns.csv —", rows.length, "head nouns appearing 2+ times");
+
 console.log("\nwrote data/categories.js");
