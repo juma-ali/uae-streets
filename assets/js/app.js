@@ -599,6 +599,11 @@
   }
 
   /* ---------- boot ---------- */
+  function setTotals() {
+    var el = document.getElementById("total-count");
+    if (el) el.textContent = STREETS.length;
+  }
+
   function boot() {
     var params = new URLSearchParams(location.search);
     // read the deep link before anything rewrites the address bar
@@ -650,6 +655,7 @@
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", boot);
   } else {
-    boot();
+    setTotals();
+  boot();
   }
 })();
