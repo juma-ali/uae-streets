@@ -59,6 +59,71 @@ async function ensureExtract() {
 
 await ensureExtract();
 
+/* Landform and landmark terms. Wiktionary rarely covers Gulf toponyms, so these
+   are curated: standard Arabic meanings, plus the three sourced from the UAE
+   sources — نقا / عرقوب (لهجتنا المحلية: الكثبان الرملية) and هور / هيرات (NLA
+   glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
+   بدع, محضر, غيط, وعبة. */
+const CURATED = {
+  "جبل": "mountain",
+  "وادي": "valley, dry riverbed",
+  "طوي": "waterhole, pool",
+  "سيح": "open plain, flood plain",
+  "غليل": "small valley, watercourse",
+  "رملة": "sand, sandy ground",
+  "نقا": "sand dune",
+  "نكود": "sand dune",
+  "دعثور": "sand dune",
+  "عرقوب": "ridge, dune",
+  "عرق": "sand ridge",
+  "سبخة": "salt flat",
+  "شعبة": "ravine, gully",
+  "خور": "creek, inlet",
+  "هور": "lagoon, deep pit",
+  "هيرات": "pearl-diving shallows",
+  "رأس": "headland, cape",
+  "قرن": "peak, horn of a hill",
+  "ثنية": "mountain pass",
+  "حدبة": "hill, ridge",
+  "جزيرة": "island",
+  "برج": "tower",
+  "دوار": "roundabout",
+  "قصر": "palace",
+  "حصن": "fort",
+  "سوق": "market",
+  "بستان": "orchard, garden",
+  "فلج": "irrigation channel",
+  "عين": "spring, water source",
+  "بير": "well",
+  "ميناء": "port",
+  "كورنيش": "waterfront road",
+  "جسر": "bridge",
+  "نفق": "tunnel",
+  "مطار": "airport",
+  "حديقة": "garden, park",
+  "ساحة": "square",
+  "محطة": "station",
+  "مصلى": "prayer ground",
+  "شاطئ": "beach",
+  "خليج": "gulf",
+  "بحيرة": "lagoon, lake",
+  "كهف": "cave",
+  "مغارة": "cave",
+  "صخرة": "rock",
+  "هضبة": "plateau",
+  "سهل": "plain",
+  "روضة": "meadow",
+  "حوض": "basin",
+  "جرف": "cliff, bank",
+  "قاع": "flat ground",
+  "مفرق": "junction",
+  "تقاطع": "intersection",
+  "مدخل": "entrance",
+  "مخرج": "exit",
+  "دحل": "sinkhole, cave",
+  "رقعة": "patch of ground"
+};
+
 const dict = new Map();
 let lines = 0;
 const rl = createInterface({ input: createReadStream(src, { encoding: "utf8" }), crlfDelay: Infinity });
@@ -77,6 +142,9 @@ for await (const line of rl) {
   if (!k || STOP.has(k)) continue;
   if (!dict.has(k) || g.length < dict.get(k).length) dict.set(k, g);
 }
+
+// curated meanings win over dictionary ones for landform terms
+for (const [k, v] of Object.entries(CURATED)) dict.set(norm(k), v);
 
 writeFileSync(
   out,

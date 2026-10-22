@@ -303,6 +303,21 @@ Both render under the transliteration in the detail sheet, in whichever language
 is active. Use them when the sign and the street disagree; do not use them for
 translations (`ar`/`en` already carry those).
 
+### Landform glosses
+
+Streets named after a landform carry a gloss too — `طريق العصب` no, `شارع وادي عَفيا
+— valley, dry riverbed`. These come from `CURATED` in `tools/dictionary.mjs`:
+standard Arabic meanings for terms like وادي، جبل، رملة، سبخة، خور، جزيرة، plus three
+taken from UAE sources (نقا / عرقوب from *لهجتنا المحلية*; هور / هيرات from the NLA
+glossary).
+
+Terms whose Gulf sense is not certain — بدع، محضر، غيط، وعبة — are deliberately
+**left out** rather than guessed, and those streets show no gloss.
+
+Glosses are printed only for `place` and `word` streets. A street named after a
+person must not be glossed with a vocabulary meaning: `Al Habeeb` is a family name,
+not "the beloved".
+
 ### Word glosses
 
 Streets named after a word show its gloss under the English name, e.g.

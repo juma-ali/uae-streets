@@ -28,6 +28,14 @@ const load = (file, global) => {
 const KB = load(root + "data/kb.js", "KB");
 const EDITORIAL = load(root + "data/streets.js", "STREETS");
 const GLOSSES = (() => { try { return load(root + "data/dictionary.js", "STREET_GLOSSES"); } catch { return {}; } })();
+const CATEGORIES = (() => { try { return load(root + "data/categories.js", "STREET_CATEGORIES"); } catch { return {}; } })();
+/* A gloss explains a word. It must not be printed for a street named after a
+   person, a tribe or an event — "Al Habeeb" is someone's name, not "the beloved". */
+const glossFor = (s) => {
+  const c = CATEGORIES[s.osm];
+  if (c !== "place" && c !== "word") return "";
+  return GLOSSES[headArOf(s.name_ar)] || "";
+};
 
 /* The guide's name for a street and OSM's name for it differ in 3 cases; these
    aliases are the whole fix. The other 5 stories have no mapped street at all. */
@@ -216,7 +224,7 @@ ${body}
 <footer>
   ${bi("Street names and coordinates", "أسماء الشوارع والإحداثيات")} &copy;
   <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>,
-  ${bi("ODbL 1.0", "رخصة ODbL 1.0")}. ${bi("Word glosses from Wiktionary, CC BY-SA 4.0.", "معاني المفردات من ويكاموس، رخصة CC BY-SA 4.0.")}
+  ${bi("ODbL 1.0", "رخصة ODbL 1.0")}. ${bi("Glosses: Wiktionary (CC BY-SA 4.0) and UAE oral-history sources.", "المعاني: ويكاموس (CC BY-SA 4.0) ومصادر التاريخ الشفهي الإماراتي.")}
   ${bi(
     `Collected ${new Date().toISOString().slice(0, 10)} · ${fmt(KB.streets.length, "en")} streets.`,
     `جُمعت في ${new Date().toISOString().slice(0, 10)} · ${fmt(KB.streets.length, "ar")} شارع.`
@@ -345,7 +353,7 @@ ${
       .sort((a, b) => (a.name_en || a.name_ar).localeCompare(b.name_en || b.name_ar))
       .map(
         (s) =>
-          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}${GLOSSES[headArOf(s.name_ar)] ? `<br><small class="gloss">${esc(s.name_ar)} — ${esc(GLOSSES[headArOf(s.name_ar)])}</small>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
+          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}${glossFor(s) ? `<br><small class="gloss">${esc(s.name_ar)} — ${esc(glossFor(s))}</small>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
       )
       .join("\n");
 
