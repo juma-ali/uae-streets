@@ -617,5 +617,22 @@ window.STREETS = [
       ar: "عبدالهادي بن شعبان المطيوعي المنصوري، المعروف بعبدالهادي بن شعبان آل شظيب، شاعر إماراتي بارز من شعراء النبط المخضرمين، وُلد في أوائل القرن التاسع عشر في منطقة ليوا بإمارة أبوظبي."
     },
     refs: []
+  },
+  {
+    id: "abdullah-bin-qais-street",
+    emirate: "sharjah",
+    category: "person",
+    origin: "documented",
+    ar: "شارع عبدالله بن قيس",
+    en: "Abdullah Bin Qais Street",
+    translit: "Shāriʿ ʿAbd Allāh bin Qays",
+    meaning: { en: "Admiral of the first fleet the Muslims equipped", ar: "أمير أول أسطول بحري جهّزه المسلمون" },
+    story: {
+      en: "Abdullah ibn Qais al-Kindi, known as Abu Bahriyya, was an admiral in early Islam. At Caliph Uthman's instruction, Mu'awiya appointed him to command the first fleet the Muslims equipped, which sailed against Cyprus in 28 AH. There he met Abdullah ibn Sa'd ibn Abi Sarh, arriving from Egypt, and the island's people agreed a tribute of 7,000 dinars a year. He is said to have raided fifty times by land and sea without a reverse, and was killed by the Byzantines in 53 or 54 AH.",
+      ar: "عبد الله بن قيس الكِنديّ، المعروف بأبي بَحريّة، أمير بحر في صدر الإسلام. ولّاه معاوية بن أبي سفيان قيادة أول أسطول جهّزه المسلمون، فغزا قبرص سنة ٢٨هـ، والتقى فيها عبد الله بن سعد بن أبي سرح قادماً من مصر، وصالح أهلها على جزية سبعة آلاف دينار في السنة. ويُذكر أنه غزا خمسين غزوة برّاً وبحراً، وقتله الروم سنة ٥٣هـ."
+    },
+    refs: [
+      { label: "Wikipedia — عبد الله بن قيس الحارثي", url: "https://ar.wikipedia.org/wiki/عبد_الله_بن_قيس_الحارثي" }
+    ]
   }
 ];
