@@ -160,7 +160,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023h";
+    s.src = "data/cards.js?v=20261023i";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -609,9 +609,6 @@
           '<p class="sheet__meaning-text">' + esc(meaning) + "</p></div>"
         : "") +
       '<div class="sheet__story"><p>' + esc(story) + "</p></div>" +
-      '<p class="sheet__dir"><a href="directory/search.html?q=' + encodeURIComponent(s.en) + '">' +
-        (state.lang === "ar" ? "ابحث عنه في دليل الشوارع ←" : "Find it in the street directory →") +
-        "</a></p>" +
       '<p class="sheet__caveat">' + esc(origin === "account" ? T.caveatAccount : origin === "local" ? T.caveatLocal : T.caveatDocumented) + "</p>" +
       '<div class="sheet__footer">' +
         (s.refs && s.refs.length
