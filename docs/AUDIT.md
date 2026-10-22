@@ -12,7 +12,7 @@ Generated 2026-10-22 · 11,530 streets · 344 districts
 | Name still contains digits | 57 | 0.49% | leftover numbering |
 | Name has stray punctuation | 0 | 0.00% |  |
 | No district assigned | 463 | 4.02% | outside admin_level 8/10 polygons |
-| Same name >15 km apart | 33 | 0.29% | possible wrong merge |
+| Same name >15 km apart | 0 | 0.00% | possible wrong merge |
 | Points shared by >4 streets | 0 | 0.00% | centring bug indicator |
 
 ### No Arabic name — examples

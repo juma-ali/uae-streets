@@ -55,7 +55,8 @@ add("No district assigned", S.filter((s) => !s.area), "outside admin_level 8/10 
 // a name that appears far apart in one emirate suggests a bad merge
 const byKey = new Map();
 for (const s of S) {
-  const k = s.emirate + "|" + s.name_en.toLowerCase();
+  // key on the name we actually have: Arabic-only rows would otherwise all share "emirate|"
+  const k = s.emirate + "|" + (s.name_en || s.name_ar).toLowerCase();
   if (!byKey.has(k)) byKey.set(k, []);
   byKey.get(k).push(s);
 }
