@@ -162,10 +162,14 @@ for await (const line of rl) {
   try { j = JSON.parse(line); } catch { continue; }
   if (j.lang_code !== "ar" || !j.word || !/[\u0600-\u06FF]/.test(j.word)) continue;
   if (!/^(noun|adj|adv)$/.test(j.pos || "")) continue;
-  const gloss = (j.senses || []).map((s) => (s.glosses || [])[0]).find(Boolean);
-  if (!gloss) continue;
-  const g = String(gloss).replace(/\s+/g, " ").trim();
-  if (g.length < 3 || g.length > 70 || NOISE.test(g) || TRANSLIT.test(g) || PLACE.test(g)) continue;
+  /* Take the first *clean* sense, not merely the first: a lemma's opening sense
+     is often a grammatical note ("plural of …"), while a usable one sits below. */
+  const firstCleanGloss = (j.senses || [])
+    .flatMap((s) => s.glosses || [])
+    .map((x) => String(x).replace(/\s+/g, " ").trim())
+    .find((g) => g.length >= 3 && g.length <= 70 && !NOISE.test(g) && !TRANSLIT.test(g) && !PLACE.test(g));
+  if (!firstCleanGloss) continue;
+  const g = firstCleanGloss;
   const k = norm(j.word);
   if (!k || STOP.has(k)) continue;
   if (!dict.has(k) || g.length < dict.get(k).length) dict.set(k, g);
