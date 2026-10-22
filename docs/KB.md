@@ -47,50 +47,61 @@ node tools/kb-build.mjs --emirate abu-dhabi-city --osm relation/3766481 \
 `kb-collect` writes to `.cache/` (gitignored); `kb-build` merges into `data/kb.js`,
 replacing only the scope it was given. Overpass is flaky — see the roadmap.
 
-## Current coverage
+## Current coverage — the whole country
 
-| Area | Streets | Districts assigned |
-|---|---|---|
-| Capital and island | 4,559 | 50 |
-| Al Ain | 2,552 | 34 |
-| Liwa / Madinat Zayed | 275 | 2 |
-| Ruwais | 36 | 0 |
-| Sila | 34 | 0 |
+| Emirate | Streets | Named roads in OSM | Districts |
+|---|---|---|---|
+| Abu Dhabi | 9,004 | 42,868 | most of the 258 |
+| Dubai | 934 | 23,960 | few |
+| Sharjah | 881 | 5,555 | some |
+| Umm Al Quwain | 466 | 1,217 | some |
+| Ajman | 111 | 2,009 | few |
+| Ras Al Khaimah | 92 | 741 | few |
+| Fujairah | 79 | 1,029 | few |
 
-**7,665 streets total; 7,408 carry an Arabic name; 2.4 MB.** **86 districts**, and
-7,087 streets (92%) resolve to the full path —
+**11,567 streets · 11,186 with Arabic names · 258 districts · 3.8 MB.**
+
+Two numbers explain the shape of that table:
+
+- **21,617 numeric-only names were excluded.** Dubai drops from 23,960 named roads to
+  934 streets because **54% of its roads are numbered** (`12A Street`, `Street 5`).
+  Ajman is 62% numeric. That is the owner's rule working as intended, not a bug — but
+  it means the Dubai listing is thin by design, not by accident.
+- **958 streets have no district** (mostly Dubai), because OSM has no
+  `admin_level 8` polygon there. They keep `area: null` rather than being guessed.
+
+Abu Dhabi remains the deepest: 86 districts and 92% of its streets resolve to the
+full path —
 
 ```
 Abu Dhabi Emirate » Abu Dhabi » Abu Dhabi » Khalifa City
 ```
 
-**578 streets stay at emirate level**: they fall outside any `admin_level 8` polygon
-(358 in Al Ain's rural outskirts, 169 around the capital, 51 in the west). They are
-kept, not dropped — `area: null` is honest about what we know.
+### Name normalisation, in order
 
-Assignment takes the **tightest containing polygon**, so a street inside both a city
-and a district lands in the district. City names for Al Ain and the Al Dhafra towns
-come from the collection boxes, because OSM has no boundary at that level there.
+1. **Parenthetical alias wins**: `13b Street (Yamoor Street)` → `Yamoor Street`.
+2. **Leading plot number dropped** when a multi-word name follows: `1 Saheel Street`
+   → `Saheel Street`; `2020 Boulevard` keeps its number because only one word follows.
+3. **Trailing stretch number dropped**: `Al Aqhuwanah 4 Street` → `Al Aqhuwanah Street`.
+4. **Then** the numeric test: if nothing remains but road words, digits and
+   single-letter qualifiers, the name is dropped entirely (`10a Street`, `108/1 Road`,
+   `1 R/A`, `42nd Street`). The test reads the **English** name — `شارع 10أ` would
+   leave a letter behind and defeat it.
 
-Coverage is by **populated box**, not by geometry: five rectangles cover the capital
-and island, Al Ain, the Liwa/Madinat Zayed cluster, Ruwais and Sila. Desert between
-them is excluded by design — there are no streets there to lose.
-
-1,658 numeric-only ways were excluded (339 in the capital, 246 in Al Ain, 1,020 in
-Liwa). The two cities run about 2% numeric; Liwa runs 38%, because oasis tracks are
-numbered rather than named.
+Eight OSM typos survive (`1971 Stret`, `7b Streeet`, `7th Roudabout Naffco`): they
+carry letters, so no rule can call them numeric. They belong upstream, not here.
 
 ## Collection: PBF, not Overpass
 
 ```bash
-node tools/pbf-import.mjs --name abu-dhabi --bbox "24.26,54.30,24.56,54.78;24.10,55.55,24.35,55.90;…"
-node tools/kb-build.mjs   --emirate abu-dhabi --bbox "…" --note "…"
+node tools/pbf-import.mjs --name uae            # whole extract, no bbox
+node tools/pbf-boundaries.mjs --out .cache/admin-uae.json
+node tools/kb-country.mjs                       # assigns emirate + district, writes kb.js
 ```
 
 `pbf-import` downloads the UAE extract once (`.cache/`, gitignored), then walks it
-twice: named highways first, their node coordinates second. `--bbox` takes several
-boxes separated by `;`, because an emirate is rarely one rectangle. It writes the same
-JSON shape the Overpass collector produced, so `kb-build` is unchanged.
+twice: named highways first, their node coordinates second. Omit `--bbox` for the
+country; pass `"s,w,n,e;…"` for a subset.
 
 Overpass remains available (`kb-collect`, `osm-district`) for one-off lookups, but
 it is not the primary source any more: it 504s under load and silently returns

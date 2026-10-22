@@ -65,7 +65,7 @@ Streets are collected district by district, each row resolving to
 `Emirate » City » Area » District`. OSM-derived, ODbL, never loaded by the site.
 Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 
-**Current: 7,665 streets, 86 districts, 7,408 with Arabic names, 2.4 MB.** Rules in
+**Current: 11,567 streets across all seven emirates, 258 districts, 11,186 with Arabic names, 3.8 MB.** Rules in
 [KB.md](KB.md).
 
 - [x] **Khalifa City** — 236 streets, full four-level path.
@@ -81,8 +81,11 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
       outskirts, the capital's edges). Either accept emirate-level, or add the
       missing boundaries upstream in OSM.
 - [ ] **Fold `data/index.js` into `data/kb.js`** so there is one facts file.
-- [ ] **Other six emirates** — Dubai, Sharjah, Ajman, UAQ, RAK, Fujairah: same three
-      commands with their boxes once Abu Dhabi is signed off.
+- [x] **All seven emirates** — country-wide import + boundary assignment. Note the
+      consequence of the numeric rule: Dubai keeps only 934 named streets out of 23,960
+      named roads because 54% are numbered.
+- [ ] **Dubai's districts** — 958 streets have no `admin_level 8` polygon; either add
+      boundaries upstream or fall back to OSM's `admin_level 9/10`.
 
 Lessons paid for: an area-wide Overpass query is too heavy; a dense bbox tile takes
 minutes; and Overpass answers "busy" with an *empty result*, not an error — so a

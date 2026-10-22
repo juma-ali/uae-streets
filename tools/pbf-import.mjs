@@ -27,17 +27,16 @@ const arg = (name, fallback) => {
 const bboxArg = arg("--bbox", "");
 const name = arg("--name", "");
 // One or more boxes, separated by ";" — an emirate is rarely one rectangle
-// (Al Ain and the Al Dhafra towns sit far apart).
-const boxes = bboxArg.split(";").map((s) => s.split(",").map(Number));
-if (
-  !name ||
-  !boxes.length ||
-  boxes.some((b) => b.length !== 4 || b.some((n) => !Number.isFinite(n)))
-) {
-  console.error('Usage: node tools/pbf-import.mjs --name abu-dhabi --bbox "s,w,n,e[;s,w,n,e…]"');
+// (Al Ain and the Al Dhafra towns sit far apart). Omit --bbox for the whole extract.
+const boxes = bboxArg
+  ? bboxArg.split(";").map((s) => s.split(",").map(Number))
+  : [];
+if (!name || boxes.some((b) => b.length !== 4 || b.some((n) => !Number.isFinite(n)))) {
+  console.error('Usage: node tools/pbf-import.mjs --name uae [--bbox "s,w,n,e[;…]"]');
   process.exit(2);
 }
 const insideAny = (lat, lon) =>
+  boxes.length === 0 ||
   boxes.some(([s, w, n, e]) => lat >= s && lat <= n && lon >= w && lon <= e);
 
 const root = fileURLToPath(new URL("..", import.meta.url));
