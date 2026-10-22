@@ -370,3 +370,15 @@ the landing page stays light. Once loaded, results are the curated cards first, 
 filter chips count both. Roads without a story link to their district page in the directory.
 
 Loading the index eagerly would add ~1 MB to a page whose whole point is to open instantly.
+
+### The landing page shows every road
+
+Below the story cards the page renders **"Every other road (11,425)"** — the compact index,
+60 cards at a time with `Show more`. Story cards stay first because they carry the story;
+the rest carry what is known: district, naming pattern, route, former name, gloss.
+
+Two details that were wrong at first and are worth keeping right:
+
+- the emirate chips use the id `uaq` while the index uses `umm-al-quwain`; without a mapping
+  Umm Al Quwain showed **1** instead of 444;
+- the hero total is formatted with `toLocaleString` — it read `11470`.

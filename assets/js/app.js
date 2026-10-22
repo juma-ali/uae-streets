@@ -122,6 +122,7 @@
   var state = { lang: "en", q: "", emirate: "all", category: "all" };
   var results = [];
   var lastRoads = [];
+  var ROAD_PAGE = 60;
   var ROADS = null;          // the full card index, loaded on first search only
   var roadsLoading = false;
   var roadsWaiting = [];
@@ -136,6 +137,7 @@
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
+      setTotals();
       roadsWaiting.splice(0).forEach(function (f) { f(); });
     };
     document.head.appendChild(s);
@@ -143,9 +145,8 @@
 
   /* Rows from the full index that match the query, before emirate/category are applied. */
   function roadQueryMatches() {
-    if (!ROADS || !state.q) return [];
+    if (!ROADS) return [];
     var tokens = state.q.toLowerCase().replace(/[^\p{L}\p{N} ]/gu, " ").split(/\s+/).filter(Boolean);
-    if (!tokens.length) return [];
     var out = [];
     for (var i = 0; i < ROADS.rows.length; i++) {
       var r = ROADS.rows[i];
@@ -153,6 +154,7 @@
       var hay = (r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : "")).toLowerCase();
       var ok = true;
       for (var t = 0; t < tokens.length; t++) if (hay.indexOf(tokens[t]) === -1) { ok = false; break; }
+      if (r[7]) continue; // a curated card already covers this road
       if (ok) out.push({ row: r, district: d });
     }
     return out;
@@ -160,7 +162,8 @@
 
   function roadMatches() {
     return roadQueryMatches().filter(function (x) {
-      if (state.emirate !== "all" && (!x.district || x.district[2] !== state.emirate)) return false;
+      var emId = state.emirate === "uaq" ? "umm-al-quwain" : state.emirate;
+      if (emId !== "all" && (!x.district || x.district[2] !== emId)) return false;
       if (state.category !== "all" && x.row[3] !== state.category) return false;
       return true;
     });
@@ -274,8 +277,9 @@
         if (!q) return true;
         return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
       }).length;
+      var emId = v === "uaq" ? "umm-al-quwain" : v;
       n += roadQueryMatches().filter(function (x) {
-        if (v !== "all" && (!x.district || x.district[2] !== v)) return false;
+        if (emId !== "all" && (!x.district || x.district[2] !== emId)) return false;
         if (state.category !== "all" && x.row[3] !== state.category) return false;
         return true;
       }).length;
@@ -292,6 +296,12 @@
         if (!q) return true;
         return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
       }).length;
+      var emId2 = state.emirate === "uaq" ? "umm-al-quwain" : state.emirate;
+      n += roadQueryMatches().filter(function (x) {
+        if (v !== "all" && x.row[3] !== v) return false;
+        if (emId2 !== "all" && (!x.district || x.district[2] !== emId2)) return false;
+        return true;
+      }).length;
       chip.querySelector(".chip__count").textContent = n;
       chip.setAttribute("aria-pressed", String(state.category === v));
     });
@@ -301,7 +311,13 @@
   function renderGrid(animate) {
     var grid = $("#grid");
     lastRoads = roadMatches();
-    var shownRoads = lastRoads.slice(0, 60);
+    var shownRoads = lastRoads.slice(0, state.roadsShown || ROAD_PAGE);
+    var moreWrap = $("#show-more-wrap");
+    if (moreWrap) {
+      moreWrap.hidden = lastRoads.length <= (state.roadsShown || ROAD_PAGE);
+      var moreBtn = $("#show-more");
+      if (moreBtn) moreBtn.textContent = state.lang === "ar" ? "عرض مزيد من الطرق" : "Show more roads";
+    }
     if (!grid) return;
 
     grid.classList.toggle("grid--animate", !!animate);
@@ -333,7 +349,17 @@
           "</div>" +
         "</a>"
       );
-    }).join("") + shownRoads.map(renderRoadCard).join("");
+    }).join("");
+
+    var roadsGrid = $("#grid-roads");
+    var heading = $("#roads-heading");
+    if (roadsGrid) roadsGrid.innerHTML = shownRoads.map(renderRoadCard).join("");
+    if (heading) {
+      heading.hidden = !lastRoads.length;
+      heading.textContent = state.lang === "ar"
+        ? "بقية الطرق (" + lastRoads.length.toLocaleString("ar-EG") + ")"
+        : "Every other road (" + lastRoads.length.toLocaleString("en") + ")";
+    }
 
     $("#empty").hidden = results.length !== 0 || lastRoads.length !== 0;
   }
@@ -348,8 +374,8 @@
     if (countEl) {
       if (lastRoads.length) {
         countEl.textContent = state.lang === "ar"
-          ? n + " قصة · " + lastRoads.length + " طريقاً آخر"
-          : n + (n === 1 ? " story" : " stories") + " · " + lastRoads.length + " more roads";
+          ? n + " قصة · " + lastRoads.length.toLocaleString("ar-EG") + " طريقاً آخر"
+          : n + (n === 1 ? " story" : " stories") + " · " + lastRoads.length.toLocaleString("en") + " other roads";
       } else {
         countEl.textContent = isFiltered
           ? format(T.countFiltered, { n: n, total: total })
@@ -567,7 +593,7 @@
 
   /* ---------- main update ---------- */
   function update(animate) {
-    if (state.q && !ROADS) { loadRoads(function () { update(false); }); }
+    if (!ROADS) { loadRoads(function () { update(false); }); }
     results = filterStreets();
     renderGrid(animate !== false);
     refreshChipCounts();
@@ -586,6 +612,7 @@
       search.addEventListener("input", function () {
         if (!ROADS && search.value.trim()) loadRoads(function () { update(false); });
         state.q = search.value;
+        state.roadsShown = ROAD_PAGE;
         update(false);
       });
       search.addEventListener("keydown", function (e) {
@@ -689,7 +716,9 @@
   /* ---------- boot ---------- */
   function setTotals() {
     var el = document.getElementById("total-count");
-    if (el) el.textContent = STREETS.length;
+    if (!el) return;
+    var n = (window.ROADS && window.ROADS.rows && window.ROADS.rows.length) || STREETS.length;
+    el.textContent = n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en");
   }
 
   function boot() {

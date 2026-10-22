@@ -16,7 +16,7 @@
   } catch (e) {}
 </script>
 <meta property="og:title" content="UAE Streets — the stories behind the names">
-<meta property="og:description" content="Thirty-five roads across the seven emirates, and why each one is called what it is called.">
+<meta property="og:description" content="All eleven thousand roads across the seven emirates, and why each one is called what it is called.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2314603f'/%3E%3Cpath d='M8 21h16M8 15h11M8 9h16' stroke='%23f6f1e5' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,8 +71,8 @@
         <h1 class="hero__title">
           <span data-en="Why is that street called that?" data-ar="لماذا سُمّي هذا الشارع بهذا الاسم؟">Why is that street called that?</span>
         </h1>
-        <p class="hero__lede" data-en="Every street name in the Emirates is a small record: a ruler, a tribe, a well, a date, a word for unity. Thirty-five roads, seven emirates — and the stories behind the signs." data-ar="كل اسم شارع في الإمارات سجلّ صغير: حاكم، أو قبيلة، أو بئر، أو تاريخ، أو كلمة عن الوحدة. خمسة وثلاثون طريقاً في سبع إمارات — وقصص خلف اللوحات.">
-          Every street name in the Emirates is a small record: a ruler, a tribe, a well, a date, a word for unity. Thirty-five roads, seven emirates — and the stories behind the signs.
+        <p class="hero__lede" data-en="Every street name in the Emirates is a small record: a ruler, a tribe, a well, a date, a word for unity. Here are all eleven thousand roads — thirty-five with their story written, the rest with what is known." data-ar="كل اسم شارع في الإمارات سجلّ صغير: حاكم، أو قبيلة، أو بئر، أو تاريخ، أو كلمة عن الوحدة. أحد عشر ألف طريق في سبع إمارات — خمسة وثلاثون منها بقصتها، والباقي بما هو معروف عنه.">
+          Every street name in the Emirates is a small record: a ruler, a tribe, a well, a date, a word for unity. Here are all eleven thousand roads — thirty-five with their story written, the rest with what is known.
         </p>
 
         <form class="search" id="search-form" role="search" onsubmit="return false;">
@@ -145,6 +145,11 @@
       </div>
       <p class="collection__count" id="result-count" aria-live="polite"></p>
       <div class="grid" id="grid"></div>
+      <h2 class="roads-heading" id="roads-heading" hidden></h2>
+      <div class="grid" id="grid-roads"></div>
+      <div class="show-more" hidden id="show-more-wrap">
+        <button type="button" class="btn" id="show-more" data-en="Show more roads" data-ar="عرض مزيد من الطرق">Show more roads</button>
+      </div>
       <div class="empty" id="empty" hidden>
         <p class="empty__title" data-en="No street by that name." data-ar="لا يوجد شارع بهذا الاسم.">No street by that name.</p>
         <p data-en="Try an emirate, a word like “unity”, or part of an Arabic name." data-ar="جرّب إمارة، أو كلمة مثل «الوحدة»، أو جزءاً من اسم عربي.">Try an emirate, a word like “unity”, or part of an Arabic name.</p>
