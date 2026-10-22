@@ -1,132 +1,154 @@
 # UAE Streets
 
-**A bilingual (Arabic/English) field guide to the names on UAE street signs** — the
-people, tribes, words and events behind them.
+**A bilingual (Arabic/English) field guide to the names on UAE street signs — and a
+directory of 11,530 named streets.**
 
 [![checks](https://github.com/juma-ali/uae-streets/actions/workflows/checks.yml/badge.svg)](https://github.com/juma-ali/uae-streets/actions/workflows/checks.yml)
-**[Open the site →](https://juma-ali.github.io/uae-streets/)**
+**[The guide →](https://juma-ali.github.io/uae-streets/)** ·
+**[The directory →](https://juma-ali.github.io/uae-streets/directory/)** ·
+**[Search →](https://juma-ali.github.io/uae-streets/directory/search.html)**
 
-![UAE Streets: a search bar, filters by emirate and by naming pattern, and cards showing each street's Arabic and English names](docs/preview.png)
+![The street directory: a search box, the seven emirates with street counts, and a note explaining where plot numbers are excluded](docs/directory.png)
 
-Every road name in the Emirates is a small record. Some honour a ruler or a family;
-some point at a well, a harbour or a hill; some carry a plain Arabic word — *wasl*,
-connection; *ittihad*, union; *wahda*, unity. This project collects 27 of them across
-the seven emirates and explains, in both languages, where each name came from.
+Two halves of one dataset:
 
-Each entry has the Arabic name as it appears on the sign, an English transliteration,
-a one-line meaning, and a short story. Switch to Arabic and the whole layout flips to
-RTL — not just the text.
+- **The guide** explains names. 27 researched entries — a ruler, a tribe, a harbour,
+  a plain Arabic word — with the story behind each, in both languages.
+- **The directory** lists them. Every named street collected from OpenStreetMap,
+  grouped **emirate → district**, searchable, and bilingual throughout.
 
-**بالعربية:** دليل ميداني لأسماء شوارع الإمارات — من وراء كل اسم، ولماذا سُمّي به.
-بالعربية والإنجليزية، وبحث يتعامل مع الكتابة العربية كيفما كُتبت:
-[juma-ali.github.io/uae-streets](https://juma-ali.github.io/uae-streets/)
+Both are static: no framework, no build step, no trackers.
+
+**بالعربية:** دليل ميداني لأسماء شوارع الإمارات، وقائمة بكل الشوارع المسمّاة —
+١١٬٥٣٠ شارعاً في ٣٤٤ حياً — بالعربية والإنجليزية، مع بحث يتعامل مع الكتابة العربية
+كيفما كُتبت: [juma-ali.github.io/uae-streets](https://juma-ali.github.io/uae-streets/)
 
 ## What's inside
 
+**The guide**
+
 - **27 streets, all seven emirates** — from Sheikh Zayed Road to a single street in
   Umm Al Quwain.
-- **Both languages throughout** — names, meanings, stories and interface, not a
-  translation bolted on afterwards.
-- **The naming grammar** — the five patterns behind almost every UAE street name:
-  people, places, words, tribes, events.
-- **Honest sourcing** — every entry is labelled `documented` (named for something on
-  the record) or `local` (a widely told account with no official record), so folk
-  etymology is never dressed up as fact.
-- **Arabic-aware search** — diacritics stripped, `أ إ آ` unified, `ى`/`ي` and `ة`/`ه`
-  treated as one, so a name can be found however it is typed.
-- **Shareable views** — filters, query, language, theme and the open street all live
-  in the URL.
-- **Light and dark**, keyboard-friendly, no trackers.
+- **Five naming patterns** — people, places, words, tribes, events.
+- **Three sourcing states**, printed on every card: `documented` (on the record),
+  `recorded account` (an account the project recorded, with no published source
+  cited), `local` (told, not recorded). Folk etymology is never dressed up as fact.
+- **Renames shown, not hidden** — a road the signs call one thing and people call
+  another carries both, e.g. *Formerly Electra Street* / *Now officially Zayed The
+  First Street*.
+- **Route numbers** where a road has one — E 66, D 94.
+- **Neutral, factual wording** for anyone named after a public figure: title and
+  dates only, no evaluation, no controversy. Enforced by a lint, not by good
+  intentions — see [docs/EDITORIAL.md](docs/EDITORIAL.md).
+
+**The directory**
+
+- **11,530 streets · 344 districts · seven emirates**, each with an Arabic name
+  where OpenStreetMap has one (97% do).
+- **Bilingual with a real toggle** — [English](docs/directory.png) and
+  [Arabic](docs/directory-ar.png) are both first-class; Arabic flips the layout to
+  RTL, uses Arabic-Indic numerals, and shows districts by their own Arabic names.
+- **Search across both scripts** — diacritics stripped, `أ إ آ` unified, `ى`/`ي` and
+  `ة`/`ه` treated as one, so `الوصل` and `al wasl` find the same road.
+- **Story badges** — a street with a written entry links straight to it.
+- **Honest gaps** — where plot numbers dominate, the page says so with the number:
+  Dubai is 61% numbered, Ajman 62%, Abu Dhabi 8%.
 
 ## The data
 
-All the content lives in one file, [`data/streets.js`](data/streets.js) — plain
-JavaScript, no database, no CMS:
+Three files, one story:
+
+| File | What it is | Licence |
+|---|---|---|
+| [`data/streets.js`](data/streets.js) | The 27 editorial entries | CC BY 4.0 |
+| [`data/kb.js`](data/kb.js) | 11,530 streets, 344 districts, 7 emirates | **ODbL** |
+| [`directory/`](directory/) | 358 generated pages + search index | **ODbL** |
+
+An editorial entry, plain JavaScript:
 
 ```js
 {
-  id: "al-wasl-road",
-  emirate: "dubai",
-  category: "word",          // person | place | word | tribe | event
-  origin: "local",           // documented | local
-  ar: "شارع الوصل",
-  en: "Al Wasl Road",
-  translit: "Shāriʿ al-Waṣl",
-  meaning: { en: "Connection, joining", ar: "الوصل: ربط شيء بشيء" },
-  story: { en: "…", ar: "…" }
+  id: "electra-street",
+  emirate: "abu-dhabi",
+  category: "place",           // person | place | word | tribe | event
+  origin: "documented",        // documented | account | local
+  ar: "شارع الإلكترا",
+  en: "Electra Street",
+  translit: "Shāriʿ al-Electra",
+  now: { en: "Zayed The First Street", ar: "شارع زايد الأول" },
+  route: "D 92",
+  meaning: { en: "Named for the Electra electronics shop", ar: "نسبة إلى متجر إلكترا للإلكترونيات" },
+  story: { en: "…", ar: "…" },
+  refs: [{ label: "…", url: "…" }]
 }
 ```
 
-A second file, [`data/index.js`](data/index.js), holds only basic information — the
-OSM id, name tags, coordinates and the emirate → city → district grouping — for the
-streets that could be matched. It is generated by `tools/osm-import.mjs` and, being
-derived from OpenStreetMap, is **ODbL**: © OpenStreetMap contributors. The editorial
-text stays CC BY.
+The knowledge base resolves every street to a four-level path —
+`Abu Dhabi Emirate » Abu Dhabi » Abu Dhabi » Khalifa City` — built offline from the
+OpenStreetMap extract by `tools/pbf-import.mjs` → `tools/pbf-boundaries.mjs` →
+`tools/kb-country.mjs`, then rendered by `tools/wiki-build.mjs`. It is **never loaded
+by the site**: the directory is pre-rendered, so a page weighs kilobytes.
 
-The knowledge base, [`data/kb.js`](data/kb.js), goes wider: every street collected so
-far, each resolving to a four-level path —
-
-```
-Abu Dhabi Emirate » Abu Dhabi » Abu Dhabi » Khalifa City
-```
-
-Khalifa City alone contributes 272 streets with Arabic names and coordinates. It is
-built by `tools/kb-build.mjs` from `tools/osm-district.mjs` output, is **ODbL** as
-well, and is never loaded by the site — it is the worklist the editorial content is
-drawn from.
+Plot numbers (`12A Street`) are excluded by design; named stretches of one road
+(`Al Aqhuwanah 1…9 Street`) collapse into a single row.
 
 ## Run it locally
 
-There is no build step, no dependencies and no server: `index.html` loads
-`data/streets.js` as a plain script, so a browser is all it needs.
+No build step, no server, no dependencies:
 
 ```bash
 git clone https://github.com/juma-ali/uae-streets.git
 cd uae-streets
 ```
 
-Then open `index.html` — double-click it, or run `start index.html` on Windows or
-`open index.html` on macOS. If you'd rather not clone, **Code → Download ZIP** and
-unzip works exactly the same way.
+Open `index.html` for the guide, and `directory/index.html` for the directory —
+double-click works, because data is loaded as plain scripts rather than fetched.
+Deploying is covered in [CONTRIBUTING.md](CONTRIBUTING.md#6-publish-it).
 
-Deploying it is a different question, and that's covered in
-[CONTRIBUTING.md](CONTRIBUTING.md#6-publish-it).
+## Verification
+
+Four gates run on every push, and they fail the build rather than warn:
+
+- `tools/arabic-lint.mjs` — Arabic wording, punctuation, Latin leakage
+- `tools/editorial-lint.mjs` — neutrality on cards about public figures
+- `tools/audit.mjs --assert` — KB invariants: naming convention, the plot-number
+  filter, unique OSM ids, coordinates, all seven emirates present, districts
+  referenced by real streets
+- `tools/validate-forms.mjs` — the issue templates still parse
+
+Beyond CI, the data has been checked against independent sources:
+[docs/WIKI-CHECK.md](docs/WIKI-CHECK.md) (83% of Dubai roads named by Wikipedia
+found exactly, 6 under another transliteration, **8 genuinely absent from OSM**) and
+[docs/AUDIT.md](docs/AUDIT.md) (internal checks with counts and examples).
 
 ## Contributing
 
 Adding a street takes about five minutes: copy an entry in `data/streets.js`, change
-the values, refresh. The field reference, the content rules and the publishing steps
-are in [CONTRIBUTING.md](CONTRIBUTING.md) — [بالعربية](docs/CONTRIBUTING.ar.md).
+the values, refresh. Fields, rules and publishing steps are in
+[CONTRIBUTING.md](CONTRIBUTING.md) — [بالعربية](docs/CONTRIBUTING.ar.md).
 
-Not planning to touch the code? Two forms do the job:
-
-- **[Report a correction](https://github.com/juma-ali/uae-streets/issues/new?template=correction.yml)**
-- **[Suggest a street](https://github.com/juma-ali/uae-streets/issues/new?template=street.yml)**
-
-Both **require a public source**. A report without one is closed without action — a
-guess corrected by another guess makes the guide worse. If a name's origin is better
-documented than it is here, the fix belongs in the data, not in a comment.
-
-Every push is checked: `tools/arabic-lint.mjs` for the Arabic wording and
-`tools/validate-forms.mjs` for the issue forms.
-
-Planned work — performance, Arabic review, content gaps — is tracked in
-[docs/ROADMAP.md](docs/ROADMAP.md), each item with the trigger that starts it.
+Not touching the code? Two forms do the job:
+**[report a correction](https://github.com/juma-ali/uae-streets/issues/new?template=correction.yml)**
+or **[suggest a street](https://github.com/juma-ali/uae-streets/issues/new?template=street.yml)**.
+Both **require a public source**; a report without one is closed without action.
 
 ## Credits
 
 Type: [Fraunces](https://fonts.google.com/specimen/Fraunces),
 [Inter](https://fonts.google.com/specimen/Inter) and
 [IBM Plex Sans Arabic](https://fonts.google.com/specimen/IBM+Plex+Sans+Arabic).
-No framework, no build tooling, no analytics.
+Street names and coordinates © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright),
+**ODbL 1.0**.
 
 ## License
 
-Code is MIT; the street entries and stories are CC BY 4.0. See [LICENSE](LICENSE).
+Code is MIT; the 27 editorial entries are CC BY 4.0; the knowledge base and the
+generated directory are ODbL 1.0. See [LICENSE](LICENSE).
 
 ## Status
 
 Live at **[juma-ali.github.io/uae-streets](https://juma-ali.github.io/uae-streets/)**,
-served from this repository by GitHub Pages. The content is still being reviewed —
-corrections are welcome, and the `local` labels mark what is told rather than
-officially recorded.
+served from this repository by GitHub Pages. The guide's 27 entries are reviewed;
+the directory follows OpenStreetMap, including its gaps — 13 streets the guide or
+Wikipedia knows about that OSM does not yet name are tracked in
+[docs/ROADMAP.md](docs/ROADMAP.md).
