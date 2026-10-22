@@ -88,10 +88,10 @@ window.STREETS = [
     en: "Electra Street",
     translit: "Shāriʿ al-Electra",
     now: { en: "Zayed The First Street", ar: "شارع زايد الأول" },
-    meaning: { en: "The Electra road", ar: "طريق بناية الإلكترا" },
+    meaning: { en: "Named for the Electra electronics shop", ar: "نسبة إلى متجر إلكترا للإلكترونيات" },
     story: {
-      en: "One of the capital's best-known shopping streets, Electra takes its name from a building — the Electra building, remembered in connection with an electrical company — that once anchored the street. Local accounts differ on the details, but everyone agrees the name arrived with a building, not a person.",
-      ar: "من أشهر شوارع التسوّق في العاصمة، ويحمل اسم بناية «الإلكترا» التي كانت علامة مميزة في الشارع، ويُربط اسمها بشركة كهربائية. تختلف الروايات في التفاصيل، لكن الجميع يتفق على أن الاسم جاء مع بناية لا مع شخص."
+      en: "The street is named after Electra, an electronics shop that traded along it and became a familiar local landmark and the symbol of the area. Over the decades the street itself became known for its electrical and electronics shops and its telephone dealerships, which sold at modest prices — an association between the name and trade that residents still make.",
+      ar: "سُمّي الشارع تيمّناً بمتجر «إلكترا» للإلكترونيات الذي كان يعمل على امتداد هذا الطريق، وصار معلماً محلياً مألوفاً ورمزاً للمنطقة. وعلى مدى العقود اشتهر الشارع بكثرة محال الأجهزة الكهربائية والإلكترونية ووكالات بيع الهواتف بأسعار اقتصادية، فارتبط اسمه بالتجارة والتقنية في ذاكرة السكان."
     }
   },
   {
