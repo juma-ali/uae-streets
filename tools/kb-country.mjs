@@ -142,6 +142,10 @@ for (const el of roads) {
   // OSM records renames in old_name / old_name:en / old_name:ar — read them.
   const oldTag = t.old_name || "";
   const oldIsArabic = /[\u0600-\u06FF]/.test(oldTag);
+  // Keep previous names only for significant roads. OSM records a rename on
+  // 4,889 streets, but most are plot numbers ("13th Street"); 89 renames sit on
+  // motorway/trunk/primary/secondary, which is the set worth carrying.
+  const majorRoad = /^(motorway|trunk|primary|secondary)$/.test(t.highway || "");
   const oldEn = t["old_name:en"] || (oldTag && !oldIsArabic ? oldTag : "");
   const oldAr = t["old_name:ar"] || (oldTag && oldIsArabic ? oldTag : "");
   if (!rawEn && !rawAr) continue;
@@ -175,11 +179,19 @@ for (const el of roads) {
   const key = (en || ar).toLowerCase();
 
   if (!byEmirateName.has(emId)) byEmirateName.set(emId, new Map());
+  const RANK = { motorway: 6, trunk: 5, primary: 4, secondary: 3, tertiary: 2, unclassified: 1, residential: 0, living_street: 0 };
   const bucket = byEmirateName.get(emId);
   const prev = bucket.get(key);
   if (prev) {
     if (rawEn !== en || rawAr !== ar) prev.variants = (prev.variants || 1) + 1;
     if (!prev.name_ar && ar) prev.name_ar = ar;
+    // a road made of many segments takes its highest class, not its first one
+    if ((RANK[t.highway] || 0) > (RANK[prev.kind] || 0)) prev.kind = t.highway || prev.kind;
+    // fill the rename whenever we learn it, not only when the class rises
+    if (!prev.old_name_en && oldEn && (majorRoad || (RANK[prev.kind] || 0) >= 3)) {
+      prev.old_name_en = oldEn;
+      prev.old_name_ar = oldAr || null;
+    }
     continue;
   }
 
@@ -215,8 +227,8 @@ for (const el of roads) {
     kind: t.highway || "",
     lat: Number(c.lat.toFixed(6)),
     lon: Number(c.lon.toFixed(6)),
-    old_name_en: oldEn || null,
-    old_name_ar: oldAr || null,
+    old_name_en: majorRoad ? oldEn || null : null,
+    old_name_ar: majorRoad ? oldAr || null : null,
     variants: 1,
   });
 }
