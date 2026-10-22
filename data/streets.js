@@ -225,7 +225,7 @@ window.STREETS = [
     category: "event",
     origin: "documented",
     ar: "شارع الثاني من ديسمبر",
-    en: "2 December Street",
+    en: "2nd December Street",
     translit: "Shāriʿ ath-Thānī min Dīsambar",
     meaning: { en: "The second of December", ar: "الثاني من ديسمبر" },
     story: {
@@ -536,5 +536,20 @@ window.STREETS = [
       ar: "سُمّيت باسم مهرجان دبي للتسوق، المهرجان السنوي الذي انطلق عام 1996، وتمرّ الجادة في دبي فستيفال سيتي."
     },
     refs: [{ label: "Dubai Shopping Festival — Wikipedia", url: "https://en.wikipedia.org/wiki/Dubai_Shopping_Festival" }]
+  },
+  {
+    id: "adh-dhikrayat-street",
+    emirate: "abu-dhabi",
+    category: "event",
+    origin: "documented",
+    ar: "شارع الذكريات",
+    en: "Adh Dhikrayat Street",
+    translit: "Shāriʿ adh-Dhikrayāt",
+    meaning: { en: "Memories", ar: "الذكريات" },
+    story: {
+      en: "Dhikrayat is the plural of dhikra — a memory, a remembrance. The street lies in Khalifa City, among streets named for ideas rather than people or places.",
+      ar: "«الذكريات» جمع «ذِكرى»، أي التذكّر. ويقع الشارع في مدينة خليفة، بين شوارع سُمّيت بالمعاني لا بالأشخاص أو الأماكن."
+    },
+    refs: []
   }
 ];

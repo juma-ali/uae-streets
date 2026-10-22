@@ -49,19 +49,37 @@ const normName = (s) =>
     .replace(/[^a-z0-9\u0600-\u06FF]+/g, " ").replace(/\s+/g, " ").trim();
 
 const byName = new Map();
+const globalByName = new Map(); // a name is the same road family in every emirate
 for (const s of KB.streets) {
   byName.set(normName(s.name_en) + "|" + s.emirate, s);
   byName.set(normName(s.name_ar) + "|" + s.emirate, s);
-  // OSM records renames; a story using the old name should still resolve
   if (s.old_name_en) byName.set(normName(s.old_name_en) + "|" + s.emirate, s);
   if (s.old_name_ar) byName.set(normName(s.old_name_ar) + "|" + s.emirate, s);
+  for (const nm of [s.name_en, s.old_name_en]) {
+    const k = normName(nm);
+    if (k && !globalByName.has(k)) globalByName.set(k, s);
+  }
 }
 /* storyOf[osm] = editorial id, so a table row can link back to the guide. */
 const storyOf = new Map(); // osm -> [editorial ids]
 const unlinked = [];
+/* Spelling variants of one name (Itihad / Etihad / Ittihad) should all reach
+   the same card; otherwise the guide looks like it covers only one emirate. */
+const SYNONYMS = {
+  "Al Ittihad Road": ["Al Itihad Street", "Al Etihad road", "Al Ittihad Street", "Al Etihad Road"],
+  "Al Istiqlal Street": ["Al Estiqlal Street"],
+  "Al Wahda Street": ["Al Wahdah Street", "Al Wehdah Street"],
+};
+
 for (const e of EDITORIAL) {
-  const wanted = ALIAS[e.en] || e.en;
-  const hit = byName.get(normName(wanted) + "|" + e.emirate) || byName.get(normName(e.ar) + "|" + e.emirate);
+  const candidates = [e.en, ALIAS[e.en], ...(SYNONYMS[e.en] || [])].filter(Boolean);
+  let hit = null;
+  for (const nm of candidates) {
+    hit = byName.get(normName(nm) + "|" + e.emirate) || globalByName.get(normName(nm));
+    if (hit) break;
+  }
+  // the Arabic name is a name too, and sometimes the only match
+  if (!hit) hit = byName.get(normName(e.ar) + "|" + e.emirate);
   if (hit) { if (!storyOf.has(hit.osm)) storyOf.set(hit.osm, []); storyOf.get(hit.osm).push({ id: e.id, label: e.en }); }
   else unlinked.push(e.en);
 }
