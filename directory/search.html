@@ -83,7 +83,7 @@
     hits.innerHTML = top.map(function (x) {
       var r = x.r;
       return '<li><a href="' + esc(r.url) + '">' +
-        '<span>' + esc(r.en) +
+        '<span>' + esc(r.en || r.ar) +
         (r.district || r.emirate ? '<br><small class="where">' + esc(r.district || r.emirate) + (r.district && r.emirate ? " &middot; " + esc(r.emirate) : "") + "</small>" : "") +
         '</span><span class="ar" lang="ar" dir="rtl">' + esc(r.ar || "") + "</span></a></li>";
     }).join("");

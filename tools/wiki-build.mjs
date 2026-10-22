@@ -154,7 +154,7 @@ ${noDistrict.length ? `  <li><a href="_no-district.html"><span><em>No district b
       .slice()
       .sort((a, b) => a.name_en.localeCompare(b.name_en))
       .map(
-        (s) => `    <tr><td>${esc(s.name_en)}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
+        (s) => `    <tr><td>${esc(s.name_en || s.name_ar)}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
       )
       .join("\n");
 
@@ -182,7 +182,7 @@ const searchIndex = KB.streets.map((s) => {
   if (!areaTable[file]) {
     areaTable[file] = [s.emirate, (a && a.path[3]) || "", EMIRATE_LABEL[s.emirate] || s.emirate];
   }
-  return [s.name_en, s.name_ar || "", file];
+  return [s.name_en || s.name_ar, s.name_ar || "", file];
 });
 writeFileSync(
   out + "/search-index.js",

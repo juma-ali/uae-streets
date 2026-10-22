@@ -130,14 +130,20 @@ let skippedNumeric = 0;
 
 for (const el of roads) {
   const t = el.tags || {};
-  const rawEn = t["name:en"] || t.name || "";
-  const rawAr = t["name:ar"] || "";
+  // OSM wiki (UAE): name is the Arabic name by default, name:ar mirrors it, and
+  // name:en is optional. So never treat an untagged name as English.
+  const rawName = t.name || "";
+  const nameIsArabic = /[\u0600-\u06FF]/.test(rawName);
+  const enTag = t["name:en"] || "";
+  const enIsArabic = /[\u0600-\u06FF]/.test(enTag);
+  const rawEn = !enIsArabic && enTag ? enTag : nameIsArabic || enIsArabic ? "" : rawName;
+  const rawAr = t["name:ar"] || (nameIsArabic ? rawName : enIsArabic ? enTag : "");
   if (!rawEn && !rawAr) continue;
 
   // Normalise first, then judge: "1 Saheel Street" is Saheel Street, not a number.
   const en = baseName(rawEn);
   const ar = baseName(rawAr);
-  if (numericOnly(en)) { skippedNumeric++; continue; }
+  if (en && numericOnly(en)) { skippedNumeric++; continue; }
   if (!en && !ar) { skippedNumeric++; continue; }
 
   const c = el.center;
@@ -185,7 +191,7 @@ for (const el of roads) {
     id: emId + "/" + slug(en || ar),
     area: areaId,
     emirate: emId,
-    name_en: en || ar,
+    name_en: en,
     name_ar: ar,
     osm: "way/" + el.id,
     kind: t.highway || "",

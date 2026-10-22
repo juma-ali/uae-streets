@@ -15,7 +15,7 @@ artefacts of this pipeline: every name we hold matches the source or differs onl
 
 | Check | Streets | Share | Note |
 |---|---|---|---|
-| No Arabic name | 347 | 3.01% | English-only rows |
+| No Arabic name | 317 | 2.75% | English-only rows |
 | Arabic name has no road word | 86 | 0.75% | usually bridges, roundabouts, districts |
 | Arabic name repeated as English | 15 | 0.13% | untranslated |
 | Name still contains digits | 59 | 0.51% | leftover numbering |

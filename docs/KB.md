@@ -21,6 +21,20 @@ window.KB = {
 - `osm` (`way/123`) is the provenance link back to OpenStreetMap.
 - `variants` counts numbered stretches that were merged into this row.
 
+## Naming convention
+
+Taken from the [OSM wiki for the UAE](https://wiki.openstreetmap.org/wiki/United_Arab_Emirates):
+`name` holds the **Arabic** name by default, `name:ar` mirrors it, and `name:en` is
+present only when an English name exists. So this KB never invents an English name:
+
+- `name_en` is empty for **43** streets that have no English tag — mostly roundabouts
+  and bridges whose only name is Arabic (`دوار السليطي`).
+- `name_ar` is empty for **317** streets that have no Arabic tag.
+
+Earlier builds used `name:en || name`, which quietly wrote Arabic text into the
+English field (42 rows, 28 of them with no Arabic anywhere else). The directory and
+the search show the Arabic name where English is absent.
+
 ## Two rules that shape the data
 
 **1. Numeric-only names are excluded.** `Road 1b`, `Street 112`, `42nd Street`,
