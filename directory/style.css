@@ -31,3 +31,4 @@ footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid
 .badge:hover{background:var(--accent);color:#fff;text-decoration:none}
 ul.gloss,small.gloss{color:var(--ink3);font-size:.78rem;direction:ltr}
 small.gloss{direction:rtl;text-align:right;display:inline-block;margin-top:.15rem}
+small.meta{color:var(--ink3);font-size:.75rem}

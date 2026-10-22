@@ -171,6 +171,7 @@ footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid
 .badge:hover{background:var(--accent);color:#fff;text-decoration:none}
 ul.gloss,small.gloss{color:var(--ink3);font-size:.78rem;direction:ltr}
 small.gloss{direction:rtl;text-align:right;display:inline-block;margin-top:.15rem}
+small.meta{color:var(--ink3);font-size:.75rem}
 `;
 
 const SCRIPT = `
@@ -352,8 +353,13 @@ ${
       .slice()
       .sort((a, b) => (a.name_en || a.name_ar).localeCompare(b.name_en || b.name_ar))
       .map(
-        (s) =>
-          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}${glossFor(s) ? `<br><small class="gloss">${esc(s.name_ar)} — ${esc(glossFor(s))}</small>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
+        (s) => {
+          const meta = [];
+          if (s.ref) meta.push(bi("Route " + s.ref, "الطريق " + s.ref));
+          if (s.old_name_en) meta.push(bi("formerly " + s.old_name_en, "سابقاً " + (s.old_name_ar || s.old_name_en)));
+          const metaLine = meta.length ? `<br><small class="meta">${meta.join(" · ")}</small>` : "";
+          return `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}${metaLine}${glossFor(s) ? `<br><small class="gloss">${esc(s.name_ar)} — ${esc(glossFor(s))}</small>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`;
+        }
       )
       .join("\n");
 

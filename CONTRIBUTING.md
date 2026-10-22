@@ -341,3 +341,12 @@ street named `الأربح` is not the elative of anything.
    (Lisan al-Arab, Taj al-Arus, al-Wasit, al-Muhit…). Consulted by hand; it is not
    wired into the build, and it does **not** resolve place names: asked for `ساروق`
    it answers "a small saw", for `رباضة` "a lion". A toponym is not a lexical sense.
+
+### What each street row can show
+
+Under the street name, in this order:
+
+1. **story** badge — a curated entry exists for this name;
+2. **Route E11 / D 94** — the official route number (`ref` in OSM), 409 streets;
+3. **formerly …** — the previous name (`old_name`), 133 major-road renames;
+4. **the gloss** — what the head noun means, place and word streets only.

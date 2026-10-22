@@ -227,6 +227,7 @@ for (const el of roads) {
     kind: t.highway || "",
     lat: Number(c.lat.toFixed(6)),
     lon: Number(c.lon.toFixed(6)),
+    ref: t.ref || null,
     old_name_en: majorRoad ? oldEn || null : null,
     old_name_ar: majorRoad ? oldAr || null : null,
     variants: 1,
