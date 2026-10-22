@@ -65,6 +65,10 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "عقبات": "mountain passes",
+  "عقاب": "mountain pass, steep ascent",
+  "عقب": "mountain pass, steep ascent",
+  "عقبه": "mountain pass, steep ascent",
   "دمثه": "soft ground",
   "ظهره": "ridge, back",
   "جرن": "basin, hollow",

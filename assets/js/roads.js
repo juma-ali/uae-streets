@@ -92,7 +92,8 @@
     if (r.story) chips += '<span class="rcard__chip rcard__chip--story">' + esc(t("story", "قصة")) + "</span>";
     var lines = "";
     if (r.former) lines += '<span class="rcard__line">' + esc(t("formerly ", "سابقاً ") + r.former) + "</span>";
-    if (r.gloss) lines += '<span class="rcard__gloss" dir="rtl" lang="ar">' + esc(r.ar) + " — " + esc(r.gloss) + "</span>";
+    var glossTxt = r.gloss && (state.lang === "ar" ? /[\u0600-\u06FF]/.test(r.gloss) : !/[\u0600-\u06FF]/.test(r.gloss)) ? r.gloss : "";
+    if (glossTxt) lines += '<span class="rcard__gloss" dir="rtl" lang="ar">' + esc(r.ar) + " — " + esc(glossTxt) + "</span>";
     return '<a class="rcard" href="' + esc(href) + '">' +
       '<span class="rcard__en">' + esc(r.en || r.ar) + "</span>" +
       '<span class="rcard__ar" lang="ar" dir="rtl">' + esc(r.ar) + "</span>" +

@@ -115,8 +115,9 @@
   }
 
   function emirateOf(id) {
-    for (var i = 0; i < EMIRATES.length; i++) if (EMIRATES[i].id === id) return EMIRATES[i];
-    return { id: id, en: id, ar: id };
+    var key = id === "umm-al-quwain" ? "uaq" : id;
+    for (var i = 0; i < EMIRATES.length; i++) if (EMIRATES[i].id === key) return EMIRATES[i];
+    return { id: key, en: id, ar: id };
   }
   function categoryOf(id) {
     for (var i = 0; i < CATEGORIES.length; i++) if (CATEGORIES[i].id === id) return CATEGORIES[i];
@@ -159,7 +160,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023f";
+    s.src = "data/cards.js?v=20261023h";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -202,6 +203,7 @@
   /* Every road has facts even when nobody has written its story: the naming
      pattern, the district, the gloss, a former name, a route number. Compose them
      into a sentence rather than printing a placeholder. */
+  function glossIn(s, ar) { return s && (ar ? /[\u0600-\u06FF]/.test(s) : !/[\u0600-\u06FF]/.test(s)) ? s : ""; }
   function describeRoad(r, d, em, where) {
     var ar = state.lang === "ar";
     var parts = [];
@@ -213,8 +215,9 @@
       tribe: ar ? "سُمّي نسبةً إلى قبيلة" : "named after a tribe",
       event: ar ? "سُمّي تخليداً لحدث" : "named for an event"
     };
+    var g = glossIn(r[6], ar);
     var main = named[r[3]] || "";
-    if (r[6]) main += (main ? (ar ? "، أي " : ", meaning ") : "") + "“" + r[6] + "”";
+    if (g) main += (main ? (ar ? "، أي " : ", meaning ") : "") + "“" + g + "”";
     if (main) parts.push(main);
     if (r[5]) parts.push(ar ? ("عُرف سابقاً بـ " + r[5]) : ("formerly " + r[5]));
     if (r[4]) parts.push(ar ? ("ويحمل رقم الطريق " + r[4]) : ("carries route " + r[4]));
@@ -239,16 +242,16 @@
       : '<h2 class="sheet__en" id="sheet-title" dir="ltr">' + esc(r[0] || r[1]) + "</h2>" +
         (r[1] ? '<p class="sheet__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</p>" : "");
     var text = describeRoad(r, d, em ? em[state.lang] : "", where);
-    var gloss = r[6] ? '<div class="sheet__meaning"><span class="sheet__meaning-label">' + esc(T.meaning) + "</span><p class=\"sheet__meaning-text\">" + esc(r[6]) + "</p></div>" : "";
+    var gloss = glossIn(r[6], state.lang === "ar") ? '<div class="sheet__meaning"><span class="sheet__meaning-label">' + esc(T.meaning) + "</span><p class=\"sheet__meaning-text\">" + esc(glossIn(r[6], state.lang === "ar")) + "</p></div>" : "";
     body.innerHTML =
       '<div class="sheet__head"><p class="sheet__emirate">' + esc(em ? em[state.lang] : "") + " · " + esc(T.categoryNoun[r[3]] || "") + "</p>" +
         titleBlock +
         (r[4] ? '<p class="sheet__route">' + esc(T.route) + " " + esc(r[4]) + "</p>" : "") +
         (r[5] ? '<p class="sheet__rename">' + esc(T.formerly) + " " + esc(r[5]) + "</p>" : "") +
-        '<div class="sheet__tags"><span class="sheet__tag">' + esc(T.categoryNoun[r[3]] || "") + "</span></div></div>" +
+        "</div>" +
       gloss +
       '<div class="sheet__story"><p>' + esc(text) + "</p></div>" +
-      '<p class="sheet__caveat">' + esc(state.lang === "ar" ? "الاسم والموقع من خريطة الشوارع المفتوحة (OpenStreetMap)." : "Name and location from OpenStreetMap (ODbL).") + "</p>";
+      '<p class="sheet__caveat">' + esc(state.lang === "ar" ? "الاسم والموقع من خريطة الشارع المفتوح." : "Name and location from OpenStreetMap (ODbL).") + "</p>";
     sheet.showModal();
   }
 
