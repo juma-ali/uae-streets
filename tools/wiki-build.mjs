@@ -51,6 +51,13 @@ const headArOf = (s) => String(s || "")
   .replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "")
   .split(" ")[0].replace(/^ال/, "").trim();
 
+
+/* A former name that was only a number says nothing: "1st Street" → "Amr Bin Al 'As
+   Street" is a rename, not a story. The same policy that excludes numeric names from
+   the directory applies to the names they replaced. */
+const GENERIC_FORMER = /^(\d+\s*(st|nd|rd|th)?\s*(street|road|st|rd)?|(street|road)\s*#?\d+[a-z]?|(شارع|طريق)\s*[\d\u0660-\u0669]+|unnamed.*|no name|track|service road)\.?$/i;
+const formerName = (s) => (s && !GENERIC_FORMER.test(String(s).trim()) ? s : "");
+
 const normName = (s) =>
   String(s || "").toLowerCase()
     .replace(/\b(street|road|st|rd|avenue)\b/g, " ")
@@ -356,7 +363,7 @@ ${
         (s) => {
           const meta = [];
           if (s.ref) meta.push(bi("Route " + s.ref, "الطريق " + s.ref));
-          if (s.old_name_en) meta.push(bi("formerly " + s.old_name_en, "سابقاً " + (s.old_name_ar || s.old_name_en)));
+          if (formerName(s.old_name_en)) meta.push(bi("formerly " + formerName(s.old_name_en), "سابقاً " + (s.old_name_ar || formerName(s.old_name_en))));
           const metaLine = meta.length ? `<br><small class="meta">${meta.join(" · ")}</small>` : "";
           return `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}${metaLine}${glossFor(s) ? `<br><small class="gloss">${esc(s.name_ar)} — ${esc(glossFor(s))}</small>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`;
         }

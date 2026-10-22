@@ -412,3 +412,10 @@ The place nodes come from Overpass into `.cache/places.json`, and `data/localiti
 by OSM id. The alternative — scraping openalfa.com, which groups streets by locality — was
 rejected: its `robots.txt` disallows GPTBot, ChatGPT-User, CCBot and OpenAI. The same
 assignment is reproducible from OSM, so there was no need to take it from them.
+
+### Numbered former names
+
+65 of the 133 recorded renames were renames *from a number* — `1st Street`, `119th Street`,
+`Street 12`. They are dropped by `GENERIC_FORMER` in `tools/cards-build.mjs` and
+`tools/wiki-build.mjs`, on the same principle that excludes numeric names from the
+directory: "formerly 1st Street" is not information a reader can use.

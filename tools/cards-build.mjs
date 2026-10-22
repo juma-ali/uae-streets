@@ -35,6 +35,13 @@ const norm = (s) =>
 const head = (s) =>
   norm(String(s.name_ar || "").replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "").split(" ")[0] || "");
 
+
+/* A former name that was only a number says nothing: "1st Street" → "Amr Bin Al 'As
+   Street" is a rename, not a story. The same policy that excludes numeric names from
+   the directory applies to the names they replaced. */
+const GENERIC_FORMER = /^(\d+\s*(st|nd|rd|th)?\s*(street|road|st|rd)?|(street|road)\s*#?\d+[a-z]?|(شارع|طريق)\s*[\d\u0660-\u0669]+|unnamed.*|no name|track|service road)\.?$/i;
+const formerName = (s) => (s && !GENERIC_FORMER.test(String(s).trim()) ? s : "");
+
 const nameKey = (s) =>
   String(s || "").toLowerCase().replace(/\b(street|road|st|rd|avenue)\b/g, " ")
     .replace(/[^a-z0-9]+/g, " ").trim();
@@ -76,7 +83,7 @@ for (const s of KB.streets) {
     districtFor(s.area, s.emirate, s.osm),
     cat,
     s.ref || "",
-    s.old_name_en || "",
+    formerName(s.old_name_en),
     gloss,
     story,
   ]);
