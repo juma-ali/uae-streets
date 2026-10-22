@@ -53,6 +53,10 @@ th{font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3
 tr:last-child td{border-bottom:0}
 td.ar{direction:rtl;text-align:right;font-size:1.05rem;min-width:12rem}
 td.kind{color:var(--ink3);font-size:.8rem;white-space:nowrap}
+.searchbox{display:flex;gap:.5rem;align-items:center;margin:0 0 1.4rem;flex-wrap:wrap}
+.searchbox input{flex:1;min-width:14rem;font:inherit;padding:.6rem .85rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
+.searchbox input:focus{outline:2px solid var(--accent);outline-offset:1px}
+ul.list small.where{color:var(--ink3)}
 .note{margin-top:2rem;padding:.9rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);font-size:.8rem;color:var(--ink3)}
 footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid var(--line);padding-top:1rem}
 `;
@@ -95,6 +99,10 @@ const indexBody = `
 <h1>Streets of the United Arab Emirates</h1>
 <p class="lede">${KB.streets.length.toLocaleString("en")} named streets in ${KB.areas.length} districts across seven emirates,
 as mapped in OpenStreetMap. Numbered names (&ldquo;12A Street&rdquo;) are excluded by choice.</p>
+<form class="searchbox" action="search.html" method="get">
+  <input type="search" name="q" placeholder="Search a street — English or Arabic" aria-label="Search streets">
+  <button type="submit">Search</button>
+</form>
 <ul class="list">
 ${emirates
   .map(
@@ -116,6 +124,10 @@ for (const [em, rows] of emirates) {
   const body = `
 <p class="crumb"><a href="../index.html">United Arab Emirates</a> &rsaquo; ${esc(EMIRATE_LABEL[em] || em)}</p>
 <h1>${esc(EMIRATE_LABEL[em] || em)}</h1>
+<form class="searchbox" action="../search.html" method="get">
+  <input type="search" name="q" placeholder="Search a street — English or Arabic" aria-label="Search streets">
+  <button type="submit">Search</button>
+</form>
 <p class="lede">${rows.length.toLocaleString("en")} streets${areas.length ? ` in ${areas.length} districts` : ""}${noDistrict.length ? `, plus ${noDistrict.length.toLocaleString("en")} without a district boundary` : ""}.</p>
 <ul class="list">
 ${areas
@@ -161,5 +173,23 @@ ${list}
   }
 }
 
+/* ---------- search index + page ---------- */
+const areaById = new Map(KB.areas.map((a) => [a.id, a]));
+const areaTable = {};
+const searchIndex = KB.streets.map((s) => {
+  const a = areaById.get(s.area);
+  const file = (s.area ? s.area.replace(/[^\w-]/g, "_") : "_no-district");
+  if (!areaTable[file]) {
+    areaTable[file] = [s.emirate, (a && a.path[3]) || "", EMIRATE_LABEL[s.emirate] || s.emirate];
+  }
+  return [s.name_en, s.name_ar || "", file];
+});
+writeFileSync(
+  out + "/search-index.js",
+  "window.SEARCH_AREAS = " + JSON.stringify(areaTable) + ";\n" +
+    "window.SEARCH_INDEX = " + JSON.stringify(searchIndex) + ";\n"
+);
+writeFileSync(out + "/search.html", readFileSync(root + "tools/templates/search.html", "utf8"));
+console.log(`search : ${searchIndex.length} entries, ${Math.round(readFileSync(out + "/search-index.js").length / 1024)} KB`);
 console.log(`pages: ${pages + 1} (${emirates.length} emirates, ${KB.areas.length} districts)`);
 console.log(`out  : directory/ (${Math.round(readFileSync(out + "/index.html").length / 1024)} KB index)`);

@@ -86,6 +86,8 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
       named roads because 54% are numbered.
 - [x] **Dubai's districts** — `admin_level 10` used as the fallback; 562 streets
       recovered, 463 remain without a district.
+- [x] **Search** — `directory/search.html` + a 906 KB index; English and Arabic,
+      diacritic-insensitive, ranked (street-name hits above district hits).
 - [x] **Static directory pages** — `tools/wiki-build.mjs` emits 358 pages
       (emirates → districts → street table), 1.8 MB total.
 
