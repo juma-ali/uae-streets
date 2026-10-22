@@ -568,5 +568,22 @@ window.STREETS = [
     refs: [
       { label: "Wikipedia — Amr ibn al-As", url: "https://ar.wikipedia.org/wiki/عمرو_بن_العاص" }
     ]
+  },
+  {
+    id: "aban-bin-uthman-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "documented",
+    ar: "شارع أبان بن عُثمان",
+    en: "Aban Bin 'Uthman Street",
+    translit: "Shāriʿ Abān bin ʿUthmān",
+    meaning: { en: "A jurist and traditionist of Medina, son of the third caliph", ar: "تابعي وفقيه ومحدّث من أهل المدينة، وابن الخليفة عثمان" },
+    story: {
+      en: "Aban ibn 'Uthman ibn 'Affan (d. 105 AH / 723 CE) was a Tabi'i, a jurist and a traditionist, and governor of Medina for about seven years. He is named among the earliest to write down the Prophet's campaigns (maghazi), though most accounts place 'Urwa ibn al-Zubayr before him.",
+      ar: "أبان بن عثمان بن عفان (ت ١٠٥هـ/٧٢٣م) تابعي وفقيه ومحدّث، ولي المدينة المنورة نحو سبع سنين. ويُذكر في أوائل من كتبوا المغازي، وإن كان أكثر الروايات يقدّم عروة بن الزبير عليه."
+    },
+    refs: [
+      { label: "الموسوعة العربية — أبان بن عثمان", url: "https://arab-ency.com.sy/details/1456" }
+    ]
   }
 ];

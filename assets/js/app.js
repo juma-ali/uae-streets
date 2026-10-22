@@ -160,7 +160,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023m";
+    s.src = "data/cards.js?v=20261023n";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
