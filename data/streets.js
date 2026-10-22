@@ -649,5 +649,22 @@ window.STREETS = [
       ar: "عبدالله خليفة النعيمي مهندس إماراتي وأحد أبطال القوات المسلحة البواسل، استُشهد في سبيل الوطن. ويحمل الشارع اسمه."
     },
     refs: []
+  },
+  {
+    id: "abdullah-almasoud-al-muhairbi-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "documented",
+    ar: "شارع عبدالله المسعود المحيربي",
+    en: "Abdullah Almasoud Al Muhairbi Street",
+    translit: "Shāriʿ ʿAbd Allāh al-Masʿūd al-Muḥayribī",
+    meaning: { en: "A founder of Al Masoud Group and president of Abu Dhabi's Consultative Council", ar: "من مؤسسي مجموعة المسعود ورئيس المجلس الاستشاري الوطني بأبوظبي" },
+    story: {
+      en: "Abdullah bin Mohammed Al Masoud Al Muhairbi (mid-1940s — February 2019) was an Abu Dhabi businessman from a family of pearl traders. With his brothers he founded Al Masoud Group, the first company registered with the Abu Dhabi Chamber of Commerce — his brother Ahmed was the Chamber's first president. In 1970 the group partnered with John Brown Engineering to install the first gas-turbine generator in Abu Dhabi and the Middle East, and with Weir Westgarth to build the UAE's first desalination plant. He sat on the National Consultative Council from its first term and presided over it from 1994. He received the President's Award in 2011, the Khalifa International Award for Date Palm in the same year for introducing the Majdool variety, and the Abu Dhabi Award in 2014.",
+      ar: "عبدالله بن محمد المسعود المحيربي (منتصف الأربعينيات — فبراير ٢٠١٩) رجل أعمال من أبوظبي، من أسرة عملت في تجارة اللؤلؤ. أسّس مع إخوته مجموعة المسعود، وهي أول شركة تُسجَّل في غرفة تجارة وصناعة أبوظبي، وكان أخوه أحمد أول رئيس للغرفة. وفي عام ١٩٧٠ دخلت المجموعة في شراكة لتركيب أول مولد كهربائي للتوربينات الغازية في أبوظبي والشرق الأوسط، ثم لإنشاء أول محطة لتحلية المياه في الدولة. وعضوية المجلس الاستشاري الوطني من فصله التشريعي الأول، ورئاسته له منذ ١٩٩٤. نال جائزة رئيس الدولة التقديرية عام ٢٠١١، وجائزة خليفة الدولية لنخيل التمر في العام نفسه لإدخاله صنف المجدول، وجائزة أبوظبي عام ٢٠١٤."
+    },
+    refs: [
+      { label: "الاتحاد — عبدالله المسعود.. لؤلؤة أبوظبي", url: "https://www.aletihad.ae/news/دنيا/4103967/عبدالله-المسعود---لؤلؤة-أبوظبي" }
+    ]
   }
 ];
