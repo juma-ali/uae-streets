@@ -21,6 +21,10 @@ jobs:
 
       # Informational: lists entries whose Arabic changed since it was
       # approved. Never fails — it is a reading list, not a gate.
+      # Cards about public figures must stay neutral and factual.
+      - name: Editorial policy
+        run: node tools/editorial-lint.mjs --fail
+
       - name: Arabic review queue
         run: node tools/arabic-review.mjs
 

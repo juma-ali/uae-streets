@@ -47,6 +47,7 @@ Double-click `index.html`. That's it.
 | `LICENSE` | MIT for the code; the content is CC BY 4.0 (see §12) | — |
 | `README.md` | Visitor-facing front page — GitHub renders it | the project's story or feature list changes |
 | `CONTRIBUTING.md` | This maintainer guide | — |
+| `docs/EDITORIAL.md` | Register for cards about public figures — enforced by `tools/editorial-lint.mjs` | you write or edit a story |
 | `docs/arabic-style.md` | House style for the Arabic entries | you settle a wording question |
 | `docs/CONTRIBUTING.ar.md` | Arabic summary of this guide (linked from the Arabic footer) | the essentials change |
 | `docs/PORTRAITS.md` | Portrait research: candidates, licences, policy | you add or publish a portrait |

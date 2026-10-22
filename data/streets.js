@@ -30,8 +30,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh Zāyid bin Sulṭān",
     meaning: { en: "Abu Dhabi's ruler, and the UAE's first President", ar: "حاكم أبوظبي وأول رئيس للدولة" },
     story: {
-      en: "Abu Dhabi's central spine honours Sheikh Zayed bin Sultan Al Nahyan (1918–2004), ruler of Abu Dhabi from 1966 and first President of the UAE. The street runs through the heart of the island city he rebuilt with oil money — from the Corniche to the old souqs.",
-      ar: "يحمل هذا الشارع، وهو عمود المدينة المركزية، اسم الشيخ زايد بن سلطان آل نهيان (1918–2004)، حاكم أبوظبي منذ 1966 وأول رئيس للدولة. ويمرّ الشارع في قلب المدينة الجزيرة التي أعاد بناءها بعائدات النفط، من الكورنيش إلى الأسواق القديمة."
+      en: "Abu Dhabi's central street is named after Sheikh Zayed bin Sultan Al Nahyan (1918–2004), ruler of Abu Dhabi from 1966 and first President of the United Arab Emirates. It runs from the Corniche to the old souqs on the island of Abu Dhabi.",
+      ar: "سُمّي هذا الشارع، وهو من شرايين أبوظبي المركزية، باسم الشيخ زايد بن سلطان آل نهيان (1918–2004)، حاكم أبوظبي منذ 1966 وأول رئيس للدولة. ويمرّ من الكورنيش إلى الأسواق القديمة في جزيرة أبوظبي."
     }
   },
   {
@@ -45,8 +45,8 @@ window.STREETS = [
     former: { en: "Electra Street", ar: "شارع الإلكترا" },
     meaning: { en: "The 19th-century ruler called Zayed the Great", ar: "حاكم القرن التاسع عشر الملقّب بزايد الكبير" },
     story: {
-      en: "Not the founding father, but his great-grandfather: Sheikh Zayed bin Khalifa Al Nahyan, 'Zayed the Great', ruled Abu Dhabi from 1855 to 1909. His reign was the age when pearl diving made the town rich and Al Nahyan influence spread along the coast — which is why the family kept reusing the name.",
-      ar: "ليس المؤسس، بل جدّه الأكبر: الشيخ زايد بن خليفة آل نهيان، «زايد الكبير»، الذي حكم أبوظبي بين 1855 و1909. شهد عهده ازدهار الغوص على اللؤلؤ واتساع نفوذ آل نهيان على الساحل، ولذلك أعادت الأسرة استخدام الاسم."
+      en: "The street is named after Sheikh Zayed bin Khalifa Al Nahyan (1855–1909), known as Zayed the Great, who ruled Abu Dhabi from 1855 to 1909. He was the great-grandfather of Sheikh Zayed bin Sultan Al Nahyan.",
+      ar: "سُمّي الشارع باسم الشيخ زايد بن خليفة آل نهيان (1855–1909)، المعروف بـ«زايد الكبير»، الذي حكم أبوظبي بين 1855 و1909، وهو الجدّ الأكبر للشيخ زايد بن سلطان آل نهيان."
     }
   },
   {
@@ -118,8 +118,8 @@ window.STREETS = [
     translit: "Shāriʿ Khalīfa",
     meaning: { en: "The UAE's second President", ar: "الرئيس الثاني للدولة" },
     story: {
-      en: "Named for Sheikh Khalifa bin Zayed Al Nahyan (1948–2022), second President of the UAE and ruler of Abu Dhabi. Before the presidency he ran the emirate's oil and public-works portfolios, and the street crosses the downtown he helped modernise.",
-      ar: "سُمّي تيمّناً بالشيخ خليفة بن زايد آل نهيان (1948–2022)، الرئيس الثاني للدولة وحاكم أبوظبي. وقبل الرئاسة أشرف على قطاعي النفط والأشغال في الإمارة، والشارع يقطع وسط المدينة الذي ساعد في تحديثه."
+      en: "Named for Sheikh Khalifa bin Zayed Al Nahyan (1948–2022), second President of the UAE and ruler of Abu Dhabi. Before the presidency he held the emirate's oil and public-works portfolios. The street crosses the downtown area.",
+      ar: "سُمّي تيمّناً بالشيخ خليفة بن زايد آل نهيان (1948–2022)، الرئيس الثاني للدولة وحاكم أبوظبي. وقبل الرئاسة تولّى قطاعي النفط والأشغال في الإمارة، ويمرّ الشارع في وسط المدينة."
     }
   },
 
@@ -134,8 +134,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh Zāyid",
     meaning: { en: "The founding father, the UAE's first President", ar: "المؤسس وأول رئيس للدولة" },
     story: {
-      en: "Dubai's spine and the longest road in the UAE, E11 is named after Sheikh Zayed bin Sultan Al Nahyan, first President of the UAE and ruler of Abu Dhabi. When it was cut through the desert in the 1970s it carried more camels than cars; today the skyscraper corridor along it carries the founder's name.",
-      ar: "يُعدّ شارع الشيخ زايد (E11) أطول طرق الإمارات وعمود دبي الفقري، وقد سُمّي تيمّناً بالشيخ زايد بن سلطان آل نهيان، أول رئيس للدولة وحاكم أبوظبي. وحين شُقّ عبر الصحراء في سبعينيات القرن الماضي كانت الإبل تعبره أكثر من السيارات، واليوم صار اسمه مقترناً بأبراج المدينة الشاهقة."
+      en: "Dubai's spine and the longest road in the UAE, E11 is named after Sheikh Zayed bin Sultan Al Nahyan, first President of the UAE and ruler of Abu Dhabi. It was built through the desert in the 1970s and now runs through Dubai's skyscraper corridor.",
+      ar: "يُعدّ شارع الشيخ زايد (E11) أطول طرق الإمارات وعمود دبي الفقري، وقد سُمّي تيمّناً بالشيخ زايد بن سلطان آل نهيان، أول رئيس للدولة وحاكم أبوظبي. وشُقّ عبر الصحراء في سبعينيات القرن الماضي، ويمرّ اليوم بين أبراج دبي."
     },
     refs: [{ label: "Khaleej Times — when the road had more camels than cars", url: "https://www.khaleejtimes.com/uae/rewind-50-years-when-dubais-sheikh-zayed-road-had-more-camels-than-cars" }]
   },
@@ -191,8 +191,8 @@ window.STREETS = [
     translit: "Shāriʿ Āl Maktūm",
     meaning: { en: "Dubai's ruling family", ar: "أسرة دبي الحاكمة" },
     story: {
-      en: "Named for the Al Maktoum family, rulers of Dubai since 1833. A street named after a ruling family honours a dynasty rather than one individual — which is what the 'Al' marks: the house, not a first name.",
-      ar: "سُمّي باسم آل مكتوم، حكّام دبي منذ 1833. والشارع الذي يحمل اسم أسرة حاكمة يكرّم سلالة لا شخصاً واحداً، وهذا ما تدلّ عليه «آل»: البيت لا الاسم الأول."
+      en: "Named for the Al Maktoum family, rulers of Dubai since 1833. The street is named after the ruling family rather than an individual; the 'Al' in the name marks the house.",
+      ar: "سُمّي باسم آل مكتوم، حكّام دبي منذ 1833. سُمّي الشارع باسم الأسرة الحاكمة لا باسم فرد، و«آل» في الاسم تدلّ على البيت."
     }
   },
   {
@@ -261,8 +261,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh Muḥammad bin Zāyid",
     meaning: { en: "President of the UAE since 2022", ar: "رئيس الدولة منذ 2022" },
     story: {
-      en: "E311, Dubai's second great highway, honours Sheikh Mohammed bin Zayed Al Nahyan, President of the UAE since 2022 and for two decades the country's crown prince and defence chief. Its previous name, Emirates Road, still appears on older signs and in older conversations.",
-      ar: "الطريق E311، ثاني أكبر شرايين دبي، يحمل اسم الشيخ محمد بن زايد آل نهيان، رئيس الدولة منذ 2022، والذي كان لعقدين ولياً لعهد أبوظبي وقائداً للقوات المسلحة. ولا يزال اسمه السابق «طريق الإمارات» يظهر على اللوحات القديمة."
+      en: "E311 is named after Sheikh Mohammed bin Zayed Al Nahyan, President of the United Arab Emirates since 2022; before that he was Crown Prince of Abu Dhabi and Supreme Commander of the Armed Forces. The road was previously named Emirates Road.",
+      ar: "سُمّي الطريق E311 باسم الشيخ محمد بن زايد آل نهيان، رئيس الدولة منذ 2022، وكان قبل ذلك ولياً لعهد أبوظبي والقائد الأعلى للقوات المسلحة. وكان اسمه السابق «طريق الإمارات»."
     }
   },
 
@@ -277,8 +277,8 @@ window.STREETS = [
     translit: "Shāriʿ al-Malik Fayṣal",
     meaning: { en: "King of Saudi Arabia, 1964–1975", ar: "ملك السعودية بين 1964 و1975" },
     story: {
-      en: "Sharjah's central street is named for King Faisal bin Abdulaziz of Saudi Arabia, who reigned from 1964 to 1975. Naming a street after a neighbouring head of state reflects the kinship and alliance that tie the Gulf's ruling families together.",
-      ar: "الشارع المركزي في الشارقة يحمل اسم الملك فيصل بن عبدالعزيز آل سعود، ملك المملكة العربية السعودية بين 1964 و1975. وتسمية شارع باسم رئيس دولة مجاورة تعبير عن صلات القربى والتحالف بين أسر الخليج الحاكمة."
+      en: "Sharjah's central street is named for King Faisal bin Abdulaziz of Saudi Arabia, who reigned from 1964 to 1975.",
+      ar: "الشارع المركزي في الشارقة يحمل اسم الملك فيصل بن عبدالعزيز آل سعود، ملك المملكة العربية السعودية بين 1964 و1975."
     }
   },
   {
@@ -335,8 +335,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh Rāshid bin Ḥumayd an-Nuʿaymī",
     meaning: { en: "Ruler of Ajman, 1928–1981", ar: "حاكم عجمان بين 1928 و1981" },
     story: {
-      en: "Ajman's main street honours Sheikh Rashid bin Humaid Al Nuaimi, who ruled the emirate from 1928 to 1981 — across the lean pre-oil decades, the discovery of oil elsewhere, and the birth of the federation. The Al Nuaimi family has ruled Ajman since the 19th century.",
-      ar: "أكبر شوارع عجمان يحمل اسم الشيخ راشد بن حميد النعيمي الذي حكم الإمارة بين 1928 و1981، وعبر عقود ما قبل النفط الصعبة وولادة الاتحاد. وآل النعيمي يحكمون عجمان منذ القرن التاسع عشر."
+      en: "Ajman's main street is named after Sheikh Rashid bin Humaid Al Nuaimi, who ruled the emirate from 1928 to 1981. The Al Nuaimi family has ruled Ajman since the 19th century.",
+      ar: "أكبر شوارع عجمان يحمل اسم الشيخ راشد بن حميد النعيمي الذي حكم الإمارة بين 1928 و1981. وآل النعيمي يحكمون عجمان منذ القرن التاسع عشر."
     }
   },
   {
@@ -349,8 +349,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh ʿAmmār bin Ḥumayd",
     meaning: { en: "Crown Prince of Ajman", ar: "ولي عهد عجمان" },
     story: {
-      en: "Named for Sheikh Ammar bin Humaid Al Nuaimi, Crown Prince of Ajman, from the same ruling family as the street above. It is a good example of how Gulf streets honour a living dynasty across generations, not only historical figures.",
-      ar: "سُمّي تيمّناً بالشيخ عمار بن حميد النعيمي، ولي عهد عجمان، من الأسرة الحاكمة نفسها. وهو مثال جيد على كيف تكرّم شوارع الخليج سلالة حاكمة عبر الأجيال، لا شخصيات تاريخية فقط."
+      en: "The street is named after Sheikh Ammar bin Humaid Al Nuaimi, Crown Prince of Ajman, of the same ruling family as the street above.",
+      ar: "سُمّي الشارع باسم الشيخ عمار بن حميد النعيمي، ولي عهد عجمان، من الأسرة الحاكمة نفسها."
     }
   },
 
@@ -365,8 +365,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh Muḥammad bin Sālim",
     meaning: { en: "Ruler of Ras Al Khaimah in the early 1900s", ar: "حاكم رأس الخيمة مطلع القرن العشرين" },
     story: {
-      en: "Ras Al Khaimah's main artery, part of the E11, is named after Sheikh Mohammed bin Salem Al Qasimi, who ruled the emirate in the early 20th century. In 2025 its speed limit was cut to 80 km/h — a sign of how the city has grown around a road that once ran through open country.",
-      ar: "شريان رأس الخيمة الرئيسي، وهو جزء من الطريق E11، يحمل اسم الشيخ محمد بن سالم القاسمي الذي حكم الإمارة مطلع القرن العشرين. وفي 2025 خُفّضت سرعة الطريق إلى 80 كم/س، دلالة على اتساع المدينة حول طريق كان يوماً في عراء."
+      en: "Ras Al Khaimah's main artery, part of the E11, is named after Sheikh Mohammed bin Salem Al Qasimi, who ruled the emirate in the early 20th century. In 2025 its speed limit was set at 80 km/h.",
+      ar: "شريان رأس الخيمة الرئيسي، وهو جزء من الطريق E11، يحمل اسم الشيخ محمد بن سالم القاسمي الذي حكم الإمارة مطلع القرن العشرين. وفي 2025 حُدّدت سرعة الطريق بـ80 كم/س."
     },
     refs: [{ label: "Gulf Today — RAK speed limit reduced", url: "https://www.gulftoday.ae/news/2025/01/13/raks-road-speed-reduced-to-80-kmh-on-sheikh-mohammed-bin-salem-street-e11" }]
   },
@@ -412,8 +412,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh Ḥamad bin ʿAbdullāh ash-Sharqī",
     meaning: { en: "Ruler of Fujairah, 1938–1974", ar: "حاكم الفجيرة بين 1938 و1974" },
     story: {
-      en: "Fujairah's main street honours Sheikh Hamad bin Abdullah Al Sharqi, who ruled from 1938 to 1974 — the years when the emirate's mountains and coast were still outside the oil economy. The Al Sharqi family has ruled Fujairah since the 19th century, and the street runs through the town that grew between the mountains and the Gulf of Oman.",
-      ar: "الشارع الرئيسي في الفجيرة يكرّم الشيخ حمد بن عبدالله الشرقي الذي حكم بين 1938 و1974، حين كانت جبال الإمارة وساحلها ما تزال خارج اقتصاد النفط. وآل الشرقي يحكمون الفجيرة منذ القرن التاسع عشر، ويمرّ الشارع في البلدة التي نمت بين الجبال وخليج عُمان."
+      en: "Fujairah's main street is named after Sheikh Hamad bin Abdullah Al Sharqi, who ruled from 1938 to 1974. The Al Sharqi family has ruled Fujairah since the 19th century, and the street runs through the town that grew between the mountains and the Gulf of Oman.",
+      ar: "الشارع الرئيسي في الفجيرة يحمل اسم الشيخ حمد بن عبدالله الشرقي الذي حكم بين 1938 و1974. وآل الشرقي يحكمون الفجيرة منذ القرن التاسع عشر، ويمرّ الشارع في البلدة التي نمت بين الجبال وخليج عُمان."
     }
   }
 ];
