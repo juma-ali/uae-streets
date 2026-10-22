@@ -10,7 +10,7 @@ window.KB = {
       "osm": "relation/3766481",
       "name_en": "Abu Dhabi Emirate",
       "name_ar": "أبو ظبي",
-      "street_count": 8967,
+      "street_count": 8963,
       "roads_total": 42868,
       "numeric_skipped": 3509
     },
@@ -19,7 +19,7 @@ window.KB = {
       "osm": "relation/3766482",
       "name_en": "Ajman Emirate",
       "name_ar": "إمارة عجمان",
-      "street_count": 111,
+      "street_count": 109,
       "roads_total": 2009,
       "numeric_skipped": 1243
     },
@@ -28,7 +28,7 @@ window.KB = {
       "osm": "relation/3766483",
       "name_en": "Dubai Emirate",
       "name_ar": "دبي",
-      "street_count": 934,
+      "street_count": 902,
       "roads_total": 23960,
       "numeric_skipped": 14502
     },
@@ -37,7 +37,7 @@ window.KB = {
       "osm": "relation/3766484",
       "name_en": "Fujairah Emirate",
       "name_ar": "الفجيرة",
-      "street_count": 79,
+      "street_count": 78,
       "roads_total": 1029,
       "numeric_skipped": 0
     },
@@ -46,7 +46,7 @@ window.KB = {
       "osm": "relation/3766485",
       "name_en": "Ras al-Khaimah Emirate",
       "name_ar": "رأس الخيمة",
-      "street_count": 92,
+      "street_count": 90,
       "roads_total": 741,
       "numeric_skipped": 104
     },
@@ -55,7 +55,7 @@ window.KB = {
       "osm": "relation/3766486",
       "name_en": "Sharjah Emirate",
       "name_ar": "الشارقة",
-      "street_count": 881,
+      "street_count": 869,
       "roads_total": 5555,
       "numeric_skipped": 2307
     },
@@ -64,7 +64,7 @@ window.KB = {
       "osm": "relation/3766487",
       "name_en": "Umm al-Quwain Emirate",
       "name_ar": "أم القيوين",
-      "street_count": 466,
+      "street_count": 459,
       "roads_total": 1217,
       "numeric_skipped": 0
     }
@@ -6264,146 +6264,6 @@ window.KB = {
     }
   ],
   "streets": [
-    {
-      "id": "abu-dhabi/دوار-السليطي",
-      "area": "al-nahdah-13251364",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "دوار السليطي",
-      "osm": "way/26587859",
-      "kind": "tertiary",
-      "lat": 24.255783,
-      "lon": 54.710394,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/جسر-الحديريات",
-      "area": "al-hidayriyyat-13251452",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "جسر الحديريات",
-      "osm": "way/168957671",
-      "kind": "secondary",
-      "lat": 24.42482,
-      "lon": 54.366026,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/شارع-الإمارات",
-      "area": "masakin-13251424",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "شارع الإمارات",
-      "osm": "way/171831221",
-      "kind": "trunk",
-      "lat": 24.382435,
-      "lon": 55.798463,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/دوارت-دلما",
-      "area": "delma-18471630",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "دوارت دلما",
-      "osm": "way/182769855",
-      "kind": "residential",
-      "lat": 24.507818,
-      "lon": 52.310725,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/شارع-الخليج-العربي",
-      "area": "zirku-island-18471642",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "شارع الخليج العربي",
-      "osm": "way/201330449",
-      "kind": "secondary",
-      "lat": 24.874984,
-      "lon": 53.078522,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/شارع-الخليج-الفارسی",
-      "area": "zirku-island-18471642",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "شارع الخليج الفارسی",
-      "osm": "way/202383835",
-      "kind": "secondary",
-      "lat": 24.886163,
-      "lon": 53.062327,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/شارع-الترمذي",
-      "area": "al-jimi-13251416",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "شارع الترمذي",
-      "osm": "way/1051097935",
-      "kind": "residential",
-      "lat": 24.259678,
-      "lon": 55.737266,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/طريخ-شلاح-ومفرق-الصويتية",
-      "area": "mkhayriz-13251503",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "طريخ شلاح ومفرق الصويتية",
-      "osm": "way/1122233038",
-      "kind": "unclassified",
-      "lat": 23.268032,
-      "lon": 53.048799,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/طريق-الصويتية",
-      "area": "mkhayriz-13251503",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "طريق الصويتية",
-      "osm": "way/1122234086",
-      "kind": "unclassified",
-      "lat": 23.181407,
-      "lon": 53.049999,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/شارع-الأ-ر-ج-و-ان",
-      "area": "al-maqam-13251410",
-      "emirate": "abu-dhabi",
-      "name_en": "",
-      "name_ar": "شارع الأُرْجُوَان",
-      "osm": "way/1147606875",
-      "kind": "residential",
-      "lat": 24.182661,
-      "lon": 55.610739,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
     {
       "id": "abu-dhabi/ain-al-faydah-street",
       "area": "ain-al-faydah-13251441",
@@ -44930,7 +44790,8 @@ window.KB = {
       "lon": 54.730912,
       "old_name_en": "40th Street",
       "old_name_ar": "شارع 40",
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "abu-dhabi/al-nouq-street",
@@ -49343,20 +49204,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "abu-dhabi/al-saliah-street",
-      "area": "al-bahyah-13251343",
-      "emirate": "abu-dhabi",
-      "name_en": "Al Saliah Street",
-      "name_ar": "شارع السَّالِيَة",
-      "osm": "way/475122727",
-      "kind": "residential",
-      "lat": 24.529815,
-      "lon": 54.664802,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "abu-dhabi/al-salih-street",
       "area": "um-ghafah-13251402",
       "emirate": "abu-dhabi",
@@ -49382,7 +49229,8 @@ window.KB = {
       "lon": 54.668046,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "abu-dhabi/al-sallah-street",
@@ -54408,7 +54256,8 @@ window.KB = {
       "lon": 55.612374,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 2
+      "variants": 3,
+      "merged_from": 2
     },
     {
       "id": "abu-dhabi/al-usoul-street",
@@ -59838,20 +59687,6 @@ window.KB = {
       "kind": "unclassified",
       "lat": 24.352045,
       "lon": 54.693776,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/an-noud-street",
-      "area": "al-shamkhah-13251360",
-      "emirate": "abu-dhabi",
-      "name_en": "An Noud Street",
-      "name_ar": "شارع النُّود",
-      "osm": "way/94058660",
-      "kind": "tertiary",
-      "lat": 24.414092,
-      "lon": 54.732575,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -113082,7 +112917,8 @@ window.KB = {
       "lon": 54.78533,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "abu-dhabi/sayh-al-wyayah-street",
@@ -114186,20 +114022,6 @@ window.KB = {
       "kind": "residential",
       "lat": 24.332763,
       "lon": 54.742025,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "abu-dhabi/seeh-al-wakir-street",
-      "area": "madinat-al-riyad-13251363",
-      "emirate": "abu-dhabi",
-      "name_en": "Seeh Al Wakir Street",
-      "name_ar": "شارع سِيح الوَكِر",
-      "osm": "way/1392281346",
-      "kind": "residential",
-      "lat": 24.347407,
-      "lon": 54.783939,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -131803,57 +131625,127 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "ajman/شارع-عمرو-بن-العاص",
-      "area": "new-industrial-12905769",
-      "emirate": "ajman",
+      "id": "abu-dhabi/جسر-الحديريات",
+      "area": "al-hidayriyyat-13251452",
+      "emirate": "abu-dhabi",
       "name_en": "",
-      "name_ar": "شارع عمرو بن العاص",
-      "osm": "way/195861294",
+      "name_ar": "جسر الحديريات",
+      "osm": "way/168957671",
       "kind": "secondary",
-      "lat": 25.385818,
-      "lon": 55.484508,
+      "lat": 24.42482,
+      "lon": 54.366026,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
     },
     {
-      "id": "ajman/شارع-المختار-مالك",
-      "area": "yasmeen-12905780",
-      "emirate": "ajman",
+      "id": "abu-dhabi/دوار-السليطي",
+      "area": "al-nahdah-13251364",
+      "emirate": "abu-dhabi",
       "name_en": "",
-      "name_ar": "شارع المختار مالك",
-      "osm": "way/206990143",
-      "kind": "residential",
-      "lat": 25.373887,
-      "lon": 55.573534,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "ajman/شارع",
-      "area": "al-rashidiya-18471692",
-      "emirate": "ajman",
-      "name_en": "",
-      "name_ar": "شارع",
-      "osm": "way/977557999",
+      "name_ar": "دوار السليطي",
+      "osm": "way/26587859",
       "kind": "tertiary",
-      "lat": 25.393926,
-      "lon": 55.451094,
+      "lat": 24.255783,
+      "lon": 54.710394,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 6
+      "variants": 1
     },
     {
-      "id": "ajman/شارع-بدر",
-      "area": "al-sawan-18471695",
-      "emirate": "ajman",
+      "id": "abu-dhabi/دوارت-دلما",
+      "area": "delma-18471630",
+      "emirate": "abu-dhabi",
       "name_en": "",
-      "name_ar": "شارع بدر",
-      "osm": "way/978119781",
-      "kind": "primary",
-      "lat": 25.396158,
-      "lon": 55.44109,
+      "name_ar": "دوارت دلما",
+      "osm": "way/182769855",
+      "kind": "residential",
+      "lat": 24.507818,
+      "lon": 52.310725,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "abu-dhabi/شارع-الإمارات",
+      "area": "masakin-13251424",
+      "emirate": "abu-dhabi",
+      "name_en": "",
+      "name_ar": "شارع الإمارات",
+      "osm": "way/171831221",
+      "kind": "trunk",
+      "lat": 24.382435,
+      "lon": 55.798463,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "abu-dhabi/شارع-الترمذي",
+      "area": "al-jimi-13251416",
+      "emirate": "abu-dhabi",
+      "name_en": "",
+      "name_ar": "شارع الترمذي",
+      "osm": "way/1051097935",
+      "kind": "residential",
+      "lat": 24.259678,
+      "lon": 55.737266,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "abu-dhabi/شارع-الخليج-العربي",
+      "area": "zirku-island-18471642",
+      "emirate": "abu-dhabi",
+      "name_en": "",
+      "name_ar": "شارع الخليج العربي",
+      "osm": "way/201330449",
+      "kind": "secondary",
+      "lat": 24.874984,
+      "lon": 53.078522,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "abu-dhabi/شارع-الخليج-الفارسی",
+      "area": "zirku-island-18471642",
+      "emirate": "abu-dhabi",
+      "name_en": "",
+      "name_ar": "شارع الخليج الفارسی",
+      "osm": "way/202383835",
+      "kind": "secondary",
+      "lat": 24.886163,
+      "lon": 53.062327,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "abu-dhabi/طريخ-شلاح-ومفرق-الصويتية",
+      "area": "mkhayriz-13251503",
+      "emirate": "abu-dhabi",
+      "name_en": "",
+      "name_ar": "طريخ شلاح ومفرق الصويتية",
+      "osm": "way/1122233038",
+      "kind": "unclassified",
+      "lat": 23.268032,
+      "lon": 53.048799,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "abu-dhabi/طريق-الصويتية",
+      "area": "mkhayriz-13251503",
+      "emirate": "abu-dhabi",
+      "name_en": "",
+      "name_ar": "طريق الصويتية",
+      "osm": "way/1122234086",
+      "kind": "unclassified",
+      "lat": 23.181407,
+      "lon": 53.049999,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -132388,7 +132280,8 @@ window.KB = {
       "lon": 55.483019,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "ajman/anas-bin-malik-street",
@@ -132416,7 +132309,8 @@ window.KB = {
       "lon": 55.440666,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "ajman/camel-underpass",
@@ -133357,309 +133251,29 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/شارع-الشيخ-خليفة-بن-زايد",
-      "area": "al-jafiliya-18471800",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الشيخ خليفة بن زايد",
-      "osm": "way/10551707",
-      "kind": "primary",
-      "lat": 25.232526,
-      "lon": 55.291159,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/تلال-الإمارات",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "تلال الإمارات",
-      "osm": "way/10664033",
-      "kind": "residential",
-      "lat": 25.076558,
-      "lon": 55.159213,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-مدينة-العربية",
-      "area": "wadi-al-safa-4-18471837",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع مدينة العربية",
-      "osm": "way/24595086",
-      "kind": "tertiary",
-      "lat": 25.094423,
-      "lon": 55.330771,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-الجداف",
-      "area": "al-jaddaf-18471794",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الجداف",
-      "osm": "way/26345386",
-      "kind": "tertiary",
-      "lat": 25.219371,
-      "lon": 55.336797,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-مرغم",
-      "area": "grayteesah-18471807",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع مرغم",
-      "osm": "way/47924504",
-      "kind": "primary",
-      "lat": 24.874407,
-      "lon": 55.547546,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع",
-      "area": null,
-      "emirate": "dubai",
+      "id": "ajman/شارع",
+      "area": "al-rashidiya-18471692",
+      "emirate": "ajman",
       "name_en": "",
       "name_ar": "شارع",
-      "osm": "way/135190242",
-      "kind": "secondary",
-      "lat": 25.160761,
-      "lon": 55.509667,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 20
-    },
-    {
-      "id": "dubai/شارع-سيح-السلم",
-      "area": "al-lesaily-18471841",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع سيح السلم",
-      "osm": "way/149014321",
-      "kind": "primary",
-      "lat": 24.952203,
-      "lon": 55.502352,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-الحدائق",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الحدائق",
-      "osm": "way/150515124",
+      "osm": "way/977557999",
       "kind": "tertiary",
-      "lat": 25.069067,
-      "lon": 55.247437,
+      "lat": 25.393926,
+      "lon": 55.451094,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 6
     },
     {
-      "id": "dubai/شارع-الروية",
-      "area": "al-ruwayyah-2-18471659",
-      "emirate": "dubai",
+      "id": "ajman/شارع-المختار-مالك",
+      "area": "yasmeen-12905780",
+      "emirate": "ajman",
       "name_en": "",
-      "name_ar": "شارع الروية",
-      "osm": "way/155404110",
-      "kind": "secondary",
-      "lat": 25.121981,
-      "lon": 55.410625,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-المنامة",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع المنامة",
-      "osm": "way/201479445",
-      "kind": "tertiary",
-      "lat": 25.106568,
-      "lon": 55.438231,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-الخيل-الأول",
-      "area": "jabal-ali-industrial-3-18471829",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الخيل الأول",
-      "osm": "way/354267548",
-      "kind": "secondary",
-      "lat": 24.925522,
-      "lon": 55.057545,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-الفرسان",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الفرسان",
-      "osm": "way/360213685",
-      "kind": "tertiary",
-      "lat": 25.091997,
-      "lon": 55.364218,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-منطقة-w",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع منطقة W",
-      "osm": "way/445603056",
+      "name_ar": "شارع المختار مالك",
+      "osm": "way/206990143",
       "kind": "residential",
-      "lat": 25.02535,
-      "lon": 55.153466,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/s-701-شارع",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "S 701 شارع",
-      "osm": "way/493972806",
-      "kind": "residential",
-      "lat": 25.019982,
-      "lon": 55.141834,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-زعبيل",
-      "area": "zabeel-18471721",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع زعبيل",
-      "osm": "way/495970549",
-      "kind": "tertiary",
-      "lat": 25.218028,
-      "lon": 55.295065,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-الشرطة",
-      "area": "oud-al-muteena-18471758",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الشرطة",
-      "osm": "way/499928319",
-      "kind": "residential",
-      "lat": 25.274147,
-      "lon": 55.453667,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 2
-    },
-    {
-      "id": "dubai/شارع-أم-الشيف",
-      "area": "al-safa-18471742",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع أم الشيف",
-      "osm": "way/636193737",
-      "kind": "primary",
-      "lat": 25.16626,
-      "lon": 55.232936,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/الفرجان-قرطاج-4",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "الفرجان-قرطاج-4",
-      "osm": "way/761610119",
-      "kind": "residential",
-      "lat": 25.029846,
-      "lon": 55.148335,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-الخيل-الاول",
-      "area": "jabal-ali-industrial-3-18471829",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الخيل الاول",
-      "osm": "way/817312703",
-      "kind": "secondary",
-      "lat": 24.931188,
-      "lon": 55.066878,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/35c-شارع",
-      "area": "mirdif-18471716",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "35c شارع",
-      "osm": "way/1156997219",
-      "kind": "residential",
-      "lat": 25.217954,
-      "lon": 55.435825,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-لطيفة-بنت-حمدان",
-      "area": "umm-nahad-4-madinat-hind-4-21217661",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع لطيفة بنت حمدان",
-      "osm": "way/1204664494",
-      "kind": "tertiary",
-      "lat": 24.98834,
-      "lon": 55.348539,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/شارع-الثاني-من-ديسمبر",
-      "area": "zabeel-18471721",
-      "emirate": "dubai",
-      "name_en": "",
-      "name_ar": "شارع الثاني من ديسمبر",
-      "osm": "way/1567014249",
-      "kind": "primary",
-      "lat": 25.229084,
-      "lon": 55.289456,
+      "lat": 25.373887,
+      "lon": 55.573534,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -133674,6 +133288,20 @@ window.KB = {
       "kind": "primary",
       "lat": 25.236852,
       "lon": 55.276265,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/35c-شارع",
+      "area": "mirdif-18471716",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "35c شارع",
+      "osm": "way/1156997219",
+      "kind": "residential",
+      "lat": 25.217954,
+      "lon": 55.435825,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -133914,21 +133542,8 @@ window.KB = {
       "lon": 55.359656,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/airport-terminal-road",
-      "area": "dubai-international-airport-18471754",
-      "emirate": "dubai",
-      "name_en": "Airport Terminal Road",
-      "name_ar": "مطار محطة 02 الطريق.",
-      "osm": "way/112678833",
-      "kind": "tertiary",
-      "lat": 25.267191,
-      "lon": 55.35968,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 26
+      "variants": 27,
+      "merged_from": 2
     },
     {
       "id": "dubai/airport-tunnel",
@@ -134054,7 +133669,8 @@ window.KB = {
       "lon": 55.261852,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-a-thra-street",
@@ -134220,20 +133836,6 @@ window.KB = {
       "kind": "secondary",
       "lat": 25.187765,
       "lon": 55.27179,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/al-amal-street",
-      "area": "business-bay-18471755",
-      "emirate": "dubai",
-      "name_en": "Al Amal Street",
-      "name_ar": "شارع الأعمال",
-      "osm": "way/483740548",
-      "kind": "tertiary",
-      "lat": 25.179394,
-      "lon": 55.264064,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -135051,20 +134653,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/al-ettihad-road",
-      "area": "port-saeed-12431735",
-      "emirate": "dubai",
-      "name_en": "Al Ettihad Road",
-      "name_ar": "طريق الاتحاد",
-      "osm": "way/447302873",
-      "kind": "primary",
-      "lat": 25.257628,
-      "lon": 55.331033,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/al-fahidi-street",
       "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
@@ -135429,20 +135017,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/al-ghubaiba-road",
-      "area": "al-souk-al-kabeer-18471713",
-      "emirate": "dubai",
-      "name_en": "Al Ghubaiba Road",
-      "name_ar": "طريق الغبيبة",
-      "osm": "way/522157908",
-      "kind": "tertiary",
-      "lat": 25.264535,
-      "lon": 55.289425,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/al-ghubaiba-street",
       "area": "al-souk-al-kabeer-18471713",
       "emirate": "dubai",
@@ -135454,7 +135028,8 @@ window.KB = {
       "lon": 55.284463,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-graibi-street",
@@ -135790,7 +135365,8 @@ window.KB = {
       "lon": 55.336102,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-jabha-street",
@@ -135818,7 +135394,8 @@ window.KB = {
       "lon": 55.335881,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-jaddi-street",
@@ -137568,7 +137145,8 @@ window.KB = {
       "lon": 55.258862,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 11
+      "variants": 17,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-quarda-street",
@@ -137655,20 +137233,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/al-quoz-street",
-      "area": "al-quoz-community-15621952",
-      "emirate": "dubai",
-      "name_en": "Al Quoz Street",
-      "name_ar": "شارع القوز",
-      "osm": "way/90524077",
-      "kind": "residential",
-      "lat": 25.165568,
-      "lon": 55.261192,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 6
-    },
-    {
       "id": "dubai/al-raa-bee-street",
       "area": null,
       "emirate": "dubai",
@@ -137722,7 +137286,8 @@ window.KB = {
       "lon": 55.174898,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 5
+      "variants": 10,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-rabeea-street",
@@ -137737,20 +137302,6 @@ window.KB = {
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
-    },
-    {
-      "id": "dubai/al-rabeea-street",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "Al Rabeea' Street",
-      "name_ar": "شارع الربيع",
-      "osm": "way/87427413",
-      "kind": "residential",
-      "lat": 25.095188,
-      "lon": 55.17755,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 5
     },
     {
       "id": "dubai/al-rabsh-street",
@@ -138422,7 +137973,8 @@ window.KB = {
       "lon": 55.273186,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-sayorah-street",
@@ -138481,20 +138033,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/al-seedaf-road",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "Al Seedaf Road",
-      "name_ar": "شارع السيداف",
-      "osm": "way/90453361",
-      "kind": "residential",
-      "lat": 25.116368,
-      "lon": 55.205937,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 9
-    },
-    {
       "id": "dubai/al-seedaf-street",
       "area": null,
       "emirate": "dubai",
@@ -138506,7 +138044,8 @@ window.KB = {
       "lon": 55.211457,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 29
+      "variants": 38,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-seef-street",
@@ -139024,7 +138563,8 @@ window.KB = {
       "lon": 55.143916,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-taabea-street",
@@ -139265,20 +138805,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/al-thanya-street",
-      "area": "umm-suqeim-18471749",
-      "emirate": "dubai",
-      "name_en": "Al Thanya Street",
-      "name_ar": "شارع الثنية",
-      "osm": "way/10616220",
-      "kind": "secondary",
-      "lat": 25.14501,
-      "lon": 55.197427,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/al-thanyah-street",
       "area": "al-manara-18471689",
       "emirate": "dubai",
@@ -139290,7 +138816,8 @@ window.KB = {
       "lon": 55.210923,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/al-theraa-street",
@@ -139752,35 +139279,8 @@ window.KB = {
       "lon": 55.257191,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 7
-    },
-    {
-      "id": "dubai/alvorada-2-way",
-      "area": "wadi-al-safa-6-18471658",
-      "emirate": "dubai",
-      "name_en": "Alvorada 2 Way",
-      "name_ar": "شارع ألفورادا",
-      "osm": "way/87283236",
-      "kind": "residential",
-      "lat": 25.043205,
-      "lon": 55.26168,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 4
-    },
-    {
-      "id": "dubai/alvorada-3-way",
-      "area": "wadi-al-safa-6-18471658",
-      "emirate": "dubai",
-      "name_en": "Alvorada 3 Way",
-      "name_ar": "شارع ألفورادا",
-      "osm": "way/87283220",
-      "kind": "residential",
-      "lat": 25.044016,
-      "lon": 55.265412,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 7
+      "variants": 18,
+      "merged_from": 3
     },
     {
       "id": "dubai/amman-street",
@@ -140200,21 +139700,8 @@ window.KB = {
       "lon": 55.285983,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/burj-khalifa-street",
-      "area": "business-bay-18471755",
-      "emirate": "dubai",
-      "name_en": "Burj Khalifa Street",
-      "name_ar": "شارع برج خليفة",
-      "osm": "way/242526542",
-      "kind": "tertiary",
-      "lat": 25.185386,
-      "lon": 55.277072,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/buttercup-way",
@@ -141141,20 +140628,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/elemreef-street",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "Elemreef Street",
-      "name_ar": "شارع الصويب",
-      "osm": "way/26633205",
-      "kind": "residential",
-      "lat": 25.082201,
-      "lon": 55.144651,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/emirates-cluster",
       "area": "warsan-18471741",
       "emirate": "dubai",
@@ -141164,20 +140637,6 @@ window.KB = {
       "kind": "residential",
       "lat": 25.161244,
       "lon": 55.421746,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/emirates-hills",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "Emirates Hills",
-      "name_ar": "تلال الإمارات",
-      "osm": "way/10664029",
-      "kind": "residential",
-      "lat": 25.07583,
-      "lon": 55.161155,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -141194,7 +140653,8 @@ window.KB = {
       "lon": 55.154618,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 3,
+      "merged_from": 3
     },
     {
       "id": "dubai/entry-to-dubai-al-ain-road",
@@ -141757,48 +141217,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/gardenia-1-lane",
-      "area": "green-community-east-18471835",
-      "emirate": "dubai",
-      "name_en": "Gardenia 1 Lane",
-      "name_ar": "طريق الجاردينيا",
-      "osm": "way/457466329",
-      "kind": "residential",
-      "lat": 25.00573,
-      "lon": 55.162358,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/gardenia-2-lane",
-      "area": "green-community-east-18471835",
-      "emirate": "dubai",
-      "name_en": "Gardenia 2 Lane",
-      "name_ar": "طريق الجاردينيا",
-      "osm": "way/496870251",
-      "kind": "residential",
-      "lat": 25.004698,
-      "lon": 55.163788,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "dubai/gardenia-3-lane",
-      "area": "green-community-east-18471835",
-      "emirate": "dubai",
-      "name_en": "Gardenia 3 Lane",
-      "name_ar": "طريق الجاردينيا",
-      "osm": "way/90517242",
-      "kind": "residential",
-      "lat": 25.004505,
-      "lon": 55.162231,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/gardenia-4-lane",
       "area": "green-community-east-18471835",
       "emirate": "dubai",
@@ -141810,7 +141228,8 @@ window.KB = {
       "lon": 55.163612,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 8
+      "variants": 11,
+      "merged_from": 4
     },
     {
       "id": "dubai/gardenia-road",
@@ -142191,20 +141610,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/hattan-avenue",
-      "area": "wadi-al-safa-6-18471658",
-      "emirate": "dubai",
-      "name_en": "Hattan Avenue",
-      "name_ar": "شارع هتان",
-      "osm": "way/87283290",
-      "kind": "residential",
-      "lat": 25.04706,
-      "lon": 55.266857,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/hattan-street",
       "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
@@ -142216,7 +141621,8 @@ window.KB = {
       "lon": 55.265137,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 2
+      "variants": 3,
+      "merged_from": 2
     },
     {
       "id": "dubai/hawthron-lane",
@@ -143381,34 +142787,6 @@ window.KB = {
       "variants": 13
     },
     {
-      "id": "dubai/magnolia-1-lane",
-      "area": "green-community-east-18471835",
-      "emirate": "dubai",
-      "name_en": "Magnolia 1 Lane",
-      "name_ar": "طريق مغنولية",
-      "osm": "way/436397518",
-      "kind": "residential",
-      "lat": 25.004792,
-      "lon": 55.158396,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 2
-    },
-    {
-      "id": "dubai/magnolia-2-lane",
-      "area": "green-community-east-18471835",
-      "emirate": "dubai",
-      "name_en": "Magnolia 2 Lane",
-      "name_ar": "طريق مغنولية",
-      "osm": "way/436397156",
-      "kind": "residential",
-      "lat": 25.002896,
-      "lon": 55.158457,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 3
-    },
-    {
       "id": "dubai/magnolia-4-lane",
       "area": "green-community-east-18471835",
       "emirate": "dubai",
@@ -143420,7 +142798,8 @@ window.KB = {
       "lon": 55.156529,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 5
+      "variants": 10,
+      "merged_from": 3
     },
     {
       "id": "dubai/magnolia-way",
@@ -143619,22 +142998,8 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/marrakech-road",
-      "area": "al-garhoud-18471788",
-      "emirate": "dubai",
-      "name_en": "Marrakech Road",
-      "name_ar": "طريق مراكش",
-      "osm": "way/192420331",
-      "kind": "unclassified",
-      "lat": 25.236724,
-      "lon": 55.362365,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/marrakech-street",
-      "area": null,
+      "area": "al-garhoud-18471788",
       "emirate": "dubai",
       "name_en": "Marrakech Street",
       "name_ar": "شارع مراكش",
@@ -143644,7 +143009,8 @@ window.KB = {
       "lon": 55.351609,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/mayar-boulevard",
@@ -143756,7 +143122,8 @@ window.KB = {
       "lon": 55.162455,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 33
+      "variants": 45,
+      "merged_from": 2
     },
     {
       "id": "dubai/mejsemi-street",
@@ -144305,20 +143672,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/palm-coves",
-      "area": "wadi-al-safa-6-18471658",
-      "emirate": "dubai",
-      "name_en": "Palm Coves",
-      "name_ar": "شارع بالم",
-      "osm": "way/87283221",
-      "kind": "residential",
-      "lat": 25.041846,
-      "lon": 55.256466,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 4
-    },
-    {
       "id": "dubai/palm-groves",
       "area": "wadi-al-safa-6-18471658",
       "emirate": "dubai",
@@ -144330,7 +143683,8 @@ window.KB = {
       "lon": 55.266472,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 4
+      "variants": 18,
+      "merged_from": 4
     },
     {
       "id": "dubai/palm-jumeirah-crescent-tunnel",
@@ -144359,34 +143713,6 @@ window.KB = {
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
-    },
-    {
-      "id": "dubai/palm-link",
-      "area": "wadi-al-safa-6-18471658",
-      "emirate": "dubai",
-      "name_en": "Palm Link",
-      "name_ar": "شارع بالم",
-      "osm": "way/87283122",
-      "kind": "residential",
-      "lat": 25.04139,
-      "lon": 55.25879,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 7
-    },
-    {
-      "id": "dubai/palm-way",
-      "area": "wadi-al-safa-6-18471658",
-      "emirate": "dubai",
-      "name_en": "Palm Way",
-      "name_ar": "شارع بالم",
-      "osm": "way/87283142",
-      "kind": "residential",
-      "lat": 25.040203,
-      "lon": 55.261152,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 3
     },
     {
       "id": "dubai/palma",
@@ -145103,6 +144429,20 @@ window.KB = {
       "variants": 1
     },
     {
+      "id": "dubai/s-701-شارع",
+      "area": null,
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "S 701 شارع",
+      "osm": "way/493972806",
+      "kind": "residential",
+      "lat": 25.019982,
+      "lon": 55.141834,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
       "id": "dubai/sabah-al-ahmed-al-jaber-al-sabah-street",
       "area": "al-hamriya-18471710",
       "emirate": "dubai",
@@ -145243,20 +144583,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/satwa-road",
-      "area": "al-satwa-18471715",
-      "emirate": "dubai",
-      "name_en": "Satwa Road",
-      "name_ar": "شارع السطوة",
-      "osm": "way/480292069",
-      "kind": "secondary",
-      "lat": 25.219878,
-      "lon": 55.268521,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/sawdah-bint-zam-ah-street",
       "area": null,
       "emirate": "dubai",
@@ -145380,7 +144706,8 @@ window.KB = {
       "lon": 55.297456,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/sheikh-mohammed-bin-rashid-boulevard",
@@ -145453,20 +144780,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "dubai/sheikh-zayed-road",
-      "area": null,
-      "emirate": "dubai",
-      "name_en": "Sheikh Zayed Road",
-      "name_ar": "شارع الشيخ زايد",
-      "osm": "way/89606734",
-      "kind": "tertiary",
-      "lat": 25.113809,
-      "lon": 55.189967,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/sherlock-street",
       "area": null,
       "emirate": "dubai",
@@ -145492,7 +144805,8 @@ window.KB = {
       "lon": 55.192303,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/shoreline-street",
@@ -145605,20 +144919,6 @@ window.KB = {
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
-    },
-    {
-      "id": "dubai/springs",
-      "area": "the-springs-18471656",
-      "emirate": "dubai",
-      "name_en": "Springs",
-      "name_ar": "شارع",
-      "osm": "way/87183153",
-      "kind": "residential",
-      "lat": 25.056861,
-      "lon": 55.175438,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 12
     },
     {
       "id": "dubai/sun-flower-way",
@@ -145968,7 +145268,8 @@ window.KB = {
       "lon": 55.221483,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/umm-amara-street",
@@ -146265,20 +145566,6 @@ window.KB = {
       "variants": 12
     },
     {
-      "id": "dubai/za-abeel-street",
-      "area": "al-karama-18471789",
-      "emirate": "dubai",
-      "name_en": "Za'abeel Street",
-      "name_ar": "شارع زعبيل",
-      "osm": "way/279792187",
-      "kind": "primary",
-      "lat": 25.235724,
-      "lon": 55.304675,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "dubai/zaa-beel-palace-street",
       "area": "zabeel-18471721",
       "emirate": "dubai",
@@ -146304,7 +145591,8 @@ window.KB = {
       "lon": 55.305855,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "dubai/zaghoor-street",
@@ -146433,29 +145721,212 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "fujairah/طريق-عيد-مصلى",
+      "id": "dubai/الفرجان-قرطاج-4",
       "area": null,
-      "emirate": "fujairah",
+      "emirate": "dubai",
       "name_en": "",
-      "name_ar": "طريق عيد مصلى",
-      "osm": "way/502761846",
+      "name_ar": "الفرجان-قرطاج-4",
+      "osm": "way/761610119",
       "kind": "residential",
-      "lat": 25.123205,
-      "lon": 56.339622,
+      "lat": 25.029846,
+      "lon": 55.148335,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
     },
     {
-      "id": "fujairah/وادي-الوريعة",
+      "id": "dubai/شارع",
       "area": null,
-      "emirate": "fujairah",
+      "emirate": "dubai",
       "name_en": "",
-      "name_ar": "وادي الوريعة",
-      "osm": "way/1291754187",
-      "kind": "unclassified",
-      "lat": 25.404368,
-      "lon": 56.339575,
+      "name_ar": "شارع",
+      "osm": "way/135190242",
+      "kind": "secondary",
+      "lat": 25.160761,
+      "lon": 55.509667,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 20
+    },
+    {
+      "id": "dubai/شارع-الثاني-من-ديسمبر",
+      "area": "zabeel-18471721",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع الثاني من ديسمبر",
+      "osm": "way/1567014249",
+      "kind": "primary",
+      "lat": 25.229084,
+      "lon": 55.289456,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-الحدائق",
+      "area": null,
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع الحدائق",
+      "osm": "way/150515124",
+      "kind": "tertiary",
+      "lat": 25.069067,
+      "lon": 55.247437,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-الخيل-الأول",
+      "area": "jabal-ali-industrial-3-18471829",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع الخيل الأول",
+      "osm": "way/354267548",
+      "kind": "secondary",
+      "lat": 24.925522,
+      "lon": 55.057545,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 2,
+      "merged_from": 2
+    },
+    {
+      "id": "dubai/شارع-الروية",
+      "area": "al-ruwayyah-2-18471659",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع الروية",
+      "osm": "way/155404110",
+      "kind": "secondary",
+      "lat": 25.121981,
+      "lon": 55.410625,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-الشرطة",
+      "area": "oud-al-muteena-18471758",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع الشرطة",
+      "osm": "way/499928319",
+      "kind": "residential",
+      "lat": 25.274147,
+      "lon": 55.453667,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 2
+    },
+    {
+      "id": "dubai/شارع-الفرسان",
+      "area": null,
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع الفرسان",
+      "osm": "way/360213685",
+      "kind": "tertiary",
+      "lat": 25.091997,
+      "lon": 55.364218,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-المنامة",
+      "area": null,
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع المنامة",
+      "osm": "way/201479445",
+      "kind": "tertiary",
+      "lat": 25.106568,
+      "lon": 55.438231,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-زعبيل",
+      "area": "zabeel-18471721",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع زعبيل",
+      "osm": "way/495970549",
+      "kind": "tertiary",
+      "lat": 25.218028,
+      "lon": 55.295065,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-سيح-السلم",
+      "area": "al-lesaily-18471841",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع سيح السلم",
+      "osm": "way/149014321",
+      "kind": "primary",
+      "lat": 24.952203,
+      "lon": 55.502352,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-لطيفة-بنت-حمدان",
+      "area": "umm-nahad-4-madinat-hind-4-21217661",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع لطيفة بنت حمدان",
+      "osm": "way/1204664494",
+      "kind": "tertiary",
+      "lat": 24.98834,
+      "lon": 55.348539,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-مدينة-العربية",
+      "area": "wadi-al-safa-4-18471837",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع مدينة العربية",
+      "osm": "way/24595086",
+      "kind": "tertiary",
+      "lat": 25.094423,
+      "lon": 55.330771,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-مرغم",
+      "area": "grayteesah-18471807",
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع مرغم",
+      "osm": "way/47924504",
+      "kind": "primary",
+      "lat": 24.874407,
+      "lon": 55.547546,
+      "old_name_en": null,
+      "old_name_ar": null,
+      "variants": 1
+    },
+    {
+      "id": "dubai/شارع-منطقة-w",
+      "area": null,
+      "emirate": "dubai",
+      "name_en": "",
+      "name_ar": "شارع منطقة W",
+      "osm": "way/445603056",
+      "kind": "residential",
+      "lat": 25.02535,
+      "lon": 55.153466,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -146934,7 +146405,8 @@ window.KB = {
       "lon": 56.338671,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "fujairah/fahim-road",
@@ -147539,15 +147011,15 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "ras-al-khaimah/شارع-سلطان-آل-الكبير-الشرقية",
-      "area": "saih-al-hudiabah-18471765",
-      "emirate": "ras-al-khaimah",
+      "id": "fujairah/وادي-الوريعة",
+      "area": null,
+      "emirate": "fujairah",
       "name_en": "",
-      "name_ar": "شارع سلطان آل الكبير الشرقية",
-      "osm": "way/146698435",
-      "kind": "secondary",
-      "lat": 25.796074,
-      "lon": 55.98974,
+      "name_ar": "وادي الوريعة",
+      "osm": "way/1291754187",
+      "kind": "unclassified",
+      "lat": 25.404368,
+      "lon": 56.339575,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -147718,7 +147190,8 @@ window.KB = {
       "lon": 55.782247,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "ras-al-khaimah/al-haqeel",
@@ -148071,20 +147544,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "ras-al-khaimah/al-shohadaa-road",
-      "area": "al-hamraniyah-18471771",
-      "emirate": "ras-al-khaimah",
-      "name_en": "Al Shohadaa Road",
-      "name_ar": "شارع الشهداء",
-      "osm": "way/143914338",
-      "kind": "primary",
-      "lat": 25.630131,
-      "lon": 55.839886,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "ras-al-khaimah/al-shohadaa-street",
       "area": "al-hamraniyah-18471771",
       "emirate": "ras-al-khaimah",
@@ -148096,7 +147555,8 @@ window.KB = {
       "lon": 55.844258,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "ras-al-khaimah/al-tilal-street",
@@ -148430,20 +147890,6 @@ window.KB = {
       "kind": "tertiary",
       "lat": 25.170928,
       "lon": 56.100073,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "ras-al-khaimah/minsk-street",
-      "area": "al-jazirah-al-hamra-18471823",
-      "emirate": "ras-al-khaimah",
-      "name_en": "Minsk Street",
-      "name_ar": "شارع مينسك",
-      "osm": "way/224211443",
-      "kind": "tertiary",
-      "lat": 25.698988,
-      "lon": 55.781026,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -148827,29 +148273,15 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "sharjah/شارع",
-      "area": "khor-fakkan-12497695",
-      "emirate": "sharjah",
+      "id": "ras-al-khaimah/شارع-سلطان-آل-الكبير-الشرقية",
+      "area": "saih-al-hudiabah-18471765",
+      "emirate": "ras-al-khaimah",
       "name_en": "",
-      "name_ar": "شارع",
-      "osm": "way/101598096",
-      "kind": "unclassified",
-      "lat": 25.397051,
-      "lon": 56.350037,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 29
-    },
-    {
-      "id": "sharjah/شارع-المرقاب",
-      "area": "sharjah-12905785",
-      "emirate": "sharjah",
-      "name_en": "",
-      "name_ar": "شارع المرقاب",
-      "osm": "way/196060846",
+      "name_ar": "شارع سلطان آل الكبير الشرقية",
+      "osm": "way/146698435",
       "kind": "secondary",
-      "lat": 25.377623,
-      "lon": 55.412878,
+      "lat": 25.796074,
+      "lon": 55.98974,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -149004,20 +148436,6 @@ window.KB = {
       "kind": "residential",
       "lat": 25.339637,
       "lon": 55.390669,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "sharjah/abdullab-bin-salamah-street",
-      "area": "al-qasimia-18471734",
-      "emirate": "sharjah",
-      "name_en": "Abdullab Bin Salamah Street",
-      "name_ar": "شارع عبدالله بن سلامة",
-      "osm": "way/70506462",
-      "kind": "residential",
-      "lat": 25.341941,
-      "lon": 55.398286,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -149426,7 +148844,8 @@ window.KB = {
       "lon": 55.39711,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/abdullah-bin-suhail-street",
@@ -151935,34 +151354,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "sharjah/al-meqdad-bin-amr-street",
-      "area": "al-sharq-18471744",
-      "emirate": "sharjah",
-      "name_en": "Al Meqdad Bin Amr Street",
-      "name_ar": "شارع المقداد بن عمرو",
-      "osm": "way/70946620",
-      "kind": "residential",
-      "lat": 25.358773,
-      "lon": 55.402071,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "sharjah/al-mergab-street",
-      "area": "sharjah-12905785",
-      "emirate": "sharjah",
-      "name_en": "Al Mergab Street",
-      "name_ar": "شارع المرقاب",
-      "osm": "way/196060675",
-      "kind": "secondary",
-      "lat": 25.382283,
-      "lon": 55.420172,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "sharjah/al-miqdad-bin-amr-street",
       "area": "al-qasimia-18471734",
       "emirate": "sharjah",
@@ -151974,7 +151365,8 @@ window.KB = {
       "lon": 55.391614,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/al-mirgab-street",
@@ -151988,7 +151380,8 @@ window.KB = {
       "lon": 55.412712,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 3,
+      "merged_from": 3
     },
     {
       "id": "sharjah/al-mua-yti-street",
@@ -152313,20 +151706,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "sharjah/al-qal-aa-street",
-      "area": "kalba-12482829",
-      "emirate": "sharjah",
-      "name_en": "Al Qal'aa Street",
-      "name_ar": "شارع القلعة",
-      "osm": "way/194750975",
-      "kind": "tertiary",
-      "lat": 25.029037,
-      "lon": 56.357238,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "sharjah/al-qala-a-street",
       "area": "kalba-12482829",
       "emirate": "sharjah",
@@ -152338,7 +151717,8 @@ window.KB = {
       "lon": 56.356079,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/al-qasba-a-street",
@@ -152523,20 +151903,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "sharjah/al-sa-ab-bin-juthamah-street",
-      "area": "al-sharq-18471744",
-      "emirate": "sharjah",
-      "name_en": "Al Sa'ab Bin Juthamah Street",
-      "name_ar": "شارع الصعب بن جثامة",
-      "osm": "way/72823935",
-      "kind": "residential",
-      "lat": 25.362978,
-      "lon": 55.413867,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "sharjah/al-sa-eb-al-thaqafi-street",
       "area": "al-sharq-18471744",
       "emirate": "sharjah",
@@ -152562,7 +151928,8 @@ window.KB = {
       "lon": 55.410601,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/al-saber-street",
@@ -152786,7 +152153,8 @@ window.KB = {
       "lon": 56.354965,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/al-shanouf-road",
@@ -154189,20 +153557,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "sharjah/corniche-road",
-      "area": "al-soor-18471727",
-      "emirate": "sharjah",
-      "name_en": "Corniche Road",
-      "name_ar": "شارع الكورنيش",
-      "osm": "way/24509015",
-      "kind": "secondary",
-      "lat": 25.346853,
-      "lon": 55.384279,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "sharjah/corniche-street",
       "area": "al-jubail-18471751",
       "emirate": "sharjah",
@@ -154214,7 +153568,8 @@ window.KB = {
       "lon": 55.381782,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/cultural-square",
@@ -154567,20 +153922,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "sharjah/hajeb-bin-zaid-street",
-      "area": "sharjah-12905785",
-      "emirate": "sharjah",
-      "name_en": "Hajeb Bin Zaid Street",
-      "name_ar": "شارع حاجب بن زيد",
-      "osm": "way/228700533",
-      "kind": "residential",
-      "lat": 25.388972,
-      "lon": 55.433601,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "sharjah/hajeb-bin-zeid-street",
       "area": "sharjah-12905785",
       "emirate": "sharjah",
@@ -154592,7 +153933,8 @@ window.KB = {
       "lon": 55.432291,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/hammed-bin-zayd-street",
@@ -155729,20 +155071,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "sharjah/jareer-al-khaffi-street",
-      "area": "al-sharq-18471744",
-      "emirate": "sharjah",
-      "name_en": "Jareer Al Khaffi Street",
-      "name_ar": "شارع جرير الخفجي",
-      "osm": "way/72817666",
-      "kind": "residential",
-      "lat": 25.374065,
-      "lon": 55.406368,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "sharjah/jareer-al-khafji-street",
       "area": "al-sharq-18471744",
       "emirate": "sharjah",
@@ -155754,7 +155082,8 @@ window.KB = {
       "lon": 55.406003,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/jareer-bin-abdullah-street",
@@ -156620,20 +155949,6 @@ window.KB = {
       "kind": "residential",
       "lat": 25.32319,
       "lon": 55.380327,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "sharjah/martyr-saif-issa-al-naqbi-street",
-      "area": "khor-fakkan-12497695",
-      "emirate": "sharjah",
-      "name_en": "Martyr Saif Issa Al Naqbi Street",
-      "name_ar": "شارع الشهيد سيف عيسى النقبي",
-      "osm": "way/101598195",
-      "kind": "tertiary",
-      "lat": 25.390637,
-      "lon": 56.354688,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -159576,21 +158891,8 @@ window.KB = {
       "lon": 56.358811,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "sharjah/sheikh-saeed-bin-hamad-al-qasm-road",
-      "area": "kalba-12482829",
-      "emirate": "sharjah",
-      "name_en": "Sheikh Saeed bin Hamad Al Qasm Road",
-      "name_ar": "طريق الشيخ سعيد بن حمد القاسمي",
-      "osm": "way/194781676",
-      "kind": "trunk",
-      "lat": 25.084987,
-      "lon": 56.358162,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/sheikh-salem-bin-sultan-al-qasimi-street",
@@ -160640,7 +159942,8 @@ window.KB = {
       "lon": 56.335251,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "sharjah/wahab-al-san-ani-street",
@@ -160722,20 +160025,6 @@ window.KB = {
       "kind": "trunk",
       "lat": 25.339654,
       "lon": 55.428419,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "sharjah/wurayah",
-      "area": "khor-fakkan-12497695",
-      "emirate": "sharjah",
-      "name_en": "Wurayah",
-      "name_ar": "وادي الوريعة",
-      "osm": "way/1232687628",
-      "kind": "unclassified",
-      "lat": 25.405939,
-      "lon": 56.341942,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -161161,32 +160450,18 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "umm-al-quwain/شارع-العالية",
-      "area": "emirates-modern-industrial-18471739",
-      "emirate": "umm-al-quwain",
+      "id": "sharjah/شارع",
+      "area": "khor-fakkan-12497695",
+      "emirate": "sharjah",
       "name_en": "",
-      "name_ar": "شارع العالية",
-      "osm": "way/160435360",
-      "kind": "tertiary",
-      "lat": 25.578643,
-      "lon": 55.762551,
+      "name_ar": "شارع",
+      "osm": "way/101598096",
+      "kind": "unclassified",
+      "lat": 25.397051,
+      "lon": 56.350037,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "umm-al-quwain/شارع-البقرة",
-      "area": "al-raas-12905760",
-      "emirate": "umm-al-quwain",
-      "name_en": "",
-      "name_ar": "شارع البقرة",
-      "osm": "way/302396322",
-      "kind": "living_street",
-      "lat": 25.575588,
-      "lon": 55.556069,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
+      "variants": 29
     },
     {
       "id": "umm-al-quwain/2nd-december-street",
@@ -161526,7 +160801,7 @@ window.KB = {
     },
     {
       "id": "umm-al-quwain/al-alyaah-st",
-      "area": null,
+      "area": "emirates-modern-industrial-18471739",
       "emirate": "umm-al-quwain",
       "name_en": "Al Alyaah St",
       "name_ar": "شارع العالية",
@@ -161536,7 +160811,8 @@ window.KB = {
       "lon": 55.76017,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "umm-al-quwain/al-ameen-street",
@@ -161802,7 +161078,8 @@ window.KB = {
       "lon": 55.556216,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "umm-al-quwain/al-barahah-street",
@@ -161858,7 +161135,8 @@ window.KB = {
       "lon": 55.589003,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "umm-al-quwain/al-barsha-street",
@@ -162029,20 +161307,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "umm-al-quwain/al-brq-street",
-      "area": "al-salmah-12905771",
-      "emirate": "umm-al-quwain",
-      "name_en": "Al Brq Street",
-      "name_ar": "شارع البرق",
-      "osm": "way/165709351",
-      "kind": "residential",
-      "lat": 25.496728,
-      "lon": 55.594466,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "umm-al-quwain/al-buhtori-street",
       "area": "al-hamrah-12905752",
       "emirate": "umm-al-quwain",
@@ -162166,7 +161430,8 @@ window.KB = {
       "lon": 55.565395,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "umm-al-quwain/al-dana-street",
@@ -163944,7 +163209,8 @@ window.KB = {
       "lon": 55.581059,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "umm-al-quwain/al-meedaf-street",
@@ -164208,20 +163474,6 @@ window.KB = {
       "kind": "residential",
       "lat": 25.541814,
       "lon": 55.552239,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
-      "id": "umm-al-quwain/al-mzr-street",
-      "area": "al-salmah-12905771",
-      "emirate": "umm-al-quwain",
-      "name_en": "Al Mzr Street",
-      "name_ar": "شارع المزر",
-      "osm": "way/165711648",
-      "kind": "residential",
-      "lat": 25.492973,
-      "lon": 55.591938,
       "old_name_en": null,
       "old_name_ar": null,
       "variants": 1
@@ -165207,20 +164459,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "umm-al-quwain/al-sanabei-street",
-      "area": "al-salmah-12905771",
-      "emirate": "umm-al-quwain",
-      "name_en": "Al Sanabei Street",
-      "name_ar": "شارع السنابل",
-      "osm": "way/165732649",
-      "kind": "tertiary",
-      "lat": 25.496097,
-      "lon": 55.597723,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "umm-al-quwain/al-sanabel-street",
       "area": "al-salmah-12905771",
       "emirate": "umm-al-quwain",
@@ -165232,7 +164470,8 @@ window.KB = {
       "lon": 55.595861,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "umm-al-quwain/al-sanam-street",
@@ -166495,20 +165734,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "umm-al-quwain/corniche-road",
-      "area": "old-town-area-12905759",
-      "emirate": "umm-al-quwain",
-      "name_en": "Corniche Road",
-      "name_ar": "شارع الكورنيش",
-      "osm": "way/166172668",
-      "kind": "tertiary",
-      "lat": 25.586477,
-      "lon": 55.577876,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "umm-al-quwain/emra-o-al-qais-street",
       "area": "al-hamrah-12905752",
       "emirate": "umm-al-quwain",
@@ -167461,20 +166686,6 @@ window.KB = {
       "variants": 1
     },
     {
-      "id": "umm-al-quwain/sheikh-rashid-bin-saaed-al-maktoum-street",
-      "area": "al-hamrah-12905752",
-      "emirate": "umm-al-quwain",
-      "name_en": "Sheikh Rashid Bin Saaed Al Maktoum Street",
-      "name_ar": "شارع الشيخ راشد بن سعيد آل مكتوم",
-      "osm": "way/166116821",
-      "kind": "tertiary",
-      "lat": 25.537148,
-      "lon": 55.544166,
-      "old_name_en": null,
-      "old_name_ar": null,
-      "variants": 1
-    },
-    {
       "id": "umm-al-quwain/sheikh-rashid-bin-saeed-al-maktoum-street",
       "area": "al-hamrah-12905752",
       "emirate": "umm-al-quwain",
@@ -167486,7 +166697,8 @@ window.KB = {
       "lon": 55.547526,
       "old_name_en": null,
       "old_name_ar": null,
-      "variants": 1
+      "variants": 2,
+      "merged_from": 2
     },
     {
       "id": "umm-al-quwain/sheikh-saud-bin-rashid-al-mu-alla-street",

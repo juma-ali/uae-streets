@@ -1,7 +1,7 @@
 # UAE Streets
 
 **A bilingual (Arabic/English) field guide to the names on UAE street signs — and a
-directory of 11,530 named streets.**
+directory of 11,470 named streets.**
 
 [![checks](https://github.com/juma-ali/uae-streets/actions/workflows/checks.yml/badge.svg)](https://github.com/juma-ali/uae-streets/actions/workflows/checks.yml)
 **[The guide →](https://juma-ali.github.io/uae-streets/)** ·
@@ -43,7 +43,7 @@ Both are static: no framework, no build step, no trackers.
 
 **The directory**
 
-- **11,530 streets · 344 districts · seven emirates**, each with an Arabic name
+- **11,470 streets · 344 districts · seven emirates**, each with an Arabic name
   where OpenStreetMap has one (97% do).
 - **Bilingual with a real toggle** — [English](docs/directory.png) and
   [Arabic](docs/directory-ar.png) are both first-class; Arabic flips the layout to
@@ -61,7 +61,7 @@ Three files, one story:
 | File | What it is | Licence |
 |---|---|---|
 | [`data/streets.js`](data/streets.js) | The 27 editorial entries | CC BY 4.0 |
-| [`data/kb.js`](data/kb.js) | 11,530 streets, 344 districts, 7 emirates | **ODbL** |
+| [`data/kb.js`](data/kb.js) | 11,470 streets, 344 districts, 7 emirates | **ODbL** |
 | [`directory/`](directory/) | 358 generated pages + search index | **ODbL** |
 
 An editorial entry, plain JavaScript:

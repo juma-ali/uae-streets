@@ -233,14 +233,77 @@ for (const el of roads) {
   });
 }
 
+
+/* Two rows can carry one Arabic name in two transliterations ("'Ain Al Faydah"
+   and "Ain Al Faydah"). Merge them only when they are also the same place: same
+   emirate, same normalised Arabic name, centres within 2 km. */
+const arKey = (s) =>
+  String(s || "")
+    .replace(/[\u064B-\u0655\u0670\u0640]/g, "")
+    .replace(/[\u0623\u0625\u0622\u0671]/g, "\u0627")
+    .replace(/\u0649/g, "\u064A")
+    .replace(/\u0629/g, "\u0647")
+    .replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+const kmApart = (a, b) => {
+  const dy = (a.lat - b.lat) * 111;
+  const dx = (a.lon - b.lon) * 111 * Math.cos((a.lat * Math.PI) / 180);
+  return Math.hypot(dx, dy);
+};
+
+function sameNameWithin2km(rows) {
+  const byKey = new Map();
+  const passthrough = [];
+  for (const s of rows) {
+    if (!arKey(s.name_ar)) { passthrough.push(s); continue; }
+    const k = s.emirate + "|" + arKey(s.name_ar);
+    if (!byKey.has(k)) byKey.set(k, []);
+    byKey.get(k).push(s);
+  }
+  const out = [];
+  let merged = 0;
+  const seen = new Set();
+  for (const [k, group] of byKey) {
+    if (!group.length) continue;
+    if (group.length === 1) { out.push(group[0]); seen.add(group[0].id); continue; }
+    // greedy clustering by proximity
+    const clusters = [];
+    for (const s of group) {
+      const c = clusters.find((cl) => cl.some((x) => kmApart(x, s) <= 2));
+      if (c) c.push(s); else clusters.push([s]);
+    }
+    for (const cl of clusters) {
+      if (cl.length === 1) { out.push(cl[0]); seen.add(cl[0].id); continue; }
+      const base = cl.slice().sort((a, b) => (b.name_en || "").length - (a.name_en || "").length)[0];
+      const row = { ...base };
+      row.variants = cl.reduce((n, x) => n + (x.variants || 1), 0);
+      row.merged_from = cl.length;
+      if (!row.name_en) row.name_en = cl.find((x) => x.name_en)?.name_en || "";
+      if (!row.old_name_en) row.old_name_en = cl.find((x) => x.old_name_en)?.old_name_en || null;
+      if (!row.old_name_ar) row.old_name_ar = cl.find((x) => x.old_name_ar)?.old_name_ar || null;
+      if (!row.area) row.area = cl.find((x) => x.area)?.area || null;
+      out.push(row);
+      merged += cl.length - 1;
+      seen.add(row.id);
+    }
+  }
+  console.log(`merged: ${merged} rows sharing an Arabic name within 2 km`);
+  return out.concat(passthrough);
+}
+
 /* ---------- write ---------- */
-const streets = [];
+let streets = [];
 for (const [emId, bucket] of byEmirateName) {
   const rows = [...bucket.values()];
   emirates.get(emId).street_count = rows.length;
   streets.push(...rows);
 }
-streets.sort((a, b) => a.emirate.localeCompare(b.emirate) || a.name_en.localeCompare(b.name_en));
+streets = sameNameWithin2km(streets);
+for (const rec of emirates.values()) rec.street_count = 0;
+for (const s of streets) emirates.get(s.emirate).street_count++;
+streets.sort((a, b) => a.emirate.localeCompare(b.emirate) || (a.name_en || a.name_ar).localeCompare(b.name_en || b.name_ar));
 
 const kb = {
   meta: {

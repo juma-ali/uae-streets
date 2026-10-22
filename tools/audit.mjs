@@ -163,6 +163,22 @@ if (strict) {
   bad("missing coordinates", S.filter((s) => !Number.isFinite(s.lat) || !Number.isFinite(s.lon)));
   bad("unknown emirate", S.filter((s) => !["abu-dhabi","dubai","sharjah","ajman","umm-al-quwain","ras-al-khaimah","fujairah"].includes(s.emirate)));
   bad("area rows that no street references", KB.areas.filter((a) => !S.some((s) => s.area === a.id)));
+  /* One Arabic name for two nearby rows means a transliteration split we missed. */
+  const arKey = (s) => String(s || "").replace(/[\u064B-\u0655\u0670\u0640]/g, "")
+    .replace(/[\u0623\u0625\u0622\u0671]/g, "\u0627").replace(/\u0649/g, "\u064A").replace(/\u0629/g, "\u0647")
+    .replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "").replace(/\s+/g, " ").trim();
+  const km = (x, y) => Math.hypot((x.lat - y.lat) * 111, (x.lon - y.lon) * 111 * Math.cos((x.lat * Math.PI) / 180));
+  const seen = new Map();
+  const nearDupes = [];
+  for (const s of S) {
+    const k = s.emirate + "|" + arKey(s.name_ar);
+    if (!arKey(s.name_ar)) continue;
+    if (!seen.has(k)) { seen.set(k, []); }
+    const group = seen.get(k);
+    if (group.some((x) => km(x, s) <= 2)) nearDupes.push(s);
+    group.push(s);
+  }
+  bad("same Arabic name on two rows within 2 km", nearDupes);
   bad("areas without a four-level path", KB.areas.filter((a) => !Array.isArray(a.path) || a.path.length !== 4));
 
   /* Values can be valid while a whole emirate has silently vanished — that is
