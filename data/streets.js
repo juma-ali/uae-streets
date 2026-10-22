@@ -634,5 +634,20 @@ window.STREETS = [
     refs: [
       { label: "Wikipedia — عبد الله بن قيس الحارثي", url: "https://ar.wikipedia.org/wiki/عبد_الله_بن_قيس_الحارثي" }
     ]
+  },
+  {
+    id: "abdulla-khalifa-al-nuaimi-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "account",
+    ar: "شارع عبدالله خليفة النعيمي",
+    en: "Abdulla Khalifa Al Nuaimi Street",
+    translit: "Shāriʿ ʿAbd Allāh Khalīfa an-Nuʿaymī",
+    meaning: { en: "An Emirati engineer, one of the heroes of the Armed Forces", ar: "مهندس إماراتي من أبطال القوات المسلحة" },
+    story: {
+      en: "Abdullah Khalifa Al Nuaimi was an Emirati engineer and a member of the UAE Armed Forces, remembered as a martyr. The street carries his name.",
+      ar: "عبدالله خليفة النعيمي مهندس إماراتي وأحد أبطال القوات المسلحة البواسل، استُشهد في سبيل الوطن. ويحمل الشارع اسمه."
+    },
+    refs: []
   }
 ];
