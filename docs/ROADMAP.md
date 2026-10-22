@@ -96,6 +96,11 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
       removed 42 rows that had Arabic text in the English field.
 - [x] **Bilingual directory** — every page has an EN/AR toggle, RTL layout, Arabic
       district names and Arabic-Indic numerals.
+- [x] **Story cross-links** — 22 of the 27 editorial entries badge their street in
+      the directory tables and link back to the guide; the guide's sheet links to the
+      directory. **5 stories have no mapped street**: Muroor Road, Electra Street,
+      Khalifa Street, Buhairah Corniche, Sheikh Rashid bin Ahmad Al Mualla Street —
+      OSM has no road under those names, the same gap class as Dubai's Deira roads.
 - [ ] **Fold `data/index.js` into `data/kb.js`** so there is one facts file.
 - [x] **All seven emirates** — country-wide import + boundary assignment. Note the
       consequence of the numeric rule: Dubai keeps only 934 named streets out of 23,960

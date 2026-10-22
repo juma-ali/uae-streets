@@ -20,9 +20,42 @@ import { fileURLToPath } from "node:url";
 const root = fileURLToPath(new URL("..", import.meta.url));
 const out = root + "directory";
 
-const sandbox = {};
-new Function("window", readFileSync(root + "data/kb.js", "utf8"))(sandbox);
-const KB = sandbox.KB;
+const load = (file, global) => {
+  const box = {};
+  new Function("window", readFileSync(file, "utf8"))(box);
+  return box[global];
+};
+const KB = load(root + "data/kb.js", "KB");
+const EDITORIAL = load(root + "data/streets.js", "STREETS");
+
+/* The guide's name for a street and OSM's name for it differ in 3 cases; these
+   aliases are the whole fix. The other 5 stories have no mapped street at all. */
+const ALIAS = {
+  "Al Najda Street": "Al Najdah Street",
+  "Oud Metha Road": "Oud Maitha Road",
+  "Sheikh Mohammed bin Salem Street": "Sheikh Mohammad Bin Salem Road",
+};
+
+const normName = (s) =>
+  String(s || "").toLowerCase()
+    .replace(/\b(street|road|st|rd|avenue)\b/g, " ")
+    .replace(/[^a-z0-9\u0600-\u06FF]+/g, " ").replace(/\s+/g, " ").trim();
+
+const byName = new Map();
+for (const s of KB.streets) {
+  byName.set(normName(s.name_en) + "|" + s.emirate, s);
+  byName.set(normName(s.name_ar) + "|" + s.emirate, s);
+}
+/* storyOf[osm] = editorial id, so a table row can link back to the guide. */
+const storyOf = new Map();
+const unlinked = [];
+for (const e of EDITORIAL) {
+  const wanted = ALIAS[e.en] || e.en;
+  const hit = byName.get(normName(wanted) + "|" + e.emirate) || byName.get(normName(e.ar) + "|" + e.emirate);
+  if (hit) storyOf.set(hit.osm, e.id);
+  else unlinked.push(e.en);
+}
+console.log(`stories : ${storyOf.size} linked of ${EDITORIAL.length} — unmapped: ${unlinked.join(", ")}`);
 
 const esc = (s) =>
   String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -85,6 +118,8 @@ ul.list small.where{color:var(--ink3)}
 footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid var(--line);padding-top:1rem}
 .langbtn{position:fixed;top:.8rem;inset-inline-end:1rem;z-index:20;font:inherit;font-size:.78rem;padding:.35rem .8rem;border:1px solid var(--line);border-radius:99px;background:var(--card);color:var(--ink);cursor:pointer}
 .langbtn:hover{border-color:var(--ink3)}
+.badge{display:inline-block;font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;padding:.05rem .4rem;border:1px solid var(--accent);border-radius:99px;color:var(--accent);vertical-align:middle;text-decoration:none}
+.badge:hover{background:var(--accent);color:#fff;text-decoration:none}
 `;
 
 const SCRIPT = `
@@ -233,6 +268,7 @@ for (const [em, rows] of emirates) {
 </form>
 <p class="lede">${bi(ledeEn, ledeAr)}</p>
 ${numericNote}
+${(() => { const n = rows.filter((r) => storyOf.has(r.osm)).length; return n ? `<p class="lede">${bi(`${n} of these streets have a researched story behind the name.`, `${n} من هذه الشوارع لها قصة موثّقة وراء اسمها.`)}</p>` : ""; })()}
 <ul class="list">
 ${areas
   .map((a) => {
@@ -266,7 +302,7 @@ ${
       .sort((a, b) => (a.name_en || a.name_ar).localeCompare(b.name_en || b.name_ar))
       .map(
         (s) =>
-          `    <tr><td>${esc(s.name_en || s.name_ar)}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
+          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? ` <a class="badge" href="../../index.html#street=${esc(storyOf.get(s.osm))}">${bi("story", "قصة")}</a>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
       )
       .join("\n");
 

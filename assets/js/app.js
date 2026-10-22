@@ -350,6 +350,9 @@
           '<p class="sheet__meaning-text">' + esc(meaning) + "</p></div>"
         : "") +
       '<div class="sheet__story"><p>' + esc(story) + "</p></div>" +
+      '<p class="sheet__dir"><a href="directory/search.html?q=' + encodeURIComponent(s.en) + '">' +
+        (state.lang === "ar" ? "ابحث عنه في دليل الشوارع ←" : "Find it in the street directory →") +
+        "</a></p>" +
       '<p class="sheet__caveat">' + esc(isLocal ? T.caveatLocal : T.caveatDocumented) + "</p>" +
       '<div class="sheet__footer">' +
         (s.refs && s.refs.length

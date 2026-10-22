@@ -139,6 +139,14 @@ in Arabic, and districts show their own Arabic name (`area.name_ar`) rather than
 transliteration. Street names are already bilingual in the data, so they are not
 duplicated.
 
+## Two-way links to the guide
+
+22 of the 27 curated entries resolve to a street here. Their rows carry a `story`
+badge linking to `../index.html#street=<id>`, and the guide's detail sheet links
+back to a directory search for the same name. The other five — Muroor Road,
+Electra Street, Khalifa Street, Buhairah Corniche, Sheikh Rashid bin Ahmad Al
+Mualla Street — exist in the guide but not, under those names, in OpenStreetMap.
+
 ## Meanings belong elsewhere
 
 The base names are often ordinary Arabic words — الأُقحوان is the chrysanthemum
