@@ -37,6 +37,7 @@ Double-click `index.html`. That's it.
 | `tools/wiki-check.mjs` | Cross-checks Dubai roads against Wikipedia's route lists | you want an independent signal |
 | `tools/web-check.mjs` | Corroborates a few names through a local SearXNG (rate-limited — see WEB-CHECK.md) | answering "does this road exist?" |
 | `tools/audit.mjs` | Integrity checks; `--assert` is the CI gate on KB invariants | before publishing, after a big import | Internal integrity checks; emits a stratified sample for cross-checking | before publishing, after a big import |
+| `tools/classify.mjs` | Assigns people/places/words/tribes/events to every street → `data/categories.js` | after a KB rebuild |
 | `tools/wiki-build.mjs` | Generates `directory/`: 358 browse pages + `search.html` + the search index | the KB changed |
 | `tools/templates/search.html` | The search page template (hand-edited, copied on build) | you change search behaviour |
 | `directory/` | Generated browse pages (emirates → districts → streets) | never edited by hand |
