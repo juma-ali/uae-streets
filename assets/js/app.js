@@ -144,7 +144,7 @@
     return d !== 0 ? d : a.en.localeCompare(b.en);
   });
 
-  var state = { lang: "en", q: "", emirate: "all", category: "all" };
+  var state = { lang: "en", q: "", emirate: "all", category: "all", showRoads: false };
   var results = [];
   var lastRoads = [];
   var ROAD_PAGE = 60;
@@ -158,7 +158,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023b";
+    s.src = "data/cards.js?v=20261023c";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -343,8 +343,17 @@
   /* ---------- render: grid ---------- */
   function renderGrid(animate) {
     var grid = $("#grid");
-    lastRoads = roadMatches();
+    lastRoads = state.showRoads ? roadMatches() : [];
     var shownRoads = lastRoads.slice(0, state.roadsShown || ROAD_PAGE);
+    var allWrap = $("#show-all-wrap");
+    var allBtn = $("#show-all");
+    if (allWrap && allBtn) {
+      allWrap.hidden = !!state.showRoads || !ROADS;
+      var totalRoads = ROADS ? ROADS.rows.filter(function (r) { return !r[7]; }).length : 0;
+      allBtn.textContent = state.lang === "ar"
+        ? "عرض كل الطرق (" + totalRoads.toLocaleString("ar-EG") + ")"
+        : "Show every road (" + totalRoads.toLocaleString("en") + ")";
+    }
     var moreWrap = $("#show-more-wrap");
     if (moreWrap) {
       moreWrap.hidden = lastRoads.length <= (state.roadsShown || ROAD_PAGE);
@@ -659,6 +668,7 @@
         if (!ROADS && search.value.trim()) loadRoads(function () { update(false); });
         state.q = search.value;
         state.roadsShown = ROAD_PAGE;
+        if (search.value.trim()) state.showRoads = true;
         update(false);
       });
       search.addEventListener("keydown", function (e) {
@@ -674,8 +684,18 @@
     if (resetBtn) {
       resetBtn.addEventListener("click", function () {
         state.q = ""; state.emirate = "all"; state.category = "all";
+        state.showRoads = false;
         if (search) search.value = "";
         update(true);
+      });
+    }
+    var showAll = $("#show-all");
+    if (showAll) {
+      showAll.addEventListener("click", function () {
+        state.showRoads = true;
+        state.roadsShown = ROAD_PAGE;
+        if (!ROADS) loadRoads(function () { update(false); });
+        update(false);
       });
     }
     if (shuffle) {
@@ -696,6 +716,7 @@
         var value = chip.getAttribute("data-value");
         if (group === "emirate") state.emirate = value;
         if (group === "category") state.category = value;
+        state.showRoads = true;
         update(true);
       });
     });
@@ -796,6 +817,7 @@
       state.q = qParam;
       if ($("#search")) $("#search").value = qParam;
     }
+    if (state.q || state.emirate !== "all" || state.category !== "all") state.showRoads = true;
 
     applyLanguage(initial);
 

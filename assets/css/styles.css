@@ -728,3 +728,5 @@ html[dir="rtl"] .card__ar { text-align: right; }
 
 .card__note { font-size: .82rem; line-height: 1.45; color: var(--ink-2); margin: .45rem 0 .1rem; }
 .card--kb { min-height: 0; }
+
+.show-all { display: flex; justify-content: center; margin: 1.8rem 0 .4rem; }
