@@ -77,7 +77,10 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 - [x] **District assignment** — `pbf-boundaries` stitches `admin_level 8` polygons
       from the PBF into rings; `kb-districts` assigns each street to the tightest
       containing one. 86 districts, 92% of streets resolved.
-- [ ] **The 578 orphan streets** — outside any district polygon (Al Ain's rural
+- [x] **Numbering decision** — confirmed: most Dubai roads are plot numbers and are
+      excluded by design (61% of Dubai, 62% of Ajman). Each affected emirate page states
+      the figure.
+- [ ] **The 463 orphan streets** — outside any district polygon (Al Ain's rural
       outskirts, the capital's edges). Either accept emirate-level, or add the
       missing boundaries upstream in OSM.
 - [x] **Integrity audit** — `tools/audit.mjs`: internal checks plus a reproducible
