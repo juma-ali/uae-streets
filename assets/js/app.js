@@ -160,7 +160,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023j";
+    s.src = "data/cards.js?v=20261023k";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -425,23 +425,8 @@
 
   function renderGrid(animate) {
     var grid = $("#grid");
-    lastRoads = state.showRoads ? roadMatches() : [];
+    lastRoads = (state.q || state.emirate !== "all" || state.category !== "all" || state.district !== "all") ? roadMatches() : [];
     var shownRoads = lastRoads.slice(0, state.roadsShown || ROAD_PAGE);
-    var allWrap = $("#show-all-wrap");
-    var allBtn = $("#show-all");
-    if (allWrap && allBtn) {
-      allWrap.hidden = !!state.showRoads || !ROADS;
-      var totalRoads = ROADS ? ROADS.rows.filter(function (r) { return !r[7]; }).length : 0;
-      allBtn.textContent = state.lang === "ar"
-        ? "عرض كل الطرق (" + totalRoads.toLocaleString("ar-EG") + ")"
-        : "Show every road (" + totalRoads.toLocaleString("en") + ")";
-    }
-    var moreWrap = $("#show-more-wrap");
-    if (moreWrap) {
-      moreWrap.hidden = lastRoads.length <= (state.roadsShown || ROAD_PAGE);
-      var moreBtn = $("#show-more");
-      if (moreBtn) moreBtn.textContent = state.lang === "ar" ? "عرض مزيد من الطرق" : "Show more roads";
-    }
     if (!grid) return;
 
     grid.classList.toggle("grid--animate", !!animate);
@@ -473,17 +458,8 @@
           "</div>" +
         "</a>"
       );
-    }).join("");
+    }).join("") + shownRoads.map(renderRoadCard).join("");
 
-    var roadsGrid = $("#grid-roads");
-    var heading = $("#roads-heading");
-    if (roadsGrid) roadsGrid.innerHTML = shownRoads.map(renderRoadCard).join("");
-    if (heading) {
-      heading.hidden = !lastRoads.length;
-      heading.textContent = state.lang === "ar"
-        ? "بقية الطرق (" + lastRoads.length.toLocaleString("ar-EG") + ")"
-        : "Every other road (" + lastRoads.length.toLocaleString("en") + ")";
-    }
 
     $("#empty").hidden = results.length !== 0 || lastRoads.length !== 0;
   }
@@ -496,13 +472,16 @@
     var countEl = $("#result-count");
     if (countEl) {
       if (lastRoads.length) {
-        var roadN = lastRoads.length.toLocaleString(state.lang === "ar" ? "ar-EG" : "en");
-        if (!n) {
-          countEl.textContent = state.lang === "ar" ? roadN + " طريقاً" : roadN + (lastRoads.length === 1 ? " road" : " roads");
+        var shownN = Math.min(lastRoads.length, state.roadsShown || ROAD_PAGE);
+        var capped = lastRoads.length > shownN;
+        var num = function (x) { return x.toLocaleString(state.lang === "ar" ? "ar-EG" : "en"); };
+        var head;
+        if (state.lang === "ar") {
+          head = capped ? num(shownN) + " من " + num(lastRoads.length) + " طريقاً" : num(lastRoads.length) + " طريقاً";
+          countEl.textContent = n ? num(n) + " قصة · " + head : head;
         } else {
-          countEl.textContent = state.lang === "ar"
-            ? n + " قصة · " + roadN + " طريقاً آخر"
-            : n + (n === 1 ? " story" : " stories") + " · " + roadN + " other roads";
+          head = capped ? "showing " + num(shownN) + " of " + num(lastRoads.length) + " roads" : num(lastRoads.length) + (lastRoads.length === 1 ? " road" : " roads");
+          countEl.textContent = n ? n + (n === 1 ? " story · " : " stories · ") + head : head;
         }
       } else {
         countEl.textContent = isFiltered
@@ -774,15 +753,6 @@
       var rm = /#road=(\d+)/.exec(location.hash);
       if (rm) openRoadSheet(Number(rm[1]));
     });
-    var showAll = $("#show-all");
-    if (showAll) {
-      showAll.addEventListener("click", function () {
-        state.showRoads = true;
-        state.roadsShown = ROAD_PAGE;
-        if (!ROADS) loadRoads(function () { update(false); });
-        update(false);
-      });
-    }
     if (shuffle) {
       shuffle.addEventListener("click", function () {
         if (!results.length) return;
