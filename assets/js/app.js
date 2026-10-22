@@ -83,6 +83,12 @@
   var $  = function (sel, root) { return (root || document).querySelector(sel); };
   var $$ = function (sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); };
 
+  var currentId = null;
+  var lastTrigger = null;
+  var T;               // active text pack
+
+  var ORDER = EMIRATES.map(function (e) { return e.id; });
+
   function esc(str) {
     return String(str == null ? "" : str)
       .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
@@ -119,6 +125,25 @@
 
   /* ---------- state ---------- */
   var STREETS = (window.STREETS || []).slice();
+
+  /* ---------- build search index once ---------- */
+  STREETS.forEach(function (s) {
+    var em = emirateOf(s.emirate), cat = categoryOf(s.category);
+    s._index = norm([
+      s.en, s.ar, s.translit || "", s.id,
+      s.meaning && s.meaning.en, s.meaning && s.meaning.ar,
+      s.story && s.story.en, s.story && s.story.ar,
+      em.en, em.ar, cat.en, cat.ar,
+      s.origin === "local" ? "local account" : "documented"
+    ].join(" "));
+  });
+
+  /* sort: federal order, then English name */
+  STREETS.sort(function (a, b) {
+    var d = ORDER.indexOf(a.emirate) - ORDER.indexOf(b.emirate);
+    return d !== 0 ? d : a.en.localeCompare(b.en);
+  });
+
   var state = { lang: "en", q: "", emirate: "all", category: "all" };
   var results = [];
   var lastRoads = [];
@@ -133,7 +158,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023a";
+    s.src = "data/cards.js?v=20261023b";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -170,6 +195,30 @@
     });
   }
 
+  /* Every road has facts even when nobody has written its story: the naming
+     pattern, the district, the gloss, a former name, a route number. Compose them
+     into a sentence rather than printing a placeholder. */
+  function describeRoad(r, d, em, where) {
+    var ar = state.lang === "ar";
+    var parts = [];
+    if (d) parts.push(ar ? ("طريق في " + where + "، " + em) : ("A road in " + where + ", " + em));
+    var named = {
+      person: ar ? "سُمّي نسبةً إلى شخص" : "named after a person",
+      place: ar ? "سُمّي نسبةً إلى مكان" : "named after a place",
+      word: ar ? "سُمّي بكلمة" : "named for a word",
+      tribe: ar ? "سُمّي نسبةً إلى قبيلة" : "named after a tribe",
+      event: ar ? "سُمّي تخليداً لحدث" : "named for an event"
+    };
+    var main = named[r[3]] || "";
+    if (r[6]) main += (main ? (ar ? "، أي " : ", meaning ") : "") + "“" + r[6] + "”";
+    if (main) parts.push(main);
+    if (r[5]) parts.push(ar ? ("عُرف سابقاً بـ " + r[5]) : ("formerly " + r[5]));
+    if (r[4]) parts.push(ar ? ("ويحمل رقم الطريق " + r[4]) : ("carries route " + r[4]));
+    if (!parts.length) return "";
+    var s = parts.join(ar ? "، " : ", ");
+    return s.charAt(0).toUpperCase() + s.slice(1) + (ar ? "." : ".");
+  }
+
   function renderRoadCard(x, i) {
     var r = x.row, d = x.district;
     var em = d ? emirateOf(d[2])[state.lang] : "";
@@ -182,47 +231,21 @@
         (r[0] ? '<p class="card__en" dir="ltr">' + esc(r[0]) + "</p>" : "")
       : '<h3 class="card__en" dir="ltr">' + esc(r[0] || r[1]) + "</h3>" +
         (r[1] ? '<p class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</p>" : "");
-    var meta = [];
-    if (r[5]) meta.push((state.lang === "ar" ? "سابقاً " : "formerly ") + r[5]);
-    if (r[4]) meta.push((state.lang === "ar" ? "الطريق " : "Route ") + r[4]);
+    var text = describeRoad(r, d, em, where);
     return '<a class="card card--kb" href="' + esc(href) + '" style="--i:' + Math.min(i, 14) + '">' +
       '<div class="card__top">' +
         '<span class="card__emirate">' + esc(em) + "</span>" +
-        '<span class="badge badge--kb">' + esc(state.lang === "ar" ? "بلا قصة" : "no story yet") + "</span>" +
       "</div>" +
       name +
-      (where ? '<p class="card__meaning">' + esc(where) + "</p>" : "") +
-      (r[6] ? '<p class="card__meaning card__gloss">' + esc(r[1]) + " — " + esc(r[6]) + "</p>" : "") +
+      (text ? '<p class="card__note">' + esc(text) + "</p>" : "") +
       '<div class="card__foot">' +
         '<span class="card__tag">' + esc(catLabel) + "</span>" +
         '<span class="card__more">' + esc(state.lang === "ar" ? "في الدليل" : "Open in directory") + ' <span class="arrow" aria-hidden="true">→</span></span>' +
       "</div>" +
     "</a>";
   }
-  var currentId = null;
-  var lastTrigger = null;
-  var T;               // active text pack
 
-  /* ---------- build search index once ---------- */
-  STREETS.forEach(function (s) {
-    var em = emirateOf(s.emirate), cat = categoryOf(s.category);
-    s._index = norm([
-      s.en, s.ar, s.translit || "", s.id,
-      s.meaning && s.meaning.en, s.meaning && s.meaning.ar,
-      s.story && s.story.en, s.story && s.story.ar,
-      em.en, em.ar, cat.en, cat.ar,
-      s.origin === "local" ? "local account" : "documented"
-    ].join(" "));
-  });
-
-  /* sort: federal order, then English name */
-  var ORDER = EMIRATES.map(function (e) { return e.id; });
-  STREETS.sort(function (a, b) {
-    var d = ORDER.indexOf(a.emirate) - ORDER.indexOf(b.emirate);
-    return d !== 0 ? d : a.en.localeCompare(b.en);
-  });
-
-  /* ---------- filtering ---------- */
+  /* ---------- render: count + title ---------- */
   function filterStreets() {
     var q = norm(state.q);
     var tokens = q ? q.split(" ").filter(Boolean) : [];
@@ -374,7 +397,6 @@
     $("#empty").hidden = results.length !== 0 || lastRoads.length !== 0;
   }
 
-  /* ---------- render: count + title ---------- */
   function renderChrome() {
     var n = results.length;
     var total = STREETS.length;
@@ -383,9 +405,14 @@
     var countEl = $("#result-count");
     if (countEl) {
       if (lastRoads.length) {
-        countEl.textContent = state.lang === "ar"
-          ? n + " قصة · " + lastRoads.length.toLocaleString("ar-EG") + " طريقاً آخر"
-          : n + (n === 1 ? " story" : " stories") + " · " + lastRoads.length.toLocaleString("en") + " other roads";
+        var roadN = lastRoads.length.toLocaleString(state.lang === "ar" ? "ar-EG" : "en");
+        if (!n) {
+          countEl.textContent = state.lang === "ar" ? roadN + " طريقاً" : roadN + (lastRoads.length === 1 ? " road" : " roads");
+        } else {
+          countEl.textContent = state.lang === "ar"
+            ? n + " قصة · " + roadN + " طريقاً آخر"
+            : n + (n === 1 ? " story" : " stories") + " · " + roadN + " other roads";
+        }
       } else {
         countEl.textContent = isFiltered
           ? format(T.countFiltered, { n: n, total: total })
@@ -792,6 +819,6 @@
     document.addEventListener("DOMContentLoaded", boot);
   } else {
     setTotals();
-  boot();
+    boot();
   }
 })();
