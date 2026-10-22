@@ -29,3 +29,5 @@ footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid
 .langbtn:hover{border-color:var(--ink3)}
 .badge{display:inline-block;font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;padding:.05rem .4rem;border:1px solid var(--accent);border-radius:99px;color:var(--accent);vertical-align:middle;text-decoration:none}
 .badge:hover{background:var(--accent);color:#fff;text-decoration:none}
+ul.gloss,small.gloss{color:var(--ink3);font-size:.78rem;direction:ltr}
+small.gloss{direction:rtl;text-align:right;display:inline-block;margin-top:.15rem}

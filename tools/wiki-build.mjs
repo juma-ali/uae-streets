@@ -27,6 +27,7 @@ const load = (file, global) => {
 };
 const KB = load(root + "data/kb.js", "KB");
 const EDITORIAL = load(root + "data/streets.js", "STREETS");
+const GLOSSES = (() => { try { return load(root + "data/dictionary.js", "STREET_GLOSSES"); } catch { return {}; } })();
 
 /* The guide's name for a street and OSM's name for it differ in 3 cases; these
    aliases are the whole fix. The other 5 stories have no mapped street at all. */
@@ -35,6 +36,12 @@ const ALIAS = {
   "Oud Metha Road": "Oud Maitha Road",
   "Sheikh Mohammed bin Salem Street": "Sheikh Mohammad Bin Salem Road",
 };
+
+const headArOf = (s) => String(s || "")
+  .replace(/[\u064B-\u0655\u0670\u0640]/g, "")
+  .replace(/[أإآٱ]/g, "ا").replace(/ى/g, "ي").replace(/ة/g, "ه")
+  .replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "")
+  .split(" ")[0].replace(/^ال/, "").trim();
 
 const normName = (s) =>
   String(s || "").toLowerCase()
@@ -123,6 +130,8 @@ footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid
 .langbtn:hover{border-color:var(--ink3)}
 .badge{display:inline-block;font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;padding:.05rem .4rem;border:1px solid var(--accent);border-radius:99px;color:var(--accent);vertical-align:middle;text-decoration:none}
 .badge:hover{background:var(--accent);color:#fff;text-decoration:none}
+ul.gloss,small.gloss{color:var(--ink3);font-size:.78rem;direction:ltr}
+small.gloss{direction:rtl;text-align:right;display:inline-block;margin-top:.15rem}
 `;
 
 const SCRIPT = `
@@ -176,7 +185,7 @@ ${body}
 <footer>
   ${bi("Street names and coordinates", "أسماء الشوارع والإحداثيات")} &copy;
   <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>,
-  ${bi("ODbL 1.0", "رخصة ODbL 1.0")}.
+  ${bi("ODbL 1.0", "رخصة ODbL 1.0")}. ${bi("Word glosses from Wiktionary, CC BY-SA 4.0.", "معاني المفردات من ويكاموس، رخصة CC BY-SA 4.0.")}
   ${bi(
     `Collected ${new Date().toISOString().slice(0, 10)} · ${fmt(KB.streets.length, "en")} streets.`,
     `جُمعت في ${new Date().toISOString().slice(0, 10)} · ${fmt(KB.streets.length, "ar")} شارع.`
@@ -305,7 +314,7 @@ ${
       .sort((a, b) => (a.name_en || a.name_ar).localeCompare(b.name_en || b.name_ar))
       .map(
         (s) =>
-          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
+          `    <tr><td>${esc(s.name_en || s.name_ar)}${storyOf.has(s.osm) ? storyOf.get(s.osm).map((st) => ` <a class="badge" href="../../index.html#street=${esc(st.id)}" title="${esc(st.label)}">${bi("story", "قصة")}</a>`).join("") : ""}${GLOSSES[headArOf(s.name_ar)] ? `<br><small class="gloss">${esc(s.name_ar)} — ${esc(GLOSSES[headArOf(s.name_ar)])}</small>` : ""}</td><td class="ar" lang="ar">${esc(s.name_ar || "")}</td><td class="kind">${esc(s.kind)}</td></tr>`
       )
       .join("\n");
 

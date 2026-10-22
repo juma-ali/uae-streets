@@ -28,6 +28,7 @@ Double-click `index.html`. That's it.
 | `assets/css/styles.css` | Design tokens, layout, dark mode, RTL | you want different colours, type, spacing |
 | `assets/js/app.js` | Search, filters, detail panel, language + theme, URL state | you want new behaviour |
 | `data/streets.js` | **The content.** All 34 streets live here; optional `former:` / `now:` record renames | you add or correct a street |
+| `data/dictionary.js` | Arabic head-noun glosses, Wiktionary CC BY-SA | regex + tool |
 | `data/kb.js` | Knowledge base: 11,567 streets, 7 emirates, 344 districts (ODbL) — rules in `docs/KB.md` | regenerate with the tools below |
 | `tools/pbf-import.mjs` | Reads the UAE extract offline and emits roads for one or more bboxes | the primary collector |
 | `tools/pbf-boundaries.mjs` | Stitches admin boundaries from the PBF into rings | districts are missing or wrong |
@@ -301,3 +302,12 @@ Two optional fields on a street entry, both `{ en, ar }`:
 Both render under the transliteration in the detail sheet, in whichever language
 is active. Use them when the sign and the street disagree; do not use them for
 translations (`ar`/`en` already carry those).
+
+### Word glosses
+
+Streets named after a word show its gloss under the English name, e.g.
+`طريق العصب — nerve`. Glosses come from Wiktionary's Arabic entries (CC BY-SA
+4.0) through the kaikki.org extract, filtered to lexical senses only: grammatical
+notes ("elative degree of", "plural of") and proper nouns are dropped, because a
+street named `الأربح` is not the elative of anything.
+
