@@ -136,6 +136,13 @@ only showed up when a second tool disagreed.
       Maliha Road.
 - [ ] **Grow to ~100 streets**, one emirate at a time — Deira and Bur Dubai first.
 
+- [ ] **Transcribe Al Mawarith (@almawrooth) into the four open cards** — Al Rigga,
+      Al Najda, Electra and Al Wasl are marked `account` because no published source
+      exists; captions from that account would move them to `documented`. Paste the
+      text, it is a one-line change per card. Instagram can't be read by script, so
+      this needs a human to copy it. The Al Rigga contradiction (raised ground vs
+      shallow well water) is settled by the same source.
+
 ## Repo housekeeping (needs the owner's GitHub login)
 
 - [ ] Add topics: `uae`, `street-names`, `arabic`, `bilingual`, `rtl`, `static-site`.
