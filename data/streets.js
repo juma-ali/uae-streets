@@ -245,10 +245,10 @@ window.STREETS = [
     ar: "شارع عود ميثا",
     en: "Oud Metha Road",
     translit: "Shāriʿ ʿŪd Maythā",
-    meaning: { en: "Metha's oud", ar: "عود ميثا" },
+    meaning: { en: "The oud tree of Maitha", ar: "شجرة عود ميثاء" },
     story: {
-      en: "Local accounts say the district — and the road through it — takes its name from a woman called Maitha, remembered for the oud (agarwood) perfume she used or sold. No official record settles the question, so the story survives as oral history rather than documented fact.",
-      ar: "تقول الروايات المحلية إن المنطقة — والشارع الذي يخترقها — سُمّيت على اسم امرأة اسمها «ميثا» عُرفت بعطر العود الذي كانت تستخدمه أو تبيعه. لا وثيقة رسمية تحسم المسألة، فالقصة تعيش كتاريخ شفهي لا كحقيقة موثقة."
+      en: "The account dates the name to about 1879, when Sheikha Maitha placed her son Sheikh Saeed bin Maktoum Al Maktoum — later ruler of Dubai (1912–1958) — in the shade of a large, well-known oud tree at this spot. The place took its name from that tree, Oud Maitha, and the name has remained in use; the district carries it officially today.",
+      ar: "تعود الرواية إلى عام 1879 تقريباً، حين وضعت الشيخة ميثاء ابنها الشيخ سعيد بن مكتوم آل مكتوم — حاكم دبي لاحقاً (1912–1958) — في ظل شجرة «عود» كبيرة ومعروفة في هذا الموضع. فأخذ المكان اسمه من تلك الشجرة، «عود ميثاء»، وبقي الاسم مستخدماً، ويحمله الحي اليوم رسمياً."
     }
   },
   {
