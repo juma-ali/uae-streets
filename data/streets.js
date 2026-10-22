@@ -551,5 +551,22 @@ window.STREETS = [
       ar: "«الذكريات» جمع «ذِكرى»، أي التذكّر. ويقع الشارع في مدينة خليفة، بين شوارع سُمّيت بالمعاني لا بالأشخاص أو الأماكن."
     },
     refs: []
+  },
+  {
+    id: "amr-bin-al-as-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "documented",
+    ar: "شارع عمرو بن العاص",
+    en: "'Amr Bin Al 'As Street",
+    translit: "Shāriʿ ʿAmr ibn al-ʿĀṣ",
+    meaning: { en: "A Companion and commander, founder of Fustat", ar: "صحابي وقائد، ومؤسس الفسطاط" },
+    story: {
+      en: "‘Amr ibn al-‘As (d. 43 AH / 664 CE) was a Companion of the Prophet and the commander whose forces entered Egypt in 18 AH. He founded Fustat and governed Egypt over long periods. The name is carried by streets in Abu Dhabi, Ajman, Sharjah and Umm Al Quwain.",
+      ar: "عمرو بن العاص (ت ٤٣هـ/٦٦٤م) صحابي وقائد، دخلت قواته مصر سنة ١٨هـ، وأسّس مدينة الفسطاط، وولي مصر مرات. ويحمل اسمه شوارع في أبوظبي وعجمان والشارقة وأم القيوين."
+    },
+    refs: [
+      { label: "Wikipedia — Amr ibn al-As", url: "https://ar.wikipedia.org/wiki/عمرو_بن_العاص" }
+    ]
   }
 ];
