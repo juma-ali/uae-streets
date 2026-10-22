@@ -74,7 +74,7 @@ const CURATED = {
   "حاره": "quarter, lane",
   "حدائق": "gardens",
   "سلام": "peace",
-  "ساروق": "low ground between two dunes",
+  "ساروق": "low passage between two dunes",
   "بو": "“father of …” — place-name prefix (colloquial)",
   "ابو": "“father of …” — a place-name prefix",
   "ام": "“mother of …” — a place-name prefix",
