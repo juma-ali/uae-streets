@@ -361,3 +361,12 @@ The grid draws 60 at a time with `Show more`; filtering and search happen in mem
 Why not load `data/kb.js`? It is 4.7 MB and the guide's performance budget assumes a
 small page. The card index is the same trick as the search index: precompute what the
 UI shows, leave the rest out.
+
+### Front-page search includes every road
+
+The guide's search loads `data/cards.js` **on the first keystroke**, not at page load, so
+the landing page stays light. Once loaded, results are the curated cards first, then up to
+60 matching roads from the full index; the count reads "N stories · M more roads" and the
+filter chips count both. Roads without a story link to their district page in the directory.
+
+Loading the index eagerly would add ~1 MB to a page whose whole point is to open instantly.

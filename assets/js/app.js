@@ -121,6 +121,79 @@
   var STREETS = (window.STREETS || []).slice();
   var state = { lang: "en", q: "", emirate: "all", category: "all" };
   var results = [];
+  var lastRoads = [];
+  var ROADS = null;          // the full card index, loaded on first search only
+  var roadsLoading = false;
+  var roadsWaiting = [];
+
+  function loadRoads(cb) {
+    if (ROADS) { if (cb) cb(); return; }
+    if (cb) roadsWaiting.push(cb);
+    if (roadsLoading) return;
+    roadsLoading = true;
+    var s = document.createElement("script");
+    s.src = "data/cards.js";
+    s.onload = function () {
+      ROADS = window.ROADS || null;
+      roadsLoading = false;
+      roadsWaiting.splice(0).forEach(function (f) { f(); });
+    };
+    document.head.appendChild(s);
+  }
+
+  /* Rows from the full index that match the query, before emirate/category are applied. */
+  function roadQueryMatches() {
+    if (!ROADS || !state.q) return [];
+    var tokens = state.q.toLowerCase().replace(/[^\p{L}\p{N} ]/gu, " ").split(/\s+/).filter(Boolean);
+    if (!tokens.length) return [];
+    var out = [];
+    for (var i = 0; i < ROADS.rows.length; i++) {
+      var r = ROADS.rows[i];
+      var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
+      var hay = (r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : "")).toLowerCase();
+      var ok = true;
+      for (var t = 0; t < tokens.length; t++) if (hay.indexOf(tokens[t]) === -1) { ok = false; break; }
+      if (ok) out.push({ row: r, district: d });
+    }
+    return out;
+  }
+
+  function roadMatches() {
+    return roadQueryMatches().filter(function (x) {
+      if (state.emirate !== "all" && (!x.district || x.district[2] !== state.emirate)) return false;
+      if (state.category !== "all" && x.row[3] !== state.category) return false;
+      return true;
+    });
+  }
+
+  function renderRoadCard(x, i) {
+    var r = x.row, d = x.district;
+    var em = d ? emirateOf(d[2])[state.lang] : "";
+    var catLabel = T.categoryNoun[r[3]] || r[3];
+    var where = d ? (state.lang === "ar" ? d[1] || d[0] : d[0]) : "";
+    var href = d ? "directory/" + d[2] + "/" + String(d[3]).replace(/[^\w-]/g, "_") + ".html" : "directory/index.html";
+    var name = state.lang === "ar" && r[1]
+      ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</h3>" +
+        (r[0] ? '<p class="card__en" dir="ltr">' + esc(r[0]) + "</p>" : "")
+      : '<h3 class="card__en" dir="ltr">' + esc(r[0] || r[1]) + "</h3>" +
+        (r[1] ? '<p class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</p>" : "");
+    var meta = [];
+    if (r[5]) meta.push((state.lang === "ar" ? "سابقاً " : "formerly ") + r[5]);
+    if (r[4]) meta.push((state.lang === "ar" ? "الطريق " : "Route ") + r[4]);
+    return '<a class="card card--kb" href="' + esc(href) + '" style="--i:' + Math.min(i, 14) + '">' +
+      '<div class="card__top">' +
+        '<span class="card__emirate">' + esc(em) + "</span>" +
+        '<span class="badge badge--kb">' + esc(state.lang === "ar" ? "بلا قصة" : "no story yet") + "</span>" +
+      "</div>" +
+      name +
+      (where ? '<p class="card__meaning">' + esc(where) + "</p>" : "") +
+      (r[6] ? '<p class="card__meaning card__gloss">' + esc(r[1]) + " — " + esc(r[6]) + "</p>" : "") +
+      '<div class="card__foot">' +
+        '<span class="card__tag">' + esc(catLabel) + "</span>" +
+        '<span class="card__more">' + esc(state.lang === "ar" ? "في الدليل" : "Open in directory") + ' <span class="arrow" aria-hidden="true">→</span></span>' +
+      "</div>" +
+    "</a>";
+  }
   var currentId = null;
   var lastTrigger = null;
   var T;               // active text pack
@@ -201,6 +274,11 @@
         if (!q) return true;
         return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
       }).length;
+      n += roadQueryMatches().filter(function (x) {
+        if (v !== "all" && (!x.district || x.district[2] !== v)) return false;
+        if (state.category !== "all" && x.row[3] !== state.category) return false;
+        return true;
+      }).length;
       chip.querySelector(".chip__count").textContent = n;
       chip.setAttribute("aria-pressed", String(state.emirate === v));
     });
@@ -222,6 +300,8 @@
   /* ---------- render: grid ---------- */
   function renderGrid(animate) {
     var grid = $("#grid");
+    lastRoads = roadMatches();
+    var shownRoads = lastRoads.slice(0, 60);
     if (!grid) return;
 
     grid.classList.toggle("grid--animate", !!animate);
@@ -253,9 +333,9 @@
           "</div>" +
         "</a>"
       );
-    }).join("");
+    }).join("") + shownRoads.map(renderRoadCard).join("");
 
-    $("#empty").hidden = results.length !== 0;
+    $("#empty").hidden = results.length !== 0 || lastRoads.length !== 0;
   }
 
   /* ---------- render: count + title ---------- */
@@ -266,9 +346,15 @@
 
     var countEl = $("#result-count");
     if (countEl) {
-      countEl.textContent = isFiltered
-        ? format(T.countFiltered, { n: n, total: total })
-        : (n === 1 ? T.countOne : format(T.countMany, { n: n }));
+      if (lastRoads.length) {
+        countEl.textContent = state.lang === "ar"
+          ? n + " قصة · " + lastRoads.length + " طريقاً آخر"
+          : n + (n === 1 ? " story" : " stories") + " · " + lastRoads.length + " more roads";
+      } else {
+        countEl.textContent = isFiltered
+          ? format(T.countFiltered, { n: n, total: total })
+          : (n === 1 ? T.countOne : format(T.countMany, { n: n }));
+      }
     }
 
     var titleEl = $("#collection-title");
@@ -481,6 +567,7 @@
 
   /* ---------- main update ---------- */
   function update(animate) {
+    if (state.q && !ROADS) { loadRoads(function () { update(false); }); }
     results = filterStreets();
     renderGrid(animate !== false);
     refreshChipCounts();
@@ -497,6 +584,7 @@
 
     if (search) {
       search.addEventListener("input", function () {
+        if (!ROADS && search.value.trim()) loadRoads(function () { update(false); });
         state.q = search.value;
         update(false);
       });
