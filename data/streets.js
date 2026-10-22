@@ -231,10 +231,10 @@ window.STREETS = [
     ar: "شارع الرقة",
     en: "Al Rigga Road",
     translit: "Shāriʿ ar-Riqqa",
-    meaning: { en: "Uncertain; linked to water", ar: "اسم غير محسوم، يُربط بالماء" },
+    meaning: { en: "Raised ground where water recedes", ar: "أرض مرتفعة ينحسر عنها الماء" },
     story: {
-      en: "Al Rigga is one of Deira's oldest commercial streets, and its name is debated. A common local explanation ties it to raq — the moment water seeps into the bottom of a newly dug well — a memory of the days when wells, not towers, defined the area. Others hear riqqa, 'softness'.",
-      ar: "«الرقة» من أقدم شوارع ديرة التجارية، واسمها محلّ نقاش. ويربط تفسير شعبي شائع الاسم بـ«الرَّقّ»، أي ظهور الماء في قاع بئر حديثة الحفر، تذكيراً بأيام كانت الآبار لا الأبراج تحدّد معالم المنطقة. ويسمع آخرون في الاسم معنى «اللين والرّقة»."
+      en: "The street is named after the Al Rigga area. In Arabic, and in the local dialect, al-riqqa describes raised ground — or land that water drains away from, leaving its hard white surface exposed. The area was in the past a place the people of Dubai frequented.",
+      ar: "سُمّي الشارع بهذا الاسم نسبة إلى منطقة الرقة. والرقة في العربية وفي اللهجة المحلية تشير إلى الأرض المرتفعة، أو المكان الذي ينحسر عنه الماء فتظهر أرضه البيضاء الصلبة. وكانت المنطقة قديماً مكاناً يرتاده أهالي دبي."
     }
   },
   {
