@@ -2597,5 +2597,621 @@ window.STREETS = [
     "ar": "لم يُعثر على مصدر منشور يحدد من هو «بلال بن أبي بكرة» الذي يحمل الشارع اسمه."
   },
   "refs": []
+},
+{
+  "id": "tameem-bin-ya-ar-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع تميم بن يعار",
+  "en": "Tameem Bin Ya'ar Street",
+  "meaning": {
+    "en": "An Ansari Companion who fought at Badr and Uhud",
+    "ar": "صحابي أنصاري شهد بدراً وأُحداً"
+  },
+  "story": {
+    "en": "Tamim ibn Ya'ar was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
+    "ar": "تميم بن يعار بن قيس بن عدي الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى الل."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — تميم بن يعار",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D9%8A%D9%85_%D8%A8%D9%86_%D9%8A%D8%B9%D8%A7%D8%B1"
+    }
+  ]
+},
+{
+  "id": "thabit-bin-khalid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ثابت بن خالد",
+  "en": "Thabit Bin Khalid Street",
+  "meaning": {
+    "en": "An Ansari Companion who fought at Badr and Uhud",
+    "ar": "صحابي أنصاري شهد بدراً وأُحداً"
+  },
+  "story": {
+    "en": "Thabit ibn Khalid was an Ansari Companion of the Khazraj who fought at Badr and Uhud; the sources differ on whether he was killed at Bi'r Ma'una or at Yamama.",
+    "ar": "ثابت بن خالد بن النعمان (المتوفي سنة 4 هـ) صحابي من الأنصار من بني غنم بن مالك بن النجار من الخزرج."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ثابت بن خالد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%86_%D8%AE%D8%A7%D9%84%D8%AF"
+    }
+  ]
+},
+{
+  "id": "hatib-bin-abi-balta-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حاطب بن أبي بلتعة",
+  "en": "Hatib Bin Abi Balta'ah Street",
+  "meaning": {
+    "en": "A Companion, the Prophet's envoy to Egypt",
+    "ar": "صحابي ورسول النبي إلى المقوقس"
+  },
+  "story": {
+    "en": "Hatib ibn Abi Balta'a was a Companion who fought at Badr and served as the Prophet's envoy to the Muqawqis of Egypt.",
+    "ar": "حاطب بن أبي بلتعة اللخمي صحابي بدري، أسلم وهاجر إلى المدينة المنورة، وشارك مع النبي محمد في غزواته كلها، وكان رسوله إلى المقوقس عظيم مصر."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حاطب بن أبي بلتعة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B7%D8%A8_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%A8%D9%84%D8%AA%D8%B9%D8%A9"
+    }
+  ]
+},
+{
+  "id": "hudhayfah-bin-al-yaman-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حُذَيفة بن اليَمان",
+  "en": "Hudhayfah Bin Al Yaman Street",
+  "meaning": {
+    "en": "A Companion who settled in Medina",
+    "ar": "صحابي عاش في المدينة المنورة"
+  },
+  "story": {
+    "en": "Hudhayfa ibn al-Yaman was a Companion born in Mecca who settled in Medina and died at al-Mada'in in 36 AH.",
+    "ar": "حُذَيْفَةُ بْنُ الْيَمَانِ العبسي الغطفاني القيسي، صحابي ولد في مكة وعاش في المدينة المنورة ومات سنة 36 هجرية في المدائن."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حذيفة بن اليمان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B0%D9%8A%D9%81%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D9%8A%D9%85%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "raf-a-bin-al-mua-ala-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع رافع بن المعلى",
+  "en": "Raf'a Bin Al Mua'ala Street",
+  "meaning": {
+    "en": "An Ansari Companion killed at Badr",
+    "ar": "صحابي أنصاري استُشهد في بدر"
+  },
+  "story": {
+    "en": "Rafi' ibn al-Mu'alla was an Ansari Companion of the Khazraj who was killed at Badr.",
+    "ar": "الصحابي رافع بن المعلى ، من الأنصار من بني حبيب بن عبد حارثة من الخزرج، شهد غزوة بدر ، واستشهد فيها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — رافع بن المعلى",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D9%81%D8%B9_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%89"
+    }
+  ]
+},
+{
+  "id": "ziyad-bin-labeed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زياد بن لبيد",
+  "en": "Ziyad Bin Labeed Street",
+  "meaning": {
+    "en": "An Ansari Companion, appointed over Hadramawt",
+    "ar": "صحابي أنصاري استعمله النبي على حضرموت"
+  },
+  "story": {
+    "en": "Ziyad ibn Labid was an Ansari Companion who took the second pledge of Aqaba, fought at Badr and Uhud, and was appointed by the Prophet over Hadramawt.",
+    "ar": "زِيَاد بن لَبِيد صحابي من الأنصار، شهد بيعة العقبة الثانية، وشهد بدرًا وأحدًا والخندق وباقي المشاهد، استعمله النبي على حضرموت، وشارك في حروب الردة، وتوفي في أول خلافة معاوية سنة إحدى وأربعين."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زياد بن لبيد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D8%A7%D8%AF_%D8%A8%D9%86_%D9%84%D8%A8%D9%8A%D8%AF"
+    }
+  ]
+},
+{
+  "id": "zayd-bin-wade-ah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زيد بن وديعة",
+  "en": "Zayd Bin Wade'ah Street",
+  "meaning": {
+    "en": "An Ansari Companion who fought at Badr and Uhud",
+    "ar": "صحابي أنصاري شهد بدراً وأُحداً"
+  },
+  "story": {
+    "en": "Zayd ibn Wadi'a was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
+    "ar": "زيد بن وديعة بن عمرو بن قيس الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى ال."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زيد بن وديعة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D9%88%D8%AF%D9%8A%D8%B9%D8%A9"
+    }
+  ]
+},
+{
+  "id": "salim-bin-umayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سالِم بن عُمَير",
+  "en": "Salim Bin 'Umayr Street",
+  "meaning": {
+    "en": "A Companion of the Aws who fought at Badr",
+    "ar": "صحابي من الأوس شهد بدراً"
+  },
+  "story": {
+    "en": "Salim ibn Umayr was a Companion of the Aws who took the pledge of Aqaba and fought at Badr.",
+    "ar": "سالم بن عمير صحابي من بني ثعلبة بن عمرو بن عوف من الأوس، قيل اسمه سالم بن عمرو."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سالم بن عمير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%84%D9%85_%D8%A8%D9%86_%D8%B9%D9%85%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "suraqah-bin-malik-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سُراقة بن مالِك",
+  "en": "Suraqah Bin Malik Street",
+  "meaning": {
+    "en": "A chief of Banu Mudlij",
+    "ar": "سيد بني مدلج"
+  },
+  "story": {
+    "en": "Suraqa ibn Malik was a chief of Banu Mudlij who tracked the Prophet during the migration and later embraced Islam; he died in 24 AH.",
+    "ar": "سراقة بن مالك المدلجي الكناني ، (24 هـ - 645 م) سيد بني مدلج وأحد أشراف قبيلة كنانة وصحابي جليل، قائف يقتص الأثر."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سراقة بن مالك المدلجي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%82%D8%A9_%D8%A8%D9%86_%D9%85%D8%A7%D9%84%D9%83_%D8%A7%D9%84%D9%85%D8%AF%D9%84%D8%AC%D9%8A"
+    }
+  ]
+},
+{
+  "id": "sa-d-bin-ubadah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سَعد بن عُبادَه",
+  "en": "Sa'd Bin 'Ubadah Street",
+  "meaning": {
+    "en": "The leader of the Khazraj",
+    "ar": "زعيم الخزرج"
+  },
+  "story": {
+    "en": "Sa'd ibn Ubada was the leader of the Khazraj and one of the chiefs at Aqaba.",
+    "ar": "سَعْدُ بْنُ عُبَادَةَ اَلسَّاعِدِيُّ اَلْخَزْرَجِيُّ اَلْأَنْصَارِيُّ، أَبُو ثَابِتٍ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعد بن عبادة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D8%AF_%D8%A8%D9%86_%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9"
+    }
+  ]
+},
+{
+  "id": "salma-bint-umays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سَلمَى بنت عُمَيس",
+  "en": "Salma Bint 'Umays Street",
+  "meaning": {
+    "en": "A Companion, wife of Hamza",
+    "ar": "صحابية زوجة حمزة بن عبد المطلب"
+  },
+  "story": {
+    "en": "Salma bint Umays was a Companion and the wife of Hamza ibn Abd al-Muttalib.",
+    "ar": "سَلْمَى بِنْتُ عُمَيْسٍ الخَثْعَمِيَّة صحابية، أسلمت قديمًا مع أختها أسماءَ بنتِ عُمَيْس."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سلمى بنت عميس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D9%89_%D8%A8%D9%86%D8%AA_%D8%B9%D9%85%D9%8A%D8%B3"
+    }
+  ]
+},
+{
+  "id": "sleem-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سليم بن الحارث",
+  "en": "Sleem Bin Al Harith Street",
+  "meaning": {
+    "en": "An Ansari Companion who fought at Badr and Uhud",
+    "ar": "صحابي أنصاري شهد بدراً وأُحداً"
+  },
+  "story": {
+    "en": "Sulaym ibn al-Harith was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
+    "ar": "سليم بن الحارث بن ثعلبة بن كعب بن عبد الأشهل الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي م."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سليم بن الحارث",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%8A%D9%85_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB"
+    }
+  ]
+},
+{
+  "id": "sahl-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سَهل بن قيس",
+  "en": "Sahl Bin Qays Street",
+  "meaning": {
+    "en": "An Ansari Companion killed at Uhud",
+    "ar": "صحابي أنصاري استُشهد في أُحد"
+  },
+  "story": {
+    "en": "Sahl ibn Qays was an Ansari Companion of the Khazraj who fought at Badr and was killed at Uhud.",
+    "ar": "سهل بن قيس بن أبي كعب الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى الله عليه وسلم غزوة بدر."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سهل بن قيس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%87%D9%84_%D8%A8%D9%86_%D9%82%D9%8A%D8%B3"
+    }
+  ]
+},
+{
+  "id": "suhayb-bin-sinan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع صُهَيب بن سِنان",
+  "en": "Suhayb Bin Sinan Street",
+  "meaning": {
+    "en": "Among the earliest Muslims, known as al-Rumi",
+    "ar": "من السابقين إلى الإسلام، يُعرف بالرومي"
+  },
+  "story": {
+    "en": "Suhayb ibn Sinan, known as al-Rumi, was among the earliest Muslims and left his wealth behind to migrate.",
+    "ar": "أَبُو يَحيَى صُهَيبُ بنُ سِنَان بنُ مَالِكِ بنُ عَبدِ عَمرو النَّمِريُّ الرُّومِيّ صحابي ومولى لبني تيم بن مُرّة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — صهيب بن سنان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B5%D9%87%D9%8A%D8%A8_%D8%A8%D9%86_%D8%B3%D9%86%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "talhah-bin-ubaydallah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع طلحة بن عبيد الله",
+  "en": "Talhah Bin 'Ubaydallah Street",
+  "meaning": {
+    "en": "One of the ten promised Paradise",
+    "ar": "أحد العشرة المبشرين بالجنة"
+  },
+  "story": {
+    "en": "Talha ibn Ubayd Allah (28 BH – 36 AH / 594–656 CE) was one of the ten promised Paradise and was killed at the Battle of the Camel.",
+    "ar": "طَلْحَةُ بْنُ عُبَيْدِ اللَّٰه التَّيمي القُرَشي (28 ق.هـ - 36 هـ / 594 - 656م)، أحد العشرة المبشرين بالجنة، ومن السابقين الأولين إلى الإسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — طلحة بن عبيد الله",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B7%D9%84%D8%AD%D8%A9_%D8%A8%D9%86_%D8%B9%D8%A8%D9%8A%D8%AF_%D8%A7%D9%84%D9%84%D9%87"
+    }
+  ]
+},
+{
+  "id": "dhabia-bint-al-barra-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ظبية بنت البراء",
+  "en": "Dhabia Bint Al Barra Street",
+  "meaning": {
+    "en": "A woman Companion, wife of Abu Qatada",
+    "ar": "صحابية زوجة أبي قتادة"
+  },
+  "story": {
+    "en": "Zabya bint al-Bara was a woman Companion, the wife of Abu Qatada, and was known as Umm Bishr.",
+    "ar": "ظبية بنت البراء بن معرور امرأة أبي قتادة الأنصاري، من صحابيات رسول الله."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ظبية بنت البراء",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B8%D8%A8%D9%8A%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1"
+    }
+  ]
+},
+{
+  "id": "asem-bin-qaiss-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عاصم بن قيس",
+  "en": "Asem Bin Qaiss Street",
+  "meaning": {
+    "en": "An Ansari Companion of the Aws",
+    "ar": "صحابي أنصاري من الأوس"
+  },
+  "story": {
+    "en": "Asim ibn Qays was an Ansari Companion of the Aws who fought at Badr and Uhud.",
+    "ar": "عاصم بن قيس بن ثابت بن النعمان بن أمية الأوسي الأنصاري صحابي جليل من قبيلة الأوس من الأنصار شهد مع ا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عاصم بن قيس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A7%D8%B5%D9%85_%D8%A8%D9%86_%D9%82%D9%8A%D8%B3"
+    }
+  ]
+},
+{
+  "id": "ubadah-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبادة بن قيس",
+  "en": "Ubadah Bin Qays Street",
+  "meaning": {
+    "en": "A Companion killed at Mu'tah",
+    "ar": "صحابي استُشهد في مؤتة"
+  },
+  "story": {
+    "en": "Ubada ibn Qays was a Companion who fought at Badr, Uhud, the Trench and Khaybar, and was killed at Mu'tah in 8 AH.",
+    "ar": "عُبادة بن قيس (المتوفي سنة 8 هـ) صحابي من بني كعب بن الخزرج بن الحارث بن الخزرج، شهد غزوات بدر وأحد والخندق وخيبر، وصلح الحديبية، وقُتل في غزوة مؤتة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبادة بن قيس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%A7%D8%AF%D8%A9_%D8%A8%D9%86_%D9%82%D9%8A%D8%B3"
+    }
+  ]
+},
+{
+  "id": "uthman-bin-talhah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عُثمان بن طَلحة",
+  "en": "Uthman Bin Talhah Street",
+  "meaning": {
+    "en": "The custodian of the Kaaba's key",
+    "ar": "حاجب الكعبة"
+  },
+  "story": {
+    "en": "Uthman ibn Talha was the keeper of the Kaaba's key, who emigrated with Khalid ibn al-Walid and later accepted Islam.",
+    "ar": "عثمان بن طلحة بن أبي طلحة عبد الله بن عبد العزى بن عبد الدار العبدري الحجبي ، حاجب البيت الحرام وأحد المهاجرين هاجر مع خالد بن الوليد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عثمان بن طلحة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AB%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%B7%D9%84%D8%AD%D8%A9"
+    }
+  ]
+},
+{
+  "id": "uthman-bin-madh-oun-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عُثمان بن مَظعُون",
+  "en": "Uthman Bin Madh'oun Street",
+  "meaning": {
+    "en": "Among the earliest Muslims",
+    "ar": "من السابقين إلى الإسلام"
+  },
+  "story": {
+    "en": "Uthman ibn Maz'un (d. 3 AH) was among the earliest Muslims and the first of the emigrants to die in Medina.",
+    "ar": "أَبُو السَّائِبِ عُثْمَانُ بْنُ مَظْعُونٍ الجُمَحِيُّ (المتوفى في شعبان سنة 3 هـ) صحابي بدري من السابقين إلى الإسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عثمان بن مظعون",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AB%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D9%85%D8%B8%D8%B9%D9%88%D9%86"
+    }
+  ]
+},
+{
+  "id": "odai-bin-hatem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عدي بن حاتم",
+  "en": "Odai Bin Hatem Street",
+  "meaning": {
+    "en": "A chief of the Tayy, son of Hatim al-Ta'i",
+    "ar": "سيد من طيء وابن حاتم الطائي"
+  },
+  "story": {
+    "en": "Adi ibn Hatim (52 BH – 68 AH / 572–687 CE) was a chief of the Tayy and the son of Hatim al-Ta'i.",
+    "ar": "أَبُو طَرِيفٍ عَدِيُّ بْنُ حَاتِمِ بْنِ عَبْدِ اَللّٰهِ بْنِ سَعْدٍ اَلطَّائِيُّ (52 ق هـ - 68 هـ / 572 -687م) هو ابْنُ حاتِ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عدي بن حاتم الطائي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%8A_%D8%A8%D9%86_%D8%AD%D8%A7%D8%AA%D9%85_%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A"
+    }
+  ]
+},
+{
+  "id": "ata-a-bin-abi-rabbah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عَطاء بن أبي رَباح",
+  "en": "Ata-a Bin Abi Rabbah Street",
+  "meaning": {
+    "en": "A jurist and hadith scholar of Mecca",
+    "ar": "فقيه ومحدث من مكة"
+  },
+  "story": {
+    "en": "Ata ibn Abi Rabah (27–114 AH / 647–732 CE) was a jurist and hadith scholar of Mecca.",
+    "ar": "أبو محمد عطاء بن أبي رباح أسلم بن صفوان (27 هـ - رمضان 114 هـ / 647م - 732م) هو فقيه وعالم حديث."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عطاء بن أبي رباح",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%B7%D8%A7%D8%A1_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%B1%D8%A8%D8%A7%D8%AD"
+    }
+  ]
+},
+{
+  "id": "okasha-bin-muhssen-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عكاشة بن محصن",
+  "en": "Okasha Bin Muhssen Street",
+  "meaning": {
+    "en": "A Companion killed in the Ridda wars",
+    "ar": "صحابي استُشهد في حروب الردة"
+  },
+  "story": {
+    "en": "Ukasha ibn Mihsan (d. 11 AH) was a Companion who fought at Badr and was killed in the Ridda wars at Buzakha.",
+    "ar": "عُكَّاشةُ بْنُ مِحصَنٍ (المتوفى سنة 11 هـ) صحابي بدري من السابقين إلى الإسلام، ومن المهاجرين، أستشهد في حروب الردة في معركة بزاخة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عكاشة بن محصن",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%83%D8%A7%D8%B4%D8%A9_%D8%A8%D9%86_%D9%85%D8%AD%D8%B5%D9%86"
+    }
+  ]
+},
+{
+  "id": "qutada-bin-al-nu-man-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع قتادة بن النعمان",
+  "en": "Qutada Bin Al Nu'man Street",
+  "meaning": {
+    "en": "An Ansari Companion",
+    "ar": "صحابي أنصاري"
+  },
+  "story": {
+    "en": "Qatada ibn al-Nu'man was an Ansari Companion of the Prophet.",
+    "ar": "الصحابي قتادة بن النعمان رضي الله عنه كان من السابقين للإسلام وأحد صحابة النبي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — قتادة بن النعمان",
+      "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%AA%D8%A7%D8%AF%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "kulthoum-bin-husayn-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع كُلثُوم بن حُصَين",
+  "en": "Kulthoum Bin Husayn Street",
+  "meaning": {
+    "en": "A Companion known as Abu Ruhm",
+    "ar": "صحابي يُعرف بأبي رهم"
+  },
+  "story": {
+    "en": "Kulthum ibn al-Husayn, known as Abu Ruhm, was a Companion who accepted Islam after the Prophet came to Medina and did not fight at Badr.",
+    "ar": "أبو رُهْم كلثوم بن الحُصين بن عتبة بن خلف الغِفاري الكناني مشهور بكنيته، من صحابة النبي محمد، أسلم بعد قدوم النبي إلى المدينة، ولم يشهد غزوة بدر، شهد معركة أحد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — كلثوم بن حصين الغفاري",
+      "url": "https://ar.wikipedia.org/wiki/%D9%83%D9%84%D8%AB%D9%88%D9%85_%D8%A8%D9%86_%D8%AD%D8%B5%D9%8A%D9%86_%D8%A7%D9%84%D8%BA%D9%81%D8%A7%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "malik-bin-mas-oud-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مالك بن مسعود",
+  "en": "Malik Bin Mas'oud Street",
+  "meaning": {
+    "en": "An Ansari Companion who fought at Badr and Uhud",
+    "ar": "صحابي أنصاري شهد بدراً وأُحداً"
+  },
+  "story": {
+    "en": "Malik ibn Mas'ud was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
+    "ar": "مالك بن مسعود بن اليدي بن عامر الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى ا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مالك بن مسعود",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D9%83_%D8%A8%D9%86_%D9%85%D8%B3%D8%B9%D9%88%D8%AF"
+    }
+  ]
+},
+{
+  "id": "harithah-bin-an-nu-man-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حارِثة بن النُّعمان",
+  "en": "Harithah Bin An Nu'man Street",
+  "meaning": {
+    "en": "An Ansari Companion who witnessed the campaigns",
+    "ar": "صحابي أنصاري شهد المشاهد كلها"
+  },
+  "story": {
+    "en": "Haritha ibn al-Nu'man was an Ansari Companion of the Khazraj who witnessed the Prophet's campaigns and died during Mu'awiya's caliphate.",
+    "ar": "حارثة بن النعمان صحابي من الأنصار من بني غنم بن مالك بن النجار من الخزرج."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حارثة بن النعمان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B1%D8%AB%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "harithah-bin-suraqah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حارِثة بن سُراقة",
+  "en": "Harithah Bin Suraqah Street",
+  "meaning": {
+    "en": "The first of the Ansar killed at Badr",
+    "ar": "أول من قُتل من الأنصار في بدر"
+  },
+  "story": {
+    "en": "Haritha ibn Suraqa was the first of the Ansar to be killed at Badr, in 2 AH.",
+    "ar": "حارثة بن سراقة (المتوفي سنة 2 هـ) صحابي من بني عدي بن النجار من الخزرج. أسلم حارثة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حارثة بن سراقة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B1%D8%AB%D8%A9_%D8%A8%D9%86_%D8%B3%D8%B1%D8%A7%D9%82%D8%A9"
+    }
+  ]
 }
 ];
