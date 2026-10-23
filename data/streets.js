@@ -6675,5 +6675,313 @@ window.STREETS = [
     "ar": "لم يُعثر على مصدر منشور يحدد من هو «جابر بن عبدالله» الذي يحمل الشارع اسمه."
   },
   "refs": []
+},
+{
+  "id": "al-hakam-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الحكَم بن عَمرو",
+  "en": "Al Hakam Bin 'Amr Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Al-Hakam ibn Amr al-Ghifari (d. 670) was a companion of Muhammad.",
+    "ar": "الحكم بن عمرو الغفاري الكناني صحابي جليل، وقائد عسكري كبير من كبار قادة الفتوحات الإ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الحكم بن عمرو الغفاري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D9%83%D9%85_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88_%D8%A7%D9%84%D8%BA%D9%81%D8%A7%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-qa-qa-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع القعقاع بن عمرو",
+  "en": "Al Qa'qa' Bin 'Amr Street",
+  "meaning": {
+    "en": "Islamic military commander",
+    "ar": "قائد عسكري مسلم"
+  },
+  "story": {
+    "en": "Al-Qa'qa' ibn Amr (d. 660) was a military commander in the early conquests.",
+    "ar": "اَلْقَعْقَاعُ بْنُ عَمْرِو بْنِ مَالِكٍ اَلْأُسَيْدِيُّ اَلتَّمِيمِيُّ صحابي م."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — القعقاع بن عمرو التميمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%B9%D9%82%D8%A7%D8%B9_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88_%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D9%85%D9%8A"
+    }
+  ]
+},
+{
+  "id": "iyas-bin-al-bakeer-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع إياس بن البكير",
+  "en": "Iyas Bin Al Bakeer Street",
+  "meaning": {
+    "en": "Iyās ibn Abī al-Bukayr ibn ʿAbd Yā Lail al-Laythī was an early sahabi (companion) of the I",
+    "ar": "صحابي من السابقين الأولين"
+  },
+  "story": {
+    "en": "Iyas ibn Abi al-Bukayr was an early companion of the Prophet Muhammad who fought at Badr.",
+    "ar": "إياس بن البكير الليثي (المتوفي سنة 34 هـ) صحابي بدري من السابقين إلى الإسلام، شهد غزوات النبي محمد كلها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — Iyās ibn Abī al-Bukayr",
+      "url": "https://en.wikipedia.org/wiki/Iy%C4%81s_ibn_Ab%C4%AB_al-Bukayr"
+    }
+  ]
+},
+{
+  "id": "bilal-bin-abi-ad-darda-a-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع بِلال بن أبي الدَّرداء",
+  "en": "Bilal Bin Abi Ad Darda-a Street",
+  "meaning": {
+    "en": "judge",
+    "ar": "تابعي وأحد رواة الحديث النبوي وقاضي"
+  },
+  "story": {
+    "en": "Bilal ibn Abi al-Darda was a judge of Damascus in the Umayyad period.",
+    "ar": "أبو محمد بلال بن أبي الدرداء الأنصاري الد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — بلال بن أبي الدرداء",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%84%D8%A7%D9%84_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%A7%D9%84%D8%AF%D8%B1%D8%AF%D8%A7%D8%A1"
+    }
+  ]
+},
+{
+  "id": "thumamah-bin-uthal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ثُمامة بن أثال",
+  "en": "Thumamah Bin Uthal Street",
+  "meaning": {
+    "en": "ruler of Yamama during Muhammad's era",
+    "ar": "صحابي، كان سيد أهل اليمامة"
+  },
+  "story": {
+    "en": "Thumama ibn Uthal was a chief of the Banu Hanifa and a ruler of al-Yamama.",
+    "ar": "ثمامة بن أثال (ت: 12هـ/ 633م)، صحابي وأول معتمر في الإسلام وأول مسلمٍ يدخل مكة ملبِّياً."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ثمامة بن أثال",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AB%D9%85%D8%A7%D9%85%D8%A9_%D8%A8%D9%86_%D8%A3%D8%AB%D8%A7%D9%84"
+    }
+  ]
+},
+{
+  "id": "jareer-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جرير بن عبد الله",
+  "en": "Jareer Bin Abdullah Street",
+  "meaning": {
+    "en": "Muhammad's companion",
+    "ar": "صحابي وراوي حديث"
+  },
+  "story": {
+    "en": "Jarir ibn Abd Allah al-Bajali (d. 671) was a companion of the Prophet Muhammad and chief of the Bajila.",
+    "ar": "أَبُو عَمْرٍو جَرِيرُ بْنُ عَبْدِ اللهِ بْنِ جَابِرٍ الْبَجَلِيُّ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جرير بن عبد الله البجلي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D9%8A%D8%B1_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%A8%D8%AC%D9%84%D9%8A"
+    }
+  ]
+},
+{
+  "id": "ja-far-bin-abi-taleb-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جعفر بن أبي طالب",
+  "en": "Ja'far Bin Abi Taleb Street",
+  "meaning": {
+    "en": "Companion (Sahabi) and cousin of Muhammad",
+    "ar": "صحابي جليل وقائد مسلم، ومن السابقين الأولين إلى الإسلام رضي الله عنه"
+  },
+  "story": {
+    "en": "Ja'far ibn Abi Talib was a companion, a cousin of the Prophet Muhammad, and the leader of the migration to Abyssinia.",
+    "ar": "جَعفَرُ بن أبي طالِبِ بن عَبدِ المُطَّلِبِ الهاشِميُّ القُرَشيُّ المشهور بـجَعْفَر الطيَّار."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جعفر بن أبي طالب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B9%D9%81%D8%B1_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%B7%D8%A7%D9%84%D8%A8"
+    }
+  ]
+},
+{
+  "id": "jumanah-bint-abi-taleb-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جُمانة بنت أبي طالِب",
+  "en": "Jumanah Bint Abi Taleb Street",
+  "meaning": {
+    "en": "Sahaba of Muhammad",
+    "ar": "شقيقة علي بن أبي طالب"
+  },
+  "story": {
+    "en": "Jumanah bint Abi Talib was a woman companion and a cousin of the Prophet Muhammad.",
+    "ar": "جُمَانَة بنت أبي طالب الهاشمية القرشية، صحابية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جمانة بنت أبي طالب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D9%85%D8%A7%D9%86%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A3%D8%A8%D9%8A_%D8%B7%D8%A7%D9%84%D8%A8"
+    }
+  ]
+},
+{
+  "id": "at-tufayl-bin-amr-street",
+ "emirate": "abu-dhabi",
+ "category": "person",
+ "origin": "documented",
+ "ar": "شارع الطُّفَيل بن عَمرو",
+ "en": "At Tufayl Bin 'Amr Street",
+ "meaning": {
+ "en": "Chief of the Banu Daws tribe",
+ "ar": "شاعر وأحد الأشراف من قبيلة زهران، في الجاهلية والإسلام"
+ },
+ "story": {
+ "en": "Tufayl ibn Amr al-Dawsi was the chief of the Banu Daws who invited his people to Islam.",
+ "ar": "الطفيل بن عمرو الدوسي الزهراني صحابي من أوائل السابقين إلى الإسلام."
+ },
+ "refs": [
+ {
+ "label": "Wikipedia — الطفيل بن عمرو الدوسي",
+ "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D9%81%D9%8A%D9%84_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88_%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D9%8A"
+ }
+ ]
+},
+{
+  "id": "an-nu-ayman-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع النعيمان بن عمرو",
+  "en": "An Nu'ayman Bin 'Amr Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "من الصحابة، مزّاح، شهد معارك بدر وأحد والخندق"
+  },
+  "story": {
+    "en": "Al-Nuayman ibn Amr (d. 652) was a companion of Muhammad.",
+    "ar": "النعيمان بن عمرو صحابي من الأنصار من بني غنم بن مالك بن النجار من الخزرج."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — النعيمان بن عمرو الأنصاري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%B9%D9%8A%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88_%D8%A7%D9%84%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "aminah-bint-wahab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع آمنه بنت وهب",
+  "en": "Aminah Bint Wahab Street",
+  "meaning": {
+    "en": "Mother of Muhammad",
+    "ar": "أم النبي محمد، زوجة عبد الله بن عبد المطلب"
+  },
+  "story": {
+    "en": "Aminah bint Wahb (d. 577 CE) was the mother of the Prophet Muhammad.",
+    "ar": "آمنة بنت وهب بن عبد مناف بن زُهرة القرشية هي أمُّ النب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — آمنة بنت وهب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A2%D9%85%D9%86%D8%A9_%D8%A8%D9%86%D8%AA_%D9%88%D9%87%D8%A8"
+    }
+  ]
+},
+{
+  "id": "thabet-bin-aqram-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ثابت بن أقرم",
+  "en": "Thabet Bin Aqram Street",
+  "meaning": {
+    "en": "Companions of the prophet",
+    "ar": "شخصية تاريخية"
+  },
+  "story": {
+    "en": "Thabit ibn Aqram was a companion of the Prophet Muhammad who fought at Badr.",
+    "ar": "ثابت بن أقرم البلوي (المتوفي سنة 11 هـ) صحابي من بلي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ثابت بن أقرم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%86_%D8%A3%D9%82%D8%B1%D9%85"
+    }
+  ]
+},
+{
+  "id": "habeeb-bin-zayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حَبِيب بن زَيد",
+  "en": "Habeeb Bin Zayd Street",
+  "meaning": {
+    "en": "companion (Sahabi) of Muhammad",
+    "ar": "شخصية تاريخية"
+  },
+  "story": {
+    "en": "Habib ibn Zayd al-Ansari was a companion of the Prophet Muhammad, sent as an envoy to Musaylimah.",
+    "ar": "حبيب بن زيد بن عاصم (المتوفي سنة 11 هـ) صحابي من الأنصار من بني مازن بن النجار م."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حبيب بن زيد بن عاصم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A8%D9%8A%D8%A8_%D8%A8%D9%86_%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%B9%D8%A7%D8%B5%D9%85"
+    }
+  ]
+},
+{
+  "id": "besher-bin-safwan-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع بشر بن صفوان",
+  "en": "Besher Bin Safwan Street",
+  "meaning": {
+    "en": "umayyad Provincial governor in 720s",
+    "ar": "والي مصر في عهد الدولة الأموية"
+  },
+  "story": {
+    "en": "Bishr ibn Safwan al-Kalbi was an Umayyad governor of Egypt and Ifriqiya.",
+    "ar": "هو بشر بن صفوان ابن تويل بن بشر بن حنظلة بن علقمة بن شرحبيل بن عدس بن أبي جابر بن زهير بن جنا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — بشر بن صفوان الكلبي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1_%D8%A8%D9%86_%D8%B5%D9%81%D9%88%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D9%84%D8%A8%D9%8A"
+    }
+  ]
 }
 ];
