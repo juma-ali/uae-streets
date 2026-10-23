@@ -5490,18 +5490,24 @@ window.STREETS = [
   "id": "al-majody-bin-dhahir-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الماجدي بن ظاهر",
   "en": "Al Majody Bin Dhahir Street",
+  "translit": "Shāriʿ al-Mājidī ibn Ẓāhir",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Nabati poet from Ras al-Khaimah",
+    "ar": "شاعر نبطي من رأس الخيمة"
   },
   "story": {
-    "en": "No published source was found identifying who “الماجدي بن ظاهر” — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الماجدي بن ظاهر» الذي يحمل الشارع اسمه."
+    "en": "Al-Majidi ibn Zahir (1781–1871) was an Emirati Nabati poet from Ras al-Khaimah who worked as a pearl trader and diver.",
+    "ar": "الماجدي ابن ظاهر (١٧٨١–١٨٧١م) شاعر نبطي إماراتي من رأس الخيمة، عمل في تجارة اللؤلؤ والغوص عليه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — الماجدي ابن ظاهر",
+      "url": "https://ar.wikipedia.org/wiki/الماجدي_ابن_ظاهر"
+    }
+  ]
 },
 {
   "id": "al-waleed-bin-abdulmalik-street",
