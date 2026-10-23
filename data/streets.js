@@ -5061,5 +5061,1618 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/أبو_عبيد_الثقفي"
     }
   ]
+},
+{
+  "id": "as-sa-ib-bin-uthman-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع السَّائِب بن عُثمان",
+  "en": "As Sa-ib Bin 'Uthman Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي من السابقين الأولين"
+  },
+  "story": {
+    "en": "Al-Sāʾib bin ʿUthmān bin Maẓʿūn (603–632) was a companion of the Prophet Muhammad.",
+    "ar": "السائب بن عثمان بن مظعون الجمحي (المتوفي سنة 12 هـ) صحابي بدري من السابقين إلى الإسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — السائب بن عثمان بن مظعون",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D8%A7%D8%A6%D8%A8_%D8%A8%D9%86_%D8%B9%D8%AB%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D9%85%D8%B8%D8%B9%D9%88%D9%86"
+    }
+  ]
+},
+{
+  "id": "um-sulaym-bint-milhan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أم سُلَيم بنت مِلحان",
+  "en": "Um Sulaym Bint Milhan Street",
+  "meaning": {
+    "en": "One of the earliest women converts to Islam in Yathrib",
+    "ar": "الرميصاء"
+  },
+  "story": {
+    "en": "Rumaysa bint Milhan (600–650) was an one of the earliest women converts to Islam in Yathrib.",
+    "ar": "أم سليم بنت ملحان الخزرجية صحابية كانت من السابقات إلى الإسلام في المدينة المنورة من الأنصار."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أم سليم بنت ملحان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85_%D8%B3%D9%84%D9%8A%D9%85_%D8%A8%D9%86%D8%AA_%D9%85%D9%84%D8%AD%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "ad-dahhak-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الضَّحَّاك بن قيس",
+  "en": "Ad Dahhak Bin Qays Street",
+  "meaning": {
+    "en": "Umayyad general and governor of Damascus",
+    "ar": "صحابي من صغار الصحابة وله أحاديث نبوية"
+  },
+  "story": {
+    "en": "Al-Dahhak ibn Qays al-Fihri (625–684) was an Umayyad general and governor of Damascus.",
+    "ar": "أبو عبد الرحمن الضحاك بن قيس الفهري القرشي الكناني (4 هـ - 64 هـ / 625م - 684م) صحابي من صغار الصحابة وله أحادي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الضحاك بن قيس الفهري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%83_%D8%A8%D9%86_%D9%82%D9%8A%D8%B3_%D8%A7%D9%84%D9%81%D9%87%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-habab-bin-munther-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحباب بن منذر",
+  "en": "Al Habab Bin Munther Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحباب بن منذر” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحباب بن منذر» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-hur-bin-abdullarahman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحر بن عبدالرحمن",
+  "en": "Al Hur Bin Abdullarahman Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحر بن عبدالرحمن” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحر بن عبدالرحمن» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-hur-bin-malek-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحر بن مالك",
+  "en": "Al Hur Bin Malek Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحر بن مالك” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحر بن مالك» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-hussain-bin-al-hareth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحسين بن الحارث",
+  "en": "Al Hussain Bin Al Hareth Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحسين بن الحارث” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحسين بن الحارث» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-husayn-bin-as-sa-ib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحسين بن السَّائِب",
+  "en": "Al Husayn Bin As Sa-ib Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحسين بن السائب” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحسين بن السائب» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-husayn-bin-sabrah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحُصَين بن سبرة",
+  "en": "Al Husayn Bin Sabrah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحصين بن سبره” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحصين بن سبره» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-hakam-bin-al-nahas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحكم بن النحاس",
+  "en": "Al Hakam Bin Al Nahas Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحكم بن النحاس” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحكم بن النحاس» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-khalil-ahmed-bin-mohammed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الخليل أحمد بن محمد",
+  "en": "Al Khalil Ahmed Bin Mohammed Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الخليل احمد بن محمد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الخليل احمد بن محمد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "alrada-bin-beyat-al-muhairi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الرضه بن بيات المهيري",
+  "en": "Alrada Bin Beyat Al Muhairi Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الرضه بن بيات المهيري” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الرضه بن بيات المهيري» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-sah-bin-fulan-al-mazni-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السه بن فولان المزني",
+  "en": "Al Sah Bin Fulan Al Mazni Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “السه بن فولان المزني” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «السه بن فولان المزني» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-shifa-bint-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشفاء بنت عبدالله",
+  "en": "Al Shifa Bint Abdullah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الشفاء بنت عبدالله” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الشفاء بنت عبدالله» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "sultan-bin-hwaidn-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد سلطان بن هويدن",
+  "en": "Sultan Bin Hwaidn Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الشهيد سلطان بن هويدن” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الشهيد سلطان بن هويدن» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "alsaghir-bin-khadem-al-khaili-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الصغيّر بن خادم الخييلي",
+  "en": "Alsaghir Bin Khadem Al Khaili Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الصغير بن خادم الخييلي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الصغير بن خادم الخييلي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "alayena-bin-aseyan-al-ameri-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع العيينه بن عصيان العامري",
+  "en": "Alayena Bin Aseyan Al Ameri Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “العيينه بن عصيان العامري” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «العيينه بن عصيان العامري» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-fakeh-bin-basheer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الفاكه بن بشير",
+  "en": "Al Fakeh Bin Basheer Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الفاكه بن بشير” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الفاكه بن بشير» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-fadel-bin-abbas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الفضل بن عباس",
+  "en": "Al Fadel Bin Abbas Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الفضل بن عباس” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الفضل بن عباس» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-fadhel-bin-ali-abbas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الفضل بن علي عباس",
+  "en": "Al Fadhel Bin Ali Abbas Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الفضل بن علي عباس” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الفضل بن علي عباس» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-fadl-bin-maymoun-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الفَضل بن مَيمُون",
+  "en": "Al Fadl Bin Maymoun Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الفضل بن ميمون” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الفضل بن ميمون» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "alfindi-bin-ghanem-al-mazrouei-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الفندي بن غانم المزروعي",
+  "en": "Alfindi Bin Ghanem Al Mazrouei Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الفندي بن غانم المزروعي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الفندي بن غانم المزروعي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "alkindi-bin-musabah-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الكندي بن مصبح المرر",
+  "en": "Alkindi Bin Musabah Al Marar Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الكندي بن مصبح المرر” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الكندي بن مصبح المرر» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-layth-bin-sa-ed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الليث بن سعيد",
+  "en": "Al Layth Bin Sa'ed Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الليث بن سعيد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الليث بن سعيد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-majody-bin-dhahir-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الماجدي بن ظاهر",
+  "en": "Al Majody Bin Dhahir Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الماجدي بن ظاهر” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الماجدي بن ظاهر» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-waleed-bin-abdulmalik-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الوَلِيد بن عبدالمَلك",
+  "en": "Al Waleed Bin Abdulmalik Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الوليد بن عبدالملك” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الوليد بن عبدالملك» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "um-kulthoum-bint-al-abbas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أم كُلثُوم بنت العَبَّاس",
+  "en": "Um Kulthoum Bint Al 'Abbas Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ام كلثوم بنت العباس” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ام كلثوم بنت العباس» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "um-waraqah-bint-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أم وَرَقة بنت عبدالله",
+  "en": "Um Waraqah Bint Abdullah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ام ورقه بنت عبدالله” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ام ورقه بنت عبدالله» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "aws-bin-obadah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أوس بن عبادة",
+  "en": "Aws Bin Obadah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “اوس بن عباده” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «اوس بن عباده» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "iyas-bin-tha-labah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع إياس بن ثَعلَبة",
+  "en": "Iyas Bin Tha'labah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “اياس بن ثعلبه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «اياس بن ثعلبه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bakhit-bin-khalfan-al-khaili-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بخيت بن خلفان الخييلي",
+  "en": "Bakhit Bin Khalfan Al Khaili Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بخيت بن خلفان الخييلي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بخيت بن خلفان الخييلي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bakheet-bin-mohsin-al-mazrouei-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بخيت بن محسن المزروعي",
+  "en": "Bakheet Bin Mohsin Al Mazrouei Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بخيت بن محسن المزروعي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بخيت بن محسن المزروعي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bakhit-bin-maizer-al-rumaithi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بخيت بن ميزر الرميثي",
+  "en": "Bakhit Bin Maizer Al Rumaithi Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بخيت بن ميزر الرميثي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بخيت بن ميزر الرميثي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "basheer-bin-al-khasasya-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بشير بن الخصاصية",
+  "en": "Basheer Bin Al Khasasya Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بشير بن الخصاصيه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشير بن الخصاصيه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "basheer-bin-ma-bad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَشِير بن مَعبَد",
+  "en": "Basheer Bin Ma'bad Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بشير بن معبد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشير بن معبد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bat-ha-bin-hilal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَطحَا بن هِلال",
+  "en": "Bat-ha Bin Hilal Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بطحا بن هلال” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بطحا بن هلال» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "butti-bin-almughni-al-qubaisi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بطي بن المغنى القبيسي",
+  "en": "Butti Bin Almughni Al Qubaisi Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بطي بن المغني القبيسي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بطي بن المغني القبيسي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bikr-bin-umayah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بكر بن أمَيَّة",
+  "en": "Bikr Bin Umayah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بكر بن اميه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بكر بن اميه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "beyat-bin-mohammed-al-hameli-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بيات بن محمد الهاملي",
+  "en": "Beyat Bin Mohammed Al Hameli Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بيات بن محمد الهاملي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بيات بن محمد الهاملي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "tamam-bin-nasser-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع تمام بن ناصر",
+  "en": "Tamam Bin Nasser Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “تمام بن ناصر” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «تمام بن ناصر» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "tameem-bin-usayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع تَمِيم بن أسَيد",
+  "en": "Tameem Bin Usayd Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “تميم بن اسيد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «تميم بن اسيد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "tameem-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع تَمِيم بن الحارِث",
+  "en": "Tameem Bin Al Harith Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “تميم بن الحارث” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «تميم بن الحارث» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-zayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن زَيد",
+  "en": "Thabit Bin Zayd Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن زيد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن زيد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-obied-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابت بن عبيد",
+  "en": "Thabit Bin Obied Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن عبيد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن عبيد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabet-bin-wae-alah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابت بن وائلة",
+  "en": "Thabet Bin Wae'alah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن وائله” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن وائله» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-waqsh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن وَقش",
+  "en": "Thabit Bin Waqsh Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن وقش” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن وقش» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-yazeed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن يَزِيد",
+  "en": "Thabit Bin Yazeed Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن يزيد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن يزيد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thani-bin-abdullah-al-rumaithi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثاني بن عبدالله الرميثي",
+  "en": "Thani Bin Abdullah Al Rumaithi Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثاني بن عبدالله الرميثي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثاني بن عبدالله الرميثي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thawban-bin-bujdud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثَوبان بن بُجدُد",
+  "en": "Thawban Bin Bujdud Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثوبان بن بجدد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثوبان بن بجدد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "jabalah-bin-tha-labah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جَبَلة بن ثَعلَبة",
+  "en": "Jabalah Bin Tha'labah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جبله بن ثعلبه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جبله بن ثعلبه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "jabalah-bin-sharaheel-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جَبَلة بن شَراحِيل",
+  "en": "Jabalah Bin Sharaheel Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جبله بن شراحيل” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جبله بن شراحيل» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "jazayir-bin-ifaysan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جَزايِر بن عِفَيصان",
+  "en": "Jazayir Bin 'Ifaysan Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جزاير بن عفيصان” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جزاير بن عفيصان» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "jaz-at-bin-ta-bah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جَزعة بن تاعبة",
+  "en": "Jaz'at Bin Ta'bah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جزعه بن تاعبه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جزعه بن تاعبه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "juma-bin-bakhit-al-darmaki-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جمعة بن بخيت الدرمكي",
+  "en": "Juma Bin Bakhit Al Darmaki Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جمعه بن بخيت الدرمكي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جمعه بن بخيت الدرمكي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "jumaa-bin-hathboor-al-rumaithi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جمعه بن حثبور الرميثي",
+  "en": "Jumaa Bin Hathboor Al Rumaithi Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جمعه بن حثبور الرميثي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جمعه بن حثبور الرميثي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "harithah-bin-sahl-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حارِثة بن سَهل",
+  "en": "Harithah Bin Sahl Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حارثه بن سهل” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حارثه بن سهل» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "harithah-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حارِثة بن عَمرو",
+  "en": "Harithah Bin 'Amr Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حارثه بن عمرو” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حارثه بن عمرو» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "harithah-bin-wahb-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حارِثة بن وَهب",
+  "en": "Harithah Bin Wahb Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حارثه بن وهب” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حارثه بن وهب» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "hamed-bin-butti-al-qubaisi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حامد بن بطي القبيسي",
+  "en": "Hamed Bin Butti Al Qubaisi Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حامد بن بطي القبيسي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حامد بن بطي القبيسي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habbab-bin-qaithy-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حباب بن قيظي",
+  "en": "Habbab Bin Qaithy Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حباب بن قيظي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حباب بن قيظي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-abi-al-yusr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن أَبِي اليسر",
+  "en": "Habeeb Bin Abi Al Yusr Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حبيب بن ابي اليسر” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن ابي اليسر» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-wahb-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن وَهب",
+  "en": "Habeeb Bin Wahb Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حبيب بن وهب” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن وهب» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "aldahham-bin-zayed-al-mazrouei-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الدحّام بن زايد المزروعي",
+  "en": "Aldahham Bin Zayed Al Mazrouei Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الدحام بن زايد المزروعي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الدحام بن زايد المزروعي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "aldoda-bin-maktoum-al-sheraifi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الدودة بن مكتوم الشريفي",
+  "en": "Aldoda Bin Maktoum Al Sheraifi Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الدوده بن مكتوم الشريفي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الدوده بن مكتوم الشريفي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-rabab-bint-haretha-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الرباب بنت حارثة",
+  "en": "Al Rabab Bint Haretha Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الرباب بنت حارثه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الرباب بنت حارثه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "altaher-bin-ali-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الطاهر بن علي المرر",
+  "en": "Altaher Bin Ali Al Marar Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الطاهر بن علي المرر” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الطاهر بن علي المرر» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-as-bin-hashim-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع العاص بن هاشِم",
+  "en": "Al 'As Bin Hashim Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “العاص بن هاشم” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «العاص بن هاشم» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "umaymah-bint-abd-al-muttalib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أمَيمة بنت عبدالمطلب",
+  "en": "Umaymah Bint Abd Al Muttalib Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “اميمه بنت عبدالمطلب” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «اميمه بنت عبدالمطلب» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "anas-bin-fudalah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أنَس بن فَضالة",
+  "en": "Anas Bin Fudalah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “انس بن فضاله” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «انس بن فضاله» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "anis-bin-qatadah-khaythamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أنيس بن قتادة خيثمة",
+  "en": "Anis Bin Qatadah Khaythamah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “انيس بن قتاده خيثمه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «انيس بن قتاده خيثمه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "tameem-bin-salamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع تَمِيم بن سَلَمة",
+  "en": "Tameem Bin Salamah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “تميم بن سلمه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «تميم بن سلمه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabet-bin-al-jathe-al-ansari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابت بن الجذع الأنصاري",
+  "en": "Thabet Bin Al Jathe' Al Ansari Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن الجذع الانصاري” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن الجذع الانصاري» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن الحارِث",
+  "en": "Thabit Bin Al Harith Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن الحارث” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن الحارث» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-as-samit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن الصَّامِت",
+  "en": "Thabit Bin As Samit Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن الصامت” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن الصامت» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-deenar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن دِينار",
+  "en": "Thabit Bin Deenar Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن دينار” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن دينار» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-rifa-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن رِفاعة",
+  "en": "Thabit Bin Rifa'ah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “ثابت بن رفاعه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن رفاعه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "jabir-bin-sheeban-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جَابِرُ بن شَيبان",
+  "en": "Jabir Bin Sheeban Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جابر بن شيبان” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جابر بن شيبان» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "hatim-bin-adiy-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حاتِم بن عَدِي",
+  "en": "Hatim Bin 'Adiy Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حاتم بن عدي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حاتم بن عدي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "hajeb-bin-zeid-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حاجب بن زيد",
+  "en": "Hajeb Bin Zeid Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حاجب بن زيد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حاجب بن زيد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "hajji-bin-abdullah-al-khoury-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حاجي بن عبدالله الخوري",
+  "en": "Hajji Bin Abdullah Al Khoury Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حاجي بن عبدالله الخوري” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حاجي بن عبدالله الخوري» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "hareb-bin-sabt-al-khaili-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حارب بن سبت الخييلي",
+  "en": "Hareb Bin Sabt Al Khaili Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حارب بن سبت الخييلي” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حارب بن سبت الخييلي» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن الحارِث",
+  "en": "Habeeb Bin Al Harith Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حبيب بن الحارث” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن الحارث» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-ad-dahhak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن الضَّحَّاك",
+  "en": "Habeeb Bin Ad Dahhak Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حبيب بن الضحاك” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن الضحاك» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-hamamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن حَمامة",
+  "en": "Habeeb Bin Hamamah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حبيب بن حمامه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن حمامه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-siba-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن سِباع",
+  "en": "Habeeb Bin Siba' Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حبيب بن سباع” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن سباع» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-umayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن عُمَير",
+  "en": "Habeeb Bin 'Umayr Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “حبيب بن عمير” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن عمير» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-ahmed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن أحمد",
+  "en": "Bad' Bin Ahmed Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بدع بن احمد” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بدع بن احمد» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "barakah-bint-tha-alabah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بركة بنت ثعلبة",
+  "en": "Barakah Bint Tha'alabah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بركه بنت ثعلبه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بركه بنت ثعلبه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bishr-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بِشر بن عبدالله",
+  "en": "Bishr Bin Abdullah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بشر بن عبدالله” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشر بن عبدالله» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bashr-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بشر بن عمرو",
+  "en": "Bashr Bin Amr Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بشر بن عمرو” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشر بن عمرو» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bishr-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بِشر بن قَيس",
+  "en": "Bishr Bin Qays Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بشر بن قيس” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشر بن قيس» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bshr-bin-mu-awyah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بشر بن معاوية",
+  "en": "Bshr Bin Mu'awyah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بشر بن معاويه” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشر بن معاويه» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "tamim-bin-bishr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع تميم بن بشر",
+  "en": "Tamim Bin Bishr Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “تميم بن بشر” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «تميم بن بشر» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "jaber-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جابر بن عبدالله",
+  "en": "Jaber Bin Abdullah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “جابر بن عبدالله” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جابر بن عبدالله» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
 }
 ];
