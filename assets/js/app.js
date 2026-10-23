@@ -145,11 +145,12 @@
     return d !== 0 ? d : a.en.localeCompare(b.en);
   });
 
-  var state = { lang: "en", q: "", emirate: "all", category: "all", district: "all", showRoads: false };
+  var state = { lang: "en", q: "", emirate: "all", category: "all", district: "all", showRoads: false, limit: 24 };
   var storyDistrict = {};
   var results = [];
   var lastRoads = [];
   var ROAD_PAGE = 60;
+  var PAGE = 24; // cards per screen
   var ROADS = null;          // the full card index, loaded on first search only
   var roadsLoading = false;
   var roadsWaiting = [];
@@ -160,7 +161,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261023v";
+    s.src = "data/cards.js?v=20261023x";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -423,42 +424,55 @@
     row.hidden = false;
   }
 
+  function renderStoryCard(s, i) {
+    var em = emirateOf(s.emirate);
+    var cat = categoryOf(s.category);
+    var meaning = s.meaning ? s.meaning[state.lang] : "";
+    var originLabel = s.origin === "account" ? T.originAccount : s.origin === "local" ? T.originLocal : T.originDocumented;
+    var nameBlock = state.lang === "ar"
+      ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</h3>" +
+        '<p class="card__en" dir="ltr">' + esc(s.en) + "</p>"
+      : '<h3 class="card__en" dir="ltr">' + esc(s.en) + "</h3>" +
+        '<p class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</p>";
+    return '<a class="card" href="#street=' + esc(s.id) + '" data-id="' + esc(s.id) + '" ' +
+      'style="--cat:' + cat.color + ';--i:' + Math.min(i, 14) + '" ' +
+      'aria-label="' + esc((state.lang === "ar" ? s.ar : s.en) + " — " + em[state.lang]) + '">' +
+      '<div class="card__top">' +
+        '<span class="card__emirate">' + esc(em[state.lang]) + "</span>" +
+        '<span class="badge badge--' + (s.origin === "local" ? "local" : "documented") + '">' + esc(originLabel) + "</span>" +
+      "</div>" +
+      nameBlock +
+      (meaning ? '<p class="card__meaning">' + esc(meaning) + "</p>" : "") +
+      '<div class="card__foot">' +
+        '<span class="card__tag">' + esc(T.categoryNoun[s.category] || cat[state.lang]) + "</span>" +
+        '<span class="card__more">' + esc(T.read) + ' <span class="arrow" aria-hidden="true">→</span></span>' +
+      "</div>" +
+    "</a>";
+  }
   function renderGrid(animate) {
     var grid = $("#grid");
     lastRoads = (state.q || state.emirate !== "all" || state.category !== "all" || state.district !== "all") ? roadMatches() : [];
-    var shownRoads = lastRoads.slice(0, state.roadsShown || ROAD_PAGE);
     if (!grid) return;
 
     grid.classList.toggle("grid--animate", !!animate);
 
-    grid.innerHTML = results.map(function (s, i) {
-      var em = emirateOf(s.emirate);
-      var cat = categoryOf(s.category);
-      var meaning = s.meaning ? s.meaning[state.lang] : "";
-      var originLabel = s.origin === "account" ? T.originAccount : s.origin === "local" ? T.originLocal : T.originDocumented;
-      // The name in the reader's own language is the heading and comes first.
-      var nameBlock = state.lang === "ar"
-        ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</h3>" +
-          '<p class="card__en" dir="ltr">' + esc(s.en) + "</p>"
-        : '<h3 class="card__en" dir="ltr">' + esc(s.en) + "</h3>" +
-          '<p class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</p>";
-      return (
-        '<a class="card" href="#street=' + esc(s.id) + '" data-id="' + esc(s.id) + '" ' +
-          'style="--cat:' + cat.color + ';--i:' + Math.min(i, 14) + '" ' +
-          'aria-label="' + esc((state.lang === "ar" ? s.ar : s.en) + " — " + em[state.lang]) + '">' +
-          '<div class="card__top">' +
-            '<span class="card__emirate">' + esc(em[state.lang]) + "</span>" +
-            '<span class="badge badge--' + (s.origin === "local" ? "local" : "documented") + '">' + esc(originLabel) + "</span>" +
-          "</div>" +
-          nameBlock +
-          (meaning ? '<p class="card__meaning">' + esc(meaning) + "</p>" : "") +
-          '<div class="card__foot">' +
-            '<span class="card__tag">' + esc(T.categoryNoun[s.category] || cat[state.lang]) + "</span>" +
-            '<span class="card__more">' + esc(T.read) + ' <span class="arrow" aria-hidden="true">→</span></span>' +
-          "</div>" +
-        "</a>"
-      );
-    }).join("") + shownRoads.map(renderRoadCard).join("");
+    var items = results.map(function (s, i) { return { story: s, i: i }; });
+    var shownRoads = lastRoads.slice(0, state.roadsShown || ROAD_PAGE);
+    shownRoads.forEach(function (x, i) { items.push({ road: x, i: i }); });
+    var limit = state.limit || PAGE;
+    grid.innerHTML = items.slice(0, limit).map(function (it) {
+      return it.story ? renderStoryCard(it.story, it.i) : renderRoadCard(it.road, it.i);
+    }).join("");
+
+    var moreWrap = $("#cards-more-wrap");
+    if (moreWrap) {
+      var remaining = Math.max(0, items.length - limit);
+      moreWrap.hidden = remaining <= 0;
+      var moreBtn = $("#cards-more");
+      if (moreBtn) moreBtn.textContent = state.lang === "ar"
+        ? "عرض مزيد من البطاقات (" + Math.min(remaining, PAGE).toLocaleString("ar-EG") + ")"
+        : "Show more cards (" + Math.min(remaining, PAGE) + ")";
+    }
 
 
     $("#empty").hidden = results.length !== 0 || lastRoads.length !== 0;
@@ -484,9 +498,16 @@
           countEl.textContent = n ? n + (n === 1 ? " story · " : " stories · ") + head : head;
         }
       } else {
-        countEl.textContent = isFiltered
-          ? format(T.countFiltered, { n: n, total: total })
-          : (n === 1 ? T.countOne : format(T.countMany, { n: n }));
+        var shown = Math.min(n, state.limit || PAGE);
+        if (n > shown) {
+          countEl.textContent = state.lang === "ar"
+            ? shown.toLocaleString("ar-EG") + " من " + n.toLocaleString("ar-EG") + " شارعاً"
+            : "showing " + shown + " of " + n + " streets";
+        } else {
+          countEl.textContent = isFiltered
+            ? format(T.countFiltered, { n: n, total: total })
+            : (n === 1 ? T.countOne : format(T.countMany, { n: n }));
+        }
       }
     }
 
@@ -728,6 +749,7 @@
         if (!ROADS && search.value.trim()) loadRoads(function () { update(false); });
         state.q = search.value;
         state.roadsShown = ROAD_PAGE;
+        state.limit = PAGE;
         if (search.value.trim()) state.showRoads = true;
         update(false);
       });
@@ -772,6 +794,7 @@
         if (group === "emirate") { state.emirate = value; state.district = "all"; }
         if (group === "category") state.category = value;
         if (group === "district") state.district = value;
+        state.limit = PAGE;
         state.showRoads = true;
         update(true);
       });
