@@ -882,5 +882,974 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/سلمان_الفارسي"
     }
   ]
+},
+{
+  "id": "al-hasan-bin-ali-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الحسن بن علي",
+  "en": "Al Hasan Bin Ali Street",
+  "meaning": {
+    "en": "5th Rashidun Caliph (r. 661) and second Shia Imam",
+    "ar": "خامس وآخر الخُلفاء الرَّاشدين عند أهل السنة (حكم 40هـ / 661م) وثاني الائمة عند الشيعة"
+  },
+  "story": {
+    "en": "Hasan ibn Ali (625–669) was the 5th Rashidun Caliph (r. 661) and second Shia Imam.",
+    "ar": "الحسن بن علي — خامس وآخر الخُلفاء الرَّاشدين عند أهل السنة (حكم 40هـ / 661م) وثاني الائمة عند الشيعة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الحسن بن علي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B3%D9%86_%D8%A8%D9%86_%D8%B9%D9%84%D9%8A"
+    }
+  ]
+},
+{
+  "id": "hassan-bin-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حسان بن ثابت",
+  "en": "Hassan Bin Thabit Street",
+  "meaning": {
+    "en": "Arabian poet and companion of Muhammad",
+    "ar": "شاعر عربي وصحابي من الأنصار"
+  },
+  "story": {
+    "en": "Hassan ibn Thabit (554–674) was an arabian poet and companion of Muhammad.",
+    "ar": "حسان بن ثابت — شاعر عربي وصحابي من الأنصار."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حسان بن ثابت",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D9%86_%D8%A8%D9%86_%D8%AB%D8%A7%D8%A8%D8%AA"
+    }
+  ]
+},
+{
+  "id": "ammar-bin-yasir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عمار بن ياسر",
+  "en": "Ammar Bin Yasir Street",
+  "meaning": {
+    "en": "Companion of the Islamic prophet Muhammad",
+    "ar": "صحابي من السابقين الأولين، ومن مشاهير الصحابة"
+  },
+  "story": {
+    "en": "Ammar ibn Yasir (570–657) was a companion of the Islamic prophet Muhammad.",
+    "ar": "عمار بن ياسر — صحابي من السابقين الأولين، ومن مشاهير الصحابة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عمار بن ياسر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%B1_%D8%A8%D9%86_%D9%8A%D8%A7%D8%B3%D8%B1"
+    }
+  ]
+},
+{
+  "id": "hassan-bin-an-nu-man-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حسان بن النعمان",
+  "en": "Hassan Bin An Nu'man Street",
+  "meaning": {
+    "en": "Umayyad general",
+    "ar": "قائد أموي"
+  },
+  "story": {
+    "en": "Hassan ibn al-Nu'man (d. 705) was an umayyad general.",
+    "ar": "حسان بن النعمان — قائد أموي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حسان بن النعمان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D9%86_%D8%A8%D9%86_%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "al-layth-bin-sa-d-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الليث بن سعد",
+  "en": "Al Layth Bin Sa'd Street",
+  "meaning": {
+    "en": "Egyptian faqih, author and muhaddith",
+    "ar": "فقيه ومحدث وإمام أهل مصر في زمانه، وصاحب أحد المذاهب الإسلامية المندثرة"
+  },
+  "story": {
+    "en": "Al-Layth ibn Sa'd (713–791) was an egyptian faqih, author and muhaddith.",
+    "ar": "الليث بن سعد — فقيه ومحدث وإمام أهل مصر في زمانه، وصاحب أحد المذاهب الإسلامية المندثرة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الليث بن سعد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D9%8A%D8%AB_%D8%A8%D9%86_%D8%B3%D8%B9%D8%AF"
+    }
+  ]
+},
+{
+  "id": "hakeem-bin-hizam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حكيم بن حزام",
+  "en": "Hakeem Bin Hizam Street",
+  "meaning": {
+    "en": "Companion of the Islamic prophet Muhammad",
+    "ar": "صحابي جليل، وهو ابن أخي خديجة بنت خويلد أم المؤمنين"
+  },
+  "story": {
+    "en": "Hakim ibn Hizam (599–674) was a companion of the Islamic prophet Muhammad.",
+    "ar": "حكيم بن حزام — صحابي جليل، وهو ابن أخي خديجة بنت خويلد أم المؤمنين."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حكيم بن حزام",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%83%D9%8A%D9%85_%D8%A8%D9%86_%D8%AD%D8%B2%D8%A7%D9%85"
+    }
+  ]
+},
+{
+  "id": "asim-bin-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عاصم بن ثابت",
+  "en": "Asim Bin Thabit Street",
+  "meaning": {
+    "en": "Sahabi (Companion) of Muhammad",
+    "ar": "صحابي من الأنصار"
+  },
+  "story": {
+    "en": "Asim ibn Thabit (d. 625) was a sahabi (Companion) of Muhammad.",
+    "ar": "عاصم بن ثابت — صحابي من الأنصار."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عاصم بن ثابت",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A7%D8%B5%D9%85_%D8%A8%D9%86_%D8%AB%D8%A7%D8%A8%D8%AA"
+    }
+  ]
+},
+{
+  "id": "hammad-bin-zayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حماد بن زيد",
+  "en": "Hammad Bin Zayd Street",
+  "meaning": {
+    "en": "Islamic scholar and hadith narrator",
+    "ar": "شيخ العراق في عصره، حفظ أربعة آلاف حديث وكان ضريرا"
+  },
+  "story": {
+    "en": "Hammad ibn Zayd (716–795) was an islamic scholar and hadith narrator.",
+    "ar": "حماد بن زيد — شيخ العراق في عصره، حفظ أربعة آلاف حديث وكان ضريرا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حماد بن زيد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D8%AF_%D8%A8%D9%86_%D8%B2%D9%8A%D8%AF"
+    }
+  ]
+},
+{
+  "id": "aqil-bin-al-bakeer-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عاقل بن البكير",
+  "en": "Aqil Bin Al Bakeer Street",
+  "meaning": {
+    "en": "Sahabi (companion) of Muhammad",
+    "ar": "صحابي من السابقين الأولين"
+  },
+  "story": {
+    "en": "Aqil bin Al-Bakir was a Sahabi (companion) of Muhammad.",
+    "ar": "عاقل بن البكير — صحابي من السابقين الأولين."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عاقل بن البكير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A7%D9%82%D9%84_%D8%A8%D9%86_%D8%A7%D9%84%D8%A8%D9%83%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "jabir-bin-hayan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جابر بن حيان",
+  "en": "Jabir Bin Hayan Street",
+  "meaning": {
+    "en": "8th-century Islamic alchemist and author",
+    "ar": "عالم كيمياء موسوعي وهو أبو الكيمياء"
+  },
+  "story": {
+    "en": "Jabir ibn Hayyan (721–815) was the 8th-century Islamic alchemist and author.",
+    "ar": "جابر بن حيان — عالم كيمياء موسوعي وهو أبو الكيمياء."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جابر بن حيان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A8%D8%B1_%D8%A8%D9%86_%D8%AD%D9%8A%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "omar-al-mukhtar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عمر المختار",
+  "en": "Omar Al Mukhtar Street",
+  "meaning": {
+    "en": "Leader of the Senussi resistance against the Italian fascist occupation",
+    "ar": "قائد المقاومة السنوسية ضد الاحتلال الفاشي الإيطالي"
+  },
+  "story": {
+    "en": "Omar al-Mukhtar (1858–1931) was a leader of the Senussi resistance against the Italian fascist occupation.",
+    "ar": "عمر المختار — قائد المقاومة السنوسية ضد الاحتلال الفاشي الإيطالي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عمر المختار",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1"
+    }
+  ]
+},
+{
+  "id": "ibn-rushd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن رشد",
+  "en": "Ibn Rushd Street",
+  "meaning": {
+    "en": "Arab Andalusian Muslim writer and philosopher",
+    "ar": "فيلسوف وطبيب وفقيه وقاضي وفلكي وفيزيائي مسلم أندلسي"
+  },
+  "story": {
+    "en": "Averroes (1126–1198) was an arab Andalusian Muslim writer and philosopher.",
+    "ar": "ابن رشد — فيلسوف وطبيب وفقيه وقاضي وفلكي وفيزيائي مسلم أندلسي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن رشد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%B1%D8%B4%D8%AF"
+    }
+  ]
+},
+{
+  "id": "maryam-bint-omran-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مريم بنت عمران",
+  "en": "Maryam Bint 'Omran Street",
+  "meaning": {
+    "en": "A virgin and mother of Jesus in Islam",
+    "ar": "مريم العذراء أم النبي عيسى حسب المنظور الإسلامي"
+  },
+  "story": {
+    "en": "Mary in Islam was a virgin and mother of Jesus in Islam.",
+    "ar": "مريم بنت عمران — مريم العذراء أم النبي عيسى حسب المنظور الإسلامي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مريم بنت عمران",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B1%D9%8A%D9%85_%D8%A8%D9%86%D8%AA_%D8%B9%D9%85%D8%B1%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "ibn-al-nafis-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن النفيس",
+  "en": "Ibn Al Nafis Street",
+  "meaning": {
+    "en": "Arab polymath and physician",
+    "ar": "عالم موسوعي وطبيب عربي مسلم"
+  },
+  "story": {
+    "en": "Ibn al-Nafis (1210–1280) was an arab polymath and physician.",
+    "ar": "ابن النفيس — عالم موسوعي وطبيب عربي مسلم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن النفيس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D9%86%D9%81%D9%8A%D8%B3"
+    }
+  ]
+},
+{
+  "id": "ka-b-bin-zuhayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع كعب بن زهير",
+  "en": "Ka'b Bin Zuhayr Street",
+  "meaning": {
+    "en": "Arabian poet",
+    "ar": "شاعر مخضرم"
+  },
+  "story": {
+    "en": "Ka'b bin Zuhayr (700–647) was an arabian poet.",
+    "ar": "كعب بن زهير — شاعر مخضرم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — كعب بن زهير",
+      "url": "https://ar.wikipedia.org/wiki/%D9%83%D8%B9%D8%A8_%D8%A8%D9%86_%D8%B2%D9%87%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "saeed-bin-zayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سعيد بن زيد",
+  "en": "Saeed Bin Zayd Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "صحابي وأحد العشرة المبشرين بالجنة"
+  },
+  "story": {
+    "en": "Sa'id ibn Zayd (593–671) was a companion of Muhammad.",
+    "ar": "سعيد بن زيد — صحابي وأحد العشرة المبشرين بالجنة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعيد بن زيد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A8%D9%86_%D8%B2%D9%8A%D8%AF"
+    }
+  ]
+},
+{
+  "id": "zaynab-bint-jahash-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زينب بنت جحش",
+  "en": "Zaynab Bint Jahash Street",
+  "meaning": {
+    "en": "Cousin and seventh wife of Muhammad",
+    "ar": "أم المؤمنين سابع زوجات لمحمد"
+  },
+  "story": {
+    "en": "Zaynab bint Jahsh (592–642) was a cousin and seventh wife of Muhammad.",
+    "ar": "زينب بنت جحش — أم المؤمنين سابع زوجات لمحمد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زينب بنت جحش",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D9%86%D8%A8_%D8%A8%D9%86%D8%AA_%D8%AC%D8%AD%D8%B4"
+    }
+  ]
+},
+{
+  "id": "saad-bin-mu-adh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سعد بن معاذ",
+  "en": "Saad Bin Mu'adh Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "صحابي جليل رضي الله عنه"
+  },
+  "story": {
+    "en": "Sa'd ibn Mua'dh (590–627) was a companion of Muhammad.",
+    "ar": "سعد بن معاذ — صحابي جليل رضي الله عنه."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعد بن معاذ",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D8%AF_%D8%A8%D9%86_%D9%85%D8%B9%D8%A7%D8%B0"
+    }
+  ]
+},
+{
+  "id": "mu-adh-bin-jabal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع معاذ بن جبل",
+  "en": "Mu'adh Bin Jabal Street",
+  "meaning": {
+    "en": "7th-century companion (Sahabi) of Muhammad",
+    "ar": "صحابي وفقيه وقارئ قرآن كريم"
+  },
+  "story": {
+    "en": "Muadh ibn Jabal (600–638) was the 7th-century companion (Sahabi) of Muhammad.",
+    "ar": "معاذ بن جبل — صحابي وفقيه وقارئ قرآن كريم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — معاذ بن جبل",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D8%B0_%D8%A8%D9%86_%D8%AC%D8%A8%D9%84"
+    }
+  ]
+},
+{
+  "id": "qays-bin-al-mulawwah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع قيس بن الملوح",
+  "en": "Qays Bin Al Mulawwah Street",
+  "meaning": {
+    "en": "Arab poet and the character of the romantic fiction Layla and Majnun",
+    "ar": "شاعر غزل عربي نجدي عاش في القرن الأول من الهجرة في بادية العرب."
+  },
+  "story": {
+    "en": "Qays Ibn al-Mulawwah (644–688) was an arab poet and the character of the romantic fiction Layla and Majnun.",
+    "ar": "قيس بن الملوح — شاعر غزل عربي نجدي عاش في القرن الأول من الهجرة في بادية العرب.."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — قيس بن الملوح",
+      "url": "https://ar.wikipedia.org/wiki/%D9%82%D9%8A%D8%B3_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D9%84%D9%88%D8%AD"
+    }
+  ]
+},
+{
+  "id": "sa-d-bin-ar-rabee-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سعد بن الربيع",
+  "en": "Sa'd Bin Ar Rabee' Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "شجاع سعد بن ربيع"
+  },
+  "story": {
+    "en": "Sa'd ibn al-Rabi' (d. 625) was a companion of Muhammad.",
+    "ar": "سعد بن الربيع — شجاع سعد بن ربيع."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعد بن الربيع",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9"
+    }
+  ]
+},
+{
+  "id": "wahab-bin-sa-d-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع وهب بن سعد",
+  "en": "Wahab Bin Sa'd Street",
+  "meaning": {
+    "en": "Companion (Sahabi) of Muhammad",
+    "ar": "صحابي، شهد غزوات عديدة مع النبي محمد صلى الله عليه وسلم"
+  },
+  "story": {
+    "en": "Wahb ibn Saad was a companion (Sahabi) of Muhammad.",
+    "ar": "وهب بن سعد — صحابي، شهد غزوات عديدة مع النبي محمد صلى الله عليه وسلم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — وهب بن سعد",
+      "url": "https://ar.wikipedia.org/wiki/%D9%88%D9%87%D8%A8_%D8%A8%D9%86_%D8%B3%D8%B9%D8%AF"
+    }
+  ]
+},
+{
+  "id": "abdulla-bin-masood-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبد الله بن مسعود",
+  "en": "Abdulla Bin Masood Street",
+  "meaning": {
+    "en": "Companion of the Islamic prophet Muhammad",
+    "ar": "صحابي وفقيه ومقرئ ومحدث"
+  },
+  "story": {
+    "en": "Abdullah ibn Masud (594–653) was a companion of the Islamic prophet Muhammad.",
+    "ar": "عبد الله بن مسعود — صحابي وفقيه ومقرئ ومحدث."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الله بن مسعود",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D9%85%D8%B3%D8%B9%D9%88%D8%AF"
+    }
+  ]
+},
+{
+  "id": "shuja-bin-wahab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع شجاع بن وهب",
+  "en": "Shuja' Bin Wahab Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "صحابي، شجاع من أمراء السرايا، شهد المشاهد كلها في الإسلام"
+  },
+  "story": {
+    "en": "Shuja ibn Wahb al-Asadi (d. 633) was a companion of Muhammad.",
+    "ar": "شجاع بن وهب — صحابي، شجاع من أمراء السرايا، شهد المشاهد كلها في الإسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — شجاع بن وهب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B4%D8%AC%D8%A7%D8%B9_%D8%A8%D9%86_%D9%88%D9%87%D8%A8"
+    }
+  ]
+},
+{
+  "id": "abdullaziz-bin-baz-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبد العزيز بن باز",
+  "en": "Abdullaziz Bin Baz Street",
+  "meaning": {
+    "en": "Saudi Arabian Islamic scholar and mufti",
+    "ar": "عالم دين سعودي والمفتي العام للمملكة العربية السعودية سابقًا"
+  },
+  "story": {
+    "en": "Abd al-Aziz Ibn Baz (1912–1999) was a saudi Arabian Islamic scholar and mufti.",
+    "ar": "عبد العزيز بن باز — عالم دين سعودي والمفتي العام للمملكة العربية السعودية سابقًا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن باز",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%A8%D8%A7%D8%B2"
+    }
+  ]
+},
+{
+  "id": "tariq-bin-ziyad-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع طارق بن زياد",
+  "en": "Tariq Bin Ziyad Street",
+  "meaning": {
+    "en": "8th-century Muslim general",
+    "ar": "قائد مسلم عربي قاد الفتح الإسلامي للأندلس"
+  },
+  "story": {
+    "en": "Tariq ibn Ziyad (670–720) was the 8th-century Muslim general.",
+    "ar": "طارق بن زياد — قائد مسلم عربي قاد الفتح الإسلامي للأندلس."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — طارق بن زياد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D8%B1%D9%82_%D8%A8%D9%86_%D8%B2%D9%8A%D8%A7%D8%AF"
+    }
+  ]
+},
+{
+  "id": "abdullah-bin-al-zubair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبد الله بن الزبير",
+  "en": "Abdullah Bin Al Zubair Street",
+  "meaning": {
+    "en": "Historical Arab ruler",
+    "ar": "صحابي جليل من صغار الصحابة، ومؤسس الخلافة الزبيرية"
+  },
+  "story": {
+    "en": "Abd Allah ibn al-Zubayr (624–692) was a historical Arab ruler.",
+    "ar": "عبد الله بن الزبير — صحابي جليل من صغار الصحابة، ومؤسس الخلافة الزبيرية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الله بن الزبير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "zayd-bin-al-khattab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زيد بن الخطاب",
+  "en": "Zayd Bin Al Khattab Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي من السابقين الأولين وأخ عمر بن الخطاب"
+  },
+  "story": {
+    "en": "Zayd ibn al-Khattab (d. 632) was a companion of the Prophet Muhammad.",
+    "ar": "زيد بن الخطاب — صحابي من السابقين الأولين وأخ عمر بن الخطاب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زيد بن الخطاب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8"
+    }
+  ]
+},
+{
+  "id": "zaynab-bint-al-awwam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زينب بنت العوام",
+  "en": "Zaynab Bint Al Awwam Street",
+  "meaning": {
+    "en": "Companion and poet",
+    "ar": "صحابية وشاعرة"
+  },
+  "story": {
+    "en": "Zaynab bint al-Awwam (d. 660) was a companion and poet.",
+    "ar": "زينب بنت العوام — صحابية وشاعرة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زينب بنت العوام",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D9%86%D8%A8_%D8%A8%D9%86%D8%AA_%D8%A7%D9%84%D8%B9%D9%88%D8%A7%D9%85"
+    }
+  ]
+},
+{
+  "id": "omar-bin-abd-alaziz-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عمر بن عبد العزيز",
+  "en": "Omar Bin Abd Alaziz Street",
+  "meaning": {
+    "en": "Umayyad caliph from 717 to 720",
+    "ar": "ثامن خُلفاء بني أميَّة"
+  },
+  "story": {
+    "en": "Umar II (681–720) was an umayyad caliph from 717 to 720.",
+    "ar": "عمر بن عبد العزيز — ثامن خُلفاء بني أميَّة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عمر بن عبد العزيز",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2"
+    }
+  ]
+},
+{
+  "id": "iben-wasel-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن واصل",
+  "en": "Iben Wasel Street",
+  "meaning": {
+    "en": "13th century Syrian scholar and diplomat",
+    "ar": "مؤرخ وأديب ومفكر وفقيه من أهل حماة"
+  },
+  "story": {
+    "en": "Ibn Wasil (1208–1298) was the 13th century Syrian scholar and diplomat.",
+    "ar": "ابن واصل — مؤرخ وأديب ومفكر وفقيه من أهل حماة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن واصل",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D9%88%D8%A7%D8%B5%D9%84"
+    }
+  ]
+},
+{
+  "id": "al-ala-a-bin-al-hadhrami-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع العلاء بن الحضرمي",
+  "en": "Al Ala'a Bin Al Hadhrami Street",
+  "meaning": {
+    "en": "7th-century Muslim commander and governor",
+    "ar": "صحابي وقائد عسكري مسلم"
+  },
+  "story": {
+    "en": "Al-Ala ibn al-Hadrami (d. 635) was the 7th-century Muslim commander and governor.",
+    "ar": "العلاء بن الحضرمي — صحابي وقائد عسكري مسلم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — العلاء بن الحضرمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%A1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%B6%D8%B1%D9%85%D9%8A"
+    }
+  ]
+},
+{
+  "id": "iben-zaydoun-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن زيدون",
+  "en": "Iben Zaydoun Street",
+  "meaning": {
+    "en": "Poet of al-Andalus",
+    "ar": "شاعر أندلسي"
+  },
+  "story": {
+    "en": "Ibn Zaydun (1003–1071) was a poet of al-Andalus.",
+    "ar": "ابن زيدون — شاعر أندلسي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن زيدون",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%B2%D9%8A%D8%AF%D9%88%D9%86"
+    }
+  ]
+},
+{
+  "id": "amr-bin-al-jamooh-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عمرو بن الجموح",
+  "en": "Amr Bin Al Jamooh Street",
+  "meaning": {
+    "en": "Sahaba of Muhammad",
+    "ar": "صحابي، وأحد زعماء المدينة وسيد من سادات بني سَلِمة"
+  },
+  "story": {
+    "en": "Amr ibn al-Jamuh (540–625) was a sahaba of Muhammad.",
+    "ar": "عمرو بن الجموح — صحابي، وأحد زعماء المدينة وسيد من سادات بني سَلِمة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عمرو بن الجموح",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1%D9%88_%D8%A8%D9%86_%D8%A7%D9%84%D8%AC%D9%85%D9%88%D8%AD"
+    }
+  ]
+},
+{
+  "id": "abad-bin-beshr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عباد بن بشر",
+  "en": "Abad Bin Beshr Street",
+  "meaning": {
+    "en": "Sahaba of Muhammad",
+    "ar": "صحابي من الأنصار"
+  },
+  "story": {
+    "en": "Abbad ibn Bishr (589–632) was a sahaba of Muhammad.",
+    "ar": "عباد بن بشر — صحابي من الأنصار."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عباد بن بشر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%A7%D8%AF_%D8%A8%D9%86_%D8%A8%D8%B4%D8%B1"
+    }
+  ]
+},
+{
+  "id": "al-harth-bin-hisham-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الحارث بن هشام",
+  "en": "Al Harth Bin Hisham Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "صحابي من سادات قريش من أهل مكة"
+  },
+  "story": {
+    "en": "Al-Harith ibn Hisham ibn al-Mughira (d. 639) was a companion of Muhammad.",
+    "ar": "الحارث بن هشام — صحابي من سادات قريش من أهل مكة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الحارث بن هشام",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB_%D8%A8%D9%86_%D9%87%D8%B4%D8%A7%D9%85"
+    }
+  ]
+},
+{
+  "id": "abdulmalek-bin-marwan-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبد الملك بن مروان",
+  "en": "Abdulmalek Bin Marwan Street",
+  "meaning": {
+    "en": "Umayyad caliph from 685 to 705",
+    "ar": "خامس خُلفاء بني أميَّة"
+  },
+  "story": {
+    "en": "Abd al-Malik ibn Marwan (646–705) was an umayyad caliph from 685 to 705.",
+    "ar": "عبد الملك بن مروان — خامس خُلفاء بني أميَّة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الملك بن مروان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%A8%D9%86_%D9%85%D8%B1%D9%88%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "bashar-bin-bard-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع بشار بن برد",
+  "en": "Bashar Bin Bard Street",
+  "meaning": {
+    "en": "Persian poet who wrote in Arabic",
+    "ar": "شاعر من العصر العباسي"
+  },
+  "story": {
+    "en": "Bashshar ibn Burd (714–784) was a persian poet who wrote in Arabic.",
+    "ar": "بشار بن برد — شاعر من العصر العباسي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — بشار بن برد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%A7%D8%B1_%D8%A8%D9%86_%D8%A8%D8%B1%D8%AF"
+    }
+  ]
+},
+{
+  "id": "sahl-bin-hunaif-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سهل بن حنيف",
+  "en": "Sahl Bin Hunaif Street",
+  "meaning": {
+    "en": "Companion of the Islamic prophet Muhammad",
+    "ar": "صحابي من السابقين، شهد بدرا وثبت يوم أحد وشهد المشاهد كلها"
+  },
+  "story": {
+    "en": "Sahl ibn Hunayf (d. 658) was a companion of the Islamic prophet Muhammad.",
+    "ar": "سهل بن حنيف — صحابي من السابقين، شهد بدرا وثبت يوم أحد وشهد المشاهد كلها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سهل بن حنيف",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%87%D9%84_%D8%A8%D9%86_%D8%AD%D9%86%D9%8A%D9%81"
+    }
+  ]
+},
+{
+  "id": "salim-al-jamry-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سالم الجمري",
+  "en": "Salim Al Jamry Street",
+  "meaning": {
+    "en": "Emirian poet",
+    "ar": "شاعر إماراتي"
+  },
+  "story": {
+    "en": "Sālim Jamrī (1910–1991) was an emirian poet.",
+    "ar": "سالم الجمري — شاعر إماراتي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سالم الجمري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "sa-eed-bin-al-aas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سعيد بن العاص",
+  "en": "Sa'eed Bin Al Aas Street",
+  "meaning": {
+    "en": "Muslim military leader and governor",
+    "ar": "صحابي، ووال مسلم، وقائد عسكري"
+  },
+  "story": {
+    "en": "Sa'id ibn al-'As (623–679) was a muslim military leader and governor.",
+    "ar": "سعيد بن العاص — صحابي، ووال مسلم، وقائد عسكري."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعيد بن العاص",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D8%B9%D8%A7%D8%B5"
+    }
+  ]
+},
+{
+  "id": "thakwaan-bin-qbd-qais-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ذكوان بن عبد قيس",
+  "en": "Thakwaan Bin Qbd Qais Street",
+  "meaning": {
+    "en": "One of Muhammad's companions",
+    "ar": "صحابي من صحابة النبي محمد"
+  },
+  "story": {
+    "en": "Dhikwan ibn Abd-Qays (d. 625) was an one of Muhammad's companions.",
+    "ar": "ذكوان بن عبد قيس — صحابي من صحابة النبي محمد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ذكوان بن عبد قيس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B0%D9%83%D9%88%D8%A7%D9%86_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D9%82%D9%8A%D8%B3"
+    }
+  ]
+},
+{
+  "id": "tulaib-bin-omair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع طليب بن عمير",
+  "en": "Tulaib Bin Omair Street",
+  "meaning": {
+    "en": "Cousin of Muhammad",
+    "ar": "صحابي وابن عمة النبي محمد"
+  },
+  "story": {
+    "en": "Tulayb ibn Umayr was a cousin of Muhammad.",
+    "ar": "طليب بن عمير — صحابي وابن عمة النبي محمد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — طليب بن عمير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B7%D9%84%D9%8A%D8%A8_%D8%A8%D9%86_%D8%B9%D9%85%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "ibn-sina-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع إبن سِينا",
+  "en": "Ibn Sina Street",
+  "translit": "Shāriʿ Ibn Sīnā",
+  "meaning": {
+    "en": "A polymath, author of the Canon of Medicine",
+    "ar": "عالم موسوعي وصاحب «القانون في الطب»"
+  },
+  "story": {
+    "en": "Ibn Sina (980–1037), known in the West as Avicenna, was a Persian polymath whose Canon of Medicine remained a standard text in Europe and the Islamic world for centuries.",
+    "ar": "ابن سينا (980–1037م) عالم موسوعي، عُرف في الغرب باسم أفيسينا، وبقي كتابه «القانون في الطب» مرجعاً في أوروبا والعالم الإسلامي قروناً."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن سينا",
+      "url": "https://ar.wikipedia.org/wiki/ابن_سينا"
+    }
+  ]
 }
 ];

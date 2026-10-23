@@ -419,3 +419,19 @@ assignment is reproducible from OSM, so there was no need to take it from them.
 `Street 12`. They are dropped by `GENERIC_FORMER` in `tools/cards-build.mjs` and
 `tools/wiki-build.mjs`, on the same principle that excludes numeric names from the
 directory: "formerly 1st Street" is not information a reader can use.
+
+### Filling many cards at once
+
+`tools/wiki-cards.mjs` matches street names to Wikidata items that are **humans (P31 Q5)
+whose Arabic label is exactly the street's name**, then pulls labels, descriptions and
+dates, plus the Arabic Wikipedia intro. Exact-label matching matters: free-text search for
+«عرقوب بن سالمين» returns a Palestinian poet named أحمد أبو عرقوب, and «عود بن حاسوم»
+returns an Abbasid poem.
+
+Per-name Wikipedia search cost ~7s; a single SPARQL query matches 200 names at once, so
+1,500 names resolve in about two minutes.
+
+Nothing generated is published unreviewed. The Arabic lint and the editorial lint both
+rejected the first batch — Arabic intros ran 4–7× the English line, some Arabic
+"descriptions" were actually English, and three were politicians. Cards that fail a gate
+are dropped, not softened.
