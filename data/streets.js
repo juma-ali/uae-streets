@@ -698,5 +698,189 @@ window.STREETS = [
     refs: [
       { label: "الإصابة — عبد الله بن أبي حبيبة (via Shamela)", url: "https://shamela.ws/new.php/narrator/15145" }
     ]
-  }
+  },
+{
+  "id": "abu-bakr-as-siddeeq-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أبوبَكر الصِّدِّيق",
+  "en": "Abu Bakr As Siddeeq Street",
+  "translit": "Shāriʿ Abī Bakr aṣ-Ṣiddīq",
+  "meaning": {
+    "en": "The first caliph, the Prophet's companion in the migration",
+    "ar": "أول الخلفاء الراشدين وصاحب النبي في الهجرة"
+  },
+  "story": {
+    "en": "Abu Bakr al-Siddiq (d. 13 AH / 634 CE) was the first of the Rightly Guided Caliphs and the Companion who accompanied the Prophet on the migration to Medina. He was the first free man to accept Islam.",
+    "ar": "أبو بكر الصديق (ت ١٣هـ/٦٣٤م) أول الخلفاء الراشدين، وصاحب النبي في الهجرة إلى المدينة، وأول من أسلم من الرجال الأحرار."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو بكر الصديق",
+      "url": "https://ar.wikipedia.org/wiki/أبو_بكر_الصديق"
+    }
+  ]
+},
+{
+  "id": "omar-bin-al-khattab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عمر بن الخطاب",
+  "en": "Omar Bin Al Khattab Street",
+  "translit": "Shāriʿ ʿUmar bin al-Khaṭṭāb",
+  "meaning": {
+    "en": "The second caliph",
+    "ar": "الخليفة الثاني"
+  },
+  "story": {
+    "en": "Umar ibn al-Khattab (d. 23 AH / 644 CE) was the second caliph. In his ten years the state expanded into Syria, Egypt and Persia, and he established the Hijri calendar.",
+    "ar": "عمر بن الخطاب (ت ٢٣هـ/٦٤٤م) الخليفة الثاني، وفي عهده امتدت الدولة إلى الشام ومصر وفارس، وهو أول من وضع التقويم الهجري."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عمر بن الخطاب",
+      "url": "https://ar.wikipedia.org/wiki/عمر_بن_الخطاب"
+    }
+  ]
+},
+{
+  "id": "othman-bin-affan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عثمان بن عفان",
+  "en": "Othman Bin Affan Street",
+  "translit": "Shāriʿ ʿUthmān bin ʿAffān",
+  "meaning": {
+    "en": "The third caliph",
+    "ar": "الخليفة الثالث"
+  },
+  "story": {
+    "en": "Uthman ibn Affan (d. 35 AH / 656 CE) was the third caliph. He ordered the Qur'an collected into a single standard codex, and equipped the army known as the Army of Hardship.",
+    "ar": "عثمان بن عفان (ت ٣٥هـ/٦٥٦م) الخليفة الثالث، أمر بجمع القرآن في مصحف إمام، وجهّز جيش العسرة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عثمان بن عفان",
+      "url": "https://ar.wikipedia.org/wiki/عثمان_بن_عفان"
+    }
+  ]
+},
+{
+  "id": "ali-bin-abi-talib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع علي بن أبي طالب",
+  "en": "Ali Bin Abi Talib Street",
+  "translit": "Shāriʿ ʿAlī bin Abī Ṭālib",
+  "meaning": {
+    "en": "The fourth caliph, the Prophet's cousin",
+    "ar": "الخليفة الرابع وابن عم النبي"
+  },
+  "story": {
+    "en": "Ali ibn Abi Talib (d. 40 AH / 661 CE) was the fourth of the Rightly Guided Caliphs, the Prophet's cousin, and the husband of his daughter Fatima.",
+    "ar": "علي بن أبي طالب (ت ٤٠هـ/٦٦١م) رابع الخلفاء الراشدين، وابن عم النبي، وزوج ابنته فاطمة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — علي بن أبي طالب",
+      "url": "https://ar.wikipedia.org/wiki/علي_بن_أبي_طالب"
+    }
+  ]
+},
+{
+  "id": "khalid-bin-al-waleed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خالِد بن الوليد",
+  "en": "Khalid Bin Al Waleed Street",
+  "translit": "Shāriʿ Khālid bin al-Walīd",
+  "meaning": {
+    "en": "A commander of the early conquests",
+    "ar": "قائد من قادة الفتوح الأولى"
+  },
+  "story": {
+    "en": "Khalid ibn al-Walid (d. 21 AH / 642 CE) was a commander known as the Sword of God. He led the armies of the Ridda wars and of the conquest of Syria.",
+    "ar": "خالد بن الوليد (ت ٢١هـ/٦٤٢م) قائد عُرف بسيف الله المسلول، قاد جيوش حروب الردة وفتح الشام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — خالد بن الوليد",
+      "url": "https://ar.wikipedia.org/wiki/خالد_بن_الوليد"
+    }
+  ]
+},
+{
+  "id": "bilal-bin-rabah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع بلال بن رَباح",
+  "en": "Bilal Bin Rabah Street",
+  "translit": "Shāriʿ Bilāl bin Rabāḥ",
+  "meaning": {
+    "en": "The Prophet's muezzin",
+    "ar": "مؤذن الرسول"
+  },
+  "story": {
+    "en": "Bilal ibn Rabah (d. c. 20 AH) was the Prophet's muezzin and among the first to accept Islam. Abu Bakr bought him and set him free.",
+    "ar": "بلال بن رباح (ت نحو ٢٠هـ) مؤذن الرسول، ومن السابقين إلى الإسلام، اشتراه أبو بكر فأعتقه."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — بلال بن رباح",
+      "url": "https://ar.wikipedia.org/wiki/بلال_بن_رباح"
+    }
+  ]
+},
+{
+  "id": "hamza-bin-abdulmuttalib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حمزة بن عبدالمطلب",
+  "en": "Hamza Bin Abdulmuttalib Street",
+  "translit": "Shāriʿ Ḥamza bin ʿAbd al-Muṭṭalib",
+  "meaning": {
+    "en": "The Prophet's uncle, killed at Uhud",
+    "ar": "عمّ النبي، استُشهد في أُحد"
+  },
+  "story": {
+    "en": "Hamza ibn Abd al-Muttalib (d. 3 AH / 625 CE) was the Prophet's uncle, known as the Lion of God. He was killed at the battle of Uhud and is buried there.",
+    "ar": "حمزة بن عبد المطلب (ت ٣هـ/٦٢٥م) عمّ النبي، عُرف بأسد الله، واستُشهد في غزوة أُحد ودُفن فيها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حمزة بن عبد المطلب",
+      "url": "https://ar.wikipedia.org/wiki/حمزة_بن_عبد_المطلب"
+    }
+  ]
+},
+{
+  "id": "salman-al-faresi-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سلمان الفارسي",
+  "en": "Salman Al Faresi Street",
+  "translit": "Shāriʿ Salmān al-Fārisī",
+  "meaning": {
+    "en": "A Companion of Persian origin",
+    "ar": "صحابي فارسي الأصل"
+  },
+  "story": {
+    "en": "Salman al-Farisi (d. c. 33 AH) was a Companion of Persian origin. At the Battle of the Trench he proposed digging the ditch that gave the battle its name.",
+    "ar": "سلمان الفارسي (ت نحو ٣٣هـ) صحابي فارسي الأصل، أشار بحفر الخندق في غزوة الأحزاب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سلمان الفارسي",
+      "url": "https://ar.wikipedia.org/wiki/سلمان_الفارسي"
+    }
+  ]
+}
 ];
