@@ -961,8 +961,8 @@ window.STREETS = [
     "ar": "قائد أموي"
   },
   "story": {
-    "en": "Hassan ibn al-Nu'man (d. 705) was an umayyad general.",
-    "ar": "حسان بن النعمان — قائد أموي."
+    "en": "Hassan ibn al-Nu'man al-Ghassani (d. c. 86 AH / 705 CE) was an Umayyad commander who completed the conquest of Ifriqiya and founded Tunis.",
+    "ar": "حسان بن النعمان الغساني (ت نحو ٨٦هـ/٧٠٥م) قائد أموي، أكمل فتح إفريقية وأسّس مدينة تونس."
   },
   "refs": [
     {
@@ -1027,8 +1027,8 @@ window.STREETS = [
     "ar": "صحابي من الأنصار"
   },
   "story": {
-    "en": "Asim ibn Thabit (d. 625) was a sahabi (Companion) of Muhammad.",
-    "ar": "عاصم بن ثابت — صحابي من الأنصار."
+    "en": "Asim ibn Thabit al-Ansari (d. 4 AH / 625 CE) was an Ansari companion killed at the well of Ma'una.",
+    "ar": "عاصم بن ثابت بن أبي الأقلح الأنصاري (ت ٤هـ/٦٢٥م) صحابي من الأنصار، استُشهد في بئر معونة."
   },
   "refs": [
     {
@@ -1071,8 +1071,8 @@ window.STREETS = [
     "ar": "صحابي من السابقين الأولين"
   },
   "story": {
-    "en": "Aqil bin Al-Bakir was a Sahabi (companion) of Muhammad.",
-    "ar": "عاقل بن البكير — صحابي من السابقين الأولين."
+    "en": "Aqil ibn al-Bakir was a companion of the Prophet Muhammad.",
+    "ar": "عقيل بن البكير صحابي من أصحاب النبي محمد، وأخو إياس بن البكير البدري."
   },
   "refs": [
     {
@@ -1203,8 +1203,8 @@ window.STREETS = [
     "ar": "شاعر مخضرم"
   },
   "story": {
-    "en": "Ka'b bin Zuhayr (700–647) was an arabian poet.",
-    "ar": "كعب بن زهير — شاعر مخضرم."
+    "en": "Ka'b ibn Zuhayr (d. c. 24 AH / 645 CE) was a poet of the transition period who accepted Islam and recited his ode Banat Su'ad before the Prophet.",
+    "ar": "كعب بن زهير بن أبي سلمى (ت نحو ٢٤هـ/٦٤٥م) شاعر مخضرم، أسلم وأنشد قصيدته «بانت سعاد» بين يدي النبي."
   },
   "refs": [
     {
@@ -1335,8 +1335,8 @@ window.STREETS = [
     "ar": "شجاع سعد بن ربيع"
   },
   "story": {
-    "en": "Sa'd ibn al-Rabi' (d. 625) was a companion of Muhammad.",
-    "ar": "سعد بن الربيع — شجاع سعد بن ربيع."
+    "en": "Sa'd ibn al-Rabi' al-Ansari (d. 3 AH / 625 CE) was one of the chosen leaders of the Ansar, killed at the battle of Uhud.",
+    "ar": "سعد بن الربيع الأنصاري (ت ٣هـ/٦٢٥م) من نقباء الأنصار، استُشهد يوم أُحد."
   },
   "refs": [
     {
@@ -1511,8 +1511,8 @@ window.STREETS = [
     "ar": "صحابية وشاعرة"
   },
   "story": {
-    "en": "Zaynab bint al-Awwam (d. 660) was a companion and poet.",
-    "ar": "زينب بنت العوام — صحابية وشاعرة."
+    "en": "Zaynab bint al-Awwam was a woman of Quraysh in early Islam and a sister of al-Zubayr ibn al-Awwam.",
+    "ar": "زينب بنت العوام أخت الزبير بن العوام، من نساء قريش في صدر الإسلام."
   },
   "refs": [
     {
@@ -1599,8 +1599,8 @@ window.STREETS = [
     "ar": "شاعر أندلسي"
   },
   "story": {
-    "en": "Ibn Zaydun (1003–1071) was a poet of al-Andalus.",
-    "ar": "ابن زيدون — شاعر أندلسي."
+    "en": "Ibn Zaydun (1003–1071) was an Andalusian poet and statesman of Cordoba and Seville, among the best known poets of al-Andalus.",
+    "ar": "ابن زيدون (٣٩٤–٤٦٣هـ/١٠٠٣–١٠٧١م) شاعر أندلسي ووزير في قرطبة وإشبيلية، من أشهر شعراء الأندلس."
   },
   "refs": [
     {
@@ -1621,8 +1621,8 @@ window.STREETS = [
     "ar": "صحابي، وأحد زعماء المدينة وسيد من سادات بني سَلِمة"
   },
   "story": {
-    "en": "Amr ibn al-Jamuh (540–625) was a sahaba of Muhammad.",
-    "ar": "عمرو بن الجموح — صحابي، وأحد زعماء المدينة وسيد من سادات بني سَلِمة."
+    "en": "Amr ibn al-Jamuh (540–625) was a companion of the Prophet Muhammad from the Ansar of Banu Salama.",
+    "ar": "عمرو بن الجموح (ت ٣هـ/٦٢٥م) صحابي من الأنصار من بني سلمة، استُشهد يوم أُحد."
   },
   "refs": [
     {
@@ -1643,8 +1643,8 @@ window.STREETS = [
     "ar": "صحابي من الأنصار"
   },
   "story": {
-    "en": "Abbad ibn Bishr (589–632) was a sahaba of Muhammad.",
-    "ar": "عباد بن بشر — صحابي من الأنصار."
+    "en": "Abbad ibn Bishr al-Ansari (d. 11 AH / 632 CE) was a Badri companion of the Ansar, killed at al-Yamama.",
+    "ar": "عباد بن بشر الأنصاري (ت ١١هـ/٦٣٢م) صحابي بدري من الأنصار، استُشهد باليمامة."
   },
   "refs": [
     {
@@ -1753,8 +1753,8 @@ window.STREETS = [
     "ar": "شاعر إماراتي"
   },
   "story": {
-    "en": "Sālim Jamrī (1910–1991) was an emirian poet.",
-    "ar": "سالم الجمري — شاعر إماراتي."
+    "en": "Salim al-Jamri (1910–1991) was an Emirati poet of the Nabati tradition.",
+    "ar": "سالم الجمري (١٩١٠–١٩٩١م) شاعر إماراتي من شعراء النبط."
   },
   "refs": [
     {
@@ -2742,8 +2742,8 @@ window.STREETS = [
     "ar": "صحابي أنصاري شهد بدراً وأُحداً"
   },
   "story": {
-    "en": "Zayd ibn Wadi'a was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
-    "ar": "زيد بن وديعة بن عمرو بن قيس الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى ال."
+    "en": "Zayd ibn Wadi'a ibn Amr al-Khazraji was an Ansari Companion of the Khazraj who fought alongside the Prophet at Badr and Uhud.",
+    "ar": "زيد بن وديعة بن عمرو بن قيس الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد."
   },
   "refs": [
     {
@@ -2852,8 +2852,8 @@ window.STREETS = [
     "ar": "صحابي أنصاري شهد بدراً وأُحداً"
   },
   "story": {
-    "en": "Sulaym ibn al-Harith was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
-    "ar": "سليم بن الحارث بن ثعلبة بن كعب بن عبد الأشهل الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي م."
+    "en": "Sulaym ibn al-Harith al-Khazraji was an Ansari Companion of the Khazraj who fought with the Prophet at Badr and Uhud, and was killed at Uhud.",
+    "ar": "سليم بن الحارث بن ثعلبة بن كعب بن عبد الأشهل الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد وقُتِل فيها شهيداً."
   },
   "refs": [
     {
@@ -2962,8 +2962,8 @@ window.STREETS = [
     "ar": "صحابي أنصاري من الأوس"
   },
   "story": {
-    "en": "Asim ibn Qays was an Ansari Companion of the Aws who fought at Badr and Uhud.",
-    "ar": "عاصم بن قيس بن ثابت بن النعمان بن أمية الأوسي الأنصاري صحابي جليل من قبيلة الأوس من الأنصار شهد مع ا."
+    "en": "Asim ibn Qays ibn Thabit al-Awsi was an Ansari Companion of the Aws who fought with the Prophet at Badr and Uhud.",
+    "ar": "عاصم بن قيس بن ثابت بن النعمان بن أمية الأوسي الأنصاري صحابي جليل من قبيلة الأوس من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد."
   },
   "refs": [
     {
@@ -3160,8 +3160,8 @@ window.STREETS = [
     "ar": "صحابي أنصاري شهد بدراً وأُحداً"
   },
   "story": {
-    "en": "Malik ibn Mas'ud was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
-    "ar": "مالك بن مسعود بن اليدي بن عامر الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى ا."
+    "en": "Malik ibn Mas'ud al-Khazraji was an Ansari Companion of the Khazraj who fought with the Prophet at Badr and Uhud.",
+    "ar": "مالك بن مسعود بن اليدي بن عامر الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد."
   },
   "refs": [
     {
@@ -3226,8 +3226,8 @@ window.STREETS = [
     "ar": "شاعر وكاتب مسرحي مصري"
   },
   "story": {
-    "en": "Ahmed Shawqi (1868–1932) was an Egyptian poet.",
-    "ar": "أحمد شوقي علي أحمد شوقي (1285- 1351 هـ / 1868- 1932 م) هو ش."
+    "en": "Ahmed Shawqi (1868–1932) was an Egyptian poet and playwright of Kurdish descent, one of the most famous poets of modern Arabic and titled the Prince of Poets.",
+    "ar": "أحمد شوقي علي أحمد شوقي (1285- 1351 هـ / 1868- 1932 م) هو شاعر وكاتب مسرحي مصري من أصول كردية، يُعد من أشهر شعراء العربية في العصر الحديث، ولُقّب بـ «أمير الشعراء»."
   },
   "refs": [
     {
@@ -3446,8 +3446,8 @@ window.STREETS = [
     "ar": "صحابي شهد بيعة الرضوان"
   },
   "story": {
-    "en": "Buraydah ibn al-Khasib (d. 680) was a companion of the Prophet Muhammad.",
-    "ar": "بريدة بن الحُصَيب هو الصحابي بريدة بن الحصيب بن عبد الله بن الحارث بن الأعرج بن سعد بن زراح ب."
+    "en": "Buraydah ibn al-Khasib al-Aslami, known by the kunya Abu Abd Allah, was a companion of the Prophet Muhammad.",
+    "ar": "بريدة بن الحُصَيب بن عبد الله بن الحارث الأسلمي، يكنى أبا عبد الله، وقيل أبا سهل، وهو صحابي من أصحاب النبي محمد."
   },
   "refs": [
     {
@@ -3512,8 +3512,8 @@ window.STREETS = [
     "ar": "بنت النبي محمد وزوجة علي بن أبي طالب وأم الحسن والحسين"
   },
   "story": {
-    "en": "Fatima (604–632) was a daughter of Muhammad.",
-    "ar": "فَاطِمَةُ الزَّهْرَاءُ بنت الرسول محمد من أول زوجاته أم ا."
+    "en": "Fatima al-Zahra was a daughter of the Prophet Muhammad and of Khadija, and the mother of al-Hasan and al-Husayn.",
+    "ar": "فَاطِمَةُ الزَّهْرَاءُ بنت الرسول محمد من أول زوجاته أم المؤمنين خديجة بنت خويلد، وأم السبطين الحسن والحسين."
   },
   "refs": [
     {
@@ -3776,8 +3776,8 @@ window.STREETS = [
     "ar": "قائد عسكري مسلم وأحد ولاة الدولة الأموية (640-716)"
   },
   "story": {
-    "en": "Musa ibn Nusayr (640–716) was a military commander and provincial governor.",
-    "ar": "أبو عبد الرحمن موسى بن نصير (19 هـ/640 م - 97 هـ/716 م) قائد عسكري عربي لعب دورًا بارزًا في انتشار ا."
+    "en": "Musa ibn Nusayr (640–716) was an Arab military commander who played a leading role in the spread of Islam and the expansion of the Umayyad state.",
+    "ar": "أبو عبد الرحمن موسى بن نصير (19 هـ/640 م - 97 هـ/716 م) قائد عسكري عربي لعب دورًا بارزًا في انتشار الإسلام وتوسيع رقعة الدولة الأموية."
   },
   "refs": [
     {
@@ -4040,8 +4040,8 @@ window.STREETS = [
     "ar": "صحابي"
   },
   "story": {
-    "en": "Yazid bin Al Harits (d. 624) was a companion of the prophet.",
-    "ar": "يزيد بن الحارث المعروف بأمه يزيد بن فسحم (المتوفي سنة 2 هـ) صحابي من بني كعب ب."
+    "en": "Yazid ibn al-Harith, known through his mother as Yazid ibn Fus-hum (d. 2 AH), was a Khazraj companion who fought at Badr and was killed there.",
+    "ar": "يزيد بن الحارث المعروف بأمه يزيد بن فسحم (المتوفى سنة 2 هـ) صحابي من بني كعب من الخزرج، شهد مع النبي محمد غزوة بدر وقُتل فيها."
   },
   "refs": [
     {
@@ -4062,8 +4062,8 @@ window.STREETS = [
     "ar": "تابعي ومحدث ومؤرخ مسلم، وأحد فقهاء المدينة السبعة"
   },
   "story": {
-    "en": "Urwah ibn Zubayr (644–713) was a Muslim jurist and scholar.",
-    "ar": "أبو عبد الله عُروة بن الزُبير بن العوام الأسدي (23 هـ/644 م - 94 هـ/713 م) ت."
+    "en": "Urwah ibn al-Zubayr (644–713) was a Muslim jurist, hadith scholar and historian, and one of the seven jurists of Medina.",
+    "ar": "أبو عبد الله عُروة بن الزُبير بن العوام الأسدي (23 هـ/644 م - 94 هـ/713 م) تابعي ومحدث ومؤرخ مسلم، وأحد فقهاء المدينة السبعة."
   },
   "refs": [
     {
@@ -4084,8 +4084,8 @@ window.STREETS = [
     "ar": "صحابي"
   },
   "story": {
-    "en": "Ubay ibn Ka'b (600–649) was a companion of the Prophet Muhammad.",
-    "ar": "أُبَيّ بن كعب (ت 30هـ/ 650م) صحابي وقارئ وفقيه وكاتب للوحي وراوي للحديث النبوي من ا."
+    "en": "Ubay ibn Ka'b (d. 30 AH / 650 CE) was a companion, Quran reciter, jurist and scribe of the revelation, from the Ansar of Banu al-Najjar.",
+    "ar": "أُبَيّ بن كعب (ت 30هـ/ 650م) صحابي وقارئ وفقيه وكاتب للوحي وراوي للحديث النبوي من الأنصار من بني النجار من الخزرج."
   },
   "refs": [
     {
@@ -4458,8 +4458,8 @@ window.STREETS = [
     "ar": "صحابي بدري، قُتل في مُبارزة في غزوة بدر"
   },
   "story": {
-    "en": "Ubaydah ibn al-Harith (563–624) was a companion of the Prophet Muhammad.",
-    "ar": "عبيدة بن الحارث بن المطلب هو صحابي بدري، من السابقين إلى ال."
+    "en": "Ubaydah ibn al-Harith ibn al-Muttalib was a Badri companion, among the earliest to accept Islam, killed at the battle of Badr.",
+    "ar": "عبيدة بن الحارث بن المطلب صحابي بدري، من السابقين الأولين إلى الإسلام، قُتل يوم بدر."
   },
   "refs": [
     {
@@ -4943,8 +4943,8 @@ window.STREETS = [
     "ar": "طبيب وجراح من الكرك"
   },
   "story": {
-    "en": "Ibn al-Quff al-Karaki (630–685 AH / 1232–1286 CE) was a physician and surgeon who wrote medical works.",
-    "ar": "أبو الفرج أمين الدولة بن يعقوب المعروف بابن القف الكركي (630 هـ - 685 هـ / 1232 م - 1286 م) كان طبيبًا وعالمًا، نشأ في مدينة الكرك ا."
+    "en": "Ibn al-Quff al-Karaki (630–685 AH / 1232–1286 CE) was a physician and scholar who grew up in Karak and wrote medical works.",
+    "ar": "أبو الفرج أمين الدولة بن يعقوب المعروف بابن القف الكركي (630–685 هـ / 1232–1286 م) كان طبيبًا وعالمًا، نشأ في مدينة الكرك وكتب مصنفات طبية."
   },
   "refs": [
     {
@@ -6716,8 +6716,8 @@ window.STREETS = [
     "ar": "قائد عسكري مسلم"
   },
   "story": {
-    "en": "Al-Qa'qa' ibn Amr (d. 660) was a military commander in the early conquests.",
-    "ar": "اَلْقَعْقَاعُ بْنُ عَمْرِو بْنِ مَالِكٍ اَلْأُسَيْدِيُّ اَلتَّمِيمِيُّ صحابي م."
+    "en": "Al-Qa'qa' ibn Amr al-Tamimi was a companion and commander who fought in the conquest of Iraq.",
+    "ar": "القعقاع بن عمرو التميمي صحابي وقائد، شهد فتوح العراق في عهد عمر بن الخطاب."
   },
   "refs": [
     {
@@ -6958,8 +6958,8 @@ window.STREETS = [
     "ar": "شخصية تاريخية"
   },
   "story": {
-    "en": "Habib ibn Zayd al-Ansari was a companion of the Prophet Muhammad, sent as an envoy to Musaylimah.",
-    "ar": "حبيب بن زيد بن عاصم (المتوفي سنة 11 هـ) صحابي من الأنصار من بني مازن بن النجار م."
+    "en": "Habib ibn Zayd al-Ansari (d. 11 AH) was an Ansari companion sent as an envoy to Musaylimah, who killed him.",
+    "ar": "حبيب بن زيد بن عاصم (المتوفى سنة 11 هـ) صحابي من الأنصار من بني مازن بن النجار، أرسله النبي إلى مسيلمة فقتله."
   },
   "refs": [
     {
