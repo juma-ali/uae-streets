@@ -4602,23 +4602,24 @@ window.STREETS = [
 },
 {
   "id": "hafsa-bint-omar-street",
-  "emirate": "umm-al-quwain",
+  "emirate": "abu-dhabi",
   "category": "person",
   "origin": "documented",
-  "ar": "شارع حفصه بنت عمر",
+  "ar": "شارع حفصة بنت عمر",
   "en": "Hafsa Bint Omar Street",
+  "translit": "Shāriʿ Ḥafṣa bint ʿUmar",
   "meaning": {
-    "en": "Fourth wife of Islamic prophet Muhammad",
-    "ar": "أم المؤمنين رابع زوجات لمحمد وبنت ثاني الخلفاء الراشدين أمير المؤمنين عمر بن الخطاب (18ق.هـ–41هـ / 605–661م)"
+    "en": "A wife of the Prophet and daughter of Umar ibn al-Khattab",
+    "ar": "من أمهات المؤمنين، وابنة الخليفة عمر بن الخطاب"
   },
   "story": {
-    "en": "Hafsa bint Umar ibn Al-Khattab (604–665) was a wife of the Prophet Muhammad.",
-    "ar": "حَفْصَة بِنْتُ عُمَر بنِ الخَطَّاب العَدَوِيَّة القُرَشِيَّة (18 ق هـ - 41 هـ / 605 - 661م) هي راب."
+    "en": "Hafsa bint Umar ibn al-Khattab (18 BH – 41 AH / 605–661 CE; some sources give 45 AH) was the fourth wife of the Prophet Muhammad, a Mother of the Believers, and the daughter of the second caliph, Umar ibn al-Khattab.",
+    "ar": "حَفْصَة بنت عُمر بن الخطاب العَدَويَّة القُرَشيَّة (١٨ ق.هـ–٤١هـ / ٦٠٥–٦٦١م، وقيل ٤٥هـ) رابع زوجات النبي محمد، ومن أمهات المؤمنين، وابنة الخليفة الثاني عمر بن الخطاب."
   },
   "refs": [
     {
       "label": "Wikipedia — حفصة بنت عمر",
-      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%81%D8%B5%D8%A9_%D8%A8%D9%86%D8%AA_%D8%B9%D9%85%D8%B1"
+      "url": "https://ar.wikipedia.org/wiki/حفصة_بنت_عمر"
     }
   ]
 },
