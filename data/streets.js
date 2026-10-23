@@ -1851,5 +1851,445 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/ابن_سينا"
     }
   ]
+},
+{
+  "id": "ibn-battoutah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن بطوطه",
+  "en": "Ibn Battoutah Street",
+  "meaning": {
+    "en": "A traveller and judge from Tangier",
+    "ar": "رحّالة وقاضٍ من طنجة"
+  },
+  "story": {
+    "en": "Ibn Battuta (703–770 AH / 1304–1368) was a traveller and judge from Tangier whose journeys across Africa, Asia and Europe were recorded in the Rihla.",
+    "ar": "ابن بطوطة (٧٠٣–٧٧٠هـ/١٣٠٤–١٣٦٨م) رحّالة وقاضٍ من طنجة، دوّن رحلاته في آسيا وإفريقيا وأوروبا في كتاب «الرحلة»."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن بطوطه",
+      "url": "https://en.wikipedia.org/wiki/Ibn_Battuta"
+    }
+  ]
+},
+{
+  "id": "mus-ab-bin-omair-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مصعب بن عمير",
+  "en": "Mus'ab Bin 'Omair Street",
+  "meaning": {
+    "en": "A Companion who taught Islam in Yathrib",
+    "ar": "صحابي بعثه النبي إلى يثرب ليعلّم الإسلام"
+  },
+  "story": {
+    "en": "Mus'ab ibn Umayr was a Qurayshi Companion who accepted Islam in Mecca and was sent by the Prophet to Yathrib before the migration to teach its people. He was killed at the battle of Uhud.",
+    "ar": "مصعب بن عمير صحابي من قريش، أسلم في مكة، وبعثه النبي إلى يثرب قبل الهجرة ليعلّم أهلها الإسلام، وقُتل في غزوة أُحد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مصعب بن عمير",
+      "url": "https://en.wikipedia.org/wiki/Mus%27ab_ibn_Umayr"
+    }
+  ]
+},
+{
+  "id": "abu-ubaidah-bin-al-jarrah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابو عبيده بن الجراح",
+  "en": "Abu 'Ubaidah Bin Al Jarrah Street",
+  "meaning": {
+    "en": "A Companion and commander in Syria",
+    "ar": "صحابي وقائد في الشام"
+  },
+  "story": {
+    "en": "Abu Ubaydah ibn al-Jarrah, whose name was Amir ibn Abdullah, was a Companion and one of the commanders of the armies in Syria.",
+    "ar": "أبو عبيدة بن الجراح، واسمه عامر بن عبد الله، صحابي وقائد من قادة الجيوش في بلاد الشام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابو عبيده بن الجراح",
+      "url": "https://en.wikipedia.org/wiki/Abu_Ubayda_ibn_al-Jarrah"
+    }
+  ]
+},
+{
+  "id": "sa-ad-bin-abi-waqas-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سعد بن ابي وقاص",
+  "en": "Sa'ad Bin Abi Waqas Street",
+  "meaning": {
+    "en": "A Companion and commander, governor of Kufa",
+    "ar": "صحابي وقائد ووالي الكوفة"
+  },
+  "story": {
+    "en": "Sa'd ibn Abi Waqqas was a Companion from the Banu Zuhrah who took part in the early conquests and served as governor of Kufa.",
+    "ar": "سعد بن أبي وقاص صحابي من بني زهرة، شارك في الفتوحات الأولى، وولي الكوفة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعد بن ابي وقاص",
+      "url": "https://en.wikipedia.org/wiki/Sa%27d_ibn_Abi_Waqqas"
+    }
+  ]
+},
+{
+  "id": "ubadah-bin-al-samit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عباده بن الصامت",
+  "en": "Ubadah Bin Al Samit Street",
+  "meaning": {
+    "en": "An Ansari Companion",
+    "ar": "صحابي أنصاري"
+  },
+  "story": {
+    "en": "Ubadah ibn al-Samit was an Ansari Companion who took part in the pledges of al-Aqaba and transmitted hadith. He died around 34 AH / 654 CE.",
+    "ar": "عبادة بن الصامت صحابي أنصاري، شهد بيعة العقبة، وروى الحديث، وتوفي نحو ٣٤هـ/٦٥٤م."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عباده بن الصامت",
+      "url": "https://en.wikipedia.org/wiki/Ubadah_ibn_al-Samit"
+    }
+  ]
+},
+{
+  "id": "ibn-al-roumi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن الرومي",
+  "en": "Ibn Al Roumi Street",
+  "meaning": {
+    "en": "An Abbasid poet",
+    "ar": "شاعر عباسي"
+  },
+  "story": {
+    "en": "Ibn al-Rumi, Ali ibn al-Abbas ibn Jurayj (221–283 AH / 836–896 CE), was an Abbasid poet known for descriptive and satirical verse.",
+    "ar": "ابن الرومي، علي بن العباس بن جريج (٢٢١–٢٨٣هـ/٨٣٦–٨٩٦م)، شاعر عباسي عُرف بشعره الوصفي والهجائي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن الرومي",
+      "url": "https://en.wikipedia.org/wiki/Ibn_al-Rumi"
+    }
+  ]
+},
+{
+  "id": "ahmad-bin-hanbal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع احمد بن حنبل",
+  "en": "Ahmad Bin Hanbal Street",
+  "meaning": {
+    "en": "A hadith scholar, founder of the Hanbali school",
+    "ar": "محدّث وفقيه، مؤسس المذهب الحنبلي"
+  },
+  "story": {
+    "en": "Ahmad ibn Hanbal (164–241 AH / 780–855 CE) was a hadith scholar and jurist, founder of the Hanbali school and compiler of the Musnad.",
+    "ar": "أحمد بن حنبل (١٦٤–٢٤١هـ/٧٨٠–٨٥٥م) محدّث وفقيه، مؤسس المذهب الحنبلي، وصاحب «المسند»."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — احمد بن حنبل",
+      "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Hanbal"
+    }
+  ]
+},
+{
+  "id": "al-zubair-bin-al-awam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الزبير بن العوام",
+  "en": "Al Zubair Bin Al 'Awam Street",
+  "meaning": {
+    "en": "A Companion, son of the Prophet's aunt",
+    "ar": "صحابي وابن عمة النبي"
+  },
+  "story": {
+    "en": "Al-Zubayr ibn al-Awwam (28 BH – 36 AH / 594–656 CE) was a Qurayshi Companion, the son of the Prophet's aunt, who took part in the early campaigns.",
+    "ar": "الزبير بن العوام (٢٨ ق.هـ–٣٦هـ/٥٩٤–٦٥٦م) صحابي من قريش، وابن عمة النبي، شهد الغزوات والوقائع في صدر الإسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الزبير بن العوام",
+      "url": "https://en.wikipedia.org/wiki/Zubayr_ibn_al-Awwam"
+    }
+  ]
+},
+{
+  "id": "zayd-bin-harithah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زيد بن حارثه",
+  "en": "Zayd Bin Harithah Street",
+  "meaning": {
+    "en": "A Companion, killed at Mu'tah",
+    "ar": "صحابي قُتل في مؤتة"
+  },
+  "story": {
+    "en": "Zayd ibn Haritha (d. 8 AH / 629 CE) was a Companion close to the Prophet and a commander, killed at the battle of Mu'tah.",
+    "ar": "زيد بن حارثة (ت ٨هـ/٦٢٩م) صحابي من المقرّبين إلى النبي وقائد، قُتل في غزوة مؤتة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زيد بن حارثه",
+      "url": "https://en.wikipedia.org/wiki/Zayd_ibn_Haritha_al-Kalbi"
+    }
+  ]
+},
+{
+  "id": "abdulrahman-bin-awf-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبدالرحمن بن عوف",
+  "en": "Abdulrahman Bin 'Awf Street",
+  "meaning": {
+    "en": "A Companion and merchant",
+    "ar": "صحابي وتاجر من قريش"
+  },
+  "story": {
+    "en": "Abd al-Rahman ibn Awf (d. 32 AH / 652 CE) was a Qurayshi Companion and merchant, among the early Muslims, and a member of the council that chose Uthman ibn Affan.",
+    "ar": "عبد الرحمن بن عوف (ت ٣٢هـ/٦٥٢م) صحابي وتاجر من قريش، من أوائل المسلمين، وعضو الشورى التي اختارت عثمان بن عفان."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبدالرحمن بن عوف",
+      "url": "https://en.wikipedia.org/wiki/Abd_al-Rahman_ibn_Awf"
+    }
+  ]
+},
+{
+  "id": "abdullah-bin-rawahah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبدالله بن رواحه",
+  "en": "Abdullah Bin Rawahah Street",
+  "meaning": {
+    "en": "An Ansari Companion and poet",
+    "ar": "صحابي أنصاري وشاعر"
+  },
+  "story": {
+    "en": "Abdullah ibn Rawahah (d. 8 AH / 629 CE) was an Ansari Companion and poet, one of the commanders at Mu'tah, where he was killed.",
+    "ar": "عبد الله بن رواحة (ت ٨هـ/٦٢٩م) صحابي أنصاري وشاعر، من قادة مؤتة، وقُتل فيها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبدالله بن رواحه",
+      "url": "https://en.wikipedia.org/wiki/Abd_Allah_ibn_Rawahah"
+    }
+  ]
+},
+{
+  "id": "uqbah-bin-nafi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عقبه بن نافع",
+  "en": "Uqbah Bin Nafi' Street",
+  "meaning": {
+    "en": "A commander in North Africa, founder of Kairouan",
+    "ar": "قائد في شمال إفريقيا ومؤسس القيروان"
+  },
+  "story": {
+    "en": "Uqbah ibn Nafi (d. 63 AH / 683 CE) was a commander whose campaigns extended across North Africa, and he founded Kairouan.",
+    "ar": "عقبة بن نافع (ت ٦٣هـ/٦٨٣م) قائد ارتبطت سيرته بالتوسع في شمال إفريقيا، وأسّس القيروان."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عقبه بن نافع",
+      "url": "https://en.wikipedia.org/wiki/Uqba_ibn_Nafi"
+    }
+  ]
+},
+{
+  "id": "iben-al-qaiem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن القيم",
+  "en": "Iben Al Qaiem Street",
+  "meaning": {
+    "en": "A Hanbali scholar and jurist",
+    "ar": "عالم وفقيه حنبلي"
+  },
+  "story": {
+    "en": "Ibn Qayyim al-Jawziyya, Muhammad ibn Abi Bakr (691–751 AH / 1292–1350 CE), was a Hanbali jurist who wrote on jurisprudence, Quranic exegesis and ethics.",
+    "ar": "ابن قيم الجوزية، محمد بن أبي بكر (٦٩١–٧٥١هـ/١٢٩٢–١٣٥٠م)، فقيه حنبلي كتب في الفقه والتفسير والسلوك."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن القيم",
+      "url": "https://en.wikipedia.org/wiki/Ibn_Qayyim_al-Jawziyya"
+    }
+  ]
+},
+{
+  "id": "ahmad-bin-majid-road",
+  "emirate": "ras-al-khaimah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع احمد بن ماجد",
+  "en": "Ahmad Bin Majid Road",
+  "meaning": {
+    "en": "A navigator from Julfar",
+    "ar": "ملّاح من جلفار"
+  },
+  "story": {
+    "en": "Ahmad ibn Majid (c. 836–906 AH / 1432–1500 CE) was a navigator and geographer from Julfar, known for works on navigation in the Indian Ocean.",
+    "ar": "أحمد بن ماجد (نحو ٨٣٦–٩٠٦هـ/١٤٣٢–١٥٠٠م) ملّاح وجغرافي من جلفار، اشتهر بمؤلفاته في الملاحة في المحيط الهندي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — احمد بن ماجد",
+      "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Majid"
+    }
+  ]
+},
+{
+  "id": "osama-bin-zaid-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع اسامه بن زيد",
+  "en": "Osama Bin Zaid Street",
+  "meaning": {
+    "en": "A Companion, son of Zayd ibn Haritha",
+    "ar": "صحابي وابن زيد بن حارثة"
+  },
+  "story": {
+    "en": "Usama ibn Zayd (d. c. 54 AH / 674 CE) was a Companion and the son of Zayd ibn Haritha; the Prophet appointed him to lead an army near the end of his life.",
+    "ar": "أسامة بن زيد (ت نحو ٥٤هـ/٦٧٤م) صحابي وابن زيد بن حارثة، أمّره النبي على جيش في آخر حياته."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — اسامه بن زيد",
+      "url": "https://islam.museum/en/person/usama-ibn-zayd/"
+    }
+  ]
+},
+{
+  "id": "al-khaleel-bin-ahmed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الخليل بن احمد",
+  "en": "Al Khaleel Bin Ahmed Street",
+  "meaning": {
+    "en": "A linguist, founder of Arabic prosody",
+    "ar": "لغوي واضع علم العَروض"
+  },
+  "story": {
+    "en": "Al-Khalil ibn Ahmad (c. 100–175 AH / 718–791 CE), from the Azd of Oman, was a linguist who set out Arabic prosody and is credited with the lexicon Kitab al-Ayn.",
+    "ar": "الخليل بن أحمد (نحو ١٠٠–١٧٥هـ/٧١٨–٧٩١م) من أزد عُمان، لغوي وضع علم العَروض، ويُنسب إليه معجم «العين»."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الخليل بن احمد",
+      "url": "https://www.arab-ency.com.sy/details/5843"
+    }
+  ]
+},
+{
+  "id": "al-ezz-bin-abdullsalam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع العز بن عبد السلام",
+  "en": "Al Ezz Bin Abdullsalam Street",
+  "meaning": {
+    "en": "A Shafi'i jurist and theologian",
+    "ar": "فقيه شافعي وأصولي"
+  },
+  "story": {
+    "en": "Izz al-Din ibn Abd al-Salam (577–660 AH / 1181–1262 CE) was a Shafi'i jurist and theologian who wrote on jurisprudence and the purposes of the law.",
+    "ar": "العز بن عبد السلام (٥٧٧–٦٦٠هـ/١١٨١–١٢٦٢م) فقيه شافعي وأصولي، له مؤلفات في الفقه ومقاصد الشريعة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — العز بن عبد السلام",
+      "url": "https://en.wikipedia.org/wiki/Izz_al-Din_ibn_%27Abd_al-Salam"
+    }
+  ]
+},
+{
+  "id": "al-muhallab-bin-abi-sufrah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع المهلب بن أبي صفرة",
+  "en": "Al Muhallab Bin Abi Sufrah Street",
+  "meaning": {
+    "en": "A commander in Persia and Khurasan",
+    "ar": "قائد في فارس وخراسان"
+  },
+  "story": {
+    "en": "Al-Muhallab ibn Abi Sufra (c. 42–82 AH / 632–702 CE) was a commander who campaigned in Persia, Sistan and Khurasan, and held command there.",
+    "ar": "المهلب بن أبي صفرة (نحو ٤٢–٨٢هـ/٦٣٢–٧٠٢م) قائد حملات في فارس وسجستان وخراسان، وتولّى قيادة فيها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — المهلب بن أبي صفرة",
+      "url": "https://en.wikipedia.org/wiki/Al-Muhallab_ibn_Abi_Sufra"
+    }
+  ]
+},
+{
+  "id": "anas-bin-al-nadheer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أنس بن النضر",
+  "en": "Anas Bin Al Nadheer Street",
+  "meaning": {
+    "en": "An Ansari Companion killed at Uhud",
+    "ar": "صحابي أنصاري قُتل في أُحد"
+  },
+  "story": {
+    "en": "Anas ibn al-Nadr was an Ansari Companion of the Banu Khazraj, killed at the battle of Uhud.",
+    "ar": "أنس بن النضر صحابي أنصاري من بني الخزرج، قُتل في غزوة أُحد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أنس بن النضر",
+      "url": "https://islam.museum/en/person/anas-ibn-al-nadr/"
+    }
+  ]
+},
+{
+  "id": "anas-bin-malik-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أنس بن مالك",
+  "en": "Anas Bin Malik Street",
+  "meaning": {
+    "en": "A Companion who served the Prophet",
+    "ar": "صحابي خدم النبي وروى عنه"
+  },
+  "story": {
+    "en": "Anas ibn Malik (c. 10–93 AH / 612–712 CE) was an Ansari Companion who served the Prophet, transmitted many hadith, and later lived in Basra.",
+    "ar": "أنس بن مالك (نحو ١٠–٩٣هـ/٦١٢–٧١٢م) صحابي أنصاري خدم النبي وروى عنه كثيراً، وأقام في البصرة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أنس بن مالك",
+      "url": "https://en.wikipedia.org/wiki/Anas_ibn_Malik"
+    }
+  ]
 }
 ];
