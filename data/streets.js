@@ -3213,5 +3213,1435 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A7%D8%B1%D8%AB%D8%A9_%D8%A8%D9%86_%D8%B3%D8%B1%D8%A7%D9%82%D8%A9"
     }
   ]
+},
+{
+  "id": "ahmad-shawqi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع احمد شوقي",
+  "en": "Ahmad Shawqi Street",
+  "meaning": {
+    "en": "Egyptian poet",
+    "ar": "شاعر وكاتب مسرحي مصري"
+  },
+  "story": {
+    "en": "Ahmed Shawqi (1868–1932) was an Egyptian poet.",
+    "ar": "أحمد شوقي علي أحمد شوقي (1285- 1351 هـ / 1868- 1932 م) هو ش."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أحمد شوقي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%B4%D9%88%D9%82%D9%8A"
+    }
+  ]
+},
+{
+  "id": "abu-hudhaifah-bin-atabah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابو حذيفه بن عتبه",
+  "en": "Abu Hudhaifah Bin Atabah Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "صحابي من السابقين الأولين"
+  },
+  "story": {
+    "en": "Abu Hudhayfah ibn Utbah (581–633) was a companion of Muhammad.",
+    "ar": "أبو حذيفة بن عتبة بن ربيعة العبشمي القرشي (42 ق.هـ - 12 هـ/ 580- 633م) صحابي بدر."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو حذيفة بن عتبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%AD%D8%B0%D9%8A%D9%81%D8%A9_%D8%A8%D9%86_%D8%B9%D8%AA%D8%A8%D8%A9"
+    }
+  ]
+},
+{
+  "id": "al-fudayl-bin-iyad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الفضيل بن عياض",
+  "en": "Al Fudayl Bin 'Iyad Street",
+  "meaning": {
+    "en": "8th-century Islamic scholar",
+    "ar": "عالم مسلم"
+  },
+  "story": {
+    "en": "Al-Fudhayl bin 'Iyyadh (725–803) was an 8th-century Islamic scholar.",
+    "ar": "الفضيل بن عياض، أحد أعلام أهل السنة في القرن الثاني الهجري."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الفضيل بن عياض",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%B6%D9%8A%D9%84_%D8%A8%D9%86_%D8%B9%D9%8A%D8%A7%D8%B6"
+    }
+  ]
+},
+{
+  "id": "al-bara-a-bin-azib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع البراء بن عازب",
+  "en": "Al Bara-a Bin 'Azib Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Al-Bara' ibn Azib (600–690) was a companion of the Prophet Muhammad.",
+    "ar": "أبو عمارة البراء بن عازب الأنصاري (المتوفى سنة 72هـ) ص."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — البراء بن عازب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1_%D8%A8%D9%86_%D8%B9%D8%A7%D8%B2%D8%A8"
+    }
+  ]
+},
+{
+  "id": "al-bara-a-bin-ma-rour-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع البراء بن معرور",
+  "en": "Al Bara-a Bin Ma'rour Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "أحد النقباء الاثني عشر من الأنصار، أول من تكلم ليلة العقبة وأول من مات من النقباء"
+  },
+  "story": {
+    "en": "Al-Bara ibn Marur (d. 622) was a companion of the Prophet Muhammad.",
+    "ar": "البـراء بن معرور بن صخر بن خنساء بن سنان بن عبيد بن عبيد بن عدي بن غنم بن كعب بن سلمة الأ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — البراء بن معرور",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1_%D8%A8%D9%86_%D9%85%D8%B9%D8%B1%D9%88%D8%B1"
+    }
+  ]
+},
+{
+  "id": "al-qasim-bin-mohammed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع القاسم بن محمد",
+  "en": "Al Qasim Bin Mohammed Street",
+  "meaning": {
+    "en": "Son of Muhammad and Khadijah bint Khuwaylid",
+    "ar": "أول أبناء النبي محمد وبه يُكنى (أبو القاسم)"
+  },
+  "story": {
+    "en": "Qasim ibn Muhammad (d. 601) was a son of Muhammad and Khadijah bint Khuwaylid.",
+    "ar": "القاسِم بن مُحمَّد بن عبد الله، ابن الرسول محمد من زوجته خديجة بنت خويلد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — القاسم بن محمد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF"
+    }
+  ]
+},
+{
+  "id": "al-mugheerah-bin-shu-bah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع المغيره بن شعبه",
+  "en": "Al Mugheerah Bin Shu'bah Street",
+  "meaning": {
+    "en": "Companion of the Islamic prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Mughira ibn Shu'ba (600–671) was a companion of the Prophet Muhammad.",
+    "ar": "أبو عبد الله المغيرة بن شعبة بن أبي عامر بن مسعود الثقفي (600م/23 ق ه- 670م/50 هـ) من كبا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — المغيرة بن شعبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%BA%D9%8A%D8%B1%D8%A9_%D8%A8%D9%86_%D8%B4%D8%B9%D8%A8%D8%A9"
+    }
+  ]
+},
+{
+  "id": "ar-rabee-bin-khuthaym-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الربيع بن خثيم",
+  "en": "Ar Rabee' Bin Khuthaym Street",
+  "meaning": {
+    "en": "Tabi'i ascetic of Kufa",
+    "ar": "عالم"
+  },
+  "story": {
+    "en": "Al-Rabi ibn Khuthaym (d. 680) was a tabi'i ascetic of Kufa.",
+    "ar": "أبو يزيد الربيع بن خثيم بن عائذ بن عبد الله الثوري التميمي الكوفي (10 ق هـ -."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الربيع بن خثيم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9_%D8%A8%D9%86_%D8%AE%D8%AB%D9%8A%D9%85"
+    }
+  ]
+},
+{
+  "id": "an-nu-man-bin-basheer-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع النعمان بن بشير",
+  "en": "An Nu'man Bin Basheer Street",
+  "meaning": {
+    "en": "Companion (Sahabi) of Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Nu'man ibn Bashir al-Ansari (622–684) was a companion of the Prophet Muhammad.",
+    "ar": "النعمان بن بشير بن سعد بن ثعلبة بن جلاس بن زيد الأنصاري الخزرجي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — النعمان بن بشير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%A8%D8%B4%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "ash-shayma-a-bint-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الشيماء بنت الحارث",
+  "en": "Ash Shayma-a Bint Al Harith Street",
+  "meaning": {
+    "en": "Daughter of Halimah bint Abi Dhuayb",
+    "ar": "أخت لمحمد من الرضاعة"
+  },
+  "story": {
+    "en": "Shayma bint al-Harith was a daughter of Halimah bint Abi Dhuayb.",
+    "ar": "الشيماء بنت الحارث هي حذافة بنت الحارث بن عبد العزى بن رفاعة السعدية وقيل جذامة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الشيماء بنت الحارث",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B4%D9%8A%D9%85%D8%A7%D8%A1_%D8%A8%D9%86%D8%AA_%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB"
+    }
+  ]
+},
+{
+  "id": "buraydah-bin-al-haseeb-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع بريده بن الحصيب",
+  "en": "Buraydah bin Al Haseeb Street",
+  "meaning": {
+    "en": "Companion of the Islamic prophet Muhammad",
+    "ar": "صحابي شهد بيعة الرضوان"
+  },
+  "story": {
+    "en": "Buraydah ibn al-Khasib (d. 680) was a companion of the Prophet Muhammad.",
+    "ar": "بريدة بن الحُصَيب هو الصحابي بريدة بن الحصيب بن عبد الله بن الحارث بن الأعرج بن سعد بن زراح ب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — بريدة بن الحصيب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%8A%D8%AF%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D8%A8"
+    }
+  ]
+},
+{
+  "id": "fatima-bint-al-khattab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع فاطمه بنت الخطاب",
+  "en": "Fatima Bint Al Khattab Street",
+  "meaning": {
+    "en": "Sister of Umar",
+    "ar": "صحابية جليلة من السابقين الأولين"
+  },
+  "story": {
+    "en": "Fatimah bint al-Khattab was a sister of Umar.",
+    "ar": "فاطمة بنت الخطاب، وقيل: رملة بنت الخطاب، وقيل: أم جميل بنت."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — فاطمة بنت الخطاب",
+      "url": "https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D8%B7%D9%85%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8"
+    }
+  ]
+},
+{
+  "id": "habeebah-bint-kharijah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حبيبه بنت خارجه",
+  "en": "Habeebah Bint Kharijah Street",
+  "meaning": {
+    "en": "Wife of Abu Bakr",
+    "ar": "شخصية تاريخية"
+  },
+  "story": {
+    "en": "Habiba bint Kharija was a wife of Abu Bakr.",
+    "ar": "حبيبة بنت خارجة الخزرجية الأنصارية وقيل ان اسمها مليكة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حبيبة بنت خارجة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%A8%D9%8A%D8%A8%D8%A9_%D8%A8%D9%86%D8%AA_%D8%AE%D8%A7%D8%B1%D8%AC%D8%A9"
+    }
+  ]
+},
+{
+  "id": "fatima-az-zahra-a-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع فاطمه الزهراء",
+  "en": "Fatima Az Zahra-a Street",
+  "meaning": {
+    "en": "Daughter of Muhammad",
+    "ar": "بنت النبي محمد وزوجة علي بن أبي طالب وأم الحسن والحسين"
+  },
+  "story": {
+    "en": "Fatima (604–632) was a daughter of Muhammad.",
+    "ar": "فَاطِمَةُ الزَّهْرَاءُ بنت الرسول محمد من أول زوجاته أم ا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — فاطمة الزهراء",
+      "url": "https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D8%B7%D9%85%D8%A9_%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1"
+    }
+  ]
+},
+{
+  "id": "halah-bint-khuwaylid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع هاله بنت خويلد",
+  "en": "Halah Bint Khuwaylid Street",
+  "meaning": {
+    "en": "Sister-in-law of Muhammad",
+    "ar": "صحابية"
+  },
+  "story": {
+    "en": "Halah bint Khuwailid was a sister-in-law of the Prophet Muhammad.",
+    "ar": "هَالَةُ بنت خُوَيْلِد بن أسَد بن عبد العُزى الأسدية القُرِشية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — هالة بنت خويلد",
+      "url": "https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D9%84%D8%A9_%D8%A8%D9%86%D8%AA_%D8%AE%D9%88%D9%8A%D9%84%D8%AF"
+    }
+  ]
+},
+{
+  "id": "hammad-bin-salamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حماد بن سلمه",
+  "en": "Hammad Bin Salamah Street",
+  "meaning": {
+    "en": "Arab grammarian",
+    "ar": "نحوي وأحد المحدثين من رواة الحديث"
+  },
+  "story": {
+    "en": "Hammad ibn Salama (d. 784) was an Arab grammarian.",
+    "ar": "أَبُو سَلَمَةَ حَمَّادُ بْنُ سَلَمَةَ بْنِ دِينَارٍ اَلْبَصْرِيُّ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حماد بن سلمة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%A7%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A9"
+    }
+  ]
+},
+{
+  "id": "hashim-bin-atabah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع هاشم بن عتبه",
+  "en": "Hashim Bin 'Atabah Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي خطيب من الفرسان، شهد القادسية وكان مع علي بن أبي طالب في حروبه"
+  },
+  "story": {
+    "en": "Hashim ibn Utba (601–657) was a companion of the Prophet Muhammad.",
+    "ar": "أَبُو سَعِيدْ هَاشِم بْنُ عُتْبَة بْنِ أَبِي وَقَّاص."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — هاشم بن عتبة",
+      "url": "https://ar.wikipedia.org/wiki/%D9%87%D8%A7%D8%B4%D9%85_%D8%A8%D9%86_%D8%B9%D8%AA%D8%A8%D8%A9"
+    }
+  ]
+},
+{
+  "id": "ibn-khaldoun-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن خلدون",
+  "en": "Ibn Khaldoun Street",
+  "meaning": {
+    "en": "Historiographer and historian",
+    "ar": "عالِمٌ و مؤسس علم الاجتماع"
+  },
+  "story": {
+    "en": "Ibn Khaldun (1332–1406) was a historiographer and historian.",
+    "ar": "ابنُ خَلدون (732 - 808 هـ / 1332 - 1406 م) هو أَبُو زَيْدٍ وَلِيُّ الدِّيْنِ ع."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن خلدون",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86"
+    }
+  ]
+},
+{
+  "id": "jubayr-bin-mut-im-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جبير بن مطعم",
+  "en": "Jubayr Bin Mut'im Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي من صحابة رسول الله"
+  },
+  "story": {
+    "en": "Jubayr ibn Mut'im (d. 670) was a companion of the Prophet Muhammad.",
+    "ar": "جبير بن مطعم بن عدي بن نوفل بن عبد مناف بن قصي القرشي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جبير بن مطعم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%8A%D8%B1_%D8%A8%D9%86_%D9%85%D8%B7%D8%B9%D9%85"
+    }
+  ]
+},
+{
+  "id": "jameelah-bint-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جميله بنت ثابت",
+  "en": "Jameelah Bint Thabit Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "كانت زوجة ثانى الخلفاء الراشدين عمر بن الخطاب"
+  },
+  "story": {
+    "en": "Jamila bint Thabit was a companion of the Prophet Muhammad.",
+    "ar": "جميلة بنت ثابت بن أبي الأقلح الأنصارية كان اسمها عاصية فسماها رسول الله جميل."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جميلة بنت ثابت",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D9%85%D9%8A%D9%84%D8%A9_%D8%A8%D9%86%D8%AA_%D8%AB%D8%A7%D8%A8%D8%AA"
+    }
+  ]
+},
+{
+  "id": "juwayriyah-bint-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جويريه بنت الحارث",
+  "en": "Juwayriyah Bint Al Harith Street",
+  "meaning": {
+    "en": "Eighth wife of the Prophet Muhammad",
+    "ar": "أم المؤمنين، ثامن زوجات النبي محمد (15ق.هـ–56هـ / 608–676م)"
+  },
+  "story": {
+    "en": "Juwayriyya bint al-Harith (608–676) was a wife of the Prophet Muhammad.",
+    "ar": "أم المؤمنين جُوَيْرِيَة بنت الحارث ثامن زوجات الرسول محمد صلى الله عليه وسلم.."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جويرية بنت الحارث",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D9%88%D9%8A%D8%B1%D9%8A%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB"
+    }
+  ]
+},
+{
+  "id": "khadeejah-bint-khuwaylid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خديجه بنت خويلد",
+  "en": "Khadeejah Bint Khuwaylid Street",
+  "meaning": {
+    "en": "First wife of Prophet Muḥammad ﷺ, First believer in Islam and Prophet Muhammad’s wife",
+    "ar": "الزوجة الأولى للنبي محمد، و أول من أسلم من النساء، و أحب زوجات النبي محمد إليه، و أم جميع أولاده عدا إبراهيم (68–3ق.هـ / 556–619م)"
+  },
+  "story": {
+    "en": "Khadija bint Khuwaylid (557–619) was the first wife of the Prophet Muhammad and the first believer in Islam.",
+    "ar": "خَدِيجَةُ بِنتُ خُوَيلِد بن أسد القُرَشِيّة (68 ق.هـ - 3 ق.هـ / 556م - 619م)؛ أم المؤمنين وأولى زوجات الرسول محمد وأم كل أولاده ما عدا ولده."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — خديجة بنت خويلد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%AF%D9%8A%D8%AC%D8%A9_%D8%A8%D9%86%D8%AA_%D8%AE%D9%88%D9%8A%D9%84%D8%AF"
+    }
+  ]
+},
+{
+  "id": "khawlah-bint-tha-labah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خوله بنت ثعلبه",
+  "en": "Khawlah Bint Tha'labah Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "الصحابية التي سمع الله شكواها من فوق سبع سموات"
+  },
+  "story": {
+    "en": "Khawla bint Tha'labah was a companion of the Prophet Muhammad.",
+    "ar": "خولة بنت ثعلبة ، هي المرأة التي نزلت فيها الآيات الأولى من سورة المجادلة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — خولة بنت ثعلبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D9%88%D9%84%D8%A9_%D8%A8%D9%86%D8%AA_%D8%AB%D8%B9%D9%84%D8%A8%D8%A9"
+    }
+  ]
+},
+{
+  "id": "malik-bin-sinan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مالك بن سنان",
+  "en": "Malik Bin Sinan Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي انصاري"
+  },
+  "story": {
+    "en": "Malik Ibn Sinan (d. 625) was a companion of the Prophet Muhammad.",
+    "ar": "مالك بن سنان صحابي من الأنصار من بني خدرة من الخزرج."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مالك بن سنان",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D9%83_%D8%A8%D9%86_%D8%B3%D9%86%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "maymounah-bint-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ميمونه بنت الحارث",
+  "en": "Maymounah Bint Al Harith Street",
+  "meaning": {
+    "en": "Eleventh wife of the Prophet Muhammad",
+    "ar": "أم المؤمنين، حادي عشر زوجات لمحمد (29ق.هـ–51هـ / 594–673م)"
+  },
+  "story": {
+    "en": "Maymunah bint al-Harith (592–672) was a wife of the Prophet Muhammad.",
+    "ar": "أم المؤمنين مَيْمُونَةُ بِنْتُ الحَارِثِ بن حَزْن، آخرُ زوجات النبي محمد صلى الله عليه وسلم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ميمونة بنت الحارث",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D9%85%D9%88%D9%86%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB"
+    }
+  ]
+},
+{
+  "id": "mousa-bin-nusayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع موسي بن نصير",
+  "en": "Mousa Bin Nusayr Street",
+  "meaning": {
+    "en": "Arab military commander provincial governor",
+    "ar": "قائد عسكري مسلم وأحد ولاة الدولة الأموية (640-716)"
+  },
+  "story": {
+    "en": "Musa ibn Nusayr (640–716) was a military commander and provincial governor.",
+    "ar": "أبو عبد الرحمن موسى بن نصير (19 هـ/640 م - 97 هـ/716 م) قائد عسكري عربي لعب دورًا بارزًا في انتشار ا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — موسى بن نصير",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%88%D8%B3%D9%89_%D8%A8%D9%86_%D9%86%D8%B5%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "mohammed-bin-seereen-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع محمد بن سيرين",
+  "en": "Mohammed Bin Seereen Street",
+  "meaning": {
+    "en": "8th-century Muslim scholar and dreams interpreter",
+    "ar": "عالم مسلم تابعي مفسر"
+  },
+  "story": {
+    "en": "Ibn Sirin (653–729) was an 8th-century Muslim scholar and dreams interpreter.",
+    "ar": "اِبْنُ سِيرِينَ، أَبُو بَكْرٍ، مُحَمَّدُ بْنُ سِيرِينَ اَلْبِصْرِيُّ، (32 - 110 هـ)."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن سيرين",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%8A%D8%B1%D9%8A%D9%86"
+    }
+  ]
+},
+{
+  "id": "nu-aym-bin-mas-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع نعيم بن مسعود",
+  "en": "Nu'aym Bin Mas'oud Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي من بني أشجع من قبيلة غطفان كان له دور مهم في مناصرة النبي محمد و خداع الأحزاب في غزوة الخندق"
+  },
+  "story": {
+    "en": "Nuaym ibn Masud (600–650) was a companion of the Prophet Muhammad.",
+    "ar": "أبو سلمة نعيم بن مسعود بن عامر الأشجعي الغطفاني صحاب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — نعيم بن مسعود",
+      "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B9%D9%8A%D9%85_%D8%A8%D9%86_%D9%85%D8%B3%D8%B9%D9%88%D8%AF"
+    }
+  ]
+},
+{
+  "id": "nusaybah-bint-ka-ab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع نسيبه بنت كعب",
+  "en": "Nusaybah Bint Ka'ab Street",
+  "meaning": {
+    "en": "Early woman to convert to Islam",
+    "ar": "صحابية"
+  },
+  "story": {
+    "en": "Nusaybah bint Ka'ab (d. 634) was among the early women to accept Islam.",
+    "ar": "أم عُمارةَ نَسِيبَةُ بنتُ كَعْب المازنية الأنصارية (توفيت نحو سنة 13 هـ / 634 م) هي صحاب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — نسيبة بنت كعب",
+      "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B3%D9%8A%D8%A8%D8%A9_%D8%A8%D9%86%D8%AA_%D9%83%D8%B9%D8%A8"
+    }
+  ]
+},
+{
+  "id": "mubashar-bin-abd-al-mundhir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مبشر بن عبد المنذر",
+  "en": "Mubashar Bin Abd Al Mundhir Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Mubashir ibn Abdul Munzer (d. 624) was a companion of the Prophet Muhammad.",
+    "ar": "مُبَشِّرُ بن عبد المنذر صحابي من الأنصار من بني أمية بن زيد من الأوس."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مبشر بن عبد المنذر",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A8%D8%B4%D8%B1_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D9%86%D8%B0%D8%B1"
+    }
+  ]
+},
+{
+  "id": "sa-d-bin-kaythamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سعد بن خيثمه",
+  "en": "Sa'd Bin Kaythamah Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي، كان أحد النقباء الاثني عشر بالعقبة واستشهد يوم بدر"
+  },
+  "story": {
+    "en": "Sa'd ibn Khaythama (d. 624) was a companion of the Prophet Muhammad.",
+    "ar": "سعد بن خيثمة صحابي من الأنصار من بني غنم بن السلم من الأوس."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعد بن خيثمة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D8%AF_%D8%A8%D9%86_%D8%AE%D9%8A%D8%AB%D9%85%D8%A9"
+    }
+  ]
+},
+{
+  "id": "sahlah-bint-suhail-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سهله بنت سهيل",
+  "en": "Sahlah Bint Suhail Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Sahla bint Suhayl was a companion of the Prophet Muhammad.",
+    "ar": "سَهْلَةُ بنتُ سُهَيل بن عمرو العامرية الق."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سهلة بنت سهيل",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%87%D9%84%D8%A9_%D8%A8%D9%86%D8%AA_%D8%B3%D9%87%D9%8A%D9%84"
+    }
+  ]
+},
+{
+  "id": "sahl-bin-sa-d-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سهل بن سعد",
+  "en": "Sahl Bin Sa'd Street",
+  "meaning": {
+    "en": "Companion of the Islamic prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Sahl ibn Sa'd (550–710) was a companion of the Prophet Muhammad.",
+    "ar": "أبو العباس سهل بن سعد بن مالك الساعدي الأنصاري (نحو 8 ق هـ - 91 هـ / 613م - 710م):."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سهل بن سعد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%87%D9%84_%D8%A8%D9%86_%D8%B3%D8%B9%D8%AF"
+    }
+  ]
+},
+{
+  "id": "samurah-bin-jundub-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سمره بن جندب",
+  "en": "Samurah Bin Jundub Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Samra ibn Jundab (d. 679) was a companion of the Prophet Muhammad.",
+    "ar": "سمرة بن جندب (المتوفي سنة 58 هـ) صحابي من صغار الصحا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سمرة بن جندب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%85%D8%B1%D8%A9_%D8%A8%D9%86_%D8%AC%D9%86%D8%AF%D8%A8"
+    }
+  ]
+},
+{
+  "id": "shu-bat-bin-al-hajjaj-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع شعبه بن الحجاج",
+  "en": "Shu'bat Bin Al Hajjaj Street",
+  "meaning": {
+    "en": "King of Hadith",
+    "ar": "من أئمة رجال الحديث، حفظا ودراية وتثبتا، أول من فتش بالعراق عن أمر المحدّثين"
+  },
+  "story": {
+    "en": "Shu'ba Ibn al-Ḥajjāj (702–777) was a scholar of hadith.",
+    "ar": "أَبُو بِسْطَام شعبةُ بْنُ الحَجَّاج بن الورد العتكي الأزدي البصري (."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — شعبة بن الحجاج",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B4%D8%B9%D8%A8%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%AC"
+    }
+  ]
+},
+{
+  "id": "tameem-ad-dari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع تميم الداري",
+  "en": "Tameem Ad Dari Street",
+  "meaning": {
+    "en": "Islamic Sahaba",
+    "ar": "صحابي صاحب حديث الجساسة"
+  },
+  "story": {
+    "en": "Tamim al-Dari (d. 660) was a companion of the Prophet Muhammad.",
+    "ar": "تَمِيمُ بْنُ أَوْسٍ الدَّارِيُّ اللَّخْمِيُّ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — تميم الداري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "sleet-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سليط بن عمرو",
+  "en": "Sleet Bin 'Amr Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي من السابقين الأولين"
+  },
+  "story": {
+    "en": "Sulayt ibn Amr was a companion of the Prophet Muhammad.",
+    "ar": "سليط بن عمرو العامري صحابي من السابقي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سليط بن عمرو",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%8A%D8%B7_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88"
+    }
+  ]
+},
+{
+  "id": "yazeed-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع يزيد بن الحارث",
+  "en": "Yazeed Bin Al Harith Street",
+  "meaning": {
+    "en": "Companion of the prophet",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Yazid bin Al Harits (d. 624) was a companion of the prophet.",
+    "ar": "يزيد بن الحارث المعروف بأمه يزيد بن فسحم (المتوفي سنة 2 هـ) صحابي من بني كعب ب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — يزيد بن الحارث",
+      "url": "https://ar.wikipedia.org/wiki/%D9%8A%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB"
+    }
+  ]
+},
+{
+  "id": "urwah-bin-az-zubayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عروه بن الزبير",
+  "en": "Urwah Bin Az Zubayr Street",
+  "meaning": {
+    "en": "Muslim jurist and scholar",
+    "ar": "تابعي ومحدث ومؤرخ مسلم، وأحد فقهاء المدينة السبعة"
+  },
+  "story": {
+    "en": "Urwah ibn Zubayr (644–713) was a Muslim jurist and scholar.",
+    "ar": "أبو عبد الله عُروة بن الزُبير بن العوام الأسدي (23 هـ/644 م - 94 هـ/713 م) ت."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عروة بن الزبير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%B1%D9%88%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "ubay-bin-ka-b-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابي بن كعب",
+  "en": "Ubay Bin Ka'b Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Ubay ibn Ka'b (600–649) was a companion of the Prophet Muhammad.",
+    "ar": "أُبَيّ بن كعب (ت 30هـ/ 650م) صحابي وقارئ وفقيه وكاتب للوحي وراوي للحديث النبوي من ا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبي بن كعب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%8A_%D8%A8%D9%86_%D9%83%D8%B9%D8%A8"
+    }
+  ]
+},
+{
+  "id": "um-kulthoum-bint-uqbah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ام كلثوم بنت عقبه",
+  "en": "Um Kulthoum Bint 'Uqbah Street",
+  "meaning": {
+    "en": "Companion (Sahabiyyah) of Muhammad",
+    "ar": "صحابية جليلة و أول ممتحنة في الإسلام نزلت فيها آية الإمتحان"
+  },
+  "story": {
+    "en": "Umm Kulthum bint Uqba (d. 653) was a woman companion of the Prophet Muhammad.",
+    "ar": "أُم كُلْثُوم بنتُ عُقْبَة بن أبي مُعَيط بن أبي عَمْرو بن أُمَيَّة بن عبد شمس القُرَشية الأموي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أم كلثوم بنت عقبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85_%D9%83%D9%84%D8%AB%D9%88%D9%85_%D8%A8%D9%86%D8%AA_%D8%B9%D9%82%D8%A8%D8%A9"
+    }
+  ]
+},
+{
+  "id": "usayd-bin-hudayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع اسيد بن حضير",
+  "en": "Usayd Bin Hudayr Street",
+  "meaning": {
+    "en": "Companion of Muhammad",
+    "ar": "صحابي كان زعيما للأوس في المدينة قبل إسلامه"
+  },
+  "story": {
+    "en": "Usaid Bin Hudair (d. 641) was a companion of Muhammad.",
+    "ar": "أُسَيْد بن حُضَيْر الأوسي صحابي، وكان زعيما للأوس في المدينة قبل إسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أسيد بن حضير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D9%8A%D8%AF_%D8%A8%D9%86_%D8%AD%D8%B6%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "abdul-rahman-bin-awf-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبد الرحمن بن عوف",
+  "en": "Abdul Rahman Bin Awf Street",
+  "meaning": {
+    "en": "One of the Ten Blessed Companion",
+    "ar": "صحابي جليل من عظماء الصحابة وأحد الصحابة العشرة المبشرين بالجنة، ومن السابقين الأولين إلى الإسلام"
+  },
+  "story": {
+    "en": "Abdur Rahman bin Awf (571–652) was one of the ten companions promised Paradise.",
+    "ar": "عبد الرّحمن بن عوف الزهري القرشي (43 ق.هـ - 32 هـ / 580 - 656م)."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الرحمن بن عوف",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A8%D9%86_%D8%B9%D9%88%D9%81"
+    }
+  ]
+},
+{
+  "id": "sawdah-bint-zam-ah-street",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سوده بنت زمعه",
+  "en": "Sawdah Bint Zam'ah Street",
+  "meaning": {
+    "en": "Second wife of the Islamic prophet Muhammad",
+    "ar": "الزوجة الثانية لمحمد، ومن أمهات المؤمنين، ومن السابقين الأولين في الإسلام (32/33ق.هـ – 54هـ / 589 – 674م)"
+  },
+  "story": {
+    "en": "Sawda bint Zamʿa (589–674) was a wife of the Prophet Muhammad.",
+    "ar": "سودة بنت زمعة بن قيس العامرية القرشية، هي ثاني زوجات الرسول محمد، ومن أمهات المؤمنين."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سودة بنت زمعة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%AF%D8%A9_%D8%A8%D9%86%D8%AA_%D8%B2%D9%85%D8%B9%D8%A9"
+    }
+  ]
+},
+{
+  "id": "adi-bin-hatem-al-tai-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عدي بن حاتم الطائي",
+  "en": "Adi Bin Hatem Al Tai Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي و ابن حاتم الطائي النجدي والمعروف بأكرم العرب ،"
+  },
+  "story": {
+    "en": "Adi ibn Hatim (572–687) was a companion of the Prophet Muhammad.",
+    "ar": "أَبُو طَرِيفٍ عَدِيُّ بْنُ حَاتِمِ بْنِ عَبْدِ اَ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عدي بن حاتم الطائي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%8A_%D8%A8%D9%86_%D8%AD%D8%A7%D8%AA%D9%85_%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A"
+    }
+  ]
+},
+{
+  "id": "zayd-bin-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زيد بن ثابت",
+  "en": "Zayd Bin Thabit Street",
+  "meaning": {
+    "en": "Arabic scribe and Qur'anic collator",
+    "ar": "صحابي (نحو 12ق.هـ – 45هـ / 611 – 665م)"
+  },
+  "story": {
+    "en": "Zayd ibn Thabit (611–665) was an Arabic scribe and Qur'anic collator.",
+    "ar": "زيد بن ثابت بن الضحّاك الأنصاري صحابي وكاتب الوحي، شيخ المقرئين، مفتي المدينة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زيد بن ثابت",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%AB%D8%A7%D8%A8%D8%AA"
+    }
+  ]
+},
+{
+  "id": "zaynab-bint-khuzaymah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زينب بنت خزيمه",
+  "en": "Zaynab Bint Khuzaymah Street",
+  "meaning": {
+    "en": "Fifth wife of the Prophet Muhammad",
+    "ar": "أم المؤمنين، خامس زوجات لمحمد (28ق.هـ–4هـ / 596–625م)"
+  },
+  "story": {
+    "en": "Zaynab bint Khuzayma (595–625) was a wife of the Prophet Muhammad.",
+    "ar": "أم المؤمنين زينب بنت خزيمة إحدى زوجات النبي محمد، كانت تُكنّى بأم المساكين."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — زينب بنت خزيمة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D9%86%D8%A8_%D8%A8%D9%86%D8%AA_%D8%AE%D8%B2%D9%8A%D9%85%D8%A9"
+    }
+  ]
+},
+{
+  "id": "abdulqadir-al-jaza-eri-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبد القادر الجزائري",
+  "en": "Abdulqadir Al Jaza'eri Street",
+  "meaning": {
+    "en": "Algerian religious and military leader",
+    "ar": "مؤسس الدولة الجزائرية الحديثة وقائد عسكري، وشاعر ومفكر متصوف تفرغ للعلم والكتابة في دمشق حتى وفاته."
+  },
+  "story": {
+    "en": "Abdelkader El Djezairi (1808–1883) was an Algerian religious and military leader.",
+    "ar": "عبد القادر الجزائري (1223-1300هـ / 1808-1883م)، واسمه عبد القادر بن محيي الدين الحسني."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد القادر الجزائري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-miqdad-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع المقداد بن عمرو",
+  "en": "Al Miqdad Bin Amr Street",
+  "meaning": {
+    "en": "Companion (Sahaba) of Muhammad",
+    "ar": "صحابي بدري"
+  },
+  "story": {
+    "en": "Miqdad ibn Aswad (590–652) was a companion of the Prophet Muhammad.",
+    "ar": "المقداد بن عمرو المعروف أيضًا بـ المقداد بن الأسود (المتوفى 33 هـ) صحابي بدري."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — المقداد بن عمرو",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%A7%D8%AF_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88"
+    }
+  ]
+},
+{
+  "id": "hamza-bin-abdulmotalib-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حمزه بن عبد المطلب",
+  "en": "Hamza Bin Abdulmotalib Street",
+  "meaning": {
+    "en": "Companion and uncle of the Prophet Muhammad",
+    "ar": "صحابي ، عم النبي محمد"
+  },
+  "story": {
+    "en": "Hamza ibn ‘Abd al-Muttalib (568–625) was a companion of the Prophet and his uncle.",
+    "ar": "أَبُو عُمَارَةَ حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ الهَاشِمِي القُرَشِيُّ، صحابي من صحابة الرسول محمد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حمزة بن عبد المطلب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B2%D8%A9_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8"
+    }
+  ]
+},
+{
+  "id": "hisham-bin-al-a-as-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع هشام بن العاص",
+  "en": "Hisham Bin Al A'as Street",
+  "meaning": {
+    "en": "Son of al-As ibn Wa'il",
+    "ar": "صحابي جليل من السابقين الأولين في الإسلام استشهد في معركة اليرموك"
+  },
+  "story": {
+    "en": "Hisham ibn al-As (d. 635) was a son of al-As ibn Wa'il.",
+    "ar": "هشام بن العاص بن وائل السهمي صحابي، أبوه العاص بن وائل السهمي وأخو الصح."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — هشام بن العاص",
+      "url": "https://ar.wikipedia.org/wiki/%D9%87%D8%B4%D8%A7%D9%85_%D8%A8%D9%86_%D8%A7%D9%84%D8%B9%D8%A7%D8%B5"
+    }
+  ]
+},
+{
+  "id": "haram-bin-melhan-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حرام بن ملحان",
+  "en": "Haram Bin Melhan Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Haram bin Milhan (d. 625) was a companion of the Prophet Muhammad.",
+    "ar": "حرام بن ملحان (المتوفي سنة 4 هـ) صحابي من بني عدي بن النجار من الخزرج."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حرام بن ملحان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A7%D9%85_%D8%A8%D9%86_%D9%85%D9%84%D8%AD%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "iben-taymeia-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن تيميه",
+  "en": "Iben Taymeia Street",
+  "meaning": {
+    "en": "Islamic scholar, jurist and philosopher",
+    "ar": "عالم موسوعي (661 – 728هـ / 1263 – 1328م)"
+  },
+  "story": {
+    "en": "Ibn Taymiyyah (1263–1328) was an Islamic scholar, jurist and philosopher.",
+    "ar": "ابنُ تَيمِيَّة (661- 728 هـ / 1263- 1328 م) هو أَبُو العَبَّاسِ تَقِيُّ الدِّينِ أَحْمَدُ بْنُ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن تيمية",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%AA%D9%8A%D9%85%D9%8A%D8%A9"
+    }
+  ]
+},
+{
+  "id": "lubeid-bin-rabeeah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع لبيد بن ربيعه",
+  "en": "Lubeid Bin Rabeeah Street",
+  "meaning": {
+    "en": "Sahabah and poet",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Labīd (560–661) was a companion of the Prophet and poet.",
+    "ar": "أبُوْ عَقِيْلٍ، لَبِيْدُ بْنُ رَبِيْعَةَ بْنِ مَال."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — لبيد بن ربيعة",
+      "url": "https://ar.wikipedia.org/wiki/%D9%84%D8%A8%D9%8A%D8%AF_%D8%A8%D9%86_%D8%B1%D8%A8%D9%8A%D8%B9%D8%A9"
+    }
+  ]
+},
+{
+  "id": "malek-bin-nuwaira-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مالك بن نويره",
+  "en": "Malek Bin Nuwaira Street",
+  "meaning": {
+    "en": "Arab tribal leader",
+    "ar": "أحد سادة بني يربوع من فرسان العرب وشعرائها مختلف في صحبته وردته"
+  },
+  "story": {
+    "en": "Malik ibn Nuwayra (d. 634) was an Arab tribal leader.",
+    "ar": "أبو حنظلة مالك بن نويرة اليربوعي التميمي، صحابي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مالك بن نويرة",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D9%83_%D8%A8%D9%86_%D9%86%D9%88%D9%8A%D8%B1%D8%A9"
+    }
+  ]
+},
+{
+  "id": "khubaib-bin-oday-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خبيب بن عدي",
+  "en": "Khubaib Bin Oday Street",
+  "meaning": {
+    "en": "Sahabi (companion) of the Islamic prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Khubayb ibn Adiy (d. 625) was a companion of the Prophet Muhammad.",
+    "ar": "خُبيب بن عَدِي (المتوفي سنة 4 هـ) صحابي من بني جحجبا بن كلفة من الأوس."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — خبيب بن عدي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A8%D9%8A%D8%A8_%D8%A8%D9%86_%D8%B9%D8%AF%D9%8A"
+    }
+  ]
+},
+{
+  "id": "obaida-bin-al-harth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبيده بن الحارث",
+  "en": "Obaida Bin Al Harth Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي بدري، قُتل في مُبارزة في غزوة بدر"
+  },
+  "story": {
+    "en": "Ubaydah ibn al-Harith (563–624) was a companion of the Prophet Muhammad.",
+    "ar": "عبيدة بن الحارث بن المطلب هو صحابي بدري، من السابقين إلى ال."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبيدة بن الحارث",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D9%8A%D8%AF%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB"
+    }
+  ]
+},
+{
+  "id": "mohammed-bin-maslamah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع محمد بن مسلمه",
+  "en": "Mohammed Bin Maslamah Street",
+  "meaning": {
+    "en": "Sahabah",
+    "ar": "صحابي أنصاري، ولاه النبي محمد المدينة"
+  },
+  "story": {
+    "en": "Muhammad ibn Maslamah (589–666) was a companion of the Prophet Muhammad.",
+    "ar": "محمد بن مسلمة (المتوفي سنة 46 هـ) صحابي من بني حارثة بن الح."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن مسلمة",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D9%85%D8%B3%D9%84%D9%85%D8%A9"
+    }
+  ]
+},
+{
+  "id": "omair-bin-al-humam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عمير بن الحمام",
+  "en": "Omair Bin Al Humam Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Umayr ibn al-Hammam (d. 624) was a companion of the Prophet Muhammad.",
+    "ar": "عُمَير بن الحُمام صحابي من الأنصار من بني حرام بن كعب من الخزرج."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عمير بن الحمام",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%8A%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%85"
+    }
+  ]
+},
+{
+  "id": "mousa-bin-auqba-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع موسي بن عقبه",
+  "en": "Mousa Bin Auqba Street",
+  "meaning": {
+    "en": "Medinan historian, Jurist and traditionalist",
+    "ar": "تابعي من علماء السير والمغازي"
+  },
+  "story": {
+    "en": "Mūsá ibn ʻUqbah (674–758) was a Medinan historian, Jurist and traditionalist.",
+    "ar": "أبو محمد موسى بن عقبة بن أبي عياش القرشي مولاهم، ولد بالمدينة وبها توفي سنة 141 هـ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — موسى بن عقبة",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%88%D8%B3%D9%89_%D8%A8%D9%86_%D8%B9%D9%82%D8%A8%D8%A9"
+    }
+  ]
+},
+{
+  "id": "omair-bin-al-habab-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عمير بن الحباب",
+  "en": "Omair bin Al Habab Street",
+  "meaning": {
+    "en": "Umayyad general and Qaysi tribes leader",
+    "ar": "شاعر وفارس"
+  },
+  "story": {
+    "en": "Umayr ibn Hubab al-Sulami (d. 689) was an Umayyad general and Qaysi tribal leader.",
+    "ar": "عمير بن الحباب بن جعدة بن إياس بن حذافة بن محارب بن هلال بن فالج بن ذكوان بن ثعلبة بن بهثة بن سليم بن منصو."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عمير بن الحباب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%8A%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%A8%D8%A7%D8%A8"
+    }
+  ]
+},
+{
+  "id": "said-ibn-al-musayyib-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سعيد بن المسيب",
+  "en": "Said Ibn Al Musayyib Street",
+  "meaning": {
+    "en": "Medina-based Muslim scholar",
+    "ar": "تابعي مدني، وأحد رواة الحديث النبوي، وأحد فقهاء المدينة السبعة من التابعين"
+  },
+  "story": {
+    "en": "Said ibn al-Musayyib (634–712) was a Medina-based Muslim scholar.",
+    "ar": "أبو محمد سعيد بن الْمُسَيِّبِ بن حزن بن أبي وهب المخزومي القرشي (15 هـ - 94 هـ) تابع."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سعيد بن المسيب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A8"
+    }
+  ]
+},
+{
+  "id": "shamas-bin-othman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع شماس بن عثمان",
+  "en": "Shamas Bin Othman Street",
+  "meaning": {
+    "en": "Companion of the Prophet Muhammad",
+    "ar": "صحابي"
+  },
+  "story": {
+    "en": "Shams ibn Uthman (591–625) was a companion of the Prophet Muhammad.",
+    "ar": "شَمَّاس بن عثمان صحابي من السابقين إلى الإسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — شماس بن عثمان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B4%D9%85%D8%A7%D8%B3_%D8%A8%D9%86_%D8%B9%D8%AB%D9%85%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "hafsa-bint-omar-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع حفصه بنت عمر",
+  "en": "Hafsa Bint Omar Street",
+  "meaning": {
+    "en": "Fourth wife of Islamic prophet Muhammad",
+    "ar": "أم المؤمنين رابع زوجات لمحمد وبنت ثاني الخلفاء الراشدين أمير المؤمنين عمر بن الخطاب (18ق.هـ–41هـ / 605–661م)"
+  },
+  "story": {
+    "en": "Hafsa bint Umar ibn Al-Khattab (604–665) was a wife of the Prophet Muhammad.",
+    "ar": "حَفْصَة بِنْتُ عُمَر بنِ الخَطَّاب العَدَوِيَّة القُرَشِيَّة (18 ق هـ - 41 هـ / 605 - 661م) هي راب."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — حفصة بنت عمر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%81%D8%B5%D8%A9_%D8%A8%D9%86%D8%AA_%D8%B9%D9%85%D8%B1"
+    }
+  ]
+},
+{
+  "id": "yahya-bin-mua-een-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع يحيي بن معين",
+  "en": "Yahya Bin Mua'een Street",
+  "meaning": {
+    "en": "Iraqi Muslim scholar",
+    "ar": "الإمام الحافظ ،إمام الجرح والتعديل، شيخ المحدثين"
+  },
+  "story": {
+    "en": "Yahya ibn Ma'in (775–884) was an Iraqi Muslim scholar.",
+    "ar": "أَبُو زَكَرِيَّا، يَحْيَى بْنُ ‌مَعِينٍ الغَطَفَانِيُّ المُرِّيُّ بالو."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — يحيى بن معين",
+      "url": "https://ar.wikipedia.org/wiki/%D9%8A%D8%AD%D9%8A%D9%89_%D8%A8%D9%86_%D9%85%D8%B9%D9%8A%D9%86"
+    }
+  ]
 }
 ];
