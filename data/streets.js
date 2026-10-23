@@ -4643,5 +4643,423 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/%D9%8A%D8%AD%D9%8A%D9%89_%D8%A8%D9%86_%D9%85%D8%B9%D9%8A%D9%86"
     }
   ]
+},
+{
+  "id": "mas-oud-bin-rabee-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مَسعُود بن رَبِيعَة",
+  "en": "Mas'oud Bin Rabee'ah Street",
+  "meaning": {
+    "en": "A Badri Companion of the Qura'a",
+    "ar": "صحابي بدري من السابقين"
+  },
+  "story": {
+    "en": "Mas'ud ibn Rabi'a al-Qari was a Companion who fought at Badr and died in 30 AH.",
+    "ar": "أبو عُمير مسعود بن ربيعة القاري. أو القاريّ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مسعود بن ربيعة",
+      "url": "https://ar.wikipedia.org/wiki/مسعود_بن_ربيعة"
+    }
+  ]
+},
+{
+  "id": "wadee-ah-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع وَديعَة بن عَمرو",
+  "en": "Wadee'ah Bin 'Amr Street",
+  "meaning": {
+    "en": "A Companion from Juhayna, ally of the Khazraj",
+    "ar": "صحابي من جهينة حليف للخزرج"
+  },
+  "story": {
+    "en": "Wadi'a ibn Amr was a Companion of Juhayna, an ally of the Khazraj, who fought at Badr and Uhud.",
+    "ar": "وديعة بن عمرو الجهني صحابي من جهينة، كان حليفًا لبني سواد بن مالك بن غنم بن مالك بن النجار من الخزرج، شهد غزوتي بدر وأحد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — وديعة بن عمرو",
+      "url": "https://ar.wikipedia.org/wiki/وديعة_بن_عمرو"
+    }
+  ]
+},
+{
+  "id": "yazeed-bin-al-munthir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع يَزِيد بن المُنذِر",
+  "en": "Yazeed Bin Al Munthir Street",
+  "meaning": {
+    "en": "An Ansari Companion at the second Aqaba",
+    "ar": "صحابي أنصاري شهد العقبة الثانية"
+  },
+  "story": {
+    "en": "Yazid ibn al-Mundhir was an Ansari Companion of the Khazraj who took the second pledge of Aqaba and fought at Badr.",
+    "ar": "يزيد بن المنذر صحابي من الأنصار من بني عبيد بن عدي من الخزرج، شهد بيعة العقبة الثانية، وآخى النبي محمد بينه وبين عامر بن ربيعة، وشهد غزوتي بدر وأحد."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — يزيد بن المنذر",
+      "url": "https://ar.wikipedia.org/wiki/يزيد_بن_المنذر"
+    }
+  ]
+},
+{
+  "id": "ibrahim-bin-tahman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع إبراهيم بن طهمان",
+  "en": "Ibrahim Bin Tahman Street",
+  "meaning": {
+    "en": "A hadith scholar from Herat",
+    "ar": "محدث من هراة"
+  },
+  "story": {
+    "en": "Ibrahim ibn Tahman (d. 784) was a scholar of hadith from Herat who settled in Mecca.",
+    "ar": "إبراهيم بن طهمان ( ؟ ـ 784م). أبو سعيد إبراهيم بن طهمان بن شعبة الهروي، إمام وعالم حديث من خراسان."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — إبراهيم بن طهمان",
+      "url": "https://ar.wikipedia.org/wiki/إبراهيم_بن_طهمان"
+    }
+  ]
+},
+{
+  "id": "is-haq-bin-talhah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع إسحاق بن طَلحة",
+  "en": "Is-haq Bin Talhah Street",
+  "meaning": {
+    "en": "A Tabi'i of Quraysh, son of Talha",
+    "ar": "تابعي من قريش وابن طلحة"
+  },
+  "story": {
+    "en": "Ishaq ibn Talha ibn Ubayd Allah (d. 56 AH) was a Tabi'i and hadith transmitter of Quraysh.",
+    "ar": "إسحاق بن طلحة بن عبيد الله (توفي عام 56 هـ) تابعي وأحد رواة الحديث النبوي، عينه الخليفة معاوية بن أبي سفيان في سنة 56 هـ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — إسحاق بن طلحة بن عبيد الله",
+      "url": "https://ar.wikipedia.org/wiki/إسحاق_بن_طلحة_بن_عبيد_الله"
+    }
+  ]
+},
+{
+  "id": "asma-bint-salamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أسماء بنت سَلامة",
+  "en": "Asma Bint Salamah Street",
+  "meaning": {
+    "en": "A woman Companion who migrated to Abyssinia",
+    "ar": "صحابية هاجرت إلى الحبشة"
+  },
+  "story": {
+    "en": "Asma bint Salama al-Tamimiyya was among the early women to accept Islam and migrated with her husband to Abyssinia.",
+    "ar": "أسماء بنت سلامة التميمية تكنى أم الجلاس من الصحابيات السابقات في الإسلام أسلمت هي وزوجها: عياش بن أبي ربيعة بمكة قديما، وهاجرت معه إلى الحبشة، وولدت."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أسماء بنت سلامة",
+      "url": "https://ar.wikipedia.org/wiki/أسماء_بنت_سلامة"
+    }
+  ]
+},
+{
+  "id": "asma-bint-umays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أسماء بنت عُمَيس",
+  "en": "Asma Bint 'Umays Street",
+  "meaning": {
+    "en": "A woman Companion, wife of Ja'far and then Abu Bakr",
+    "ar": "صحابية زوجة جعفر ثم أبي بكر"
+  },
+  "story": {
+    "en": "Asma bint Umays al-Khath'amiyya (d. 38 AH or later) was a woman Companion and the wife of Ja'far ibn Abi Talib and later of Abu Bakr.",
+    "ar": "أَسْماءُ بنتُ عُمَيْس الخَثْعَمِيَّة (ت 38 هـ أو بعد 60 هـ) صحابية أسلمت قديمًا مع أختها سَلمى بنت عُمَيس قبل دخول النبي محمد دار الأرقم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أسماء بنت عميس",
+      "url": "https://ar.wikipedia.org/wiki/أسماء_بنت_عميس"
+    }
+  ]
+},
+{
+  "id": "asma-bint-yazeed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أسماء بنت يزيد",
+  "en": "Asma Bint Yazeed Street",
+  "meaning": {
+    "en": "An Ansari woman Companion",
+    "ar": "صحابية أنصارية"
+  },
+  "story": {
+    "en": "Asma bint Yazid al-Ansariyya accepted Islam in the first year after the Hijra and was known for her knowledge of religion.",
+    "ar": "أسماء بنت يزيد الأنصارية هي صحابية وهي أم عامر وأم سلمة الأنصارية الأشهلية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أسماء بنت يزيد",
+      "url": "https://ar.wikipedia.org/wiki/أسماء_بنت_يزيد"
+    }
+  ]
+},
+{
+  "id": "al-ahnaf-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الأحنَف بن قيس",
+  "en": "Al Ahnaf Bin Qays Street",
+  "meaning": {
+    "en": "Leader of Tamim in Basra",
+    "ar": "سيد تميم البصرة"
+  },
+  "story": {
+    "en": "Al-Ahnaf ibn Qays (602–691) was the leader of Tamim in Basra, known for his judgement.",
+    "ar": "الأحنف بن قيس بن معاوية بن الحصين التميمي البصري (نحو 20 ق هـ - 72 هـ / 602 - 691م)، سيد تميم البصرة كلها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الأحنف بن قيس",
+      "url": "https://ar.wikipedia.org/wiki/الأحنف_بن_قيس"
+    }
+  ]
+},
+{
+  "id": "al-arqam-bin-abi-al-arqam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الأرقم بن أبي الأرقم",
+  "en": "Al Arqam Bin Abi Al Arqam Street",
+  "meaning": {
+    "en": "A Companion whose house sheltered the early Muslims",
+    "ar": "صحابي كان بيته مركز الدعوة"
+  },
+  "story": {
+    "en": "Al-Arqam ibn Abi al-Arqam was among the earliest Muslims; his house in Mecca served as the first meeting place of the community.",
+    "ar": "أبو عبد الله الأرقم بن أبي الأرقم عبد مناف بن أسد المخزومي صحابي من السابقين الأولين في الدخول إلى الإسلام. اتخذ النبي محمد من دار الأرقم مقراً للدعوة بداية الإسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الأرقم بن أبي الأرقم",
+      "url": "https://ar.wikipedia.org/wiki/الأرقم_بن_أبي_الأرقم"
+    }
+  ]
+},
+{
+  "id": "al-aswad-bin-hilal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الأسوَد بن هِلال",
+  "en": "Al Aswad Bin Hilal Street",
+  "meaning": {
+    "en": "A senior Kufan Tabi'i",
+    "ar": "تابعي كوفي من الثقات"
+  },
+  "story": {
+    "en": "Al-Aswad ibn Hilal al-Muharibi was a Kufan transmitter of hadith among the senior Tabi'un.",
+    "ar": "الأسود بن هلال المحاربي، أبو سلام الكوفي، راوي حديث من كبار التابعين، أدرك عصر النبي محمد، كان من الثقات المتقنين في روا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الأسود بن هلال",
+      "url": "https://ar.wikipedia.org/wiki/الأسود_بن_هلال"
+    }
+  ]
+},
+{
+  "id": "al-baraa-bin-malik-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع البراء بن مالك",
+  "en": "Al Baraa Bin Malik Street",
+  "meaning": {
+    "en": "An Ansari Companion, killed at Tustar",
+    "ar": "صحابي أنصاري استُشهد بتستر"
+  },
+  "story": {
+    "en": "Al-Bara' ibn Malik al-Ansari (d. 20 AH / 641 CE) was a Companion who fought at Badr and elsewhere and was killed at Tustar.",
+    "ar": "البراء بن مالك الأنصاري (المتوفى سنة 20 هـ الموافق 641 م) هو صحابي، شهد عدد من غزوات النبي محمد صلى الله عليه وسلم وفتوح العراق وفارس، واستشهد في فتح تستر، وهو."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — البراء بن مالك",
+      "url": "https://ar.wikipedia.org/wiki/البراء_بن_مالك"
+    }
+  ]
+},
+{
+  "id": "al-harith-bin-abi-dirar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الحارِث بن أبي ضِرار",
+  "en": "Al Harith Bin Abi Dirar Street",
+  "meaning": {
+    "en": "Chief of Banu al-Mustaliq, father of Juwayriyya",
+    "ar": "سيد بني المصطلق وأبو جويرية"
+  },
+  "story": {
+    "en": "Al-Harith ibn Abi Dirar was a Companion and the father of Juwayriyya bint al-Harith, a wife of the Prophet.",
+    "ar": "الحارث بن أبي ضرار، صحابي وأبو جويرية بنت الحارث، زوجة النبي وأم المؤمنين."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الحارث بن أبي ضرار",
+      "url": "https://ar.wikipedia.org/wiki/الحارث_بن_أبي_ضرار"
+    }
+  ]
+},
+{
+  "id": "iben-al-quff-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن القف",
+  "en": "Iben Al Quff Street",
+  "meaning": {
+    "en": "A physician and surgeon from Karak",
+    "ar": "طبيب وجراح من الكرك"
+  },
+  "story": {
+    "en": "Ibn al-Quff al-Karaki (630–685 AH / 1232–1286 CE) was a physician and surgeon who wrote medical works.",
+    "ar": "أبو الفرج أمين الدولة بن يعقوب المعروف بابن القف الكركي (630 هـ - 685 هـ / 1232 م - 1286 م) كان طبيبًا وعالمًا، نشأ في مدينة الكرك ا."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن القف الكركي",
+      "url": "https://ar.wikipedia.org/wiki/ابن_القف_الكركي"
+    }
+  ]
+},
+{
+  "id": "iben-al-tufail-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن الطفيل",
+  "en": "Iben Al Tufail Street",
+  "meaning": {
+    "en": "An Andalusian philosopher and physician",
+    "ar": "فيلسوف وطبيب أندلسي"
+  },
+  "story": {
+    "en": "Ibn Tufayl (c. 1105–1185) was an Andalusian philosopher and physician, author of Hayy ibn Yaqzan.",
+    "ar": "أَبُو بَكْرْ مُحَمَّدْ بْنْ عَبْدِ اَلْمَلِكْ بْنْ مُحَمَّدْ بْنْ مُحَمَّدْ بْنْ طُفَيْلِ اَلْقَيْسِي اَلْأَنْدَلُسِيَّ المعرو."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن طفيل",
+      "url": "https://ar.wikipedia.org/wiki/ابن_طفيل"
+    }
+  ]
+},
+{
+  "id": "ibn-al-muqaffa-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن المقفع",
+  "en": "Ibn Al Muqaffa' Street",
+  "meaning": {
+    "en": "A Persian-Arab author and translator",
+    "ar": "أديب ومترجم فارسي"
+  },
+  "story": {
+    "en": "Abdullah ibn al-Muqaffa' (724–759) was an author and translator who rendered Kalila wa Dimna into Arabic.",
+    "ar": "أبو مُحمّد عبد الله بن المقفع (106 - 142 هـ)(724 م ـ 759 م) (بالفارسية: ابن مقفع - أبو مٰحَمَّد عبد الله واسمه روزبه بن داذويه قبل إسلام."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الله بن المقفع",
+      "url": "https://ar.wikipedia.org/wiki/عبد_الله_بن_المقفع"
+    }
+  ]
+},
+{
+  "id": "iben-katheer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ابن كثير",
+  "en": "Iben Katheer Street",
+  "meaning": {
+    "en": "A historian, traditionist and Qur'an commentator",
+    "ar": "مؤرخ ومحدث ومفسر"
+  },
+  "story": {
+    "en": "Ibn Kathir (701–774 AH / 1301–1373 CE) was a historian and hadith scholar, author of a well-known Qur'an commentary.",
+    "ar": "ابن كثير الدمشقي (701- 774 هـ / 1301- 1373 م) هو عِمادُ الدِّينِ أبُو الفِداءِ إسْماعِيلُ بنُ عُمَرَ بنِ كَثِيرِ بنِ ضَوِّ بنِ دِرْعٍ القُرَشِيُّ الحَ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن كثير الدمشقي",
+      "url": "https://ar.wikipedia.org/wiki/ابن_كثير_الدمشقي"
+    }
+  ]
+},
+{
+  "id": "arwa-bint-abd-al-muttalib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أروَى بنت عبدالمطلب",
+  "en": "Arwa Bint Abd Al Muttalib Street",
+  "meaning": {
+    "en": "A paternal aunt of the Prophet and a poet",
+    "ar": "عمة النبي وشاعرة"
+  },
+  "story": {
+    "en": "Arwa bint Abd al-Muttalib (d. 15 AH) was a paternal aunt of the Prophet and one of the poets of Quraysh.",
+    "ar": "أَرْوَىٰ بِنْتُ عَبْدِ المُطَّلِبِ القُرَشِيَّةُ (تـ 15 هـ) عمة النبي محمد صلى الله عليه وسلم وعلي بن أبي طالب، وهي من الشواعر."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أروى بنت عبد المطلب",
+      "url": "https://ar.wikipedia.org/wiki/أروى_بنت_عبد_المطلب"
+    }
+  ]
+},
+{
+  "id": "abi-obaid-bin-masoud-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أبي عبيد بن مسعود",
+  "en": "Abi Obaid Bin Masoud Street",
+  "meaning": {
+    "en": "A Companion and commander in Iraq",
+    "ar": "صحابي وقائد في العراق"
+  },
+  "story": {
+    "en": "Abu Ubayd ibn Mas'ud al-Thaqafi (d. 13 AH) was a Companion and commander killed at the Battle of the Bridge in Iraq.",
+    "ar": "أبو عبيد بن مسعود الثقفي، (ت 13 هـ)، صحابي، أسلم في عهد النبي محمد، وهو والد المختار بن أبي عبيد وصفية بنت أبي عبيد، قُتِل في موقعة الجسر عام 13 هـ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو عبيد الثقفي",
+      "url": "https://ar.wikipedia.org/wiki/أبو_عبيد_الثقفي"
+    }
+  ]
 }
 ];
