@@ -6983,5 +6983,93 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D8%B1_%D8%A8%D9%86_%D8%B5%D9%81%D9%88%D8%A7%D9%86_%D8%A7%D9%84%D9%83%D9%84%D8%A8%D9%8A"
     }
   ]
+},
+{
+  "id": "khabab-bin-al-arat-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خباب بن الأرت",
+  "en": "Khabab Bin Al Arat Street",
+  "meaning": {
+    "en": "An early Companion, tortured for his faith",
+    "ar": "صحابي من السابقين، عُذّب في مكة، وشهد بدراً"
+  },
+  "story": {
+    "en": "Khabbab ibn al-Aratt (d. 37 AH / 657 CE) was among the earliest Muslims, tortured in Mecca for his faith, and later fought at Badr. He died in Kufa.",
+    "ar": "خبّاب بن الأرت (ت ٣٧هـ/٦٥٧م) من السابقين إلى الإسلام، عُذّب في مكة، وشهد غزوة بدر، وتوفي بالكوفة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia",
+      "url": "https://ar.wikipedia.org/wiki/خباب_بن_الأرت"
+    }
+  ]
+},
+{
+  "id": "zuhair-bin-abi-salma-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع زهير بن أبي سلمى",
+  "en": "Zuhair Bin Abi Salma Street",
+  "meaning": {
+    "en": "A pre-Islamic poet of the Mu'allaqat",
+    "ar": "شاعر جاهلي من أصحاب المعلقات"
+  },
+  "story": {
+    "en": "Zuhayr ibn Abi Sulma (d. c. 609 CE) was a pre-Islamic Arab poet, author of one of the Mu'allaqat odes.",
+    "ar": "زهير بن أبي سلمى (ت نحو ٦٠٩م) شاعر جاهلي، وله معلّقة من المعلقات العشر."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia",
+      "url": "https://ar.wikipedia.org/wiki/زهير_بن_أبي_سلمى"
+    }
+  ]
+},
+{
+  "id": "khalid-bin-yazeed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خالد بن يزيد",
+  "en": "Khalid Bin Yazeed Street",
+  "meaning": {
+    "en": "An Umayyad prince interested in the sciences",
+    "ar": "أمير أموي اهتم بالعلوم"
+  },
+  "story": {
+    "en": "Khalid ibn Yazid (d. 85 AH / 704 CE) was an Umayyad prince, a poet, and a patron of the sciences and of alchemy.",
+    "ar": "خالد بن يزيد بن معاوية (ت ٨٥هـ/٧٠٤م) أمير أموي وشاعر، عُرف باهتمامه بالعلوم والكيمياء."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia",
+      "url": "https://ar.wikipedia.org/wiki/خالد_بن_يزيد_بن_معاوية"
+    }
+  ]
+},
+{
+  "id": "khirash-bin-umayah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خراش بن أمية",
+  "en": "Khirash Bin Umayah Street",
+  "meaning": {
+    "en": "A Companion from Khuza'ah, envoy at Hudaybiyya",
+    "ar": "صحابي من خزاعة، بعثه النبي إلى قريش"
+  },
+  "story": {
+    "en": "Khirash ibn Umayyah al-Khuza'i was a Companion of the Prophet from Khuza'ah, sent as an envoy to Quraysh at Hudaybiyya.",
+    "ar": "خراش بن أمية الخزاعي صحابي من خزاعة، بعثه النبي إلى قريش عام الحديبية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia",
+      "url": "https://ar.wikipedia.org/wiki/خراش_بن_أمية"
+    }
+  ]
 }
 ];
