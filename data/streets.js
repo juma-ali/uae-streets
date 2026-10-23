@@ -13128,5 +13128,159 @@ window.STREETS = [
     "ar": "يحمل الشارع اسم الشهيد سيف حلف من أسرة الزعابي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
+},
+{
+  "id": "mubarak-bin-qaran-al-mansouri-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع مبارك بن قرآن المنصوري",
+  "en": "Mubarak Bin Qaran Al Mansouri Street",
+  "meaning": {
+    "en": "A figure close to Sheikh Zayed from the 1960s",
+    "ar": "من الشخصيات التي رافقت الشيخ زايد"
+  },
+  "story": {
+    "en": "Mubarak bin Qaran Al Mansouri was an Emirati figure who worked alongside Sheikh Zayed bin Sultan from the early 1960s.",
+    "ar": "مبارك بن قران بن راشد آل مانع المنصوري من الشخصيات الإماراتية التي رافقت الشيخ زايد بن سلطان منذ مطلع الستينيات."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مبارك بن قران المنصوري",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A8%D8%A7%D8%B1%D9%83_%D8%A8%D9%86_%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "rashid-bin-tannaf-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع راشد بن طناف",
+  "en": "Rashid Bin Tannaf Street",
+  "meaning": {
+    "en": "A pioneer of Nabati poetry",
+    "ar": "من رواد الشعر النبطي"
+  },
+  "story": {
+    "en": "Rashid bin Tannaf al-Nuaimi (1910–2000) was an Emirati poet, one of the pioneers of Nabati poetry in the UAE.",
+    "ar": "راشد بن طناف النعيمي (١٩١٠–٢٠٠٠م) شاعر إماراتي، من أبرز رواد الشعر النبطي في الدولة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — راشد بن طناف",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A8%D9%86_%D8%B7%D9%86%D8%A7%D9%81"
+    }
+  ]
+},
+{
+  "id": "ali-bin-rahma-al-shamsy-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع علي بن رحمة الشامسي",
+  "en": "Ali Bin Rahma Al Shamsy Street",
+  "meaning": {
+    "en": "An Emirati poet from Sharjah",
+    "ar": "شاعر إماراتي من الشارقة"
+  },
+  "story": {
+    "en": "Ali bin Rahma Al Shamsi (1930–2006) was an Emirati poet from Sharjah, among the veterans of Nabati poetry.",
+    "ar": "علي بن رحمة بن سالم الشامسي (١٩٣٠–٢٠٠٦م) شاعر إماراتي من الشارقة، من المخضرمين في الشعر النبطي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — علي بن رحمة الشامسي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%8A_%D8%A8%D9%86_%D8%B1%D8%AD%D9%85%D8%A9_%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D8%B3%D9%8A"
+    }
+  ]
+},
+{
+  "id": "mohammed-bin-khalifa-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع محمد بن خليفة",
+  "en": "Mohammed Bin Khalifa Street",
+  "meaning": {
+    "en": "An Emirati businessman",
+    "ar": "رجل أعمال إماراتي"
+  },
+  "story": {
+    "en": "Mohammed bin Khalifa Al Suwaidi (b. 1945) is an Emirati businessman and chairman of the Bin Yousef group.",
+    "ar": "محمد بن خليفة بن يوسف السويدي (وُلد ١٩٤٥م) رجل أعمال إماراتي، ورئيس مجلس إدارة مجموعة بن يوسف."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن خليفة بن يوسف السويدي",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%AE%D9%84%D9%8A%D9%81%D8%A9_%D8%A8%D9%86_%D9%8A%D9%88%D8%B3%D9%81_%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D9%8A"
+    }
+  ]
+},
+{
+  "id": "latifa-bint-hamdan-street",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع لطيفة بنت حمدان",
+  "en": "Latifa Bint Hamdan Street",
+  "meaning": {
+    "en": "A daughter of Sheikh Hamdan bin Zayed",
+    "ar": "ابنة الشيخ حمدان بن زايد"
+  },
+  "story": {
+    "en": "Latifa bint Hamdan Al Nahyan (1919–1983) was a daughter of Sheikh Hamdan bin Zayed, Ruler of Abu Dhabi.",
+    "ar": "لطيفة بنت حمدان بن زايد آل نهيان (١٩١٩–١٩٨٣م) ابنة الشيخ حمدان بن زايد، حاكم أبوظبي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — لطيفة بنت حمدان بن زايد آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/%D9%84%D8%B7%D9%8A%D9%81%D8%A9_%D8%A8%D9%86%D8%AA_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A8%D9%86_%D8%B2%D8%A7%D9%8A%D8%AF_%D8%A2%D9%84_%D9%86%D9%87%D9%8A%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "khalid-bin-sultan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خالِد بن سلطان",
+  "en": "Khalid Bin Sultan Street",
+  "meaning": {
+    "en": "An Emirati fashion designer",
+    "ar": "مصمم أزياء إماراتي"
+  },
+  "story": {
+    "en": "Sheikh Khalid bin Sultan Al Qasimi (1980–2019) was an Emirati fashion designer who founded a fashion house in Sharjah.",
+    "ar": "الشيخ خالد بن سلطان القاسمي (١٩٨٠–٢٠١٩م) مصمم أزياء إماراتي، وأسس دار أزياء في الشارقة."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — خالد بن سلطان بن محمد القاسمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%D9%8A"
+    }
+  ]
+},
+{
+  "id": "maitha-bint-mohammed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ميثاء بنت محمد",
+  "en": "Maitha Bint Mohammed Street",
+  "meaning": {
+    "en": "An Emirati athlete",
+    "ar": "رياضية إماراتية"
+  },
+  "story": {
+    "en": "Sheikha Maitha bint Mohammed Al Maktoum (b. 1980) is an Emirati athlete in karate and taekwondo, and the first Emirati woman to compete at the Olympic Games.",
+    "ar": "الشيخة ميثاء بنت محمد بن راشد آل مكتوم (وُلدت ١٩٨٠م) رياضية إماراتية في الكاراتيه والتايكوندو، وأول امرأة إماراتية تشارك في الألعاب الأولمبية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ميثاء بنت محمد بن راشد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%AB%D8%A7%D8%A1_%D8%A8%D9%86%D8%AA_%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A2%D9%84_%D9%85%D9%83%D8%AA%D9%88%D9%85"
+    }
+  ]
 }
 ];
