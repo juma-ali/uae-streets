@@ -40,9 +40,11 @@
       originDocumented: "Documented name",
       originLocal: "Local account",
       originAccount: "Recorded account",
+      originUnsourced: "No reference found",
       caveatDocumented: "The person, event or landmark behind this name is on the record.",
       caveatLocal: "This explanation is widely told locally, but it is not officially recorded — treat it as oral history.",
       caveatAccount: "This account is recorded by the project; no published source is cited.",
+      caveatUnsourced: "No published source was found for this name. The entry records only what is asserted about it, and should be read with caution.",
       categoryNoun: { person: "Named after a person", place: "Named after a place", word: "An Arabic word", tribe: "Named after a tribe", event: "Named after an event" },
       countOne: "1 street",
       countMany: "{n} streets",
@@ -68,7 +70,9 @@
       originAccount: "رواية مسجّلة",
       caveatDocumented: "الشخص أو الحدث أو المعلم الذي يحمل الشارع اسمه مسجّل وموثّق.",
       caveatLocal: "هذا التفسير شائع محلياً لكنه غير مسجّل رسمياً — تعامل معه كتاريخ شفهي.",
+      originUnsourced: "لا يوجد مرجع",
       caveatAccount: "هذه الرواية مسجّلة في المشروع، ولا يُذكر مصدر منشور.",
+      caveatUnsourced: "لم يُعثر على مصدر منشور لهذا الاسم، والبطاقة تنقل ما قيل عنه فقط، ويُقرأ بحذر.",
       categoryNoun: { person: "سُمّي على اسم شخص", place: "سُمّي على اسم مكان", word: "كلمة عربية", tribe: "سُمّي على اسم قبيلة", event: "سُمّي على اسم حدث" },
       countOne: "شارع واحد",
       countMany: "{n} شارعاً",
@@ -161,7 +165,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261024a";
+    s.src = "data/cards.js?v=20261024b";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -428,7 +432,7 @@
     var em = emirateOf(s.emirate);
     var cat = categoryOf(s.category);
     var meaning = s.meaning ? s.meaning[state.lang] : "";
-    var originLabel = s.origin === "account" ? T.originAccount : s.origin === "local" ? T.originLocal : T.originDocumented;
+    var originLabel = s.origin === "account" ? T.originAccount : s.origin === "unsourced" ? T.originUnsourced : s.origin === "local" ? T.originLocal : T.originDocumented;
     var nameBlock = state.lang === "ar"
       ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(s.ar) + "</h3>" +
         '<p class="card__en" dir="ltr">' + esc(s.en) + "</p>"
@@ -439,7 +443,7 @@
       'aria-label="' + esc((state.lang === "ar" ? s.ar : s.en) + " — " + em[state.lang]) + '">' +
       '<div class="card__top">' +
         '<span class="card__emirate">' + esc(em[state.lang]) + "</span>" +
-        '<span class="badge badge--' + (s.origin === "local" ? "local" : "documented") + '">' + esc(originLabel) + "</span>" +
+        '<span class="badge badge--' + (s.origin === "local" ? "local" : s.origin === "unsourced" ? "unsourced" : "documented") + '">' + esc(originLabel) + "</span>" +
       "</div>" +
       nameBlock +
       (meaning ? '<p class="card__meaning">' + esc(meaning) + "</p>" : "") +
@@ -604,8 +608,8 @@
         (s.former ? '<p class="sheet__rename">' + esc(T.formerly) + " " + esc(s.former[state.lang]) + "</p>" : "") +
         '<div class="sheet__tags">' +
           '<span class="sheet__tag">' + esc(T.categoryNoun[s.category] || "") + "</span>" +
-          '<span class="sheet__tag sheet__tag--origin' + (origin === "local" ? " is-local" : origin === "account" ? " is-account" : "") + '">' +
-            esc(origin === "account" ? T.originAccount : origin === "local" ? T.originLocal : T.originDocumented) + "</span>" +
+          '<span class="sheet__tag sheet__tag--origin' + (origin === "local" ? " is-local" : origin === "account" ? " is-account" : origin === "unsourced" ? " is-unsourced" : "") + '">' +
+            esc(origin === "account" ? T.originAccount : origin === "unsourced" ? T.originUnsourced : origin === "local" ? T.originLocal : T.originDocumented) + "</span>" +
         "</div>" +
       "</div>" +
       (meaning
@@ -613,7 +617,7 @@
           '<p class="sheet__meaning-text">' + esc(meaning) + "</p></div>"
         : "") +
       '<div class="sheet__story"><p>' + esc(story) + "</p></div>" +
-      '<p class="sheet__caveat">' + esc(origin === "account" ? T.caveatAccount : origin === "local" ? T.caveatLocal : T.caveatDocumented) + "</p>" +
+      '<p class="sheet__caveat">' + esc(origin === "account" ? T.caveatAccount : origin === "unsourced" ? T.caveatUnsourced : origin === "local" ? T.caveatLocal : T.caveatDocumented) + "</p>" +
       '<div class="sheet__footer">' +
         (s.refs && s.refs.length
           ? '<div><span class="sheet__meaning-label">' + esc(T.sources) + "</span>" +

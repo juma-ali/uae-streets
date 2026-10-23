@@ -2291,5 +2291,311 @@ window.STREETS = [
       "url": "https://en.wikipedia.org/wiki/Anas_ibn_Malik"
     }
   ]
+},
+{
+  "id": "aws-bin-al-samit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أوس بن الصامت",
+  "en": "Aws Bin Al Samit Street",
+  "meaning": {
+    "en": "An Ansari Companion",
+    "ar": "صحابي أنصاري"
+  },
+  "story": {
+    "en": "Aws ibn al-Samit was an Ansari Companion, husband of Khawla bint Tha'laba, and his name is connected with accounts of the revelation of Surat al-Mujadila.",
+    "ar": "أوس بن الصامت صحابي أنصاري، زوج خولة بنت ثعلبة، ويرتبط اسمه بروايات نزول سورة المجادلة."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابت بن قيس",
+  "en": "Thabit Bin Qays Street",
+  "meaning": {
+    "en": "An Ansari Companion, the Prophet's orator",
+    "ar": "صحابي أنصاري خطيب"
+  },
+  "story": {
+    "en": "Thabit ibn Qays was an Ansari Companion known for his oratory; biographical works describe him as the Prophet's orator.",
+    "ar": "ثابت بن قيس صحابي من الأنصار عُرف بخطابته، وتذكر كتب السيرة أنه كان خطيب النبي."
+  },
+  "refs": []
+},
+{
+  "id": "amer-bin-rabi-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عامر بن ربيعة",
+  "en": "Amer Bin Rabi'ah Street",
+  "meaning": {
+    "en": "An early Companion",
+    "ar": "صحابي من السابقين"
+  },
+  "story": {
+    "en": "Amir ibn Rabi'ah was among the early Muslims; he emigrated to Abyssinia and later to Medina, and biographical works record his hadith transmissions.",
+    "ar": "عامر بن ربيعة من السابقين إلى الإسلام، هاجر إلى الحبشة ثم إلى المدينة، وتذكر كتب التراجم روايته للحديث."
+  },
+  "refs": []
+},
+{
+  "id": "amer-bin-fuhairah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عامر بن فهيرة",
+  "en": "Amer Bin Fuhairah Street",
+  "meaning": {
+    "en": "A Companion, killed at Bi'r Ma'una",
+    "ar": "صحابي قُتل في بئر معونة"
+  },
+  "story": {
+    "en": "Amir ibn Fuhayrah was a Companion and a freedman of Abu Bakr who took part in the migration and was killed at Bi'r Ma'una in 3 AH / 625 CE.",
+    "ar": "عامر بن فهيرة صحابي ومولى أبي بكر، شارك في الهجرة، وقُتل في بئر معونة سنة ٣هـ/٦٢٥م."
+  },
+  "refs": []
+},
+{
+  "id": "umayr-bin-abi-waqqas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمير بن أبي وقاص",
+  "en": "Umayr Bin Abi Waqqas Street",
+  "meaning": {
+    "en": "A Companion, killed at Badr",
+    "ar": "صحابي قُتل في بدر"
+  },
+  "story": {
+    "en": "Umayr ibn Abi Waqqas was a Companion from the Banu Zuhrah and a brother of Sa'd ibn Abi Waqqas; accounts report his death at the battle of Badr.",
+    "ar": "عمير بن أبي وقاص صحابي من بني زهرة وأخو سعد بن أبي وقاص، وتذكر الروايات مقتله في غزوة بدر."
+  },
+  "refs": []
+},
+{
+  "id": "al-hubab-bin-al-mundhir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحباب بن المنذر",
+  "en": "Al Hubab Bin Al Mundhir Street",
+  "meaning": {
+    "en": "An Ansari Companion at Badr",
+    "ar": "صحابي أنصاري شهد بدراً"
+  },
+  "story": {
+    "en": "Al-Hubab ibn al-Mundhir was an Ansari Companion; accounts of the Prophet's campaigns record his presence at Badr and his advice on where the army should camp.",
+    "ar": "الحباب بن المنذر صحابي أنصاري، تذكر روايات السيرة مشاركته في بدر ومشورته في موضع نزول الجيش."
+  },
+  "refs": []
+},
+{
+  "id": "al-sa-ab-bin-jothama-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الصعب بن جثامة",
+  "en": "Al Sa'ab Bin Jothama Street",
+  "meaning": {
+    "en": "A Companion named in hadith",
+    "ar": "صحابي ورد ذكره في الحديث"
+  },
+  "story": {
+    "en": "Al-Sa'b ibn Jathama was a Companion named in hadith literature.",
+    "ar": "الصعب بن جثامة صحابي ورد اسمه في روايات الحديث."
+  },
+  "refs": []
+},
+{
+  "id": "al-munthir-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع المنذر بن عمرو",
+  "en": "Al Munthir Bin 'Amr Street",
+  "meaning": {
+    "en": "An Ansari Companion, leader at Bi'r Ma'una",
+    "ar": "صحابي أنصاري من قادة بئر معونة"
+  },
+  "story": {
+    "en": "Al-Mundhir ibn Amr was an Ansari Companion described in biographical works as one of the leaders of the expedition to Bi'r Ma'una in 4 AH / 625 CE.",
+    "ar": "المنذر بن عمرو صحابي أنصاري، تذكر كتب السيرة أنه من قادة بعثة بئر معونة سنة ٤هـ/٦٢٥م."
+  },
+  "refs": []
+},
+{
+  "id": "al-nu-man-bin-muqren-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع النعمان بن مقرن",
+  "en": "Al Nu'man Bin Muqren Street",
+  "meaning": {
+    "en": "A Companion and commander, killed at Nahavand",
+    "ar": "صحابي وقائد قُتل في نهاوند"
+  },
+  "story": {
+    "en": "Al-Nu'man ibn Muqrin was a Companion and commander associated with the campaigns in Persia; he was killed at the battle of Nahavand in 21 AH / 642 CE.",
+    "ar": "النعمان بن مقرن صحابي وقائد ارتبط اسمه بفتوح فارس، وقُتل في معركة نهاوند سنة ٢١هـ/٦٤٢م."
+  },
+  "refs": []
+},
+{
+  "id": "bacheer-bin-sa-d-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بشير بن سعد",
+  "en": "Bacheer Bin Sa'd Street",
+  "meaning": {
+    "en": "An Ansari Companion",
+    "ar": "صحابي أنصاري"
+  },
+  "story": {
+    "en": "Bashir ibn Sa'd was an Ansari Companion of the Banu Khazraj, mentioned in accounts of the early Muslim community.",
+    "ar": "بشير بن سعد صحابي أنصاري من بني الخزرج، ورد ذكره في أخبار صدر الإسلام."
+  },
+  "refs": []
+},
+{
+  "id": "soraqah-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سراقة بن عمرو",
+  "en": "Soraqah Bin Amr Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “سراقة بن عمرو” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «سراقة بن عمرو» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "nawfal-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نوفل بن عبدالله",
+  "en": "Nawfal Bin Abdullah Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “نوفل بن عبدالله” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «نوفل بن عبدالله» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-harith-bin-anas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارث بن أنس",
+  "en": "Al Harith Bin Anas Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الحارث بن أنس” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحارث بن أنس» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-taher-bin-abi-hala-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الطاهر بن أبي هالة",
+  "en": "Al Taher Bin Abi Hala Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الطاهر بن أبي هالة” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الطاهر بن أبي هالة» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-tufail-bin-al-hareth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الطفيل بن الحارث",
+  "en": "Al Tufail Bin Al Hareth Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “الطفيل بن الحارث” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الطفيل بن الحارث» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "al-nu-man-bin-ouf-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع النعمان بن عوف",
+  "en": "Al Nu'man Bin Ouf Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “النعمان بن عوف” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «النعمان بن عوف» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "an-nu-man-bin-malik-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع النعمان بن مالك",
+  "en": "An Nu'man Bin Malik Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “النعمان بن مالك” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «النعمان بن مالك» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
+},
+{
+  "id": "bilal-bin-abi-bakra-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بلال بن أبي بكرة",
+  "en": "Bilal Bin Abi Bakra Street",
+  "meaning": {
+    "en": "Identity not established",
+    "ar": "الهوية غير محددة"
+  },
+  "story": {
+    "en": "No published source was found identifying who “بلال بن أبي بكرة” — the name this street carries — was.",
+    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بلال بن أبي بكرة» الذي يحمل الشارع اسمه."
+  },
+  "refs": []
 }
 ];

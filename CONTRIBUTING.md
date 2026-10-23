@@ -435,3 +435,16 @@ Nothing generated is published unreviewed. The Arabic lint and the editorial lin
 rejected the first batch — Arabic intros ran 4–7× the English line, some Arabic
 "descriptions" were actually English, and three were politicians. Cards that fail a gate
 are dropped, not softened.
+
+### Four provenance states
+
+| `origin` | Badge | Meaning |
+|---|---|---|
+| `documented` | Documented name | a published source exists for the person or event |
+| `local` | Local account | widely told locally, not officially recorded |
+| `account` | Recorded account | the project recorded it; no source is cited |
+| `unsourced` | **No reference found** | we looked, found nothing, and say so |
+
+`unsourced` exists because leaving a name blank hides a real fact — that someone looked.
+The card carries the claim *as a claim*: "No published source was found identifying who
+«سراقة بن عمرو» was", plus a caveat. It is never dressed as history.
