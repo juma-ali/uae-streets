@@ -666,5 +666,20 @@ window.STREETS = [
     refs: [
       { label: "الاتحاد — عبدالله المسعود.. لؤلؤة أبوظبي", url: "https://www.aletihad.ae/news/دنيا/4103967/عبدالله-المسعود---لؤلؤة-أبوظبي" }
     ]
+  },
+  {
+    id: "abdullah-bin-abdullah-al-muhairi-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "account",
+    ar: "شارع عبدالله بن عبدالله المهيري",
+    en: "Abdullah Bin Abdullah Al Muhairi Street",
+    translit: "Shāriʿ ʿAbd Allāh bin ʿAbd Allāh al-Muhayrī",
+    meaning: { en: "A tribal figure of Al Bu Muhair, of the Bani Yas", ar: "من الوجوه العشائرية المعروفة في آل بو مهير من بني ياس" },
+    story: {
+      en: "Abdullah bin Abdullah Al Muhairi was one of the well-known tribal figures of the United Arab Emirates, from Al Bu Muhair — one of the main sections (hafuf) of the historic Bani Yas confederation. He died in April 2026.",
+      ar: "عبدالله بن عبدالله المهيري من الرموز والوجوه العشائرية المعروفة في دولة الإمارات، وينتمي إلى قبيلة آل بو مهير، أحد الحفوف الرئيسية لحلف قبائل بني ياس التاريخي. وتوفي في أبريل ٢٠٢٦."
+    },
+    refs: []
   }
 ];
