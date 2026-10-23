@@ -13282,5 +13282,49 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/%D9%85%D9%8A%D8%AB%D8%A7%D8%A1_%D8%A8%D9%86%D8%AA_%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A2%D9%84_%D9%85%D9%83%D8%AA%D9%88%D9%85"
     }
   ]
+},
+{
+  "id": "theyab-bin-eissa-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع ذياب بن عيسى",
+  "en": "Theyab Bin Eissa Street",
+  "meaning": {
+    "en": "First ruler of Abu Dhabi",
+    "ar": "أول حكام أبوظبي"
+  },
+  "story": {
+    "en": "Dhiyab bin Isa Al Nahyan (r. 1761–1793) was the first ruler of Abu Dhabi and the founder of the Al Bu Falah line.",
+    "ar": "ذياب بن عيسى آل نهيان (حكم ١٧٦١–١٧٩٣م) أول حكام أبوظبي، ومؤسس سلالة آل بوفلاح."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ذياب بن عيسى بن نهيان آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B0%D9%8A%D8%A7%D8%A8_%D8%A8%D9%86_%D8%B9%D9%8A%D8%B3%D9%89_%D8%A8%D9%86_%D9%86%D9%87%D9%8A%D8%A7%D9%86_%D8%A2%D9%84_%D9%86%D9%87%D9%8A%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "khalifa-bin-shakhbout-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع خليفة بن شخبوط",
+  "en": "Khalifa Bin Shakhbout Street",
+  "meaning": {
+    "en": "Fifth ruler of Abu Dhabi",
+    "ar": "خامس حكام أبوظبي"
+  },
+  "story": {
+    "en": "Khalifa bin Shakhbout Al Nahyan (r. 1833–1845) was the fifth ruler of Abu Dhabi, succeeding his brother Tahnoun.",
+    "ar": "خليفة بن شخبوط بن ذياب آل نهيان (حكم ١٨٣٣–١٨٤٥م) خامس حكام أبوظبي، خلف أخاه طحنون."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — خليفة بن شخبوط بن ذياب آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D9%84%D9%8A%D9%81%D8%A9_%D8%A8%D9%86_%D8%B4%D8%AE%D8%A8%D9%88%D8%B7_%D8%A8%D9%86_%D8%B0%D9%8A%D8%A7%D8%A8_%D8%A2%D9%84_%D9%86%D9%87%D9%8A%D8%A7%D9%86"
+    }
+  ]
 }
 ];
