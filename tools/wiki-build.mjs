@@ -89,6 +89,7 @@ const SYNONYMS = {
   "Al Istiqlal Street": ["Al Estiqlal Street"],
   "Al Wahda Street": ["Al Wahdah Street", "Al Wehdah Street"],
   "Ibn Sina Street": ["Ibn Seena Street"],
+  "Hafsa Bint Omar Street": ["Hafsa Bint Omar Bin Al Khattab Street"],
 };
 
 for (const e of EDITORIAL) {

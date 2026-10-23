@@ -46,6 +46,11 @@ const nameKey = (s) =>
   String(s || "").toLowerCase().replace(/\b(street|road|st|rd|avenue)\b/g, " ")
     .replace(/[^a-z0-9]+/g, " ").trim();
 
+/* One person, several spelling or length variants on different signs. */
+const SYNONYMS = {
+  "Hafsa Bint Omar Street": ["Hafsa Bint Omar Bin Al Khattab Street"],
+};
+
 /* Curated entries: match by name, so a road can carry its story. */
 const storyByName = new Map();
 for (const e of EDITORIAL) {
@@ -76,7 +81,12 @@ for (const s of KB.streets) {
   if (!en && !ar) continue;
   const cat = CATS[s.osm] || "word";
   const gloss = cat === "place" || cat === "word" ? GLOSSES[head(s)] || "" : "";
-  const story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
+  let story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
+  if (!story) {
+    for (const [canon, alts] of Object.entries(SYNONYMS)) {
+      if (alts.some((a) => nameKey(a) === nameKey(en))) { story = storyByName.get(nameKey(canon)) || ""; break; }
+    }
+  }
   rows.push([
     en,
     ar,
