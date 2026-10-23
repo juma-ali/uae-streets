@@ -681,5 +681,22 @@ window.STREETS = [
       ar: "عبدالله بن عبدالله المهيري من الرموز والوجوه العشائرية المعروفة في دولة الإمارات، وينتمي إلى قبيلة آل بو مهير، أحد الحفوف الرئيسية لحلف قبائل بني ياس التاريخي. وتوفي في أبريل ٢٠٢٦."
     },
     refs: []
+  },
+  {
+    id: "abdullah-bin-abi-habeebah-street",
+    emirate: "abu-dhabi",
+    category: "person",
+    origin: "documented",
+    ar: "شارع عبدالله بن أبي حبيبة",
+    en: "Abdullah Bin Abi Habeebah Street",
+    translit: "Shāriʿ ʿAbd Allāh bin Abī Ḥabībah",
+    meaning: { en: "A young Companion of the Ansar, of the Aws", ar: "صحابي من صغار الصحابة، أنصاريّ أوسيّ" },
+    story: {
+      en: "Abdullah ibn Abi Habibah — his father was al-Adra' ibn al-Az'ar, of the Banu 'Amr ibn 'Awf of the Aws — was a young Companion. Al-Bukhari and Ibn Hibban name him among the Companions, and Ibn Abi Dawud states that he was present at Hudaybiyya. Al-Baghawi says he lived at Quba, outside Medina.",
+      ar: "عبد الله بن أبي حبيبة، وأبوه الأدرع بن الأزعر من بني عمرو بن عوف من الأوس، صحابي من صغار الصحابة. ذكره البخاري وابن حبان في الصحابة، وقال ابن أبي داود: شهد الحديبية. وقال البغوي: كان يسكن قباء."
+    },
+    refs: [
+      { label: "الإصابة — عبد الله بن أبي حبيبة (via Shamela)", url: "https://shamela.ws/new.php/narrator/15145" }
+    ]
   }
 ];
