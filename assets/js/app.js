@@ -114,6 +114,17 @@
       .trim();
   }
 
+
+  /* A query token matches when the haystack holds it — allowing the Arabic
+     article to be present or absent, since signs vary ("الهاملي" / "هاملي"). */
+  function tokenHit(hay, token) {
+    if (!token) return true;
+    if (hay.indexOf(token) !== -1) return true;
+    if (token.indexOf("\u0627\u0644") === 0 && hay.indexOf(token.slice(2)) !== -1) return true;
+    if (hay.indexOf("\u0627\u0644" + token) !== -1) return true;
+    return false;
+  }
+
   function format(tpl, vars) {
     return tpl.replace(/\{(\w+)\}/g, function (m, k) { return vars[k] != null ? vars[k] : m; });
   }
@@ -165,7 +176,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261024m";
+    s.src = "data/cards.js?v=20261024p";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -181,15 +192,15 @@
   /* Rows from the full index that match the query, before emirate/category are applied. */
   function roadQueryMatches() {
     if (!ROADS) return [];
-    var tokens = state.q.toLowerCase().replace(/[^\p{L}\p{N} ]/gu, " ").split(/\s+/).filter(Boolean);
+    var tokens = norm(state.q).replace(/[^\p{L}\p{N} ]/gu, " ").split(/\s+/).filter(Boolean);
     var out = [];
     for (var i = 0; i < ROADS.rows.length; i++) {
       var r = ROADS.rows[i];
       var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
       if (state.district !== "all" && String(r[2]) !== String(state.district)) continue;
-      var hay = (r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : "")).toLowerCase();
+      var hay = norm(r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : ""));
       var ok = true;
-      for (var t = 0; t < tokens.length; t++) if (hay.indexOf(tokens[t]) === -1) { ok = false; break; }
+      for (var t = 0; t < tokens.length; t++) if (!tokenHit(hay, tokens[t])) { ok = false; break; }
       if (ok) out.push({ row: r, district: d, idx: i });
     }
     return out;
@@ -299,7 +310,7 @@
       if (state.category !== "all" && s.category !== state.category) return false;
       if (state.district !== "all" && String(storyDistrict[s.id]) !== String(state.district)) return false;
       if (!tokens.length) return true;
-      return tokens.every(function (t) { return s._index.indexOf(t) !== -1; });
+      return tokens.every(function (t) { return tokenHit(s._index, t); });
     });
   }
 

@@ -69,16 +69,23 @@
     });
   }
 
+
+  function tokenHit(hay, token) {
+    if (!token) return true;
+    if (hay.indexOf(token) !== -1) return true;
+    if (token.indexOf("\u0627\u0644") === 0 && hay.indexOf(token.slice(2)) !== -1) return true;
+    if (hay.indexOf("\u0627\u0644" + token) !== -1) return true;
+    return false;
+  }
+
   function filtered() {
     var q = norm(state.q);
     var tokens = q ? q.split(" ").filter(Boolean) : [];
     return rows.filter(function (r) {
       if (state.emirate !== "all" && (!r.district || r.district[2] !== state.emirate)) return false;
       if (state.category !== "all" && r.cat !== state.category) return false;
-      for (var i = 0; i < tokens.length; i++) {
-        var tok = tokens[i];
-        if (r.ne.indexOf(tok) === -1 && r.na.indexOf(tok) === -1 && r.nd.indexOf(tok) === -1) return false;
-      }
+      var hay = r.ne + " " + r.na + " " + r.nd;
+      for (var i = 0; i < tokens.length; i++) if (!tokenHit(hay, tokens[i])) return false;
       return true;
     });
   }
@@ -151,6 +158,14 @@
   });
 
   buildControls();
+  /* Accept ?q= and ?emirate= so a shared or linked search lands on the same rows. */
+  try {
+    var params = new URLSearchParams(location.search);
+    var q0 = params.get("q") || "";
+    var em0 = params.get("emirate") || "all";
+    if (q0) { state.q = q0; var box = document.getElementById("q"); if (box) box.value = q0; }
+    if (em0 !== "all") state.emirate = em0;
+  } catch (e) {}
   var stored = "en";
   try { stored = localStorage.getItem("roads-lang") || "en"; } catch (e) {}
   applyLang(stored);
