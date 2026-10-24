@@ -121,7 +121,9 @@ const GENERIC_FORMER = /^(\d+\s*(st|nd|rd|th)?\s*(street|road|st|rd)?|(street|ro
 const formerName = (s) => (s && !GENERIC_FORMER.test(String(s).trim()) ? s : "");
 
 const nameKey = (s) =>
-  String(s || "").toLowerCase().replace(/\b(street|road|st|rd|avenue)\b/g, " ")
+  String(s || "").toLowerCase()
+    .replace(/['\u2019\u0060]/g, "")          // Mu'alla and Mualla are one street
+    .replace(/\b(street|road|st|rd|avenue)\b/g, " ")
     .replace(/[^a-z0-9]+/g, " ").trim();
 
 /* One person, several spelling or length variants on different signs. */
