@@ -14341,12 +14341,12 @@ window.STREETS = [
   "ar": "شارع راشد بن سعيد الغيثي",
   "en": "Rashed Bin Saeed Al Ghaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ghaithi family",
+    "en": "An Emirati figure of the Al Ghaithi family",
     "ar": "شخصية إماراتية من أسرة الغيثي"
   },
   "story": {
-    "en": "The street carries the name of Rashed Bin Saeed, an Emirati figure of the Ghaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن سعيد، وهو شخصية إماراتية من أسرة الغيثي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Rashed bin Saeed Al Ghaithi, an Emirati figure of the Al Ghaithi family. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم راشد بن سعيد الغيثي، وهو شخصية إماراتية من أسرة الغيثي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -21699,18 +21699,23 @@ window.STREETS = [
   "id": "khalifa-bin-zayed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن زايد",
   "en": "Khalifa Bin Zayed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "President of the United Arab Emirates, 2004–2022",
+    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Zayed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خليفه بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
+    "ar": "سُمّي الشارع باسم الشيخ خليفة بن زايد آل نهيان (١٩٤٨–٢٠٢٢)، ثاني رؤساء دولة الإمارات، وحاكم إمارة أبوظبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خليفة بن زايد آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/خليفة_بن_زايد_آل_نهيان"
+    }
+  ]
 },
 {
   "id": "khawlah-bint-al-azwar-street",
@@ -22124,16 +22129,16 @@ window.STREETS = [
   "id": "mohamed-bin-mualla-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن معلا المرر",
   "en": "Mohamed Bin Mualla Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "An Emirati figure of the Al Marar family",
+    "ar": "شخصية إماراتية من أسرة المرر"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Bin Mualla Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن معلا المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Mohamed bin Mualla Al Marar, an Emirati figure of the Al Marar family. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم محمد بن معلا المرر، وهو شخصية إماراتية من أسرة المرر، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -23042,69 +23047,89 @@ window.STREETS = [
   "id": "sheikh-khalifa-bin-zayed-international-road",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ خليفة بن زايد الدولي",
   "en": "Sheikh Khalifa Bin Zayed International Road",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الدولي"
+    "en": "President of the United Arab Emirates, 2004–2022",
+    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Khalifa Bin Zayed International, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم طريق الشيخ خليفه بن زايد الدولي، وهو شخصية إماراتية من أسرة الدولي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
+    "ar": "سُمّي الطريق الدولي باسم الشيخ خليفة بن زايد آل نهيان (١٩٤٨–٢٠٢٢)، رئيس الدولة وحاكم أبوظبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خليفة بن زايد آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/خليفة_بن_زايد_آل_نهيان"
+    }
+  ]
 },
 {
   "id": "sheikh-khalifa-bin-zayed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ خليفة بن زايد",
   "en": "Sheikh Khalifa Bin Zayed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "President of the United Arab Emirates, 2004–2022",
+    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Khalifa Bin Zayed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ خليفه بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
+    "ar": "يحمل الشارع اسم الشيخ خليفة بن زايد آل نهيان، رئيس دولة الإمارات من ٢٠٠٤ حتى وفاته سنة ٢٠٢٢."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خليفة بن زايد آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/خليفة_بن_زايد_آل_نهيان"
+    }
+  ]
 },
 {
   "id": "sheikh-mohammed-bin-rashid-al-maktoum-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ محمد بن راشد آل مكتوم",
   "en": "Sheikh Mohammed Bin Rashid Al Maktoum Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Dubai from 2006",
+    "ar": "حاكم دبي منذ ٢٠٠٦"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Mohammed Bin Rashid Al Maktoum, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ محمد بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Mohammed bin Rashid Al Maktoum (born 1949) has ruled Dubai since 2006, and is Vice President and Prime Minister of the United Arab Emirates.",
+    "ar": "الشيخ محمد بن راشد آل مكتوم (وُلد ١٩٤٩) حاكم إمارة دبي منذ ٢٠٠٦، ونائب رئيس الدولة ورئيس مجلس الوزراء."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن راشد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/محمد_بن_راشد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-rashid-bin-saeed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ راشد بن سعيد",
   "en": "Sheikh Rashid Bin Saeed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Dubai, 1958–1990",
+    "ar": "حاكم دبي بين ١٩٥٨ و١٩٩٠"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rashid Bin Saeed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ راشد بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Rashid bin Saeed Al Maktoum (1912–1990) ruled Dubai from 1958 until his death, and was the first Vice President of the United Arab Emirates.",
+    "ar": "الشيخ راشد بن سعيد آل مكتوم (١٩١٢–١٩٩٠) حاكم دبي من ١٩٥٨ حتى وفاته، وأول نائب لرئيس دولة الإمارات."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — راشد بن سعيد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/راشد_بن_سعيد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-zayed-tunnel",
@@ -23127,18 +23152,23 @@ window.STREETS = [
   "id": "sheikha-fatima-bint-mubarak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخة فاطمة بنت مبارك",
   "en": "Sheikha Fatima bint Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Known as the Mother of the Emirates",
+    "ar": "تُلقّب بـ«أم الإمارات»"
   },
   "story": {
-    "en": "The street carries the name of Sheikha Fatima bint Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخه فاطمه بنت مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikha Fatima bint Mubarak, known as the Mother of the Emirates, is the widow of Sheikh Zayed and heads the General Women's Union.",
+    "ar": "الشيخة فاطمة بنت مبارك، المعروفة بـ«أم الإمارات»، زوجة الشيخ زايد، وترأس الاتحاد النسائي العام."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — فاطمة بنت مبارك",
+      "url": "https://ar.wikipedia.org/wiki/فاطمة_بن_مبارك_الكتبي"
+    }
+  ]
 },
 {
   "id": "sheikha-salama-bint-butti-road",
@@ -24021,18 +24051,23 @@ window.STREETS = [
   "id": "fatima-bint-mubarak-street",
   "emirate": "ajman",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فاطمة بنت مبارك",
   "en": "Fatima Bint Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Known as the Mother of the Emirates",
+    "ar": "تُلقّب بـ«أم الإمارات»"
   },
   "story": {
-    "en": "The street carries the name of Fatima Bint Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم فاطمه بنت مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikha Fatima bint Mubarak, known as the Mother of the Emirates, is the widow of Sheikh Zayed and heads the General Women's Union.",
+    "ar": "يحمل الشارع اسم الشيخة فاطمة بنت مبارك، زوجة الشيخ زايد، وتُلقّب بـ«أم الإمارات»، وترأس الاتحاد النسائي العام."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — فاطمة بنت مبارك",
+      "url": "https://ar.wikipedia.org/wiki/فاطمة_بن_مبارك_الكتبي"
+    }
+  ]
 },
 {
   "id": "husain-bin-naser-lootah-street",
@@ -24259,18 +24294,23 @@ window.STREETS = [
   "id": "sheikh-rashid-bin-saeed-al-maktoum-street",
   "emirate": "ajman",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ راشد بن سعيد آل مكتوم",
   "en": "Sheikh Rashid bin Saeed Al Maktoum Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Dubai, 1958–1990",
+    "ar": "حاكم دبي بين ١٩٥٨ و١٩٩٠"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rashid bin Saeed Al Maktoum, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ راشد بن سعيد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Rashid bin Saeed Al Maktoum (1912–1990) ruled Dubai from 1958 until his death, and was the first Vice President of the United Arab Emirates.",
+    "ar": "سُمّي الشارع باسم الشيخ راشد بن سعيد آل مكتوم (١٩١٢–١٩٩٠)، حاكم دبي من ١٩٥٨ حتى وفاته."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — راشد بن سعيد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/راشد_بن_سعيد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-rishid-bin-saeed-al-maktoum-street",
@@ -24702,18 +24742,23 @@ window.STREETS = [
   "id": "sheikh-rashed-bin-saed-road",
   "emirate": "ras-al-khaimah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ راشد بن سعيد",
   "en": "Sheikh Rashed Bin Saed Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Dubai, 1958–1990",
+    "ar": "حاكم دبي بين ١٩٥٨ و١٩٩٠"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rashed Bin Saed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ راشد بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Rashid bin Saeed Al Maktoum (1912–1990) ruled Dubai from 1958 until his death, and was the first Vice President of the United Arab Emirates.",
+    "ar": "الطريق منسوب إلى الشيخ راشد بن سعيد آل مكتوم، حاكم إمارة دبي بين ١٩٥٨ و١٩٩٠، وأول نائب لرئيس الدولة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — راشد بن سعيد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/راشد_بن_سعيد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-saqr-bin-mohammad-al-qasimi-road",
@@ -30255,52 +30300,67 @@ window.STREETS = [
   "id": "sheikh-ahmed-bin-rashid-al-mu-alla-street",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ أحمد بن راشد المعلا",
   "en": "Sheikh Ahmed Bin Rashid Al Mu'alla Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Umm Al Quwain, 1911–1981",
+    "ar": "حاكم أم القيوين بين ١٩١١ و١٩٨١"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Ahmed Bin Rashid Al Mu'alla, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ احمد بن راشد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Ahmed bin Rashid Al Mualla (1911–1981) ruled Umm Al Quwain until his death in February 1981, and is remembered as the founder of its modern development.",
+    "ar": "الشيخ أحمد بن راشد المعلا (١٩١١–١٩٨١) حاكم إمارة أم القيوين حتى وفاته في فبراير ١٩٨١، ويُعدّ مؤسس نهضتها الحديثة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أحمد بن راشد المعلا",
+      "url": "https://ar.wikipedia.org/wiki/أحمد_بن_راشد_المعلا"
+    }
+  ]
 },
 {
   "id": "sheikh-khalifa-bin-zayed-al-nahyan-street",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ خليفة بن زايد آل نهيان",
   "en": "Sheikh Khalifa Bin Zayed Al Nahyan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "President of the United Arab Emirates, 2004–2022",
+    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Khalifa Bin Zayed Al Nahyan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ خليفه بن زايد ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
+    "ar": "الشارع منسوب إلى الشيخ خليفة بن زايد آل نهيان، ثاني رؤساء الإمارات، وحاكم أبوظبي بين ٢٠٠٤ و٢٠٢٢."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خليفة بن زايد آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/خليفة_بن_زايد_آل_نهيان"
+    }
+  ]
 },
 {
   "id": "sheikh-mohammed-bin-rashid-al-maktoom-road",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ محمد بن راشد آل مكتوم",
   "en": "Sheikh Mohammed Bin Rashid Al Maktoom Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Dubai from 2006",
+    "ar": "حاكم دبي منذ ٢٠٠٦"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Mohammed Bin Rashid Al Maktoom, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ محمد بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Mohammed bin Rashid Al Maktoum (born 1949) has ruled Dubai since 2006, and is Vice President and Prime Minister of the United Arab Emirates.",
+    "ar": "سُمّي الطريق باسم الشيخ محمد بن راشد آل مكتوم (وُلد ١٩٤٩)، حاكم دبي منذ ٢٠٠٦، ونائب رئيس الدولة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن راشد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/محمد_بن_راشد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-rashid-bin-ahmed-al-mu-alla-road",
@@ -30329,33 +30389,38 @@ window.STREETS = [
   "id": "sheikh-saud-bin-rashid-al-mu-alla-street",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ سعود بن راشد المعلا",
   "en": "Sheikh Saud Bin Rashid Al Mu'alla Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Umm Al Quwain from 2009",
+    "ar": "حاكم أم القيوين منذ ٢٠٠٩"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Saud Bin Rashid Al Mu'alla, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ سعود بن راشد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Saud bin Rashid Al Mualla (born 1952) became ruler of Umm Al Quwain on 2 January 2009, after the death of his father Sheikh Rashid bin Ahmed.",
+    "ar": "الشيخ سعود بن راشد المعلا (وُلد ١٩٥٢) تولّى حكم إمارة أم القيوين في ٢ يناير ٢٠٠٩ بعد وفاة والده الشيخ راشد بن أحمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — سعود بن راشد المعلا",
+      "url": "https://ar.wikipedia.org/wiki/سعود_بن_راشد_المعلا"
+    }
+  ]
 },
 {
   "id": "sheikh-sultan-bin-ahmad-al-mualla-roundabout",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "دوار الشيخ سلطان بن أحمد المعلا",
   "en": "Sheikh Sultan Bin Ahmad Al Mualla Roundabout",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Of the family that rules Umm Al Quwain",
+    "ar": "من الأسرة الحاكمة في أم القيوين"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Sultan Bin Ahmad Al Mualla Roundabout, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم دوار الشيخ سلطان بن احمد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The roundabout is named for Sheikh Sultan bin Ahmed Al Mualla, of the Al Mualla family that has ruled Umm Al Quwain since the 19th century.",
+    "ar": "سُمّي الدوار باسم الشيخ سلطان بن أحمد المعلا، من أسرة المعلا التي تحكم أم القيوين منذ القرن التاسع عشر."
   },
   "refs": []
 },
