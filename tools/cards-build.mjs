@@ -23,6 +23,7 @@ const load = (f, g) => {
 const KB = load("data/kb.js", "KB");
 const CATS = load("data/categories.js", "STREET_CATEGORIES");
 const GLOSSES = (() => { try { return load("data/dictionary.js", "STREET_GLOSSES"); } catch { return {}; } })();
+const CURATED_SET = (() => { try { return new Set(load("data/dictionary.js", "STREET_CURATED") || []); } catch { return new Set(); } })();
 const EDITORIAL = load("data/streets.js", "STREETS");
 const LOCALITIES = (() => { try { return load("data/localities.js", "LOCALITIES"); } catch { return {}; } })();
 
@@ -31,6 +32,21 @@ const norm = (s) =>
     .replace(/[\u064B-\u0655\u0670\u0640]/g, "")
     .replace(/[أإآٱ]/g, "ا").replace(/ى/g, "ي").replace(/ة/g, "ه")
     .replace(/^ال/, "").replace(/\s+/g, " ").trim();
+
+/* Names like "ظهرة الرِّمث" carry two elements: the landform and what grows on it.
+   Glossing only the head word drops the half that identifies the place. */
+function glossOf(name, GLOSSES) {
+  const words = norm(String(name || "").replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "")).split(" ").filter(Boolean);
+  if (!words.length) return "";
+  const look = (w) => GLOSSES[w] || GLOSSES[w.replace(/^ال/, "")] || "";
+  const headGloss = look(words[0]);
+  const tail = words.length > 1 ? words[words.length - 1] : "";
+  const tailGloss = tail && tail !== words[0] && CURATED_SET.has(tail.replace(/^ال/, "")) ? look(tail) : "";
+  const headName = headGloss.split(",")[0];
+  const tailName = tailGloss.split(",")[0].split("(")[0].trim();
+  if (headGloss && tailGloss) return headName + " of " + tailName;
+  return headGloss || tailGloss || "";
+}
 
 const head = (s) =>
   norm(String(s.name_ar || "").replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "").split(" ")[0] || "");
@@ -80,7 +96,7 @@ for (const s of KB.streets) {
   const ar = s.name_ar || "";
   if (!en && !ar) continue;
   const cat = CATS[s.osm] || "word";
-  const gloss = cat === "place" || cat === "word" ? GLOSSES[head(s)] || "" : "";
+  const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, GLOSSES) : "";
   let story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
   if (!story) {
     for (const [canon, alts] of Object.entries(SYNONYMS)) {
