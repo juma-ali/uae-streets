@@ -13538,18 +13538,23 @@ window.STREETS = [
   "id": "abdullah-bin-yazeed-al-khatmi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن يزيد الخطمي",
   "en": "Abdullah Bin Yazeed Al Khatmi Street",
   "meaning": {
-    "en": "An Emirati figure of the Khatmi family",
-    "ar": "شخصية إماراتية من أسرة الخطمي"
+    "en": "A Companion of the Ansar who gave the pledge at Hudaybiyyah",
+    "ar": "صحابي من الأنصار، بايع بيعة الرضوان"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Yazeed, an Emirati figure of the Khatmi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن يزيد، وهو شخصية إماراتية من أسرة الخطمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abdullah ibn Yazid al-Khatmi was a Companion of the Ansar who gave the pledge at Hudaybiyyah at seventeen, and later governed Kufa.",
+    "ar": "عبد الله بن يزيد الخطمي صحابي من الأنصار، بايع بيعة الرضوان وله سبع عشرة سنة، وولي إمرة الكوفة، وتوفي قبل سنة ٧٠هـ."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الله بن يزيد الخطمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D9%8A%D8%B2%D9%8A%D8%AF_%D8%A7%D9%84%D8%AE%D8%B7%D9%85%D9%8A"
+    }
+  ]
 },
 {
   "id": "abdulraheem-bin-taj-al-din-al-hashemi",
@@ -13610,12 +13615,12 @@ window.STREETS = [
   "ar": "شارع الجارُود بن المُعَلَّى",
   "en": "Al Jaroud Bin Al Mu'alla Street",
   "meaning": {
-    "en": "An Emirati figure of the Mu'alla family",
-    "ar": "شخصية إماراتية من أسرة المعلي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Jaroud Bin, an Emirati figure of the Mu'alla family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الجارُود بن، وهو شخصية إماراتية من أسرة المعلي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الجارُود بن المُعَلَّى. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الجارُود بن المُعَلَّى، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -13827,18 +13832,23 @@ window.STREETS = [
   "id": "jaber-bin-abdullah-al-ansari",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جابر بن عبدالله الأنصاري",
   "en": "Jaber Bin Abdullah Al Ansari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ansari family",
-    "ar": "شخصية إماراتية من أسرة الانصاري"
+    "en": "A Companion, among the most prolific narrators of hadith",
+    "ar": "صحابي، من المكثرين من رواية الحديث"
   },
   "story": {
-    "en": "The street carries the name of Jaber Bin Abdullah, an Emirati figure of the Ansari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جابر بن عبدالله، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Jabir ibn Abdullah al-Ansari was a Companion and one of the most prolific narrators of hadith.",
+    "ar": "جابر بن عبد الله الأنصاري صحابي، وهو من المكثرين من رواية الحديث النبوي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — جابر بن عبد الله الأنصاري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A8%D8%B1_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D9%8A"
+    }
+  ]
 },
 {
   "id": "jumaa-mohamed-al-kaabi",
@@ -14052,12 +14062,12 @@ window.STREETS = [
   "ar": "شارع محمد بن أحمد الشنقيطي",
   "en": "Mohammed Bin Ahmed Al Shinqiti Street",
   "meaning": {
-    "en": "An Emirati figure of the Shinqiti family",
-    "ar": "شخصية إماراتية من أسرة الشنقيطي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ahmed, an Emirati figure of the Shinqiti family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن أحمد، وهو شخصية إماراتية من أسرة الشنقيطي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن أحمد الشنقيطي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن أحمد الشنقيطي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14086,12 +14096,12 @@ window.STREETS = [
   "ar": "شارع محمد بن خليفة الكندي",
   "en": "Mohammed Bin Khalifa Al Kindi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kindi family",
-    "ar": "شخصية إماراتية من أسرة الكندي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Khalifa, an Emirati figure of the Kindi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن خليفة، وهو شخصية إماراتية من أسرة الكندي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن خليفة الكندي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن خليفة الكندي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14137,12 +14147,12 @@ window.STREETS = [
   "ar": "شارع محمد بن سباع الكندي",
   "en": "Mohammed Bin Sabaa Al Kindi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kindi family",
-    "ar": "شخصية إماراتية من أسرة الكندي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Sabaa, an Emirati figure of the Kindi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن سباع، وهو شخصية إماراتية من أسرة الكندي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن سباع الكندي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن سباع الكندي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14307,12 +14317,12 @@ window.STREETS = [
   "ar": "شارع عمر السالك الشنقيطي",
   "en": "Omer Alsalek Al Shinqiti Street",
   "meaning": {
-    "en": "An Emirati figure of the Shinqiti family",
-    "ar": "شخصية إماراتية من أسرة الشنقيطي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omer Alsalek, an Emirati figure of the Shinqiti family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عمر السالك، وهو شخصية إماراتية من أسرة الشنقيطي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمر السالك الشنقيطي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمر السالك الشنقيطي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14749,12 +14759,12 @@ window.STREETS = [
   "ar": "شارع أبي أيوب الأنصاري",
   "en": "Abi Ayoub Al Ansari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ansari family",
-    "ar": "شخصية إماراتية من أسرة الانصاري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Ayoub, an Emirati figure of the Ansari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي أيوب، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي أيوب الأنصاري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي أيوب الأنصاري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14953,12 +14963,12 @@ window.STREETS = [
   "ar": "شارع أبي يوسف الكوفي",
   "en": "Abi Yousef Al Kofi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kofi family",
-    "ar": "شخصية إماراتية من أسرة الكوفي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Yousef, an Emirati figure of the Kofi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي يوسف، وهو شخصية إماراتية من أسرة الكوفي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي يوسف الكوفي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي يوسف الكوفي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14987,12 +14997,12 @@ window.STREETS = [
   "ar": "شارع الحارث بن الطائي",
   "en": "Al Harth Bin Al Ta'i Street",
   "meaning": {
-    "en": "An Emirati figure of the Ta'i family",
-    "ar": "شخصية إماراتية من أسرة الطائي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Harth Bin, an Emirati figure of the Ta'i family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الحارث بن، وهو شخصية إماراتية من أسرة الطائي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارث بن الطائي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارث بن الطائي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15072,12 +15082,12 @@ window.STREETS = [
   "ar": "شارع محمد بن سلامة الأنصاري",
   "en": "Mohammed Bin Salamah Al Ansari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ansari family",
-    "ar": "شخصية إماراتية من أسرة الانصاري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Salamah, an Emirati figure of the Ansari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن سلامة، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن سلامة الأنصاري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن سلامة الأنصاري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15089,12 +15099,12 @@ window.STREETS = [
   "ar": "شارع محمد بن طارق المكي",
   "en": "Mohammed Bin Tariq Al Maki Street",
   "meaning": {
-    "en": "An Emirati figure of the Maki family",
-    "ar": "شخصية إماراتية من أسرة المكي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Tariq, an Emirati figure of the Maki family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن طارق، وهو شخصية إماراتية من أسرة المكي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن طارق المكي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن طارق المكي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19202,12 +19212,12 @@ window.STREETS = [
   "ar": "شارع أبو قَتادة الأنصارِي",
   "en": "Abu Qatadah Al Ansari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ansari family",
-    "ar": "شخصية إماراتية من أسرة الانصاري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Qatadah, an Emirati figure of the Ansari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابو قتاده الانصاري، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو قَتادة الأنصارِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو قَتادة الأنصارِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19735,18 +19745,23 @@ window.STREETS = [
   "id": "al-termidhy-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع التِّرمِذِي",
   "en": "Al Termidhy Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Compiler of one of the six canonical hadith collections",
+    "ar": "صاحب سنن الترمذي، أحد الكتب الستة"
   },
   "story": {
-    "en": "The street carries the name of التِّرمِذِي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم التِّرمِذِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Tirmidhi (824–892) was a hadith scholar born in Termez, who travelled through Khurasan, Iraq and the Hijaz in search of hadith and compiled the Sunan, one of the six canonical collections.",
+    "ar": "الترمذي (٢٠٩–٢٧٩هـ / ٨٢٤–٨٩٢م) حافظ للحديث، وُلد في ترمذ، ورحل إلى خراسان والعراق والحجاز في طلب الحديث، وصنّف الجامع المعروف بسنن الترمذي، أحد الكتب الستة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو عيسى محمد الترمذي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%B9%D9%8A%D8%B3%D9%89_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D8%AA%D8%B1%D9%85%D8%B0%D9%8A"
+    }
+  ]
 },
 {
   "id": "al-thabit-street",
@@ -19875,12 +19890,12 @@ window.STREETS = [
   "ar": "شارع أنيس الأنصارِي",
   "en": "Anis Al Ansari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ansari family",
-    "ar": "شخصية إماراتية من أسرة الانصاري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Anis, an Emirati figure of the Ansari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم انيس الانصاري، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أنيس الأنصارِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أنيس الأنصارِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27088,12 +27103,12 @@ window.STREETS = [
   "ar": "شارع حسين الكندي",
   "en": "Hussain Al Kandi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kandi family",
-    "ar": "شخصية إماراتية من أسرة الكندي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hussain, an Emirati figure of the Kandi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حسين الكندي، وهو شخصية إماراتية من أسرة الكندي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حسين الكندي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حسين الكندي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27326,12 +27341,12 @@ window.STREETS = [
   "ar": "شارع إبراهيم البغدادي",
   "en": "Ibrahim Al Baghdadu Street",
   "meaning": {
-    "en": "An Emirati figure of the Baghdadu family",
-    "ar": "شخصية إماراتية من أسرة البغدادي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibrahim, an Emirati figure of the Baghdadu family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابراهيم البغدادي، وهو شخصية إماراتية من أسرة البغدادي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of إبراهيم البغدادي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم إبراهيم البغدادي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28624,12 +28639,12 @@ window.STREETS = [
   "ar": "شارع قتادة البصري",
   "en": "Qotadah Al Basri Street",
   "meaning": {
-    "en": "An Emirati figure of the Basri family",
-    "ar": "شخصية إماراتية من أسرة البصري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qotadah, an Emirati figure of the Basri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم قتاده البصري، وهو شخصية إماراتية من أسرة البصري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قتادة البصري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قتادة البصري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
