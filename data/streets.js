@@ -24296,18 +24296,23 @@ window.STREETS = [
   "id": "sheikh-humaid-bin-rashid-bridge",
   "emirate": "ajman",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "جسر الشيخ حميد بن راشد",
   "en": "Sheikh Humaid bin Rashid Bridge",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "Ruler of Ajman since 1981",
+    "ar": "حاكم عجمان منذ ١٩٨١"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Humaid bin Rashid Bridge, a person of the early Islamic period. No published biography was found.",
-    "ar": "سُمّي الجسر باسم الشيخ حميد بن راشد، من الأسرة الحاكمة في رأس الخيمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "The bridge is named for Sheikh Humaid bin Rashid Al Nuaimi (born 1931), ruler of Ajman since 6 September 1981.",
+    "ar": "سُمّي الجسر باسم الشيخ حميد بن راشد النعيمي (وُلد ١٩٣١)، حاكم إمارة عجمان منذ ٦ سبتمبر ١٩٨١."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — حميد بن راشد النعيمي",
+      "url": "https://ar.wikipedia.org/wiki/حميد_الثالث_بن_راشد_النعيمي"
+    }
+  ]
 },
 {
   "id": "sheikh-maktoum-bin-rashid-al-maktoom-street",
@@ -24491,18 +24496,23 @@ window.STREETS = [
   "id": "sheikh-mohammed-bin-rashid-boulevard",
   "emirate": "dubai",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ محمد بن راشد",
   "en": "Sheikh Mohammed bin Rashid Boulevard",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "Ruler of Dubai since 2006",
+    "ar": "حاكم دبي منذ ٢٠٠٦"
   },
   "story": {
-    "en": "The street is named for Mohammed bin Rashid Boulevard, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الشارع باسم محمد بن راشد، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "The boulevard is named for Sheikh Mohammed bin Rashid Al Maktoum (born 1949), ruler of Dubai since 2006 and Vice President and Prime Minister of the Emirates.",
+    "ar": "سُمّي البوليفار باسم الشيخ محمد بن راشد آل مكتوم (وُلد ١٩٤٩)، حاكم إمارة دبي منذ ٢٠٠٦، ونائب رئيس الدولة ورئيس مجلس الوزراء."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن راشد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/محمد_بن_راشد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-rashid-road",
