@@ -24268,18 +24268,24 @@ window.STREETS = [
   "id": "jamal-abdul-naser-road",
   "emirate": "fujairah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمال عبد الناصر",
   "en": "Jamal Abdul Naser Road",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "Named for the president of Egypt (1956–1970)",
+    "ar": "سُمّي باسم رئيس مصر بين ١٩٥٦ و١٩٧٠"
   },
   "story": {
-    "en": "The street carries the name of Jamal Abdul Naser, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم جمال عبد الناصر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The road is named for Gamal Abdel Nasser (1918–1970), president of Egypt from 1956 until 1970. It is one of several streets in the Emirates that carry his name.",
+    "ar": "سُمّي الطريق باسم جمال عبد الناصر (١٩١٨–١٩٧٠)، رئيس مصر بين ١٩٥٦ و١٩٧٠، وهو واحد من شوارع عدة في الإمارات تحمل اسمه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — جمال عبد الناصر",
+      "url": "https://ar.wikipedia.org/wiki/جمال_عبد_الناصر"
+    }
+  ],
+  "translit": "Ṭarīq Jamāl ʿAbd al-Nāṣir"
 },
 {
   "id": "mohammad-bin-matar-road",
@@ -30280,6 +30286,29 @@ window.STREETS = [
     {
       "label": "Wikipedia — المتنبي",
       "url": "https://ar.wikipedia.org/wiki/المتنبي"
+    }
+  ]
+},
+{
+  "id": "jamal-abdul-naser-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جمال عبد الناصر",
+  "en": "Jamal Abdul Naser Street",
+  "translit": "Shāriʿ Jamāl ʿAbd al-Nāṣir",
+  "meaning": {
+    "en": "President of Egypt, 1956–1970",
+    "ar": "رئيس جمهورية مصر بين ١٩٥٦ و١٩٧٠"
+  },
+  "story": {
+    "en": "Gamal Abdel Nasser (1918–1970) was the second president of Egypt, from 1956 until his death in 1970. Streets in several Arab cities carry his name.",
+    "ar": "جمال عبد الناصر (١٩١٨–١٩٧٠) ثاني رؤساء جمهورية مصر، تولّى المنصب سنة ١٩٥٦ حتى وفاته سنة ١٩٧٠، وتحمل شوارع في مدن عربية عدة اسمه."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جمال عبد الناصر",
+      "url": "https://ar.wikipedia.org/wiki/جمال_عبد_الناصر"
     }
   ]
 }
