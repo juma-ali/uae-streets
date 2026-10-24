@@ -170,7 +170,7 @@
     return d !== 0 ? d : a.en.localeCompare(b.en);
   });
 
-  var state = { lang: "en", q: "", emirate: "all", category: "all", district: "all", showRoads: false, limit: 24 };
+  var state = { lang: "en", q: "", emirate: "all", region: "all", category: "all", district: "all", showRoads: false, limit: 24 };
   var storyDistrict = {};
   var results = [];
   var lastRoads = [];
@@ -186,7 +186,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261025r";
+    s.src = "data/cards.js?v=20261025t";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -208,6 +208,7 @@
       var r = ROADS.rows[i];
       var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
       if (state.district !== "all" && String(r[2]) !== String(state.district)) continue;
+      if (state.region !== "all" && String(r[8]) !== String(state.region)) continue;
       var hay = norm(r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : ""));
       var ok = true;
       for (var t = 0; t < tokens.length; t++) if (!tokenHit(hay, tokens[t])) { ok = false; break; }
@@ -325,6 +326,22 @@
   }
 
   /* ---------- render: chips ---------- */
+
+  /* The Area row only makes sense once an emirate is chosen: it lists that
+     emirate's areas (Abu Dhabi city / Al Ain / Al Dhafra …). */
+  function syncRegionRow() {
+    var row = $("#region-row");
+    if (!row) return;
+    var em = state.emirate;
+    row.hidden = em === "all";
+    var chips = row.querySelectorAll(".chip");
+    for (var i = 0; i < chips.length; i++) {
+      var c = chips[i];
+      c.hidden = c.getAttribute("data-emirate") !== em;
+      c.setAttribute("aria-pressed", String(state.region === c.getAttribute("data-region")));
+    }
+  }
+
   function buildChips() {
     var emWrap = $("#emirate-chips");
     var catWrap = $("#category-chips");
@@ -504,6 +521,7 @@
   }
 
   function renderChrome() {
+    syncRegionRow();
     var n = results.length;
     var total = STREETS.length;
     var isFiltered = !!(state.q || state.emirate !== "all" || state.category !== "all");
@@ -546,6 +564,16 @@
 
     var reset = $("#reset");
     if (reset) reset.hidden = !isFiltered;
+
+    /* "Show more cards" was rendered but never wired: give it a handler. */
+    var moreBtnCtl = $("#cards-more");
+    if (moreBtnCtl) {
+      moreBtnCtl.addEventListener("click", function () {
+        state.limit = (state.limit || PAGE) + PAGE;
+        state.roadsShown = (state.roadsShown || ROAD_PAGE) + ROAD_PAGE;
+        update(false);
+      });
+    }
 
     var shuffleBtn = $("#shuffle");
     if (shuffleBtn) shuffleBtn.disabled = results.length === 0;
@@ -808,7 +836,7 @@
       });
     }
 
-    ["#emirate-chips", "#category-chips", "#district-chips"].forEach(function (sel) {
+    ["#emirate-chips", "#category-chips", "#district-chips", "#region-chips"].forEach(function (sel) {
       var wrap = $(sel);
       if (!wrap) return;
       wrap.addEventListener("click", function (e) {
@@ -816,7 +844,8 @@
         if (!chip) return;
         var group = chip.getAttribute("data-group");
         var value = chip.getAttribute("data-value");
-        if (group === "emirate") { state.emirate = value; state.district = "all"; }
+        if (sel === "#region-chips") { state.region = chip.getAttribute("data-region"); state.district = "all"; state.limit = PAGE; if (!ROADS) loadRoads(function () { update(true); }); else update(true); return; }
+        if (group === "emirate") { state.emirate = value; state.region = "all"; state.district = "all"; }
         if (group === "category") state.category = value;
         if (group === "district") state.district = value;
         state.limit = PAGE;

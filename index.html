@@ -22,7 +22,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/styles.css?v=20261025r">
+<link rel="stylesheet" href="assets/css/styles.css?v=20261025t">
 </head>
 <body>
 <a class="skip-link" href="#streets" data-en="Skip to the streets" data-ar="تخطَّ إلى الشوارع">Skip to the streets</a>
@@ -121,6 +121,68 @@
         <span class="filter-row__label" data-en="Emirate" data-ar="الإمارة">Emirate</span>
         <div class="chips" id="emirate-chips" role="group" aria-label="Filter by emirate"></div>
       </div>
+            <div class="filter-row" id="region-row" hidden>
+        <span class="filter-row__label" data-en="Area" data-ar="المنطقة">Area</span>
+        <div class="chips" id="region-chips">
+        <button type="button" class="chip chip--sub" data-region="0" data-emirate="abu-dhabi" aria-pressed="false">
+          <span class="chip__label" data-en="Abu Dhabi city" data-ar="مدينة أبوظبي">Abu Dhabi city</span><span class="chip__count">4735</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="1" data-emirate="abu-dhabi" aria-pressed="false">
+          <span class="chip__label" data-en="Al Ain" data-ar="العين">Al Ain</span><span class="chip__count">3630</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="2" data-emirate="abu-dhabi" aria-pressed="false">
+          <span class="chip__label" data-en="Al Dhafra Region" data-ar="منطقة الظفرة">Al Dhafra Region</span><span class="chip__count">596</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="3" data-emirate="dubai" aria-pressed="false">
+          <span class="chip__label" data-en="Dubai city" data-ar="مدينة دبي">Dubai city</span><span class="chip__count">896</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="4" data-emirate="dubai" aria-pressed="false">
+          <span class="chip__label" data-en="Hatta" data-ar="حتا">Hatta</span><span class="chip__count">5</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="5" data-emirate="sharjah" aria-pressed="false">
+          <span class="chip__label" data-en="Sharjah city" data-ar="مدينة الشارقة">Sharjah city</span><span class="chip__count">655</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="6" data-emirate="sharjah" aria-pressed="false">
+          <span class="chip__label" data-en="Al Dhaid" data-ar="الذيد">Al Dhaid</span><span class="chip__count">24</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="7" data-emirate="sharjah" aria-pressed="false">
+          <span class="chip__label" data-en="Khor Fakkan" data-ar="خورفكان">Khor Fakkan</span><span class="chip__count">34</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="8" data-emirate="sharjah" aria-pressed="false">
+          <span class="chip__label" data-en="Kalba" data-ar="كلباء">Kalba</span><span class="chip__count">142</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="9" data-emirate="sharjah" aria-pressed="false">
+          <span class="chip__label" data-en="Dibba Al Hisn" data-ar="دبا الحصن">Dibba Al Hisn</span><span class="chip__count">4</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="10" data-emirate="sharjah" aria-pressed="false">
+          <span class="chip__label" data-en="Mleiha" data-ar="مليحة">Mleiha</span><span class="chip__count">10</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="11" data-emirate="ajman" aria-pressed="false">
+          <span class="chip__label" data-en="Ajman city" data-ar="مدينة عجمان">Ajman city</span><span class="chip__count">108</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="12" data-emirate="ajman" aria-pressed="false">
+          <span class="chip__label" data-en="Manama" data-ar="المنامة">Manama</span><span class="chip__count">1</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="14" data-emirate="umm-al-quwain" aria-pressed="false">
+          <span class="chip__label" data-en="Umm Al Quwain city" data-ar="مدينة أم القيوين">Umm Al Quwain city</span><span class="chip__count">451</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="15" data-emirate="umm-al-quwain" aria-pressed="false">
+          <span class="chip__label" data-en="Falaj Al Mualla" data-ar="فلج المعلا">Falaj Al Mualla</span><span class="chip__count">8</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="16" data-emirate="ras-al-khaimah" aria-pressed="false">
+          <span class="chip__label" data-en="Ras Al Khaimah city" data-ar="مدينة رأس الخيمة">Ras Al Khaimah city</span><span class="chip__count">83</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="17" data-emirate="ras-al-khaimah" aria-pressed="false">
+          <span class="chip__label" data-en="Al Rams" data-ar="الرمس">Al Rams</span><span class="chip__count">7</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="18" data-emirate="fujairah" aria-pressed="false">
+          <span class="chip__label" data-en="Fujairah city" data-ar="مدينة الفجيرة">Fujairah city</span><span class="chip__count">50</span>
+        </button>
+        <button type="button" class="chip chip--sub" data-region="19" data-emirate="fujairah" aria-pressed="false">
+          <span class="chip__label" data-en="Dibba Al Fujairah" data-ar="دبا الفجيرة">Dibba Al Fujairah</span><span class="chip__count">28</span>
+        </button>
+        </div>
+      </div>
       <div class="filter-row" id="district-row" hidden>
         <span class="filter-row__label" data-en="District" data-ar="الحي">District</span>
         <div class="chips" id="district-chips" role="group" aria-label="Filter by district"></div>
@@ -129,6 +191,7 @@
         <span class="filter-row__label" data-en="Named after" data-ar="الاسم مأخوذ من">Named after</span>
         <div class="chips" id="category-chips" role="group" aria-label="Filter by naming pattern"></div>
       </div>
+
     </div>
   </section>
 
@@ -304,7 +367,7 @@
   <div class="sheet__body" id="sheet-body"></div>
 </dialog>
 
-<script src="data/streets.js?v=20261025r"></script>
-<script src="assets/js/app.js?v=20261025r"></script>
+<script src="data/streets.js?v=20261025t"></script>
+<script src="assets/js/app.js?v=20261025t"></script>
 </body>
 </html>

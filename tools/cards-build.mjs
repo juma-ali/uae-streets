@@ -29,6 +29,46 @@ const ALL_GLOSSES = Object.assign({}, GLOSSES_EXTRA, GLOSSES);
 const EDITORIAL = load("data/streets.js", "STREETS");
 const LOCALITIES = (() => { try { return load("data/localities.js", "LOCALITIES"); } catch { return {}; } })();
 
+
+/* Sub-regions: the areas people name when they say where they are. Assigning by
+   nearest centre keeps the directory's own vocabulary out of it. */
+const REGIONS = [
+  ["abu-dhabi","Abu Dhabi city","مدينة أبوظبي",24.4539,54.3773],
+  ["abu-dhabi","Al Ain","العين",24.2075,55.7447],
+  ["abu-dhabi","Al Dhafra Region","منطقة الظفرة",23.6489,53.7050],
+  ["dubai","Dubai city","مدينة دبي",25.2048,55.2708],
+  ["dubai","Hatta","حتا",24.8000,56.1167],
+  ["sharjah","Sharjah city","مدينة الشارقة",25.3463,55.4209],
+  ["sharjah","Al Dhaid","الذيد",25.2833,55.8833],
+  ["sharjah","Khor Fakkan","خورفكان",25.3392,56.3571],
+  ["sharjah","Kalba","كلباء",25.0167,56.3667],
+  ["sharjah","Dibba Al Hisn","دبا الحصن",25.6167,56.2667],
+  ["sharjah","Mleiha","مليحة",25.1167,55.8667],
+  ["ajman","Ajman city","مدينة عجمان",25.4052,55.5136],
+  ["ajman","Manama","المنامة",25.3167,56.0333],
+  ["ajman","Masfout","مصفوت",24.9333,56.0500],
+  ["umm-al-quwain","Umm Al Quwain city","مدينة أم القيوين",25.5647,55.5552],
+  ["umm-al-quwain","Falaj Al Mualla","فلج المعلا",25.3667,55.8667],
+  ["ras-al-khaimah","Ras Al Khaimah city","مدينة رأس الخيمة",25.7895,55.9432],
+  ["ras-al-khaimah","Al Rams","الرمس",25.8833,55.9833],
+  ["fujairah","Fujairah city","مدينة الفجيرة",25.1288,56.3265],
+  ["fujairah","Dibba Al Fujairah","دبا الفجيرة",25.5833,56.2833]
+];
+const regionOf = (s) => {
+  if (typeof s.lat !== "number" || typeof s.lon !== "number") return -1;
+  let best = -1, bd = Infinity;
+  for (let i = 0; i < REGIONS.length; i++) {
+    const r = REGIONS[i];
+    if (r[0] !== s.emirate) continue;
+    const p1 = s.lat * Math.PI / 180, p2 = r[3] * Math.PI / 180;
+    const dp = (r[3] - s.lat) * Math.PI / 180, dl = (r[4] - s.lon) * Math.PI / 180;
+    const x = Math.sin(dp / 2) ** 2 + Math.cos(p1) * Math.cos(p2) * Math.sin(dl / 2) ** 2;
+    const d = 2 * 6371 * Math.asin(Math.sqrt(x));
+    if (d < bd) { bd = d; best = i; }
+  }
+  return best;
+};
+
 const norm = (s) =>
   String(s || "")
     .replace(/[\u064B-\u0655\u0670\u0640]/g, "")
@@ -94,12 +134,31 @@ const districtFor = (areaId, emirate, osm) => {
   return districts.length - 1;
 };
 
+
+/* OSM sometimes carries a label rather than a name ("Connections", "Service Road").
+   A card that says only that is noise, so it stays out of the index. */
+const NOT_A_NAME = /^(service road|service|connection|connections|connector|coast road|free short\w*|track|unnamed.*|road|street|way|path|bike path|footpath|pedestrian.*|parking|roundabout|junction|bridge|tunnel|exit|entry|main street|new street|local road|access road|internal road|link road)\s*\d*$/i;
+
+
+/* Some person streets arrive from OSM tagged as something else (typically the
+   "named after a word" bucket). These are people, so they get the person card. */
+const PERSON_NAMES = new Set([
+  "ابو ادريس الخولاني","ابو ايوب الانصاري","ابو بكر الصديق","ابو بكر الرازي",
+  "ابو الدرداء الانصاري","ابو ذر الغفاري","ابو سعيد الخدري","ابو طلحه",
+  "ابو العلاء المعري","ابو عمرو الشيباني","ابو فراس الحمداني","ابو قتاده الانصاري",
+  "ابو مالك الاشعري","ابو محجن الثقافي","ابو موسي الاشعري","ابو هريره",
+  "ابو حنيفه النعمان","ابو الاسود الدؤلي","ابو البختري الطائي","ابو اسحاق السبيعي",
+  "ابو حميد الساعدي","ابو بكر بن عياش","ابو بكر بن المنكدر",
+]);
+
 const rows = [];
 for (const s of KB.streets) {
   const en = s.name_en || "";
   const ar = s.name_ar || "";
   if (!en && !ar) continue;
-  const cat = CATS[s.osm] || "word";
+  if (NOT_A_NAME.test(String(en).trim())) continue;
+  let cat = CATS[s.osm] || "word";
+  if (PERSON_NAMES.has(norm(String(ar).replace(/^(شارع|طريق|جادة)\s+/, "")))) cat = "person";
   const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, ALL_GLOSSES) : "";
   let story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
   if (!story) {
@@ -116,6 +175,7 @@ for (const s of KB.streets) {
     formerName(s.old_name_en),
     gloss,
     story,
+    regionOf(s),
   ]);
 }
 
@@ -130,6 +190,7 @@ const payload = {
     fujairah: ["Fujairah", "الفجيرة"],
   },
   districts,
+  regions: REGIONS.map((r) => [r[1], r[2], r[0]]),
   rows,
 };
 
