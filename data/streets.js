@@ -732,16 +732,16 @@ window.STREETS = [
   "translit": "Shāriʿ ʿUmar bin al-Khaṭṭāb",
   "meaning": {
     "en": "The second caliph",
-    "ar": "الخليفة الثاني"
+    "ar": "ثاني الخلفاء"
   },
   "story": {
-    "en": "Umar ibn al-Khattab (d. 23 AH / 644 CE) was the second caliph. In his ten years the state expanded into Syria, Egypt and Persia, and he established the Hijri calendar.",
-    "ar": "عمر بن الخطاب (ت ٢٣هـ/٦٤٤م) الخليفة الثاني، وفي عهده امتدت الدولة إلى الشام ومصر وفارس، وهو أول من وضع التقويم الهجري."
+    "en": "Umar ibn al-Khattab (d. 23 AH / 644 CE) was the second caliph, and the conquests of Syria, Egypt and Iraq took place in his time.",
+    "ar": "عمر بن الخطاب (ت ٢٣هـ / ٦٤٤م) ثاني الخلفاء، وفي عهده كانت فتوح الشام ومصر والعراق."
   },
   "refs": [
     {
       "label": "Wikipedia — عمر بن الخطاب",
-      "url": "https://ar.wikipedia.org/wiki/عمر_بن_الخطاب"
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8"
     }
   ]
 },
@@ -801,16 +801,16 @@ window.STREETS = [
   "translit": "Shāriʿ Khālid bin al-Walīd",
   "meaning": {
     "en": "A commander of the early conquests",
-    "ar": "قائد من قادة الفتوح الأولى"
+    "ar": "قائد من قادة الفتوح"
   },
   "story": {
-    "en": "Khalid ibn al-Walid (d. 21 AH / 642 CE) was a commander known as the Sword of God. He led the armies of the Ridda wars and of the conquest of Syria.",
-    "ar": "خالد بن الوليد (ت ٢١هـ/٦٤٢م) قائد عُرف بسيف الله المسلول، قاد جيوش حروب الردة وفتح الشام."
+    "en": "Khalid ibn al-Walid (d. 21 AH / 642 CE) was a commander of the early conquests, known as the Sword of God.",
+    "ar": "خالد بن الوليد (ت ٢١هـ / ٦٤٢م) قائد من قادة الفتوح، ويُلقّب بسيف الله المسلول."
   },
   "refs": [
     {
       "label": "Wikipedia — خالد بن الوليد",
-      "url": "https://ar.wikipedia.org/wiki/خالد_بن_الوليد"
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D9%88%D9%84%D9%8A%D8%AF"
     }
   ]
 },
@@ -17143,17 +17143,17 @@ window.STREETS = [
   "ar": "شارع أبو بكر الصديق",
   "en": "Abu Bakr Al Siddiq Street",
   "meaning": {
-    "en": "1st Rashidun Caliph and father-in-law of Muhammad",
-    "ar": "أوَّل الخُلفاء الرَّاشدين (حكم 11 – 13هـ / 632 – 634م)"
+    "en": "The first caliph",
+    "ar": "أول الخلفاء"
   },
   "story": {
-    "en": "Abu Bakr (573–634) was a 1st rashidun caliph and father-in-law of muhammad.",
-    "ar": "أبُو بَكْرٍ الصِّدِّيقُ عَبْدُ اللَّهِ بنُ أبي قُحَافةَ عُثْمانَ بنِ عامِرِ بنِ عَمْرِو بنِ كَعْب."
+    "en": "Abu Bakr al-Siddiq (573–634), Abdullah ibn Abi Quhafa, was the first caliph and the Prophet's companion in the migration to Medina.",
+    "ar": "أبو بكر الصديق عبد الله بن أبي قحافة (ت ١٣هـ / ٦٣٤م) أول الخلفاء، ورفيق النبي في الهجرة، وقد ورد نسبه كاملاً في كتب الأنساب."
   },
   "refs": [
     {
       "label": "Wikipedia — أبو بكر الصديق",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82"
+      "url": "https://ar.wikipedia.org/wiki/أبو_بكر_الصديق"
     }
   ]
 },
@@ -19128,18 +19128,23 @@ window.STREETS = [
   "id": "abu-bakr-bin-al-munkadir-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو بَكر بن المُنكَدِر",
   "en": "Abu Bakr Bin Al Munkadir Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Tabi'i and ascetic of Medina",
+    "ar": "تابعي وزاهد من أهل المدينة"
   },
   "story": {
-    "en": "The street carries the name of أبو بَكر بن المُنكَدِر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبو بَكر بن المُنكَدِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abu Bakr ibn al-Munkadir (d. 130 AH) was a Tabi'i of Medina, remembered as one of its ascetics and narrators of hadith.",
+    "ar": "أبو بكر بن المنكدر (ت ١٣٠هـ) تابعي مدني، من زهّاد المدينة ورواة الحديث."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو بكر بن المنكدر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%AF%D8%B1"
+    }
+  ]
 },
 {
   "id": "abu-bakr-bin-ayach-street",
@@ -26869,18 +26874,23 @@ window.STREETS = [
   "id": "fatimah-bint-asad-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فاطمة بنت أسد",
   "en": "Fatimah Bint Asad Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The mother of Ali ibn Abi Talib",
+    "ar": "أم علي بن أبي طالب"
   },
   "story": {
-    "en": "The street carries the name of فاطمة بنت أسد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم فاطمة بنت أسد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Fatima bint Asad was the mother of Ali ibn Abi Talib and raised the Prophet Muhammad in her household after his grandfather's death.",
+    "ar": "فاطمة بنت أسد أم علي بن أبي طالب، وكفلت النبي محمداً في بيتها بعد وفاة جده."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — فاطمة بنت أسد",
+      "url": "https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D8%B7%D9%85%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A3%D8%B3%D8%AF"
+    }
+  ]
 },
 {
   "id": "habar-al-aswad-street",
