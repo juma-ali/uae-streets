@@ -65,6 +65,12 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "عراقيب": "sand dunes",
+  "رمث": "rimth, a perennial desert shrub (Haloxylon salicornicum)",
+  "رمثة": "a stand of rimth shrub",
+  "جفره": "hollow, pit",
+  "رقاع": "flat patches, thin ground",
+  "ظهرة": "ridge, back",
   "بدع": "water source, well (in Liwa place names)",
   "عقبات": "mountain passes",
   "عقاب": "mountain pass, steep ascent",

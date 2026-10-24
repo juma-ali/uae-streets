@@ -13326,5 +13326,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/%D8%AE%D9%84%D9%8A%D9%81%D8%A9_%D8%A8%D9%86_%D8%B4%D8%AE%D8%A8%D9%88%D8%B7_%D8%A8%D9%86_%D8%B0%D9%8A%D8%A7%D8%A8_%D8%A2%D9%84_%D9%86%D9%87%D9%8A%D8%A7%D9%86"
     }
   ]
+},
+{
+  "id": "araqeeb-ar-rimth-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "documented",
+  "ar": "شارع عَراقِيب الرِّمث",
+  "en": "'Araqeeb Ar Rimth Street",
+  "translit": "Shāriʿ ʿArāqīb ar-Rimth",
+  "meaning": {
+    "en": "The rimth dunes — dunes where the rimth shrub grows",
+    "ar": "كثبان رملية ينبت فيها الرِّمث"
+  },
+  "story": {
+    "en": "Two elements: ʿarāqīb, sand dunes, and al-rimth, a genus of perennial desert shrubs of the family Amaranthaceae that grows across western and central Asia.",
+    "ar": "اسم من عنصرين: «عراقيب» أي الكثبان الرملية، و«الرِّمث» جنس نباتي معمر من الفصيلة القطيفية ينتشر في غرب آسيا ووسطها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — رمث",
+      "url": "https://ar.wikipedia.org/wiki/رمث"
+    }
+  ]
 }
 ];
