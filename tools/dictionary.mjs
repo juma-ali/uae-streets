@@ -65,6 +65,13 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* Place senses that beat the dictionary homograph (a street called حلب is
+     Aleppo, not "fresh milk"). */
+  "قدس": "Jerusalem (al-Quds)",
+  "رباط": "Rabat, the capital of Morocco",
+  "حلب": "Aleppo",
+  "الجزائر": "Algiers; also Algeria",
+  "المدينه": "Medina, the city in Saudi Arabia; also 'the city'",
   /* Cities, battlefields, districts and common words found in the unglossed tail. */
   "دمشق": "Damascus",
   "حطين": "the battle of Hattin (1187)",

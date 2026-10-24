@@ -15925,5 +15925,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%BA%D9%86%D9%8A_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3%D9%8A"
     }
   ]
+},
+{
+  "id": "abha-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "documented",
+  "ar": "شارع أبها",
+  "en": "Abha Street",
+  "translit": "Shāriʿ Abhā",
+  "meaning": {
+    "en": "Abha, a city in south-western Saudi Arabia",
+    "ar": "أبها، مدينة في جنوب غرب السعودية"
+  },
+  "story": {
+    "en": "Abha is the capital of Asir province in south-western Saudi Arabia, in the highlands of the Hijaz. Several streets in the Emirates carry the names of Arab cities.",
+    "ar": "أبها مدينة سعودية وعاصمة منطقة عسير في جنوب غرب السعودية، على جبال الحجاز. وتحمل شوارع في الدولة أسماء مدن عربية وعالمية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبها",
+      "url": "https://ar.wikipedia.org/wiki/أبها"
+    }
+  ]
 }
 ];

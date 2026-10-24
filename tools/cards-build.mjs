@@ -215,6 +215,59 @@ const AR_OVERRIDES = new Map([
   ["abi al adarham al zamani street", "شارع أبي الأدرهم الزماني"],
 ]);
 
+
+/* Names that are places elsewhere: a street called القاهرة is named for Cairo. */
+const PLACE_NAMES = new Set([
+  "دمشق",
+  "بغداد",
+  "بيروت",
+  "قاهره",
+  "رياض",
+  "مكه",
+  "مدينه",
+  "قدس",
+  "عمان",
+  "تونس",
+  "جزائر",
+  "رباط",
+  "طرابلس",
+  "خرطوم",
+  "صنعاء",
+  "مسقط",
+  "كويت",
+  "دوحه",
+  "منامه",
+  "حلب",
+  "حمص",
+  "بصره",
+  "موصل",
+  "كربلاء",
+  "نجف",
+  "غزه",
+  "نابلس",
+  "خليل",
+  "اريحا",
+  "بخاري",
+  "سمرقند",
+  "اصفهان",
+  "شيراز",
+  "استانبول",
+  "انقره",
+  "طهران",
+  "باريز",
+  "لندن",
+  "روما",
+  "مدريد",
+  "برلين",
+  "فيينا",
+  "موسكو",
+  "ابها",
+  "جميرا",
+  "زعبيل",
+  "خورفكان",
+  "مليحه",
+]);
+
 const rows = [];
 for (const s of KB.streets) {
   const en = s.name_en || "";
@@ -223,7 +276,9 @@ for (const s of KB.streets) {
   if (NOT_A_NAME.test(String(en).trim())) continue;
   if (NOT_A_STREET.test(String(en).trim())) continue;
   let cat = CATS[s.osm] || "word";
-  if (PERSON_NAMES.has(String(norm(String(ar).replace(/^(شارع|طريق|جادة)\s+/, "")).replace(/^\u0627\u0644/, "")))) cat = "person";
+  const bare = String(norm(String(ar).replace(/^(شارع|طريق|جادة)\s+/, "")).replace(/^\u0627\u0644/, ""));
+  if (PERSON_NAMES.has(bare)) cat = "person";
+  else if (PLACE_NAMES.has(bare)) cat = "place";
   const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, ALL_GLOSSES) : "";
   let story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
   if (!story) {
