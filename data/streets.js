@@ -15958,12 +15958,12 @@ window.STREETS = [
   "en": "Abu Ja'Far Al Madani Street",
   "translit": "Shāriʿ Abī Jaʿfar al-Madanī",
   "meaning": {
-    "en": "One of the ten canonical Quran reciters",
-    "ar": "أحد القراء العشرة للقرآن الكريم"
+    "en": "A reciter and jurist, imam of Medina in recitation",
+    "ar": "إمام أهل المدينة في القراءة والفقه"
   },
   "story": {
-    "en": "Abu Ja'far al-Madani — Yazid ibn al-Qa'qa' al-Makhzumi (born 35 AH) — was a leading Tabi'i of Medina and one of the ten canonical reciters of the Quran, who taught recitation there for a long lifetime.",
-    "ar": "أبو جعفر المدني — يزيد بن القعقاع المخزومي (وُلد سنة ٣٥هـ) — تابعي جليل من أهل المدينة المنورة، وأحد القراء العشرة، انتهت إليه رئاسة الإقراء وعلم القراءات فيها."
+    "en": "Abu Ja'far al-Madani — Yazid ibn al-Qa'qa' al-Makhzumi (born 35 AH) — was among the foremost Tabi'un and one of the ten canonical reciters, and the imam of Medina in both recitation and law.",
+    "ar": "أبو جعفر المدني — يزيد بن القعقاع المخزومي (وُلد سنة ٣٥هـ) — من جِلّة التابعين، وأحد القراء العشرة، وإمام أهل المدينة المنورة في القراءة والفقه."
   },
   "refs": [
     {
