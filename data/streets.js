@@ -15166,5 +15166,236 @@ window.STREETS = [
       "url": "https://ar.wiktionary.org/wiki/أساس"
     }
   ]
+},
+{
+  "id": "al-abbas-bin-ubadah-bin-nadlah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع العباس بن عبادة بن نضلة",
+  "en": "Al Abbas Bin 'Ubadah Bin Nadlah Street",
+  "meaning": {
+    "en": "A Companion of the Ansar",
+    "ar": "صحابي من الأنصار"
+  },
+  "story": {
+    "en": "Al-Abbas ibn Ubada was an Ansari Companion among the first six of the Ansar to accept Islam; he took both pledges of Aqaba, fought at Uhud, and died of his wounds in 3 AH.",
+    "ar": "العباس بن عبادة صحابي من الأنصار، أسلم قبل سائر الأنصار، وشهد بيعتي العقبة وأُحداً، ومات من جراحه سنة ٣هـ."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — العباس بن عبادة",
+      "url": "https://ar.wikipedia.org/wiki/العباس_بن_عبادة"
+    }
+  ]
+},
+{
+  "id": "hazza-bin-sultan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع هزاع بن سلطان",
+  "en": "Hazza Bin Sultan Street",
+  "meaning": {
+    "en": "A sheikh of the Al Nahyan family",
+    "ar": "أحد شيوخ آل نهيان"
+  },
+  "story": {
+    "en": "Hazza bin Sultan Al Nahyan (1905–1958) was a brother of Sheikh Shakhbout and Sheikh Zayed, and served as the Ruler's Representative in the Eastern Region.",
+    "ar": "هزاع بن سلطان آل نهيان (١٩٠٥–١٩٥٨م) شقيق الشيخ شخبوط والشيخ زايد، وكان ممثل الحاكم في المنطقة الشرقية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — هزاع بن سلطان آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/هزاع_بن_سلطان_آل_نهيان"
+    }
+  ]
+},
+{
+  "id": "oud-bin-hasoum-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُود بن حاسُوم",
+  "en": "'Oud Bin Hasoum Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of عود بن حاسوم, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم عود بن حاسوم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "oud-bin-khanfour-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عود بن خنفور",
+  "en": "'Oud Bin Khanfour Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of عود بن خنفور, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم عود بن خنفور، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "oud-bin-saqhan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُود بن صَقحان",
+  "en": "'Oud Bin Saqhan Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of عود بن صقحان, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم عود بن صقحان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-abdulla-ahmed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد عبدالله أحمد",
+  "en": "Ahmed Abdulla Ahmed Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of احمد عبدالله احمد, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم احمد عبدالله احمد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bilkindi-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بالكندي المرر",
+  "en": "Ahmed Bilkindi Al Marar Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of احمد بالكندي المرر, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم احمد بالكندي المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-hamed-al-hamed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بن حامد آل حامد",
+  "en": "Ahmed Bin Hamed Al Hamed Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of احمد بن حامد ال حامد, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم احمد بن حامد ال حامد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bu-melha-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي بو ملحا المرر",
+  "en": "Ali Bu Melha Al Marar Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of علي بو ملحا المرر, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم علي بو ملحا المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "butti-bin-hamed-al-hamed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بطي بن حامد آل حامد",
+  "en": "Butti Bin Hamed Al Hamed Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of بطي بن حامد ال حامد, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم بطي بن حامد ال حامد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalifa-al-mubarak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خليفة المبارك",
+  "en": "Khalifa Al Mubarak Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of خليفه المبارك, an Emirati figure. No published biography of him was found.",
+    "ar": "سُمّي الشارع باسم خليفه المبارك، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-uola-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع العلى",
+  "en": "Al 'Uola Street",
+  "meaning": {
+    "en": "A name or title carried by the street",
+    "ar": "لقب أو اسم يُسمّى به الشارع"
+  },
+  "story": {
+    "en": "The street carries the name “العلى” rather than a documented biography; no published account of it was found.",
+    "ar": "يحمل الشارع اسم «العلى» لا ترجمة شخص موثّق، ولم يُعثر على بيان منشور له."
+  },
+  "refs": []
+},
+{
+  "id": "al-faysal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الفَيصَل",
+  "en": "Al Faysal Street",
+  "meaning": {
+    "en": "A name or title carried by the street",
+    "ar": "لقب أو اسم يُسمّى به الشارع"
+  },
+  "story": {
+    "en": "The street carries the name “الفيصل” rather than a documented biography; no published account of it was found.",
+    "ar": "يحمل الشارع اسم «الفيصل» لا ترجمة شخص موثّق، ولم يُعثر على بيان منشور له."
+  },
+  "refs": []
 }
 ];

@@ -65,6 +65,16 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* From the Section B pass of batch 7. */
+  "رباضه": "land where camels graze and rest",
+  "هزع": "a slope or incline; a raised fold of ground",
+  "عود": "an old, large tree; an elder",
+  "نهضه": "renaissance, progress",
+  "نور": "light",
+  "ثمام": "thamam, a perennial desert grass (Panicum)",
+  "مسكر": "a dam; a place where water is held back",
+  "ظفره": "Al Dhafra, the western region of Abu Dhabi",
+  "فايه": "a desert tract with sand hills",
   "اسس": "foundations, bases",
   "اساس": "foundation, basis, root",
   "اخيضر": "the little green — fresh growth of wild shrubs",
