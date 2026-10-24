@@ -15015,5 +15015,23 @@ window.STREETS = [
     "ar": "يحمل الشارع اسم الشهيد راشد محمد من أسرة البلوشي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
+},
+{
+  "id": "akroum-al-birayda-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عَكرُوم البرَيدا",
+  "en": "'Akroum Al Birayda Street",
+  "translit": "Shāriʿ ʿAkrūm al-Buraydā",
+  "meaning": {
+    "en": "A rugged rise at a small shaded patch",
+    "ar": "مرتفع صلب عند موضع ظليل صغير"
+  },
+  "story": {
+    "en": "Two elements: ʿakrūm, a hard knot of rock or a compact, rugged rise in the desert, and al-buraydā, a diminutive of burda — a small cloak, and by extension a shaded, comfortable patch of ground.",
+    "ar": "اسم من عنصرين: «عكروم» أي العقدة المحكمة أو المرتفع الصلب الخشن في الصحراء، و«البريدا» تصغير «بردة» — الثوب الصغير، ويُراد به الموضع الظليل المريح من الأرض."
+  },
+  "refs": []
 }
 ];

@@ -65,6 +65,10 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "عكروم البريدا": "a rugged rise at a small shaded patch",
+  "عكروم": "a hard knot, a rugged rise",
+  "بريدا": "a small shaded patch",
+  "برده": "a cloak; a shaded patch of ground",
   "صرمه": "palm tree (Emirati)",
   "حوي": "house yard",
   "دروازه": "door, gateway",

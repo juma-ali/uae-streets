@@ -38,8 +38,10 @@ const norm = (s) =>
 /* Names like "ظهرة الرِّمث" carry two elements: the landform and what grows on it.
    Glossing only the head word drops the half that identifies the place. */
 function glossOf(name, GLOSSES) {
-  const words = norm(String(name || "").replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, "")).split(" ").filter(Boolean);
-  if (!words.length) return "";
+  const whole = norm(String(name || "").replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, ""));
+  if (!whole) return "";
+  if (GLOSSES[whole]) return GLOSSES[whole];
+  const words = whole.split(" ").filter(Boolean);
   const look = (w) => GLOSSES[w] || GLOSSES[w.replace(/^ال/, "")] || "";
   const headGloss = look(words[0]);
   const tail = words.length > 1 ? words[words.length - 1] : "";
