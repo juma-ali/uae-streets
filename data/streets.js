@@ -18483,18 +18483,24 @@ window.STREETS = [
   "id": "abdullah-bin-amr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن عَمرو",
   "en": "Abdullah Bin 'Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A Companion, the eldest son of Amr ibn al-As",
+    "ar": "صحابي، أكبر أبناء عمرو بن العاص"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin 'Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abdullah ibn Amr ibn al-As (595–684) was a Companion and the eldest son of Amr ibn al-As. He embraced Islam a year before his father, kept a written record of what he heard from the Prophet, and was among the most learned of the Companions.",
+    "ar": "عبد الله بن عمرو بن العاص (٢٧ ق.هـ–٦٥هـ / ٥٩٥–٦٨٤م) صحابي، وهو أكبر أبناء عمرو بن العاص، أسلم قبل أبيه سنة ٧هـ، وكان أحد حفّاظ الصحابة وأكثرهم علماً، وأُذن له في كتابة ما يسمعه من النبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الله بن عمرو بن العاص",
+      "url": "https://ar.wikipedia.org/wiki/عبد_الله_بن_عمرو_بن_العاص"
+    }
+  ],
+  "translit": "Shāriʿ ʿAbdullāh bin ʿAmr"
 },
 {
   "id": "abdullah-bin-abi-awfa-street",
