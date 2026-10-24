@@ -65,6 +65,32 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* Cities, battlefields, districts and common words found in the unglossed tail. */
+  "دمشق": "Damascus",
+  "حطين": "the battle of Hattin (1187)",
+  "اليرموك": "the battle of Yarmouk (636)",
+  "جميرا": "Jumeirah, a coastal district of Dubai",
+  "زعبيل": "Zabeel, a district of Dubai",
+  "خورفكان": "Khor Fakkan, a town on Sharjah's east coast",
+  "مليحه": "Mleiha, an archaeological area of Sharjah",
+  "النسائم": "breezes",
+  "السهول": "plains, level ground",
+  "المعارض": "exhibition grounds",
+  "النبعه": "a spring, water rising from the ground",
+  "الاوركيد": "orchid",
+  "الدرر": "pearls",
+  "الضفاف": "river banks",
+  "الدواوين": "council chambers, divans",
+  "الدله": "the coffee pot",
+  "الزهراء": "al-Zahra, the radiant; also a woman's name",
+  "الشوعي": "of the shu' tree; a small coastal boat",
+  "اليمامه": "the dove; also a region of Arabia",
+  "الراعبي": "a kind of desert pigeon",
+  "الصفاوي": "of al-Safa — clear, smooth ground",
+  "السماحه": "forgiveness, generosity",
+  "الشويب": "a small wadi; the place between Dubai and Al Ain",
+  "الديم": "lasting, perpetual",
+  "الضحي": "forenoon",
   /* Maritime and desert vocabulary, from the batch-7 answers. */
   "خبي": "a sand hollow between dunes",
   "خبه": "a hollow where water or sand collects",
