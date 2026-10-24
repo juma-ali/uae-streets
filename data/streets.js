@@ -6316,18 +6316,24 @@ window.STREETS = [
   "id": "anis-bin-qatadah-khaythamah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أنيس بن قتادة خيثمة",
   "en": "Anis Bin Qatadah Khaythamah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of the Ansar who fell at Uhud",
+    "ar": "صحابي من الأنصار، استُشهد يوم أحد"
   },
   "story": {
-    "en": "No published source was found identifying who Anis Bin Qatadah Khaythamah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «انيس بن قتاده خيثمه» الذي يحمل الشارع اسمه."
+    "en": "Anis ibn Qatada ibn Khaythama, of the Banu Ubayd ibn Zayd of the Aws, was a Companion who fought at Badr and was killed at Uhud in 625.",
+    "ar": "أنيس بن قتادة بن خيثمة، من بني عبيد بن زيد من الأوس، صحابي شهد بدراً، وقُتل يوم أحد سنة ٣هـ."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أنيس بن قتادة",
+      "url": "https://ar.wikipedia.org/wiki/أنيس_بن_قتادة"
+    }
+  ],
+  "translit": "Shāriʿ Anas bin Qatāda Khaythama"
 },
 {
   "id": "tameem-bin-salamah-street",
