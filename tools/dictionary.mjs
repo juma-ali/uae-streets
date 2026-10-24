@@ -65,6 +65,39 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* Dubai district names, from Al Bayan's interviews with Fahd Al Maamari and
+     Juma bin Thalith (13 April 2025). */
+  "قوز": "round sand hill (also qizan)",
+  "مرقبات": "wells walled at the neck to keep them from caving in",
+  "يابيه": "small basin for watering livestock",
+  "قصيص": "tracking footprints in the sand",
+  "بر": "mainland, dry land (as opposed to the sea)",
+  /* Liwa place names, from a Liwa elder's account of how each mahdar was named
+     (Emarat Al Youm, 25 July 2010). Local usage, not classical Arabic. */
+  "عراده": "a stand of 'arad trees",
+  "خريمه": "open, flat ground",
+  "ملقطه": "a place where scattered palms gather",
+  "عد": "sweet, strongly flowing water in gravelly ground",
+  "ماريه": "a high landmark visible from afar",
+  "خنور": "a narrow entrance",
+  "طرق": "a hill rising in the middle of flat ground",
+  "ردوم": "small dunes shaped like hills",
+  "بوصدين": "ground lying to one side",
+  "كيه": "very fertile land",
+  "موقب": "a small well",
+  "حويلة": "a branching valley descending from afar",
+  "ظويهر": "a rise visible from the north",
+  "قطوف": "the edge of a wadi",
+  "قرمده": "crisp, curling sand",
+  "نميل": "a place of many ants",
+  "نشاش": "hard to reach",
+  "ييف": "ground reachable from one side only",
+  "سريط": "drifting sand that buries the palms",
+  "صبخه": "salt flat",
+  "ثروانيه": "high ground",
+  "جبانه": "a hollow beside the road",
+  "حميم": "warm spring water",
+  "مزيرعه": "a small farm",
   "تلال": "hills",
   "سدره": "sidr tree (buckthorn)",
   "سمره": "samr tree (Acacia tortilis)",
