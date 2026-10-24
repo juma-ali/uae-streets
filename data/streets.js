@@ -15079,5 +15079,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/عكرش"
     }
   ]
+},
+{
+  "id": "al-ashkhar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "documented",
+  "ar": "شارع الأشخر",
+  "en": "Al Ashkhar Street",
+  "translit": "Shāriʿ al-Ashkhar",
+  "meaning": {
+    "en": "The ashkhar shrub (Calotropis)",
+    "ar": "شجيرة الأشخر (العُشار)"
+  },
+  "story": {
+    "en": "Al Ashkhar — also called al-oshar — is Calotropis, a genus of the dogbane family: an evergreen desert shrub that grows on sandy plains and in wadi beds.",
+    "ar": "الأشخر — ويُسمّى أيضاً العُشار — جنس نباتي من الفصيلة الدفلية، شجيرة صحراوية دائمة الخضرة تنمو في السهول الرملية ومجاري الأودية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عشار",
+      "url": "https://ar.wikipedia.org/wiki/عشار"
+    }
+  ]
 }
 ];
