@@ -282,6 +282,11 @@ const NOT_A_STREET = /(^|\s)(service|tertiary|secondary|access|industrial|minor|
 
 /* Arabic names that OpenStreetMap does not carry. Keys are the English name as
    OSM spells it; values are the Arabic as it appears on the sign or in use. */
+/* OSM names that were cut short. Keyed by the lowercase OSM name. */
+const NAME_EN = new Map([
+  ["sheik hamad b s street", "Sheikh Hamad Bin Saif Al Sharqi Street"]
+]);
+
 const AR_OVERRIDES = new Map([
   ["abi al adarham al zamani street", "شارع أبي الأدرهم الزماني"],
   ["abu ja'far al madani street", "شارع أبي جعفر المدني"],
@@ -392,6 +397,7 @@ const AR_OVERRIDES = new Map([
   ["omara al maree street", "شارع عمارة المري"],
   ["wusha square", "ميدان وشحة"],
   ["mdfaaq bridge-old bridge", "جسر المدفق - الجسر القديم"],
+  ["sheik hamad b s street", "شارع الشيخ حمد بن سيف الشرقي"],
 ]);
 
 
@@ -456,9 +462,12 @@ const NOT_A_STREET_2 = /(arabella|juniper|park avenue|rochester|richmond|stockho
 
 const rows = [];
 for (const s of KB.streets) {
-  const en = s.name_en || "";
-  const ar = s.name_ar || AR_OVERRIDES.get(String(en).trim().toLowerCase()) || "";
-  if (!en && !ar) continue;
+  const rawEn = s.name_en || "";
+  const key = String(rawEn).trim().toLowerCase();
+  const en = NAME_EN.get(key) || rawEn;
+  const ar = s.name_ar || AR_OVERRIDES.get(key) || "";
+  const arFixed = AR_OVERRIDES.get(key) || ar;
+  if (!en && !arFixed) continue;
   if (NOT_A_NAME.test(String(en).trim())) continue;
   if (NOT_A_STREET.test(String(en).trim())) continue;
   if (NOT_A_STREET_2.test(String(en).trim())) continue;
@@ -475,7 +484,7 @@ for (const s of KB.streets) {
   }
   rows.push([
     en,
-    ar,
+    arFixed,
     districtFor(s.area, s.emirate, s.osm),
     cat,
     s.ref || "",

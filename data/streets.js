@@ -24316,38 +24316,27 @@ window.STREETS = [
   "refs": []
 },
 {
-  "id": "sheik-hamad-b-s-street",
-  "emirate": "fujairah",
-  "category": "person",
-  "origin": "unsourced",
-  "ar": "شارع الشيخ حمد ب",
-  "en": "Sheik Hamad B S Street",
-  "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
-  },
-  "story": {
-    "en": "The street carries the name of Sheik Hamad B S, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ حمد ب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
-},
-{
   "id": "sheikh-hamad-bin-abdullah-al-sharqi-road",
   "emirate": "fujairah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ حمد بن عبد الله الشرقي",
   "en": "Sheikh Hamad Bin Abdullah Al Sharqi Road",
   "meaning": {
-    "en": "An Emirati figure of the Sharqi family",
-    "ar": "شخصية إماراتية من أسرة الشرقي"
+    "en": "Ruler of Fujairah, 1938–1974",
+    "ar": "حاكم الفجيرة بين 1938 و1974"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Hamad Bin Abdullah, an Emirati figure of the Sharqi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ حمد بن عبد الله الشرقي، وهو شخصية إماراتية من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The road is named after Sheikh Hamad bin Abdullah Al Sharqi, who ruled Fujairah from 1938 to 1974. The Al Sharqi family has ruled the emirate since the 19th century.",
+    "ar": "سُمّي الطريق باسم الشيخ حمد بن عبدالله الشرقي، حاكم الفجيرة بين ١٩٣٨ و١٩٧٤، وأسرة الشرقي تحكم الإمارة منذ القرن التاسع عشر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — حمد بن عبد الله الشرقي",
+      "url": "https://ar.wikipedia.org/wiki/حمد_بن_عبد_الله_الشرقي"
+    }
+  ],
+  "translit": "Ṭarīq ash-Shaykh Ḥamad bin ʿAbdullāh ash-Sharqī"
 },
 {
   "id": "sheikh-hamad-bin-saif-al-sharqi-street",
