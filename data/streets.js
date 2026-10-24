@@ -15994,5 +15994,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/محمد_بن_موسى_الخوارزمي"
     }
   ]
+},
+{
+  "id": "al-dhaid-road",
+  "emirate": "sharjah",
+  "category": "place",
+  "origin": "documented",
+  "ar": "طريق الذيد",
+  "en": "Al Dhaid Road",
+  "translit": "Ṭarīq al-Dhayd",
+  "meaning": {
+    "en": "The road to Al Dhaid, a town in central Sharjah",
+    "ar": "الطريق إلى الذيد، مدينة في وسط الشارقة"
+  },
+  "story": {
+    "en": "Al Dhaid is a town and oasis in the interior of Sharjah, reached by the E55 road from Sharjah city. The name is carried by the road itself and by the roads that continue from it.",
+    "ar": "الذيد مدينة وواحة في داخل إمارة الشارقة، يصلها طريق E55 من مدينة الشارقة. ويحمل الطريق اسم المدينة، وكذلك الطرق التي تتفرع منه نحو مليحة وفلج المعلا والساحل الشرقي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الذيد",
+      "url": "https://ar.wikipedia.org/wiki/الذيد"
+    }
+  ]
 }
 ];

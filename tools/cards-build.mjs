@@ -217,11 +217,15 @@ const AR_OVERRIDES = new Map([
   ["abi al adarham al zamani street", "شارع أبي الأدرهم الزماني"],
   ["abu ja'far al madani street", "شارع أبي جعفر المدني"],
   ["al khawarizmi street", "شارع الخوارزمي"],
+  ["al dhaid road", "طريق الذيد"],
 ]);
 
 
 /* Names that are places elsewhere: a street called القاهرة is named for Cairo. */
 const PLACE_NAMES = new Set([
+  "ذيد",
+  "فلج المعلا",
+  "مليحه",
   "دمشق",
   "بغداد",
   "بيروت",
@@ -282,7 +286,7 @@ for (const s of KB.streets) {
   let cat = CATS[s.osm] || "word";
   const bare = String(norm(String(ar).replace(/^(شارع|طريق|جادة)\s+/, "")).replace(/^\u0627\u0644/, ""));
   if (PERSON_NAMES.has(bare)) cat = "person";
-  else if (PLACE_NAMES.has(bare)) cat = "place";
+  else if (PLACE_NAMES.has(bare) || String(bare).split(/\s|-|–/).some((w) => PLACE_NAMES.has(w))) cat = "place";
   const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, ALL_GLOSSES) : "";
   let story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
   if (!story) {
