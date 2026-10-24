@@ -15397,5 +15397,533 @@ window.STREETS = [
     "ar": "يحمل الشارع اسم «الفيصل» لا ترجمة شخص موثّق، ولم يُعثر على بيان منشور له."
   },
   "refs": []
+},
+{
+  "id": "abu-hurayrah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أبو هُرَيرة",
+  "en": "Abu Hurayrah Street",
+  "meaning": {
+    "en": "A Companion and the most prolific narrator of hadith",
+    "ar": "صحابي وأكثر رواة الحديث"
+  },
+  "story": {
+    "en": "Abu Hurayrah (602–679) was a companion of the Prophet Muhammad and the most prolific narrator of hadith.",
+    "ar": "أبو هريرة (٢١ ق.هـ–٥٩هـ / ٦٠٢–٦٧٩م) صحابي، وأكثر رواة الحديث النبوي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو هريرة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%87%D8%B1%D9%8A%D8%B1%D8%A9"
+    }
+  ]
+},
+{
+  "id": "abu-ad-darda-a-al-ansari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أبو الدَّرداء الأنصارِي",
+  "en": "Abu Ad Darda-a Al Ansari Street",
+  "meaning": {
+    "en": "A Companion, judge of Damascus",
+    "ar": "صحابي وقاضٍ دمشق"
+  },
+  "story": {
+    "en": "Abu al-Darda (d. 32 AH / 652 CE) was an Ansari companion, a Quran reciter and the judge of Damascus.",
+    "ar": "أبو الدرداء الأنصاري (ت ٣٢هـ/٦٥٢م) صحابي وفقيه وقاضٍ دمشق."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو الدرداء الأنصاري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%AF%D8%B1%D8%AF%D8%A7%D8%A1_%D8%A7%D9%84%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "abu-dhar-al-ghifari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أبو ذَر الغِفارِي",
+  "en": "Abu Dhar Al Ghifari Street",
+  "meaning": {
+    "en": "One of the earliest Companions",
+    "ar": "من السابقين إلى الإسلام"
+  },
+  "story": {
+    "en": "Abu Dharr al-Ghifari (d. 31 AH / 652 CE) was among the earliest to accept Islam, known for his asceticism.",
+    "ar": "أبو ذر الغفاري (ت ٣١هـ/٦٥٢م) من السابقين إلى الإسلام، عُرف بزهده."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو ذر الغفاري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%B0%D8%B1_%D8%A7%D9%84%D8%BA%D9%81%D8%A7%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "abu-haneefah-an-nu-man-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أبو حَنِيفة النُّعمان",
+  "en": "Abu Haneefah An Nu'man Street",
+  "meaning": {
+    "en": "Founder of the Hanafi school",
+    "ar": "صاحب المذهب الحنفي"
+  },
+  "story": {
+    "en": "Abu Hanifa al-Nu'man (699–767) was a jurist of Kufa and the founder of the Hanafi school of law.",
+    "ar": "أبو حنيفة النعمان (٨٠–١٥٠هـ/٦٩٩–٧٦٧م) فقيه الكوفة وصاحب المذهب الحنفي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو حنيفة النعمان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%AD%D9%86%D9%8A%D9%81%D8%A9_%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "al-mutanabbi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع المُتَنَبِّي",
+  "en": "Al Mutanabbi Street",
+  "meaning": {
+    "en": "A poet of the Abbasid era",
+    "ar": "شاعر من العصر العباسي"
+  },
+  "story": {
+    "en": "Al-Mutanabbi (915–965) was one of the most celebrated poets of the Arabic language.",
+    "ar": "المتنبي (٣٠٣–٣٥٤هـ/٩١٥–٩٦٥م) من أشهر شعراء العربية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو الطيب المتنبي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%B7%D9%8A%D8%A8_%D8%A7%D9%84%D9%85%D8%AA%D9%86%D8%A8%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-jahidh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الجَاحِظ",
+  "en": "Al Jahidh Street",
+  "meaning": {
+    "en": "A prose writer of Basra",
+    "ar": "أديب من البصرة"
+  },
+  "story": {
+    "en": "Al-Jahiz (776–868) was a writer of Basra, author of the Book of Animals.",
+    "ar": "الجاحظ (ت ٢٥٥هـ/٨٦٨م) أديب البصرة، صاحب كتاب الحيوان."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الجاحظ",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%A7%D8%AD%D8%B8"
+    }
+  ]
+},
+{
+  "id": "al-farazdaq-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الفَرَزدَق",
+  "en": "Al Farazdaq Street",
+  "meaning": {
+    "en": "An Umayyad poet",
+    "ar": "شاعر أموي"
+  },
+  "story": {
+    "en": "Al-Farazdaq (c. 641–728) was a poet of the Umayyad era, of the Banu Tamim.",
+    "ar": "الفرزدق (ت نحو ١١٠هـ/٧٢٨م) شاعر أموي من بني تميم."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الفرزدق",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%B1%D8%B2%D8%AF%D9%82"
+    }
+  ]
+},
+{
+  "id": "jareer-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع جَرير",
+  "en": "Jareer Street",
+  "meaning": {
+    "en": "An Umayyad poet",
+    "ar": "شاعر أموي"
+  },
+  "story": {
+    "en": "Jarir (c. 650–728) was an Umayyad-era poet, famous for his exchanges with al-Farazdaq.",
+    "ar": "جرير (ت نحو ١١٠هـ/٧٢٨م) شاعر أموي، عُرف بنقائضه مع الفرزدق."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — جرير",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%B1%D9%8A%D8%B1"
+    }
+  ]
+},
+{
+  "id": "sibawayh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع سِيبَوَيه",
+  "en": "Sibawayh Street",
+  "meaning": {
+    "en": "The grammarian of Arabic",
+    "ar": "إمام النحاة"
+  },
+  "story": {
+    "en": "Sibawayh (c. 760–796) was a grammarian whose Book is the foundation of Arabic syntax.",
+    "ar": "سيبويه (ت نحو ١٨٠هـ/٧٩٦م) إمام النحاة، وكتابه أصل النحو العربي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — سيبويه",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%A8%D9%88%D9%8A%D9%87"
+    }
+  ]
+},
+{
+  "id": "mu-ath-bin-jabal-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع معاد بن جبل",
+  "en": "Mu'ath Bin Jabal Street",
+  "meaning": {
+    "en": "A Companion sent to teach in Yemen",
+    "ar": "صحابي بعثه النبي إلى اليمن"
+  },
+  "story": {
+    "en": "Mu'adh ibn Jabal (d. 18 AH / 639 CE) was a companion sent by the Prophet to teach the people of Yemen.",
+    "ar": "معاذ بن جبل (ت ١٨هـ/٦٣٩م) صحابي، بعثه النبي إلى اليمن معلّماً."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — معاذ بن جبل",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D8%B0_%D8%A8%D9%86_%D8%AC%D8%A8%D9%84"
+    }
+  ]
+},
+{
+  "id": "moawiah-bin-abi-sofian-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع معاوية بن أبي سفيان",
+  "en": "Moawiah Bin Abi Sofian Street",
+  "meaning": {
+    "en": "The first Umayyad caliph",
+    "ar": "أول خلفاء بني أمية"
+  },
+  "story": {
+    "en": "Mu'awiya ibn Abi Sufyan (602–680) was the first caliph of the Umayyad dynasty, ruling from Damascus.",
+    "ar": "معاوية بن أبي سفيان (ت ٦٠هـ/٦٨٠م) أول خلفاء بني أمية، وحكم من دمشق."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — معاوية بن أبي سفيان",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%88%D9%8A%D8%A9_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%B3%D9%81%D9%8A%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "abdulmalik-bin-marwan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبدالمَلك بن مَروان",
+  "en": "Abdulmalik Bin Marwan Street",
+  "meaning": {
+    "en": "Fifth Umayyad caliph",
+    "ar": "الخليفة الأموي الخامس"
+  },
+  "story": {
+    "en": "Abd al-Malik ibn Marwan (646–705) was the fifth Umayyad caliph, who ordered the Arabisation of the coinage and administration.",
+    "ar": "عبد الملك بن مروان (٢٦–٨٦هـ/٦٤٦–٧٠٥م) الخليفة الأموي الخامس، وفي عهده عُرِّبت الدواوين والنقود."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الملك بن مروان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%A8%D9%86_%D9%85%D8%B1%D9%88%D8%A7%D9%86"
+    }
+  ]
+},
+{
+  "id": "al-imam-ash-shafi-i-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الإمام الشافعي",
+  "en": "Al Imam Ash Shafi'i Street",
+  "meaning": {
+    "en": "Founder of the Shafi'i school",
+    "ar": "صاحب المذهب الشافعي"
+  },
+  "story": {
+    "en": "Al-Shafi'i (767–820) was a jurist and the founder of the Shafi'i school of law.",
+    "ar": "الشافعي (١٥٠–٢٠٤هـ/٧٦٧–٨٢٠م) فقيه وصاحب المذهب الشافعي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن إدريس الشافعي",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%A5%D8%AF%D8%B1%D9%8A%D8%B3_%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-imam-muslim-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الإمام مسلم",
+  "en": "Al Imam Muslim Street",
+  "meaning": {
+    "en": "Compiler of Sahih Muslim",
+    "ar": "صاحب صحيح مسلم"
+  },
+  "story": {
+    "en": "Muslim ibn al-Hajjaj (821–875) compiled Sahih Muslim, one of the two most authoritative collections of hadith.",
+    "ar": "مسلم بن الحجاج (٢٠٦–٢٦١هـ/٨٢١–٨٧٥م) صاحب صحيح مسلم، أحد أصح كتابين بعد القرآن."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — مسلم بن الحجاج",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D9%84%D9%85_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%AC"
+    }
+  ]
+},
+{
+  "id": "al-imam-ahmed-bin-hanbel-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الإمام احمد بن حنبل",
+  "en": "Al Imam Ahmed Bin Hanbel Street",
+  "meaning": {
+    "en": "Founder of the Hanbali school",
+    "ar": "صاحب المذهب الحنبلي"
+  },
+  "story": {
+    "en": "Ahmad ibn Hanbal (780–855) was a jurist and the founder of the Hanbali school of law.",
+    "ar": "أحمد بن حنبل (١٦٤–٢٤١هـ/٧٨٠–٨٥٥م) فقيه وصاحب المذهب الحنبلي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أحمد بن حنبل",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%AD%D9%86%D8%A8%D9%84"
+    }
+  ]
+},
+{
+  "id": "al-bukhari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع البُخارِي",
+  "en": "Al Bukhari Street",
+  "meaning": {
+    "en": "Compiler of Sahih al-Bukhari",
+    "ar": "صاحب صحيح البخاري"
+  },
+  "story": {
+    "en": "Al-Bukhari (810–870) compiled Sahih al-Bukhari, the most authoritative collection of hadith.",
+    "ar": "البخاري (١٩٤–٢٥٦هـ/٨١٠–٨٧٠م) صاحب صحيح البخاري."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن إسماعيل البخاري",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84_%D8%A7%D9%84%D8%A8%D8%AE%D8%A7%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "adh-dhahabi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الذَّهَبِي",
+  "en": "Adh Dhahabi Street",
+  "meaning": {
+    "en": "A historian and hadith scholar",
+    "ar": "مؤرخ ومحدث"
+  },
+  "story": {
+    "en": "Al-Dhahabi (1274–1348) was a historian and hadith scholar of Damascus.",
+    "ar": "الذهبي (٦٧٣–٧٤٨هـ/١٢٧٤–١٣٤٨م) مؤرخ ومحدث دمشقي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — شمس الدين الذهبي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B4%D9%85%D8%B3_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A"
+    }
+  ]
+},
+{
+  "id": "tabari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الطبري",
+  "en": "Tabari Street",
+  "meaning": {
+    "en": "A historian and Quran commentator",
+    "ar": "مؤرخ ومفسر"
+  },
+  "story": {
+    "en": "Al-Tabari (839–923) was a historian and Quran commentator, author of the History of the Prophets and Kings.",
+    "ar": "الطبري (٢٢٤–٣١٠هـ/٨٣٩–٩٢٣م) مؤرخ ومفسر، صاحب تاريخ الرسل والملوك."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن جرير الطبري",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%AC%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%B7%D8%A8%D8%B1%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-asqalani-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع العسقلاني",
+  "en": "Al Asqalani Street",
+  "meaning": {
+    "en": "The hadith scholar Ibn Hajar",
+    "ar": "ابن حجر العسقلاني"
+  },
+  "story": {
+    "en": "Ibn Hajar al-Asqalani (1372–1449) was a hadith scholar, author of Fath al-Bari.",
+    "ar": "ابن حجر العسقلاني (٧٧٣–٨٥٢هـ/١٣٧٢–١٤٤٩م) محدّث، صاحب فتح الباري."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — ابن حجر العسقلاني",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%AD%D8%AC%D8%B1_%D8%A7%D9%84%D8%B9%D8%B3%D9%82%D9%84%D8%A7%D9%86%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-baqlani-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الباقلاني",
+  "en": "Al Baqlani Street",
+  "meaning": {
+    "en": "A theologian of Basra and Baghdad",
+    "ar": "متكلم من البصرة وبغداد"
+  },
+  "story": {
+    "en": "Al-Baqillani (950–1013) was a theologian and a leading figure of the Ash'ari school.",
+    "ar": "الباقلاني (ت ٤٠٣هـ/١٠١٣م) متكلم، من أعلام الأشعرية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو بكر الباقلاني",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A7%D9%84%D8%A8%D8%A7%D9%82%D9%84%D8%A7%D9%86%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-dar-qatni-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الدار قطني",
+  "en": "Al Dar Qatni Street",
+  "meaning": {
+    "en": "A hadith critic of Baghdad",
+    "ar": "محدّث ناقد بغدادي"
+  },
+  "story": {
+    "en": "Al-Daraqutni (918–995) was a hadith scholar and critic of Baghdad.",
+    "ar": "الدارقطني (٣٠٦–٣٨٥هـ/٩١٨–٩٩٥م) محدّث وناقد بغدادي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الدارقطني",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D9%82%D8%B7%D9%86%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-edrissi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الإدرسي",
+  "en": "Al Edrissi Street",
+  "meaning": {
+    "en": "A geographer and mapmaker",
+    "ar": "جغرافي ورسّام خرائط"
+  },
+  "story": {
+    "en": "Al-Idrisi (1100–1165) was a geographer at the Norman court in Sicily, author of the Tabula Rogeriana.",
+    "ar": "الإدريسي (ت ٥٦٠هـ/١١٦٥م) جغرافي في بلاط صقلية، صاحب نزهة المشتاق."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الإدريسي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A5%D8%AF%D8%B1%D9%8A%D8%B3%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-jabarti-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الجبرتي",
+  "en": "Al Jabarti Street",
+  "meaning": {
+    "en": "A historian of Egypt",
+    "ar": "مؤرخ مصري"
+  },
+  "story": {
+    "en": "Al-Jabarti (1754–1822) was a historian of Egypt who chronicled the French expedition.",
+    "ar": "الجبرتي (١١٦٧–١٢٣٧هـ/١٧٥٤–١٨٢٢م) مؤرخ مصري، أرّخ للحملة الفرنسية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الرحمن الجبرتي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%AC%D8%A8%D8%B1%D8%AA%D9%8A"
+    }
+  ]
+},
+{
+  "id": "al-maqdisi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع المقدسي",
+  "en": "Al Maqdisi Street",
+  "meaning": {
+    "en": "A hadith scholar of Jerusalem",
+    "ar": "محدّث من بيت المقدس"
+  },
+  "story": {
+    "en": "Abd al-Ghani al-Maqdisi (1146–1203) was a hadith scholar of the Hanbali school.",
+    "ar": "عبد الغني المقدسي (٥٤١–٦٠٠هـ/١١٤٦–١٢٠٣م) محدّث حنبلي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الغني المقدسي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%BA%D9%86%D9%8A_%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%B3%D9%8A"
+    }
+  ]
 }
 ];

@@ -77,6 +77,10 @@ const norm = (s) =>
 
 /* Names like "ظهرة الرِّمث" carry two elements: the landform and what grows on it.
    Glossing only the head word drops the half that identifies the place. */
+/* These read as suffixes, not as a second element: "Adham Boulevard" is not
+   "shady of boulevard". */
+const NO_JOIN = new Set(["بوليفارد", "كورنيش", "شارع", "طريق", "ميدان", "دوار", "نفق", "ساحه", "حديقه"]);
+
 function glossOf(name, GLOSSES) {
   const whole = norm(String(name || "").replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, ""));
   if (!whole) return "";
@@ -88,6 +92,7 @@ function glossOf(name, GLOSSES) {
   const tailGloss = tail && tail !== words[0] && CURATED_SET.has(tail.replace(/^ال/, "")) ? look(tail) : "";
   const headName = headGloss.split(",")[0];
   const tailName = tailGloss.split(",")[0].split("(")[0].trim();
+  if (tailGloss && NO_JOIN.has(tail.replace(/^\u0627\u0644/, ""))) return tailGloss;
   if (headGloss && tailGloss) return headName + " of " + tailName;
   return headGloss || tailGloss || "";
 }
