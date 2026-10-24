@@ -319,6 +319,7 @@ const NAME_EN = new Map([
   ["abdullah bin al zobier street", "Abdullah Bin Al Zubair Street"],
   ["az zubair bin al 'awwam street", "Al Zubair Bin Al 'Awam Street"],
   ["abu bakr bin ayyash street", "Abi Bakr Bin Ayyash Street"],
+  ["sheikh sabah al ahmad al jaber al sabah street", "Sabah Al Ahmed Al Jaber Al Sabah Street"],
 ]);
 
 const AR_OVERRIDES = new Map([

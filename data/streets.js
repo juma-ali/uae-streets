@@ -24014,18 +24014,23 @@ window.STREETS = [
   "id": "zayed-bin-sultan-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زايد بن سلطان",
   "en": "Zayed Bin Sultan Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The founder and first President of the Emirates",
+    "ar": "مؤسس الدولة وأول رئيس لها"
   },
   "story": {
-    "en": "The street carries the name of زايد بن سلطان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم زايد بن سلطان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The street is named for Sheikh Zayed bin Sultan Al Nahyan (1918–2004), the founder of the United Arab Emirates and its first President.",
+    "ar": "سُمّي الشارع باسم الشيخ زايد بن سلطان آل نهيان (١٩١٨–٢٠٠٤)، مؤسس دولة الإمارات وأول رئيس لها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — زايد بن سلطان آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/زايد_بن_سلطان_آل_نهيان"
+    }
+  ]
 },
 {
   "id": "zuhrah-bin-humaydah-street",
@@ -24308,18 +24313,23 @@ window.STREETS = [
   "id": "sheikh-maktoum-bin-rashid-al-maktoom-street",
   "emirate": "ajman",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ مكتوم بن راشد آل مكتوم",
   "en": "Sheikh Maktoum Bin Rashid Al Maktoom Street",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "Ruler of Dubai, 1990–2006",
+    "ar": "حاكم دبي بين ١٩٩٠ و٢٠٠٦"
   },
   "story": {
-    "en": "The street is named for Maktoum Bin Rashid Al Maktoom, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الشارع باسم مكتوم بن راشد آل مكتوم، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Maktoum bin Rashid Al Maktoum (1943–2006) ruled Dubai from 1990 until his death in January 2006, and was Vice President of the Emirates.",
+    "ar": "الشيخ مكتوم بن راشد آل مكتوم (١٩٤٣–٢٠٠٦) حاكم إمارة دبي من ١٩٩٠ حتى وفاته في يناير ٢٠٠٦، ونائب رئيس الدولة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — مكتوم بن راشد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/مكتوم_بن_راشد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-maktoum-bridge",
@@ -24459,18 +24469,23 @@ window.STREETS = [
   "id": "sabah-al-ahmed-al-jaber-al-sabah-street",
   "emirate": "dubai",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ صباح الأحمد الجابر الصباح",
   "en": "Sabah Al Ahmed Al Jaber Al Sabah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Emir of Kuwait, 2006–2020",
+    "ar": "أمير دولة الكويت بين ٢٠٠٦ و٢٠٢٠"
   },
   "story": {
-    "en": "The street carries the name of الشيخ صباح الأحمد الجابر الصباح. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الشيخ صباح الأحمد الجابر الصباح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Sheikh Sabah al-Ahmad al-Jaber al-Sabah (1929–2020) was Emir of Kuwait from 29 January 2006 until his death on 29 September 2020.",
+    "ar": "الشيخ صباح الأحمد الجابر الصباح (١٩٢٩–٢٠٢٠) أمير دولة الكويت من ٢٩ يناير ٢٠٠٦ حتى وفاته في ٢٩ سبتمبر ٢٠٢٠."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — صباح الأحمد الجابر الصباح",
+      "url": "https://ar.wikipedia.org/wiki/صباح_الأحمد_الجابر_الصباح"
+    }
+  ]
 },
 {
   "id": "sheikh-mohammed-bin-rashid-boulevard",
@@ -24630,35 +24645,45 @@ window.STREETS = [
   "id": "sheikh-khalid-bin-mohammed-al-qasimi-street",
   "emirate": "fujairah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ خالد بن محمد القاسمي",
   "en": "Sheikh Khalid Bin Mohammed Al Qasimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "en": "Ruler of Sharjah, 1965–1972",
+    "ar": "حاكم الشارقة بين ١٩٦٥ و١٩٧٢"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Khalid Bin Mohammed, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ خالد بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Khalid bin Mohammed Al Qasimi (1927–1972) was ruler of Sharjah from June 1965 until January 1972.",
+    "ar": "الشيخ خالد بن محمد القاسمي (١٩٢٧–١٩٧٢) حاكم إمارة الشارقة من يونيو ١٩٦٥ حتى يناير ١٩٧٢."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خالد بن محمد القاسمي",
+      "url": "https://ar.wikipedia.org/wiki/خالد_بن_محمد_القاسمي"
+    }
+  ]
 },
 {
   "id": "sheikh-maktoum-bin-rashid-al-maktoum-road",
   "emirate": "fujairah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ مكتوم بن راشد آل مكتوم",
   "en": "Sheikh Maktoum Bin Rashid Al Maktoum Road",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "A road named for the ruler of Dubai (1990–2006)",
+    "ar": "طريق باسم حاكم دبي بين ١٩٩٠ و٢٠٠٦"
   },
   "story": {
-    "en": "The street is named for Maktoum Bin Rashid Al Maktoum, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الطريق باسم الشيخ مكتوم بن راشد آل مكتوم (ت ٢٠٠٦)، حاكم إمارة دبي بين ١٩٩٠ و٢٠٠٦."
+    "en": "The road bears the name of Sheikh Maktoum bin Rashid Al Maktoum (1943–2006), who ruled Dubai from 1990 until 2006.",
+    "ar": "يحمل الطريق اسم الشيخ مكتوم بن راشد آل مكتوم (١٩٤٣–٢٠٠٦)، حاكم دبي بين ١٩٩٠ و٢٠٠٦."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — مكتوم بن راشد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/مكتوم_بن_راشد_آل_مكتوم"
+    }
+  ]
 },
 {
   "id": "sheikh-maktoum-street",
@@ -24732,18 +24757,23 @@ window.STREETS = [
   "id": "sheikh-zayed-bin-sultan-road",
   "emirate": "fujairah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ زايد بن سلطان",
   "en": "Sheikh Zayed Bin Sultan Road",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "The first President of the United Arab Emirates",
+    "ar": "أول رئيس لدولة الإمارات"
   },
   "story": {
-    "en": "The street is named for Zayed Bin Sultan, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الطريق باسم زايد بن سلطان، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Zayed bin Sultan Al Nahyan (1918–2004) was the first President of the United Arab Emirates, from 1971 until his death in 2004.",
+    "ar": "الشيخ زايد بن سلطان آل نهيان (١٩١٨–٢٠٠٤) أول رئيس لدولة الإمارات، من ١٩٧١ حتى وفاته سنة ٢٠٠٤."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — زايد بن سلطان آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/زايد_بن_سلطان_آل_نهيان"
+    }
+  ]
 },
 {
   "id": "bin-dhaher-roundabout",
@@ -24839,18 +24869,23 @@ window.STREETS = [
   "id": "sheikh-saqr-bin-mohammad-al-qasimi-road",
   "emirate": "ras-al-khaimah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ صقر بن محمد القاسمي",
   "en": "Sheikh Saqr Bin Mohammad Al Qasimi Road",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "en": "Ruler of Ras Al Khaimah, 1948–2010",
+    "ar": "حاكم رأس الخيمة بين ١٩٤٨ و٢٠١٠"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Saqr Bin Mohammad, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الطريق باسم الشيخ صقر بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The road is named for Sheikh Saqr bin Mohammed Al Qasimi (1918–2010), ruler of Ras Al Khaimah for sixty-two years, from 1948 until his death.",
+    "ar": "سُمّي الطريق باسم الشيخ صقر بن محمد القاسمي (١٩١٨–٢٠١٠)، حاكم رأس الخيمة اثنتين وستين سنة، من ١٩٤٨ حتى وفاته."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — صقر بن محمد القاسمي",
+      "url": "https://ar.wikipedia.org/wiki/صقر_بن_محمد_القاسمي"
+    }
+  ]
 },
 {
   "id": "abbas-bin-obadah-street",
@@ -29807,18 +29842,23 @@ window.STREETS = [
   "id": "sultan-qaboos-road",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق السلطان قابوس",
   "en": "Sultan Qaboos Road",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Sultan of Oman, 1970–2020",
+    "ar": "سلطان عُمان بين ١٩٧٠ و٢٠٢٠"
   },
   "story": {
-    "en": "The street carries the name of السلطان قابوس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم السلطان قابوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Sultan Qaboos bin Said (1940–2020) ruled Oman from 23 July 1970 until his death in January 2020.",
+    "ar": "السلطان قابوس بن سعيد (١٩٤٠–٢٠٢٠) حكم عُمان من ٢٣ يوليو ١٩٧٠ حتى وفاته في يناير ٢٠٢٠."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — قابوس بن سعيد",
+      "url": "https://ar.wikipedia.org/wiki/قابوس_بن_سعيد"
+    }
+  ]
 },
 {
   "id": "suraqah-bin-ka-eb-street",
