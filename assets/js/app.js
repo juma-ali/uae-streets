@@ -187,7 +187,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261026k";
+    s.src = "data/cards.js?v=20261026m";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -231,7 +231,15 @@
   /* Every road has facts even when nobody has written its story: the naming
      pattern, the district, the gloss, a former name, a route number. Compose them
      into a sentence rather than printing a placeholder. */
-  function glossIn(s, ar) { return s && (ar ? /[\u0600-\u06FF]/.test(s) : !/[\u0600-\u06FF]/.test(s)) ? s : ""; }
+  /* The glosses are English; the Arabic column above covers the most frequent
+     of them so the Arabic interface is not left without a meaning. */
+  function glossIn(s, ar) {
+    if (!s) return "";
+    if (!ar) return /[\u0600-\u06FF]/.test(s) ? "" : s;
+    if (/[\u0600-\u06FF]/.test(s)) return s;
+    var m = window.GLOSS_AR && window.GLOSS_AR[s];
+    return m || "";
+  }
 
   /* When a street has no gloss and no card, the name itself still says something:
      a "bin/bint" name is a person and their father, a nisba ending is a family,
