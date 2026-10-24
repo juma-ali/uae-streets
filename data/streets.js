@@ -23243,12 +23243,12 @@ window.STREETS = [
   "ar": "طريق الشيخة سلامة بنت بطي",
   "en": "Sheikha Salama Bint Butti Road",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "The mother of Sheikh Zayed",
+    "ar": "والدة الشيخ زايد"
   },
   "story": {
-    "en": "The street is named for Salama Bint Butti, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الطريق باسم سلامة بنت بطي، وهي من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "The road is named for Sheikha Salama bint Butti, the mother of Sheikh Zayed bin Sultan Al Nahyan. No published biography of her was found.",
+    "ar": "سُمّي الطريق باسم الشيخة سلامة بنت بطي، والدة الشيخ زايد بن سلطان آل نهيان، ولم يُعثر على ترجمة منشورة لها."
   },
   "refs": []
 },
