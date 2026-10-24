@@ -496,23 +496,18 @@ const PLACE_NAMES = new Set([
 const NOT_A_STREET_2 = /(arabella|juniper|park avenue|rochester|richmond|stockholm|topanga|valencia grove|wildflower|shoreline|silk leaf|vida residence|mai tower|morocco [ij]|semmer|quortaj|park road (east|south)|crescent drive|gateway avenue|grand avenue|green boulevard|central boulevard|exhibition boulevard|hills grove|hills view|fairways|golf town|parkways|naseej|old way|inner road|north entrance|road to rhc|wonderful road|first street|interchange no|road: wb|m1 master|dwc peripheral|entrance [abc]|lakes roundabout|verona roundabout|dolphin roundabout|lantern roundabout|pot roundabout|scale roundabout|tent roundabout|boat roundabout|pearl roundabout|centro courtyard|emirates cluster|heights east|camelia [12]|arenco|alghandi|office no)/i;
 
 function fuzzyStory(key, keys) {
-  /* Same person, different transliteration: the first name must match exactly
-     and at most one later word may differ, by at most two letters. */
-  const a = key.split(" ").filter(Boolean);
+  /* Transliterations wander: Khaled/Khalid, Ahmed/Ahmad, Alwaleed/Al Waleed.
+     Only for long keys, where a two-letter difference cannot be another street:
+     a short "Al 'Adi" must never borrow "Al Razi". */
+  const flat = key.replace(/ /g, "");
+  if (flat.length < 14) return "";
   let best = "", bestD = 3;
   for (const k of keys) {
-    const b = k.split(" ").filter(Boolean);
-    if (a.length !== b.length || a[0] !== b[0]) continue;
-    let diff = 0, d = 0, ok = true;
-    for (let i = 0; i < a.length; i++) {
-      if (a[i] === b[i]) continue;
-      const e = editDistance(a[i], b[i]);
-      if (e > 2 || ++diff > 1) { ok = false; break; }
-      d = e;
-    }
-    if (!ok) continue;
-    if (diff < bestD) { bestD = diff; best = k; }
-    else if (diff === bestD && best && k !== best) best = "";
+    const fk = k.replace(/ /g, "");
+    if (Math.abs(fk.length - flat.length) > 2) continue;
+    const d = editDistance(flat, fk);
+    if (d < bestD) { bestD = d; best = k; }
+    else if (d === bestD && best && k !== best) best = "";
   }
   return best ? storyByName.get(best) || "" : "";
 }
@@ -536,12 +531,13 @@ for (const s of KB.streets) {
   if (PERSON_NAMES.has(bare)) cat = "person";
   else if (PLACE_NAMES.has(bare) || String(bare).split(/\s|-|–/).some((w) => PLACE_NAMES.has(w))) cat = "place";
   const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, ALL_GLOSSES) : "";
-  let story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
+  let story = storyByName.get(nameKey(en)) || "";
   if (!story) {
     for (const [canon, alts] of Object.entries(SYNONYMS)) {
       if (alts.some((a) => nameKey(a) === nameKey(en))) { story = storyByName.get(nameKey(canon)) || ""; break; }
     }
   }
+  if (!story) story = fuzzyStory(nameKey(en), storyKeys);
   rows.push([
     en,
     arFixed,
