@@ -15056,5 +15056,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/آل_نهيان"
     }
   ]
+},
+{
+  "id": "akrash-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "documented",
+  "ar": "شارع عكرش",
+  "en": "'Akrash Street",
+  "translit": "Shāriʿ ʿIkrish",
+  "meaning": {
+    "en": "A coarse wild grass of damp, saline ground",
+    "ar": "نبات عشبي بري خشن في الأرض النَزّ"
+  },
+  "story": {
+    "en": "Al Akrash (Aeluropus) is a genus of coarse wild grasses of the Poaceae family, growing in damp or saline ground and noted for its interlocking, twisted leaves and sharp, thorn-like tips.",
+    "ar": "العِكرِش جنس نباتي من الفصيلة النجيلية، ينمو عشبه الخشن في الأرض النَزّ ذات الرطوبة أو الملوحة، ويتميز بأوراقه المتداخلة الملتفة وأطرافه المدببة كالشوك."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — عكرش",
+      "url": "https://ar.wikipedia.org/wiki/عكرش"
+    }
+  ]
 }
 ];

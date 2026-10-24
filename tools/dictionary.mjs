@@ -65,6 +65,7 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "عكرش": "a coarse wild grass of damp, saline ground (Aeluropus)",
   /* Sand landforms, from Al Bayan's dialect series (Ahmad Obaid, 30 Sep 2007). */
   "نيوه": "a rise above the valley floor, out of reach of floods",
   "قعيده": "a large desert sand hill",
