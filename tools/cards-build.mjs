@@ -208,10 +208,17 @@ const PERSON_NAMES = new Set([
    They are places, but they are not street names, so no card is built. */
 const NOT_A_STREET = /(^|\s)(service|tertiary|secondary|access|industrial|minor|natural|coast|ring|depot|connection|connector|light vehicles|main avenue|taxi queue|park drive|no name|oaisis|^oasis$)(\s|$)|(^(zone|frond|villas?|villa|block|cluster|townhouses?|residence|tower|complex|terminal|district|sector)\b)|((^|\s)(villas?|blocks?|townhouses?|residence|cluster|terminal|zone)\s*[0-9a-z])|(\d+\s*(st|street|road|rd|stret|rou?ndabout))|(akoya|jumeirah islands|al badia|arabian ranches|mudon|expo village|nadd al sheba|\bjvt\b|\bmbr\b|calida|under ?pass|junction|eagle square|rock crushers|stone crush|group|welded|arrival|departure)/i;
 
+
+/* Arabic names that OpenStreetMap does not carry. Keys are the English name as
+   OSM spells it; values are the Arabic as it appears on the sign or in use. */
+const AR_OVERRIDES = new Map([
+  ["abi al adarham al zamani street", "شارع أبي الأدرهم الزماني"],
+]);
+
 const rows = [];
 for (const s of KB.streets) {
   const en = s.name_en || "";
-  const ar = s.name_ar || "";
+  const ar = s.name_ar || AR_OVERRIDES.get(String(en).trim().toLowerCase()) || "";
   if (!en && !ar) continue;
   if (NOT_A_NAME.test(String(en).trim())) continue;
   if (NOT_A_STREET.test(String(en).trim())) continue;
