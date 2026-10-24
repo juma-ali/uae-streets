@@ -65,6 +65,7 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "سلامه": "safety, soundness, well-being",
   "طف": "a low mound, a bank",
   "حومه": "low ground by water; a quarter",
   "دامن": "stained, marked by a clinging trace",

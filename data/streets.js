@@ -19941,17 +19941,17 @@ window.STREETS = [
 {
   "id": "as-salamah-street",
   "emirate": "abu-dhabi",
-  "category": "person",
+  "category": "word",
   "origin": "unsourced",
   "ar": "شارع السَّلامة",
   "en": "As Salamah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Safety, soundness, well-being",
+    "ar": "السلامة والعافية"
   },
   "story": {
-    "en": "The street carries the name of السَّلامة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم السَّلامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The street is named for a word: salama, safety or soundness. A common noun, not a person, so the guide records the meaning and claims no biography.",
+    "ar": "سُمّي الشارع بكلمة «السلامة»، وهي مصدر يدل على العافية والنجاة، وليس اسم شخص، فيسجّل الدليل معناها ولا ينسبها إلى أحد."
   },
   "refs": []
 },

@@ -64,6 +64,10 @@ const PERSON_AR = /(^|\s)(بن|بنت|ابن|ابي|أبي|عبد|الشيخ|ا�
 
 const GEO_WORDS_EN = /(^|\s)(tawi|sayh|wadi|jabal|jebel|niqa|arqoub|hadbah|qarn|ras|jazirat|khor|sabkha|raml|bad'|qal'at|hisn|suq)(\s|$)/i;
 
+/* Words that are also given names. On a street sign the common noun wins:
+   "السلامة" is safety, not a woman called Salama. */
+const WORD_FIX = new Set(["سلامه", "سلام", "نور", "فجر", "شروق", "امل", "ايمان", "صفاء", "وفاء", "سعاده", "فرح", "رحمه", "بركه", "حكمه", "عزه", "قوه", "نعمه", "صحه", "امن", "سلامه"]);
+
 function classify(s) {
   const n = s.name_en || "";
   const a = s.name_ar || "";
@@ -71,6 +75,8 @@ function classify(s) {
   const tokens = n.trim().split(/\s+/);
 
   if (EVENT.test(n) || EVENT_AR.test(norm(a))) return "event";
+  const hFix = headAr(s).replace(/^ال/, "");
+  if (WORD_FIX.has(hFix)) return "word";
 
   // a person: patronymic markers, or a given name as the head
   if (PERSON_EN.test(n) || PERSON_AR.test(norm(a))) return "person";
