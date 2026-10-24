@@ -202,6 +202,13 @@ const PERSON_NAMES = new Set([
   "عبدلله عاي اهمد المصوري",
   "ابو ايوب اك انيم",
   "ابو محجن الثقفي",
+  "فضيل بن نعمان",
+  "حرقوص بن زهير",
+  "عماره المري",
+  "اعراف بن الاعلم",
+  "مدلول",
+  "صفدي",
+  "يشكري",
 ]);
 
 
@@ -298,6 +305,31 @@ const AR_OVERRIDES = new Map([
   ["al muntazah complex", "مجمع المنتزه"],
   ["pompidou road", "طريق بومبيدو"],
   ["khallad al ansari street", "شارع خلاد الأنصاري"],
+  ["al a’ajbah street", "شارع العجيبة"],
+  ["al nethra street", "شارع النثرة"],
+  ["al quarda street", "شارع القرطة"],
+  ["al rizeem street", "شارع الرزيم"],
+  ["al tenkaasah street", "شارع التنكاشة"],
+  ["birouwaana street", "شارع بيروانة"],
+  ["khayoor street", "شارع خيور"],
+  ["meyanib street", "شارع ميانيب"],
+  ["zaghoor street", "شارع زغور"],
+  ["al naham street", "شارع النهام"],
+  ["al yafnah road", "شارع اليفنة"],
+  ["defalas road", "شارع دفالس"],
+  ["madhloo l st", "شارع مدلول"],
+  ["madhloool st", "شارع مدلول"],
+  ["madhllool st", "شارع مدلول"],
+  ["madhlool st", "شارع مدلول"],
+  ["al a'araf bin al a'alam street", "شارع الأعراف بن الاعلم"],
+  ["al safadi street", "شارع الصفدي"],
+  ["al yashkuri st", "شارع اليشكري"],
+  ["dubai madam road", "شارع دبي المدام"],
+  ["fodil bin noaman street", "شارع فضيل بن نعمان"],
+  ["harqous bin zohair street", "شارع حرقوص بن زهير"],
+  ["omara al maree street", "شارع عمارة المري"],
+  ["wusha square", "ميدان وشحة"],
+  ["mdfaaq bridge-old bridge", "جسر المدفق - الجسر القديم"],
 ]);
 
 
@@ -353,7 +385,7 @@ const PLACE_NAMES = new Set([
   "جميرا",
   "زعبيل",
   "خورفكان",
-  "مليحه",
+  "وشحه",
 ]);
 
 
