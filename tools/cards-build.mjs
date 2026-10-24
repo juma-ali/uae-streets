@@ -79,6 +79,10 @@ const norm = (s) =>
    Glossing only the head word drops the half that identifies the place. */
 /* These read as suffixes, not as a second element: "Adham Boulevard" is not
    "shady of boulevard". */
+/* Roundabouts, tunnels and bridges take the name first in English:
+   "the airport roundabout", not "roundabout of airport". */
+const FEATURE_HEADS = new Set(["دوار", "نفق", "جسر", "ميدان", "ساحه", "تقاطع", "مخرج", "مدخل"]);
+
 const NO_JOIN = new Set(["بوليفارد", "كورنيش", "شارع", "طريق", "ميدان", "دوار", "نفق", "ساحه", "حديقه"]);
 
 function glossOf(name, GLOSSES) {
@@ -93,7 +97,10 @@ function glossOf(name, GLOSSES) {
   const headName = headGloss.split(",")[0];
   const tailName = tailGloss.split(",")[0].split("(")[0].trim();
   if (tailGloss && NO_JOIN.has(tail.replace(/^\u0627\u0644/, ""))) return tailGloss;
-  if (headGloss && tailGloss) return headName + " of " + tailName;
+  if (headGloss && tailGloss) {
+    if (FEATURE_HEADS.has(words[0].replace(/^\u0627\u0644/, ""))) return tailName + " " + headName;
+    return headName + " of " + tailName;
+  }
   return headGloss || tailGloss || "";
 }
 

@@ -16017,5 +16017,23 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/الذيد"
     }
   ]
+},
+{
+  "id": "airport-road",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "طريق المطار",
+  "en": "Airport Road",
+  "translit": "Ṭarīq al-Maṭār",
+  "meaning": {
+    "en": "The road to the airport",
+    "ar": "الطريق المؤدي إلى المطار"
+  },
+  "story": {
+    "en": "Named for the airport it leads to. The word maṭār — from ṭāra, to fly — is the modern Arabic term for an airfield with its runways and terminals, and several emirates have a road of this name.",
+    "ar": "سُمّي الطريق للمطار الذي يخدمه. و«المطار» من «طار»، وهو المصطلح العربي الحديث للمهبط الجوي بمدارجه وصالاته، ويوجد في عدة إمارات طريق بهذا الاسم."
+  },
+  "refs": []
 }
 ];
