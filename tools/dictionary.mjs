@@ -65,6 +65,12 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "صرمه": "palm tree (Emirati)",
+  "حوي": "house yard",
+  "دروازه": "door, gateway",
+  "غوازي": "money",
+  "موتر": "car (from motor)",
+  "فواله": "a small treat, snack",
   /* Dubai district names, from Al Bayan's interviews with Fahd Al Maamari and
      Juma bin Thalith (13 April 2025). */
   "قوز": "round sand hill (also qizan)",
