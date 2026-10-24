@@ -398,6 +398,7 @@ const AR_OVERRIDES = new Map([
   ["wusha square", "ميدان وشحة"],
   ["mdfaaq bridge-old bridge", "جسر المدفق - الجسر القديم"],
   ["sheik hamad b s street", "شارع الشيخ حمد بن سيف الشرقي"],
+  ["khalfan bin matar al rumaithi street", "شارع خلفان بن مطر الرميثي"],
 ]);
 
 
