@@ -49,7 +49,7 @@
       caveatTribe: "The tribe behind this name is on the record.",
       caveatLocal: "This explanation is widely told locally, but it is not officially recorded — treat it as oral history.",
       caveatAccount: "This account is recorded by the project; no published source is cited.",
-      caveatUnsourced: "No published source was found for this name. The entry records only what is asserted about it, and should be read with caution.",
+      caveatUnsourced: "No published source was found for this name. The entry records the name on the sign and claims nothing further.",
       noArabicName: "No Arabic name recorded",
       categoryNoun: { person: "Named after a person", place: "Named after a place", word: "An Arabic word", tribe: "Named after a tribe", event: "Named after an event" },
       countOne: "1 street",
@@ -83,7 +83,7 @@
       caveatLocal: "هذا التفسير شائع محلياً لكنه غير مسجّل رسمياً — تعامل معه كتاريخ شفهي.",
       originUnsourced: "لا يوجد مرجع",
       caveatAccount: "هذه الرواية مسجّلة في المشروع، ولا يُذكر مصدر منشور.",
-      caveatUnsourced: "لم يُعثر على مصدر منشور لهذا الاسم، والبطاقة تنقل ما قيل عنه فقط، ويُقرأ بحذر.",
+      caveatUnsourced: "لم يُعثر على مصدر منشور لهذا الاسم، والبطاقة تسجّل الاسم كما ورد على اللوحة ولا تنسب إليه غيره.",
       categoryNoun: { person: "سُمّي على اسم شخص", place: "سُمّي على اسم مكان", word: "كلمة عربية", tribe: "سُمّي على اسم قبيلة", event: "سُمّي على اسم حدث" },
       countOne: "شارع واحد",
       countMany: "{n} شارعاً",
@@ -188,7 +188,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261028p";
+    s.src = "data/cards.js?v=20261028q";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
