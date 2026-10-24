@@ -2428,18 +2428,23 @@ window.STREETS = [
   "id": "al-sa-ab-bin-jothama-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الصعب بن جثامة",
   "en": "Al Sa'ab Bin Jothama Street",
   "meaning": {
-    "en": "A Companion named in hadith",
-    "ar": "صحابي ورد ذكره في الحديث"
+    "en": "A Companion present at the conquest of Fars",
+    "ar": "صحابي، شهد فتح فارس"
   },
   "story": {
-    "en": "Al-Sa'b ibn Jathama was a Companion named in hadith literature.",
-    "ar": "الصعب بن جثامة صحابي ورد اسمه في روايات الحديث."
+    "en": "Al-Sa'b ibn Jathama was a Companion who lived into the time of the Prophet and witnessed the conquest of Istakhr and Fars. At Hunayn the Prophet said that but for him the cavalry would have been disgraced.",
+    "ar": "الصعب بن جثامة صحابي أدرك عصر النبوة، وحضر فتح اصطخر وفارس، وقال النبي يوم حنين: «لولا الصعب بن جثامة لفضحت الخيل»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "al-munthir-bin-amr-street",
@@ -2533,18 +2538,23 @@ window.STREETS = [
   "id": "nawfal-bin-abdullah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع نوفل بن عبدالله",
   "en": "Nawfal Bin Abdullah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion who fought at Badr and was killed at Uhud",
+    "ar": "صحابي، شهد بدراً وقُتل يوم أحد"
   },
   "story": {
-    "en": "No published source was found identifying who Nawfal Bin Abdullah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «نوفل بن عبدالله» الذي يحمل الشارع اسمه."
+    "en": "Nawfal ibn Abdullah ibn Sinan was a Companion counted among those who fought at Badr, and he was killed at Uhud.",
+    "ar": "نوفل بن عبد الله بن سنان صحابي، عُدّ فيمن شهد بدراً، وقُتل يوم أحد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "al-harith-bin-anas-street",
@@ -2589,18 +2599,23 @@ window.STREETS = [
   "id": "al-tufail-bin-al-hareth-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الطفيل بن الحارث",
   "en": "Al Tufail Bin Al Hareth Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion, brother of al-Husayn ibn al-Harith",
+    "ar": "صحابي، أخو الحصين بن الحارث"
   },
   "story": {
-    "en": "No published source was found identifying who Al Tufail Bin Al Hareth — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الطفيل بن الحارث» الذي يحمل الشارع اسمه."
+    "en": "Al-Tufayl ibn al-Harith ibn al-Muttalib was a Companion. He and his brother al-Husayn were born in the same year, and he died in 31 AH, followed by his brother four months later.",
+    "ar": "الطفيل بن الحارث بن المطلب صحابي، وهو وأخوه الحصين في عام واحد، وتوفي سنة ٣١هـ، ثم تلاه أخوه بعده بأربعة أشهر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "al-nu-man-bin-ouf-street",
@@ -5205,35 +5220,45 @@ window.STREETS = [
   "id": "al-hur-bin-abdullarahman-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحر بن عبدالرحمن",
   "en": "Al Hur Bin Abdullarahman Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A governor of al-Andalus",
+    "ar": "والي الأندلس في العهد الأموي"
   },
   "story": {
-    "en": "No published source was found identifying who Al Hur Bin Abdullarahman — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحر بن عبدالرحمن» الذي يحمل الشارع اسمه."
+    "en": "Al-Hurr ibn Abd al-Rahman al-Thaqafi was appointed governor of al-Andalus after the killing of Abd al-Aziz ibn Musa ibn Nusayr, and he settled his troops east of Cordoba.",
+    "ar": "الحر بن عبد الرحمن الثقفي ولي الأندلس بعد مقتل عبد العزيز بن موسى بن نصير، وكانت له بلاط الحر في شرقي قرطبة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — خير الدين الزركلي",
+      "url": "https://archive.org/details/alam6"
+    }
+  ]
 },
 {
   "id": "al-hur-bin-malek-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحر بن مالك",
   "en": "Al Hur Bin Malek Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion who fought at Uhud",
+    "ar": "صحابي، شهد أحداً"
   },
   "story": {
-    "en": "No published source was found identifying who Al Hur Bin Malek — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحر بن مالك» الذي يحمل الشارع اسمه."
+    "en": "Al-Hurr ibn Malik was a Companion who is counted among those who fought at Uhud.",
+    "ar": "الحر بن مالك صحابي، عُدّ فيمن شهد غزوة أحد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "al-hussain-bin-al-hareth-street",
@@ -5358,18 +5383,23 @@ window.STREETS = [
   "id": "al-shifa-bint-abdullah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشفاء بنت عبدالله",
   "en": "Al Shifa Bint Abdullah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A woman Companion, narrator of hadith",
+    "ar": "صحابية، من رواة الحديث"
   },
   "story": {
-    "en": "No published source was found identifying who Al Shifa Bint Abdullah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الشفاء بنت عبدالله» الذي يحمل الشارع اسمه."
+    "en": "Al-Shifa bint Abdullah was a woman Companion who is remembered in a hadith she narrated after visiting the Prophet, transmitted from her by al-Zuhri.",
+    "ar": "الشفاء بنت عبد الله صحابية، لها ذكر في حديث رواه الأوزاعي عن الزهري عنها، وروت دخولها على النبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "sultan-bin-hwaidn-street",
@@ -5443,18 +5473,23 @@ window.STREETS = [
   "id": "al-fadel-bin-abbas-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الفضل بن عباس",
   "en": "Al Fadel Bin Abbas Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Hashimite of the Quraysh, son of al-Abbas",
+    "ar": "هاشمي قرشي، ابن العباس"
   },
   "story": {
-    "en": "No published source was found identifying who Al Fadel Bin Abbas — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الفضل بن عباس» الذي يحمل الشارع اسمه."
+    "en": "Al-Fadl ibn al-Abbas ibn Rabi'a al-Hashimi was of the men of the Quraysh, a son of al-Abbas ibn Abd al-Muttalib.",
+    "ar": "الفضل بن العباس بن ربيعة الهاشمي، من رجال قريش، وهو ابن العباس بن عبد المطلب."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — خير الدين الزركلي",
+      "url": "https://archive.org/details/alam6"
+    }
+  ]
 },
 {
   "id": "al-fadhel-bin-ali-abbas-street",
@@ -5704,18 +5739,23 @@ window.STREETS = [
   "id": "basheer-bin-al-khasasya-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بشير بن الخصاصية",
   "en": "Basheer Bin Al Khasasya Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion who emigrated from Rabi'a",
+    "ar": "صحابي، هاجر من ربيعة إلى النبي"
   },
   "story": {
-    "en": "No published source was found identifying who Basheer Bin Al Khasasya — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشير بن الخصاصية» الذي يحمل الشارع اسمه."
+    "en": "Bashir ibn al-Khasasiya was one of four men of Rabi'a who emigrated to the Prophet, coming from al-Yamama.",
+    "ar": "بشير بن الخصاصية أحد أربعة رجال من ربيعة هاجروا إلى النبي، وقدموا من اليمامة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "basheer-bin-ma-bad-street",
@@ -5840,18 +5880,23 @@ window.STREETS = [
   "id": "tameem-bin-al-harith-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع تَمِيم بن الحارِث",
   "en": "Tameem Bin Al Harith Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion who emigrated to Abyssinia",
+    "ar": "صحابي، من مهاجرة الحبشة"
   },
   "story": {
-    "en": "No published source was found identifying who Tameem Bin Al Harith — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «تَمِيم بن الحارِث» الذي يحمل الشارع اسمه."
+    "en": "Tamim ibn al-Harith al-Sahmi was among those who emigrated to Abyssinia, and he was killed at Ajnadayn in Syria.",
+    "ar": "تميم بن الحارث السهمي من مهاجرة الحبشة، وقُتل بأجنادين من أرض الشام."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "thabit-bin-zayd-street",
@@ -5874,18 +5919,23 @@ window.STREETS = [
   "id": "thabit-bin-obied-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثابت بن عبيد",
   "en": "Thabit Bin Obied Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion who fought at Badr and at Siffin",
+    "ar": "صحابي، شهد بدراً وصفّين"
   },
   "story": {
-    "en": "No published source was found identifying who Thabit Bin Obied — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن عبيد» الذي يحمل الشارع اسمه."
+    "en": "Thabit ibn Ubayd al-Ansari was a Companion who fought at Badr and was later present at Siffin with Ali ibn Abi Talib.",
+    "ar": "ثابت بن عبيد الأنصاري صحابي، شهد بدراً، وشهد صفّين مع علي بن أبي طالب."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "thabet-bin-wae-alah-street",
@@ -5908,18 +5958,23 @@ window.STREETS = [
   "id": "thabit-bin-waqsh-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثابِت بن وَقش",
   "en": "Thabit Bin Waqsh Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion killed at Uhud",
+    "ar": "صحابي، قُتل يوم أحد"
   },
   "story": {
-    "en": "No published source was found identifying who Thabit Bin Waqsh — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن وقش» الذي يحمل الشارع اسمه."
+    "en": "Thabit ibn Waqsh al-Ansari, of the Banu Abd al-Ashhal of the Aws, was killed at Uhud, and the Prophet gave tidings that Paradise was his.",
+    "ar": "ثابت بن وقش الأنصاري من بني عبد الأشهل من الأوس، قُتل يوم أحد، وشهد له النبي بالجنة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة في معرفة الصحابة — ابن الأثير",
+      "url": "https://archive.org/details/01-22240"
+    }
+  ]
 },
 {
   "id": "thabit-bin-yazeed-street",
