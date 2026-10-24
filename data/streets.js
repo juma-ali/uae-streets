@@ -24302,18 +24302,24 @@ window.STREETS = [
   "id": "seif-aldawlah-road",
   "emirate": "fujairah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف الدولة",
   "en": "Seif AlDawlah Road",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "Founder of the Emirate of Aleppo",
+    "ar": "مؤسس إمارة حلب"
   },
   "story": {
-    "en": "The street carries the name of Seif AlDawlah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم سيف الدوله، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sayf al-Dawla al-Hamdani (915–967) founded the Emirate of Aleppo and made his court a home for poets and scholars — al-Mutanabbi and Abu Firas al-Hamdani among them, who also have streets in the Emirates.",
+    "ar": "سيف الدولة الحمداني (٣٠٣–٣٥٦هـ / ٩١٥–٩٦٧م)، وهو أبو الحسن علي بن أبي الهيجاء بن حمدان، مؤسس إمارة حلب، جمع في بلاطه الشعراء والعلماء، ومنهم المتنبي وأبو فراس الحمداني، ولكل منهما شارع في الإمارات."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — سيف الدولة الحمداني",
+      "url": "https://ar.wikipedia.org/wiki/سيف_الدولة_الحمداني"
+    }
+  ],
+  "translit": "Shāriʿ Sayf al-Dawla"
 },
 {
   "id": "sheikh-hamad-bin-abdullah-al-sharqi-road",

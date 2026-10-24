@@ -284,7 +284,8 @@ const NOT_A_STREET = /(^|\s)(service|tertiary|secondary|access|industrial|minor|
    OSM spells it; values are the Arabic as it appears on the sign or in use. */
 /* OSM names that were cut short. Keyed by the lowercase OSM name. */
 const NAME_EN = new Map([
-  ["sheik hamad b s street", "Sheikh Hamad Bin Saif Al Sharqi Street"]
+  ["sheik hamad b s street", "Sheikh Hamad Bin Saif Al Sharqi Street"],
+  ["seif aldawlah road", "Seif Al Dawlah Road"]
 ]);
 
 const AR_OVERRIDES = new Map([
