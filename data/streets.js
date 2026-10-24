@@ -2313,86 +2313,111 @@ window.STREETS = [
   "id": "thabit-bin-qays-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثابت بن قيس",
   "en": "Thabit Bin Qays Street",
   "meaning": {
-    "en": "An Ansari Companion, the Prophet's orator",
+    "en": "Thabit Bin Qays — transmitter of poetry",
     "ar": "صحابي أنصاري خطيب"
   },
   "story": {
-    "en": "Thabit ibn Qays was an Ansari Companion known for his oratory; biographical works describe him as the Prophet's orator.",
-    "ar": "ثابت بن قيس صحابي من الأنصار عُرف بخطابته، وتذكر كتب السيرة أنه كان خطيب النبي."
+    "en": "Thabit Bin Qays was a transmitter of poetry.",
+    "ar": "ثابت بن قيس من رواة الشعر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — ثابت بن قيس بن الخطيم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%86_%D9%82%D9%8A%D8%B3_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D9%85"
+    }
+  ]
 },
 {
   "id": "amer-bin-rabi-ah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عامر بن ربيعة",
   "en": "Amer Bin Rabi'ah Street",
   "meaning": {
-    "en": "An early Companion",
+    "en": "Amer Bin Rabi'ah — companion of the Prophet Muhammad",
     "ar": "صحابي من السابقين"
   },
   "story": {
-    "en": "Amir ibn Rabi'ah was among the early Muslims; he emigrated to Abyssinia and later to Medina, and biographical works record his hadith transmissions.",
-    "ar": "عامر بن ربيعة من السابقين إلى الإسلام، هاجر إلى الحبشة ثم إلى المدينة، وتذكر كتب التراجم روايته للحديث."
+    "en": "Amer Bin Rabi'ah was a companion of the Prophet Muhammad.",
+    "ar": "عامر بن ربيعة صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عامر بن ربيعة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A7%D9%85%D8%B1_%D8%A8%D9%86_%D8%B1%D8%A8%D9%8A%D8%B9%D8%A9"
+    }
+  ]
 },
 {
   "id": "amer-bin-fuhairah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عامر بن فهيرة",
   "en": "Amer Bin Fuhairah Street",
   "meaning": {
-    "en": "A Companion, killed at Bi'r Ma'una",
+    "en": "Amer Bin Fuhairah — companion of the Prophet Muhammad",
     "ar": "صحابي قُتل في بئر معونة"
   },
   "story": {
-    "en": "Amir ibn Fuhayrah was a Companion and a freedman of Abu Bakr who took part in the migration and was killed at Bi'r Ma'una in 3 AH / 625 CE.",
-    "ar": "عامر بن فهيرة صحابي ومولى أبي بكر، شارك في الهجرة، وقُتل في بئر معونة سنة ٣هـ/٦٢٥م."
+    "en": "Amer Bin Fuhairah was a companion of the Prophet Muhammad.",
+    "ar": "عامر بن فهيرة صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عامر بن فهيرة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A7%D9%85%D8%B1_%D8%A8%D9%86_%D9%81%D9%87%D9%8A%D8%B1%D8%A9"
+    }
+  ]
 },
 {
   "id": "umayr-bin-abi-waqqas-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمير بن أبي وقاص",
   "en": "Umayr Bin Abi Waqqas Street",
   "meaning": {
-    "en": "A Companion, killed at Badr",
+    "en": "Umayr Bin Abi Waqqas — companion of the Prophet Muhammad",
     "ar": "صحابي قُتل في بدر"
   },
   "story": {
-    "en": "Umayr ibn Abi Waqqas was a Companion from the Banu Zuhrah and a brother of Sa'd ibn Abi Waqqas; accounts report his death at the battle of Badr.",
-    "ar": "عمير بن أبي وقاص صحابي من بني زهرة وأخو سعد بن أبي وقاص، وتذكر الروايات مقتله في غزوة بدر."
+    "en": "Umayr Bin Abi Waqqas was a companion of the Prophet Muhammad.",
+    "ar": "عمير بن أبي وقاص صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عمير بن أبي وقاص",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%8A%D8%B1_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D9%88%D9%82%D8%A7%D8%B5"
+    }
+  ]
 },
 {
   "id": "al-hubab-bin-al-mundhir-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحباب بن المنذر",
   "en": "Al Hubab Bin Al Mundhir Street",
   "meaning": {
-    "en": "An Ansari Companion at Badr",
+    "en": "Al Hubab Bin Al Mundhir — companion of the Prophet Muhammad",
     "ar": "صحابي أنصاري شهد بدراً"
   },
   "story": {
-    "en": "Al-Hubab ibn al-Mundhir was an Ansari Companion; accounts of the Prophet's campaigns record his presence at Badr and his advice on where the army should camp.",
-    "ar": "الحباب بن المنذر صحابي أنصاري، تذكر روايات السيرة مشاركته في بدر ومشورته في موضع نزول الجيش."
+    "en": "Al Hubab Bin Al Mundhir was a companion of the Prophet Muhammad.",
+    "ar": "الحباب بن المنذر صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — الحباب بن المنذر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A8%D8%A7%D8%A8_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D9%86%D8%B0%D8%B1"
+    }
+  ]
 },
 {
   "id": "al-sa-ab-bin-jothama-street",
@@ -2415,52 +2440,67 @@ window.STREETS = [
   "id": "al-munthir-bin-amr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع المنذر بن عمرو",
   "en": "Al Munthir Bin 'Amr Street",
   "meaning": {
-    "en": "An Ansari Companion, leader at Bi'r Ma'una",
+    "en": "Al Munthir Bin 'Amr — companion of the Prophet Muhammad",
     "ar": "صحابي أنصاري من قادة بئر معونة"
   },
   "story": {
-    "en": "Al-Mundhir ibn Amr was an Ansari Companion described in biographical works as one of the leaders of the expedition to Bi'r Ma'una in 4 AH / 625 CE.",
-    "ar": "المنذر بن عمرو صحابي أنصاري، تذكر كتب السيرة أنه من قادة بعثة بئر معونة سنة ٤هـ/٦٢٥م."
+    "en": "Al Munthir Bin 'Amr was a companion of the Prophet Muhammad.",
+    "ar": "المنذر بن عمرو صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — المنذر بن عمرو",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%86%D8%B0%D8%B1_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88"
+    }
+  ]
 },
 {
   "id": "al-nu-man-bin-muqren-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع النعمان بن مقرن",
   "en": "Al Nu'man Bin Muqren Street",
   "meaning": {
-    "en": "A Companion and commander, killed at Nahavand",
+    "en": "Al Nu'man Bin Muqren — companion of the Prophet Muhammad",
     "ar": "صحابي وقائد قُتل في نهاوند"
   },
   "story": {
-    "en": "Al-Nu'man ibn Muqrin was a Companion and commander associated with the campaigns in Persia; he was killed at the battle of Nahavand in 21 AH / 642 CE.",
-    "ar": "النعمان بن مقرن صحابي وقائد ارتبط اسمه بفتوح فارس، وقُتل في معركة نهاوند سنة ٢١هـ/٦٤٢م."
+    "en": "Al Nu'man Bin Muqren was a companion of the Prophet Muhammad.",
+    "ar": "النعمان بن مقرن صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — النعمان بن مقرن المزني",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D9%85%D9%82%D8%B1%D9%86_%D8%A7%D9%84%D9%85%D8%B2%D9%86%D9%8A"
+    }
+  ]
 },
 {
   "id": "bacheer-bin-sa-d-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بشير بن سعد",
   "en": "Bacheer Bin Sa'd Street",
   "meaning": {
-    "en": "An Ansari Companion",
+    "en": "Bacheer Bin Sa'd — companion of the Prophet Muhammad",
     "ar": "صحابي أنصاري"
   },
   "story": {
-    "en": "Bashir ibn Sa'd was an Ansari Companion of the Banu Khazraj, mentioned in accounts of the early Muslim community.",
-    "ar": "بشير بن سعد صحابي أنصاري من بني الخزرج، ورد ذكره في أخبار صدر الإسلام."
+    "en": "Bacheer Bin Sa'd was a companion of the Prophet Muhammad.",
+    "ar": "بشير بن سعد صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — بشير بن سعد بن ثعلبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A8%D8%B4%D9%8A%D8%B1_%D8%A8%D9%86_%D8%B3%D8%B9%D8%AF_%D8%A8%D9%86_%D8%AB%D8%B9%D9%84%D8%A8%D8%A9"
+    }
+  ]
 },
 {
   "id": "soraqah-bin-amr-street",
@@ -23350,18 +23390,23 @@ window.STREETS = [
   "id": "thabit-bin-ad-dahhak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثابِت بن الضَّحَّاك",
   "en": "Thabit Bin Ad Dahhak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Thabit Bin Ad Dahhak — companion of the Prophet Muhammad",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Thabit Bin Ad Dahhak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ثابت بن الضحاك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Thabit Bin Ad Dahhak was a companion of the Prophet Muhammad.",
+    "ar": "ثابِت بن الضَّحَّاك صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — ثابت بن الضحاك الأشهلي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AB%D8%A7%D8%A8%D8%AA_%D8%A8%D9%86_%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%83_%D8%A7%D9%84%D8%A3%D8%B4%D9%87%D9%84%D9%8A"
+    }
+  ]
 },
 {
   "id": "touyat-bin-hilal-street",
@@ -23401,18 +23446,23 @@ window.STREETS = [
   "id": "ubayd-bin-umayr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عُبَيد بن عُمَير",
   "en": "Ubayd Bin 'Umayr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Ubayd Bin 'Umayr — Tabi'i",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Ubayd Bin 'Umayr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبيد بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Ubayd Bin 'Umayr was a Tabi'i.",
+    "ar": "عُبَيد بن عُمَير تابعي من التابعين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عبيد بن عمير الليثي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D9%8A%D8%AF_%D8%A8%D9%86_%D8%B9%D9%85%D9%8A%D8%B1_%D8%A7%D9%84%D9%84%D9%8A%D8%AB%D9%8A"
+    }
+  ]
 },
 {
   "id": "ubaydah-bin-al-harith-bin-al-muttalib-street",
@@ -27227,18 +27277,23 @@ window.STREETS = [
   "id": "jaber-bin-eyas-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جبير بن إياس",
   "en": "Jaber Bin Eyas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Jaber Bin Eyas — companion of the Prophet Muhammad",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Jaber Bin Eyas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جبير بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Jaber Bin Eyas was a companion of the Prophet Muhammad.",
+    "ar": "جبير بن إياس صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — جبير بن إياس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AC%D8%A8%D9%8A%D8%B1_%D8%A8%D9%86_%D8%A5%D9%8A%D8%A7%D8%B3"
+    }
+  ]
 },
 {
   "id": "jabr-bin-anas-street",
@@ -27329,18 +27384,23 @@ window.STREETS = [
   "id": "kaeb-bin-omair-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع كعب بن عمير",
   "en": "Kaeb Bin Omair Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Kaeb Bin Omair — companion of the Prophet Muhammad",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Kaeb Bin Omair, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم كعب بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Kaeb Bin Omair was a companion of the Prophet Muhammad.",
+    "ar": "كعب بن عمير صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — كعب بن عمير الغفاري الكناني",
+      "url": "https://ar.wikipedia.org/wiki/%D9%83%D8%B9%D8%A8_%D8%A8%D9%86_%D8%B9%D9%85%D9%8A%D8%B1_%D8%A7%D9%84%D8%BA%D9%81%D8%A7%D8%B1%D9%8A_%D8%A7%D9%84%D9%83%D9%86%D8%A7%D9%86%D9%8A"
+    }
+  ]
 },
 {
   "id": "katheer-bin-amr-street",
@@ -27380,18 +27440,23 @@ window.STREETS = [
   "id": "khalid-bin-qais-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خالد بن قيس",
   "en": "Khalid Bin Qais Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Khalid Bin Qais — companion of the Prophet Muhammad",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Qais, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خالد بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Khalid Bin Qais was a companion of the Prophet Muhammad.",
+    "ar": "خالد بن قيس صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خالد بن قيس بن مالك",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%A8%D9%86_%D9%82%D9%8A%D8%B3_%D8%A8%D9%86_%D9%85%D8%A7%D9%84%D9%83"
+    }
+  ]
 },
 {
   "id": "khalid-bin-rafe-a-street",
@@ -27414,35 +27479,45 @@ window.STREETS = [
   "id": "khalid-bin-sa-eed-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خالد بن سعيد",
   "en": "Khalid Bin Sa'eed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Khalid Bin Sa'eed — companion of the Prophet Muhammad",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Sa'eed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خالد بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Khalid Bin Sa'eed was a companion of the Prophet Muhammad.",
+    "ar": "خالد بن سعيد صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خالد بن سعيد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%A8%D9%86_%D8%B3%D8%B9%D9%8A%D8%AF"
+    }
+  ]
 },
 {
   "id": "khubaib-bin-esaf-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خبيب بن إساف",
   "en": "Khubaib Bin Esaf Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Khubaib Bin Esaf — companion of the Prophet Muhammad",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Khubaib Bin Esaf, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خبيب بن اساف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Khubaib Bin Esaf was a companion of the Prophet Muhammad.",
+    "ar": "خبيب بن إساف صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خبيب بن إساف",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A8%D9%8A%D8%A8_%D8%A8%D9%86_%D8%A5%D8%B3%D8%A7%D9%81"
+    }
+  ]
 },
 {
   "id": "king-abdul-aziz-street",
@@ -27482,18 +27557,23 @@ window.STREETS = [
   "id": "malik-bin-amr-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مالك بن عمرو",
   "en": "Malik Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
+    "en": "Malik Bin Amr — companion of the Prophet Muhammad",
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Malik Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مالك بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Malik Bin Amr was a companion of the Prophet Muhammad.",
+    "ar": "مالك بن عمرو صحابي من أصحاب النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — مالك بن عمرو السلمي",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D9%83_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88_%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A"
+    }
+  ]
 },
 {
   "id": "martyr-alaa-muhfuth-street",

@@ -187,7 +187,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261027i";
+    s.src = "data/cards.js?v=20261027j";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
