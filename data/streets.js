@@ -5353,12 +5353,12 @@ window.STREETS = [
   "ar": "شارع الرضه بن بيات المهيري",
   "en": "Alrada Bin Beyat Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Alrada Bin Beyat Al Muhairi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الرضه بن بيات المهيري، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الرضه بن بيات المهيري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الرضه بن بيات المهيري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5426,12 +5426,12 @@ window.STREETS = [
   "ar": "شارع الصغيّر بن خادم الخييلي",
   "en": "Alsaghir Bin Khadem Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Alsaghir Bin Khadem Al Khaili, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الصغيّر بن خادم الخييلي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الصغيّر بن خادم الخييلي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الصغيّر بن خادم الخييلي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5443,12 +5443,12 @@ window.STREETS = [
   "ar": "شارع العيينه بن عصيان العامري",
   "en": "Alayena Bin Aseyan Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Alayena Bin Aseyan Al Ameri, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم العيينه بن عصيان العامري، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of العيينه بن عصيان العامري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم العيينه بن عصيان العامري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5533,12 +5533,12 @@ window.STREETS = [
   "ar": "شارع الفندي بن غانم المزروعي",
   "en": "Alfindi Bin Ghanem Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Alfindi Bin Ghanem Al Mazrouei, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الفندي بن غانم المزروعي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الفندي بن غانم المزروعي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الفندي بن غانم المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5550,12 +5550,12 @@ window.STREETS = [
   "ar": "شارع الكندي بن مصبح المرر",
   "en": "Alkindi Bin Musabah Al Marar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Alkindi Bin Musabah Al Marar, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الكندي بن مصبح المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الكندي بن مصبح المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الكندي بن مصبح المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5692,12 +5692,12 @@ window.STREETS = [
   "ar": "شارع بخيت بن خلفان الخييلي",
   "en": "Bakhit Bin Khalfan Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bakhit Bin Khalfan Al Khaili, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بخيت بن خلفان الخييلي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بخيت بن خلفان الخييلي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بخيت بن خلفان الخييلي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5709,12 +5709,12 @@ window.STREETS = [
   "ar": "شارع بخيت بن محسن المزروعي",
   "en": "Bakheet Bin Mohsin Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bakheet Bin Mohsin Al Mazrouei, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بخيت بن محسن المزروعي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بخيت بن محسن المزروعي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بخيت بن محسن المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5726,12 +5726,12 @@ window.STREETS = [
   "ar": "شارع بخيت بن ميزر الرميثي",
   "en": "Bakhit Bin Maizer Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bakhit Bin Maizer Al Rumaithi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بخيت بن ميزر الرميثي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بخيت بن ميزر الرميثي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بخيت بن ميزر الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5799,12 +5799,12 @@ window.STREETS = [
   "ar": "شارع بطي بن المغنى القبيسي",
   "en": "Butti Bin Almughni Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Butti Bin Almughni Al Qubaisi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي بن المغنى القبيسي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بطي بن المغنى القبيسي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بطي بن المغنى القبيسي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -5833,12 +5833,12 @@ window.STREETS = [
   "ar": "شارع بيات بن محمد الهاملي",
   "en": "Beyat Bin Mohammed Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Beyat Bin Mohammed Al Hameli, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بيات بن محمد الهاملي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بيات بن محمد الهاملي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بيات بن محمد الهاملي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6001,12 +6001,12 @@ window.STREETS = [
   "ar": "شارع ثاني بن عبدالله الرميثي",
   "en": "Thani Bin Abdullah Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Thani Bin Abdullah Al Rumaithi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ثاني بن عبدالله الرميثي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ثاني بن عبدالله الرميثي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ثاني بن عبدالله الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6103,12 +6103,12 @@ window.STREETS = [
   "ar": "شارع جمعة بن بخيت الدرمكي",
   "en": "Juma Bin Bakhit Al Darmaki Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Juma Bin Bakhit Al Darmaki, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة بن بخيت الدرمكي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جمعة بن بخيت الدرمكي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جمعة بن بخيت الدرمكي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6120,12 +6120,12 @@ window.STREETS = [
   "ar": "شارع جمعه بن حثبور الرميثي",
   "en": "Jumaa Bin Hathboor Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Jumaa Bin Hathboor Al Rumaithi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعه بن حثبور الرميثي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جمعه بن حثبور الرميثي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جمعه بن حثبور الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6188,12 +6188,12 @@ window.STREETS = [
   "ar": "شارع حامد بن بطي القبيسي",
   "en": "Hamed Bin Butti Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hamed Bin Butti Al Qubaisi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حامد بن بطي القبيسي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حامد بن بطي القبيسي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حامد بن بطي القبيسي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6256,12 +6256,12 @@ window.STREETS = [
   "ar": "شارع الدحّام بن زايد المزروعي",
   "en": "Aldahham Bin Zayed Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Aldahham Bin Zayed Al Mazrouei, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الدحّام بن زايد المزروعي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الدحّام بن زايد المزروعي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الدحّام بن زايد المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6273,12 +6273,12 @@ window.STREETS = [
   "ar": "شارع الدودة بن مكتوم الشريفي",
   "en": "Aldoda Bin Maktoum Al Sheraifi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Aldoda Bin Maktoum Al Sheraifi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الدودة بن مكتوم الشريفي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الدودة بن مكتوم الشريفي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الدودة بن مكتوم الشريفي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6307,12 +6307,12 @@ window.STREETS = [
   "ar": "شارع الطاهر بن علي المرر",
   "en": "Altaher Bin Ali Al Marar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Altaher Bin Ali Al Marar, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الطاهر بن علي المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الطاهر بن علي المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الطاهر بن علي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -6568,12 +6568,12 @@ window.STREETS = [
   "ar": "شارع حارب بن سبت الخييلي",
   "en": "Hareb Bin Sabt Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hareb Bin Sabt Al Khaili, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حارب بن سبت الخييلي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حارب بن سبت الخييلي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حارب بن سبت الخييلي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -8272,12 +8272,12 @@ window.STREETS = [
   "ar": "شارع على القصيلي المنصوري",
   "en": "Ali Alqusaili Almansoori Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ali Alqusaili Almansoori, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم على القصيلي، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of على القصيلي المنصوري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم على القصيلي المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -11281,12 +11281,12 @@ window.STREETS = [
   "ar": "شارع ناصر بن سويد المنصوري",
   "en": "Nasser Bin Sweed Almansoori Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Nasser Bin Sweed Almansoori, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ناصر بن سويد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ناصر بن سويد المنصوري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ناصر بن سويد المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -11349,12 +11349,12 @@ window.STREETS = [
   "ar": "شارع عبيد بن كنيش الهاملي",
   "en": "Obaid Bin Kenaish Alhameli Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Kenaish Alhameli, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن كنيش، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبيد بن كنيش الهاملي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبيد بن كنيش الهاملي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -11604,12 +11604,12 @@ window.STREETS = [
   "ar": "شارع راشد بن مبارك المنصوري",
   "en": "Rashed Bin Mubarak Almansoori Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rashed Bin Mubarak Almansoori, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن مبارك، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of راشد بن مبارك المنصوري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم راشد بن مبارك المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -12437,12 +12437,12 @@ window.STREETS = [
   "ar": "شارع صالح بن عزيز المنصوري",
   "en": "Saleh Bin Aziz Almansoori Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Saleh Bin Aziz Almansoori, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم صالح بن عزيز، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of صالح بن عزيز المنصوري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم صالح بن عزيز المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -12573,12 +12573,12 @@ window.STREETS = [
   "ar": "شارع سالم بن عبيد المنصوري",
   "en": "Salem Bin Obaid Almansoori  Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Obaid Almansoori, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن عبيد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سالم بن عبيد المنصوري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سالم بن عبيد المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -12658,12 +12658,12 @@ window.STREETS = [
   "ar": "طريق الشيخ ذياب بن عيسى الفلاحي",
   "en": "Sheikh Theyab Bin Eissa AL Falahi Road",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Theyab Bin Eissa AL Falahi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الطريق باسم الشيخ ذياب بن عيسى، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ ذياب بن عيسى الفلاحي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ ذياب بن عيسى الفلاحي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14341,12 +14341,12 @@ window.STREETS = [
   "ar": "شارع راشد بن سعيد الغيثي",
   "en": "Rashed Bin Saeed Al Ghaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Al Ghaithi family",
-    "ar": "شخصية إماراتية من أسرة الغيثي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street is named for Rashed bin Saeed Al Ghaithi, an Emirati figure of the Al Ghaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن سعيد الغيثي، وهو شخصية إماراتية من أسرة الغيثي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of راشد بن سعيد الغيثي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم راشد بن سعيد الغيثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -14647,12 +14647,12 @@ window.STREETS = [
   "ar": "شرارع أبي أحمد الجرماني",
   "en": "Abi Ahmed Ali Jaramani Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الجرماني"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Ahmed Ali Jaramani, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم شرارع أبي أحمد، وهو شخصية إماراتية من أسرة الجرماني، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of شرارع أبي أحمد الجرماني. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم شرارع أبي أحمد الجرماني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15335,12 +15335,12 @@ window.STREETS = [
   "ar": "شارع عُود بن حاسُوم",
   "en": "'Oud Bin Hasoum Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of 'Oud Bin Hasoum, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عود بن حاسوم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عُود بن حاسُوم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عُود بن حاسُوم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15352,12 +15352,12 @@ window.STREETS = [
   "ar": "شارع عود بن خنفور",
   "en": "'Oud Bin Khanfour Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of 'Oud Bin Khanfour, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عود بن خنفور، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عود بن خنفور. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عود بن خنفور، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15369,12 +15369,12 @@ window.STREETS = [
   "ar": "شارع عُود بن صَقحان",
   "en": "'Oud Bin Saqhan Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of 'Oud Bin Saqhan, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عود بن صقحان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عُود بن صَقحان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عُود بن صَقحان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15386,12 +15386,12 @@ window.STREETS = [
   "ar": "شارع أحمد عبدالله أحمد",
   "en": "Ahmed Abdulla Ahmed Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Abdulla Ahmed, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم احمد عبدالله احمد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد عبدالله أحمد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد عبدالله أحمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15403,12 +15403,12 @@ window.STREETS = [
   "ar": "شارع أحمد بالكندي المرر",
   "en": "Ahmed Bilkindi Al Marar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bilkindi Al Marar, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم احمد بالكندي المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بالكندي المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بالكندي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15420,12 +15420,12 @@ window.STREETS = [
   "ar": "شارع أحمد بن حامد آل حامد",
   "en": "Ahmed Bin Hamed Al Hamed Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Hamed Al Hamed, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم احمد بن حامد ال حامد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن حامد آل حامد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن حامد آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15437,12 +15437,12 @@ window.STREETS = [
   "ar": "شارع علي بو ملحا المرر",
   "en": "Ali Bu Melha Al Marar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ali Bu Melha Al Marar, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بو ملحا المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of علي بو ملحا المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم علي بو ملحا المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15454,12 +15454,12 @@ window.STREETS = [
   "ar": "شارع بطي بن حامد آل حامد",
   "en": "Butti Bin Hamed Al Hamed Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Butti Bin Hamed Al Hamed, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي بن حامد ال حامد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بطي بن حامد آل حامد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بطي بن حامد آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -15471,12 +15471,12 @@ window.STREETS = [
   "ar": "شارع خليفة المبارك",
   "en": "Khalifa Al Mubarak Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Al Mubarak, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفه المبارك، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خليفة المبارك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خليفة المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18404,12 +18404,12 @@ window.STREETS = [
   "ar": "شارع عرقوب بن سالمِين",
   "en": "'Arqoub Bin Salmeen Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of 'Arqoub Bin Salmeen, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عرقوب بن سالمين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عرقوب بن سالمِين. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عرقوب بن سالمِين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18421,12 +18421,12 @@ window.STREETS = [
   "ar": "شارع عباية بن رِبعِي",
   "en": "Abayah Bin Rib'ee Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abayah Bin Rib'ee, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبايه بن ربعي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عباية بن رِبعِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عباية بن رِبعِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18438,12 +18438,12 @@ window.STREETS = [
   "ar": "شارع عبد الأسهل إياس بن أوس",
   "en": "Abd Al As-hal Iyas Bin Aws Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abd Al As-hal Iyas Bin Aws, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبد الاسهل اياس بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبد الأسهل إياس بن أوس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبد الأسهل إياس بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18455,12 +18455,12 @@ window.STREETS = [
   "ar": "شارع عبدة بن الحساس",
   "en": "Abdah Bin Al Hassas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdah Bin Al Hassas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبده بن الحساس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدة بن الحساس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدة بن الحساس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18506,12 +18506,12 @@ window.STREETS = [
   "ar": "شارع عبدالجليل بن محمد الفهيم",
   "en": "Abduljalil Bin Mohammed Al Fahim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abduljalil Bin Mohammed Al Fahim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالجليل بن محمد الفهيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالجليل بن محمد الفهيم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالجليل بن محمد الفهيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18609,12 +18609,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن أبي ربيعة",
   "en": "Abdullah Bin Abi Rabee'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Abi Rabee'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن ابي ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن أبي ربيعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن أبي ربيعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18626,12 +18626,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن أحمد العتيبة",
   "en": "Abdullah Bin Ahmed Al Otaiba Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Ahmed Al Otaiba, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن احمد العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن أحمد العتيبة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن أحمد العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18643,12 +18643,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن الحارث",
   "en": "Abdullah Bin Al Harith Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Al Harith, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18660,12 +18660,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن المُبارَك",
   "en": "Abdullah Bin Al Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Al Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن المُبارَك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن المُبارَك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18677,12 +18677,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن أنِيس",
   "en": "Abdullah Bin Anees Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Anees, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن انيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن أنِيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن أنِيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18694,12 +18694,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن بُسر",
   "en": "Abdullah Bin Busr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Busr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن بسر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن بُسر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن بُسر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18711,12 +18711,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن حجش",
   "en": "Abdullah Bin Hajash Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Hajash, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن حجش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن حجش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن حجش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18728,12 +18728,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن حاذه المرر",
   "en": "Abdullah Bin Hatha Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Hatha Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن حاذه المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن حاذه المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن حاذه المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18745,12 +18745,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن جبير",
   "en": "Abdullah Bin Jubayr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Jubayr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن جبير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن جبير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن جبير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18762,12 +18762,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن عُمَر",
   "en": "Abdullah Bin Omar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Omar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عمر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن عُمَر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن عُمَر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18779,12 +18779,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن رَبِيعة",
   "en": "Abdullah Bin Rabee'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Rabee'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن رَبِيعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن رَبِيعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18796,12 +18796,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن سُهَيل",
   "en": "Abdullah Bin Suhail Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Suhail, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن سهيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن سُهَيل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن سُهَيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18813,12 +18813,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن ثعلَبة",
   "en": "Abdullah Bin Tha'labah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Tha'labah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن ثعلبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن ثعلَبة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن ثعلَبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18830,12 +18830,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن ثابِت",
   "en": "Abdullah Bin Thabit Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Thabit, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن ثابِت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن ثابِت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18847,12 +18847,12 @@ window.STREETS = [
   "ar": "شارع عبدالله ابن الهبيت",
   "en": "Abdullah Ibn Al Habeet Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Ibn Al Habeet, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله ابن الهبيت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله ابن الهبيت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله ابن الهبيت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18864,12 +18864,12 @@ window.STREETS = [
   "ar": "شارع عبدالله ابن أم مكتُوم",
   "en": "Abdullah Ibn Um Maktoum Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Ibn Um Maktoum, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله ابن ام مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله ابن أم مكتُوم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله ابن أم مكتُوم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18881,12 +18881,12 @@ window.STREETS = [
   "ar": "شارع عبدالله عمران تريم",
   "en": "Abdullah Omran Taryam Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Omran Taryam, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبدالله عمران تريم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله عمران تريم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله عمران تريم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18898,12 +18898,12 @@ window.STREETS = [
   "ar": "شارع عبداللطيف بن إبراهيم المبارك",
   "en": "Abdullatif Bin Ibrahim Al Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullatif Bin Ibrahim Al Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبداللطيف بن ابراهيم المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبداللطيف بن إبراهيم المبارك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبداللطيف بن إبراهيم المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18932,12 +18932,12 @@ window.STREETS = [
   "ar": "شارع عبدالرَّحمَن بن عائِذ",
   "en": "Abdulrahman Bin 'A-idh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin 'A-idh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن عائذ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرَّحمَن بن عائِذ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرَّحمَن بن عائِذ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18949,12 +18949,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن عديس",
   "en": "Abdulrahman Bin 'Udays Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin 'Udays, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن عديس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن عديس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن عديس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18966,12 +18966,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن الهبيت",
   "en": "Abdulrahman Bin Al Habeet Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin Al Habeet, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن الهبيت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن الهبيت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن الهبيت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -18983,12 +18983,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن علي المبارك",
   "en": "Abdulrahman Bin Ali Al Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin Ali Al Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن علي المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن علي المبارك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن علي المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19000,12 +19000,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن سمُرة",
   "en": "Abdulrahman Bin Samurah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin Samurah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن سمره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن سمُرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن سمُرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19017,12 +19017,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن زيد",
   "en": "Abdulrahman Bin Zayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin Zayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن زيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن زيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19030,35 +19030,45 @@ window.STREETS = [
   "id": "abu-al-aswad-ad-du-ali-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو الأسوَد الدُّؤَلِي",
   "en": "Abu Al Aswad Ad Du-ali Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "The first to lay down Arabic grammar",
+    "ar": "أول من وضع علم النحو في العربية"
   },
   "story": {
-    "en": "The street carries the name of Abu Al Aswad Ad Du-ali, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابو الاسود الدؤلي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abu al-Aswad al-Du'ali (d. 69 AH) was a leading Tabi'i, jurist, poet and narrator of hadith, and the first to set down the rules of Arabic grammar. He also dotted the script of the Qur'an.",
+    "ar": "أبو الأسود الدؤلي (ت ٦٩هـ) من سادات التابعين وفقهائهم وشعرائهم ومحدّثيهم، وأول من وضع علم النحو في العربية، ونقط أحرف المصحف."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو الأسود الدؤلي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF_%D8%A7%D9%84%D8%AF%D8%A4%D9%84%D9%8A"
+    }
+  ]
 },
 {
   "id": "abu-al-bakhtari-at-ta-i-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو البَختَرِي الطَّائِي",
   "en": "Abu Al Bakhtari At Ta-i Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A Kufan narrator of hadith of the senior Tabi'un",
+    "ar": "محدّث من كبار التابعين بالكوفة"
   },
   "story": {
-    "en": "The street carries the name of Abu Al Bakhtari At Ta-i, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابو البختري الطائي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abu al-Bakhtari al-Ta'i (d. 83 AH), Sa'id ibn Fayruz, was a Kufan narrator of hadith counted among the senior Tabi'un.",
+    "ar": "أبو البختري الطائي (ت ٨٣هـ)، وهو سعيد بن فيروز، محدّث وراوٍ للحديث من كبار التابعين، ومن أفاضل أهل الكوفة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو البختري الطائي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D8%A8%D8%AE%D8%AA%D8%B1%D9%8A_%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A"
+    }
+  ]
 },
 {
   "id": "abu-aseerah-bin-al-harith-street",
@@ -19068,12 +19078,12 @@ window.STREETS = [
   "ar": "شارع أبو أسِيرة بن الحارِث",
   "en": "Abu Aseerah Bin Al Harith Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Aseerah Bin Al Harith, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابو اسيره بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو أسِيرة بن الحارِث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو أسِيرة بن الحارِث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19081,18 +19091,23 @@ window.STREETS = [
   "id": "abu-ayoub-al-ansari-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو أيُّوب الأنصارِي",
   "en": "Abu Ayoub Al Ansari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ansari family",
-    "ar": "شخصية إماراتية من أسرة الانصاري"
+    "en": "The Companion whose house the Prophet stayed in at Medina",
+    "ar": "الصحابي الذي نزل النبي في بيته بالمدينة"
   },
   "story": {
-    "en": "The street carries the name of Abu Ayoub, an Emirati figure of the Ansari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابو ايوب الانصاري، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abu Ayyub al-Ansari (d. 52 AH), Khalid ibn Zayd, was a Companion of the Ansar whose house the Prophet stayed in after the migration to Medina.",
+    "ar": "أبو أيوب الأنصاري (ت ٥٢هـ)، وهو خالد بن زيد، صحابي من الأنصار، نزل النبي في بيته حين قدم المدينة مهاجراً."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو أيوب الأنصاري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A3%D9%8A%D9%88%D8%A8_%D8%A7%D9%84%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D9%8A"
+    }
+  ]
 },
 {
   "id": "abu-bakr-bin-al-munkadir-street",
@@ -19102,12 +19117,12 @@ window.STREETS = [
   "ar": "شارع أبو بَكر بن المُنكَدِر",
   "en": "Abu Bakr Bin Al Munkadir Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Bakr Bin Al Munkadir, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابو بكر بن المنكدر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو بَكر بن المُنكَدِر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو بَكر بن المُنكَدِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19119,12 +19134,12 @@ window.STREETS = [
   "ar": "شارع أبو بَكر بن عَيَّاش",
   "en": "Abu Bakr Bin Ayach Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Bakr Bin Ayach, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابو بكر بن عياش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو بَكر بن عَيَّاش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو بَكر بن عَيَّاش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19153,12 +19168,12 @@ window.STREETS = [
   "ar": "شارع أبو إسحاق السَّبِيعِي",
   "en": "Abu Is-haq As Sabee'i Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة السبيعي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Is-haq As Sabee'i, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابو اسحاق السبيعي، وهو شخصية إماراتية من أسرة السبيعي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو إسحاق السَّبِيعِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو إسحاق السَّبِيعِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19204,12 +19219,12 @@ window.STREETS = [
   "ar": "شارع عبدالعزيز بن حمد المبارك",
   "en": "Abulaziz Bin Hamed Al Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abulaziz Bin Hamed Al Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالعزيز بن حمد المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالعزيز بن حمد المبارك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالعزيز بن حمد المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19221,12 +19236,12 @@ window.STREETS = [
   "ar": "شارع أحمد بن عبدالعزيز المبارك",
   "en": "Ahmed Bin Abulaziz Al Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Abulaziz Al Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم احمد بن عبدالعزيز المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن عبدالعزيز المبارك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن عبدالعزيز المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19238,12 +19253,12 @@ window.STREETS = [
   "ar": "شارع أحمد بن بليد المرر",
   "en": "Ahmed Bin Blaid Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Blaid Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم احمد بن بليد المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن بليد المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن بليد المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19255,12 +19270,12 @@ window.STREETS = [
   "ar": "شارع أحمد بن بوملحا المرر",
   "en": "Ahmed Bin Bu Melha Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Bu Melha Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم احمد بن بوملحا المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن بوملحا المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن بوملحا المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19272,12 +19287,12 @@ window.STREETS = [
   "ar": "شارع أحمد بن جبارة المرر",
   "en": "Ahmed Bin Jbara Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Jbara Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم احمد بن جباره المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن جبارة المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن جبارة المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19289,12 +19304,12 @@ window.STREETS = [
   "ar": "شارع أحمد بن خلف العتيبة",
   "en": "Ahmed Bin Khalaf Al Otaiba Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Khalaf Al Otaiba, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم احمد بن خلف العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن خلف العتيبة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن خلف العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19306,12 +19321,12 @@ window.STREETS = [
   "ar": "شارع أحمد بن محمد الفهيم",
   "en": "Ahmed Bin Mohamed Al Fahim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Mohamed Al Fahim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم احمد بن محمد الفهيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن محمد الفهيم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن محمد الفهيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19323,12 +19338,12 @@ window.STREETS = [
   "ar": "شارع العَلاء بن زِياد",
   "en": "Al 'Ala-a Bin Ziyad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al 'Ala-a Bin Ziyad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم العلاء بن زياد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of العَلاء بن زِياد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم العَلاء بن زِياد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19336,18 +19351,23 @@ window.STREETS = [
   "id": "al-abbas-bin-abdulmuttalib-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع العباس بن عبدالمطلب",
   "en": "Al Abbas Bin Abdulmuttalib Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A Companion and the uncle of the Prophet",
+    "ar": "صحابي وعمّ النبي"
   },
   "story": {
-    "en": "The street carries the name of Al Abbas Bin Abdulmuttalib, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم العباس بن عبدالمطلب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Al-Abbas ibn Abd al-Muttalib (568–653) was a Companion and the uncle of the Prophet Muhammad.",
+    "ar": "العباس بن عبد المطلب (٥٦ ق.هـ – ٣٢هـ / ٥٦٨–٦٥٣م) صحابي، وعمّ النبي محمد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — العباس بن عبد المطلب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8"
+    }
+  ]
 },
 {
   "id": "al-ahwas-bin-mas-oud-street",
@@ -19357,12 +19377,12 @@ window.STREETS = [
   "ar": "شارع الأحوَص بن مَسعُود",
   "en": "Al Ahwas Bin Mas'oud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Ahwas Bin Mas'oud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الاحوص بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الأحوَص بن مَسعُود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الأحوَص بن مَسعُود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19370,18 +19390,23 @@ window.STREETS = [
   "id": "al-akhtal-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الأَخطَل",
   "en": "Al Akhtal Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A poet of the Umayyad age",
+    "ar": "شاعر من العصر الأموي"
   },
   "story": {
-    "en": "The street carries the name of Al Akhtal, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الاخطل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "Al-Akhtal (Ghiyath ibn Ghawth, d. c. 92 AH) was an Arab poet of the Umayyad age and a Christian, counted with Jarir and al-Farazdaq among the finest poets of their time.",
+    "ar": "الأخطل (غياث بن غوث التغلبي، ت نحو ٩٢هـ) شاعر عربي من العصر الأموي، وكان نصرانياً، ويُعدّ مع جرير والفرزدق من أشعر أهل عصره."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — الأخطل",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%AE%D8%B7%D9%84"
+    }
+  ]
 },
 {
   "id": "al-arqm-street",
@@ -19391,12 +19416,12 @@ window.STREETS = [
   "ar": "شارع الأرقم",
   "en": "Al Arqm Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Arqm, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الارقم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الأرقم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الأرقم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19408,12 +19433,12 @@ window.STREETS = [
   "ar": "شارع الأصمَعِي",
   "en": "Al Asma'i Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الاصمعي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Asma'i, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الاصمعي، وهو شخصية إماراتية من أسرة الاصمعي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الأصمَعِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الأصمَعِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19425,12 +19450,12 @@ window.STREETS = [
   "ar": "شارع الفَارُوق",
   "en": "Al Farouq Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Farouq, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الفاروق، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الفَارُوق. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الفَارُوق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19442,12 +19467,12 @@ window.STREETS = [
   "ar": "شارع الحارِث بن عبدالله",
   "en": "Al Harith Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Harith Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارِث بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارِث بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19459,12 +19484,12 @@ window.STREETS = [
   "ar": "شارع الحارِث بن الأزمَع",
   "en": "Al Harith Bin Al Azma' Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Harith Bin Al Azma', a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن الازمع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارِث بن الأزمَع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارِث بن الأزمَع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19476,12 +19501,12 @@ window.STREETS = [
   "ar": "شارع الحارِث بن الرَّبِيع",
   "en": "Al Harith Bin Ar Rabee' Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Harith Bin Ar Rabee', a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن الربيع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارِث بن الرَّبِيع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارِث بن الرَّبِيع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19493,12 +19518,12 @@ window.STREETS = [
   "ar": "شارع الحارث بن أوس بن معاذ",
   "en": "Al Harith Bin Aws Bin Mu'adh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Harith Bin Aws Bin Mu'adh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن اوس بن معاذ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارث بن أوس بن معاذ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارث بن أوس بن معاذ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19510,12 +19535,12 @@ window.STREETS = [
   "ar": "شارع الحارِث بن هانِئ",
   "en": "Al Harith Bin Hani-a Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Harith Bin Hani-a, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن هانئ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارِث بن هانِئ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارِث بن هانِئ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19527,12 +19552,12 @@ window.STREETS = [
   "ar": "شارع الحارِث بن سَلَمة",
   "en": "Al Harith Bin Salamah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Harith Bin Salamah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن سلمه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارِث بن سَلَمة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارِث بن سَلَمة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19544,12 +19569,12 @@ window.STREETS = [
   "ar": "شارع الهَيثَم بن الأسود",
   "en": "Al Haytham Bin Al Aswad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Haytham Bin Al Aswad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الهيثم بن الاسود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الهَيثَم بن الأسود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الهَيثَم بن الأسود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19561,12 +19586,12 @@ window.STREETS = [
   "ar": "شارع الحُباب بن جُبَير",
   "en": "Al Hubab Bin Jubayr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hubab Bin Jubayr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحباب بن جبير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحُباب بن جُبَير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحُباب بن جُبَير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19578,12 +19603,12 @@ window.STREETS = [
   "ar": "شارع الحُر بن قَيس",
   "en": "Al Hur Bin Qays Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hur Bin Qays, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحر بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحُر بن قَيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحُر بن قَيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19595,12 +19620,12 @@ window.STREETS = [
   "ar": "شارع المنصور",
   "en": "Al Mansour Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Mansour, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم المنصور، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of المنصور. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم المنصور، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19612,12 +19637,12 @@ window.STREETS = [
   "ar": "شارع المَيثاء",
   "en": "Al Maytha-a Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Maytha-a, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الميثاء، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of المَيثاء. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم المَيثاء، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19629,12 +19654,12 @@ window.STREETS = [
   "ar": "شارع المِقدام بن مَعد",
   "en": "Al Miqdam Bin Ma'd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Miqdam Bin Ma'd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم المقدام بن معد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of المِقدام بن مَعد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم المِقدام بن مَعد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19646,12 +19671,12 @@ window.STREETS = [
   "ar": "شارع الرَّبِيع",
   "en": "Al Rabee' Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Rabee', an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الربيع، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الرَّبِيع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الرَّبِيع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19663,12 +19688,12 @@ window.STREETS = [
   "ar": "شارع الرَّازِي",
   "en": "Al Razi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الرازي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Razi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الرازي، وهو شخصية إماراتية من أسرة الرازي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الرَّازِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الرَّازِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19680,12 +19705,12 @@ window.STREETS = [
   "ar": "شارع السِّيف",
   "en": "Al Seef Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Seef, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم السيف، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of السِّيف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم السِّيف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19697,12 +19722,12 @@ window.STREETS = [
   "ar": "شارع السُلْطَان",
   "en": "Al Sultan Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Sultan, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم السلطان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of السُلْطَان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم السُلْطَان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19714,12 +19739,12 @@ window.STREETS = [
   "ar": "شارع التِّرمِذِي",
   "en": "Al Termidhy Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الترمذي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Termidhy, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الترمذي، وهو شخصية إماراتية من أسرة الترمذي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of التِّرمِذِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم التِّرمِذِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19731,12 +19756,12 @@ window.STREETS = [
   "ar": "شارع الثابت",
   "en": "Al Thabit Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Thabit, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الثابت، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الثابت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الثابت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19748,12 +19773,12 @@ window.STREETS = [
   "ar": "شارع علي بن الكندي المرر",
   "en": "Ali Bin Alkindi Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Alkindi Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم علي بن الكندي المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of علي بن الكندي المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم علي بن الكندي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19765,12 +19790,12 @@ window.STREETS = [
   "ar": "شارع علي بن حَمزة",
   "en": "Ali Bin Hamzah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Hamzah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم علي بن حمزه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of علي بن حَمزة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم علي بن حَمزة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19782,12 +19807,12 @@ window.STREETS = [
   "ar": "شارع علي بن مصبح المرر",
   "en": "Ali Bin Musabah Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Musabah Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم علي بن مصبح المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of علي بن مصبح المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم علي بن مصبح المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19799,12 +19824,12 @@ window.STREETS = [
   "ar": "شارع النَّوَّاس بن سَمعان",
   "en": "An Nawwas Bin Sam'an Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of An Nawwas Bin Sam'an, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم النواس بن سمعان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of النَّوَّاس بن سَمعان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم النَّوَّاس بن سَمعان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19816,12 +19841,12 @@ window.STREETS = [
   "ar": "شارع النَّزَّال بن سُبرة",
   "en": "An Nazzal Bin Subrah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of An Nazzal Bin Subrah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم النزال بن سبره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of النَّزَّال بن سُبرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم النَّزَّال بن سُبرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19833,12 +19858,12 @@ window.STREETS = [
   "ar": "شارع أنس بن النضر بن ضمضم",
   "en": "Anas Bin An Nudr Bin Damdam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Anas Bin An Nudr Bin Damdam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم انس بن النضر بن ضمضم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أنس بن النضر بن ضمضم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أنس بن النضر بن ضمضم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19867,12 +19892,12 @@ window.STREETS = [
   "ar": "شارع الرَّبِيع بن أنَس",
   "en": "Ar Rabee' Bin Anas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ar Rabee' Bin Anas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الربيع بن انس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الرَّبِيع بن أنَس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الرَّبِيع بن أنَس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19884,12 +19909,12 @@ window.STREETS = [
   "ar": "شارع السَّعِيد",
   "en": "As Sa'eed Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of As Sa'eed, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم السعيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of السَّعِيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم السَّعِيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19901,12 +19926,12 @@ window.STREETS = [
   "ar": "شارع السَّلامة",
   "en": "As Salamah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of As Salamah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم السلامه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of السَّلامة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم السَّلامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19918,12 +19943,12 @@ window.STREETS = [
   "ar": "شارع عاصِم بن عُمَر",
   "en": "Asim Bin Omar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Asim Bin Omar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عاصم بن عمر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عاصِم بن عُمَر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عاصِم بن عُمَر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19935,12 +19960,12 @@ window.STREETS = [
   "ar": "شارع أسماء بنت عَمرو",
   "en": "Asma Bint 'Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Asma Bint 'Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم اسماء بنت عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أسماء بنت عَمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أسماء بنت عَمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19952,12 +19977,12 @@ window.STREETS = [
   "ar": "شارع أسماء بنت ابي بكر",
   "en": "Asma Bint Abi Bakr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Asma Bint Abi Bakr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم اسماء بنت ابي بكر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أسماء بنت ابي بكر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أسماء بنت ابي بكر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19969,12 +19994,12 @@ window.STREETS = [
   "ar": "شارع عتبة بن ربيع بن رافع",
   "en": "Atabah Bin Rabee' Bin Rafi' Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Atabah Bin Rabee' Bin Rafi', a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عتبه بن ربيع بن رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عتبة بن ربيع بن رافع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عتبة بن ربيع بن رافع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -19986,12 +20011,12 @@ window.STREETS = [
   "ar": "شارع أوس بن أرقم بن قيس",
   "en": "Aws Bin Arqam Bin Qays Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Aws Bin Arqam Bin Qays, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم اوس بن ارقم بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أوس بن أرقم بن قيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أوس بن أرقم بن قيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20003,12 +20028,12 @@ window.STREETS = [
   "ar": "شارع عائشة بنت أبي بكر",
   "en": "Aysha Bint Abi Bakr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Aysha Bint Abi Bakr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عائشه بنت ابي بكر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عائشة بنت أبي بكر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عائشة بنت أبي بكر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20020,12 +20045,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن عَمَّار",
   "en": "Bad' Bin 'Ammar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin 'Ammar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن عمار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن عَمَّار. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن عَمَّار، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20037,12 +20062,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن عِمَير",
   "en": "Bad' Bin 'Imayr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin 'Imayr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن عِمَير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن عِمَير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20054,12 +20079,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن عُون",
   "en": "Bad' Bin 'Oun Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin 'Oun, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن عون، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن عُون. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن عُون، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20071,12 +20096,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن عُوشانة",
   "en": "Bad' Bin 'Oushanah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin 'Oushanah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن عوشانه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن عُوشانة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن عُوشانة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20088,12 +20113,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن دِمَيثان",
   "en": "Bad' Bin Dimaythan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Dimaythan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن دميثان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن دِمَيثان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن دِمَيثان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20105,12 +20130,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن غَنَّام",
   "en": "Bad' Bin Ghannam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Ghannam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن غنام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن غَنَّام. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن غَنَّام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20122,12 +20147,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن حارِب",
   "en": "Bad' Bin Harib Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Harib, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن حارب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن حارِب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن حارِب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20139,12 +20164,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن خِزام",
   "en": "Bad' Bin Khizam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Khizam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن خزام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن خِزام. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن خِزام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20156,12 +20181,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن قِرَّان",
   "en": "Bad' Bin Qirran Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Qirran, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن قران، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن قِرَّان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن قِرَّان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20173,12 +20198,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن شارِد",
   "en": "Bad' Bin Sharid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Sharid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن شارد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن شارِد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن شارِد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20190,12 +20215,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن سلِيمان",
   "en": "Bad' Bin Slaiman Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Slaiman, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن سليمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن سلِيمان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن سلِيمان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20207,12 +20232,12 @@ window.STREETS = [
   "ar": "شارع بَدع بن سوَيح",
   "en": "Bad' Bin Swayh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bin Swayh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بن سويح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بن سوَيح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بن سوَيح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20224,12 +20249,12 @@ window.STREETS = [
   "ar": "شارع بَدع بنت سَعود",
   "en": "Bad' Bint Sa'oud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bad' Bint Sa'oud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بدع بنت سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَدع بنت سَعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَدع بنت سَعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20241,12 +20266,12 @@ window.STREETS = [
   "ar": "شارع بَرقا بن عامِر",
   "en": "Barqa Bin 'Amer Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Barqa Bin 'Amer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم برقا بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَرقا بن عامِر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَرقا بن عامِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20258,12 +20283,12 @@ window.STREETS = [
   "ar": "شارع بَرقا بن هادِي",
   "en": "Barqa Bin Hadi Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Barqa Bin Hadi, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم برقا بن هادي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَرقا بن هادِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَرقا بن هادِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20275,12 +20300,12 @@ window.STREETS = [
   "ar": "شارع بَرقا بن سوَيح",
   "en": "Barqa Bin Siwayh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Barqa Bin Siwayh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم برقا بن سويح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَرقا بن سوَيح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَرقا بن سوَيح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20292,12 +20317,12 @@ window.STREETS = [
   "ar": "شارع بَرقا بن طَلفاحه",
   "en": "Barqa Bin Talfahah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Barqa Bin Talfahah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم برقا بن طلفاحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بَرقا بن طَلفاحه. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بَرقا بن طَلفاحه، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20309,12 +20334,12 @@ window.STREETS = [
   "ar": "شارع بن عشيش",
   "en": "Bin 'Isheesh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bin 'Isheesh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بن عشيش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بن عشيش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بن عشيش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20326,12 +20351,12 @@ window.STREETS = [
   "ar": "شارع بن هادِي",
   "en": "Bin Hadi Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bin Hadi, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بن هادي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بن هادِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بن هادِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20343,12 +20368,12 @@ window.STREETS = [
   "ar": "شارع بن مِسمِح",
   "en": "Bin Mismih Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bin Mismih, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بن مسمح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بن مِسمِح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بن مِسمِح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20360,12 +20385,12 @@ window.STREETS = [
   "ar": "شارع بنت المطر",
   "en": "Bint Al Matar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bint Al Matar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بنت المطر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بنت المطر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بنت المطر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20377,12 +20402,12 @@ window.STREETS = [
   "ar": "شارع بِنْت النُّوْخَذَا",
   "en": "Bint Al Noukhadha Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bint Al Noukhadha, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بنت النوخذا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بِنْت النُّوْخَذَا. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بِنْت النُّوْخَذَا، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20394,12 +20419,12 @@ window.STREETS = [
   "ar": "شارع برج بن هِلال",
   "en": "Burj Bin Hilal Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Burj Bin Hilal, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم برج بن هلال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of برج بن هِلال. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم برج بن هِلال، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20411,12 +20436,12 @@ window.STREETS = [
   "ar": "شارع برج بن حليس",
   "en": "Burj Bin Hlees Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Burj Bin Hlees, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم برج بن حليس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of برج بن حليس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم برج بن حليس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20428,12 +20453,12 @@ window.STREETS = [
   "ar": "شارع برج بن ختروش",
   "en": "Burj Bin Khatroush Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Burj Bin Khatroush, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم برج بن ختروش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of برج بن ختروش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم برج بن ختروش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20462,12 +20487,12 @@ window.STREETS = [
   "ar": "شارع درويش بن كرم آل محمد",
   "en": "Darwish Bin Karam Al Mohammed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Darwish Bin Karam Al Mohammed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم درويش بن كرم ال محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of درويش بن كرم آل محمد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم درويش بن كرم آل محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20479,12 +20504,12 @@ window.STREETS = [
   "ar": "شارع ذكوان بن عبدالله قيس",
   "en": "Dhakwan Bin Abdullah Qays Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Dhakwan Bin Abdullah Qays, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ذكوان بن عبدالله قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ذكوان بن عبدالله قيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ذكوان بن عبدالله قيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20496,12 +20521,12 @@ window.STREETS = [
   "ar": "شارع دِمية بن ذِياب",
   "en": "Dimyat Bin Dhiyab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Dimyat Bin Dhiyab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم دميه بن ذياب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of دِمية بن ذِياب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم دِمية بن ذِياب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20513,12 +20538,12 @@ window.STREETS = [
   "ar": "شارع دِمية بن نِهَيِيل",
   "en": "Dimyat Bin Nihayeel Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Dimyat Bin Nihayeel, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم دميه بن نهييل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of دِمية بن نِهَيِيل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم دِمية بن نِهَيِيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20530,12 +20555,12 @@ window.STREETS = [
   "ar": "شارع دِمية بن شِمال",
   "en": "Dimyat Bin Shimal Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Dimyat Bin Shimal, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم دميه بن شمال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of دِمية بن شِمال. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم دِمية بن شِمال، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20547,12 +20572,12 @@ window.STREETS = [
   "ar": "شارع دِمية بنت عُون",
   "en": "Dimyat Bint 'Oun Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Dimyat Bint 'Oun, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم دميه بنت عون، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of دِمية بنت عُون. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم دِمية بنت عُون، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20564,12 +20589,12 @@ window.STREETS = [
   "ar": "شارع جورج ماثيو",
   "en": "George Matthew Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of George Matthew, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم جورج ماثيو، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جورج ماثيو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جورج ماثيو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20581,12 +20606,12 @@ window.STREETS = [
   "ar": "شارع غَدِير بن حابِس",
   "en": "Ghadeer Bin Habis Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ghadeer Bin Habis, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غدير بن حابس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غَدِير بن حابِس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غَدِير بن حابِس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20598,12 +20623,12 @@ window.STREETS = [
   "ar": "شارع غَدِيِر بن خِمَيَّس",
   "en": "Ghadeer Bin Khimayas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ghadeer Bin Khimayas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غدير بن خميس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غَدِيِر بن خِمَيَّس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غَدِيِر بن خِمَيَّس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20615,12 +20640,12 @@ window.STREETS = [
   "ar": "شارع غَدِير بن نَعِيم",
   "en": "Ghadeer Bin Na'eem Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ghadeer Bin Na'eem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غدير بن نعيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غَدِير بن نَعِيم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غَدِير بن نَعِيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20632,12 +20657,12 @@ window.STREETS = [
   "ar": "شارع غافة بن حريز",
   "en": "Ghafat Bin Hreez Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ghafat Bin Hreez, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غافه بن حريز، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غافة بن حريز. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غافة بن حريز، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20649,12 +20674,12 @@ window.STREETS = [
   "ar": "شارع غَيط بن حَترُوش",
   "en": "Ghait Bin Hatroush Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ghait Bin Hatroush, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غيط بن حتروش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غَيط بن حَترُوش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غَيط بن حَترُوش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20666,12 +20691,12 @@ window.STREETS = [
   "ar": "شارع غَلِيل بن نَومه",
   "en": "Ghaleel Bin Nawmah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ghaleel Bin Nawmah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غليل بن نومه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غَلِيل بن نَومه. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غَلِيل بن نَومه، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20683,12 +20708,12 @@ window.STREETS = [
   "ar": "شارع غَلِيل بن شُوَيق",
   "en": "Ghaleel Bin Shuwayq Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ghaleel Bin Shuwayq, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غليل بن شويق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غَلِيل بن شُوَيق. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غَلِيل بن شُوَيق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20700,12 +20725,12 @@ window.STREETS = [
   "ar": "شارع غيط بن بيات",
   "en": "Gheet Bin Bayat Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Gheet Bin Bayat, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم غيط بن بيات، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of غيط بن بيات. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم غيط بن بيات، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20734,12 +20759,12 @@ window.STREETS = [
   "ar": "شارع حَبِيب بن أبي ثابِت",
   "en": "Habeeb Bin Abi Thabit Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Habeeb Bin Abi Thabit, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حبيب بن ابي ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَبِيب بن أبي ثابِت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَبِيب بن أبي ثابِت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20751,12 +20776,12 @@ window.STREETS = [
   "ar": "شارع حَبِيب بن مَروان",
   "en": "Habeeb Bin Marwan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Habeeb Bin Marwan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حبيب بن مروان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَبِيب بن مَروان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَبِيب بن مَروان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20768,12 +20793,12 @@ window.STREETS = [
   "ar": "شارع حَبِيب بن أسَيد",
   "en": "Habeeb Bin Usayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Habeeb Bin Usayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حبيب بن اسيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَبِيب بن أسَيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَبِيب بن أسَيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20785,12 +20810,12 @@ window.STREETS = [
   "ar": "شارع حَبِيبة بنت سَهل",
   "en": "Habeebah Bint Sahl Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Habeebah Bint Sahl, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حبيبه بنت سهل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَبِيبة بنت سَهل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَبِيبة بنت سَهل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20802,12 +20827,12 @@ window.STREETS = [
   "ar": "شارع حِدْبَة بن الخَرْسَان",
   "en": "Hadbat Bin Al Kharsan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hadbat Bin Al Kharsan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حدبه بن الخرسان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حِدْبَة بن الخَرْسَان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حِدْبَة بن الخَرْسَان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20836,12 +20861,12 @@ window.STREETS = [
   "ar": "شارع حَدرَد بن أبي حَدرَد",
   "en": "Hadrad Bin Abi Hadrad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hadrad Bin Abi Hadrad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حدرد بن ابي حدرد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَدرَد بن أبي حَدرَد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَدرَد بن أبي حَدرَد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20853,12 +20878,12 @@ window.STREETS = [
   "ar": "شارع حفصة بنت عمر بن الخطاب",
   "en": "Hafsa Bint Omar Bin Al Khattab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hafsa Bint Omar Bin Al Khattab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حفصه بنت عمر بن الخطاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حفصة بنت عمر بن الخطاب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حفصة بنت عمر بن الخطاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20870,12 +20895,12 @@ window.STREETS = [
   "ar": "شارع حَجَّاج بن عَمرو",
   "en": "Hajjaj Bin 'Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hajjaj Bin 'Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حجاج بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَجَّاج بن عَمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَجَّاج بن عَمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20887,12 +20912,12 @@ window.STREETS = [
   "ar": "شارع حَجَّاج بن مالِك",
   "en": "Hajjaj Bin Malik Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hajjaj Bin Malik, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حجاج بن مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَجَّاج بن مالِك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَجَّاج بن مالِك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20904,12 +20929,12 @@ window.STREETS = [
   "ar": "شارع حَكِيم بن جَبَلة",
   "en": "Hakeem Bin Jabalah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hakeem Bin Jabalah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حكيم بن جبله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَكِيم بن جَبَلة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَكِيم بن جَبَلة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20921,12 +20946,12 @@ window.STREETS = [
   "ar": "شارع حمدان بن محمد",
   "en": "Hamdan Bin Mohammed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hamdan Bin Mohammed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حمدان بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حمدان بن محمد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حمدان بن محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20938,12 +20963,12 @@ window.STREETS = [
   "ar": "شارع حارِثة بن شَراحِيل",
   "en": "Harithah Bin Sharaheel Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Harithah Bin Sharaheel, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حارثه بن شراحيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حارِثة بن شَراحِيل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حارِثة بن شَراحِيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20955,12 +20980,12 @@ window.STREETS = [
   "ar": "شارع حَرمَلة بن عَمرو",
   "en": "Harmalah Bin 'Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Harmalah Bin 'Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حرمله بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَرمَلة بن عَمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَرمَلة بن عَمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20972,12 +20997,12 @@ window.STREETS = [
   "ar": "شارع حَرمَلة بن الوَلِيد",
   "en": "Harmalah Bin Al Waleed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Harmalah Bin Al Waleed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حرمله بن الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَرمَلة بن الوَلِيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَرمَلة بن الوَلِيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -20989,12 +21014,12 @@ window.STREETS = [
   "ar": "شارع حَرمَلة بن زَيد",
   "en": "Harmalah Bin Zayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Harmalah Bin Zayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حرمله بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَرمَلة بن زَيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَرمَلة بن زَيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21006,12 +21031,12 @@ window.STREETS = [
   "ar": "شارع حَصايا بن مَرشُود",
   "en": "Hasaya Bin Marshoud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hasaya Bin Marshoud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حصايا بن مرشود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَصايا بن مَرشُود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَصايا بن مَرشُود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21023,12 +21048,12 @@ window.STREETS = [
   "ar": "شارع حَسَّان بن جابِر",
   "en": "Hassan Bin Jabir Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hassan Bin Jabir, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حسان بن جابر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَسَّان بن جابِر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَسَّان بن جابِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21040,12 +21065,12 @@ window.STREETS = [
   "ar": "شارع حَسَّان بن شَدَّاد",
   "en": "Hassan Bin Shaddad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hassan Bin Shaddad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حسان بن شداد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَسَّان بن شَدَّاد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَسَّان بن شَدَّاد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21057,12 +21082,12 @@ window.STREETS = [
   "ar": "شارع حَوَّاء بنت يَزِيد",
   "en": "Hawwa-a Bint Yazeed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hawwa-a Bint Yazeed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حواء بنت يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَوَّاء بنت يَزِيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَوَّاء بنت يَزِيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21074,12 +21099,12 @@ window.STREETS = [
   "ar": "شارع حيِّيرة بن ثاني",
   "en": "Hayeerat Bin Thani Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hayeerat Bin Thani, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حييره بن ثاني، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حيِّيرة بن ثاني. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حيِّيرة بن ثاني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21108,12 +21133,12 @@ window.STREETS = [
   "ar": "شارع هَزع بن يَلد",
   "en": "Haz' Bin Yalad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Haz' Bin Yalad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم هزع بن يلد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هَزع بن يَلد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هَزع بن يَلد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21125,12 +21150,12 @@ window.STREETS = [
   "ar": "شارع حَزم بن أبي كَعب",
   "en": "Hazm Bin Abi Ka'b Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hazm Bin Abi Ka'b, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حزم بن ابي كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حَزم بن أبي كَعب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حَزم بن أبي كَعب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21142,12 +21167,12 @@ window.STREETS = [
   "ar": "شارع حصة بنت محمد",
   "en": "Hessa Bint Mohammed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hessa Bint Mohammed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حصه بنت محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حصة بنت محمد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حصة بنت محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21159,12 +21184,12 @@ window.STREETS = [
   "ar": "شارع هِلال بن أمَيَّة",
   "en": "Hilal Bin Umayah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hilal Bin Umayah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم هلال بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هِلال بن أمَيَّة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هِلال بن أمَيَّة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21176,12 +21201,12 @@ window.STREETS = [
   "ar": "شارع هِند بنت أسَيد",
   "en": "Hind Bint Usayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hind Bint Usayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم هند بنت اسيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هِند بنت أسَيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هِند بنت أسَيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21193,12 +21218,12 @@ window.STREETS = [
   "ar": "شارع حِراش بن أمَيَّة",
   "en": "Hirash Bin Umayah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hirash Bin Umayah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حراش بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حِراش بن أمَيَّة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حِراش بن أمَيَّة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21210,12 +21235,12 @@ window.STREETS = [
   "ar": "شارع هشام بن عبدالله",
   "en": "Hisham Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hisham Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم هشام بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هشام بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هشام بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21227,12 +21252,12 @@ window.STREETS = [
   "ar": "شارع حِصَّة",
   "en": "Hissah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hissah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم حصه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حِصَّة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حِصَّة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21261,12 +21286,12 @@ window.STREETS = [
   "ar": "شارع حُبَيش بن خالِد",
   "en": "Hubaysh Bin Khalid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hubaysh Bin Khalid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حبيش بن خالد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حُبَيش بن خالِد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حُبَيش بن خالِد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21278,12 +21303,12 @@ window.STREETS = [
   "ar": "شارع حُذَيفة بن أوس",
   "en": "Hudhayfah Bin Aws Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hudhayfah Bin Aws, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حذيفه بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حُذَيفة بن أوس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حُذَيفة بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21295,12 +21320,12 @@ window.STREETS = [
   "ar": "شارع حُمَيد بن عبدالرَّحمَن",
   "en": "Humayd Bin Abdulrahman Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Humayd Bin Abdulrahman, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حميد بن عبدالرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حُمَيد بن عبدالرَّحمَن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حُمَيد بن عبدالرَّحمَن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21312,12 +21337,12 @@ window.STREETS = [
   "ar": "شارع حُمران بن أبان",
   "en": "Humran Bin Aban Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Humran Bin Aban, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حمران بن ابان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حُمران بن أبان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حُمران بن أبان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21329,12 +21354,12 @@ window.STREETS = [
   "ar": "شارع حُوَيِّصة بن مَسعُود",
   "en": "Huwayisah Bin Mas'oud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Huwayisah Bin Mas'oud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حويصه بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حُوَيِّصة بن مَسعُود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حُوَيِّصة بن مَسعُود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21346,12 +21371,12 @@ window.STREETS = [
   "ar": "شارع إبراهِيم التَّيمِي",
   "en": "Ibrahim At Taymi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة التيمي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibrahim At Taymi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابراهيم التيمي، وهو شخصية إماراتية من أسرة التيمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of إبراهِيم التَّيمِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم إبراهِيم التَّيمِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21363,12 +21388,12 @@ window.STREETS = [
   "ar": "شارع عِمران بن طَلحة",
   "en": "Imran Bin Talhah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Imran Bin Talhah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمران بن طلحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عِمران بن طَلحة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عِمران بن طَلحة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21380,12 +21405,12 @@ window.STREETS = [
   "ar": "شارع اسماعيل عبدالقادر الملا",
   "en": "Ismail Abdulqader Al Mulla Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ismail Abdulqader Al Mulla, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم اسماعيل عبدالقادر الملا، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of اسماعيل عبدالقادر الملا. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم اسماعيل عبدالقادر الملا، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21414,12 +21439,12 @@ window.STREETS = [
   "ar": "شارع جابر بن أبي صعصعة",
   "en": "Jabir Bin Abi Sa'sa'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Jabir Bin Abi Sa'sa'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جابر بن ابي صعصعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جابر بن أبي صعصعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جابر بن أبي صعصعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21431,12 +21456,12 @@ window.STREETS = [
   "ar": "شارع جاك شيراك",
   "en": "Jacques Chirac Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Jacques Chirac, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم جاك شيراك، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جاك شيراك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جاك شيراك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21448,12 +21473,12 @@ window.STREETS = [
   "ar": "شارع جبارة بن حسن المرر",
   "en": "Jubara Bin Hasan Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Jubara Bin Hasan Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جباره بن حسن المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جبارة بن حسن المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جبارة بن حسن المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21465,12 +21490,12 @@ window.STREETS = [
   "ar": "شارع جُندُب بن عبدالله",
   "en": "Jundub Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Jundub Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جندب بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جُندُب بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جُندُب بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21482,12 +21507,12 @@ window.STREETS = [
   "ar": "شارع جُوَيرِية بنت أبي سُفيان",
   "en": "Juwayriyah Bint Abi Sufian Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Juwayriyah Bint Abi Sufian, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جويريه بنت ابي سفيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جُوَيرِية بنت أبي سُفيان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جُوَيرِية بنت أبي سُفيان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21499,12 +21524,12 @@ window.STREETS = [
   "ar": "شارع كَعب بن عُجرة",
   "en": "Ka'b Bin 'Ujrah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ka'b Bin 'Ujrah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم كعب بن عجره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of كَعب بن عُجرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم كَعب بن عُجرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21516,12 +21541,12 @@ window.STREETS = [
   "ar": "شارع خادم بن بطي آل حامد",
   "en": "Khadim Bin Butti Al Hamed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khadim Bin Butti Al Hamed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خادم بن بطي ال حامد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خادم بن بطي آل حامد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خادم بن بطي آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21533,12 +21558,12 @@ window.STREETS = [
   "ar": "شارع خَلاد بن عمرو",
   "en": "Khalad Bin 'Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalad Bin 'Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خلاد بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خَلاد بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خَلاد بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21550,12 +21575,12 @@ window.STREETS = [
   "ar": "شارع خلف بن عبدالله العتيبة",
   "en": "Khalaf Bin Abdullah Al Otaiba Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalaf Bin Abdullah Al Otaiba, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خلف بن عبدالله العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خلف بن عبدالله العتيبة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خلف بن عبدالله العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21567,12 +21592,12 @@ window.STREETS = [
   "ar": "شارع خلفان بن جبارة المرر",
   "en": "Khalfan Bin Jbara Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalfan Bin Jbara Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خلفان بن جباره المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خلفان بن جبارة المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خلفان بن جبارة المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21584,12 +21609,12 @@ window.STREETS = [
   "ar": "شارع خلفان بن مطرالرميثي",
   "en": "Khalfan Bin Matar Al Rumaithi Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalfan Bin Matar Al Rumaithi, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خلفان بن مطرالرميثي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خلفان بن مطرالرميثي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خلفان بن مطرالرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21635,12 +21660,12 @@ window.STREETS = [
   "ar": "شارع خالِد بن أبي جَبَل",
   "en": "Khalid Bin Abi Jabal Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Abi Jabal, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خالد بن ابي جبل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خالِد بن أبي جَبَل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خالِد بن أبي جَبَل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21652,12 +21677,12 @@ window.STREETS = [
   "ar": "شارع خالِد بن نافِع",
   "en": "Khalid Bin Nafi' Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Nafi', a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خالد بن نافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خالِد بن نافِع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خالِد بن نافِع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21669,12 +21694,12 @@ window.STREETS = [
   "ar": "شارع خالِد بن سِنان",
   "en": "Khalid Bin Sinan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Sinan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خالد بن سنان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خالِد بن سِنان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خالِد بن سِنان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21686,12 +21711,12 @@ window.STREETS = [
   "ar": "شارع خالِد بن ثابِت",
   "en": "Khalid Bin Thabit Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Thabit, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خالد بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خالِد بن ثابِت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خالِد بن ثابِت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21725,12 +21750,12 @@ window.STREETS = [
   "ar": "شارع خَولة بنت الازور",
   "en": "Khawlah Bint Al Azwar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khawlah Bint Al Azwar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خوله بنت الازور، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خَولة بنت الازور. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خَولة بنت الازور، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21742,12 +21767,12 @@ window.STREETS = [
   "ar": "شارع خَولة بنت مالك",
   "en": "Khawlah Bint Malik Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khawlah Bint Malik, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خوله بنت مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خَولة بنت مالك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خَولة بنت مالك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21759,12 +21784,12 @@ window.STREETS = [
   "ar": "شارع خَيثَمة بن عبدالرَّحمَن",
   "en": "Khaythamah Bin Abdulrahman Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khaythamah Bin Abdulrahman, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خيثمه بن عبدالرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خَيثَمة بن عبدالرَّحمَن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خَيثَمة بن عبدالرَّحمَن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21776,12 +21801,12 @@ window.STREETS = [
   "ar": "شارع خُور بن حِفَيظ",
   "en": "Khor Bin Hifaydh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khor Bin Hifaydh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خور بن حفيظ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خُور بن حِفَيظ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خُور بن حِفَيظ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21793,12 +21818,12 @@ window.STREETS = [
   "ar": "شارع خُور بن سُرُور",
   "en": "Khor Bin Surour Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khor Bin Surour, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خور بن سرور، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خُور بن سُرُور. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خُور بن سُرُور، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21810,12 +21835,12 @@ window.STREETS = [
   "ar": "شارع الملك عبدالله بن عبدالعزيز آل سعود",
   "en": "King Abdullah bin Abdulaziz Al Saud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of King Abdullah bin Abdulaziz Al Saud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الملك عبدالله بن عبدالعزيز ال سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الملك عبدالله بن عبدالعزيز آل سعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الملك عبدالله بن عبدالعزيز آل سعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21827,12 +21852,12 @@ window.STREETS = [
   "ar": "شارع الملك سلمان بن عبدالعزيز آل سعود",
   "en": "King Salman Bin Abdulaziz Al Saud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of King Salman Bin Abdulaziz Al Saud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الملك سلمان بن عبدالعزيز ال سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الملك سلمان بن عبدالعزيز آل سعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الملك سلمان بن عبدالعزيز آل سعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21844,12 +21869,12 @@ window.STREETS = [
   "ar": "شارع لَيلَى بنت أبي حَثمة",
   "en": "Laila Bint Abi Hathmah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Laila Bint Abi Hathmah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ليلي بنت ابي حثمه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of لَيلَى بنت أبي حَثمة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم لَيلَى بنت أبي حَثمة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21861,12 +21886,12 @@ window.STREETS = [
   "ar": "شارع ماء بن دري",
   "en": "Ma Bin Driy Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ma Bin Driy, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ماء بن دري، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ماء بن دري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ماء بن دري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21878,12 +21903,12 @@ window.STREETS = [
   "ar": "شارع مَدارة بن خَضره",
   "en": "Madarat Bin Khadrah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Madarat Bin Khadrah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مداره بن خضره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مَدارة بن خَضره. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مَدارة بن خَضره، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21895,12 +21920,12 @@ window.STREETS = [
   "ar": "شارع مَدارة بن مَرشُود",
   "en": "Madarat Bin Marshoud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Madarat Bin Marshoud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مداره بن مرشود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مَدارة بن مَرشُود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مَدارة بن مَرشُود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21912,12 +21937,12 @@ window.STREETS = [
   "ar": "شارع مَغايِل بن عمَير",
   "en": "Maghayil Bin 'Mayr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Maghayil Bin 'Mayr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مغايل بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مَغايِل بن عمَير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مَغايِل بن عمَير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21929,12 +21954,12 @@ window.STREETS = [
   "ar": "شارع مَغِيلة بن عَيَّة",
   "en": "Magheelat Bin 'Ayah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Magheelat Bin 'Ayah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مغيله بن عيه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مَغِيلة بن عَيَّة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مَغِيلة بن عَيَّة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21946,12 +21971,12 @@ window.STREETS = [
   "ar": "شارع مهره بنت خالد بن سلطان",
   "en": "Mahra Bint Khaled Bin Sultan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mahra Bint Khaled Bin Sultan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مهره بنت خالد بن سلطان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مهره بنت خالد بن سلطان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مهره بنت خالد بن سلطان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21963,12 +21988,12 @@ window.STREETS = [
   "ar": "شارع مجدر بن ذياب",
   "en": "Majdar Bin Dhiyab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Majdar Bin Dhiyab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مجدر بن ذياب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مجدر بن ذياب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مجدر بن ذياب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21980,12 +22005,12 @@ window.STREETS = [
   "ar": "شارع مالِك بن الحارِث",
   "en": "Malik Bin Al Harith Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Malik Bin Al Harith, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مالك بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مالِك بن الحارِث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مالِك بن الحارِث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -21997,12 +22022,12 @@ window.STREETS = [
   "ar": "شارع مالِك بن أنَس",
   "en": "Malik Bin Anas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Malik Bin Anas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مالك بن انس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مالِك بن أنَس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مالِك بن أنَس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22014,12 +22039,12 @@ window.STREETS = [
   "ar": "شارع مالِك بن أوس",
   "en": "Malik Bin Aws Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Malik Bin Aws, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مالك بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مالِك بن أوس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مالِك بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22031,12 +22056,12 @@ window.STREETS = [
   "ar": "شارع مانع بن سعيد العتيبة",
   "en": "Mana Bin Saeed Al Otaiba Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mana Bin Saeed Al Otaiba, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مانع بن سعيد العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مانع بن سعيد العتيبة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مانع بن سعيد العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22048,12 +22073,12 @@ window.STREETS = [
   "ar": "شارع مَسعُود بن الأسوَد",
   "en": "Mas'oud Bin Al Aswad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mas'oud Bin Al Aswad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مسعود بن الاسود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مَسعُود بن الأسوَد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مَسعُود بن الأسوَد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22065,12 +22090,12 @@ window.STREETS = [
   "ar": "شارع مجرن بن محمد المرر",
   "en": "Mejren Bin Mohammed Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mejren Bin Mohammed Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مجرن بن محمد المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مجرن بن محمد المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مجرن بن محمد المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22082,12 +22107,12 @@ window.STREETS = [
   "ar": "شارع مجرن بن سلطان المرر",
   "en": "Mejren Bin Sultan Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mejren Bin Sultan Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مجرن بن سلطان المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مجرن بن سلطان المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مجرن بن سلطان المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22099,12 +22124,12 @@ window.STREETS = [
   "ar": "شارع مسباح بن مبارك المرر",
   "en": "Misbah Bin Mubarak Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Misbah Bin Mubarak Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مسباح بن مبارك المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مسباح بن مبارك المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مسباح بن مبارك المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22116,12 +22141,12 @@ window.STREETS = [
   "ar": "شارع محمد بن بليد المرر",
   "en": "Mohamed Bin Bleaid Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Bin Bleaid Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن بليد المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن بليد المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن بليد المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22150,12 +22175,12 @@ window.STREETS = [
   "ar": "شارع محمد بن عبدالله الصايغ",
   "en": "Mohammed Bin Abdullah Al Sayegh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Abdullah Al Sayegh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن عبدالله الصايغ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن عبدالله الصايغ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن عبدالله الصايغ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22167,12 +22192,12 @@ window.STREETS = [
   "ar": "شارع محمد بن علي أبوذينة",
   "en": "Mohammed Bin Ali Abu Athaina Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ali Abu Athaina, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن علي ابوذينه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن علي أبوذينة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن علي أبوذينة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22184,12 +22209,12 @@ window.STREETS = [
   "ar": "شارع محمد بن بطي آل حامد",
   "en": "Mohammed Bin Butti Al Hamed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Butti Al Hamed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن بطي ال حامد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن بطي آل حامد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن بطي آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22201,12 +22226,12 @@ window.STREETS = [
   "ar": "شارع محمد بن مجرن المرر",
   "en": "Mohammed Bin Mejren Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Mejren Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن مجرن المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن مجرن المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن مجرن المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22218,12 +22243,12 @@ window.STREETS = [
   "ar": "شارع محمد بن ثابِت",
   "en": "Mohammed Bin Thabit Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Thabit, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن ثابِت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن ثابِت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22235,12 +22260,12 @@ window.STREETS = [
   "ar": "شارع مبارك بن محمد",
   "en": "Mubarak Bin Mohammed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bin Mohammed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مبارك بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مبارك بن محمد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مبارك بن محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22252,12 +22277,12 @@ window.STREETS = [
   "ar": "شارع مرشد بن علي المرر",
   "en": "Murshid Bin Ali Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Murshid Bin Ali Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مرشد بن علي المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مرشد بن علي المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مرشد بن علي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22269,12 +22294,12 @@ window.STREETS = [
   "ar": "شارع مصبح بن الكندي المرر",
   "en": "Musabah Bin Alkindi Al Marar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Musabah Bin Alkindi Al Marar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مصبح بن الكندي المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مصبح بن الكندي المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مصبح بن الكندي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22286,12 +22311,12 @@ window.STREETS = [
   "ar": "شارع نَخل بن جِبارة",
   "en": "Nakhl Bin Jibarah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Nakhl Bin Jibarah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم نخل بن جباره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of نَخل بن جِبارة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم نَخل بن جِبارة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22303,12 +22328,12 @@ window.STREETS = [
   "ar": "شارع نيوة بن عَلَّان",
   "en": "Naywat Bin Allan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Naywat Bin Allan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم نيوه بن علان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of نيوة بن عَلَّان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم نيوة بن عَلَّان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22320,12 +22345,12 @@ window.STREETS = [
   "ar": "شارع نِقا بن عتيج",
   "en": "Niqa Bin 'Teej Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Niqa Bin 'Teej, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم نقا بن عتيج، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of نِقا بن عتيج. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم نِقا بن عتيج، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22337,12 +22362,12 @@ window.STREETS = [
   "ar": "شارع نِقا بن حادة",
   "en": "Niqa Bin Hadah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Niqa Bin Hadah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم نقا بن حاده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of نِقا بن حادة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم نِقا بن حادة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22354,12 +22379,12 @@ window.STREETS = [
   "ar": "شارع نِقا بن سَبت",
   "en": "Niqa Bin Sabt Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Niqa Bin Sabt, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم نقا بن سبت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of نِقا بن سَبت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم نِقا بن سَبت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22371,12 +22396,12 @@ window.STREETS = [
   "ar": "شارع أمامة بنت الحارث",
   "en": "Omama Bint Al Harith Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omama Bint Al Harith, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم امامه بنت الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أمامة بنت الحارث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أمامة بنت الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22388,12 +22413,12 @@ window.STREETS = [
   "ar": "شارع قف بن شريَف",
   "en": "Qaf Bin Shrayf Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qaf Bin Shrayf, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قف بن شريف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قف بن شريَف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قف بن شريَف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22405,12 +22430,12 @@ window.STREETS = [
   "ar": "شارع قص بن غِرَيِّب",
   "en": "Qas Bin Ghirayib Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qas Bin Ghirayib, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قص بن غريب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قص بن غِرَيِّب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قص بن غِرَيِّب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22422,12 +22447,12 @@ window.STREETS = [
   "ar": "شارع قَيس بن عَبَّاد",
   "en": "Qays Bin Abbad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qays Bin Abbad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قيس بن عباد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قَيس بن عَبَّاد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قَيس بن عَبَّاد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22439,12 +22464,12 @@ window.STREETS = [
   "ar": "شارع قَيس بن أبي حازِم",
   "en": "Qays Bin Abi Hazim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qays Bin Abi Hazim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قيس بن ابي حازم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قَيس بن أبي حازِم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قَيس بن أبي حازِم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22456,12 +22481,12 @@ window.STREETS = [
   "ar": "شارع قَيس بن مَروان",
   "en": "Qays Bin Marwan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qays Bin Marwan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قيس بن مروان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قَيس بن مَروان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قَيس بن مَروان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22473,12 +22498,12 @@ window.STREETS = [
   "ar": "شارع قيس بن مخلد كيسان",
   "en": "Qays Bin Mukhallad Keesan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qays Bin Mukhallad Keesan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قيس بن مخلد كيسان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قيس بن مخلد كيسان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قيس بن مخلد كيسان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22490,12 +22515,12 @@ window.STREETS = [
   "ar": "شارع قمَاشه",
   "en": "Qumashah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qumashah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم قماشه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قمَاشه. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قمَاشه، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22507,12 +22532,12 @@ window.STREETS = [
   "ar": "شارع قرن بن عبَيِّد",
   "en": "Qurn Bin 'Ibayid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qurn Bin 'Ibayid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قرن بن عبيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قرن بن عبَيِّد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قرن بن عبَيِّد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22524,12 +22549,12 @@ window.STREETS = [
   "ar": "شارع قرن بنت سَعود",
   "en": "Qurn Bint Sa'oud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qurn Bint Sa'oud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قرن بنت سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قرن بنت سَعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قرن بنت سَعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22541,12 +22566,12 @@ window.STREETS = [
   "ar": "شارع رَبِيعة الرَّأي",
   "en": "Rabee'ah Ar Ra-iy Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rabee'ah Ar Ra-iy, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ربيعه الراي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رَبِيعة الرَّأي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رَبِيعة الرَّأي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22558,12 +22583,12 @@ window.STREETS = [
   "ar": "شارع ربيع الأول",
   "en": "Rabi' Al Awwal Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rabi' Al Awwal, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ربيع الاول، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ربيع الأول. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ربيع الأول، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22575,12 +22600,12 @@ window.STREETS = [
   "ar": "شارع رافِع بن أبي رافِع",
   "en": "Rafi' Bin Abi Rafi' Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rafi' Bin Abi Rafi', a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رافع بن ابي رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رافِع بن أبي رافِع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رافِع بن أبي رافِع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22592,12 +22617,12 @@ window.STREETS = [
   "ar": "شارع رَاكان",
   "en": "Rakan Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rakan, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم راكان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رَاكان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رَاكان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22609,12 +22634,12 @@ window.STREETS = [
   "ar": "شارع رَملة بن عَلوة",
   "en": "Ramlat Bin 'Alwah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ramlat Bin 'Alwah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رمله بن علوه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رَملة بن عَلوة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رَملة بن عَلوة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22626,12 +22651,12 @@ window.STREETS = [
   "ar": "شارع رَملة بن مرَيوِد",
   "en": "Ramlat Bin Mraywid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ramlat Bin Mraywid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رمله بن مريود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رَملة بن مرَيوِد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رَملة بن مرَيوِد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22643,12 +22668,12 @@ window.STREETS = [
   "ar": "شارع رَأس الشِّيخ",
   "en": "Ras Ash Sheikh Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ras Ash Sheikh, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم راس الشيخ، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رَأس الشِّيخ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رَأس الشِّيخ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22660,12 +22685,12 @@ window.STREETS = [
   "ar": "شارع رِفاعة بن عَمرو",
   "en": "Rifa'ah Bin 'Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rifa'ah Bin 'Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رفاعه بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رِفاعة بن عَمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رِفاعة بن عَمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22677,12 +22702,12 @@ window.STREETS = [
   "ar": "شارع رِفاعة بن رافِع",
   "en": "Rifa'ah Bin Rafi' Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rifa'ah Bin Rafi', a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رفاعه بن رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رِفاعة بن رافِع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رِفاعة بن رافِع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22694,12 +22719,12 @@ window.STREETS = [
   "ar": "شارع رفاعة بن وقش",
   "en": "Rifa'ah Bin Waqsh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rifa'ah Bin Waqsh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رفاعه بن وقش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رفاعة بن وقش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رفاعة بن وقش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22711,12 +22736,12 @@ window.STREETS = [
   "ar": "شارع رِقعة بن حِفَيظ",
   "en": "Riq'at Bin Hifaydh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Riq'at Bin Hifaydh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رقعه بن حفيظ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رِقعة بن حِفَيظ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رِقعة بن حِفَيظ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22728,12 +22753,12 @@ window.STREETS = [
   "ar": "شارع رِزِم بنت سَرناح",
   "en": "Rizim Bint Sarnah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rizim Bint Sarnah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رزم بنت سرناح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رِزِم بنت سَرناح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رِزِم بنت سَرناح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22745,12 +22770,12 @@ window.STREETS = [
   "ar": "شارع رُفيدة الأسلَمَيَّة",
   "en": "Rufaydah Al Aslamiyah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rufaydah Al Aslamiyah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم رفيده الاسلميه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رُفيدة الأسلَمَيَّة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رُفيدة الأسلَمَيَّة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22762,12 +22787,12 @@ window.STREETS = [
   "ar": "شارع سعد بن سويد بن قيس",
   "en": "Sa'd Bin Suwayd Bin Qays Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'd Bin Suwayd Bin Qays, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعد بن سويد بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعد بن سويد بن قيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعد بن سويد بن قيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22779,12 +22804,12 @@ window.STREETS = [
   "ar": "شارع سَعد ابن ابي وقاص",
   "en": "Sa'd Ibn Abi Waqqas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'd Ibn Abi Waqqas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعد ابن ابي وقاص، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سَعد ابن ابي وقاص. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سَعد ابن ابي وقاص، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22796,12 +22821,12 @@ window.STREETS = [
   "ar": "شارع سَبخة بن عِيسَى",
   "en": "Sabkhat Bin Eisa Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sabkhat Bin Eisa, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سبخه بن عيسي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سَبخة بن عِيسَى. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سَبخة بن عِيسَى، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22813,12 +22838,12 @@ window.STREETS = [
   "ar": "شارع سعيد بن أحمد العتيبة",
   "en": "Saeed Bin Ahmed Al Otaiba Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Ahmed Al Otaiba, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعيد بن احمد العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعيد بن أحمد العتيبة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعيد بن أحمد العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22830,12 +22855,12 @@ window.STREETS = [
   "ar": "شارع سهل ابن الحنظلية",
   "en": "Sahl Ibn Al Handhaliyah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sahl Ibn Al Handhaliyah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهل ابن الحنظليه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهل ابن الحنظلية. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهل ابن الحنظلية، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22847,12 +22872,12 @@ window.STREETS = [
   "ar": "شارع سيف غباش",
   "en": "Saif Ghobash Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Saif Ghobash, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم سيف غباش، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سيف غباش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سيف غباش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22864,12 +22889,12 @@ window.STREETS = [
   "ar": "شارع سلامة بنت بطي",
   "en": "Salama Bint Butti Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salama Bint Butti, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سلامه بنت بطي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سلامة بنت بطي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سلامة بنت بطي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22881,12 +22906,12 @@ window.STREETS = [
   "ar": "شارع صالح حسن بن عمرو",
   "en": "Saleh Hasan Binomar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Saleh Hasan Binomar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم صالح حسن بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of صالح حسن بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم صالح حسن بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22898,12 +22923,12 @@ window.STREETS = [
   "ar": "شارع سالم بو ملحا المرر",
   "en": "Salem Bu Melha Al Marar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salem Bu Melha Al Marar, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم سالم بو ملحا المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سالم بو ملحا المرر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سالم بو ملحا المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22915,12 +22940,12 @@ window.STREETS = [
   "ar": "شارع سالِم بن عبدالله",
   "en": "Salim Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salim Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سالم بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سالِم بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سالِم بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22932,12 +22957,12 @@ window.STREETS = [
   "ar": "شارع صيفي بن قيظي",
   "en": "Sayfi Bin Qaydhi Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sayfi Bin Qaydhi, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم صيفي بن قيظي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of صيفي بن قيظي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم صيفي بن قيظي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22949,12 +22974,12 @@ window.STREETS = [
   "ar": "شارع سيح بن عَمَّار",
   "en": "Sayh Bin 'Ammar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sayh Bin 'Ammar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سيح بن عمار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سيح بن عَمَّار. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سيح بن عَمَّار، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22966,12 +22991,12 @@ window.STREETS = [
   "ar": "شارع شَعبة بن عَنبَر",
   "en": "Sha'bat Bin 'Anbar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sha'bat Bin 'Anbar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم شعبه بن عنبر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of شَعبة بن عَنبَر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم شَعبة بن عَنبَر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -22983,12 +23008,12 @@ window.STREETS = [
   "ar": "شارع شَعبة بن بَطحان",
   "en": "Sha'bat Bin Bat-han Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sha'bat Bin Bat-han, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم شعبه بن بطحان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of شَعبة بن بَطحان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم شَعبة بن بَطحان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23000,12 +23025,12 @@ window.STREETS = [
   "ar": "شارع شَرف بن ضاعِن",
   "en": "Sharf Bin Da'in Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sharf Bin Da'in, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم شرف بن ضاعن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of شَرف بن ضاعِن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم شَرف بن ضاعِن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23139,12 +23164,12 @@ window.STREETS = [
   "ar": "نفق الشيخ زايد",
   "en": "Sheikh Zayed Tunnel",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Zayed Tunnel, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي النفق باسم الشيخ زايد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ زايد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ زايد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23195,12 +23220,12 @@ window.STREETS = [
   "ar": "شارع سدرات بن عايش",
   "en": "Sidraat Bin 'Aysh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sidraat Bin 'Aysh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سدرات بن عايش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سدرات بن عايش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سدرات بن عايش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23212,12 +23237,12 @@ window.STREETS = [
   "ar": "شارع سِدرة بن هِلال",
   "en": "Sidrat Bin Hilal Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sidrat Bin Hilal, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سدره بن هلال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سِدرة بن هِلال. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سِدرة بن هِلال، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23229,12 +23254,12 @@ window.STREETS = [
   "ar": "شارع سِلِيل بن قَذلان",
   "en": "Sileel Bin Qadhlan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sileel Bin Qadhlan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سليل بن قذلان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سِلِيل بن قَذلان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سِلِيل بن قَذلان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23246,12 +23271,12 @@ window.STREETS = [
   "ar": "شارع سنان بن أبي سنان",
   "en": "Sinan Bin Abi Sinan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sinan Bin Abi Sinan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سنان بن ابي سنان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سنان بن أبي سنان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سنان بن أبي سنان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23263,12 +23288,12 @@ window.STREETS = [
   "ar": "شارع سُهَيْل",
   "en": "Suhayl Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Suhayl, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم سهيل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سُهَيْل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سُهَيْل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23280,12 +23305,12 @@ window.STREETS = [
   "ar": "شارع سمية بنت الخياط",
   "en": "Sumayah Bint Al Khayat Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sumayah Bint Al Khayat, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سميه بنت الخياط، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سمية بنت الخياط. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سمية بنت الخياط، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23297,12 +23322,12 @@ window.STREETS = [
   "ar": "طريق طحنون بن محمد آل نهيان",
   "en": "Tahnoun Bin Mohammed Al Nahyan Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tahnoun Bin Mohammed Al Nahyan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الطريق اسم طحنون بن محمد ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طحنون بن محمد آل نهيان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طحنون بن محمد آل نهيان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23314,12 +23339,12 @@ window.STREETS = [
   "ar": "شارع تَمِيم بن رَبِيعة",
   "en": "Tameem Bin Rabee'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tameem Bin Rabee'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم تميم بن ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of تَمِيم بن رَبِيعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم تَمِيم بن رَبِيعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23331,12 +23356,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن غالِب",
   "en": "Tawi Bin Ghalib Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Ghalib, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن غالب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن غالِب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن غالِب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23348,12 +23373,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن هاشِل",
   "en": "Tawi Bin Hashil Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Hashil, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن هاشل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن هاشِل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن هاشِل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23365,12 +23390,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن حايِر",
   "en": "Tawi Bin Hayir Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Hayir, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن حاير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن حايِر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن حايِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23382,12 +23407,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن هِزِيم",
   "en": "Tawi Bin Hizeem Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Hizeem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن هزيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن هِزِيم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن هِزِيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23399,12 +23424,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن خِزام",
   "en": "Tawi Bin Khizam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Khizam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن خزام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن خِزام. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن خِزام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23416,12 +23441,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن صابِر",
   "en": "Tawi Bin Sabir Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Sabir, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن صابر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن صابِر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن صابِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23433,12 +23458,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن سَلامة",
   "en": "Tawi Bin Salamah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Salamah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن سَلامة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن سَلامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23450,12 +23475,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن شارد",
   "en": "Tawi Bin Sharid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Sharid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن شارد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن شارد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن شارد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23467,12 +23492,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن تِمِيم",
   "en": "Tawi Bin Timeem Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Timeem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن تميم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن تِمِيم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن تِمِيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23484,12 +23509,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن يُوسِف",
   "en": "Tawi Bin Yousif Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Yousif, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن يوسف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن يُوسِف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن يُوسِف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23501,12 +23526,12 @@ window.STREETS = [
   "ar": "شارع طَوِي بن زايد",
   "en": "Tawi Bin Zayed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Tawi Bin Zayed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طوي بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طَوِي بن زايد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طَوِي بن زايد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23540,12 +23565,12 @@ window.STREETS = [
   "ar": "شارع طُويَّة بن هِلال",
   "en": "Touyat Bin Hilal Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Touyat Bin Hilal, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طويه بن هلال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طُويَّة بن هِلال. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طُويَّة بن هِلال، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23557,12 +23582,12 @@ window.STREETS = [
   "ar": "شارع عُباد بن عبدالله",
   "en": "Ubad Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ubad Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عباد بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عُباد بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عُباد بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23596,12 +23621,12 @@ window.STREETS = [
   "ar": "شارع عبيدة بن الحارث بن المطلب",
   "en": "Ubaydah Bin Al Harith Bin Al Muttalib Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ubaydah Bin Al Harith Bin Al Muttalib, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبيده بن الحارث بن المطلب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبيدة بن الحارث بن المطلب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبيدة بن الحارث بن المطلب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23613,12 +23638,12 @@ window.STREETS = [
   "ar": "شارع أم هانِئ بنت أبي طالِب",
   "en": "Um Hani Bint Abi Talib Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Um Hani Bint Abi Talib, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ام هانئ بنت ابي طالب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أم هانِئ بنت أبي طالِب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أم هانِئ بنت أبي طالِب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23630,12 +23655,12 @@ window.STREETS = [
   "ar": "شارع عمارة بن زياد بن السكن",
   "en": "Umarah Bin Ziyad Bin As Sakan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Umarah Bin Ziyad Bin As Sakan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عماره بن زياد بن السكن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمارة بن زياد بن السكن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمارة بن زياد بن السكن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23647,12 +23672,12 @@ window.STREETS = [
   "ar": "شارع أمَيمة بنت صُبَيح",
   "en": "Umaymah Bint Subayh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Umaymah Bint Subayh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم اميمه بنت صبيح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أمَيمة بنت صُبَيح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أمَيمة بنت صُبَيح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23664,12 +23689,12 @@ window.STREETS = [
   "ar": "شارع عُمَير بن سَعِيد",
   "en": "Umayr Bin Saeed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Umayr Bin Saeed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمير بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عُمَير بن سَعِيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عُمَير بن سَعِيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23681,12 +23706,12 @@ window.STREETS = [
   "ar": "شارع عُقبة بن عامِر",
   "en": "Uqbah Bin 'Amer Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Uqbah Bin 'Amer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عقبه بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عُقبة بن عامِر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عُقبة بن عامِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23698,12 +23723,12 @@ window.STREETS = [
   "ar": "شارع عُروة بن عِياض",
   "en": "Urwah Bin 'Iyad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Urwah Bin 'Iyad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عروه بن عياض، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عُروة بن عِياض. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عُروة بن عِياض، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23715,12 +23740,12 @@ window.STREETS = [
   "ar": "شارع عُثمان بن وَثَّاب",
   "en": "Uthman Bin Wathab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Uthman Bin Wathab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عثمان بن وثاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عُثمان بن وَثَّاب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عُثمان بن وَثَّاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23732,12 +23757,12 @@ window.STREETS = [
   "ar": "شارع وادِي بن شامِي",
   "en": "Wadi Bin Shami Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Wadi Bin Shami, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم وادي بن شامي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of وادِي بن شامِي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم وادِي بن شامِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23749,12 +23774,12 @@ window.STREETS = [
   "ar": "شارع واقِد بن عَبدالله",
   "en": "Waqid Bin 'Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Waqid Bin 'Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم واقد بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of واقِد بن عَبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم واقِد بن عَبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23766,12 +23791,12 @@ window.STREETS = [
   "ar": "شارع وَقاص بن ربيعة",
   "en": "Waqqas Bin Rabee'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Waqqas Bin Rabee'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم وقاص بن ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of وَقاص بن ربيعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم وَقاص بن ربيعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23783,12 +23808,12 @@ window.STREETS = [
   "ar": "شارع يَحيَى بن عُباد",
   "en": "Yahya Bin 'Ubad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yahya Bin 'Ubad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يحيي بن عباد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يَحيَى بن عُباد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يَحيَى بن عُباد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23800,12 +23825,12 @@ window.STREETS = [
   "ar": "شارع يَحيىَ بن بُكَير",
   "en": "Yahya Bin Bukayr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yahya Bin Bukayr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يحيي بن بكير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يَحيىَ بن بُكَير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يَحيىَ بن بُكَير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23817,12 +23842,12 @@ window.STREETS = [
   "ar": "شارع يَحيَى بن سَعِيد",
   "en": "Yahya Bin Saeed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yahya Bin Saeed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يحيي بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يَحيَى بن سَعِيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يَحيَى بن سَعِيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23834,12 +23859,12 @@ window.STREETS = [
   "ar": "شارع يَحيَى بن وَثَّاب",
   "en": "Yahya Bin Wathab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yahya Bin Wathab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يحيي بن وثاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يَحيَى بن وَثَّاب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يَحيَى بن وَثَّاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23851,12 +23876,12 @@ window.STREETS = [
   "ar": "شارع يزيد بن عبدالمَلك",
   "en": "Yazeed Bin Abd Al Malik Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Abd Al Malik, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن عبدالملك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يزيد بن عبدالمَلك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يزيد بن عبدالمَلك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23868,12 +23893,12 @@ window.STREETS = [
   "ar": "شارع يَزيد بن الأَخنَس",
   "en": "Yazeed Bin Al Akhnas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Al Akhnas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن الاخنس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يَزيد بن الأَخنَس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يَزيد بن الأَخنَس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23885,12 +23910,12 @@ window.STREETS = [
   "ar": "شارع يَزِيد بن الأسوَد",
   "en": "Yazeed Bin Al Aswad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Al Aswad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن الاسود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يَزِيد بن الأسوَد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يَزِيد بن الأسوَد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23902,12 +23927,12 @@ window.STREETS = [
   "ar": "شارع يَزِيد بن طَلحة",
   "en": "Yazeed Bin Talhah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Talhah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن طلحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يَزِيد بن طَلحة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يَزِيد بن طَلحة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23919,12 +23944,12 @@ window.STREETS = [
   "ar": "شارع زَيد بن الأرقم",
   "en": "Zayd Bin Al Arqam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zayd Bin Al Arqam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زيد بن الارقم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زَيد بن الأرقم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زَيد بن الأرقم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23936,12 +23961,12 @@ window.STREETS = [
   "ar": "شارع زايد الخير",
   "en": "Zayed Al Khayr Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zayed Al Khayr, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم زايد الخير، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زايد الخير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زايد الخير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23953,12 +23978,12 @@ window.STREETS = [
   "ar": "شارع زايد بن سلطان",
   "en": "Zayed Bin Sultan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zayed Bin Sultan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زايد بن سلطان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زايد بن سلطان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زايد بن سلطان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23970,12 +23995,12 @@ window.STREETS = [
   "ar": "شارع زُهرة بن حُمَيضة",
   "en": "Zuhrah Bin Humaydah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zuhrah Bin Humaydah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زهره بن حميضه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زُهرة بن حُمَيضة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زُهرة بن حُمَيضة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -23987,12 +24012,12 @@ window.STREETS = [
   "ar": "شارع زُرارة بن أوفَى",
   "en": "Zurarah Bin Awfa Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zurarah Bin Awfa, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زراره بن اوفي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زُرارة بن أوفَى. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زُرارة بن أوفَى، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24004,12 +24029,12 @@ window.STREETS = [
   "ar": "شارع عباد بن بشار",
   "en": "Abad bin Bashar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abad bin Bashar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عباد بن بشار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عباد بن بشار. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عباد بن بشار، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24021,12 +24046,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن عابد",
   "en": "Abdullah bin Abid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah bin Abid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عابد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن عابد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن عابد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24038,12 +24063,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن حميد",
   "en": "Abdullah Bin Humaid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Humaid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن حميد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن حميد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن حميد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24077,12 +24102,12 @@ window.STREETS = [
   "ar": "شارع حسين بن ناصر لوتاه",
   "en": "Husain Bin Naser Lootah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Husain Bin Naser Lootah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حسين بن ناصر لوتاه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حسين بن ناصر لوتاه. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حسين بن ناصر لوتاه، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24111,12 +24136,12 @@ window.STREETS = [
   "ar": "شارع محمد سالم بو خميس",
   "en": "Mohammed Salim Bu Khamis Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Salim Bu Khamis, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم محمد سالم بو خميس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد سالم بو خميس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد سالم بو خميس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24128,12 +24153,12 @@ window.STREETS = [
   "ar": "شارع عقه بن نافع",
   "en": "O'qah Bin Nafeh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of O'qah Bin Nafeh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عقه بن نافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عقه بن نافع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عقه بن نافع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24145,12 +24170,12 @@ window.STREETS = [
   "ar": "شارع عبيد الحلو",
   "en": "Obaid Al Helo Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Obaid Al Helo, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبيد الحلو، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبيد الحلو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبيد الحلو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24213,12 +24238,12 @@ window.STREETS = [
   "ar": "شارع الشيخ عمار",
   "en": "Sheikh Ammar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Ammar, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ عمار، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ عمار. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ عمار، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24264,12 +24289,12 @@ window.STREETS = [
   "ar": "جسر الشيخ مكتوم",
   "en": "Sheikh Maktoum Bridge",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Maktoum Bridge, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الجسر باسم الشيخ مكتوم بن راشد آل مكتوم، من الأسرة الحاكمة في دبي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ مكتوم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ مكتوم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24337,12 +24362,12 @@ window.STREETS = [
   "ar": "طريق أبو بكر الصديق",
   "en": "Abu Baker Al Siddique Road",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Baker Al Siddique, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الطريق باسم ابو بكر الصديق، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو بكر الصديق. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو بكر الصديق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24354,12 +24379,12 @@ window.STREETS = [
   "ar": "شارع الحصة",
   "en": "Al Hasah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hasah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الحصه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحصة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحصة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24371,12 +24396,12 @@ window.STREETS = [
   "ar": "طريق خالد بن الوليد",
   "en": "Khalid Bin Waleed Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Waleed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الطريق اسم خالد بن الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خالد بن الوليد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خالد بن الوليد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24388,12 +24413,12 @@ window.STREETS = [
   "ar": "شارع الشيخ صباح الأحمد الجابر الصباح",
   "en": "Sabah Al Ahmed Al Jaber Al Sabah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sabah Al Ahmed Al Jaber Al Sabah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ صباح الاحمد الجابر الصباح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ صباح الأحمد الجابر الصباح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ صباح الأحمد الجابر الصباح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24422,12 +24447,12 @@ window.STREETS = [
   "ar": "شارع الشيخ راشد",
   "en": "Sheikh Rashid Road",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rashid, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ راشد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ راشد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ راشد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24479,12 +24504,12 @@ window.STREETS = [
   "ar": "طريق محمد بن مطر",
   "en": "Mohammad Bin Matar Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammad Bin Matar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الطريق اسم محمد بن مطر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن مطر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن مطر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24593,12 +24618,12 @@ window.STREETS = [
   "ar": "شارع الشيخ مكتوم",
   "en": "Sheikh Maktoum Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A member of the ruling family of Dubai",
+    "ar": "من الأسرة الحاكمة في دبي"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Maktoum, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ مكتوم، من الأسرة الحاكمة في دبي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of Sheikh Maktoum, of the family that rules Dubai. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ مكتوم، من الأسرة التي تحكم دبي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24627,12 +24652,12 @@ window.STREETS = [
   "ar": "شارع الشيخ رشيد",
   "en": "Sheikh Rasheed Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rasheed, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ رشيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ رشيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ رشيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24695,12 +24720,12 @@ window.STREETS = [
   "ar": "شارع بن ظاهر",
   "en": "Bin Dhaher Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bin Dhaher, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بن ظاهر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بن ظاهر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بن ظاهر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24785,12 +24810,12 @@ window.STREETS = [
   "ar": "شارع عباس بن عبادة",
   "en": "Abbas Bin Obadah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abbas Bin Obadah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عباس بن عباده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عباس بن عبادة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عباس بن عبادة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24802,12 +24827,12 @@ window.STREETS = [
   "ar": "شارع عبد السلام عارف",
   "en": "Abdul Salam Arif Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdul Salam Arif, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبد السلام عارف، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبد السلام عارف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبد السلام عارف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24819,12 +24844,12 @@ window.STREETS = [
   "ar": "شارع عبد الله مصعود",
   "en": "Abdulla Bin Mas'oud Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulla Bin Mas'oud, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبد الله مصعود، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبد الله مصعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبد الله مصعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24836,12 +24861,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن سالم",
   "en": "Abdulla Bin Salim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulla Bin Salim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن سالم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن سالم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن سالم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24853,12 +24878,12 @@ window.STREETS = [
   "ar": "شارع عبدالله سليم الصباح",
   "en": "Abdulla Salim Al Sabah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulla Salim Al Sabah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبدالله سليم الصباح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله سليم الصباح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله سليم الصباح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24870,12 +24895,12 @@ window.STREETS = [
   "ar": "شارع عبد الله بن عبد المناف",
   "en": "Abdullab Bin Abed Manaf Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullab Bin Abed Manaf, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبد الله بن عبد المناف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبد الله بن عبد المناف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبد الله بن عبد المناف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24887,12 +24912,12 @@ window.STREETS = [
   "ar": "شارع عبدالله العبد",
   "en": "Abdullah Al Abed Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Al Abed, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبدالله العبد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله العبد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله العبد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24972,12 +24997,12 @@ window.STREETS = [
   "ar": "شارع عبدالله الخصيب",
   "en": "Abdullah Al Khaseeb Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Al Khaseeb, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبدالله الخصيب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله الخصيب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله الخصيب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -24989,12 +25014,12 @@ window.STREETS = [
   "ar": "شارع عبد الله الخزار",
   "en": "Abdullah Al Khazzar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Al Khazzar, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبد الله الخزار، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبد الله الخزار. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبد الله الخزار، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25006,12 +25031,12 @@ window.STREETS = [
   "ar": "شارع عبدالله النديم",
   "en": "Abdullah Al Nadeem Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Al Nadeem, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبدالله النديم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله النديم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله النديم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25040,12 +25065,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن عباس",
   "en": "Abdullah Bin Abbas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Abbas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عباس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن عباس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن عباس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25057,12 +25082,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن أبي جهم",
   "en": "Abdullah Bin Abi Jahem Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Abi Jahem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن ابي جهم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن أبي جهم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن أبي جهم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25074,12 +25099,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن أبي سرح",
   "en": "Abdullah Bin Abi Sarh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Abi Sarh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن ابي سرح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن أبي سرح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن أبي سرح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25091,12 +25116,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن عفيف",
   "en": "Abdullah Bin Afif Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Afif, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عفيف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن عفيف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن عفيف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25108,12 +25133,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن الأدرع",
   "en": "Abdullah Bin Al Adra'a Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Al Adra'a, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن الادرع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن الأدرع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن الأدرع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25125,12 +25150,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن عامر",
   "en": "Abdullah Bin Amer Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Amer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن عامر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن عامر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25142,12 +25167,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن بديل",
   "en": "Abdullah Bin Badeel Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Badeel, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن بديل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن بديل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن بديل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25159,12 +25184,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن كعب",
   "en": "Abdullah Bin Ka'eb Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن كعب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن كعب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25176,12 +25201,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن مبارك",
   "en": "Abdullah Bin Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن مبارك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن مبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25193,12 +25218,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن عمير",
   "en": "Abdullah Bin Omair Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Omair, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن عمير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن عمير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25210,12 +25235,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن أمية",
   "en": "Abdullah Bin Omayah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Omayah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن أمية. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن أمية، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25227,12 +25252,12 @@ window.STREETS = [
   "ar": "شارع عبد الله بن صلاح",
   "en": "Abdullah Bin Salah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Salah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبد الله بن صلاح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبد الله بن صلاح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبد الله بن صلاح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25244,12 +25269,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن سلامة",
   "en": "Abdullah Bin Salamah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Salamah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن سلامة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن سلامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25261,12 +25286,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن سراقة",
   "en": "Abdullah Bin Suraqah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Suraqah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن سراقه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن سراقة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن سراقة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25278,12 +25303,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن طارق",
   "en": "Abdullah Bin Tareq Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Tareq, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن طارق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن طارق. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن طارق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25295,12 +25320,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن زيد",
   "en": "Abdullah Bin Zayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Zayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن زيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن زيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25312,12 +25337,12 @@ window.STREETS = [
   "ar": "شارع عبدالله حوذان",
   "en": "Abdullah Hudhan Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Hudhan, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبدالله حوذان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله حوذان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله حوذان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25329,12 +25354,12 @@ window.STREETS = [
   "ar": "شارع عبدالله جبير",
   "en": "Abdullah Jubair Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Jubair, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبدالله جبير، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله جبير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله جبير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25346,12 +25371,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن زياد",
   "en": "Abdullarahman Bin Zeyad Streeet",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullarahman Bin Zeyad Streeet, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن زياد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن زياد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن زياد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25363,12 +25388,12 @@ window.STREETS = [
   "ar": "شارع عبد الرحمن الناصر",
   "en": "Abdullrahman Al Nasir Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullrahman Al Nasir, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عبد الرحمن الناصر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبد الرحمن الناصر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبد الرحمن الناصر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25380,12 +25405,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن كعب",
   "en": "Abdulrahman Bin Ka'eb Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن كعب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن كعب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25397,12 +25422,12 @@ window.STREETS = [
   "ar": "شارع عبدالرحمن بن سليط",
   "en": "Abdulrahman Bin Sulait Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Bin Sulait, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن سليط، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالرحمن بن سليط. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن سليط، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25414,12 +25439,12 @@ window.STREETS = [
   "ar": "شارع أبي العتاهية",
   "en": "Abi Al Ataheya Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Ataheya, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي العتاهيه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي العتاهية. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي العتاهية، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25431,12 +25456,12 @@ window.STREETS = [
   "ar": "شارع أبي الفتح",
   "en": "Abi Al Fath Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Fath, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي الفتح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي الفتح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي الفتح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25448,12 +25473,12 @@ window.STREETS = [
   "ar": "شارع أبي الفتوح",
   "en": "Abi Al Futooh Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Futooh, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي الفتوح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي الفتوح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي الفتوح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25465,12 +25490,12 @@ window.STREETS = [
   "ar": "شارع أبي الهذيل",
   "en": "Abi Al Hadheel Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Hadheel, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي الهذيل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي الهذيل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي الهذيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25482,12 +25507,12 @@ window.STREETS = [
   "ar": "شارع أبي القاسم الجلاب",
   "en": "Abi Al Qasem Al Jalab Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Qasem Al Jalab, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي القاسم الجلاب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي القاسم الجلاب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي القاسم الجلاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25499,12 +25524,12 @@ window.STREETS = [
   "ar": "شارع أبي الثناء",
   "en": "Abi Al Thana'a Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Thana'a, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي الثناء، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي الثناء. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي الثناء، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25516,12 +25541,12 @@ window.STREETS = [
   "ar": "شارع أبي علي الصواف",
   "en": "Abi Ali Al Sawaf Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Ali Al Sawaf, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي علي الصواف، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي علي الصواف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي علي الصواف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25533,12 +25558,12 @@ window.STREETS = [
   "ar": "شارع أبي بكر بن أبي شيبة",
   "en": "Abi Baker Bin Abi Shiba Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Baker Bin Abi Shiba, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابي بكر بن ابي شيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي بكر بن أبي شيبة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي بكر بن أبي شيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25550,12 +25575,12 @@ window.STREETS = [
   "ar": "شارع أبي بكر بن عياش",
   "en": "Abi Baker Bin Ayash Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Baker Bin Ayash, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابي بكر بن عياش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي بكر بن عياش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي بكر بن عياش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25567,12 +25592,12 @@ window.STREETS = [
   "ar": "شارع أبي بسطام",
   "en": "Abi Bastam Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Bastam, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي بسطام، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي بسطام. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي بسطام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25584,12 +25609,12 @@ window.STREETS = [
   "ar": "شارع أبي ضياح بن ثابت",
   "en": "Abi Dayah Bin Thabet Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Dayah Bin Thabet, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابي ضياح بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي ضياح بن ثابت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي ضياح بن ثابت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25601,12 +25626,12 @@ window.STREETS = [
   "ar": "شارع أبي جندل",
   "en": "Abi Jandal Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Jandal, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي جندل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي جندل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي جندل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25618,12 +25643,12 @@ window.STREETS = [
   "ar": "شارع أبي ليلى",
   "en": "Abi Layla Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Layla, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي ليلي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي ليلى. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي ليلى، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25635,12 +25660,12 @@ window.STREETS = [
   "ar": "شارع أبي لبابة",
   "en": "Abi Lubabah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Lubabah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي لبابه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي لبابة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي لبابة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25652,12 +25677,12 @@ window.STREETS = [
   "ar": "شارع أبي مفرز",
   "en": "Abi Mufriz Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Mufriz, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي مفرز، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي مفرز. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي مفرز، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25669,12 +25694,12 @@ window.STREETS = [
   "ar": "شارع أبي نائلة",
   "en": "Abi Naelah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Naelah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي نائله، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي نائلة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي نائلة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25686,12 +25711,12 @@ window.STREETS = [
   "ar": "شارع أبي نصر",
   "en": "Abi Nassr Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Nassr, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي نصر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي نصر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي نصر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25703,12 +25728,12 @@ window.STREETS = [
   "ar": "شارع أبي أمامة",
   "en": "Abi Omamah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Omamah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي امامه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي أمامة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي أمامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25720,12 +25745,12 @@ window.STREETS = [
   "ar": "شارع أبي قتادة",
   "en": "Abi Qatadah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Qatadah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي قتاده، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي قتادة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي قتادة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25737,12 +25762,12 @@ window.STREETS = [
   "ar": "شارع أبي صفرة",
   "en": "Abi Safra Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Safra, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابي صفره، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي صفرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي صفرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25754,12 +25779,12 @@ window.STREETS = [
   "ar": "شارع أبي سلمة بن عبد الأسد",
   "en": "Abi Salamah Bin Abd Al Asad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Salamah Bin Abd Al Asad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابي سلمه بن عبد الاسد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي سلمة بن عبد الأسد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي سلمة بن عبد الأسد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25771,12 +25796,12 @@ window.STREETS = [
   "ar": "شارع أبي سنان بن محسن",
   "en": "Abi Sinan Bin Muhsin Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abi Sinan Bin Muhsin, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابي سنان بن محسن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبي سنان بن محسن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبي سنان بن محسن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25788,12 +25813,12 @@ window.STREETS = [
   "ar": "شارع عابد بن الحارث",
   "en": "Abid Bin Al Harth Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abid Bin Al Harth, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عابد بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عابد بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عابد بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25805,12 +25830,12 @@ window.STREETS = [
   "ar": "شارع أبو أيوب أك أنيم",
   "en": "Abu Ayoub Ak Aneem Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Ayoub Ak Aneem, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابو ايوب اك انيم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو أيوب أك أنيم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو أيوب أك أنيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25839,12 +25864,12 @@ window.STREETS = [
   "ar": "شارع أبو طلحة",
   "en": "Abu Talha Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abu Talha, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابو طلحه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أبو طلحة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أبو طلحة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25856,12 +25881,12 @@ window.STREETS = [
   "ar": "شارع عفراء بنت عبيد",
   "en": "Afraa Bint Obeid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Afraa Bint Obeid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عفراء بنت عبيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عفراء بنت عبيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عفراء بنت عبيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25890,12 +25915,12 @@ window.STREETS = [
   "ar": "ميدان أحمد بن عبدالرحمن بن حديد",
   "en": "Ahmed Bin Abdulrahman Bin Hadid Square",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Abdulrahman Bin Hadid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الميدان اسم احمد بن عبدالرحمن بن حديد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن عبدالرحمن بن حديد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن عبدالرحمن بن حديد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25907,12 +25932,12 @@ window.STREETS = [
   "ar": "ميدان أحمد بن درويش",
   "en": "Ahmed Bin Darwish Square",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Darwish, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الميدان اسم احمد بن درويش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أحمد بن درويش. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أحمد بن درويش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25924,12 +25949,12 @@ window.STREETS = [
   "ar": "شارع الأبهري",
   "en": "Al Abhari Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الابهري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Abhari, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الابهري، وهو شخصية إماراتية من أسرة الابهري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الأبهري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الأبهري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25958,12 +25983,12 @@ window.STREETS = [
   "ar": "الحارث بن النعمان",
   "en": "Al Hareth Bin Al Nua'man",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hareth Bin Al Nua'man, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن النعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارث بن النعمان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارث بن النعمان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25975,12 +26000,12 @@ window.STREETS = [
   "ar": "شارع الحارث بن عتيق",
   "en": "Al Hareth Bin Ateeq Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hareth Bin Ateeq, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن عتيق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارث بن عتيق. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارث بن عتيق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -25992,12 +26017,12 @@ window.STREETS = [
   "ar": "شارع الحارث بن أوس",
   "en": "Al Hareth Bin Aws Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hareth Bin Aws, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارث بن أوس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارث بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26009,12 +26034,12 @@ window.STREETS = [
   "ar": "شارع الحارث بن حسن",
   "en": "Al Hareth Bin Hassan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hareth Bin Hassan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن حسن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارث بن حسن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارث بن حسن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26026,12 +26051,12 @@ window.STREETS = [
   "ar": "شارع الحارث بن قيس",
   "en": "Al Hareth Bin Qais Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Hareth Bin Qais, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الحارث بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحارث بن قيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحارث بن قيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26060,12 +26085,12 @@ window.STREETS = [
   "ar": "شارع الجنيد بن عبد الرحمن",
   "en": "Al Junaid Bin Abdul Rahman Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Junaid Bin Abdul Rahman, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الجنيد بن عبد الرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الجنيد بن عبد الرحمن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الجنيد بن عبد الرحمن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26077,12 +26102,12 @@ window.STREETS = [
   "ar": "شارع الجنيد عبد الله",
   "en": "Al Junaid Bin Abdullah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Junaid Bin Abdullah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الجنيد عبد الله، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الجنيد عبد الله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الجنيد عبد الله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26094,12 +26119,12 @@ window.STREETS = [
   "ar": "شارع القزويني",
   "en": "Al Khouzwini Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة القزويني"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Khouzwini, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم القزويني، وهو شخصية إماراتية من أسرة القزويني، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of القزويني. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم القزويني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26111,12 +26136,12 @@ window.STREETS = [
   "ar": "شارع المنذر بن عبدالله",
   "en": "Al Munther Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Munther Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم المنذر بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of المنذر بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم المنذر بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26145,12 +26170,12 @@ window.STREETS = [
   "ar": "شارع الناصر بن عمرو",
   "en": "Al Nassir Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Nassir Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الناصر بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الناصر بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الناصر بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26162,12 +26187,12 @@ window.STREETS = [
   "ar": "شارع القشيري",
   "en": "Al Qashiri Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة القشيري"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Qashiri, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم القشيري، وهو شخصية إماراتية من أسرة القشيري، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of القشيري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم القشيري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26179,12 +26204,12 @@ window.STREETS = [
   "ar": "شارع الربيع بن زياد",
   "en": "Al Rabea Bin Zeyad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Rabea Bin Zeyad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الربيع بن زياد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الربيع بن زياد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الربيع بن زياد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26196,12 +26221,12 @@ window.STREETS = [
   "ar": "شارع الرحبي",
   "en": "Al Rhabi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية من أسرة الرحبي"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Rhabi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الرحبي، وهو شخصية إماراتية من أسرة الرحبي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الرحبي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الرحبي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26230,12 +26255,12 @@ window.STREETS = [
   "ar": "شارع الشهيد الفياض",
   "en": "Al Shaheed Al Faiad Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Shaheed Al Faiad, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد الفياض، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد الفياض. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد الفياض، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26264,12 +26289,12 @@ window.STREETS = [
   "ar": "شارع علي بن عبد الله بن الحارث",
   "en": "Ali bin Abdullah bin Al Harith Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ali bin Abdullah bin Al Harith, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم علي بن عبد الله بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of علي بن عبد الله بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم علي بن عبد الله بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26298,12 +26323,12 @@ window.STREETS = [
   "ar": "شارع عامر بن عبد عمرو",
   "en": "Amer Bin Abd Amro Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amer Bin Abd Amro, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عامر بن عبد عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عامر بن عبد عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عامر بن عبد عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26315,12 +26340,12 @@ window.STREETS = [
   "ar": "شارع عامر بن لؤي",
   "en": "Amer Bin Lua'y Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amer Bin Lua'y, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عامر بن لؤي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عامر بن لؤي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عامر بن لؤي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26332,12 +26357,12 @@ window.STREETS = [
   "ar": "شارع عامر بن أمية",
   "en": "Amer Bin Omayah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amer Bin Omayah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عامر بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عامر بن أمية. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عامر بن أمية، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26366,12 +26391,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن الحارث",
   "en": "Amr Al Bin Hareth Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amr Al Bin Hareth, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26383,12 +26408,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن أبي السرح",
   "en": "Amr Bin Abi Al Sarh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amr Bin Abi Al Sarh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن ابي السرح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن أبي السرح. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن أبي السرح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26400,12 +26425,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن إياس",
   "en": "Amr Bin Eyas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amr Bin Eyas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن إياس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن إياس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26417,12 +26442,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن معبد",
   "en": "Amr Bin Ma'abad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amr Bin Ma'abad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن معبد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن معبد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن معبد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26434,12 +26459,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن مالك",
   "en": "Amr Bin Malik Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amr Bin Malik, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن مالك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن مالك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26451,12 +26476,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن مسلم",
   "en": "Amr Bin Muslem Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amr Bin Muslem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن مسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن مسلم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن مسلم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26468,12 +26493,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن ثناء",
   "en": "Amr Bin Thana Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amr Bin Thana, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن ثناء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن ثناء. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن ثناء، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26485,12 +26510,12 @@ window.STREETS = [
   "ar": "عمرو بن عمرو",
   "en": "Amro Bin Amro",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amro Bin Amro, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26502,12 +26527,12 @@ window.STREETS = [
   "ar": "شارع عمرو بن حازم",
   "en": "Amro Bin Hazem Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Amro Bin Hazem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمرو بن حازم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمرو بن حازم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمرو بن حازم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26519,12 +26544,12 @@ window.STREETS = [
   "ar": "شارع أنس بن معاذ",
   "en": "Anas Bin Muath Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Anas Bin Muath, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم انس بن معاذ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أنس بن معاذ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أنس بن معاذ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26536,12 +26561,12 @@ window.STREETS = [
   "ar": "شارع عوف بن رفاع",
   "en": "Aouf Bin Rufaa Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Aouf Bin Rufaa, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عوف بن رفاع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عوف بن رفاع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عوف بن رفاع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26553,12 +26578,12 @@ window.STREETS = [
   "ar": "شارع عاصم بن عمرو",
   "en": "Asem Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Asem Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عاصم بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عاصم بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عاصم بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26570,12 +26595,12 @@ window.STREETS = [
   "ar": "شارع عاصم بن دلف",
   "en": "Asem Bin Dulf Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Asem Bin Dulf, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عاصم بن دلف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عاصم بن دلف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عاصم بن دلف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26587,12 +26612,12 @@ window.STREETS = [
   "ar": "شارع عاصم بن عمير",
   "en": "Asim Bin Omair Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Asim Bin Omair, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عاصم بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عاصم بن عمير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عاصم بن عمير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26604,12 +26629,12 @@ window.STREETS = [
   "ar": "شارع عطين بن الحجاج",
   "en": "Ateen bin Al Hajaj Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ateen bin Al Hajaj, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عطين بن الحجاج، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عطين بن الحجاج. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عطين بن الحجاج، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26621,12 +26646,12 @@ window.STREETS = [
   "ar": "شارع عطية بن نويرة",
   "en": "Atteyah Bin Nuwayrah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Atteyah Bin Nuwayrah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عطيه بن نويره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عطية بن نويرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عطية بن نويرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26638,12 +26663,12 @@ window.STREETS = [
   "ar": "شارع عتبة بن الفرقد",
   "en": "Autba Bin Al Farqad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Autba Bin Al Farqad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عتبه بن الفرقد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عتبة بن الفرقد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عتبة بن الفرقد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26655,12 +26680,12 @@ window.STREETS = [
   "ar": "شارع أوس بن مغراء",
   "en": "Aws Bin Maghra' Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Aws Bin Maghra', a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم اوس بن مغراء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أوس بن مغراء. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أوس بن مغراء، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26672,12 +26697,12 @@ window.STREETS = [
   "ar": "شارع أوس بن ثابت",
   "en": "Aws Bin Thabet Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Aws Bin Thabet, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم اوس بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أوس بن ثابت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أوس بن ثابت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26706,12 +26731,12 @@ window.STREETS = [
   "ar": "شارع بن المغيث",
   "en": "Bin Al Mughith Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bin Al Mughith, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بن المغيث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بن المغيث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بن المغيث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26723,12 +26748,12 @@ window.STREETS = [
   "ar": "شارع بن جماز",
   "en": "Bin Jummaz Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bin Jummaz, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بن جماز، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بن جماز. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بن جماز، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26740,12 +26765,12 @@ window.STREETS = [
   "ar": "شارع بن خازم",
   "en": "Bin Khazem Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bin Khazem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم بن خازم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بن خازم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بن خازم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26757,12 +26782,12 @@ window.STREETS = [
   "ar": "شارع بخارى",
   "en": "Bukhara Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Bukhara, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم بخاري، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of بخارى. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم بخارى، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26774,12 +26799,12 @@ window.STREETS = [
   "ar": "شارع عيسى بن أبان",
   "en": "Esa Bin Aban Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Esa Bin Aban, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عيسي بن ابان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عيسى بن أبان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عيسى بن أبان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26791,12 +26816,12 @@ window.STREETS = [
   "ar": "شارع فاطمة بنت الوليد",
   "en": "Fatimah Bint Al Waleed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Fatimah Bint Al Waleed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم فاطمه بنت الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of فاطمة بنت الوليد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم فاطمة بنت الوليد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26808,12 +26833,12 @@ window.STREETS = [
   "ar": "شارع فاطمة بنت أسد",
   "en": "Fatimah Bint Asad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Fatimah Bint Asad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم فاطمه بنت اسد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of فاطمة بنت أسد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم فاطمة بنت أسد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26825,12 +26850,12 @@ window.STREETS = [
   "ar": "شارع هبار الأسود",
   "en": "Habar Al Aswad Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Habar Al Aswad, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم هبار الاسود، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هبار الأسود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هبار الأسود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26842,12 +26867,12 @@ window.STREETS = [
   "ar": "شارع حبيب بن قرة",
   "en": "Habeeb Bin Qurah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Habeeb Bin Qurah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حبيب بن قره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حبيب بن قرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حبيب بن قرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26859,12 +26884,12 @@ window.STREETS = [
   "ar": "شارع حمد بن زايد",
   "en": "Hammed Bin Zayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hammed Bin Zayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حمد بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حمد بن زايد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حمد بن زايد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26876,12 +26901,12 @@ window.STREETS = [
   "ar": "شارع حنظلة بن الكاتب",
   "en": "Handhala Bin Al Kateb Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Handhala Bin Al Kateb, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حنظله بن الكاتب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حنظلة بن الكاتب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حنظلة بن الكاتب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26893,12 +26918,12 @@ window.STREETS = [
   "ar": "شارع حنيف بن رياب",
   "en": "Haneef Bin Reyab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Haneef Bin Reyab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حنيف بن رياب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حنيف بن رياب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حنيف بن رياب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26910,12 +26935,12 @@ window.STREETS = [
   "ar": "شارع هانئ بن قبيصة",
   "en": "Hani'e Bin Qubaisa Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hani'e Bin Qubaisa, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم هانئ بن قبيصه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هانئ بن قبيصة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هانئ بن قبيصة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26927,12 +26952,12 @@ window.STREETS = [
   "ar": "شارع هاشم بن عبدالرحمن",
   "en": "Hasham Bin Abdulrahman Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hasham Bin Abdulrahman, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم هاشم بن عبدالرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هاشم بن عبدالرحمن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هاشم بن عبدالرحمن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26944,12 +26969,12 @@ window.STREETS = [
   "ar": "شارع هاشم المرقال",
   "en": "Hashim Al Merqal Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hashim Al Merqal, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم هاشم المرقال، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هاشم المرقال. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هاشم المرقال، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26961,12 +26986,12 @@ window.STREETS = [
   "ar": "شارع حواء بنت رافع",
   "en": "Hawa'a Bint Rafe'a Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hawa'a Bint Rafe'a, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حواء بنت رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حواء بنت رافع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حواء بنت رافع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26978,12 +27003,12 @@ window.STREETS = [
   "ar": "شارع حي بن هاني",
   "en": "Hay Bin Hani'e Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hay Bin Hani'e, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حي بن هاني، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حي بن هاني. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حي بن هاني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -26995,12 +27020,12 @@ window.STREETS = [
   "ar": "شارع هشام بن عبد الرحمن",
   "en": "Hisham bin Abdul Rahman Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hisham bin Abdul Rahman, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم هشام بن عبد الرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of هشام بن عبد الرحمن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم هشام بن عبد الرحمن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27012,12 +27037,12 @@ window.STREETS = [
   "ar": "شارع حذيفة بن مسعود",
   "en": "Hudhaifa Bin Mas'oud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hudhaifa Bin Mas'oud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حذيفه بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حذيفة بن مسعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حذيفة بن مسعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27029,12 +27054,12 @@ window.STREETS = [
   "ar": "شارع حور بن يوسف",
   "en": "Hur Bin Yousif Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hur Bin Yousif, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حور بن يوسف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حور بن يوسف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حور بن يوسف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27046,12 +27071,12 @@ window.STREETS = [
   "ar": "شارع حراثة بن النعمان",
   "en": "Huratha Bin Al Nuo'man Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Huratha Bin Al Nuo'man, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم حراثه بن النعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حراثة بن النعمان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حراثة بن النعمان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27080,12 +27105,12 @@ window.STREETS = [
   "ar": "شارع ابن أبي لبابة",
   "en": "Iben Abi Lubaba Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Iben Abi Lubaba, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن ابي لبابه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن أبي لبابة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن أبي لبابة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27148,12 +27173,12 @@ window.STREETS = [
   "ar": "شارع ابن المسيب",
   "en": "Iben Al Musayeb Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Iben Al Musayeb, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن المسيب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن المسيب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن المسيب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27165,12 +27190,12 @@ window.STREETS = [
   "ar": "شارع ابن السماق",
   "en": "Iben Al Samak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Iben Al Samak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن السماق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن السماق. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن السماق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27182,12 +27207,12 @@ window.STREETS = [
   "ar": "شارع ابن علي القاسم",
   "en": "Iben Ali Al Qasim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Iben Ali Al Qasim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن علي القاسم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن علي القاسم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن علي القاسم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27199,12 +27224,12 @@ window.STREETS = [
   "ar": "شارع ابن ضبيعة",
   "en": "Iben Dhubai'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Iben Dhubai'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن ضبيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن ضبيعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن ضبيعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27216,12 +27241,12 @@ window.STREETS = [
   "ar": "شارع ابن مجاعة",
   "en": "Iben Maja'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Iben Maja'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن مجاعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن مجاعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن مجاعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27233,12 +27258,12 @@ window.STREETS = [
   "ar": "شارع ابن سيرين",
   "en": "Iben Sireen Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Iben Sireen, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن سيرين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن سيرين. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن سيرين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27250,12 +27275,12 @@ window.STREETS = [
   "ar": "شارع ابن علي مبارك",
   "en": "Ibn Ali Mubarak Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibn Ali Mubarak, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن علي مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن علي مبارك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن علي مبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27267,12 +27292,12 @@ window.STREETS = [
   "ar": "شارع ابن ظاهر",
   "en": "Ibn Dhaher Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibn Dhaher, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن ظاهر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن ظاهر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن ظاهر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27284,12 +27309,12 @@ window.STREETS = [
   "ar": "ابن ذي البردين",
   "en": "Ibn Dhi Al Burdeen",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibn Dhi Al Burdeen, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن ذي البردين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن ذي البردين. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن ذي البردين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27352,12 +27377,12 @@ window.STREETS = [
   "ar": "شارع إبراهيم بن بسام",
   "en": "Ibrahim Bin Basam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibrahim Bin Basam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابراهيم بن بسام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of إبراهيم بن بسام. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم إبراهيم بن بسام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27369,12 +27394,12 @@ window.STREETS = [
   "ar": "شارع إبراهيم محمد المدفع",
   "en": "Ibrahim Mohammed Al Medfa'a Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibrahim Mohammed Al Medfa'a, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ابراهيم محمد المدفع، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of إبراهيم محمد المدفع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم إبراهيم محمد المدفع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27386,12 +27411,12 @@ window.STREETS = [
   "ar": "شارع اسماعيل الشهيد",
   "en": "Ismael Al Shaheed Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ismael Al Shaheed, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم اسماعيل الشهيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of اسماعيل الشهيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم اسماعيل الشهيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27403,12 +27428,12 @@ window.STREETS = [
   "ar": "شارع جعشم الخير",
   "en": "Ja'asham Al Khair Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ja'asham Al Khair, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم جعشم الخير، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جعشم الخير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جعشم الخير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27442,12 +27467,12 @@ window.STREETS = [
   "ar": "شارع جبر بن أنس",
   "en": "Jabr Bin Anas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Jabr Bin Anas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جبر بن انس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جبر بن أنس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جبر بن أنس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27459,12 +27484,12 @@ window.STREETS = [
   "ar": "شارع جامح بن شداد",
   "en": "Jamih Bin Shaddad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Jamih Bin Shaddad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جامح بن شداد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of جامح بن شداد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم جامح بن شداد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27510,12 +27535,12 @@ window.STREETS = [
   "ar": "شارع كعب بن عمرو",
   "en": "Ka'eb Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ka'eb Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم كعب بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of كعب بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم كعب بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27549,12 +27574,12 @@ window.STREETS = [
   "ar": "شارع كثير بن عمرو",
   "en": "Katheer Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Katheer Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم كثير بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of كثير بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم كثير بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27605,12 +27630,12 @@ window.STREETS = [
   "ar": "شارع خالد بن رافع",
   "en": "Khalid Bin Rafe'a Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Khalid Bin Rafe'a, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم خالد بن رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of خالد بن رافع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم خالد بن رافع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27666,12 +27691,12 @@ window.STREETS = [
   "ar": "شارع الملك عبد العزيز",
   "en": "King Abdul Aziz Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of King Abdul Aziz, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الملك عبد العزيز، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الملك عبد العزيز. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الملك عبد العزيز، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27683,12 +27708,12 @@ window.STREETS = [
   "ar": "شارع كليب بن تميم",
   "en": "Kulayb Bin Tamim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Kulayb Bin Tamim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم كليب بن تميم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of كليب بن تميم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم كليب بن تميم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27722,12 +27747,12 @@ window.STREETS = [
   "ar": "شارع الشهيد علاء محفوظ",
   "en": "Martyr Alaa Muhfuth Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Martyr Alaa Muhfuth, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد علاء محفوظ، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد علاء محفوظ. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد علاء محفوظ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27739,12 +27764,12 @@ window.STREETS = [
   "ar": "شارع الشهيد محمد أبو ريان",
   "en": "Martyr Mohammed Abu Rayan Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Martyr Mohammed Abu Rayan, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد محمد ابو ريان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد محمد أبو ريان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد محمد أبو ريان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27756,12 +27781,12 @@ window.STREETS = [
   "ar": "شارع الشهيد محمد الدرة",
   "en": "Martyr Mohammed Al Dorah Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Martyr Mohammed Al Dorah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد محمد الدره، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد محمد الدرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد محمد الدرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27773,12 +27798,12 @@ window.STREETS = [
   "ar": "شارع الشهيد محمد عبيد",
   "en": "Martyr Mohammed Obaid Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Martyr Mohammed Obaid, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد محمد عبيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد محمد عبيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد محمد عبيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27790,12 +27815,12 @@ window.STREETS = [
   "ar": "شارع الشهيد موسى الدبس",
   "en": "Martyr Mousa Al Debis Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Martyr Mousa Al Debis, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد موسي الدبس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد موسى الدبس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد موسى الدبس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27807,12 +27832,12 @@ window.STREETS = [
   "ar": "شارع الشهيد رامي مطاوع",
   "en": "Martyr Rami Motawi Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Martyr Rami Motawi, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد رامي مطاوع، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد رامي مطاوع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد رامي مطاوع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27824,12 +27849,12 @@ window.STREETS = [
   "ar": "شارع الشهيد وجدي حطاب",
   "en": "Martyr Wajdi Hatab Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Martyr Wajdi Hatab, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد وجدي حطاب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد وجدي حطاب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد وجدي حطاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27841,12 +27866,12 @@ window.STREETS = [
   "ar": "شارع مسعود بن خلدة",
   "en": "Masoud Bin Khaladah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Masoud Bin Khaladah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مسعود بن خلده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مسعود بن خلدة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مسعود بن خلدة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27858,12 +27883,12 @@ window.STREETS = [
   "ar": "شارع مسعود بن سعد",
   "en": "Masoud Bin Sa'ad Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Masoud Bin Sa'ad, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مسعود بن سعد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مسعود بن سعد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مسعود بن سعد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27875,12 +27900,12 @@ window.STREETS = [
   "ar": "شارع معوذ بن عفراء",
   "en": "Mo'awth Bin Afra'a Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mo'awth Bin Afra'a, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم معوذ بن عفراء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of معوذ بن عفراء. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم معوذ بن عفراء، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27909,12 +27934,12 @@ window.STREETS = [
   "ar": "شارع محمد بن المنذر",
   "en": "Mohamed Bin Al Mundhar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Bin Al Mundhar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محمد بن المنذر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد بن المنذر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد بن المنذر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -27926,12 +27951,12 @@ window.STREETS = [
   "ar": "شارع محمد اﻷزهر",
   "en": "Mohammed Al Azhar Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Al Azhar, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم محمد اﻷزهر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محمد اﻷزهر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محمد اﻷزهر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28011,12 +28036,12 @@ window.STREETS = [
   "ar": "شارع محرز بن العامر",
   "en": "Mohrez Bin Al Amer Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mohrez Bin Al Amer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم محرز بن العامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of محرز بن العامر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم محرز بن العامر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28028,12 +28053,12 @@ window.STREETS = [
   "ar": "شارع موسى بن طلحة",
   "en": "Mousa Bin Talha Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mousa Bin Talha, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم موسي بن طلحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of موسى بن طلحة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم موسى بن طلحة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28045,12 +28070,12 @@ window.STREETS = [
   "ar": "شارع معاذ بن عمرو",
   "en": "Muath Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Muath Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم معاذ بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of معاذ بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم معاذ بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28062,12 +28087,12 @@ window.STREETS = [
   "ar": "شارع مدلاج بن عمرو",
   "en": "Mudlaj Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mudlaj Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مدلاج بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مدلاج بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مدلاج بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28079,12 +28104,12 @@ window.STREETS = [
   "ar": "شارع مجاشع بن مسعود",
   "en": "Mujashe'a Bin Masoud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mujashe'a Bin Masoud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم مجاشع بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of مجاشع بن مسعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم مجاشع بن مسعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28096,12 +28121,12 @@ window.STREETS = [
   "ar": "شارع منذر بن محمد",
   "en": "Mundher Bin Mohammed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Mundher Bin Mohammed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم منذر بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of منذر بن محمد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم منذر بن محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28113,12 +28138,12 @@ window.STREETS = [
   "ar": "شارع منذر بن قدامة",
   "en": "Munther Bin Qudamah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Munther Bin Qudamah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم منذر بن قدامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of منذر بن قدامة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم منذر بن قدامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28130,12 +28155,12 @@ window.STREETS = [
   "ar": "شارع موربا بن مسعود",
   "en": "Murba Bin Masoud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Murba Bin Masoud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم موربا بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of موربا بن مسعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم موربا بن مسعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28147,12 +28172,12 @@ window.STREETS = [
   "ar": "شارع المرقاب بن راشد",
   "en": "Murjab Bin Rashed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Murjab Bin Rashed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم المرقاب بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of المرقاب بن راشد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم المرقاب بن راشد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28164,12 +28189,12 @@ window.STREETS = [
   "ar": "شارع نعيم بن مقرن",
   "en": "Na'eem Bin Muqren Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Na'eem Bin Muqren, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم نعيم بن مقرن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of نعيم بن مقرن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم نعيم بن مقرن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28181,12 +28206,12 @@ window.STREETS = [
   "ar": "شارع عبيد بن حيان",
   "en": "Obaid Bin Hayyan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Hayyan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبيد بن حيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبيد بن حيان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبيد بن حيان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28198,12 +28223,12 @@ window.STREETS = [
   "ar": "شارع عبيد بن زايد",
   "en": "Obaid Bin Zayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Zayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبيد بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبيد بن زايد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبيد بن زايد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28215,12 +28240,12 @@ window.STREETS = [
   "ar": "شارع عبيدة بن الحباب",
   "en": "Obaidah Bin Al Habbab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Obaidah Bin Al Habbab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبيده بن الحباب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبيدة بن الحباب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبيدة بن الحباب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28232,12 +28257,12 @@ window.STREETS = [
   "ar": "شارع عدي بن سهيل",
   "en": "Oday Bin Suhail Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Oday Bin Suhail, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عدي بن سهيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عدي بن سهيل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عدي بن سهيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28266,12 +28291,12 @@ window.STREETS = [
   "ar": "شارع عمير بن الهمام",
   "en": "Omair Bin Al Hamam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omair Bin Al Hamam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمير بن الهمام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمير بن الهمام. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمير بن الهمام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28283,12 +28308,12 @@ window.STREETS = [
   "ar": "شارع عمير بن أوس",
   "en": "Omair Bin Aws Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omair Bin Aws, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمير بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمير بن أوس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمير بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28373,12 +28398,12 @@ window.STREETS = [
   "ar": "شارع عمر بن هيرة",
   "en": "Omar Bin Hairah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omar Bin Hairah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمر بن هيره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمر بن هيرة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمر بن هيرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28390,12 +28415,12 @@ window.STREETS = [
   "ar": "شارع عمر بن مالك",
   "en": "Omar Bin Malik Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omar Bin Malik, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمر بن مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمر بن مالك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمر بن مالك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28407,12 +28432,12 @@ window.STREETS = [
   "ar": "شارع عمر بن عثمان",
   "en": "Omar Bin Othman Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omar Bin Othman, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمر بن عثمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمر بن عثمان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمر بن عثمان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28424,12 +28449,12 @@ window.STREETS = [
   "ar": "شارع عمر شاهين",
   "en": "Omar Shaheen Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omar Shaheen, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عمر شاهين، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمر شاهين. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمر شاهين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28463,12 +28488,12 @@ window.STREETS = [
   "ar": "شارع عروة بن زيد",
   "en": "Orwa Bin Zayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Orwa Bin Zayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عروه بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عروة بن زيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عروة بن زيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28480,12 +28505,12 @@ window.STREETS = [
   "ar": "شارع أسامة بن عبد الله",
   "en": "Osama Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Osama Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم اسامه بن عبد الله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of أسامة بن عبد الله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم أسامة بن عبد الله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28497,12 +28522,12 @@ window.STREETS = [
   "ar": "شارع عتبة بن عروة",
   "en": "Otba Bin Arwa Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Otba Bin Arwa, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عتبه بن عروه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عتبة بن عروة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عتبة بن عروة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28514,12 +28539,12 @@ window.STREETS = [
   "ar": "شارع عتبة بن عبد الله",
   "en": "Otbah Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Otbah Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عتبه بن عبد الله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عتبة بن عبد الله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عتبة بن عبد الله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28531,12 +28556,12 @@ window.STREETS = [
   "ar": "شارع عثمان بن السحير",
   "en": "Othman Bin Al Suheer Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Othman Bin Al Suheer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عثمان بن السحير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عثمان بن السحير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عثمان بن السحير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28548,12 +28573,12 @@ window.STREETS = [
   "ar": "شارع عتيبة بن النحاس",
   "en": "Otibah Bin Al Nahas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Otibah Bin Al Nahas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عتيبه بن النحاس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عتيبة بن النحاس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عتيبة بن النحاس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28565,12 +28590,12 @@ window.STREETS = [
   "ar": "شارع عطوة بن مسعود",
   "en": "Otwa Bin Masoud Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Otwa Bin Masoud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عطوه بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عطوة بن مسعود. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عطوة بن مسعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28582,12 +28607,12 @@ window.STREETS = [
   "ar": "شارع قيس بن محسن",
   "en": "Qais Bin Muhsin Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Qais Bin Muhsin, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قيس بن محسن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قيس بن محسن. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قيس بن محسن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28616,12 +28641,12 @@ window.STREETS = [
   "ar": "شارع قتيبة بن مسلم",
   "en": "Quaibah Bin Muslim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Quaibah Bin Muslim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم قتيبه بن مسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of قتيبة بن مسلم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم قتيبة بن مسلم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28633,12 +28658,12 @@ window.STREETS = [
   "ar": "شارع ربعي الافكل",
   "en": "Rab'ey Al Afkal Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rab'ey Al Afkal, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ربعي الافكل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ربعي الافكل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ربعي الافكل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28667,12 +28692,12 @@ window.STREETS = [
   "ar": "شارع ربيع بن إياس",
   "en": "Rabieh Bin Ayas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rabieh Bin Ayas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ربيع بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ربيع بن إياس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ربيع بن إياس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28684,12 +28709,12 @@ window.STREETS = [
   "ar": "شارع رائعة بنت ثابت",
   "en": "Rae'ah Bint Thabet Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rae'ah Bint Thabet, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رائعه بنت ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رائعة بنت ثابت. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رائعة بنت ثابت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28701,12 +28726,12 @@ window.STREETS = [
   "ar": "شارع رافت بن عمرو",
   "en": "Rafat Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rafat Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رافت بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رافت بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رافت بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28718,12 +28743,12 @@ window.STREETS = [
   "ar": "شارع رافع بن يزيد",
   "en": "Rafi' Bin Yazeed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rafi' Bin Yazeed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رافع بن يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of رافع بن يزيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم رافع بن يزيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28735,12 +28760,12 @@ window.STREETS = [
   "ar": "راشد بن محمد خادم",
   "en": "Rashid Bin Muhammad Khadim Square",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Muhammad Khadim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم راشد بن محمد خادم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of راشد بن محمد خادم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم راشد بن محمد خادم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28752,12 +28777,12 @@ window.STREETS = [
   "ar": "شارع راية بن يزيد",
   "en": "Rayah Bin Yazeed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rayah Bin Yazeed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم رايه بن يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of راية بن يزيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم راية بن يزيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28769,12 +28794,12 @@ window.STREETS = [
   "ar": "شارع سعد بن النعمان",
   "en": "Sa'ad Bin Al Nua'man Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'ad Bin Al Nua'man, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعد بن النعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعد بن النعمان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعد بن النعمان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28786,12 +28811,12 @@ window.STREETS = [
   "ar": "شارع سعد بن عمرو",
   "en": "Sa'ad Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'ad Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعد بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعد بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعد بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28803,12 +28828,12 @@ window.STREETS = [
   "ar": "شارع سعد بن سهيل",
   "en": "Sa'ad Bin Suhail Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'ad Bin Suhail, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعد بن سهيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعد بن سهيل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعد بن سهيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28820,12 +28845,12 @@ window.STREETS = [
   "ar": "شارع سعد بن زيد",
   "en": "Sa'ad Bin Zayd Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'ad Bin Zayd, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعد بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعد بن زيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعد بن زيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28837,12 +28862,12 @@ window.STREETS = [
   "ar": "شارع سعيد بن سلامة",
   "en": "Sa'ed Bin Salamah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'ed Bin Salamah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعيد بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعيد بن سلامة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعيد بن سلامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28854,12 +28879,12 @@ window.STREETS = [
   "ar": "شارع سعد بن يزيد",
   "en": "Sa'ed Bin Yazeed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'ed Bin Yazeed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعد بن يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعد بن يزيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعد بن يزيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28888,12 +28913,12 @@ window.STREETS = [
   "ar": "شارع سعيد بن يسار",
   "en": "Sa'eed bin Yassar Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sa'eed bin Yassar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سعيد بن يسار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سعيد بن يسار. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سعيد بن يسار، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28922,12 +28947,12 @@ window.STREETS = [
   "ar": "شارع صفوان بن وهب",
   "en": "Safwan Bin Wahab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Safwan Bin Wahab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم صفوان بن وهب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of صفوان بن وهب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم صفوان بن وهب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28939,12 +28964,12 @@ window.STREETS = [
   "ar": "شارع سهل بن الحنظلية",
   "en": "Sahil Bin Al Handhalyeh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sahil Bin Al Handhalyeh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهل بن الحنظليه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهل بن الحنظلية. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهل بن الحنظلية، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28956,12 +28981,12 @@ window.STREETS = [
   "ar": "شارع سهيل بن عتيك",
   "en": "Sahil Bin Autayk Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sahil Bin Autayk, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهيل بن عتيك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهيل بن عتيك. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهيل بن عتيك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28973,12 +28998,12 @@ window.STREETS = [
   "ar": "شارع سهل بن عدي",
   "en": "Sahil Bin Odai Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sahil Bin Odai, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهل بن عدي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهل بن عدي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهل بن عدي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -28990,12 +29015,12 @@ window.STREETS = [
   "ar": "شارع سهل بن عمرو",
   "en": "Sahl Bin Amro Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sahl Bin Amro, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهل بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهل بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهل بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29007,12 +29032,12 @@ window.STREETS = [
   "ar": "شارع سلام بن أسلم",
   "en": "Salam Bin Aslam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salam Bin Aslam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سلام بن اسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سلام بن أسلم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سلام بن أسلم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29024,12 +29049,12 @@ window.STREETS = [
   "ar": "شارع سلمة بن الميلاء",
   "en": "Salama Bin Al Mayla'a Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salama Bin Al Mayla'a, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سلمه بن الميلاء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سلمة بن الميلاء. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سلمة بن الميلاء، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29041,12 +29066,12 @@ window.STREETS = [
   "ar": "شارع سلمة بن أسلم",
   "en": "Salamah Bin Aslam Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salamah Bin Aslam, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سلمه بن اسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سلمة بن أسلم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سلمة بن أسلم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29058,12 +29083,12 @@ window.STREETS = [
   "ar": "شارع سلمة بن سلامة",
   "en": "Salamah Bin Salamah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salamah Bin Salamah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سلمه بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سلمة بن سلامة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سلمة بن سلامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29075,12 +29100,12 @@ window.STREETS = [
   "ar": "شارع سليم بن عمرو",
   "en": "Saleem Bin Amr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Saleem Bin Amr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سليم بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سليم بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سليم بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29092,12 +29117,12 @@ window.STREETS = [
   "ar": "شارع صالح بن مسلم",
   "en": "Saleh Bin Muslim Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Saleh Bin Muslim, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم صالح بن مسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of صالح بن مسلم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم صالح بن مسلم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29109,12 +29134,12 @@ window.STREETS = [
   "ar": "ساحة سالم بن العويس",
   "en": "Salem Bin Alowais Square",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Alowais, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الساحة اسم ساحه سالم بن العويس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سالم بن العويس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سالم بن العويس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29126,12 +29151,12 @@ window.STREETS = [
   "ar": "شريف بن عامر",
   "en": "Shareeh Bin Amer",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Shareeh Bin Amer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم شريف بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of شريف بن عامر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم شريف بن عامر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29143,12 +29168,12 @@ window.STREETS = [
   "ar": "شارع شهاب بن المخارق",
   "en": "Shehab Bin Al Makhareq Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Shehab Bin Al Makhareq, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم شهاب بن المخارق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of شهاب بن المخارق. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم شهاب بن المخارق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29177,12 +29202,12 @@ window.STREETS = [
   "ar": "شارع الشيخ عبدالله سلطان القاسمي - الشارقة",
   "en": "Sheikh Abdullah Sultan Al Qasimi Street - Sharjah",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Abdullah Sultan Al Qasimi Street - Sharjah, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ عبدالله سلطان القاسمي - الشارقه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ عبدالله سلطان القاسمي - الشارقة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ عبدالله سلطان القاسمي - الشارقة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29296,12 +29321,12 @@ window.STREETS = [
   "ar": "شارع الشيخ خليفة",
   "en": "Sheikh Khalifa Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Khalifa, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ خليفه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشيخ خليفة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشيخ خليفة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29517,12 +29542,12 @@ window.STREETS = [
   "ar": "شارع سراض بن كب",
   "en": "Soraqa Bin Ka'eb Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Soraqa Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سراض بن كب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سراض بن كب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سراض بن كب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29534,12 +29559,12 @@ window.STREETS = [
   "ar": "شارع سورة بن الحر",
   "en": "Soura Bin Al Hur Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Soura Bin Al Hur, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سوره بن الحر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سورة بن الحر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سورة بن الحر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29568,12 +29593,12 @@ window.STREETS = [
   "ar": "شارع صبيحة بن الحارث",
   "en": "Subayhah Bin Al Hareth Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Subayhah Bin Al Hareth, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم صبيحه بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of صبيحة بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم صبيحة بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29585,12 +29610,12 @@ window.STREETS = [
   "ar": "شارع سفيان بن عبدالله",
   "en": "Sufyan Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sufyan Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سفيان بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سفيان بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سفيان بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29602,12 +29627,12 @@ window.STREETS = [
   "ar": "شارع سفيان بن مجيب",
   "en": "Sufyan Bin Mujeeb Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sufyan Bin Mujeeb, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سفيان بن مجيب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سفيان بن مجيب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سفيان بن مجيب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29619,12 +29644,12 @@ window.STREETS = [
   "ar": "شارع سفيان بن ناصر",
   "en": "Sufyan Bin Nasr Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sufyan Bin Nasr, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سفيان بن ناصر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سفيان بن ناصر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سفيان بن ناصر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29636,12 +29661,12 @@ window.STREETS = [
   "ar": "شارع سهيل بن الربيع",
   "en": "Suhail Bin AL Rabi'eh Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bin AL Rabi'eh, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهيل بن الربيع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهيل بن الربيع. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهيل بن الربيع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29653,12 +29678,12 @@ window.STREETS = [
   "ar": "شارع سهيل بن عدي",
   "en": "Suhail Bin Oday Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bin Oday, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهيل بن عدي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهيل بن عدي. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهيل بن عدي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29670,12 +29695,12 @@ window.STREETS = [
   "ar": "شارع سهيل بن رفعة",
   "en": "Suhail Bin Rafi'h Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bin Rafi'h, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهيل بن رفعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهيل بن رفعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهيل بن رفعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29687,12 +29712,12 @@ window.STREETS = [
   "ar": "شارع سهيل بن وهب",
   "en": "Suhail Bin Wahab Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bin Wahab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهيل بن وهب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهيل بن وهب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهيل بن وهب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29704,12 +29729,12 @@ window.STREETS = [
   "ar": "شارع سهيل بن حنيف",
   "en": "Suhel Bin Haneef Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Suhel Bin Haneef, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سهيل بن حنيف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سهيل بن حنيف. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سهيل بن حنيف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29721,12 +29746,12 @@ window.STREETS = [
   "ar": "طريق السلطان قابوس",
   "en": "Sultan Qaboos Road",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Sultan Qaboos, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الطريق باسم السلطان قابوس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of السلطان قابوس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم السلطان قابوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29738,12 +29763,12 @@ window.STREETS = [
   "ar": "شارع سراقة بن كعب",
   "en": "Suraqah Bin Ka'eb Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Suraqah Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم سراقه بن كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of سراقة بن كعب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم سراقة بن كعب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29755,12 +29780,12 @@ window.STREETS = [
   "ar": "شارع طلحة بن عبدالله",
   "en": "Talha Bin Abdulla Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Talha Bin Abdulla, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طلحه بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of طلحة بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم طلحة بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29772,12 +29797,12 @@ window.STREETS = [
   "ar": "شارع ثمامة بن عبد الله",
   "en": "Thumamah Bin Abdullah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Thumamah Bin Abdullah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ثمامه بن عبد الله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ثمامة بن عبد الله. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ثمامة بن عبد الله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29840,12 +29865,12 @@ window.STREETS = [
   "ar": "شارع ورقة بن إياس",
   "en": "Waraqah Bin Eyas Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Waraqah Bin Eyas, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ورقه بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ورقة بن إياس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ورقة بن إياس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29857,12 +29882,12 @@ window.STREETS = [
   "ar": "شارع ورد بن أدهم",
   "en": "Ward Bin Adham Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ward Bin Adham, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ورد بن ادهم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ورد بن أدهم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ورد بن أدهم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29925,12 +29950,12 @@ window.STREETS = [
   "ar": "شارع يزيد بن أبي سفيان",
   "en": "Yazeed Bin Abi Sufyan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Abi Sufyan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن ابي سفيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يزيد بن أبي سفيان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يزيد بن أبي سفيان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29942,12 +29967,12 @@ window.STREETS = [
   "ar": "شارع يزيد بن الحر",
   "en": "Yazeed Bin Al Hur Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Al Hur, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن الحر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يزيد بن الحر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يزيد بن الحر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29959,12 +29984,12 @@ window.STREETS = [
   "ar": "شارع يزيد بن عامر",
   "en": "Yazeed Bin Amer Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Amer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يزيد بن عامر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يزيد بن عامر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29976,12 +30001,12 @@ window.STREETS = [
   "ar": "شارع يزيد بن قيس",
   "en": "Yazeed Bin Qais Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Qais, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يزيد بن قيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يزيد بن قيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -29993,12 +30018,12 @@ window.STREETS = [
   "ar": "شارع يزيد بن زريعة",
   "en": "Yazeed Bin Zuray'h Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeed Bin Zuray'h, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن زريعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يزيد بن زريعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يزيد بن زريعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30010,12 +30035,12 @@ window.STREETS = [
   "ar": "شارع يزيد بن أوس",
   "en": "Yazeid Bin Aws Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Yazeid Bin Aws, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم يزيد بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of يزيد بن أوس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم يزيد بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30044,12 +30069,12 @@ window.STREETS = [
   "ar": "شارع زرعة بن عامر",
   "en": "Zara'ah Bin Amer Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zara'ah Bin Amer, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زرعه بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زرعة بن عامر. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زرعة بن عامر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30061,12 +30086,12 @@ window.STREETS = [
   "ar": "شارع زيد بن مزين",
   "en": "Zayd Bin Mezyen Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zayd Bin Mezyen, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زيد بن مزين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زيد بن مزين. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زيد بن مزين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30078,12 +30103,12 @@ window.STREETS = [
   "ar": "شارع زايد بن وديعة",
   "en": "Zayd Bin Wadia'ah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zayd Bin Wadia'ah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زايد بن وديعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زايد بن وديعة. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زايد بن وديعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30095,12 +30120,12 @@ window.STREETS = [
   "ar": "شارع زياد بن الحارث",
   "en": "Zeyad Bin Al Harth Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zeyad Bin Al Harth, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زياد بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زياد بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زياد بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30112,12 +30137,12 @@ window.STREETS = [
   "ar": "شارع زهير بن قيس",
   "en": "Zuhair Bin Qais Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Zuhair Bin Qais, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم زهير بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of زهير بن قيس. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم زهير بن قيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30129,12 +30154,12 @@ window.STREETS = [
   "ar": "شارع عبدالله بن الزبير",
   "en": "Abdullah Bin Al Zobier Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Al Zobier, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن الزبير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عبدالله بن الزبير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عبدالله بن الزبير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30146,12 +30171,12 @@ window.STREETS = [
   "ar": "شارع الحمد",
   "en": "Al Himad Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Himad, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الحمد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الحمد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الحمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30163,12 +30188,12 @@ window.STREETS = [
   "ar": "شارع الشهيد",
   "en": "Al Shahid Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Shahid, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشهيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of الشهيد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم الشهيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30180,12 +30205,12 @@ window.STREETS = [
   "ar": "شارع السالم",
   "en": "Al Ssalm Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Ssalm, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم السالم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of السالم. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم السالم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30197,12 +30222,12 @@ window.STREETS = [
   "ar": "شارع السهيل",
   "en": "Al Suhail Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Suhail, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم السهيل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of السهيل. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم السهيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30236,12 +30261,12 @@ window.STREETS = [
   "ar": "شارع ابن ماجد",
   "en": "Ibn Majed Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ibn Majed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ابن ماجد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ابن ماجد. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ابن ماجد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30253,12 +30278,12 @@ window.STREETS = [
   "ar": "شارع ماجد الأول",
   "en": "Majed Al Awal Street",
   "meaning": {
-    "en": "An Emirati figure",
-    "ar": "شخصية إماراتية"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Majed Al Awal, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم ماجد الاول، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of ماجد الأول. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم ماجد الأول، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30270,12 +30295,12 @@ window.STREETS = [
   "ar": "طريق عمر بن الخطاب",
   "en": "Omar Bin Al Khattab Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omar Bin Al Khattab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الطريق اسم عمر بن الخطاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمر بن الخطاب. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمر بن الخطاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30471,12 +30496,12 @@ window.STREETS = [
   "ar": "شارع فضيل بن نعمان",
   "en": "Fodil Bin Noaman Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Fodil Bin Noaman, a figure of the early islamic period. No published biography was found.",
-    "ar": "سُمّي الشارع باسم فضيل بن نعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of فضيل بن نعمان. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم فضيل بن نعمان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30488,12 +30513,12 @@ window.STREETS = [
   "ar": "شارع حرقوص بن زهير",
   "en": "Harqous Bin Zohair Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Harqous Bin Zohair, a figure of the early islamic period. No published biography was found.",
-    "ar": "سُمّي الشارع باسم حرقوص بن زهير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of حرقوص بن زهير. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم حرقوص بن زهير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
@@ -30505,12 +30530,12 @@ window.STREETS = [
   "ar": "شارع عمارة المري",
   "en": "Omara Al Maree Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A person named on the street sign",
+    "ar": "شخص يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Omara Al Maree, a figure of the early islamic period. No published biography was found.",
-    "ar": "سُمّي الشارع باسم عمارة المري، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of عمارة المري. No published biography was found, and the card claims nothing beyond the name.",
+    "ar": "يحمل الشارع اسم عمارة المري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
   },
   "refs": []
 },
