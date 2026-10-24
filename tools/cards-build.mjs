@@ -148,6 +148,7 @@ const NOT_A_NAME = /^(service road|service|connection|connections|connector|coas
 /* Some person streets arrive from OSM tagged as something else (typically the
    "named after a word" bucket). These are people, so they get the person card. */
 const PERSON_NAMES = new Set([
+  "خوارزمي",
   "ابو جعفر المدني",
   "ابو ادريس الخولاني",
   "ابو ايوب الانصاري",
@@ -215,6 +216,7 @@ const NOT_A_STREET = /(^|\s)(service|tertiary|secondary|access|industrial|minor|
 const AR_OVERRIDES = new Map([
   ["abi al adarham al zamani street", "شارع أبي الأدرهم الزماني"],
   ["abu ja'far al madani street", "شارع أبي جعفر المدني"],
+  ["al khawarizmi street", "شارع الخوارزمي"],
 ]);
 
 

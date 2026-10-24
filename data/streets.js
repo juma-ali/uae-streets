@@ -15971,5 +15971,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/أبو_جعفر_المدني"
     }
   ]
+},
+{
+  "id": "al-khawarizmi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع الخوارزمي",
+  "en": "Al Khawarizmi Street",
+  "translit": "Shāriʿ al-Khawārizmī",
+  "meaning": {
+    "en": "A mathematician, astronomer and geographer of Baghdad",
+    "ar": "عالم رياضيات وفلك وجغرافيا في بغداد"
+  },
+  "story": {
+    "en": "Muhammad ibn Musa al-Khwarizmi (c. 781 – after 847) was a mathematician, astronomer and geographer at the Abbasid court in Baghdad, whose work on algebra gave the subject its name.",
+    "ar": "محمد بن موسى الخوارزمي (نحو ١٦٤هـ/٧٨١م – بعد ٢٣٢هـ/٨٤٧م) عالم رياضيات وفلك وجغرافيا، عمل في بيت الحكمة ببغداد، وله كتاب الجبر والمقابلة الذي منه جاء اسم الجبر."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — محمد بن موسى الخوارزمي",
+      "url": "https://ar.wikipedia.org/wiki/محمد_بن_موسى_الخوارزمي"
+    }
+  ]
 }
 ];
