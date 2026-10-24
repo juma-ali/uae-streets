@@ -65,6 +65,15 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* Sand landforms, from Al Bayan's dialect series (Ahmad Obaid, 30 Sep 2007). */
+  "نيوه": "a rise above the valley floor, out of reach of floods",
+  "قعيده": "a large desert sand hill",
+  "قله": "a prominent stony hill in flat ground",
+  "رزمه": "a high sand hill",
+  "رزم": "high sand hills",
+  "هير": "a run of dunes",
+  "قف": "a low stony ridge",
+  "ند": "a raised earthen hill",
   "دبا": "Dibba, a town on the east coast",
   "نقيان": "sand dunes",
   "نقا": "sand dune",
