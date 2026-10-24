@@ -30187,23 +30187,6 @@ window.STREETS = [
   "refs": []
 },
 {
-  "id": "abdullah-bin-al-zobier-street",
-  "emirate": "umm-al-quwain",
-  "category": "person",
-  "origin": "unsourced",
-  "ar": "شارع عبدالله بن الزبير",
-  "en": "Abdullah Bin Al Zobier Street",
-  "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
-  },
-  "story": {
-    "en": "The street carries the name of عبدالله بن الزبير. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن الزبير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
-  },
-  "refs": []
-},
-{
   "id": "al-himad-street",
   "emirate": "umm-al-quwain",
   "category": "person",

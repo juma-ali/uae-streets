@@ -131,6 +131,23 @@ const SYNONYMS = {
   "Hafsa Bint Omar Street": ["Hafsa Bint Omar Bin Al Khattab Street"],
 };
 
+/* Transliterations wander: Zobier for Zubair, Awwam for Awam, Amro for Amr.
+   When the exact key misses, take the closest card name if it is unmistakably
+   the same street (edit distance 2 or less, and only one such candidate). */
+function editDistance(a, b) {
+  const m = a.length, n = b.length;
+  if (Math.abs(m - n) > 3) return 99;
+  let prev = Array.from({ length: n + 1 }, (_, j) => j);
+  for (let i = 1; i <= m; i++) {
+    const cur = [i];
+    for (let j = 1; j <= n; j++) {
+      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    }
+    prev = cur;
+  }
+  return prev[n];
+}
+
 /* Curated entries: match by name, so a road can carry its story. */
 const storyByName = new Map();
 for (const e of EDITORIAL) {
@@ -299,6 +316,8 @@ const NAME_EN = new Map([
   ["amer bin al aas street", "Amr Bin Al 'As Street"],
   ["oqbah bin nafae street", "Uqbah Bin Nafi' Street"],
   ["asmaa bint abi baker street", "Asma Bint Abi Bakr Street"],
+  ["abdullah bin al zobier street", "Abdullah Bin Al Zubair Street"],
+  ["az zubair bin al 'awwam street", "Al Zubair Bin Al 'Awam Street"],
 ]);
 
 const AR_OVERRIDES = new Map([
@@ -474,6 +493,30 @@ const PLACE_NAMES = new Set([
 
 /* The tail of Dubai's master-planned communities: plot and marketing labels. */
 const NOT_A_STREET_2 = /(arabella|juniper|park avenue|rochester|richmond|stockholm|topanga|valencia grove|wildflower|shoreline|silk leaf|vida residence|mai tower|morocco [ij]|semmer|quortaj|park road (east|south)|crescent drive|gateway avenue|grand avenue|green boulevard|central boulevard|exhibition boulevard|hills grove|hills view|fairways|golf town|parkways|naseej|old way|inner road|north entrance|road to rhc|wonderful road|first street|interchange no|road: wb|m1 master|dwc peripheral|entrance [abc]|lakes roundabout|verona roundabout|dolphin roundabout|lantern roundabout|pot roundabout|scale roundabout|tent roundabout|boat roundabout|pearl roundabout|centro courtyard|emirates cluster|heights east|camelia [12]|arenco|alghandi|office no)/i;
+
+function fuzzyStory(key, keys) {
+  /* Same person, different transliteration: the first name must match exactly
+     and at most one later word may differ, by at most two letters. */
+  const a = key.split(" ").filter(Boolean);
+  let best = "", bestD = 3;
+  for (const k of keys) {
+    const b = k.split(" ").filter(Boolean);
+    if (a.length !== b.length || a[0] !== b[0]) continue;
+    let diff = 0, d = 0, ok = true;
+    for (let i = 0; i < a.length; i++) {
+      if (a[i] === b[i]) continue;
+      const e = editDistance(a[i], b[i]);
+      if (e > 2 || ++diff > 1) { ok = false; break; }
+      d = e;
+    }
+    if (!ok) continue;
+    if (diff < bestD) { bestD = diff; best = k; }
+    else if (diff === bestD && best && k !== best) best = "";
+  }
+  return best ? storyByName.get(best) || "" : "";
+}
+
+const storyKeys = [...storyByName.keys()];
 
 const rows = [];
 for (const s of KB.streets) {
