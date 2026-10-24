@@ -18460,18 +18460,24 @@ window.STREETS = [
   "id": "abdullah-bin-adiy-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن عَدِي",
   "en": "Abdullah Bin 'Adiy Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A jurist of the Quraysh and narrator of hadith",
+    "ar": "من فقهاء قريش ورواة الحديث"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin 'Adiy, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عدي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Ubayd Allah ibn Adi al-Nawfali — written on the sign as Abdullah — was a jurist of the Quraysh and a narrator of hadith, born in the lifetime of the Prophet Muhammad and counted among the Tabi'un.",
+    "ar": "عبيد الله بن عدي النوفلي، ويُكتب اسمه على اللوحة «عبدالله»، من فقهاء قريش وعلمائهم، وأحد رواة الحديث، وُلد في حياة النبي محمد، ويُعدّ من التابعين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عبيد الله بن عدي",
+      "url": "https://ar.wikipedia.org/wiki/عبيد_الله_بن_عدي"
+    }
+  ],
+  "translit": "Shāriʿ ʿAbdullāh bin ʿAdī"
 },
 {
   "id": "abdullah-bin-amr-street",
