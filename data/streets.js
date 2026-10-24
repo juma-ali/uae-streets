@@ -20909,18 +20909,23 @@ window.STREETS = [
   "id": "hafsa-bint-omar-bin-al-khattab-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حفصة بنت عمر بن الخطاب",
   "en": "Hafsa Bint Omar Bin Al Khattab Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A wife of the Prophet, daughter of Umar",
+    "ar": "زوجة النبي وابنة عمر"
   },
   "story": {
-    "en": "The street carries the name of حفصة بنت عمر بن الخطاب. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حفصة بنت عمر بن الخطاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The street is named for Hafsa bint Umar (d. 45 AH), a wife of the Prophet Muhammad and the daughter of Umar ibn al-Khattab.",
+    "ar": "سُمّي الشارع باسم حفصة بنت عمر (ت ٤٥هـ)، زوجة النبي محمد، وابنة عمر بن الخطاب."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — حفصة بنت عمر",
+      "url": "https://ar.wikipedia.org/wiki/حفصة_بنت_عمر"
+    }
+  ]
 },
 {
   "id": "hajjaj-bin-amr-street",
@@ -24393,18 +24398,23 @@ window.STREETS = [
   "id": "abu-baker-al-siddique-road",
   "emirate": "dubai",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق أبو بكر الصديق",
   "en": "Abu Baker Al Siddique Road",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The first caliph, the Prophet's companion in the migration",
+    "ar": "أول الخلفاء ورفيق النبي في الهجرة"
   },
   "story": {
-    "en": "The street carries the name of أبو بكر الصديق. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبو بكر الصديق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The road is named for Abu Bakr al-Siddiq (573–634), the first caliph and the companion of the Prophet in the migration to Medina.",
+    "ar": "سُمّي الطريق باسم أبي بكر الصديق (ت ١٣هـ / ٦٣٤م)، أول الخلفاء، ورفيق النبي في الهجرة إلى المدينة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو بكر الصديق",
+      "url": "https://ar.wikipedia.org/wiki/أبو_بكر_الصديق"
+    }
+  ]
 },
 {
   "id": "al-hasah-street",
@@ -24427,18 +24437,23 @@ window.STREETS = [
   "id": "khalid-bin-waleed-road",
   "emirate": "dubai",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق خالد بن الوليد",
   "en": "Khalid Bin Waleed Road",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A commander of the early conquests",
+    "ar": "قائد من قادة الفتوح"
   },
   "story": {
-    "en": "The street carries the name of خالد بن الوليد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم خالد بن الوليد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The road is named for Khalid ibn al-Walid (d. 21 AH / 642 CE), a commander of the early conquests known as the Sword of God.",
+    "ar": "سُمّي الطريق باسم خالد بن الوليد (ت ٢١هـ / ٦٤٢م)، القائد المعروف بسيف الله المسلول."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خالد بن الوليد",
+      "url": "https://ar.wikipedia.org/wiki/خالد_بن_الوليد"
+    }
+  ]
 },
 {
   "id": "sabah-al-ahmed-al-jaber-al-sabah-street",
@@ -30324,18 +30339,23 @@ window.STREETS = [
   "id": "omar-bin-al-khattab-road",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق عمر بن الخطاب",
   "en": "Omar Bin Al Khattab Road",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The second caliph",
+    "ar": "ثاني الخلفاء"
   },
   "story": {
-    "en": "The street carries the name of عمر بن الخطاب. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمر بن الخطاب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The road bears the name of Umar ibn al-Khattab (d. 23 AH / 644 CE), the second caliph, in whose time Syria, Egypt and Iraq were conquered.",
+    "ar": "يحمل الطريق اسم عمر بن الخطاب (ت ٢٣هـ / ٦٤٤م)، ثاني الخلفاء، وفي عهده كانت فتوح الشام ومصر والعراق."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عمر بن الخطاب",
+      "url": "https://ar.wikipedia.org/wiki/عمر_بن_الخطاب"
+    }
+  ]
 },
 {
   "id": "oqbah-bin-nafe-a-roundabout",
