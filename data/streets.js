@@ -15033,5 +15033,28 @@ window.STREETS = [
     "ar": "اسم من عنصرين: «عكروم» أي العقدة المحكمة أو المرتفع الصلب الخشن في الصحراء، و«البريدا» تصغير «بردة» — الثوب الصغير، ويُراد به الموضع الظليل المريح من الأرض."
   },
   "refs": []
+},
+{
+  "id": "nahyan-the-first-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع نهيان الأول",
+  "en": "Nahyan The First Street",
+  "translit": "Shāriʿ Nahyān al-Awwal",
+  "meaning": {
+    "en": "The ancestor of the Al Nahyan family",
+    "ar": "الجد الأعلى لأسرة آل نهيان"
+  },
+  "story": {
+    "en": "Nahyan the First is the ancestor from whom the Al Nahyan family takes its name. The family is a branch of Al Bu Falah of the Bani Yas, and rules Abu Dhabi.",
+    "ar": "نهيان الأول هو الجد الذي تحمل اسمه أسرة آل نهيان، وهي فرع من آل بو فلاح من بني ياس، وتحكم أبوظبي."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/آل_نهيان"
+    }
+  ]
 }
 ];
