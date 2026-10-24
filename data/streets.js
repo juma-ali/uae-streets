@@ -24304,7 +24304,7 @@ window.STREETS = [
   "category": "person",
   "origin": "documented",
   "ar": "شارع سيف الدولة",
-  "en": "Seif AlDawlah Road",
+  "en": "Seif Al Dawlah Road",
   "meaning": {
     "en": "Founder of the Emirate of Aleppo",
     "ar": "مؤسس إمارة حلب"
@@ -30259,5 +30259,28 @@ window.STREETS = [
     "ar": "سُمّي الشارع باسم الأعراف بن الاعلم، وهو شخصية تاريخية، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
+},
+{
+  "id": "al-mutanabi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع المتنبي",
+  "en": "Al Mutanabi Street",
+  "translit": "Shāriʿ al-Mutanabbī",
+  "meaning": {
+    "en": "A poet of the 10th century",
+    "ar": "شاعر من القرن الرابع الهجري"
+  },
+  "story": {
+    "en": "Al-Mutanabbi (915–965) was an Arabic poet who spent nine years at the court of Sayf al-Dawla in Aleppo, and whose verse is still the most quoted in the language.",
+    "ar": "المتنبي (٣٠٣–٣٥٤هـ / ٩١٥–٩٦٥م) شاعر عربي أمضى تسع سنوات في بلاط سيف الدولة الحمداني بحلب، وما زال شعره من أكثر ما يُستشهد به في العربية."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — المتنبي",
+      "url": "https://ar.wikipedia.org/wiki/المتنبي"
+    }
+  ]
 }
 ];
