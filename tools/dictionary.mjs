@@ -65,6 +65,28 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "طف": "a low mound, a bank",
+  "حومه": "low ground by water; a quarter",
+  "دامن": "stained, marked by a clinging trace",
+  "عزيزيه": "of al-ʿIzz, named for the mighty",
+  "انوار": "lights",
+  "هيانه": "a she-camel that wanders without a herder",
+  "جافليه": "dry ground with little water",
+  "جلاف": "a thatcher of roofs",
+  "ادباء": "writers, people of letters",
+  "شاهينيه": "of the shahin falcon",
+  "سبوق": "the falcon's jess",
+  "سلوف": "what has gone before, in speech",
+  "طارش": "the newcomer, the arriving traveller",
+  "ياه": "a call, a name",
+  "زوار": "visitors",
+  "بينونه": "a wide sandy tract in al-Dhafra",
+  "جيس": "Jebel Jais, the highest mountain in the Emirates",
+  "لايح": "standing out clearly to the eye",
+  "سالميه": "of Salim; also a town in Kuwait",
+  "معاريض": "the camel's leading ropes",
+  "شواهين": "falcons",
+  "بيوت": "houses, tents",
   /* From the batch-7 answer: single words with a stated meaning. */
   "دجايا": "darkness, deep black",
   "دياجي": "deep darkness",

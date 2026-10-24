@@ -85,6 +85,8 @@ const FEATURE_HEADS = new Set(["دوار", "نفق", "جسر", "ميدان", "س
 
 const NO_JOIN = new Set(["بوليفارد", "كورنيش", "شارع", "طريق", "ميدان", "دوار", "نفق", "ساحه", "حديقه"]);
 
+const KUNYA_HEADS = new Set(["ابو", "بو", "ام"]);
+
 function glossOf(name, GLOSSES) {
   const whole = norm(String(name || "").replace(/^(شارع|طريق|جادة|ممر|حارة|زقاق|درب|نهج)\s+/, ""));
   if (!whole) return "";
@@ -98,7 +100,11 @@ function glossOf(name, GLOSSES) {
   const tailName = tailGloss.split(",")[0].split("(")[0].trim();
   if (tailGloss && NO_JOIN.has(tail.replace(/^\u0627\u0644/, ""))) return tailGloss;
   if (headGloss && tailGloss) {
-    if (FEATURE_HEADS.has(words[0].replace(/^\u0627\u0644/, ""))) return tailName + " " + headName;
+    const h = words[0].replace(/^\u0627\u0644/, "");
+    if (FEATURE_HEADS.has(h)) return tailName + " " + headName;
+    /* abu-/umm- names: the prefix is a kunya, so the tail carries the meaning. */
+    if (KUNYA_HEADS.has(h)) return tailName;
+    if (/^of\b/i.test(tailName)) return tailName;
     return headName + " of " + tailName;
   }
   return headGloss || tailGloss || "";
