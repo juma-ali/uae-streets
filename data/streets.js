@@ -7721,7 +7721,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Afra Bint Mohammed, an Emirati figure of the Falasi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عفرا بنت محمد، وهو شخصية إماراتية من أسرة الفلاسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم عفرا بنت محمد، وهي شخصية إماراتية من أسرة الفلاسي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -7738,7 +7738,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Afra Bint Saif, an Emirati figure of the Mazrouei family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عفرا بنت سيف، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم عفرا بنت سيف، وهي شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -8962,7 +8962,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Fatima Bint Ali, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم فاطمة بنت علي، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم فاطمة بنت علي، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -8979,7 +8979,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Fatima Bint Obaid, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم فاطمة بنت عبيد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم فاطمة بنت عبيد، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -9115,7 +9115,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Hamda Bint Ali, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم حمدة بنت علي، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم حمدة بنت علي، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -11529,7 +11529,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Osha Bint Alhasm, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عوشة بنت الحصم، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم عوشة بنت الحصم، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -11546,7 +11546,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Osha Bint Khalifa, an Emirati figure of the Suwaidi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عوشة بنت خليفة، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم عوشة بنت خليفة، وهي شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -11563,7 +11563,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Qadma Bint Hilal, an Emirati figure of the Dhaheri family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم قضمة بنت هلال، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم قضمة بنت هلال، وهي شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -12770,7 +12770,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Suhaila Bint Maizer, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم سهيلة بنت ميزر، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم سهيلة بنت ميزر، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -13919,7 +13919,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Kunna Bint Saeed, an Emirati figure of the Humairi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم كنه بنت سعيد، وهو شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم كنه بنت سعيد، وهي شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -14242,7 +14242,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Nafja Bint Obaid, an Emirati figure of the Teneiji family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم نافجة بنت عبيد، وهو شخصية إماراتية من أسرة الطنيجي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم نافجة بنت عبيد، وهي شخصية إماراتية من أسرة الطنيجي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -19993,18 +19993,23 @@ window.STREETS = [
   "id": "asma-bint-abi-bakr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أسماء بنت ابي بكر",
   "en": "Asma Bint Abi Bakr Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, daughter of Abu Bakr and sister of Aisha",
+    "ar": "صحابية، ابنة أبي بكر وأخت عائشة"
   },
   "story": {
-    "en": "The street carries the name of أسماء بنت ابي بكر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أسماء بنت ابي بكر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Asma bint Abi Bakr (595–692) was a Companion, the daughter of Abu Bakr, the sister of Aisha and the wife of al-Zubayr ibn al-Awwam. She was called Dhat al-Nitaqayn for the belt she split to tie the Prophet's provisions on the journey to Medina.",
+    "ar": "أسماء بنت أبي بكر (٢٧ ق.هـ – ٧٣هـ / ٥٩٥–٦٩٢م) صحابية من السابقين الأولين، وهي ابنة أبي بكر، وأخت عائشة، وزوجة الزبير بن العوام، ولُقّبت بذات النطاقين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أسماء بنت أبي بكر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1_%D8%A8%D9%86%D8%AA_%D8%A3%D8%A8%D9%8A_%D8%A8%D9%83%D8%B1"
+    }
+  ]
 },
 {
   "id": "atabah-bin-rabee-bin-rafi-street",
@@ -20044,18 +20049,23 @@ window.STREETS = [
   "id": "aysha-bint-abi-bakr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عائشة بنت أبي بكر",
   "en": "Aysha Bint Abi Bakr Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A wife of the Prophet and daughter of Abu Bakr",
+    "ar": "زوجة النبي وابنة أبي بكر"
   },
   "story": {
-    "en": "The street carries the name of عائشة بنت أبي بكر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عائشة بنت أبي بكر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Aisha bint Abi Bakr (d. 58 AH / 678 CE) was a wife of the Prophet Muhammad and the daughter of Abu Bakr, and is among the most frequently quoted narrators of hadith.",
+    "ar": "عائشة بنت أبي بكر (ت ٥٨هـ / ٦٧٨م) من أمهات المؤمنين، وابنة أبي بكر، ومن أكثر من روى الحديث عن النبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عائشة بنت أبي بكر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A7%D8%A6%D8%B4%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A3%D8%A8%D9%8A_%D8%A8%D9%83%D8%B1"
+    }
+  ]
 },
 {
   "id": "bad-bin-ammar-street",
@@ -23228,7 +23238,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street is named for Salama Bint Butti, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الطريق باسم سلامة بنت بطي، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم سلامة بنت بطي، وهي من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -25574,35 +25584,45 @@ window.STREETS = [
   "id": "abi-baker-bin-abi-shiba-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبي بكر بن أبي شيبة",
   "en": "Abi Baker Bin Abi Shiba Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Kufan hadith scholar, author of the Musannaf",
+    "ar": "محدّث كوفي، صاحب المصنّف"
   },
   "story": {
-    "en": "The street carries the name of أبي بكر بن أبي شيبة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبي بكر بن أبي شيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abu Bakr ibn Abi Shayba (775–849) was a Kufan scholar of hadith, known as the master of the memorisers and author of the Musannaf.",
+    "ar": "أبو بكر بن أبي شيبة (١٥٩–٢٣٥هـ) محدّث كوفي، يُلقّب بسيد الحفّاظ، وهو صاحب كتاب المصنّف."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو بكر بن أبي شيبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%B4%D9%8A%D8%A8%D8%A9"
+    }
+  ]
 },
 {
   "id": "abi-baker-bin-ayash-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبي بكر بن عياش",
   "en": "Abi Baker Bin Ayash Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A reciter of the Quran and jurist of Kufa",
+    "ar": "مقرئ وفقيه من الكوفة"
   },
   "story": {
-    "en": "The street carries the name of أبي بكر بن عياش. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبي بكر بن عياش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abu Bakr ibn Ayyash (713–809) was a Kufan reciter, jurist and narrator of hadith, and one of the transmitters of the seven canonical recitations.",
+    "ar": "أبو بكر بن عياش (٩٥–١٩٣هـ) مقرئ وفقيه ومحدّث كوفي، وهو أحد رواة القراءات السبعة، قرأ على عاصم بن أبي النجود."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو بكر بن عياش",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A8%D9%86_%D8%B9%D9%8A%D8%A7%D8%B4"
+    }
+  ]
 },
 {
   "id": "abi-bastam-street",
