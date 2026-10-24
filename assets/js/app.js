@@ -187,7 +187,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261026g";
+    s.src = "data/cards.js?v=20261026j";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -232,6 +232,39 @@
      pattern, the district, the gloss, a former name, a route number. Compose them
      into a sentence rather than printing a placeholder. */
   function glossIn(s, ar) { return s && (ar ? /[\u0600-\u06FF]/.test(s) : !/[\u0600-\u06FF]/.test(s)) ? s : ""; }
+
+  /* When a street has no gloss and no card, the name itself still says something:
+     a "bin/bint" name is a person and their father, a nisba ending is a family,
+     an "um-/bu-" opening is a place-name prefix. Say that, rather than only
+     "named after a person". */
+  function nameShape(arName) {
+    var s = String(arName || "").replace(/^\s*(شارع|طريق|جادة|ممر|ميدان|دوار|نفق|ساحة)\s+/, "").trim();
+    if (!s) return null;
+    var words = s.split(/\s+/);
+    var last = words[words.length - 1];
+    if (/(^|\s)(بن|بنت|ابن)(\s|$)/.test(s) && words.length >= 3) {
+      var i = s.search(/(^|\s)(بن|بنت|ابن)(\s|$)/);
+      return { kind: "nasab", given: s.slice(0, i).trim(), rel: /بنت/.test(s) ? "daughter of" : "son of", father: s.slice(i).replace(/^\s*(بن|بنت|ابن)\s*/, "") };
+    }
+    if (/^ال[\u0600-\u06FF]{3,}ي$/.test(last) && words.length === 1) return { kind: "nisba", family: last };
+    if (/^(أم|ام|بو|أبو|ابو)\s/.test(s)) return { kind: "kunya" };
+    return null;
+  }
+
+
+  /* The English name carries the same grammar, so read it for the English line. */
+  function nameShapeEn(enName) {
+    var s = String(enName || "").replace(/\s+(Street|Road|St|Rd|Square|Boulevard|Corniche|Avenue)\s*$/i, "").trim();
+    if (!s) return null;
+    var m = /^(.*?)\s+(Bin|Bint|Ibn)\s+(.+)$/i.exec(s);
+    if (m) return { kind: "nasab", given: m[1], rel: /^bint$/i.test(m[2]) ? "daughter of" : "son of", father: m[3] };
+    var w = s.split(/\s+/);
+    var al = /^al\s+(\S+)$/i.exec(s);
+    if (al && /i$/i.test(al[1])) return { kind: "nisba", family: al[1] };
+    if (/^(umm|um|bu|abu)\s/i.test(s)) return { kind: "kunya" };
+    return null;
+  }
+
   function describeRoad(r, d, em, where) {
     var ar = state.lang === "ar";
     var parts = [];
@@ -249,6 +282,18 @@
     };
     var g = glossIn(r[6], ar);
     var main = named[r[3]] || "";
+    if (!g && !r[7] && (r[3] === "person" || r[3] === "word")) {
+      var sh = nameShape(r[1]);
+      var se = nameShapeEn(r[0]);
+      if (sh && sh.kind === "nasab") {
+        main = ar ? ("سُمّي باسم " + sh.given + (sh.rel === "daughter of" ? " ابنة " : " بن ") + sh.father)
+                  : (se ? ("named for " + se.given + ", " + se.rel + " " + se.father) : named.person);
+      } else if (sh && sh.kind === "nisba") {
+        main = ar ? ("سُمّي نسبةً إلى أسرة " + sh.family) : (se && se.family ? ("named for a member of the " + se.family + " family") : named.person);
+      } else if (sh && sh.kind === "kunya") {
+        main = ar ? "اسم مركّب على صيغة «أم/بو»" : "a place name of the um-/bu- type";
+      }
+    }
     if (g) main += (main ? (ar ? "، أي " : ", meaning ") : "") + "“" + g + "”";
     if (main) parts.push(main);
     if (r[5]) parts.push(ar ? ("عُرف سابقاً بـ " + r[5]) : ("formerly " + r[5]));
