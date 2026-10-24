@@ -41,7 +41,12 @@
       originLocal: "Local account",
       originAccount: "Recorded account",
       originUnsourced: "No reference found",
-      caveatDocumented: "The person, event or landmark behind this name is on the record.",
+      caveatDocumented: "The name is on the record.",
+      caveatPerson: "The person behind this name is on the record.",
+      caveatPlace: "The place behind this name is on the record.",
+      caveatWord: "The meaning of this name is on the record.",
+      caveatEvent: "The event behind this name is on the record.",
+      caveatTribe: "The tribe behind this name is on the record.",
       caveatLocal: "This explanation is widely told locally, but it is not officially recorded — treat it as oral history.",
       caveatAccount: "This account is recorded by the project; no published source is cited.",
       caveatUnsourced: "No published source was found for this name. The entry records only what is asserted about it, and should be read with caution.",
@@ -68,7 +73,12 @@
       originDocumented: "اسم موثّق",
       originLocal: "رواية محلية",
       originAccount: "رواية مسجّلة",
-      caveatDocumented: "الشخص أو الحدث أو المعلم الذي يحمل الشارع اسمه مسجّل وموثّق.",
+      caveatDocumented: "الاسم مسجّل وموثّق.",
+      caveatPerson: "الشخص الذي يحمل الشارع اسمه مسجّل وموثّق.",
+      caveatPlace: "الموضع الذي يحمل الشارع اسمه مسجّل وموثّق.",
+      caveatWord: "معنى الاسم مسجّل وموثّق.",
+      caveatEvent: "الحدث الذي يحمل الشارع اسمه مسجّل وموثّق.",
+      caveatTribe: "القبيلة التي يحمل الشارع اسمها مسجّلة وموثّقة.",
       caveatLocal: "هذا التفسير شائع محلياً لكنه غير مسجّل رسمياً — تعامل معه كتاريخ شفهي.",
       originUnsourced: "لا يوجد مرجع",
       caveatAccount: "هذه الرواية مسجّلة في المشروع، ولا يُذكر مصدر منشور.",
@@ -176,7 +186,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261025q";
+    s.src = "data/cards.js?v=20261025r";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -628,7 +638,7 @@
           '<p class="sheet__meaning-text">' + esc(meaning) + "</p></div>"
         : "") +
       '<div class="sheet__story"><p>' + esc(story) + "</p></div>" +
-      '<p class="sheet__caveat">' + esc(origin === "account" ? T.caveatAccount : origin === "unsourced" ? T.caveatUnsourced : origin === "local" ? T.caveatLocal : T.caveatDocumented) + "</p>" +
+      '<p class="sheet__caveat">' + esc(origin === "account" ? T.caveatAccount : origin === "unsourced" ? T.caveatUnsourced : origin === "local" ? T.caveatLocal : (T["caveat" + (s.category ? s.category.charAt(0).toUpperCase() + s.category.slice(1) : "")] || T.caveatDocumented)) + "</p>" +
       '<div class="sheet__footer">' +
         (s.refs && s.refs.length
           ? '<div><span class="sheet__meaning-label">' + esc(T.sources) + "</span>" +
