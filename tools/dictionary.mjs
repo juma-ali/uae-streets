@@ -65,6 +65,9 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "اخيضر": "the little green — fresh growth of wild shrubs",
+  "عيدان اخيضر": "branches and twigs of fresh green shrubs",
+  "عيدان": "branches, sticks",
   "فقع": "Al Faqa', a village between Al Ain and Dubai; also the desert truffle",
   "اشخر": "the ashkhar shrub (Calotropis), of the dogbane family",
   "اشخره": "the ashkhar shrub (Calotropis), of the dogbane family",

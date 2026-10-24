@@ -15125,5 +15125,23 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/الفقع"
     }
   ]
+},
+{
+  "id": "eedan-al-ikhaydir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عِيدان الإخَيضِر",
+  "en": "'Eedan Al Ikhaydir Street",
+  "translit": "Shāriʿ ʿĪdān al-Ikhayḍir",
+  "meaning": {
+    "en": "Branches of the fresh green growth",
+    "ar": "أغصان النبت الأخضر الطري"
+  },
+  "story": {
+    "en": "Two words: ʿīdān, branches or twigs, and al-ikhayḍir, the diminutive of al-akhḍar, “the green”. Together they name the fresh branches and twigs of wild shrubs after rain.",
+    "ar": "لفظ من كلمتين: «عيدان» أي الأغصان والأعواد، و«الإخيضر» تصغير «الأخضر». ويُراد به أغصان النباتات البرية والشجيرات الخضراء الطرية حديثة النمو."
+  },
+  "refs": []
 }
 ];
