@@ -15948,5 +15948,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/أبها"
     }
   ]
+},
+{
+  "id": "abu-ja-far-al-madani-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع أبي جعفر المدني",
+  "en": "Abu Ja'Far Al Madani Street",
+  "translit": "Shāriʿ Abī Jaʿfar al-Madanī",
+  "meaning": {
+    "en": "One of the ten canonical Quran reciters",
+    "ar": "أحد القراء العشرة للقرآن الكريم"
+  },
+  "story": {
+    "en": "Abu Ja'far al-Madani — Yazid ibn al-Qa'qa' al-Makhzumi (born 35 AH) — was a leading Tabi'i of Medina and one of the ten canonical reciters of the Quran, who taught recitation there for a long lifetime.",
+    "ar": "أبو جعفر المدني — يزيد بن القعقاع المخزومي (وُلد سنة ٣٥هـ) — تابعي جليل من أهل المدينة المنورة، وأحد القراء العشرة، انتهت إليه رئاسة الإقراء وعلم القراءات فيها."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — أبو جعفر المدني",
+      "url": "https://ar.wikipedia.org/wiki/أبو_جعفر_المدني"
+    }
+  ]
 }
 ];
