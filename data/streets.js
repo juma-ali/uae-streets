@@ -13349,5 +13349,1671 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/رمث"
     }
   ]
+},
+{
+  "id": "abdulla-ahmed-al-hosani",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله أحمد الحوسني",
+  "en": "Abdulla Ahmed Al Hosani Street",
+  "meaning": {
+    "en": "A member of the Hosani family",
+    "ar": "من أسرة الحوسني"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulla Ahmed, a man of the Hosani family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبدالله احمد من أسرة الحوسني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulla-mohammed-al-kaabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله محمد الكعبي",
+  "en": "Abdulla Mohammed Al Kaabi Street",
+  "meaning": {
+    "en": "A member of the Kaabi family",
+    "ar": "من أسرة الكعبي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulla Mohammed, a man of the Kaabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبدالله محمد من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-abdulrahim-al-waswasi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عبدالرحيم الوسواسي",
+  "en": "Abdullah Bin Abdulrahim Al Waswasi Street",
+  "meaning": {
+    "en": "A member of the Waswasi family",
+    "ar": "من أسرة الوسواسي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Abdulrahim, a man of the Waswasi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عبدالرحيم من أسرة الوسواسي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-hilal-al-kuwaiti",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن هلال الكويتي",
+  "en": "Abdullah Bin Hilal Al Kuwaiti Street",
+  "meaning": {
+    "en": "A member of the Kuwaiti family",
+    "ar": "من أسرة الكويتي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Hilal, a man of the Kuwaiti family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن هلال من أسرة الكويتي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-yazeed-al-khatmi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن يزيد الخطمي",
+  "en": "Abdullah Bin Yazeed Al Khatmi Street",
+  "meaning": {
+    "en": "A member of the Khatmi family",
+    "ar": "من أسرة الخطمي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Yazeed, a man of the Khatmi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن يزيد من أسرة الخطمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulraheem-bin-taj-al-din-al-hashemi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحيم بن تاج الدين الهاشمي",
+  "en": "Abdulraheem Bin Taj Al Din Al Hashemi Street",
+  "meaning": {
+    "en": "A member of the Hashemi family",
+    "ar": "من أسرة الهاشمي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulraheem Bin Taj Al Din, a man of the Hashemi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبدالرحيم بن تاج الدين من أسرة الهاشمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-al-mahmoud-al-blooshi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد المحمود البلوشي",
+  "en": "Ahmed Al Mahmoud Al Blooshi Street",
+  "meaning": {
+    "en": "A member of the Blooshi family",
+    "ar": "من أسرة البلوشي"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Al Mahmoud, a man of the Blooshi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم احمد المحمود من أسرة البلوشي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-khalifa-al-blooshi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد خليفة البلوشي",
+  "en": "Ahmed Khalifa Al Blooshi Street",
+  "meaning": {
+    "en": "A member of the Blooshi family",
+    "ar": "من أسرة البلوشي"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Khalifa, a man of the Blooshi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم احمد خليفه من أسرة البلوشي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-jaroud-bin-al-mu-alla",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الجارُود بن المُعَلَّى",
+  "en": "Al Jaroud Bin Al Mu'alla Street",
+  "meaning": {
+    "en": "A member of the Mu'alla family",
+    "ar": "من أسرة المعلي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Jaroud Bin, a man of the Mu'alla family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم الجارود بن من أسرة المعلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-shaheed-ahmed-khamis-al-hammadi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد أحمد خميس الحمادي",
+  "en": "Al Shaheed Ahmed Khamis Al Hammadi Street",
+  "meaning": {
+    "en": "A member of the Hammadi family",
+    "ar": "من أسرة الحمادي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Shaheed Ahmed Khamis, a man of the Hammadi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم الشهيد احمد خميس من أسرة الحمادي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-almqaidi-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي المقيضي العامري",
+  "en": "Ali Almqaidi Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Almqaidi, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم علي المقيضي من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bin-alateeb-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي بن العطيب العامري",
+  "en": "Ali Bin Alateeb Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Bin Alateeb, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم علي بن العطيب من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-khalifa-al-mesmari",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي خليفة المسماري",
+  "en": "Ali Khalifa Al Mesmari Street",
+  "meaning": {
+    "en": "A member of the Mesmari family",
+    "ar": "من أسرة المسماري"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Khalifa, a man of the Mesmari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم علي خليفه من أسرة المسماري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-nasser-al-khyeli",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي ناصر الخيلي",
+  "en": "Ali Nasser Al Khyeli Street",
+  "meaning": {
+    "en": "A member of the Khyeli family",
+    "ar": "من أسرة الخيلي"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Nasser, a man of the Khyeli family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم علي ناصر من أسرة الخيلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-saeed-al-saedi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي سعيد الساعدي",
+  "en": "Ali Saeed Al Saedi Street",
+  "meaning": {
+    "en": "A member of the Saedi family",
+    "ar": "من أسرة الساعدي"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Saeed, a man of the Saedi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم علي سعيد من أسرة الساعدي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amer-bin-qanosh-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عامر بن قانوش العامري",
+  "en": "Amer Bin Qanosh Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Amer Bin Qanosh, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عامر بن قانوش من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "buti-ayel-al-ahbabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بطي عائل الاحبابي",
+  "en": "Buti Ayel Al Ahbabi Street",
+  "meaning": {
+    "en": "A member of the Ahbabi family",
+    "ar": "من أسرة الاحبابي"
+  },
+  "story": {
+    "en": "The street carries the name of Buti Ayel, a man of the Ahbabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم بطي عائل من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "eid-bin-saeed-al-ghafli",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عيد بن سعيد الغفلي",
+  "en": "Eid Bin Saeed Al Ghafli Street",
+  "meaning": {
+    "en": "A member of the Ghafli family",
+    "ar": "من أسرة الغفلي"
+  },
+  "story": {
+    "en": "The street carries the name of Eid Bin Saeed, a man of the Ghafli family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عيد بن سعيد من أسرة الغفلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "fahad-bin-muaid-al-ahbabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع فهد بن معيض الأحبابي",
+  "en": "Fahad Bin Muaid Al Ahbabi Street",
+  "meaning": {
+    "en": "A member of the Ahbabi family",
+    "ar": "من أسرة الاحبابي"
+  },
+  "story": {
+    "en": "The street carries the name of Fahad Bin Muaid, a man of the Ahbabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم فهد بن معيض من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "fahad-bin-rashid-al-dosari",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع فهد بن راشد الدوسري",
+  "en": "Fahad Bin Rashid Al Dosari Street",
+  "meaning": {
+    "en": "A member of the Dosari family",
+    "ar": "من أسرة الدوسري"
+  },
+  "story": {
+    "en": "The street carries the name of Fahad Bin Rashid, a man of the Dosari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم فهد بن راشد من أسرة الدوسري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "falah-bin-jaber-al-ahbabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع فلاح بن جابر الاحبابي",
+  "en": "Falah Bin Jaber Al Ahbabi Street",
+  "meaning": {
+    "en": "A member of the Ahbabi family",
+    "ar": "من أسرة الاحبابي"
+  },
+  "story": {
+    "en": "The street carries the name of Falah Bin Jaber, a man of the Ahbabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم فلاح بن جابر من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jaber-bin-abdullah-al-ansari",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جابر بن عبدالله الأنصاري",
+  "en": "Jaber Bin Abdullah Al Ansari Street",
+  "meaning": {
+    "en": "A member of the Ansari family",
+    "ar": "من أسرة الانصاري"
+  },
+  "story": {
+    "en": "The street carries the name of Jaber Bin Abdullah, a man of the Ansari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم جابر بن عبدالله من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jumaa-mohamed-al-kaabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جمعة محمد الكعبي",
+  "en": "Jumaa Mohamed Al Kaabi Street",
+  "meaning": {
+    "en": "A member of the Kaabi family",
+    "ar": "من أسرة الكعبي"
+  },
+  "story": {
+    "en": "The street carries the name of Jumaa Mohamed, a man of the Kaabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم جمعه محمد من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalifa-bilqouba-al-humairi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خليفة بالقوبع الحميري",
+  "en": "Khalifa Bilqouba Al Humairi Street",
+  "meaning": {
+    "en": "A member of the Humairi family",
+    "ar": "من أسرة الحميري"
+  },
+  "story": {
+    "en": "The street carries the name of Khalifa Bilqouba, a man of the Humairi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم خليفه بالقوبع من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalifa-bin-khamis-al-dehaili",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خليفة بن خميس الدحيلي",
+  "en": "Khalifa Bin Khamis Al Dehaili Street",
+  "meaning": {
+    "en": "A member of the Dehaili family",
+    "ar": "من أسرة الدحيلي"
+  },
+  "story": {
+    "en": "The street carries the name of Khalifa Bin Khamis, a man of the Dehaili family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم خليفه بن خميس من أسرة الدحيلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "kunna-bint-saeed-al-humairi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع كنه بنت سعيد الحميري",
+  "en": "Kunna Bint Saeed Al Humairi Street",
+  "meaning": {
+    "en": "A member of the Humairi family",
+    "ar": "من أسرة الحميري"
+  },
+  "story": {
+    "en": "The street carries the name of Kunna Bint Saeed, a man of the Humairi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم كنه بنت سعيد من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "moahmmed-bin-brook-al-humairi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن بروك الحميري",
+  "en": "Moahmmed Bin Brook Al Humairi Street",
+  "meaning": {
+    "en": "A member of the Humairi family",
+    "ar": "من أسرة الحميري"
+  },
+  "story": {
+    "en": "The street carries the name of Moahmmed Bin Brook, a man of the Humairi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن بروك من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-al-falahi-al-yasi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق محمد الفلاحي الياسي",
+  "en": "Mohamed Al Falahi Al Yasi Road",
+  "meaning": {
+    "en": "A member of the Yasi family",
+    "ar": "من أسرة الياسي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Al Falahi, a man of the Yasi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد الفلاحي من أسرة الياسي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-ali-al-bastaki",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد علي البستكي",
+  "en": "Mohamed Ali Al Bastaki Street",
+  "meaning": {
+    "en": "A member of the Bastaki family",
+    "ar": "من أسرة البستكي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Ali, a man of the Bastaki family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد علي من أسرة البستكي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-ali-al-hosani",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد علي الحوسني",
+  "en": "Mohamed Ali Al Hosani Street",
+  "meaning": {
+    "en": "A member of the Hosani family",
+    "ar": "من أسرة الحوسني"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Ali, a man of the Hosani family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد علي من أسرة الحوسني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-jassem-al-hammadi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد جاسم الحمادي",
+  "en": "Mohamed Jassem Al Hammadi Street",
+  "meaning": {
+    "en": "A member of the Hammadi family",
+    "ar": "من أسرة الحمادي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Jassem, a man of the Hammadi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد جاسم من أسرة الحمادي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-khalfan-al-seyabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد خلفان السيابي",
+  "en": "Mohamed Khalfan Al Seyabi Street",
+  "meaning": {
+    "en": "A member of the Seyabi family",
+    "ar": "من أسرة السيابي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Khalfan, a man of the Seyabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد خلفان من أسرة السيابي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-salem-al-junaibi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد سالم الجنيبي",
+  "en": "Mohamed Salem Al Junaibi Street",
+  "meaning": {
+    "en": "A member of the Junaibi family",
+    "ar": "من أسرة الجنيبي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Salem, a man of the Junaibi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد سالم من أسرة الجنيبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammad-bin-taj-al-din-al-hashemi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن تاج الدين الهاشمي",
+  "en": "Mohammad Bin Taj Al Din Al Hashemi Street",
+  "meaning": {
+    "en": "A member of the Hashemi family",
+    "ar": "من أسرة الهاشمي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammad Bin Taj Al Din, a man of the Hashemi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن تاج الدين من أسرة الهاشمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-ahmed-al-shinqiti",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن أحمد الشنقيطي",
+  "en": "Mohammed Bin Ahmed Al Shinqiti Street",
+  "meaning": {
+    "en": "A member of the Shinqiti family",
+    "ar": "من أسرة الشنقيطي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Ahmed, a man of the Shinqiti family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن احمد من أسرة الشنقيطي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-hamed-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن حمد العامري",
+  "en": "Mohammed Bin Hamed Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Hamed, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن حمد من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-khalifa-al-kindi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن خليفة الكندي",
+  "en": "Mohammed Bin Khalifa Al Kindi Street",
+  "meaning": {
+    "en": "A member of the Kindi family",
+    "ar": "من أسرة الكندي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Khalifa, a man of the Kindi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن خليفه من أسرة الكندي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-murshid-al-humairi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن مرشد الحميري",
+  "en": "Mohammed Bin Murshid Al Humairi Street",
+  "meaning": {
+    "en": "A member of the Humairi family",
+    "ar": "من أسرة الحميري"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Murshid, a man of the Humairi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن مرشد من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-rashid-al-tamimi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن راشد التميمي",
+  "en": "Mohammed Bin Rashid Al Tamimi Street",
+  "meaning": {
+    "en": "A member of the Tamimi family",
+    "ar": "من أسرة التميمي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Rashid, a man of the Tamimi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن راشد من أسرة التميمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-sabaa-al-kindi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن سباع الكندي",
+  "en": "Mohammed Bin Sabaa Al Kindi Street",
+  "meaning": {
+    "en": "A member of the Kindi family",
+    "ar": "من أسرة الكندي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Sabaa, a man of the Kindi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن سباع من أسرة الكندي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-khaled-al-hamdi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد خالد الحامدي",
+  "en": "Mohammed Khaled Al Hamdi Street",
+  "meaning": {
+    "en": "A member of the Hamdi family",
+    "ar": "من أسرة الحامدي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Khaled, a man of the Hamdi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد خالد من أسرة الحامدي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-khamis-al-rayssi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد خميس الريسي",
+  "en": "Mohammed Khamis Al Rayssi Street",
+  "meaning": {
+    "en": "A member of the Rayssi family",
+    "ar": "من أسرة الريسي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Khamis, a man of the Rayssi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد خميس من أسرة الريسي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mubarak-alhabnoni-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مبارك الحبنوني العامري",
+  "en": "Mubarak Alhabnoni Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Mubarak Alhabnoni, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم مبارك الحبنوني من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mubarak-saif-al-kheili",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مبارك سيف الخيلي",
+  "en": "Mubarak Saif Al Kheili Street",
+  "meaning": {
+    "en": "A member of the Kheili family",
+    "ar": "من أسرة الخيلي"
+  },
+  "story": {
+    "en": "The street carries the name of Mubarak Saif, a man of the Kheili family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم مبارك سيف من أسرة الخيلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "nafja-bint-obaid-al-teneiji",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نافجة بنت عبيد الطنيجي",
+  "en": "Nafja Bint Obaid Al Teneiji Street",
+  "meaning": {
+    "en": "A member of the Teneiji family",
+    "ar": "من أسرة الطنيجي"
+  },
+  "story": {
+    "en": "The street carries the name of Nafja Bint Obaid, a man of the Teneiji family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم نافجه بنت عبيد من أسرة الطنيجي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "nassib-bin-ahmed-al-humairi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نسيب بن أحمد الحميري",
+  "en": "Nassib Bin Ahmed Al Humairi Street",
+  "meaning": {
+    "en": "A member of the Humairi family",
+    "ar": "من أسرة الحميري"
+  },
+  "story": {
+    "en": "The street carries the name of Nassib Bin Ahmed, a man of the Humairi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم نسيب بن احمد من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "obaid-bilartee-al-humairi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيد بالعرطى الحميري",
+  "en": "Obaid Bilartee Al Humairi Street",
+  "meaning": {
+    "en": "A member of the Humairi family",
+    "ar": "من أسرة الحميري"
+  },
+  "story": {
+    "en": "The street carries the name of Obaid Bilartee, a man of the Humairi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبيد بالعرطي من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "obaid-bin-mariman-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيد بن مريمان العامري",
+  "en": "Obaid Bin Mariman Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Obaid Bin Mariman, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبيد بن مريمان من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "obaid-mohammed-abdulla-al-kaabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيد محمد عبدالله الكعبي",
+  "en": "Obaid Mohammed Abdulla Al Kaabi Street",
+  "meaning": {
+    "en": "A member of the Kaabi family",
+    "ar": "من أسرة الكعبي"
+  },
+  "story": {
+    "en": "The street carries the name of Obaid Mohammed Abdulla, a man of the Kaabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبيد محمد عبدالله من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omer-alsalek-al-shinqiti",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر السالك الشنقيطي",
+  "en": "Omer Alsalek Al Shinqiti Street",
+  "meaning": {
+    "en": "A member of the Shinqiti family",
+    "ar": "من أسرة الشنقيطي"
+  },
+  "story": {
+    "en": "The street carries the name of Omer Alsalek, a man of the Shinqiti family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عمر السالك من أسرة الشنقيطي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "owais-bin-ali-al-derei",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عويص بن علي الدرعي",
+  "en": "Owais Bin Ali Al Derei Street",
+  "meaning": {
+    "en": "A member of the Derei family",
+    "ar": "من أسرة الدرعي"
+  },
+  "story": {
+    "en": "The street carries the name of Owais Bin Ali, a man of the Derei family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عويص بن علي من أسرة الدرعي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rashed-bin-saeed-al-ghaithi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع راشد بن سعيد الغيثي",
+  "en": "Rashed Bin Saeed Al Ghaithi Street",
+  "meaning": {
+    "en": "A member of the Ghaithi family",
+    "ar": "من أسرة الغيثي"
+  },
+  "story": {
+    "en": "The street carries the name of Rashed Bin Saeed, a man of the Ghaithi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم راشد بن سعيد من أسرة الغيثي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saad-mohammed-al-ahbabi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعد محمد الاحبابي",
+  "en": "Saad Mohammed Al Ahbabi Street",
+  "meaning": {
+    "en": "A member of the Ahbabi family",
+    "ar": "من أسرة الاحبابي"
+  },
+  "story": {
+    "en": "The street carries the name of Saad Mohammed, a man of the Ahbabi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سعد محمد من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saeed-bilkhalis-al-amri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد بالخالص العامري",
+  "en": "Saeed Bilkhalis Al Amri Street",
+  "meaning": {
+    "en": "A member of the Amri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Saeed Bilkhalis, a man of the Amri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سعيد بالخالص من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saeed-bin-abdulrahman-al-nasri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد بن عبدالرحمن الناصري",
+  "en": "Saeed Bin Abdulrahman Al Nasri Street",
+  "meaning": {
+    "en": "A member of the Nasri family",
+    "ar": "من أسرة الناصري"
+  },
+  "story": {
+    "en": "The street carries the name of Saeed Bin Abdulrahman, a man of the Nasri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سعيد بن عبدالرحمن من أسرة الناصري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saeed-bin-darbash-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد بن دربش العامري",
+  "en": "Saeed Bin Darbash Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Saeed Bin Darbash, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سعيد بن دربش من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saeed-bin-wariqah-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد بن وريقة العامري",
+  "en": "Saeed Bin Wariqah Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Saeed Bin Wariqah, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سعيد بن وريقه من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saeed-mohamed-al-hajeri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد محمد الهاجري",
+  "en": "Saeed Mohamed Al Hajeri Street",
+  "meaning": {
+    "en": "A member of the Hajeri family",
+    "ar": "من أسرة الهاجري"
+  },
+  "story": {
+    "en": "The street carries the name of Saeed Mohamed, a man of the Hajeri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سعيد محمد من أسرة الهاجري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salem-bilmur-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سالم بالمر العامري",
+  "en": "Salem Bilmur Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Salem Bilmur, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سالم بالمر من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salem-bin-ham-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سالم بن حم العامري",
+  "en": "Salem Bin Ham Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Salem Bin Ham, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سالم بن حم من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salem-bin-rakkad-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سالم بن ركاض العامري",
+  "en": "Salem Bin Rakkad Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Salem Bin Rakkad, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سالم بن ركاض من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salem-bin-thuaylib-al-amri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سالم بن ثعيلب العامري",
+  "en": "Salem Bin Thuaylib Al Amri Street",
+  "meaning": {
+    "en": "A member of the Amri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Salem Bin Thuaylib, a man of the Amri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سالم بن ثعيلب من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhail-bilaswad-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل بالاسود العامري",
+  "en": "Suhail Bilaswad Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Suhail Bilaswad, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سهيل بالاسود من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhail-biloutaih-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل باللوتية العامري",
+  "en": "Suhail Biloutaih Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Suhail Biloutaih, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سهيل باللوتيه من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sulaiman-abdullah-al-ebri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سليمان عبدالله العبري",
+  "en": "Sulaiman Abdullah Al Ebri Street",
+  "meaning": {
+    "en": "A member of the Ebri family",
+    "ar": "من أسرة العبري"
+  },
+  "story": {
+    "en": "The street carries the name of Sulaiman Abdullah, a man of the Ebri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم سليمان عبدالله من أسرة العبري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yousif-mohamed-al-wheibi",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يوسف محمد الوهيبي",
+  "en": "Yousif Mohamed Al Wheibi Street",
+  "meaning": {
+    "en": "A member of the Wheibi family",
+    "ar": "من أسرة الوهيبي"
+  },
+  "story": {
+    "en": "The street carries the name of Yousif Mohamed, a man of the Wheibi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم يوسف محمد من أسرة الوهيبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zayd-bin-khalid-al-jahni",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زيد بن خالد الجهني",
+  "en": "Zayd Bin Khalid Al Jahni Street",
+  "meaning": {
+    "en": "A member of the Jahni family",
+    "ar": "من أسرة الجهني"
+  },
+  "story": {
+    "en": "The street carries the name of Zayd Bin Khalid, a man of the Jahni family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم زيد بن خالد من أسرة الجهني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zayed-musallam-al-ameri",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زايد مسلم العامري",
+  "en": "Zayed Musallam Al Ameri Street",
+  "meaning": {
+    "en": "A member of the Ameri family",
+    "ar": "من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Zayed Musallam, a man of the Ameri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم زايد مسلم من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullrahmman-al-fihri",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد الرحمن الفهري",
+  "en": "Abdullrahmman Al Fihri Street",
+  "meaning": {
+    "en": "A member of the Fihri family",
+    "ar": "من أسرة الفهري"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullrahmman, a man of the Fihri family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم عبد الرحمن من أسرة الفهري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-ahmed-ali-jaramani",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شرارع أبي أحمد الجرماني",
+  "en": "Abi Ahmed Ali Jaramani Street",
+  "meaning": {
+    "en": "A member of the Jaramani family",
+    "ar": "من أسرة الجرماني"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Ahmed Ali, a man of the Jaramani family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم شرارع ابي احمد من أسرة الجرماني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-adarhim-al-zamani",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الأدارهم الزماني",
+  "en": "Abi Al Adarhim Al Zamani Street",
+  "meaning": {
+    "en": "A member of the Zamani family",
+    "ar": "من أسرة الزماني"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Adarhim, a man of the Zamani family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي الادارهم من أسرة الزماني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-arja-a-al-atki",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي العرجاء العتكي",
+  "en": "Abi Al Arja'a Al Atki Street",
+  "meaning": {
+    "en": "A member of the Atki family",
+    "ar": "من أسرة العتكي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Arja'a, a man of the Atki family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي العرجاء من أسرة العتكي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-fadhel-al-tamimi",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الفضل التميمي",
+  "en": "Abi Al Fadhel Al Tamimi Street",
+  "meaning": {
+    "en": "A member of the Tamimi family",
+    "ar": "من أسرة التميمي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Fadhel, a man of the Tamimi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي الفضل من أسرة التميمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-hassan-al-shadhli",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الحسن الشاذلي",
+  "en": "Abi Al Hassan Al Shadhli Street",
+  "meaning": {
+    "en": "A member of the Shadhli family",
+    "ar": "من أسرة الشاذلي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Hassan, a man of the Shadhli family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي الحسن من أسرة الشاذلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-sedeeq-al-naji",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الصديق النجي",
+  "en": "Abi Al Sedeeq Al Naji Street",
+  "meaning": {
+    "en": "A member of the Naji family",
+    "ar": "من أسرة النجي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Sedeeq, a man of the Naji family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي الصديق من أسرة النجي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-ayoub-al-ansari",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي أيوب الأنصاري",
+  "en": "Abi Ayoub Al Ansari Street",
+  "meaning": {
+    "en": "A member of the Ansari family",
+    "ar": "من أسرة الانصاري"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Ayoub, a man of the Ansari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي ايوب من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-dhar-al-ghifari",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي ذر الغفاري",
+  "en": "Abi Dhar Al Ghifari Street",
+  "meaning": {
+    "en": "A member of the Ghifari family",
+    "ar": "من أسرة الغفاري"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Dhar, a man of the Ghifari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي ذر من أسرة الغفاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-dhu-ayb-al-hadhli",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي ذؤيب الهذلي",
+  "en": "Abi Dhu'ayb Al Hadhli Street",
+  "meaning": {
+    "en": "A member of the Hadhli family",
+    "ar": "من أسرة الهذلي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Dhu'ayb, a man of the Hadhli family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي ذؤيب من أسرة الهذلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-hamid-al-sharqy",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي حامد الشرقي",
+  "en": "Abi Hamid Al Sharqy Street",
+  "meaning": {
+    "en": "A member of the Sharqy family",
+    "ar": "من أسرة الشرقي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Hamid, a man of the Sharqy family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي حامد من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-murthed-al-ganwi",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي مرثد الغنوي",
+  "en": "Abi Murthed Al Ganwi Street",
+  "meaning": {
+    "en": "A member of the Ganwi family",
+    "ar": "من أسرة الغنوي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Murthed, a man of the Ganwi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي مرثد من أسرة الغنوي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-mussa-al-ashari",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي موسى الأشعري",
+  "en": "Abi Mussa Al Ashari Street",
+  "meaning": {
+    "en": "A member of the Ashari family",
+    "ar": "من أسرة الاشعري"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Mussa, a man of the Ashari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي موسي من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-omaia-al-ghuzary",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي أمية الغزاري",
+  "en": "Abi Omaia Al Ghuzary Street",
+  "meaning": {
+    "en": "A member of the Ghuzary family",
+    "ar": "من أسرة الغزاري"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Omaia, a man of the Ghuzary family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي اميه من أسرة الغزاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-omar-al-eshbeli",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي عمر الإشبيلي",
+  "en": "Abi Omar Al Eshbeli Street",
+  "meaning": {
+    "en": "A member of the Eshbeli family",
+    "ar": "من أسرة الاشبيلي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Omar, a man of the Eshbeli family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي عمر من أسرة الاشبيلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-omayah-al-fazary",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي أمية الفزاري",
+  "en": "Abi Omayah Al Fazary Street",
+  "meaning": {
+    "en": "A member of the Fazary family",
+    "ar": "من أسرة الفزاري"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Omayah, a man of the Fazary family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي اميه من أسرة الفزاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-oqali-al-balwi",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي عقالي البلوي",
+  "en": "Abi Oqali Al Balwi Street",
+  "meaning": {
+    "en": "A member of the Balwi family",
+    "ar": "من أسرة البلوي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Oqali, a man of the Balwi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي عقالي من أسرة البلوي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-othman-al-nahdi",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي عثمان النهدي",
+  "en": "Abi Othman Al Nahdi Street",
+  "meaning": {
+    "en": "A member of the Nahdi family",
+    "ar": "من أسرة النهدي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Othman, a man of the Nahdi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي عثمان من أسرة النهدي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-sa-eed-al-khudari",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي سعيد الخضري",
+  "en": "Abi Sa'eed Al Khudari Street",
+  "meaning": {
+    "en": "A member of the Khudari family",
+    "ar": "من أسرة الخضري"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Sa'eed, a man of the Khudari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي سعيد من أسرة الخضري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-yousef-al-kofi",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي يوسف الكوفي",
+  "en": "Abi Yousef Al Kofi Street",
+  "meaning": {
+    "en": "A member of the Kofi family",
+    "ar": "من أسرة الكوفي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Yousef, a man of the Kofi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي يوسف من أسرة الكوفي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-yousef-al-qadhi",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي يوسف القاضي",
+  "en": "Abi Yousef Al Qadhi Street",
+  "meaning": {
+    "en": "A member of the Qadhi family",
+    "ar": "من أسرة القاضي"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Yousef, a man of the Qadhi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم ابي يوسف من أسرة القاضي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-harth-bin-al-ta-i",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارث بن الطائي",
+  "en": "Al Harth Bin Al Ta'i Street",
+  "meaning": {
+    "en": "A member of the Ta'i family",
+    "ar": "من أسرة الطائي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Harth Bin, a man of the Ta'i family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم الحارث بن من أسرة الطائي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-shaheed-saif-esa-al-naqbi",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد سيف عيسى النقبي",
+  "en": "Al Shaheed Saif Esa Al Naqbi Street",
+  "meaning": {
+    "en": "A member of the Naqbi family",
+    "ar": "من أسرة النقبي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Shaheed Saif Esa, a man of the Naqbi family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم الشهيد سيف عيسي من أسرة النقبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bin-saif-al-khatery",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي بن سيف الخاطري",
+  "en": "Ali bin Saif Al Khatery Street",
+  "meaning": {
+    "en": "A member of the Khatery family",
+    "ar": "من أسرة الخاطري"
+  },
+  "story": {
+    "en": "The street carries the name of Ali bin Saif, a man of the Khatery family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم علي بن سيف من أسرة الخاطري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hane-bin-al-hani",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هاني بن الهاني",
+  "en": "Hane Bin Al Hani Street",
+  "meaning": {
+    "en": "A member of the Hani family",
+    "ar": "من أسرة الهاني"
+  },
+  "story": {
+    "en": "The street carries the name of Hane Bin, a man of the Hani family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم هاني بن من أسرة الهاني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hasan-mohammad-al-tunaiji",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد حسن محمد الطنيجي",
+  "en": "Hasan Mohammad Al Tunaiji Street",
+  "meaning": {
+    "en": "A member of the Tunaiji family",
+    "ar": "من أسرة الطنيجي"
+  },
+  "story": {
+    "en": "The street carries the name of Hasan Mohammad, a man of the Tunaiji family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم الشهيد حسن محمد من أسرة الطنيجي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-salamah-al-ansari",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن سلامة الأنصاري",
+  "en": "Mohammed Bin Salamah Al Ansari Street",
+  "meaning": {
+    "en": "A member of the Ansari family",
+    "ar": "من أسرة الانصاري"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Salamah, a man of the Ansari family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن سلامه من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-tariq-al-maki",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن طارق المكي",
+  "en": "Mohammed Bin Tariq Al Maki Street",
+  "meaning": {
+    "en": "A member of the Maki family",
+    "ar": "من أسرة المكي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Tariq, a man of the Maki family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم محمد بن طارق من أسرة المكي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "nadlah-bin-obied-al-aslami",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نضلة بن عبيد الأسلمي",
+  "en": "Nadlah Bin Obied Al Aslami Street",
+  "meaning": {
+    "en": "A member of the Aslami family",
+    "ar": "من أسرة الاسلمي"
+  },
+  "story": {
+    "en": "The street carries the name of Nadlah Bin Obied, a man of the Aslami family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم نضله بن عبيد من أسرة الاسلمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rashid-mohammad-al-bloush",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد راشد محمد البلوشي",
+  "en": "Rashid Mohammad Al Bloush Street",
+  "meaning": {
+    "en": "A member of the Bloush family",
+    "ar": "من أسرة البلوشي"
+  },
+  "story": {
+    "en": "The street carries the name of Rashid Mohammad, a man of the Bloush family. No published biography of him was found.",
+    "ar": "يحمل الشارع اسم الشهيد راشد محمد من أسرة البلوشي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
 }
 ];
