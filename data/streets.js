@@ -15143,5 +15143,28 @@ window.STREETS = [
     "ar": "لفظ من كلمتين: «عيدان» أي الأغصان والأعواد، و«الإخيضر» تصغير «الأخضر». ويُراد به أغصان النباتات البرية والشجيرات الخضراء الطرية حديثة النمو."
   },
   "refs": []
+},
+{
+  "id": "al-usus-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "documented",
+  "ar": "شارع الأُسُس",
+  "en": "Al Usus Street",
+  "translit": "Shāriʿ al-Usus",
+  "meaning": {
+    "en": "Foundations — the base something is built on",
+    "ar": "الأُسُس: القواعد التي يُبنى عليها"
+  },
+  "story": {
+    "en": "Al Usus is the plural of asas: a foundation, a base, the root on which something else is built.",
+    "ar": "الأُسُس جمع «أساس»، وهو القاعدة أو الأصل أو الجِذر الذي يُبنى عليه غيره."
+  },
+  "refs": [
+    {
+      "label": "Wiktionary — أساس",
+      "url": "https://ar.wiktionary.org/wiki/أساس"
+    }
+  ]
 }
 ];
