@@ -480,6 +480,7 @@ for (const s of KB.streets) {
   const ar = s.name_ar || AR_OVERRIDES.get(key) || "";
   const arFixed = AR_OVERRIDES.get(key) || ar;
   if (!en && !arFixed) continue;
+  if (!String(en).trim()) continue; // a blank title is worse than no row
   if (NOT_A_NAME.test(String(en).trim())) continue;
   if (NOT_A_STREET.test(String(en).trim())) continue;
   if (NOT_A_STREET_2.test(String(en).trim())) continue;

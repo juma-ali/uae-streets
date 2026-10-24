@@ -6785,18 +6785,23 @@ window.STREETS = [
   "id": "jaber-bin-abdullah-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جابر بن عبدالله",
   "en": "Jaber Bin Abdullah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion and prolific narrator of hadith",
+    "ar": "صحابي من المكثرين في رواية الحديث"
   },
   "story": {
-    "en": "No published source was found identifying who Jaber Bin Abdullah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جابر بن عبدالله» الذي يحمل الشارع اسمه."
+    "en": "Jabir ibn Abdullah al-Ansari was a Companion of the Ansar and among the most prolific narrators of hadith.",
+    "ar": "جابر بن عبد الله الأنصاري صحابي من الأنصار، ومن أكثر الصحابة روايةً للحديث النبوي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — جابر بن عبد الله الأنصاري",
+      "url": "https://ar.wikipedia.org/wiki/جابر_بن_عبد_الله_الأنصاري"
+    }
+  ]
 },
 {
   "id": "al-hakam-bin-amr-street",
