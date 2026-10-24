@@ -18279,5 +18279,11990 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/%D9%8A%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%B1%D9%82%D9%8A%D8%B4"
     }
   ]
+},
+{
+  "id": "arqoub-bin-salmeen-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عرقوب بن سالمِين",
+  "en": "'Arqoub Bin Salmeen Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of 'Arqoub Bin Salmeen, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عرقوب بن سالمين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abayah-bin-rib-ee-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عباية بن رِبعِي",
+  "en": "Abayah Bin Rib'ee Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abayah Bin Rib'ee, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبايه بن ربعي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abd-al-as-hal-iyas-bin-aws-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد الأسهل إياس بن أوس",
+  "en": "Abd Al As-hal Iyas Bin Aws Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abd Al As-hal Iyas Bin Aws, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبد الاسهل اياس بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdah-bin-al-hassas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدة بن الحساس",
+  "en": "Abdah Bin Al Hassas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdah Bin Al Hassas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبده بن الحساس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdelaziz-sarhan-al-kaabi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالعزيز سرحان الكعبي",
+  "en": "Abdelaziz Sarhan Al Kaabi Street",
+  "meaning": {
+    "en": "An Emirati figure of the كعبي family",
+    "ar": "شخصية إماراتية من أسرة الكعبي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdelaziz Sarhan Al Kaabi, an Emirati figure of the كعبي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالعزيز سرحان الكعبي، وهو شخصية إماراتية من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulhameed-sultan-al-hammadi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالحميد سلطان الحمادي",
+  "en": "Abdulhameed Sultan Al Hammadi Street",
+  "meaning": {
+    "en": "An Emirati figure of the حمادي family",
+    "ar": "شخصية إماراتية من أسرة الحمادي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulhameed Sultan Al Hammadi, an Emirati figure of the حمادي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالحميد سلطان الحمادي، وهو شخصية إماراتية من أسرة الحمادي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abduljalil-bin-mohammed-al-fahim-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالجليل بن محمد الفهيم",
+  "en": "Abduljalil Bin Mohammed Al Fahim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abduljalil Bin Mohammed Al Fahim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالجليل بن محمد الفهيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulkarim-al-jazari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالكريم الجزري",
+  "en": "Abdulkarim Al Jazari Street",
+  "meaning": {
+    "en": "An Emirati figure of the جزري family",
+    "ar": "شخصية إماراتية من أسرة الجزري"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulkarim Al Jazari, an Emirati figure of the جزري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالكريم الجزري، وهو شخصية إماراتية من أسرة الجزري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-adiy-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عَدِي",
+  "en": "Abdullah Bin 'Adiy Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin 'Adiy, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عدي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عَمرو",
+  "en": "Abdullah Bin 'Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin 'Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-abi-awfa-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن أبي أوفى",
+  "en": "Abdullah Bin Abi Awfa Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Abi Awfa, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن ابي اوفي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-abi-rabee-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن أبي ربيعة",
+  "en": "Abdullah Bin Abi Rabee'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Abi Rabee'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن ابي ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-ahmed-al-otaiba-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن أحمد العتيبة",
+  "en": "Abdullah Bin Ahmed Al Otaiba Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Ahmed Al Otaiba, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن احمد العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن الحارث",
+  "en": "Abdullah Bin Al Harith Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Al Harith, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-al-mubarak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن المُبارَك",
+  "en": "Abdullah Bin Al Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Al Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-anees-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن أنِيس",
+  "en": "Abdullah Bin Anees Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Anees, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن انيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-busr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن بُسر",
+  "en": "Abdullah Bin Busr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Busr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن بسر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-hajash-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن حجش",
+  "en": "Abdullah Bin Hajash Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Hajash, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن حجش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-hatha-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن حاذه المرر",
+  "en": "Abdullah Bin Hatha Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Hatha Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن حاذه المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-jubayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن جبير",
+  "en": "Abdullah Bin Jubayr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Jubayr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن جبير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-omar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عُمَر",
+  "en": "Abdullah Bin Omar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Omar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عمر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-rabee-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن رَبِيعة",
+  "en": "Abdullah Bin Rabee'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Rabee'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-suhail-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن سُهَيل",
+  "en": "Abdullah Bin Suhail Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Suhail, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن سهيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-tha-labah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن ثعلَبة",
+  "en": "Abdullah Bin Tha'labah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Tha'labah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن ثعلبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن ثابِت",
+  "en": "Abdullah Bin Thabit Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Thabit, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-ibn-al-habeet-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله ابن الهبيت",
+  "en": "Abdullah Ibn Al Habeet Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Ibn Al Habeet, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله ابن الهبيت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-ibn-um-maktoum-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله ابن أم مكتُوم",
+  "en": "Abdullah Ibn Um Maktoum Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Ibn Um Maktoum, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله ابن ام مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-omran-taryam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله عمران تريم",
+  "en": "Abdullah Omran Taryam Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Omran Taryam, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله عمران تريم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullatif-bin-ibrahim-al-mubarak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبداللطيف بن إبراهيم المبارك",
+  "en": "Abdullatif Bin Ibrahim Al Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullatif Bin Ibrahim Al Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبداللطيف بن ابراهيم المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-al-awza-i-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرَّحمَن الأوزاعِي",
+  "en": "Abdulrahman Al Awza'i Street",
+  "meaning": {
+    "en": "An Emirati figure of the اوزاعي family",
+    "ar": "شخصية إماراتية من أسرة الاوزاعي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Al Awza'i, an Emirati figure of the اوزاعي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالرحمن الاوزاعي، وهو شخصية إماراتية من أسرة الاوزاعي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-a-idh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرَّحمَن بن عائِذ",
+  "en": "Abdulrahman Bin 'A-idh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin 'A-idh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن عائذ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-udays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن عديس",
+  "en": "Abdulrahman Bin 'Udays Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin 'Udays, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن عديس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-al-habeet-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن الهبيت",
+  "en": "Abdulrahman Bin Al Habeet Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin Al Habeet, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن الهبيت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-ali-al-mubarak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن علي المبارك",
+  "en": "Abdulrahman Bin Ali Al Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin Ali Al Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن علي المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-samurah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن سمُرة",
+  "en": "Abdulrahman Bin Samurah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin Samurah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن سمره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-zayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن زيد",
+  "en": "Abdulrahman Bin Zayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin Zayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-al-aswad-ad-du-ali-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو الأسوَد الدُّؤَلِي",
+  "en": "Abu Al Aswad Ad Du-ali Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Al Aswad Ad Du-ali, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو الاسود الدؤلي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-al-bakhtari-at-ta-i-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو البَختَرِي الطَّائِي",
+  "en": "Abu Al Bakhtari At Ta-i Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Al Bakhtari At Ta-i, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو البختري الطائي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-aseerah-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو أسِيرة بن الحارِث",
+  "en": "Abu Aseerah Bin Al Harith Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Aseerah Bin Al Harith, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابو اسيره بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-ayoub-al-ansari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو أيُّوب الأنصارِي",
+  "en": "Abu Ayoub Al Ansari Street",
+  "meaning": {
+    "en": "An Emirati figure of the انصاري family",
+    "ar": "شخصية إماراتية من أسرة الانصاري"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Ayoub Al Ansari, an Emirati figure of the انصاري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو ايوب الانصاري، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-bakr-bin-al-munkadir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو بَكر بن المُنكَدِر",
+  "en": "Abu Bakr Bin Al Munkadir Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Bakr Bin Al Munkadir, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابو بكر بن المنكدر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-bakr-bin-ayach-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو بَكر بن عَيَّاش",
+  "en": "Abu Bakr Bin Ayach Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Bakr Bin Ayach, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابو بكر بن عياش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-idris-al-khawlani-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو إدرِيس الخَولانِي",
+  "en": "Abu Idris Al Khawlani Street",
+  "meaning": {
+    "en": "An Emirati figure of the خولاني family",
+    "ar": "شخصية إماراتية من أسرة الخولاني"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Idris Al Khawlani, an Emirati figure of the خولاني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو ادريس الخولاني، وهو شخصية إماراتية من أسرة الخولاني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-is-haq-as-sabee-i-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو إسحاق السَّبِيعِي",
+  "en": "Abu Is-haq As Sabee'i Street",
+  "meaning": {
+    "en": "An Emirati figure of the سبيعي family",
+    "ar": "شخصية إماراتية من أسرة السبيعي"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Is-haq As Sabee'i, an Emirati figure of the سبيعي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو اسحاق السبيعي، وهو شخصية إماراتية من أسرة السبيعي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-malik-al-ash-ari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو مالِك الأشعَرِي",
+  "en": "Abu Malik Al Ash'ari Street",
+  "meaning": {
+    "en": "An Emirati figure of the اشعري family",
+    "ar": "شخصية إماراتية من أسرة الاشعري"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Malik Al Ash'ari, an Emirati figure of the اشعري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو مالك الاشعري، وهو شخصية إماراتية من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-qatadah-al-ansari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو قَتادة الأنصارِي",
+  "en": "Abu Qatadah Al Ansari Street",
+  "meaning": {
+    "en": "An Emirati figure of the انصاري family",
+    "ar": "شخصية إماراتية من أسرة الانصاري"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Qatadah Al Ansari, an Emirati figure of the انصاري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو قتاده الانصاري، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abulaziz-bin-hamed-al-mubarak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالعزيز بن حمد المبارك",
+  "en": "Abulaziz Bin Hamed Al Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abulaziz Bin Hamed Al Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالعزيز بن حمد المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-abulaziz-al-mubarak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بن عبدالعزيز المبارك",
+  "en": "Ahmed Bin Abulaziz Al Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Abulaziz Al Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم احمد بن عبدالعزيز المبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-blaid-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بن بليد المرر",
+  "en": "Ahmed Bin Blaid Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Blaid Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم احمد بن بليد المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-bu-melha-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بن بوملحا المرر",
+  "en": "Ahmed Bin Bu Melha Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Bu Melha Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم احمد بن بوملحا المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-jbara-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بن جبارة المرر",
+  "en": "Ahmed Bin Jbara Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Jbara Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم احمد بن جباره المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-khalaf-al-otaiba-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بن خلف العتيبة",
+  "en": "Ahmed Bin Khalaf Al Otaiba Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Khalaf Al Otaiba, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم احمد بن خلف العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-mohamed-al-fahim-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد بن محمد الفهيم",
+  "en": "Ahmed Bin Mohamed Al Fahim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Mohamed Al Fahim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم احمد بن محمد الفهيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-ala-a-bin-ziyad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع العَلاء بن زِياد",
+  "en": "Al 'Ala-a Bin Ziyad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al 'Ala-a Bin Ziyad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم العلاء بن زياد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-abbas-bin-abdulmuttalib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع العباس بن عبدالمطلب",
+  "en": "Al Abbas Bin Abdulmuttalib Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Abbas Bin Abdulmuttalib, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم العباس بن عبدالمطلب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-ahwas-bin-mas-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الأحوَص بن مَسعُود",
+  "en": "Al Ahwas Bin Mas'oud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Ahwas Bin Mas'oud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الاحوص بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-akhtal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الأَخطَل",
+  "en": "Al Akhtal Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Akhtal, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الاخطل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-arqm-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الأرقم",
+  "en": "Al Arqm Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Arqm, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الارقم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-asma-i-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الأصمَعِي",
+  "en": "Al Asma'i Street",
+  "meaning": {
+    "en": "An Emirati figure of the اصمعي family",
+    "ar": "شخصية إماراتية من أسرة الاصمعي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Asma'i, an Emirati figure of the اصمعي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الاصمعي، وهو شخصية إماراتية من أسرة الاصمعي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-farouq-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الفَارُوق",
+  "en": "Al Farouq Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Farouq, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الفاروق، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-harith-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارِث بن عبدالله",
+  "en": "Al Harith Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Harith Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-harith-bin-al-azma-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارِث بن الأزمَع",
+  "en": "Al Harith Bin Al Azma' Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Harith Bin Al Azma', a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن الازمع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-harith-bin-ar-rabee-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارِث بن الرَّبِيع",
+  "en": "Al Harith Bin Ar Rabee' Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Harith Bin Ar Rabee', a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن الربيع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-harith-bin-aws-bin-mu-adh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارث بن أوس بن معاذ",
+  "en": "Al Harith Bin Aws Bin Mu'adh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Harith Bin Aws Bin Mu'adh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن اوس بن معاذ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-harith-bin-hani-a-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارِث بن هانِئ",
+  "en": "Al Harith Bin Hani-a Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Harith Bin Hani-a, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن هانئ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-harith-bin-salamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارِث بن سَلَمة",
+  "en": "Al Harith Bin Salamah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Harith Bin Salamah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن سلمه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-haytham-bin-al-aswad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الهَيثَم بن الأسود",
+  "en": "Al Haytham Bin Al Aswad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Haytham Bin Al Aswad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الهيثم بن الاسود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hubab-bin-jubayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحُباب بن جُبَير",
+  "en": "Al Hubab Bin Jubayr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hubab Bin Jubayr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحباب بن جبير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hur-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحُر بن قَيس",
+  "en": "Al Hur Bin Qays Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hur Bin Qays, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحر بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-mansour-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع المنصور",
+  "en": "Al Mansour Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Mansour, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم المنصور، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-maytha-a-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع المَيثاء",
+  "en": "Al Maytha-a Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Maytha-a, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الميثاء، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-miqdam-bin-ma-d-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع المِقدام بن مَعد",
+  "en": "Al Miqdam Bin Ma'd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Miqdam Bin Ma'd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم المقدام بن معد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-rabee-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الرَّبِيع",
+  "en": "Al Rabee' Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Rabee', an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الربيع، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-razi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الرَّازِي",
+  "en": "Al Razi Street",
+  "meaning": {
+    "en": "An Emirati figure of the رازي family",
+    "ar": "شخصية إماراتية من أسرة الرازي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Razi, an Emirati figure of the رازي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الرازي، وهو شخصية إماراتية من أسرة الرازي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-seef-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السِّيف",
+  "en": "Al Seef Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Seef, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم السيف، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-sultan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السُلْطَان",
+  "en": "Al Sultan Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Sultan, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم السلطان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-termidhy-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع التِّرمِذِي",
+  "en": "Al Termidhy Street",
+  "meaning": {
+    "en": "An Emirati figure of the ترمذي family",
+    "ar": "شخصية إماراتية من أسرة الترمذي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Termidhy, an Emirati figure of the ترمذي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الترمذي، وهو شخصية إماراتية من أسرة الترمذي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الثابت",
+  "en": "Al Thabit Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Thabit, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الثابت، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bin-alkindi-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي بن الكندي المرر",
+  "en": "Ali Bin Alkindi Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Bin Alkindi Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم علي بن الكندي المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bin-hamzah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي بن حَمزة",
+  "en": "Ali Bin Hamzah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Bin Hamzah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم علي بن حمزه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bin-musabah-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي بن مصبح المرر",
+  "en": "Ali Bin Musabah Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Bin Musabah Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم علي بن مصبح المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "an-nawwas-bin-sam-an-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع النَّوَّاس بن سَمعان",
+  "en": "An Nawwas Bin Sam'an Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of An Nawwas Bin Sam'an, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم النواس بن سمعان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "an-nazzal-bin-subrah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع النَّزَّال بن سُبرة",
+  "en": "An Nazzal Bin Subrah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of An Nazzal Bin Subrah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم النزال بن سبره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "anas-bin-an-nudr-bin-damdam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أنس بن النضر بن ضمضم",
+  "en": "Anas Bin An Nudr Bin Damdam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Anas Bin An Nudr Bin Damdam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم انس بن النضر بن ضمضم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "anis-al-ansari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أنيس الأنصارِي",
+  "en": "Anis Al Ansari Street",
+  "meaning": {
+    "en": "An Emirati figure of the انصاري family",
+    "ar": "شخصية إماراتية من أسرة الانصاري"
+  },
+  "story": {
+    "en": "The street carries the name of Anis Al Ansari, an Emirati figure of the انصاري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم انيس الانصاري، وهو شخصية إماراتية من أسرة الانصاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ar-rabee-bin-anas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الرَّبِيع بن أنَس",
+  "en": "Ar Rabee' Bin Anas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ar Rabee' Bin Anas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الربيع بن انس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "as-sa-eed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السَّعِيد",
+  "en": "As Sa'eed Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of As Sa'eed, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم السعيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "as-salamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السَّلامة",
+  "en": "As Salamah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of As Salamah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم السلامه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "asim-bin-omar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عاصِم بن عُمَر",
+  "en": "Asim Bin Omar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Asim Bin Omar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عاصم بن عمر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "asma-bint-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أسماء بنت عَمرو",
+  "en": "Asma Bint 'Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Asma Bint 'Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم اسماء بنت عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "asma-bint-abi-bakr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أسماء بنت ابي بكر",
+  "en": "Asma Bint Abi Bakr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Asma Bint Abi Bakr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم اسماء بنت ابي بكر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "atabah-bin-rabee-bin-rafi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عتبة بن ربيع بن رافع",
+  "en": "Atabah Bin Rabee' Bin Rafi' Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Atabah Bin Rabee' Bin Rafi', a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عتبه بن ربيع بن رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "aws-bin-arqam-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أوس بن أرقم بن قيس",
+  "en": "Aws Bin Arqam Bin Qays Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Aws Bin Arqam Bin Qays, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم اوس بن ارقم بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "aysha-bint-abi-bakr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عائشة بنت أبي بكر",
+  "en": "Aysha Bint Abi Bakr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Aysha Bint Abi Bakr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عائشه بنت ابي بكر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-ammar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن عَمَّار",
+  "en": "Bad' Bin 'Ammar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin 'Ammar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن عمار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-imayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن عِمَير",
+  "en": "Bad' Bin 'Imayr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin 'Imayr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-oun-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن عُون",
+  "en": "Bad' Bin 'Oun Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin 'Oun, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن عون، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-oushanah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن عُوشانة",
+  "en": "Bad' Bin 'Oushanah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin 'Oushanah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن عوشانه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-dimaythan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن دِمَيثان",
+  "en": "Bad' Bin Dimaythan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Dimaythan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن دميثان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-ghannam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن غَنَّام",
+  "en": "Bad' Bin Ghannam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Ghannam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن غنام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-harib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن حارِب",
+  "en": "Bad' Bin Harib Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Harib, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن حارب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-khizam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن خِزام",
+  "en": "Bad' Bin Khizam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Khizam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن خزام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-qirran-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن قِرَّان",
+  "en": "Bad' Bin Qirran Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Qirran, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن قران، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-sharid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن شارِد",
+  "en": "Bad' Bin Sharid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Sharid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن شارد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-slaiman-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن سلِيمان",
+  "en": "Bad' Bin Slaiman Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Slaiman, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن سليمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bin-swayh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بن سوَيح",
+  "en": "Bad' Bin Swayh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bin Swayh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بن سويح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bad-bint-sa-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَدع بنت سَعود",
+  "en": "Bad' Bint Sa'oud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bad' Bint Sa'oud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بدع بنت سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "barqa-bin-amer-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَرقا بن عامِر",
+  "en": "Barqa Bin 'Amer Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Barqa Bin 'Amer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم برقا بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "barqa-bin-hadi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَرقا بن هادِي",
+  "en": "Barqa Bin Hadi Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Barqa Bin Hadi, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم برقا بن هادي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "barqa-bin-siwayh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَرقا بن سوَيح",
+  "en": "Barqa Bin Siwayh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Barqa Bin Siwayh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم برقا بن سويح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "barqa-bin-talfahah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بَرقا بن طَلفاحه",
+  "en": "Barqa Bin Talfahah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Barqa Bin Talfahah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم برقا بن طلفاحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-isheesh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بن عشيش",
+  "en": "Bin 'Isheesh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin 'Isheesh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بن عشيش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-hadi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بن هادِي",
+  "en": "Bin Hadi Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin Hadi, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بن هادي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-mismih-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بن مِسمِح",
+  "en": "Bin Mismih Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin Mismih, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بن مسمح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bint-al-matar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بنت المطر",
+  "en": "Bint Al Matar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bint Al Matar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بنت المطر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bint-al-noukhadha-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بِنْت النُّوْخَذَا",
+  "en": "Bint Al Noukhadha Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bint Al Noukhadha, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بنت النوخذا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "burj-bin-hilal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع برج بن هِلال",
+  "en": "Burj Bin Hilal Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Burj Bin Hilal, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم برج بن هلال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "burj-bin-hlees-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع برج بن حليس",
+  "en": "Burj Bin Hlees Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Burj Bin Hlees, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم برج بن حليس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "burj-bin-khatroush-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع برج بن ختروش",
+  "en": "Burj Bin Khatroush Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Burj Bin Khatroush, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم برج بن ختروش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "damrah-al-juhayni-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ضمرة الجهيني",
+  "en": "Damrah Al Juhayni Street",
+  "meaning": {
+    "en": "An Emirati figure of the جهيني family",
+    "ar": "شخصية إماراتية من أسرة الجهيني"
+  },
+  "story": {
+    "en": "The street carries the name of Damrah Al Juhayni, an Emirati figure of the جهيني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ضمره الجهيني، وهو شخصية إماراتية من أسرة الجهيني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "darwish-bin-karam-al-mohammed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع درويش بن كرم آل محمد",
+  "en": "Darwish Bin Karam Al Mohammed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Darwish Bin Karam Al Mohammed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم درويش بن كرم ال محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "dhakwan-bin-abdullah-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ذكوان بن عبدالله قيس",
+  "en": "Dhakwan Bin Abdullah Qays Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Dhakwan Bin Abdullah Qays, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ذكوان بن عبدالله قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "dimyat-bin-dhiyab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع دِمية بن ذِياب",
+  "en": "Dimyat Bin Dhiyab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Dimyat Bin Dhiyab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم دميه بن ذياب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "dimyat-bin-nihayeel-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع دِمية بن نِهَيِيل",
+  "en": "Dimyat Bin Nihayeel Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Dimyat Bin Nihayeel, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم دميه بن نهييل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "dimyat-bin-shimal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع دِمية بن شِمال",
+  "en": "Dimyat Bin Shimal Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Dimyat Bin Shimal, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم دميه بن شمال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "dimyat-bint-oun-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع دِمية بنت عُون",
+  "en": "Dimyat Bint 'Oun Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Dimyat Bint 'Oun, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم دميه بنت عون، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "george-matthew-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جورج ماثيو",
+  "en": "George Matthew Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of George Matthew, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم جورج ماثيو، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ghadeer-bin-habis-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غَدِير بن حابِس",
+  "en": "Ghadeer Bin Habis Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ghadeer Bin Habis, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غدير بن حابس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ghadeer-bin-khimayas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غَدِيِر بن خِمَيَّس",
+  "en": "Ghadeer Bin Khimayas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ghadeer Bin Khimayas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غدير بن خميس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ghadeer-bin-na-eem-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غَدِير بن نَعِيم",
+  "en": "Ghadeer Bin Na'eem Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ghadeer Bin Na'eem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غدير بن نعيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ghafat-bin-hreez-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غافة بن حريز",
+  "en": "Ghafat Bin Hreez Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ghafat Bin Hreez, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غافه بن حريز، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ghait-bin-hatroush-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غَيط بن حَترُوش",
+  "en": "Ghait Bin Hatroush Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ghait Bin Hatroush, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غيط بن حتروش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ghaleel-bin-nawmah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غَلِيل بن نَومه",
+  "en": "Ghaleel Bin Nawmah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ghaleel Bin Nawmah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غليل بن نومه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ghaleel-bin-shuwayq-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غَلِيل بن شُوَيق",
+  "en": "Ghaleel Bin Shuwayq Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ghaleel Bin Shuwayq, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غليل بن شويق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "gheet-bin-bayat-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع غيط بن بيات",
+  "en": "Gheet Bin Bayat Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Gheet Bin Bayat, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم غيط بن بيات، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-al-anzi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب العَنَزِي",
+  "en": "Habeeb Al 'Anzi Street",
+  "meaning": {
+    "en": "An Emirati figure of the عنزي family",
+    "ar": "شخصية إماراتية من أسرة العنزي"
+  },
+  "story": {
+    "en": "The street carries the name of Habeeb Al 'Anzi, an Emirati figure of the عنزي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم حبيب العنزي، وهو شخصية إماراتية من أسرة العنزي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-abi-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن أبي ثابِت",
+  "en": "Habeeb Bin Abi Thabit Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Habeeb Bin Abi Thabit, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حبيب بن ابي ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-marwan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن مَروان",
+  "en": "Habeeb Bin Marwan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Habeeb Bin Marwan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حبيب بن مروان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-usayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيب بن أسَيد",
+  "en": "Habeeb Bin Usayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Habeeb Bin Usayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حبيب بن اسيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "habeebah-bint-sahl-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَبِيبة بنت سَهل",
+  "en": "Habeebah Bint Sahl Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Habeebah Bint Sahl, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حبيبه بنت سهل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hadbat-bin-al-kharsan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حِدْبَة بن الخَرْسَان",
+  "en": "Hadbat Bin Al Kharsan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hadbat Bin Al Kharsan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حدبه بن الخرسان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hadef-humaid-al-shamsi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هادف حميد الشامسي",
+  "en": "Hadef Humaid Al Shamsi Street",
+  "meaning": {
+    "en": "An Emirati figure of the شامسي family",
+    "ar": "شخصية إماراتية من أسرة الشامسي"
+  },
+  "story": {
+    "en": "The street carries the name of Hadef Humaid Al Shamsi, an Emirati figure of the شامسي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم هادف حميد الشامسي، وهو شخصية إماراتية من أسرة الشامسي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hadrad-bin-abi-hadrad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَدرَد بن أبي حَدرَد",
+  "en": "Hadrad Bin Abi Hadrad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hadrad Bin Abi Hadrad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حدرد بن ابي حدرد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hafsa-bint-omar-bin-al-khattab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حفصة بنت عمر بن الخطاب",
+  "en": "Hafsa Bint Omar Bin Al Khattab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hafsa Bint Omar Bin Al Khattab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حفصه بنت عمر بن الخطاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hajjaj-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَجَّاج بن عَمرو",
+  "en": "Hajjaj Bin 'Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hajjaj Bin 'Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حجاج بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hajjaj-bin-malik-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَجَّاج بن مالِك",
+  "en": "Hajjaj Bin Malik Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hajjaj Bin Malik, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حجاج بن مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hakeem-bin-jabalah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَكِيم بن جَبَلة",
+  "en": "Hakeem Bin Jabalah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hakeem Bin Jabalah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حكيم بن جبله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hamdan-bin-mohammed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حمدان بن محمد",
+  "en": "Hamdan Bin Mohammed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hamdan Bin Mohammed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حمدان بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "harithah-bin-sharaheel-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حارِثة بن شَراحِيل",
+  "en": "Harithah Bin Sharaheel Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Harithah Bin Sharaheel, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حارثه بن شراحيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "harmalah-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَرمَلة بن عَمرو",
+  "en": "Harmalah Bin 'Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Harmalah Bin 'Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حرمله بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "harmalah-bin-al-waleed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَرمَلة بن الوَلِيد",
+  "en": "Harmalah Bin Al Waleed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Harmalah Bin Al Waleed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حرمله بن الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "harmalah-bin-zayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَرمَلة بن زَيد",
+  "en": "Harmalah Bin Zayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Harmalah Bin Zayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حرمله بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hasaya-bin-marshoud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَصايا بن مَرشُود",
+  "en": "Hasaya Bin Marshoud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hasaya Bin Marshoud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حصايا بن مرشود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hassan-bin-jabir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَسَّان بن جابِر",
+  "en": "Hassan Bin Jabir Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hassan Bin Jabir, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حسان بن جابر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hassan-bin-shaddad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَسَّان بن شَدَّاد",
+  "en": "Hassan Bin Shaddad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hassan Bin Shaddad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حسان بن شداد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hawwa-a-bint-yazeed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَوَّاء بنت يَزِيد",
+  "en": "Hawwa-a Bint Yazeed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hawwa-a Bint Yazeed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حواء بنت يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hayeerat-bin-thani-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حيِّيرة بن ثاني",
+  "en": "Hayeerat Bin Thani Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hayeerat Bin Thani, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حييره بن ثاني، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hayy-juma-hayy-al-hameli-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حيي جمعة حيي الهاملي",
+  "en": "Hayy Juma Hayy Al Hameli Street",
+  "meaning": {
+    "en": "An Emirati figure of the هاملي family",
+    "ar": "شخصية إماراتية من أسرة الهاملي"
+  },
+  "story": {
+    "en": "The street carries the name of Hayy Juma Hayy Al Hameli, an Emirati figure of the هاملي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم حيي جمعه حيي الهاملي، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "haz-bin-yalad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هَزع بن يَلد",
+  "en": "Haz' Bin Yalad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Haz' Bin Yalad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم هزع بن يلد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hazm-bin-abi-ka-b-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حَزم بن أبي كَعب",
+  "en": "Hazm Bin Abi Ka'b Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hazm Bin Abi Ka'b, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حزم بن ابي كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hessa-bint-mohammed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حصة بنت محمد",
+  "en": "Hessa Bint Mohammed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hessa Bint Mohammed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حصه بنت محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hilal-bin-umayah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هِلال بن أمَيَّة",
+  "en": "Hilal Bin Umayah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hilal Bin Umayah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم هلال بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hind-bint-usayd-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هِند بنت أسَيد",
+  "en": "Hind Bint Usayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hind Bint Usayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم هند بنت اسيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hirash-bin-umayah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حِراش بن أمَيَّة",
+  "en": "Hirash Bin Umayah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hirash Bin Umayah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حراش بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hisham-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هشام بن عبدالله",
+  "en": "Hisham Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hisham Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم هشام بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hissah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حِصَّة",
+  "en": "Hissah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Hissah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم حصه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hmoud-ali-al-ameri-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حمود علي العامري",
+  "en": "Hmoud Ali Al Ameri Street",
+  "meaning": {
+    "en": "An Emirati figure of the عامري family",
+    "ar": "شخصية إماراتية من أسرة العامري"
+  },
+  "story": {
+    "en": "The street carries the name of Hmoud Ali Al Ameri, an Emirati figure of the عامري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم حمود علي العامري، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hubaysh-bin-khalid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حُبَيش بن خالِد",
+  "en": "Hubaysh Bin Khalid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hubaysh Bin Khalid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حبيش بن خالد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hudhayfah-bin-aws-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حُذَيفة بن أوس",
+  "en": "Hudhayfah Bin Aws Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hudhayfah Bin Aws, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حذيفه بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "humayd-bin-abdulrahman-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حُمَيد بن عبدالرَّحمَن",
+  "en": "Humayd Bin Abdulrahman Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Humayd Bin Abdulrahman, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حميد بن عبدالرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "humran-bin-aban-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حُمران بن أبان",
+  "en": "Humran Bin Aban Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Humran Bin Aban, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حمران بن ابان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "huwayisah-bin-mas-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حُوَيِّصة بن مَسعُود",
+  "en": "Huwayisah Bin Mas'oud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Huwayisah Bin Mas'oud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حويصه بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibrahim-at-taymi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع إبراهِيم التَّيمِي",
+  "en": "Ibrahim At Taymi Street",
+  "meaning": {
+    "en": "An Emirati figure of the تيمي family",
+    "ar": "شخصية إماراتية من أسرة التيمي"
+  },
+  "story": {
+    "en": "The street carries the name of Ibrahim At Taymi, an Emirati figure of the تيمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابراهيم التيمي، وهو شخصية إماراتية من أسرة التيمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "imran-bin-talhah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عِمران بن طَلحة",
+  "en": "Imran Bin Talhah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Imran Bin Talhah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمران بن طلحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ismail-abdulqader-al-mulla-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع اسماعيل عبدالقادر الملا",
+  "en": "Ismail Abdulqader Al Mulla Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Ismail Abdulqader Al Mulla, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم اسماعيل عبدالقادر الملا، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iyad-al-ash-ari-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عِياض الأشعَرِي",
+  "en": "Iyad Al Ash'ari Street",
+  "meaning": {
+    "en": "An Emirati figure of the اشعري family",
+    "ar": "شخصية إماراتية من أسرة الاشعري"
+  },
+  "story": {
+    "en": "The street carries the name of Iyad Al Ash'ari, an Emirati figure of the اشعري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عياض الاشعري، وهو شخصية إماراتية من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jabir-bin-abi-sa-sa-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جابر بن أبي صعصعة",
+  "en": "Jabir Bin Abi Sa'sa'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Jabir Bin Abi Sa'sa'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جابر بن ابي صعصعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jacques-chirac-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جاك شيراك",
+  "en": "Jacques Chirac Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Jacques Chirac, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم جاك شيراك، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jubara-bin-hasan-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جبارة بن حسن المرر",
+  "en": "Jubara Bin Hasan Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Jubara Bin Hasan Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جباره بن حسن المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jundub-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جُندُب بن عبدالله",
+  "en": "Jundub Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Jundub Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جندب بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "juwayriyah-bint-abi-sufian-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جُوَيرِية بنت أبي سُفيان",
+  "en": "Juwayriyah Bint Abi Sufian Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Juwayriyah Bint Abi Sufian, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جويريه بنت ابي سفيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ka-b-bin-ujrah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع كَعب بن عُجرة",
+  "en": "Ka'b Bin 'Ujrah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ka'b Bin 'Ujrah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم كعب بن عجره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khadim-bin-butti-al-hamed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خادم بن بطي آل حامد",
+  "en": "Khadim Bin Butti Al Hamed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khadim Bin Butti Al Hamed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خادم بن بطي ال حامد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalad-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خَلاد بن عمرو",
+  "en": "Khalad Bin 'Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalad Bin 'Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خلاد بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalaf-bin-abdullah-al-otaiba-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خلف بن عبدالله العتيبة",
+  "en": "Khalaf Bin Abdullah Al Otaiba Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalaf Bin Abdullah Al Otaiba, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خلف بن عبدالله العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalfan-bin-jbara-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خلفان بن جبارة المرر",
+  "en": "Khalfan Bin Jbara Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalfan Bin Jbara Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خلفان بن جباره المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalfan-bin-matar-al-rumaithi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خلفان بن مطرالرميثي",
+  "en": "Khalfan Bin Matar Al Rumaithi Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalfan Bin Matar Al Rumaithi, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خلفان بن مطرالرميثي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalfan-hammad-al-dhaheri-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خلفان حماد الظاهري",
+  "en": "Khalfan Hammad Al Dhaheri Street",
+  "meaning": {
+    "en": "An Emirati figure of the ظاهري family",
+    "ar": "شخصية إماراتية من أسرة الظاهري"
+  },
+  "story": {
+    "en": "The street carries the name of Khalfan Hammad Al Dhaheri, an Emirati figure of the ظاهري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم خلفان حماد الظاهري، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalfan-matar-saeed-al-rumaithi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خلفان مطر سعيد الرميثي",
+  "en": "Khalfan Matar Saeed Al Rumaithi Street",
+  "meaning": {
+    "en": "An Emirati figure of the رميثي family",
+    "ar": "شخصية إماراتية من أسرة الرميثي"
+  },
+  "story": {
+    "en": "The street carries the name of Khalfan Matar Saeed Al Rumaithi, an Emirati figure of the رميثي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم خلفان مطر سعيد الرميثي، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-abi-jabal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالِد بن أبي جَبَل",
+  "en": "Khalid Bin Abi Jabal Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Abi Jabal, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خالد بن ابي جبل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-nafi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالِد بن نافِع",
+  "en": "Khalid Bin Nafi' Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Nafi', a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خالد بن نافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-sinan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالِد بن سِنان",
+  "en": "Khalid Bin Sinan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Sinan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خالد بن سنان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالِد بن ثابِت",
+  "en": "Khalid Bin Thabit Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Thabit, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خالد بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalifa-bin-zayed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خليفة بن زايد",
+  "en": "Khalifa Bin Zayed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalifa Bin Zayed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خليفه بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khawlah-bint-al-azwar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خَولة بنت الازور",
+  "en": "Khawlah Bint Al Azwar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khawlah Bint Al Azwar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خوله بنت الازور، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khawlah-bint-malik-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خَولة بنت مالك",
+  "en": "Khawlah Bint Malik Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khawlah Bint Malik, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خوله بنت مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khaythamah-bin-abdulrahman-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خَيثَمة بن عبدالرَّحمَن",
+  "en": "Khaythamah Bin Abdulrahman Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khaythamah Bin Abdulrahman, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خيثمه بن عبدالرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khor-bin-hifaydh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خُور بن حِفَيظ",
+  "en": "Khor Bin Hifaydh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khor Bin Hifaydh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خور بن حفيظ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khor-bin-surour-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خُور بن سُرُور",
+  "en": "Khor Bin Surour Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khor Bin Surour, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خور بن سرور، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "king-abdullah-bin-abdulaziz-al-saud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الملك عبدالله بن عبدالعزيز آل سعود",
+  "en": "King Abdullah bin Abdulaziz Al Saud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of King Abdullah bin Abdulaziz Al Saud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الملك عبدالله بن عبدالعزيز ال سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "king-salman-bin-abdulaziz-al-saud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الملك سلمان بن عبدالعزيز آل سعود",
+  "en": "King Salman Bin Abdulaziz Al Saud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of King Salman Bin Abdulaziz Al Saud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الملك سلمان بن عبدالعزيز ال سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "laila-bint-abi-hathmah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع لَيلَى بنت أبي حَثمة",
+  "en": "Laila Bint Abi Hathmah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Laila Bint Abi Hathmah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ليلي بنت ابي حثمه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ma-bin-driy-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ماء بن دري",
+  "en": "Ma Bin Driy Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ma Bin Driy, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ماء بن دري، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "madarat-bin-khadrah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مَدارة بن خَضره",
+  "en": "Madarat Bin Khadrah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Madarat Bin Khadrah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مداره بن خضره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "madarat-bin-marshoud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مَدارة بن مَرشُود",
+  "en": "Madarat Bin Marshoud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Madarat Bin Marshoud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مداره بن مرشود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "maghayil-bin-mayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مَغايِل بن عمَير",
+  "en": "Maghayil Bin 'Mayr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Maghayil Bin 'Mayr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مغايل بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "magheelat-bin-ayah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مَغِيلة بن عَيَّة",
+  "en": "Magheelat Bin 'Ayah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Magheelat Bin 'Ayah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مغيله بن عيه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mahra-bint-khaled-bin-sultan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مهره بنت خالد بن سلطان",
+  "en": "Mahra Bint Khaled Bin Sultan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mahra Bint Khaled Bin Sultan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مهره بنت خالد بن سلطان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "majdar-bin-dhiyab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مجدر بن ذياب",
+  "en": "Majdar Bin Dhiyab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Majdar Bin Dhiyab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مجدر بن ذياب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "malik-bin-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مالِك بن الحارِث",
+  "en": "Malik Bin Al Harith Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Malik Bin Al Harith, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مالك بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "malik-bin-anas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مالِك بن أنَس",
+  "en": "Malik Bin Anas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Malik Bin Anas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مالك بن انس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "malik-bin-aws-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مالِك بن أوس",
+  "en": "Malik Bin Aws Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Malik Bin Aws, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مالك بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mana-bin-saeed-al-otaiba-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مانع بن سعيد العتيبة",
+  "en": "Mana Bin Saeed Al Otaiba Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mana Bin Saeed Al Otaiba, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مانع بن سعيد العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mas-oud-bin-al-aswad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مَسعُود بن الأسوَد",
+  "en": "Mas'oud Bin Al Aswad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mas'oud Bin Al Aswad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مسعود بن الاسود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mejren-bin-mohammed-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مجرن بن محمد المرر",
+  "en": "Mejren Bin Mohammed Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mejren Bin Mohammed Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مجرن بن محمد المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mejren-bin-sultan-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مجرن بن سلطان المرر",
+  "en": "Mejren Bin Sultan Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mejren Bin Sultan Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مجرن بن سلطان المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "misbah-bin-mubarak-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مسباح بن مبارك المرر",
+  "en": "Misbah Bin Mubarak Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Misbah Bin Mubarak Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مسباح بن مبارك المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-bin-bleaid-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن بليد المرر",
+  "en": "Mohamed Bin Bleaid Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Bin Bleaid Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن بليد المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-bin-mualla-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن معلا المرر",
+  "en": "Mohamed Bin Mualla Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Bin Mualla Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن معلا المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-abdullah-al-sayegh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن عبدالله الصايغ",
+  "en": "Mohammed Bin Abdullah Al Sayegh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Abdullah Al Sayegh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن عبدالله الصايغ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-ali-abu-athaina-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن علي أبوذينة",
+  "en": "Mohammed Bin Ali Abu Athaina Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Ali Abu Athaina, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن علي ابوذينه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-butti-al-hamed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن بطي آل حامد",
+  "en": "Mohammed Bin Butti Al Hamed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Butti Al Hamed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن بطي ال حامد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-mejren-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن مجرن المرر",
+  "en": "Mohammed Bin Mejren Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Mejren Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن مجرن المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-bin-thabit-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن ثابِت",
+  "en": "Mohammed Bin Thabit Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Bin Thabit, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mubarak-bin-mohammed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مبارك بن محمد",
+  "en": "Mubarak Bin Mohammed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mubarak Bin Mohammed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مبارك بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "murshid-bin-ali-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مرشد بن علي المرر",
+  "en": "Murshid Bin Ali Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Murshid Bin Ali Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مرشد بن علي المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "musabah-bin-alkindi-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مصبح بن الكندي المرر",
+  "en": "Musabah Bin Alkindi Al Marar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Musabah Bin Alkindi Al Marar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مصبح بن الكندي المرر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "nakhl-bin-jibarah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نَخل بن جِبارة",
+  "en": "Nakhl Bin Jibarah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Nakhl Bin Jibarah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم نخل بن جباره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "naywat-bin-allan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نيوة بن عَلَّان",
+  "en": "Naywat Bin Allan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Naywat Bin Allan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم نيوه بن علان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "niqa-bin-teej-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نِقا بن عتيج",
+  "en": "Niqa Bin 'Teej Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Niqa Bin 'Teej, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم نقا بن عتيج، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "niqa-bin-hadah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نِقا بن حادة",
+  "en": "Niqa Bin Hadah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Niqa Bin Hadah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم نقا بن حاده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "niqa-bin-sabt-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نِقا بن سَبت",
+  "en": "Niqa Bin Sabt Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Niqa Bin Sabt, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم نقا بن سبت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omama-bint-al-harith-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أمامة بنت الحارث",
+  "en": "Omama Bint Al Harith Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omama Bint Al Harith, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم امامه بنت الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qaf-bin-shrayf-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قف بن شريَف",
+  "en": "Qaf Bin Shrayf Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qaf Bin Shrayf, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قف بن شريف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qas-bin-ghirayib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قص بن غِرَيِّب",
+  "en": "Qas Bin Ghirayib Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qas Bin Ghirayib, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قص بن غريب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qays-bin-abbad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قَيس بن عَبَّاد",
+  "en": "Qays Bin Abbad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qays Bin Abbad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قيس بن عباد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qays-bin-abi-hazim-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قَيس بن أبي حازِم",
+  "en": "Qays Bin Abi Hazim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qays Bin Abi Hazim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قيس بن ابي حازم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qays-bin-marwan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قَيس بن مَروان",
+  "en": "Qays Bin Marwan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qays Bin Marwan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قيس بن مروان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qays-bin-mukhallad-keesan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قيس بن مخلد كيسان",
+  "en": "Qays Bin Mukhallad Keesan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qays Bin Mukhallad Keesan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قيس بن مخلد كيسان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qumashah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قمَاشه",
+  "en": "Qumashah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Qumashah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم قماشه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qurn-bin-ibayid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قرن بن عبَيِّد",
+  "en": "Qurn Bin 'Ibayid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qurn Bin 'Ibayid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قرن بن عبيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qurn-bint-sa-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قرن بنت سَعود",
+  "en": "Qurn Bint Sa'oud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qurn Bint Sa'oud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قرن بنت سعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rabee-ah-ar-ra-iy-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رَبِيعة الرَّأي",
+  "en": "Rabee'ah Ar Ra-iy Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Rabee'ah Ar Ra-iy, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ربيعه الراي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rabi-al-awwal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ربيع الأول",
+  "en": "Rabi' Al Awwal Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Rabi' Al Awwal, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ربيع الاول، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rafi-bin-abi-rafi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رافِع بن أبي رافِع",
+  "en": "Rafi' Bin Abi Rafi' Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rafi' Bin Abi Rafi', a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رافع بن ابي رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rakan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رَاكان",
+  "en": "Rakan Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Rakan, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم راكان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ramlat-bin-alwah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رَملة بن عَلوة",
+  "en": "Ramlat Bin 'Alwah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ramlat Bin 'Alwah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رمله بن علوه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ramlat-bin-mraywid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رَملة بن مرَيوِد",
+  "en": "Ramlat Bin Mraywid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ramlat Bin Mraywid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رمله بن مريود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ras-ash-sheikh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رَأس الشِّيخ",
+  "en": "Ras Ash Sheikh Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Ras Ash Sheikh, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم راس الشيخ، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rifa-ah-bin-amr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رِفاعة بن عَمرو",
+  "en": "Rifa'ah Bin 'Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rifa'ah Bin 'Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رفاعه بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rifa-ah-bin-rafi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رِفاعة بن رافِع",
+  "en": "Rifa'ah Bin Rafi' Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rifa'ah Bin Rafi', a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رفاعه بن رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rifa-ah-bin-waqsh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رفاعة بن وقش",
+  "en": "Rifa'ah Bin Waqsh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rifa'ah Bin Waqsh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رفاعه بن وقش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "riq-at-bin-hifaydh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رِقعة بن حِفَيظ",
+  "en": "Riq'at Bin Hifaydh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Riq'at Bin Hifaydh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رقعه بن حفيظ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rizim-bint-sarnah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رِزِم بنت سَرناح",
+  "en": "Rizim Bint Sarnah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rizim Bint Sarnah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رزم بنت سرناح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rufaydah-al-aslamiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رُفيدة الأسلَمَيَّة",
+  "en": "Rufaydah Al Aslamiyah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Rufaydah Al Aslamiyah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم رفيده الاسلميه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-d-bin-suwayd-bin-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعد بن سويد بن قيس",
+  "en": "Sa'd Bin Suwayd Bin Qays Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'd Bin Suwayd Bin Qays, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعد بن سويد بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-d-ibn-abi-waqqas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سَعد ابن ابي وقاص",
+  "en": "Sa'd Ibn Abi Waqqas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'd Ibn Abi Waqqas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعد ابن ابي وقاص، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sabkhat-bin-eisa-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سَبخة بن عِيسَى",
+  "en": "Sabkhat Bin Eisa Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sabkhat Bin Eisa, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سبخه بن عيسي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saeed-bin-ahmed-al-otaiba-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد بن أحمد العتيبة",
+  "en": "Saeed Bin Ahmed Al Otaiba Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Saeed Bin Ahmed Al Otaiba, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعيد بن احمد العتيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sahl-ibn-al-handhaliyah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهل ابن الحنظلية",
+  "en": "Sahl Ibn Al Handhaliyah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sahl Ibn Al Handhaliyah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهل ابن الحنظليه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saif-ghobash-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سيف غباش",
+  "en": "Saif Ghobash Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Saif Ghobash, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سيف غباش، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salama-bint-butti-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سلامة بنت بطي",
+  "en": "Salama Bint Butti Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Salama Bint Butti, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سلامه بنت بطي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saleh-hasan-binomar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع صالح حسن بن عمرو",
+  "en": "Saleh Hasan Binomar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Saleh Hasan Binomar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم صالح حسن بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salem-bu-melha-al-marar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سالم بو ملحا المرر",
+  "en": "Salem Bu Melha Al Marar Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Salem Bu Melha Al Marar, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سالم بو ملحا المرر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salim-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سالِم بن عبدالله",
+  "en": "Salim Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Salim Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سالم بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sayfi-bin-qaydhi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع صيفي بن قيظي",
+  "en": "Sayfi Bin Qaydhi Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sayfi Bin Qaydhi, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم صيفي بن قيظي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sayh-bin-ammar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سيح بن عَمَّار",
+  "en": "Sayh Bin 'Ammar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sayh Bin 'Ammar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سيح بن عمار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sha-bat-bin-anbar-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع شَعبة بن عَنبَر",
+  "en": "Sha'bat Bin 'Anbar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sha'bat Bin 'Anbar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم شعبه بن عنبر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sha-bat-bin-bat-han-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع شَعبة بن بَطحان",
+  "en": "Sha'bat Bin Bat-han Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sha'bat Bin Bat-han, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم شعبه بن بطحان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sharf-bin-da-in-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع شَرف بن ضاعِن",
+  "en": "Sharf Bin Da'in Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sharf Bin Da'in, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم شرف بن ضاعن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-faisal-al-qasimi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ فيصل القاسمي",
+  "en": "Sheikh Faisal Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Faisal Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ فيصل القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-hazzaa-bin-sultan-the-first-road",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ هزاع بن سلطان الأول",
+  "en": "Sheikh Hazzaa' Bin Sultan The First Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Hazzaa' Bin Sultan The First, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ هزاع بن سلطان الاول، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalifa-bin-zayed-international-road",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ خليفة بن زايد الدولي",
+  "en": "Sheikh Khalifa Bin Zayed International Road",
+  "meaning": {
+    "en": "An Emirati figure of the دولي family",
+    "ar": "شخصية إماراتية من أسرة الدولي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalifa Bin Zayed International, an Emirati figure of the دولي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم طريق الشيخ خليفه بن زايد الدولي، وهو شخصية إماراتية من أسرة الدولي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalifa-bin-zayed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ خليفة بن زايد",
+  "en": "Sheikh Khalifa Bin Zayed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalifa Bin Zayed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ خليفه بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammed-bin-rashid-al-maktoum-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ محمد بن راشد آل مكتوم",
+  "en": "Sheikh Mohammed Bin Rashid Al Maktoum Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammed Bin Rashid Al Maktoum, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ محمد بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashid-bin-saeed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ راشد بن سعيد",
+  "en": "Sheikh Rashid Bin Saeed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashid Bin Saeed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ راشد بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-zayed-tunnel",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "نفق الشيخ زايد",
+  "en": "Sheikh Zayed Tunnel",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Zayed Tunnel, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم نفق الشيخ زايد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikha-fatima-bint-mubarak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخة فاطمة بنت مبارك",
+  "en": "Sheikha Fatima bint Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikha Fatima bint Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخه فاطمه بنت مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikha-salama-bint-butti-road",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخة سلامة بنت بطي",
+  "en": "Sheikha Salama Bint Butti Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikha Salama Bint Butti, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخه سلامه بنت بطي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sidraat-bin-aysh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سدرات بن عايش",
+  "en": "Sidraat Bin 'Aysh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sidraat Bin 'Aysh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سدرات بن عايش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sidrat-bin-hilal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سِدرة بن هِلال",
+  "en": "Sidrat Bin Hilal Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sidrat Bin Hilal, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سدره بن هلال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sileel-bin-qadhlan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سِلِيل بن قَذلان",
+  "en": "Sileel Bin Qadhlan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sileel Bin Qadhlan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سليل بن قذلان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sinan-bin-abi-sinan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سنان بن أبي سنان",
+  "en": "Sinan Bin Abi Sinan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sinan Bin Abi Sinan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سنان بن ابي سنان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhayl-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سُهَيْل",
+  "en": "Suhayl Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Suhayl, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سهيل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sumayah-bint-al-khayat-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سمية بنت الخياط",
+  "en": "Sumayah Bint Al Khayat Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sumayah Bint Al Khayat, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سميه بنت الخياط، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tahnoun-bin-mohammed-al-nahyan-road",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق طحنون بن محمد آل نهيان",
+  "en": "Tahnoun Bin Mohammed Al Nahyan Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tahnoun Bin Mohammed Al Nahyan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق طحنون بن محمد ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tameem-bin-rabee-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع تَمِيم بن رَبِيعة",
+  "en": "Tameem Bin Rabee'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tameem Bin Rabee'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم تميم بن ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-ghalib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن غالِب",
+  "en": "Tawi Bin Ghalib Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Ghalib, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن غالب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-hashil-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن هاشِل",
+  "en": "Tawi Bin Hashil Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Hashil, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن هاشل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-hayir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن حايِر",
+  "en": "Tawi Bin Hayir Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Hayir, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن حاير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-hizeem-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن هِزِيم",
+  "en": "Tawi Bin Hizeem Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Hizeem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن هزيم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-khizam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن خِزام",
+  "en": "Tawi Bin Khizam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Khizam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن خزام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-sabir-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن صابِر",
+  "en": "Tawi Bin Sabir Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Sabir, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن صابر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-salamah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن سَلامة",
+  "en": "Tawi Bin Salamah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Salamah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-sharid-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن شارد",
+  "en": "Tawi Bin Sharid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Sharid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن شارد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-timeem-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن تِمِيم",
+  "en": "Tawi Bin Timeem Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Timeem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن تميم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-yousif-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن يُوسِف",
+  "en": "Tawi Bin Yousif Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Yousif, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن يوسف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "tawi-bin-zayed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طَوِي بن زايد",
+  "en": "Tawi Bin Zayed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Tawi Bin Zayed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طوي بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "thabit-bin-ad-dahhak-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثابِت بن الضَّحَّاك",
+  "en": "Thabit Bin Ad Dahhak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Thabit Bin Ad Dahhak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ثابت بن الضحاك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "touyat-bin-hilal-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طُويَّة بن هِلال",
+  "en": "Touyat Bin Hilal Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Touyat Bin Hilal, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طويه بن هلال، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ubad-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُباد بن عبدالله",
+  "en": "Ubad Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ubad Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عباد بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ubayd-bin-umayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُبَيد بن عُمَير",
+  "en": "Ubayd Bin 'Umayr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ubayd Bin 'Umayr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبيد بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ubaydah-bin-al-harith-bin-al-muttalib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيدة بن الحارث بن المطلب",
+  "en": "Ubaydah Bin Al Harith Bin Al Muttalib Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ubaydah Bin Al Harith Bin Al Muttalib, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبيده بن الحارث بن المطلب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "um-hani-bint-abi-talib-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أم هانِئ بنت أبي طالِب",
+  "en": "Um Hani Bint Abi Talib Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Um Hani Bint Abi Talib, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ام هانئ بنت ابي طالب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "umarah-bin-ziyad-bin-as-sakan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمارة بن زياد بن السكن",
+  "en": "Umarah Bin Ziyad Bin As Sakan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Umarah Bin Ziyad Bin As Sakan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عماره بن زياد بن السكن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "umaymah-bint-subayh-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أمَيمة بنت صُبَيح",
+  "en": "Umaymah Bint Subayh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Umaymah Bint Subayh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم اميمه بنت صبيح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "umayr-bin-saeed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُمَير بن سَعِيد",
+  "en": "Umayr Bin Saeed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Umayr Bin Saeed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمير بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "uqbah-bin-amer-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُقبة بن عامِر",
+  "en": "Uqbah Bin 'Amer Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Uqbah Bin 'Amer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عقبه بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "urwah-bin-iyad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُروة بن عِياض",
+  "en": "Urwah Bin 'Iyad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Urwah Bin 'Iyad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عروه بن عياض، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "uthman-bin-wathab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عُثمان بن وَثَّاب",
+  "en": "Uthman Bin Wathab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Uthman Bin Wathab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عثمان بن وثاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "wadi-bin-shami-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع وادِي بن شامِي",
+  "en": "Wadi Bin Shami Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Wadi Bin Shami, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم وادي بن شامي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "waqid-bin-abdullah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع واقِد بن عَبدالله",
+  "en": "Waqid Bin 'Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Waqid Bin 'Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم واقد بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "waqqas-bin-rabee-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع وَقاص بن ربيعة",
+  "en": "Waqqas Bin Rabee'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Waqqas Bin Rabee'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم وقاص بن ربيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yahya-bin-ubad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يَحيَى بن عُباد",
+  "en": "Yahya Bin 'Ubad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yahya Bin 'Ubad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يحيي بن عباد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yahya-bin-bukayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يَحيىَ بن بُكَير",
+  "en": "Yahya Bin Bukayr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yahya Bin Bukayr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يحيي بن بكير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yahya-bin-saeed-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يَحيَى بن سَعِيد",
+  "en": "Yahya Bin Saeed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yahya Bin Saeed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يحيي بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yahya-bin-wathab-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يَحيَى بن وَثَّاب",
+  "en": "Yahya Bin Wathab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yahya Bin Wathab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يحيي بن وثاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-abd-al-malik-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد بن عبدالمَلك",
+  "en": "Yazeed Bin Abd Al Malik Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Abd Al Malik, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن عبدالملك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-al-akhnas-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يَزيد بن الأَخنَس",
+  "en": "Yazeed Bin Al Akhnas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Al Akhnas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن الاخنس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-al-aswad-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يَزِيد بن الأسوَد",
+  "en": "Yazeed Bin Al Aswad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Al Aswad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن الاسود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-talhah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يَزِيد بن طَلحة",
+  "en": "Yazeed Bin Talhah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Talhah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن طلحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zayd-bin-al-arqam-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زَيد بن الأرقم",
+  "en": "Zayd Bin Al Arqam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zayd Bin Al Arqam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زيد بن الارقم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zayed-al-khayr-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زايد الخير",
+  "en": "Zayed Al Khayr Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Zayed Al Khayr, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم زايد الخير، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zayed-bin-sultan-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زايد بن سلطان",
+  "en": "Zayed Bin Sultan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zayed Bin Sultan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زايد بن سلطان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zuhrah-bin-humaydah-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زُهرة بن حُمَيضة",
+  "en": "Zuhrah Bin Humaydah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zuhrah Bin Humaydah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زهره بن حميضه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zurarah-bin-awfa-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زُرارة بن أوفَى",
+  "en": "Zurarah Bin Awfa Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zurarah Bin Awfa, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زراره بن اوفي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abad-bin-bashar-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عباد بن بشار",
+  "en": "Abad bin Bashar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abad bin Bashar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عباد بن بشار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-abid-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عابد",
+  "en": "Abdullah bin Abid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah bin Abid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عابد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-humaid-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن حميد",
+  "en": "Abdullah Bin Humaid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Humaid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن حميد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "fatima-bint-mubarak-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع فاطمة بنت مبارك",
+  "en": "Fatima Bint Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Fatima Bint Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم فاطمه بنت مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "husain-bin-naser-lootah-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حسين بن ناصر لوتاه",
+  "en": "Husain Bin Naser Lootah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Husain Bin Naser Lootah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حسين بن ناصر لوتاه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hussein-al-shaali-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حسين الشالي",
+  "en": "Hussein Al Shaali Street",
+  "meaning": {
+    "en": "An Emirati figure of the شالي family",
+    "ar": "شخصية إماراتية من أسرة الشالي"
+  },
+  "story": {
+    "en": "The street carries the name of Hussein Al Shaali, an Emirati figure of the شالي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم حسين الشالي، وهو شخصية إماراتية من أسرة الشالي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-salim-bu-khamis-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد سالم بو خميس",
+  "en": "Mohammed Salim Bu Khamis Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Salim Bu Khamis, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم محمد سالم بو خميس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "o-qah-bin-nafeh-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عقه بن نافع",
+  "en": "O'qah Bin Nafeh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of O'qah Bin Nafeh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عقه بن نافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "obaid-al-helo-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيد الحلو",
+  "en": "Obaid Al Helo Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Obaid Al Helo, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبيد الحلو، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saif-al-hamrani-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سيف الحمراني",
+  "en": "Saif Al Hamrani Street",
+  "meaning": {
+    "en": "An Emirati figure of the حمراني family",
+    "ar": "شخصية إماراتية من أسرة الحمراني"
+  },
+  "story": {
+    "en": "The street carries the name of Saif Al Hamrani, an Emirati figure of the حمراني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سيف الحمراني، وهو شخصية إماراتية من أسرة الحمراني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-abdulla-bin-rashid-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ عبدالله بن راشد",
+  "en": "Sheikh Abdulla Bin Rashid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Abdulla Bin Rashid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ عبدالله بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-abdullah-bin-humaid-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ عبدالله بن حميد",
+  "en": "Sheikh Abdullah Bin Humaid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Abdullah Bin Humaid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ عبدالله بن حميد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-ammar-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ عمار",
+  "en": "Sheikh Ammar Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Ammar, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ عمار، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-humaid-bin-rashid-bridge",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "جسر الشيخ حميد بن راشد",
+  "en": "Sheikh Humaid bin Rashid Bridge",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Humaid bin Rashid Bridge, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جسر الشيخ حميد بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-maktoum-bin-rashid-al-maktoom-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ مكتوم بن راشد آل مكتوم",
+  "en": "Sheikh Maktoum Bin Rashid Al Maktoom Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Maktoum Bin Rashid Al Maktoom, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ مكتوم بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-maktoum-bridge",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "جسر الشيخ مكتوم",
+  "en": "Sheikh Maktoum Bridge",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Maktoum Bridge, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم جسر الشيخ مكتوم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashid-bin-abdul-aziz-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ راشد بن عبد العزيز",
+  "en": "Sheikh Rashid Bin Abdul Aziz Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashid Bin Abdul Aziz, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ راشد بن عبد العزيز، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashid-bin-saeed-al-maktoum-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ راشد بن سعيد آل مكتوم",
+  "en": "Sheikh Rashid bin Saeed Al Maktoum Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashid bin Saeed Al Maktoum, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ راشد بن سعيد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rishid-bin-saeed-al-maktoum-street",
+  "emirate": "ajman",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ رشيد بن سعيد آل مكتوم",
+  "en": "Sheikh Rishid Bin Saeed Al Maktoum Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rishid Bin Saeed Al Maktoum, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ رشيد بن سعيد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-baker-al-siddique-road",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق أبو بكر الصديق",
+  "en": "Abu Baker Al Siddique Road",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Baker Al Siddique, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم طريق ابو بكر الصديق، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hasah-street",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحصة",
+  "en": "Al Hasah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hasah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الحصه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-waleed-road",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق خالد بن الوليد",
+  "en": "Khalid Bin Waleed Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Waleed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق خالد بن الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sabah-al-ahmed-al-jaber-al-sabah-street",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ صباح الأحمد الجابر الصباح",
+  "en": "Sabah Al Ahmed Al Jaber Al Sabah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sabah Al Ahmed Al Jaber Al Sabah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ صباح الاحمد الجابر الصباح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammed-bin-rashid-boulevard",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ محمد بن راشد",
+  "en": "Sheikh Mohammed bin Rashid Boulevard",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammed bin Rashid Boulevard, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ محمد بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashid-road",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ راشد",
+  "en": "Sheikh Rashid Road",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashid, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ راشد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-zayed-bin-hamdan-al-nahyan-street",
+  "emirate": "dubai",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ زايد بن حمدان آل نهيان",
+  "en": "Sheikh Zayed bin Hamdan Al Nahyan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Zayed bin Hamdan Al Nahyan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ زايد بن حمدان ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jamal-abdul-naser-road",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جمال عبد الناصر",
+  "en": "Jamal Abdul Naser Road",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Jamal Abdul Naser, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم جمال عبد الناصر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammad-bin-matar-road",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق محمد بن مطر",
+  "en": "Mohammad Bin Matar Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammad Bin Matar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق محمد بن مطر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "seif-aldawlah-road",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سيف الدولة",
+  "en": "Seif AlDawlah Road",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Seif AlDawlah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سيف الدوله، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheik-hamad-b-s-street",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ حمد ب",
+  "en": "Sheik Hamad B S Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheik Hamad B S, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ حمد ب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-hamad-bin-abdullah-al-sharqi-road",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ حمد بن عبد الله الشرقي",
+  "en": "Sheikh Hamad Bin Abdullah Al Sharqi Road",
+  "meaning": {
+    "en": "An Emirati figure of the شرقي family",
+    "ar": "شخصية إماراتية من أسرة الشرقي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Hamad Bin Abdullah Al Sharqi, an Emirati figure of the شرقي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ حمد بن عبد الله الشرقي، وهو شخصية إماراتية من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-hamad-bin-saif-al-sharqi-street",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ حمد بن سيف الشرقي",
+  "en": "Sheikh Hamad Bin Saif Al Sharqi Street",
+  "meaning": {
+    "en": "An Emirati figure of the شرقي family",
+    "ar": "شخصية إماراتية من أسرة الشرقي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Hamad Bin Saif Al Sharqi, an Emirati figure of the شرقي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ حمد بن سيف الشرقي، وهو شخصية إماراتية من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalid-bin-mohammed-al-qasimi-street",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ خالد بن محمد القاسمي",
+  "en": "Sheikh Khalid Bin Mohammed Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalid Bin Mohammed Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ خالد بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-maktoum-bin-rashid-al-maktoum-road",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ مكتوم بن راشد آل مكتوم",
+  "en": "Sheikh Maktoum Bin Rashid Al Maktoum Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Maktoum Bin Rashid Al Maktoum, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ مكتوم بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-maktoum-street",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ مكتوم",
+  "en": "Sheikh Maktoum Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Maktoum, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ مكتوم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohamed-bin-hamad-al-sharqi-street",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ محمد بن حمد الشرقي",
+  "en": "Sheikh Mohamed Bin Hamad Al Sharqi Street",
+  "meaning": {
+    "en": "An Emirati figure of the شرقي family",
+    "ar": "شخصية إماراتية من أسرة الشرقي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohamed Bin Hamad Al Sharqi, an Emirati figure of the شرقي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ محمد بن حمد الشرقي، وهو شخصية إماراتية من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rasheed-street",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ رشيد",
+  "en": "Sheikh Rasheed Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rasheed, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ رشيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashid-bin-saeed-al-maktoum-st",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ سعيد بن راشد آل مكتوم",
+  "en": "Sheikh Rashid Bin Saeed Al Maktoum St",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashid Bin Saeed Al Maktoum St, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ سعيد بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-zayed-bin-sultan-road",
+  "emirate": "fujairah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ زايد بن سلطان",
+  "en": "Sheikh Zayed Bin Sultan Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Zayed Bin Sultan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ زايد بن سلطان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-dhaher-roundabout",
+  "emirate": "ras-al-khaimah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "دوار بن ظاهر",
+  "en": "Bin Dhaher Roundabout",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin Dhaher Roundabout, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم دوار بن ظاهر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-dhaher-street",
+  "emirate": "ras-al-khaimah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بن ظاهر",
+  "en": "Bin Dhaher Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin Dhaher, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بن ظاهر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-kayed-bin-muhamed-road",
+  "emirate": "ras-al-khaimah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ كايد بن محمد",
+  "en": "Sheikh Kayed Bin Muhamed Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Kayed Bin Muhamed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ كايد بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammad-bin-salem-road",
+  "emirate": "ras-al-khaimah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ محمد بن سالم",
+  "en": "Sheikh Mohammad Bin Salem Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammad Bin Salem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ محمد بن سالم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashed-bin-saed-road",
+  "emirate": "ras-al-khaimah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ راشد بن سعيد",
+  "en": "Sheikh Rashed Bin Saed Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashed Bin Saed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ راشد بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-saqr-bin-mohammad-al-qasimi-road",
+  "emirate": "ras-al-khaimah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ صقر بن محمد القاسمي",
+  "en": "Sheikh Saqr Bin Mohammad Al Qasimi Road",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Saqr Bin Mohammad Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم طريق الشيخ صقر بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abbas-bin-obadah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عباس بن عبادة",
+  "en": "Abbas Bin Obadah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abbas Bin Obadah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عباس بن عباده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdul-salam-arif-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد السلام عارف",
+  "en": "Abdul Salam Arif Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdul Salam Arif, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبد السلام عارف، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulla-bin-mas-oud-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد الله مصعود",
+  "en": "Abdulla Bin Mas'oud Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulla Bin Mas'oud, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبد الله مصعود، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulla-bin-salim-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن سالم",
+  "en": "Abdulla Bin Salim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulla Bin Salim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن سالم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulla-salim-al-sabah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله سليم الصباح",
+  "en": "Abdulla Salim Al Sabah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulla Salim Al Sabah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله سليم الصباح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullab-bin-abed-manaf-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد الله بن عبد المناف",
+  "en": "Abdullab Bin Abed Manaf Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullab Bin Abed Manaf, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبد الله بن عبد المناف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-abed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله العبد",
+  "en": "Abdullah Al Abed Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Abed, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله العبد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-akhmasi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله الأخمسي",
+  "en": "Abdullah Al Akhmasi Street",
+  "meaning": {
+    "en": "An Emirati figure of the اخمسي family",
+    "ar": "شخصية إماراتية من أسرة الاخمسي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Akhmasi, an Emirati figure of the اخمسي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله الاخمسي، وهو شخصية إماراتية من أسرة الاخمسي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-bahili-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله الباهلي",
+  "en": "Abdullah Al Bahili Street",
+  "meaning": {
+    "en": "An Emirati figure of the باهلي family",
+    "ar": "شخصية إماراتية من أسرة الباهلي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Bahili, an Emirati figure of the باهلي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله الباهلي، وهو شخصية إماراتية من أسرة الباهلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-harethi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله الحارثي",
+  "en": "Abdullah Al Harethi Street",
+  "meaning": {
+    "en": "An Emirati figure of the حارثي family",
+    "ar": "شخصية إماراتية من أسرة الحارثي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Harethi, an Emirati figure of the حارثي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله الحارثي، وهو شخصية إماراتية من أسرة الحارثي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-jassi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله الجاسي",
+  "en": "Abdullah Al Jassi Street",
+  "meaning": {
+    "en": "An Emirati figure of the جاسي family",
+    "ar": "شخصية إماراتية من أسرة الجاسي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Jassi, an Emirati figure of the جاسي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله الجاسي، وهو شخصية إماراتية من أسرة الجاسي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-khaseeb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله الخصيب",
+  "en": "Abdullah Al Khaseeb Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Khaseeb, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله الخصيب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-khazzar-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد الله الخزار",
+  "en": "Abdullah Al Khazzar Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Khazzar, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبد الله الخزار، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-nadeem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله النديم",
+  "en": "Abdullah Al Nadeem Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Nadeem, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله النديم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-al-rayahi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله الرياحي",
+  "en": "Abdullah Al Rayahi Street",
+  "meaning": {
+    "en": "An Emirati figure of the رياحي family",
+    "ar": "شخصية إماراتية من أسرة الرياحي"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Al Rayahi, an Emirati figure of the رياحي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله الرياحي، وهو شخصية إماراتية من أسرة الرياحي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-abbas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عباس",
+  "en": "Abdullah Bin Abbas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Abbas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عباس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-abi-jahem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن أبي جهم",
+  "en": "Abdullah Bin Abi Jahem Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Abi Jahem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن ابي جهم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-abi-sarh-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن أبي سرح",
+  "en": "Abdullah Bin Abi Sarh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Abi Sarh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن ابي سرح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-afif-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عفيف",
+  "en": "Abdullah Bin Afif Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Afif, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عفيف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-al-adra-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن الأدرع",
+  "en": "Abdullah Bin Al Adra'a Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Al Adra'a, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن الادرع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-amer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عامر",
+  "en": "Abdullah Bin Amer Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Amer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-badeel-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن بديل",
+  "en": "Abdullah Bin Badeel Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Badeel, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن بديل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-ka-eb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن كعب",
+  "en": "Abdullah Bin Ka'eb Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-mubarak-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن مبارك",
+  "en": "Abdullah Bin Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-omair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن عمير",
+  "en": "Abdullah Bin Omair Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Omair, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-omayah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن أمية",
+  "en": "Abdullah Bin Omayah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Omayah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-salah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد الله بن صلاح",
+  "en": "Abdullah Bin Salah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Salah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبد الله بن صلاح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-salamah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن سلامة",
+  "en": "Abdullah Bin Salamah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Salamah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-suraqah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن سراقة",
+  "en": "Abdullah Bin Suraqah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Suraqah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن سراقه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-tareq-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن طارق",
+  "en": "Abdullah Bin Tareq Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Tareq, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن طارق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-zayd-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن زيد",
+  "en": "Abdullah Bin Zayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Zayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-hudhan-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله حوذان",
+  "en": "Abdullah Hudhan Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Hudhan, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله حوذان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-jubair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله جبير",
+  "en": "Abdullah Jubair Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Jubair, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله جبير، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullarahman-bin-zeyad-streeet",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن زياد",
+  "en": "Abdullarahman Bin Zeyad Streeet",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullarahman Bin Zeyad Streeet, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن زياد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullrahman-al-nasir-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبد الرحمن الناصر",
+  "en": "Abdullrahman Al Nasir Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullrahman Al Nasir, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبد الرحمن الناصر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-ka-eb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن كعب",
+  "en": "Abdulrahman Bin Ka'eb Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdulrahman-bin-sulait-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالرحمن بن سليط",
+  "en": "Abdulrahman Bin Sulait Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdulrahman Bin Sulait, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالرحمن بن سليط، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-ataheya-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي العتاهية",
+  "en": "Abi Al Ataheya Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Ataheya, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي العتاهيه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-fath-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الفتح",
+  "en": "Abi Al Fath Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Fath, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي الفتح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-futooh-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الفتوح",
+  "en": "Abi Al Futooh Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Futooh, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي الفتوح، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-hadheel-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الهذيل",
+  "en": "Abi Al Hadheel Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Hadheel, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي الهذيل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-qasem-al-jalab-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي القاسم الجلاب",
+  "en": "Abi Al Qasem Al Jalab Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Qasem Al Jalab, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي القاسم الجلاب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-al-thana-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي الثناء",
+  "en": "Abi Al Thana'a Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Al Thana'a, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي الثناء، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-ali-al-sawaf-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي علي الصواف",
+  "en": "Abi Ali Al Sawaf Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Ali Al Sawaf, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي علي الصواف، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-baker-bin-abi-shiba-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي بكر بن أبي شيبة",
+  "en": "Abi Baker Bin Abi Shiba Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Baker Bin Abi Shiba, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابي بكر بن ابي شيبه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-baker-bin-ayash-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي بكر بن عياش",
+  "en": "Abi Baker Bin Ayash Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Baker Bin Ayash, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابي بكر بن عياش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-bastam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي بسطام",
+  "en": "Abi Bastam Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Bastam, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي بسطام، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-dayah-bin-thabet-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي ضياح بن ثابت",
+  "en": "Abi Dayah Bin Thabet Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Dayah Bin Thabet, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابي ضياح بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-jandal-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي جندل",
+  "en": "Abi Jandal Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Jandal, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي جندل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-layla-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي ليلى",
+  "en": "Abi Layla Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Layla, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي ليلي، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-lubabah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي لبابة",
+  "en": "Abi Lubabah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Lubabah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي لبابه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-mufriz-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي مفرز",
+  "en": "Abi Mufriz Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Mufriz, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي مفرز، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-naelah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي نائلة",
+  "en": "Abi Naelah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Naelah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي نائله، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-nassr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي نصر",
+  "en": "Abi Nassr Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Nassr, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي نصر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-omamah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي أمامة",
+  "en": "Abi Omamah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Omamah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي امامه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-qatadah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي قتادة",
+  "en": "Abi Qatadah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Qatadah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي قتاده، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-safra-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي صفرة",
+  "en": "Abi Safra Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Safra, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابي صفره، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-salamah-bin-abd-al-asad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي سلمة بن عبد الأسد",
+  "en": "Abi Salamah Bin Abd Al Asad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Salamah Bin Abd Al Asad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابي سلمه بن عبد الاسد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abi-sinan-bin-muhsin-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبي سنان بن محسن",
+  "en": "Abi Sinan Bin Muhsin Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abi Sinan Bin Muhsin, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابي سنان بن محسن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abid-bin-al-harth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عابد بن الحارث",
+  "en": "Abid Bin Al Harth Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abid Bin Al Harth, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عابد بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-ayoub-ak-aneem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو أيوب أك أنيم",
+  "en": "Abu Ayoub Ak Aneem Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Ayoub Ak Aneem, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو ايوب اك انيم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-mussa-al-ashari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو موسى الأشعري",
+  "en": "Abu Mussa Al Ashari Street",
+  "meaning": {
+    "en": "An Emirati figure of the اشعري family",
+    "ar": "شخصية إماراتية من أسرة الاشعري"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Mussa Al Ashari, an Emirati figure of the اشعري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو موسي الاشعري، وهو شخصية إماراتية من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abu-talha-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أبو طلحة",
+  "en": "Abu Talha Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Abu Talha, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابو طلحه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "afraa-bint-obeid-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عفراء بنت عبيد",
+  "en": "Afraa Bint Obeid Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Afraa Bint Obeid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عفراء بنت عبيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmad-al-bahili-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أحمد الباهلي",
+  "en": "Ahmad Al Bahili Street",
+  "meaning": {
+    "en": "An Emirati figure of the باهلي family",
+    "ar": "شخصية إماراتية من أسرة الباهلي"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmad Al Bahili, an Emirati figure of the باهلي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم احمد الباهلي، وهو شخصية إماراتية من أسرة الباهلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-abdulrahman-bin-hadid-square",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "ميدان أحمد بن عبدالرحمن بن حديد",
+  "en": "Ahmed Bin Abdulrahman Bin Hadid Square",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Abdulrahman Bin Hadid, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ميدان احمد بن عبدالرحمن بن حديد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ahmed-bin-darwish-square",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "ميدان أحمد بن درويش",
+  "en": "Ahmed Bin Darwish Square",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ahmed Bin Darwish, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ميدان احمد بن درويش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-abhari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الأبهري",
+  "en": "Al Abhari Street",
+  "meaning": {
+    "en": "An Emirati figure of the ابهري family",
+    "ar": "شخصية إماراتية من أسرة الابهري"
+  },
+  "story": {
+    "en": "The street carries the name of Al Abhari, an Emirati figure of the ابهري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الابهري، وهو شخصية إماراتية من أسرة الابهري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hajaj-al-nadhari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحجاج النضري",
+  "en": "Al Hajaj Al Nadhari Street",
+  "meaning": {
+    "en": "An Emirati figure of the نضري family",
+    "ar": "شخصية إماراتية من أسرة النضري"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hajaj Al Nadhari, an Emirati figure of the نضري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الحجاج النضري، وهو شخصية إماراتية من أسرة النضري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hareth-bin-al-nua-man",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "الحارث بن النعمان",
+  "en": "Al Hareth Bin Al Nua'man",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hareth Bin Al Nua'man, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن النعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hareth-bin-ateeq-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارث بن عتيق",
+  "en": "Al Hareth Bin Ateeq Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hareth Bin Ateeq, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن عتيق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hareth-bin-aws-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارث بن أوس",
+  "en": "Al Hareth Bin Aws Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hareth Bin Aws, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hareth-bin-hassan-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارث بن حسن",
+  "en": "Al Hareth Bin Hassan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hareth Bin Hassan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن حسن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-hareth-bin-qais-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحارث بن قيس",
+  "en": "Al Hareth Bin Qais Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Hareth Bin Qais, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الحارث بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-haytham-al-shaybani-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الهيثم الشيباني",
+  "en": "Al Haytham Al Shaybani Street",
+  "meaning": {
+    "en": "An Emirati figure of the شيباني family",
+    "ar": "شخصية إماراتية من أسرة الشيباني"
+  },
+  "story": {
+    "en": "The street carries the name of Al Haytham Al Shaybani, an Emirati figure of the شيباني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الهيثم الشيباني، وهو شخصية إماراتية من أسرة الشيباني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-junaid-bin-abdul-rahman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الجنيد بن عبد الرحمن",
+  "en": "Al Junaid Bin Abdul Rahman Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Junaid Bin Abdul Rahman, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الجنيد بن عبد الرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-junaid-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الجنيد عبد الله",
+  "en": "Al Junaid Bin Abdullah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Junaid Bin Abdullah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الجنيد عبد الله، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-khouzwini-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع القزويني",
+  "en": "Al Khouzwini Street",
+  "meaning": {
+    "en": "An Emirati figure of the قزويني family",
+    "ar": "شخصية إماراتية من أسرة القزويني"
+  },
+  "story": {
+    "en": "The street carries the name of Al Khouzwini, an Emirati figure of the قزويني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم القزويني، وهو شخصية إماراتية من أسرة القزويني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-munther-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع المنذر بن عبدالله",
+  "en": "Al Munther Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Munther Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم المنذر بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-museeb-al-reyahi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع المسيب الرياحي",
+  "en": "Al Museeb Al Reyahi Street",
+  "meaning": {
+    "en": "An Emirati figure of the رياحي family",
+    "ar": "شخصية إماراتية من أسرة الرياحي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Museeb Al Reyahi, an Emirati figure of the رياحي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم المسيب الرياحي، وهو شخصية إماراتية من أسرة الرياحي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-nassir-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الناصر بن عمرو",
+  "en": "Al Nassir Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Nassir Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الناصر بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-qashiri-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع القشيري",
+  "en": "Al Qashiri Street",
+  "meaning": {
+    "en": "An Emirati figure of the قشيري family",
+    "ar": "شخصية إماراتية من أسرة القشيري"
+  },
+  "story": {
+    "en": "The street carries the name of Al Qashiri, an Emirati figure of the قشيري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم القشيري، وهو شخصية إماراتية من أسرة القشيري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-rabea-bin-zeyad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الربيع بن زياد",
+  "en": "Al Rabea Bin Zeyad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Al Rabea Bin Zeyad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الربيع بن زياد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-rhabi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الرحبي",
+  "en": "Al Rhabi Street",
+  "meaning": {
+    "en": "An Emirati figure of the رحبي family",
+    "ar": "شخصية إماراتية من أسرة الرحبي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Rhabi, an Emirati figure of the رحبي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الرحبي، وهو شخصية إماراتية من أسرة الرحبي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-sa-eb-al-thaqafi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السائب الثقفي",
+  "en": "Al Sa'eb Al Thaqafi Street",
+  "meaning": {
+    "en": "An Emirati figure of the ثقفي family",
+    "ar": "شخصية إماراتية من أسرة الثقفي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Sa'eb Al Thaqafi, an Emirati figure of the ثقفي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم السائب الثقفي، وهو شخصية إماراتية من أسرة الثقفي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-shaheed-al-faiad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد الفياض",
+  "en": "Al Shaheed Al Faiad Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Shaheed Al Faiad, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد الفياض، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-al-ash-ari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي الأشعري",
+  "en": "Ali Al Ash'ari Street",
+  "meaning": {
+    "en": "An Emirati figure of the اشعري family",
+    "ar": "شخصية إماراتية من أسرة الاشعري"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Al Ash'ari, an Emirati figure of the اشعري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم علي الاشعري، وهو شخصية إماراتية من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bin-abdullah-bin-al-harith-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع علي بن عبد الله بن الحارث",
+  "en": "Ali bin Abdullah bin Al Harith Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ali bin Abdullah bin Al Harith, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم علي بن عبد الله بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amer-al-bajli-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عامر البجلي",
+  "en": "Amer Al Bajli Street",
+  "meaning": {
+    "en": "An Emirati figure of the بجلي family",
+    "ar": "شخصية إماراتية من أسرة البجلي"
+  },
+  "story": {
+    "en": "The street carries the name of Amer Al Bajli, an Emirati figure of the بجلي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عامر البجلي، وهو شخصية إماراتية من أسرة البجلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amer-bin-abd-amro-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عامر بن عبد عمرو",
+  "en": "Amer Bin Abd Amro Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amer Bin Abd Amro, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عامر بن عبد عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amer-bin-lua-y-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عامر بن لؤي",
+  "en": "Amer Bin Lua'y Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amer Bin Lua'y, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عامر بن لؤي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amer-bin-omayah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عامر بن أمية",
+  "en": "Amer Bin Omayah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amer Bin Omayah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عامر بن اميه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-al-amawy-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو العماوي",
+  "en": "Amr Al Amawy Street",
+  "meaning": {
+    "en": "An Emirati figure of the عماوي family",
+    "ar": "شخصية إماراتية من أسرة العماوي"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Al Amawy, an Emirati figure of the عماوي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عمرو العماوي، وهو شخصية إماراتية من أسرة العماوي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-al-bin-hareth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن الحارث",
+  "en": "Amr Al Bin Hareth Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Al Bin Hareth, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-bin-abi-al-sarh-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن أبي السرح",
+  "en": "Amr Bin Abi Al Sarh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Bin Abi Al Sarh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن ابي السرح، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-bin-eyas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن إياس",
+  "en": "Amr Bin Eyas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Bin Eyas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-bin-ma-abad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن معبد",
+  "en": "Amr Bin Ma'abad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Bin Ma'abad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن معبد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-bin-malik-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن مالك",
+  "en": "Amr Bin Malik Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Bin Malik, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-bin-muslem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن مسلم",
+  "en": "Amr Bin Muslem Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Bin Muslem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن مسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amr-bin-thana-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن ثناء",
+  "en": "Amr Bin Thana Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amr Bin Thana, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن ثناء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amro-bin-amro",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "عمرو بن عمرو",
+  "en": "Amro Bin Amro",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amro Bin Amro, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "amro-bin-hazem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمرو بن حازم",
+  "en": "Amro Bin Hazem Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Amro Bin Hazem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمرو بن حازم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "anas-bin-muath-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أنس بن معاذ",
+  "en": "Anas Bin Muath Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Anas Bin Muath, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم انس بن معاذ، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "aouf-bin-rufaa-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عوف بن رفاع",
+  "en": "Aouf Bin Rufaa Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Aouf Bin Rufaa, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عوف بن رفاع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "asem-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عاصم بن عمرو",
+  "en": "Asem Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Asem Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عاصم بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "asem-bin-dulf-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عاصم بن دلف",
+  "en": "Asem Bin Dulf Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Asem Bin Dulf, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عاصم بن دلف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "asim-bin-omair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عاصم بن عمير",
+  "en": "Asim Bin Omair Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Asim Bin Omair, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عاصم بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ateen-bin-al-hajaj-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عطين بن الحجاج",
+  "en": "Ateen bin Al Hajaj Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ateen bin Al Hajaj, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عطين بن الحجاج، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "atteyah-bin-nuwayrah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عطية بن نويرة",
+  "en": "Atteyah Bin Nuwayrah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Atteyah Bin Nuwayrah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عطيه بن نويره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "autba-bin-al-farqad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عتبة بن الفرقد",
+  "en": "Autba Bin Al Farqad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Autba Bin Al Farqad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عتبه بن الفرقد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "aws-bin-maghra-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أوس بن مغراء",
+  "en": "Aws Bin Maghra' Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Aws Bin Maghra', a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم اوس بن مغراء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "aws-bin-thabet-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أوس بن ثابت",
+  "en": "Aws Bin Thabet Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Aws Bin Thabet, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم اوس بن ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bakeer-al-laithi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بكير الليثي",
+  "en": "Bakeer Al Laithi Street",
+  "meaning": {
+    "en": "An Emirati figure of the ليثي family",
+    "ar": "شخصية إماراتية من أسرة الليثي"
+  },
+  "story": {
+    "en": "The street carries the name of Bakeer Al Laithi, an Emirati figure of the ليثي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم بكير الليثي، وهو شخصية إماراتية من أسرة الليثي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-al-mughith-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بن المغيث",
+  "en": "Bin Al Mughith Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin Al Mughith, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بن المغيث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-jummaz-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بن جماز",
+  "en": "Bin Jummaz Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin Jummaz, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بن جماز، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bin-khazem-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بن خازم",
+  "en": "Bin Khazem Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Bin Khazem, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم بن خازم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "bukhara-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع بخارى",
+  "en": "Bukhara Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Bukhara, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم بخاري، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "esa-bin-aban-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عيسى بن أبان",
+  "en": "Esa Bin Aban Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Esa Bin Aban, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عيسي بن ابان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "fatimah-bint-al-waleed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع فاطمة بنت الوليد",
+  "en": "Fatimah Bint Al Waleed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Fatimah Bint Al Waleed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم فاطمه بنت الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "fatimah-bint-asad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع فاطمة بنت أسد",
+  "en": "Fatimah Bint Asad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Fatimah Bint Asad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم فاطمه بنت اسد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "habar-al-aswad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هبار الأسود",
+  "en": "Habar Al Aswad Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Habar Al Aswad, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم هبار الاسود، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "habeeb-bin-qurah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حبيب بن قرة",
+  "en": "Habeeb Bin Qurah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Habeeb Bin Qurah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حبيب بن قره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hammed-bin-zayd-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حمد بن زايد",
+  "en": "Hammed Bin Zayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hammed Bin Zayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حمد بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "handhala-bin-al-kateb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حنظلة بن الكاتب",
+  "en": "Handhala Bin Al Kateb Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Handhala Bin Al Kateb, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حنظله بن الكاتب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "haneef-bin-reyab-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حنيف بن رياب",
+  "en": "Haneef Bin Reyab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Haneef Bin Reyab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حنيف بن رياب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hani-e-bin-qubaisa-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هانئ بن قبيصة",
+  "en": "Hani'e Bin Qubaisa Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hani'e Bin Qubaisa, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم هانئ بن قبيصه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hasham-bin-abdulrahman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هاشم بن عبدالرحمن",
+  "en": "Hasham Bin Abdulrahman Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hasham Bin Abdulrahman, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم هاشم بن عبدالرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hashim-al-merqal-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هاشم المرقال",
+  "en": "Hashim Al Merqal Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Hashim Al Merqal, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم هاشم المرقال، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hawa-a-bint-rafe-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حواء بنت رافع",
+  "en": "Hawa'a Bint Rafe'a Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hawa'a Bint Rafe'a, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حواء بنت رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hay-bin-hani-e-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حي بن هاني",
+  "en": "Hay Bin Hani'e Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hay Bin Hani'e, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حي بن هاني، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hisham-bin-abdul-rahman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع هشام بن عبد الرحمن",
+  "en": "Hisham bin Abdul Rahman Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hisham bin Abdul Rahman, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم هشام بن عبد الرحمن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hudhaifa-bin-mas-oud-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حذيفة بن مسعود",
+  "en": "Hudhaifa Bin Mas'oud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hudhaifa Bin Mas'oud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حذيفه بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hur-bin-yousif-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حور بن يوسف",
+  "en": "Hur Bin Yousif Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Hur Bin Yousif, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حور بن يوسف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "huratha-bin-al-nuo-man-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حراثة بن النعمان",
+  "en": "Huratha Bin Al Nuo'man Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Huratha Bin Al Nuo'man, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم حراثه بن النعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "hussain-al-kandi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حسين الكندي",
+  "en": "Hussain Al Kandi Street",
+  "meaning": {
+    "en": "An Emirati figure of the كندي family",
+    "ar": "شخصية إماراتية من أسرة الكندي"
+  },
+  "story": {
+    "en": "The street carries the name of Hussain Al Kandi, an Emirati figure of the كندي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم حسين الكندي، وهو شخصية إماراتية من أسرة الكندي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-abi-lubaba-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن أبي لبابة",
+  "en": "Iben Abi Lubaba Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Abi Lubaba, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن ابي لبابه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-al-aniazy-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن الأنيازي",
+  "en": "Iben Al Aniazy Street",
+  "meaning": {
+    "en": "An Emirati figure of the انيازي family",
+    "ar": "شخصية إماراتية من أسرة الانيازي"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Al Aniazy, an Emirati figure of the انيازي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابن الانيازي، وهو شخصية إماراتية من أسرة الانيازي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-al-anyazi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن العنيزي",
+  "en": "Iben Al Anyazi Street",
+  "meaning": {
+    "en": "An Emirati figure of the عنيزي family",
+    "ar": "شخصية إماراتية من أسرة العنيزي"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Al Anyazi, an Emirati figure of the عنيزي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابن العنيزي، وهو شخصية إماراتية من أسرة العنيزي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-al-bilansi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن البلنسي",
+  "en": "Iben Al Bilansi Street",
+  "meaning": {
+    "en": "An Emirati figure of the بلنسي family",
+    "ar": "شخصية إماراتية من أسرة البلنسي"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Al Bilansi, an Emirati figure of the بلنسي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابن البلنسي، وهو شخصية إماراتية من أسرة البلنسي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-al-musayeb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن المسيب",
+  "en": "Iben Al Musayeb Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Al Musayeb, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن المسيب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-al-samak-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن السماق",
+  "en": "Iben Al Samak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Al Samak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن السماق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-ali-al-qasim-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن علي القاسم",
+  "en": "Iben Ali Al Qasim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Ali Al Qasim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن علي القاسم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-dhubai-ah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن ضبيعة",
+  "en": "Iben Dhubai'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Dhubai'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن ضبيعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-maja-ah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن مجاعة",
+  "en": "Iben Maja'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Maja'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن مجاعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "iben-sireen-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن سيرين",
+  "en": "Iben Sireen Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Iben Sireen, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن سيرين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibn-ali-mubarak-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن علي مبارك",
+  "en": "Ibn Ali Mubarak Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ibn Ali Mubarak, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن علي مبارك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibn-dhaher-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن ظاهر",
+  "en": "Ibn Dhaher Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ibn Dhaher, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن ظاهر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibn-dhi-al-burdeen",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "ابن ذي البردين",
+  "en": "Ibn Dhi Al Burdeen",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ibn Dhi Al Burdeen, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن ذي البردين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibrahim-al-baghdadu-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع إبراهيم البغدادي",
+  "en": "Ibrahim Al Baghdadu Street",
+  "meaning": {
+    "en": "An Emirati figure of the بغدادي family",
+    "ar": "شخصية إماراتية من أسرة البغدادي"
+  },
+  "story": {
+    "en": "The street carries the name of Ibrahim Al Baghdadu, an Emirati figure of the بغدادي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابراهيم البغدادي، وهو شخصية إماراتية من أسرة البغدادي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibrahim-al-makhzoumy-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع إبراهيم المخزومي",
+  "en": "Ibrahim Al Makhzoumy Street",
+  "meaning": {
+    "en": "An Emirati figure of the مخزومي family",
+    "ar": "شخصية إماراتية من أسرة المخزومي"
+  },
+  "story": {
+    "en": "The street carries the name of Ibrahim Al Makhzoumy, an Emirati figure of the مخزومي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابراهيم المخزومي، وهو شخصية إماراتية من أسرة المخزومي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibrahim-al-tabari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع إبراهيم الطبري",
+  "en": "Ibrahim Al Tabari Street",
+  "meaning": {
+    "en": "An Emirati figure of the طبري family",
+    "ar": "شخصية إماراتية من أسرة الطبري"
+  },
+  "story": {
+    "en": "The street carries the name of Ibrahim Al Tabari, an Emirati figure of the طبري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابراهيم الطبري، وهو شخصية إماراتية من أسرة الطبري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibrahim-bin-basam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع إبراهيم بن بسام",
+  "en": "Ibrahim Bin Basam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ibrahim Bin Basam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابراهيم بن بسام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibrahim-mohammed-al-medfa-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع إبراهيم محمد المدفع",
+  "en": "Ibrahim Mohammed Al Medfa'a Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Ibrahim Mohammed Al Medfa'a, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ابراهيم محمد المدفع، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ismael-al-shaheed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع اسماعيل الشهيد",
+  "en": "Ismael Al Shaheed Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Ismael Al Shaheed, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم اسماعيل الشهيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ja-asham-al-khair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جعشم الخير",
+  "en": "Ja'asham Al Khair Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Ja'asham Al Khair, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم جعشم الخير، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jaber-bin-eyas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جبير بن إياس",
+  "en": "Jaber Bin Eyas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Jaber Bin Eyas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جبير بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jabr-bin-anas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جبر بن أنس",
+  "en": "Jabr Bin Anas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Jabr Bin Anas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جبر بن انس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jamih-bin-shaddad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جامح بن شداد",
+  "en": "Jamih Bin Shaddad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Jamih Bin Shaddad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم جامح بن شداد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jareer-al-khafji-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جرير الخفجي",
+  "en": "Jareer Al Khafji Street",
+  "meaning": {
+    "en": "An Emirati figure of the خفجي family",
+    "ar": "شخصية إماراتية من أسرة الخفجي"
+  },
+  "story": {
+    "en": "The street carries the name of Jareer Al Khafji, an Emirati figure of the خفجي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم جرير الخفجي، وهو شخصية إماراتية من أسرة الخفجي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "jrair-al-bajili-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع جرير البجلي",
+  "en": "Jrair Al Bajili Street",
+  "meaning": {
+    "en": "An Emirati figure of the بجلي family",
+    "ar": "شخصية إماراتية من أسرة البجلي"
+  },
+  "story": {
+    "en": "The street carries the name of Jrair Al Bajili, an Emirati figure of the بجلي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم جرير البجلي، وهو شخصية إماراتية من أسرة البجلي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ka-eb-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع كعب بن عمرو",
+  "en": "Ka'eb Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ka'eb Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم كعب بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "kaeb-bin-omair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع كعب بن عمير",
+  "en": "Kaeb Bin Omair Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Kaeb Bin Omair, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم كعب بن عمير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "katheer-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع كثير بن عمرو",
+  "en": "Katheer Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Katheer Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم كثير بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-al-qasri-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالد القسري",
+  "en": "Khalid Al Qasri Street",
+  "meaning": {
+    "en": "An Emirati figure of the قسري family",
+    "ar": "شخصية إماراتية من أسرة القسري"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Al Qasri, an Emirati figure of the قسري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم خالد القسري، وهو شخصية إماراتية من أسرة القسري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-qais-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالد بن قيس",
+  "en": "Khalid Bin Qais Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Qais, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خالد بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-rafe-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالد بن رافع",
+  "en": "Khalid Bin Rafe'a Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Rafe'a, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خالد بن رافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khalid-bin-sa-eed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خالد بن سعيد",
+  "en": "Khalid Bin Sa'eed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khalid Bin Sa'eed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خالد بن سعيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "khubaib-bin-esaf-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع خبيب بن إساف",
+  "en": "Khubaib Bin Esaf Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Khubaib Bin Esaf, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم خبيب بن اساف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "king-abdul-aziz-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الملك عبد العزيز",
+  "en": "King Abdul Aziz Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of King Abdul Aziz, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الملك عبد العزيز، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "kulayb-bin-tamim-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع كليب بن تميم",
+  "en": "Kulayb Bin Tamim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Kulayb Bin Tamim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم كليب بن تميم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "malik-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مالك بن عمرو",
+  "en": "Malik Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Malik Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مالك بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "martyr-alaa-muhfuth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد علاء محفوظ",
+  "en": "Martyr Alaa Muhfuth Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Martyr Alaa Muhfuth, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد علاء محفوظ، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "martyr-mohammed-abu-rayan-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد محمد أبو ريان",
+  "en": "Martyr Mohammed Abu Rayan Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Martyr Mohammed Abu Rayan, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد محمد ابو ريان، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "martyr-mohammed-al-dorah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد محمد الدرة",
+  "en": "Martyr Mohammed Al Dorah Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Martyr Mohammed Al Dorah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد محمد الدره، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "martyr-mohammed-obaid-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد محمد عبيد",
+  "en": "Martyr Mohammed Obaid Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Martyr Mohammed Obaid, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد محمد عبيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "martyr-mousa-al-debis-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد موسى الدبس",
+  "en": "Martyr Mousa Al Debis Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Martyr Mousa Al Debis, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد موسي الدبس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "martyr-rami-motawi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد رامي مطاوع",
+  "en": "Martyr Rami Motawi Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Martyr Rami Motawi, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد رامي مطاوع، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "martyr-wajdi-hatab-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد وجدي حطاب",
+  "en": "Martyr Wajdi Hatab Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Martyr Wajdi Hatab, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد وجدي حطاب، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "masoud-bin-khaladah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مسعود بن خلدة",
+  "en": "Masoud Bin Khaladah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Masoud Bin Khaladah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مسعود بن خلده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "masoud-bin-sa-ad-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مسعود بن سعد",
+  "en": "Masoud Bin Sa'ad Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Masoud Bin Sa'ad, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مسعود بن سعد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mo-awth-bin-afra-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع معوذ بن عفراء",
+  "en": "Mo'awth Bin Afra'a Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mo'awth Bin Afra'a, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم معوذ بن عفراء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mo-awyah-al-sakoni-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع معاوية السكوني",
+  "en": "Mo'awyah Al Sakoni Street",
+  "meaning": {
+    "en": "An Emirati figure of the سكوني family",
+    "ar": "شخصية إماراتية من أسرة السكوني"
+  },
+  "story": {
+    "en": "The street carries the name of Mo'awyah Al Sakoni, an Emirati figure of the سكوني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم معاويه السكوني، وهو شخصية إماراتية من أسرة السكوني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohamed-bin-al-mundhar-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد بن المنذر",
+  "en": "Mohamed Bin Al Mundhar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohamed Bin Al Mundhar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محمد بن المنذر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-al-azhar-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد اﻷزهر",
+  "en": "Mohammed Al Azhar Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Al Azhar, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم محمد اﻷزهر، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-al-azhari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد الأزهري",
+  "en": "Mohammed Al Azhari Street",
+  "meaning": {
+    "en": "An Emirati figure of the ازهري family",
+    "ar": "شخصية إماراتية من أسرة الازهري"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Al Azhari, an Emirati figure of the ازهري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم محمد الازهري، وهو شخصية إماراتية من أسرة الازهري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-al-morrozi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد المروزي",
+  "en": "Mohammed Al Morrozi Street",
+  "meaning": {
+    "en": "An Emirati figure of the مروزي family",
+    "ar": "شخصية إماراتية من أسرة المروزي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Al Morrozi, an Emirati figure of the مروزي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم محمد المروزي، وهو شخصية إماراتية من أسرة المروزي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-al-zahrawy-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد الزهراوي",
+  "en": "Mohammed Al Zahrawy Street",
+  "meaning": {
+    "en": "An Emirati figure of the زهراوي family",
+    "ar": "شخصية إماراتية من أسرة الزهراوي"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Al Zahrawy, an Emirati figure of the زهراوي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم محمد الزهراوي، وهو شخصية إماراتية من أسرة الزهراوي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohammed-al-zuhre-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محمد الزهرى",
+  "en": "Mohammed Al Zuhre Street",
+  "meaning": {
+    "en": "An Emirati figure of the زهري family",
+    "ar": "شخصية إماراتية من أسرة الزهري"
+  },
+  "story": {
+    "en": "The street carries the name of Mohammed Al Zuhre, an Emirati figure of the زهري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم محمد الزهري، وهو شخصية إماراتية من أسرة الزهري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mohrez-bin-al-amer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع محرز بن العامر",
+  "en": "Mohrez Bin Al Amer Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mohrez Bin Al Amer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم محرز بن العامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mousa-bin-talha-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع موسى بن طلحة",
+  "en": "Mousa Bin Talha Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mousa Bin Talha, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم موسي بن طلحه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "muath-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع معاذ بن عمرو",
+  "en": "Muath Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Muath Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم معاذ بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mudlaj-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مدلاج بن عمرو",
+  "en": "Mudlaj Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mudlaj Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مدلاج بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mujashe-a-bin-masoud-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع مجاشع بن مسعود",
+  "en": "Mujashe'a Bin Masoud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mujashe'a Bin Masoud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم مجاشع بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "mundher-bin-mohammed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع منذر بن محمد",
+  "en": "Mundher Bin Mohammed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Mundher Bin Mohammed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم منذر بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "munther-bin-qudamah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع منذر بن قدامة",
+  "en": "Munther Bin Qudamah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Munther Bin Qudamah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم منذر بن قدامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "murba-bin-masoud-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع موربا بن مسعود",
+  "en": "Murba Bin Masoud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Murba Bin Masoud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم موربا بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "murjab-bin-rashed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع المرقاب بن راشد",
+  "en": "Murjab Bin Rashed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Murjab Bin Rashed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم المرقاب بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "na-eem-bin-muqren-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع نعيم بن مقرن",
+  "en": "Na'eem Bin Muqren Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Na'eem Bin Muqren, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم نعيم بن مقرن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "obaid-bin-hayyan-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيد بن حيان",
+  "en": "Obaid Bin Hayyan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Obaid Bin Hayyan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبيد بن حيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "obaid-bin-zayd-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيد بن زايد",
+  "en": "Obaid Bin Zayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Obaid Bin Zayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبيد بن زايد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "obaidah-bin-al-habbab-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبيدة بن الحباب",
+  "en": "Obaidah Bin Al Habbab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Obaidah Bin Al Habbab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبيده بن الحباب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "oday-bin-suhail-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عدي بن سهيل",
+  "en": "Oday Bin Suhail Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Oday Bin Suhail, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عدي بن سهيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omair-al-sahmi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمير السهمي",
+  "en": "Omair Al Sahmi Street",
+  "meaning": {
+    "en": "An Emirati figure of the سهمي family",
+    "ar": "شخصية إماراتية من أسرة السهمي"
+  },
+  "story": {
+    "en": "The street carries the name of Omair Al Sahmi, an Emirati figure of the سهمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عمير السهمي، وهو شخصية إماراتية من أسرة السهمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omair-bin-al-hamam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمير بن الهمام",
+  "en": "Omair Bin Al Hamam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omair Bin Al Hamam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمير بن الهمام، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omair-bin-aws-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمير بن أوس",
+  "en": "Omair Bin Aws Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omair Bin Aws, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمير بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-al-jani-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر الجاني",
+  "en": "Omar Al Jani Street",
+  "meaning": {
+    "en": "An Emirati figure of the جاني family",
+    "ar": "شخصية إماراتية من أسرة الجاني"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Al Jani, an Emirati figure of the جاني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عمر الجاني، وهو شخصية إماراتية من أسرة الجاني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-al-manqari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر المنقري",
+  "en": "Omar Al Manqari Street",
+  "meaning": {
+    "en": "An Emirati figure of the منقري family",
+    "ar": "شخصية إماراتية من أسرة المنقري"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Al Manqari, an Emirati figure of the منقري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عمر المنقري، وهو شخصية إماراتية من أسرة المنقري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-al-sahmi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر السهمي",
+  "en": "Omar Al Sahmi Street",
+  "meaning": {
+    "en": "An Emirati figure of the سهمي family",
+    "ar": "شخصية إماراتية من أسرة السهمي"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Al Sahmi, an Emirati figure of the سهمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عمر السهمي، وهو شخصية إماراتية من أسرة السهمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-bin-al-ala-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر بن العلاء",
+  "en": "Omar Bin Al Ala'a Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Bin Al Ala'a, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمر بن العلاء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-bin-hairah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر بن هيرة",
+  "en": "Omar Bin Hairah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Bin Hairah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمر بن هيره، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-bin-malik-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر بن مالك",
+  "en": "Omar Bin Malik Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Bin Malik, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمر بن مالك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-bin-othman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر بن عثمان",
+  "en": "Omar Bin Othman Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Bin Othman, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عمر بن عثمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-shaheen-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمر شاهين",
+  "en": "Omar Shaheen Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Shaheen, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عمر شاهين، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "onais-bin-qatadah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أنيس بن قتادة",
+  "en": "Onais Bin Qatadah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Onais Bin Qatadah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم انيس بن قتاده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "orwa-bin-zayd-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عروة بن زيد",
+  "en": "Orwa Bin Zayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Orwa Bin Zayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عروه بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "osama-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع أسامة بن عبد الله",
+  "en": "Osama Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Osama Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم اسامه بن عبد الله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "otba-bin-arwa-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عتبة بن عروة",
+  "en": "Otba Bin Arwa Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Otba Bin Arwa, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عتبه بن عروه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "otbah-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عتبة بن عبد الله",
+  "en": "Otbah Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Otbah Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عتبه بن عبد الله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "othman-bin-al-suheer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عثمان بن السحير",
+  "en": "Othman Bin Al Suheer Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Othman Bin Al Suheer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عثمان بن السحير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "otibah-bin-al-nahas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عتيبة بن النحاس",
+  "en": "Otibah Bin Al Nahas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Otibah Bin Al Nahas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عتيبه بن النحاس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "otwa-bin-masoud-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عطوة بن مسعود",
+  "en": "Otwa Bin Masoud Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Otwa Bin Masoud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عطوه بن مسعود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qais-bin-muhsin-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قيس بن محسن",
+  "en": "Qais Bin Muhsin Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Qais Bin Muhsin, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قيس بن محسن، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "qotadah-al-basri-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قتادة البصري",
+  "en": "Qotadah Al Basri Street",
+  "meaning": {
+    "en": "An Emirati figure of the بصري family",
+    "ar": "شخصية إماراتية من أسرة البصري"
+  },
+  "story": {
+    "en": "The street carries the name of Qotadah Al Basri, an Emirati figure of the بصري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم قتاده البصري، وهو شخصية إماراتية من أسرة البصري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "quaibah-bin-muslim-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع قتيبة بن مسلم",
+  "en": "Quaibah Bin Muslim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Quaibah Bin Muslim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم قتيبه بن مسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rab-ey-al-afkal-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ربعي الافكل",
+  "en": "Rab'ey Al Afkal Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Rab'ey Al Afkal, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ربعي الافكل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rabieh-al-tumimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رابية التميمي",
+  "en": "Rabieh Al Tumimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the تميمي family",
+    "ar": "شخصية إماراتية من أسرة التميمي"
+  },
+  "story": {
+    "en": "The street carries the name of Rabieh Al Tumimi, an Emirati figure of the تميمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم رابيه التميمي، وهو شخصية إماراتية من أسرة التميمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rabieh-bin-ayas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ربيع بن إياس",
+  "en": "Rabieh Bin Ayas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rabieh Bin Ayas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ربيع بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rae-ah-bint-thabet-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رائعة بنت ثابت",
+  "en": "Rae'ah Bint Thabet Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rae'ah Bint Thabet, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رائعه بنت ثابت، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rafat-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رافت بن عمرو",
+  "en": "Rafat Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rafat Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رافت بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rafi-bin-yazeed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع رافع بن يزيد",
+  "en": "Rafi' Bin Yazeed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rafi' Bin Yazeed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رافع بن يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rashid-bin-muhammad-khadim-square",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "راشد بن محمد خادم",
+  "en": "Rashid Bin Muhammad Khadim Square",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rashid Bin Muhammad Khadim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم راشد بن محمد خادم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "rayah-bin-yazeed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع راية بن يزيد",
+  "en": "Rayah Bin Yazeed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Rayah Bin Yazeed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم رايه بن يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-ad-bin-al-nua-man-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعد بن النعمان",
+  "en": "Sa'ad Bin Al Nua'man Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'ad Bin Al Nua'man, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعد بن النعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-ad-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعد بن عمرو",
+  "en": "Sa'ad Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'ad Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعد بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-ad-bin-suhail-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعد بن سهيل",
+  "en": "Sa'ad Bin Suhail Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'ad Bin Suhail, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعد بن سهيل، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-ad-bin-zayd-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعد بن زيد",
+  "en": "Sa'ad Bin Zayd Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'ad Bin Zayd, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعد بن زيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-ed-bin-salamah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد بن سلامة",
+  "en": "Sa'ed Bin Salamah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'ed Bin Salamah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعيد بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-ed-bin-yazeed-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعد بن يزيد",
+  "en": "Sa'ed Bin Yazeed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'ed Bin Yazeed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعد بن يزيد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-eed-al-hamadani-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد الحمداني",
+  "en": "Sa'eed Al Hamadani Street",
+  "meaning": {
+    "en": "An Emirati figure of the حمداني family",
+    "ar": "شخصية إماراتية من أسرة الحمداني"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'eed Al Hamadani, an Emirati figure of the حمداني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سعيد الحمداني، وهو شخصية إماراتية من أسرة الحمداني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sa-eed-bin-yassar-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سعيد بن يسار",
+  "en": "Sa'eed bin Yassar Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sa'eed bin Yassar, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سعيد بن يسار، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "safwan-al-salami-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع صفوان السلمي",
+  "en": "Safwan Al Salami Street",
+  "meaning": {
+    "en": "An Emirati figure of the سلمي family",
+    "ar": "شخصية إماراتية من أسرة السلمي"
+  },
+  "story": {
+    "en": "The street carries the name of Safwan Al Salami, an Emirati figure of the سلمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم صفوان السلمي، وهو شخصية إماراتية من أسرة السلمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "safwan-bin-wahab-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع صفوان بن وهب",
+  "en": "Safwan Bin Wahab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Safwan Bin Wahab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم صفوان بن وهب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sahil-bin-al-handhalyeh-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهل بن الحنظلية",
+  "en": "Sahil Bin Al Handhalyeh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sahil Bin Al Handhalyeh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهل بن الحنظليه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sahil-bin-autayk-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل بن عتيك",
+  "en": "Sahil Bin Autayk Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sahil Bin Autayk, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهيل بن عتيك، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sahil-bin-odai-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهل بن عدي",
+  "en": "Sahil Bin Odai Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sahil Bin Odai, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهل بن عدي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sahl-bin-amro-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهل بن عمرو",
+  "en": "Sahl Bin Amro Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sahl Bin Amro, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهل بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salam-bin-aslam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سلام بن أسلم",
+  "en": "Salam Bin Aslam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Salam Bin Aslam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سلام بن اسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salama-bin-al-mayla-a-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سلمة بن الميلاء",
+  "en": "Salama Bin Al Mayla'a Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Salama Bin Al Mayla'a, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سلمه بن الميلاء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salamah-bin-aslam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سلمة بن أسلم",
+  "en": "Salamah Bin Aslam Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Salamah Bin Aslam, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سلمه بن اسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salamah-bin-salamah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سلمة بن سلامة",
+  "en": "Salamah Bin Salamah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Salamah Bin Salamah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سلمه بن سلامه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saleem-bin-amr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سليم بن عمرو",
+  "en": "Saleem Bin Amr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Saleem Bin Amr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سليم بن عمرو، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "saleh-bin-muslim-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع صالح بن مسلم",
+  "en": "Saleh Bin Muslim Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Saleh Bin Muslim, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم صالح بن مسلم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "salem-bin-alowais-square",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "ساحة سالم بن العويس",
+  "en": "Salem Bin Alowais Square",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Salem Bin Alowais, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ساحه سالم بن العويس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "shareeh-bin-amer",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شريف بن عامر",
+  "en": "Shareeh Bin Amer",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Shareeh Bin Amer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم شريف بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "shehab-bin-al-makhareq-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع شهاب بن المخارق",
+  "en": "Shehab Bin Al Makhareq Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Shehab Bin Al Makhareq, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم شهاب بن المخارق، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-abdullah-bin-mahmoud-square",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "ساحة الشيخ عبد الله بن محمود",
+  "en": "Sheikh Abdullah Bin Mahmoud Square",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Abdullah Bin Mahmoud, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ساحه الشيخ عبد الله بن محمود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-abdullah-sultan-al-qasimi-street-sharjah",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ عبدالله سلطان القاسمي - الشارقة",
+  "en": "Sheikh Abdullah Sultan Al Qasimi Street - Sharjah",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Abdullah Sultan Al Qasimi Street - Sharjah, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ عبدالله سلطان القاسمي - الشارقه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-hamad-bin-sa-eed-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ حمد بن سعيد القاسمي",
+  "en": "Sheikh Hamad Bin Sa'eed Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Hamad Bin Sa'eed Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ حمد بن سعيد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-humad-bin-abdulla-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ حميد بن عبدالله القاسمي",
+  "en": "Sheikh Humad Bin Abdulla Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Humad Bin Abdulla Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ حميد بن عبدالله القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalid-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ خالد القاسمي",
+  "en": "Sheikh Khalid Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalid Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ خالد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalid-bin-mohammed-al-qasimi-road",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ خالد بن محمد القاسمي",
+  "en": "Sheikh Khalid Bin Mohammed Al Qasimi Road",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalid Bin Mohammed Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم طريق الشيخ خالد بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalid-bin-saqr-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ خالد بن صقر القاسمي",
+  "en": "Sheikh Khalid Bin Saqr Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalid Bin Saqr Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ خالد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalid-bin-sultan-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ خالد بن سلطان القاسمي",
+  "en": "Sheikh Khalid Bin Sultan Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalid Bin Sultan Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ خالد بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalifa-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ خليفة",
+  "en": "Sheikh Khalifa Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalifa, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ خليفه، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-majed-bin-saqr-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ ماجد بن صقر القاسمي",
+  "en": "Sheikh Majed bin Saqr Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Majed bin Saqr Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ ماجد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammad-bin-saqr-al-qasimi-square",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "ميدان الشيخ محمد بن صقر القاسمي",
+  "en": "Sheikh Mohammad Bin Saqr Al Qasimi Square",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammad Bin Saqr Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ميدان الشيخ محمد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammed-bin-saqr-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ محمد بن صقر القاسمي",
+  "en": "Sheikh Mohammed Bin Saqr Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammed Bin Saqr Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ محمد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammed-bin-sultan-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ محمد بن سلطان القاسمي",
+  "en": "Sheikh Mohammed bin Sultan Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammed bin Sultan Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ محمد بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammed-sultan-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ محمد سلطان القاسمي",
+  "en": "Sheikh Mohammed Sultan Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammed Sultan Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ محمد سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashid-bin-saqr-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ راشد بن صقر القاسمي",
+  "en": "Sheikh Rashid Bin Saqr Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashid Bin Saqr Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ راشد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-sa-eed-bin-hamad-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ سعيد بن حمد القاسمي",
+  "en": "Sheikh Sa'eed Bin Hamad Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Sa'eed Bin Hamad Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ سعيد بن حمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-salem-bin-sultan-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ سالم بن سلطان القاسمي",
+  "en": "Sheikh Salem Bin Sultan Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Salem Bin Sultan Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ سالم بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-saqr-bin-khalid-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ صقر بن خالد القاسمي",
+  "en": "Sheikh Saqr Bin Khalid Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Saqr Bin Khalid Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ صقر بن خالد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-saud-bin-sultan-al-qasimi-square",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "ساحة الشيخ سعود بن سلطان القاسمي",
+  "en": "Sheikh Saud Bin Sultan Al Qasimi Square",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Saud Bin Sultan Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ساحه الشيخ سعود بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-saud-bin-sultan-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ سعود بن سلطان القاسمي",
+  "en": "Sheikh Saud Bin Sultan Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Saud Bin Sultan Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ سعود بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-sultan-bin-saqr-al-qasimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ سلطان بن صقر القاسمي",
+  "en": "Sheikh Sultan Bin Saqr Al Qasimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the قاسمي family",
+    "ar": "شخصية إماراتية من أسرة القاسمي"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Sultan Bin Saqr Al Qasimi, an Emirati figure of the قاسمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشيخ سلطان بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "soraqa-bin-ka-eb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سراض بن كب",
+  "en": "Soraqa Bin Ka'eb Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Soraqa Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سراض بن كب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "soura-bin-al-hur-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سورة بن الحر",
+  "en": "Soura Bin Al Hur Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Soura Bin Al Hur, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سوره بن الحر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suba-a-al-gafari-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سباع الغفاري",
+  "en": "Suba'a Al Gafari Street",
+  "meaning": {
+    "en": "An Emirati figure of the غفاري family",
+    "ar": "شخصية إماراتية من أسرة الغفاري"
+  },
+  "story": {
+    "en": "The street carries the name of Suba'a Al Gafari, an Emirati figure of the غفاري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سباع الغفاري، وهو شخصية إماراتية من أسرة الغفاري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "subayhah-bin-al-hareth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع صبيحة بن الحارث",
+  "en": "Subayhah Bin Al Hareth Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Subayhah Bin Al Hareth, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم صبيحه بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sufyan-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سفيان بن عبدالله",
+  "en": "Sufyan Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sufyan Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سفيان بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sufyan-bin-mujeeb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سفيان بن مجيب",
+  "en": "Sufyan Bin Mujeeb Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sufyan Bin Mujeeb, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سفيان بن مجيب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sufyan-bin-nasr-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سفيان بن ناصر",
+  "en": "Sufyan Bin Nasr Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sufyan Bin Nasr, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سفيان بن ناصر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhail-bin-al-rabi-eh-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل بن الربيع",
+  "en": "Suhail Bin AL Rabi'eh Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Suhail Bin AL Rabi'eh, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهيل بن الربيع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhail-bin-oday-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل بن عدي",
+  "en": "Suhail Bin Oday Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Suhail Bin Oday, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهيل بن عدي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhail-bin-rafi-h-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل بن رفعة",
+  "en": "Suhail Bin Rafi'h Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Suhail Bin Rafi'h, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهيل بن رفعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhail-bin-wahab-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل بن وهب",
+  "en": "Suhail Bin Wahab Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Suhail Bin Wahab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهيل بن وهب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suhel-bin-haneef-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سهيل بن حنيف",
+  "en": "Suhel Bin Haneef Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Suhel Bin Haneef, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سهيل بن حنيف، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sultan-qaboos-road",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق السلطان قابوس",
+  "en": "Sultan Qaboos Road",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Sultan Qaboos, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم طريق السلطان قابوس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "suraqah-bin-ka-eb-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع سراقة بن كعب",
+  "en": "Suraqah Bin Ka'eb Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Suraqah Bin Ka'eb, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم سراقه بن كعب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "talha-bin-abdulla-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع طلحة بن عبدالله",
+  "en": "Talha Bin Abdulla Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Talha Bin Abdulla, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طلحه بن عبدالله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "thumamah-bin-abdullah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ثمامة بن عبد الله",
+  "en": "Thumamah Bin Abdullah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Thumamah Bin Abdullah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ثمامه بن عبد الله، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "wa-el-al-hadhrami-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع وائل الحضرمي",
+  "en": "Wa'el Al Hadhrami Street",
+  "meaning": {
+    "en": "An Emirati figure of the حضرمي family",
+    "ar": "شخصية إماراتية من أسرة الحضرمي"
+  },
+  "story": {
+    "en": "The street carries the name of Wa'el Al Hadhrami, an Emirati figure of the حضرمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم وائل الحضرمي، وهو شخصية إماراتية من أسرة الحضرمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "wahab-al-san-ani-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع وهب الصنعاني",
+  "en": "Wahab Al San'ani Street",
+  "meaning": {
+    "en": "An Emirati figure of the صنعاني family",
+    "ar": "شخصية إماراتية من أسرة الصنعاني"
+  },
+  "story": {
+    "en": "The street carries the name of Wahab Al San'ani, an Emirati figure of the صنعاني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم وهب الصنعاني، وهو شخصية إماراتية من أسرة الصنعاني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "waqed-al-tamimi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع واقد التميمي",
+  "en": "Waqed Al Tamimi Street",
+  "meaning": {
+    "en": "An Emirati figure of the تميمي family",
+    "ar": "شخصية إماراتية من أسرة التميمي"
+  },
+  "story": {
+    "en": "The street carries the name of Waqed Al Tamimi, an Emirati figure of the تميمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم واقد التميمي، وهو شخصية إماراتية من أسرة التميمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "waraqah-bin-eyas-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ورقة بن إياس",
+  "en": "Waraqah Bin Eyas Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Waraqah Bin Eyas, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ورقه بن اياس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ward-bin-adham-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ورد بن أدهم",
+  "en": "Ward Bin Adham Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ward Bin Adham, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ورد بن ادهم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-al-hubairi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد الحبيري",
+  "en": "Yazeed Al Hubairi Street",
+  "meaning": {
+    "en": "An Emirati figure of the حبيري family",
+    "ar": "شخصية إماراتية من أسرة الحبيري"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Al Hubairi, an Emirati figure of the حبيري family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم يزيد الحبيري، وهو شخصية إماراتية من أسرة الحبيري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-al-salami-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد السلمي",
+  "en": "Yazeed Al Salami Street",
+  "meaning": {
+    "en": "An Emirati figure of the سلمي family",
+    "ar": "شخصية إماراتية من أسرة السلمي"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Al Salami, an Emirati figure of the سلمي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم يزيد السلمي، وهو شخصية إماراتية من أسرة السلمي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-al-sokony-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد السكوني",
+  "en": "Yazeed Al Sokony Street",
+  "meaning": {
+    "en": "An Emirati figure of the سكوني family",
+    "ar": "شخصية إماراتية من أسرة السكوني"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Al Sokony, an Emirati figure of the سكوني family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم يزيد السكوني، وهو شخصية إماراتية من أسرة السكوني، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-abi-sufyan-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد بن أبي سفيان",
+  "en": "Yazeed Bin Abi Sufyan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Abi Sufyan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن ابي سفيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-al-hur-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد بن الحر",
+  "en": "Yazeed Bin Al Hur Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Al Hur, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن الحر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-amer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد بن عامر",
+  "en": "Yazeed Bin Amer Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Amer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-qais-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد بن قيس",
+  "en": "Yazeed Bin Qais Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Qais, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeed-bin-zuray-h-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد بن زريعة",
+  "en": "Yazeed Bin Zuray'h Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeed Bin Zuray'h, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن زريعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yazeid-bin-aws-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يزيد بن أوس",
+  "en": "Yazeid Bin Aws Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Yazeid Bin Aws, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم يزيد بن اوس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "yousef-al-buwyti-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع يوسف البويطي",
+  "en": "Yousef Al Buwyti Street",
+  "meaning": {
+    "en": "An Emirati figure of the بويطي family",
+    "ar": "شخصية إماراتية من أسرة البويطي"
+  },
+  "story": {
+    "en": "The street carries the name of Yousef Al Buwyti, an Emirati figure of the بويطي family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم يوسف البويطي، وهو شخصية إماراتية من أسرة البويطي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zara-ah-bin-amer-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زرعة بن عامر",
+  "en": "Zara'ah Bin Amer Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zara'ah Bin Amer, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زرعه بن عامر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zayd-bin-mezyen-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زيد بن مزين",
+  "en": "Zayd Bin Mezyen Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zayd Bin Mezyen, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زيد بن مزين، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zayd-bin-wadia-ah-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زايد بن وديعة",
+  "en": "Zayd Bin Wadia'ah Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zayd Bin Wadia'ah, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زايد بن وديعه، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zeyad-bin-al-harth-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زياد بن الحارث",
+  "en": "Zeyad Bin Al Harth Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zeyad Bin Al Harth, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زياد بن الحارث، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "zuhair-bin-qais-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع زهير بن قيس",
+  "en": "Zuhair Bin Qais Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Zuhair Bin Qais, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم زهير بن قيس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "abdullah-bin-al-zobier-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عبدالله بن الزبير",
+  "en": "Abdullah Bin Al Zobier Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Abdullah Bin Al Zobier, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم عبدالله بن الزبير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-himad-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الحمد",
+  "en": "Al Himad Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Himad, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الحمد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-shahid-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشهيد",
+  "en": "Al Shahid Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Shahid, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الشهيد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-ssalm-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السالم",
+  "en": "Al Ssalm Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Ssalm, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم السالم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-suhail-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع السهيل",
+  "en": "Al Suhail Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Al Suhail, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم السهيل، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ali-bin-abi-talib-road",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق علي بن أبي طالب",
+  "en": "Ali Bin Abi Talib Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ali Bin Abi Talib, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق علي بن ابي طالب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "ibn-majed-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ابن ماجد",
+  "en": "Ibn Majed Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Ibn Majed, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم ابن ماجد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "majed-al-awal-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع ماجد الأول",
+  "en": "Majed Al Awal Street",
+  "meaning": {
+    "en": "An Emirati figure",
+    "ar": "شخصية إماراتية"
+  },
+  "story": {
+    "en": "The street carries the name of Majed Al Awal, an Emirati figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم ماجد الاول، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omar-bin-al-khattab-road",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق عمر بن الخطاب",
+  "en": "Omar Bin Al Khattab Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omar Bin Al Khattab, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق عمر بن الخطاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "oqbah-bin-nafe-a-roundabout",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "دوار عقبة بن نافع",
+  "en": "Oqbah Bin Nafe'a Roundabout",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Oqbah Bin Nafe'a Roundabout, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم دوار عقبه بن نافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-ahmed-bin-rashid-al-mu-alla-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ أحمد بن راشد المعلا",
+  "en": "Sheikh Ahmed Bin Rashid Al Mu'alla Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Ahmed Bin Rashid Al Mu'alla, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ احمد بن راشد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-khalifa-bin-zayed-al-nahyan-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ خليفة بن زايد آل نهيان",
+  "en": "Sheikh Khalifa Bin Zayed Al Nahyan Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Khalifa Bin Zayed Al Nahyan, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ خليفه بن زايد ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-mohammed-bin-rashid-al-maktoom-road",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ محمد بن راشد آل مكتوم",
+  "en": "Sheikh Mohammed Bin Rashid Al Maktoom Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Mohammed Bin Rashid Al Maktoom, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ محمد بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-rashid-bin-ahmed-al-mu-alla-road",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "طريق الشيخ راشد بن أحمد المعلا",
+  "en": "Sheikh Rashid bin Ahmed Al Mu'alla Road",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Rashid bin Ahmed Al Mu'alla, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم طريق الشيخ راشد بن احمد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-saud-bin-rashid-al-mu-alla-street",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الشيخ سعود بن راشد المعلا",
+  "en": "Sheikh Saud Bin Rashid Al Mu'alla Street",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Saud Bin Rashid Al Mu'alla, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم الشيخ سعود بن راشد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "sheikh-sultan-bin-ahmad-al-mualla-roundabout",
+  "emirate": "umm-al-quwain",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "دوار الشيخ سلطان بن أحمد المعلا",
+  "en": "Sheikh Sultan Bin Ahmad Al Mualla Roundabout",
+  "meaning": {
+    "en": "A person of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Sheikh Sultan Bin Ahmad Al Mualla Roundabout, a person of the early Islamic period. No published biography was found.",
+    "ar": "يحمل الشارع اسم دوار الشيخ سلطان بن احمد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-safadi-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الصفدي",
+  "en": "Al Safadi Street",
+  "meaning": {
+    "en": "A member of the Safadi family",
+    "ar": "من أسرة الصفدي"
+  },
+  "story": {
+    "en": "The street carries the name of Al Safadi, a member of the safadi family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الصفدي، وهو من أسرة الصفدي، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-yashkuri-st",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع اليشكري",
+  "en": "Al Yashkuri St",
+  "meaning": {
+    "en": "A member of the Yashkuri family",
+    "ar": "من أسرة اليشكري"
+  },
+  "story": {
+    "en": "The street carries the name of Al Yashkuri, a member of the yashkuri family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم اليشكري، وهو من أسرة اليشكري، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "fodil-bin-noaman-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع فضيل بن نعمان",
+  "en": "Fodil Bin Noaman Street",
+  "meaning": {
+    "en": "A figure of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Fodil Bin Noaman, a figure of the early islamic period. No published biography was found.",
+    "ar": "سُمّي الشارع باسم فضيل بن نعمان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "harqous-bin-zohair-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع حرقوص بن زهير",
+  "en": "Harqous Bin Zohair Street",
+  "meaning": {
+    "en": "A figure of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Harqous Bin Zohair, a figure of the early islamic period. No published biography was found.",
+    "ar": "سُمّي الشارع باسم حرقوص بن زهير، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "omara-al-maree-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع عمارة المري",
+  "en": "Omara Al Maree Street",
+  "meaning": {
+    "en": "A figure of the early Islamic period",
+    "ar": "من أعلام صدر الإسلام"
+  },
+  "story": {
+    "en": "The street carries the name of Omara Al Maree, a figure of the early islamic period. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عمارة المري، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
+},
+{
+  "id": "al-a-araf-bin-al-a-alam-street",
+  "emirate": "sharjah",
+  "category": "person",
+  "origin": "unsourced",
+  "ar": "شارع الأعراف بن الاعلم",
+  "en": "Al A'araf bin Al A'alam Street",
+  "meaning": {
+    "en": "A historical figure",
+    "ar": "شخصية تاريخية"
+  },
+  "story": {
+    "en": "The street carries the name of Al A'araf bin Al A'alam, a historical figure. No published biography was found.",
+    "ar": "سُمّي الشارع باسم الأعراف بن الاعلم، وهو شخصية تاريخية، ولم يُعثر على ترجمة منشورة له."
+  },
+  "refs": []
 }
 ];
