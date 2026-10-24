@@ -734,3 +734,6 @@ html[dir="rtl"] .card__ar { text-align: right; }
 #district-row { align-items: flex-start; }
 #district-row .filter-row__label { padding-top: .45rem; }
 #district-chips { max-height: 11rem; overflow-y: auto; }
+
+/* A street with no Arabic name in the data says so, rather than showing a gap. */
+.card__ar--missing { font-style: italic; opacity: .55; font-size: .82rem; }

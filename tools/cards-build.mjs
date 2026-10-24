@@ -202,12 +202,19 @@ const PERSON_NAMES = new Set([
   "ابو محجن الثقفي",
 ]);
 
+
+/* OSM also carries development and facility labels from Dubai's master
+   communities — "Frond C", "Zone A", "Villas 1-11", "Terminal 03 Arrival".
+   They are places, but they are not street names, so no card is built. */
+const NOT_A_STREET = /(^|\s)(service|tertiary|secondary|access|industrial|minor|natural|coast|ring|depot|connection|connector|light vehicles|main avenue|taxi queue|park drive|no name|oaisis|^oasis$)(\s|$)|(^(zone|frond|villas?|villa|block|cluster|townhouses?|residence|tower|complex|terminal|district|sector)\b)|((^|\s)(villas?|blocks?|townhouses?|residence|cluster|terminal|zone)\s*[0-9a-z])|(\d+\s*(st|street|road|rd|stret|rou?ndabout))|(akoya|jumeirah islands|al badia|arabian ranches|mudon|expo village|nadd al sheba|\bjvt\b|\bmbr\b|calida|under ?pass|junction|eagle square|rock crushers|stone crush|group|welded|arrival|departure)/i;
+
 const rows = [];
 for (const s of KB.streets) {
   const en = s.name_en || "";
   const ar = s.name_ar || "";
   if (!en && !ar) continue;
   if (NOT_A_NAME.test(String(en).trim())) continue;
+  if (NOT_A_STREET.test(String(en).trim())) continue;
   let cat = CATS[s.osm] || "word";
   if (PERSON_NAMES.has(String(norm(String(ar).replace(/^(شارع|طريق|جادة)\s+/, "")).replace(/^\u0627\u0644/, "")))) cat = "person";
   const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, ALL_GLOSSES) : "";

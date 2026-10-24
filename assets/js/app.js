@@ -50,6 +50,7 @@
       caveatLocal: "This explanation is widely told locally, but it is not officially recorded — treat it as oral history.",
       caveatAccount: "This account is recorded by the project; no published source is cited.",
       caveatUnsourced: "No published source was found for this name. The entry records only what is asserted about it, and should be read with caution.",
+      noArabicName: "No Arabic name recorded",
       categoryNoun: { person: "Named after a person", place: "Named after a place", word: "An Arabic word", tribe: "Named after a tribe", event: "Named after an event" },
       countOne: "1 street",
       countMany: "{n} streets",
@@ -186,7 +187,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261025w";
+    s.src = "data/cards.js?v=20261025y";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -293,11 +294,14 @@
     var where = d ? (state.lang === "ar" ? d[1] || d[0] : d[0]) : "";
     if (!where) where = em;
     var href = "#road=" + x.idx;
-    var name = state.lang === "ar" && r[1]
+    var name = !r[1]
+      ? '<h3 class="card__en" dir="ltr">' + esc(r[0]) + "</h3>" +
+        '<p class="card__ar card__ar--missing" lang="ar" dir="rtl">' + esc(T.noArabicName) + "</p>"
+      : state.lang === "ar"
       ? '<h3 class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</h3>" +
         (r[0] ? '<p class="card__en" dir="ltr">' + esc(r[0]) + "</p>" : "")
       : '<h3 class="card__en" dir="ltr">' + esc(r[0] || r[1]) + "</h3>" +
-        (r[1] ? '<p class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</p>" : "");
+        '<p class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</p>";
     var text = describeRoad(r, d, em, where);
     return '<a class="card card--kb" href="' + esc(href) + '" style="--i:' + Math.min(i, 14) + '">' +
       '<div class="card__top">' +
