@@ -2099,15 +2099,15 @@ window.STREETS = [
   "emirate": "abu-dhabi",
   "category": "person",
   "origin": "documented",
-  "ar": "شارع عقبه بن نافع",
+  "ar": "شارع عقبة بن نافع",
   "en": "Uqbah Bin Nafi' Street",
   "meaning": {
     "en": "A commander in North Africa, founder of Kairouan",
     "ar": "قائد في شمال إفريقيا ومؤسس القيروان"
   },
   "story": {
-    "en": "Uqbah ibn Nafi (d. 63 AH / 683 CE) was a commander whose campaigns extended across North Africa, and he founded Kairouan.",
-    "ar": "عقبة بن نافع (ت ٦٣هـ/٦٨٣م) قائد ارتبطت سيرته بالتوسع في شمال إفريقيا، وأسّس القيروان."
+    "en": "Uqbah ibn Nafi (d. 63 AH / 683 CE) was a commander of the conquest of North Africa who founded Kairouan and served twice as governor of Ifriqiya.",
+    "ar": "عقبة بن نافع الفهري (ت ٦٣هـ / ٦٨٣م) قائد فتح إفريقية ومؤسس القيروان، وولي إفريقية مرتين، ويُلقّب بفاتح إفريقية."
   },
   "refs": [
     {
@@ -30233,18 +30233,23 @@ window.STREETS = [
   "id": "oqbah-bin-nafe-a-roundabout",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "دوار عقبة بن نافع",
   "en": "Oqbah Bin Nafe'a Roundabout",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Named for the conqueror of North Africa",
+    "ar": "سُمّي باسم فاتح إفريقية"
   },
   "story": {
-    "en": "The street carries the name of Oqbah Bin Nafe'a Roundabout, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم دوار عقبه بن نافع، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The roundabout is named for Uqbah ibn Nafi (d. 683), the commander who led the conquest of North Africa and founded Kairouan.",
+    "ar": "سُمّي الدوار باسم عقبة بن نافع (ت ٦٣هـ / ٦٨٣م)، القائد الذي قاد فتح إفريقية وأسّس مدينة القيروان."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عقبة بن نافع",
+      "url": "https://ar.wikipedia.org/wiki/عقبة_بن_نافع"
+    }
+  ]
 },
 {
   "id": "sheikh-ahmed-bin-rashid-al-mu-alla-street",
@@ -30301,18 +30306,24 @@ window.STREETS = [
   "id": "sheikh-rashid-bin-ahmed-al-mu-alla-road",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ راشد بن أحمد المعلا",
   "en": "Sheikh Rashid bin Ahmed Al Mu'alla Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "Ruler of Umm Al Quwain, 1981–2009",
+    "ar": "حاكم أم القيوين بين ١٩٨١ و٢٠٠٩"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rashid bin Ahmed Al Mu'alla, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ راشد بن احمد المعلا، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Rashid bin Ahmad Al Mualla (1932–2009) ruled Umm Al Quwain from 22 February 1981 until his death on 2 January 2009, and sat on the Supreme Council of the Union.",
+    "ar": "الشيخ راشد بن أحمد المعلا (١٩٣٢–٢٠٠٩) حاكم إمارة أم القيوين وعضو المجلس الأعلى للاتحاد من ٢٢ فبراير ١٩٨١ حتى وفاته في ٢ يناير ٢٠٠٩."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — راشد بن أحمد المعلا",
+      "url": "https://ar.wikipedia.org/wiki/راشد_بن_أحمد_المعلا"
+    }
+  ],
+  "translit": "Ṭarīq ash-Shaykh Rāshid bin Aḥmad al-Muʿallā"
 },
 {
   "id": "sheikh-saud-bin-rashid-al-mu-alla-street",
