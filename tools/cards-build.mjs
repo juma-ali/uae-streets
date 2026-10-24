@@ -291,7 +291,10 @@ const NOT_A_STREET = /(^|\s)(service|tertiary|secondary|access|industrial|minor|
 /* OSM names that were cut short. Keyed by the lowercase OSM name. */
 const NAME_EN = new Map([
   ["sheik hamad b s street", "Sheikh Hamad Bin Saif Al Sharqi Street"],
-  ["seif aldawlah road", "Seif Al Dawlah Road"]
+  ["seif aldawlah road", "Seif Al Dawlah Road"],
+  ["amro bin al aas street", "Amr Bin Al 'As Street"],
+  ["amr bin al a'as street", "Amr Bin Al 'As Street"],
+  ["amer bin al aas street", "Amr Bin Al 'As Street"],
 ]);
 
 const AR_OVERRIDES = new Map([
