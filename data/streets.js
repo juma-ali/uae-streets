@@ -18506,18 +18506,24 @@ window.STREETS = [
   "id": "abdullah-bin-abi-awfa-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن أبي أوفى",
   "en": "Abdullah Bin Abi Awfa Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A Companion, the last of the Prophet's Companions in Kufa",
+    "ar": "صحابي، آخر من بقي بالكوفة من أصحاب النبي"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Abi Awfa, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن ابي اوفي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abdullah ibn Abi Awfa al-Aslami was a Companion who gave the pledge at Hudaybiyyah and fought at Khaybar and Hunayn. He settled in Kufa and was the last of the Prophet's Companions to remain there.",
+    "ar": "عبد الله بن أبي أوفى الأسلمي صحابي، شهد الحديبية وبيعة الرضوان وخيبر وحنين، ثم تحوّل إلى الكوفة، وكان آخر من بقي فيها من أصحاب النبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الله بن أبي أوفى",
+      "url": "https://ar.wikipedia.org/wiki/عبد_الله_بن_أبي_أوفى"
+    }
+  ],
+  "translit": "Shāriʿ ʿAbdullāh bin Abī Awfā"
 },
 {
   "id": "abdullah-bin-abi-rabee-ah-street",
