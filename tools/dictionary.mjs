@@ -65,6 +65,19 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "دبا": "Dibba, a town on the east coast",
+  "نقيان": "sand dunes",
+  "نقا": "sand dune",
+  "نكود": "sand dune",
+  /* Mountain agriculture and Liwa settlement vocabulary (Al Bayan, Emarat Al Youm). */
+  "وعب": "a rain-fed grain plot on a mountain top",
+  "وعوب": "rain-fed grain plots on mountain tops",
+  "ينور": "threshing floor",
+  "مداق": "threshing stick",
+  "سعفه": "palm frond",
+  "سعف": "palm fronds",
+  "محضر": "a palm-garden settlement (Liwa)",
+  "محاضر": "palm-garden settlements (Liwa)",
   "عكروم البريدا": "a rugged rise at a small shaded patch",
   "عكروم": "a hard knot, a rugged rise",
   "بريدا": "a small shaded patch",
