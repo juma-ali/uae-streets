@@ -24,6 +24,8 @@ const KB = load("data/kb.js", "KB");
 const CATS = load("data/categories.js", "STREET_CATEGORIES");
 const GLOSSES = (() => { try { return load("data/dictionary.js", "STREET_GLOSSES"); } catch { return {}; } })();
 const CURATED_SET = (() => { try { return new Set(load("data/dictionary.js", "STREET_CURATED") || []); } catch { return new Set(); } })();
+const GLOSSES_EXTRA = (() => { try { return load("data/glosses-extra.js", "STREET_EXTRA") || {}; } catch { return {}; } })();
+const ALL_GLOSSES = Object.assign({}, GLOSSES_EXTRA, GLOSSES);
 const EDITORIAL = load("data/streets.js", "STREETS");
 const LOCALITIES = (() => { try { return load("data/localities.js", "LOCALITIES"); } catch { return {}; } })();
 
@@ -96,7 +98,7 @@ for (const s of KB.streets) {
   const ar = s.name_ar || "";
   if (!en && !ar) continue;
   const cat = CATS[s.osm] || "word";
-  const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, GLOSSES) : "";
+  const gloss = cat === "place" || cat === "word" ? glossOf(s.name_ar, ALL_GLOSSES) : "";
   let story = storyByName.get(nameKey(en)) || storyByName.get(nameKey(s.old_name_en)) || "";
   if (!story) {
     for (const [canon, alts] of Object.entries(SYNONYMS)) {

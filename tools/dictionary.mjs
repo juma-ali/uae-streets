@@ -65,6 +65,16 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "تلال": "hills",
+  "سدره": "sidr tree (buckthorn)",
+  "سمره": "samr tree (Acacia tortilis)",
+  "نبع": "spring, water source",
+  "نادي": "club",
+  "دبا": "Dibba, a town on the east coast",
+  "الحمره": "red ground, redness",
+  "مربعه": "square plot",
+  "شعيبه": "small gully, branch of a wadi",
+  "جزعه": "crossing, ford",
   "عراقيب": "sand dunes",
   "رمثاء": "place where rimth grows",
   "رامث": "rimth, a perennial desert shrub (variant spelling)",
