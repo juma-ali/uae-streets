@@ -218,6 +218,86 @@ const AR_OVERRIDES = new Map([
   ["abu ja'far al madani street", "شارع أبي جعفر المدني"],
   ["al khawarizmi street", "شارع الخوارزمي"],
   ["al dhaid road", "طريق الذيد"],
+  ["ras al khor road", "طريق رأس الخور"],
+  ["palm jumeirah road", "طريق نخلة جميرا"],
+  ["madinat jumeirah", "مدينة جميرا"],
+  ["jebel ali hills", "تلال جبل علي"],
+  ["khatt springs road", "طريق خت"],
+  ["masafi", "مسافي"],
+  ["kalba square", "ساحة كلباء"],
+  ["mosque square", "ساحة المسجد"],
+  ["new al taawun road", "طريق التعاون الجديد"],
+  ["al quoz central street", "شارع القوز المركزي"],
+  ["al qouz central street", "شارع القوز المركزي"],
+  ["al salam a street", "شارع السلام أ"],
+  ["al salam b street", "شارع السلام ب"],
+  ["al salam c street", "شارع السلام ج"],
+  ["al salam d street", "شارع السلام د"],
+  ["al salam e street", "شارع السلام هـ"],
+  ["al salam f street", "شارع السلام و"],
+  ["al naseem a street", "شارع النسيم أ"],
+  ["al naseem b street", "شارع النسيم ب"],
+  ["al nassem raod", "شارع النسيم"],
+  ["al ghazhal street", "شارع الغزال"],
+  ["al hawa street", "شارع الهوا"],
+  ["al deem street", "شارع الديم"],
+  ["ad deem street", "شارع الديم"],
+  ["al abjar street", "شارع الأبجر"],
+  ["al aamra street", "شارع العامرة"],
+  ["al najoom street", "شارع النجوم"],
+  ["al thuraya street", "شارع الثريا"],
+  ["yasmin street", "شارع ياسمين"],
+  ["nisreen street", "شارع نسرين"],
+  ["joory street", "شارع جوري"],
+  ["julnar street", "شارع جلنار"],
+  ["rasha street", "شارع رشا"],
+  ["lila street", "شارع ليلا"],
+  ["azalea street", "شارع أزاليا"],
+  ["camelia street", "شارع كاميليا"],
+  ["camelia", "شارع كاميليا"],
+  ["samara street", "شارع سمارة"],
+  ["mira", "شارع ميرا"],
+  ["rosa", "شارع روزا"],
+  ["sidra", "شارع سدرة"],
+  ["deema", "شارع ديمة"],
+  ["ghadeer", "شارع غدير"],
+  ["reem", "شارع ريم"],
+  ["maeen", "شارع معين"],
+  ["zulal", "شارع زلال"],
+  ["hattan", "شارع هتان"],
+  ["palma street", "شارع بالميرا"],
+  ["maple", "شارع مابل"],
+  ["casa street", "شارع كازا"],
+  ["al bustan street", "شارع البستان"],
+  ["al rimal cr street", "شارع الرمال"],
+  ["al tilal street", "شارع التلال"],
+  ["al zahirah street", "شارع الزاهرة"],
+  ["al atheer street", "شارع الأثير"],
+  ["kunooz street", "شارع كنوز"],
+  ["mazoon street", "شارع مزون"],
+  ["awafi street", "شارع العوافي"],
+  ["shammal street", "شارع شمال"],
+  ["al harf street", "شارع الحرف"],
+  ["shati as saadiyat", "شاطئ السعديات"],
+  ["al madina al tebbia street", "شارع المدينة الطبية"],
+  ["al quawasim cornishe roundabout", "دوار كورنيش القواسم"],
+  ["al hisn fort roundabout", "دوار حصن الحصن"],
+  ["kalba fujairah roundabout", "دوار كلباء الفجيرة"],
+  ["masafi roundabout", "دوار مسافي"],
+  ["lahbab roundabout", "دوار لهباب"],
+  ["zayed mosque roundabout", "دوار مسجد زايد"],
+  ["al raugh tunnel", "نفق الروغ"],
+  ["al ghazeer tunnel", "نفق الغزير"],
+  ["rams street", "شارع الرمس"],
+  ["al etihad road", "شارع الاتحاد"],
+  ["hadaeq sheikh mohammed bin rashid", "حدائق الشيخ محمد بن راشد"],
+  ["sheikh khalifa bin zayed al nahyan road", "طريق الشيخ خليفة بن زايد آل نهيان"],
+  ["sheikh abdulla bin mohammed road", "طريق الشيخ عبدالله بن محمد"],
+  ["azhar street", "شارع الأزهر"],
+  ["abu dhabi theater", "مسرح أبوظبي"],
+  ["al muntazah complex", "مجمع المنتزه"],
+  ["pompidou road", "طريق بومبيدو"],
+  ["khallad al ansari street", "شارع خلاد الأنصاري"],
 ]);
 
 
@@ -276,6 +356,10 @@ const PLACE_NAMES = new Set([
   "مليحه",
 ]);
 
+
+/* The tail of Dubai's master-planned communities: plot and marketing labels. */
+const NOT_A_STREET_2 = /(arabella|juniper|park avenue|rochester|richmond|stockholm|topanga|valencia grove|wildflower|shoreline|silk leaf|vida residence|mai tower|morocco [ij]|semmer|quortaj|park road (east|south)|crescent drive|gateway avenue|grand avenue|green boulevard|central boulevard|exhibition boulevard|hills grove|hills view|fairways|golf town|parkways|naseej|old way|inner road|north entrance|road to rhc|wonderful road|first street|interchange no|road: wb|m1 master|dwc peripheral|entrance [abc]|lakes roundabout|verona roundabout|dolphin roundabout|lantern roundabout|pot roundabout|scale roundabout|tent roundabout|boat roundabout|pearl roundabout|centro courtyard|emirates cluster|heights east|camelia [12]|arenco|alghandi|office no)/i;
+
 const rows = [];
 for (const s of KB.streets) {
   const en = s.name_en || "";
@@ -283,6 +367,7 @@ for (const s of KB.streets) {
   if (!en && !ar) continue;
   if (NOT_A_NAME.test(String(en).trim())) continue;
   if (NOT_A_STREET.test(String(en).trim())) continue;
+  if (NOT_A_STREET_2.test(String(en).trim())) continue;
   let cat = CATS[s.osm] || "word";
   const bare = String(norm(String(ar).replace(/^(شارع|طريق|جادة)\s+/, "")).replace(/^\u0627\u0644/, ""));
   if (PERSON_NAMES.has(bare)) cat = "person";
