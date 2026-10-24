@@ -2296,18 +2296,23 @@ window.STREETS = [
   "id": "aws-bin-al-samit-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أوس بن الصامت",
   "en": "Aws Bin Al Samit Street",
   "meaning": {
-    "en": "An Ansari Companion",
-    "ar": "صحابي أنصاري"
+    "en": "A Companion of the Ansar, who fought at every battle with the Prophet",
+    "ar": "صحابي من الأنصار من بني غنم بن عوف من الخزرج"
   },
   "story": {
-    "en": "Aws ibn al-Samit was an Ansari Companion, husband of Khawla bint Tha'laba, and his name is connected with accounts of the revelation of Surat al-Mujadila.",
-    "ar": "أوس بن الصامت صحابي أنصاري، زوج خولة بنت ثعلبة، ويرتبط اسمه بروايات نزول سورة المجادلة."
+    "en": "Aws ibn al-Samit was a Companion of the Ansar who fought in every campaign with the Prophet. He is the man whose case with his wife Khawla bint Tha'laba brought down the opening verses of Surat al-Mujadila.",
+    "ar": "أوس بن الصامت صحابي من الأنصار من بني غنم بن عوف من الخزرج، شهد مع النبي المشاهد كلها، وهو الذي ظاهر زوجته خولة بنت ثعلبة فنزلت فيهما آية سورة المجادلة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أوس بن الصامت",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B3_%D8%A8%D9%86_%D8%A7%D9%84%D8%B5%D8%A7%D9%85%D8%AA"
+    }
+  ]
 },
 {
   "id": "thabit-bin-qays-street",
@@ -2506,18 +2511,23 @@ window.STREETS = [
   "id": "soraqah-bin-amr-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سراقة بن عمرو",
   "en": "Soraqah Bin Amr Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of the Ansar, killed at Mu'tah",
+    "ar": "صحابي من الأنصار، استُشهد يوم مؤتة"
   },
   "story": {
-    "en": "No published source was found identifying who Soraqah Bin Amr — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «سراقة بن عمرو» الذي يحمل الشارع اسمه."
+    "en": "Suraqa ibn Amr al-Khazraji was a Companion of the Ansar who fought at Badr, Uhud and the Trench, and was killed at Mu'tah alongside Ja'far ibn Abi Talib.",
+    "ar": "سراقة بن عمرو الخزرجي الأنصاري صحابي، شهد بدراً وأحداً والخندق، واستُشهد يوم مؤتة مع جعفر بن أبي طالب."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — سراقة بن عمرو بن عطية",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B1%D8%A7%D9%82%D8%A9_%D8%A8%D9%86_%D8%B9%D9%85%D8%B1%D9%88_%D8%A8%D9%86_%D8%B9%D8%B7%D9%8A%D8%A9"
+    }
+  ]
 },
 {
   "id": "nawfal-bin-abdullah-street",
@@ -2540,18 +2550,23 @@ window.STREETS = [
   "id": "al-harith-bin-anas-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحارث بن أنس",
   "en": "Al Harith Bin Anas Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of the Ansar, among the men of Badr",
+    "ar": "صحابي من الأنصار، من البدريين"
   },
   "story": {
-    "en": "No published source was found identifying who Al Harith Bin Anas — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحارث بن أنس» الذي يحمل الشارع اسمه."
+    "en": "Al-Harith ibn Anas ibn Malik was a Companion of the Ansar of the Banu Abd al-Ashhal, counted among those who fought at Badr.",
+    "ar": "الحارث بن أنس بن مالك صحابي من الأنصار من بني عبد الأشهل من الأوس، ويُعدّ من البدريين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — الحارث بن أنس بن مالك",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB_%D8%A8%D9%86_%D8%A3%D9%86%D8%B3_%D8%A8%D9%86_%D9%85%D8%A7%D9%84%D9%83"
+    }
+  ]
 },
 {
   "id": "al-taher-bin-abi-hala-street",
@@ -28226,18 +28241,23 @@ window.STREETS = [
   "id": "omar-bin-al-ala-a-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمر بن العلاء",
   "en": "Omar Bin Al Ala'a Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "An Abbasid commander, the first governor of Tabaristan",
+    "ar": "قائد عباسي، أول ولاة طبرستان"
   },
   "story": {
-    "en": "The street carries the name of Omar Bin Al Ala'a, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم عمر بن العلاء، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Umar ibn al-Ala (d. 782) was an Abbasid commander and the first governor of Tabaristan, who led its conquest in 758–759.",
+    "ar": "عمر بن العلاء (ت ١٦٥هـ / ٧٨٢م) قائد عباسي، وأول ولاة طبرستان، قاد فتحها بين سنتي ١٤١ و١٤٢هـ."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عمر بن العلاء",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D8%A1"
+    }
+  ]
 },
 {
   "id": "omar-bin-hairah-street",
@@ -28311,18 +28331,23 @@ window.STREETS = [
   "id": "onais-bin-qatadah-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أنيس بن قتادة",
   "en": "Onais Bin Qatadah Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A Companion of the Ansar, killed at Uhud",
+    "ar": "صحابي من الأنصار، استُشهد يوم أحد"
   },
   "story": {
-    "en": "The street carries the name of Onais Bin Qatadah, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم انيس بن قتاده، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Anis ibn Qatada (d. 625) was a Companion of the Ansar who fought at Badr and was killed at Uhud.",
+    "ar": "أنيس بن قتادة (ت ٣هـ) صحابي من الأنصار من بني عبيد بن زيد من الأوس، شهد بدراً وقُتل يوم أحد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أنيس بن قتادة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D9%8A%D8%B3_%D8%A8%D9%86_%D9%82%D8%AA%D8%A7%D8%AF%D8%A9"
+    }
+  ]
 },
 {
   "id": "orwa-bin-zayd-street",
