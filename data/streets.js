@@ -13388,16 +13388,16 @@ window.STREETS = [
   "id": "abdullah-bin-abdulrahim-al-waswasi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عبدالله بن عبدالرحيم الوسواسي",
   "en": "Abdullah Bin Abdulrahim Al Waswasi Street",
   "meaning": {
-    "en": "A member of the Waswasi family",
-    "ar": "من أسرة الوسواسي"
+    "en": "One of Abu Dhabi's first Quran teachers",
+    "ar": "من أوائل معلّمي القرآن في أبوظبي"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Abdulrahim, a man of the Waswasi family. No published biography of him was found.",
-    "ar": "يحمل الشارع اسم عبدالله بن عبدالرحيم من أسرة الوسواسي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abdullah bin Abdulrahim Al Waswasi was among the first teachers in Abu Dhabi, teaching the Quran and its memorisation.",
+    "ar": "عبدالله بن عبدالرحيم الوسواسي من أوائل المعلّمين في أبوظبي، ومعلّم القرآن الكريم ومحفّظه."
   },
   "refs": []
 },
