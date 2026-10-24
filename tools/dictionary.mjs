@@ -65,6 +65,7 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "فقع": "Al Faqa', a village between Al Ain and Dubai; also the desert truffle",
   "اشخر": "the ashkhar shrub (Calotropis), of the dogbane family",
   "اشخره": "the ashkhar shrub (Calotropis), of the dogbane family",
   "عشار": "the ashkhar shrub (Calotropis), also called al-oshar",

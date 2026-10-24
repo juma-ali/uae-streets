@@ -15102,5 +15102,28 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/عشار"
     }
   ]
+},
+{
+  "id": "al-faqa-road",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "documented",
+  "ar": "طريق الفَقع",
+  "en": "Al Faqa' Road",
+  "translit": "Ṭarīq al-Faqaʿ",
+  "meaning": {
+    "en": "Al Faqa', a village between Al Ain and Dubai",
+    "ar": "الفقع، قرية بين العين ودبي"
+  },
+  "story": {
+    "en": "Al Faqa' is a village on the road between Al Ain and Dubai, on the border of the two emirates, on the E66. The same word is the Gulf name for the desert truffle, which grows underground after rain.",
+    "ar": "الفقع قرية على الطريق بين العين ودبي، على حدود الإمارتين، على شارع طحنون بن محمد آل نهيان (إ66). والكلمة نفسها اسم الفُقع، الكمأة الصحراوية التي تنمو تحت الأرض بعد سقوط الأمطار."
+  },
+  "refs": [
+    {
+      "label": "Wikipedia — الفقع",
+      "url": "https://ar.wikipedia.org/wiki/الفقع"
+    }
+  ]
 }
 ];
