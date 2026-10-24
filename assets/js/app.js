@@ -171,7 +171,8 @@
     return d !== 0 ? d : a.en.localeCompare(b.en);
   });
 
-  var state = { lang: "en", q: "", emirate: "all", region: "all", category: "all", district: "all", showRoads: false, limit: 24 };
+  var state = { lang: "en", q: "", emirate: "all", region: "all", category: "all", district: "all",
+    town: "all", showRoads: false, limit: 24 };
   var storyDistrict = {};
   var results = [];
   var lastRoads = [];
@@ -187,7 +188,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261027u";
+    s.src = "data/cards.js?v=20261028a";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -210,6 +211,7 @@
       var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
       if (state.district !== "all" && String(r[2]) !== String(state.district)) continue;
       if (state.region !== "all" && String(r[8]) !== String(state.region)) continue;
+    if (state.town !== "all" && !townOk(r[2])) continue;
       var hay = norm(r[0] + " " + r[1] + " " + (d ? d[0] + " " + (d[1] || "") : ""));
       var ok = true;
       for (var t = 0; t < tokens.length; t++) if (!tokenHit(hay, tokens[t])) { ok = false; break; }
@@ -370,6 +372,15 @@
   }
 
   /* ---------- render: count + title ---------- */
+  /* A town is a set of districts; choosing one narrows the same list. */
+  function townOk(districtIdx) {
+    if (state.town === "all") return true;
+    if (!window.HIERARCHY) return true;
+    var d = Number(districtIdx);
+    if (isNaN(d) || d < 0) return false;
+    return String(window.HIERARCHY.districtTown[d]) === String(state.town);
+  }
+
   function filterStreets() {
     var q = norm(state.q);
     var tokens = q ? q.split(" ").filter(Boolean) : [];
@@ -377,6 +388,7 @@
       if (state.emirate !== "all" && s.emirate !== state.emirate) return false;
       if (state.category !== "all" && s.category !== state.category) return false;
       if (state.district !== "all" && String(storyDistrict[s.id]) !== String(state.district)) return false;
+    if (state.town !== "all" && !townOk(storyDistrict[s.id])) return false;
       if (!tokens.length) return true;
       return tokens.every(function (t) { return tokenHit(s._index, t); });
     });
@@ -482,6 +494,37 @@
   }
 
   /* ---------- render: grid ---------- */
+  /* Towns of the chosen emirate (and area, when one is chosen). Built at load
+     from the hierarchy file, so the row only appears where towns exist. */
+  function renderTownChips() {
+    var wrap = $("#town-chips"), row = $("#town-row");
+    if (!wrap || !row) return;
+    if (!ROADS || !window.HIERARCHY || state.emirate === "all") { row.hidden = true; wrap.innerHTML = ""; return; }
+    var em = state.emirate === "uaq" ? "umm-al-quwain" : state.emirate;
+    var H = window.HIERARCHY, counts = {}, cityOf = {};
+    for (var i = 0; i < H.districtTown.length; i++) {
+      var t = H.districtTown[i];
+      if (t < 0) continue;
+      var d = ROADS.districts[i];
+      if (!d || d[2] !== em) continue;
+      if (state.region !== "all" && String(H.districtCity[i]) !== String(state.region)) continue;
+      counts[t] = (counts[t] || 0) + 1;
+    }
+    var ids = Object.keys(counts).map(Number).sort(function (x, y) { return counts[y] - counts[x]; });
+    if (!ids.length) { row.hidden = true; wrap.innerHTML = ""; return; }
+    var html = ['<button type="button" class="chip chip--sub" data-town="all" aria-pressed="' +
+      (state.town === "all" ? "true" : "false") + '"><span class="chip__label" data-en="All towns" data-ar="كل البلدات">All towns</span></button>'];
+    ids.forEach(function (t) {
+      var town = H.towns[t];
+      html.push('<button type="button" class="chip chip--sub" data-town="' + t + '" aria-pressed="' +
+        (String(state.town) === String(t) ? "true" : "false") + '">' +
+        '<span class="chip__label" data-en="' + town[0].replace(/"/g, "&quot;") + '" data-ar="' + (town[1] || town[0]).replace(/"/g, "&quot;") + '">' + town[0] +
+        '</span><span class="chip__count">' + counts[t] + "</span></button>");
+    });
+    wrap.innerHTML = html.join("");
+    row.hidden = false;
+  }
+
   function renderDistrictChips() {
     var wrap = $("#district-chips");
     var row = $("#district-row");
@@ -494,6 +537,8 @@
     ROADS.rows.forEach(function (r) {
       var d = r[2] >= 0 ? ROADS.districts[r[2]] : null;
       if (!d || d[2] !== em) return;
+      if (state.region !== "all" && window.HIERARCHY && String(window.HIERARCHY.districtCity[r[2]]) !== String(state.region)) return;
+      if (state.town !== "all" && !townOk(r[2])) return;
       if (state.category !== "all" && r[3] !== state.category) return;
       if (tokens.length) {
         var hay = norm(r[0] + " " + r[1] + " " + (d[0] || ""));
@@ -666,7 +711,7 @@
     var p = new URLSearchParams();
     if (state.emirate !== "all") p.set("emirate", state.emirate);
     if (state.category !== "all") p.set("category", state.category);
-    if (state.district !== "all") p.set("district", state.district);
+    if (state.region !== "all") p.set("region", state.region); if (state.town !== "all") p.set("town", state.town); if (state.district !== "all") p.set("district", state.district);
     if (state.q) p.set("q", state.q);
     if (state.lang === "ar") p.set("lang", "ar");
     var dt = document.documentElement.getAttribute("data-theme");
@@ -842,6 +887,7 @@
     results = filterStreets();
     renderGrid(animate !== false);
     refreshChipCounts();
+    renderTownChips();
     renderDistrictChips();
     renderChrome();
     syncUrl();
@@ -893,7 +939,7 @@
       });
     }
 
-    ["#emirate-chips", "#category-chips", "#district-chips", "#region-chips"].forEach(function (sel) {
+    ["#emirate-chips", "#category-chips", "#district-chips", "#region-chips", "#town-chips"].forEach(function (sel) {
       var wrap = $(sel);
       if (!wrap) return;
       wrap.addEventListener("click", function (e) {
@@ -901,8 +947,15 @@
         if (!chip) return;
         var group = chip.getAttribute("data-group");
         var value = chip.getAttribute("data-value");
-        if (sel === "#region-chips") { state.region = chip.getAttribute("data-region"); state.district = "all"; state.limit = PAGE; if (!ROADS) loadRoads(function () { update(true); }); else update(true); return; }
-        if (group === "emirate") { state.emirate = value; state.region = "all"; state.district = "all"; }
+        if (sel === "#town-chips") {
+        state.town = chip.getAttribute("data-town");
+        state.district = "all";
+        state.limit = PAGE;
+        update(true);
+        return;
+      }
+      if (sel === "#region-chips") { state.region = chip.getAttribute("data-region"); state.district = "all"; state.town = "all"; state.limit = PAGE; if (!ROADS) loadRoads(function () { update(true); }); else update(true); return; }
+        if (group === "emirate") { state.emirate = value; state.region = "all"; state.district = "all"; state.town = "all"; }
         if (group === "category") state.category = value;
         if (group === "district") state.district = value;
         state.limit = PAGE;
@@ -1002,6 +1055,10 @@
     if (emParam && EMIRATES.some(function (e) { return e.id === emParam; })) state.emirate = emParam;
     var catParam = params.get("category");
     if (catParam && CATEGORIES.some(function (c) { return c.id === catParam; })) state.category = catParam;
+    var rParam = params.get("region");
+    if (rParam) state.region = rParam;
+    var tParam = params.get("town");
+    if (tParam) state.town = tParam;
     var dParam = params.get("district");
     if (dParam) state.district = dParam;
     var qParam = params.get("q");

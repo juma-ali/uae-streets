@@ -8192,7 +8192,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Ahmed Khamis, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم طريق أحمد خميس، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم أحمد خميس، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -11167,7 +11167,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Mubarak Bin Qaran, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم طريق مبارك بن قرآن، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم مبارك بن قرآن، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -12663,7 +12663,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Theyab Bin Eissa AL Falahi, an Emirati figure. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم طريق الشيخ ذياب بن عيسى، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم الشيخ ذياب بن عيسى، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -13938,7 +13938,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Mohamed Al Falahi, an Emirati figure of the Yasi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم طريق محمد الفلاحي، وهو شخصية إماراتية من أسرة الياسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم محمد الفلاحي، وهو شخصية إماراتية من أسرة الياسي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -23034,12 +23034,12 @@ window.STREETS = [
   "ar": "طريق الشيخ هزاع بن سلطان الأول",
   "en": "Sheikh Hazzaa' Bin Sultan The First Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Hazzaa' Bin Sultan The First, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ هزاع بن سلطان الاول، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Hazzaa' Bin Sultan The First, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الطريق باسم هزاع بن سلطان الأول، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -23144,7 +23144,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Zayed Tunnel, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم نفق الشيخ زايد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي النفق باسم الشيخ زايد، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -23178,12 +23178,12 @@ window.STREETS = [
   "ar": "طريق الشيخة سلامة بنت بطي",
   "en": "Sheikha Salama Bint Butti Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikha Salama Bint Butti, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخه سلامه بنت بطي، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Salama Bint Butti, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الطريق باسم سلامة بنت بطي، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -23302,7 +23302,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Tahnoun Bin Mohammed Al Nahyan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق طحنون بن محمد ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الطريق اسم طحنون بن محمد ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24179,12 +24179,12 @@ window.STREETS = [
   "ar": "شارع الشيخ عبدالله بن راشد",
   "en": "Sheikh Abdulla Bin Rashid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Abdulla Bin Rashid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ عبدالله بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Abdulla Bin Rashid, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله بن راشد، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24196,12 +24196,12 @@ window.STREETS = [
   "ar": "شارع الشيخ عبدالله بن حميد",
   "en": "Sheikh Abdullah Bin Humaid Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Abdullah Bin Humaid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ عبدالله بن حميد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Abdullah Bin Humaid, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم عبدالله بن حميد، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24230,12 +24230,12 @@ window.STREETS = [
   "ar": "جسر الشيخ حميد بن راشد",
   "en": "Sheikh Humaid bin Rashid Bridge",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
     "en": "The street carries the name of Sheikh Humaid bin Rashid Bridge, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم جسر الشيخ حميد بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الجسر باسم الشيخ حميد بن راشد، من الأسرة الحاكمة في رأس الخيمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24247,12 +24247,12 @@ window.STREETS = [
   "ar": "شارع الشيخ مكتوم بن راشد آل مكتوم",
   "en": "Sheikh Maktoum Bin Rashid Al Maktoom Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Maktoum Bin Rashid Al Maktoom, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ مكتوم بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Maktoum Bin Rashid Al Maktoom, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم مكتوم بن راشد آل مكتوم، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24269,7 +24269,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Maktoum Bridge, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم جسر الشيخ مكتوم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الجسر باسم الشيخ مكتوم بن راشد آل مكتوم، من الأسرة الحاكمة في دبي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24281,12 +24281,12 @@ window.STREETS = [
   "ar": "شارع الشيخ راشد بن عبد العزيز",
   "en": "Sheikh Rashid Bin Abdul Aziz Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rashid Bin Abdul Aziz, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ راشد بن عبد العزيز، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Rashid Bin Abdul Aziz, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم راشد بن عبد العزيز، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24320,12 +24320,12 @@ window.STREETS = [
   "ar": "شارع الشيخ رشيد بن سعيد آل مكتوم",
   "en": "Sheikh Rishid Bin Saeed Al Maktoum Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rishid Bin Saeed Al Maktoum, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ رشيد بن سعيد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Rishid Bin Saeed Al Maktoum, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم رشيد بن سعيد آل مكتوم، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24342,7 +24342,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Abu Baker Al Siddique, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم طريق ابو بكر الصديق، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم ابو بكر الصديق، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24376,7 +24376,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Khalid Bin Waleed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق خالد بن الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الطريق اسم خالد بن الوليد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24405,12 +24405,12 @@ window.STREETS = [
   "ar": "شارع الشيخ محمد بن راشد",
   "en": "Sheikh Mohammed bin Rashid Boulevard",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Mohammed bin Rashid Boulevard, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ محمد بن راشد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Mohammed bin Rashid Boulevard, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم محمد بن راشد، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24439,12 +24439,12 @@ window.STREETS = [
   "ar": "شارع الشيخ زايد بن حمدان آل نهيان",
   "en": "Sheikh Zayed bin Hamdan Al Nahyan Street",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Zayed bin Hamdan Al Nahyan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ زايد بن حمدان ال نهيان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Zayed bin Hamdan Al Nahyan, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم زايد بن حمدان آل نهيان، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24484,7 +24484,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Mohammad Bin Matar, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق محمد بن مطر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الطريق اسم محمد بن مطر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24576,12 +24576,12 @@ window.STREETS = [
   "ar": "طريق الشيخ مكتوم بن راشد آل مكتوم",
   "en": "Sheikh Maktoum Bin Rashid Al Maktoum Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Maktoum Bin Rashid Al Maktoum, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ مكتوم بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Maktoum Bin Rashid Al Maktoum, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الطريق باسم الشيخ مكتوم بن راشد آل مكتوم (ت ٢٠٠٦)، حاكم إمارة دبي بين ١٩٩٠ و٢٠٠٦."
   },
   "refs": []
 },
@@ -24598,7 +24598,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Maktoum, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم الشيخ مكتوم، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الشارع باسم الشيخ مكتوم، من الأسرة الحاكمة في دبي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24644,12 +24644,12 @@ window.STREETS = [
   "ar": "شارع الشيخ سعيد بن راشد آل مكتوم",
   "en": "Sheikh Rashid Bin Saeed Al Maktoum St",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Rashid Bin Saeed Al Maktoum St, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم الشيخ سعيد بن راشد ال مكتوم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Rashid Bin Saeed Al Maktoum St, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الشارع باسم سعيد بن راشد آل مكتوم، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24661,12 +24661,12 @@ window.STREETS = [
   "ar": "طريق الشيخ زايد بن سلطان",
   "en": "Sheikh Zayed Bin Sultan Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Zayed Bin Sultan, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ زايد بن سلطان، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Zayed Bin Sultan, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الطريق باسم زايد بن سلطان، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24678,12 +24678,12 @@ window.STREETS = [
   "ar": "دوار بن ظاهر",
   "en": "Bin Dhaher Roundabout",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
     "en": "The street carries the name of Bin Dhaher Roundabout, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم دوار بن ظاهر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الدوار باسم بن ظاهر، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24712,12 +24712,12 @@ window.STREETS = [
   "ar": "طريق الشيخ كايد بن محمد",
   "en": "Sheikh Kayed Bin Muhamed Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Kayed Bin Muhamed, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ كايد بن محمد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Kayed Bin Muhamed, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الطريق باسم كايد بن محمد، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24729,12 +24729,12 @@ window.STREETS = [
   "ar": "طريق الشيخ محمد بن سالم",
   "en": "Sheikh Mohammad Bin Salem Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Mohammad Bin Salem, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق الشيخ محمد بن سالم، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street is named for Mohammad Bin Salem, a member of the ruling family. No published biography was found.",
+    "ar": "سُمّي الطريق باسم محمد بن سالم، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -24773,7 +24773,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Saqr Bin Mohammad, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم طريق الشيخ صقر بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم الشيخ صقر بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -25895,7 +25895,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Ahmed Bin Abdulrahman Bin Hadid, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ميدان احمد بن عبدالرحمن بن حديد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الميدان اسم احمد بن عبدالرحمن بن حديد، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -25912,7 +25912,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Ahmed Bin Darwish, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ميدان احمد بن درويش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الميدان اسم احمد بن درويش، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -29114,7 +29114,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Salem Bin Alowais, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ساحه سالم بن العويس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الساحة اسم ساحه سالم بن العويس، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -29160,12 +29160,12 @@ window.STREETS = [
   "ar": "ساحة الشيخ عبد الله بن محمود",
   "en": "Sheikh Abdullah Bin Mahmoud Square",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "A member of the ruling family",
+    "ar": "من الأسرة الحاكمة"
   },
   "story": {
     "en": "The street carries the name of Sheikh Abdullah Bin Mahmoud, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم ساحه الشيخ عبد الله بن محمود، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّيت الساحة باسم الشيخ عبد الله بن محمود، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -29250,7 +29250,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Khalid Bin Mohammed, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم طريق الشيخ خالد بن محمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الطريق منسوب إلى الشيخ خالد بن محمد القاسمي، من أسرة القاسمي الحاكمة في الشارقة."
   },
   "refs": []
 },
@@ -29335,7 +29335,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Mohammad Bin Saqr, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ميدان الشيخ محمد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الميدان باسم الشيخ محمد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -29471,7 +29471,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sheikh Saud Bin Sultan, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ساحه الشيخ سعود بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الساحة باسم ساحه الشيخ سعود بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -29726,7 +29726,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Sultan Qaboos, an Emirati figure. No published biography was found.",
-    "ar": "سُمّي الشارع باسم طريق السلطان قابوس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سُمّي الطريق باسم السلطان قابوس، وهو شخصية إماراتية، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
@@ -30210,18 +30210,23 @@ window.STREETS = [
   "id": "ali-bin-abi-talib-road",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق علي بن أبي طالب",
   "en": "Ali Bin Abi Talib Road",
   "meaning": {
-    "en": "A person of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "en": "The Prophet's cousin and son-in-law",
+    "ar": "ابن عم النبي وزوج ابنته"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Abi Talib, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق علي بن ابي طالب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "en": "Ali ibn Abi Talib (d. 40 AH / 661 CE) was the cousin of the Prophet Muhammad, the husband of his daughter Fatima, and the father of Hasan and Husayn.",
+    "ar": "علي بن أبي طالب (ت ٤٠هـ / ٦٦١م) ابن عم النبي محمد، وزوج ابنته فاطمة، وأبو الحسن والحسين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — علي بن أبي طالب",
+      "url": "https://ar.wikipedia.org/wiki/علي_بن_أبي_طالب"
+    }
+  ]
 },
 {
   "id": "ibn-majed-street",
@@ -30270,7 +30275,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street carries the name of Omar Bin Al Khattab, a person of the early Islamic period. No published biography was found.",
-    "ar": "يحمل الشارع اسم طريق عمر بن الخطاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الطريق اسم عمر بن الخطاب، وهو من أعلام صدر الإسلام، ولم يُعثر على ترجمة منشورة له."
   },
   "refs": []
 },
