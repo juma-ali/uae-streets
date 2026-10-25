@@ -18688,35 +18688,45 @@ window.STREETS = [
   "id": "abdullah-bin-anees-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن أنِيس",
   "en": "Abdullah Bin Anees Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, one of the brave leaders of Medina",
+    "ar": "صحابي، من القادة الشجعان من أهل المدينة"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن أنِيس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن أنِيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Anis (d. 54 AH) was a Companion of the Quda'a, known as one of the brave leaders of Medina and an ally of the Banu Salama of the Ansar.",
+    "ar": "عبد الله بن أنيس (ت ٥٤هـ) صحابي من قضاعة، ويُعرف بالجهني، من القادة الشجعان من أهل المدينة، وحليف بني سلمة من الأنصار."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص73",
+      "url": "https://shamela.ws/book/12286/3185"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-busr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن بُسر",
   "en": "Abdullah Bin Busr Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, the last of the Companions to die in Syria",
+    "ar": "صحابي، آخر الصحابة موتاً بالشام"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن بُسر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن بُسر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Busr al-Mazini (d. 88 AH) was a Companion who prayed toward both qiblas and died at Homs at ninety-five, the last Companion to die in Syria.",
+    "ar": "عبد الله بن بسر المازني (ت ٨٨هـ) صحابي، كان ممن صلّى إلى القبلتين، وتوفي بحمص عن ٩٥ عاماً، وهو آخر الصحابة موتاً بالشام."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص74",
+      "url": "https://shamela.ws/book/12286/3188"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-hajash-street",
@@ -18756,35 +18766,45 @@ window.STREETS = [
   "id": "abdullah-bin-jubayr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن جبير",
   "en": "Abdullah Bin Jubayr Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, commander of the archers at Uhud",
+    "ar": "صحابي، أمير الرماة يوم أحد"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن جبير. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن جبير، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Jubayr ibn al-Nu'man al-Ansari (d. 3 AH) was a Companion who gave the pledge at Aqaba and fought at Badr, and was commander of the archers at Uhud, where he was killed.",
+    "ar": "عبد الله بن جبير الأنصاري (ت ٣هـ) صحابي، شهد العقبة وبدراً، وكان أمير الرماة يوم أحد، فاستُشهد فيها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص76",
+      "url": "https://shamela.ws/book/12286/3194"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-omar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن عُمَر",
   "en": "Abdullah Bin Omar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, son of Umar ibn al-Khattab",
+    "ar": "صحابي، ابن عمر بن الخطاب"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن عُمَر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن عُمَر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Umar (613–692) was a Companion, the son of Umar ibn al-Khattab, who emigrated with his father and gave legal opinions in Islam for sixty years.",
+    "ar": "عبد الله بن عمر بن الخطاب (١٠ ق.هـ – ٧٣هـ) صحابي، هاجر مع أبيه وشهد فتح مكة، وأفتى الناس في الإسلام ستين سنة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص108",
+      "url": "https://shamela.ws/book/12286/3292"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-rabee-ah-street",
@@ -19167,18 +19187,23 @@ window.STREETS = [
   "id": "abu-idris-al-khawlani-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو إدرِيس الخَولانِي",
   "en": "Abu Idris Al Khawlani Street",
   "meaning": {
-    "en": "An Emirati figure of the Khawlani family",
-    "ar": "شخصية إماراتية من أسرة الخولاني"
+    "en": "A Tabi'i and jurist, preacher of Damascus",
+    "ar": "تابعي فقيه، واعظ أهل دمشق"
   },
   "story": {
-    "en": "The street carries the name of Abu Idris, an Emirati figure of the Khawlani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابو ادريس الخولاني، وهو شخصية إماراتية من أسرة الخولاني، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abu Idris al-Khawlani (630–700) was a Tabi'i and jurist, the preacher and storyteller of Damascus, and its judge under the Umayyads.",
+    "ar": "أبو إدريس الخولاني (٨–٨٠هـ) عائذ الله بن عبد الله الخولاني، تابعي فقيه، واعظ أهل دمشق وقاصّهم، وولي القضاء فيها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص239",
+      "url": "https://shamela.ws/book/12286/2636"
+    }
+  ]
 },
 {
   "id": "abu-is-haq-as-sabee-i-street",
@@ -19449,18 +19474,23 @@ window.STREETS = [
   "id": "al-asma-i-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الأصمَعِي",
   "en": "Al Asma'i Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A transmitter of the Arabs, an authority on language and poetry",
+    "ar": "راوية العرب، وإمام في اللغة والشعر"
   },
   "story": {
-    "en": "The street carries the name of الأصمَعِي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الأصمَعِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Asma'i (740–831), Abd al-Malik ibn Qurayb al-Bahili, was a transmitter of Arab poetry and an authority on language, poetry and place names, born and died in Basra.",
+    "ar": "الأصمعي (١٢٢–٢١٦هـ) عبد الملك بن قريب الباهلي، راوية العرب، وأحد أئمة العلم باللغة والشعر والبلدان، مولده ووفاته بالبصرة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص162",
+      "url": "https://shamela.ws/book/12286/3452"
+    }
+  ]
 },
 {
   "id": "al-farouq-street",
@@ -19811,18 +19841,23 @@ window.STREETS = [
   "id": "ali-bin-hamzah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن حَمزة",
   "en": "Ali Bin Hamzah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Al-Kisa'i, imam of grammar and recitation",
+    "ar": "الكسائي، إمام في النحو والقراءة"
   },
   "story": {
-    "en": "The street carries the name of علي بن حَمزة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم علي بن حَمزة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Ali ibn Hamza al-Kisa'i (d. 189 AH) was an imam of Arabic language, grammar and recitation, tutor to the Abbasid caliph al-Rashid and his son.",
+    "ar": "علي بن حمزة الكسائي (ت ١٨٩هـ) إمام في اللغة والنحو والقراءة، ومؤدّب الرشيد العباسي وابنه الأمين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص283",
+      "url": "https://shamela.ws/book/12286/3813"
+    }
+  ]
 },
 {
   "id": "ali-bin-musabah-al-marar-street",
@@ -22976,18 +23011,23 @@ window.STREETS = [
   "id": "salim-bin-abdullah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالِم بن عبدالله",
   "en": "Salim Bin Abdullah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "One of the seven jurists of Medina",
+    "ar": "أحد فقهاء المدينة السبعة"
   },
   "story": {
-    "en": "The street carries the name of سالِم بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم سالِم بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Salim ibn Abdullah ibn Umar (d. 106 AH) was one of the seven jurists of Medina and a leading Tabi'i of the city.",
+    "ar": "سالم بن عبد الله بن عمر (ت ١٠٦هـ) أحد فقهاء المدينة السبعة، ومن سادات التابعين وعلمائهم."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص71",
+      "url": "https://shamela.ws/book/12286/2139"
+    }
+  ]
 },
 {
   "id": "sayfi-bin-qaydhi-street",
@@ -25241,18 +25281,23 @@ window.STREETS = [
   "id": "abdullah-bin-amer-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن عامر",
   "en": "Abdullah Bin Amer Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A commander and conqueror, governor of Basra",
+    "ar": "أمير فاتح، ووالي البصرة"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن عامر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن عامر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Amir ibn Kurayz (625–679) was a commander of the conquests and governor of Basra in the time of Uthman.",
+    "ar": "عبد الله بن عامر بن كريز (٤–٥٩هـ) أمير فاتح، ولي البصرة في أيام عثمان."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص94",
+      "url": "https://shamela.ws/book/12286/3250"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-badeel-street",
@@ -25948,35 +25993,45 @@ window.STREETS = [
   "id": "abu-mussa-al-ashari-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو موسى الأشعري",
   "en": "Abu Mussa Al Ashari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ashari family",
-    "ar": "شخصية إماراتية من أسرة الاشعري"
+    "en": "A Companion and commander of the conquests",
+    "ar": "صحابي، من القادة الفاتحين"
   },
   "story": {
-    "en": "The street carries the name of Abu Mussa, an Emirati figure of the Ashari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابو موسي الاشعري، وهو شخصية إماراتية من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abu Musa al-Ash'ari (602–665) was a Companion of the Ash'ar of Qahtan, a commander in the conquests and a governor.",
+    "ar": "أبو موسى الأشعري (٢١ ق.هـ – ٤٤هـ) عبد الله بن قيس الأشعري، صحابي من الشجعان الولاة الفاتحين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص114",
+      "url": "https://shamela.ws/book/12286/3310"
+    }
+  ]
 },
 {
   "id": "abu-talha-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو طلحة",
   "en": "Abu Talha Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, among the finest archers",
+    "ar": "صحابي، من الرماة المعدودين"
   },
   "story": {
-    "en": "The street carries the name of أبو طلحة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبو طلحة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abu Talha (585–654), Zayd ibn Sahl al-Ansari, was a Companion counted among the finest archers in the age before Islam and in Islam.",
+    "ar": "أبو طلحة (٣٦ ق.هـ – ٣٤هـ) زيد بن سهل الأنصاري، صحابي، من الشجعان الرماة المعدودين في الجاهلية والإسلام."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص58",
+      "url": "https://shamela.ws/book/12286/2101"
+    }
+  ]
 },
 {
   "id": "afraa-bint-obeid-street",
@@ -27364,18 +27419,23 @@ window.STREETS = [
   "id": "iben-sireen-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ابن سيرين",
   "en": "Iben Sireen Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Tabi'i, imam of his time in the religious sciences",
+    "ar": "تابعي، إمام وقته في علوم الدين"
   },
   "story": {
-    "en": "The street carries the name of ابن سيرين. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ابن سيرين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Muhammad ibn Sirin (653–729) was a Tabi'i of Basra, an imam of his time in the religious sciences, and a transmitter of dream interpretation.",
+    "ar": "محمد بن سيرين (٣٣–١١٠هـ) تابعي بصري، إمام وقته في علوم الدين، ومن أشراف الكتاب."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج6 ص154",
+      "url": "https://shamela.ws/book/12286/5418"
+    }
+  ]
 },
 {
   "id": "ibn-ali-mubarak-street",
@@ -28159,35 +28219,45 @@ window.STREETS = [
   "id": "mousa-bin-talha-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع موسى بن طلحة",
   "en": "Mousa Bin Talha Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Tabi'i, called the Mahdi for his excellence",
+    "ar": "تابعي، كان يُقال له المهدي لفضله"
   },
   "story": {
-    "en": "The street carries the name of موسى بن طلحة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم موسى بن طلحة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Musa ibn Talha (d. 106 AH) was a Tabi'i of the Banu Taym, counted among the most eloquent men of his age, who settled in Kufa.",
+    "ar": "موسى بن طلحة التيمي (ت ١٠٦هـ) تابعي، من أفصح أهل عصره، وكان يُقال له المهدي لفضله، وسكن الكوفة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج7 ص323",
+      "url": "https://shamela.ws/book/12286/6901"
+    }
+  ]
 },
 {
   "id": "muath-bin-amr-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع معاذ بن عمرو",
   "en": "Muath Bin Amr Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar, present at Badr",
+    "ar": "صحابي من الأنصار، شهد بدراً"
   },
   "story": {
-    "en": "The street carries the name of معاذ بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم معاذ بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Mu'adh ibn Amr ibn al-Jamuh al-Ansari (d. c. 25 AH) was a Companion of the Ansar who gave the pledge at Aqaba and fought at Badr.",
+    "ar": "معاذ بن عمرو بن الجموح الأنصاري (ت نحو ٢٥هـ) صحابي من الأنصار، شهد العقبة وبدراً، وكان من الشجعان."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج7 ص258",
+      "url": "https://shamela.ws/book/12286/6705"
+    }
+  ]
 },
 {
   "id": "mudlaj-bin-amr-street",
@@ -29172,18 +29242,23 @@ window.STREETS = [
   "id": "salamah-bin-aslam-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلمة بن أسلم",
   "en": "Salamah Bin Aslam Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion who fought at Badr and Uhud",
+    "ar": "صحابي، شهد بدراً وأحداً"
   },
   "story": {
-    "en": "The street carries the name of سلمة بن أسلم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم سلمة بن أسلم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Salamah ibn Aslam al-Ansari (575–635) was a Companion of the Khazraj who fought at Badr, Uhud and the Trench.",
+    "ar": "سلمة بن أسلم الأنصاري (٤٩ ق.هـ – ١٤هـ) صحابي من الخزرج، شهد بدراً وأحداً والخندق والمشاهد كلها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص112",
+      "url": "https://shamela.ws/book/12286/2261"
+    }
+  ]
 },
 {
   "id": "salamah-bin-salamah-street",
@@ -30061,18 +30136,23 @@ window.STREETS = [
   "id": "yazeed-bin-abi-sufyan-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع يزيد بن أبي سفيان",
   "en": "Yazeed Bin Abi Sufyan Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion and commander, brother of Mu'awiya",
+    "ar": "صحابي وأمير، أخو معاوية"
   },
   "story": {
-    "en": "The street carries the name of يزيد بن أبي سفيان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم يزيد بن أبي سفيان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Yazid ibn Abi Sufyan (d. 18 AH) was a Companion of the Banu Umayya, a commander in the conquests, and the brother of Mu'awiya ibn Abi Sufyan.",
+    "ar": "يزيد بن أبي سفيان (ت ١٨هـ) صحابي من بني أمية، وأمير في الفتوح، وهو أخو معاوية بن أبي سفيان."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج8 ص184",
+      "url": "https://shamela.ws/book/12286/7528"
+    }
+  ]
 },
 {
   "id": "yazeed-bin-al-hur-street",
@@ -30355,18 +30435,23 @@ window.STREETS = [
   "id": "ibn-majed-street",
   "emirate": "umm-al-quwain",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ابن ماجد",
   "en": "Ibn Majed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Ahmad ibn Majid, navigator of the Indian Ocean",
+    "ar": "أحمد بن ماجد، ملاح المحيط الهندي"
   },
   "story": {
-    "en": "The street carries the name of ابن ماجد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ابن ماجد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Ahmad ibn Majid (d. after 1498), known as the Lion of the Sea, was a navigator of Najd who wrote guides to the routes of the Indian Ocean.",
+    "ar": "ابن ماجد (ت بعد ٩٠٤هـ) أحمد بن ماجد السعدي، الملاح المشهور، أُطلق عليه أسد البحر، وله أراجيز في طرق الملاحة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج1 ص200",
+      "url": "https://shamela.ws/book/12286/533"
+    }
+  ]
 },
 {
   "id": "majed-al-awal-street",
