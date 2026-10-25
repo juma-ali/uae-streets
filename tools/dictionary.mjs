@@ -65,6 +65,14 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* لهجتنا المحلية — الاتحاد النسائي العام، وفيه مختصر معجم الألفاظ العامية */
+  "سنافي": "a noble, dependable man",
+  "بنديره": "a flag raised for ships returning from pearling, and at weddings",
+  "ليوان": "the men's sitting room, open like a terrace",
+  "محماس": "a long-handled pan for roasting coffee beans",
+  "نهام": "the singer who chants for the pearl divers",
+  "بارجيل": "a wind tower that catches the breeze and cools the house",
+  "عونك": "a respectful reply, 'at your service'",
   /* أسماء مدن عربية تحملها الشوارع */
   "تبوك": "Tabuk, a city in north-western Saudi Arabia",
   "تيماء": "Tayma, an ancient oasis town in northern Saudi Arabia",
