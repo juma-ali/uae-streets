@@ -65,6 +65,19 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* sound plurals of lemmas we already had */
+  "ابراج": "towers",
+  "اضواء": "lights",
+  "امطار": "rains",
+  "اسواق": "markets",
+  "اطناب": "ropes, tent cords",
+  "ارياف": "countryside",
+  "امجاد": "glory",
+  "انجاد": "highlands, plateaux",
+  "غيومات": "clouds",
+  "اعواد": "old trees; also elders",
+  "افلاك": "orbits; also ships",
+  "انصار": "the Helpers of Medina, the Ansar",
   "بدعه": "an innovation; in the Gulf, a well",
   "شبريه": "a traditional bent dagger; in the Gulf, a bed",
   "عصير": "juice; in the Gulf, the hour before sunset",
