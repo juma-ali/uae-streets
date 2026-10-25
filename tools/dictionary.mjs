@@ -65,6 +65,24 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "بدعه": "an innovation; in the Gulf, a well",
+  "شبريه": "a traditional bent dagger; in the Gulf, a bed",
+  "عصير": "juice; in the Gulf, the hour before sunset",
+  "طوبي": "blessedness; in the Gulf, a round stone for baking",
+  "نهي": "a prohibition; نهى also means 'he went'",
+  "قايله": "the noon rest; midday",
+  /* recorded in the Emirati dialect glossary, uaewomen forum thread 1266452 (2017) */
+  "داس": "a palm-cutting tool",
+  "مخرافه": "a basket woven from palm fronds for dates",
+  "مزماه": "a basket like the mikhrafa, for dates",
+  "حابول": "a strong rope used to climb palm trees",
+  "محزم": "a belt worn at a man's waist",
+  "زانه": "a cartridge; also a battery, by context",
+  "زهبه": "the bride's belongings, sent ahead by the groom",
+  "بروه": "a paper or permit from a ruler or official",
+  "عكاسه": "a camera",
+  "معونه": "help, assistance",
+  "مرواد": "a kohl stick for the eyes",
   /* معجم الألفاظ العامية — الأرشيف والمكتبة الوطنية */
   "باورة": "an anchor; the iron hook that holds a ship",
   "مطارح": "bedding; a stuffed mattress, and a cloth thrown over the shoulder",
