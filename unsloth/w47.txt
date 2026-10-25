@@ -1,0 +1,25 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+الزُّوِير	Az Zuweer Street
+الزيتاوي	Alzitawi Street
+الزيزوم	Az Zayzoum Street
+الزِّينات	Az Zeenat Street
+الزيودي	Al Zyoudi Street
+السَّاحَات	Al Sahat Street
+السَاس	Al Sas Street
+السَّالِيَة	Al Saliyah Street
+الساهر	Al Sahir Street
+الساي	Al Say Street
+السايح	Al Sayih Street
+الساير	Al Sayir Street
+السباع	Al Siba' Street
+السبحات	Al Sabhat Street
+السَّبخات	As Sabkhaat Street
+السبعين	Al Sab'ein Street
+السَّبق	As Sabq Street
+السبل	Al Subul Street
+السبو	Al Sabou Street
+السَّجَّات	As Sajjat Street
+
