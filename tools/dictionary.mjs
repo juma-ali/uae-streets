@@ -65,6 +65,10 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* معارف الإمارات — مركز جمال بن حويرب للدراسات */
+  "بلقع": "barren land with nothing on it",
+  "جندليه": "a maze in the desert, or a wide expanse like a sayh",
+  "مسيله": "a small rainwater channel, about three metres wide",
   /* مسميات تضاريس الأرض في اللهجة الإماراتية — مركز جمال بن حويرب للدراسات */
   "طعس": "a desert sand hill",
   "حادي": "the raised edge of a wadi, where the ground falls away",
