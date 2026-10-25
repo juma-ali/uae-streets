@@ -10,7 +10,7 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 const index = existsSync(OUT) ? JSON.parse(readFileSync(OUT, "utf8")) : {};
 const startSize = Object.keys(index).length;
-const STEP = 80;
+const STEP = 38;
 
 let probes = 0;
 for (let p = 10; p <= 7775; p += STEP) {

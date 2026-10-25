@@ -42,7 +42,7 @@ const extract = (html) => {
 };
 
 let done = 0, hits = 0;
-for (const w of list.slice(0, 40)) {
+for (const w of list.slice(0, 260)) {
   if (seen[w]) continue;
   try {
     const r = await fetch("https://www.maajim.com/dictionary/" + encodeURIComponent(w), { headers: UA, signal: AbortSignal.timeout(30000) });

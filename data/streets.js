@@ -21020,18 +21020,23 @@ window.STREETS = [
   "id": "hakeem-bin-jabalah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حَكِيم بن جَبَلة",
   "en": "Hakeem Bin Jabalah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, one of the bravest of men",
+    "ar": "صحابي، من أشجع الناس"
   },
   "story": {
-    "en": "The street carries the name of حَكِيم بن جَبَلة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حَكِيم بن جَبَلة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Hakim ibn Jabala al-Abdi (d. 36 AH) was a Companion of Abd al-Qays, a nobleman obeyed by his people and counted among the bravest of men.",
+    "ar": "حكيم بن جبلة العبدي (ت ٣٦هـ) صحابي من بني عبد القيس، كان شريفاً مطاعاً، ومن أشجع الناس."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج2 ص268",
+      "url": "https://shamela.ws/book/12286/1722"
+    }
+  ]
 },
 {
   "id": "hamdan-bin-mohammed-street",
@@ -21785,18 +21790,23 @@ window.STREETS = [
   "id": "khalid-bin-sinan-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خالِد بن سِنان",
   "en": "Khalid Bin Sinan Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A sage of the Banu Abs before Islam",
+    "ar": "حكيم من بني عبس قبل الإسلام"
   },
   "story": {
-    "en": "The street carries the name of خالِد بن سِنان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم خالِد بن سِنان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Khalid ibn Sinan al-Absi was a sage of the Banu Abs in the age before Islam, remembered for his counsel and his verses.",
+    "ar": "خالد بن سنان العبسي حكيم من بني عبس في الجاهلية، له حكمة وأشعار."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج2 ص296",
+      "url": "https://shamela.ws/book/12286/1804"
+    }
+  ]
 },
 {
   "id": "khalid-bin-thabit-street",
@@ -23812,18 +23822,23 @@ window.STREETS = [
   "id": "uqbah-bin-amer-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عُقبة بن عامِر",
   "en": "Uqbah Bin 'Amer Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion and commander, governor of Egypt",
+    "ar": "صحابي وأمير، ولي مصر"
   },
   "story": {
-    "en": "The street carries the name of عُقبة بن عامِر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عُقبة بن عامِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Uqba ibn Amir al-Juhani (d. 58 AH) was a Companion who rode behind the Prophet, fought at Siffin, took part in the conquest of Egypt and governed it.",
+    "ar": "عقبة بن عامر الجهني (ت ٥٨هـ) أمير من الصحابة، كان رديف النبي، وشهد صفّين، وحضر فتح مصر، ووليها سنة ٤٤هـ."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص240",
+      "url": "https://shamela.ws/book/12286/3687"
+    }
+  ]
 },
 {
   "id": "urwah-bin-iyad-street",
@@ -26160,18 +26175,23 @@ window.STREETS = [
   "id": "al-abhari-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الأبهري",
   "en": "Al Abhari Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A scholar of Isfahan",
+    "ar": "من فضلاء أصبهان"
   },
   "story": {
-    "en": "The street carries the name of الأبهري. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الأبهري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Abhari (d. 338 AH), Ahmad ibn Uthman al-Jabiri, was a scholar of Isfahan of whom Abu Nu'aym said he had exposition and works.",
+    "ar": "الأبهري (ت ٣٣٨هـ) أحمد بن عثمان الجابري، من فضلاء أهل أصبهان، قال فيه أبو نعيم: صاحب بيان وتصانيف."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج1 ص167",
+      "url": "https://shamela.ws/book/12286/436"
+    }
+  ]
 },
 {
   "id": "al-hajaj-al-nadhari-street",
@@ -26330,18 +26350,23 @@ window.STREETS = [
   "id": "al-khouzwini-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع القزويني",
   "en": "Al Khouzwini Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A jurist of the Imami school",
+    "ar": "فقيه إمامي"
   },
   "story": {
-    "en": "The street carries the name of القزويني. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم القزويني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Qazwini (d. 1208 AH), Husayn ibn Ibrahim al-Husayni, was an Imami jurist of Tabriz who died at Qazvin, author of Ma'arij al-Ahkam.",
+    "ar": "القزويني (ت ١٢٠٨هـ) حسين بن إبراهيم الحسيني التبريزي، فقيه إمامي، توفي بقزوين، له «معارج الأحكام»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج2 ص230",
+      "url": "https://shamela.ws/book/12286/1608"
+    }
+  ]
 },
 {
   "id": "al-munther-bin-abdullah-street",
@@ -26398,18 +26423,23 @@ window.STREETS = [
   "id": "al-qashiri-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع القشيري",
   "en": "Al Qashiri Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A preacher, one of the scholars of Nishapur",
+    "ar": "واعظ من علماء نيسابور"
   },
   "story": {
-    "en": "The street carries the name of القشيري. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم القشيري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Qushayri (d. 514 AH), Abd al-Rahim ibn Abd al-Karim, was a preacher of the Banu Qushayr and one of the scholars of Nishapur.",
+    "ar": "القشيري (ت ٥١٤هـ) عبد الرحيم بن عبد الكريم بن هوازن، واعظ من علماء نيسابور، من بني قشير."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص346",
+      "url": "https://shamela.ws/book/12286/2949"
+    }
+  ]
 },
 {
   "id": "al-rabea-bin-zeyad-street",
@@ -26437,18 +26467,23 @@ window.STREETS = [
   "id": "al-rhabi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الرحبي",
   "en": "Al Rhabi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Hanafi jurist of Baghdad",
+    "ar": "فقيه حنفي بغدادي"
   },
   "story": {
-    "en": "The street carries the name of الرحبي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الرحبي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Rahbi (d. after 1184 AH), Abd al-Aziz ibn Muhammad al-Baghdadi, was a Hanafi jurist with knowledge of geometry, who wrote on measuring cisterns.",
+    "ar": "الرحبي (ت بعد ١١٨٤هـ) عبد العزيز بن محمد الرحبي البغدادي، فقيه حنفي، له علم بالهندسة، صنّف «البرهان المحرر»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص27",
+      "url": "https://shamela.ws/book/12286/3050"
+    }
+  ]
 },
 {
   "id": "al-sa-eb-al-thaqafi-street",
@@ -27030,18 +27065,23 @@ window.STREETS = [
   "id": "esa-bin-aban-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عيسى بن أبان",
   "en": "Esa Bin Aban Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A judge, one of the great Hanafi jurists",
+    "ar": "قاضٍ من كبار فقهاء الحنفية"
   },
   "story": {
-    "en": "The street carries the name of عيسى بن أبان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عيسى بن أبان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Isa ibn Aban (d. 221 AH) was a judge of the great Hanafi jurists, known for the speed of his judgments, who held the judiciary of Basra for ten years.",
+    "ar": "عيسى بن أبان (ت ٢٢١هـ) قاضٍ من كبار فقهاء الحنفية، ولي القضاء بالبصرة عشر سنين، وتوفي بها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج5 ص100",
+      "url": "https://shamela.ws/book/12286/4258"
+    }
+  ]
 },
 {
   "id": "fatimah-bint-al-waleed-street",
