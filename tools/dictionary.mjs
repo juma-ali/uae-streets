@@ -65,6 +65,9 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "رمس": "Rams, a coastal town in Ras Al Khaimah",
+  "طاسه": "a bowl, a metal plate",
+  "الميلس": "the majlis, the sitting room of a house",
   /* موسوعة الإمارات البرية — جمعة خليفة بن ثالث الحميري (هيئة المعرفة، 2014) */
   "اثب": "a mountain tree with long leaves",
   "انوان": "a kind of palm of the desert and mountains",
