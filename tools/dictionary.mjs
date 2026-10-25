@@ -65,6 +65,7 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "منز": "a child's cot, a small bed",
   "رمس": "Rams, a coastal town in Ras Al Khaimah",
   "طاسه": "a bowl, a metal plate",
   "الميلس": "the majlis, the sitting room of a house",
