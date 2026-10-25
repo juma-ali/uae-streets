@@ -14607,18 +14607,23 @@ window.STREETS = [
   "id": "zayd-bin-khalid-al-jahni",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زيد بن خالد الجهني",
   "en": "Zayd Bin Khalid Al Jahni Street",
   "meaning": {
-    "en": "An Emirati figure of the Jahni family",
-    "ar": "شخصية إماراتية من أسرة الجهني"
+    "en": "A Companion of the Juhayna who carried their banner",
+    "ar": "صحابي من جهينة، وكان لواؤهم معه يوم الفتح"
   },
   "story": {
-    "en": "The street carries the name of Zayd Bin Khalid, an Emirati figure of the Jahni family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم زيد بن خالد، وهو شخصية إماراتية من أسرة الجهني، ولم يُعثر على ترجمة منشورة له."
+    "en": "Zayd ibn Khalid al-Juhani (d. 78 AH) was a Companion who was present at Hudaybiyyah, carried the banner of Juhayna at the conquest of Mecca, and transmitted eighty-one hadith.",
+    "ar": "زيد بن خالد الجهني (ت ٧٨هـ) صحابي، شهد الحديبية، وكان معه لواء جهينة يوم الفتح، وله ٨١ حديثاً."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص58",
+      "url": "https://shamela.ws/book/12286/2100"
+    }
+  ]
 },
 {
   "id": "zayed-musallam-al-ameri",
@@ -19243,18 +19248,23 @@ window.STREETS = [
   "id": "abu-qatadah-al-ansari-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو قَتادة الأنصارِي",
   "en": "Abu Qatadah Al Ansari Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, called the rider of the Prophet",
+    "ar": "صحابي، كان يُقال له فارس رسول الله"
   },
   "story": {
-    "en": "The street carries the name of أبو قَتادة الأنصارِي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبو قَتادة الأنصارِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abu Qatada al-Ansari (614–674), al-Harith ibn Rib'i, was among the champions and commanders, known by his kunya and called the rider of the Messenger of God.",
+    "ar": "أبو قتادة الأنصاري (١٨ ق.هـ – ٥٤هـ) الحارث بن ربعي الخزرجي، من الأبطال الولاة، اشتهر بكنيته، وكان يُقال له فارس رسول الله."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج2 ص154",
+      "url": "https://shamela.ws/book/12286/1386"
+    }
+  ]
 },
 {
   "id": "abulaziz-bin-hamed-al-mubarak-street",
@@ -19615,18 +19625,23 @@ window.STREETS = [
   "id": "al-haytham-bin-al-aswad-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الهَيثَم بن الأسود",
   "en": "Al Haytham Bin Al Aswad Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Tabi'i of the Nakhai'",
+    "ar": "تابعي من النخع"
   },
   "story": {
-    "en": "The street carries the name of الهَيثَم بن الأسود. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الهَيثَم بن الأسود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Haytham ibn al-Aswad al-Nakha'i (d. c. 100 AH) was a Tabi'i of the Madhhij, known by the kunya Abu al-'Uryan.",
+    "ar": "الهيثم بن الأسود النخعي المذحجي، أبو العريان (ت نحو ١٠٠هـ) تابعي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج8 ص103",
+      "url": "https://shamela.ws/book/12286/7288"
+    }
+  ]
 },
 {
   "id": "al-hubab-bin-jubayr-street",
@@ -19999,18 +20014,23 @@ window.STREETS = [
   "id": "asim-bin-omar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عاصِم بن عُمَر",
   "en": "Asim Bin Omar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A poet of the Quraysh, grandson of Umar",
+    "ar": "شاعر قرشي، حفيد عمر بن الخطاب"
   },
   "story": {
-    "en": "The street carries the name of عاصِم بن عُمَر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عاصِم بن عُمَر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Asim ibn Umar ibn al-Khattab (627–690) was a Qurashi poet, the maternal grandfather of the caliph Umar ibn Abd al-Aziz.",
+    "ar": "عاصم بن عمر بن الخطاب (٦–٧٠هـ) شاعر من قريش، وهو جد عمر بن عبد العزيز لأمه، وتوفي بالربذة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص248",
+      "url": "https://shamela.ws/book/12286/2663"
+    }
+  ]
 },
 {
   "id": "asma-bint-amr-street",
@@ -22110,18 +22130,23 @@ window.STREETS = [
   "id": "malik-bin-aws-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مالِك بن أوس",
   "en": "Malik Bin Aws Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Tabi'i of Medina, chief of his people",
+    "ar": "تابعي مدني، عريف قومه في زمن عمر"
   },
   "story": {
-    "en": "The street carries the name of مالِك بن أوس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مالِك بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Malik ibn Aws (622–710) was a Tabi'i of Medina who had ridden in the age before Islam, embraced Islam late, and was the chief of his tribe in Umar's time.",
+    "ar": "مالك بن أوس بن الحدثان (١–٩٢هـ) تابعي من أهل المدينة، ركب الخيل في الجاهلية وتأخّر إسلامه، وكان عريف قومه في زمن عمر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج5 ص258",
+      "url": "https://shamela.ws/book/12286/4730"
+    }
+  ]
 },
 {
   "id": "mana-bin-saeed-al-otaiba-street",
@@ -22467,18 +22492,23 @@ window.STREETS = [
   "id": "omama-bint-al-harith-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أمامة بنت الحارث",
   "en": "Omama Bint Al Harith Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "An eloquent woman of the age before Islam",
+    "ar": "فصيحة نبيلة جاهلية"
   },
   "story": {
-    "en": "The street carries the name of أمامة بنت الحارث. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أمامة بنت الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Umama bint al-Harith al-Shaybani was an eloquent and noble woman of the age before Islam, wife of Awf ibn Muhallim, and her testament is counted among the finest.",
+    "ar": "أمامة بنت الحارث الشيبانية فصيحة نبيلة جاهلية، كانت زوجة عوف بن محلم، ولها وصية تُعدّ من أفضل ما قيل في بابها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج2 ص11",
+      "url": "https://shamela.ws/book/12286/961"
+    }
+  ]
 },
 {
   "id": "qaf-bin-shrayf-street",
@@ -23918,18 +23948,23 @@ window.STREETS = [
   "id": "yahya-bin-saeed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع يَحيَى بن سَعِيد",
   "en": "Yahya Bin Saeed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A judge of Medina, among the great hadith scholars",
+    "ar": "قاضٍ من أكابر أهل الحديث بالمدينة"
   },
   "story": {
-    "en": "The street carries the name of يَحيَى بن سَعِيد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم يَحيَى بن سَعِيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Yahya ibn Sa'id al-Ansari (d. 143 AH) was a judge of Medina and one of the great scholars of hadith, of whom al-Jumahi said none was closer to al-Zuhri.",
+    "ar": "يحيى بن سعيد الأنصاري (ت ١٤٣هـ) قاضٍ من أكابر أهل الحديث، من أهل المدينة، قال الجمحي: ما رأيت أقرب شبهاً بالزهري منه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج8 ص147",
+      "url": "https://shamela.ws/book/12286/7418"
+    }
+  ]
 },
 {
   "id": "yahya-bin-wathab-street",
@@ -24020,18 +24055,23 @@ window.STREETS = [
   "id": "zayd-bin-al-arqam-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زَيد بن الأرقم",
   "en": "Zayd Bin Al Arqam Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion who fought in seventeen campaigns",
+    "ar": "صحابي، غزا مع النبي سبع عشرة غزوة"
   },
   "story": {
-    "en": "The street carries the name of زَيد بن الأرقم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم زَيد بن الأرقم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Zayd ibn Arqam al-Ansari (d. 68 AH) was a Companion who fought seventeen campaigns with the Prophet, was present at Siffin with Ali, and died in Kufa.",
+    "ar": "زيد بن أرقم الأنصاري (ت ٦٨هـ) صحابي، غزا مع النبي سبع عشرة غزوة، وشهد صفّين مع علي، ومات بالكوفة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص56",
+      "url": "https://shamela.ws/book/12286/2095"
+    }
+  ]
 },
 {
   "id": "zayed-al-khayr-street",
@@ -25094,18 +25134,23 @@ window.STREETS = [
   "id": "abdullah-al-harethi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله الحارثي",
   "en": "Abdullah Al Harethi Street",
   "meaning": {
-    "en": "An Emirati figure of the Harethi family",
-    "ar": "شخصية إماراتية من أسرة الحارثي"
+    "en": "A commander of the early fleets",
+    "ar": "أمير البحر في صدر الإسلام"
   },
   "story": {
-    "en": "The street carries the name of Abdullah, an Emirati figure of the Harethi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله الحارثي، وهو شخصية إماراتية من أسرة الحارثي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abdullah ibn Qays al-Harithi (d. 53 AH) was an ally of the Banu Fazarah and a commander of the sea in early Islam.",
+    "ar": "عبد الله بن قيس الحارثي (ت ٥٣هـ) حليف بني فزارة، وأمير البحر في صدر الإسلام."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص114",
+      "url": "https://shamela.ws/book/12286/3310"
+    }
+  ]
 },
 {
   "id": "abdullah-al-jassi-street",
@@ -25303,18 +25348,23 @@ window.STREETS = [
   "id": "abdullah-bin-badeel-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن بديل",
   "en": "Abdullah Bin Badeel Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion, chief of the Khuza'a",
+    "ar": "صحابي، انتهت إليه سيادة خزاعة"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن بديل. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن بديل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Budayl al-Khuza'i (d. 37 AH) was a Companion of the eloquent and shrewd men, in whom the leadership of Khuza'a ended; he embraced Islam at the conquest.",
+    "ar": "عبد الله بن بديل الخزاعي (ت ٣٧هـ) صحابي من الدهاة الفصحاء، انتهت إليه السيادة في خزاعة، وأسلم يوم الفتح."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص73",
+      "url": "https://shamela.ws/book/12286/3187"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-ka-eb-street",
@@ -25456,18 +25506,23 @@ window.STREETS = [
   "id": "abdullah-bin-zayd-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن زيد",
   "en": "Abdullah Bin Zayd Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar, who fought at Badr",
+    "ar": "صحابي من الأنصار، شهد بدراً"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن زيد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن زيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Zayd ibn Asim al-Ansari (616–683) was a Companion of Medina who fought at Badr and was killed fighting Musaylima.",
+    "ar": "عبد الله بن زيد بن عاصم الأنصاري (٦١٦–٦٨٣م) صحابي من أهل المدينة، شهد بدراً، وقُتل في قتال مسيلمة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج4 ص88",
+      "url": "https://shamela.ws/book/12286/3230"
+    }
+  ]
 },
 {
   "id": "abdullah-hudhan-street",
@@ -26360,18 +26415,23 @@ window.STREETS = [
   "id": "al-rabea-bin-zeyad-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الربيع بن زياد",
   "en": "Al Rabea Bin Zeyad Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A figure of the Arabs before Islam, called the Perfect",
+    "ar": "من دهاة العرب في الجاهلية، وكان يُقال له الكامل"
   },
   "story": {
-    "en": "The street carries the name of الربيع بن زياد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الربيع بن زياد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Rabi' ibn Ziyad al-Absi (d. c. 590) was one of the shrewd and brave leaders of the Arabs before Islam, called the Perfect, and a companion of al-Nu'man ibn al-Mundhir.",
+    "ar": "الربيع بن زياد العبسي (ت نحو ٣٠ ق.هـ) أحد دهاة العرب وشجعانهم في الجاهلية، وكان يُقال له الكامل، ونادم النعمان بن المنذر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص14",
+      "url": "https://shamela.ws/book/12286/1970"
+    }
+  ]
 },
 {
   "id": "al-rhabi-street",
@@ -26496,18 +26556,23 @@ window.STREETS = [
   "id": "amer-bin-lua-y-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عامر بن لؤي",
   "en": "Amer Bin Lua'y Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A pre-Islamic ancestor of the Quraysh",
+    "ar": "جد جاهلي من قريش"
   },
   "story": {
-    "en": "The street carries the name of عامر بن لؤي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عامر بن لؤي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Amir ibn Lu'ay ibn Ghalib was a pre-Islamic ancestor of the Quraysh, from whom Amr ibn Wudd al-Amiri and many others descend.",
+    "ar": "عامر بن لؤي بن غالب، من قريش، جد جاهلي، من نسله عمرو بن ود العامري وكثيرون."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص254",
+      "url": "https://shamela.ws/book/12286/2681"
+    }
+  ]
 },
 {
   "id": "amer-bin-omayah-street",
@@ -26547,18 +26612,23 @@ window.STREETS = [
   "id": "amr-al-bin-hareth-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمرو بن الحارث",
   "en": "Amr Al Bin Hareth Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A pre-Islamic ancestor of Hudhayl",
+    "ar": "جد جاهلي، بنوه بطن من هذيل"
   },
   "story": {
-    "en": "The street carries the name of عمرو بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمرو بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Amr ibn al-Harith ibn Ghanm was a pre-Islamic ancestor of Hudhayl, whose descendants formed a clan of the tribe.",
+    "ar": "عمرو بن الحارث بن غنم، من هذيل، جد جاهلي، بنوه بطن من الهذليين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج5 ص75",
+      "url": "https://shamela.ws/book/12286/4185"
+    }
+  ]
 },
 {
   "id": "amr-bin-abi-al-sarh-street",
@@ -26615,18 +26685,23 @@ window.STREETS = [
   "id": "amr-bin-malik-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمرو بن مالك",
   "en": "Amr Bin Malik Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "An ancient Arab poet",
+    "ar": "شاعر جاهلي قديم"
   },
   "story": {
-    "en": "The street carries the name of عمرو بن مالك. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمرو بن مالك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Amr ibn Malik, of Bakr ibn Wa'il, was an ancient poet of the age before Islam, of whom al-Marzubani said he ended the leadership of Yashkur.",
+    "ar": "عمرو بن مالك بن زيد، من بكر بن وائل، شاعر جاهلي قديم، قال المرزباني إنه أزال رياسة يشكر عن ربيعة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج5 ص85",
+      "url": "https://shamela.ws/book/12286/4213"
+    }
+  ]
 },
 {
   "id": "amr-bin-muslem-street",
@@ -28100,18 +28175,23 @@ window.STREETS = [
   "id": "mohamed-bin-al-mundhar-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن المنذر",
   "en": "Mohamed Bin Al Mundhar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A hadith scholar, called Shukr",
+    "ar": "حافظ للحديث، يُلقّب بشكر"
   },
   "story": {
-    "en": "The street carries the name of محمد بن المنذر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن المنذر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Muhammad ibn al-Mundhir al-Harawi (d. 355 AH) was a hadith scholar of the Banu Abbas, known as Shukr, described by Ibn Nasir al-Din as one of the travelling memorisers.",
+    "ar": "محمد بن المنذر الهروي (ت ٣٥٥هـ) حافظ للحديث، من بني العباس، يُلقّب بشكر، قال ابن ناصر الدين: كان من الحفاظ الرحّالين."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج7 ص111",
+      "url": "https://shamela.ws/book/12286/6268"
+    }
+  ]
 },
 {
   "id": "mohammed-al-azhar-street",
