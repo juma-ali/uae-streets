@@ -178,19 +178,32 @@ window.STREETS = [
     }
   },
   {
-    id: "baniyas-road",
-    emirate: "dubai",
-    category: "tribe",
-    origin: "documented",
-    ar: "شارع بني ياس",
-    en: "Baniyas Road",
-    translit: "Shāriʿ Banī Yās",
-    meaning: { en: "The road of the Bani Yas", ar: "طريق قبيلة بني ياس" },
-    story: {
-      en: "Bani Yas is the tribe from which both the Al Maktoum and Al Nahyan families descend, and whose members settled the coast between Abu Dhabi and Dubai. The road along Deira's Creek side carries the tribe's name — a reminder that the two biggest cities share one tribal root.",
-      ar: "بني ياس هي القبيلة التي تنتسب إليها أسرتا آل مكتوم وآل نهيان، والتي استوطنت الساحل بين أبوظبي ودبي. ويحمل الشارع الممتد على جانب خور ديرة اسم القبيلة، تذكيراً بأن أكبر مدينتين تشتركان في جذر قبلي واحد."
-    }
+  "id": "baniyas-road",
+  "emirate": "dubai",
+  "category": "tribe",
+  "origin": "documented",
+  "ar": "شارع بني ياس",
+  "en": "Baniyas Road",
+  "translit": "Shāriʿ Banī Yās",
+  "meaning": {
+    "en": "The road of Bani Yas: the tribe, and the Abu Dhabi district of the same name",
+    "ar": "طريق بني ياس: القبيلة، ومنطقة بني ياس في أبوظبي"
   },
+  "story": {
+    "en": "Bani Yas is one of the best-known Arab tribes of the Gulf coast and among the most numerous. From the beginning of the modern era until the time of Zayed bin Khalifa it formed the strongest land force in the Emirates, and both the Al Nahyan and Al Maktoum families descend from it. The name also belongs to a large residential and commercial district of Abu Dhabi. In Dubai the road runs along the Deira side of the Creek.",
+    "ar": "بنو ياس قبيلة عربية من أشهر قبائل ساحل الخليج وأكثرها عدداً، وكانت من بداية التاريخ الحديث وإلى عهد زايد بن خليفة (زايد الأول) أكبر قوة برية في الإمارات، ومنها تنحدر أسرتا آل نهيان وآل مكتوم. ويُطلق الاسم أيضاً على منطقة سكنية وتجارية كبيرة في إمارة أبوظبي. وفي دبي يمتد الشارع على جانب خور ديرة."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — بنو ياس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%88_%D9%8A%D8%A7%D8%B3"
+    }
+  ],
+  "also": [
+    "Bani Yas Street",
+    "Baniyas Road"
+  ]
+},
   {
     id: "al-maktoum-road",
     emirate: "dubai",

@@ -89,7 +89,10 @@ function classify(s) {
   // family names are Arabic, so compare the Arabic head with its article removed
   const hBare = h.replace(/^ال/, "");
   if (FAMILY.has(hBare)) return "tribe";
-  if (/^bani\b/i.test(n) || /^بني\b/.test(norm(a))) return "tribe";
+  /* the Arabic test has to look past the street word: «شارع بني ياس» is a tribe,
+     and the transliteration may be joined as well as split ("Baniyas", "Bani Yas") */
+  const aBare = norm(a).replace(/^(شارع|طريق|جادة|دوار|ساحة|ميدان|جسر|نفق)\s+/, "");
+  if (/^bani(\s|-|y)?/i.test(n) || /^بني(\s|$)/.test(aBare)) return "tribe";
 
   // places: landforms, landmarks, districts
   if (GEO.has(h)) return "place";

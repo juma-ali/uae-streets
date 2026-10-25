@@ -153,6 +153,8 @@ const storyByName = new Map();
 for (const e of EDITORIAL) {
   storyByName.set(nameKey(e.en), e.id);
   if (e.former) storyByName.set(nameKey(e.former.en), e.id);
+  /* one road may be written more than one way on the ground */
+  for (const alt of e.also || []) storyByName.set(nameKey(alt), e.id);
 }
 
 
