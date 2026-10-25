@@ -14837,8 +14837,8 @@ window.STREETS = [
     "ar": "شخصية إماراتية من أسرة الشرقي"
   },
   "story": {
-    "en": "The street carries the name of Abi Hamid, an Emirati figure of the Sharqy family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي حامد، وهو شخصية إماراتية من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of Abi Hamid of the Al Sharqi family, the ruling family of Fujairah. No published biography of him was found, so the card records the name and the family, and claims nothing further.",
+    "ar": "يحمل الشارع اسم أبي حامد من أسرة آل الشرقي، الأسرة الحاكمة في إمارة الفجيرة. ولم يُعثر على ترجمة منشورة له، فالبطاقة تسجّل الاسم والأسرة ولا تنسب إليه غيرهما."
   },
   "refs": []
 },
@@ -24754,8 +24754,8 @@ window.STREETS = [
     "ar": "شخصية إماراتية من أسرة الشرقي"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Hamad Bin Saif, an Emirati figure of the Sharqi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ حمد بن سيف الشرقي، وهو شخصية إماراتية من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of Sheikh Hamad bin Saif of the Al Sharqi family, the ruling family of Fujairah. No published biography of him was found, so the card records the name and the family, and claims nothing further.",
+    "ar": "يحمل الشارع اسم الشيخ حمد بن سيف من أسرة آل الشرقي، الأسرة الحاكمة في إمارة الفجيرة. ولم يُعثر على ترجمة منشورة له، فالبطاقة تسجّل الاسم والأسرة ولا تنسب إليه غيرهما."
   },
   "refs": []
 },
@@ -24832,8 +24832,8 @@ window.STREETS = [
     "ar": "شخصية إماراتية من أسرة الشرقي"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Mohamed Bin Hamad, an Emirati figure of the Sharqi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ محمد بن حمد الشرقي، وهو شخصية إماراتية من أسرة الشرقي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The street carries the name of Sheikh Mohamed bin Hamad of the Al Sharqi family, the ruling family of Fujairah. No published biography of him was found, so the card records the name and the family, and claims nothing further.",
+    "ar": "يحمل الشارع اسم الشيخ محمد بن حمد من أسرة آل الشرقي، الأسرة الحاكمة في إمارة الفجيرة. ولم يُعثر على ترجمة منشورة له، فالبطاقة تسجّل الاسم والأسرة ولا تنسب إليه غيرهما."
   },
   "refs": []
 },
