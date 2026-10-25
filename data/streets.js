@@ -30922,5 +30922,36 @@ window.STREETS = [
       "url": "https://ar.wikipedia.org/wiki/جمال_عبد_الناصر"
     }
   ]
+},
+{
+  "id": "al-sharqi-road",
+  "emirate": "fujairah",
+  "category": "tribe",
+  "origin": "documented",
+  "ar": "طريق الشرقى",
+  "en": "Al Sharqi Road",
+  "translit": "Ṭarīq Ash-Sharqī",
+  "meaning": {
+    "en": "The road of the Al Sharqi family, rulers of Fujairah",
+    "ar": "طريق آل الشرقي، الأسرة الحاكمة في الفجيرة"
+  },
+  "story": {
+    "en": "Al Sharqi is the ruling family of Fujairah, one of the seven emirates of the United Arab Emirates, and the only emirate whose coast lies on the Gulf of Oman rather than the Arabian Gulf. Fujairah is governed today by Sheikh Hamad bin Mohammed Al Sharqi, and it was among the emirates that agreed in 1971 to form the federation.",
+    "ar": "آل الشرقي هي الأسرة المالكة الحاكمة في إمارة الفجيرة، إحدى الإمارات السبع المكونة لدولة الإمارات العربية المتحدة، وهي الإمارة الوحيدة التي يقع ساحلها على بحر عُمان لا على الخليج العربي. ويحكمها اليوم الشيخ حمد بن محمد الشرقي، وكانت الفجيرة من الإمارات التي اتفقت في ١٩٧١ على قيام الاتحاد."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — إمارة الفجيرة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A5%D9%85%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%81%D8%AC%D9%8A%D8%B1%D8%A9"
+    },
+    {
+      "label": "ويكيبيديا العربية — حمد بن عبد الله الشرقي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A"
+    }
+  ],
+  "also": [
+    "Al Sharqi Road",
+    "Al Sharqi Street"
+  ]
 }
 ];
