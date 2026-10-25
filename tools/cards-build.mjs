@@ -155,6 +155,18 @@ for (const e of EDITORIAL) {
   if (e.former) storyByName.set(nameKey(e.former.en), e.id);
 }
 
+
+/* OSM leaves name:ar empty for a few districts. These are their Arabic names:
+   three are ordinary Arabic words, two are transliterations of project names
+   that have no Arabic form in OSM. */
+const DISTRICT_AR = {
+  "Al Bustan": "البستان",
+  "JLT cluster Q": "القطعة Q من أبراج بحيرات جميرا",
+  "Hayl": "الحيل",
+  "Victory Heights Villages": "قرى فيكتوري هايتس",
+  "Ribiyyah": "الرَّبيْعة"
+};
+
 const areaById = new Map(KB.areas.map((a) => [a.id, a]));
 const districts = [];
 const districtIndex = new Map();
@@ -166,7 +178,11 @@ const districtFor = (areaId, emirate, osm) => {
   const key = areaId || (loc ? "loc:" + loc[0] : "em:" + emirate);
   if (districtIndex.has(key)) return districtIndex.get(key);
   const a = areaId ? areaById.get(areaId) : null;
-  districts.push([a ? a.path[3] : (loc ? loc[0] : ""), (a && a.name_ar) || (loc ? loc[1] : "") || "", emirate, areaId || "", loc ? "approx" : ""]);
+  const dEn = a ? a.path[3] : (loc ? loc[0] : "");
+  /* some OSM entries carry the English name in name:ar — an override is better than Latin */
+  const osmAr = (a && a.name_ar) || (loc ? loc[1] : "") || "";
+  const dAr = /[\u0600-\u06FF]/.test(osmAr) ? osmAr : (DISTRICT_AR[dEn] || "");
+  districts.push([dEn, dAr, emirate, areaId || "", loc ? "approx" : ""]);
   districtIndex.set(key, districts.length - 1);
   return districts.length - 1;
 };

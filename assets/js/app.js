@@ -188,7 +188,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261029f";
+    s.src = "data/cards.js?v=20261029g";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -422,7 +422,7 @@
       "</button>"
     ].concat(EMIRATES.map(function (e) {
       return '<button type="button" class="chip" data-group="emirate" data-value="' + e.id + '" aria-pressed="false">' +
-        '<span class="chip__label" data-en="' + esc(e.en) + '" data-ar="' + esc(e.ar) + '">' + esc(e.en) + "</span>" +
+        '<span class="chip__label" data-en="' + esc(e.en) + '" data-ar="' + esc(e.ar) + '">' + esc(state.lang === "ar" ? e.ar : e.en) + "</span>" +
         '<span class="chip__count"></span></button>';
     })).join("");
 
@@ -432,7 +432,7 @@
       "</button>"
     ].concat(CATEGORIES.map(function (c) {
       return '<button type="button" class="chip" data-group="category" data-value="' + c.id + '" aria-pressed="false">' +
-        '<span class="chip__label" data-en="' + esc(c.en) + '" data-ar="' + esc(c.ar) + '">' + esc(c.en) + "</span>" +
+        '<span class="chip__label" data-en="' + esc(c.en) + '" data-ar="' + esc(c.ar) + '">' + esc(state.lang === "ar" ? c.ar : c.en) + "</span>" +
         '<span class="chip__count"></span></button>';
     })).join("");
   }
@@ -513,12 +513,12 @@
     var ids = Object.keys(counts).map(Number).sort(function (x, y) { return counts[y] - counts[x]; });
     if (!ids.length) { row.hidden = true; wrap.innerHTML = ""; return; }
     var html = ['<button type="button" class="chip chip--sub" data-town="all" aria-pressed="' +
-      (state.town === "all" ? "true" : "false") + '"><span class="chip__label" data-en="All towns" data-ar="كل البلدات">All towns</span></button>'];
+      (state.town === "all" ? "true" : "false") + '"><span class="chip__label" data-en="All towns" data-ar="كل البلدات">' + esc(state.lang === "ar" ? "كل البلدات" : "All towns") + '</span></button>'];
     ids.forEach(function (t) {
       var town = H.towns[t];
       html.push('<button type="button" class="chip chip--sub" data-town="' + t + '" aria-pressed="' +
         (String(state.town) === String(t) ? "true" : "false") + '">' +
-        '<span class="chip__label" data-en="' + town[0].replace(/"/g, "&quot;") + '" data-ar="' + (town[1] || town[0]).replace(/"/g, "&quot;") + '">' + town[0] +
+        '<span class="chip__label" data-en="' + town[0].replace(/"/g, "&quot;") + '" data-ar="' + (town[1] || town[0]).replace(/"/g, "&quot;") + '">' + esc(state.lang === "ar" ? (town[1] || town[0]) : town[0]) +
         '</span><span class="chip__count">' + counts[t] + "</span></button>");
     });
     wrap.innerHTML = html.join("");
