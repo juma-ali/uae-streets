@@ -65,6 +65,18 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* مسميات تضاريس الأرض في اللهجة الإماراتية — مركز جمال بن حويرب للدراسات */
+  "طعس": "a desert sand hill",
+  "حادي": "the raised edge of a wadi, where the ground falls away",
+  "حدره": "a slope channel carrying rainwater down from the mountain",
+  "حويصه": "a round pit in the sand",
+  "زروف": "the surge of floodwater down a wadi",
+  "غيل": "water left in the wadi bed after the flood has passed",
+  "هجله": "a hollow where rainwater gathers into a pool",
+  "مسيال": "a rainwater channel some three metres wide",
+  "رعله": "a high mountain peak, in the Shihuh dialect",
+  "سوت": "a wide, long cave, larger than a cavern",
+  "مطلاع": "an ascending path up a mountain or hill",
   "منز": "a child's cot, a small bed",
   "رمس": "Rams, a coastal town in Ras Al Khaimah",
   "طاسه": "a bowl, a metal plate",
