@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+إبراهيم البغدادي	Ibrahim Al Baghdadu Street	الشارقة
+إبراهِيم التَّيمِي	Ibrahim At Taymi Street	أبوظبي
+إبراهيم بن بسام	Ibrahim Bin Basam Street	الشارقة
+إبراهيم محمد المدفع	Ibrahim Mohammed Al Medfa'a Street	الشارقة
+ابن أبي لبابة	Iben Abi Lubaba Street	الشارقة
+ابن السماق	Iben Al Samak Street	الشارقة
+ابن المسيب	Iben Al Musayeb Street	الشارقة
+ابن ذي البردين	Ibn Dhi Al Burdeen	الشارقة
+ابن سيرين	Iben Sireen Street	الشارقة
+ابن ضبيعة	Iben Dhubai'ah Street	الشارقة
+ابن ظاهر	Ibn Dhaher Street	الشارقة
+ابن علي القاسم	Iben Ali Al Qasim Street	الشارقة
+ابن علي مبارك	Ibn Ali Mubarak Street	الشارقة
+ابن ماجد	Ibn Majed Street	أم القيوين
+ابن مجاعة	Iben Maja'ah Street	الشارقة
+أبو إسحاق السَّبِيعِي	Abu Is-haq As Sabee'i Street	أبوظبي
+أبو أسِيرة بن الحارِث	Abu Aseerah Bin Al Harith Street	أبوظبي
+أبو أيوب أك أنيم	Abu Ayoub Ak Aneem Street	الشارقة
+أبو بَكر بن عَيَّاش	Abu Bakr Bin Ayach Street	أبوظبي
+أبو طلحة	Abu Talha Street	الشارقة

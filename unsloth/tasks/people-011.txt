@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+بركة بنت ثعلبة	Barakah Bint Tha'alabah Street	الشارقة
+بِشر بن عبدالله	Bishr Bin Abdullah Street	أبوظبي
+بشر بن عمرو	Bashr Bin Amr Street	الشارقة
+بِشر بن قَيس	Bishr Bin Qays Street	أبوظبي
+بشر بن معاوية	Bshr Bin Mu'awyah Street	الشارقة
+بَشِير بن مَعبَد	Basheer Bin Ma'bad Street	أبوظبي
+بَطحَا بن هِلال	Bat-ha Bin Hilal Street	أبوظبي
+بطي بن المغنى القبيسي	Butti Bin Almughni Al Qubaisi Street	أبوظبي
+بطي بن حامد آل حامد	Butti Bin Hamed Al Hamed Street	أبوظبي
+بكر بن أمَيَّة	Bikr Bin Umayah Street	أبوظبي
+بلال بن أبي بكرة	Bilal Bin Abi Bakra Street	الشارقة
+بن المغيث	Bin Al Mughith Street	الشارقة
+بن جماز	Bin Jummaz Street	الشارقة
+بن خازم	Bin Khazem Street	الشارقة
+بن ظاهر	Bin Dhaher Street	رأس الخيمة
+بن عشيش	Bin 'Isheesh Street	أبوظبي
+بن مِسمِح	Bin Mismih Street	أبوظبي
+بن هادِي	Bin Hadi Street	أبوظبي
+بنت المطر	Bint Al Matar Street	أبوظبي
+بِنْت النُّوْخَذَا	Bint Al Noukhadha Street	أبوظبي

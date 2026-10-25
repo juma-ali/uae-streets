@@ -25,3 +25,6 @@ package-lock.json
 *.exe
 *.msi
 *.dmg
+
+# local model output, merged by hand
+unsloth/answers/

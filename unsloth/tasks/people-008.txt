@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+القشيري	Al Qashiri Street	الشارقة
+الكندي بن مصبح المرر	Alkindi Bin Musabah Al Marar Street	أبوظبي
+الليث بن سعيد	Al Layth Bin Sa'ed Street	الشارقة
+المرقاب بن راشد	Murjab Bin Rashed Street	الشارقة
+المطار	Airport Road	أبوظبي
+المِقدام بن مَعد	Al Miqdam Bin Ma'd Street	أبوظبي
+الملك سلمان بن عبدالعزيز آل سعود	King Salman Bin Abdulaziz Al Saud Street	أبوظبي
+الملك عبد العزيز	King Abdul Aziz Street	الشارقة
+الملك عبدالله بن عبدالعزيز آل سعود	King Abdullah bin Abdulaziz Al Saud Street	أبوظبي
+المنذر بن عبدالله	Al Munther Bin Abdullah Street	الشارقة
+المنصور	Al Mansour Street	أبوظبي
+المَيثاء	Al Maytha-a Street	أبوظبي
+الناصر بن عمرو	Al Nassir Bin Amr Street	الشارقة
+النجدة	Al Najda Street	أبوظبي
+النَّزَّال بن سُبرة	An Nazzal Bin Subrah Street	أبوظبي
+النعمان بن عوف	Al Nu'man Bin Ouf Street	الشارقة
+النعمان بن مالك	An Nu'man Bin Malik Street	أبوظبي
+النَّوَّاس بن سَمعان	An Nawwas Bin Sam'an Street	أبوظبي
+الهَيثَم بن الأسود	Al Haytham Bin Al Aswad Street	أبوظبي
+الوصل	Al Wasl Road	دبي

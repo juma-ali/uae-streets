@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+الأرقم	Al Arqm Street	أبوظبي
+الأصمَعِي	Al Asma'i Street	أبوظبي
+الأعراف بن الاعلم	Al A'araf bin Al A'alam Street	الشارقة
+الإلكترا	Electra Street	أبوظبي
+الثابت	Al Thabit Street	أبوظبي
+الجارُود بن المُعَلَّى	Al Jaroud Bin Al Mu'alla Street	أبوظبي
+الجنيد بن عبد الرحمن	Al Junaid Bin Abdul Rahman Street	الشارقة
+الجنيد عبد الله	Al Junaid Bin Abdullah Street	الشارقة
+الحارِث بن الأزمَع	Al Harith Bin Al Azma' Street	أبوظبي
+الحارِث بن الرَّبِيع	Al Harith Bin Ar Rabee' Street	أبوظبي
+الحارث بن الطائي	Al Harth Bin Al Ta'i Street	الشارقة
+الحارث بن النعمان	Al Hareth Bin Al Nua'man	الشارقة
+الحارث بن أوس	Al Hareth Bin Aws Street	الشارقة
+الحارث بن أوس بن معاذ	Al Harith Bin Aws Bin Mu'adh Street	أبوظبي
+الحارث بن حسن	Al Hareth Bin Hassan Street	الشارقة
+الحارِث بن سَلَمة	Al Harith Bin Salamah Street	أبوظبي
+الحارِث بن عبدالله	Al Harith Bin Abdullah Street	أبوظبي
+الحارث بن عتيق	Al Hareth Bin Ateeq Street	الشارقة
+الحارث بن قيس	Al Hareth Bin Qais Street	الشارقة
+الحارِث بن هانِئ	Al Harith Bin Hani-a Street	أبوظبي

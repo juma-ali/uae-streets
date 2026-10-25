@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+سفيان بن مجيب	Sufyan Bin Mujeeb Street	الشارقة
+سفيان بن ناصر	Sufyan Bin Nasr Street	الشارقة
+سلام بن أسلم	Salam Bin Aslam Street	الشارقة
+سلامة بنت بطي	Salama Bint Butti Street	أبوظبي
+سلمة بن أسلم	Salamah Bin Aslam Street	الشارقة
+سلمة بن الميلاء	Salama Bin Al Mayla'a Street	الشارقة
+سلمة بن سلامة	Salamah Bin Salamah Street	الشارقة
+سِلِيل بن قَذلان	Sileel Bin Qadhlan Street	أبوظبي
+سليم بن عمرو	Saleem Bin Amr Street	الشارقة
+سمية بنت الخياط	Sumayah Bint Al Khayat Street	أبوظبي
+سنان بن أبي سنان	Sinan Bin Abi Sinan Street	أبوظبي
+سهل ابن الحنظلية	Sahl Ibn Al Handhaliyah Street	أبوظبي
+سهل بن الحنظلية	Sahil Bin Al Handhalyeh Street	الشارقة
+سهل بن عدي	Sahil Bin Odai Street	الشارقة
+سهل بن عمرو	Sahl Bin Amro Street	الشارقة
+سهيل بن الربيع	Suhail Bin AL Rabi'eh Street	الشارقة
+سهيل بن حنيف	Suhel Bin Haneef Street	الشارقة
+سهيل بن رفعة	Suhail Bin Rafi'h Street	الشارقة
+سهيل بن عتيك	Sahil Bin Autayk Street	الشارقة
+سهيل بن عدي	Suhail Bin Oday Street	الشارقة

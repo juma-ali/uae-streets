@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+مسباح بن مبارك المرر	Misbah Bin Mubarak Al Marar Street	أبوظبي
+مَسعُود بن الأسوَد	Mas'oud Bin Al Aswad Street	أبوظبي
+مسعود بن خلدة	Masoud Bin Khaladah Street	الشارقة
+مسعود بن سعد	Masoud Bin Sa'ad Street	الشارقة
+مصبح بن الكندي المرر	Musabah Bin Alkindi Al Marar Street	أبوظبي
+معاذ بن عمرو	Muath Bin Amr Street	الشارقة
+معوذ بن عفراء	Mo'awth Bin Afra'a Street	الشارقة
+مَغايِل بن عمَير	Maghayil Bin 'Mayr Street	أبوظبي
+مَغِيلة بن عَيَّة	Magheelat Bin 'Ayah Street	أبوظبي
+منذر بن قدامة	Munther Bin Qudamah Street	الشارقة
+منذر بن محمد	Mundher Bin Mohammed Street	الشارقة
+مهره بنت خالد بن سلطان	Mahra Bint Khaled Bin Sultan Street	أبوظبي
+موربا بن مسعود	Murba Bin Masoud Street	الشارقة
+موسى بن طلحة	Mousa Bin Talha Street	الشارقة
+ناصر بن سويد المنصوري	Nasser Bin Sweed Almansoori Street	أبوظبي
+نَخل بن جِبارة	Nakhl Bin Jibarah Street	أبوظبي
+نعيم بن مقرن	Na'eem Bin Muqren Street	الشارقة
+نِقا بن حادة	Niqa Bin Hadah Street	أبوظبي
+نِقا بن سَبت	Niqa Bin Sabt Street	أبوظبي
+نِقا بن عتيج	Niqa Bin 'Teej Street	أبوظبي

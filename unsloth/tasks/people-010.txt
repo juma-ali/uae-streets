@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+بَدع بن حارِب	Bad' Bin Harib Street	أبوظبي
+بَدع بن خِزام	Bad' Bin Khizam Street	أبوظبي
+بَدع بن دِمَيثان	Bad' Bin Dimaythan Street	أبوظبي
+بَدع بن سلِيمان	Bad' Bin Slaiman Street	أبوظبي
+بَدع بن سوَيح	Bad' Bin Swayh Street	أبوظبي
+بَدع بن شارِد	Bad' Bin Sharid Street	أبوظبي
+بَدع بن عَمَّار	Bad' Bin 'Ammar Street	أبوظبي
+بَدع بن عِمَير	Bad' Bin 'Imayr Street	أبوظبي
+بَدع بن عُوشانة	Bad' Bin 'Oushanah Street	أبوظبي
+بَدع بن عُون	Bad' Bin 'Oun Street	أبوظبي
+بَدع بن غَنَّام	Bad' Bin Ghannam Street	أبوظبي
+بَدع بن قِرَّان	Bad' Bin Qirran Street	أبوظبي
+بَدع بنت سَعود	Bad' Bint Sa'oud Street	أبوظبي
+برج بن حليس	Burj Bin Hlees Street	أبوظبي
+برج بن ختروش	Burj Bin Khatroush Street	أبوظبي
+برج بن هِلال	Burj Bin Hilal Street	أبوظبي
+بَرقا بن سوَيح	Barqa Bin Siwayh Street	أبوظبي
+بَرقا بن طَلفاحه	Barqa Bin Talfahah Street	أبوظبي
+بَرقا بن عامِر	Barqa Bin 'Amer Street	أبوظبي
+بَرقا بن هادِي	Barqa Bin Hadi Street	أبوظبي

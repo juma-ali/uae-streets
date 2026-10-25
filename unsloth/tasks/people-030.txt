@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+قَيس بن عَبَّاد	Qays Bin Abbad Street	أبوظبي
+قيس بن محسن	Qais Bin Muhsin Street	الشارقة
+قيس بن مخلد كيسان	Qays Bin Mukhallad Keesan Street	أبوظبي
+قَيس بن مَروان	Qays Bin Marwan Street	أبوظبي
+كثير بن عمرو	Katheer Bin Amr Street	الشارقة
+كَعب بن عُجرة	Ka'b Bin 'Ujrah Street	أبوظبي
+كعب بن عمرو	Ka'eb Bin Amr Street	الشارقة
+كليب بن تميم	Kulayb Bin Tamim Street	الشارقة
+لَيلَى بنت أبي حَثمة	Laila Bint Abi Hathmah Street	أبوظبي
+ماء بن دري	Ma Bin Driy Street	أبوظبي
+ماجد الأول	Majed Al Awal Street	أم القيوين
+مالِك بن الحارِث	Malik Bin Al Harith Street	أبوظبي
+مالِك بن أنَس	Malik Bin Anas Street	أبوظبي
+مالِك بن أوس	Malik Bin Aws Street	أبوظبي
+مانع بن سعيد العتيبة	Mana Bin Saeed Al Otaiba Street	أبوظبي
+مبارك بن محمد	Mubarak Bin Mohammed Street	أبوظبي
+مجاشع بن مسعود	Mujashe'a Bin Masoud Street	الشارقة
+مجدر بن ذياب	Majdar Bin Dhiyab Street	أبوظبي
+مجرن بن سلطان المرر	Mejren Bin Sultan Al Marar Street	أبوظبي
+مجرن بن محمد المرر	Mejren Bin Mohammed Al Marar Street	أبوظبي

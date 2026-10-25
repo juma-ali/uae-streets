@@ -41,9 +41,9 @@ Two limits, both measured, not guessed:
 For a handful of deliberate questions, with the engines healthy:
 
 ```bash
-node tools/web-check.mjs --names "Mankhool Road;Al Rebat Street" --delay 5000
+node archive/tools/web-check.mjs --names "Mankhool Road;Al Rebat Street" --delay 5000
 ```
 
 Keep batches small (10–20) and the delay long (5 s). For systematic coverage use
-`tools/wiki-check.mjs` instead: it is deterministic, needs no engines, and cannot
+`archive/tools/wiki-check.mjs` instead: it is deterministic, needs no engines, and cannot
 be rate-limited.

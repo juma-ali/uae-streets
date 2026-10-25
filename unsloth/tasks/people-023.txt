@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+عباس بن عبادة	Abbas Bin Obadah Street	الشارقة
+عباية بن رِبعِي	Abayah Bin Rib'ee Street	أبوظبي
+عبد الأسهل إياس بن أوس	Abd Al As-hal Iyas Bin Aws Street	أبوظبي
+عبد الرحمن الناصر	Abdullrahman Al Nasir Street	الشارقة
+عبد السلام عارف	Abdul Salam Arif Street	الشارقة
+عبد الله الخزار	Abdullah Al Khazzar Street	الشارقة
+عبد الله بن صلاح	Abdullah Bin Salah Street	الشارقة
+عبد الله بن عبد المناف	Abdullab Bin Abed Manaf Street	الشارقة
+عبد الله مصعود	Abdulla Bin Mas'oud Street	الشارقة
+عبدالجليل بن محمد الفهيم	Abduljalil Bin Mohammed Al Fahim Street	أبوظبي
+عبدالرحمن بن الهبيت	Abdulrahman Bin Al Habeet Street	أبوظبي
+عبدالرحمن بن زياد	Abdullarahman Bin Zeyad Streeet	الشارقة
+عبدالرحمن بن زيد	Abdulrahman Bin Zayd Street	أبوظبي
+عبدالرحمن بن سليط	Abdulrahman Bin Sulait Street	الشارقة
+عبدالرحمن بن سمُرة	Abdulrahman Bin Samurah Street	أبوظبي
+عبدالرَّحمَن بن عائِذ	Abdulrahman Bin 'A-idh Street	أبوظبي
+عبدالرحمن بن عديس	Abdulrahman Bin 'Udays Street	أبوظبي
+عبدالرحمن بن علي المبارك	Abdulrahman Bin Ali Al Mubarak Street	أبوظبي
+عبدالرحمن بن كعب	Abdulrahman Bin Ka'eb Street	الشارقة
+عبدالعزيز بن حمد المبارك	Abulaziz Bin Hamed Al Mubarak Street	أبوظبي

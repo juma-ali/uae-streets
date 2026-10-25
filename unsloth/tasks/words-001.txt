@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+النُّجُوم	An Nujoum Street
+آيرس	Iris Drive
+الأصايِل	Al Asayil Street
+الأصْدِقاء	Al Asdiqa Street
+الأَطْيَاب	Al Atyab Street
+الأَفَاضِل	Al Afadhil Street
+الأُمْنِيات	Al Omniyat Street
+البارجِيل	Al Barjeel Street
+البَيلِي	Al Bayli Street
+التَبَّاب	At Tabbab Street
+التَّغْرُودَة	Al Taghroudah Street
+التلاي	Al Tallay Street
+الجَالِي	Al Jali Street
+الحارِث	Al Harith Street
+الحدود	Border Road
+الحَراي	Al Haray Street
+الحَمدانِيَّة	Al Hamdaniyah Street
+الحِمرِيَّة	Al Himriyah Street
+الحَمِيدِيَّة	Al Hameediyah Street
+الحويلات	Al Huweelat Street

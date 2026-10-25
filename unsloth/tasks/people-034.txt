@@ -1,0 +1,13 @@
+أجب عن 9 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+يَزيد بن الأَخنَس	Yazeed Bin Al Akhnas Street	أبوظبي
+يَزِيد بن الأسوَد	Yazeed Bin Al Aswad Street	أبوظبي
+يزيد بن الحر	Yazeed Bin Al Hur Street	الشارقة
+يزيد بن أوس	Yazeid Bin Aws Street	الشارقة
+يزيد بن زريعة	Yazeed Bin Zuray'h Street	الشارقة
+يَزِيد بن طَلحة	Yazeed Bin Talhah Street	أبوظبي
+يزيد بن عامر	Yazeed Bin Amer Street	الشارقة
+يزيد بن عبدالمَلك	Yazeed Bin Abd Al Malik Street	أبوظبي
+يزيد بن قيس	Yazeed Bin Qais Street	الشارقة

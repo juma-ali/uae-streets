@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+الخالِدية	Al Khalidiyah Street
+الخَزمِية	Al Khazmiyah Street
+الخياي	Al Khayyay Street
+الدرار	Al Dorar Street
+الديم	Ad Deem Street
+الرجيلات	Rugaylat Road
+الرحيب	Al Raheeb Street
+الرِّزَيْز	Al Rizayz Street
+الرِّقايِب	Ar Riqayib Street
+الرَّمرامِيات	Al Ramramiyat Street
+الرُّوابِي	Ar Ruwabi Street
+الزَّاهِرة	Az Zahirah Street
+الزعامة	Al Za'amah Street
+الزِّهبَة	Al Zihbah Street
+الزُّهور	Al Zuhour Street
+الزِّيَاد	Al Ziyad Street
+السَّاجِي	As Saji Street
+الساد	Al Sadd Street
+السَّتمِي	As Satmi Street
+السدو	Al Sadou Street

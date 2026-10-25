@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+الهبات	Al Habbat Street
+الهِبايِب	Al Hibayib Street
+الهبسكس	Hibiscus Way
+الهَتَّان	Al Hattan Street
+الهَتَلان	Al Hatlan Street
+الهتون	Al Hatoun Street
+الهَجلة	Al Hajlah Street
+الهِجِينِي	Al Hijeeni Street
+الهَدَايَا	Al Hadaya Street
+الهِدَد	Al Hidad Street
+الهَدوانِيَّة	Al Hadwaniyah Street
+الهديبة	Al Hdaibah Street
+الهَذَّاذ	Al Hadhadh Street
+الهُذام	Al Hudham Street
+الهَرمُوزي	Al Harmouzi Street
+الهَرميَّة	Al Harmiyyah Street
+الهِرَيمِي	Al Hiraymi Street
+الهَزَار	Al Hazar Street
+الهَزم	Al Hazam Street
+الهَزِيم	Al Hazeem Street

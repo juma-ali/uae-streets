@@ -86,7 +86,7 @@ Numeric-only names ("Road 1b", "Street 112") are excluded by decision.
 - [x] **Integrity audit** — `tools/audit.mjs`: internal checks plus a reproducible
       299-street sample (`data/verification-sample.csv`) for checking against an
       official source. Results in [AUDIT.md](AUDIT.md).
-- [x] **Wikipedia cross-check** — `tools/wiki-check.mjs` against the Dubai route
+- [x] **Wikipedia cross-check** — `archive/tools/wiki-check.mjs` against the Dubai route
       lists: 83% exact, 6 transliteration variants, **8 roads missing from OSM**
       (Mankhool, Al Musallah, Al Rebat, Al Diyafah, Discovery Garden, Deira Islands,
       E 611, Dubai–Al Ain). See [WIKI-CHECK.md](WIKI-CHECK.md).

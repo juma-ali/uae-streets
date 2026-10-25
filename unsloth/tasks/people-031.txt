@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+محرز بن العامر	Mohrez Bin Al Amer Street	الشارقة
+محمد اﻷزهر	Mohammed Al Azhar Street	الشارقة
+محمد بن أحمد الشنقيطي	Mohammed Bin Ahmed Al Shinqiti Street	أبوظبي
+محمد بن المنذر	Mohamed Bin Al Mundhar Street	الشارقة
+محمد بن بطي آل حامد	Mohammed Bin Butti Al Hamed Street	أبوظبي
+محمد بن بليد المرر	Mohamed Bin Bleaid Al Marar Street	أبوظبي
+محمد بن ثابِت	Mohammed Bin Thabit Street	أبوظبي
+محمد بن خليفة الكندي	Mohammed Bin Khalifa Al Kindi Street	أبوظبي
+محمد بن سباع الكندي	Mohammed Bin Sabaa Al Kindi Street	أبوظبي
+محمد بن سلامة الأنصاري	Mohammed Bin Salamah Al Ansari Street	الشارقة
+محمد بن طارق المكي	Mohammed Bin Tariq Al Maki Street	الشارقة
+محمد بن عبدالله الصايغ	Mohammed Bin Abdullah Al Sayegh Street	أبوظبي
+محمد بن علي أبوذينة	Mohammed Bin Ali Abu Athaina Street	أبوظبي
+محمد بن مجرن المرر	Mohammed Bin Mejren Al Marar Street	أبوظبي
+محمد بن مطر	Mohammad Bin Matar Road	الفجيرة
+محمد سالم بو خميس	Mohammed Salim Bu Khamis Street	عجمان
+مَدارة بن خَضره	Madarat Bin Khadrah Street	أبوظبي
+مَدارة بن مَرشُود	Madarat Bin Marshoud Street	أبوظبي
+مدلاج بن عمرو	Mudlaj Bin Amr Street	الشارقة
+مرشد بن علي المرر	Murshid Bin Ali Al Marar Street	أبوظبي

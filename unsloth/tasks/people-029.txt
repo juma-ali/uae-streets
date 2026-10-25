@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+عوف بن رفاع	Aouf Bin Rufaa Street	الشارقة
+عِيدان الإخَيضِر	'Eedan Al Ikhaydir Street	أبوظبي
+عيسى بن أبان	Esa Bin Aban Street	الشارقة
+غافة بن حريز	Ghafat Bin Hreez Street	أبوظبي
+غَدِير بن حابِس	Ghadeer Bin Habis Street	أبوظبي
+غَدِيِر بن خِمَيَّس	Ghadeer Bin Khimayas Street	أبوظبي
+غَدِير بن نَعِيم	Ghadeer Bin Na'eem Street	أبوظبي
+غَلِيل بن شُوَيق	Ghaleel Bin Shuwayq Street	أبوظبي
+غَلِيل بن نَومه	Ghaleel Bin Nawmah Street	أبوظبي
+غيط بن بيات	Gheet Bin Bayat Street	أبوظبي
+غَيط بن حَترُوش	Ghait Bin Hatroush Street	أبوظبي
+فاطمة بنت الوليد	Fatimah Bint Al Waleed Street	الشارقة
+فضيل بن نعمان	Fodil Bin Noaman Street	الشارقة
+قتادة البصري	Qotadah Al Basri Street	الشارقة
+قتيبة بن مسلم	Quaibah Bin Muslim Street	الشارقة
+قرن بن عبَيِّد	Qurn Bin 'Ibayid Street	أبوظبي
+قرن بنت سَعود	Qurn Bint Sa'oud Street	أبوظبي
+قص بن غِرَيِّب	Qas Bin Ghirayib Street	أبوظبي
+قف بن شريَف	Qaf Bin Shrayf Street	أبوظبي
+قَيس بن أبي حازِم	Qays Bin Abi Hazim Street	أبوظبي

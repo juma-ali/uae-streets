@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+أبي نائلة	Abi Naelah Street	الشارقة
+أبي نصر	Abi Nassr Street	الشارقة
+أبي يوسف الكوفي	Abi Yousef Al Kofi Street	الشارقة
+أحمد بالكندي المرر	Ahmed Bilkindi Al Marar Street	أبوظبي
+أحمد بن بليد المرر	Ahmed Bin Blaid Al Marar Street	أبوظبي
+أحمد بن بوملحا المرر	Ahmed Bin Bu Melha Al Marar Street	أبوظبي
+أحمد بن جبارة المرر	Ahmed Bin Jbara Al Marar Street	أبوظبي
+أحمد بن حامد آل حامد	Ahmed Bin Hamed Al Hamed Street	أبوظبي
+أحمد بن خلف العتيبة	Ahmed Bin Khalaf Al Otaiba Street	أبوظبي
+أحمد بن درويش	Ahmed Bin Darwish Square	الشارقة
+أحمد بن عبدالرحمن بن حديد	Ahmed Bin Abdulrahman Bin Hadid Square	الشارقة
+أحمد بن عبدالعزيز المبارك	Ahmed Bin Abulaziz Al Mubarak Street	أبوظبي
+أحمد بن محمد الفهيم	Ahmed Bin Mohamed Al Fahim Street	أبوظبي
+أحمد عبدالله أحمد	Ahmed Abdulla Ahmed Street	أبوظبي
+أسامة بن عبد الله	Osama Bin Abdullah Street	الشارقة
+أسماء بنت عَمرو	Asma Bint 'Amr Street	أبوظبي
+اسماعيل الشهيد	Ismael Al Shaheed Street	الشارقة
+اسماعيل عبدالقادر الملا	Ismail Abdulqader Al Mulla Street	أبوظبي
+الأبهري	Al Abhari Street	الشارقة
+الأحوَص بن مَسعُود	Al Ahwas Bin Mas'oud Street	أبوظبي

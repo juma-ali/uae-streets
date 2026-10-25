@@ -1,0 +1,24 @@
+أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
+لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
+إن لم تعرف: اتركه فارغاً ولا تخمّن.
+
+السالم	Al Ssalm Street	أم القيوين
+السَّعِيد	As Sa'eed Street	أبوظبي
+السَّلامة	As Salamah Street	أبوظبي
+السُلْطَان	Al Sultan Street	أبوظبي
+السه بن فولان المزني	Al Sah Bin Fulan Al Mazni Street	الشارقة
+السهيل	Al Suhail Street	أم القيوين
+السِّيف	Al Seef Street	أبوظبي
+الشهيد	Al Shahid Street	أم القيوين
+الشهيد الفياض	Al Shaheed Al Faiad Street	الشارقة
+الشهيد رامي مطاوع	Martyr Rami Motawi Street	الشارقة
+الشهيد سلطان بن هويدن	Sultan Bin Hwaidn Street	الشارقة
+الشهيد علاء محفوظ	Martyr Alaa Muhfuth Street	الشارقة
+الشهيد محمد أبو ريان	Martyr Mohammed Abu Rayan Street	الشارقة
+الشهيد محمد الدرة	Martyr Mohammed Al Dorah Street	الشارقة
+الشهيد محمد عبيد	Martyr Mohammed Obaid Street	الشارقة
+الشهيد موسى الدبس	Martyr Mousa Al Debis Street	الشارقة
+الشهيد وجدي حطاب	Martyr Wajdi Hatab Street	الشارقة
+الشيخ خليفة	Sheikh Khalifa Street	الشارقة
+الشيخ ذياب بن عيسى الفلاحي	Sheikh Theyab Bin Eissa AL Falahi Road	أبوظبي
+الشيخ راشد	Sheikh Rashid Road	دبي
