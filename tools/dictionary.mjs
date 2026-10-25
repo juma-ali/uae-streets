@@ -65,6 +65,13 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  /* معجم الألفاظ العامية — الأرشيف والمكتبة الوطنية */
+  "باورة": "an anchor; the iron hook that holds a ship",
+  "مطارح": "bedding; a stuffed mattress, and a cloth thrown over the shoulder",
+  "مير": "household provisions — rice, flour, sugar, coffee, oil",
+  "مقيظ": "passing the hot season in the oases or the mountains",
+  "يفرة": "a pit, a round hollow (from جفرة, with jīm turned to yā in the Gulf)",
+  "انير": "an anchor, from the English anchor",
   "سلامه": "safety, soundness, well-being",
   "طف": "a low mound, a bank",
   "حومه": "low ground by water; a quarter",
