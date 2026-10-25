@@ -65,6 +65,10 @@ await ensureExtract();
    glossary). Terms whose Gulf sense I cannot vouch for are deliberately absent:
    بدع, محضر, غيط, وعبة. */
 const CURATED = {
+  "غبشه": "dawn, first light; (classically) a darkling beetle",
+  /* لهجات إماراتية — ويكيبيديا العربية (قاموس إماراتي صغير) */
+  "سما": "sky",
+  "حلج": "mouth",
   /* رمستنا — معجم مصطلحات اللهجة الإماراتية (mrsae.com) */
   "مرده": "a poem that answers another poem",
   "ميدور": "a person with smallpox",
