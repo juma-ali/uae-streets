@@ -30655,17 +30655,17 @@ window.STREETS = [
   "ar": "شارع الشيخ أحمد بن راشد المعلا",
   "en": "Sheikh Ahmed Bin Rashid Al Mu'alla Street",
   "meaning": {
-    "en": "Ruler of Umm Al Quwain, 1911–1981",
-    "ar": "حاكم أم القيوين بين ١٩١١ و١٩٨١"
+    "en": "Ruler of Umm Al Quwain, 1929–1981",
+    "ar": "حاكم أم القيوين بين ١٩٢٩ و١٩٨١"
   },
   "story": {
-    "en": "Sheikh Ahmed bin Rashid Al Mualla (1911–1981) ruled Umm Al Quwain until his death in February 1981, and is remembered as the founder of its modern development.",
-    "ar": "الشيخ أحمد بن راشد المعلا (١٩١١–١٩٨١) حاكم إمارة أم القيوين حتى وفاته في فبراير ١٩٨١، ويُعدّ مؤسس نهضتها الحديثة."
+    "en": "Sheikh Ahmed bin Rashid Al Mualla (1911–1981) ruled Umm Al Quwain from 1929, taking office before he was twenty. Under him the emirate built its hospitals, schools and government departments, and he took part in founding the United Arab Emirates in 1971.",
+    "ar": "الشيخ أحمد بن راشد المعلا (١٩١١–١٩٨١) تولى حكم أم القيوين سنة ١٩٢٩ وهو دون العشرين، وفي عهده أُنشئت المستشفيات والمدارس والدوائر الحكومية، وكان من مؤسسي دولة الإمارات العربية المتحدة سنة ١٩٧١."
   },
   "refs": [
     {
-      "label": "Wikipedia — أحمد بن راشد المعلا",
-      "url": "https://ar.wikipedia.org/wiki/أحمد_بن_راشد_المعلا"
+      "label": "ويكيبيديا العربية — أحمد بن راشد المعلا",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D8%A7"
     }
   ]
 },
@@ -30952,6 +30952,33 @@ window.STREETS = [
   "also": [
     "Al Sharqi Road",
     "Al Sharqi Street"
+  ]
+},
+{
+  "id": "al-mualla-street",
+  "emirate": "uaq",
+  "category": "tribe",
+  "origin": "documented",
+  "ar": "شارع المعلا",
+  "en": "Al Mualla Street",
+  "translit": "Shāriʿ Āl Muʿallā",
+  "meaning": {
+    "en": "The road of the Al Mualla family, rulers of Umm Al Quwain",
+    "ar": "طريق آل المعلا، الأسرة الحاكمة في أم القيوين"
+  },
+  "story": {
+    "en": "Al Mualla is the ruling family of Umm Al Quwain, one of the seven emirates of the United Arab Emirates. The family descends from the Al Ali tribe, which moved to this coast from Al Sinniyah island, and the emirate is governed today by Sheikh Saud bin Rashid Al Mualla.",
+    "ar": "آل المعلا هي العائلة المالكة الحاكمة في أم القيوين، إحدى الإمارات السبع التي تشكل دولة الإمارات العربية المتحدة، وتنحدر من قبيلة آل علي التي انتقلت إلى هذا الساحل من جزيرة السينية. ويحكم الإمارة اليوم الشيخ سعود بن راشد المعلا."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — أم القيوين",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85_%D8%A7%D9%84%D9%82%D9%8A%D9%88%D9%8A%D9%86"
+    }
+  ],
+  "also": [
+    "Al Mualla Street",
+    "Al Mu'alla Street"
   ]
 }
 ];
