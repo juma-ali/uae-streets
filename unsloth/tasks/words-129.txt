@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الحُومانة	Al Houmanah Street
-الحِوَيذة	Al Hiwaydhah Street
-الحِوَير	Al Hiwayr Street
-الحِوَيزِي	Al Hiwayzi Street
-الحَوِّيصة	Al Hawweesah Street
+الحياب	Al Heyaab Street
+الحيارات	Al Heiarat Street
+الحيبة	Al Heeba Street
+الحيتان	Al Heetan Street
+الحِيد	Al Heed Street

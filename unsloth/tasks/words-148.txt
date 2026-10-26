@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الدرعان	Ad Dar'an Street
-الدِّرْعِيَّة	Al Dir'iyyah Street
-الدرميت	Al Darmeet Street
-الدَّرهام	Ad Darhaam Street
-الدُّرُوب	Al Duroub Street
+الدَّعَالِى	Ad Da'ali Street
+الدَّعَي	Ad Da'ay Street
+الدِّعَين	Ad Di'ayn Street
+الدَّفَاين	Al Dafayin Street
+الدفرة	Al Daffrah Street

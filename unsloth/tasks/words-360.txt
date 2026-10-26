@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المِقناص	Al Miqnas Street
-المِقِيظ	Al Miqeedh Street
-المكسار	Al Maksaar Street
-المَكْنُون	Al Maknoun Street
-المَلازِيم	Al Malazeem Street
+المَمزَر	Al Mamzar Street
+المَملَحة	Al Mamlahah Street
+المَنابِع	Al Manabi' Street
+المَناجِم	Al Manajim Street
+المَنَادِر	Al Manadir Street

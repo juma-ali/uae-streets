@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الحِصَيَّة	Al Hisayah Street
-الحصين	Al Haseen Street
-الحْضَار	Al Hdar Street
-الحضر	Al Hadar Street
-الحِضَيبات	Al Hidaybat Street
+الحضَيَّه	Al Hdayah Street
+الحَظرة	Al Hadhrah Street
+الحُظُوظ	Al Hudhoudh Street
+الحِظِيب	Al Hidheeb Street
+الحَفاوة	Al Hafawah Street

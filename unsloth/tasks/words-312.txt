@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المازِن	Al Mazin Street
-المازورِي	Al Mazouri Street
-الماصر	Al Masser Street
-المانح	Al Manih Street
-المُؤَيِّد	Al Mu-ayyid Street
+المبهر	Al Mubhir Street
+المُتاجر	Al Mutajir Street
+المَتامة	Al Matamah Street
+المتأمل	Al Muta-amil Street
+المِتبَنة	Al Mitbanah Street

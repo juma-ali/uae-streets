@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-اللَّمَّة	Al Lammah Street
-اللِّمتُون	Al Limtoun Street
-اللّنْج	Al Lanj Street
-اللولو	Al Lulu Street
-اللِّوَيْنَة	Al Liwaynah Street
+اللِـيْفَة	Al Leefah Street
+اللِّيوان	Al Leewan Street
+المَآثِر	Al Ma-athir Street
+المَادِح	Al Madih Street
+المأذن	Al M-adhan Street

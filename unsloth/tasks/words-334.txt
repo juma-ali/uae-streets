@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المِرضاب	Al Mirdab Street
-المَرضُوف	Al Mardouf Street
-المِرْعَد	Al Mir'ad Street
-المُرْفَد	Al Murfad Street
-المرقوم	Al Marqoum Street
+المرهاه	Al Marhah Street
+المروؤة	Al Marou-ah Street
+المِرواح	Al Mirwah Street
+المروة	Al Marwa Street
+المِرْوَد	Al Mirwad Street

@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الميلس	Al Maylis Street
-المَيْمَر	Al Maymar Street
-النَّاجرِي	An Najri Street
-النَّاصفة	An Nasfah Street
-النَّامسة	An Namsah Street
+النايل	Al Nayil Street
+النايلة	Al Nnaiyla Street
+النب-الرماد	Al Neb-ash Street
+النَّباعة	An Naba'ah Street
+النَّبَّاغ	Al Nabbagh Street

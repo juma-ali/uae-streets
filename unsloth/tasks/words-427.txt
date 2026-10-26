@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-أنير	Anyar Street
-أوسلو	Oslo Street
-أوك وود	Oakwood Road
-أوليفيا	Oliva Street
-إيستون	Easton Street
+بِالحَصا	Bilhasa Street
+بِالحِنِين	Bilhineen Street
+بِالدِّخَّان	Bilddikhan Street
+بِالرِمِيد	Bilrimeed Street
+بالشعوم	Bilshu'oum Street

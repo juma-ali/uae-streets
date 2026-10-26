@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المَراسِي	Al Marasi Street
-المَراسِيل	Al Maraseel Street
-المراسيم	Al Marasim Street
-المَراصِد	Al Marasid Street
-المَراغ	Al Maragh Street
+المَراماه	Al Maramah Street
+المَرامِي	Al Marami Street
+المَرَايَا	Al Maraya Street
+المَرَايِح	Al Marayih Street
+المَرايِغ	Al Marayigh Street

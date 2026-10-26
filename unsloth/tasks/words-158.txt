@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الرَّازقِي	Ar Razqi Street
-الرازنه	Ar Raznah Street
-الرَّاشِدِيَّة	Ar Rashidiyah Street
-الراضة	Al Radah Street
-الرَّاضي	Ar Radi Street
+الرَّايات	Ar Rayat Street
+الرَّايِحة	Ar Rayihah Street
+الرَّايغة	Ar Rayghah Street
+الرَّاين	Ar Rayn Street
+الرَّباب	Ar Rabab Street

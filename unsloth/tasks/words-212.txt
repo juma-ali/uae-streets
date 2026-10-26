@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الشَّرهة	Ash Sharhah Street
-الشِّرياص	Ash Shiryas Street
-الشِّرِين	Ash Shireen Street
-الشَّط	Ash Shat Street
-الشُّطَّان	Al Shuttan Street
+الشعفة	Al Sha'fah Street
+الشعوب	Al Shu'oub Street
+الشُّعوم	Al Shu'oum Street
+الشعيل	Al Sha'eel Street
+الشِّغاب	Ash Shighab Street

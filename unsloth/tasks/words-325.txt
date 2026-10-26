@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المُداوي	Al Modawi Street
-المِدَاوِير	Al Midaweer Street
-المَداين	Al Madayen Street
-المدَبَّس	Al Mdabbas Street
-المِدرار	Al Midrar Street
+المرابح	Al Morabah Street
+المرابع	Al Marabea' Street
+المَرابِيع	Al Marabee' Street
+المراتب	Al Maratib Street
+المَراتِع	Al Marati' Street

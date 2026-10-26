@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الفُنْص	Al Funs Street
-الفنون	Al Funoun Street
-الفِنْيَال	Al Finyal Street
-الفهارس	Al Faharis Street
-الفُهُود	Al Fuhoud Street
+الفوانيس	Al Fawanees Street
+ألفورادا	Alvorada 1 Avenue
+الفُوفِلِي	Al Foufili Street
+الفَيافِي	Al Fayafi Street
+الفيحاء	Al Fayha Street

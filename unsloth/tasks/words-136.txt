@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الخِصال	Al Khisal Street
-الخُصُوب	Al Khusoub Street
-الخِصَيبَة	Al Khisaybah Street
-الخْصِيفي	Al Khseefi Street
-الخِضِر	Al Khidir Street
+الخضري	Al Khdarei Street
+الخِضَيرِي	Al Khidayri Street
+الخِطَّار	Al Khittar Street
+الخطوات	Al Khatawat Street
+الخِطِيفة	Al Khiteefah Street

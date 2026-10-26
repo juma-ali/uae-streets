@@ -38,7 +38,11 @@ const cut = (src, prefix, cols, what) => {
     .split("\n")
     .filter((l) => l.trim() && !isHeader(l))
     /* a leading row number is noise the model may copy back */
-    .map((l) => l.replace(/^\d+\s+/, ""));
+    .map((l) => l.replace(/^\d+\s+/, ""))
+    /* drop what is not a name at all: numeric labels ("7b") and the palm-frond
+       plot codes of the Liwa farms ("آل أنوان - السعفة J"), which carry Latin
+       letters and digits because they are plot designations, not street names */
+    .filter((l) => !/[A-Za-z0-9]/.test(l.split("\t")[0] || ""));
   let n = 0;
   for (let i = 0; i < lines.length; i += ROWS) {
     const chunk = lines.slice(i, i + ROWS);

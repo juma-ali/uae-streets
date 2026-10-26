@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الصراوي	Al Ssarawy Street
-الصِّرَاي	Al Siray Street
-الصِّربة	As Sirbah Street
-الصَرد	Al Srd Street
-الصرفه	Al Sarfa Street
+الصفوات	Al Safwat Street
+الصفوف	Al Sifouf Street
+الصفوق	Al Sufouq Street
+الصِّفِيف	As Sifeef Street
+الصَّقَّار	As Saqqar Street

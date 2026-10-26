@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الكُهُوف	Al Kuhouf Street
-الكِهَيف	Al Kihayf Street
-الكوادِر	Al Kawadir Street
-الكوَار	Al Kwar Street
-الكوارتز	Al Qwartez Street
+الكِيبال	Al Keebal Street
+الكَيتُوب	Al Kaytoub Street
+اللاحي	Al Lahi Street
+اللُّؤلؤية	Al Lulu-iyah Street
+اللؤلو	Al Lu'lu Street

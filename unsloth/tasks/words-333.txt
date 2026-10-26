@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المرحبين	AL Murahibeen Street
-المَرخانِيَّة	Al Markhaniyah Street
-المَرزُوم	Al Marzoum Street
-المرزيبان - السعفة I	Al Mirziban - Frond I Street
-المِرْسال	Al Mersal Street
+المِركاز	Al Mirkaz Street
+المركاض	Al Markad Street
+المَرمُوم	Al Marmoum Street
+المرمومية	Al Marmoumiyah Street
+المرمية	Al Miramiyah Street

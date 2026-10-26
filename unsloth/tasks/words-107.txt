@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الجِلِيعة	Al Jilee'ah Street
-الجُمَّارة	Al Jummarah Street
-الجَمَّالَة	Al Jammalah Street
-الجُمانة	Al Jomanah Street
-الجموع	Al Jumou' Street
+الجَنَّات	Al Jannat Street
+الجَنادِل	Al Janadil Street
+الجِنان	Al Jinan Street
+الجَنايِن	Al Janayen Street
+الجَندَلِيَّة	Al Jandaliyah Street

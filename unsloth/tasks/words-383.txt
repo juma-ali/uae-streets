@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-النِّجِيبة	An Nijeebah Street
-النجيمات	Anajaimat Road
-النَّخَّال	An Nakhal Street
-النَّداره	An Nadarah Street
-النَّدَّاف	Al Naddaf Street
+النِّزُول	Al Nizoul Street
+النسايم	Al Nasayim Street
+النسيم	Al Nassem Raod
+النسيم أ	Al Naseem A Street
+النسيم ب	Al Naseem B Street

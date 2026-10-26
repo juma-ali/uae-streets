@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الضِّعان	Ad Di'an Street
-الضغاية	Al Daghaya Street
-الضَّفافي	Al Dafafi Street
-الضميد	Al Dameed Street
-الضَوَاحِي	Al Dawahi Street
+الضِّيفان	Ad Diyfan Street
+الطارس	Al Tarres Street
+الطَّارِف	At Tarif Street
+الطَّارْفة	At Tarfah Street
+الطَّارِي	Al Tari Street

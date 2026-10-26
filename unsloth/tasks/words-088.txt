@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الترويض	Al Tarweed Street
-التَّصافُح	At Tasafuh Street
-التَّضحِية	At Tad-hiyah Street
-التَّطَوُّع	At Tatawwu' Street
-التَّطْوِير	Al Tatweer Street
+التَّفاصيل	At Tafaseel Street
+التَّقَالِيد	Al Taqaleed Street
+التقايا	Al Taqaya Street
+التَّقدِير	At Taqdeer Street
+التَّقصِيرة	At Taqseerah Street

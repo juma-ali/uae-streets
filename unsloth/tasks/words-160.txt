@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الرَّاين	Ar Rayn Street
-الرَّباب	Ar Rabab Street
-الرُّبابة	Ar Rubabah Street
-الرُّبُوع	Ar Rubou' Street
-الرِّبَينة	Ar Ribaynah Street
+الرجع	Al Raj' Street
+الرجيب	Al Rejeeb Street
+الرِّجَيبة	Ar Rijaybah Street
+الرحاة	Ar Rhah Street
+الرحايب	Al Rahayib Street

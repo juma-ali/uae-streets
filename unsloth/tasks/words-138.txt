@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الخِطِيفة	Al Khiteefah Street
-الخِلاصيّة	Al Khilasiyyah Street
-الخلان	Al Khillan Street
-الخَمائِل	Al Khama-il Street
-الخماري	Khaamari Street
+الخمرِية	Al Khamriyah Street
+الخَمِيسِيَّة	Al Khameesiyah Street
+الخناجِر	Al Khanajir Street
+الخنيصر	Al Khinaysir Street
+الخواص	Al Khawas Street

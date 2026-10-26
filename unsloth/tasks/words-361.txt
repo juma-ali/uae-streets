@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المَلالِيح	Al Malaleeh Street
-المَلحاء	Al Malha-a Street
-المللعي	Al Mattla'ee Street
-المِلَيسا	Al Milaysa Street
-المِمراح	Al Mimrah Street
+المُنادِي	Al Munadi Street
+المَنازِف	Al Manazif Street
+المَنازِل	Al Manazil Street
+المَناسِك	Al Manasik Street
+المناسيب	Al Manaseeb Street

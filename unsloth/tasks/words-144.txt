@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الدامين	Al Damin Street
-الدَّانات	Ad Danat Street
-الدَّانُوب	Danube Street
-الدَّاو	Ad Daw Street
-الدَّاوُودِي	Ad Dawoudi Street
+الدايري	Al Dayiri Street
+الدَّبَّاس	Ad Dabbas Street
+الدخَنا	Ad Dakhana Street
+الدَّخَنه	Ad Dakhnah Street
+الدخوار	Al Dikhwar Street

@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الحَمرانِيَّة	Al Hamraniyah Street
-الحمسة	Al Hamsah Street
-الحمن	Al Haman Streeet
-الحمور	Al Hamoor Street
-الحُمَّيض	Al Hummaid Street
+الحَنايا	Al Hanaya Street
+الحَنْفا	Al Hanfa Street
+الحِنوة	Al Hinwah Street
+الحنَيوة	Al Hnaywah Street
+الحَنْيُورَة	Al Hanyourah Street

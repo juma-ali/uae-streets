@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-أسماني	Asmani Street
-أشعب	Ash'ab Street
-أشقار	Ashqar Street
-إصفِنِي	Isfini Street
 أَغادِير	Aghadeer Street
+أغتَيل	Aghtayl Street
+الآداب	Al Adab Street
+الآمال	Al Aamal Street
+الأبجر	Al Abjar Street

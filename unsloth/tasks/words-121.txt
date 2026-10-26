@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الحضيبة	Al Hudaiba Street
-الحضَيَّه	Al Hdayah Street
-الحَظرة	Al Hadhrah Street
-الحُظُوظ	Al Hudhoudh Street
-الحِظِيب	Al Hidheeb Street
+الحُقوق	Al Huqouq Street
+الحقول	Al Houqoul Street
+الحقيل	Al Haqeel
+الحُكَماء	Al Hukama-a Street
+الحَلالِيَّة	Al Halaliyyah Street

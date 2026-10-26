@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المَطَالِع	Al Matali' Street
-المُطَاوْعَة	Al Mutaw'ah Street
-المَطايا	Al Mataya Street
-المِطْرِي	Al Mitri Street
-المِطْلاع	Al Mitla' Street
+المعاجر	Al Maajer Street
+المعاد	Al Ma'ad Street
+المَعارِف	Al Ma'arif Street
+المَعازِيب	Al Ma'azeeb Street
+المُعَاضِد	Al Mua'did Street

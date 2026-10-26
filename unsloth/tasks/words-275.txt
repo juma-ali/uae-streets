@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الغِينة	Al Ghiynah Street
-الغيوب	Al Ghuyoub Street
-الغيوم	Al Ghioum Street
-الفادي	Al Fadi Street
-الفارِعة	Al Fari'ah Street
+الفجري	Al Fajri Street
+الفحيحيل	Al Fhehel Street
+الفَخامة	Al Fakhamah Street
+الفراء	Al Feraa Street
+الفَرَادِس	Al Faradis Street

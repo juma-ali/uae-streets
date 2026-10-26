@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-قِصمة	Qismah Street
-قَطفاه	Qatfah Street
-قِلاطة	Qilatah Street
-قَمرَا	Qamra Street
-قَمشي	Qamshi Street
+كارنيشن	Carnation Way
+كازا	Casa Street
+كاميلا	Camila Street
+كاميليا	Camelia
+كايت بيتش	Kite Beach Street

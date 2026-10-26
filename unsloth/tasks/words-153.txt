@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الدُّهُو	Ad Duhou Street
-الدهور	Al Duhour Street
-الدِّهِي	Al Dihiy Street
-الدو	Al Du Street
-الدوائر	Al Dawa-ir Street
+الدُّوح	Al Douh Street
+الدَّوْك	Al Dawk Street
+الدوكرة	Al Doukarah Street
+الدُّومِي	Ad Doumi Street
+الديجور	Al Deejour Street

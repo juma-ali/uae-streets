@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الزخارف	Al Zakharif Street
-الزَّخُم	Az Zakhum Street
-الزرابي	Al Zarabi Street
-الزَّرَّاف	Az Zarraf Street
-الزّرعة	Al Zar'ah Street
+الزِّرمة	Az Zirmah Street
+الزِّرَن	Al Ziran Street
+الزُّروف	Az Zurouf Street
+الزَّرِي	Al Zariy Street
+الزِّريقا	Az Zirayqa Street

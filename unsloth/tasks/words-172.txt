@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الرميحي	Al Rumaihi Street
-الرِّمَيرِم	Ar Rimayrim Street
-الرِّمَيلة	Ar Rimaylah Street
-الرنات	Al Rannat Street
-الرنده	Al Rundah Street
+الروا	Al Rwah Street
+الرَّوَائِع	Al Rawa-i' Street
+الرُواة	Ar Ruwat Street
+الرَّواجِح	Ar Rawajih Street
+الرَّوَافِد	Al Rawafid Street

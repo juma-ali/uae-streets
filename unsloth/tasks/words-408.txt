@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الوثايق	Al Wathayiq Street
-الوُثُوق	Al Wuthouq Street
-الوجاهة	Al Wajahah Street
-الوجفان	Al Wujfan Street
-الوجهاء	Al Wujahaa Street
+الوِديان	Al Widyan Street
+الوِذيني	Al Widheeni Street
+الوَرس	Al Wars Street
+الوَرَعة	Al Wara'ah Street
+الوِرَيعة	Al Wiray'ah Street

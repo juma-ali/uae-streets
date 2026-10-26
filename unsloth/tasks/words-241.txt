@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الطُّوال	At Tuwal Street
-الطوايل	Al Tawayil Street
-الطَّوعة	At Taw'ah Street
-الطوف	Al Tawf Street
-الطُّولات	At Toulat Street
+الطياري	Al Tayari Street
+الطَيْبَات	Al Taybat Street
+الطِّيبَة	Al Teebah Street
+الطيبين	Al Tayibeen Street
+الطُّيُور	At Tuyour Street

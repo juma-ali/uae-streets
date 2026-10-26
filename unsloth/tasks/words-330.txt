@@ -4,8 +4,8 @@
 إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
 لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المرافد	Al Marafid Street
-المَرافِي	Al Marafi Street
-المَراكِب	Al Marakib Street
-المَراكِيض	Al Marakeed Street
-المَراماه	Al Maramah Street
+المَربَعانِيَّة	Al Marb'aniyah Street
+المَرْثَد	Al Marthad Street
+المَرْجَانِي	Al Marjani Street
+المرجي	Al Marji Street
+المرحب	Al Muraheb Street
