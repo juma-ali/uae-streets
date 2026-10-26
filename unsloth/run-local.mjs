@@ -22,6 +22,7 @@ mkdirSync(ANSWERS, { recursive: true });
 
 const URL_ = process.env.UNSULOTH_URL || "http://127.0.0.1:11434/v1/chat/completions";
 const MODEL = process.env.UNSULOTH_MODEL || "";
+const KEY = process.env.UNSULOTH_KEY || "";
 const args = process.argv.slice(2);
 const force = args.includes("--force");
 const limitAt = args.indexOf("--limit");
@@ -38,7 +39,7 @@ async function ask(prompt) {
   };
   const r = await fetch(URL_, {
     method: "POST",
-    headers: { "content-type": "application/json" },
+    headers: Object.assign({ "content-type": "application/json" }, KEY ? { authorization: "Bearer " + KEY } : {}),
     body: JSON.stringify(body),
     signal: AbortSignal.timeout(180000)
   });

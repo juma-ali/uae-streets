@@ -1,0 +1,9 @@
+[
+ {
+  "model": "D_AI_models_bartowski_Qwen2.5-32B-Instruct-GGUF_Qwen2.5-32B-Instruct-Q4_K_S.gguf",
+  "answered": 20,
+  "linked": 10,
+  "avg": 9,
+  "mins": "5.1"
+ }
+]
