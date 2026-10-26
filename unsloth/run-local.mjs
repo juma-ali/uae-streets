@@ -16,8 +16,10 @@ import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 
 import { fileURLToPath } from "node:url";
 
 const root = fileURLToPath(new URL("../", import.meta.url));
-const TASKS = root + "unsloth/tasks/";
-const ANSWERS = root + "unsloth/answers/";
+const TASKS_DIR = process.env.UNSULOTH_TASKS || "tasks";
+const TASKS = root + "unsloth/" + TASKS_DIR + "/";
+const ANSWERS_DIR = process.env.UNSULOTH_ANSWERS || "answers";
+const ANSWERS = root + "unsloth/" + ANSWERS_DIR + "/";
 mkdirSync(ANSWERS, { recursive: true });
 
 const URL_ = process.env.UNSULOTH_URL || "http://127.0.0.1:11434/v1/chat/completions";

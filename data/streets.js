@@ -2651,18 +2651,23 @@ window.STREETS = [
   "id": "an-nu-man-bin-malik-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع النعمان بن مالك",
   "en": "An Nu'man Bin Malik Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "An Ansari Companion who fought at Badr",
+    "ar": "صحابي من الأنصار، شهد بدراً"
   },
   "story": {
-    "en": "No published source was found identifying who An Nu'man Bin Malik — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «النعمان بن مالك» الذي يحمل الشارع اسمه."
+    "en": "Al-Nu'man ibn Malik al-Khazraji was a Companion of the Ansar, known as Ibn Qawqal. He fought at Badr and was killed at Uhud.",
+    "ar": "النعمان بن مالك الخزرجي، ويُعرف بابن قَوقَل، صحابي من الأنصار من بني غنم بن عوف من الخزرج. شهد بدراً، واستُشهد يوم أُحد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — النعمان بن مالك",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D9%85%D8%A7%D9%84%D9%83"
+    }
+  ]
 },
 {
   "id": "bilal-bin-abi-bakra-street",
@@ -6696,18 +6701,23 @@ window.STREETS = [
   "id": "barakah-bint-tha-alabah-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بركة بنت ثعلبة",
   "en": "Barakah Bint Tha'alabah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "Umm Ayman, the Prophet's nurse",
+    "ar": "أم أيمن، حاضنة النبي"
   },
   "story": {
-    "en": "No published source was found identifying who Barakah Bint Tha'alabah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بركه بنت ثعلبه» الذي يحمل الشارع اسمه."
+    "en": "Baraka bint Tha'laba, known as Umm Ayman, was the Prophet's nurse and guardian. She was the wife of Zayd ibn Haritha and the mother of Usama ibn Zayd.",
+    "ar": "بركة بنت ثعلبة الحبشية، المعروفة بأم أيمن، حاضنة النبي ومربيته، وزوجة الصحابي زيد بن حارثة وأم أسامة بن زيد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — أم أيمن",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85%20%D8%A3%D9%8A%D9%85%D9%86"
+    }
+  ]
 },
 {
   "id": "bishr-bin-abdullah-street",
@@ -18930,18 +18940,23 @@ window.STREETS = [
   "id": "abdullah-omran-taryam-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله عمران تريم",
   "en": "Abdullah Omran Taryam Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "An Emirati publisher and media figure",
+    "ar": "ناشر وإعلامي إماراتي"
   },
   "story": {
-    "en": "The street carries the name of عبدالله عمران تريم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله عمران تريم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah Omran Taryam (1948–2014) was born in Sharjah and studied history in Cairo and at Exeter. He chaired Dar Al Khaleej for Printing and Publishing from 2002 until his death.",
+    "ar": "عبد الله عمران تريم (١٩٤٨–٢٠١٤م) وُلد في الشارقة، ودرس التاريخ في جامعة القاهرة ثم نال الدكتوراه من جامعة إكستر. تولى رئاسة مجلس إدارة دار الخليج للصحافة والطباعة والنشر من ٢٠٠٢ حتى وفاته."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الله عمران تريم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86%20%D8%AA%D8%B1%D9%8A%D9%85"
+    }
+  ]
 },
 {
   "id": "abdullatif-bin-ibrahim-al-mubarak-street",
@@ -22996,18 +23011,23 @@ window.STREETS = [
   "id": "saif-ghobash-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف غباش",
   "en": "Saif Ghobash Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The first Minister of State for Foreign Affairs",
+    "ar": "أول وزير دولة للشؤون الخارجية"
   },
   "story": {
-    "en": "The street carries the name of سيف غباش. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم سيف غباش، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Saif Saeed bin Ghobash Al Marri (1932–1977) was born in Ras Al Khaimah and became the first Minister of State for Foreign Affairs of the United Arab Emirates.",
+    "ar": "سيف سعيد بن غباش المري (١٩٣٢–١٩٧٧م) وُلد في حي المعيريض بإمارة رأس الخيمة، وكان أول وزير دولة للشؤون الخارجية في دولة الإمارات العربية المتحدة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — سيف غباش",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%81%20%D8%BA%D8%A8%D8%A7%D8%B4"
+    }
+  ]
 },
 {
   "id": "salama-bint-butti-street",
@@ -25235,18 +25255,23 @@ window.STREETS = [
   "id": "abdullah-al-nadeem-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله النديم",
   "en": "Abdullah Al Nadeem Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "An Egyptian writer and orator",
+    "ar": "أديب وخطيب مصري"
   },
   "story": {
-    "en": "The street carries the name of عبدالله النديم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله النديم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah al-Nadim (1842–1896) was an Egyptian writer and poet, known as the orator of the Urabi revolt.",
+    "ar": "عبد الله بن مصباح النديم (١٢٦١–١٣١٤هـ / ١٨٤٢–١٨٩٦م) من أدباء مصر وشعرائها، ولُقّب بخطيب الثورة العرابية."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الله النديم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D9%86%D8%AF%D9%8A%D9%85"
+    }
+  ]
 },
 {
   "id": "abdullah-al-rayahi-street",
@@ -25607,18 +25632,23 @@ window.STREETS = [
   "id": "abdullrahman-al-nasir-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبد الرحمن الناصر",
   "en": "Abdullrahman Al Nasir Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "An Umayyad ruler of al-Andalus",
+    "ar": "من حكام الدولة الأموية في الأندلس"
   },
   "story": {
-    "en": "The street carries the name of عبد الرحمن الناصر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبد الرحمن الناصر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abd al-Rahman al-Nasir li-Din Allah (891–961) was the eighth Umayyad ruler of al-Andalus and the first to take the title of caliph there.",
+    "ar": "عبد الرحمن الناصر لدين الله (٢٧٧–٣٥٠هـ / ٨٩١–٩٦١م) ثامن حكام الدولة الأموية في الأندلس، وأول من لقّب بأمير المؤمنين فيها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الرحمن الناصر لدين الله",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%20%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D9%84%D9%87"
+    }
+  ]
 },
 {
   "id": "abdulrahman-bin-ka-eb-street",
@@ -27985,18 +28015,23 @@ window.STREETS = [
   "id": "king-abdul-aziz-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الملك عبد العزيز",
   "en": "King Abdul Aziz Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "King Abdulaziz, founder of Saudi Arabia",
+    "ar": "الملك عبد العزيز، مؤسس المملكة العربية السعودية"
   },
   "story": {
-    "en": "The street carries the name of الملك عبد العزيز. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الملك عبد العزيز، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdulaziz bin Abdul Rahman Al Saud (1876–1953) founded the Kingdom of Saudi Arabia and was its first king. The street carries the name of the founder of the neighbouring state.",
+    "ar": "عبد العزيز بن عبد الرحمن بن فيصل آل سعود (١٢٩٣–١٣٧٣هـ / ١٨٧٦–١٩٥٣م) مؤسس المملكة العربية السعودية وأول ملوكها. ويحمل الشارع اسم مؤسس الدولة المجاورة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد العزيز آل سعود",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A2%D9%84%20%D8%B3%D8%B9%D9%88%D8%AF"
+    }
+  ]
 },
 {
   "id": "kulayb-bin-tamim-street",
@@ -28498,18 +28533,23 @@ window.STREETS = [
   "id": "na-eem-bin-muqren-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع نعيم بن مقرن",
   "en": "Na'eem Bin Muqren Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A commander of the conquests in Persia",
+    "ar": "من قادة الفتوحات في بلاد فارس"
   },
   "story": {
-    "en": "The street carries the name of نعيم بن مقرن. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم نعيم بن مقرن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Nu'aym ibn Muqarrin al-Muzani, brother of al-Nu'man ibn Muqarrin, took up the banner at Nihawand after his brother fell, and the conquests in Persia were completed under him.",
+    "ar": "نعيم بن مقرن المزني، أخو النعمان بن مقرن. تولى الراية يوم نهاوند بعد مقتل أخيه، وكانت على يديه فتوح ببلاد فارس."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — نعيم بن مقرن المزني",
+      "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B9%D9%8A%D9%85%20%D8%A8%D9%86%20%D9%85%D9%82%D8%B1%D9%86%20%D8%A7%D9%84%D9%85%D8%B2%D9%86%D9%8A"
+    }
+  ]
 },
 {
   "id": "obaid-bin-hayyan-street",

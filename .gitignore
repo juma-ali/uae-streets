@@ -28,3 +28,5 @@ package-lock.json
 
 # local model output, merged by hand
 unsloth/answers/
+unsloth/answers-single/
+unsloth/tasks-single/
