@@ -23787,18 +23787,27 @@ window.STREETS = [
   "id": "um-hani-bint-abi-talib-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أم هانِئ بنت أبي طالِب",
   "en": "Um Hani Bint Abi Talib Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Umm Hani, the Prophet's cousin",
+    "ar": "أم هانئ، بنت عم النبي"
   },
   "story": {
-    "en": "The street carries the name of أم هانِئ بنت أبي طالِب. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أم هانِئ بنت أبي طالِب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Fakhita bint Abi Talib, known as Umm Hani, was the Prophet's cousin and the sister of Ali ibn Abi Talib. Historians differ on her name — Fakhita, Atika or Fatima — the first being the best known. She married Hubayra ibn Abi Wahb al-Makhzumi.",
+    "ar": "فاختة بنت أبي طالب بن عبد المطلب الهاشمية، المعروفة بأم هانئ، بنت عم النبي وأخت علي بن أبي طالب. اختلف المؤرخون في اسمها: فاختة أو عاتكة أو فاطمة، والأشهر الأول. تزوجت هبيرة بن أبي وهب المخزومي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج5 ص126",
+      "url": "https://shamela.ws/book/12286/4338"
+    },
+    {
+      "label": "ويكيبيديا العربية — أم هانئ بنت أبي طالب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85_%D9%87%D8%A7%D9%86%D8%A6_%D8%A8%D9%86%D8%AA_%D8%A3%D8%A8%D9%8A_%D8%B7%D8%A7%D9%84%D8%A8"
+    }
+  ]
 },
 {
   "id": "umarah-bin-ziyad-bin-as-sakan-street",
@@ -27492,18 +27501,23 @@ window.STREETS = [
   "id": "iben-al-musayeb-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ابن المسيب",
   "en": "Iben Al Musayeb Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Ibn al-Musayyib, the Tabi'i of Medina",
+    "ar": "ابن المسيب، تابعي المدينة"
   },
   "story": {
-    "en": "The street carries the name of ابن المسيب. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ابن المسيب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Saeed ibn al-Musayyib (15–94 AH) was one of the great Tabi'un of Medina, called the scholar of the people of Medina and the master of the Tabi'un of his time. He was one of the seven jurists of the city.",
+    "ar": "سعيد بن المسيب المخزومي (١٥–٩٤هـ) تابعي من كبار التابعين في المدينة المنورة، لُقّب بـ«عالم أهل المدينة»، وبـ«سيد التابعين» في زمانه، وهو أحد فقهاء المدينة السبعة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — سعيد بن المسيب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A8"
+    }
+  ]
 },
 {
   "id": "iben-al-samak-street",

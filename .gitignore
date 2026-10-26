@@ -30,3 +30,5 @@ package-lock.json
 unsloth/answers/
 unsloth/answers-single/
 unsloth/tasks-single/
+unsloth/words-*/
+unsloth/tasks-words/
