@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المَراسِي	Al Marasi Street
-المَراسِيل	Al Maraseel Street
-المراسيم	Al Marasim Street
-المَراصِد	Al Marasid Street
-المَراغ	Al Maragh Street
-المرافد	Al Marafid Street
-المَرافِي	Al Marafi Street
-المَراكِب	Al Marakib Street
-المَراكِيض	Al Marakeed Street
-المَراماه	Al Maramah Street
-المَرامِي	Al Marami Street
-المَرَايَا	Al Maraya Street
-المَرَايِح	Al Marayih Street
-المَرايِغ	Al Marayigh Street
-المَربَعانِيَّة	Al Marb'aniyah Street
-المَرْثَد	Al Marthad Street
-المَرْجَانِي	Al Marjani Street
-المرجي	Al Marji Street
-المرحب	Al Muraheb Street
-المَرحَبانِي	Al Marhabani Street
+التَّآزُر	At Ta-azur Street
+التَّأنِّي	At Ta-anni Street
+التبريكات	Al Tabreekat Street
+التَّبْشِرَة	AL tabsherah Street
+التِّبلاغة	At Tiblaghah Street

@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-سهيل بن وهب	Suhail Bin Wahab Street	الشارقة
-سورة بن الحر	Soura Bin Al Hur Street	الشارقة
-سيح بن عَمَّار	Sayh Bin 'Ammar Street	أبوظبي
-سيف غباش	Saif Ghobash Street	أبوظبي
-شرارع أبي أحمد الجرماني	Abi Ahmed Ali Jaramani Street	الشارقة
-شَرف بن ضاعِن	Sharf Bin Da'in Street	أبوظبي
-شريف بن عامر	Shareeh Bin Amer	الشارقة
-شَعبة بن بَطحان	Sha'bat Bin Bat-han Street	أبوظبي
-شَعبة بن عَنبَر	Sha'bat Bin 'Anbar Street	أبوظبي
-شهاب بن المخارق	Shehab Bin Al Makhareq Street	الشارقة
-صالح بن عزيز المنصوري	Saleh Bin Aziz Almansoori Street	أبوظبي
-صالح بن مسلم	Saleh Bin Muslim Street	الشارقة
-صالح حسن بن عمرو	Saleh Hasan Binomar Street	أبوظبي
-صبيحة بن الحارث	Subayhah Bin Al Hareth Street	الشارقة
-صفوان بن وهب	Safwan Bin Wahab Street	الشارقة
-صيفي بن قيظي	Sayfi Bin Qaydhi Street	أبوظبي
-طحنون بن محمد آل نهيان	Tahnoun Bin Mohammed Al Nahyan Road	أبوظبي
-طلحة بن عبدالله	Talha Bin Abdulla Street	الشارقة
-طَوِي بن تِمِيم	Tawi Bin Timeem Street	أبوظبي
-طَوِي بن حايِر	Tawi Bin Hayir Street	أبوظبي
+السالم	Al Ssalm Street	أم القيوين
+السَّعِيد	As Sa'eed Street	أبوظبي
+السَّلامة	As Salamah Street	أبوظبي
+السُلْطَان	Al Sultan Street	أبوظبي
+السه بن فولان المزني	Al Sah Bin Fulan Al Mazni Street	الشارقة

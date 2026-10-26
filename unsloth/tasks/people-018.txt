@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-ربيع الأول	Rabi' Al Awwal Street	أبوظبي
-ربيع بن إياس	Rabieh Bin Ayas Street	الشارقة
-رَبِيعة الرَّأي	Rabee'ah Ar Ra-iy Street	أبوظبي
-رِزِم بنت سَرناح	Rizim Bint Sarnah Street	أبوظبي
-رِفاعة بن رافِع	Rifa'ah Bin Rafi' Street	أبوظبي
-رِفاعة بن عَمرو	Rifa'ah Bin 'Amr Street	أبوظبي
-رفاعة بن وقش	Rifa'ah Bin Waqsh Street	أبوظبي
-رُفيدة الأسلَمَيَّة	Rufaydah Al Aslamiyah Street	أبوظبي
-رِقعة بن حِفَيظ	Riq'at Bin Hifaydh Street	أبوظبي
-رَملة بن عَلوة	Ramlat Bin 'Alwah Street	أبوظبي
-رَملة بن مرَيوِد	Ramlat Bin Mraywid Street	أبوظبي
-زايد الخير	Zayed Al Khayr Street	أبوظبي
-زايد بن وديعة	Zayd Bin Wadia'ah Street	الشارقة
-زُرارة بن أوفَى	Zurarah Bin Awfa Street	أبوظبي
-زرعة بن عامر	Zara'ah Bin Amer Street	الشارقة
-زُهرة بن حُمَيضة	Zuhrah Bin Humaydah Street	أبوظبي
-زهير بن قيس	Zuhair Bin Qais Street	الشارقة
-زياد بن الحارث	Zeyad Bin Al Harth Street	الشارقة
-زَيد بن الأرقم	Zayd Bin Al Arqam Street	أبوظبي
-زيد بن مزين	Zayd Bin Mezyen Street	الشارقة
+الحصة	Al Hasah Street	دبي
+الحُصَين بن سبرة	Al Husayn Bin Sabrah Street	أبوظبي
+الحكم بن النحاس	Al Hakam Bin Al Nahas Street	الشارقة
+الحمد	Al Himad Street	أم القيوين
+الخليل أحمد بن محمد	Al Khalil Ahmed Bin Mohammed Street	الشارقة

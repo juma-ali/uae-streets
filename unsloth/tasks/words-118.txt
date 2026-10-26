@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-دَعسة	Da'sah Street
-دفالس	Defalas Road
-دِفتة	Diftah Street
-دَفْرة	Dafrah Street
-دقص	Duqs Street
-دَقلة	Daqlah Street
-دِميات	Dimyaat Street
-دِميات الحَصاني	Dimyaat Al Hasani Street
-دِميات عثمَر	Dimyaat 'Ithmar Street
-دميَات غَريب	Dimyaat Ghareeb Street
-دِهَام	Diham Street
-دُوغة القصَّار	Doughat Al Qussar Street
-دُوغة مغَيرجة	Doughat Mghayrjah Street
-دومي	Doomi Street
-دُوَيسر	Duwaysir Street
-ديترويت	Detroit Road
-ديزي	Daisy Way
-ديسمبر	December Street
-ديكنز	Dickens Street
-ديمة	Deema
+الحِرِّيضَة	Al Hirreedah Street
+الحِزامِي	Al Hizami Street
+الحُزُوم	Al Huzoum Street
+الحسابي	Al Hassabi Street
+الحسنى	Al Husna Street

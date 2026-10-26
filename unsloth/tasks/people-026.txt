@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-عبدالله جبير	Abdullah Jubair Street	الشارقة
-عبدالله حوذان	Abdullah Hudhan Street	الشارقة
-عبدالله خليفة النعيمي	Abdulla Khalifa Al Nuaimi Street	أبوظبي
-عبدالله سليم الصباح	Abdulla Salim Al Sabah Street	الشارقة
-عبدالله عمران تريم	Abdullah Omran Taryam Street	أبوظبي
-عبدالهادي بن شعبان المنصوري	Abdulhadi Bin Shaaban Al Mansouri Street	أبوظبي
-عبدة بن الحساس	Abdah Bin Al Hassas Street	أبوظبي
-عبيد الحلو	Obaid Al Helo Street	عجمان
-عبيد بن حيان	Obaid Bin Hayyan Street	الشارقة
-عبيد بن زايد	Obaid Bin Zayd Street	الشارقة
-عبيد بن كنيش الهاملي	Obaid Bin Kenaish Alhameli Street	أبوظبي
-عبيدة بن الحارث بن المطلب	Ubaydah Bin Al Harith Bin Al Muttalib Street	أبوظبي
-عبيدة بن الحباب	Obaidah Bin Al Habbab Street	الشارقة
-عتبة بن الفرقد	Autba Bin Al Farqad Street	الشارقة
-عتبة بن ربيع بن رافع	Atabah Bin Rabee' Bin Rafi' Street	أبوظبي
-عتبة بن عبد الله	Otbah Bin Abdullah Street	الشارقة
-عتبة بن عروة	Otba Bin Arwa Street	الشارقة
-عتيبة بن النحاس	Otibah Bin Al Nahas Street	الشارقة
-عثمان بن السحير	Othman Bin Al Suheer Street	الشارقة
-عُثمان بن وَثَّاب	Uthman Bin Wathab Street	أبوظبي
+الشيخة سلامة بنت بطي	Sheikha Salama Bint Butti Road	أبوظبي
+الصغيّر بن خادم الخييلي	Alsaghir Bin Khadem Al Khaili Street	أبوظبي
+الطاهر بن أبي هالة	Al Taher Bin Abi Hala Street	الشارقة
+الطاهر بن علي المرر	Altaher Bin Ali Al Marar Street	أبوظبي
+العاص بن هاشِم	Al 'As Bin Hashim Street	أبوظبي

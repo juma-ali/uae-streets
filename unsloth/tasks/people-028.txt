@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-عمر بن عثمان	Omar Bin Othman Street	الشارقة
-عمر بن مالك	Omar Bin Malik Street	الشارقة
-عمر بن هيرة	Omar Bin Hairah Street	الشارقة
-عمر شاهين	Omar Shaheen Street	الشارقة
-عِمران بن طَلحة	Imran Bin Talhah Street	أبوظبي
-عمرو بن أبي السرح	Amr Bin Abi Al Sarh Street	الشارقة
-عمرو بن الحارث	Amr Al Bin Hareth Street	الشارقة
-عمرو بن إياس	Amr Bin Eyas Street	الشارقة
-عمرو بن ثناء	Amr Bin Thana Street	الشارقة
-عمرو بن حازم	Amro Bin Hazem Street	الشارقة
-عمرو بن عمرو	Amro Bin Amro	الشارقة
-عمرو بن مالك	Amr Bin Malik Street	الشارقة
-عمرو بن مسلم	Amr Bin Muslem Street	الشارقة
-عمرو بن معبد	Amr Bin Ma'abad Street	الشارقة
-عمير بن الهمام	Omair Bin Al Hamam Street	الشارقة
-عمير بن أوس	Omair Bin Aws Street	الشارقة
-عُمَير بن سَعِيد	Umayr Bin Saeed Street	أبوظبي
-عُود بن حاسُوم	'Oud Bin Hasoum Street	أبوظبي
-عود بن خنفور	'Oud Bin Khanfour Street	أبوظبي
-عُود بن صَقحان	'Oud Bin Saqhan Street	أبوظبي
+الفضل بن علي عباس	Al Fadhel Bin Ali Abbas Street	الشارقة
+الفَضل بن مَيمُون	Al Fadl Bin Maymoun Street	أبوظبي
+الفندي بن غانم المزروعي	Alfindi Bin Ghanem Al Mazrouei Street	أبوظبي
+الفَيصَل	Al Faysal Street	أبوظبي
+القزويني	Al Khouzwini Street	الشارقة

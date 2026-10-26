@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-عدي بن سهيل	Oday Bin Suhail Street	الشارقة
-عرقوب بن سالمِين	'Arqoub Bin Salmeen Street	أبوظبي
-عروة بن زيد	Orwa Bin Zayd Street	الشارقة
-عُروة بن عِياض	Urwah Bin 'Iyad Street	أبوظبي
-عطوة بن مسعود	Otwa Bin Masoud Street	الشارقة
-عطية بن نويرة	Atteyah Bin Nuwayrah Street	الشارقة
-عطين بن الحجاج	Ateen bin Al Hajaj Street	الشارقة
-عفراء بنت عبيد	Afraa Bint Obeid Street	الشارقة
-عُقبة بن عامِر	Uqbah Bin 'Amer Street	أبوظبي
-عقه بن نافع	O'qah Bin Nafeh Street	عجمان
-عَكرُوم البرَيدا	'Akroum Al Birayda Street	أبوظبي
-على القصيلي المنصوري	Ali Alqusaili Almansoori Street	أبوظبي
-علي بن الكندي المرر	Ali Bin Alkindi Al Marar Street	أبوظبي
-علي بن حَمزة	Ali Bin Hamzah Street	أبوظبي
-علي بن عبد الله بن الحارث	Ali bin Abdullah bin Al Harith Street	الشارقة
-علي بن مصبح المرر	Ali Bin Musabah Al Marar Street	أبوظبي
-علي بو ملحا المرر	Ali Bu Melha Al Marar Street	أبوظبي
-عمارة المري	Omara Al Maree Street	الشارقة
-عمارة بن زياد بن السكن	Umarah Bin Ziyad Bin As Sakan Street	أبوظبي
-عمر السالك الشنقيطي	Omer Alsalek Al Shinqiti Street	أبوظبي
+العَلاء بن زِياد	Al 'Ala-a Bin Ziyad Street	أبوظبي
+العلى	Al 'Uola Street	أبوظبي
+العيينه بن عصيان العامري	Alayena Bin Aseyan Al Ameri Street	أبوظبي
+الفَارُوق	Al Farouq Street	أبوظبي
+الفاكه بن بشير	Al Fakeh Bin Basheer Street	الشارقة

@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-السالم	Al Ssalm Street	أم القيوين
-السَّعِيد	As Sa'eed Street	أبوظبي
-السَّلامة	As Salamah Street	أبوظبي
-السُلْطَان	Al Sultan Street	أبوظبي
-السه بن فولان المزني	Al Sah Bin Fulan Al Mazni Street	الشارقة
-السهيل	Al Suhail Street	أم القيوين
-السِّيف	Al Seef Street	أبوظبي
-الشهيد	Al Shahid Street	أم القيوين
-الشهيد الفياض	Al Shaheed Al Faiad Street	الشارقة
-الشهيد رامي مطاوع	Martyr Rami Motawi Street	الشارقة
-الشهيد سلطان بن هويدن	Sultan Bin Hwaidn Street	الشارقة
-الشهيد علاء محفوظ	Martyr Alaa Muhfuth Street	الشارقة
-الشهيد محمد أبو ريان	Martyr Mohammed Abu Rayan Street	الشارقة
-الشهيد محمد الدرة	Martyr Mohammed Al Dorah Street	الشارقة
-الشهيد محمد عبيد	Martyr Mohammed Obaid Street	الشارقة
-الشهيد موسى الدبس	Martyr Mousa Al Debis Street	الشارقة
-الشهيد وجدي حطاب	Martyr Wajdi Hatab Street	الشارقة
-الشيخ خليفة	Sheikh Khalifa Street	الشارقة
-الشيخ ذياب بن عيسى الفلاحي	Sheikh Theyab Bin Eissa AL Falahi Road	أبوظبي
-الشيخ راشد	Sheikh Rashid Road	دبي
+أبي القاسم الجلاب	Abi Al Qasem Al Jalab Street	الشارقة
+أبي الهذيل	Abi Al Hadheel Street	الشارقة
+أبي أمامة	Abi Omamah Street	الشارقة
+أبي أيوب الأنصاري	Abi Ayoub Al Ansari Street	الشارقة
+أبي بسطام	Abi Bastam Street	الشارقة

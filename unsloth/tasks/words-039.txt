@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الدُّهُو	Ad Duhou Street
-الدهور	Al Duhour Street
-الدِّهِي	Al Dihiy Street
-الدو	Al Du Street
-الدوائر	Al Dawa-ir Street
-الدَّوَاعِي	Al Dawa'i Street
-الدوباية	Al Dobaya Street
-الدُّوح	Al Douh Street
-الدَّوْك	Al Dawk Street
-الدوكرة	Al Doukarah Street
-الدُّومِي	Ad Doumi Street
-الديجور	Al Deejour Street
-الذَّائع	Adh Dha-i' Street
-الذاري	Al Dhari Street
-الذَّانُون	Al Dhanoun Street
-الذاير	Al Dhayir Street
-الذَّرابة	Adh Dharabah Street
-الذراية	Al Thrayah Street
-الذَّروِي	Adh Dharwi Street
-الذَّوْد	Al Dhawd Street
+الأَخْيَل	Al Akhyal Street
+الأرابيسك	Al Arabeesk Street
+الأَربَح	Al Arbh Street
+الأرجاء	Al Arja-a Street
+الأرداع	Al Arda' Street

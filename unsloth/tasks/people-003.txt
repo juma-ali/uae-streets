@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-أبي نائلة	Abi Naelah Street	الشارقة
-أبي نصر	Abi Nassr Street	الشارقة
-أبي يوسف الكوفي	Abi Yousef Al Kofi Street	الشارقة
-أحمد بالكندي المرر	Ahmed Bilkindi Al Marar Street	أبوظبي
-أحمد بن بليد المرر	Ahmed Bin Blaid Al Marar Street	أبوظبي
-أحمد بن بوملحا المرر	Ahmed Bin Bu Melha Al Marar Street	أبوظبي
-أحمد بن جبارة المرر	Ahmed Bin Jbara Al Marar Street	أبوظبي
-أحمد بن حامد آل حامد	Ahmed Bin Hamed Al Hamed Street	أبوظبي
-أحمد بن خلف العتيبة	Ahmed Bin Khalaf Al Otaiba Street	أبوظبي
-أحمد بن درويش	Ahmed Bin Darwish Square	الشارقة
-أحمد بن عبدالرحمن بن حديد	Ahmed Bin Abdulrahman Bin Hadid Square	الشارقة
-أحمد بن عبدالعزيز المبارك	Ahmed Bin Abulaziz Al Mubarak Street	أبوظبي
-أحمد بن محمد الفهيم	Ahmed Bin Mohamed Al Fahim Street	أبوظبي
-أحمد عبدالله أحمد	Ahmed Abdulla Ahmed Street	أبوظبي
-أسامة بن عبد الله	Osama Bin Abdullah Street	الشارقة
-أسماء بنت عَمرو	Asma Bint 'Amr Street	أبوظبي
-اسماعيل الشهيد	Ismael Al Shaheed Street	الشارقة
-اسماعيل عبدالقادر الملا	Ismail Abdulqader Al Mulla Street	أبوظبي
-الأبهري	Al Abhari Street	الشارقة
-الأحوَص بن مَسعُود	Al Ahwas Bin Mas'oud Street	أبوظبي
+ابن ظاهر	Ibn Dhaher Street	الشارقة
+ابن علي القاسم	Iben Ali Al Qasim Street	الشارقة
+ابن علي مبارك	Ibn Ali Mubarak Street	الشارقة
+ابن ماجد	Ibn Majed Street	أم القيوين
+ابن مجاعة	Iben Maja'ah Street	الشارقة

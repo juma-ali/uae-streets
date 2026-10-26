@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-ضِوَى	Diwa Street
-طاسة	Tasah Street
-طربق اللافندر	Lavender Way
-طربق لوتس	Lotus Grove
-طعان	Ta'an Street
-طلال	Al Talal Street
-طَنجة	Tangier Street
-طِنِيب	Tineeb Street
-طُوارِف	Tuwarif Street
-طوَيقان	Twayqan Street
-طويلع	Tweela' Street
-طيبة	Teebah Street
-طِيبِي	Teebi Street
-ظبيان	Dhibyan Street
-ظِبَيبَة	Dhibaybah Street
-ظفير	Dhafeer Street
-ظنون	Dhunoun Street
-ظَهارة الطِّيب	Dhaharat At Teeb Street
-عالية	'Aliyah Street
-عبيدار	Ebaidaar Street
+الحميضي	Al Humaidhi Street
+الحَنايا	Al Hanaya Street
+الحَنْفا	Al Hanfa Street
+الحِنوة	Al Hinwah Street
+الحنَيوة	Al Hnaywah Street

@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الرَّنقِيَّة	Ar Ranqiyah Street
-الرهو	Ar Rahou Street
-الروا	Al Rwah Street
-الرَّوَائِع	Al Rawa-i' Street
-الرُواة	Ar Ruwat Street
-الرَّواجِح	Ar Rawajih Street
-الرَّوَافِد	Al Rawafid Street
-الرُّوتة	Ar Routah Street
-الرَّوحة	Ar Rawhah Street
-الرُّوزِنَة	Al Rouzinah Street
-الرَّوضات	Ar Rawdat Street
-الروضتين	Rawdateen Street
-الروفود	Al Rofood Street
-الرويدة	Al Roweidah Street
-الرُّوَيسِي	Ar Ruwaysi Street
-الرُّوَيضَة	Al Ruwaydah Street
-الرِّوَيكة	Ar Riwaykah Street
-الرُّوَيْنِي	Al Ruwayni Street
-الرِّياح	Ar Riyah Street
-الرية	Al Rayah Street
+الأسماتي	Al Asmati Street
+الإِسهام	Al Is-ham Street
+الأسواق	Al Aswaq Street
+الأشبال	Al Ashbal Street
+الأشجار	Al Ashjar Street

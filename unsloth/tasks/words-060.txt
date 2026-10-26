@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الطارس	Al Tarres Street
-الطَّارِف	At Tarif Street
-الطَّارْفة	At Tarfah Street
-الطَّارِي	Al Tari Street
-الطامح	Al Tamih Street
-الطامي	Al Tami Street
-الطباع	Al Tabee'a Street
-الطِّبَيلِي	At Tibayli Street
-الطراف	Al Tarraf Street
-الطُّروش	At Turoush Street
-الطريش	Al Tarish Street
-الطِعس	Al Ta's Street
-الطَّلائِع	At Tala-i' Street
-الطَّلاع	At Tala' Street
-الطَّلَال	Al Talal Street
-الطلايع	Al Talayi' Street
-الطَّلع	At Tal' Street
-الطَّلعان	At Tal'an Street
-الطِّلفاحة	At Tilfahah Street
-الطُّوار	At Tuwar Street
+الأوزان	Al Awzan Street
+الأوسمة	Al Awsimah Street
+الأَوْصَاف	Al Awsaf Street
+الأَوْطان	Al Awtan Street
+الأَوْفَى	Al Awfa Street

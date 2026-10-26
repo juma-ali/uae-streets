@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-أبو قَتادة الأنصارِي	Abu Qatadah Al Ansari Street	أبوظبي
-أبي الثناء	Abi Al Thana'a Street	الشارقة
-أبي العتاهية	Abi Al Ataheya Street	الشارقة
-أبي الفتح	Abi Al Fath Street	الشارقة
-أبي الفتوح	Abi Al Futooh Street	الشارقة
-أبي القاسم الجلاب	Abi Al Qasem Al Jalab Street	الشارقة
-أبي الهذيل	Abi Al Hadheel Street	الشارقة
-أبي أمامة	Abi Omamah Street	الشارقة
-أبي أيوب الأنصاري	Abi Ayoub Al Ansari Street	الشارقة
-أبي بسطام	Abi Bastam Street	الشارقة
-أبي جندل	Abi Jandal Street	الشارقة
-أبي سلمة بن عبد الأسد	Abi Salamah Bin Abd Al Asad Street	الشارقة
-أبي سنان بن محسن	Abi Sinan Bin Muhsin Street	الشارقة
-أبي صفرة	Abi Safra Street	الشارقة
-أبي ضياح بن ثابت	Abi Dayah Bin Thabet Street	الشارقة
-أبي علي الصواف	Abi Ali Al Sawaf Street	الشارقة
-أبي قتادة	Abi Qatadah Street	الشارقة
-أبي لبابة	Abi Lubabah Street	الشارقة
-أبي ليلى	Abi Layla Street	الشارقة
-أبي مفرز	Abi Mufriz Street	الشارقة
+ابن السماق	Iben Al Samak Street	الشارقة
+ابن المسيب	Iben Al Musayeb Street	الشارقة
+ابن ذي البردين	Ibn Dhi Al Burdeen	الشارقة
+ابن سيرين	Iben Sireen Street	الشارقة
+ابن ضبيعة	Iben Dhubai'ah Street	الشارقة

@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-فوششيا	Fuschia Street
-فوشيا	Fuchsia Drive
-فوكسغلوف	Foxglove Way
-فيستا	Vista Boulevard
-فيكتوري	Victory Drive
-فيلكا	Failaka Street
-فيوليت	Violet Way
-قاف الفِيِي	Qaf Al Fiyi Street
-قدفع الدائري	Qidfa Bypass Road
-قَراط	Qarat Street
-قِرقِشان	Qirqishan Street
-قِرمة السِّوَيدة	Qirmat As Siwaydah Street
-قشاش	Qshash Street
-قَصَّابِي	Qassabi Street
-قصاصِير الشِّيَر	Qusaseer Ash Shiyar Street
-قِصمة	Qismah Street
-قَطفاه	Qatfah Street
-قِلاطة	Qilatah Street
-قَمرَا	Qamra Street
-قَمشي	Qamshi Street
+الحويم	Al Huwaim Street
+الحياب	Al Heyaab Street
+الحيارات	Al Heiarat Street
+الحيبة	Al Heeba Street
+الحيتان	Al Heetan Street

@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-عبداللطيف بن إبراهيم المبارك	Abdullatif Bin Ibrahim Al Mubarak Street	أبوظبي
-عبدالله ابن الهبيت	Abdullah Ibn Al Habeet Street	أبوظبي
-عبدالله ابن أم مكتُوم	Abdullah Ibn Um Maktoum Street	أبوظبي
-عبدالله الخصيب	Abdullah Al Khaseeb Street	الشارقة
-عبدالله العبد	Abdullah Al Abed Street	الشارقة
-عبدالله النديم	Abdullah Al Nadeem Street	الشارقة
-عبدالله بن أبي جهم	Abdullah Bin Abi Jahem Street	الشارقة
-عبدالله بن أبي ربيعة	Abdullah Bin Abi Rabee'ah Street	أبوظبي
-عبدالله بن أبي سرح	Abdullah Bin Abi Sarh Street	الشارقة
-عبدالله بن أحمد العتيبة	Abdullah Bin Ahmed Al Otaiba Street	أبوظبي
-عبدالله بن الأدرع	Abdullah Bin Al Adra'a Street	الشارقة
-عبدالله بن الحارث	Abdullah Bin Al Harith Street	أبوظبي
-عبدالله بن المُبارَك	Abdullah Bin Al Mubarak Street	أبوظبي
-عبدالله بن أمية	Abdullah Bin Omayah Street	الشارقة
-عبدالله بن أنِيس	Abdullah Bin Anees Street	أبوظبي
-عبدالله بن بديل	Abdullah Bin Badeel Street	الشارقة
-عبدالله بن بُسر	Abdullah Bin Busr Street	أبوظبي
-عبدالله بن ثابِت	Abdullah Bin Thabit Street	أبوظبي
-عبدالله بن ثعلَبة	Abdullah Bin Tha'labah Street	أبوظبي
-عبدالله بن جبير	Abdullah Bin Jubayr Street	أبوظبي
+الشهيد موسى الدبس	Martyr Mousa Al Debis Street	الشارقة
+الشهيد وجدي حطاب	Martyr Wajdi Hatab Street	الشارقة
+الشيخ خليفة	Sheikh Khalifa Street	الشارقة
+الشيخ ذياب بن عيسى الفلاحي	Sheikh Theyab Bin Eissa AL Falahi Road	أبوظبي
+الشيخ راشد	Sheikh Rashid Road	دبي

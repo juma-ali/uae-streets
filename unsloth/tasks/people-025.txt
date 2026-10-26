@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-عبدالله بن حاذه المرر	Abdullah Bin Hatha Al Marar Street	أبوظبي
-عبدالله بن حجش	Abdullah Bin Hajash Street	أبوظبي
-عبدالله بن حميد	Abdullah Bin Humaid Street	عجمان
-عبدالله بن رَبِيعة	Abdullah Bin Rabee'ah Street	أبوظبي
-عبدالله بن زيد	Abdullah Bin Zayd Street	الشارقة
-عبدالله بن سالم	Abdulla Bin Salim Street	الشارقة
-عبدالله بن سراقة	Abdullah Bin Suraqah Street	الشارقة
-عبدالله بن سلامة	Abdullah Bin Salamah Street	الشارقة
-عبدالله بن سُهَيل	Abdullah Bin Suhail Street	أبوظبي
-عبدالله بن طارق	Abdullah Bin Tareq Street	الشارقة
-عبدالله بن عابد	Abdullah bin Abid Street	عجمان
-عبدالله بن عامر	Abdullah Bin Amer Street	الشارقة
-عبدالله بن عباس	Abdullah Bin Abbas Street	الشارقة
-عبدالله بن عبدالرحيم الوسواسي	Abdullah Bin Abdulrahim Al Waswasi Street	أبوظبي
-عبدالله بن عبدالله المهيري	Abdullah Bin Abdullah Al Muhairi Street	أبوظبي
-عبدالله بن عفيف	Abdullah Bin Afif Street	الشارقة
-عبدالله بن عُمَر	Abdullah Bin Omar Street	أبوظبي
-عبدالله بن عمير	Abdullah Bin Omair Street	الشارقة
-عبدالله بن كعب	Abdullah Bin Ka'eb Street	الشارقة
-عبدالله بن مبارك	Abdullah Bin Mubarak Street	الشارقة
+الشيخ رشيد	Sheikh Rasheed Street	الفجيرة
+الشيخ زايد	Sheikh Zayed Tunnel	أبوظبي
+الشيخ عبدالله سلطان القاسمي - الشارقة	Sheikh Abdullah Sultan Al Qasimi Street - Sharjah	الشارقة
+الشيخ عمار	Sheikh Ammar Street	عجمان
+الشيخ مكتوم	Sheikh Maktoum Bridge	عجمان

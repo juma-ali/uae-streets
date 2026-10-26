@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-المَثَايِل	Al Mathayil Street
-المِثْبَن	Al Mithban Street
-المِثْنَا	Al Mithna Street
-المَثناية	Al Mathnayah Street
-المِثيار	Al Mithyar Street
-المِثِيبة	Al Mithiybah Street
-المجاليع	Al Majale'a Street
-المجاميع	Al Majamee' Street
-المِجَاهِيم	Al Mijaheem Street
-المِجداف	Al Mijdaf Street
-المِجذَف	Al Mijdhaf Street
-المجلجل	Al Mujaljal Street
-المُجَنَّد	Al Mujannad Street
-المَحاجِر	Al Mahajir Street
-المحاذي	Al Muhadhi Street
-المَحَّارة	Al Mahharah Street
-المحازم	Al Mahazim Street
-المَحَافِل	Al Mahafil Street
-المَحاكِم	Al Mahakim Street
-المَحامِل	Al Mahamil Street
+البومان - السعفة E	Al Bumaan - Frond E Street
+البومية	Al Boomiya Street
+البونسيتة	Poinsettia Way
+البوورة	Al Bawoura Street
+البوَيم	Al Bwaym Street

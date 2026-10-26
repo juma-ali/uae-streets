@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-بيات بن محمد الهاملي	Beyat Bin Mohammed Al Hameli Street	أبوظبي
-تمام بن ناصر	Tamam Bin Nasser Street	الشارقة
-تَمِيم بن أسَيد	Tameem Bin Usayd Street	أبوظبي
-تميم بن بشر	Tamim Bin Bishr Street	الشارقة
-تَمِيم بن رَبِيعة	Tameem Bin Rabee'ah Street	أبوظبي
-تَمِيم بن سَلَمة	Tameem Bin Salamah Street	أبوظبي
-ثابت بن الجذع الأنصاري	Thabet Bin Al Jathe' Al Ansari Street	الشارقة
-ثابِت بن الحارِث	Thabit Bin Al Harith Street	أبوظبي
-ثابِت بن الصَّامِت	Thabit Bin As Samit Street	أبوظبي
-ثابِت بن دِينار	Thabit Bin Deenar Street	أبوظبي
-ثابِت بن رِفاعة	Thabit Bin Rifa'ah Street	أبوظبي
-ثابِت بن زَيد	Thabit Bin Zayd Street	أبوظبي
-ثابت بن وائلة	Thabet Bin Wae'alah Street	الشارقة
-ثابِت بن يَزِيد	Thabit Bin Yazeed Street	أبوظبي
-ثاني بن عبدالله الرميثي	Thani Bin Abdullah Al Rumaithi Street	أبوظبي
-ثمامة بن عبد الله	Thumamah Bin Abdullah Street	الشارقة
-ثَوبان بن بُجدُد	Thawban Bin Bujdud Street	أبوظبي
-جابر بن أبي صعصعة	Jabir Bin Abi Sa'sa'ah Street	أبوظبي
-جَابِرُ بن شَيبان	Jabir Bin Sheeban Street	أبوظبي
-جاك شيراك	Jacques Chirac Street	أبوظبي
+أسماء بنت عَمرو	Asma Bint 'Amr Street	أبوظبي
+اسماعيل الشهيد	Ismael Al Shaheed Street	الشارقة
+اسماعيل عبدالقادر الملا	Ismail Abdulqader Al Mulla Street	أبوظبي
+الأبهري	Al Abhari Street	الشارقة
+الأحوَص بن مَسعُود	Al Ahwas Bin Mas'oud Street	أبوظبي

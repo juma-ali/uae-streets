@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الزَّرف	Az Zarf Street
-الزِّرْقي	Al Zirqi Street
-الزِّرمة	Az Zirmah Street
-الزِّرَن	Al Ziran Street
-الزُّروف	Az Zurouf Street
-الزَّرِي	Al Zariy Street
-الزِّريقا	Az Zirayqa Street
-الزعفرانية	Al Za'faraniyah Street
-الزَّفْن	Al Zafn Street
-الزَّفِيْف	Al Zafeef Street
-الزَّلاَّلة	Az Zallalah Street
-الزمالة	Al Zamalah Street
-الزمر	Al Zamr Street
-الزمردة	Al Zumurrudah Street
-الزمل	Az Zaml Street
-الزملاء	Al Zumalaa Street
-الزُّمُول	Az Zumoul Street
-الزِّهَاب	Al Zihab Street
-الزوايا	Al Zawaya Street
-الزُود	Al Zoud Street
+الأصْحاب	Al As-hab Street
+الأَصْدَاف	Al Asdaf Street
+الأصرد	Al Asrad Street
+الأصعدة	Al As'idah Street
+الأَصْفَاء	Al Asfa Street

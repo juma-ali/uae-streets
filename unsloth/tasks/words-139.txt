@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-مْهَيَّا	Mhayya Street
-مهيوف	Mahyouf Street
-موافجة	Mwafjah Street
-مواقف سيارات الأجرة في دبي	Dubai taxi parking lot
-موجا	Mouja Street
-مُوشَم	Mousham Street
-مونتجوميري دريف	Montgomerie Drive
-مُوَيثِج	Muwaythij Street
-مُوَيفعة	Muwayf'ah Street
-مُوَيلح	Muwaylih Street
-مُوَيه الحِضِيب	Mouyah Al Hideeb Street
-مُوَيِه السَّبر	Muwayih As Sabr Street
-مي	Mai Street
-ميادع	Mayade' Street
-ميار	Miyar Street
-ميانيب	Meyanib Street
-ميرا	Mira
-ميربا	Mirba' Street
-ميزار	Maizar Street
-ميموزا	Mimosa Way
+الخمايل	Al Khamayil Street
+الخمرِية	Al Khamriyah Street
+الخَمِيسِيَّة	Al Khameesiyah Street
+الخناجِر	Al Khanajir Street
+الخنيصر	Al Khinaysir Street

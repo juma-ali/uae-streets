@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-القنوت	Al Qunout Street
-القوارِب	Al Qawarib Street
-القَوَافِل	Al Qawafil Street
-القَوافِي	Al Qawafi Street
-القَواقِع	Al Qawaqi' Street
-القواميس	Al Qawamees Street
-القوانة	Al Qawanah Street
-القُوشِي	Al Qoushi Street
-القوع	Al Qou' Road
-القِوِيَّة	Al Qiwiyah Street
-القويصيمة	Al Quwaysimiyah Street
-القِيثارِي	Al Qeethari Street
-القيحوان	Al Qayhawan Street
-القيرب	Al Qeirab Street
-القيس	Al Qays Street
-القِيعان	Al Qee'an Street
-القيلان	Al Qeelan Street
-الكاتْلي	Al Katli Street
-الكادر	Al Kadir Street
-الكادِي	Al Kadi Street
+البكور	Al Bikour Street
+البَلابِل	Al Balabil Street
+البِلاد	Al Bilad Street
+البَلَم	Al Balam Street
+البلولة	Al Baloulah Street

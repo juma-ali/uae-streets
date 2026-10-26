@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-سالم بن العويس	Salem Bin Alowais Square	الشارقة
-سالِم بن عبدالله	Salim Bin Abdullah Street	أبوظبي
-سالم بن عبيد المنصوري	Salem Bin Obaid Almansoori  Street	أبوظبي
-سالم بو ملحا المرر	Salem Bu Melha Al Marar Street	أبوظبي
-سَبخة بن عِيسَى	Sabkhat Bin Eisa Street	أبوظبي
-سدرات بن عايش	Sidraat Bin 'Aysh Street	أبوظبي
-سِدرة بن هِلال	Sidrat Bin Hilal Street	أبوظبي
-سراض بن كب	Soraqa Bin Ka'eb Street	الشارقة
-سراقة بن كعب	Suraqah Bin Ka'eb Street	الشارقة
-سَعد ابن ابي وقاص	Sa'd Ibn Abi Waqqas Street	أبوظبي
-سعد بن النعمان	Sa'ad Bin Al Nua'man Street	الشارقة
-سعد بن زيد	Sa'ad Bin Zayd Street	الشارقة
-سعد بن سهيل	Sa'ad Bin Suhail Street	الشارقة
-سعد بن سويد بن قيس	Sa'd Bin Suwayd Bin Qays Street	أبوظبي
-سعد بن عمرو	Sa'ad Bin Amr Street	الشارقة
-سعد بن يزيد	Sa'ed Bin Yazeed Street	الشارقة
-سعيد بن أحمد العتيبة	Saeed Bin Ahmed Al Otaiba Street	أبوظبي
-سعيد بن سلامة	Sa'ed Bin Salamah Street	الشارقة
-سعيد بن يسار	Sa'eed bin Yassar Street	الشارقة
-سفيان بن عبدالله	Sufyan Bin Abdullah Street	الشارقة
+الدحّام بن زايد المزروعي	Aldahham Bin Zayed Al Mazrouei Street	أبوظبي
+الدودة بن مكتوم الشريفي	Aldoda Bin Maktoum Al Sheraifi Street	أبوظبي
+الرَّازِي	Al Razi Street	أبوظبي
+الرباب بنت حارثة	Al Rabab Bint Haretha Street	الشارقة
+الرَّبِيع	Al Rabee' Street	أبوظبي

@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-ثُوبان	Thouban Street
-جازان	Jazan Street
-جاسِر	Jasir Street
-جُبارة	Jubarah Street
-جبلة	Jiblah Street
-جْدِيرَة	Jdeerah Street
-جردي	Jardi Street
-جرش	Jerash Street
-جرنين	Jarneen Street
-جَرير	Jareer Street
-جرين	Green Drive
-جساس	Jassas Street
-جِعْدَان	Ji'dan Street
-جِلاع الصَّغيرة	Jila' As Sagheerah Street
-جِلايِب	Jilayib Street
-جِلفار	Jilfar Street
-جلنار	Julnar Street
-جِلَيعة العِزُوب	Jilay'at Al 'Izoub Street
-جماري	Jammari Street
-جمانة	Jumana Road
+الحاتم	Al Hatim Street
+الحاذي	Al Hadhi Street
+الحَاصِد	Al Hasid Street
+الحاصلة	Al Haslah Street
+الحَايِل	Al Hayil Street

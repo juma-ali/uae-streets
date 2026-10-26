@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر اسم شخص ثم اسم الشارع بالإنجليزية ثم الإمارة، والمطلوب: من هو هذا الشخص في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-الشيخ رشيد	Sheikh Rasheed Street	الفجيرة
-الشيخ زايد	Sheikh Zayed Tunnel	أبوظبي
-الشيخ عبدالله سلطان القاسمي - الشارقة	Sheikh Abdullah Sultan Al Qasimi Street - Sharjah	الشارقة
-الشيخ عمار	Sheikh Ammar Street	عجمان
-الشيخ مكتوم	Sheikh Maktoum Bridge	عجمان
-الشيخة سلامة بنت بطي	Sheikha Salama Bint Butti Road	أبوظبي
-الصغيّر بن خادم الخييلي	Alsaghir Bin Khadem Al Khaili Street	أبوظبي
-الطاهر بن أبي هالة	Al Taher Bin Abi Hala Street	الشارقة
-الطاهر بن علي المرر	Altaher Bin Ali Al Marar Street	أبوظبي
-العاص بن هاشِم	Al 'As Bin Hashim Street	أبوظبي
-العَلاء بن زِياد	Al 'Ala-a Bin Ziyad Street	أبوظبي
-العلى	Al 'Uola Street	أبوظبي
-العيينه بن عصيان العامري	Alayena Bin Aseyan Al Ameri Street	أبوظبي
-الفَارُوق	Al Farouq Street	أبوظبي
-الفاكه بن بشير	Al Fakeh Bin Basheer Street	الشارقة
-الفضل بن علي عباس	Al Fadhel Bin Ali Abbas Street	الشارقة
-الفَضل بن مَيمُون	Al Fadl Bin Maymoun Street	أبوظبي
-الفندي بن غانم المزروعي	Alfindi Bin Ghanem Al Mazrouei Street	أبوظبي
-الفَيصَل	Al Faysal Street	أبوظبي
-القزويني	Al Khouzwini Street	الشارقة
+أبي جندل	Abi Jandal Street	الشارقة
+أبي سلمة بن عبد الأسد	Abi Salamah Bin Abd Al Asad Street	الشارقة
+أبي سنان بن محسن	Abi Sinan Bin Muhsin Street	الشارقة
+أبي صفرة	Abi Safra Street	الشارقة
+أبي ضياح بن ثابت	Abi Dayah Bin Thabet Street	الشارقة

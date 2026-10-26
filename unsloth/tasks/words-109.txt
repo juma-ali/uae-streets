@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-بتركب	Buttercup Way
-بَتُوْك	Butouk Street
-بُحُوث الجِرِينة	Buhouth Al Jireenah Street
-بُحُوث الرُّوَيَّة	Buhouth Ar Ruwayah Street
-بُحُوث ثالثة	Buhouth Thalthah Street
-بُحُوث حِمَيِّد	Buhouth Himayid Street
-بُحُوث عَفرا	Buhouth 'Afra Street
-بُحُوث يِبارة	Buhouth Yibarah Street
-بُحُور الشِّعر	Buhour Ash Shi'r Street
-بِدايِر خِنَيصِر	Bidayir Khinaysir Street
-بَداير مسَيفر	Badayir Misayfir Street
-بدوع خليفة	Bidou' Khalifa Street
-بدَيرة مُرغَم	Biderat Murgham Street
-بَرَاشِي	Barashi Street
-براكة	Barakah Street
-برايو	Brayw Street
-بردوان	Berdwan Street
-برَك حصة	Barak Hissah Street
-برندة	Brandah Street
-بريج	Breej Street
+الجَندَلِيَّة	Al Jandaliyah Street
+الجنديلة	Al Jandeelah Street
+الجهمية	Al Jahmiyah Street
+الجِوَاء	Al Jiwa Street
+الجَوَّالة	Al Jawalah Street

@@ -1,24 +1,11 @@
-أجب عن 20 سطراً. لا تشرح. لا تفكّر بصوت عالٍ.
-لكل سطر: أعِد الأعمدة كما هي، ثم TAB ثم الإجابة، ثم TAB ثم رابط المصدر.
-إن لم تعرف: اتركه فارغاً ولا تخمّن.
+أمامك 5 أسطر. في كل سطر كلمة عربية ثم اسم الشارع بالإنجليزية، والمطلوب: معنى الكلمة في سطر واحد.
+اكتب 5 أسطر فقط، سطراً واحداً لكل سطر بالترتيب نفسه:
+الإجابة، ثم TAB، ثم رابط المصدر.
+إن لم تعرف الاسم فاكتب سطراً فيه TAB وحده — الفراغ مطلوب ولا يُعدّ خطأ.
+لا تُعِد كتابة الأسماء، ولا تشرح، ولا ترقّم الأسطر.
 
-البَنَايِد	Al Banayid Street
-البِنْدَار	Al Bindar Street
-البَندَيرة	Al Bandayrah Street
-البَهِي	Al Bhi Street
-البواخر	Al Bawakhir Street
-البَوادِر	Al Bawadir Street
-البوارج	Al Bawarij Street
-البوارح	Al Bawarih Street
-البوارق	Al Bawariq Street
-البَوَاسِل	Al Bawasil Street
-البواسم	Al Bawasim Street
-البواصي	Al Bwasi Street
-البوح	Al Bouh Street
-البوصي	Al Boussi Street
-البُوْكَة	Al Boukah Street
-البومان - السعفة E	Al Bumaan - Frond E Street
-البومية	Al Boomiya Street
-البونسيتة	Poinsettia Way
-البوورة	Al Bawoura Street
-البوَيم	Al Bwaym Street
+جاردينيا	Gardenia Road
+جسيورة	Jisaywrah Road
+حولي	Hawally Street
+دَلمون	Dalmoun Street
+ذنَّان	Dhannan Street
