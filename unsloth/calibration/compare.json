@@ -1,9 +1,30 @@
 [
  {
-  "model": "D_AI_models_bartowski_Qwen2.5-32B-Instruct-GGUF_Qwen2.5-32B-Instruct-Q4_K_S.gguf",
+  "model": "c4ai-command-r7b-arabic-02-2025",
   "answered": 20,
-  "linked": 10,
-  "avg": 9,
-  "mins": "5.1"
+  "linked": 0,
+  "avg": 11,
+  "mins": "14.0"
+ },
+ {
+  "model": "allam-7b-arabic-sft",
+  "answered": 20,
+  "linked": 0,
+  "avg": 21,
+  "mins": "6.3"
+ },
+ {
+  "model": "allam-plus-7b",
+  "answered": 20,
+  "linked": 0,
+  "avg": 24,
+  "mins": "1.2"
+ },
+ {
+  "model": "mawrooth-allam-7b",
+  "answered": 20,
+  "linked": 0,
+  "avg": 16,
+  "mins": "6.5"
  }
 ]
