@@ -30217,18 +30217,23 @@ window.STREETS = [
   "id": "suhel-bin-haneef-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سهيل بن حنيف",
   "en": "Suhel Bin Haneef Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Sahl ibn Hunayf, a Companion who fought at Badr",
+    "ar": "سهل بن حنيف، صحابي بدري"
   },
   "story": {
-    "en": "The street carries the name of سهيل بن حنيف. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم سهيل بن حنيف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Sahl ibn Hunayf ibn Wahb, Abu Thabit al-Ansari al-Awsari, was a Companion of the Ansar of the Aws and a veteran of Badr. He appears in five of the biographical dictionaries, under the fuller form «سهل بن حنيف أبو ثابت الأنصاري الأوسي» and the shorter «سهل بن حنيف الأنصاري بدري». The sign writes his first name «Suhail» where the sources have «Sahl».",
+    "ar": "سهل بن حنيف بن واهب، أبو ثابت الأنصاري الأوسي، صحابي من الأنصار من الأوس، ومن أهل بدر. ترجم له خمسة من كتب التراجم، وجاء في أحدها «سهل بن حنيف الأنصاري بدري». وقد ورد اسمه الأول على اللوحة «سهيل»، وفي المصادر «سهل»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "موسوعة رواة الحديث — سهل بن حنيف",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%B3%D9%87%D9%84-%D8%A8%D9%86-%D8%AD%D9%86%D9%8A%D9%81/"
+    }
+  ]
 },
 {
   "id": "sultan-qaboos-road",
