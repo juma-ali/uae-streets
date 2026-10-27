@@ -5423,18 +5423,23 @@ window.STREETS = [
   "id": "sultan-bin-hwaidn-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد سلطان بن هويدن",
   "en": "Sultan Bin Hwaidn Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "No published source was found identifying who Sultan Bin Hwaidn — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الشهيد سلطان بن هويدن» الذي يحمل الشارع اسمه."
+    "en": "Sultan Mohammed bin Huwaidin Al Ketbi was from Al Dhaid in the Emirate of Sharjah and held the rank of staff colonel. His funeral in Al Dhaid was reported in the local press on 14 December 2015. The street carries the shortened form of his name.",
+    "ar": "سلطان محمد بن هويدن الكتبي، من مدينة الذيد في إمارة الشارقة، وكان برتبة عقيد ركن. نُشر خبر تشييعه في الذيد في الصحافة المحلية في ١٤ ديسمبر ٢٠١٥. ويحمل الشارع الصيغة المختصرة من اسمه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الإمارات اليوم — ١٤ ديسمبر ٢٠١٥",
+      "url": "https://www.emaratalyoum.com/local-section/other/2015-12-14-1.849887"
+    }
+  ]
 },
 {
   "id": "alsaghir-bin-khadem-al-khaili-street",
