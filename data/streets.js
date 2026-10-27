@@ -13243,18 +13243,27 @@ window.STREETS = [
   "id": "rashid-nasser-al-zaabi",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد ناصر الزعابي",
   "en": "Rashid Nasser Al Zaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Zaabi family",
-    "ar": "شخصية إماراتية من أسرة الزعابي"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rashid Nasser, an Emirati figure of the Zaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشهيد ناصر، وهو شخصية إماراتية من أسرة الزعابي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Rashid Nasser Saif Hassan Al Zaabi is one of the country's fallen whose name was published in the local press in 2015. الاسم الكامل في القائمة، والشارع يختصره إلى «ناصر الزعابي»; the card records the name and claims nothing further.",
+    "ar": "راشد ناصر سيف حسن الزعابي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
+    },
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "url": "https://24.ae/article/186420/"
+    }
+  ]
 },
 {
   "id": "saif-khalaf-al-za-abi",
@@ -13656,18 +13665,27 @@ window.STREETS = [
   "id": "al-shaheed-ahmed-khamis-al-hammadi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد أحمد خميس الحمادي",
   "en": "Al Shaheed Ahmed Khamis Al Hammadi Street",
   "meaning": {
-    "en": "An Emirati figure of the Hammadi family",
-    "ar": "شخصية إماراتية من أسرة الحمادي"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Shaheed Ahmed Khamis, an Emirati figure of the Hammadi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشهيد أحمد خميس، وهو شخصية إماراتية من أسرة الحمادي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Ahmed Khamis Mallulah Idrees Al Hammadi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
+    "ar": "أحمد خميس مولّلة إدريس الحمادي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
+    },
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "url": "https://24.ae/article/186420/"
+    }
+  ]
 },
 {
   "id": "ali-almqaidi-al-ameri",
@@ -15043,18 +15061,27 @@ window.STREETS = [
   "id": "al-shaheed-saif-esa-al-naqbi",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد سيف عيسى النقبي",
   "en": "Al Shaheed Saif Esa Al Naqbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Naqbi family",
-    "ar": "شخصية إماراتية من أسرة النقبي"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Al Shaheed Saif Esa, an Emirati figure of the Naqbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشهيد سيف عيسى، وهو شخصية إماراتية من أسرة النقبي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Saif Essa Al Naqbi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في قائمة البيان; the card records the name and claims nothing further.",
+    "ar": "سيف عيسى النقبي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
+    },
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "url": "https://24.ae/article/186420/"
+    }
+  ]
 },
 {
   "id": "ali-bin-saif-al-khatery",
@@ -15094,18 +15121,27 @@ window.STREETS = [
   "id": "hasan-mohammad-al-tunaiji",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد حسن محمد الطنيجي",
   "en": "Hasan Mohammad Al Tunaiji Street",
   "meaning": {
-    "en": "An Emirati figure of the Tunaiji family",
-    "ar": "شخصية إماراتية من أسرة الطنيجي"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Hasan Mohammad, an Emirati figure of the Tunaiji family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشهيد حسن محمد، وهو شخصية إماراتية من أسرة الطنيجي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Hassan Mohammed Hassan Mohammed Al Tunaiji is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
+    "ar": "حسن محمد حسن محمد الطنيجي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
+    },
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "url": "https://24.ae/article/186420/"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-salamah-al-ansari",
@@ -15162,18 +15198,27 @@ window.STREETS = [
   "id": "rashid-mohammad-al-bloush",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد راشد محمد البلوشي",
   "en": "Rashid Mohammad Al Bloush Street",
   "meaning": {
-    "en": "An Emirati figure of the Bloush family",
-    "ar": "شخصية إماراتية من أسرة البلوشي"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Rashid Mohammad, an Emirati figure of the Bloush family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشهيد راشد محمد، وهو شخصية إماراتية من أسرة البلوشي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Rashid Mohammed Abbas Saleh Al Balooshi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
+    "ar": "راشد محمد عباس صالح البلوشي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
+    },
+    {
+      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "url": "https://24.ae/article/186420/"
+    }
+  ]
 },
 {
   "id": "akroum-al-birayda-street",
