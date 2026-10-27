@@ -9258,18 +9258,23 @@ window.STREETS = [
   "id": "hamed-bu-qitah-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد بو قطعة الظاهري",
   "en": "Hamed Bu Qitah Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "en": "An Abu Dhabi man of the Dhaheri family",
+    "ar": "من رجال أبوظبي من أسرة الظاهري"
   },
   "story": {
-    "en": "The street carries the name of Hamed Bu Qitah, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد بو قطعة، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Hamad Bu Qit'ah Al Dhaheri was an Abu Dhabi man whose death in 2014 was recorded in the local press, and Sheikh Hamdan bin Zayed Al Nahyan offered condolences in it. No further biography was published with the report.",
+    "ar": "حمد بو قطعة الظاهري، من رجال أبوظبي. نُعي في الصحافة المحلية سنة ٢٠١٤، وعزّى في وفاته الشيخ حمدان بن زايد آل نهيان. ولم يُنشر مع الخبر أكثر من ذلك."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الاتحاد — ٢٠١٤",
+      "url": "https://www.aletihad.ae/article/65547/2014"
+    }
+  ]
 },
 {
   "id": "hamel-bin-khadim-al-qubaisi",
@@ -9705,18 +9710,27 @@ window.STREETS = [
   "id": "juma-bu-jamhour-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة بو جمهور القبيسي",
   "en": "Juma Bu Jamhour Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "en": "Of the Al Qubaisi family of poets",
+    "ar": "من أسرة القبيسي التي منها الشعراء"
   },
   "story": {
-    "en": "The street carries the name of Juma Bu Jamhour, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة بو جمهور، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "en": "The name belongs to the Al Qubaisi family that produced the poet Ghaith bin Juma Bu Jamhur Al Qubaisi, whose diwan the Ministry of Culture reprinted and which is held in library catalogues. The street carries the father's name in that nasab.",
+    "ar": "الاسم من أسرة القبيسي التي منها الشاعر غيث بن جمعة بو جمهور القبيسي، وقد أعادت وزارة الثقافة طباعة ديوانه، وهو مثبت في فهارس المكتبات. ويحمل الشارع اسم الأب في هذا النسب."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "وام — وزارة الثقافة تعيد طباعة الديوان",
+      "url": "https://www.wam.ae/ar/article/hsynm5k5"
+    },
+    {
+      "label": "فهرس مكتبة — ديوان غيث بن جمعة بوجمهور القبيسي",
+      "url": "https://opac.lc.ac.ae/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=38624"
+    }
+  ]
 },
 {
   "id": "khadim-bin-mohammed-al-rumaithi",
