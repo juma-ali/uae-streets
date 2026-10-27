@@ -18560,18 +18560,23 @@ window.STREETS = [
   "id": "abd-al-as-hal-iyas-bin-aws-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبد الأسهل إياس بن أوس",
   "en": "Abd Al As-hal Iyas Bin Aws Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar who fell at Uhud",
+    "ar": "صحابي من الأنصار، استُشهد يوم أُحد"
   },
   "story": {
-    "en": "The street carries the name of عبد الأسهل إياس بن أوس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبد الأسهل إياس بن أوس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Iyas ibn Aws ibn Utayk ibn Amr al-Ansari al-Ash-hali was a Companion of the Aws of the Ansar, of the clan Banu Abd al-Ashhal. He fought at Uhud with the Prophet and was killed there. The street name puts the clan name beside his own, and the sign spells it «Abd al-As-hal» where the clan is «Abd al-Ashhal».",
+    "ar": "إياس بن أوس بن عتيك بن عمرو الأنصاري الأشهلي، صحابي من قبيلة الأوس من الأنصار، من بني عبد الأشهل. شهد غزوة أُحد مع النبي صلى الله عليه وسلم وقُتل فيها شهيداً. واسم الشارع يجمع اسم القبيلة «عبد الأشهل» إلى اسمه، وقد وردت الكلمة على اللوحة «عبد الأسهل»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — إياس بن أوس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A5%D9%8A%D8%A7%D8%B3_%D8%A8%D9%86_%D8%A3%D9%88%D8%B3"
+    }
+  ]
 },
 {
   "id": "abdah-bin-al-hassas-street",
