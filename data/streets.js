@@ -13274,18 +13274,27 @@ window.STREETS = [
   "id": "saif-khalaf-al-za-abi",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد سيف حلف الزعابي",
   "en": "Saif Khalaf Al Za'abi Street",
   "meaning": {
-    "en": "An Emirati figure of the Za'abi family",
-    "ar": "شخصية إماراتية من أسرة الزعابي"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Saif Khalaf, an Emirati figure of the Za'abi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشهيد سيف حلف، وهو شخصية إماراتية من أسرة الزعابي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Saif Khalaf Saif Al Zaabi was a first lieutenant and pilot from Kalba in the Emirate of Sharjah. He died on 17 December 2014 during a military exercise; prayers were held for him at Al Buhairah mosque in Kalba and he was buried in the Khor Kalba cemetery on 19 December. The fellow pilot who died with him was First Lieutenant Abdullah Ali Al Hammoudi. The sign spells the second name «Hulf» where the newspaper has «Khalaf».",
+    "ar": "سيف خلف سيف الزعابي، ملازم أول طيار من كلباء في إمارة الشارقة. تُوفي في ١٧ ديسمبر ٢٠١٤ أثناء تمرين عسكري، وصُلّي عليه في مسجد البحيرة بكلباء ودُفن في مقبرة خور كلباء في ١٩ ديسمبر. وكان معه في الحادث زميله الملازم أول الطيار عبد الله علي الحمودي. ويأتي الاسم على اللوحة «سيف حلف» بالحاء، وفي الصحيفة «سيف خلف» بالخاء."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "البيان — ملحق الشهداء، ١٧ نوفمبر ٢٠١٥",
+      "url": "https://www.albayan.ae/supplements/restoring-hope/martyrs/2015-11-17-1.2507328"
+    },
+    {
+      "label": "البيان — تشييع الجنازة، ١٩ ديسمبر ٢٠١٤",
+      "url": "https://www.albayan.ae/across-the-uae/news-and-reports/2014-12-19-1.2269817"
+    }
+  ]
 },
 {
   "id": "mubarak-bin-qaran-al-mansouri-street",
