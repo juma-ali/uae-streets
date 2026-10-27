@@ -196,7 +196,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261029G";
+    s.src = "data/cards.js?v=20261029H";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -468,7 +468,7 @@
   }
 
   function refreshChipCounts() {
-    $('#origin-chips .chip').forEach(function (chip) {
+    $$('#origin-chips .chip').forEach(function (chip) {
       var v = chip.getAttribute("data-value");
       var n = STREETS.filter(function (s) {
         if (v !== "all" && (s.origin || "unsourced") !== v) return false;
@@ -478,6 +478,7 @@
       }).length;
       var c = chip.querySelector(".chip__count");
       if (c) c.textContent = n ? n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") : "";
+      chip.setAttribute("aria-pressed", String(state.origin === v));
     });
     $$('#emirate-chips .chip').forEach(function (chip) {
       var v = chip.getAttribute("data-value");

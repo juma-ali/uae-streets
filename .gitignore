@@ -49,3 +49,5 @@ data/dictionary.js
 data/categories.js
 data/glosses-extra.js
 data/localities.js
+
+assets/js/*.bak
