@@ -5694,18 +5694,27 @@ window.STREETS = [
   "id": "iyas-bin-tha-labah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع إياس بن ثَعلَبة",
   "en": "Iyas Bin Tha'labah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "Abu Umama al-Bahili, a Companion",
+    "ar": "أبو أمامة الباهلي، صحابي"
   },
   "story": {
-    "en": "No published source was found identifying who Iyas Bin Tha'labah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «اياس بن ثعلبه» الذي يحمل الشارع اسمه."
+    "en": "Iyas ibn Tha'labah al-Bahili is better known by his kunya, Abu Umama — a Companion of the Prophet and one of the companions of Ali ibn Abi Talib. The sources differ on his given name (Ibn Hajar records «عبد الله بن ثعلبة» and «ثعلبة بن عبد الله» among the variants), and the street carries the first of them.",
+    "ar": "إياس بن ثعلبة الباهلي، المعروف بكنيته «أبو أمامة»، صحابي من أصحاب النبي صلى الله عليه وسلم، ومن أصحاب علي بن أبي طالب. واختلفت المصادر في اسمه، فذكر ابن حجر في ترجمته «عبد الله بن ثعلبة» و«ثعلبة بن عبد الله» من الأقوال، والشارع يحمل أولها."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — أبو أمامة الباهلي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A3%D9%85%D8%A7%D9%85%D8%A9_%D8%A7%D9%84%D8%A8%D8%A7%D9%87%D9%84%D9%8A"
+    },
+    {
+      "label": "المكتبة الشاملة — فهرس الرواة: أبو أمامة ؛ إياس بن ثعلبة",
+      "url": "https://shamela.ws/new.php/narrator/841"
+    }
+  ]
 },
 {
   "id": "bakhit-bin-khalfan-al-khaili-street",
