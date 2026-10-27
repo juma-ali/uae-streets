@@ -8556,18 +8556,23 @@ window.STREETS = [
   "id": "ali-khamis-al-ktebi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي خميس الكتبي",
   "en": "Ali Khamis Al Ktebi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ktebi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of Ali Khamis, an Emirati figure of the Ktebi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي خميس، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Ali Khamis bin Aayed Al Ketbi was from Al Ain in the Emirate of Abu Dhabi. Prayers were held for him at the Armed Forces Martyrs' Mosque in the Al Jahili area of Al Ain, and he was buried in the Al Matawa'ah cemetery.",
+    "ar": "علي خميس بن عايد الكتبي، من مدينة العين في إمارة أبوظبي. صُلّي عليه في مسجد شهداء القوات المسلحة بمنطقة الجاهلي في العين، ودُفن في مقبرة المطاوعة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "البيان — ٩ أكتوبر ٢٠١٥",
+      "url": "https://www.albayan.ae/one-world/arabs/2015-10-09-1.2477268"
+    }
+  ]
 },
 {
   "id": "ali-rashed-al-dhaheri",
@@ -9304,18 +9309,23 @@ window.STREETS = [
   "id": "hamouda-bin-ali-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمودة بن علي الظاهري",
   "en": "Hamouda Bin Ali Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "en": "An Abu Dhabi figure of the founding generation",
+    "ar": "من رجالات أبوظبي في جيل التأسيس"
   },
   "story": {
-    "en": "The street carries the name of Hamouda Bin Ali, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمودة بن علي، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Hamouda bin Ali Al Dhaheri was a late Abu Dhabi figure of the founding generation, described in the press as the companion of Abdullah Omran Taryam in his work for the country. In June 2015 Abu Dhabi's Municipal Affairs Department named this main street on Al Maryah Island after him, under the «My Address» project. His son Ali bin Hamouda is vice-chairman of Ibn Hamouda Group.",
+    "ar": "حمودة بن علي الظاهري، من رجالات أبوظبي في جيل التأسيس، ووصفته الصحافة بأنه رفيق درب عبد الله عمران تريم في عملهما للوطن. وفي يونيو ٢٠١٥ أطلقت دائرة الشؤون البلدية في أبوظبي اسمه على هذا الشارع الرئيسي في جزيرة المارية، ضمن مشروع «عنواني». وابنه علي بن حمودة نائب رئيس مجموعة ابن حمودة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "البيان — ١٧ يونيو ٢٠١٥",
+      "url": "https://www.albayan.ae/across-the-uae/news-and-reports/2015-06-17-1.2397730"
+    }
+  ]
 },
 {
   "id": "harib-bin-meghair-al-khyeli",
