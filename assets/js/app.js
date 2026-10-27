@@ -186,6 +186,36 @@
   var lastRoads = [];
   var ROAD_PAGE = 60;
   var PAGE = 24; // cards per screen
+
+  /* ---- first-load order -------------------------------------------------
+     A seed drawn once per visit; the cards are then shuffled by it, with the
+     documented ones ahead of the rest. Same seed all session, so paging works. */
+  var LOAD_SEED = Math.floor(Math.random() * 1e9);
+  var ORIGIN_RANK = { documented: 0, account: 1, unsourced: 2 };
+
+  function seededHash(s) {
+    var h = 2166136261;
+    for (var i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); }
+    return h >>> 0;
+  }
+
+  function isDefaultView() {
+    return !state.q && state.emirate === "all" && state.region === "all" &&
+      state.category === "all" && state.origin === "all" &&
+      state.district === "all" && state.town === "all";
+  }
+
+  function orderResults(arr) {
+    if (!isDefaultView()) return arr;
+    return arr.slice().sort(function (x, y) {
+      var rx = ORIGIN_RANK[x.origin || "unsourced"];
+      var ry = ORIGIN_RANK[y.origin || "unsourced"];
+      if (rx === undefined) rx = 2;
+      if (ry === undefined) ry = 2;
+      if (rx !== ry) return rx - ry;
+      return seededHash(LOAD_SEED + x.id) - seededHash(LOAD_SEED + y.id);
+    });
+  }
   var ROADS = null;          // the full card index, loaded on first search only
   var roadsLoading = false;
   var roadsWaiting = [];
@@ -196,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261029H";
+    s.src = "data/cards.js?v=20261029J";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -680,8 +710,10 @@
         var shown = Math.min(n, state.limit || PAGE);
         if (n > shown) {
           countEl.textContent = state.lang === "ar"
-            ? shown.toLocaleString("ar-EG") + " من " + n.toLocaleString("ar-EG") + " شارعاً"
-            : "showing " + shown + " of " + n + " streets";
+            ? shown.toLocaleString("ar-EG") + " من " + n.toLocaleString("ar-EG") + " شارعاً" +
+              (isDefaultView() ? " · الموثّق أولاً" : "")
+            : "showing " + shown + " of " + n + " streets" +
+              (isDefaultView() ? " · documented first" : "");
         } else {
           countEl.textContent = isFiltered
             ? format(T.countFiltered, { n: n, total: total })
@@ -919,7 +951,7 @@
   /* ---------- main update ---------- */
   function update(animate) {
     if (!ROADS) { loadRoads(function () { update(false); }); }
-    results = filterStreets();
+    results = orderResults(filterStreets());
     renderGrid(animate !== false);
     refreshChipCounts();
     renderTownChips();
