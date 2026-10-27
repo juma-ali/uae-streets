@@ -24294,18 +24294,27 @@ window.STREETS = [
   "id": "zuhrah-bin-humaydah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زُهرة بن حُمَيضة",
   "en": "Zuhrah Bin Humaydah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Azhar ibn Humaydah, who transmitted from Abu Bakr",
+    "ar": "أزهر بن حميضة، روى عن أبي بكر الصديق"
   },
   "story": {
-    "en": "The street carries the name of زُهرة بن حُمَيضة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم زُهرة بن حُمَيضة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The books record him as Azhar ibn Humaydah, and al-Isaba notes the form on the sign, Zuhrah, beside it. He transmitted from Abu Bakr al-Siddiq, and Ibn Abd al-Barr gave him a short entry. Ibn al-Athir ends with «his Companionship is open to consideration» — the sources did not settle whether he met the Prophet.",
+    "ar": "تذكره الكتب «أزهر بن حميضة»، وتشير الإصابة إلى الصيغة التي على اللوحة «زهرة» إلى جانبه. روى عن أبي بكر الصديق، وذكره ابن عبد البر في الاستيعاب مختصراً. وقال ابن الأثير في آخر ترجمته: «في صحبته نظر»، أي أن المصادر لم تُحرّر لقاءه النبي صلى الله عليه وسلم."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة (ط. الوهبية) — ج1 ص63",
+      "url": "https://ar.wikisource.org/wiki/%D8%A3%D8%B3%D8%AF_%D8%A7%D9%84%D8%BA%D8%A7%D8%A8%D8%A9_(%D8%B7._%D8%A7%D9%84%D9%88%D9%87%D8%A8%D9%8A%D8%A9)/%D8%AD%D8%B1%D9%81_%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9/%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D9%87%D9%85%D8%B2%D8%A9_%D9%85%D8%B9_%D8%A7%D9%84%D8%B2%D8%A7%D9%8A_%D9%88%D9%85%D8%A7_%D9%8A%D8%AB%D9%84%D8%AB%D9%87%D9%85%D8%A7/%D8%A3%D8%B2%D9%87%D8%B1"
+    },
+    {
+      "label": "الإصابة — ج2 ص526 (عبر موسوعة التراجم)",
+      "url": "https://www.taraajem.com/persons/43635/%D8%B2%D9%87%D8%B1%D8%A9-%D8%A8%D9%86-%D8%AD%D9%85%D9%8A%D8%B6%D8%A9"
+    }
+  ]
 },
 {
   "id": "zurarah-bin-awfa-street",
