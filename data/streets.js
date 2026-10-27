@@ -19709,18 +19709,23 @@ window.STREETS = [
   "id": "al-harith-bin-aws-bin-mu-adh-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحارث بن أوس بن معاذ",
   "en": "Al Harith Bin Aws Bin Mu'adh Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar, killed at Uhud",
+    "ar": "صحابي من الأنصار، قُتل يوم أُحد"
   },
   "story": {
-    "en": "The street carries the name of الحارث بن أوس بن معاذ. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الحارث بن أوس بن معاذ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Harith ibn Aws ibn Mu'adh (d. 3 AH) was a Companion of the Ansar of Banu Abd al-Ashhal, and the nephew of Sa'd ibn Mu'adh. The Prophet joined him in brotherhood with Amir ibn Fuhayrah; he fought at Badr and was killed at Uhud at the age of twenty-eight. Some accounts have him surviving that day and fighting at the Trench. His clan is the one the street «Abd al-As-hal Iyas ibn Aws» is named for.",
+    "ar": "الحارث بن أوس بن معاذ (ت ٣هـ)، صحابي من الأنصار من بني عبد الأشهل، وابن أخي سعد بن معاذ. آخى النبي صلى الله عليه وسلم بينه وبين عامر بن فهيرة، وشهد بدراً، وقُتل يوم أُحد وله ثمانٍ وعشرون سنة. وذكر بعضهم أنه عاش بعد ذلك وشهد الخندق. وهو من القبيلة نفسها التي يحمل اسمها شارع «عبد الأسهل إياس بن أوس»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — الحارث بن أوس بن معاذ",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB_%D8%A8%D9%86_%D8%A3%D9%88%D8%B3_%D8%A8%D9%86_%D9%85%D8%B9%D8%A7%D8%B0"
+    }
+  ]
 },
 {
   "id": "al-harith-bin-hani-a-street",
