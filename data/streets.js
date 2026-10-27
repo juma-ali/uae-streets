@@ -30258,13 +30258,17 @@ window.STREETS = [
     "ar": "سهل بن حنيف، صحابي بدري"
   },
   "story": {
-    "en": "Sahl ibn Hunayf ibn Wahb, Abu Thabit al-Ansari al-Awsari, was a Companion of the Ansar of the Aws and a veteran of Badr. He appears in five of the biographical dictionaries, under the fuller form «سهل بن حنيف أبو ثابت الأنصاري الأوسي» and the shorter «سهل بن حنيف الأنصاري بدري». The sign writes his first name «Suhail» where the sources have «Sahl».",
-    "ar": "سهل بن حنيف بن واهب، أبو ثابت الأنصاري الأوسي، صحابي من الأنصار من الأوس، ومن أهل بدر. ترجم له خمسة من كتب التراجم، وجاء في أحدها «سهل بن حنيف الأنصاري بدري». وقد ورد اسمه الأول على اللوحة «سهيل»، وفي المصادر «سهل»."
+    "en": "Sahl ibn Hunayf ibn Wahb, Abu Thabit al-Ansari al-Awsari, was a Companion of the Ansar of the Aws and a veteran of Badr. He appears in five of the biographical dictionaries, under the fuller form «سهل بن حنيف أبو ثابت الأنصاري الأوسي» and the shorter «سهل بن حنيف الأنصاري بدري». The dictionaries give his name with a plain سين; the maps show the form with a ياء on several streets across Sharjah, Kalba and Khor Fakkan, and this street carries it too.",
+    "ar": "سهل بن حنيف بن واهب، أبو ثابت الأنصاري الأوسي، صحابي من الأنصار من الأوس، ومن أهل بدر. ترجم له خمسة من كتب التراجم، وجاء في أحدها «سهل بن حنيف الأنصاري بدري». والكتب تثبت اسمه بالسين، بينما تأتي صيغة «سهيل» على شوارع عدة في الشارقة وكلباء وخورفكان، ومنها هذا الشارع."
   },
   "refs": [
     {
       "label": "موسوعة رواة الحديث — سهل بن حنيف",
       "url": "https://hadithtransmitters.hawramani.com/%D8%B3%D9%87%D9%84-%D8%A8%D9%86-%D8%AD%D9%86%D9%8A%D9%81/"
+    },
+    {
+      "label": "2GIS — البحث عن «سهيل بن حنيف»",
+      "url": "https://2gis.ae/dubai/search/%D8%B4%D8%A7%D8%B1%D8%B9%20%D8%B3%D9%87%D9%8A%D9%84%20%D8%A8%D9%86%20%D8%AD%D9%86%D9%8A%D9%81"
     }
   ]
 },
