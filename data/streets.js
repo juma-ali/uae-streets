@@ -8966,18 +8966,23 @@ window.STREETS = [
   "id": "faraj-bin-hamouda-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فرج بن حمودة الظاهري",
   "en": "Faraj Bin Hamouda Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "en": "An Emirati camel owner and breeder",
+    "ar": "من مربّي الإبل وملاكها في الدولة"
   },
   "story": {
-    "en": "The street carries the name of Faraj Bin Hamouda, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم فرج بن حمودة، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Faraj Ali bin Hamouda Al Dhaheri is among the country's camel owners and breeders. He took second place in the Al Bayraq Award in 2019, and spoke to the press of the younger generation's growing interest in the sports of the purebred camels. The street carries the shortened form of his name, as does the street of his relative al-Asri.",
+    "ar": "فرج علي بن حمودة الظاهري، من مربّي الإبل وملاكها في الدولة. حلّ ثانياً في جائزة البيرق سنة ٢٠١٩، وتحدّث في الصحافة عن إقبال الجيل الواعد على رياضة الأصايل. ويحمل الشارع الصيغة المختصرة من اسمه، كما يحملها شارع قريبه العصري."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "البيان — ٢٩ مايو ٢٠١٩",
+      "url": "https://www.albayan.ae/sports/all-games/2019-05-29-1.3571913"
+    }
+  ]
 },
 {
   "id": "fares-bin-ghanem-al-mazrouei",
