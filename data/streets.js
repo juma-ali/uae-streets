@@ -30582,19 +30582,28 @@ window.STREETS = [
 {
   "id": "al-suhail-street",
   "emirate": "umm-al-quwain",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "word",
+  "origin": "documented",
   "ar": "شارع السهيل",
   "en": "Al Suhail Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Suhail — the diminutive of sahl (level ground), and the Arabic name of the star Canopus",
+    "ar": "سُهَيْل: تصغير «سَهْل» وهو الأرض المستوية، وهو الاسم العربي لنجم كانوبوس"
   },
   "story": {
-    "en": "The street carries the name of السهيل. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم السهيل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Suhail is the diminutive of sahl — smooth, level ground. It is also the Arabic name of Canopus, the second brightest star in the night sky. In Arabia it first shows low in the south in late August, and its rising is taken as the turn of the season and the end of the simoom winds. The name is used for men as well as for the star.",
+    "ar": "سُهَيْل تصغير «سَهْل»، وهو الأرض المستوية اللينة. وهو أيضاً الاسم العربي لنجم كانوبوس (ألفا الجؤجؤ)، ثاني ألمع نجم في السماء. وفي الجزيرة العربية لا يظهر في الجنوب إلا في أواخر أغسطس/آب، ويُعدّ ظهوره بداية تغيّر الفصل وانتهاء ريح السموم. والاسم يُسمى به الرجال كما يُسمى به النجم."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — سهيل (نجم)",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%87%D9%8A%D9%84_(%D9%86%D8%AC%D9%85)"
+    },
+    {
+      "label": "معجم عربي — مادة (سهل)",
+      "url": "https://www.maajim.com/dictionary/%D8%B3%D9%87%D9%8A%D9%84"
+    }
+  ]
 },
 {
   "id": "ali-bin-abi-talib-road",
