@@ -8242,18 +8242,23 @@ window.STREETS = [
   "id": "alasry-bin-hamouda-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع العصري بن حمودة الظاهري",
   "en": "Alasry Bin Hamouda Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "en": "An Abu Dhabi man of the Dhaheri family",
+    "ar": "من رجال أبوظبي من أسرة الظاهري"
   },
   "story": {
-    "en": "The street carries the name of Alasry Bin Hamouda, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم العصري بن حمودة، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Al-Asri ibn Ali ibn Ghanim ibn Hamouda Al Dhaheri was of the Al Tuwayyah area of Al Ain. His death in May 2014 was announced, and Sheikh Mohammed bin Rashid Al Maktoum offered condolences to his brothers Ghanim and Faraj and his sons Abdullah and Ahmed. The street carries the shortened form of his name.",
+    "ar": "العصري بن علي بن غانم بن حمودة الظاهري، من منطقة الطوية في مدينة العين. نُعي في مايو ٢٠١٤، وعزّى في وفاته صاحب السمو الشيخ محمد بن راشد آل مكتوم، وأخواه غانم وفرج، وأبناؤه عبد الله وأحمد. ويحمل الشارع الصيغة المختصرة من اسمه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة التشريفات والضيافة بدبي — ٢١ مايو ٢٠١٤",
+      "url": "https://protocol.dubai.ae/ar/media-listing/news-events/mohammed-bin-rashid-meets-aja-board-members/"
+    }
+  ]
 },
 {
   "id": "alhabaishi-bin-bahlol-al-mansouri",
