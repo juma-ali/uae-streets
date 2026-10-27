@@ -15083,17 +15083,17 @@ window.STREETS = [
     "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "Saif Essa Al Naqbi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في قائمة البيان; the card records the name and claims nothing further.",
-    "ar": "سيف عيسى النقبي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "en": "Saif Essa Obaid Al Naqbi was from Khor Fakkan in the Emirate of Sharjah. Prayers were held for him after the afternoon prayer at the Al Lu'lu'iyah Grand Mosque in Khor Fakkan on 13 September 2015, and the town turned out for the funeral.",
+    "ar": "سيف عيسى عبيد النقبي، من خورفكان في إمارة الشارقة. صُلّي عليه بعد صلاة العصر في مسجد اللؤلؤية الكبير بخورفكان في ١٣ سبتمبر ٢٠١٥، وشيّعه آلاف من أهالي المدينة."
   },
   "refs": [
     {
-      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
-      "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
+      "label": "الاتحاد — ١٣ سبتمبر ٢٠١٥",
+      "url": "https://www.aletihad.ae/article/86623/2015"
     },
     {
-      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
-      "url": "https://24.ae/article/186420/"
+      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
     }
   ]
 },
@@ -28200,18 +28200,23 @@ window.STREETS = [
   "id": "martyr-mohammed-obaid-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشهيد محمد عبيد",
   "en": "Martyr Mohammed Obaid Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "One of the country's fallen, named on the street sign",
+    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
   },
   "story": {
-    "en": "The street carries the name of الشهيد محمد عبيد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الشهيد محمد عبيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Mohammed Obaid Al Hammoudi was one of the country's fallen in the Emirate of Sharjah; condolences for him and for Zayed Ali Al Kaabi were reported in the local press in March 2016. The sign carries the shortened form «Mohammed Obaid», and the card records the fuller name the report gives.",
+    "ar": "محمد عبيد الحمودي، أحد شهداء الدولة في إمارة الشارقة؛ نُشر خبر العزاء فيه وفي الشهيد زايد علي الكعبي في الصحافة المحلية في مارس ٢٠١٦. ويحمل الشارع الصيغة المختصرة «محمد عبيد»، وتسجّل البطاقة الاسم الأتم كما ورد في الخبر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الإمارات اليوم — ١٩ مارس ٢٠١٦",
+      "url": "https://www.emaratalyoum.com/local-section/other/2016-03-19-1.880460"
+    }
+  ]
 },
 {
   "id": "martyr-mousa-al-debis-street",
