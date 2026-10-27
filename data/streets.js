@@ -30548,19 +30548,24 @@ window.STREETS = [
 {
   "id": "al-shahid-street",
   "emirate": "umm-al-quwain",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "word",
+  "origin": "documented",
   "ar": "شارع الشهيد",
   "en": "Al Shahid Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The street of the martyr — al-shahīd, the witness, the fallen",
+    "ar": "شارع الشهيد — الشهيد: الحاضر والشاهد، ومن يُقتل في سبيل قضية"
   },
   "story": {
-    "en": "The street carries the name of الشهيد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الشهيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-shahid belongs to the verb shahida — to witness, to be present — on the intensive form fa'īl, and is said of one who is present or who testifies; the plural is shuhadā'. On street signs the word almost never stands alone: of the seventeen streets in the country that carry it, sixteen follow it with a person's name, as in Sharjah's Street of the Martyr Mohammed Abu Rayan, and fifteen of the seventeen are in Sharjah.",
+    "ar": "الشهيد في العربية من الفعل «شَهِدَ» بمعنى حضر، وعلى صيغة «فعيل» الدالة على المبالغة، فيقال للحاضر والشاهد: شهيد، ويُجمع على «شُهداء». والكلمة في أسماء الشوارع تكاد لا تأتي وحدها: من سبعة عشر شارعاً تحملها في الدولة، يتبع الكلمة في ستة عشر منها اسم شخص، مثل «شارع الشهيد محمد أبو ريان» في الشارقة، وخمسة عشر منها في الشارقة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "معجم عربي — مادة (شهد)",
+      "url": "https://www.maajim.com/dictionary/%D8%B4%D9%87%D9%8A%D8%AF"
+    }
+  ]
 },
 {
   "id": "al-ssalm-street",
