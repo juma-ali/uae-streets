@@ -24,6 +24,14 @@
     { id: "event",  en: "Events",  ar: "الأحداث",  color: "#9c3b32" }
   ];
 
+  /* How well a card is supported. "account" is an agreed reading recorded in a
+     later source without a printed origin; "unsourced" is the honest blank. */
+  var ORIGINS = [
+    { id: "documented", en: "Documented", ar: "موثّق" },
+    { id: "account",    en: "Account",    ar: "رواية" },
+    { id: "unsourced",  en: "No reference", ar: "بلا مرجع" }
+  ];
+
   var TEXT = {
     en: {
       allEmirates: "All emirates",
@@ -171,7 +179,7 @@
     return d !== 0 ? d : a.en.localeCompare(b.en);
   });
 
-  var state = { lang: "en", q: "", emirate: "all", region: "all", category: "all", district: "all",
+  var state = { lang: "en", q: "", emirate: "all", region: "all", category: "all", origin: "all", district: "all",
     town: "all", showRoads: false, limit: 24 };
   var storyDistrict = {};
   var results = [];
@@ -188,7 +196,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261029F";
+    s.src = "data/cards.js?v=20261029G";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -387,6 +395,7 @@
     return STREETS.filter(function (s) {
       if (state.emirate !== "all" && s.emirate !== state.emirate) return false;
       if (state.category !== "all" && s.category !== state.category) return false;
+      if (state.origin !== "all" && (s.origin || "unsourced") !== state.origin) return false;
       if (state.district !== "all" && String(storyDistrict[s.id]) !== String(state.district)) return false;
     if (state.town !== "all" && !townOk(storyDistrict[s.id])) return false;
       if (!tokens.length) return true;
@@ -426,6 +435,17 @@
         '<span class="chip__count"></span></button>';
     })).join("");
 
+    var orgWrap = $("#origin-chips");
+    if (orgWrap) orgWrap.innerHTML = [
+      '<button type="button" class="chip" data-group="origin" data-value="all" aria-pressed="true">' +
+        '<span class="chip__label"></span><span class="chip__count"></span>' +
+      "</button>"
+    ].concat(ORIGINS.map(function (o) {
+      return '<button type="button" class="chip" data-group="origin" data-value="' + o.id + '" aria-pressed="false">' +
+        '<span class="chip__label" data-en="' + esc(o.en) + '" data-ar="' + esc(o.ar) + '">' + esc(state.lang === "ar" ? o.ar : o.en) + "</span>" +
+        '<span class="chip__count"></span></button>';
+    })).join("");
+
     catWrap.innerHTML = [
       '<button type="button" class="chip" data-group="category" data-value="all" aria-pressed="true">',
         '<span class="chip__label"></span><span class="chip__count"></span>',
@@ -443,9 +463,22 @@
     var allCat = $('.chip[data-group="category"][data-value="all"] .chip__label');
     if (allEm) allEm.textContent = t.allEmirates;
     if (allCat) allCat.textContent = t.allCategories;
+    var allOrg = $('.chip[data-group="origin"][data-value="all"] .chip__label');
+    if (allOrg) allOrg.textContent = state.lang === "ar" ? "الكل" : "All";
   }
 
   function refreshChipCounts() {
+    $('#origin-chips .chip').forEach(function (chip) {
+      var v = chip.getAttribute("data-value");
+      var n = STREETS.filter(function (s) {
+        if (v !== "all" && (s.origin || "unsourced") !== v) return false;
+        if (state.emirate !== "all" && s.emirate !== state.emirate) return false;
+        if (state.category !== "all" && s.category !== state.category) return false;
+        return true;
+      }).length;
+      var c = chip.querySelector(".chip__count");
+      if (c) c.textContent = n ? n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") : "";
+    });
     $$('#emirate-chips .chip').forEach(function (chip) {
       var v = chip.getAttribute("data-value");
       var emId = v === "uaq" ? "umm-al-quwain" : v;
@@ -626,7 +659,7 @@
     syncRegionRow();
     var n = results.length;
     var total = STREETS.length;
-    var isFiltered = !!(state.q || state.emirate !== "all" || state.category !== "all");
+    var isFiltered = !!(state.q || state.emirate !== "all" || state.category !== "all" || state.origin !== "all");
 
     var countEl = $("#result-count");
     if (countEl) {
@@ -711,6 +744,7 @@
     var p = new URLSearchParams();
     if (state.emirate !== "all") p.set("emirate", state.emirate);
     if (state.category !== "all") p.set("category", state.category);
+    if (state.origin !== "all") p.set("origin", state.origin);
     if (state.region !== "all") p.set("region", state.region); if (state.town !== "all") p.set("town", state.town); if (state.district !== "all") p.set("district", state.district);
     if (state.q) p.set("q", state.q);
     if (state.lang === "ar") p.set("lang", "ar");
@@ -921,7 +955,7 @@
     }
     if (resetBtn) {
       resetBtn.addEventListener("click", function () {
-        state.q = ""; state.emirate = "all"; state.category = "all"; state.district = "all";
+        state.q = ""; state.emirate = "all"; state.category = "all"; state.origin = "all"; state.district = "all";
         state.showRoads = false;
         if (search) search.value = "";
         update(true);
@@ -939,7 +973,7 @@
       });
     }
 
-    ["#emirate-chips", "#category-chips", "#district-chips", "#region-chips", "#town-chips"].forEach(function (sel) {
+    ["#emirate-chips", "#category-chips", "#origin-chips", "#district-chips", "#region-chips", "#town-chips"].forEach(function (sel) {
       var wrap = $(sel);
       if (!wrap) return;
       wrap.addEventListener("click", function (e) {
@@ -957,6 +991,7 @@
       if (sel === "#region-chips") { state.region = chip.getAttribute("data-region"); state.district = "all"; state.town = "all"; state.limit = PAGE; if (!ROADS) loadRoads(function () { update(true); }); else update(true); return; }
         if (group === "emirate") { state.emirate = value; state.region = "all"; state.district = "all"; state.town = "all"; }
         if (group === "category") state.category = value;
+    if (group === "origin") state.origin = value;
         if (group === "district") state.district = value;
         state.limit = PAGE;
         state.showRoads = true;
@@ -1055,6 +1090,8 @@
     if (emParam && EMIRATES.some(function (e) { return e.id === emParam; })) state.emirate = emParam;
     var catParam = params.get("category");
     if (catParam && CATEGORIES.some(function (c) { return c.id === catParam; })) state.category = catParam;
+    var orgParam = params.get("origin");
+    if (orgParam && ORIGINS.some(function (o) { return o.id === orgParam; })) state.origin = orgParam;
     var rParam = params.get("region");
     if (rParam) state.region = rParam;
     var tParam = params.get("town");
@@ -1066,7 +1103,7 @@
       state.q = qParam;
       if ($("#search")) $("#search").value = qParam;
     }
-    if (state.q || state.emirate !== "all" || state.category !== "all") state.showRoads = true;
+    if (state.q || state.emirate !== "all" || state.category !== "all" || state.origin !== "all") state.showRoads = true;
 
     applyLanguage(initial);
 
