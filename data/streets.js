@@ -31043,5 +31043,32 @@ window.STREETS = [
     "Al Mualla Street",
     "Al Mu'alla Street"
   ]
+},
+{
+  "id": "al-sihayli-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع السهيلي",
+  "en": "Al Sihayli Street",
+  "translit": "Shāriʿ As-Sihaylī",
+  "meaning": {
+    "en": "A nisba — an adjective of relation — formed from Suhayl",
+    "ar": "نسبةٌ إلى سُهَيْل"
+  },
+  "story": {
+    "en": "Al-Sihayli is a nisba, the form Arabic uses for 'of, belonging to' a person, a place or a tribe, here formed from Suhayl. The best-known bearer of the name is the Andalusian scholar Abd al-Rahman al-Suhayli (508–581 AH), a hafiz and authority on language and the biography of the Prophet, author of al-Rawd al-Unuf, who was born in Malaga and died in Marrakesh.",
+    "ar": "السَّهيلي نسبةٌ، وهي صيغة النسب في العربية إلى شخص أو موضع أو قبيلة، وأصلها هنا «سُهَيْل». وأشهر من حمل هذا النسب أبو القاسم السهيلي، عبد الرحمن بن عبد الله بن أحمد الخثعمي (٥٠٨–٥٨١هـ)، الحافظ العالم باللغة والسِّيَر، صاحب «الروض الأُنُف»، وُلد بمالقة وتوفي بمراكش."
+  },
+  "refs": [
+    {
+      "label": "الأعلام — الزركلي، ج3 ص313",
+      "url": "https://shamela.ws/book/12286/2853"
+    }
+  ],
+  "also": [
+    "Al Sihayli Street",
+    "As Sihayli Street"
+  ]
 }
 ];
