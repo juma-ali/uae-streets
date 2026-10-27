@@ -19675,18 +19675,27 @@ window.STREETS = [
   "id": "al-harith-bin-al-azma-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحارِث بن الأزمَع",
   "en": "Al Harith Bin Al Azma' Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Hamdan, of the generation that knew the Prophet",
+    "ar": "من الصحابة، من همدان"
   },
   "story": {
-    "en": "The street carries the name of الحارِث بن الأزمَع. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الحارِث بن الأزمَع، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-Harith ibn al-Azma' al-Wadi'i al-Hamdani is recorded among the Companions, and was lame. He heard from Umar ibn al-Khattab, Ibn Mas'ud and Amr ibn al-As, and al-Sha'bi transmitted from him. He died at the end of Mu'awiya's caliphate, and the dictionaries differ on whether he was the brother of Shaddad ibn al-Azma'.",
+    "ar": "الحارث بن الأزمع الوادعي الهمداني، مذكور في الصحابة، وكان أعرج. سمع من عمر بن الخطاب وابن مسعود وعمرو بن العاص، وروى عنه الشعبي. تُوفّي في آخر خلافة معاوية. واختلفت المصادر في أنه أخو شداد بن الأزمع، فذكر أحمد ذلك، ولم يصحّ عند البخاري."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الاستيعاب في معرفة الأصحاب — ج2 ص262",
+      "url": "https://shamela.ws/book/1499/803"
+    },
+    {
+      "label": "موسوعة رواة الحديث — الحارث بن الأزمع",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A8%D9%86-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%B9/"
+    }
+  ]
 },
 {
   "id": "al-harith-bin-ar-rabee-street",
