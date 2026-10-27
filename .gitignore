@@ -32,3 +32,10 @@ unsloth/answers-single/
 unsloth/tasks-single/
 unsloth/words-*/
 unsloth/tasks-words/
+# working material, not part of the site
+unsloth/
+research/
+archive/
+data/head-nouns.csv
+data/verification-sample.csv
+data/verification-sample2.csv
