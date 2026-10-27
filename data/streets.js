@@ -26835,18 +26835,27 @@ window.STREETS = [
   "id": "amr-bin-eyas-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمرو بن إياس",
   "en": "Amr Bin Eyas Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar who fought at Badr and Uhud",
+    "ar": "صحابي من الأنصار، شهد بدراً وأُحداً"
   },
   "story": {
-    "en": "The street carries the name of عمرو بن إياس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمرو بن إياس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Amr ibn Iyas: Ibn Ishaq calls him a man of Yemen, an ally of the Ansar, who fought at Badr and Uhud; Ibn Hisham adds that he was the brother of Rabi' and Warqa ibn Iyas. Al-Isti'ab records a second Amr ibn Iyas of the Banu Salim ibn Awf who was killed at Uhud.",
+    "ar": "عمرو بن إياس: قال ابن إسحاق إنه رجل من اليمن حليف للأنصار، شهد بدراً وأُحداً. وقال ابن هشام إنه أخو ربيع بن إياس ووَرَقة بن إياس. وقد ذكر ابن عبد البر في «الاستيعاب» عمرو بن إياس آخر من بني سالم بن عوف، قُتل يوم أُحد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الاستيعاب في معرفة الأصحاب — ج3 ص1165",
+      "url": "https://shamela.ws/new.php/book/12288/1158"
+    },
+    {
+      "label": "أسد الغابة — ج5 ص413",
+      "url": "https://shamela.ws/new.php/book/1110/2757"
+    }
+  ]
 },
 {
   "id": "amr-bin-ma-abad-street",
@@ -29157,18 +29166,27 @@ window.STREETS = [
   "id": "rabieh-bin-ayas-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ربيع بن إياس",
   "en": "Rabieh Bin Ayas Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar who fought at Badr",
+    "ar": "صحابي من الأنصار، شهد بدراً"
   },
   "story": {
-    "en": "The street carries the name of ربيع بن إياس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ربيع بن إياس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Rabi' ibn Iyas ibn Amr ibn Ghanm ibn Umayya ibn Lawdhan al-Ansari fought at Badr with his two brothers, Amr and the one the sources call Wadfa or Warqa. His line is given in full by the Jam' and by Usd al-Ghaba, which quote Ibn Ishaq's roll of the Ansar at Badr.",
+    "ar": "ربيع بن إياس بن عمرو بن غنم بن أمية بن لوذان الأنصاري، شهد بدراً هو وأخواه عمرو ووَرَقة. واسمه ونسبه بهذه الصيغة في «الجامع لما في المصنفات الجامعة من أسماء الصحابة»، وذكره ابن إسحاق في تسمية من شهد بدراً من الأنصار."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الجامع لما في المصنفات الجامعة من أسماء الصحابة — ج2 ص322",
+      "url": "https://shamela.ws/new.php/book/151153/822"
+    },
+    {
+      "label": "أسد الغابة — ج5 ص413",
+      "url": "https://shamela.ws/new.php/book/1110/2757"
+    }
+  ]
 },
 {
   "id": "rae-ah-bint-thabet-street",
@@ -30340,18 +30358,27 @@ window.STREETS = [
   "id": "waraqah-bin-eyas-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ورقة بن إياس",
   "en": "Waraqah Bin Eyas Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar, brother of Rabi' and Amr",
+    "ar": "صحابي من الأنصار، أخو ربيع وعمرو"
   },
   "story": {
-    "en": "The street carries the name of ورقة بن إياس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ورقة بن إياس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The third of the brothers who fought at Badr. The name is written two ways in the sources: Usd al-Ghaba has «Wadfa ibn Iyas» and notes that Abu Umar wrote it with a dotted dhal, while Ibn Hisham has «Warqa», which is the form on the sign. Every source places him at Badr with his brothers.",
+    "ar": "ثالث الإخوة الذين شهدوا بدراً. والاسم مكتوب على وجهين في المصادر: ففي «أسد الغابة» «وَدْفة بن إياس»، ونبّه أن أبا عمر كتبها بالذال المعجمة، وفي رواية ابن هشام «وَرَقة»، وهي الصيغة التي جاءت على اللوحة. والمصادر كلها تجعله مع أخويه في بدر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الاستيعاب في معرفة الأصحاب — ج3 ص1165",
+      "url": "https://shamela.ws/new.php/book/12288/1158"
+    },
+    {
+      "label": "أسد الغابة — ج5 ص413",
+      "url": "https://shamela.ws/new.php/book/1110/2757"
+    }
+  ]
 },
 {
   "id": "ward-bin-adham-street",
