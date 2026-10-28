@@ -12730,18 +12730,23 @@ window.STREETS = [
   "id": "sheikh-theyab-bin-eissa-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ ذياب بن عيسى الفلاحي",
   "en": "Sheikh Theyab Bin Eissa AL Falahi Road",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The first ruler of Abu Dhabi",
+    "ar": "أول حكام أبوظبي"
   },
   "story": {
-    "en": "The street carries the name of الشيخ ذياب بن عيسى الفلاحي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الشيخ ذياب بن عيسى الفلاحي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Sheikh Dhiyab bin Isa Al Nahyan was the first ruler of Abu Dhabi and the leader of the Bani Yas in the Liwa oasis, ruling from 1761 to 1793. He is the founder of the Al Bu Falah line that still rules Abu Dhabi.",
+    "ar": "الشيخ ذياب بن عيسى آل نهيان، الحاكم الأول لإمارة أبوظبي وزعيم قبيلة بني ياس في واحة ليوا، حكم من 1761 إلى 1793، وهو مؤسس سلالة آل بوفلاح التي لا تزال تحكم أبوظبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — ذياب بن عيسى آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B0%D9%8A%D8%A7%D8%A8_%D8%A8%D9%86_%D8%B9%D9%8A%D8%B3%D9%89_%D8%A2%D9%84_%D9%86%D9%87%D9%8A%D8%A7%D9%86"
+    }
+  ]
 },
 {
   "id": "sinan-bin-khadim-al-muhairi",
@@ -13257,18 +13262,23 @@ window.STREETS = [
   "id": "sheikh-humaid-bin-rashid-al-nuaimi",
   "emirate": "ajman",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ حميد بن راشد النعيمي",
   "en": "Sheikh Humaid Bin Rashid Al Nuaimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Nuaimi family",
-    "ar": "شخصية إماراتية من أسرة النعيمي"
+    "en": "Ruler of Ajman since 1981",
+    "ar": "حاكم عجمان منذ 1981"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Humaid Bin Rashid, an Emirati figure of the Nuaimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ حميد بن راشد، وهو شخصية إماراتية من أسرة النعيمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Humaid bin Rashid Al Nuaimi (born 1931) is a member of the Supreme Council of the Union and Ruler of Ajman, the tenth ruler of the emirate; he took the rule on 6 September 1981 after the death of his father, Sheikh Rashid bin Humaid Al Nuaimi.",
+    "ar": "الشيخ حميد بن راشد النعيمي (مواليد 1931)، عضو المجلس الأعلى للاتحاد وحاكم إمارة عجمان، وهو الحاكم العاشر للإمارة؛ تولّى الحكم في 6 سبتمبر 1981 بعد وفاة والده الشيخ راشد بن حميد النعيمي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — حميد الثالث بن راشد النعيمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D9%8A%D8%AF_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB_%D8%A8%D9%86_%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A7%D9%84%D9%86%D8%B9%D9%8A%D9%85%D9%8A"
+    }
+  ]
 },
 {
   "id": "matar-bin-hamad-al-zeabi",
@@ -15561,18 +15571,23 @@ window.STREETS = [
   "id": "ahmed-bin-hamed-al-hamed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن حامد آل حامد",
   "en": "Ahmed Bin Hamed Al Hamed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "The country's first Minister of Information",
+    "ar": "أول وزير إعلام في الدولة"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن حامد آل حامد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن حامد آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Ahmed bin Hamed Al Hamed (1929 – 28 November 2012) was the first Minister of Information in the history of the UAE, serving in the first government of Sheikh Maktoum bin Rashid Al Maktoum.",
+    "ar": "أحمد بن حامد آل حامد (1929 – 28 نوفمبر 2012)، أول وزير للإعلام في تاريخ دولة الإمارات، وتولى المنصب في حكومة الشيخ مكتوم بن راشد آل مكتوم الأولى."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — أحمد بن حامد آل حامد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%AD%D8%A7%D9%85%D8%AF_%D8%A2%D9%84_%D8%AD%D8%A7%D9%85%D8%AF"
+    }
+  ]
 },
 {
   "id": "ali-bu-melha-al-marar-street",
@@ -22482,18 +22497,23 @@ window.STREETS = [
   "id": "mohammed-bin-butti-al-hamed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن بطي آل حامد",
   "en": "Mohammed Bin Butti Al Hamed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Ruler's representative in Tarif, 1968–2009",
+    "ar": "ممثل الحاكم في طريف (1968–2009)"
   },
   "story": {
-    "en": "The street carries the name of محمد بن بطي آل حامد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن بطي آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Mohammed Butti bin Hamed bin Butti bin Khadim bin Nuhayman Al Hamed al-Qubaisi was born around 1945, served as the Ruler's representative in the Tarif area from 1968 to 2009, and was a member of the Planning Council in Abu Dhabi.",
+    "ar": "محمد بطي بن حامد بن بطي بن خادم بن نهيمان آل حامد القبيسي، وُلد عام 1945 تقريباً، وشغل منصب ممثل الحاكم في منطقة طريف من سنة 1968 إلى 2009، وعضو مجلس التخطيط في أبوظبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — أبوظبي (ملف الآباء المؤسسين)",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding-UAE-Listing-Section/Mohammed-Bin-Butti-Al-Hamed"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-mejren-al-marar-street",
@@ -23347,18 +23367,23 @@ window.STREETS = [
   "id": "sheikh-hazzaa-bin-sultan-the-first-road",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخ هزاع بن سلطان الأول",
   "en": "Sheikh Hazzaa' Bin Sultan The First Road",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "Ruler's representative in the Western Region",
+    "ar": "ممثل الحاكم في المنطقة الغربية"
   },
   "story": {
-    "en": "The street is named for Hazzaa' Bin Sultan The First, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الطريق باسم هزاع بن سلطان الأول، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Hazza bin Sultan Al Nahyan (1905–1958) was a brother of Sheikh Shakhbut and of Sheikh Zayed, and served as the Ruler's representative in the Western Region of Abu Dhabi.",
+    "ar": "الشيخ هزاع بن سلطان آل نهيان (1905–1958)، شقيق الشيخ شخبوط بن سلطان والشيخ زايد بن سلطان، وشغل منصب ممثل الحاكم في المنطقة الغربية لإمارة أبوظبي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — هزاع بن سلطان آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/%D9%87%D8%B2%D8%A7%D8%B9_%D8%A8%D9%86_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A2%D9%84_%D9%86%D9%87%D9%8A%D8%A7%D9%86"
+    }
+  ]
 },
 {
   "id": "sheikh-khalifa-bin-zayed-international-road",
@@ -23610,18 +23635,23 @@ window.STREETS = [
   "id": "tahnoun-bin-mohammed-al-nahyan-road",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق طحنون بن محمد آل نهيان",
   "en": "Tahnoun Bin Mohammed Al Nahyan Road",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Ruler's representative in the Eastern Region",
+    "ar": "ممثل الحاكم في المنطقة الشرقية"
   },
   "story": {
-    "en": "The street carries the name of طحنون بن محمد آل نهيان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طحنون بن محمد آل نهيان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Sheikh Tahnoun bin Mohammed Al Nahyan (1942 – 1 May 2024) was the Ruler's representative in the Eastern Region of Abu Dhabi, and had earlier been deputy chairman of the Executive Council and chairman of ADNOC. In November 2018 the road from Al Ain to Dubai was renamed after him.",
+    "ar": "الشيخ طحنون بن محمد آل نهيان (1942 – 1 مايو 2024)، ممثل الحاكم في المنطقة الشرقية لإمارة أبوظبي، وشغل سابقاً منصب نائب رئيس المجلس التنفيذي ورئيس مجلس إدارة شركة بترول أبوظبي الوطنية. وفي نوفمبر 2018 أُعيد تسمية الطريق الواصل من العين إلى دبي باسمه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — طحنون بن محمد آل نهيان",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B7%D8%AD%D9%86%D9%88%D9%86_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A2%D9%84_%D9%86%D9%87%D9%8A%D8%A7%D9%86"
+    }
+  ]
 },
 {
   "id": "tameem-bin-rabee-ah-street",
@@ -23909,18 +23939,23 @@ window.STREETS = [
   "id": "ubaydah-bin-al-harith-bin-al-muttalib-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيدة بن الحارث بن المطلب",
   "en": "Ubaydah Bin Al Harith Bin Al Muttalib Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion who fell at Badr",
+    "ar": "صحابي بدري استُشهد يوم بدر"
   },
   "story": {
-    "en": "The street carries the name of عبيدة بن الحارث بن المطلب. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبيدة بن الحارث بن المطلب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Ubaydah ibn al-Harith ibn al-Muttalib was a Companion of Badr and one of the earliest Muslims, and one of the three who came out to duel on the day of Badr. Struck by his opponent Utbah ibn Rabi'ah, he died of the wound on the return from Badr, at al-Safra.",
+    "ar": "عبيدة بن الحارث بن المطلب، صحابي بدري من السابقين إلى الإسلام، وأحد الثلاثة المبارزين يوم بدر. أصابته ضربة من مبارزه عتبة بن ربيعة، فاستُشهد على أثرها في مرجعه من بدر، بالصفراء."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبيدة بن الحارث",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D9%8A%D8%AF%D8%A9_%D8%A8%D9%86_%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB"
+    }
+  ]
 },
 {
   "id": "um-hani-bint-abi-talib-street",
@@ -24681,18 +24716,23 @@ window.STREETS = [
   "id": "sheikh-rishid-bin-saeed-al-maktoum-street",
   "emirate": "ajman",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ رشيد بن سعيد آل مكتوم",
   "en": "Sheikh Rishid Bin Saeed Al Maktoum Street",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "Ruler of Dubai, 1958–1990",
+    "ar": "حاكم إمارة دبي (1958–1990)"
   },
   "story": {
-    "en": "The street is named for Rishid Bin Saeed Al Maktoum, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الشارع باسم رشيد بن سعيد آل مكتوم، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Rashid bin Saeed Al Maktoum (11 June 1912 – 7 October 1990) was Ruler of Dubai from 10 September 1958 until his death, the first Vice-President of the UAE from 2 December 1971, and Prime Minister from 30 April 1979. Dubai grew rapidly in his reign.",
+    "ar": "الشيخ راشد بن سعيد آل مكتوم (11 يونيو 1912 – 7 أكتوبر 1990)، حاكم إمارة دبي من 10 سبتمبر 1958 حتى وفاته، وأول نائب لرئيس دولة الإمارات من 2 ديسمبر 1971، ورئيس مجلس الوزراء من 30 أبريل 1979. وشهدت دبي في عهده نمواً سريعاً."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — راشد بن سعيد آل مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%B4%D8%AF_%D8%A8%D9%86_%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A2%D9%84_%D9%85%D9%83%D8%AA%D9%88%D9%85"
+    }
+  ]
 },
 {
   "id": "abu-baker-al-siddique-road",
@@ -24923,18 +24963,23 @@ window.STREETS = [
   "id": "sheikh-hamad-bin-saif-al-sharqi-street",
   "emirate": "fujairah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ حمد بن سيف الشرقي",
   "en": "Sheikh Hamad Bin Saif Al Sharqi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sharqi family",
-    "ar": "شخصية إماراتية من أسرة الشرقي"
+    "en": "Minister of state, then deputy ruler of Fujairah",
+    "ar": "وزير دولة ثم نائب حاكم الفجيرة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Hamad bin Saif of the Al Sharqi family, the ruling family of Fujairah. No published biography of him was found, so the card records the name and the family, and claims nothing further.",
-    "ar": "يحمل الشارع اسم الشيخ حمد بن سيف من أسرة آل الشرقي، الأسرة الحاكمة في إمارة الفجيرة. ولم يُعثر على ترجمة منشورة له، فالبطاقة تسجّل الاسم والأسرة ولا تنسب إليه غيرهما."
+    "en": "Sheikh Hamad bin Saif Al Sharqi (1938 – 31 March 2017) served as a minister of state in the first government of the UAE after the Union was declared, and was deputy ruler of Fujairah until his death.",
+    "ar": "الشيخ حمد بن سيف الشرقي (1938 – 31 مارس 2017)، شغل منصب وزير دولة في أول حكومة للدولة بعد إعلان الاتحاد، وتولى منصب نائب حاكم الفجيرة حتى وفاته."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — حمد بن سيف الشرقي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A"
+    }
+  ]
 },
 {
   "id": "sheikh-khalid-bin-mohammed-al-qasimi-street",
@@ -25271,18 +25316,23 @@ window.STREETS = [
   "id": "abdullab-bin-abed-manaf-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبد الله بن عبد المناف",
   "en": "Abdullab Bin Abed Manaf Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Companion of the Ansar",
+    "ar": "صحابي من الأنصار"
   },
   "story": {
-    "en": "The street carries the name of عبد الله بن عبد المناف. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبد الله بن عبد المناف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abu Yahya Abdullah ibn Abd Manaf ibn al-Nu'man ibn Sinan al-Khazraji al-Ansari was a Companion of the Khazraj of the Ansar, who fought with the Prophet at Badr and Uhud.",
+    "ar": "أبو يحيى عبد الله بن عبد مناف بن النعمان بن سنان الخزرجي الأنصاري، صحابي من قبيلة الخزرج من الأنصار، شهد مع النبي صلى الله عليه وسلم غزوة بدر وغزوة أُحد."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الله بن عبد مناف",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D9%85%D9%86%D8%A7%D9%81"
+    }
+  ]
 },
 {
   "id": "abdullah-al-abed-street",
@@ -29763,18 +29813,23 @@ window.STREETS = [
   "id": "sheikh-hamad-bin-sa-eed-al-qasimi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ حمد بن سعيد القاسمي",
   "en": "Sheikh Hamad Bin Sa'eed Al Qasimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "en": "Ruler of Kalba, 1937–1951",
+    "ar": "حاكم كلباء (1937–1951)"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Hamad Bin Sa'eed, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ حمد بن سعيد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Hamad bin Saeed Al Qasimi ruled Kalba from 30 April 1937 until 1951, in succession to Saeed bin Hamad Al Qasimi.",
+    "ar": "الشيخ حمد بن سعيد القاسمي، حاكم كلباء من 30 أبريل 1937 إلى 1951، خلفاً لسعيد بن حمد القاسمي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — كلباء",
+      "url": "https://ar.wikipedia.org/wiki/%D9%83%D9%84%D8%A8%D8%A7%D8%A1"
+    }
+  ]
 },
 {
   "id": "sheikh-humad-bin-abdulla-al-qasimi-street",
@@ -29831,18 +29886,23 @@ window.STREETS = [
   "id": "sheikh-khalid-bin-saqr-al-qasimi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ خالد بن صقر القاسمي",
   "en": "Sheikh Khalid Bin Saqr Al Qasimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "en": "Former crown prince of Ras Al Khaimah",
+    "ar": "ولي عهد رأس الخيمة الأسبق"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Khalid Bin Saqr, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ خالد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Khalid bin Saqr Al Qasimi (born 1943) is the eldest son of Sheikh Saqr bin Mohammed Al Qasimi, and was crown prince and deputy ruler of Ras Al Khaimah from 1958 until 14 June 2003.",
+    "ar": "الشيخ خالد بن صقر القاسمي (مواليد 1943)، الابن البكر للشيخ صقر بن محمد القاسمي، وشغل منصب ولي العهد ونائب حاكم رأس الخيمة من 1958 حتى 14 يونيو 2003."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — خالد بن صقر القاسمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%A8%D9%86_%D8%B5%D9%82%D8%B1_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%D9%8A"
+    }
+  ]
 },
 {
   "id": "sheikh-khalid-bin-sultan-al-qasimi-street",
