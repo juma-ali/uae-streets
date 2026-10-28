@@ -18544,17 +18544,17 @@ window.STREETS = [
 {
   "id": "arqoub-bin-salmeen-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع عرقوب بن سالمِين",
   "en": "'Arqoub Bin Salmeen Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A sand dune — the dune of Salmeen",
+    "ar": "العرقوب: الكثيب من رمل الصحراء"
   },
   "story": {
-    "en": "The street carries the name of عرقوب بن سالمِين. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عرقوب بن سالمِين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-urqub is the sand dune of the desert. The street carries the name of a dune known as Arqoub Bin Salmeen, and the word «bin» in it belongs to the place name, not to a man's lineage.",
+    "ar": "«العرقوب» الكثيب من رمل الصحراء. ويحمل الشارع اسم عرقوب يُعرف بـ«عرقوب بن سالمين»، و«بن» في الاسم من اسم الموضع لا من نسب رجل."
   },
   "refs": []
 },
