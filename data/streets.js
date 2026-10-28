@@ -29942,18 +29942,23 @@ window.STREETS = [
   "id": "sheikh-majed-bin-saqr-al-qasimi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ ماجد بن صقر القاسمي",
   "en": "Sheikh Majed bin Saqr Al Qasimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "en": "Chairman of Sharjah's Suburbs Affairs Department",
+    "ar": "رئيس دائرة شؤون الضواحي بالشارقة"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Majed bin Saqr, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ ماجد بن صقر القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Sheikh Majid bin Sultan bin Saqr Al Qasimi has chaired Sharjah's Suburbs Affairs Department since mid-June 2022, after seven years as its director (2015–2022). Before that he was a senior executive at the Sharjah Commerce and Tourism Development Authority (2009–2015), and he holds a bachelor's degree in applied science, e-commerce, from the Higher Colleges of Technology. The sign carries «Majid bin Saqr», dropping the «bin Sultan» of the source.",
+    "ar": "الشيخ ماجد بن سلطان بن صقر القاسمي، رئيس دائرة شؤون الضواحي في الشارقة منذ منتصف يونيو 2022، بعد أن كان مديراً للدائرة سبعة أعوام (2015–2022). وعمل قبل ذلك تنفيذاً أول في هيئة الإنماء التجاري والسياحي (2009–2015)، ويحمل بكالوريوس العلوم التطبيقية في إدارة التجارة الإلكترونية من كليات التقنية العليا. ويأتي الاسم على اللوحة «ماجد بن صقر» بحذف «سلطان»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الأمانة العامة للمجلس التنفيذي لإمارة الشارقة",
+      "url": "https://ec.shj.ae/board-member/%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%A7%D8%AC%D8%AF-%D8%A8%D9%86-%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A8%D9%86-%D8%B5%D9%82%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85/"
+    }
+  ]
 },
 {
   "id": "sheikh-mohammad-bin-saqr-al-qasimi-square",
