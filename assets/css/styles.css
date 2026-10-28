@@ -664,7 +664,16 @@ html[dir="rtl"] .card__ar { text-align: right; }
   .controls { margin-inline-start: auto; }
   .filter-row { flex-direction: column; align-items: stretch; gap: .4rem; }
   .filter-row__label { flex: none; }
-  .chips { overflow-x: auto; flex-wrap: nowrap; padding-block-end: .35rem; scrollbar-width: none; }
+  /* On a phone each chip row scrolls sideways — but only inside itself. Without
+     these three constraints the strip takes its full nowrap width (a city has
+     hundreds of districts), the wrap cannot shrink, and the whole page scrolls
+     sideways with it. */
+  .filter-row, .filters .wrap { min-width: 0; max-width: 100%; }
+  .chips {
+    overflow-x: auto; flex-wrap: nowrap; padding-block-end: .35rem;
+    scrollbar-width: none; -webkit-overflow-scrolling: touch;
+    inline-size: 100%; max-inline-size: 100%; min-inline-size: 0;
+  }
   .chips::-webkit-scrollbar { display: none; }
   .filters { padding-block: .6rem; }
   .grid { grid-template-columns: 1fr; gap: .8rem; }
