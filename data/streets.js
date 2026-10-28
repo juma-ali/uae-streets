@@ -26790,18 +26790,23 @@ window.STREETS = [
   "id": "ali-bin-abdullah-bin-al-harith-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن عبد الله بن الحارث",
   "en": "Ali bin Abdullah bin Al Harith Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A Qurashi who fell at Yamama",
+    "ar": "من قريش، قُتل يوم اليمامة"
   },
   "story": {
-    "en": "The street carries the name of علي بن عبد الله بن الحارث. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم علي بن عبد الله بن الحارث، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Ali ibn Ubaydullah ibn al-Harith ibn Rahdah al-Amiri al-Qurashi lived into the Prophet's time and was killed at Yamama. Al-Zubayr ibn Bakkar names him without recording Companionship; Ibn al-Athir answers that whoever of Quraysh fell at Yamama must have been a Companion. The sign writes his father «Abdullah» where the dictionaries have «Ubaydullah».",
+    "ar": "علي بن عبيد الله بن الحارث بن رحضة بن عامر العامري القرشي، أدرك النبي صلى الله عليه وسلم وقُتل يوم اليمامة شهيداً. ذكره الزبير بن بكار ولم يذكر له صحبة، وقال ابن الأثير إن من قُتل يوم اليمامة من قريش لا بد أن تكون له صحبة. ويأتي اسم أبيه على اللوحة «عبد الله»، وفي كتب التراجم «عبيد الله»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%B9%D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB/"
+    }
+  ]
 },
 {
   "id": "amer-al-bajli-street",
