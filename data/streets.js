@@ -24864,14 +24864,18 @@ window.STREETS = [
   "ar": "شارع الشيخ زايد بن حمدان آل نهيان",
   "en": "Sheikh Zayed bin Hamdan Al Nahyan Street",
   "meaning": {
-    "en": "Son of Sheikh Hamdan bin Zayed",
-    "ar": "ابن الشيخ حمدان بن زايد آل نهيان"
+    "en": "Chairman of 2PointZero Group",
+    "ar": "رئيس مجلس إدارة مجموعة «2 بوينت زيرو»"
   },
   "story": {
-    "en": "Zayed bin Hamdan bin Zayed bin Sultan Al Nahyan (born 4 April 1990) is a son of Sheikh Hamdan bin Zayed Al Nahyan, the Ruler's Representative in the Al Dhafra region, and a grandson of Sheikh Zayed bin Sultan. He is married to Sheikha Shamma bint Mohammed bin Zayed Al Nahyan, and they have a son, Hamdan.",
-    "ar": "زايد بن حمدان بن زايد بن سلطان آل نهيان (مواليد 4 أبريل 1990)، ابن الشيخ حمدان بن زايد آل نهيان ممثل الحاكم في منطقة الظفرة، وحفيد الشيخ زايد بن سلطان. وهو متزوج من الشيخة شمّاء بنت محمد بن زايد آل نهيان، ولهما ابن اسمه حمدان."
+    "en": "Zayed bin Hamdan bin Zayed bin Sultan Al Nahyan (born 4 April 1990) is a son of Sheikh Hamdan bin Zayed Al Nahyan, the Ruler's Representative in the Al Dhafra region, and a grandson of Sheikh Zayed bin Sultan. He was appointed Chairman of 2PointZero Group in December 2025. He is married to Sheikha Shamma bint Mohammed bin Zayed Al Nahyan, and they have a son, Hamdan.",
+    "ar": "زايد بن حمدان بن زايد بن سلطان آل نهيان (مواليد 4 أبريل 1990)، ابن الشيخ حمدان بن زايد آل نهيان ممثل الحاكم في منطقة الظفرة، وحفيد الشيخ زايد بن سلطان. عُيّن رئيساً لمجلس إدارة مجموعة «2 بوينت زيرو» في ديسمبر 2025. وهو متزوج من الشيخة شمّاء بنت محمد بن زايد آل نهيان، ولهما ابن اسمه حمدان."
   },
   "refs": [
+    {
+      "label": "IHC — بيان صحفي، 23 ديسمبر 2025",
+      "url": "https://www.ihcuae.com/media-centre/press-releases/ihc-welcomes-2pointzeros-pivotal-board-under-the-chairmanship-of-hh-sheikh-zayed-bin-hamdan-bin-zayed-al-nahyan"
+    },
     {
       "label": "Wikipedia (EN) — Hamdan bin Zayed bin Sultan Al Nahyan",
       "url": "https://en.wikipedia.org/wiki/Hamdan_bin_Zayed_bin_Sultan_Al_Nahyan"
