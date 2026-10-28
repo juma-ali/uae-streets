@@ -26391,16 +26391,16 @@ window.STREETS = [
   "id": "ahmed-bin-abdulrahman-bin-hadid-square",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "ميدان أحمد بن عبدالرحمن بن حديد",
   "en": "Ahmed Bin Abdulrahman Bin Hadid Square",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Of the Al Muhairi family known as Hadeed",
+    "ar": "من أسرة المهيري المعروفة بـ«حديد»"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن عبدالرحمن بن حديد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن عبدالرحمن بن حديد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Ahmed bin Abdul Rahman bin Khalfan bin Thalith Al Muhairi belongs to the Muhairi family known as «Hadeed». The better-known bearer of that name is Mohammed bin Abdul Rahman bin Khalfan bin Thalith, called «Mohammed Hadeed», whose mother was Aisha bint Al-Murr bin Huraiz — sister of Sheikha Hessa bint Al-Murr, the mother of Sheikh Rashid bin Saeed Al Maktoum. The family lived at Margham, Al Marmoom, Nahdat bin Umair and Al Baraha, and held wells and date palms there.",
+    "ar": "أحمد بن عبد الرحمن بن خلفان بن ثالث المهيري، من أسرة المهيري المعروفة بـ«حديد». وأشهر من حمل اللقب محمد بن عبد الرحمن بن خلفان بن ثالث المهيري، الملقب «محمد حديد»، ووالدته عوشة بنت المر بن حريز، أخت الشيخة حصة بنت المر والدة الشيخ راشد بن سعيد آل مكتوم. وكانت الأسرة تسكن مرغم والمرموم وندهة بن عمير والبراحة، ولها فيها آبار ونخيل."
   },
   "refs": []
 },
