@@ -18652,18 +18652,27 @@ window.STREETS = [
   "id": "abduljalil-bin-mohammed-al-fahim-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالجليل بن محمد الفهيم",
   "en": "Abduljalil Bin Mohammed Al Fahim Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Emirati businessman, founder of Al Fahim Group",
+    "ar": "رجل أعمال إماراتي، مؤسس مجموعة الفهيم"
   },
   "story": {
-    "en": "The street carries the name of عبدالجليل بن محمد الفهيم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالجليل بن محمد الفهيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdul Jalil bin Mohammed Al Fahim (1919–1996) was an Emirati businessman. Born in Abu Dhabi, he learned trade from his father, the merchant Mohammed bin Abdul Rahim Al Fahim, and then studied with scholars of religion. From the late 1930s he worked beside Sheikh Zayed bin Sultan Al Nahyan and served in his office at Al Muwaiji fort, and he later chaired the Planning Council that Zayed established in 1968. He founded Al Fahim Group in 1958 and took the Mercedes agency in 1962. His endowment built schools, mosques and hospitals in several countries; after his death his sons launched the Al Fahim Prize for academic excellence in 1997.",
+    "ar": "عبد الجليل بن محمد الفهيم (1919–1996م)، رجل أعمال إماراتي. وُلد في أبوظبي، وتعلّم التجارة على يد والده التاجر محمد بن عبد الرحيم الفهيم، ثم على أيدي علماء الدين. عمل إلى جانب الشيخ زايد بن سلطان آل نهيان منذ أواخر الثلاثينيات، وكان من العاملين في مكتبه بقلعة المويجعي، ثم ترأس مجلس التخطيط الذي أمر الشيخ زايد بتأسيسه سنة 1968. أسس «مجموعة الفهيم» سنة 1958، وحصل على وكالة مرسيدس سنة 1962. وله «وقف الفهيم» الذي بنى مدارس ومساجد ومستشفيات في عدة دول، وبعد وفاته أطلق أبناؤه «جائزة عبد الجليل الفهيم للتفوق العلمي» سنة 1997."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الإمارات اليوم — 30 ديسمبر 2025",
+      "url": "https://www.emaratalyoum.com/life/culture/2025-12-30-1.2001544"
+    },
+    {
+      "label": "الخليج — عبد الجليل الفهيم رجل دولة من طراز فريد",
+      "url": "https://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%87%D9%8A%D9%85-%D8%B1%D8%AC%D9%84-%D8%AF%D9%88%D9%84%D8%A9-%D9%85%D9%86-%D8%B7%D8%B1%D8%A7%D8%B2-%D9%81%D8%B1%D9%8A%D8%AF"
+    }
+  ]
 },
 {
   "id": "abdulkarim-al-jazari-street",
