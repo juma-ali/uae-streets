@@ -3292,8 +3292,8 @@ window.STREETS = [
     "ar": "أول من قُتل من الأنصار في بدر"
   },
   "story": {
-    "en": "Haritha ibn Suraqa was the first of the Ansar to be killed at Badr, in 2 AH.",
-    "ar": "حارثة بن سراقة (المتوفي سنة 2 هـ) صحابي من بني عدي بن النجار من الخزرج. أسلم حارثة."
+    "en": "Harithah ibn Suraqah (d. 2 AH) was a Companion of the Banu Adi ibn al-Najjar of the Khazraj. The Prophet joined him in brotherhood with al-Sa'ib ibn Uthman ibn Maz'un. He fought at Badr and was killed there — the first of the Ansar to fall — struck in the throat by an arrow from Habban ibn al-Arqah while he was drinking at the cistern.",
+    "ar": "حارثة بن سراقة (المتوفى سنة ٢هـ)، صحابي من بني عدي بن النجار من الخزرج. أسلم، وآخى النبي صلى الله عليه وسلم بينه وبين السائب بن عثمان بن مظعون، وشهد بدراً وقُتل فيها، وكان أول قتلى الأنصار في المعركة؛ قتله حبّان بن العرقة بسهم أصاب حنجرته وهو يشرب من الحوض."
   },
   "refs": [
     {
@@ -3468,8 +3468,8 @@ window.STREETS = [
     "ar": "عالم"
   },
   "story": {
-    "en": "Al-Rabi ibn Khuthaym (d. 680) was a tabi'i ascetic of Kufa.",
-    "ar": "أبو يزيد الربيع بن خثيم بن عائذ بن عبد الله الثوري التميمي الكوفي (10 ق هـ -."
+    "en": "Abu Yazid al-Rabi' ibn Khuthaym al-Thawri al-Tamimi al-Kufi (10 BH – 65 AH) was a Successor of Kufa, among the great Successors and transmitters of hadith. He was born in the pre-Islamic period and lived into the Prophet's time without seeing him. Al-Ijli declared him trustworthy, and al-Dhahabi counted him among the masters of the Successors.",
+    "ar": "أبو يزيد الربيع بن خثيم بن عائذ بن عبد الله الثوري التميمي الكوفي (١٠ ق هـ – ٦٥هـ)، تابعي من أهل الكوفة، من كبار التابعين ورواة الحديث. وُلد في الجاهلية وأدرك زمن النبي صلى الله عليه وسلم ولم يره. وثّقه أبو الحسن العجلي، وعدّه الذهبي من سادة التابعين."
   },
   "refs": [
     {
@@ -3556,8 +3556,8 @@ window.STREETS = [
     "ar": "صحابية جليلة من السابقين الأولين"
   },
   "story": {
-    "en": "Fatimah bint al-Khattab was a sister of Umar.",
-    "ar": "فاطمة بنت الخطاب، وقيل: رملة بنت الخطاب، وقيل: أم جميل بنت."
+    "en": "Fatima bint al-Khattab — also given as Ramlah, Umm Jamil or Umaymah — was a Companion, the sister of Umar ibn al-Khattab and the wife of Sa'id ibn Zayd, one of the ten promised Paradise.",
+    "ar": "فاطمة بنت الخطاب، وقيل رملة، وقيل أم جميل، وقيل أميمة؛ صحابية، أخت عمر بن الخطاب، وزوجة سعيد بن زيد أحد العشرة المبشرين بالجنة."
   },
   "refs": [
     {
@@ -4062,8 +4062,8 @@ window.STREETS = [
     "ar": "من أئمة رجال الحديث، حفظا ودراية وتثبتا، أول من فتش بالعراق عن أمر المحدّثين"
   },
   "story": {
-    "en": "Shu'ba Ibn al-Ḥajjāj (702–777) was a scholar of hadith.",
-    "ar": "أَبُو بِسْطَام شعبةُ بْنُ الحَجَّاج بن الورد العتكي الأزدي البصري (."
+    "en": "Abu Bistam Shu'bah ibn al-Hajjaj al-Ataki al-Azdi al-Basri (85–160 AH) was a Successor, the scholar and shaykh of the people of Basra. Of Wasit by origin, he settled in Basra young and died there. He saw the Companion Anas ibn Malik, and heard from four hundred of the Successors.",
+    "ar": "أبو بسطام شعبة بن الحجاج بن الورد العتكي الأزدي البصري (٨٥–١٦٠هـ)، من التابعين، عالم أهل البصرة وشيخها، واسطي الأصل سكن البصرة منذ الصغر وفيها توفي. رأى من الصحابة أنس بن مالك، وسمع من أربعمئة من التابعين."
   },
   "refs": [
     {
@@ -4084,8 +4084,8 @@ window.STREETS = [
     "ar": "صحابي صاحب حديث الجساسة"
   },
   "story": {
-    "en": "Tamim al-Dari (d. 660) was a companion of the Prophet Muhammad.",
-    "ar": "تَمِيمُ بْنُ أَوْسٍ الدَّارِيُّ اللَّخْمِيُّ."
+    "en": "Tamim ibn Aws al-Dari al-Lakhmi was a Companion, known for the account of his meeting with the Jassasah and the Dajjal. He was called the monk of the community in his time and the worshipper of the people of Palestine, and he was the first to light a lamp in the mosque.",
+    "ar": "تميم بن أوس الداري اللخمي، صحابي، اشتهر بقصة لقائه بالجساسة والمسيح الدجال، وكان يُسمى راهب الأمة في عصره وعبّاد أهل فلسطين، وأول من أسرج السراج في المسجد."
   },
   "refs": [
     {
@@ -4745,8 +4745,8 @@ window.STREETS = [
     "ar": "صحابي بدري من السابقين"
   },
   "story": {
-    "en": "Mas'ud ibn Rabi'a al-Qari was a Companion who fought at Badr and died in 30 AH.",
-    "ar": "أبو عُمير مسعود بن ربيعة القاري. أو القاريّ."
+    "en": "Abu Umayr Mas'ud ibn Rabi'ah al-Qari (d. 30 AH) was a Companion of Badr and one of the earliest Muslims. He migrated to Yathrib and took part in all of the Prophet's campaigns.",
+    "ar": "أبو عمير مسعود بن ربيعة القاري (المتوفى سنة ٣٠هـ)، صحابي بدري من السابقين إلى الإسلام، هاجر إلى يثرب، وشارك مع النبي صلى الله عليه وسلم في غزواته كلها."
   },
   "refs": [
     {
@@ -4987,8 +4987,8 @@ window.STREETS = [
     "ar": "صحابي أنصاري استُشهد بتستر"
   },
   "story": {
-    "en": "Al-Bara' ibn Malik al-Ansari (d. 20 AH / 641 CE) was a Companion who fought at Badr and elsewhere and was killed at Tustar.",
-    "ar": "البراء بن مالك الأنصاري (المتوفى سنة 20 هـ الموافق 641 م) هو صحابي، شهد عدد من غزوات النبي محمد صلى الله عليه وسلم وفتوح العراق وفارس، واستشهد في فتح تستر، وهو."
+    "en": "Al-Bara' ibn Malik al-Ansari (d. 20 AH) was a Companion, the brother of Anas ibn Malik by both parents. He fought in several of the Prophet's campaigns and in the conquests of Iraq and Persia, and was killed at the conquest of Tustar.",
+    "ar": "البراء بن مالك الأنصاري (المتوفى سنة ٢٠هـ)، صحابي، أخو أنس بن مالك لأبيه وأمه. شهد عدداً من غزوات النبي صلى الله عليه وسلم وفتوح العراق وفارس، واستشهد في فتح تُستَر."
   },
   "refs": [
     {
@@ -5075,8 +5075,8 @@ window.STREETS = [
     "ar": "أديب ومترجم فارسي"
   },
   "story": {
-    "en": "Abdullah ibn al-Muqaffa' (724–759) was an author and translator who rendered Kalila wa Dimna into Arabic.",
-    "ar": "أبو مُحمّد عبد الله بن المقفع (106 - 142 هـ)(724 م ـ 759 م) (بالفارسية: ابن مقفع - أبو مٰحَمَّد عبد الله واسمه روزبه بن داذويه قبل إسلام."
+    "en": "Abu Muhammad Abdullah ibn al-Muqaffa' (106–142 AH) was a Persian thinker, born Zoroastrian and converted to Islam. He lived through both the Umayyad and Abbasid caliphates and translated from Pahlavi into Arabic; among his translated works are al-Adab al-Saghir and al-Adab al-Kabir.",
+    "ar": "أبو محمد عبد الله بن المقفع (١٠٦–١٤٢هـ)، مفكّر فارسي وُلد مجوسياً ثم أسلم، عاصر الخلافتين الأموية والعباسية، ونقل من البهلوية إلى العربية. ومن كتبه المنقولة «الأدب الصغير» و«الأدب الكبير»."
   },
   "refs": [
     {
@@ -16859,8 +16859,8 @@ window.STREETS = [
     "ar": "رجل قضاء تونسي"
   },
   "story": {
-    "en": "Mohammed Ben Ammar (1889–1972) was a tunisian magistrate.",
-    "ar": "محمد بن عمار ولد في 1 أغسطس 1889 في تونس العاصمة وتوفي في 12 يوليو 1972 في."
+    "en": "Mohammed bin Ammar (1889–1972) was a Tunisian lawyer and judge, born and died in the city of Tunis. He studied at al-Zaytuna, and in February 1918 issued the founding text of Espérance Sportive de Tunis, the first Tunisian Muslim sports club.",
+    "ar": "محمد بن عمار (١٨٨٩–١٩٧٢م)، محامٍ وقاضٍ تونسي، وُلد في مدينة تونس وتوفي فيها. تخرّج في جامعة الزيتونة، وأصدر في فبراير ١٩١٨ أول نص مؤسس لنادي الترجي الرياضي التونسي، أول نادٍ رياضي مسلم في تونس."
   },
   "refs": [
     {
@@ -17211,8 +17211,8 @@ window.STREETS = [
     "ar": "ملحن كويتي"
   },
   "story": {
-    "en": "Rashed Khaled Al-Khadher (1956–1998) was a famous Kuwaiti melodist.",
-    "ar": "راشد الخضر، ، ملحن كويتي. يعتبر أحد أشهر الملحنين الخليجيين وأحد أبرز من تركوا بصمة في."
+    "en": "Rashid al-Khadar (1956 – 7 January 1998) was a Kuwaiti composer, among the best known in the Gulf and one of those who left a mark on the Gulf song. He set music for Abd al-Karim Abd al-Qadir, Abdullah al-Ruwaished, Nabil Shuail, Nawal al-Kuwaitia, Abd al-Majid Abdallah and others.",
+    "ar": "راشد الخضر (١٩٥٦ – ٧ يناير ١٩٩٨م)، ملحن كويتي، من أشهر الملحنين الخليجيين وأبرز من تركوا بصمة في تاريخ الأغنية الخليجية. لحّن لعبد الكريم عبد القادر وعبد الله الرويشد ونبيل شعيل ونوال الكويتية وعبد المجيد عبد الله وغيرهم."
   },
   "refs": [
     {
@@ -17783,8 +17783,8 @@ window.STREETS = [
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "Hurayth ibn Zayd ibn Abd-Rabbih was a companion of the Prophet Muhammad.",
-    "ar": "حريث بن زيد بن عبد ربه بن ثعلبة الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع."
+    "en": "Huraith ibn Zayd ibn Abd Rabbih ibn Tha'labah al-Khazraji al-Ansari was a Companion of the Khazraj of the Ansar, who fought with the Prophet at Badr and Uhud.",
+    "ar": "حريث بن زيد بن عبد ربه بن ثعلبة الخزرجي الأنصاري، صحابي من قبيلة الخزرج من الأنصار، شهد مع النبي صلى الله عليه وسلم غزوة بدر وغزوة أُحد."
   },
   "refs": [
     {
@@ -17871,8 +17871,8 @@ window.STREETS = [
     "ar": "من أعلام صدر الإسلام"
   },
   "story": {
-    "en": "Malik Bin Numaylah Street was a companion of the Prophet Muhammad.",
-    "ar": "مالك بن ثابت المزني ونميلة أمه وهو صحابي جليل من قبيلة مزينة وكان حليفاً لبني عوف بن."
+    "en": "Malik ibn Thabit al-Muzani — Numaylah was his mother — was a Companion of the Muzaynah, an ally of the Banu Awf ibn Mu'awiyah of the Aws. He fought with the Prophet at Badr and was killed at Uhud.",
+    "ar": "مالك بن ثابت المزني، ونميلة أمه، صحابي من قبيلة مزينة، حليف لبني عوف بن معاوية من قبيلة الأوس من الأنصار. شهد مع النبي صلى الله عليه وسلم غزوة بدر وغزوة أُحد، وقُتل يوم أُحد شهيداً."
   },
   "refs": [
     {
