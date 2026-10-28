@@ -18669,18 +18669,27 @@ window.STREETS = [
   "id": "abdulkarim-al-jazari-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالكريم الجزري",
   "en": "Abdulkarim Al Jazari Street",
   "meaning": {
-    "en": "An Emirati figure of the Jazari family",
-    "ar": "شخصية إماراتية من أسرة الجزري"
+    "en": "A Successor and hadith transmitter of Harran",
+    "ar": "تابعي ومحدّث من أهل حرّان"
   },
   "story": {
-    "en": "The street carries the name of Abdulkarim, an Emirati figure of the Jazari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالكريم الجزري، وهو شخصية إماراتية من أسرة الجزري، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abd al-Karim ibn Malik, Abu Sa'id al-Jazari al-Harrani, known as al-Khudrami, was a Successor and transmitter of hadith, a client of the Banu Umayya, of Istakhri origin, and he lived at Harran. He saw Anas ibn Malik and is counted among the youngest of the Successors. Ibn Numayr, al-Tirmidhi, al-Bazzar and al-Daraqutni declared him trustworthy; Ibn Hajar called him «thiqa mutqin» and al-Dhahabi «a prolific hafiz». He died in 127 AH.",
+    "ar": "عبد الكريم بن مالك، أبو سعيد الجزري الحراني، ويُعرف بالخضرمي، تابعي ومحدّث من موالي بني أمية، وأصله من إصطخر، وسكن حرّان. رأى أنس بن مالك، وعُدّ في صغار التابعين. وثّقه ابن نمير والترمذي والبزار والدارقطني، وقال ابن حجر: «ثقة متقن»، وقال الذهبي: «حافظ مكثر». تُوفي سنة 127هـ."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "فهرس الرواة — المكتبة الشاملة (عن تهذيب التهذيب وتقريبه)",
+      "url": "https://shamela.ws/new.php/narrator/3518"
+    },
+    {
+      "label": "موسوعة رواة الحديث — ابن عدي والدارقطني",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%A8%D9%86-%D9%85%D8%A7%D9%84%D9%83-%D8%A7%D9%84%D8%AC%D8%B2%D8%B1%D9%8A/"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-adiy-street",
