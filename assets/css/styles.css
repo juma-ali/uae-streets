@@ -312,11 +312,15 @@ code { font-family: var(--font-mono); font-size: .86em; background: var(--paper-
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-block-end: 1px solid var(--line);
-  padding-block: .75rem;
+  padding-block: .85rem;
 }
-.filter-row { display: flex; align-items: center; gap: 1rem; padding-block: .22rem; }
+/* Each filter row is a separate question — give them room to read as separate.
+   The gap does the separating; a hairline between rows was tried and read as a
+   table, which is heavier than the rows deserve. */
+.filters .wrap { display: flex; flex-direction: column; gap: .5rem; }
+.filter-row { display: flex; align-items: center; gap: 1rem; padding-block: .1rem; }
 .filter-row__label {
-  flex: 0 0 88px; font-size: .66rem; font-weight: 600; letter-spacing: .14em;
+  flex: 0 0 96px; font-size: .66rem; font-weight: 600; letter-spacing: .14em;
   text-transform: uppercase; color: var(--ink-3);
 }
 .chips { display: flex; flex-wrap: wrap; gap: .4rem; min-width: 0; }
