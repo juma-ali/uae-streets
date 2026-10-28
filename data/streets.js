@@ -24860,18 +24860,23 @@ window.STREETS = [
   "id": "sheikh-zayed-bin-hamdan-al-nahyan-street",
   "emirate": "dubai",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ زايد بن حمدان آل نهيان",
   "en": "Sheikh Zayed bin Hamdan Al Nahyan Street",
   "meaning": {
-    "en": "A member of the ruling family",
-    "ar": "من الأسرة الحاكمة"
+    "en": "Son of Sheikh Hamdan bin Zayed",
+    "ar": "ابن الشيخ حمدان بن زايد آل نهيان"
   },
   "story": {
-    "en": "The street is named for Zayed bin Hamdan Al Nahyan, a member of the ruling family. No published biography was found.",
-    "ar": "سُمّي الشارع باسم زايد بن حمدان آل نهيان، وهو من الأسرة الحاكمة، ولم يُعثر على ترجمة منشورة له."
+    "en": "Zayed bin Hamdan bin Zayed bin Sultan Al Nahyan (born 4 April 1990) is a son of Sheikh Hamdan bin Zayed Al Nahyan, the Ruler's Representative in the Al Dhafra region, and a grandson of Sheikh Zayed bin Sultan. He is married to Sheikha Shamma bint Mohammed bin Zayed Al Nahyan, and they have a son, Hamdan.",
+    "ar": "زايد بن حمدان بن زايد بن سلطان آل نهيان (مواليد 4 أبريل 1990)، ابن الشيخ حمدان بن زايد آل نهيان ممثل الحاكم في منطقة الظفرة، وحفيد الشيخ زايد بن سلطان. وهو متزوج من الشيخة شمّاء بنت محمد بن زايد آل نهيان، ولهما ابن اسمه حمدان."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia (EN) — Hamdan bin Zayed bin Sultan Al Nahyan",
+      "url": "https://en.wikipedia.org/wiki/Hamdan_bin_Zayed_bin_Sultan_Al_Nahyan"
+    }
+  ]
 },
 {
   "id": "jamal-abdul-naser-road",
