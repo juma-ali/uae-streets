@@ -3725,15 +3725,15 @@ window.STREETS = [
   "emirate": "abu-dhabi",
   "category": "person",
   "origin": "documented",
-  "ar": "شارع جميله بنت ثابت",
+  "ar": "شارع جميلة بنت ثابت",
   "en": "Jameelah Bint Thabit Street",
   "meaning": {
-    "en": "Companion of the Prophet Muhammad",
-    "ar": "كانت زوجة ثانى الخلفاء الراشدين عمر بن الخطاب"
+    "en": "A Companion, wife of Umar ibn al-Khattab",
+    "ar": "صحابية، زوجة عمر بن الخطاب"
   },
   "story": {
-    "en": "Jamila bint Thabit was a companion of the Prophet Muhammad.",
-    "ar": "جميلة بنت ثابت بن أبي الأقلح الأنصارية كان اسمها عاصية فسماها رسول الله جميل."
+    "en": "Jamila bint Thabit ibn Abi al-Aqlah al-Ansariyyah was first named Asiyah, and the Prophet renamed her Jamila. She was the wife of Umar ibn al-Khattab, who married her in the seventh year after the Hijrah; she bore him his son Asim, and he later divorced her. She then married Yazid ibn Jariyah, by whom she had Abd al-Rahman. Her brother was Asim ibn Thabit, one of the martyrs.",
+    "ar": "جميلة بنت ثابت بن أبي الأقلح الأنصارية، كان اسمها عاصية فسماها رسول الله صلى الله عليه وسلم جميلة. وهي زوجة عمر بن الخطاب، تزوجها في السنة السابعة من الهجرة، وولدت له ابنه عاصم بن عمر، ثم طلقها، فتزوجت بعده يزيد بن جارية فولدت له عبد الرحمن. وأخوها عاصم بن ثابت، من شهداء المسلمين."
   },
   "refs": [
     {
