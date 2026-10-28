@@ -576,7 +576,7 @@ window.STREETS = [
     meaning: { en: "A Companion and commander, founder of Fustat", ar: "صحابي وقائد، ومؤسس الفسطاط" },
     story: {
       en: "‘Amr ibn al-‘As (d. 43 AH / 664 CE) was a Companion of the Prophet and the commander whose forces entered Egypt in 18 AH. He founded Fustat and governed Egypt over long periods. The name is carried by streets in Abu Dhabi, Ajman, Sharjah and Umm Al Quwain.",
-      ar: "عمرو بن العاص (ت ٤٣هـ/٦٦٤م) صحابي وقائد، دخلت قواته مصر سنة ١٨هـ، وأسّس مدينة الفسطاط، وولي مصر مرات. ويحمل اسمه شوارع في أبوظبي وعجمان والشارقة وأم القيوين."
+      ar: "عمرو بن العاص (ت 43هـ/664م) صحابي وقائد، دخلت قواته مصر سنة 18هـ، وأسّس مدينة الفسطاط، وولي مصر مرات. ويحمل اسمه شوارع في أبوظبي وعجمان والشارقة وأم القيوين."
     },
     refs: [
       { label: "Wikipedia — Amr ibn al-As", url: "https://ar.wikipedia.org/wiki/عمرو_بن_العاص" }
@@ -593,7 +593,7 @@ window.STREETS = [
     meaning: { en: "A jurist and traditionist of Medina, son of the third caliph", ar: "تابعي وفقيه ومحدّث من أهل المدينة، وابن الخليفة عثمان" },
     story: {
       en: "Aban ibn 'Uthman ibn 'Affan (d. 105 AH / 723 CE) was a Tabi'i, a jurist and a traditionist, and governor of Medina for about seven years. He is named among the earliest to write down the Prophet's campaigns (maghazi), though most accounts place 'Urwa ibn al-Zubayr before him.",
-      ar: "أبان بن عثمان بن عفان (ت ١٠٥هـ/٧٢٣م) تابعي وفقيه ومحدّث، ولي المدينة المنورة نحو سبع سنين. ويُذكر في أوائل من كتبوا المغازي، وإن كان أكثر الروايات يقدّم عروة بن الزبير عليه."
+      ar: "أبان بن عثمان بن عفان (ت 105هـ/723م) تابعي وفقيه ومحدّث، ولي المدينة المنورة نحو سبع سنين. ويُذكر في أوائل من كتبوا المغازي، وإن كان أكثر الروايات يقدّم عروة بن الزبير عليه."
     },
     refs: [
       { label: "الموسوعة العربية — أبان بن عثمان", url: "https://arab-ency.com.sy/details/1456" }
@@ -610,7 +610,7 @@ window.STREETS = [
     meaning: { en: "A poet of Al Dhafra, known for the taghrooda", ar: "شاعر من الظفرة اشتهر بفنّ التغرودة" },
     story: {
       en: "Abdulhadi bin Daen Al Hameli (c. 1850 — early 20th century) was one of the poets of Al Dhafra known for the taghrooda, the Bedouin sung poem. He spent the hot season at Madhhar Al Sabkha in Liwa, and in winter took his family and camels to Batanat Liwa, to a water source called Bad' Hilees that he owned, about four kilometres east of Al 'Asab. He was a contemporary and friend of the poets Sa'id bin 'Utaij Al Hameli and Salem bin Mahsh Al Hameli.",
-      ar: "عبدالهادي بن ضاعن الهاملي (نحو ١٨٥٠م — أوائل القرن العشرين) أحد شعراء الظفرة الذين اشتهروا بفنّ التغرودة. كان يقيم في القيظ في محضر الصبخة في ليوا، وفي الشتاء يذهب بأهله وإبله إلى بطانة ليوا عند مورد ماء يُسمّى «بدع حليس» يملكه، ويقع شرق العصب بنحو أربعة كيلومترات. وكان معاصراً وصديقاً للشاعرين سعيد بن عتيج الهاملي وسالم بن محش الهاملي."
+      ar: "عبدالهادي بن ضاعن الهاملي (نحو 1850م — أوائل القرن العشرين) أحد شعراء الظفرة الذين اشتهروا بفنّ التغرودة. كان يقيم في القيظ في محضر الصبخة في ليوا، وفي الشتاء يذهب بأهله وإبله إلى بطانة ليوا عند مورد ماء يُسمّى «بدع حليس» يملكه، ويقع شرق العصب بنحو أربعة كيلومترات. وكان معاصراً وصديقاً للشاعرين سعيد بن عتيج الهاملي وسالم بن محش الهاملي."
     },
     refs: [
       { label: "شعراء الظفرة — عبد الهادي بن ضاعن الهاملي", url: "http://shuaraaldhafrh.blogspot.com/2012/04/blog-post_15.html" }
@@ -642,7 +642,7 @@ window.STREETS = [
     meaning: { en: "Admiral of the first fleet the Muslims equipped", ar: "أمير أول أسطول بحري جهّزه المسلمون" },
     story: {
       en: "Abdullah ibn Qais al-Kindi, known as Abu Bahriyya, was an admiral in early Islam. At Caliph Uthman's instruction, Mu'awiya appointed him to command the first fleet the Muslims equipped, which sailed against Cyprus in 28 AH. There he met Abdullah ibn Sa'd ibn Abi Sarh, arriving from Egypt, and the island's people agreed a tribute of 7,000 dinars a year. He is said to have raided fifty times by land and sea without a reverse, and was killed by the Byzantines in 53 or 54 AH.",
-      ar: "عبد الله بن قيس الكِنديّ، المعروف بأبي بَحريّة، أمير بحر في صدر الإسلام. ولّاه معاوية بن أبي سفيان قيادة أول أسطول جهّزه المسلمون، فغزا قبرص سنة ٢٨هـ، والتقى فيها عبد الله بن سعد بن أبي سرح قادماً من مصر، وصالح أهلها على جزية سبعة آلاف دينار في السنة. ويُذكر أنه غزا خمسين غزوة برّاً وبحراً، وقتله الروم سنة ٥٣هـ."
+      ar: "عبد الله بن قيس الكِنديّ، المعروف بأبي بَحريّة، أمير بحر في صدر الإسلام. ولّاه معاوية بن أبي سفيان قيادة أول أسطول جهّزه المسلمون، فغزا قبرص سنة 28هـ، والتقى فيها عبد الله بن سعد بن أبي سرح قادماً من مصر، وصالح أهلها على جزية سبعة آلاف دينار في السنة. ويُذكر أنه غزا خمسين غزوة برّاً وبحراً، وقتله الروم سنة 53هـ."
     },
     refs: [
       { label: "Wikipedia — عبد الله بن قيس الحارثي", url: "https://ar.wikipedia.org/wiki/عبد_الله_بن_قيس_الحارثي" }
@@ -674,7 +674,7 @@ window.STREETS = [
     meaning: { en: "A founder of Al Masoud Group and president of Abu Dhabi's Consultative Council", ar: "من مؤسسي مجموعة المسعود ورئيس المجلس الاستشاري الوطني بأبوظبي" },
     story: {
       en: "Abdullah bin Mohammed Al Masoud Al Muhairbi (mid-1940s — February 2019) was an Abu Dhabi businessman from a family of pearl traders. With his brothers he founded Al Masoud Group, the first company registered with the Abu Dhabi Chamber of Commerce — his brother Ahmed was the Chamber's first president. In 1970 the group partnered with John Brown Engineering to install the first gas-turbine generator in Abu Dhabi and the Middle East, and with Weir Westgarth to build the UAE's first desalination plant. He sat on the National Consultative Council from its first term and presided over it from 1994. He received the President's Award in 2011, the Khalifa International Award for Date Palm in the same year for introducing the Majdool variety, and the Abu Dhabi Award in 2014.",
-      ar: "عبدالله بن محمد المسعود المحيربي (منتصف الأربعينيات — فبراير ٢٠١٩) رجل أعمال من أبوظبي، من أسرة عملت في تجارة اللؤلؤ. أسّس مع إخوته مجموعة المسعود، وهي أول شركة تُسجَّل في غرفة تجارة وصناعة أبوظبي، وكان أخوه أحمد أول رئيس للغرفة. وفي عام ١٩٧٠ دخلت المجموعة في شراكة لتركيب أول مولد كهربائي للتوربينات الغازية في أبوظبي والشرق الأوسط، ثم لإنشاء أول محطة لتحلية المياه في الدولة. وعضوية المجلس الاستشاري الوطني من فصله التشريعي الأول، ورئاسته له منذ ١٩٩٤. نال جائزة رئيس الدولة التقديرية عام ٢٠١١، وجائزة خليفة الدولية لنخيل التمر في العام نفسه لإدخاله صنف المجدول، وجائزة أبوظبي عام ٢٠١٤."
+      ar: "عبدالله بن محمد المسعود المحيربي (منتصف الأربعينيات — فبراير 2019) رجل أعمال من أبوظبي، من أسرة عملت في تجارة اللؤلؤ. أسّس مع إخوته مجموعة المسعود، وهي أول شركة تُسجَّل في غرفة تجارة وصناعة أبوظبي، وكان أخوه أحمد أول رئيس للغرفة. وفي عام 1970 دخلت المجموعة في شراكة لتركيب أول مولد كهربائي للتوربينات الغازية في أبوظبي والشرق الأوسط، ثم لإنشاء أول محطة لتحلية المياه في الدولة. وعضوية المجلس الاستشاري الوطني من فصله التشريعي الأول، ورئاسته له منذ 1994. نال جائزة رئيس الدولة التقديرية عام 2011، وجائزة خليفة الدولية لنخيل التمر في العام نفسه لإدخاله صنف المجدول، وجائزة أبوظبي عام 2014."
     },
     refs: [
       { label: "الاتحاد — عبدالله المسعود.. لؤلؤة أبوظبي", url: "https://www.aletihad.ae/news/دنيا/4103967/عبدالله-المسعود---لؤلؤة-أبوظبي" }
@@ -691,7 +691,7 @@ window.STREETS = [
     meaning: { en: "A tribal figure of Al Bu Muhair, of the Bani Yas", ar: "من الوجوه العشائرية المعروفة في آل بو مهير من بني ياس" },
     story: {
       en: "Abdullah bin Abdullah Al Muhairi was one of the well-known tribal figures of the United Arab Emirates, from Al Bu Muhair — one of the main sections (hafuf) of the historic Bani Yas confederation. He died in April 2026.",
-      ar: "عبدالله بن عبدالله المهيري من الرموز والوجوه العشائرية المعروفة في دولة الإمارات، وينتمي إلى قبيلة آل بو مهير، أحد الحفوف الرئيسية لحلف قبائل بني ياس التاريخي. وتوفي في أبريل ٢٠٢٦."
+      ar: "عبدالله بن عبدالله المهيري من الرموز والوجوه العشائرية المعروفة في دولة الإمارات، وينتمي إلى قبيلة آل بو مهير، أحد الحفوف الرئيسية لحلف قبائل بني ياس التاريخي. وتوفي في أبريل 2026."
     },
     refs: []
   },
@@ -726,7 +726,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Bakr al-Siddiq (d. 13 AH / 634 CE) was the first of the Rightly Guided Caliphs and the Companion who accompanied the Prophet on the migration to Medina. He was the first free man to accept Islam.",
-    "ar": "أبو بكر الصديق (ت ١٣هـ/٦٣٤م) أول الخلفاء الراشدين، وصاحب النبي في الهجرة إلى المدينة، وأول من أسلم من الرجال الأحرار."
+    "ar": "أبو بكر الصديق (ت 13هـ/634م) أول الخلفاء الراشدين، وصاحب النبي في الهجرة إلى المدينة، وأول من أسلم من الرجال الأحرار."
   },
   "refs": [
     {
@@ -749,7 +749,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Umar ibn al-Khattab (d. 23 AH / 644 CE) was the second caliph, and the conquests of Syria, Egypt and Iraq took place in his time.",
-    "ar": "عمر بن الخطاب (ت ٢٣هـ / ٦٤٤م) ثاني الخلفاء، وفي عهده كانت فتوح الشام ومصر والعراق."
+    "ar": "عمر بن الخطاب (ت 23هـ / 644م) ثاني الخلفاء، وفي عهده كانت فتوح الشام ومصر والعراق."
   },
   "refs": [
     {
@@ -772,7 +772,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Uthman ibn Affan (d. 35 AH / 656 CE) was the third caliph. He ordered the Qur'an collected into a single standard codex, and equipped the army known as the Army of Hardship.",
-    "ar": "عثمان بن عفان (ت ٣٥هـ/٦٥٦م) الخليفة الثالث، أمر بجمع القرآن في مصحف إمام، وجهّز جيش العسرة."
+    "ar": "عثمان بن عفان (ت 35هـ/656م) الخليفة الثالث، أمر بجمع القرآن في مصحف إمام، وجهّز جيش العسرة."
   },
   "refs": [
     {
@@ -795,7 +795,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ali ibn Abi Talib (d. 40 AH / 661 CE) was the fourth of the Rightly Guided Caliphs, the Prophet's cousin, and the husband of his daughter Fatima.",
-    "ar": "علي بن أبي طالب (ت ٤٠هـ/٦٦١م) رابع الخلفاء الراشدين، وابن عم النبي، وزوج ابنته فاطمة."
+    "ar": "علي بن أبي طالب (ت 40هـ/661م) رابع الخلفاء الراشدين، وابن عم النبي، وزوج ابنته فاطمة."
   },
   "refs": [
     {
@@ -818,7 +818,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Khalid ibn al-Walid (d. 21 AH / 642 CE) was a commander of the early conquests, known as the Sword of God.",
-    "ar": "خالد بن الوليد (ت ٢١هـ / ٦٤٢م) قائد من قادة الفتوح، ويُلقّب بسيف الله المسلول."
+    "ar": "خالد بن الوليد (ت 21هـ / 642م) قائد من قادة الفتوح، ويُلقّب بسيف الله المسلول."
   },
   "refs": [
     {
@@ -841,7 +841,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Bilal ibn Rabah (d. c. 20 AH) was the Prophet's muezzin and among the first to accept Islam. Abu Bakr bought him and set him free.",
-    "ar": "بلال بن رباح (ت نحو ٢٠هـ) مؤذن الرسول، ومن السابقين إلى الإسلام، اشتراه أبو بكر فأعتقه."
+    "ar": "بلال بن رباح (ت نحو 20هـ) مؤذن الرسول، ومن السابقين إلى الإسلام، اشتراه أبو بكر فأعتقه."
   },
   "refs": [
     {
@@ -864,7 +864,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Hamza ibn Abd al-Muttalib (d. 3 AH / 625 CE) was the Prophet's uncle, known as the Lion of God. He was killed at the battle of Uhud and is buried there.",
-    "ar": "حمزة بن عبد المطلب (ت ٣هـ/٦٢٥م) عمّ النبي، عُرف بأسد الله، واستُشهد في غزوة أُحد ودُفن فيها."
+    "ar": "حمزة بن عبد المطلب (ت 3هـ/625م) عمّ النبي، عُرف بأسد الله، واستُشهد في غزوة أُحد ودُفن فيها."
   },
   "refs": [
     {
@@ -887,7 +887,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salman al-Farisi (d. c. 33 AH) was a Companion of Persian origin. At the Battle of the Trench he proposed digging the ditch that gave the battle its name.",
-    "ar": "سلمان الفارسي (ت نحو ٣٣هـ) صحابي فارسي الأصل، أشار بحفر الخندق في غزوة الأحزاب."
+    "ar": "سلمان الفارسي (ت نحو 33هـ) صحابي فارسي الأصل، أشار بحفر الخندق في غزوة الأحزاب."
   },
   "refs": [
     {
@@ -975,7 +975,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Hassan ibn al-Nu'man al-Ghassani (d. c. 86 AH / 705 CE) was an Umayyad commander who completed the conquest of Ifriqiya and founded Tunis.",
-    "ar": "حسان بن النعمان الغساني (ت نحو ٨٦هـ/٧٠٥م) قائد أموي، أكمل فتح إفريقية وأسّس مدينة تونس."
+    "ar": "حسان بن النعمان الغساني (ت نحو 86هـ/705م) قائد أموي، أكمل فتح إفريقية وأسّس مدينة تونس."
   },
   "refs": [
     {
@@ -1041,7 +1041,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Asim ibn Thabit al-Ansari (d. 4 AH / 625 CE) was an Ansari companion killed at the well of Ma'una.",
-    "ar": "عاصم بن ثابت بن أبي الأقلح الأنصاري (ت ٤هـ/٦٢٥م) صحابي من الأنصار، استُشهد في بئر معونة."
+    "ar": "عاصم بن ثابت بن أبي الأقلح الأنصاري (ت 4هـ/625م) صحابي من الأنصار، استُشهد في بئر معونة."
   },
   "refs": [
     {
@@ -1217,7 +1217,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ka'b ibn Zuhayr (d. c. 24 AH / 645 CE) was a poet of the transition period who accepted Islam and recited his ode Banat Su'ad before the Prophet.",
-    "ar": "كعب بن زهير بن أبي سلمى (ت نحو ٢٤هـ/٦٤٥م) شاعر مخضرم، أسلم وأنشد قصيدته «بانت سعاد» بين يدي النبي."
+    "ar": "كعب بن زهير بن أبي سلمى (ت نحو 24هـ/645م) شاعر مخضرم، أسلم وأنشد قصيدته «بانت سعاد» بين يدي النبي."
   },
   "refs": [
     {
@@ -1349,7 +1349,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sa'd ibn al-Rabi' al-Ansari (d. 3 AH / 625 CE) was one of the chosen leaders of the Ansar, killed at the battle of Uhud.",
-    "ar": "سعد بن الربيع الأنصاري (ت ٣هـ/٦٢٥م) من نقباء الأنصار، استُشهد يوم أُحد."
+    "ar": "سعد بن الربيع الأنصاري (ت 3هـ/625م) من نقباء الأنصار، استُشهد يوم أُحد."
   },
   "refs": [
     {
@@ -1613,7 +1613,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ibn Zaydun (1003–1071) was an Andalusian poet and statesman of Cordoba and Seville, among the best known poets of al-Andalus.",
-    "ar": "ابن زيدون (٣٩٤–٤٦٣هـ/١٠٠٣–١٠٧١م) شاعر أندلسي ووزير في قرطبة وإشبيلية، من أشهر شعراء الأندلس."
+    "ar": "ابن زيدون (394–463هـ/1003–1071م) شاعر أندلسي ووزير في قرطبة وإشبيلية، من أشهر شعراء الأندلس."
   },
   "refs": [
     {
@@ -1635,7 +1635,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Amr ibn al-Jamuh (540–625) was a companion of the Prophet Muhammad from the Ansar of Banu Salama.",
-    "ar": "عمرو بن الجموح (ت ٣هـ/٦٢٥م) صحابي من الأنصار من بني سلمة، استُشهد يوم أُحد."
+    "ar": "عمرو بن الجموح (ت 3هـ/625م) صحابي من الأنصار من بني سلمة، استُشهد يوم أُحد."
   },
   "refs": [
     {
@@ -1657,7 +1657,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abbad ibn Bishr al-Ansari (d. 11 AH / 632 CE) was a Badri companion of the Ansar, killed at al-Yamama.",
-    "ar": "عباد بن بشر الأنصاري (ت ١١هـ/٦٣٢م) صحابي بدري من الأنصار، استُشهد باليمامة."
+    "ar": "عباد بن بشر الأنصاري (ت 11هـ/632م) صحابي بدري من الأنصار، استُشهد باليمامة."
   },
   "refs": [
     {
@@ -1767,7 +1767,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salim al-Jamri (1910–1991) was an Emirati poet of the Nabati tradition.",
-    "ar": "سالم الجمري (١٩١٠–١٩٩١م) شاعر إماراتي من شعراء النبط."
+    "ar": "سالم الجمري (1910–1991م) شاعر إماراتي من شعراء النبط."
   },
   "refs": [
     {
@@ -1878,7 +1878,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ibn Battuta (703–770 AH / 1304–1368) was a traveller and judge from Tangier whose journeys across Africa, Asia and Europe were recorded in the Rihla.",
-    "ar": "ابن بطوطة (٧٠٣–٧٧٠هـ/١٣٠٤–١٣٦٨م) رحّالة وقاضٍ من طنجة، دوّن رحلاته في آسيا وإفريقيا وأوروبا في كتاب «الرحلة»."
+    "ar": "ابن بطوطة (703–770هـ/1304–1368م) رحّالة وقاضٍ من طنجة، دوّن رحلاته في آسيا وإفريقيا وأوروبا في كتاب «الرحلة»."
   },
   "refs": [
     {
@@ -1966,7 +1966,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ubadah ibn al-Samit was an Ansari Companion who took part in the pledges of al-Aqaba and transmitted hadith. He died around 34 AH / 654 CE.",
-    "ar": "عبادة بن الصامت صحابي أنصاري، شهد بيعة العقبة، وروى الحديث، وتوفي نحو ٣٤هـ/٦٥٤م."
+    "ar": "عبادة بن الصامت صحابي أنصاري، شهد بيعة العقبة، وروى الحديث، وتوفي نحو 34هـ/654م."
   },
   "refs": [
     {
@@ -1988,7 +1988,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ibn al-Rumi, Ali ibn al-Abbas ibn Jurayj (221–283 AH / 836–896 CE), was an Abbasid poet known for descriptive and satirical verse.",
-    "ar": "ابن الرومي، علي بن العباس بن جريج (٢٢١–٢٨٣هـ/٨٣٦–٨٩٦م)، شاعر عباسي عُرف بشعره الوصفي والهجائي."
+    "ar": "ابن الرومي، علي بن العباس بن جريج (221–283هـ/836–896م)، شاعر عباسي عُرف بشعره الوصفي والهجائي."
   },
   "refs": [
     {
@@ -2010,7 +2010,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ahmad ibn Hanbal (164–241 AH / 780–855 CE) was a hadith scholar and jurist, founder of the Hanbali school and compiler of the Musnad.",
-    "ar": "أحمد بن حنبل (١٦٤–٢٤١هـ/٧٨٠–٨٥٥م) محدّث وفقيه، مؤسس المذهب الحنبلي، وصاحب «المسند»."
+    "ar": "أحمد بن حنبل (164–241هـ/780–855م) محدّث وفقيه، مؤسس المذهب الحنبلي، وصاحب «المسند»."
   },
   "refs": [
     {
@@ -2032,7 +2032,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Zubayr ibn al-Awwam (28 BH – 36 AH / 594–656 CE) was a Qurayshi Companion, the son of the Prophet's aunt, who took part in the early campaigns.",
-    "ar": "الزبير بن العوام (٢٨ ق.هـ–٣٦هـ/٥٩٤–٦٥٦م) صحابي من قريش، وابن عمة النبي، شهد الغزوات والوقائع في صدر الإسلام."
+    "ar": "الزبير بن العوام (28 ق.هـ–36هـ/594–656م) صحابي من قريش، وابن عمة النبي، شهد الغزوات والوقائع في صدر الإسلام."
   },
   "refs": [
     {
@@ -2054,7 +2054,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zayd ibn Haritha (d. 8 AH / 629 CE) was a Companion close to the Prophet and a commander, killed at the battle of Mu'tah.",
-    "ar": "زيد بن حارثة (ت ٨هـ/٦٢٩م) صحابي من المقرّبين إلى النبي وقائد، قُتل في غزوة مؤتة."
+    "ar": "زيد بن حارثة (ت 8هـ/629م) صحابي من المقرّبين إلى النبي وقائد، قُتل في غزوة مؤتة."
   },
   "refs": [
     {
@@ -2076,7 +2076,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abd al-Rahman ibn Awf (d. 32 AH / 652 CE) was a Qurayshi Companion and merchant, among the early Muslims, and a member of the council that chose Uthman ibn Affan.",
-    "ar": "عبد الرحمن بن عوف (ت ٣٢هـ/٦٥٢م) صحابي وتاجر من قريش، من أوائل المسلمين، وعضو الشورى التي اختارت عثمان بن عفان."
+    "ar": "عبد الرحمن بن عوف (ت 32هـ/652م) صحابي وتاجر من قريش، من أوائل المسلمين، وعضو الشورى التي اختارت عثمان بن عفان."
   },
   "refs": [
     {
@@ -2098,7 +2098,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Rawahah (d. 8 AH / 629 CE) was an Ansari Companion and poet, one of the commanders at Mu'tah, where he was killed.",
-    "ar": "عبد الله بن رواحة (ت ٨هـ/٦٢٩م) صحابي أنصاري وشاعر، من قادة مؤتة، وقُتل فيها."
+    "ar": "عبد الله بن رواحة (ت 8هـ/629م) صحابي أنصاري وشاعر، من قادة مؤتة، وقُتل فيها."
   },
   "refs": [
     {
@@ -2120,7 +2120,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Uqbah ibn Nafi (d. 63 AH / 683 CE) was a commander of the conquest of North Africa who founded Kairouan and served twice as governor of Ifriqiya.",
-    "ar": "عقبة بن نافع الفهري (ت ٦٣هـ / ٦٨٣م) قائد فتح إفريقية ومؤسس القيروان، وولي إفريقية مرتين، ويُلقّب بفاتح إفريقية."
+    "ar": "عقبة بن نافع الفهري (ت 63هـ / 683م) قائد فتح إفريقية ومؤسس القيروان، وولي إفريقية مرتين، ويُلقّب بفاتح إفريقية."
   },
   "refs": [
     {
@@ -2142,7 +2142,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ibn Qayyim al-Jawziyya, Muhammad ibn Abi Bakr (691–751 AH / 1292–1350 CE), was a Hanbali jurist who wrote on jurisprudence, Quranic exegesis and ethics.",
-    "ar": "ابن قيم الجوزية، محمد بن أبي بكر (٦٩١–٧٥١هـ/١٢٩٢–١٣٥٠م)، فقيه حنبلي كتب في الفقه والتفسير والسلوك."
+    "ar": "ابن قيم الجوزية، محمد بن أبي بكر (691–751هـ/1292–1350م)، فقيه حنبلي كتب في الفقه والتفسير والسلوك."
   },
   "refs": [
     {
@@ -2164,7 +2164,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ahmad ibn Majid (c. 836–906 AH / 1432–1500 CE) was a navigator and geographer from Julfar, known for works on navigation in the Indian Ocean.",
-    "ar": "أحمد بن ماجد (نحو ٨٣٦–٩٠٦هـ/١٤٣٢–١٥٠٠م) ملّاح وجغرافي من جلفار، اشتهر بمؤلفاته في الملاحة في المحيط الهندي."
+    "ar": "أحمد بن ماجد (نحو 836–906هـ/1432–1500م) ملّاح وجغرافي من جلفار، اشتهر بمؤلفاته في الملاحة في المحيط الهندي."
   },
   "refs": [
     {
@@ -2186,7 +2186,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Usama ibn Zayd (d. c. 54 AH / 674 CE) was a Companion and the son of Zayd ibn Haritha; the Prophet appointed him to lead an army near the end of his life.",
-    "ar": "أسامة بن زيد (ت نحو ٥٤هـ/٦٧٤م) صحابي وابن زيد بن حارثة، أمّره النبي على جيش في آخر حياته."
+    "ar": "أسامة بن زيد (ت نحو 54هـ/674م) صحابي وابن زيد بن حارثة، أمّره النبي على جيش في آخر حياته."
   },
   "refs": [
     {
@@ -2208,7 +2208,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Khalil ibn Ahmad (c. 100–175 AH / 718–791 CE), from the Azd of Oman, was a linguist who set out Arabic prosody and is credited with the lexicon Kitab al-Ayn.",
-    "ar": "الخليل بن أحمد (نحو ١٠٠–١٧٥هـ/٧١٨–٧٩١م) من أزد عُمان، لغوي وضع علم العَروض، ويُنسب إليه معجم «العين»."
+    "ar": "الخليل بن أحمد (نحو 100–175هـ/718–791م) من أزد عُمان، لغوي وضع علم العَروض، ويُنسب إليه معجم «العين»."
   },
   "refs": [
     {
@@ -2230,7 +2230,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Izz al-Din ibn Abd al-Salam (577–660 AH / 1181–1262 CE) was a Shafi'i jurist and theologian who wrote on jurisprudence and the purposes of the law.",
-    "ar": "العز بن عبد السلام (٥٧٧–٦٦٠هـ/١١٨١–١٢٦٢م) فقيه شافعي وأصولي، له مؤلفات في الفقه ومقاصد الشريعة."
+    "ar": "العز بن عبد السلام (577–660هـ/1181–1262م) فقيه شافعي وأصولي، له مؤلفات في الفقه ومقاصد الشريعة."
   },
   "refs": [
     {
@@ -2252,7 +2252,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Muhallab ibn Abi Sufra (c. 42–82 AH / 632–702 CE) was a commander who campaigned in Persia, Sistan and Khurasan, and held command there.",
-    "ar": "المهلب بن أبي صفرة (نحو ٤٢–٨٢هـ/٦٣٢–٧٠٢م) قائد حملات في فارس وسجستان وخراسان، وتولّى قيادة فيها."
+    "ar": "المهلب بن أبي صفرة (نحو 42–82هـ/632–702م) قائد حملات في فارس وسجستان وخراسان، وتولّى قيادة فيها."
   },
   "refs": [
     {
@@ -2296,7 +2296,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Anas ibn Malik (c. 10–93 AH / 612–712 CE) was an Ansari Companion who served the Prophet, transmitted many hadith, and later lived in Basra.",
-    "ar": "أنس بن مالك (نحو ١٠–٩٣هـ/٦١٢–٧١٢م) صحابي أنصاري خدم النبي وروى عنه كثيراً، وأقام في البصرة."
+    "ar": "أنس بن مالك (نحو 10–93هـ/612–712م) صحابي أنصاري خدم النبي وروى عنه كثيراً، وأقام في البصرة."
   },
   "refs": [
     {
@@ -2621,7 +2621,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Tufayl ibn al-Harith ibn al-Muttalib was a Companion. He and his brother al-Husayn were born in the same year, and he died in 31 AH, followed by his brother four months later.",
-    "ar": "الطفيل بن الحارث بن المطلب صحابي، وهو وأخوه الحصين في عام واحد، وتوفي سنة ٣١هـ، ثم تلاه أخوه بعده بأربعة أشهر."
+    "ar": "الطفيل بن الحارث بن المطلب صحابي، وهو وأخوه الحصين في عام واحد، وتوفي سنة 31هـ، ثم تلاه أخوه بعده بأربعة أشهر."
   },
   "refs": [
     {
@@ -3293,7 +3293,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Harithah ibn Suraqah (d. 2 AH) was a Companion of the Banu Adi ibn al-Najjar of the Khazraj. The Prophet joined him in brotherhood with al-Sa'ib ibn Uthman ibn Maz'un. He fought at Badr and was killed there — the first of the Ansar to fall — struck in the throat by an arrow from Habban ibn al-Arqah while he was drinking at the cistern.",
-    "ar": "حارثة بن سراقة (المتوفى سنة ٢هـ)، صحابي من بني عدي بن النجار من الخزرج. أسلم، وآخى النبي صلى الله عليه وسلم بينه وبين السائب بن عثمان بن مظعون، وشهد بدراً وقُتل فيها، وكان أول قتلى الأنصار في المعركة؛ قتله حبّان بن العرقة بسهم أصاب حنجرته وهو يشرب من الحوض."
+    "ar": "حارثة بن سراقة (المتوفى سنة 2هـ)، صحابي من بني عدي بن النجار من الخزرج. أسلم، وآخى النبي صلى الله عليه وسلم بينه وبين السائب بن عثمان بن مظعون، وشهد بدراً وقُتل فيها، وكان أول قتلى الأنصار في المعركة؛ قتله حبّان بن العرقة بسهم أصاب حنجرته وهو يشرب من الحوض."
   },
   "refs": [
     {
@@ -3469,7 +3469,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Yazid al-Rabi' ibn Khuthaym al-Thawri al-Tamimi al-Kufi (10 BH – 65 AH) was a Successor of Kufa, among the great Successors and transmitters of hadith. He was born in the pre-Islamic period and lived into the Prophet's time without seeing him. Al-Ijli declared him trustworthy, and al-Dhahabi counted him among the masters of the Successors.",
-    "ar": "أبو يزيد الربيع بن خثيم بن عائذ بن عبد الله الثوري التميمي الكوفي (١٠ ق هـ – ٦٥هـ)، تابعي من أهل الكوفة، من كبار التابعين ورواة الحديث. وُلد في الجاهلية وأدرك زمن النبي صلى الله عليه وسلم ولم يره. وثّقه أبو الحسن العجلي، وعدّه الذهبي من سادة التابعين."
+    "ar": "أبو يزيد الربيع بن خثيم بن عائذ بن عبد الله الثوري التميمي الكوفي (10 ق هـ – 65هـ)، تابعي من أهل الكوفة، من كبار التابعين ورواة الحديث. وُلد في الجاهلية وأدرك زمن النبي صلى الله عليه وسلم ولم يره. وثّقه أبو الحسن العجلي، وعدّه الذهبي من سادة التابعين."
   },
   "refs": [
     {
@@ -4063,7 +4063,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Bistam Shu'bah ibn al-Hajjaj al-Ataki al-Azdi al-Basri (85–160 AH) was a Successor, the scholar and shaykh of the people of Basra. Of Wasit by origin, he settled in Basra young and died there. He saw the Companion Anas ibn Malik, and heard from four hundred of the Successors.",
-    "ar": "أبو بسطام شعبة بن الحجاج بن الورد العتكي الأزدي البصري (٨٥–١٦٠هـ)، من التابعين، عالم أهل البصرة وشيخها، واسطي الأصل سكن البصرة منذ الصغر وفيها توفي. رأى من الصحابة أنس بن مالك، وسمع من أربعمئة من التابعين."
+    "ar": "أبو بسطام شعبة بن الحجاج بن الورد العتكي الأزدي البصري (85–160هـ)، من التابعين، عالم أهل البصرة وشيخها، واسطي الأصل سكن البصرة منذ الصغر وفيها توفي. رأى من الصحابة أنس بن مالك، وسمع من أربعمئة من التابعين."
   },
   "refs": [
     {
@@ -4702,7 +4702,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Hafsa bint Umar ibn al-Khattab (18 BH – 41 AH / 605–661 CE; some sources give 45 AH) was the fourth wife of the Prophet Muhammad, a Mother of the Believers, and the daughter of the second caliph, Umar ibn al-Khattab.",
-    "ar": "حَفْصَة بنت عُمر بن الخطاب العَدَويَّة القُرَشيَّة (١٨ ق.هـ–٤١هـ / ٦٠٥–٦٦١م، وقيل ٤٥هـ) رابع زوجات النبي محمد، ومن أمهات المؤمنين، وابنة الخليفة الثاني عمر بن الخطاب."
+    "ar": "حَفْصَة بنت عُمر بن الخطاب العَدَويَّة القُرَشيَّة (18 ق.هـ–41هـ / 605–661م، وقيل 45هـ) رابع زوجات النبي محمد، ومن أمهات المؤمنين، وابنة الخليفة الثاني عمر بن الخطاب."
   },
   "refs": [
     {
@@ -4746,7 +4746,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Umayr Mas'ud ibn Rabi'ah al-Qari (d. 30 AH) was a Companion of Badr and one of the earliest Muslims. He migrated to Yathrib and took part in all of the Prophet's campaigns.",
-    "ar": "أبو عمير مسعود بن ربيعة القاري (المتوفى سنة ٣٠هـ)، صحابي بدري من السابقين إلى الإسلام، هاجر إلى يثرب، وشارك مع النبي صلى الله عليه وسلم في غزواته كلها."
+    "ar": "أبو عمير مسعود بن ربيعة القاري (المتوفى سنة 30هـ)، صحابي بدري من السابقين إلى الإسلام، هاجر إلى يثرب، وشارك مع النبي صلى الله عليه وسلم في غزواته كلها."
   },
   "refs": [
     {
@@ -4988,7 +4988,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Bara' ibn Malik al-Ansari (d. 20 AH) was a Companion, the brother of Anas ibn Malik by both parents. He fought in several of the Prophet's campaigns and in the conquests of Iraq and Persia, and was killed at the conquest of Tustar.",
-    "ar": "البراء بن مالك الأنصاري (المتوفى سنة ٢٠هـ)، صحابي، أخو أنس بن مالك لأبيه وأمه. شهد عدداً من غزوات النبي صلى الله عليه وسلم وفتوح العراق وفارس، واستشهد في فتح تُستَر."
+    "ar": "البراء بن مالك الأنصاري (المتوفى سنة 20هـ)، صحابي، أخو أنس بن مالك لأبيه وأمه. شهد عدداً من غزوات النبي صلى الله عليه وسلم وفتوح العراق وفارس، واستشهد في فتح تُستَر."
   },
   "refs": [
     {
@@ -5076,7 +5076,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Muhammad Abdullah ibn al-Muqaffa' (106–142 AH) was a Persian thinker, born Zoroastrian and converted to Islam. He lived through both the Umayyad and Abbasid caliphates and translated from Pahlavi into Arabic; among his translated works are al-Adab al-Saghir and al-Adab al-Kabir.",
-    "ar": "أبو محمد عبد الله بن المقفع (١٠٦–١٤٢هـ)، مفكّر فارسي وُلد مجوسياً ثم أسلم، عاصر الخلافتين الأموية والعباسية، ونقل من البهلوية إلى العربية. ومن كتبه المنقولة «الأدب الصغير» و«الأدب الكبير»."
+    "ar": "أبو محمد عبد الله بن المقفع (106–142هـ)، مفكّر فارسي وُلد مجوسياً ثم أسلم، عاصر الخلافتين الأموية والعباسية، ونقل من البهلوية إلى العربية. ومن كتبه المنقولة «الأدب الصغير» و«الأدب الكبير»."
   },
   "refs": [
     {
@@ -5432,11 +5432,11 @@ window.STREETS = [
   },
   "story": {
     "en": "Sultan Mohammed bin Huwaidin Al Ketbi was from Al Dhaid in the Emirate of Sharjah and held the rank of staff colonel. His funeral in Al Dhaid was reported in the local press on 14 December 2015. The street carries the shortened form of his name.",
-    "ar": "سلطان محمد بن هويدن الكتبي، من مدينة الذيد في إمارة الشارقة، وكان برتبة عقيد ركن. نُشر خبر تشييعه في الذيد في الصحافة المحلية في ١٤ ديسمبر ٢٠١٥. ويحمل الشارع الصيغة المختصرة من اسمه."
+    "ar": "سلطان محمد بن هويدن الكتبي، من مدينة الذيد في إمارة الشارقة، وكان برتبة عقيد ركن. نُشر خبر تشييعه في الذيد في الصحافة المحلية في 14 ديسمبر 2015. ويحمل الشارع الصيغة المختصرة من اسمه."
   },
   "refs": [
     {
-      "label": "الإمارات اليوم — ١٤ ديسمبر ٢٠١٥",
+      "label": "الإمارات اليوم — 14 ديسمبر 2015",
       "url": "https://www.emaratalyoum.com/local-section/other/2015-12-14-1.849887"
     }
   ]
@@ -5613,7 +5613,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Majidi ibn Zahir (1781–1871) was an Emirati Nabati poet from Ras al-Khaimah who worked as a pearl trader and diver.",
-    "ar": "الماجدي ابن ظاهر (١٧٨١–١٨٧١م) شاعر نبطي إماراتي من رأس الخيمة، عمل في تجارة اللؤلؤ والغوص عليه."
+    "ar": "الماجدي ابن ظاهر (1781–1871م) شاعر نبطي إماراتي من رأس الخيمة، عمل في تجارة اللؤلؤ والغوص عليه."
   },
   "refs": [
     {
@@ -6412,7 +6412,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Anis ibn Qatada ibn Khaythama, of the Banu Ubayd ibn Zayd of the Aws, was a Companion who fought at Badr and was killed at Uhud in 625.",
-    "ar": "أنيس بن قتادة بن خيثمة، من بني عبيد بن زيد من الأوس، صحابي شهد بدراً، وقُتل يوم أحد سنة ٣هـ."
+    "ar": "أنيس بن قتادة بن خيثمة، من بني عبيد بن زيد من الأوس، صحابي شهد بدراً، وقُتل يوم أحد سنة 3هـ."
   },
   "refs": [
     {
@@ -7161,7 +7161,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Khabbab ibn al-Aratt (d. 37 AH / 657 CE) was among the earliest Muslims, tortured in Mecca for his faith, and later fought at Badr. He died in Kufa.",
-    "ar": "خبّاب بن الأرت (ت ٣٧هـ/٦٥٧م) من السابقين إلى الإسلام، عُذّب في مكة، وشهد غزوة بدر، وتوفي بالكوفة."
+    "ar": "خبّاب بن الأرت (ت 37هـ/657م) من السابقين إلى الإسلام، عُذّب في مكة، وشهد غزوة بدر، وتوفي بالكوفة."
   },
   "refs": [
     {
@@ -7183,7 +7183,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zuhayr ibn Abi Sulma (d. c. 609 CE) was a pre-Islamic Arab poet, author of one of the Mu'allaqat odes.",
-    "ar": "زهير بن أبي سلمى (ت نحو ٦٠٩م) شاعر جاهلي، وله معلّقة من المعلقات العشر."
+    "ar": "زهير بن أبي سلمى (ت نحو 609م) شاعر جاهلي، وله معلّقة من المعلقات العشر."
   },
   "refs": [
     {
@@ -7205,7 +7205,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Khalid ibn Yazid (d. 85 AH / 704 CE) was an Umayyad prince, a poet, and a patron of the sciences and of alchemy.",
-    "ar": "خالد بن يزيد بن معاوية (ت ٨٥هـ/٧٠٤م) أمير أموي وشاعر، عُرف باهتمامه بالعلوم والكيمياء."
+    "ar": "خالد بن يزيد بن معاوية (ت 85هـ/704م) أمير أموي وشاعر، عُرف باهتمامه بالعلوم والكيمياء."
   },
   "refs": [
     {
@@ -7249,7 +7249,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salama ibn al-Akwa' (d. 74 AH / 693 CE) was a companion of the Prophet Muhammad, known for his archery and speed.",
-    "ar": "سلمة بن الأكوع (ت ٧٤هـ/٦٩٣م) صحابي من أصحاب النبي محمد، عُرف بالرماية وسرعة العدو."
+    "ar": "سلمة بن الأكوع (ت 74هـ/693م) صحابي من أصحاب النبي محمد، عُرف بالرماية وسرعة العدو."
   },
   "refs": [
     {
@@ -7271,7 +7271,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Shaddad ibn Aws (d. 58 AH / 678 CE) was a companion of the Prophet Muhammad and a narrator of hadith.",
-    "ar": "شداد بن أوس (ت ٥٨هـ/٦٧٨م) صحابي من الأنصار، وروى عن النبي أحاديث في الصحيحين."
+    "ar": "شداد بن أوس (ت 58هـ/678م) صحابي من الأنصار، وروى عن النبي أحاديث في الصحيحين."
   },
   "refs": [
     {
@@ -7293,7 +7293,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Asim ibn Abi al-Najud (d. 127 AH / 745 CE) was one of the seven canonical reciters of the Quran.",
-    "ar": "عاصم بن أبي النجود (ت ١٢٧هـ/٧٤٥م) أحد القراء السبعة، وإليه تنسب رواية حفص عن عاصم."
+    "ar": "عاصم بن أبي النجود (ت 127هـ/745م) أحد القراء السبعة، وإليه تنسب رواية حفص عن عاصم."
   },
   "refs": [
     {
@@ -7315,7 +7315,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Itab ibn Usayd (d. 13 AH / 634 CE) was appointed by the Prophet as the first governor of Mecca after its conquest.",
-    "ar": "عتاب بن أسيد (ت ١٣هـ/٦٣٤م) ولّاه النبي مكة بعد فتحها، فكان أول أمير عليها في الإسلام."
+    "ar": "عتاب بن أسيد (ت 13هـ/634م) ولّاه النبي مكة بعد فتحها، فكان أول أمير عليها في الإسلام."
   },
   "refs": [
     {
@@ -7337,7 +7337,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Utba ibn Ghazwan (d. 17 AH / 638 CE) was a companion of the Prophet and the founder and first governor of Basra.",
-    "ar": "عتبة بن غزوان (ت ١٧هـ/٦٣٨م) صحابي، اختطّ البصرة وكان أول أمير عليها."
+    "ar": "عتبة بن غزوان (ت 17هـ/638م) صحابي، اختطّ البصرة وكان أول أمير عليها."
   },
   "refs": [
     {
@@ -7359,7 +7359,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Urwa ibn Mas'ud al-Thaqafi (d. 9 AH / 630 CE) was the chief of Thaqif who accepted Islam and was sent to his people.",
-    "ar": "عروة بن مسعود الثقفي (ت ٩هـ/٦٣٠م) سيد ثقيف، أسلم وبعثه النبي إلى قومه."
+    "ar": "عروة بن مسعود الثقفي (ت 9هـ/630م) سيد ثقيف، أسلم وبعثه النبي إلى قومه."
   },
   "refs": [
     {
@@ -7381,7 +7381,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Amir ibn Wathila, known as Abu al-Tufayl (d. c. 110 AH / 718 CE), was the last surviving companion of the Prophet.",
-    "ar": "عامر بن واثلة (أبو الطفيل، ت نحو ١١٠هـ/٧١٨م) آخر من رأى النبي من الصحابة."
+    "ar": "عامر بن واثلة (أبو الطفيل، ت نحو 110هـ/718م) آخر من رأى النبي من الصحابة."
   },
   "refs": [
     {
@@ -7403,7 +7403,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Tulayha ibn Khuwaylid al-Asadi (d. 21 AH / 642 CE) was a tribal chief who accepted Islam and fought in the conquest of Iraq.",
-    "ar": "طليحة بن خويلد الأسدي (ت ٢١هـ/٦٤٢م) زعيم بني أسد، أسلم بعد حروب الردة وشهد فتوح العراق."
+    "ar": "طليحة بن خويلد الأسدي (ت 21هـ/642م) زعيم بني أسد، أسلم بعد حروب الردة وشهد فتوح العراق."
   },
   "refs": [
     {
@@ -7425,7 +7425,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salman ibn Rabi'a al-Bahili (d. 32 AH / 650 CE) was a commander in the early conquests and governor of Armenia.",
-    "ar": "سلمان بن ربيعة الباهلي (ت ٣٢هـ/٦٥٠م) قائد في الفتوحات، ووالي أرمينية."
+    "ar": "سلمان بن ربيعة الباهلي (ت 32هـ/650م) قائد في الفتوحات، ووالي أرمينية."
   },
   "refs": [
     {
@@ -7443,11 +7443,11 @@ window.STREETS = [
   "en": "Shakhbout Bin Sultan Street",
   "meaning": {
     "en": "Ruler of Abu Dhabi, 1928–1966",
-    "ar": "حاكم أبوظبي ١٩٢٨–١٩٦٦"
+    "ar": "حاكم أبوظبي 1928–1966"
   },
   "story": {
     "en": "Shakhbout bin Sultan Al Nahyan (1905–1989) was Ruler of Abu Dhabi from 1928 to 1966.",
-    "ar": "شخبوط بن سلطان آل نهيان (١٩٠٥–١٩٨٩م) حاكم أبوظبي من ١٩٢٨ إلى ١٩٦٦م."
+    "ar": "شخبوط بن سلطان آل نهيان (1905–1989م) حاكم أبوظبي من 1928 إلى 1966م."
   },
   "refs": [
     {
@@ -8251,11 +8251,11 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Asri ibn Ali ibn Ghanim ibn Hamouda Al Dhaheri was of the Al Tuwayyah area of Al Ain. His death in May 2014 was announced, and Sheikh Mohammed bin Rashid Al Maktoum offered condolences to his brothers Ghanim and Faraj and his sons Abdullah and Ahmed. The street carries the shortened form of his name.",
-    "ar": "العصري بن علي بن غانم بن حمودة الظاهري، من منطقة الطوية في مدينة العين. نُعي في مايو ٢٠١٤، وعزّى في وفاته صاحب السمو الشيخ محمد بن راشد آل مكتوم، وأخواه غانم وفرج، وأبناؤه عبد الله وأحمد. ويحمل الشارع الصيغة المختصرة من اسمه."
+    "ar": "العصري بن علي بن غانم بن حمودة الظاهري، من منطقة الطوية في مدينة العين. نُعي في مايو 2014، وعزّى في وفاته صاحب السمو الشيخ محمد بن راشد آل مكتوم، وأخواه غانم وفرج، وأبناؤه عبد الله وأحمد. ويحمل الشارع الصيغة المختصرة من اسمه."
   },
   "refs": [
     {
-      "label": "دائرة التشريفات والضيافة بدبي — ٢١ مايو ٢٠١٤",
+      "label": "دائرة التشريفات والضيافة بدبي — 21 مايو 2014",
       "url": "https://protocol.dubai.ae/ar/media-listing/news-events/mohammed-bin-rashid-meets-aja-board-members/"
     }
   ]
@@ -8583,7 +8583,7 @@ window.STREETS = [
   },
   "refs": [
     {
-      "label": "البيان — ٩ أكتوبر ٢٠١٥",
+      "label": "البيان — 9 أكتوبر 2015",
       "url": "https://www.albayan.ae/one-world/arabs/2015-10-09-1.2477268"
     }
   ]
@@ -8975,11 +8975,11 @@ window.STREETS = [
   },
   "story": {
     "en": "Faraj Ali bin Hamouda Al Dhaheri is among the country's camel owners and breeders. He took second place in the Al Bayraq Award in 2019, and spoke to the press of the younger generation's growing interest in the sports of the purebred camels. The street carries the shortened form of his name, as does the street of his relative al-Asri.",
-    "ar": "فرج علي بن حمودة الظاهري، من مربّي الإبل وملاكها في الدولة. حلّ ثانياً في جائزة البيرق سنة ٢٠١٩، وتحدّث في الصحافة عن إقبال الجيل الواعد على رياضة الأصايل. ويحمل الشارع الصيغة المختصرة من اسمه، كما يحملها شارع قريبه العصري."
+    "ar": "فرج علي بن حمودة الظاهري، من مربّي الإبل وملاكها في الدولة. حلّ ثانياً في جائزة البيرق سنة 2019، وتحدّث في الصحافة عن إقبال الجيل الواعد على رياضة الأصايل. ويحمل الشارع الصيغة المختصرة من اسمه، كما يحملها شارع قريبه العصري."
   },
   "refs": [
     {
-      "label": "البيان — ٢٩ مايو ٢٠١٩",
+      "label": "البيان — 29 مايو 2019",
       "url": "https://www.albayan.ae/sports/all-games/2019-05-29-1.3571913"
     }
   ]
@@ -9286,11 +9286,11 @@ window.STREETS = [
   },
   "story": {
     "en": "Hamad Bu Qit'ah Al Dhaheri was an Abu Dhabi man whose death in 2014 was recorded in the local press, and Sheikh Hamdan bin Zayed Al Nahyan offered condolences in it. No further biography was published with the report.",
-    "ar": "حمد بو قطعة الظاهري، من رجال أبوظبي. نُعي في الصحافة المحلية سنة ٢٠١٤، وعزّى في وفاته الشيخ حمدان بن زايد آل نهيان. ولم يُنشر مع الخبر أكثر من ذلك."
+    "ar": "حمد بو قطعة الظاهري، من رجال أبوظبي. نُعي في الصحافة المحلية سنة 2014، وعزّى في وفاته الشيخ حمدان بن زايد آل نهيان. ولم يُنشر مع الخبر أكثر من ذلك."
   },
   "refs": [
     {
-      "label": "الاتحاد — ٢٠١٤",
+      "label": "الاتحاد — 2014",
       "url": "https://www.aletihad.ae/article/65547/2014"
     }
   ]
@@ -9342,11 +9342,11 @@ window.STREETS = [
   },
   "story": {
     "en": "Hamouda bin Ali Al Dhaheri was a late Abu Dhabi figure of the founding generation, described in the press as the companion of Abdullah Omran Taryam in his work for the country. In June 2015 Abu Dhabi's Municipal Affairs Department named this main street on Al Maryah Island after him, under the «My Address» project. His son Ali bin Hamouda is vice-chairman of Ibn Hamouda Group.",
-    "ar": "حمودة بن علي الظاهري، من رجالات أبوظبي في جيل التأسيس، ووصفته الصحافة بأنه رفيق درب عبد الله عمران تريم في عملهما للوطن. وفي يونيو ٢٠١٥ أطلقت دائرة الشؤون البلدية في أبوظبي اسمه على هذا الشارع الرئيسي في جزيرة المارية، ضمن مشروع «عنواني». وابنه علي بن حمودة نائب رئيس مجموعة ابن حمودة."
+    "ar": "حمودة بن علي الظاهري، من رجالات أبوظبي في جيل التأسيس، ووصفته الصحافة بأنه رفيق درب عبد الله عمران تريم في عملهما للوطن. وفي يونيو 2015 أطلقت دائرة الشؤون البلدية في أبوظبي اسمه على هذا الشارع الرئيسي في جزيرة المارية، ضمن مشروع «عنواني». وابنه علي بن حمودة نائب رئيس مجموعة ابن حمودة."
   },
   "refs": [
     {
-      "label": "البيان — ١٧ يونيو ٢٠١٥",
+      "label": "البيان — 17 يونيو 2015",
       "url": "https://www.albayan.ae/across-the-uae/news-and-reports/2015-06-17-1.2397730"
     }
   ]
@@ -13300,15 +13300,15 @@ window.STREETS = [
   },
   "story": {
     "en": "Rashid Nasser Saif Hassan Al Zaabi is one of the country's fallen whose name was published in the local press in 2015. الاسم الكامل في القائمة، والشارع يختصره إلى «ناصر الزعابي»; the card records the name and claims nothing further.",
-    "ar": "راشد ناصر سيف حسن الزعابي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "ar": "راشد ناصر سيف حسن الزعابي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
   "refs": [
     {
-      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "label": "قائمة الشهداء (2015) — الخليج تايمز",
       "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
     },
     {
-      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "label": "قائمة الشهداء (2015) — 24.ae",
       "url": "https://24.ae/article/186420/"
     }
   ]
@@ -13326,15 +13326,15 @@ window.STREETS = [
   },
   "story": {
     "en": "Saif Khalaf Saif Al Zaabi was a first lieutenant and pilot from Kalba in the Emirate of Sharjah. He died on 17 December 2014 during a military exercise; prayers were held for him at Al Buhairah mosque in Kalba and he was buried in the Khor Kalba cemetery on 19 December. The fellow pilot who died with him was First Lieutenant Abdullah Ali Al Hammoudi. The sign spells the second name «Hulf» where the newspaper has «Khalaf».",
-    "ar": "سيف خلف سيف الزعابي، ملازم أول طيار من كلباء في إمارة الشارقة. تُوفي في ١٧ ديسمبر ٢٠١٤ أثناء تمرين عسكري، وصُلّي عليه في مسجد البحيرة بكلباء ودُفن في مقبرة خور كلباء في ١٩ ديسمبر. وكان معه في الحادث زميله الملازم أول الطيار عبد الله علي الحمودي. ويأتي الاسم على اللوحة «سيف حلف» بالحاء، وفي الصحيفة «سيف خلف» بالخاء."
+    "ar": "سيف خلف سيف الزعابي، ملازم أول طيار من كلباء في إمارة الشارقة. تُوفي في 17 ديسمبر 2014 أثناء تمرين عسكري، وصُلّي عليه في مسجد البحيرة بكلباء ودُفن في مقبرة خور كلباء في 19 ديسمبر. وكان معه في الحادث زميله الملازم أول الطيار عبد الله علي الحمودي. ويأتي الاسم على اللوحة «سيف حلف» بالحاء، وفي الصحيفة «سيف خلف» بالخاء."
   },
   "refs": [
     {
-      "label": "البيان — ملحق الشهداء، ١٧ نوفمبر ٢٠١٥",
+      "label": "البيان — ملحق الشهداء، 17 نوفمبر 2015",
       "url": "https://www.albayan.ae/supplements/restoring-hope/martyrs/2015-11-17-1.2507328"
     },
     {
-      "label": "البيان — تشييع الجنازة، ١٩ ديسمبر ٢٠١٤",
+      "label": "البيان — تشييع الجنازة، 19 ديسمبر 2014",
       "url": "https://www.albayan.ae/across-the-uae/news-and-reports/2014-12-19-1.2269817"
     }
   ]
@@ -13374,7 +13374,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Rashid bin Tannaf al-Nuaimi (1910–2000) was an Emirati poet, one of the pioneers of Nabati poetry in the UAE.",
-    "ar": "راشد بن طناف النعيمي (١٩١٠–٢٠٠٠م) شاعر إماراتي، من أبرز رواد الشعر النبطي في الدولة."
+    "ar": "راشد بن طناف النعيمي (1910–2000م) شاعر إماراتي، من أبرز رواد الشعر النبطي في الدولة."
   },
   "refs": [
     {
@@ -13396,7 +13396,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ali bin Rahma Al Shamsi (1930–2006) was an Emirati poet from Sharjah, among the veterans of Nabati poetry.",
-    "ar": "علي بن رحمة بن سالم الشامسي (١٩٣٠–٢٠٠٦م) شاعر إماراتي من الشارقة، من المخضرمين في الشعر النبطي."
+    "ar": "علي بن رحمة بن سالم الشامسي (1930–2006م) شاعر إماراتي من الشارقة، من المخضرمين في الشعر النبطي."
   },
   "refs": [
     {
@@ -13418,7 +13418,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Mohammed bin Khalifa Al Suwaidi (b. 1945) is an Emirati businessman and chairman of the Bin Yousef group.",
-    "ar": "محمد بن خليفة بن يوسف السويدي (وُلد ١٩٤٥م) رجل أعمال إماراتي، ورئيس مجلس إدارة مجموعة بن يوسف."
+    "ar": "محمد بن خليفة بن يوسف السويدي (وُلد 1945م) رجل أعمال إماراتي، ورئيس مجلس إدارة مجموعة بن يوسف."
   },
   "refs": [
     {
@@ -13440,7 +13440,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Latifa bint Hamdan Al Nahyan (1919–1983) was a daughter of Sheikh Hamdan bin Zayed, Ruler of Abu Dhabi.",
-    "ar": "لطيفة بنت حمدان بن زايد آل نهيان (١٩١٩–١٩٨٣م) ابنة الشيخ حمدان بن زايد، حاكم أبوظبي."
+    "ar": "لطيفة بنت حمدان بن زايد آل نهيان (1919–1983م) ابنة الشيخ حمدان بن زايد، حاكم أبوظبي."
   },
   "refs": [
     {
@@ -13462,7 +13462,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sheikh Khalid bin Sultan Al Qasimi (1980–2019) was an Emirati fashion designer who founded a fashion house in Sharjah.",
-    "ar": "الشيخ خالد بن سلطان القاسمي (١٩٨٠–٢٠١٩م) مصمم أزياء إماراتي، وأسس دار أزياء في الشارقة."
+    "ar": "الشيخ خالد بن سلطان القاسمي (1980–2019م) مصمم أزياء إماراتي، وأسس دار أزياء في الشارقة."
   },
   "refs": [
     {
@@ -13484,7 +13484,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sheikha Maitha bint Mohammed Al Maktoum (b. 1980) is an Emirati athlete in karate and taekwondo, and the first Emirati woman to compete at the Olympic Games.",
-    "ar": "الشيخة ميثاء بنت محمد بن راشد آل مكتوم (وُلدت ١٩٨٠م) رياضية إماراتية في الكاراتيه والتايكوندو، وأول امرأة إماراتية تشارك في الألعاب الأولمبية."
+    "ar": "الشيخة ميثاء بنت محمد بن راشد آل مكتوم (وُلدت 1980م) رياضية إماراتية في الكاراتيه والتايكوندو، وأول امرأة إماراتية تشارك في الألعاب الأولمبية."
   },
   "refs": [
     {
@@ -13506,7 +13506,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Dhiyab bin Isa Al Nahyan (r. 1761–1793) was the first ruler of Abu Dhabi and the founder of the Al Bu Falah line.",
-    "ar": "ذياب بن عيسى آل نهيان (حكم ١٧٦١–١٧٩٣م) أول حكام أبوظبي، ومؤسس سلالة آل بوفلاح."
+    "ar": "ذياب بن عيسى آل نهيان (حكم 1761–1793م) أول حكام أبوظبي، ومؤسس سلالة آل بوفلاح."
   },
   "refs": [
     {
@@ -13528,7 +13528,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Khalifa bin Shakhbout Al Nahyan (r. 1833–1845) was the fifth ruler of Abu Dhabi, succeeding his brother Tahnoun.",
-    "ar": "خليفة بن شخبوط بن ذياب آل نهيان (حكم ١٨٣٣–١٨٤٥م) خامس حكام أبوظبي، خلف أخاه طحنون."
+    "ar": "خليفة بن شخبوط بن ذياب آل نهيان (حكم 1833–1845م) خامس حكام أبوظبي، خلف أخاه طحنون."
   },
   "refs": [
     {
@@ -13641,7 +13641,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Yazid al-Khatmi was a Companion of the Ansar who gave the pledge at Hudaybiyyah at seventeen, and later governed Kufa.",
-    "ar": "عبد الله بن يزيد الخطمي صحابي من الأنصار، بايع بيعة الرضوان وله سبع عشرة سنة، وولي إمرة الكوفة، وتوفي قبل سنة ٧٠هـ."
+    "ar": "عبد الله بن يزيد الخطمي صحابي من الأنصار، بايع بيعة الرضوان وله سبع عشرة سنة، وولي إمرة الكوفة، وتوفي قبل سنة 70هـ."
   },
   "refs": [
     {
@@ -13731,15 +13731,15 @@ window.STREETS = [
   },
   "story": {
     "en": "Ahmed Khamis Mallulah Idrees Al Hammadi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
-    "ar": "أحمد خميس مولّلة إدريس الحمادي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "ar": "أحمد خميس مولّلة إدريس الحمادي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
   "refs": [
     {
-      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "label": "قائمة الشهداء (2015) — الخليج تايمز",
       "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
     },
     {
-      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "label": "قائمة الشهداء (2015) — 24.ae",
       "url": "https://24.ae/article/186420/"
     }
   ]
@@ -14714,7 +14714,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zayd ibn Khalid al-Juhani (d. 78 AH) was a Companion who was present at Hudaybiyyah, carried the banner of Juhayna at the conquest of Mecca, and transmitted eighty-one hadith.",
-    "ar": "زيد بن خالد الجهني (ت ٧٨هـ) صحابي، شهد الحديبية، وكان معه لواء جهينة يوم الفتح، وله ٨١ حديثاً."
+    "ar": "زيد بن خالد الجهني (ت 78هـ) صحابي، شهد الحديبية، وكان معه لواء جهينة يوم الفتح، وله 81 حديثاً."
   },
   "refs": [
     {
@@ -15127,15 +15127,15 @@ window.STREETS = [
   },
   "story": {
     "en": "Saif Essa Obaid Al Naqbi was from Khor Fakkan in the Emirate of Sharjah. Prayers were held for him after the afternoon prayer at the Al Lu'lu'iyah Grand Mosque in Khor Fakkan on 13 September 2015, and the town turned out for the funeral.",
-    "ar": "سيف عيسى عبيد النقبي، من خورفكان في إمارة الشارقة. صُلّي عليه بعد صلاة العصر في مسجد اللؤلؤية الكبير بخورفكان في ١٣ سبتمبر ٢٠١٥، وشيّعه آلاف من أهالي المدينة."
+    "ar": "سيف عيسى عبيد النقبي، من خورفكان في إمارة الشارقة. صُلّي عليه بعد صلاة العصر في مسجد اللؤلؤية الكبير بخورفكان في 13 سبتمبر 2015، وشيّعه آلاف من أهالي المدينة."
   },
   "refs": [
     {
-      "label": "الاتحاد — ١٣ سبتمبر ٢٠١٥",
+      "label": "الاتحاد — 13 سبتمبر 2015",
       "url": "https://www.aletihad.ae/article/86623/2015"
     },
     {
-      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "label": "قائمة الشهداء (2015) — الخليج تايمز",
       "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
     }
   ]
@@ -15187,15 +15187,15 @@ window.STREETS = [
   },
   "story": {
     "en": "Hassan Mohammed Hassan Mohammed Al Tunaiji is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
-    "ar": "حسن محمد حسن محمد الطنيجي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "ar": "حسن محمد حسن محمد الطنيجي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
   "refs": [
     {
-      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "label": "قائمة الشهداء (2015) — الخليج تايمز",
       "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
     },
     {
-      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "label": "قائمة الشهداء (2015) — 24.ae",
       "url": "https://24.ae/article/186420/"
     }
   ]
@@ -15264,15 +15264,15 @@ window.STREETS = [
   },
   "story": {
     "en": "Rashid Mohammed Abbas Saleh Al Balooshi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
-    "ar": "راشد محمد عباس صالح البلوشي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة ٢٠١٥. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "ar": "راشد محمد عباس صالح البلوشي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
   },
   "refs": [
     {
-      "label": "قائمة الشهداء (٢٠١٥) — الخليج تايمز",
+      "label": "قائمة الشهداء (2015) — الخليج تايمز",
       "url": "https://www.khaleejtimes.com/uae/remembering-the-sacrifice-list-of-uae-martyrs-in-operation-restoring-hope"
     },
     {
-      "label": "قائمة الشهداء (٢٠١٥) — 24.ae",
+      "label": "قائمة الشهداء (2015) — 24.ae",
       "url": "https://24.ae/article/186420/"
     }
   ]
@@ -15441,7 +15441,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Abbas ibn Ubada was an Ansari Companion among the first six of the Ansar to accept Islam; he took both pledges of Aqaba, fought at Uhud, and died of his wounds in 3 AH.",
-    "ar": "العباس بن عبادة صحابي من الأنصار، أسلم قبل سائر الأنصار، وشهد بيعتي العقبة وأُحداً، ومات من جراحه سنة ٣هـ."
+    "ar": "العباس بن عبادة صحابي من الأنصار، أسلم قبل سائر الأنصار، وشهد بيعتي العقبة وأُحداً، ومات من جراحه سنة 3هـ."
   },
   "refs": [
     {
@@ -15463,7 +15463,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Hazza bin Sultan Al Nahyan (1905–1958) was a brother of Sheikh Shakhbout and Sheikh Zayed, and served as the Ruler's Representative in the Eastern Region.",
-    "ar": "هزاع بن سلطان آل نهيان (١٩٠٥–١٩٥٨م) شقيق الشيخ شخبوط والشيخ زايد، وكان ممثل الحاكم في المنطقة الشرقية."
+    "ar": "هزاع بن سلطان آل نهيان (1905–1958م) شقيق الشيخ شخبوط والشيخ زايد، وكان ممثل الحاكم في المنطقة الشرقية."
   },
   "refs": [
     {
@@ -15672,7 +15672,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Hurayrah (602–679) was a companion of the Prophet Muhammad and the most prolific narrator of hadith.",
-    "ar": "أبو هريرة (٢١ ق.هـ–٥٩هـ / ٦٠٢–٦٧٩م) صحابي، وأكثر رواة الحديث النبوي."
+    "ar": "أبو هريرة (21 ق.هـ–59هـ / 602–679م) صحابي، وأكثر رواة الحديث النبوي."
   },
   "refs": [
     {
@@ -15694,7 +15694,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu al-Darda (d. 32 AH / 652 CE) was an Ansari companion, a Quran reciter and the judge of Damascus.",
-    "ar": "أبو الدرداء الأنصاري (ت ٣٢هـ/٦٥٢م) صحابي وفقيه وقاضٍ دمشق."
+    "ar": "أبو الدرداء الأنصاري (ت 32هـ/652م) صحابي وفقيه وقاضٍ دمشق."
   },
   "refs": [
     {
@@ -15716,7 +15716,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Dharr al-Ghifari (d. 31 AH / 652 CE) was among the earliest to accept Islam, known for his asceticism.",
-    "ar": "أبو ذر الغفاري (ت ٣١هـ/٦٥٢م) من السابقين إلى الإسلام، عُرف بزهده."
+    "ar": "أبو ذر الغفاري (ت 31هـ/652م) من السابقين إلى الإسلام، عُرف بزهده."
   },
   "refs": [
     {
@@ -15738,7 +15738,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Hanifa al-Nu'man (699–767) was a jurist of Kufa and the founder of the Hanafi school of law.",
-    "ar": "أبو حنيفة النعمان (٨٠–١٥٠هـ/٦٩٩–٧٦٧م) فقيه الكوفة وصاحب المذهب الحنفي."
+    "ar": "أبو حنيفة النعمان (80–150هـ/699–767م) فقيه الكوفة وصاحب المذهب الحنفي."
   },
   "refs": [
     {
@@ -15760,7 +15760,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Mutanabbi (915–965) was one of the most celebrated poets of the Arabic language.",
-    "ar": "المتنبي (٣٠٣–٣٥٤هـ/٩١٥–٩٦٥م) من أشهر شعراء العربية."
+    "ar": "المتنبي (303–354هـ/915–965م) من أشهر شعراء العربية."
   },
   "refs": [
     {
@@ -15782,7 +15782,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Jahiz (776–868) was a writer of Basra, author of the Book of Animals.",
-    "ar": "الجاحظ (ت ٢٥٥هـ/٨٦٨م) أديب البصرة، صاحب كتاب الحيوان."
+    "ar": "الجاحظ (ت 255هـ/868م) أديب البصرة، صاحب كتاب الحيوان."
   },
   "refs": [
     {
@@ -15804,7 +15804,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Farazdaq (c. 641–728) was a poet of the Umayyad era, of the Banu Tamim.",
-    "ar": "الفرزدق (ت نحو ١١٠هـ/٧٢٨م) شاعر أموي من بني تميم."
+    "ar": "الفرزدق (ت نحو 110هـ/728م) شاعر أموي من بني تميم."
   },
   "refs": [
     {
@@ -15826,7 +15826,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Jarir (c. 650–728) was an Umayyad-era poet, famous for his exchanges with al-Farazdaq.",
-    "ar": "جرير (ت نحو ١١٠هـ/٧٢٨م) شاعر أموي، عُرف بنقائضه مع الفرزدق."
+    "ar": "جرير (ت نحو 110هـ/728م) شاعر أموي، عُرف بنقائضه مع الفرزدق."
   },
   "refs": [
     {
@@ -15848,7 +15848,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sibawayh (c. 760–796) was a grammarian whose Book is the foundation of Arabic syntax.",
-    "ar": "سيبويه (ت نحو ١٨٠هـ/٧٩٦م) إمام النحاة، وكتابه أصل النحو العربي."
+    "ar": "سيبويه (ت نحو 180هـ/796م) إمام النحاة، وكتابه أصل النحو العربي."
   },
   "refs": [
     {
@@ -15870,7 +15870,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Mu'adh ibn Jabal (d. 18 AH / 639 CE) was a companion sent by the Prophet to teach the people of Yemen.",
-    "ar": "معاذ بن جبل (ت ١٨هـ/٦٣٩م) صحابي، بعثه النبي إلى اليمن معلّماً."
+    "ar": "معاذ بن جبل (ت 18هـ/639م) صحابي، بعثه النبي إلى اليمن معلّماً."
   },
   "refs": [
     {
@@ -15892,7 +15892,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Mu'awiya ibn Abi Sufyan (602–680) was the first caliph of the Umayyad dynasty, ruling from Damascus.",
-    "ar": "معاوية بن أبي سفيان (ت ٦٠هـ/٦٨٠م) أول خلفاء بني أمية، وحكم من دمشق."
+    "ar": "معاوية بن أبي سفيان (ت 60هـ/680م) أول خلفاء بني أمية، وحكم من دمشق."
   },
   "refs": [
     {
@@ -15914,7 +15914,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abd al-Malik ibn Marwan (646–705) was the fifth Umayyad caliph, who ordered the Arabisation of the coinage and administration.",
-    "ar": "عبد الملك بن مروان (٢٦–٨٦هـ/٦٤٦–٧٠٥م) الخليفة الأموي الخامس، وفي عهده عُرِّبت الدواوين والنقود."
+    "ar": "عبد الملك بن مروان (26–86هـ/646–705م) الخليفة الأموي الخامس، وفي عهده عُرِّبت الدواوين والنقود."
   },
   "refs": [
     {
@@ -15936,7 +15936,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Shafi'i (767–820) was a jurist and the founder of the Shafi'i school of law.",
-    "ar": "الشافعي (١٥٠–٢٠٤هـ/٧٦٧–٨٢٠م) فقيه وصاحب المذهب الشافعي."
+    "ar": "الشافعي (150–204هـ/767–820م) فقيه وصاحب المذهب الشافعي."
   },
   "refs": [
     {
@@ -15958,7 +15958,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Muslim ibn al-Hajjaj (821–875) compiled Sahih Muslim, one of the two most authoritative collections of hadith.",
-    "ar": "مسلم بن الحجاج (٢٠٦–٢٦١هـ/٨٢١–٨٧٥م) صاحب صحيح مسلم، أحد أصح كتابين بعد القرآن."
+    "ar": "مسلم بن الحجاج (206–261هـ/821–875م) صاحب صحيح مسلم، أحد أصح كتابين بعد القرآن."
   },
   "refs": [
     {
@@ -15980,7 +15980,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ahmad ibn Hanbal (780–855) was a jurist and the founder of the Hanbali school of law.",
-    "ar": "أحمد بن حنبل (١٦٤–٢٤١هـ/٧٨٠–٨٥٥م) فقيه وصاحب المذهب الحنبلي."
+    "ar": "أحمد بن حنبل (164–241هـ/780–855م) فقيه وصاحب المذهب الحنبلي."
   },
   "refs": [
     {
@@ -16002,7 +16002,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Bukhari (810–870) compiled Sahih al-Bukhari, the most authoritative collection of hadith.",
-    "ar": "البخاري (١٩٤–٢٥٦هـ/٨١٠–٨٧٠م) صاحب صحيح البخاري."
+    "ar": "البخاري (194–256هـ/810–870م) صاحب صحيح البخاري."
   },
   "refs": [
     {
@@ -16024,7 +16024,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Dhahabi (1274–1348) was a historian and hadith scholar of Damascus.",
-    "ar": "الذهبي (٦٧٣–٧٤٨هـ/١٢٧٤–١٣٤٨م) مؤرخ ومحدث دمشقي."
+    "ar": "الذهبي (673–748هـ/1274–1348م) مؤرخ ومحدث دمشقي."
   },
   "refs": [
     {
@@ -16046,7 +16046,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Tabari (839–923) was a historian and Quran commentator, author of the History of the Prophets and Kings.",
-    "ar": "الطبري (٢٢٤–٣١٠هـ/٨٣٩–٩٢٣م) مؤرخ ومفسر، صاحب تاريخ الرسل والملوك."
+    "ar": "الطبري (224–310هـ/839–923م) مؤرخ ومفسر، صاحب تاريخ الرسل والملوك."
   },
   "refs": [
     {
@@ -16068,7 +16068,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ibn Hajar al-Asqalani (1372–1449) was a hadith scholar, author of Fath al-Bari.",
-    "ar": "ابن حجر العسقلاني (٧٧٣–٨٥٢هـ/١٣٧٢–١٤٤٩م) محدّث، صاحب فتح الباري."
+    "ar": "ابن حجر العسقلاني (773–852هـ/1372–1449م) محدّث، صاحب فتح الباري."
   },
   "refs": [
     {
@@ -16090,7 +16090,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Baqillani (950–1013) was a theologian and a leading figure of the Ash'ari school.",
-    "ar": "الباقلاني (ت ٤٠٣هـ/١٠١٣م) متكلم، من أعلام الأشعرية."
+    "ar": "الباقلاني (ت 403هـ/1013م) متكلم، من أعلام الأشعرية."
   },
   "refs": [
     {
@@ -16112,7 +16112,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Daraqutni (918–995) was a hadith scholar and critic of Baghdad.",
-    "ar": "الدارقطني (٣٠٦–٣٨٥هـ/٩١٨–٩٩٥م) محدّث وناقد بغدادي."
+    "ar": "الدارقطني (306–385هـ/918–995م) محدّث وناقد بغدادي."
   },
   "refs": [
     {
@@ -16134,7 +16134,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Idrisi (1100–1165) was a geographer at the Norman court in Sicily, author of the Tabula Rogeriana.",
-    "ar": "الإدريسي (ت ٥٦٠هـ/١١٦٥م) جغرافي في بلاط صقلية، صاحب نزهة المشتاق."
+    "ar": "الإدريسي (ت 560هـ/1165م) جغرافي في بلاط صقلية، صاحب نزهة المشتاق."
   },
   "refs": [
     {
@@ -16156,7 +16156,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Jabarti (1754–1822) was a historian of Egypt who chronicled the French expedition.",
-    "ar": "الجبرتي (١١٦٧–١٢٣٧هـ/١٧٥٤–١٨٢٢م) مؤرخ مصري، أرّخ للحملة الفرنسية."
+    "ar": "الجبرتي (1167–1237هـ/1754–1822م) مؤرخ مصري، أرّخ للحملة الفرنسية."
   },
   "refs": [
     {
@@ -16178,7 +16178,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abd al-Ghani al-Maqdisi (1146–1203) was a hadith scholar of the Hanbali school.",
-    "ar": "عبد الغني المقدسي (٥٤١–٦٠٠هـ/١١٤٦–١٢٠٣م) محدّث حنبلي."
+    "ar": "عبد الغني المقدسي (541–600هـ/1146–1203م) محدّث حنبلي."
   },
   "refs": [
     {
@@ -16224,7 +16224,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Ja'far al-Madani — Yazid ibn al-Qa'qa' al-Makhzumi (born 35 AH) — was among the foremost Tabi'un and one of the ten canonical reciters, and the imam of Medina in both recitation and law.",
-    "ar": "أبو جعفر المدني — يزيد بن القعقاع المخزومي (وُلد سنة ٣٥هـ) — من جِلّة التابعين، وأحد القراء العشرة، وإمام أهل المدينة المنورة في القراءة والفقه."
+    "ar": "أبو جعفر المدني — يزيد بن القعقاع المخزومي (وُلد سنة 35هـ) — من جِلّة التابعين، وأحد القراء العشرة، وإمام أهل المدينة المنورة في القراءة والفقه."
   },
   "refs": [
     {
@@ -16247,7 +16247,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Muhammad ibn Musa al-Khwarizmi (c. 781 – after 847) was a mathematician, astronomer and geographer at the Abbasid court in Baghdad, whose work on algebra gave the subject its name.",
-    "ar": "محمد بن موسى الخوارزمي (نحو ١٦٤هـ/٧٨١م – بعد ٢٣٢هـ/٨٤٧م) عالم رياضيات وفلك وجغرافيا، عمل في بيت الحكمة ببغداد، وله كتاب الجبر والمقابلة الذي منه جاء اسم الجبر."
+    "ar": "محمد بن موسى الخوارزمي (نحو 164هـ/781م – بعد 232هـ/847م) عالم رياضيات وفلك وجغرافيا، عمل في بيت الحكمة ببغداد، وله كتاب الجبر والمقابلة الذي منه جاء اسم الجبر."
   },
   "refs": [
     {
@@ -16860,7 +16860,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Mohammed bin Ammar (1889–1972) was a Tunisian lawyer and judge, born and died in the city of Tunis. He studied at al-Zaytuna, and in February 1918 issued the founding text of Espérance Sportive de Tunis, the first Tunisian Muslim sports club.",
-    "ar": "محمد بن عمار (١٨٨٩–١٩٧٢م)، محامٍ وقاضٍ تونسي، وُلد في مدينة تونس وتوفي فيها. تخرّج في جامعة الزيتونة، وأصدر في فبراير ١٩١٨ أول نص مؤسس لنادي الترجي الرياضي التونسي، أول نادٍ رياضي مسلم في تونس."
+    "ar": "محمد بن عمار (1889–1972م)، محامٍ وقاضٍ تونسي، وُلد في مدينة تونس وتوفي فيها. تخرّج في جامعة الزيتونة، وأصدر في فبراير 1918 أول نص مؤسس لنادي الترجي الرياضي التونسي، أول نادٍ رياضي مسلم في تونس."
   },
   "refs": [
     {
@@ -17212,7 +17212,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Rashid al-Khadar (1956 – 7 January 1998) was a Kuwaiti composer, among the best known in the Gulf and one of those who left a mark on the Gulf song. He set music for Abd al-Karim Abd al-Qadir, Abdullah al-Ruwaished, Nabil Shuail, Nawal al-Kuwaitia, Abd al-Majid Abdallah and others.",
-    "ar": "راشد الخضر (١٩٥٦ – ٧ يناير ١٩٩٨م)، ملحن كويتي، من أشهر الملحنين الخليجيين وأبرز من تركوا بصمة في تاريخ الأغنية الخليجية. لحّن لعبد الكريم عبد القادر وعبد الله الرويشد ونبيل شعيل ونوال الكويتية وعبد المجيد عبد الله وغيرهم."
+    "ar": "راشد الخضر (1956 – 7 يناير 1998م)، ملحن كويتي، من أشهر الملحنين الخليجيين وأبرز من تركوا بصمة في تاريخ الأغنية الخليجية. لحّن لعبد الكريم عبد القادر وعبد الله الرويشد ونبيل شعيل ونوال الكويتية وعبد المجيد عبد الله وغيرهم."
   },
   "refs": [
     {
@@ -17278,7 +17278,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Bakr al-Siddiq (573–634), Abdullah ibn Abi Quhafa, was the first caliph and the Prophet's companion in the migration to Medina.",
-    "ar": "أبو بكر الصديق عبد الله بن أبي قحافة (ت ١٣هـ / ٦٣٤م) أول الخلفاء، ورفيق النبي في الهجرة، وقد ورد نسبه كاملاً في كتب الأنساب."
+    "ar": "أبو بكر الصديق عبد الله بن أبي قحافة (ت 13هـ / 634م) أول الخلفاء، ورفيق النبي في الهجرة، وقد ورد نسبه كاملاً في كتب الأنساب."
   },
   "refs": [
     {
@@ -18718,7 +18718,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Amr ibn al-As (595–684) was a Companion and the eldest son of Amr ibn al-As. He embraced Islam a year before his father, kept a written record of what he heard from the Prophet, and was among the most learned of the Companions.",
-    "ar": "عبد الله بن عمرو بن العاص (٢٧ ق.هـ–٦٥هـ / ٥٩٥–٦٨٤م) صحابي، وهو أكبر أبناء عمرو بن العاص، أسلم قبل أبيه سنة ٧هـ، وكان أحد حفّاظ الصحابة وأكثرهم علماً، وأُذن له في كتابة ما يسمعه من النبي."
+    "ar": "عبد الله بن عمرو بن العاص (27 ق.هـ–65هـ / 595–684م) صحابي، وهو أكبر أبناء عمرو بن العاص، أسلم قبل أبيه سنة 7هـ، وكان أحد حفّاظ الصحابة وأكثرهم علماً، وأُذن له في كتابة ما يسمعه من النبي."
   },
   "refs": [
     {
@@ -18832,7 +18832,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Anis (d. 54 AH) was a Companion of the Quda'a, known as one of the brave leaders of Medina and an ally of the Banu Salama of the Ansar.",
-    "ar": "عبد الله بن أنيس (ت ٥٤هـ) صحابي من قضاعة، ويُعرف بالجهني، من القادة الشجعان من أهل المدينة، وحليف بني سلمة من الأنصار."
+    "ar": "عبد الله بن أنيس (ت 54هـ) صحابي من قضاعة، ويُعرف بالجهني، من القادة الشجعان من أهل المدينة، وحليف بني سلمة من الأنصار."
   },
   "refs": [
     {
@@ -18854,7 +18854,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Busr al-Mazini (d. 88 AH) was a Companion who prayed toward both qiblas and died at Homs at ninety-five, the last Companion to die in Syria.",
-    "ar": "عبد الله بن بسر المازني (ت ٨٨هـ) صحابي، كان ممن صلّى إلى القبلتين، وتوفي بحمص عن ٩٥ عاماً، وهو آخر الصحابة موتاً بالشام."
+    "ar": "عبد الله بن بسر المازني (ت 88هـ) صحابي، كان ممن صلّى إلى القبلتين، وتوفي بحمص عن 95 عاماً، وهو آخر الصحابة موتاً بالشام."
   },
   "refs": [
     {
@@ -18910,7 +18910,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Jubayr ibn al-Nu'man al-Ansari (d. 3 AH) was a Companion who gave the pledge at Aqaba and fought at Badr, and was commander of the archers at Uhud, where he was killed.",
-    "ar": "عبد الله بن جبير الأنصاري (ت ٣هـ) صحابي، شهد العقبة وبدراً، وكان أمير الرماة يوم أحد، فاستُشهد فيها."
+    "ar": "عبد الله بن جبير الأنصاري (ت 3هـ) صحابي، شهد العقبة وبدراً، وكان أمير الرماة يوم أحد، فاستُشهد فيها."
   },
   "refs": [
     {
@@ -18932,7 +18932,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Umar (613–692) was a Companion, the son of Umar ibn al-Khattab, who emigrated with his father and gave legal opinions in Islam for sixty years.",
-    "ar": "عبد الله بن عمر بن الخطاب (١٠ ق.هـ – ٧٣هـ) صحابي، هاجر مع أبيه وشهد فتح مكة، وأفتى الناس في الإسلام ستين سنة."
+    "ar": "عبد الله بن عمر بن الخطاب (10 ق.هـ – 73هـ) صحابي، هاجر مع أبيه وشهد فتح مكة، وأفتى الناس في الإسلام ستين سنة."
   },
   "refs": [
     {
@@ -19056,7 +19056,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah Omran Taryam (1948–2014) was born in Sharjah and studied history in Cairo and at Exeter. He chaired Dar Al Khaleej for Printing and Publishing from 2002 until his death.",
-    "ar": "عبد الله عمران تريم (١٩٤٨–٢٠١٤م) وُلد في الشارقة، ودرس التاريخ في جامعة القاهرة ثم نال الدكتوراه من جامعة إكستر. تولى رئاسة مجلس إدارة دار الخليج للصحافة والطباعة والنشر من ٢٠٠٢ حتى وفاته."
+    "ar": "عبد الله عمران تريم (1948–2014م) وُلد في الشارقة، ودرس التاريخ في جامعة القاهرة ثم نال الدكتوراه من جامعة إكستر. تولى رئاسة مجلس إدارة دار الخليج للصحافة والطباعة والنشر من 2002 حتى وفاته."
   },
   "refs": [
     {
@@ -19214,7 +19214,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu al-Aswad al-Du'ali (d. 69 AH) was a leading Tabi'i, jurist, poet and narrator of hadith, and the first to set down the rules of Arabic grammar. He also dotted the script of the Qur'an.",
-    "ar": "أبو الأسود الدؤلي (ت ٦٩هـ) من سادات التابعين وفقهائهم وشعرائهم ومحدّثيهم، وأول من وضع علم النحو في العربية، ونقط أحرف المصحف."
+    "ar": "أبو الأسود الدؤلي (ت 69هـ) من سادات التابعين وفقهائهم وشعرائهم ومحدّثيهم، وأول من وضع علم النحو في العربية، ونقط أحرف المصحف."
   },
   "refs": [
     {
@@ -19236,7 +19236,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu al-Bakhtari al-Ta'i (d. 83 AH), Sa'id ibn Fayruz, was a Kufan narrator of hadith counted among the senior Tabi'un.",
-    "ar": "أبو البختري الطائي (ت ٨٣هـ)، وهو سعيد بن فيروز، محدّث وراوٍ للحديث من كبار التابعين، ومن أفاضل أهل الكوفة."
+    "ar": "أبو البختري الطائي (ت 83هـ)، وهو سعيد بن فيروز، محدّث وراوٍ للحديث من كبار التابعين، ومن أفاضل أهل الكوفة."
   },
   "refs": [
     {
@@ -19275,7 +19275,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Ayyub al-Ansari (d. 52 AH), Khalid ibn Zayd, was a Companion of the Ansar whose house the Prophet stayed in after the migration to Medina.",
-    "ar": "أبو أيوب الأنصاري (ت ٥٢هـ)، وهو خالد بن زيد، صحابي من الأنصار، نزل النبي في بيته حين قدم المدينة مهاجراً."
+    "ar": "أبو أيوب الأنصاري (ت 52هـ)، وهو خالد بن زيد، صحابي من الأنصار، نزل النبي في بيته حين قدم المدينة مهاجراً."
   },
   "refs": [
     {
@@ -19297,7 +19297,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Bakr ibn al-Munkadir (d. 130 AH) was a Tabi'i of Medina, remembered as one of its ascetics and narrators of hadith.",
-    "ar": "أبو بكر بن المنكدر (ت ١٣٠هـ) تابعي مدني، من زهّاد المدينة ورواة الحديث."
+    "ar": "أبو بكر بن المنكدر (ت 130هـ) تابعي مدني، من زهّاد المدينة ورواة الحديث."
   },
   "refs": [
     {
@@ -19336,7 +19336,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Idris al-Khawlani (630–700) was a Tabi'i and jurist, the preacher and storyteller of Damascus, and its judge under the Umayyads.",
-    "ar": "أبو إدريس الخولاني (٨–٨٠هـ) عائذ الله بن عبد الله الخولاني، تابعي فقيه، واعظ أهل دمشق وقاصّهم، وولي القضاء فيها."
+    "ar": "أبو إدريس الخولاني (8–80هـ) عائذ الله بن عبد الله الخولاني، تابعي فقيه، واعظ أهل دمشق وقاصّهم، وولي القضاء فيها."
   },
   "refs": [
     {
@@ -19392,7 +19392,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Qatada al-Ansari (614–674), al-Harith ibn Rib'i, was among the champions and commanders, known by his kunya and called the rider of the Messenger of God.",
-    "ar": "أبو قتادة الأنصاري (١٨ ق.هـ – ٥٤هـ) الحارث بن ربعي الخزرجي، من الأبطال الولاة، اشتهر بكنيته، وكان يُقال له فارس رسول الله."
+    "ar": "أبو قتادة الأنصاري (18 ق.هـ – 54هـ) الحارث بن ربعي الخزرجي، من الأبطال الولاة، اشتهر بكنيته، وكان يُقال له فارس رسول الله."
   },
   "refs": [
     {
@@ -19550,7 +19550,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Abbas ibn Abd al-Muttalib (568–653) was a Companion and the uncle of the Prophet Muhammad.",
-    "ar": "العباس بن عبد المطلب (٥٦ ق.هـ – ٣٢هـ / ٥٦٨–٦٥٣م) صحابي، وعمّ النبي محمد."
+    "ar": "العباس بن عبد المطلب (56 ق.هـ – 32هـ / 568–653م) صحابي، وعمّ النبي محمد."
   },
   "refs": [
     {
@@ -19589,7 +19589,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Akhtal (Ghiyath ibn Ghawth, d. c. 92 AH) was an Arab poet of the Umayyad age and a Christian, counted with Jarir and al-Farazdaq among the finest poets of their time.",
-    "ar": "الأخطل (غياث بن غوث التغلبي، ت نحو ٩٢هـ) شاعر عربي من العصر الأموي، وكان نصرانياً، ويُعدّ مع جرير والفرزدق من أشعر أهل عصره."
+    "ar": "الأخطل (غياث بن غوث التغلبي، ت نحو 92هـ) شاعر عربي من العصر الأموي، وكان نصرانياً، ويُعدّ مع جرير والفرزدق من أشعر أهل عصره."
   },
   "refs": [
     {
@@ -19628,7 +19628,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Asma'i (740–831), Abd al-Malik ibn Qurayb al-Bahili, was a transmitter of Arab poetry and an authority on language, poetry and place names, born and died in Basra.",
-    "ar": "الأصمعي (١٢٢–٢١٦هـ) عبد الملك بن قريب الباهلي، راوية العرب، وأحد أئمة العلم باللغة والشعر والبلدان، مولده ووفاته بالبصرة."
+    "ar": "الأصمعي (122–216هـ) عبد الملك بن قريب الباهلي، راوية العرب، وأحد أئمة العلم باللغة والشعر والبلدان، مولده ووفاته بالبصرة."
   },
   "refs": [
     {
@@ -19727,7 +19727,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Harith ibn Aws ibn Mu'adh (d. 3 AH) was a Companion of the Ansar of Banu Abd al-Ashhal, and the nephew of Sa'd ibn Mu'adh. The Prophet joined him in brotherhood with Amir ibn Fuhayrah; he fought at Badr and was killed at Uhud at the age of twenty-eight. Some accounts have him surviving that day and fighting at the Trench. His clan is the one the street «Abd al-As-hal Iyas ibn Aws» is named for.",
-    "ar": "الحارث بن أوس بن معاذ (ت ٣هـ)، صحابي من الأنصار من بني عبد الأشهل، وابن أخي سعد بن معاذ. آخى النبي صلى الله عليه وسلم بينه وبين عامر بن فهيرة، وشهد بدراً، وقُتل يوم أُحد وله ثمانٍ وعشرون سنة. وذكر بعضهم أنه عاش بعد ذلك وشهد الخندق. وهو من القبيلة نفسها التي يحمل اسمها شارع «عبد الأسهل إياس بن أوس»."
+    "ar": "الحارث بن أوس بن معاذ (ت 3هـ)، صحابي من الأنصار من بني عبد الأشهل، وابن أخي سعد بن معاذ. آخى النبي صلى الله عليه وسلم بينه وبين عامر بن فهيرة، وشهد بدراً، وقُتل يوم أُحد وله ثمانٍ وعشرون سنة. وذكر بعضهم أنه عاش بعد ذلك وشهد الخندق. وهو من القبيلة نفسها التي يحمل اسمها شارع «عبد الأسهل إياس بن أوس»."
   },
   "refs": [
     {
@@ -19783,7 +19783,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Haytham ibn al-Aswad al-Nakha'i (d. c. 100 AH) was a Tabi'i of the Madhhij, known by the kunya Abu al-'Uryan.",
-    "ar": "الهيثم بن الأسود النخعي المذحجي، أبو العريان (ت نحو ١٠٠هـ) تابعي."
+    "ar": "الهيثم بن الأسود النخعي المذحجي، أبو العريان (ت نحو 100هـ) تابعي."
   },
   "refs": [
     {
@@ -19958,7 +19958,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Tirmidhi (824–892) was a hadith scholar born in Termez, who travelled through Khurasan, Iraq and the Hijaz in search of hadith and compiled the Sunan, one of the six canonical collections.",
-    "ar": "الترمذي (٢٠٩–٢٧٩هـ / ٨٢٤–٨٩٢م) حافظ للحديث، وُلد في ترمذ، ورحل إلى خراسان والعراق والحجاز في طلب الحديث، وصنّف الجامع المعروف بسنن الترمذي، أحد الكتب الستة."
+    "ar": "الترمذي (209–279هـ / 824–892م) حافظ للحديث، وُلد في ترمذ، ورحل إلى خراسان والعراق والحجاز في طلب الحديث، وصنّف الجامع المعروف بسنن الترمذي، أحد الكتب الستة."
   },
   "refs": [
     {
@@ -20014,7 +20014,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ali ibn Hamza al-Kisa'i (d. 189 AH) was an imam of Arabic language, grammar and recitation, tutor to the Abbasid caliph al-Rashid and his son.",
-    "ar": "علي بن حمزة الكسائي (ت ١٨٩هـ) إمام في اللغة والنحو والقراءة، ومؤدّب الرشيد العباسي وابنه الأمين."
+    "ar": "علي بن حمزة الكسائي (ت 189هـ) إمام في اللغة والنحو والقراءة، ومؤدّب الرشيد العباسي وابنه الأمين."
   },
   "refs": [
     {
@@ -20172,7 +20172,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Asim ibn Umar ibn al-Khattab (627–690) was a Qurashi poet, the maternal grandfather of the caliph Umar ibn Abd al-Aziz.",
-    "ar": "عاصم بن عمر بن الخطاب (٦–٧٠هـ) شاعر من قريش، وهو جد عمر بن عبد العزيز لأمه، وتوفي بالربذة."
+    "ar": "عاصم بن عمر بن الخطاب (6–70هـ) شاعر من قريش، وهو جد عمر بن عبد العزيز لأمه، وتوفي بالربذة."
   },
   "refs": [
     {
@@ -20211,7 +20211,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Asma bint Abi Bakr (595–692) was a Companion, the daughter of Abu Bakr, the sister of Aisha and the wife of al-Zubayr ibn al-Awwam. She was called Dhat al-Nitaqayn for the belt she split to tie the Prophet's provisions on the journey to Medina.",
-    "ar": "أسماء بنت أبي بكر (٢٧ ق.هـ – ٧٣هـ / ٥٩٥–٦٩٢م) صحابية من السابقين الأولين، وهي ابنة أبي بكر، وأخت عائشة، وزوجة الزبير بن العوام، ولُقّبت بذات النطاقين."
+    "ar": "أسماء بنت أبي بكر (27 ق.هـ – 73هـ / 595–692م) صحابية من السابقين الأولين، وهي ابنة أبي بكر، وأخت عائشة، وزوجة الزبير بن العوام، ولُقّبت بذات النطاقين."
   },
   "refs": [
     {
@@ -20267,7 +20267,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Aisha bint Abi Bakr (d. 58 AH / 678 CE) was a wife of the Prophet Muhammad and the daughter of Abu Bakr, and is among the most frequently quoted narrators of hadith.",
-    "ar": "عائشة بنت أبي بكر (ت ٥٨هـ / ٦٧٨م) من أمهات المؤمنين، وابنة أبي بكر، ومن أكثر من روى الحديث عن النبي."
+    "ar": "عائشة بنت أبي بكر (ت 58هـ / 678م) من أمهات المؤمنين، وابنة أبي بكر، ومن أكثر من روى الحديث عن النبي."
   },
   "refs": [
     {
@@ -21122,7 +21122,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street is named for Hafsa bint Umar (d. 45 AH), a wife of the Prophet Muhammad and the daughter of Umar ibn al-Khattab.",
-    "ar": "سُمّي الشارع باسم حفصة بنت عمر (ت ٤٥هـ)، زوجة النبي محمد، وابنة عمر بن الخطاب."
+    "ar": "سُمّي الشارع باسم حفصة بنت عمر (ت 45هـ)، زوجة النبي محمد، وابنة عمر بن الخطاب."
   },
   "refs": [
     {
@@ -21178,7 +21178,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Hakim ibn Jabala al-Abdi (d. 36 AH) was a Companion of Abd al-Qays, a nobleman obeyed by his people and counted among the bravest of men.",
-    "ar": "حكيم بن جبلة العبدي (ت ٣٦هـ) صحابي من بني عبد القيس، كان شريفاً مطاعاً، ومن أشجع الناس."
+    "ar": "حكيم بن جبلة العبدي (ت 36هـ) صحابي من بني عبد القيس، كان شريفاً مطاعاً، ومن أشجع الناس."
   },
   "refs": [
     {
@@ -21983,11 +21983,11 @@ window.STREETS = [
   "en": "Khalifa Bin Zayed Street",
   "meaning": {
     "en": "President of the United Arab Emirates, 2004–2022",
-    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
+    "ar": "رئيس دولة الإمارات بين 2004 و2022"
   },
   "story": {
     "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
-    "ar": "سُمّي الشارع باسم الشيخ خليفة بن زايد آل نهيان (١٩٤٨–٢٠٢٢)، ثاني رؤساء دولة الإمارات، وحاكم إمارة أبوظبي."
+    "ar": "سُمّي الشارع باسم الشيخ خليفة بن زايد آل نهيان (1948–2022)، ثاني رؤساء دولة الإمارات، وحاكم إمارة أبوظبي."
   },
   "refs": [
     {
@@ -22298,7 +22298,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Malik ibn Aws (622–710) was a Tabi'i of Medina who had ridden in the age before Islam, embraced Islam late, and was the chief of his tribe in Umar's time.",
-    "ar": "مالك بن أوس بن الحدثان (١–٩٢هـ) تابعي من أهل المدينة، ركب الخيل في الجاهلية وتأخّر إسلامه، وكان عريف قومه في زمن عمر."
+    "ar": "مالك بن أوس بن الحدثان (1–92هـ) تابعي من أهل المدينة، ركب الخيل في الجاهلية وتأخّر إسلامه، وكان عريف قومه في زمن عمر."
   },
   "refs": [
     {
@@ -23141,7 +23141,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Saif Saeed bin Ghobash Al Marri (1932–1977) was born in Ras Al Khaimah and became the first Minister of State for Foreign Affairs of the United Arab Emirates.",
-    "ar": "سيف سعيد بن غباش المري (١٩٣٢–١٩٧٧م) وُلد في حي المعيريض بإمارة رأس الخيمة، وكان أول وزير دولة للشؤون الخارجية في دولة الإمارات العربية المتحدة."
+    "ar": "سيف سعيد بن غباش المري (1932–1977م) وُلد في حي المعيريض بإمارة رأس الخيمة، وكان أول وزير دولة للشؤون الخارجية في دولة الإمارات العربية المتحدة."
   },
   "refs": [
     {
@@ -23214,7 +23214,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salim ibn Abdullah ibn Umar (d. 106 AH) was one of the seven jurists of Medina and a leading Tabi'i of the city.",
-    "ar": "سالم بن عبد الله بن عمر (ت ١٠٦هـ) أحد فقهاء المدينة السبعة، ومن سادات التابعين وعلمائهم."
+    "ar": "سالم بن عبد الله بن عمر (ت 106هـ) أحد فقهاء المدينة السبعة، ومن سادات التابعين وعلمائهم."
   },
   "refs": [
     {
@@ -23351,11 +23351,11 @@ window.STREETS = [
   "en": "Sheikh Khalifa Bin Zayed International Road",
   "meaning": {
     "en": "President of the United Arab Emirates, 2004–2022",
-    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
+    "ar": "رئيس دولة الإمارات بين 2004 و2022"
   },
   "story": {
     "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
-    "ar": "سُمّي الطريق الدولي باسم الشيخ خليفة بن زايد آل نهيان (١٩٤٨–٢٠٢٢)، رئيس الدولة وحاكم أبوظبي."
+    "ar": "سُمّي الطريق الدولي باسم الشيخ خليفة بن زايد آل نهيان (1948–2022)، رئيس الدولة وحاكم أبوظبي."
   },
   "refs": [
     {
@@ -23373,11 +23373,11 @@ window.STREETS = [
   "en": "Sheikh Khalifa Bin Zayed Street",
   "meaning": {
     "en": "President of the United Arab Emirates, 2004–2022",
-    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
+    "ar": "رئيس دولة الإمارات بين 2004 و2022"
   },
   "story": {
     "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
-    "ar": "يحمل الشارع اسم الشيخ خليفة بن زايد آل نهيان، رئيس دولة الإمارات من ٢٠٠٤ حتى وفاته سنة ٢٠٢٢."
+    "ar": "يحمل الشارع اسم الشيخ خليفة بن زايد آل نهيان، رئيس دولة الإمارات من 2004 حتى وفاته سنة 2022."
   },
   "refs": [
     {
@@ -23395,11 +23395,11 @@ window.STREETS = [
   "en": "Sheikh Mohammed Bin Rashid Al Maktoum Street",
   "meaning": {
     "en": "Ruler of Dubai from 2006",
-    "ar": "حاكم دبي منذ ٢٠٠٦"
+    "ar": "حاكم دبي منذ 2006"
   },
   "story": {
     "en": "Sheikh Mohammed bin Rashid Al Maktoum (born 1949) has ruled Dubai since 2006, and is Vice President and Prime Minister of the United Arab Emirates.",
-    "ar": "الشيخ محمد بن راشد آل مكتوم (وُلد ١٩٤٩) حاكم إمارة دبي منذ ٢٠٠٦، ونائب رئيس الدولة ورئيس مجلس الوزراء."
+    "ar": "الشيخ محمد بن راشد آل مكتوم (وُلد 1949) حاكم إمارة دبي منذ 2006، ونائب رئيس الدولة ورئيس مجلس الوزراء."
   },
   "refs": [
     {
@@ -23417,11 +23417,11 @@ window.STREETS = [
   "en": "Sheikh Rashid Bin Saeed Street",
   "meaning": {
     "en": "Ruler of Dubai, 1958–1990",
-    "ar": "حاكم دبي بين ١٩٥٨ و١٩٩٠"
+    "ar": "حاكم دبي بين 1958 و1990"
   },
   "story": {
     "en": "Sheikh Rashid bin Saeed Al Maktoum (1912–1990) ruled Dubai from 1958 until his death, and was the first Vice President of the United Arab Emirates.",
-    "ar": "الشيخ راشد بن سعيد آل مكتوم (١٩١٢–١٩٩٠) حاكم دبي من ١٩٥٨ حتى وفاته، وأول نائب لرئيس دولة الإمارات."
+    "ar": "الشيخ راشد بن سعيد آل مكتوم (1912–1990) حاكم دبي من 1958 حتى وفاته، وأول نائب لرئيس دولة الإمارات."
   },
   "refs": [
     {
@@ -23994,7 +23994,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Uqba ibn Amir al-Juhani (d. 58 AH) was a Companion who rode behind the Prophet, fought at Siffin, took part in the conquest of Egypt and governed it.",
-    "ar": "عقبة بن عامر الجهني (ت ٥٨هـ) أمير من الصحابة، كان رديف النبي، وشهد صفّين، وحضر فتح مصر، ووليها سنة ٤٤هـ."
+    "ar": "عقبة بن عامر الجهني (ت 58هـ) أمير من الصحابة، كان رديف النبي، وشهد صفّين، وحضر فتح مصر، ووليها سنة 44هـ."
   },
   "refs": [
     {
@@ -24135,7 +24135,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Yahya ibn Sa'id al-Ansari (d. 143 AH) was a judge of Medina and one of the great scholars of hadith, of whom al-Jumahi said none was closer to al-Zuhri.",
-    "ar": "يحيى بن سعيد الأنصاري (ت ١٤٣هـ) قاضٍ من أكابر أهل الحديث، من أهل المدينة، قال الجمحي: ما رأيت أقرب شبهاً بالزهري منه."
+    "ar": "يحيى بن سعيد الأنصاري (ت 143هـ) قاضٍ من أكابر أهل الحديث، من أهل المدينة، قال الجمحي: ما رأيت أقرب شبهاً بالزهري منه."
   },
   "refs": [
     {
@@ -24242,7 +24242,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zayd ibn Arqam al-Ansari (d. 68 AH) was a Companion who fought seventeen campaigns with the Prophet, was present at Siffin with Ali, and died in Kufa.",
-    "ar": "زيد بن أرقم الأنصاري (ت ٦٨هـ) صحابي، غزا مع النبي سبع عشرة غزوة، وشهد صفّين مع علي، ومات بالكوفة."
+    "ar": "زيد بن أرقم الأنصاري (ت 68هـ) صحابي، غزا مع النبي سبع عشرة غزوة، وشهد صفّين مع علي، ومات بالكوفة."
   },
   "refs": [
     {
@@ -24281,7 +24281,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The street is named for Sheikh Zayed bin Sultan Al Nahyan (1918–2004), the founder of the United Arab Emirates and its first President.",
-    "ar": "سُمّي الشارع باسم الشيخ زايد بن سلطان آل نهيان (١٩١٨–٢٠٠٤)، مؤسس دولة الإمارات وأول رئيس لها."
+    "ar": "سُمّي الشارع باسم الشيخ زايد بن سلطان آل نهيان (1918–2004)، مؤسس دولة الإمارات وأول رئيس لها."
   },
   "refs": [
     {
@@ -24568,11 +24568,11 @@ window.STREETS = [
   "en": "Sheikh Humaid bin Rashid Bridge",
   "meaning": {
     "en": "Ruler of Ajman since 1981",
-    "ar": "حاكم عجمان منذ ١٩٨١"
+    "ar": "حاكم عجمان منذ 1981"
   },
   "story": {
     "en": "The bridge is named for Sheikh Humaid bin Rashid Al Nuaimi (born 1931), ruler of Ajman since 6 September 1981.",
-    "ar": "سُمّي الجسر باسم الشيخ حميد بن راشد النعيمي (وُلد ١٩٣١)، حاكم إمارة عجمان منذ ٦ سبتمبر ١٩٨١."
+    "ar": "سُمّي الجسر باسم الشيخ حميد بن راشد النعيمي (وُلد 1931)، حاكم إمارة عجمان منذ 6 سبتمبر 1981."
   },
   "refs": [
     {
@@ -24590,11 +24590,11 @@ window.STREETS = [
   "en": "Sheikh Maktoum Bin Rashid Al Maktoom Street",
   "meaning": {
     "en": "Ruler of Dubai, 1990–2006",
-    "ar": "حاكم دبي بين ١٩٩٠ و٢٠٠٦"
+    "ar": "حاكم دبي بين 1990 و2006"
   },
   "story": {
     "en": "Sheikh Maktoum bin Rashid Al Maktoum (1943–2006) ruled Dubai from 1990 until his death in January 2006, and was Vice President of the Emirates.",
-    "ar": "الشيخ مكتوم بن راشد آل مكتوم (١٩٤٣–٢٠٠٦) حاكم إمارة دبي من ١٩٩٠ حتى وفاته في يناير ٢٠٠٦، ونائب رئيس الدولة."
+    "ar": "الشيخ مكتوم بن راشد آل مكتوم (1943–2006) حاكم إمارة دبي من 1990 حتى وفاته في يناير 2006، ونائب رئيس الدولة."
   },
   "refs": [
     {
@@ -24646,11 +24646,11 @@ window.STREETS = [
   "en": "Sheikh Rashid bin Saeed Al Maktoum Street",
   "meaning": {
     "en": "Ruler of Dubai, 1958–1990",
-    "ar": "حاكم دبي بين ١٩٥٨ و١٩٩٠"
+    "ar": "حاكم دبي بين 1958 و1990"
   },
   "story": {
     "en": "Sheikh Rashid bin Saeed Al Maktoum (1912–1990) ruled Dubai from 1958 until his death, and was the first Vice President of the United Arab Emirates.",
-    "ar": "سُمّي الشارع باسم الشيخ راشد بن سعيد آل مكتوم (١٩١٢–١٩٩٠)، حاكم دبي من ١٩٥٨ حتى وفاته."
+    "ar": "سُمّي الشارع باسم الشيخ راشد بن سعيد آل مكتوم (1912–1990)، حاكم دبي من 1958 حتى وفاته."
   },
   "refs": [
     {
@@ -24689,7 +24689,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The road is named for Abu Bakr al-Siddiq (573–634), the first caliph and the companion of the Prophet in the migration to Medina.",
-    "ar": "سُمّي الطريق باسم أبي بكر الصديق (ت ١٣هـ / ٦٣٤م)، أول الخلفاء، ورفيق النبي في الهجرة إلى المدينة."
+    "ar": "سُمّي الطريق باسم أبي بكر الصديق (ت 13هـ / 634م)، أول الخلفاء، ورفيق النبي في الهجرة إلى المدينة."
   },
   "refs": [
     {
@@ -24728,7 +24728,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The road is named for Khalid ibn al-Walid (d. 21 AH / 642 CE), a commander of the early conquests known as the Sword of God.",
-    "ar": "سُمّي الطريق باسم خالد بن الوليد (ت ٢١هـ / ٦٤٢م)، القائد المعروف بسيف الله المسلول."
+    "ar": "سُمّي الطريق باسم خالد بن الوليد (ت 21هـ / 642م)، القائد المعروف بسيف الله المسلول."
   },
   "refs": [
     {
@@ -24746,11 +24746,11 @@ window.STREETS = [
   "en": "Sabah Al Ahmed Al Jaber Al Sabah Street",
   "meaning": {
     "en": "Emir of Kuwait, 2006–2020",
-    "ar": "أمير دولة الكويت بين ٢٠٠٦ و٢٠٢٠"
+    "ar": "أمير دولة الكويت بين 2006 و2020"
   },
   "story": {
     "en": "Sheikh Sabah al-Ahmad al-Jaber al-Sabah (1929–2020) was Emir of Kuwait from 29 January 2006 until his death on 29 September 2020.",
-    "ar": "الشيخ صباح الأحمد الجابر الصباح (١٩٢٩–٢٠٢٠) أمير دولة الكويت من ٢٩ يناير ٢٠٠٦ حتى وفاته في ٢٩ سبتمبر ٢٠٢٠."
+    "ar": "الشيخ صباح الأحمد الجابر الصباح (1929–2020) أمير دولة الكويت من 29 يناير 2006 حتى وفاته في 29 سبتمبر 2020."
   },
   "refs": [
     {
@@ -24768,11 +24768,11 @@ window.STREETS = [
   "en": "Sheikh Mohammed bin Rashid Boulevard",
   "meaning": {
     "en": "Ruler of Dubai since 2006",
-    "ar": "حاكم دبي منذ ٢٠٠٦"
+    "ar": "حاكم دبي منذ 2006"
   },
   "story": {
     "en": "The boulevard is named for Sheikh Mohammed bin Rashid Al Maktoum (born 1949), ruler of Dubai since 2006 and Vice President and Prime Minister of the Emirates.",
-    "ar": "سُمّي البوليفار باسم الشيخ محمد بن راشد آل مكتوم (وُلد ١٩٤٩)، حاكم إمارة دبي منذ ٢٠٠٦، ونائب رئيس الدولة ورئيس مجلس الوزراء."
+    "ar": "سُمّي البوليفار باسم الشيخ محمد بن راشد آل مكتوم (وُلد 1949)، حاكم إمارة دبي منذ 2006، ونائب رئيس الدولة ورئيس مجلس الوزراء."
   },
   "refs": [
     {
@@ -24824,11 +24824,11 @@ window.STREETS = [
   "en": "Jamal Abdul Naser Road",
   "meaning": {
     "en": "Named for the president of Egypt (1956–1970)",
-    "ar": "سُمّي باسم رئيس مصر بين ١٩٥٦ و١٩٧٠"
+    "ar": "سُمّي باسم رئيس مصر بين 1956 و1970"
   },
   "story": {
     "en": "The road is named for Gamal Abdel Nasser (1918–1970), president of Egypt from 1956 until 1970. It is one of several streets in the Emirates that carry his name.",
-    "ar": "سُمّي الطريق باسم جمال عبد الناصر (١٩١٨–١٩٧٠)، رئيس مصر بين ١٩٥٦ و١٩٧٠، وهو واحد من شوارع عدة في الإمارات تحمل اسمه."
+    "ar": "سُمّي الطريق باسم جمال عبد الناصر (1918–1970)، رئيس مصر بين 1956 و1970، وهو واحد من شوارع عدة في الإمارات تحمل اسمه."
   },
   "refs": [
     {
@@ -24868,7 +24868,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sayf al-Dawla al-Hamdani (915–967) founded the Emirate of Aleppo and made his court a home for poets and scholars — al-Mutanabbi and Abu Firas al-Hamdani among them, who also have streets in the Emirates.",
-    "ar": "سيف الدولة الحمداني (٣٠٣–٣٥٦هـ / ٩١٥–٩٦٧م)، وهو أبو الحسن علي بن أبي الهيجاء بن حمدان، مؤسس إمارة حلب، جمع في بلاطه الشعراء والعلماء، ومنهم المتنبي وأبو فراس الحمداني، ولكل منهما شارع في الإمارات."
+    "ar": "سيف الدولة الحمداني (303–356هـ / 915–967م)، وهو أبو الحسن علي بن أبي الهيجاء بن حمدان، مؤسس إمارة حلب، جمع في بلاطه الشعراء والعلماء، ومنهم المتنبي وأبو فراس الحمداني، ولكل منهما شارع في الإمارات."
   },
   "refs": [
     {
@@ -24891,7 +24891,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The road is named after Sheikh Hamad bin Abdullah Al Sharqi, who ruled Fujairah from 1938 to 1974. The Al Sharqi family has ruled the emirate since the 19th century.",
-    "ar": "سُمّي الطريق باسم الشيخ حمد بن عبدالله الشرقي، حاكم الفجيرة بين ١٩٣٨ و١٩٧٤، وأسرة الشرقي تحكم الإمارة منذ القرن التاسع عشر."
+    "ar": "سُمّي الطريق باسم الشيخ حمد بن عبدالله الشرقي، حاكم الفجيرة بين 1938 و1974، وأسرة الشرقي تحكم الإمارة منذ القرن التاسع عشر."
   },
   "refs": [
     {
@@ -24927,11 +24927,11 @@ window.STREETS = [
   "en": "Sheikh Khalid Bin Mohammed Al Qasimi Street",
   "meaning": {
     "en": "Ruler of Sharjah, 1965–1972",
-    "ar": "حاكم الشارقة بين ١٩٦٥ و١٩٧٢"
+    "ar": "حاكم الشارقة بين 1965 و1972"
   },
   "story": {
     "en": "Sheikh Khalid bin Mohammed Al Qasimi (1927–1972) was ruler of Sharjah from June 1965 until January 1972.",
-    "ar": "الشيخ خالد بن محمد القاسمي (١٩٢٧–١٩٧٢) حاكم إمارة الشارقة من يونيو ١٩٦٥ حتى يناير ١٩٧٢."
+    "ar": "الشيخ خالد بن محمد القاسمي (1927–1972) حاكم إمارة الشارقة من يونيو 1965 حتى يناير 1972."
   },
   "refs": [
     {
@@ -24949,11 +24949,11 @@ window.STREETS = [
   "en": "Sheikh Maktoum Bin Rashid Al Maktoum Road",
   "meaning": {
     "en": "A road named for the ruler of Dubai (1990–2006)",
-    "ar": "طريق باسم حاكم دبي بين ١٩٩٠ و٢٠٠٦"
+    "ar": "طريق باسم حاكم دبي بين 1990 و2006"
   },
   "story": {
     "en": "The road bears the name of Sheikh Maktoum bin Rashid Al Maktoum (1943–2006), who ruled Dubai from 1990 until 2006.",
-    "ar": "يحمل الطريق اسم الشيخ مكتوم بن راشد آل مكتوم (١٩٤٣–٢٠٠٦)، حاكم دبي بين ١٩٩٠ و٢٠٠٦."
+    "ar": "يحمل الطريق اسم الشيخ مكتوم بن راشد آل مكتوم (1943–2006)، حاكم دبي بين 1990 و2006."
   },
   "refs": [
     {
@@ -25043,7 +25043,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sheikh Zayed bin Sultan Al Nahyan (1918–2004) was the first President of the United Arab Emirates, from 1971 until his death in 2004.",
-    "ar": "الشيخ زايد بن سلطان آل نهيان (١٩١٨–٢٠٠٤) أول رئيس لدولة الإمارات، من ١٩٧١ حتى وفاته سنة ٢٠٠٤."
+    "ar": "الشيخ زايد بن سلطان آل نهيان (1918–2004) أول رئيس لدولة الإمارات، من 1971 حتى وفاته سنة 2004."
   },
   "refs": [
     {
@@ -25129,11 +25129,11 @@ window.STREETS = [
   "en": "Sheikh Rashed Bin Saed Road",
   "meaning": {
     "en": "Ruler of Dubai, 1958–1990",
-    "ar": "حاكم دبي بين ١٩٥٨ و١٩٩٠"
+    "ar": "حاكم دبي بين 1958 و1990"
   },
   "story": {
     "en": "Sheikh Rashid bin Saeed Al Maktoum (1912–1990) ruled Dubai from 1958 until his death, and was the first Vice President of the United Arab Emirates.",
-    "ar": "الطريق منسوب إلى الشيخ راشد بن سعيد آل مكتوم، حاكم إمارة دبي بين ١٩٥٨ و١٩٩٠، وأول نائب لرئيس الدولة."
+    "ar": "الطريق منسوب إلى الشيخ راشد بن سعيد آل مكتوم، حاكم إمارة دبي بين 1958 و1990، وأول نائب لرئيس الدولة."
   },
   "refs": [
     {
@@ -25151,11 +25151,11 @@ window.STREETS = [
   "en": "Sheikh Saqr Bin Mohammad Al Qasimi Road",
   "meaning": {
     "en": "Ruler of Ras Al Khaimah, 1948–2010",
-    "ar": "حاكم رأس الخيمة بين ١٩٤٨ و٢٠١٠"
+    "ar": "حاكم رأس الخيمة بين 1948 و2010"
   },
   "story": {
     "en": "The road is named for Sheikh Saqr bin Mohammed Al Qasimi (1918–2010), ruler of Ras Al Khaimah for sixty-two years, from 1948 until his death.",
-    "ar": "سُمّي الطريق باسم الشيخ صقر بن محمد القاسمي (١٩١٨–٢٠١٠)، حاكم رأس الخيمة اثنتين وستين سنة، من ١٩٤٨ حتى وفاته."
+    "ar": "سُمّي الطريق باسم الشيخ صقر بن محمد القاسمي (1918–2010)، حاكم رأس الخيمة اثنتين وستين سنة، من 1948 حتى وفاته."
   },
   "refs": [
     {
@@ -25330,7 +25330,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Qays al-Harithi (d. 53 AH) was an ally of the Banu Fazarah and a commander of the sea in early Islam.",
-    "ar": "عبد الله بن قيس الحارثي (ت ٥٣هـ) حليف بني فزارة، وأمير البحر في صدر الإسلام."
+    "ar": "عبد الله بن قيس الحارثي (ت 53هـ) حليف بني فزارة، وأمير البحر في صدر الإسلام."
   },
   "refs": [
     {
@@ -25403,7 +25403,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah al-Nadim (1842–1896) was an Egyptian writer and poet, known as the orator of the Urabi revolt.",
-    "ar": "عبد الله بن مصباح النديم (١٢٦١–١٣١٤هـ / ١٨٤٢–١٨٩٦م) من أدباء مصر وشعرائها، ولُقّب بخطيب الثورة العرابية."
+    "ar": "عبد الله بن مصباح النديم (1261–1314هـ / 1842–1896م) من أدباء مصر وشعرائها، ولُقّب بخطيب الثورة العرابية."
   },
   "refs": [
     {
@@ -25527,7 +25527,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Amir ibn Kurayz (625–679) was a commander of the conquests and governor of Basra in the time of Uthman.",
-    "ar": "عبد الله بن عامر بن كريز (٤–٥٩هـ) أمير فاتح، ولي البصرة في أيام عثمان."
+    "ar": "عبد الله بن عامر بن كريز (4–59هـ) أمير فاتح، ولي البصرة في أيام عثمان."
   },
   "refs": [
     {
@@ -25549,7 +25549,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Budayl al-Khuza'i (d. 37 AH) was a Companion of the eloquent and shrewd men, in whom the leadership of Khuza'a ended; he embraced Islam at the conquest.",
-    "ar": "عبد الله بن بديل الخزاعي (ت ٣٧هـ) صحابي من الدهاة الفصحاء، انتهت إليه السيادة في خزاعة، وأسلم يوم الفتح."
+    "ar": "عبد الله بن بديل الخزاعي (ت 37هـ) صحابي من الدهاة الفصحاء، انتهت إليه السيادة في خزاعة، وأسلم يوم الفتح."
   },
   "refs": [
     {
@@ -25707,7 +25707,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Zayd ibn Asim al-Ansari (616–683) was a Companion of Medina who fought at Badr and was killed fighting Musaylima.",
-    "ar": "عبد الله بن زيد بن عاصم الأنصاري (٦١٦–٦٨٣م) صحابي من أهل المدينة، شهد بدراً، وقُتل في قتال مسيلمة."
+    "ar": "عبد الله بن زيد بن عاصم الأنصاري (616–683م) صحابي من أهل المدينة، شهد بدراً، وقُتل في قتال مسيلمة."
   },
   "refs": [
     {
@@ -25780,7 +25780,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abd al-Rahman al-Nasir li-Din Allah (891–961) was the eighth Umayyad ruler of al-Andalus and the first to take the title of caliph there.",
-    "ar": "عبد الرحمن الناصر لدين الله (٢٧٧–٣٥٠هـ / ٨٩١–٩٦١م) ثامن حكام الدولة الأموية في الأندلس، وأول من لقّب بأمير المؤمنين فيها."
+    "ar": "عبد الرحمن الناصر لدين الله (277–350هـ / 891–961م) ثامن حكام الدولة الأموية في الأندلس، وأول من لقّب بأمير المؤمنين فيها."
   },
   "refs": [
     {
@@ -25955,7 +25955,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Bakr ibn Abi Shayba (775–849) was a Kufan scholar of hadith, known as the master of the memorisers and author of the Musannaf.",
-    "ar": "أبو بكر بن أبي شيبة (١٥٩–٢٣٥هـ) محدّث كوفي، يُلقّب بسيد الحفّاظ، وهو صاحب كتاب المصنّف."
+    "ar": "أبو بكر بن أبي شيبة (159–235هـ) محدّث كوفي، يُلقّب بسيد الحفّاظ، وهو صاحب كتاب المصنّف."
   },
   "refs": [
     {
@@ -25977,7 +25977,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Bakr ibn Ayyash (713–809) was a Kufan reciter, jurist and narrator of hadith, and one of the transmitters of the seven canonical recitations.",
-    "ar": "أبو بكر بن عياش (٩٥–١٩٣هـ) مقرئ وفقيه ومحدّث كوفي، وهو أحد رواة القراءات السبعة، قرأ على عاصم بن أبي النجود."
+    "ar": "أبو بكر بن عياش (95–193هـ) مقرئ وفقيه ومحدّث كوفي، وهو أحد رواة القراءات السبعة، قرأ على عاصم بن أبي النجود."
   },
   "refs": [
     {
@@ -26254,7 +26254,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Musa al-Ash'ari (602–665) was a Companion of the Ash'ar of Qahtan, a commander in the conquests and a governor.",
-    "ar": "أبو موسى الأشعري (٢١ ق.هـ – ٤٤هـ) عبد الله بن قيس الأشعري، صحابي من الشجعان الولاة الفاتحين."
+    "ar": "أبو موسى الأشعري (21 ق.هـ – 44هـ) عبد الله بن قيس الأشعري، صحابي من الشجعان الولاة الفاتحين."
   },
   "refs": [
     {
@@ -26276,7 +26276,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Talha (585–654), Zayd ibn Sahl al-Ansari, was a Companion counted among the finest archers in the age before Islam and in Islam.",
-    "ar": "أبو طلحة (٣٦ ق.هـ – ٣٤هـ) زيد بن سهل الأنصاري، صحابي، من الشجعان الرماة المعدودين في الجاهلية والإسلام."
+    "ar": "أبو طلحة (36 ق.هـ – 34هـ) زيد بن سهل الأنصاري، صحابي، من الشجعان الرماة المعدودين في الجاهلية والإسلام."
   },
   "refs": [
     {
@@ -26366,7 +26366,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Abhari (d. 338 AH), Ahmad ibn Uthman al-Jabiri, was a scholar of Isfahan of whom Abu Nu'aym said he had exposition and works.",
-    "ar": "الأبهري (ت ٣٣٨هـ) أحمد بن عثمان الجابري، من فضلاء أهل أصبهان، قال فيه أبو نعيم: صاحب بيان وتصانيف."
+    "ar": "الأبهري (ت 338هـ) أحمد بن عثمان الجابري، من فضلاء أهل أصبهان، قال فيه أبو نعيم: صاحب بيان وتصانيف."
   },
   "refs": [
     {
@@ -26541,7 +26541,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Qazwini (d. 1208 AH), Husayn ibn Ibrahim al-Husayni, was an Imami jurist of Tabriz who died at Qazvin, author of Ma'arij al-Ahkam.",
-    "ar": "القزويني (ت ١٢٠٨هـ) حسين بن إبراهيم الحسيني التبريزي، فقيه إمامي، توفي بقزوين، له «معارج الأحكام»."
+    "ar": "القزويني (ت 1208هـ) حسين بن إبراهيم الحسيني التبريزي، فقيه إمامي، توفي بقزوين، له «معارج الأحكام»."
   },
   "refs": [
     {
@@ -26614,7 +26614,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Qushayri (d. 514 AH), Abd al-Rahim ibn Abd al-Karim, was a preacher of the Banu Qushayr and one of the scholars of Nishapur.",
-    "ar": "القشيري (ت ٥١٤هـ) عبد الرحيم بن عبد الكريم بن هوازن، واعظ من علماء نيسابور، من بني قشير."
+    "ar": "القشيري (ت 514هـ) عبد الرحيم بن عبد الكريم بن هوازن، واعظ من علماء نيسابور، من بني قشير."
   },
   "refs": [
     {
@@ -26636,7 +26636,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Rabi' ibn Ziyad al-Absi (d. c. 590) was one of the shrewd and brave leaders of the Arabs before Islam, called the Perfect, and a companion of al-Nu'man ibn al-Mundhir.",
-    "ar": "الربيع بن زياد العبسي (ت نحو ٣٠ ق.هـ) أحد دهاة العرب وشجعانهم في الجاهلية، وكان يُقال له الكامل، ونادم النعمان بن المنذر."
+    "ar": "الربيع بن زياد العبسي (ت نحو 30 ق.هـ) أحد دهاة العرب وشجعانهم في الجاهلية، وكان يُقال له الكامل، ونادم النعمان بن المنذر."
   },
   "refs": [
     {
@@ -26658,7 +26658,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Rahbi (d. after 1184 AH), Abd al-Aziz ibn Muhammad al-Baghdadi, was a Hanafi jurist with knowledge of geometry, who wrote on measuring cisterns.",
-    "ar": "الرحبي (ت بعد ١١٨٤هـ) عبد العزيز بن محمد الرحبي البغدادي، فقيه حنفي، له علم بالهندسة، صنّف «البرهان المحرر»."
+    "ar": "الرحبي (ت بعد 1184هـ) عبد العزيز بن محمد الرحبي البغدادي، فقيه حنفي، له علم بالهندسة، صنّف «البرهان المحرر»."
   },
   "refs": [
     {
@@ -27265,7 +27265,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Isa ibn Aban (d. 221 AH) was a judge of the great Hanafi jurists, known for the speed of his judgments, who held the judiciary of Basra for ten years.",
-    "ar": "عيسى بن أبان (ت ٢٢١هـ) قاضٍ من كبار فقهاء الحنفية، ولي القضاء بالبصرة عشر سنين، وتوفي بها."
+    "ar": "عيسى بن أبان (ت 221هـ) قاضٍ من كبار فقهاء الحنفية، ولي القضاء بالبصرة عشر سنين، وتوفي بها."
   },
   "refs": [
     {
@@ -27649,7 +27649,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Saeed ibn al-Musayyib (15–94 AH) was one of the great Tabi'un of Medina, called the scholar of the people of Medina and the master of the Tabi'un of his time. He was one of the seven jurists of the city.",
-    "ar": "سعيد بن المسيب المخزومي (١٥–٩٤هـ) تابعي من كبار التابعين في المدينة المنورة، لُقّب بـ«عالم أهل المدينة»، وبـ«سيد التابعين» في زمانه، وهو أحد فقهاء المدينة السبعة."
+    "ar": "سعيد بن المسيب المخزومي (15–94هـ) تابعي من كبار التابعين في المدينة المنورة، لُقّب بـ«عالم أهل المدينة»، وبـ«سيد التابعين» في زمانه، وهو أحد فقهاء المدينة السبعة."
   },
   "refs": [
     {
@@ -27739,7 +27739,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Muhammad ibn Sirin (653–729) was a Tabi'i of Basra, an imam of his time in the religious sciences, and a transmitter of dream interpretation.",
-    "ar": "محمد بن سيرين (٣٣–١١٠هـ) تابعي بصري، إمام وقته في علوم الدين، ومن أشراف الكتاب."
+    "ar": "محمد بن سيرين (33–110هـ) تابعي بصري، إمام وقته في علوم الدين، ومن أشراف الكتاب."
   },
   "refs": [
     {
@@ -28177,7 +28177,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdulaziz bin Abdul Rahman Al Saud (1876–1953) founded the Kingdom of Saudi Arabia and was its first king. The street carries the name of the founder of the neighbouring state.",
-    "ar": "عبد العزيز بن عبد الرحمن بن فيصل آل سعود (١٢٩٣–١٣٧٣هـ / ١٨٧٦–١٩٥٣م) مؤسس المملكة العربية السعودية وأول ملوكها. ويحمل الشارع اسم مؤسس الدولة المجاورة."
+    "ar": "عبد العزيز بن عبد الرحمن بن فيصل آل سعود (1293–1373هـ / 1876–1953م) مؤسس المملكة العربية السعودية وأول ملوكها. ويحمل الشارع اسم مؤسس الدولة المجاورة."
   },
   "refs": [
     {
@@ -28289,11 +28289,11 @@ window.STREETS = [
   },
   "story": {
     "en": "Mohammed Obaid Al Hammoudi was one of the country's fallen in the Emirate of Sharjah; condolences for him and for Zayed Ali Al Kaabi were reported in the local press in March 2016. The sign carries the shortened form «Mohammed Obaid», and the card records the fuller name the report gives.",
-    "ar": "محمد عبيد الحمودي، أحد شهداء الدولة في إمارة الشارقة؛ نُشر خبر العزاء فيه وفي الشهيد زايد علي الكعبي في الصحافة المحلية في مارس ٢٠١٦. ويحمل الشارع الصيغة المختصرة «محمد عبيد»، وتسجّل البطاقة الاسم الأتم كما ورد في الخبر."
+    "ar": "محمد عبيد الحمودي، أحد شهداء الدولة في إمارة الشارقة؛ نُشر خبر العزاء فيه وفي الشهيد زايد علي الكعبي في الصحافة المحلية في مارس 2016. ويحمل الشارع الصيغة المختصرة «محمد عبيد»، وتسجّل البطاقة الاسم الأتم كما ورد في الخبر."
   },
   "refs": [
     {
-      "label": "الإمارات اليوم — ١٩ مارس ٢٠١٦",
+      "label": "الإمارات اليوم — 19 مارس 2016",
       "url": "https://www.emaratalyoum.com/local-section/other/2016-03-19-1.880460"
     }
   ]
@@ -28430,7 +28430,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Muhammad ibn al-Mundhir al-Harawi (d. 355 AH) was a hadith scholar of the Banu Abbas, known as Shukr, described by Ibn Nasir al-Din as one of the travelling memorisers.",
-    "ar": "محمد بن المنذر الهروي (ت ٣٥٥هـ) حافظ للحديث، من بني العباس، يُلقّب بشكر، قال ابن ناصر الدين: كان من الحفاظ الرحّالين."
+    "ar": "محمد بن المنذر الهروي (ت 355هـ) حافظ للحديث، من بني العباس، يُلقّب بشكر، قال ابن ناصر الدين: كان من الحفاظ الرحّالين."
   },
   "refs": [
     {
@@ -28554,7 +28554,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Musa ibn Talha (d. 106 AH) was a Tabi'i of the Banu Taym, counted among the most eloquent men of his age, who settled in Kufa.",
-    "ar": "موسى بن طلحة التيمي (ت ١٠٦هـ) تابعي، من أفصح أهل عصره، وكان يُقال له المهدي لفضله، وسكن الكوفة."
+    "ar": "موسى بن طلحة التيمي (ت 106هـ) تابعي، من أفصح أهل عصره، وكان يُقال له المهدي لفضله، وسكن الكوفة."
   },
   "refs": [
     {
@@ -28576,7 +28576,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Mu'adh ibn Amr ibn al-Jamuh al-Ansari (d. c. 25 AH) was a Companion of the Ansar who gave the pledge at Aqaba and fought at Badr.",
-    "ar": "معاذ بن عمرو بن الجموح الأنصاري (ت نحو ٢٥هـ) صحابي من الأنصار، شهد العقبة وبدراً، وكان من الشجعان."
+    "ar": "معاذ بن عمرو بن الجموح الأنصاري (ت نحو 25هـ) صحابي من الأنصار، شهد العقبة وبدراً، وكان من الشجعان."
   },
   "refs": [
     {
@@ -28892,7 +28892,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Umar ibn al-Ala (d. 782) was an Abbasid commander and the first governor of Tabaristan, who led its conquest in 758–759.",
-    "ar": "عمر بن العلاء (ت ١٦٥هـ / ٧٨٢م) قائد عباسي، وأول ولاة طبرستان، قاد فتحها بين سنتي ١٤١ و١٤٢هـ."
+    "ar": "عمر بن العلاء (ت 165هـ / 782م) قائد عباسي، وأول ولاة طبرستان، قاد فتحها بين سنتي 141 و142هـ."
   },
   "refs": [
     {
@@ -28982,7 +28982,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Anis ibn Qatada (d. 625) was a Companion of the Ansar who fought at Badr and was killed at Uhud.",
-    "ar": "أنيس بن قتادة (ت ٣هـ) صحابي من الأنصار من بني عبيد بن زيد من الأوس، شهد بدراً وقُتل يوم أحد."
+    "ar": "أنيس بن قتادة (ت 3هـ) صحابي من الأنصار من بني عبيد بن زيد من الأوس، شهد بدراً وقُتل يوم أحد."
   },
   "refs": [
     {
@@ -29591,7 +29591,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salamah ibn Aslam al-Ansari (575–635) was a Companion of the Khazraj who fought at Badr, Uhud and the Trench.",
-    "ar": "سلمة بن أسلم الأنصاري (٤٩ ق.هـ – ١٤هـ) صحابي من الخزرج، شهد بدراً وأحداً والخندق والمشاهد كلها."
+    "ar": "سلمة بن أسلم الأنصاري (49 ق.هـ – 14هـ) صحابي من الخزرج، شهد بدراً وأحداً والخندق والمشاهد كلها."
   },
   "refs": [
     {
@@ -30281,11 +30281,11 @@ window.STREETS = [
   "en": "Sultan Qaboos Road",
   "meaning": {
     "en": "Sultan of Oman, 1970–2020",
-    "ar": "سلطان عُمان بين ١٩٧٠ و٢٠٢٠"
+    "ar": "سلطان عُمان بين 1970 و2020"
   },
   "story": {
     "en": "Sultan Qaboos bin Said (1940–2020) ruled Oman from 23 July 1970 until his death in January 2020.",
-    "ar": "السلطان قابوس بن سعيد (١٩٤٠–٢٠٢٠) حكم عُمان من ٢٣ يوليو ١٩٧٠ حتى وفاته في يناير ٢٠٢٠."
+    "ar": "السلطان قابوس بن سعيد (1940–2020) حكم عُمان من 23 يوليو 1970 حتى وفاته في يناير 2020."
   },
   "refs": [
     {
@@ -30503,7 +30503,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Yazid ibn Abi Sufyan (d. 18 AH) was a Companion of the Banu Umayya, a commander in the conquests, and the brother of Mu'awiya ibn Abi Sufyan.",
-    "ar": "يزيد بن أبي سفيان (ت ١٨هـ) صحابي من بني أمية، وأمير في الفتوح، وهو أخو معاوية بن أبي سفيان."
+    "ar": "يزيد بن أبي سفيان (ت 18هـ) صحابي من بني أمية، وأمير في الفتوح، وهو أخو معاوية بن أبي سفيان."
   },
   "refs": [
     {
@@ -30794,7 +30794,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ali ibn Abi Talib (d. 40 AH / 661 CE) was the cousin of the Prophet Muhammad, the husband of his daughter Fatima, and the father of Hasan and Husayn.",
-    "ar": "علي بن أبي طالب (ت ٤٠هـ / ٦٦١م) ابن عم النبي محمد، وزوج ابنته فاطمة، وأبو الحسن والحسين."
+    "ar": "علي بن أبي طالب (ت 40هـ / 661م) ابن عم النبي محمد، وزوج ابنته فاطمة، وأبو الحسن والحسين."
   },
   "refs": [
     {
@@ -30816,7 +30816,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ahmad ibn Majid (d. after 1498), known as the Lion of the Sea, was a navigator of Najd who wrote guides to the routes of the Indian Ocean.",
-    "ar": "ابن ماجد (ت بعد ٩٠٤هـ) أحمد بن ماجد السعدي، الملاح المشهور، أُطلق عليه أسد البحر، وله أراجيز في طرق الملاحة."
+    "ar": "ابن ماجد (ت بعد 904هـ) أحمد بن ماجد السعدي، الملاح المشهور، أُطلق عليه أسد البحر، وله أراجيز في طرق الملاحة."
   },
   "refs": [
     {
@@ -30855,7 +30855,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The road bears the name of Umar ibn al-Khattab (d. 23 AH / 644 CE), the second caliph, in whose time Syria, Egypt and Iraq were conquered.",
-    "ar": "يحمل الطريق اسم عمر بن الخطاب (ت ٢٣هـ / ٦٤٤م)، ثاني الخلفاء، وفي عهده كانت فتوح الشام ومصر والعراق."
+    "ar": "يحمل الطريق اسم عمر بن الخطاب (ت 23هـ / 644م)، ثاني الخلفاء، وفي عهده كانت فتوح الشام ومصر والعراق."
   },
   "refs": [
     {
@@ -30877,7 +30877,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The roundabout is named for Uqbah ibn Nafi (d. 683), the commander who led the conquest of North Africa and founded Kairouan.",
-    "ar": "سُمّي الدوار باسم عقبة بن نافع (ت ٦٣هـ / ٦٨٣م)، القائد الذي قاد فتح إفريقية وأسّس مدينة القيروان."
+    "ar": "سُمّي الدوار باسم عقبة بن نافع (ت 63هـ / 683م)، القائد الذي قاد فتح إفريقية وأسّس مدينة القيروان."
   },
   "refs": [
     {
@@ -30895,11 +30895,11 @@ window.STREETS = [
   "en": "Sheikh Ahmed Bin Rashid Al Mu'alla Street",
   "meaning": {
     "en": "Ruler of Umm Al Quwain, 1929–1981",
-    "ar": "حاكم أم القيوين بين ١٩٢٩ و١٩٨١"
+    "ar": "حاكم أم القيوين بين 1929 و1981"
   },
   "story": {
     "en": "Sheikh Ahmed bin Rashid Al Mualla (1911–1981) ruled Umm Al Quwain from 1929, taking office before he was twenty. Under him the emirate built its hospitals, schools and government departments, and he took part in founding the United Arab Emirates in 1971.",
-    "ar": "الشيخ أحمد بن راشد المعلا (١٩١١–١٩٨١) تولى حكم أم القيوين سنة ١٩٢٩ وهو دون العشرين، وفي عهده أُنشئت المستشفيات والمدارس والدوائر الحكومية، وكان من مؤسسي دولة الإمارات العربية المتحدة سنة ١٩٧١."
+    "ar": "الشيخ أحمد بن راشد المعلا (1911–1981) تولى حكم أم القيوين سنة 1929 وهو دون العشرين، وفي عهده أُنشئت المستشفيات والمدارس والدوائر الحكومية، وكان من مؤسسي دولة الإمارات العربية المتحدة سنة 1971."
   },
   "refs": [
     {
@@ -30917,11 +30917,11 @@ window.STREETS = [
   "en": "Sheikh Khalifa Bin Zayed Al Nahyan Street",
   "meaning": {
     "en": "President of the United Arab Emirates, 2004–2022",
-    "ar": "رئيس دولة الإمارات بين ٢٠٠٤ و٢٠٢٢"
+    "ar": "رئيس دولة الإمارات بين 2004 و2022"
   },
   "story": {
     "en": "Sheikh Khalifa bin Zayed Al Nahyan (1948–2022) was the second President of the United Arab Emirates, from 2004 until his death, and ruler of Abu Dhabi.",
-    "ar": "الشارع منسوب إلى الشيخ خليفة بن زايد آل نهيان، ثاني رؤساء الإمارات، وحاكم أبوظبي بين ٢٠٠٤ و٢٠٢٢."
+    "ar": "الشارع منسوب إلى الشيخ خليفة بن زايد آل نهيان، ثاني رؤساء الإمارات، وحاكم أبوظبي بين 2004 و2022."
   },
   "refs": [
     {
@@ -30939,11 +30939,11 @@ window.STREETS = [
   "en": "Sheikh Mohammed Bin Rashid Al Maktoom Road",
   "meaning": {
     "en": "Ruler of Dubai from 2006",
-    "ar": "حاكم دبي منذ ٢٠٠٦"
+    "ar": "حاكم دبي منذ 2006"
   },
   "story": {
     "en": "Sheikh Mohammed bin Rashid Al Maktoum (born 1949) has ruled Dubai since 2006, and is Vice President and Prime Minister of the United Arab Emirates.",
-    "ar": "سُمّي الطريق باسم الشيخ محمد بن راشد آل مكتوم (وُلد ١٩٤٩)، حاكم دبي منذ ٢٠٠٦، ونائب رئيس الدولة."
+    "ar": "سُمّي الطريق باسم الشيخ محمد بن راشد آل مكتوم (وُلد 1949)، حاكم دبي منذ 2006، ونائب رئيس الدولة."
   },
   "refs": [
     {
@@ -30961,11 +30961,11 @@ window.STREETS = [
   "en": "Sheikh Rashid bin Ahmed Al Mu'alla Road",
   "meaning": {
     "en": "Ruler of Umm Al Quwain, 1981–2009",
-    "ar": "حاكم أم القيوين بين ١٩٨١ و٢٠٠٩"
+    "ar": "حاكم أم القيوين بين 1981 و2009"
   },
   "story": {
     "en": "Sheikh Rashid bin Ahmad Al Mualla (1932–2009) ruled Umm Al Quwain from 22 February 1981 until his death on 2 January 2009, and sat on the Supreme Council of the Union.",
-    "ar": "الشيخ راشد بن أحمد المعلا (١٩٣٢–٢٠٠٩) حاكم إمارة أم القيوين وعضو المجلس الأعلى للاتحاد من ٢٢ فبراير ١٩٨١ حتى وفاته في ٢ يناير ٢٠٠٩."
+    "ar": "الشيخ راشد بن أحمد المعلا (1932–2009) حاكم إمارة أم القيوين وعضو المجلس الأعلى للاتحاد من 22 فبراير 1981 حتى وفاته في 2 يناير 2009."
   },
   "refs": [
     {
@@ -30984,11 +30984,11 @@ window.STREETS = [
   "en": "Sheikh Saud Bin Rashid Al Mu'alla Street",
   "meaning": {
     "en": "Ruler of Umm Al Quwain from 2009",
-    "ar": "حاكم أم القيوين منذ ٢٠٠٩"
+    "ar": "حاكم أم القيوين منذ 2009"
   },
   "story": {
     "en": "Sheikh Saud bin Rashid Al Mualla (born 1952) became ruler of Umm Al Quwain on 2 January 2009, after the death of his father Sheikh Rashid bin Ahmed.",
-    "ar": "الشيخ سعود بن راشد المعلا (وُلد ١٩٥٢) تولّى حكم إمارة أم القيوين في ٢ يناير ٢٠٠٩ بعد وفاة والده الشيخ راشد بن أحمد."
+    "ar": "الشيخ سعود بن راشد المعلا (وُلد 1952) تولّى حكم إمارة أم القيوين في 2 يناير 2009 بعد وفاة والده الشيخ راشد بن أحمد."
   },
   "refs": [
     {
@@ -31130,7 +31130,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Mutanabbi (915–965) was an Arabic poet who spent nine years at the court of Sayf al-Dawla in Aleppo, and whose verse is still the most quoted in the language.",
-    "ar": "المتنبي (٣٠٣–٣٥٤هـ / ٩١٥–٩٦٥م) شاعر عربي أمضى تسع سنوات في بلاط سيف الدولة الحمداني بحلب، وما زال شعره من أكثر ما يُستشهد به في العربية."
+    "ar": "المتنبي (303–354هـ / 915–965م) شاعر عربي أمضى تسع سنوات في بلاط سيف الدولة الحمداني بحلب، وما زال شعره من أكثر ما يُستشهد به في العربية."
   },
   "refs": [
     {
@@ -31149,11 +31149,11 @@ window.STREETS = [
   "translit": "Shāriʿ Jamāl ʿAbd al-Nāṣir",
   "meaning": {
     "en": "President of Egypt, 1956–1970",
-    "ar": "رئيس جمهورية مصر بين ١٩٥٦ و١٩٧٠"
+    "ar": "رئيس جمهورية مصر بين 1956 و1970"
   },
   "story": {
     "en": "Gamal Abdel Nasser (1918–1970) was the second president of Egypt, from 1956 until his death in 1970. Streets in several Arab cities carry his name.",
-    "ar": "جمال عبد الناصر (١٩١٨–١٩٧٠) ثاني رؤساء جمهورية مصر، تولّى المنصب سنة ١٩٥٦ حتى وفاته سنة ١٩٧٠، وتحمل شوارع في مدن عربية عدة اسمه."
+    "ar": "جمال عبد الناصر (1918–1970) ثاني رؤساء جمهورية مصر، تولّى المنصب سنة 1956 حتى وفاته سنة 1970، وتحمل شوارع في مدن عربية عدة اسمه."
   },
   "refs": [
     {
@@ -31176,7 +31176,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al Sharqi is the ruling family of Fujairah, one of the seven emirates of the United Arab Emirates, and the only emirate whose coast lies on the Gulf of Oman rather than the Arabian Gulf. Fujairah is governed today by Sheikh Hamad bin Mohammed Al Sharqi, and it was among the emirates that agreed in 1971 to form the federation.",
-    "ar": "آل الشرقي هي الأسرة المالكة الحاكمة في إمارة الفجيرة، إحدى الإمارات السبع المكونة لدولة الإمارات العربية المتحدة، وهي الإمارة الوحيدة التي يقع ساحلها على بحر عُمان لا على الخليج العربي. ويحكمها اليوم الشيخ حمد بن محمد الشرقي، وكانت الفجيرة من الإمارات التي اتفقت في ١٩٧١ على قيام الاتحاد."
+    "ar": "آل الشرقي هي الأسرة المالكة الحاكمة في إمارة الفجيرة، إحدى الإمارات السبع المكونة لدولة الإمارات العربية المتحدة، وهي الإمارة الوحيدة التي يقع ساحلها على بحر عُمان لا على الخليج العربي. ويحكمها اليوم الشيخ حمد بن محمد الشرقي، وكانت الفجيرة من الإمارات التي اتفقت في 1971 على قيام الاتحاد."
   },
   "refs": [
     {
@@ -31234,7 +31234,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Sihayli is a nisba, the form Arabic uses for 'of, belonging to' a person, a place or a tribe, here formed from Suhayl. The best-known bearer of the name is the Andalusian scholar Abd al-Rahman al-Suhayli (508–581 AH), a hafiz and authority on language and the biography of the Prophet, author of al-Rawd al-Unuf, who was born in Malaga and died in Marrakesh.",
-    "ar": "السَّهيلي نسبةٌ، وهي صيغة النسب في العربية إلى شخص أو موضع أو قبيلة، وأصلها هنا «سُهَيْل». وأشهر من حمل هذا النسب أبو القاسم السهيلي، عبد الرحمن بن عبد الله بن أحمد الخثعمي (٥٠٨–٥٨١هـ)، الحافظ العالم باللغة والسِّيَر، صاحب «الروض الأُنُف»، وُلد بمالقة وتوفي بمراكش."
+    "ar": "السَّهيلي نسبةٌ، وهي صيغة النسب في العربية إلى شخص أو موضع أو قبيلة، وأصلها هنا «سُهَيْل». وأشهر من حمل هذا النسب أبو القاسم السهيلي، عبد الرحمن بن عبد الله بن أحمد الخثعمي (508–581هـ)، الحافظ العالم باللغة والسِّيَر، صاحب «الروض الأُنُف»، وُلد بمالقة وتوفي بمراكش."
   },
   "refs": [
     {

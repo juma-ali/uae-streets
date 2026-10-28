@@ -27,7 +27,7 @@
   function esc(s) {
     return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
-  function num(n) { return n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en"); }
+  function num(n) { return n.toLocaleString(state.lang === "ar" ? "en-US" : "en"); }
   function t(en, ar) { return state.lang === "ar" ? ar : en; }
 
   /* rows: [en, ar, districtIndex, category, route, former, gloss, storyId] */

@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261029S";
+    s.src = "data/cards.js?v=20261029T";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -507,7 +507,7 @@
         return true;
       }).length;
       var c = chip.querySelector(".chip__count");
-      if (c) c.textContent = n ? n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") : "";
+      if (c) c.textContent = n ? n.toLocaleString(state.lang === "ar" ? "en-US" : "en") : "";
       chip.setAttribute("aria-pressed", String(state.origin === v));
     });
     $$('#emirate-chips .chip').forEach(function (chip) {
@@ -529,7 +529,7 @@
           return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
         }).length;
       }
-      chip.querySelector(".chip__count").textContent = n;
+      chip.querySelector(".chip__count").textContent = n.toLocaleString("en-US");
       chip.setAttribute("aria-pressed", String(state.emirate === v));
     });
 
@@ -552,7 +552,7 @@
           return q.split(" ").filter(Boolean).every(function (t) { return s._index.indexOf(t) !== -1; });
         }).length;
       }
-      chip.querySelector(".chip__count").textContent = n;
+      chip.querySelector(".chip__count").textContent = n.toLocaleString("en-US");
       chip.setAttribute("aria-pressed", String(state.category === v));
     });
   }
@@ -616,7 +616,7 @@
     var html = '<button type="button" class="chip" data-group="district" data-value="all" aria-pressed="' +
       (state.district === "all") + '"><span class="chip__label">' +
       esc(state.lang === "ar" ? "كل الأحياء" : "All districts") + '</span><span class="chip__count">' +
-      total.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</span></button>";
+      total.toLocaleString(state.lang === "ar" ? "en-US" : "en") + "</span></button>";
 
     Object.keys(counts).sort(function (a, b) { return counts[b] - counts[a]; }).forEach(function (id) {
       var d = ROADS.districts[id];
@@ -625,7 +625,7 @@
       html += '<button type="button" class="chip" data-group="district" data-value="' + id +
         '" aria-pressed="' + (String(state.district) === String(id)) + '"><span class="chip__label">' +
         esc(label) + '</span><span class="chip__count">' +
-        counts[id].toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</span></button>";
+        counts[id].toLocaleString(state.lang === "ar" ? "en-US" : "en") + "</span></button>";
     });
 
     wrap.innerHTML = html;
@@ -678,7 +678,7 @@
       moreWrap.hidden = remaining <= 0;
       var moreBtn = $("#cards-more");
       if (moreBtn) moreBtn.textContent = state.lang === "ar"
-        ? "عرض مزيد من البطاقات (" + Math.min(remaining, PAGE).toLocaleString("ar-EG") + ")"
+        ? "عرض مزيد من البطاقات (" + Math.min(remaining, PAGE).toLocaleString("en-US") + ")"
         : "Show more cards (" + Math.min(remaining, PAGE) + ")";
     }
 
@@ -697,7 +697,7 @@
       if (lastRoads.length) {
         var shownN = Math.min(lastRoads.length, state.roadsShown || ROAD_PAGE);
         var capped = lastRoads.length > shownN;
-        var num = function (x) { return x.toLocaleString(state.lang === "ar" ? "ar-EG" : "en"); };
+        var num = function (x) { return x.toLocaleString(state.lang === "ar" ? "en-US" : "en"); };
         var head;
         if (state.lang === "ar") {
           head = capped ? num(shownN) + " من " + num(lastRoads.length) + " طريقاً" : num(lastRoads.length) + " طريقاً";
@@ -710,7 +710,7 @@
         var shown = Math.min(n, state.limit || PAGE);
         if (n > shown) {
           countEl.textContent = state.lang === "ar"
-            ? shown.toLocaleString("ar-EG") + " من " + n.toLocaleString("ar-EG") + " شارعاً" +
+            ? shown.toLocaleString("en-US") + " من " + n.toLocaleString("en-US") + " شارعاً" +
               (isDefaultView() ? " · الموثّق أولاً" : "")
             : "showing " + shown + " of " + n + " streets" +
               (isDefaultView() ? " · documented first" : "");
@@ -764,11 +764,11 @@
     };
     var html = EMIRATES.map(function (e) {
       var n = ROADS ? roadsFor(e.id) : STREETS.filter(function (s) { return s.emirate === e.id; }).length;
-      return '<div class="stat"><dt>' + esc(e[state.lang]) + "</dt><dd>" + n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</dd></div>";
+      return '<div class="stat"><dt>' + esc(e[state.lang]) + "</dt><dd>" + n.toLocaleString(state.lang === "ar" ? "en-US" : "en") + "</dd></div>";
     }).join("");
     var total = (ROADS && ROADS.rows.length) || STREETS.length;
     html += '<div class="stat stat--total"><dt>' +
-      (state.lang === "ar" ? "المجموع" : "Total") + "</dt><dd>" + total.toLocaleString(state.lang === "ar" ? "ar-EG" : "en") + "</dd></div>";
+      (state.lang === "ar" ? "المجموع" : "Total") + "</dt><dd>" + total.toLocaleString(state.lang === "ar" ? "en-US" : "en") + "</dd></div>";
     box.innerHTML = html;
   }
 
@@ -1096,7 +1096,7 @@
     var el = document.getElementById("total-count");
     if (!el) return;
     var n = (window.ROADS && window.ROADS.rows && window.ROADS.rows.length) || STREETS.length;
-    el.textContent = n.toLocaleString(state.lang === "ar" ? "ar-EG" : "en");
+    el.textContent = n.toLocaleString(state.lang === "ar" ? "en-US" : "en");
   }
 
   function boot() {
