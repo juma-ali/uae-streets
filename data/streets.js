@@ -2595,18 +2595,23 @@ window.STREETS = [
   "id": "al-taher-bin-abi-hala-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الطاهر بن أبي هالة",
   "en": "Al Taher Bin Abi Hala Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion, the Prophet's stepson",
+    "ar": "صحابي، ربيب النبي صلى الله عليه وسلم"
   },
   "story": {
-    "en": "No published source was found identifying who Al Taher Bin Abi Hala — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الطاهر بن أبي هالة» الذي يحمل الشارع اسمه."
+    "en": "Al-Tahir ibn Abi Halah ibn Zurarah al-Usaydi al-Tamimi was a Companion and the Prophet's stepson — his mother was Khadijah bint Khuwaylid. The Prophet appointed him over part of Yemen, and Abu Bakr sent him against the apostates of Azd Tihamah, whom he defeated.",
+    "ar": "الطاهر بن أبي هالة بن زرارة الأسيدي التميمي، صحابي وربيب النبي صلى الله عليه وسلم، وأمه أم المؤمنين خديجة بنت خويلد. ولّاه رسول الله صلى الله عليه وسلم على بعض اليمن، ثم ندبه أبو بكر الصديق لقتال المرتدين من أزد تهامة، فقاتلهم وتغلّب عليهم."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — الطاهر بن أبي هالة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D8%A7%D9%87%D8%B1_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D9%87%D8%A7%D9%84%D8%A9"
+    }
+  ]
 },
 {
   "id": "al-tufail-bin-al-hareth-street",
@@ -5221,18 +5226,23 @@ window.STREETS = [
   "id": "al-habab-bin-munther-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحباب بن منذر",
   "en": "Al Habab Bin Munther Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of the Ansar, of the Khazraj",
+    "ar": "صحابي من الأنصار من الخزرج"
   },
   "story": {
-    "en": "No published source was found identifying who Al Habab Bin Munther — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الحباب بن منذر» الذي يحمل الشارع اسمه."
+    "en": "Al-Habab ibn al-Mundhir was a Companion of the Ansar, of the Banu Haram ibn Ka'b of the Khazraj. He fought in all the Prophet's campaigns, was known for his judgement, and the Prophet took his counsel on more than one occasion.",
+    "ar": "الحباب بن المنذر، صحابي من الأنصار من بني حرام بن كعب من الخزرج، شهد مع النبي صلى الله عليه وسلم المشاهد كلها، وكان ذا رأي ومشورة، فأخذ النبي صلى الله عليه وسلم برأيه في بعض المواقف."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — الحباب بن المنذر",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A8%D8%A7%D8%A8_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D9%86%D8%B0%D8%B1"
+    }
+  ]
 },
 {
   "id": "al-hur-bin-abdullarahman-street",
@@ -5479,18 +5489,23 @@ window.STREETS = [
   "id": "al-fakeh-bin-basheer-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الفاكه بن بشير",
   "en": "Al Fakeh Bin Basheer Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of Badr",
+    "ar": "صحابي بدري"
   },
   "story": {
-    "en": "No published source was found identifying who Al Fakeh Bin Basheer — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الفاكه بن بشير» الذي يحمل الشارع اسمه."
+    "en": "Al-Fakih ibn Bishr al-Ansari was a Companion who fought at Badr. The sign writes «Basheer»; the list of the men of Badr has «Bishr».",
+    "ar": "الفاكه بن بشر الأنصاري، صحابي شهد غزوة بدر. ويأتي الاسم على اللوحة «بشير»، وفي قائمة من شهد بدراً «بشر»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — قائمة من شهدوا غزوة بدر من المسلمين",
+      "url": "https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9%20%D9%85%D9%86%20%D8%B4%D9%87%D8%AF%D9%88%D8%A7%20%D8%BA%D8%B2%D9%88%D8%A9%20%D8%A8%D8%AF%D8%B1%20%D9%85%D9%86%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86"
+    }
+  ]
 },
 {
   "id": "al-fadel-bin-abbas-street",
@@ -5586,18 +5601,23 @@ window.STREETS = [
   "id": "al-layth-bin-sa-ed-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الليث بن سعيد",
   "en": "Al Layth Bin Sa'ed Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "Imam of the people of Egypt in his time",
+    "ar": "إمام أهل مصر في زمانه"
   },
   "story": {
-    "en": "No published source was found identifying who Al Layth Bin Sa'ed — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «الليث بن سعيد» الذي يحمل الشارع اسمه."
+    "en": "Abu al-Harith al-Layth ibn Sa'd ibn Abd al-Rahman al-Fahmi (94–175 AH), known as the Imam of the people of Egypt in his time, was a jurist and transmitter of hadith, born at Qalqashandah in the Egyptian Delta. The sign writes his father «Saeed»; the sources have «Sa'd».",
+    "ar": "أبو الحارث الليث بن سعد بن عبد الرحمن الفهمي (94–175هـ)، إمام أهل مصر في زمانه، فقيه ومحدّث، وُلد في قرية قلقشندة من أسفل أعمال مصر. ويأتي اسم أبيه على اللوحة «سعيد»، وفي المصادر «سعد»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — الليث بن سعد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%84%D9%8A%D8%AB_%D8%A8%D9%86_%D8%B3%D8%B9%D8%AF"
+    }
+  ]
 },
 {
   "id": "al-majody-bin-dhahir-street",
@@ -5643,18 +5663,23 @@ window.STREETS = [
   "id": "um-kulthoum-bint-al-abbas-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أم كُلثُوم بنت العَبَّاس",
   "en": "Um Kulthoum Bint Al 'Abbas Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion, daughter of al-Abbas",
+    "ar": "صحابية، بنت العباس بن عبد المطلب"
   },
   "story": {
-    "en": "No published source was found identifying who Um Kulthoum Bint Al 'Abbas — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «أم كُلثُوم بنت العَبَّاس» الذي يحمل الشارع اسمه."
+    "en": "Umm Kulthum bint al-Abbas ibn Abd al-Muttalib al-Hashimiyyah was a Companion and a cousin of the Prophet.",
+    "ar": "أم كلثوم بنت العباس بن عبد المطلب الهاشمية، صحابية، وابنة عم رسول الله صلى الله عليه وسلم."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — أم كلثوم بنت العباس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85_%D9%83%D9%84%D8%AB%D9%88%D9%85_%D8%A8%D9%86%D8%AA_%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3"
+    }
+  ]
 },
 {
   "id": "um-waraqah-bint-abdullah-street",
@@ -5793,18 +5818,23 @@ window.STREETS = [
   "id": "basheer-bin-ma-bad-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بَشِير بن مَعبَد",
   "en": "Basheer Bin Ma'bad Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "Bashir ibn Ma'bad, of the Banu al-Khasasiyah",
+    "ar": "بشير بن معبد بن الخصاصية"
   },
   "story": {
-    "en": "No published source was found identifying who Basheer Bin Ma'bad — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشير بن معبد» الذي يحمل الشارع اسمه."
+    "en": "Bashir ibn Ma'bad ibn al-Khasasiyah al-Sadusi is recorded in the biographical dictionaries of the Companions, among them Ibn Manda, Ibn al-Athir and Ibn Hibban.",
+    "ar": "بشير بن معبد بن الخصاصية السدوسي، ترجم له أصحاب كتب الصحابة، ومنهم ابن منده وابن الأثير وابن حبان."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "موسوعة رواة الحديث — بشير بن معبد",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%A8%D8%B4%D9%8A%D8%B1-%D8%A8%D9%86-%D9%85%D8%B9%D8%A8%D8%AF/"
+    }
+  ]
 },
 {
   "id": "bat-ha-bin-hilal-street",
@@ -5895,18 +5925,23 @@ window.STREETS = [
   "id": "tameem-bin-usayd-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع تَمِيم بن أسَيد",
   "en": "Tameem Bin Usayd Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "Abu Rifa'ah al-Adawi, a Companion",
+    "ar": "أبو رفاعة العدوي، صحابي"
   },
   "story": {
-    "en": "No published source was found identifying who Tameem Bin Usayd — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «تميم بن اسيد» الذي يحمل الشارع اسمه."
+    "en": "Abu Nu'aym records him in Ma'rifat al-Sahabah: Tamim ibn Usayd — and it is said Tamim ibn Iyas — Abu Rifa'ah al-Adawi, counted among the people of Basra; he died at Sijistan with Abd al-Rahman ibn Samurah.",
+    "ar": "ذكره أبو نعيم في «معرفة الصحابة»: تميم بن أسيد، وقيل تميم بن إياس، أبو رفاعة العدوي، يُعدّ في البصريين، وتوفي بسجستان مع عبد الرحمن بن سمرة."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "موسوعة رواة الحديث — تميم بن أسيد (أبو نعيم)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AA%D9%85%D9%8A%D9%85-%D8%A8%D9%86-%D8%A7%D8%B3%D9%8A%D8%AF/"
+    }
+  ]
 },
 {
   "id": "tameem-bin-al-harith-street",
@@ -6046,18 +6081,23 @@ window.STREETS = [
   "id": "thawban-bin-bujdud-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثَوبان بن بُجدُد",
   "en": "Thawban Bin Bujdud Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "The Prophet's freedman",
+    "ar": "مولى النبي صلى الله عليه وسلم"
   },
   "story": {
-    "en": "No published source was found identifying who Thawban Bin Bujdud — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثوبان بن بجدد» الذي يحمل الشارع اسمه."
+    "en": "Thawban ibn Bujdud (d. 54 AH), known as the Prophet's freedman, was a Companion and transmitter of hadith. The Prophet bought and freed him, and he stayed with him and kept much from him.",
+    "ar": "ثوبان بن بجدُد (ت 54هـ)، مولى النبي صلى الله عليه وسلم، صحابي ومن رواة الحديث. اشتراه النبي صلى الله عليه وسلم وأعتقه، فلزمه وصحبه وحفظ عنه كثيراً."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — ثوبان مولى النبي محمد",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AB%D9%88%D8%A8%D8%A7%D9%86_%D9%85%D9%88%D9%84%D9%89_%D8%A7%D9%84%D9%86%D8%A8%D9%8A_%D9%85%D8%AD%D9%85%D8%AF"
+    }
+  ]
 },
 {
   "id": "jabalah-bin-tha-labah-street",
@@ -6148,18 +6188,23 @@ window.STREETS = [
   "id": "jumaa-bin-hathboor-al-rumaithi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعه بن حثبور الرميثي",
   "en": "Jumaa Bin Hathboor Al Rumaithi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "An Abu Dhabi collector of the country's heritage",
+    "ar": "من أبناء أبوظبي، جامع للتراث"
   },
   "story": {
-    "en": "The street carries the name of جمعه بن حثبور الرميثي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم جمعه بن حثبور الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Juma Hithbur Al Rumaithi of Abu Dhabi built a private museum holding the tools his fathers and grandfathers used in daily life and in their trades — hunting, diving and pearling — and takes it to heritage festivals around the country, among them Qasr al-Hosn, Liwa and the Sheikh Zayed Heritage Festival.",
+    "ar": "جمعة حثبور الرميثي، من أبناء أبوظبي، أنشأ متحفاً خاصاً يضم الأدوات التي كان يستخدمها الآباء والأجداد في حياتهم اليومية وفي حرفهم، مثل أدوات الصيد والغوص والبحث عن اللؤلؤ، ويشارك به في المحافل والمهرجانات التراثية في الدولة، ومنها مهرجان قصر الحصن ومهرجان ليوا ومهرجان الشيخ زايد التراثي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الخليج — جمعة الرميثي: تعلمت من زايد عشق التراث",
+      "url": "https://www.alkhaleej.ae/%D9%85%D9%84%D8%AD%D9%82/%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D9%85%D9%8A%D8%AB%D9%8A-%D8%AA%D8%B9%D9%84%D9%85%D8%AA-%D9%85%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D8%B9%D8%B4%D9%82-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AB"
+    }
+  ]
 },
 {
   "id": "harithah-bin-sahl-street",
@@ -20755,18 +20800,23 @@ window.STREETS = [
   "id": "darwish-bin-karam-al-mohammed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع درويش بن كرم آل محمد",
   "en": "Darwish Bin Karam Al Mohammed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A name carried by a Qur'an school in Abu Dhabi",
+    "ar": "اسم يحمله مركز لتحفيظ القرآن في أبوظبي"
   },
   "story": {
-    "en": "The street carries the name of درويش بن كرم آل محمد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم درويش بن كرم آل محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "A Qur'an memorisation centre in Abu Dhabi carries his name — the Darwish bin Karam centre — and the local press has reported its ceremonies for its students.",
+    "ar": "يحمل اسمه في أبوظبي مركز لتحفيظ القرآن الكريم — «مركز درويش بن كرم» — وقد نقلت الصحافة المحلية احتفاءه بالدارسين فيه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الاتحاد — «درويش بن كرم» لتحفيظ القرآن الكريم يحتفي بالدارسين",
+      "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/4482223/-%D8%AF%D8%B1%D9%88%D9%8A%D8%B4-%D8%A8%D9%86-%D9%83%D8%B1%D9%85--%D9%84%D8%AA%D8%AD%D9%81%D9%8A%D8%B8-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D9%8A%D8%AD%D8%AA%D9%81%D9%8A-%D8%A8%D8%A7%D9%84%D8%AF%D8%A7%D8%B1%D8%B3%D9%8A%D9%86"
+    }
+  ]
 },
 {
   "id": "dhakwan-bin-abdullah-qays-street",
@@ -21819,18 +21869,23 @@ window.STREETS = [
   "id": "khadim-bin-butti-al-hamed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خادم بن بطي آل حامد",
   "en": "Khadim Bin Butti Al Hamed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Founder of Bin Butti Group",
+    "ar": "مؤسس مجموعة بن بطي"
   },
   "story": {
-    "en": "The street carries the name of خادم بن بطي آل حامد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم خادم بن بطي آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Bin Butti Group, an Abu Dhabi company, states that it was established in 1968 under the leadership of Sheikh Khadem Bin Butti.",
+    "ar": "تذكر مجموعة بن بطي، وهي شركة مقرها أبوظبي، أنها تأسست سنة 1968 بقيادة الشيخ خادم بن بطي."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Bin Butti Group — about the company",
+      "url": "https://binbuttigroup.com/"
+    }
+  ]
 },
 {
   "id": "khalad-bin-amr-street",
