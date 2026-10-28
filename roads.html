@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>All roads — UAE Streets</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="assets/css/styles.css?v=20261029Z">
+<link rel="stylesheet" href="assets/css/styles.css?v=20261030A">
 <style>
   .roads-controls { display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; margin: 1.2rem 0 1.6rem; }
   .roads-controls input, .roads-controls select {
@@ -27,6 +27,9 @@
   .roads-more { margin: 1.6rem 0 3rem; text-align: center; }
   .roads-count { font-size: .82rem; color: var(--ink-3); }
 </style>
+<script>
+  try { if (localStorage.getItem("uae-streets-theme") === "light") document.documentElement.setAttribute("data-theme", "light"); } catch (e) {}
+</script>
 </head>
 <body>
 <header class="site-header" style="position:static">
@@ -60,7 +63,7 @@
   <div class="roads-more"><button type="button" class="btn" id="more" hidden></button></div>
 </main>
 
-<script src="data/cards.js?v=20261029Z"></script>
-<script src="assets/js/roads.js?v=20261029Z"></script>
+<script src="data/cards.js?v=20261030A"></script>
+<script src="assets/js/roads.js?v=20261030A"></script>
 </body>
 </html>

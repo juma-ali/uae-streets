@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261029Z";
+    s.src = "data/cards.js?v=20261030A";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -879,7 +879,7 @@
 
   function currentTheme() {
     var t = document.documentElement.getAttribute("data-theme");
-    return (t === "light" || t === "dark") ? t : systemTheme();
+    return (t === "light" || t === "dark") ? t : "dark";   /* the stylesheet's default */
   }
 
   function renderThemeIcon() {
@@ -889,6 +889,8 @@
     var label = next === "dark" ? T.themeToDark : T.themeToLight;
     btn.setAttribute("aria-label", label);
     btn.setAttribute("title", label);
+    var meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute("content", currentTheme() === "dark" ? "#15130f" : "#faf5ec");
     btn.innerHTML = next === "dark"
       ? '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.6A8.6 8.6 0 1 1 9.4 3.5a6.9 6.9 0 0 0 11.1 11.1Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>'
       : '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v2.2M12 18.8V21M3 12h2.2M18.8 12H21M5.6 5.6l1.6 1.6M16.8 16.8l1.6 1.6M18.4 5.6l-1.6 1.6M7.2 16.8l-1.6 1.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>';

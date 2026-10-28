@@ -8,7 +8,45 @@
    ============================================================ */
 
 /* ---------- 1. Tokens ---------- */
+/* Dark is the default. The light palette lives behind [data-theme="light"], which
+   the theme button sets and the browser remembers. */
 :root {
+  --paper:      #15130f;
+  --paper-2:    #1b1813;
+  --card:       #1d1a15;
+  --ink:        #f3ead9;
+  --ink-2:      #d2c6b1;
+  --ink-3:      #9a8d77;
+  --line:       #302a23;
+  --line-2:     #403830;
+  --line-soft:  #28231d;
+  --accent:     #e08a52;
+  --accent-2:   #f0a774;
+  --palm:       #74bd95;
+  --gulf:       #85bccf;
+  --plum:       #b48cad;
+  --clay:       #d9986f;
+  --sign:       #14603f;
+
+  --radius:     14px;
+  --radius-lg:  20px;
+  --shadow-sm:  0 1px 2px rgba(0,0,0,.4), 0 10px 26px -16px rgba(0,0,0,.8);
+  --shadow-md:  0 18px 40px -22px rgba(0,0,0,.85);
+  --shadow-lg:  0 40px 80px -30px rgba(0,0,0,.9);
+
+  --wrap:       1140px;
+  --masthead-h: 70px;
+
+  --font-display: "Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --font-body:    "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-ar:      "IBM Plex Sans Arabic", "Segoe UI", Tahoma, "Geeza Pro", sans-serif;
+  --font-mono:    ui-monospace, "SF Mono", "Cascadia Code", "Consolas", monospace;
+
+  color-scheme: dark;
+}
+
+/* the light palette, chosen with the theme button */
+:root[data-theme="light"] {
   --paper:      #faf5ec;
   --paper-2:    #f3e9d9;
   --card:       #fffdf8;
@@ -24,72 +62,14 @@
   --gulf:       #1d5a70;
   --plum:       #6d4767;
   --clay:       #8a4b2a;
-  --sign:       #14603f;
-
-  --radius:     14px;
-  --radius-lg:  20px;
   --shadow-sm:  0 1px 2px rgba(33,27,20,.05), 0 10px 26px -16px rgba(33,27,20,.35);
   --shadow-md:  0 18px 40px -22px rgba(33,27,20,.40);
   --shadow-lg:  0 40px 80px -30px rgba(33,27,20,.45);
-
-  --wrap:       1140px;
-  --masthead-h: 70px;
-
-  --font-display: "Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
-  --font-body:    "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --font-ar:      "IBM Plex Sans Arabic", "Segoe UI", Tahoma, "Geeza Pro", sans-serif;
-  --font-mono:    ui-monospace, "SF Mono", "Cascadia Code", "Consolas", monospace;
-
   color-scheme: light;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --paper:     #15130f;
-    --paper-2:   #1b1813;
-    --card:      #1d1a15;
-    --ink:       #f3ead9;
-    --ink-2:     #d2c6b1;
-    --ink-3:     #9a8d77;
-    --line:      #302a23;
-    --line-2:    #403830;
-    --line-soft: #28231d;
-    --accent:    #e08a52;
-    --accent-2:  #f0a774;
-    --palm:      #74bd95;
-    --gulf:      #85bccf;
-    --plum:      #b48cad;
-    --clay:      #d9986f;
-    --shadow-sm: 0 1px 2px rgba(0,0,0,.4), 0 10px 26px -16px rgba(0,0,0,.8);
-    --shadow-md: 0 18px 40px -22px rgba(0,0,0,.85);
-    --shadow-lg: 0 40px 80px -30px rgba(0,0,0,.9);
-    color-scheme: dark;
-  }
-}
-
-/* explicit choice, set by the theme button */
-:root[data-theme="dark"] {
-  --paper:     #15130f;
-  --paper-2:   #1b1813;
-  --card:      #1d1a15;
-  --ink:       #f3ead9;
-  --ink-2:     #d2c6b1;
-  --ink-3:     #9a8d77;
-  --line:      #302a23;
-  --line-2:    #403830;
-  --line-soft: #28231d;
-  --accent:    #e08a52;
-  --accent-2:  #f0a774;
-  --palm:      #74bd95;
-  --gulf:      #85bccf;
-  --plum:      #b48cad;
-  --clay:      #d9986f;
-  --shadow-sm: 0 1px 2px rgba(0,0,0,.4), 0 10px 26px -16px rgba(0,0,0,.8);
-  --shadow-md: 0 18px 40px -22px rgba(0,0,0,.85);
-  --shadow-lg: 0 40px 80px -30px rgba(0,0,0,.9);
-  color-scheme: dark;
-}
-:root[data-theme="light"] { color-scheme: light; }
+/* a hand-set dark is the same as the default, kept for clarity */
+:root[data-theme="dark"] { color-scheme: dark; }
 
 /* ---------- 2. Base ---------- */
 *, *::before, *::after { box-sizing: border-box; }
