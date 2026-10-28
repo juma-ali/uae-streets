@@ -6210,18 +6210,23 @@ window.STREETS = [
   "id": "harithah-bin-sahl-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حارِثة بن سَهل",
   "en": "Harithah Bin Sahl Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "An Ansari Companion who fought at Uhud",
+    "ar": "صحابي أنصاري شهد أُحداً"
   },
   "story": {
-    "en": "No published source was found identifying who Harithah Bin Sahl — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حارثه بن سهل» الذي يحمل الشارع اسمه."
+    "en": "Harithah ibn Sahl ibn Harithah ibn Qays, of the Aws: «he fought at Uhud; Abu Musa included him, and al-Adawi said the scholars of the campaigns agree that he was at Uhud.»",
+    "ar": "حارثة بن سهل بن حارثة بن قيس، من الأوس: «شهد أُحداً، أخرجه أبو موسى، وقال العدوي: أجمع أهل المغازي أنه شهد أُحداً»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "تراجم — حارثة بن سهل (عن أسد الغابة)",
+      "url": "https://tarajm.com/people/35336"
+    }
+  ]
 },
 {
   "id": "harithah-bin-amr-street",
@@ -6278,35 +6283,45 @@ window.STREETS = [
   "id": "habbab-bin-qaithy-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حباب بن قيظي",
   "en": "Habbab Bin Qaithy Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "An Ansari Companion killed at Uhud",
+    "ar": "صحابي أنصاري، قُتل يوم أُحد"
   },
   "story": {
-    "en": "No published source was found identifying who Habbab Bin Qaithy — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حباب بن قيظي» الذي يحمل الشارع اسمه."
+    "en": "Ibn Abi Hatim records him in al-Jarh wa-l-Ta'dil: «Hubab ibn Qayzi, an Ansari, was killed at Uhud» — his father reporting it.",
+    "ar": "ترجم له ابن أبي حاتم في «الجرح والتعديل»: «حباب بن قيظي أنصاري، قُتل يوم أُحد»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ابن أبي حاتم — الجرح والتعديل (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AD%D8%A8%D8%A7%D8%A8-%D8%A8%D9%86-%D9%82%D9%8A%D8%B8%D9%8A/"
+    }
+  ]
 },
 {
   "id": "habeeb-bin-abi-al-yusr-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حَبِيب بن أَبِي اليسر",
   "en": "Habeeb Bin Abi Al Yusr Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "An Ansari Companion, killed at al-Harrah",
+    "ar": "صحابي أنصاري، قُتل يوم الحرة"
   },
   "story": {
-    "en": "No published source was found identifying who Habeeb Bin Abi Al Yusr — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حَبِيب بن أَبِي اليسر» الذي يحمل الشارع اسمه."
+    "en": "Usd al-Ghaba: «Habib ibn Abi al-Yusr ibn Amr al-Ansari — he had Companionship, and was killed on the day of al-Harrah.» His brothers Yazid and Umayr were killed at al-Harrah and at the Bridge.",
+    "ar": "في «أسد الغابة»: «حبيب بن أبي اليسر بن عمرو الأنصاري، له صحبة، وقُتل يوم الحرة»، وكان له أخوان: يزيد وعمير."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A8%D9%86-%D8%A7%D8%A8%D9%8A-%D8%A7%D9%84%D9%8A%D8%B3%D8%B1/"
+    }
+  ]
 },
 {
   "id": "habeeb-bin-wahb-street",
@@ -6414,18 +6429,23 @@ window.STREETS = [
   "id": "umaymah-bint-abd-al-muttalib-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أمَيمة بنت عبدالمطلب",
   "en": "Umaymah Bint Abd Al Muttalib Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "The Prophet's paternal aunt",
+    "ar": "عمة النبي صلى الله عليه وسلم"
   },
   "story": {
-    "en": "No published source was found identifying who Umaymah Bint Abd Al Muttalib — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «اميمه بنت عبدالمطلب» الذي يحمل الشارع اسمه."
+    "en": "Umaymah bint Abd al-Muttalib was a paternal aunt of the Prophet and the mother of his wife Zaynab bint Jahsh.",
+    "ar": "أميمة بنت عبد المطلب، عمة رسول الله صلى الله عليه وسلم، ووالدة زوجته أم المؤمنين زينب بنت جحش."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — أميمة بنت عبد المطلب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D9%85%D9%8A%D9%85%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8"
+    }
+  ]
 },
 {
   "id": "anas-bin-fudalah-street",
@@ -6488,18 +6508,23 @@ window.STREETS = [
   "id": "thabet-bin-al-jathe-al-ansari-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثابت بن الجذع الأنصاري",
   "en": "Thabet Bin Al Jathe' Al Ansari Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of the Ansar, killed at Ta'if",
+    "ar": "صحابي أنصاري، قُتل يوم الطائف"
   },
   "story": {
-    "en": "No published source was found identifying who Thabet Bin Al Jathe' Al Ansari — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن الجذع الأنصاري» الذي يحمل الشارع اسمه."
+    "en": "Thabit ibn al-Jadha' (d. 8 AH) was a Companion of the Ansar, of the Banu Haram ibn Ka'b of the Khazraj. He was at the second pledge of Aqabah, and fought with the Prophet at Badr, Uhud, the Trench and Khaybar, and was at Hudaybiyyah and the conquest of Mecca; he was killed at Ta'if.",
+    "ar": "ثابت بن الجذع (المتوفى سنة 8هـ)، صحابي من الأنصار من بني حرام بن كعب من الخزرج، شهد بيعة العقبة الثانية، وغزوات بدر وأُحد والخندق وخيبر، وصلح الحديبية وفتح مكة، وقُتل يوم الطائف."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — ثابت بن الجذع",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AB%D8%A7%D8%A8%D8%AA%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AC%D8%B0%D8%B9"
+    }
+  ]
 },
 {
   "id": "thabit-bin-al-harith-street",
@@ -6556,35 +6581,45 @@ window.STREETS = [
   "id": "thabit-bin-rifa-ah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثابِت بن رِفاعة",
   "en": "Thabit Bin Rifa'ah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "An Ansari who came to the Prophet as an orphan",
+    "ar": "أنصاري أتى النبي صلى الله عليه وسلم يتيماً"
   },
   "story": {
-    "en": "No published source was found identifying who Thabit Bin Rifa'ah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «ثابت بن رفاعه» الذي يحمل الشارع اسمه."
+    "en": "Abu Nu'aym: Thabit ibn Rifa'ah al-Ansari came to the Prophet and asked him; Qatadah relates that his uncle, an Ansari, came to the Prophet while Thabit was an orphan in his care.",
+    "ar": "عند أبي نعيم: «ثابت بن رفاعة الأنصاري أتى النبي صلى الله عليه وسلم فسأله»، وروى قتادة «أن عم ثابت بن رفاعة رجل من الأنصار أتى النبي صلى الله عليه وسلم، وثابت يومئذ يتيم في حجره»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "معرفة الصحابة (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AB%D8%A7%D8%A8%D8%AA-%D8%A8%D9%86-%D8%B1%D9%81%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D9%8A/"
+    }
+  ]
 },
 {
   "id": "jabir-bin-sheeban-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جَابِرُ بن شَيبان",
   "en": "Jabir Bin Sheeban Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "Of Thaqif, at the pledge of Ridwan",
+    "ar": "من ثقيف، شهد بيعة الرضوان"
   },
   "story": {
-    "en": "No published source was found identifying who Jabir Bin Sheeban — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «جابر بن شيبان» الذي يحمل الشارع اسمه."
+    "en": "Jabir ibn Shayban ibn 'Ajlan ibn 'Attab ibn Malik al-Thaqafi: «he was at the pledge of Ridwan, said al-Mada'ini in Akhbar Thaqif.»",
+    "ar": "جابر بن شيبان بن عجلان بن عتاب بن مالك الثقفي: «شهد بيعة الرضوان، قاله المدائني في كتاب أخبار ثقيف»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AC%D8%A7%D8%A8%D8%B1-%D8%A8%D9%86-%D8%B4%D9%8A%D8%A8%D8%A7%D9%86/"
+    }
+  ]
 },
 {
   "id": "hatim-bin-adiy-street",
@@ -6658,69 +6693,89 @@ window.STREETS = [
   "id": "habeeb-bin-al-harith-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حَبِيب بن الحارِث",
   "en": "Habeeb Bin Al Harith Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion who migrated to the Prophet",
+    "ar": "صحابي هاجر إلى النبي صلى الله عليه وسلم"
   },
   "story": {
-    "en": "No published source was found identifying who Habeeb Bin Al Harith — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حَبِيب بن الحارِث» الذي يحمل الشارع اسمه."
+    "en": "Al-Isti'ab records him briefly: «Habib ibn al-Harith migrated to the Messenger of Allah, peace be upon him.»",
+    "ar": "في «الاستيعاب»: «حبيب بن الحارث هاجر إلى رسول الله صلى الله عليه وسلم»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الاستيعاب (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A8%D9%86-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB/"
+    }
+  ]
 },
 {
   "id": "habeeb-bin-ad-dahhak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حَبِيب بن الضَّحَّاك",
   "en": "Habeeb Bin Ad Dahhak Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of the Juhaynah",
+    "ar": "صحابي من جهينة"
   },
   "story": {
-    "en": "No published source was found identifying who Habeeb Bin Ad Dahhak — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حَبِيب بن الضَّحَّاك» الذي يحمل الشارع اسمه."
+    "en": "Abu Nu'aym lists Habib ibn al-Dahhak al-Jumahi in Ma'rifat al-Sahabah, with a hadith he transmits.",
+    "ar": "ذكره أبو نعيم في «معرفة الصحابة»: حبيب بن الضحاك الجمحي، وله حديث يرويه."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "معرفة الصحابة (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A8%D9%86-%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%83-%D8%A7%D9%84%D8%AC%D9%85%D8%AD%D9%8A/"
+    }
+  ]
 },
 {
   "id": "habeeb-bin-hamamah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حَبِيب بن حَمامة",
   "en": "Habeeb Bin Hamamah Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "A Companion of the Banu Sulaym",
+    "ar": "صحابي من بني سليم"
   },
   "story": {
-    "en": "No published source was found identifying who Habeeb Bin Hamamah — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن حمامه» الذي يحمل الشارع اسمه."
+    "en": "Usd al-Ghaba: «Habib ibn Hamamah al-Sulami — Ibn Manda and others named him among the unknown, and he has a well-known hadith.»",
+    "ar": "في «أسد الغابة»: «حبيب بن حمامة السلمي، ذكره ابن منده وغيره في المجهولين، وله حديث مشهور»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A8%D9%86-%D8%AD%D9%85%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A/"
+    }
+  ]
 },
 {
   "id": "habeeb-bin-siba-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حَبِيب بن سِباع",
   "en": "Habeeb Bin Siba' Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "en": "Abu Jum'ah, a Companion",
+    "ar": "أبو جمعة، صحابي"
   },
   "story": {
-    "en": "No published source was found identifying who Habeeb Bin Siba' — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حبيب بن سباع» الذي يحمل الشارع اسمه."
+    "en": "«Habib ibn Siba' Abu Jum'ah al-Kinani settled in Egypt.» Yahya ibn Ma'in said: «Abu Jum'ah, the companion of the Prophet, his name is Habib ibn Siba'.»",
+    "ar": "«حبيب بن سباع، أبو جمعة الكناني، سكن مصر». وقال يحيى بن معين: «أبو جمعة صاحب النبي صلى الله عليه وسلم اسمه حبيب بن سباع»."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "معرفة الصحابة (عبر موسوعة رواة الحديث)",
+      "url": "https://hadithtransmitters.hawramani.com/%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A8%D9%86-%D8%B3%D8%A8%D8%A7%D8%B9/"
+    }
+  ]
 },
 {
   "id": "habeeb-bin-umayr-street",
