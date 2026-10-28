@@ -23643,187 +23643,187 @@ window.STREETS = [
 {
   "id": "tawi-bin-ghalib-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن غالِب",
   "en": "Tawi Bin Ghalib Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Ghalib",
+    "ar": "بئر — طَوِي بن غالِب"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن غالِب. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن غالِب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن غالِب, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن غالِب»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-hashil-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن هاشِل",
   "en": "Tawi Bin Hashil Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Hashil",
+    "ar": "بئر — طَوِي بن هاشِل"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن هاشِل. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن هاشِل، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن هاشِل, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن هاشِل»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-hayir-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن حايِر",
   "en": "Tawi Bin Hayir Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Hayir",
+    "ar": "بئر — طَوِي بن حايِر"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن حايِر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن حايِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن حايِر, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن حايِر»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-hizeem-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن هِزِيم",
   "en": "Tawi Bin Hizeem Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Hizeem",
+    "ar": "بئر — طَوِي بن هِزِيم"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن هِزِيم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن هِزِيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن هِزِيم, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن هِزِيم»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-khizam-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن خِزام",
   "en": "Tawi Bin Khizam Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Khizam",
+    "ar": "بئر — طَوِي بن خِزام"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن خِزام. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن خِزام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن خِزام, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن خِزام»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-sabir-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن صابِر",
   "en": "Tawi Bin Sabir Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Sabir",
+    "ar": "بئر — طَوِي بن صابِر"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن صابِر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن صابِر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن صابِر, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن صابِر»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-salamah-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن سَلامة",
   "en": "Tawi Bin Salamah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Salamah",
+    "ar": "بئر — طَوِي بن سَلامة"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن سَلامة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن سَلامة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن سَلامة, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن سَلامة»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-sharid-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن شارد",
   "en": "Tawi Bin Sharid Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Sharid",
+    "ar": "بئر — طَوِي بن شارد"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن شارد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن شارد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن شارد, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن شارد»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-timeem-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن تِمِيم",
   "en": "Tawi Bin Timeem Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Timeem",
+    "ar": "بئر — طَوِي بن تِمِيم"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن تِمِيم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن تِمِيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن تِمِيم, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن تِمِيم»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-yousif-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن يُوسِف",
   "en": "Tawi Bin Yousif Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Yousif",
+    "ar": "بئر — طَوِي بن يُوسِف"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن يُوسِف. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن يُوسِف، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن يُوسِف, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن يُوسِف»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
 {
   "id": "tawi-bin-zayed-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع طَوِي بن زايد",
   "en": "Tawi Bin Zayed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A well — Tawi Bin Zayed",
+    "ar": "بئر — طَوِي بن زايد"
   },
   "story": {
-    "en": "The street carries the name of طَوِي بن زايد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم طَوِي بن زايد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "«Tawi» is the local word for a well, a hand-dug water hole. The street is named for a well known as طَوِي بن زايد, and the word «bin» in it belongs to the well's name, not to a man's lineage.",
+    "ar": "«طَوِي» كلمة محلية للبئر، وهي الحفرة التي يُستقى منها الماء. ويحمل الشارع اسم بئر تُعرف بـ«طَوِي بن زايد»، و«بن» في الاسم من اسم البئر لا من نسب رجل."
   },
   "refs": []
 },
@@ -30720,19 +30720,24 @@ window.STREETS = [
 {
   "id": "al-himad-street",
   "emirate": "umm-al-quwain",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "word",
+  "origin": "documented",
   "ar": "شارع الحمد",
   "en": "Al Himad Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Praise, thanks",
+    "ar": "الحمد: الثناء والشكر"
   },
   "story": {
-    "en": "The street carries the name of الحمد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الحمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-hamd is praise and thanks, the verbal noun of hamida — to praise. The street carries the word itself, not the name of a man.",
+    "ar": "«الحمد» في العربية الثناء والشكر، مصدر «حَمِدَ». ويحمل الشارع الكلمة على معناها، لا اسمَ رجل."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "معجم عربي — مادة (حمد)",
+      "url": "https://www.maajim.com/dictionary/%D8%AD%D9%85%D8%AF"
+    }
+  ]
 },
 {
   "id": "al-shahid-street",
@@ -30759,19 +30764,24 @@ window.STREETS = [
 {
   "id": "al-ssalm-street",
   "emirate": "umm-al-quwain",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "word",
+  "origin": "documented",
   "ar": "شارع السالم",
   "en": "Al Ssalm Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Sound, free of fault",
+    "ar": "السالم: ذو السلامة، البريء من العيب"
   },
   "story": {
-    "en": "The street carries the name of السالم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم السالم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Al-salim is the sound one — free of fault or harm — from the root s-l-m, the same root as salama (safety) and salam (peace). The street carries the adjective, not a personal name.",
+    "ar": "«السالم» صفة من السلامة، وهي البراءة من العيب والضرر، من الجذر نفسه الذي منه «السلامة» و«السلام». ويحمل الشارع الصفة على معناها، لا اسمَ رجل."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "معجم عربي — مادة (سلم)",
+      "url": "https://www.maajim.com/dictionary/%D8%B3%D9%84%D9%85"
+    }
+  ]
 },
 {
   "id": "al-suhail-street",
