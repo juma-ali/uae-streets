@@ -31468,5 +31468,71 @@ window.STREETS = [
     "Al Sihayli Street",
     "As Sihayli Street"
   ]
-}
+},
+{
+    "id": "mahthar-mawqab-street",
+    "emirate": "abu-dhabi",
+    "category": "place",
+    "origin": "documented",
+    "ar": "شارع مَحْضَر مُوقَب",
+    "en": "Mahthar Mawqab Street",
+    "meaning": {
+      "en": "A fort in the Liwa village of Mahather",
+      "ar": "حصن في قرية المحاضر في ليوا"
+    },
+    "story": {
+      "en": "Mawqab is a fort built on the orders of Sheikh Sultan bin Zayed, the father of Sheikh Zayed, in one of the villages of the Liwa known as Mahather. The area is low-lying and circular, with only one entrance, which made it easier to defend.",
+      "ar": "مَوقَب حصن بناه الشيخ سلطان بن زايد، والد الشيخ زايد، في إحدى قرى ليوا المعروفة بالمحاضر. والمنطقة منخفضة ودائرية الشكل، ولها مدخل واحد، مما يسهّل الدفاع عنها."
+    },
+    "refs": [
+      {
+        "label": "The National — «The stories behind Abu Dhabi’s new street names»",
+        "url": "https://www.thenationalnews.com/uae/the-stories-behind-abu-dhabi-s-new-street-names-1.648763"
+      }
+    ]
+  },
+{
+    "id": "al-dhafra-road",
+    "emirate": "abu-dhabi",
+    "category": "place",
+    "origin": "documented",
+    "ar": "طريق الظَّفرة",
+    "en": "Al Dhafra Road",
+    "meaning": {
+      "en": "Al Dhafra, the western region of Abu Dhabi",
+      "ar": "الظفرة، المنطقة الغربية من أبوظبي"
+    },
+    "story": {
+      "en": "Al Dhafra is the desert interior of Abu Dhabi, with Madinat Zayed as its main population centre. Each year the Al Dhafra Festival brings thousands of camels from the region to compete for prizes, and the region is also home to an airbase and the Shams solar power station.",
+      "ar": "الظفرة هي البادية الداخلية لإمارة أبوظبي، ومدينة زايد مركزها السكاني الرئيس. ويشهد مهرجان الظفرة سنوياً آلاف الإبل من المنطقة، وفيها قاعدة جوية ومحطة شمس للطاقة الشمسية."
+    },
+    "refs": [
+      {
+        "label": "The National — «The stories behind Abu Dhabi’s new street names»",
+        "url": "https://www.thenationalnews.com/uae/the-stories-behind-abu-dhabi-s-new-street-names-1.648763"
+      }
+    ]
+  },
+{
+    "id": "rabdan-street",
+    "emirate": "abu-dhabi",
+    "category": "place",
+    "origin": "documented",
+    "ar": "شارع ربدان",
+    "en": "Rabdan Street",
+    "meaning": {
+      "en": "The horse of Sheikh Zayed the First",
+      "ar": "فرس الشيخ زايد الأول"
+    },
+    "story": {
+      "en": "Rabdan was the celebrated mount of Sheikh Zayed the First, a gift from the Sharif of Mecca, Abdullah bin Hashem, and said to be descended from the horse of the Prophet Muhammad. He was the subject of several poems, and his bloodline is still present in the horses ridden by the Al Nahyan family.",
+      "ar": "رَبْدان فرس الشيخ زايد الأول المشهورة، أهداها إليه شريف مكة عبدالله بن هاشم، ويُقال إنها من نسل فرس النبي صلى الله عليه وسلم. وقد نُظمت فيها قصائد، ونسلها باقٍ في خيول آل نهيان."
+    },
+    "refs": [
+      {
+        "label": "The National — «The stories behind Abu Dhabi’s new street names»",
+        "url": "https://www.thenationalnews.com/uae/the-stories-behind-abu-dhabi-s-new-street-names-1.648763"
+      }
+    ]
+  }
 ];
