@@ -29741,18 +29741,23 @@ window.STREETS = [
   "id": "sheikh-abdullah-sultan-al-qasimi-street-sharjah",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ عبدالله سلطان القاسمي - الشارقة",
   "en": "Sheikh Abdullah Sultan Al Qasimi Street - Sharjah",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Deputy Ruler of Sharjah",
+    "ar": "نائب حاكم إمارة الشارقة"
   },
   "story": {
-    "en": "The street carries the name of الشيخ عبدالله سلطان القاسمي - الشارقة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الشيخ عبدالله سلطان القاسمي - الشارقة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah bin Salem bin Sultan Al Qasimi is Deputy Ruler of Sharjah and Vice-Chairman of its Executive Council; an Amiri decree appointed him Deputy Ruler on 19 February 2008. He had earlier headed the Amiri Diwan, the board of the Sharjah Electricity and Water Authority, and the Al Shaab Cultural and Sports Club. He is of the Qawasim and a descendant of Sheikh Sultan bin Saqr bin Khalid Al Qasimi, who ruled Sharjah from 1924 to 1951. The sign gives his name as «Abdullah Sultan Al Qasimi», dropping the «bin Salem» the sources carry.",
+    "ar": "عبدالله بن سالم بن سلطان القاسمي، نائب حاكم إمارة الشارقة ونائب رئيس المجلس التنفيذي لها، وقد صدر مرسوم أميري بتعيينه نائباً للحاكم في 19 فبراير 2008. وتولى قبل ذلك رئاسة الديوان الأميري، ورئاسة مجلس إدارة هيئة كهرباء ومياه وغاز الشارقة، ورئاسة نادي الشعب الثقافي الرياضي. وهو من قبيلة القواسم، ومن أحفاد الشيخ سلطان بن صقر بن خالد القاسمي الذي حكم الشارقة بين 1924 و1951. ويأتي الاسم على اللوحة «عبدالله سلطان القاسمي»، بحذف «بن سالم» الذي في المصادر."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الله بن سالم القاسمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%B3%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%D9%8A"
+    }
+  ]
 },
 {
   "id": "sheikh-hamad-bin-sa-eed-al-qasimi-street",
