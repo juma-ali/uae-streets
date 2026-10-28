@@ -586,7 +586,10 @@ html[dir="rtl"] .footer__ext { display: inline-block; transform: scaleX(-1); }
 .sheet__meaning-text { font-family: var(--font-display); font-size: 1.06rem; color: var(--ink); }
 
 .sheet__story p { font-size: .97rem; line-height: 1.78; color: var(--ink-2); }
-.sheet__story p::first-letter { font-size: 1.05em; }
+/* English only. ::first-letter makes WebKit lay the first character out as its own
+   text box, and a letter in its own box cannot join the next one — in Arabic the
+   word's first letter then renders detached on iOS. */
+html[lang="en"] .sheet__story p::first-letter { font-size: 1.05em; }
 
 .sheet__caveat {
   margin-block-start: 1.1rem; padding: .7rem .9rem;
@@ -629,6 +632,9 @@ html[lang="ar"] .card__meaning,
 html[lang="ar"] .hero__art-note,
 html[lang="ar"] .sheet__translit { font-style: normal; }
 html[lang="ar"] .plate__en { letter-spacing: .06em; }
+/* The meaning line is set in the Latin display face (Fraunces), which has no
+   Arabic glyphs — in Arabic it silently fell back to a system font. */
+html[lang="ar"] .sheet__meaning-text { font-family: var(--font-ar); font-weight: 500; line-height: 1.7; }
 html[lang="ar"] .search input { font-size: .95rem; }
 html[lang="ar"] .patterns li h3 { font-size: 1.28rem; }
 html[lang="ar"] .footer p { max-width: 40ch; }
