@@ -649,20 +649,23 @@ window.STREETS = [
     ]
   },
   {
-    id: "abdulla-khalifa-al-nuaimi-street",
-    emirate: "abu-dhabi",
-    category: "person",
-    origin: "account",
-    ar: "شارع عبدالله خليفة النعيمي",
-    en: "Abdulla Khalifa Al Nuaimi Street",
-    translit: "Shāriʿ ʿAbd Allāh Khalīfa an-Nuʿaymī",
-    meaning: { en: "An Emirati engineer, one of the heroes of the Armed Forces", ar: "مهندس إماراتي من أبطال القوات المسلحة" },
-    story: {
-      en: "Abdullah Khalifa Al Nuaimi was an Emirati engineer and a member of the UAE Armed Forces, remembered as a martyr. The street carries his name.",
-      ar: "عبدالله خليفة النعيمي مهندس إماراتي وأحد أبطال القوات المسلحة البواسل، استُشهد في سبيل الوطن. ويحمل الشارع اسمه."
-    },
-    refs: []
+  "id": "abdulla-khalifa-al-nuaimi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبدالله خليفة النعيمي",
+  "en": "Abdulla Khalifa Al Nuaimi Street",
+  "translit": "Shāriʿ ʿAbd Allāh Khalīfa an-Nuʿaymī",
+  "meaning": {
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
+  "story": {
+    "en": "The martyr Abdullah Khalifa Al Nuaimi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. He was an engineer in the Armed Forces.",
+    "ar": "الشهيد عبدالله خليفة النعيمي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وكان مهندساً في القوات المسلحة."
+  },
+  "refs": []
+},
   {
     id: "abdullah-almasoud-al-muhairbi-street",
     emirate: "abu-dhabi",
@@ -5437,12 +5440,12 @@ window.STREETS = [
   "ar": "شارع الشهيد سلطان بن هويدن",
   "en": "Sultan Bin Hwaidn Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Sultan Mohammed bin Huwaidin Al Ketbi was from Al Dhaid in the Emirate of Sharjah and held the rank of staff colonel. His funeral in Al Dhaid was reported in the local press on 14 December 2015. The street carries the shortened form of his name.",
-    "ar": "سلطان محمد بن هويدن الكتبي، من مدينة الذيد في إمارة الشارقة، وكان برتبة عقيد ركن. نُشر خبر تشييعه في الذيد في الصحافة المحلية في 14 ديسمبر 2015. ويحمل الشارع الصيغة المختصرة من اسمه."
+    "en": "The martyr Sultan Mohammed bin Huwaidin Al Ketbi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. He was from Al Dhaid in the Emirate of Sharjah and held the rank of staff colonel; his funeral in Al Dhaid was reported in the local press on 14 December 2015. The street carries the shortened form of his name.",
+    "ar": "الشهيد سلطان محمد بن هويدن الكتبي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وكان من مدينة الذيد في إمارة الشارقة، وبرتبة عقيد ركن، ونُشر خبر تشييعه في الذيد في الصحافة المحلية في 14 ديسمبر 2015. ويحمل الشارع الصيغة المختصرة من اسمه."
   },
   "refs": [
     {
@@ -8674,12 +8677,12 @@ window.STREETS = [
   "ar": "شارع علي خميس الكتبي",
   "en": "Ali Khamis Al Ktebi Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Ali Khamis bin Aayed Al Ketbi was from Al Ain in the Emirate of Abu Dhabi. Prayers were held for him at the Armed Forces Martyrs' Mosque in the Al Jahili area of Al Ain, and he was buried in the Al Matawa'ah cemetery.",
-    "ar": "علي خميس بن عايد الكتبي، من مدينة العين في إمارة أبوظبي. صُلّي عليه في مسجد شهداء القوات المسلحة بمنطقة الجاهلي في العين، ودُفن في مقبرة المطاوعة."
+    "en": "The martyr Ali Khamis bin Aayed Al Ketbi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. He was from Al Ain in the Emirate of Abu Dhabi; prayers were held for him at the Armed Forces Martyrs' Mosque in the Al Jahili area of Al Ain, and he was buried in the Al Matawia cemetery.",
+    "ar": "الشهيد علي خميس بن عايد الكتبي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وكان من مدينة العين في إمارة أبوظبي، وصُلّي عليه في مسجد شهداء القوات المسلحة بمنطقة الجاهلي في العين، ودُفن في مقبرة المطاوعة."
   },
   "refs": [
     {
@@ -13405,12 +13408,12 @@ window.STREETS = [
   "ar": "شارع الشهيد ناصر الزعابي",
   "en": "Rashid Nasser Al Zaabi Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Rashid Nasser Saif Hassan Al Zaabi is one of the country's fallen whose name was published in the local press in 2015. الاسم الكامل في القائمة، والشارع يختصره إلى «ناصر الزعابي»; the card records the name and claims nothing further.",
-    "ar": "راشد ناصر سيف حسن الزعابي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "en": "The martyr Rashid Nasser Saif Hassan Al Zaabi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. The street carries the shortened form of his name.",
+    "ar": "الشهيد راشد ناصر سيف حسن الزعابي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. ويحمل الشارع الصيغة المختصرة من اسمه."
   },
   "refs": [
     {
@@ -13431,12 +13434,12 @@ window.STREETS = [
   "ar": "شارع الشهيد سيف حلف الزعابي",
   "en": "Saif Khalaf Al Za'abi Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Saif Khalaf Saif Al Zaabi was a first lieutenant and pilot from Kalba in the Emirate of Sharjah. He died on 17 December 2014 during a military exercise; prayers were held for him at Al Buhairah mosque in Kalba and he was buried in the Khor Kalba cemetery on 19 December. The fellow pilot who died with him was First Lieutenant Abdullah Ali Al Hammoudi. The sign spells the second name «Hulf» where the newspaper has «Khalaf».",
-    "ar": "سيف خلف سيف الزعابي، ملازم أول طيار من كلباء في إمارة الشارقة. تُوفي في 17 ديسمبر 2014 أثناء تمرين عسكري، وصُلّي عليه في مسجد البحيرة بكلباء ودُفن في مقبرة خور كلباء في 19 ديسمبر. وكان معه في الحادث زميله الملازم أول الطيار عبد الله علي الحمودي. ويأتي الاسم على اللوحة «سيف حلف» بالحاء، وفي الصحيفة «سيف خلف» بالخاء."
+    "en": "The martyr Saif Khalaf Saif Al Zaabi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. He was a first lieutenant and pilot from Kalba in the Emirate of Sharjah; he died on 17 December 2014 during a military exercise, prayers were held for him at the Al Buhayrah Mosque in Kalba and he was buried in the Khor Kalba cemetery on 19 December. His colleague First Lieutenant Pilot Abdullah Ali Al Hammoudi was with him in the accident. The name appears on the sign as «Saif Half» with a ḥa, and in the newspaper as «Saif Khalaf» with a kha.",
+    "ar": "الشهيد سيف خلف سيف الزعابي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وكان ملازم أول طياراً من كلباء في إمارة الشارقة، وتُوفي في 17 ديسمبر 2014 أثناء تمرين عسكري، وصُلّي عليه في مسجد البحيرة بكلباء ودُفن في مقبرة خور كلباء في 19 ديسمبر، وكان معه في الحادث زميله الملازم أول الطيار عبدالله علي الحمودي. ويأتي الاسم على اللوحة «سيف حلف» بالحاء، وفي الصحيفة «سيف خلف» بالخاء."
   },
   "refs": [
     {
@@ -13836,12 +13839,12 @@ window.STREETS = [
   "ar": "شارع الشهيد أحمد خميس الحمادي",
   "en": "Al Shaheed Ahmed Khamis Al Hammadi Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Ahmed Khamis Mallulah Idrees Al Hammadi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
-    "ar": "أحمد خميس مولّلة إدريس الحمادي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "en": "The martyr Ahmed Khamis Mallulah Idrees Al Hammadi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields.",
+    "ar": "الشهيد أحمد خميس مولّلة إدريس الحمادي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية."
   },
   "refs": [
     {
@@ -15232,12 +15235,12 @@ window.STREETS = [
   "ar": "شارع الشهيد سيف عيسى النقبي",
   "en": "Al Shaheed Saif Esa Al Naqbi Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Saif Essa Obaid Al Naqbi was from Khor Fakkan in the Emirate of Sharjah. Prayers were held for him after the afternoon prayer at the Al Lu'lu'iyah Grand Mosque in Khor Fakkan on 13 September 2015, and the town turned out for the funeral.",
-    "ar": "سيف عيسى عبيد النقبي، من خورفكان في إمارة الشارقة. صُلّي عليه بعد صلاة العصر في مسجد اللؤلؤية الكبير بخورفكان في 13 سبتمبر 2015، وشيّعه آلاف من أهالي المدينة."
+    "en": "The martyr Saif Essa Obaid Al Naqbi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. He was from Khor Fakkan in the Emirate of Sharjah; prayers were held for him after the afternoon prayer at the Al Lu'lu'iyah Grand Mosque in Khor Fakkan on 13 September 2015, and thousands of the town's people attended his funeral.",
+    "ar": "الشهيد سيف عيسى عبيد النقبي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وكان من خورفكان في إمارة الشارقة، وصُلّي عليه بعد صلاة العصر في مسجد اللؤلؤية الكبير بخورفكان في 13 سبتمبر 2015، وشيّعه آلاف من أهالي المدينة."
   },
   "refs": [
     {
@@ -15292,12 +15295,12 @@ window.STREETS = [
   "ar": "شارع الشهيد حسن محمد الطنيجي",
   "en": "Hasan Mohammad Al Tunaiji Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Hassan Mohammed Hassan Mohammed Al Tunaiji is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
-    "ar": "حسن محمد حسن محمد الطنيجي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "en": "The martyr Hassan Mohammed Hassan Mohammed Al Tunaiji is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields.",
+    "ar": "الشهيد حسن محمد حسن محمد الطنيجي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية."
   },
   "refs": [
     {
@@ -15369,12 +15372,12 @@ window.STREETS = [
   "ar": "شارع الشهيد راشد محمد البلوشي",
   "en": "Rashid Mohammad Al Bloush Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Rashid Mohammed Abbas Saleh Al Balooshi is one of the country's fallen whose name was published in the local press in 2015. الاسم كما ورد في القائمة; the card records the name and claims nothing further.",
-    "ar": "راشد محمد عباس صالح البلوشي، أحد شهداء الدولة الذين نُشرت أسماؤهم في الصحافة المحلية سنة 2015. والبطاقة تسجّل الاسم كما ورد في القائمة ولا تذكر أكثر من ذلك."
+    "en": "The martyr Rashid Mohammed Abbas Saleh Al Balooshi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields.",
+    "ar": "الشهيد راشد محمد عباس صالح البلوشي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية."
   },
   "refs": [
     {
@@ -28476,12 +28479,12 @@ window.STREETS = [
   "ar": "شارع الشهيد محمد عبيد",
   "en": "Martyr Mohammed Obaid Street",
   "meaning": {
-    "en": "One of the country's fallen, named on the street sign",
-    "ar": "أحد شهداء الدولة، يحمل الشارع اسمه"
+    "en": "A martyr of the country",
+    "ar": "شهيد من شهداء الدولة"
   },
   "story": {
-    "en": "Mohammed Obaid Al Hammoudi was one of the country's fallen in the Emirate of Sharjah; condolences for him and for Zayed Ali Al Kaabi were reported in the local press in March 2016. The sign carries the shortened form «Mohammed Obaid», and the card records the fuller name the report gives.",
-    "ar": "محمد عبيد الحمودي، أحد شهداء الدولة في إمارة الشارقة؛ نُشر خبر العزاء فيه وفي الشهيد زايد علي الكعبي في الصحافة المحلية في مارس 2016. ويحمل الشارع الصيغة المختصرة «محمد عبيد»، وتسجّل البطاقة الاسم الأتم كما ورد في الخبر."
+    "en": "The martyr Mohammed Obaid Al Hammoudi is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. He was from the Emirate of Sharjah; condolences for him and for the martyr Zayed Ali Al Kaabi were reported in the local press in March 2016. The street carries the shortened form «Mohammed Obaid», and the card records the fuller name as it appeared in the report.",
+    "ar": "الشهيد محمد عبيد الحمودي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وكان من إمارة الشارقة، ونُشر خبر العزاء فيه وفي الشهيد زايد علي الكعبي في الصحافة المحلية في مارس 2016. ويحمل الشارع الصيغة المختصرة «محمد عبيد»، وتسجّل البطاقة الاسم الأتم كما ورد في الخبر."
   },
   "refs": [
     {
