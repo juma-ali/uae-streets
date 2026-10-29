@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261030V";
+    s.src = "data/cards.js?v=20261030W";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -959,7 +959,65 @@
     renderTownChips();
     renderDistrictChips();
     renderChrome();
+    syncFiltersToggle();
     syncUrl();
+  }
+
+  /* ---------- the phone filter panel ----------
+     Six filter rows pinned above the cards are most of a phone screen. On a
+     phone the panel collapses behind one bar that carries the number of active
+     filters; the rows only appear when asked for, and the open panel scrolls
+     inside itself so it cannot swallow the cards behind it. On a wide screen
+     the button is display:none and .filters__body is display:contents, so
+     nothing about the desktop layout changes. */
+  function activeFilterCount() {
+    var keys = ["emirate", "region", "town", "district", "category", "origin"];
+    var n = 0;
+    for (var i = 0; i < keys.length; i++) {
+      var v = state[keys[i]];
+      if (v && v !== "all") n++;
+    }
+    if (state.q) n++;
+    return n;
+  }
+
+  function syncFiltersToggle() {
+    var panel = $("#filters");
+    var btn = $("#filters-toggle");
+    var badge = $("#filters-count");
+    if (!panel || !btn) return;
+    var open = panel.getAttribute("data-expanded") === "true";
+    btn.setAttribute("aria-expanded", open ? "true" : "false");
+    if (badge) {
+      var n = activeFilterCount();
+      badge.textContent = String(n);
+      badge.hidden = n === 0;
+    }
+  }
+
+  function bindFiltersToggle() {
+    var panel = $("#filters");
+    var btn = $("#filters-toggle");
+    if (!panel || !btn) return;
+    panel.setAttribute("data-expanded", "false");
+    btn.addEventListener("click", function () {
+      var open = panel.getAttribute("data-expanded") === "true";
+      panel.setAttribute("data-expanded", open ? "false" : "true");
+      syncFiltersToggle();
+    });
+    /* A filter chosen from the collapsed bar closes it again, so the cards return. */
+    var body = $("#filters-body");
+    if (body) {
+      body.addEventListener("click", function (e) {
+        var chip = e.target.closest(".chip");
+        if (!chip) return;
+        if (window.matchMedia("(max-width: 760px)").matches) {
+          panel.setAttribute("data-expanded", "false");
+          syncFiltersToggle();
+        }
+      });
+    }
+    syncFiltersToggle();
   }
 
   /* ---------- events ---------- */
@@ -1119,6 +1177,7 @@
     T = TEXT[initial];
     buildChips();
     bind();
+    bindFiltersToggle();
 
     // restore filters from the URL so a filtered view can be shared
     var emParam = params.get("emirate");

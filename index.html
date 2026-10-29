@@ -21,12 +21,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/styles.css?v=20261030V">
+<link rel="stylesheet" href="assets/css/styles.css?v=20261030W">
 <script>
   /* If a newer build has been published since this tab loaded, reload once.
      Without this a cached tab keeps showing cards that were already corrected. */
   (function () {
-    var HERE = "20261030V";
+    var HERE = "20261030W";
     fetch("data/version.json?t=" + Date.now(), { cache: "no-store" })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (j) {
@@ -134,6 +134,12 @@
   <!-- ============ FILTERS ============ -->
   <section class="filters" id="filters" aria-label="Filter streets">
     <div class="wrap">
+      <button type="button" class="filters__toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters-body">
+        <span class="filters__toggle-label" data-en="Filters" data-ar="التصفية">Filters</span>
+        <span class="filters__toggle-count" id="filters-count" hidden></span>
+        <span class="filters__toggle-chev" aria-hidden="true"></span>
+      </button>
+      <div class="filters__body" id="filters-body">
       <div class="filter-row">
         <span class="filter-row__label" data-en="Emirate" data-ar="الإمارة">Emirate</span>
         <div class="chips" id="emirate-chips" role="group" aria-label="Filter by emirate"></div>
@@ -215,6 +221,7 @@
       <div class="filter-row">
         <span class="filter-row__label" data-en="Sourcing" data-ar="التوثيق">Sourcing</span>
         <div class="chips" id="origin-chips" role="group" aria-label="Filter by sourcing"></div>
+      </div>
       </div>
 
     </div>
@@ -392,9 +399,9 @@
   <div class="sheet__body" id="sheet-body"></div>
 </dialog>
 
-<script src="data/glosses-ar.js?v=20261030V"></script>
-<script src="data/hierarchy.js?v=20261030V"></script>
-<script src="data/streets.js?v=20261030V"></script>
-<script src="assets/js/app.js?v=20261030V"></script>
+<script src="data/glosses-ar.js?v=20261030W"></script>
+<script src="data/hierarchy.js?v=20261030W"></script>
+<script src="data/streets.js?v=20261030W"></script>
+<script src="assets/js/app.js?v=20261030W"></script>
 </body>
 </html>
