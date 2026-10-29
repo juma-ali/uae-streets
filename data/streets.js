@@ -31534,5 +31534,27 @@ window.STREETS = [
         "url": "https://www.thenationalnews.com/uae/the-stories-behind-abu-dhabi-s-new-street-names-1.648763"
       }
     ]
+  },
+{
+    "id": "al-kurrawan-street",
+    "emirate": "abu-dhabi",
+    "category": "word",
+    "origin": "documented",
+    "ar": "شارع الكُرَّوان",
+    "en": "Al Kurrawan Street",
+    "meaning": {
+      "en": "the stone-curlew",
+      "ar": "الكَرَوَان، وهو طائر"
+    },
+    "story": {
+      "en": "Al Kurrawan is the stone-curlew, a bird of the family Burhinidae. It is medium-sized, with brown-grey plumage that camouflages it against open ground, yellow eyes, a pointed bill and long legs. The family is found across the tropical and temperate regions of the world, and its members are largely nocturnal, feeding on insects, invertebrates and small mammals.",
+      "ar": "الكَرَوَان طائر من الفصيلة الكَرَوَانِيَّة، متوسط الحجم، ريشه بني رمادي يموّهه على الأرض المكشوفة، وعيناه صفراوان، ومنقاره مدبب، وأرجله طويلة. وتنتشر الفصيلة في المناطق الاستوائية والمعتدلة من العالم، وأفرادها ليلية النشاط في الغالب، تتغذى على الحشرات واللافقاريات وصغار الثدييات."
+    },
+    "refs": [
+      {
+        "label": "ويكيبيديا العربية — كروانية (فصيلة طيور)",
+        "url": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9%20(%D9%81%D8%B5%D9%8A%D9%84%D8%A9%20%D8%B7%D9%8A%D9%88%D8%B1)"
+      }
+    ]
   }
 ];
