@@ -22747,51 +22747,51 @@ window.STREETS = [
 {
   "id": "niqa-bin-teej-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع نِقا بن عتيج",
   "en": "Niqa Bin 'Teej Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "كثيب آل بن عتيج",
+    "en": "The dune of the Bin Tij family"
   },
   "story": {
-    "en": "The street carries the name of نِقا بن عتيج. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم نِقا بن عتيج، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The name is not a man called Niqa. «Niqa» is the crescent-shaped sand dune — the convex mass of gathered sand — and «Bin Tij» marks whose dune it was: the dune of the family of Bin Tij. The family itself has no published record, and the card does not invent one.",
+    "ar": "ليس في الاسم رجل اسمه نِقا. «النِّقا» الكثيب من الرمل، القطعة المحدبة من الرمال المتجمعة، و«بن» هنا من اسم الموضع لا من نسب رجل: فهو كثيب آل بن عتيج. ولم يُعثر للأُسرة على ترجمة منشورة، فلا تنسب البطاقة إليها أكثر من الاسم."
   },
   "refs": []
 },
 {
   "id": "niqa-bin-hadah-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع نِقا بن حادة",
   "en": "Niqa Bin Hadah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "كثيب آل بن حادة",
+    "en": "The dune of the Bin Hadah family"
   },
   "story": {
-    "en": "The street carries the name of نِقا بن حادة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم نِقا بن حادة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The name is not a man called Niqa. «Niqa» is the crescent-shaped sand dune — the convex mass of gathered sand — and «Bin Hadah» marks whose dune it was: the dune of the family of Bin Hadah. The family itself has no published record, and the card does not invent one.",
+    "ar": "ليس في الاسم رجل اسمه نِقا. «النِّقا» الكثيب من الرمل، القطعة المحدبة من الرمال المتجمعة، و«بن» هنا من اسم الموضع لا من نسب رجل: فهو كثيب آل بن حادة. ولم يُعثر للأُسرة على ترجمة منشورة، فلا تنسب البطاقة إليها أكثر من الاسم."
   },
   "refs": []
 },
 {
   "id": "niqa-bin-sabt-street",
   "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
+  "category": "place",
+  "origin": "account",
   "ar": "شارع نِقا بن سَبت",
   "en": "Niqa Bin Sabt Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "كثيب آل بن سَبت",
+    "en": "The dune of the Bin Sabt family"
   },
   "story": {
-    "en": "The street carries the name of نِقا بن سَبت. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم نِقا بن سَبت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The name is not a man called Niqa. «Niqa» is the crescent-shaped sand dune — the convex mass of gathered sand — and «Bin Sabt» marks whose dune it was: the dune of the family of Bin Sabt. The family itself has no published record, and the card does not invent one.",
+    "ar": "ليس في الاسم رجل اسمه نِقا. «النِّقا» الكثيب من الرمل، القطعة المحدبة من الرمال المتجمعة، و«بن» هنا من اسم الموضع لا من نسب رجل: فهو كثيب آل بن سَبت. ولم يُعثر للأُسرة على ترجمة منشورة، فلا تنسب البطاقة إليها أكثر من الاسم."
   },
   "refs": []
 },
