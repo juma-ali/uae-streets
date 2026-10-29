@@ -25910,16 +25910,16 @@ window.STREETS = [
   "id": "abdullah-hudhan-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عبدالله حوذان",
   "en": "Abdullah Hudhan Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "A horseman of the Zahran tribe, killed at the Battle of al-Shi'b",
+    "ar": "فارس من قبيلة زهران، استُشهد في معركة الشِّعب"
   },
   "story": {
-    "en": "The street carries the name of عبدالله حوذان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله حوذان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "Abdullah ibn Hudhan al-Zahrani was a horseman of the Zahran tribe, among those who came forward with the Muslims at the Battle of al-Shi'b against the Khagan and his armies. During the battle the enemy's interpreter told him that King Khagan said: do not attack us, and come over to us, and we will reject the idol we worship and worship you. He answered: I fight you so that you leave the worship of idols and worship God alone. He fought until he was killed. No printed notice of him was found in the sources consulted, and the card records the account as it is transmitted.",
+    "ar": "عبدالله بن حوذان الزهراني فارس من قبيلة زهران، من الذين برزوا مع المسلمين في معركة الشِّعب ضد الخاقان وجيوشه. وأثناء المعركة قال له مترجم العدو إن الملك خاقان يقول: لا تُهاجمنا وتحوّل إلينا فنرفض صنمنا الذي نعبده ونعبدك، فقال: أنا أقاتلكم لتتركوا عبادة الأصنام وتعبدوا الله وحده. فقاتل حتى استُشهد. ولم نقع على ذكرٍ له في المصادر المطبوعة التي راجعناها، فالبطاقة تنقل الخبر كما يُروى."
   },
   "refs": []
 },
