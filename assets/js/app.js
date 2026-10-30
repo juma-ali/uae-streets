@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031R";
+    s.src = "data/cards.js?v=20261031S";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1133,12 +1133,34 @@
     var panel = $("#filters");
     var btn = $("#filters-toggle");
     if (!panel || !btn) return;
-    panel.setAttribute("data-expanded", "false");
+    var wide = window.matchMedia("(min-width: 761px)");
+    /* A phone opens closed (the panel would be most of the screen); a wide window
+       opens expanded, because there the rows are useful. Either way the user can
+       close it, and their choice sticks for the visit. */
+    panel.setAttribute("data-expanded", wide.matches ? "true" : "false");
+    var chosen = false;
     btn.addEventListener("click", function () {
+      chosen = true;
       var open = panel.getAttribute("data-expanded") === "true";
       panel.setAttribute("data-expanded", open ? "false" : "true");
       syncFiltersToggle();
     });
+    /* On a wide screen the panel collapses itself as soon as the reader starts
+       reading: a 190px band pinned to the top of every scroll is a fifth of the
+       window. It returns when they come back to the top, unless they have set it
+       themselves. */
+    if (wide.matches) {
+      var lastY = -1;
+      window.addEventListener("scroll", function () {
+        if (chosen) return;
+        var y = window.scrollY || document.documentElement.scrollTop || 0;
+        if (Math.abs(y - lastY) < 40) return;   // ignore the small jitter of a trackpad
+        lastY = y;
+        var open = panel.getAttribute("data-expanded") === "true";
+        if (y > 220 && open) { panel.setAttribute("data-expanded", "false"); syncFiltersToggle(); }
+        else if (y < 80 && !open) { panel.setAttribute("data-expanded", "true"); syncFiltersToggle(); }
+      }, { passive: true });
+    }
     /* A filter chosen from the collapsed bar closes it again, so the cards return. */
     var body = $("#filters-body");
     if (body) {

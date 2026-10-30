@@ -298,10 +298,38 @@ code { font-family: var(--font-mono); font-size: .86em; background: var(--paper-
    The gap does the separating; a hairline between rows was tried and read as a
    table, which is heavier than the rows deserve. */
 .filters .wrap { display: flex; flex-direction: column; gap: .5rem; }
-/* The toggle is a phone-only affordance. On a wide screen all six rows fit, so the
-   button is removed from the layout and the body behaves as if it were not there. */
-.filters__toggle { display: none; }
-.filters__body { display: contents; }
+/* The panel collapses at every width. Six pinned rows are most of a phone screen
+   and a good fifth of a laptop one; the bar keeps the active count in view and the
+   open panel scrolls inside itself. Desktop opens expanded (see app.js), a phone
+   opens closed. */
+.filters__toggle {
+  display: flex; align-items: center; gap: .5rem;
+  inline-size: 100%; min-block-size: 34px; padding: .2rem 0;
+  background: none; border: 0; color: var(--ink); cursor: pointer;
+  font: inherit; font-size: .78rem; font-weight: 600; letter-spacing: .1em;
+  text-transform: uppercase;
+}
+.filters__toggle-count {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-inline-size: 1.2rem; block-size: 1.2rem; padding-inline: .3rem;
+  border-radius: 999px; background: var(--ink); color: var(--paper);
+  font-size: .68rem; letter-spacing: 0; text-transform: none;
+}
+.filters__toggle-chev {
+  margin-inline-start: auto; inline-size: .5rem; block-size: .5rem;
+  border-inline-end: 1.5px solid var(--ink-3); border-block-end: 1.5px solid var(--ink-3);
+  transform: rotate(45deg) translate(-2px, -2px); transition: transform .18s;
+}
+.filters[data-expanded="true"] .filters__toggle-chev {
+  transform: rotate(-135deg) translate(-2px, -2px);
+}
+.filters__body { display: none; }
+.filters[data-expanded="true"] .filters__body {
+  display: flex; flex-direction: column; gap: .5rem;
+  margin-block-start: .5rem; padding-block-start: .5rem;
+  border-block-start: 1px solid var(--line);
+  max-block-size: min(52vh, 360px); overflow-y: auto; overscroll-behavior: contain;
+}
 .filter-row { display: flex; align-items: center; gap: 1rem; padding-block: .1rem; }
 .filter-row__label {
   flex: 0 0 96px; font-size: .66rem; font-weight: 600; letter-spacing: .14em;
@@ -680,39 +708,9 @@ html[dir="rtl"] .card__ar { text-align: right; }
   }
   .chips::-webkit-scrollbar { display: none; }
   .filters { padding-block: .6rem; }
-  /* Six rows pinned to the top of a phone is most of the screen. Collapse them
-     behind one bar; the open panel scrolls inside itself so it never swallows
-     the cards behind it. */
-  .filters__toggle {
-    display: flex; align-items: center; gap: .5rem;
-    inline-size: 100%; min-block-size: 34px; padding: .2rem 0;
-    background: none; border: 0; color: var(--ink); cursor: pointer;
-    font: inherit; font-size: .8rem; font-weight: 600; letter-spacing: .06em;
-    text-transform: uppercase;
-  }
-  .filters__toggle-count {
-    display: inline-flex; align-items: center; justify-content: center;
-    min-inline-size: 1.2rem; block-size: 1.2rem; padding-inline: .3rem;
-    border-radius: 999px; background: var(--ink); color: var(--paper);
-    font-size: .68rem; letter-spacing: 0; text-transform: none;
-  }
-  .filters__toggle-chev {
-    margin-inline-start: auto; inline-size: .5rem; block-size: .5rem;
-    border-inline-end: 1.5px solid var(--ink-3); border-block-end: 1.5px solid var(--ink-3);
-    transform: rotate(45deg) translate(-2px, -2px); transition: transform .18s;
-  }
-  .filters[data-expanded="true"] .filters__toggle-chev {
-    transform: rotate(-135deg) translate(-2px, -2px);
-  }
-  .filters__body { display: none; }
-  .filters[data-expanded="true"] .filters__body {
-    display: flex; flex-direction: column; gap: .5rem;
-    margin-block-start: .5rem; padding-block-start: .5rem;
-    border-block-start: 1px solid var(--line);
-    max-block-size: min(58vh, 420px); overflow-y: auto; overscroll-behavior: contain;
-  }
   .filters[data-expanded="true"] .filter-row { gap: .3rem; }
   .filter-row__label { font-size: .6rem; letter-spacing: .1em; }
+  .filters[data-expanded="true"] .filters__body { max-block-size: min(58vh, 420px); }
   .grid { grid-template-columns: 1fr; gap: .8rem; }
   .hero__grid { grid-template-columns: 1fr; gap: 2.2rem; }
   .hero__art { order: -1; min-block-size: 170px; margin-block-end: 1rem; }
