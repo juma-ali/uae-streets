@@ -773,3 +773,30 @@ html[dir="rtl"] .card__ar { text-align: right; }
 
 /* A street with no Arabic name in the data says so, rather than showing a gap. */
 .card__ar--missing { font-style: italic; opacity: .55; font-size: .82rem; }
+
+/* ---------- location ---------- */
+.sheet__where {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .55rem;
+  margin-block-start: 1.1rem; padding-block-start: .9rem;
+  border-block-start: 1px solid var(--line);
+}
+.sheet__maplink {
+  font-size: .8rem; font-weight: 600; letter-spacing: .02em;
+  padding: .3rem .7rem; border: 1px solid var(--line-2); border-radius: 999px;
+  color: var(--ink); text-decoration: none; white-space: nowrap;
+  transition: border-color .15s, color .15s, background .15s;
+}
+.sheet__maplink:hover { border-color: var(--ink); background: color-mix(in srgb, var(--ink) 6%, transparent); }
+.sheet__coords {
+  margin-inline-start: auto; font-size: .72rem; color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.sheet__dist {
+  margin: 0 0 .9rem; padding: .55rem .8rem; border-radius: .55rem;
+  background: color-mix(in srgb, var(--ink) 7%, transparent);
+  font-size: .82rem; color: var(--ink-2);
+}
+.sheet__dist--far { background: color-mix(in srgb, #b4762a 14%, transparent); color: var(--ink); }
+@media (max-width: 760px) {
+  .sheet__coords { margin-inline-start: 0; inline-size: 100%; }
+}

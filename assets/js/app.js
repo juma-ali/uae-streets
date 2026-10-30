@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261030ZK";
+    s.src = "data/cards.js?v=20261031A";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -351,6 +351,67 @@
     return s.charAt(0).toUpperCase() + s.slice(1) + (ar ? "." : ".");
   }
 
+  /* ---------- location ----------
+     data/coords.js is 194 KB, so it is fetched only when first needed — at boot
+     or when a sheet opens. Every value is [lat, lon] at four decimals, aligned
+     with the row order in data/cards.js. */
+  var coordsAsked = false, coordsPending = [];
+  function loadCoords(cb) {
+    if (window.COORDS) { if (cb) cb(); return; }
+    if (cb) coordsPending.push(cb);
+    if (coordsAsked) return;
+    coordsAsked = true;
+    var s = document.createElement("script");
+    s.src = "data/coords.js";
+    s.async = true;
+    s.onload = function () {
+      var q = coordsPending; coordsPending = [];
+      for (var i = 0; i < q.length; i++) if (q[i]) q[i]();
+    };
+    document.head.appendChild(s);
+  }
+  function coordOfRow(idx) {
+    return window.COORDS ? window.COORDS[idx] : null;
+  }
+  function coordOfStory(id) {
+    if (!ROADS || !window.COORDS) return null;
+    for (var i = 0; i < ROADS.rows.length; i++) {
+      if (ROADS.rows[i][7] === id && window.COORDS[i]) return window.COORDS[i];
+    }
+    return null;
+  }
+  function mapBlock(lat, lon) {
+    if (typeof lat !== "number" || typeof lon !== "number") return "";
+    var pair = lat.toFixed(4) + "," + lon.toFixed(4);
+    var osm = "https://www.openstreetmap.org/?mlat=" + lat + "&mlon=" + lon + "#map=17/" + lat + "/" + lon;
+    var gmaps = "https://www.google.com/maps/search/?api=1&query=" + pair;
+    return '<div class="sheet__where">' +
+      '<span class="sheet__meaning-label">' + esc(state.lang === "ar" ? "الموقع" : "Location") + "</span>" +
+      '<a class="sheet__maplink" href="' + esc(osm) + '" target="_blank" rel="noopener">OpenStreetMap</a>' +
+      '<a class="sheet__maplink" href="' + esc(gmaps) + '" target="_blank" rel="noopener">Google Maps</a>' +
+      '<span class="sheet__coords" dir="ltr">' + esc(pair) + "</span>" +
+      "</div>";
+  }
+  function metresBetween(a, b, c, d) {
+    var R = 6371000, rad = Math.PI / 180;
+    var dLat = (c - a) * rad, dLon = (d - b) * rad;
+    var h = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.cos(a * rad) * Math.cos(c * rad) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    return 2 * R * Math.asin(Math.sqrt(h));
+  }
+  function nearestStreet(lat, lon) {
+    if (!window.COORDS) return null;
+    var best = null;
+    for (var i = 0; i < window.COORDS.length; i++) {
+      var c = window.COORDS[i];
+      if (!c) continue;
+      var d = metresBetween(lat, lon, c[0], c[1]);
+      if (!best || d < best.metres) best = { idx: i, metres: d };
+    }
+    return best;
+  }
+  window.__nearestStreet = nearestStreet;   // used by the browser test
+
   function openRoadSheet(idx) {
     if (!ROADS) return;
     var r = ROADS.rows[idx];
@@ -376,6 +437,7 @@
         "</div>" +
       gloss +
       '<div class="sheet__story"><p>' + esc(text) + "</p></div>" +
+      (function () { var c = coordOfRow(idx); return c ? mapBlock(c[0], c[1]) : ""; })() +
       '<p class="sheet__caveat">' + esc(state.lang === "ar" ? "الاسم والموقع من خريطة الشارع المفتوح." : "Name and location from OpenStreetMap (ODbL).") + "</p>";
     sheet.showModal();
   }
@@ -835,6 +897,27 @@
           '<p class="sheet__meaning-text">' + esc(meaning) + "</p></div>"
         : "") +
       '<div class="sheet__story"><p>' + esc(story) + "</p></div>" +
+      (function () {
+        var c = coordOfStory(s.id);
+        if (c) return mapBlock(c[0], c[1]);
+        /* The story cards render before the 1.1 MB road table is fetched. Ask for
+           it in the background, and put the map block in if the sheet is still
+           showing the same street when it arrives. */
+        if (!ROADS) loadRoads(function () {
+          var c2 = coordOfStory(s.id);
+          if (!c2) return;
+          var body2 = $("#sheet-body");
+          var sheet2 = $("#sheet");
+          if (!body2 || !sheet2 || !sheet2.open) return;
+          var title2 = body2.querySelector("h2");
+          if (!title2 || title2.textContent.trim() !== (state.lang === "ar" ? s.ar : s.en).trim()) return;
+          var caveat = body2.querySelector(".sheet__caveat");
+          var html = mapBlock(c2[0], c2[1]);
+          if (caveat) caveat.insertAdjacentHTML("beforebegin", html);
+          else body2.insertAdjacentHTML("beforeend", html);
+        });
+        return "";
+      })() +
       '<p class="sheet__caveat">' + esc(origin === "account" ? T.caveatAccount : origin === "unsourced" ? T.caveatUnsourced : origin === "local" ? T.caveatLocal : (T["caveat" + (s.category ? s.category.charAt(0).toUpperCase() + s.category.slice(1) : "")] || T.caveatDocumented)) + "</p>" +
       '<div class="sheet__footer">' +
         (s.refs && s.refs.length
@@ -1058,6 +1141,44 @@
       var rm = /#road=(\d+)/.exec(location.hash);
       if (rm) openRoadSheet(Number(rm[1]));
     });
+    var nearBtn = $("#near-me");
+    if (nearBtn) {
+      nearBtn.addEventListener("click", function () {
+        var label = function (ar, en) { return state.lang === "ar" ? ar : en; };
+        if (!navigator.geolocation) {
+          nearBtn.setAttribute("aria-label", label("المتصفح لا يدعم تحديد الموقع", "This browser cannot give a location"));
+          return;
+        }
+        nearBtn.disabled = true;
+        var original = nearBtn.querySelector("span");
+        if (original) original.textContent = label("جارٍ التحديد…", "Locating…");
+        navigator.geolocation.getCurrentPosition(function (pos) {
+          nearBtn.disabled = false;
+          if (original) original.textContent = label("أين أنا؟", "Where am I?");
+          loadCoords(function () {
+            var hit = nearestStreet(pos.coords.latitude, pos.coords.longitude);
+            if (!hit) return;
+            openRoadSheet(hit.idx);
+            var body = $("#sheet-body");
+            if (!body) return;
+            var far = hit.metres > 250;
+            var p = document.createElement("p");
+            p.className = "sheet__dist" + (far ? " sheet__dist--far" : "");
+            var d = hit.metres < 1000
+              ? Math.round(hit.metres) + label(" متر", " m")
+              : (hit.metres / 1000).toFixed(1) + label(" كم", " km");
+            p.textContent = label("أقرب شارع إليك يبعد نحو ", "The nearest street is about ") + d +
+              (far ? label(" — قد لا تكون على شارع مسمّى.", " away — you may not be on a named street.") : "");
+            body.insertBefore(p, body.firstChild);
+          });
+        }, function () {
+          nearBtn.disabled = false;
+          if (original) original.textContent = label("أين أنا؟", "Where am I?");
+          nearBtn.setAttribute("aria-label", label("لم يُسمح بالوصول إلى الموقع", "Location permission was refused"));
+        }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 });
+      });
+    }
+
     if (shuffle) {
       shuffle.addEventListener("click", function () {
         if (!results.length) return;
@@ -1195,6 +1316,7 @@
     buildChips();
     bind();
     bindFiltersToggle();
+    loadCoords();
 
     // restore filters from the URL so a filtered view can be shared
     var emParam = params.get("emirate");
