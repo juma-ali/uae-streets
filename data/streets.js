@@ -617,20 +617,28 @@ window.STREETS = [
     ]
   },
   {
-    id: "abdulhadi-bin-shaaban-al-mansouri-street",
-    emirate: "abu-dhabi",
-    category: "person",
-    origin: "account",
-    ar: "شارع عبدالهادي بن شعبان المنصوري",
-    en: "Abdulhadi Bin Shaaban Al Mansouri Street",
-    translit: "Shāriʿ ʿAbd al-Hādī bin Shaʿbān al-Manṣūrī",
-    meaning: { en: "A Nabati poet of Liwa", ar: "شاعر نبطي من ليوا" },
-    story: {
-      en: "Abdulhadi bin Shaaban Al Matyou'i Al Mansouri, known as Abdulhadi bin Shaaban Al Shatheeb, was an Emirati Nabati poet, counted among the mukhadramin — the poets who span two eras. He was born in the early nineteenth century in Liwa, in the Al Dhafra region of Abu Dhabi.",
-      ar: "عبدالهادي بن شعبان المطيوعي المنصوري، المعروف بعبدالهادي بن شعبان آل شظيب، شاعر إماراتي بارز من شعراء النبط المخضرمين، وُلد في أوائل القرن التاسع عشر في منطقة ليوا بإمارة أبوظبي."
-    },
-    refs: []
+  "id": "abdulhadi-bin-shaaban-al-mansouri-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبدالهادي بن شعبان المنصوري",
+  "en": "Abdulhadi Bin Shaaban Al Mansouri Street",
+  "translit": "Shāriʿ ʿAbd al-Hādī bin Shaʿbān al-Manṣūrī",
+  "meaning": {
+    "ar": "شاعر ومرافق للشيخ خليفة بن شخبوط",
+    "en": "A poet and companion of Sheikh Khalifa bin Shakhbut"
   },
+  "story": {
+    "ar": "عبدالهادي بن شعبان آل شظيب المطيوعي المنصوري، وُلد نحو ١٨٠١، شاعر معروف ومرافق للشيخ خليفة بن شخبوط بن ذياب. وحمل الشارع في التسمية القديمة الرقم ٢٩٤.",
+    "en": "Abdulhadi bin Shaaban Al Shazib Al Matyoui Al Mansouri, born around 1801, was a known poet and a companion of Sheikh Khalifa bin Shakhbut bin Dhiyab. The street carried the number 294 in the older naming."
+  },
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالهادي بن شعبان المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulhadi-bin-shaaban-"
+    }
+  ]
+},
   {
     id: "abdullah-bin-qais-street",
     emirate: "sharjah",
@@ -7568,18 +7576,23 @@ window.STREETS = [
   "id": "abdulla-hadaa-al-sheraifi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله هضعه الشريفي",
   "en": "Abdulla Hadaa Al Sheraifi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sheraifi family",
-    "ar": "شخصية إماراتية من أسرة الشريفي"
+    "ar": "قاضٍ للفصل في مطالبات الحلال في عهد زايد الأول",
+    "en": "A judge for livestock claims under Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Abdulla Hadaa, an Emirati figure of the Sheraifi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله هضعه، وهو شخصية إماراتية من أسرة الشريفي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بالهضعي الشريفي العامري، وُلد نحو ١٨٦٠، قاضٍ كلّفه الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالفصل في مطالبات الحلال بين أهل البادية. وحمل الشارع في التسمية القديمة الرقم ٥٣٤.",
+    "en": "Abdullah Al Hadaa Al Sheraifi Al Ameri, born around 1860, was a judge whom Sheikh Zayed the First (1855–1909) tasked with settling livestock claims among the people of the desert. The street carried the number 534 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله هضعه الشريفي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulla-hadaa-al-sheraifi"
+    }
+  ]
 },
 {
   "id": "abdullah-bilhoul-al-suwaidi",
@@ -7619,52 +7632,67 @@ window.STREETS = [
   "id": "abdullah-bin-dhahir-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن ظاهر المهيري",
   "en": "Abdullah Bin Dhahir Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "من أهل العين، ومرافق للشيخ زايد",
+    "en": "Of Al Ain, and a companion of Sheikh Zayed"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Dhahir, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن ظاهر، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن ظاهر بن عبدالله بن مطر المهيري، وُلد نحو ١٩٢٣، من أهل العين، ومرافق للشيخ زايد بن سلطان. وحمل الشارع في التسمية القديمة الرقم ٥٩٦.",
+    "en": "Abdullah bin Dhahir bin Abdullah bin Matar Al Muhairi, born around 1923, was from Al Ain and a companion of Sheikh Zayed bin Sultan. The street carried the number 596 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن ظاهر المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-dhahir-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-ghanem-al-shamsi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن غانم الشامسي",
   "en": "Abdullah Bin Ghanem Al Shamsi Street",
   "meaning": {
-    "en": "An Emirati figure of the Shamsi family",
-    "ar": "شخصية إماراتية من أسرة الشامسي"
+    "ar": "أشرف على تعليم الشيخ زايد بن سلطان",
+    "en": "Oversaw the education of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Ghanem, an Emirati figure of the Shamsi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن غانم، وهو شخصية إماراتية من أسرة الشامسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن محمد بن غانم بن سالم بن عبدالله بن سبت الشامسي، وُلد نحو ١٩٠٠، معلم وشيخ علم من أهل العين، أشرف على تعليم الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٥٣٧.",
+    "en": "Abdullah bin Mohammed bin Ghanem bin Salem bin Abdullah bin Sabt Al Shamsi, born around 1900, was a teacher and scholar of Al Ain who oversaw the education of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 537 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن غانم الشامسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ghanem-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-ghanoum-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن غنوم الهاملي",
   "en": "Abdullah Bin Ghanoum Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "أمير العين سنة ١٩٤٦ ومستشار شخبوط",
+    "en": "Amir of Al Ain in 1946 and adviser to Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Ghanoum, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن غنوم، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن محمد بن غنوم الهاملي، وُلد نحو ١٩٠٠، أمير على العين سنة ١٩٤٦ ومستشار خاص للشيخ شخبوط بن سلطان، حضر توقيع اتفاقية التنقيب عن النفط سنة ١٩٥٠، وله مسجد قديم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٢١.",
+    "en": "Abdullah bin Mohammed bin Ghanoum Al Hameli, born around 1900, was the amir of Al Ain in 1946 and private adviser to Sheikh Shakhbut bin Sultan. He attended the signing of the oil exploration agreement in 1950, and an old mosque in Abu Dhabi carries his name. The street carried the number 621 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن غنوم الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ghanoum-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-humaid-al-rumaithi",
@@ -7687,18 +7715,23 @@ window.STREETS = [
   "id": "abdullah-bin-jassim-al-meraikhi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن جاسم المريخي",
   "en": "Abdullah Bin Jassim Al Meraikhi Street",
   "meaning": {
-    "en": "An Emirati figure of the Meraikhi family",
-    "ar": "شخصية إماراتية من أسرة المريخي"
+    "ar": "شاعر شارك في واقعة القارة ١٨٨٩",
+    "en": "A poet present at the affair of Al Qara, 1889"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Jassim, an Emirati figure of the Meraikhi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن جاسم، وهو شخصية إماراتية من أسرة المريخي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن جاسم بن جابر بن محمد المريخي، وُلد نحو ١٨٥٠، شارك في واقعة القارة سنة ١٨٨٩، وكان شاعراً معروفاً ومرافقاً للشيوخ. وحمل الشارع في التسمية القديمة الرقم ٧٧٩.",
+    "en": "Abdullah bin Jassim bin Jaber bin Mohammed Al Meraikhi, born around 1850, took part in the affair of Al Qara in 1889, and was a known poet and a companion of the rulers. The street carried the number 779 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن جاسم المريخي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-jassim-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-kenaish-al-hameli",
@@ -7755,35 +7788,45 @@ window.STREETS = [
   "id": "abdullah-bin-shaiban-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن شيبان المهيري",
   "en": "Abdullah Bin Shaiban Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مرافق للشيخ زايد بن سلطان",
+    "en": "A companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Shaiban, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن شيبان، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن علي بن محمد بن شيبان المهيري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٠١.",
+    "en": "Abdullah bin Ali bin Mohammed bin Shaiban Al Muhairi, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 101 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن شيبان المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-shaiban-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-slayem-al-falasi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن سليم الفلاسي",
   "en": "Abdullah Bin Slayem Al Falasi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falasi family",
-    "ar": "شخصية إماراتية من أسرة الفلاسي"
+    "ar": "أول رئيس لدائرة الهجرة والجمارك",
+    "en": "First head of the Immigration and Customs Department"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Slayem, an Emirati figure of the Falasi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن سليم، وهو شخصية إماراتية من أسرة الفلاسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن سلطان بن أحمد بن سعيد بن سليم الفلاسي، وُلد نحو ١٨٨٥، أول رئيس لدائرة الهجرة والجمارك في أبوظبي في عهد الشيخ شخبوط، ومن الشعراء المعروفين، وتوفي سنة ١٩٨٥. وحمل الشارع في التسمية القديمة الرقم ٣٣٢.",
+    "en": "Abdullah bin Sultan bin Ahmed bin Saeed bin Sulayem Al Falasi, born around 1885, was the first head of the Immigration and Customs Department in Abu Dhabi in the time of Sheikh Shakhbut, and one of the country's known poets. He died in 1985. The street carried the number 332 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن سليم الفلاسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-slayem-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-sultan-al-rumaithi",
@@ -13751,35 +13794,45 @@ window.STREETS = [
   "id": "abdullah-bin-abdulrahim-al-waswasi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع عبدالله بن عبدالرحيم الوسواسي",
   "en": "Abdullah Bin Abdulrahim Al Waswasi Street",
   "meaning": {
-    "en": "One of Abu Dhabi's first Quran teachers",
-    "ar": "من أوائل معلّمي القرآن في أبوظبي"
+    "ar": "معلم وشيخ علم أمّ مساجد أبوظبي",
+    "en": "A teacher and scholar who led Abu Dhabi's mosques"
   },
   "story": {
-    "en": "Abdullah bin Abdulrahim Al Waswasi was among the first teachers in Abu Dhabi, teaching the Quran and its memorisation.",
-    "ar": "عبدالله بن عبدالرحيم الوسواسي من أوائل المعلّمين في أبوظبي، ومعلّم القرآن الكريم ومحفّظه."
+    "ar": "عبدالله بن عبدالرحيم الوسواسي، وُلد نحو ١٩٢٠، معلم وشيخ علم أمّ عدة مساجد في أبوظبي، منها مسجد حامد بن بطي ومسجد عتيج بن عريان ومسجد بن حريف. وحمل الشارع في التسمية القديمة الرقم ٧٥.",
+    "en": "Abdullah bin Abdulrahim Al Waswasi, born around 1920, was a teacher and scholar who led prayers at several mosques in Abu Dhabi, among them Hamid bin Butti, Otaij bin Urayyan and Bin Hurayf. The street carried the number 75 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن عبدالرحيم الوسواسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-abdulrahim-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-hilal-al-kuwaiti",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع عبدالله بن هلال الكويتي",
   "en": "Abdullah Bin Hilal Al Kuwaiti Street",
   "meaning": {
-    "en": "A man of learning in Al Ain, in charge of the aflaj, and a poet",
-    "ar": "من أهل العلم والصلاح في العين، ومسؤول عن قضاء الأفلاج، وشاعر"
+    "ar": "قاضٍ ورئيس لجنة الأفلاج",
+    "en": "A judge and head of the aflaj committee"
   },
   "story": {
-    "en": "Abdullah ibn Hilal Al Kuwaiti is remembered in Al Ain for his piety and his learning. He was responsible for the adjudication of the aflaj — the irrigation channels that divide water among the palm gardens — and he was a poet. No published biography of him was found, and the card records what is held about him without more.",
-    "ar": "عبدالله بن هلال الكويتي رجل عُرف بصلاحه وعلمه في مدينة العين، وكان مسؤولاً عن قضاء الأفلاج — أي الفصل في مياهها وقسمتها بين البساتين — وكان شاعراً. ولم نقع على ترجمة منشورة له، فالبطاقة تسجّل ما يُحفظ عنه ولا تزيد عليه."
+    "ar": "عبدالله بن هلال سعيد سلطان أحمد سلطان الكويتي، وُلد نحو ١٩٢٣، قاضٍ وعضو المجلس الاستشاري وعضو لجنة المصالحة ورئيس لجنة الأفلاج، وأُوكلت إليه مسؤولية جمع الزكاة سنة ١٩٥٣. وحمل الشارع في التسمية القديمة الرقم ٥٩٣.",
+    "en": "Abdullah bin Hilal Saeed Sultan Ahmed Sultan Al Kuwaiti, born around 1923, was a judge, a member of the Advisory Council and of the reconciliation committee, and head of the aflaj committee; in 1953 he was given charge of collecting zakat. The street carried the number 593 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن هلال الكويتي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-hilal-"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-yazeed-al-khatmi",
@@ -13807,18 +13860,23 @@ window.STREETS = [
   "id": "abdulraheem-bin-taj-al-din-al-hashemi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرحيم بن تاج الدين الهاشمي",
   "en": "Abdulraheem Bin Taj Al Din Al Hashemi Street",
   "meaning": {
-    "en": "An Emirati figure of the Hashemi family",
-    "ar": "شخصية إماراتية من أسرة الهاشمي"
+    "ar": "قاضٍ وإمام وخطيب في أبوظبي ١٩٢٢–١٩٦٤",
+    "en": "Judge, imam and preacher in Abu Dhabi, 1922–1964"
   },
   "story": {
-    "en": "The street carries the name of Abdulraheem Bin Taj Al Din, an Emirati figure of the Hashemi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالرحيم بن تاج الدين، وهو شخصية إماراتية من أسرة الهاشمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "السيد عبدالرحيم بن تاج الدين الهاشمي، وُلد نحو ١٨٩٤، قاضٍ وإمام مسجد وخطيب في أبوظبي من سنة ١٩٢٢ إلى سنة ١٩٦٤. وحمل الشارع في التسمية القديمة الرقم ٢٧١.",
+    "en": "Sayyid Abdulrahim bin Taj al-Din Al Hashemi, born around 1894, was a judge, mosque imam and preacher in Abu Dhabi from 1922 to 1964. The street carried the number 271 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالرحيم بن تاج الدين الهاشمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulraheem-bin-taj-al-din-"
+    }
+  ]
 },
 {
   "id": "ahmed-al-mahmoud-al-blooshi",
@@ -14195,18 +14253,23 @@ window.STREETS = [
   "id": "mohamed-al-falahi-al-yasi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق محمد الفلاحي الياسي",
   "en": "Mohamed Al Falahi Al Yasi Road",
   "meaning": {
-    "en": "An Emirati figure of the Yasi family",
-    "ar": "شخصية إماراتية من أسرة الياسي"
+    "ar": "قاد بني ياس في معارك القرن السادس عشر",
+    "en": "Led the Banu Yas in the sixteenth-century fighting"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Al Falahi, an Emirati figure of the Yasi family. No published biography of him was found.",
-    "ar": "سُمّي الطريق باسم محمد الفلاحي، وهو شخصية إماراتية من أسرة الياسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "في القرن السادس عشر دارت معارك في المنطقة بين بني ياس بقيادة الشيخ محمد الفلاحي الياسي والقوات البرتغالية التي كانت تطمع بإخضاعها لسيطرتها.",
+    "en": "In the sixteenth century fighting took place in the region between the Banu Yas under Sheikh Mohammed Al Falahi Al Yasi and the Portuguese forces seeking to bring it under their control."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد الفلاحي الياسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-al-falahi-al"
+    }
+  ]
 },
 {
   "id": "mohamed-ali-al-bastaki",
@@ -21385,18 +21448,23 @@ window.STREETS = [
   "id": "hamdan-bin-mohammed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمدان بن محمد",
   "en": "Hamdan Bin Mohammed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "رئيس مجلس الماء والكهرباء سنة ١٩٦٨",
+    "en": "Chaired the Water and Electricity Council, 1968"
   },
   "story": {
-    "en": "The street carries the name of حمدان بن محمد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حمدان بن محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشيخ حمدان بن محمد بن خليفة آل نهيان، شغل عدة مناصب في حكومة أبوظبي قبل قيام الاتحاد، وترأس مجلس الماء والكهرباء في أبوظبي سنة ١٩٦٨، وهو النواة الأولى للمجلس التنفيذي، وفي سنة ١٩٧٠ شُكّل مجلس الوزراء في الإمارة فتقلّد وزارات المعارف والصحة والأشغال والتخطيط.",
+    "en": "Sheikh Hamdan bin Mohammed bin Khalifa Al Nahyan held several posts in the Abu Dhabi government before the Union. He chaired the Water and Electricity Council in 1968, the forerunner of the Executive Council, and when the emirate's cabinet was formed in 1970 he took the portfolios of Education, Health, Public Works and Planning."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمدان بن محمد",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamdan-bin-mohammed"
+    }
+  ]
 },
 {
   "id": "harithah-bin-sharaheel-street",
@@ -21606,18 +21674,23 @@ window.STREETS = [
   "id": "hessa-bint-mohammed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حصة بنت محمد",
   "en": "Hessa Bint Mohammed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "والدة الشيخ خليفة بن زايد",
+    "en": "Mother of Sheikh Khalifa bin Zayed"
   },
   "story": {
-    "en": "The street carries the name of حصة بنت محمد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حصة بنت محمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشيخة حصة بنت محمد بن خليفة بن زايد الأول، والدة الشيخ خليفة بن زايد آل نهيان، تزوجها الشيخ زايد بن سلطان آل نهيان في منتصف الأربعينيات، وعاشا في قلعة المويجعي التي بناها جدها الشيخ خليفة بن زايد الأول.",
+    "en": "Sheikha Hessa bint Mohammed bin Khalifa bin Zayed the First, mother of Sheikh Khalifa bin Zayed Al Nahyan, married Sheikh Zayed bin Sultan Al Nahyan in the mid-1940s. They lived in Al Muwaiji fort, which her grandfather Sheikh Khalifa bin Zayed the First had built."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حصة بنت محمد",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hessa-bint-mohammed"
+    }
+  ]
 },
 {
   "id": "hilal-bin-umayah-street",
@@ -23516,18 +23589,23 @@ window.STREETS = [
   "id": "sheikh-faisal-al-qasimi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الشيخ فيصل القاسمي",
   "en": "Sheikh Faisal Al Qasimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "ar": "وكيل وزارة الدفاع ورئيس الأركان",
+    "en": "Under-secretary of Defence and chief of staff"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Faisal, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ فيصل القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشيخ فيصل بن سلطان بن سالم القاسمي، تولّى منصب وكيل وزارة الدفاع ورئيس أركان القوات المسلحة، وحصل على أوسمة منها الميدالية العسكرية من الدرجة الأولى من الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٧٦.",
+    "en": "Sheikh Faisal bin Sultan bin Salem Al Qasimi served as under-secretary of the Ministry of Defence and chief of staff of the Armed Forces, and received decorations including the first-class military medal from Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 176 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الشيخ فيصل القاسمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/shk-faisal-al-qasimi"
+    }
+  ]
 },
 {
   "id": "sheikh-hazzaa-bin-sultan-the-first-road",
@@ -23682,18 +23760,23 @@ window.STREETS = [
   "id": "sheikha-salama-bint-butti-road",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق الشيخة سلامة بنت بطي",
   "en": "Sheikha Salama Bint Butti Road",
   "meaning": {
-    "en": "The mother of Sheikh Zayed",
-    "ar": "والدة الشيخ زايد"
+    "ar": "زوجة حاكم أبوظبي الشيخ سلطان بن زايد الأول",
+    "en": "Wife of Sheikh Sultan bin Zayed the First"
   },
   "story": {
-    "en": "The road is named for Sheikha Salama bint Butti, the mother of Sheikh Zayed bin Sultan Al Nahyan. No published biography of her was found.",
-    "ar": "سُمّي الطريق باسم الشيخة سلامة بنت بطي، والدة الشيخ زايد بن سلطان آل نهيان، ولم يُعثر على ترجمة منشورة لها."
+    "ar": "الشيخة سلامة بنت بطي آل حامد، كريمة شيخ عشيرة القبيسات من بني ياس الشيخ بطي بن خادم بن نهيمان القبيسي، تزوجها حاكم أبوظبي الشيخ سلطان بن زايد الأول (١٩٢٢–١٩٢٧)، وأنجبا الشيخ شخبوط والشيخ هزاع والشيخ خالد.",
+    "en": "Sheikha Salama bint Butti Al Hamed, daughter of the chief of the Qubaisat of the Banu Yas, Sheikh Butti bin Khadim bin Nuhayman Al Qubaisi, married the ruler of Abu Dhabi Sheikh Sultan bin Zayed the First (1922–1927). Their sons were Sheikh Shakhbut, Sheikh Hazza and Sheikh Khalid."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الشيخة سلامة بنت بطي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sheikha-salama-bint-"
+    }
+  ]
 },
 {
   "id": "sidraat-bin-aysh-street",
