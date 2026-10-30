@@ -1175,7 +1175,7 @@ window.STREETS = [
     "ar": "مريم العذراء أم النبي عيسى عليه السلام"
   },
   "story": {
-    "en": "Maryam bint Imran — the Virgin Mary, mother of the Prophet Isa (peace be upon him), as Islam holds.",
+    "en": "Maryam bint Imran — the Virgin Mary, mother of the Prophet Isa (peace be upon him).",
     "ar": "مريم بنت عمران — مريم العذراء أم النبي عيسى عليه السلام."
   },
   "refs": [
