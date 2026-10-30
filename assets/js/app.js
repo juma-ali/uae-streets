@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031S";
+    s.src = "data/cards.js?v=20261031T";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1150,16 +1150,38 @@
        window. It returns when they come back to the top, unless they have set it
        themselves. */
     if (wide.matches) {
+      /* Read the scroll position from every place a browser may keep it: Safari
+         and Chrome disagree about scrollingElement, and a listener on window alone
+         can miss the event when the document element is the scroller. */
+      var readY = function () {
+        var se = document.scrollingElement || document.documentElement;
+        return Math.max(
+          window.pageYOffset || 0,
+          window.scrollY || 0,
+          (se && se.scrollTop) || 0,
+          (document.body && document.body.scrollTop) || 0
+        );
+      };
       var lastY = -1;
-      window.addEventListener("scroll", function () {
+      var onScroll = function () {
         if (chosen) return;
-        var y = window.scrollY || document.documentElement.scrollTop || 0;
-        if (Math.abs(y - lastY) < 40) return;   // ignore the small jitter of a trackpad
+        var y = readY();
+        if (Math.abs(y - lastY) < 24) return;   // ignore trackpad jitter
         lastY = y;
         var open = panel.getAttribute("data-expanded") === "true";
-        if (y > 220 && open) { panel.setAttribute("data-expanded", "false"); syncFiltersToggle(); }
-        else if (y < 80 && !open) { panel.setAttribute("data-expanded", "true"); syncFiltersToggle(); }
-      }, { passive: true });
+        if (y > 200 && open) { panel.setAttribute("data-expanded", "false"); syncFiltersToggle(); }
+        else if (y < 40 && !open) { panel.setAttribute("data-expanded", "true"); syncFiltersToggle(); }
+      };
+      window.addEventListener("scroll", onScroll, { passive: true });
+      document.addEventListener("scroll", onScroll, { passive: true, capture: true });
+      /* A wheel or key press can move the page without a scroll event reaching
+         window in some embedded webviews; this catches those. */
+      window.addEventListener("wheel", function () { window.setTimeout(onScroll, 120); }, { passive: true });
+      window.addEventListener("keydown", function (e) {
+        if (e.key === "PageDown" || e.key === "PageUp" || e.key === "End" || e.key === "Home" || e.key === " ") {
+          window.setTimeout(onScroll, 120);
+        }
+      });
     }
     /* A filter chosen from the collapsed bar closes it again, so the cards return. */
     var body = $("#filters-body");
