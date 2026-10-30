@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261030ZH";
+    s.src = "data/cards.js?v=20261030ZJ";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1099,8 +1099,13 @@
         if (!card) return;
         // let modifier-clicks open the hash link normally
         if (e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
+        /* A KB-only street has no story card: its link is #road=<idx>, and the
+           hashchange handler opens it with openRoadSheet. Swallowing the click
+           here is what made those cards dead — there is no data-id to open. */
+        var id = card.getAttribute("data-id");
+        if (!id) return;
         e.preventDefault();
-        openStreet(card.getAttribute("data-id"));
+        openStreet(id);
       });
     }
 
