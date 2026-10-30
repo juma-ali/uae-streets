@@ -21,12 +21,12 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/styles.css?v=20261031F">
+<link rel="stylesheet" href="assets/css/styles.css?v=20261031G">
 <script>
   /* If a newer build has been published since this tab loaded, reload once.
      Without this a cached tab keeps showing cards that were already corrected. */
   (function () {
-    var HERE = "20261031F";
+    var HERE = "20261031G";
     fetch("data/version.json?t=" + Date.now(), { cache: "no-store" })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (j) {
@@ -237,6 +237,7 @@
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s7-6.1 7-11a7 7 0 1 0-14 0c0 4.9 7 11 7 11Z" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="10" r="2.6" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
             <span data-en="Where am I?" data-ar="أين أنا؟">Where am I?</span>
           </button>
+          <p class="near-status" id="near-status" role="status" aria-live="polite" hidden></p>
           <button type="button" class="btn btn--ghost" id="shuffle">
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7h3.5l9 10H21M3 17h3.5l2.2-2.44M21 7h-5.4l-1.6 1.78M18 4l3 3-3 3M18 14l3 3-3 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
             <span data-en="Surprise me" data-ar="فاجئني">Surprise me</span>
@@ -403,9 +404,9 @@
   <div class="sheet__body" id="sheet-body"></div>
 </dialog>
 
-<script src="data/glosses-ar.js?v=20261031F"></script>
-<script src="data/hierarchy.js?v=20261031F"></script>
-<script src="data/streets.js?v=20261031F"></script>
-<script src="assets/js/app.js?v=20261031F"></script>
+<script src="data/glosses-ar.js?v=20261031G"></script>
+<script src="data/hierarchy.js?v=20261031G"></script>
+<script src="data/streets.js?v=20261031G"></script>
+<script src="assets/js/app.js?v=20261031G"></script>
 </body>
 </html>

@@ -800,3 +800,16 @@ html[dir="rtl"] .card__ar { text-align: right; }
 @media (max-width: 760px) {
   .sheet__coords { margin-inline-start: 0; inline-size: 100%; }
 }
+
+/* ---------- where am I ---------- */
+.near-status {
+  margin: 0; padding: .5rem .8rem; border-radius: .55rem;
+  background: color-mix(in srgb, var(--ink) 7%, transparent);
+  font-size: .82rem; color: var(--ink-2); flex: 1 1 100%;
+}
+.near-status--warn {
+  background: color-mix(in srgb, #b4762a 16%, transparent); color: var(--ink);
+}
+@media (max-width: 760px) {
+  .near-status { order: 3; }
+}

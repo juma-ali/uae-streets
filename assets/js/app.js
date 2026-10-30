@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031F";
+    s.src = "data/cards.js?v=20261031G";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1143,39 +1143,72 @@
     });
     var nearBtn = $("#near-me");
     if (nearBtn) {
+      var nearStatus = $("#near-status");
+      var nearLabel = function (ar, en) { return state.lang === "ar" ? ar : en; };
+      function say(msg, warn) {
+        if (!nearStatus) return;
+        nearStatus.hidden = !msg;
+        nearStatus.textContent = msg || "";
+        nearStatus.classList.toggle("near-status--warn", !!warn);
+      }
+      function reset() {
+        nearBtn.disabled = false;
+        var s = nearBtn.querySelector("span");
+        if (s) s.textContent = nearLabel("أين أنا؟", "Where am I?");
+      }
       nearBtn.addEventListener("click", function () {
-        var label = function (ar, en) { return state.lang === "ar" ? ar : en; };
+        if (nearBtn.disabled) return;
+        /* Every failure below says something. A button that returns to its label
+           in silence is indistinguishable from a button that does not work —
+           which is exactly what it looked like on a phone. */
+        if (!window.isSecureContext) {
+          say(nearLabel("تحديد الموقع يحتاج اتصالاً آمناً (https).", "Location needs a secure (https) connection."), true);
+          return;
+        }
         if (!navigator.geolocation) {
-          nearBtn.setAttribute("aria-label", label("المتصفح لا يدعم تحديد الموقع", "This browser cannot give a location"));
+          say(nearLabel("المتصفح لا يوفّر خدمة الموقع.", "This browser does not offer location."), true);
           return;
         }
         nearBtn.disabled = true;
-        var original = nearBtn.querySelector("span");
-        if (original) original.textContent = label("جارٍ التحديد…", "Locating…");
+        var lbl = nearBtn.querySelector("span");
+        if (lbl) lbl.textContent = nearLabel("جارٍ التحديد…", "Locating…");
+        say(nearLabel("جارٍ تحديد موقعك…", "Finding your position…"));
         navigator.geolocation.getCurrentPosition(function (pos) {
-          nearBtn.disabled = false;
-          if (original) original.textContent = label("أين أنا؟", "Where am I?");
+          say(nearLabel("تم التحديد، نبحث عن أقرب شارع…", "Position found — looking for the nearest street…"));
           loadCoords(function () {
+            reset();
+            if (!window.COORDS) {
+              say(nearLabel("تعذّر تحميل إحداثيات الشوارع. أعد المحاولة.", "The street coordinates could not be loaded. Try again."), true);
+              return;
+            }
             var hit = nearestStreet(pos.coords.latitude, pos.coords.longitude);
-            if (!hit) return;
+            if (!hit) {
+              say(nearLabel("لم يُعثر على شارع قريب.", "No nearby street was found."), true);
+              return;
+            }
+            var far = hit.metres > 250;
+            var dist = hit.metres < 1000
+              ? Math.round(hit.metres) + nearLabel(" متر", " m")
+              : (hit.metres / 1000).toFixed(1) + nearLabel(" كم", " km");
+            say(nearLabel("أقرب شارع يبعد ", "Nearest street: ") + dist +
+                (far ? nearLabel(" — قد لا تكون على شارع مسمّى.", " — you may not be on a named street.") : ""), far);
             openRoadSheet(hit.idx);
             var body = $("#sheet-body");
             if (!body) return;
-            var far = hit.metres > 250;
             var p = document.createElement("p");
             p.className = "sheet__dist" + (far ? " sheet__dist--far" : "");
-            var d = hit.metres < 1000
-              ? Math.round(hit.metres) + label(" متر", " m")
-              : (hit.metres / 1000).toFixed(1) + label(" كم", " km");
-            p.textContent = label("أقرب شارع إليك يبعد نحو ", "The nearest street is about ") + d +
-              (far ? label(" — قد لا تكون على شارع مسمّى.", " away — you may not be on a named street.") : "");
+            p.textContent = nearLabel("أقرب شارع إليك يبعد نحو ", "The nearest street is about ") + dist +
+              (far ? nearLabel(" — قد لا تكون على شارع مسمّى.", " away — you may not be on a named street.") : "");
             body.insertBefore(p, body.firstChild);
           });
-        }, function () {
-          nearBtn.disabled = false;
-          if (original) original.textContent = label("أين أنا؟", "Where am I?");
-          nearBtn.setAttribute("aria-label", label("لم يُسمح بالوصول إلى الموقع", "Location permission was refused"));
-        }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 });
+        }, function (err) {
+          reset();
+          var code = err && err.code;
+          if (code === 1) say(nearLabel("لم يُسمح بالوصول إلى الموقع. افتح إعدادات المتصفح وامنح الإذن لهذا الموقع.", "Location permission was refused. Allow it for this site in your browser settings."), true);
+          else if (code === 2) say(nearLabel("تعذّر تحديد الموقع الآن. جرّب في مكان مكشوف.", "The position is unavailable right now. Try again in the open."), true);
+          else if (code === 3) say(nearLabel("انتهت مدة التحديد. أعد المحاولة.", "Locating timed out. Try again."), true);
+          else say(nearLabel("تعذّر تحديد الموقع.", "The location could not be read."), true);
+        }, { enableHighAccuracy: true, timeout: 15000, maximumAge: 60000 });
       });
     }
 
