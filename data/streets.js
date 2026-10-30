@@ -1171,12 +1171,12 @@ window.STREETS = [
   "ar": "شارع مريم بنت عمران",
   "en": "Maryam Bint 'Omran Street",
   "meaning": {
-    "en": "A virgin and mother of Jesus in Islam",
-    "ar": "مريم العذراء أم النبي عيسى حسب المنظور الإسلامي"
+    "en": "The Virgin Mary, mother of the Prophet Jesus (peace be upon him)",
+    "ar": "مريم العذراء أم النبي عيسى عليه السلام"
   },
   "story": {
-    "en": "Mary in Islam was a virgin and mother of Jesus in Islam.",
-    "ar": "مريم بنت عمران — مريم العذراء أم النبي عيسى حسب المنظور الإسلامي."
+    "en": "Maryam bint Imran — the Virgin Mary, mother of the Prophet Jesus (peace be upon him), as Islam holds.",
+    "ar": "مريم بنت عمران — مريم العذراء أم النبي عيسى عليه السلام."
   },
   "refs": [
     {
