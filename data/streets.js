@@ -725,11 +725,11 @@ window.STREETS = [
   "translit": "Shāriʿ Abī Bakr aṣ-Ṣiddīq",
   "meaning": {
     "en": "The first caliph, the Prophet's companion in the migration",
-    "ar": "أول الخلفاء الراشدين وصاحب النبي في الهجرة"
+    "ar": "أول الخلفاء الراشدين وصاحب النبي محمد ﷺ في الهجرة"
   },
   "story": {
     "en": "Abu Bakr al-Siddiq (d. 13 AH / 634 CE) was the first of the Rightly Guided Caliphs and the Companion who accompanied the Prophet on the migration to Medina. He was the first free man to accept Islam.",
-    "ar": "أبو بكر الصديق (ت 13هـ/634م) أول الخلفاء الراشدين، وصاحب النبي في الهجرة إلى المدينة، وأول من أسلم من الرجال الأحرار."
+    "ar": "أبو بكر الصديق (ت 13هـ/634م) أول الخلفاء الراشدين، وصاحب النبي محمد ﷺ في الهجرة إلى المدينة، وأول من أسلم من الرجال الأحرار."
   },
   "refs": [
     {
@@ -798,7 +798,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ali ibn Abi Talib (d. 40 AH / 661 CE) was the fourth of the Rightly Guided Caliphs, the Prophet's cousin, and the husband of his daughter Fatima.",
-    "ar": "علي بن أبي طالب (ت 40هـ/661م) رابع الخلفاء الراشدين، وابن عم النبي، وزوج ابنته فاطمة."
+    "ar": "علي بن أبي طالب (ت 40هـ/661م) رابع الخلفاء الراشدين، وابن عم النبي محمد ﷺ، وزوج ابنته فاطمة."
   },
   "refs": [
     {
@@ -863,11 +863,11 @@ window.STREETS = [
   "translit": "Shāriʿ Ḥamza bin ʿAbd al-Muṭṭalib",
   "meaning": {
     "en": "The Prophet's uncle, killed at Uhud",
-    "ar": "عمّ النبي، استُشهد في أُحد"
+    "ar": "عمّ النبي محمد ﷺ، استُشهد في أُحد"
   },
   "story": {
     "en": "Hamza ibn Abd al-Muttalib (d. 3 AH / 625 CE) was the Prophet's uncle, known as the Lion of God. He was killed at the battle of Uhud and is buried there.",
-    "ar": "حمزة بن عبد المطلب (ت 3هـ/625م) عمّ النبي، عُرف بأسد الله، واستُشهد في غزوة أُحد ودُفن فيها."
+    "ar": "حمزة بن عبد المطلب (ت 3هـ/625م) عمّ النبي محمد ﷺ، عُرف بأسد الله، واستُشهد في غزوة أُحد ودُفن فيها."
   },
   "refs": [
     {
@@ -1088,7 +1088,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Aqil ibn al-Bakir was a companion of the Prophet Muhammad.",
-    "ar": "عقيل بن البكير صحابي من أصحاب النبي محمد، وأخو إياس بن البكير البدري."
+    "ar": "عقيل بن البكير صحابي من أصحاب النبي محمد ﷺ، وأخو إياس بن البكير البدري."
   },
   "refs": [
     {
@@ -1220,7 +1220,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ka'b ibn Zuhayr (d. c. 24 AH / 645 CE) was a poet of the transition period who accepted Islam and recited his ode Banat Su'ad before the Prophet.",
-    "ar": "كعب بن زهير بن أبي سلمى (ت نحو 24هـ/645م) شاعر مخضرم، أسلم وأنشد قصيدته «بانت سعاد» بين يدي النبي."
+    "ar": "كعب بن زهير بن أبي سلمى (ت نحو 24هـ/645م) شاعر مخضرم، أسلم وأنشد قصيدته «بانت سعاد» بين يدي النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -1370,11 +1370,11 @@ window.STREETS = [
   "en": "Wahab Bin Sa'd Street",
   "meaning": {
     "en": "Companion (Sahabi) of Muhammad",
-    "ar": "صحابي، شهد غزوات عديدة مع النبي محمد صلى الله عليه وسلم"
+    "ar": "صحابي، شهد غزوات عديدة مع النبي محمد ﷺ"
   },
   "story": {
     "en": "Wahb ibn Saad was a companion (Sahabi) of Muhammad.",
-    "ar": "وهب بن سعد — صحابي، شهد غزوات عديدة مع النبي محمد صلى الله عليه وسلم."
+    "ar": "وهب بن سعد — صحابي، شهد غزوات عديدة مع النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -1810,11 +1810,11 @@ window.STREETS = [
   "en": "Thakwaan Bin Qbd Qais Street",
   "meaning": {
     "en": "One of Muhammad's companions",
-    "ar": "صحابي من صحابة النبي محمد"
+    "ar": "صحابي من صحابة النبي محمد ﷺ"
   },
   "story": {
     "en": "Dhikwan ibn Abd-Qays (d. 625) was an one of Muhammad's companions.",
-    "ar": "ذكوان بن عبد قيس — صحابي من صحابة النبي محمد."
+    "ar": "ذكوان بن عبد قيس — صحابي من صحابة النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -1832,11 +1832,11 @@ window.STREETS = [
   "en": "Tulaib Bin Omair Street",
   "meaning": {
     "en": "Cousin of Muhammad",
-    "ar": "صحابي وابن عمة النبي محمد"
+    "ar": "صحابي وابن عمة النبي محمد ﷺ"
   },
   "story": {
     "en": "Tulayb ibn Umayr was a cousin of Muhammad.",
-    "ar": "طليب بن عمير — صحابي وابن عمة النبي محمد."
+    "ar": "طليب بن عمير — صحابي وابن عمة النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -1899,11 +1899,11 @@ window.STREETS = [
   "en": "Mus'ab Bin 'Omair Street",
   "meaning": {
     "en": "A Companion who taught Islam in Yathrib",
-    "ar": "صحابي بعثه النبي إلى يثرب ليعلّم الإسلام"
+    "ar": "صحابي بعثه النبي محمد ﷺ إلى يثرب ليعلّم الإسلام"
   },
   "story": {
     "en": "Mus'ab ibn Umayr was a Qurayshi Companion who accepted Islam in Mecca and was sent by the Prophet to Yathrib before the migration to teach its people. He was killed at the battle of Uhud.",
-    "ar": "مصعب بن عمير صحابي من قريش، أسلم في مكة، وبعثه النبي إلى يثرب قبل الهجرة ليعلّم أهلها الإسلام، وقُتل في غزوة أُحد."
+    "ar": "مصعب بن عمير صحابي من قريش، أسلم في مكة، وبعثه النبي محمد ﷺ إلى يثرب قبل الهجرة ليعلّم أهلها الإسلام، وقُتل في غزوة أُحد."
   },
   "refs": [
     {
@@ -2035,7 +2035,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Zubayr ibn al-Awwam (28 BH – 36 AH / 594–656 CE) was a Qurayshi Companion, the son of the Prophet's aunt, who took part in the early campaigns.",
-    "ar": "الزبير بن العوام (28 ق.هـ–36هـ/594–656م) صحابي من قريش، وابن عمة النبي، شهد الغزوات والوقائع في صدر الإسلام."
+    "ar": "الزبير بن العوام (28 ق.هـ–36هـ/594–656م) صحابي من قريش، وابن عمة النبي محمد ﷺ، شهد الغزوات والوقائع في صدر الإسلام."
   },
   "refs": [
     {
@@ -2057,7 +2057,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zayd ibn Haritha (d. 8 AH / 629 CE) was a Companion close to the Prophet and a commander, killed at the battle of Mu'tah.",
-    "ar": "زيد بن حارثة (ت 8هـ/629م) صحابي من المقرّبين إلى النبي وقائد، قُتل في غزوة مؤتة."
+    "ar": "زيد بن حارثة (ت 8هـ/629م) صحابي من المقرّبين إلى النبي محمد ﷺ وقائد، قُتل في غزوة مؤتة."
   },
   "refs": [
     {
@@ -2189,7 +2189,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Usama ibn Zayd (d. c. 54 AH / 674 CE) was a Companion and the son of Zayd ibn Haritha; the Prophet appointed him to lead an army near the end of his life.",
-    "ar": "أسامة بن زيد (ت نحو 54هـ/674م) صحابي وابن زيد بن حارثة، أمّره النبي على جيش في آخر حياته."
+    "ar": "أسامة بن زيد (ت نحو 54هـ/674م) صحابي وابن زيد بن حارثة، أمّره النبي محمد ﷺ على جيش في آخر حياته."
   },
   "refs": [
     {
@@ -2295,11 +2295,11 @@ window.STREETS = [
   "en": "Anas Bin Malik Street",
   "meaning": {
     "en": "A Companion who served the Prophet",
-    "ar": "صحابي خدم النبي وروى عنه"
+    "ar": "صحابي خدم النبي محمد ﷺ وروى عنه"
   },
   "story": {
     "en": "Anas ibn Malik (c. 10–93 AH / 612–712 CE) was an Ansari Companion who served the Prophet, transmitted many hadith, and later lived in Basra.",
-    "ar": "أنس بن مالك (نحو 10–93هـ/612–712م) صحابي أنصاري خدم النبي وروى عنه كثيراً، وأقام في البصرة."
+    "ar": "أنس بن مالك (نحو 10–93هـ/612–712م) صحابي أنصاري خدم النبي محمد ﷺ وروى عنه كثيراً، وأقام في البصرة."
   },
   "refs": [
     {
@@ -2321,7 +2321,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Aws ibn al-Samit was a Companion of the Ansar who fought in every campaign with the Prophet. He is the man whose case with his wife Khawla bint Tha'laba brought down the opening verses of Surat al-Mujadila.",
-    "ar": "أوس بن الصامت صحابي من الأنصار من بني غنم بن عوف من الخزرج، شهد مع النبي المشاهد كلها، وهو الذي ظاهر زوجته خولة بنت ثعلبة فنزلت فيهما آية سورة المجادلة."
+    "ar": "أوس بن الصامت صحابي من الأنصار من بني غنم بن عوف من الخزرج، شهد مع النبي محمد ﷺ المشاهد كلها، وهو الذي ظاهر زوجته خولة بنت ثعلبة فنزلت فيهما آية سورة المجادلة."
   },
   "refs": [
     {
@@ -2365,7 +2365,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Amer Bin Rabi'ah was a companion of the Prophet Muhammad.",
-    "ar": "عامر بن ربيعة صحابي من أصحاب النبي محمد."
+    "ar": "عامر بن ربيعة صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -2387,7 +2387,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Amer Bin Fuhairah was a companion of the Prophet Muhammad.",
-    "ar": "عامر بن فهيرة صحابي من أصحاب النبي محمد."
+    "ar": "عامر بن فهيرة صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -2409,7 +2409,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Umayr Bin Abi Waqqas was a companion of the Prophet Muhammad.",
-    "ar": "عمير بن أبي وقاص صحابي من أصحاب النبي محمد."
+    "ar": "عمير بن أبي وقاص صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -2431,7 +2431,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al Hubab Bin Al Mundhir was a companion of the Prophet Muhammad.",
-    "ar": "الحباب بن المنذر صحابي من أصحاب النبي محمد."
+    "ar": "الحباب بن المنذر صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -2453,7 +2453,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Sa'b ibn Jathama was a Companion who lived into the time of the Prophet and witnessed the conquest of Istakhr and Fars. At Hunayn the Prophet said that but for him the cavalry would have been disgraced.",
-    "ar": "الصعب بن جثامة صحابي أدرك عصر النبوة، وحضر فتح اصطخر وفارس، وقال النبي يوم حنين: «لولا الصعب بن جثامة لفضحت الخيل»."
+    "ar": "الصعب بن جثامة صحابي أدرك عصر النبوة، وحضر فتح اصطخر وفارس، وقال النبي محمد ﷺ يوم حنين: «لولا الصعب بن جثامة لفضحت الخيل»."
   },
   "refs": [
     {
@@ -2475,7 +2475,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al Munthir Bin 'Amr was a companion of the Prophet Muhammad.",
-    "ar": "المنذر بن عمرو صحابي من أصحاب النبي محمد."
+    "ar": "المنذر بن عمرو صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -2497,7 +2497,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al Nu'man Bin Muqren was a companion of the Prophet Muhammad.",
-    "ar": "النعمان بن مقرن صحابي من أصحاب النبي محمد."
+    "ar": "النعمان بن مقرن صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -2519,7 +2519,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Bacheer Bin Sa'd was a companion of the Prophet Muhammad.",
-    "ar": "بشير بن سعد صحابي من أصحاب النبي محمد."
+    "ar": "بشير بن سعد صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -2603,11 +2603,11 @@ window.STREETS = [
   "en": "Al Taher Bin Abi Hala Street",
   "meaning": {
     "en": "A Companion, the Prophet's stepson",
-    "ar": "صحابي، ربيب النبي صلى الله عليه وسلم"
+    "ar": "صحابي، ربيب النبي محمد ﷺ"
   },
   "story": {
     "en": "Al-Tahir ibn Abi Halah ibn Zurarah al-Usaydi al-Tamimi was a Companion and the Prophet's stepson — his mother was Khadijah bint Khuwaylid. The Prophet appointed him over part of Yemen, and Abu Bakr sent him against the apostates of Azd Tihamah, whom he defeated.",
-    "ar": "الطاهر بن أبي هالة بن زرارة الأسيدي التميمي، صحابي وربيب النبي صلى الله عليه وسلم، وأمه أم المؤمنين خديجة بنت خويلد. ولّاه رسول الله صلى الله عليه وسلم على بعض اليمن، ثم ندبه أبو بكر الصديق لقتال المرتدين من أزد تهامة، فقاتلهم وتغلّب عليهم."
+    "ar": "الطاهر بن أبي هالة بن زرارة الأسيدي التميمي، صحابي وربيب النبي محمد ﷺ، وأمه أم المؤمنين خديجة بنت خويلد. ولّاه النبي محمد ﷺ على بعض اليمن، ثم ندبه أبو بكر الصديق لقتال المرتدين من أزد تهامة، فقاتلهم وتغلّب عليهم."
   },
   "refs": [
     {
@@ -2707,7 +2707,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Tamim ibn Ya'ar was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
-    "ar": "تميم بن يعار بن قيس بن عدي الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى الل."
+    "ar": "تميم بن يعار بن قيس بن عدي الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد ﷺ صلى الل."
   },
   "refs": [
     {
@@ -2747,11 +2747,11 @@ window.STREETS = [
   "en": "Hatib Bin Abi Balta'ah Street",
   "meaning": {
     "en": "A Companion, the Prophet's envoy to Egypt",
-    "ar": "صحابي ورسول النبي إلى المقوقس"
+    "ar": "صحابي ورسول النبي محمد ﷺ إلى المقوقس"
   },
   "story": {
     "en": "Hatib ibn Abi Balta'a was a Companion who fought at Badr and served as the Prophet's envoy to the Muqawqis of Egypt.",
-    "ar": "حاطب بن أبي بلتعة اللخمي صحابي بدري، أسلم وهاجر إلى المدينة المنورة، وشارك مع النبي محمد في غزواته كلها، وكان رسوله إلى المقوقس عظيم مصر."
+    "ar": "حاطب بن أبي بلتعة اللخمي صحابي بدري، أسلم وهاجر إلى المدينة المنورة، وشارك مع النبي محمد ﷺ في غزواته كلها، وكان رسوله إلى المقوقس عظيم مصر."
   },
   "refs": [
     {
@@ -2813,11 +2813,11 @@ window.STREETS = [
   "en": "Ziyad Bin Labeed Street",
   "meaning": {
     "en": "An Ansari Companion, appointed over Hadramawt",
-    "ar": "صحابي أنصاري استعمله النبي على حضرموت"
+    "ar": "صحابي أنصاري استعمله النبي محمد ﷺ على حضرموت"
   },
   "story": {
     "en": "Ziyad ibn Labid was an Ansari Companion who took the second pledge of Aqaba, fought at Badr and Uhud, and was appointed by the Prophet over Hadramawt.",
-    "ar": "زِيَاد بن لَبِيد صحابي من الأنصار، شهد بيعة العقبة الثانية، وشهد بدرًا وأحدًا والخندق وباقي المشاهد، استعمله النبي على حضرموت، وشارك في حروب الردة، وتوفي في أول خلافة معاوية سنة إحدى وأربعين."
+    "ar": "زِيَاد بن لَبِيد صحابي من الأنصار، شهد بيعة العقبة الثانية، وشهد بدرًا وأحدًا والخندق وباقي المشاهد، استعمله النبي محمد ﷺ على حضرموت، وشارك في حروب الردة، وتوفي في أول خلافة معاوية سنة إحدى وأربعين."
   },
   "refs": [
     {
@@ -2839,7 +2839,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zayd ibn Wadi'a ibn Amr al-Khazraji was an Ansari Companion of the Khazraj who fought alongside the Prophet at Badr and Uhud.",
-    "ar": "زيد بن وديعة بن عمرو بن قيس الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد."
+    "ar": "زيد بن وديعة بن عمرو بن قيس الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد ﷺ غزوة بدر وغزوة أحد."
   },
   "refs": [
     {
@@ -2949,7 +2949,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sulaym ibn al-Harith al-Khazraji was an Ansari Companion of the Khazraj who fought with the Prophet at Badr and Uhud, and was killed at Uhud.",
-    "ar": "سليم بن الحارث بن ثعلبة بن كعب بن عبد الأشهل الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد وقُتِل فيها شهيداً."
+    "ar": "سليم بن الحارث بن ثعلبة بن كعب بن عبد الأشهل الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد ﷺ غزوة بدر وغزوة أحد وقُتِل فيها شهيداً."
   },
   "refs": [
     {
@@ -2971,7 +2971,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Sahl ibn Qays was an Ansari Companion of the Khazraj who fought at Badr and was killed at Uhud.",
-    "ar": "سهل بن قيس بن أبي كعب الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد صلى الله عليه وسلم غزوة بدر."
+    "ar": "سهل بن قيس بن أبي كعب الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد ﷺ غزوة بدر."
   },
   "refs": [
     {
@@ -3037,7 +3037,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zabya bint al-Bara was a woman Companion, the wife of Abu Qatada, and was known as Umm Bishr.",
-    "ar": "ظبية بنت البراء بن معرور امرأة أبي قتادة الأنصاري، من صحابيات رسول الله."
+    "ar": "ظبية بنت البراء بن معرور امرأة أبي قتادة الأنصاري، من صحابيات النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -3059,7 +3059,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Asim ibn Qays ibn Thabit al-Awsi was an Ansari Companion of the Aws who fought with the Prophet at Badr and Uhud.",
-    "ar": "عاصم بن قيس بن ثابت بن النعمان بن أمية الأوسي الأنصاري صحابي جليل من قبيلة الأوس من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد."
+    "ar": "عاصم بن قيس بن ثابت بن النعمان بن أمية الأوسي الأنصاري صحابي جليل من قبيلة الأوس من الأنصار شهد مع النبي محمد ﷺ غزوة بدر وغزوة أحد."
   },
   "refs": [
     {
@@ -3212,8 +3212,8 @@ window.STREETS = [
     "ar": "صحابي أنصاري"
   },
   "story": {
-    "en": "Qatada ibn al-Nu'man was an Ansari Companion of the Prophet.",
-    "ar": "الصحابي قتادة بن النعمان رضي الله عنه كان من السابقين للإسلام وأحد صحابة النبي."
+    "en": "Qatada ibn al-Nu'man was among the earliest to accept Islam and one of the Companions of the Prophet Muhammad.",
+    "ar": "الصحابي قتادة بن النعمان رضي الله عنه كان من السابقين للإسلام وأحد صحابة النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -3235,7 +3235,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Kulthum ibn al-Husayn, known as Abu Ruhm, was a Companion who accepted Islam after the Prophet came to Medina and did not fight at Badr.",
-    "ar": "أبو رُهْم كلثوم بن الحُصين بن عتبة بن خلف الغِفاري الكناني مشهور بكنيته، من صحابة النبي محمد، أسلم بعد قدوم النبي إلى المدينة، ولم يشهد غزوة بدر، شهد معركة أحد."
+    "ar": "أبو رُهْم كلثوم بن الحُصين بن عتبة بن خلف الغِفاري الكناني مشهور بكنيته، من صحابة النبي محمد ﷺ، أسلم بعد قدوم النبي محمد ﷺ إلى المدينة، ولم يشهد غزوة بدر، شهد معركة أحد."
   },
   "refs": [
     {
@@ -3257,7 +3257,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Malik ibn Mas'ud al-Khazraji was an Ansari Companion of the Khazraj who fought with the Prophet at Badr and Uhud.",
-    "ar": "مالك بن مسعود بن اليدي بن عامر الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد غزوة بدر وغزوة أحد."
+    "ar": "مالك بن مسعود بن اليدي بن عامر الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد ﷺ غزوة بدر وغزوة أحد."
   },
   "refs": [
     {
@@ -3301,7 +3301,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Harithah ibn Suraqah (d. 2 AH) was a Companion of the Banu Adi ibn al-Najjar of the Khazraj. The Prophet joined him in brotherhood with al-Sa'ib ibn Uthman ibn Maz'un. He fought at Badr and was killed there — the first of the Ansar to fall — struck in the throat by an arrow from Habban ibn al-Arqah while he was drinking at the cistern.",
-    "ar": "حارثة بن سراقة (المتوفى سنة 2هـ)، صحابي من بني عدي بن النجار من الخزرج. أسلم، وآخى النبي صلى الله عليه وسلم بينه وبين السائب بن عثمان بن مظعون، وشهد بدراً وقُتل فيها، وكان أول قتلى الأنصار في المعركة؛ قتله حبّان بن العرقة بسهم أصاب حنجرته وهو يشرب من الحوض."
+    "ar": "حارثة بن سراقة (المتوفى سنة 2هـ)، صحابي من بني عدي بن النجار من الخزرج. أسلم، وآخى النبي محمد ﷺ بينه وبين السائب بن عثمان بن مظعون، وشهد بدراً وقُتل فيها، وكان أول قتلى الأنصار في المعركة؛ قتله حبّان بن العرقة بسهم أصاب حنجرته وهو يشرب من الحوض."
   },
   "refs": [
     {
@@ -3429,7 +3429,7 @@ window.STREETS = [
   "en": "Al Qasim Bin Mohammed Street",
   "meaning": {
     "en": "Son of Muhammad and Khadijah bint Khuwaylid",
-    "ar": "أول أبناء النبي محمد وبه يُكنى (أبو القاسم)"
+    "ar": "أول أبناء النبي محمد ﷺ وبه يُكنى (أبو القاسم)"
   },
   "story": {
     "en": "Qasim ibn Muhammad (d. 601) was a son of Muhammad and Khadijah bint Khuwaylid.",
@@ -3477,7 +3477,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Yazid al-Rabi' ibn Khuthaym al-Thawri al-Tamimi al-Kufi (10 BH – 65 AH) was a Successor of Kufa, among the great Successors and transmitters of hadith. He was born in the pre-Islamic period and lived into the Prophet's time without seeing him. Al-Ijli declared him trustworthy, and al-Dhahabi counted him among the masters of the Successors.",
-    "ar": "أبو يزيد الربيع بن خثيم بن عائذ بن عبد الله الثوري التميمي الكوفي (10 ق هـ – 65هـ)، تابعي من أهل الكوفة، من كبار التابعين ورواة الحديث. وُلد في الجاهلية وأدرك زمن النبي صلى الله عليه وسلم ولم يره. وثّقه أبو الحسن العجلي، وعدّه الذهبي من سادة التابعين."
+    "ar": "أبو يزيد الربيع بن خثيم بن عائذ بن عبد الله الثوري التميمي الكوفي (10 ق هـ – 65هـ)، تابعي من أهل الكوفة، من كبار التابعين ورواة الحديث. وُلد في الجاهلية وأدرك زمن النبي محمد ﷺ ولم يره. وثّقه أبو الحسن العجلي، وعدّه الذهبي من سادة التابعين."
   },
   "refs": [
     {
@@ -3543,7 +3543,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Buraydah ibn al-Khasib al-Aslami, known by the kunya Abu Abd Allah, was a companion of the Prophet Muhammad.",
-    "ar": "بريدة بن الحُصَيب بن عبد الله بن الحارث الأسلمي، يكنى أبا عبد الله، وقيل أبا سهل، وهو صحابي من أصحاب النبي محمد."
+    "ar": "بريدة بن الحُصَيب بن عبد الله بن الحارث الأسلمي، يكنى أبا عبد الله، وقيل أبا سهل، وهو صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -3605,7 +3605,7 @@ window.STREETS = [
   "en": "Fatima Az Zahra-a Street",
   "meaning": {
     "en": "Daughter of Muhammad",
-    "ar": "بنت النبي محمد وزوجة علي بن أبي طالب وأم الحسن والحسين"
+    "ar": "بنت النبي محمد ﷺ وزوجة علي بن أبي طالب وأم الحسن والحسين"
   },
   "story": {
     "en": "Fatima al-Zahra was a daughter of the Prophet Muhammad and of Khadija, and the mother of al-Hasan and al-Husayn.",
@@ -3715,7 +3715,7 @@ window.STREETS = [
   "en": "Jubayr Bin Mut'im Street",
   "meaning": {
     "en": "Sahabah",
-    "ar": "صحابي من صحابة رسول الله"
+    "ar": "صحابي من صحابة النبي محمد ﷺ"
   },
   "story": {
     "en": "Jubayr ibn Mut'im (d. 670) was a companion of the Prophet Muhammad.",
@@ -3741,7 +3741,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Jamila bint Thabit ibn Abi al-Aqlah al-Ansariyyah was first named Asiyah, and the Prophet renamed her Jamila. She was the wife of Umar ibn al-Khattab, who married her in the seventh year after the Hijrah; she bore him his son Asim, and he later divorced her. She then married Yazid ibn Jariyah, by whom she had Abd al-Rahman. Her brother was Asim ibn Thabit, one of the martyrs.",
-    "ar": "جميلة بنت ثابت بن أبي الأقلح الأنصارية، كان اسمها عاصية فسماها رسول الله صلى الله عليه وسلم جميلة. وهي زوجة عمر بن الخطاب، تزوجها في السنة السابعة من الهجرة، وولدت له ابنه عاصم بن عمر، ثم طلقها، فتزوجت بعده يزيد بن جارية فولدت له عبد الرحمن. وأخوها عاصم بن ثابت، من شهداء المسلمين."
+    "ar": "جميلة بنت ثابت بن أبي الأقلح الأنصارية، كان اسمها عاصية فسماها النبي محمد ﷺ جميلة. وهي زوجة عمر بن الخطاب، تزوجها في السنة السابعة من الهجرة، وولدت له ابنه عاصم بن عمر، ثم طلقها، فتزوجت بعده يزيد بن جارية فولدت له عبد الرحمن. وأخوها عاصم بن ثابت، من شهداء المسلمين."
   },
   "refs": [
     {
@@ -3759,11 +3759,11 @@ window.STREETS = [
   "en": "Juwayriyah Bint Al Harith Street",
   "meaning": {
     "en": "Eighth wife of the Prophet Muhammad",
-    "ar": "أم المؤمنين، ثامن زوجات النبي محمد (15ق.هـ–56هـ / 608–676م)"
+    "ar": "أم المؤمنين، ثامن زوجات النبي محمد ﷺ (15ق.هـ–56هـ / 608–676م)"
   },
   "story": {
     "en": "Juwayriyya bint al-Harith (608–676) was a wife of the Prophet Muhammad.",
-    "ar": "أم المؤمنين جُوَيْرِيَة بنت الحارث ثامن زوجات الرسول محمد صلى الله عليه وسلم.."
+    "ar": "أم المؤمنين جُوَيْرِيَة بنت الحارث ثامن زوجات النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -3781,7 +3781,7 @@ window.STREETS = [
   "en": "Khadeejah Bint Khuwaylid Street",
   "meaning": {
     "en": "First wife of Prophet Muḥammad ﷺ, First believer in Islam and Prophet Muhammad’s wife",
-    "ar": "الزوجة الأولى للنبي محمد، و أول من أسلم من النساء، و أحب زوجات النبي محمد إليه، و أم جميع أولاده عدا إبراهيم (68–3ق.هـ / 556–619م)"
+    "ar": "الزوجة الأولى للنبي محمد، و أول من أسلم من النساء، و أحب زوجات النبي محمد ﷺ إليه، و أم جميع أولاده عدا إبراهيم (68–3ق.هـ / 556–619م)"
   },
   "story": {
     "en": "Khadija bint Khuwaylid (557–619) was the first wife of the Prophet Muhammad and the first believer in Islam.",
@@ -3851,7 +3851,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Maymunah bint al-Harith (592–672) was a wife of the Prophet Muhammad.",
-    "ar": "أم المؤمنين مَيْمُونَةُ بِنْتُ الحَارِثِ بن حَزْن، آخرُ زوجات النبي محمد صلى الله عليه وسلم."
+    "ar": "أم المؤمنين مَيْمُونَةُ بِنْتُ الحَارِثِ بن حَزْن، آخرُ زوجات النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -3913,7 +3913,7 @@ window.STREETS = [
   "en": "Nu'aym Bin Mas'oud Street",
   "meaning": {
     "en": "Sahabah",
-    "ar": "صحابي من بني أشجع من قبيلة غطفان كان له دور مهم في مناصرة النبي محمد و خداع الأحزاب في غزوة الخندق"
+    "ar": "صحابي من بني أشجع من قبيلة غطفان كان له دور مهم في مناصرة النبي محمد ﷺ و خداع الأحزاب في غزوة الخندق"
   },
   "story": {
     "en": "Nuaym ibn Masud (600–650) was a companion of the Prophet Muhammad.",
@@ -4137,7 +4137,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Yazid ibn al-Harith, known through his mother as Yazid ibn Fus-hum (d. 2 AH), was a Khazraj companion who fought at Badr and was killed there.",
-    "ar": "يزيد بن الحارث المعروف بأمه يزيد بن فسحم (المتوفى سنة 2 هـ) صحابي من بني كعب من الخزرج، شهد مع النبي محمد غزوة بدر وقُتل فيها."
+    "ar": "يزيد بن الحارث المعروف بأمه يزيد بن فسحم (المتوفى سنة 2 هـ) صحابي من بني كعب من الخزرج، شهد مع النبي محمد ﷺ غزوة بدر وقُتل فيها."
   },
   "refs": [
     {
@@ -4335,7 +4335,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zaynab bint Khuzayma (595–625) was a wife of the Prophet Muhammad.",
-    "ar": "أم المؤمنين زينب بنت خزيمة إحدى زوجات النبي محمد، كانت تُكنّى بأم المساكين."
+    "ar": "أم المؤمنين زينب بنت خزيمة إحدى زوجات النبي محمد ﷺ، كانت تُكنّى بأم المساكين."
   },
   "refs": [
     {
@@ -4397,7 +4397,7 @@ window.STREETS = [
   "en": "Hamza Bin Abdulmotalib Street",
   "meaning": {
     "en": "Companion and uncle of the Prophet Muhammad",
-    "ar": "صحابي ، عم النبي محمد"
+    "ar": "صحابي ، عم النبي محمد ﷺ"
   },
   "story": {
     "en": "Hamza ibn ‘Abd al-Muttalib (568–625) was a companion of the Prophet and his uncle.",
@@ -4573,7 +4573,7 @@ window.STREETS = [
   "en": "Mohammed Bin Maslamah Street",
   "meaning": {
     "en": "Sahabah",
-    "ar": "صحابي أنصاري، ولاه النبي محمد المدينة"
+    "ar": "صحابي أنصاري، ولاه النبي محمد ﷺ المدينة"
   },
   "story": {
     "en": "Muhammad ibn Maslamah (589–666) was a companion of the Prophet Muhammad.",
@@ -4710,7 +4710,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Hafsa bint Umar ibn al-Khattab (18 BH – 41 AH / 605–661 CE; some sources give 45 AH) was the fourth wife of the Prophet Muhammad, a Mother of the Believers, and the daughter of the second caliph, Umar ibn al-Khattab.",
-    "ar": "حَفْصَة بنت عُمر بن الخطاب العَدَويَّة القُرَشيَّة (18 ق.هـ–41هـ / 605–661م، وقيل 45هـ) رابع زوجات النبي محمد، ومن أمهات المؤمنين، وابنة الخليفة الثاني عمر بن الخطاب."
+    "ar": "حَفْصَة بنت عُمر بن الخطاب العَدَويَّة القُرَشيَّة (18 ق.هـ–41هـ / 605–661م، وقيل 45هـ) رابع زوجات النبي محمد ﷺ، ومن أمهات المؤمنين، وابنة الخليفة الثاني عمر بن الخطاب."
   },
   "refs": [
     {
@@ -4754,7 +4754,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Umayr Mas'ud ibn Rabi'ah al-Qari (d. 30 AH) was a Companion of Badr and one of the earliest Muslims. He migrated to Yathrib and took part in all of the Prophet's campaigns.",
-    "ar": "أبو عمير مسعود بن ربيعة القاري (المتوفى سنة 30هـ)، صحابي بدري من السابقين إلى الإسلام، هاجر إلى يثرب، وشارك مع النبي صلى الله عليه وسلم في غزواته كلها."
+    "ar": "أبو عمير مسعود بن ربيعة القاري (المتوفى سنة 30هـ)، صحابي بدري من السابقين إلى الإسلام، هاجر إلى يثرب، وشارك مع النبي محمد ﷺ في غزواته كلها."
   },
   "refs": [
     {
@@ -4798,7 +4798,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Yazid ibn al-Mundhir was an Ansari Companion of the Khazraj who took the second pledge of Aqaba and fought at Badr.",
-    "ar": "يزيد بن المنذر صحابي من الأنصار من بني عبيد بن عدي من الخزرج، شهد بيعة العقبة الثانية، وآخى النبي محمد بينه وبين عامر بن ربيعة، وشهد غزوتي بدر وأحد."
+    "ar": "يزيد بن المنذر صحابي من الأنصار من بني عبيد بن عدي من الخزرج، شهد بيعة العقبة الثانية، وآخى النبي محمد ﷺ بينه وبين عامر بن ربيعة، وشهد غزوتي بدر وأحد."
   },
   "refs": [
     {
@@ -4886,7 +4886,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Asma bint Umays al-Khath'amiyya (d. 38 AH or later) was a woman Companion and the wife of Ja'far ibn Abi Talib and later of Abu Bakr.",
-    "ar": "أَسْماءُ بنتُ عُمَيْس الخَثْعَمِيَّة (ت 38 هـ أو بعد 60 هـ) صحابية أسلمت قديمًا مع أختها سَلمى بنت عُمَيس قبل دخول النبي محمد دار الأرقم."
+    "ar": "أَسْماءُ بنتُ عُمَيْس الخَثْعَمِيَّة (ت 38 هـ أو بعد 60 هـ) صحابية أسلمت قديمًا مع أختها سَلمى بنت عُمَيس قبل دخول النبي محمد ﷺ دار الأرقم."
   },
   "refs": [
     {
@@ -4952,7 +4952,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Arqam ibn Abi al-Arqam was among the earliest Muslims; his house in Mecca served as the first meeting place of the community.",
-    "ar": "أبو عبد الله الأرقم بن أبي الأرقم عبد مناف بن أسد المخزومي صحابي من السابقين الأولين في الدخول إلى الإسلام. اتخذ النبي محمد من دار الأرقم مقراً للدعوة بداية الإسلام."
+    "ar": "أبو عبد الله الأرقم بن أبي الأرقم عبد مناف بن أسد المخزومي صحابي من السابقين الأولين في الدخول إلى الإسلام. اتخذ النبي محمد ﷺ من دار الأرقم مقراً للدعوة بداية الإسلام."
   },
   "refs": [
     {
@@ -4974,7 +4974,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Aswad ibn Hilal al-Muharibi was a Kufan transmitter of hadith among the senior Tabi'un.",
-    "ar": "الأسود بن هلال المحاربي، أبو سلام الكوفي، راوي حديث من كبار التابعين، أدرك عصر النبي محمد، كان من الثقات المتقنين في روا."
+    "ar": "الأسود بن هلال المحاربي، أبو سلام الكوفي، راوي حديث من كبار التابعين، أدرك عصر النبي محمد ﷺ، كان من الثقات المتقنين في روا."
   },
   "refs": [
     {
@@ -4996,7 +4996,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Bara' ibn Malik al-Ansari (d. 20 AH) was a Companion, the brother of Anas ibn Malik by both parents. He fought in several of the Prophet's campaigns and in the conquests of Iraq and Persia, and was killed at the conquest of Tustar.",
-    "ar": "البراء بن مالك الأنصاري (المتوفى سنة 20هـ)، صحابي، أخو أنس بن مالك لأبيه وأمه. شهد عدداً من غزوات النبي صلى الله عليه وسلم وفتوح العراق وفارس، واستشهد في فتح تُستَر."
+    "ar": "البراء بن مالك الأنصاري (المتوفى سنة 20هـ)، صحابي، أخو أنس بن مالك لأبيه وأمه. شهد عدداً من غزوات النبي محمد ﷺ وفتوح العراق وفارس، واستشهد في فتح تُستَر."
   },
   "refs": [
     {
@@ -5018,7 +5018,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Harith ibn Abi Dirar was a Companion and the father of Juwayriyya bint al-Harith, a wife of the Prophet.",
-    "ar": "الحارث بن أبي ضرار، صحابي وأبو جويرية بنت الحارث، زوجة النبي وأم المؤمنين."
+    "ar": "الحارث بن أبي ضرار، صحابي وأبو جويرية بنت الحارث، زوجة النبي محمد ﷺ وأم المؤمنين."
   },
   "refs": [
     {
@@ -5124,11 +5124,11 @@ window.STREETS = [
   "en": "Arwa Bint Abd Al Muttalib Street",
   "meaning": {
     "en": "A paternal aunt of the Prophet and a poet",
-    "ar": "عمة النبي وشاعرة"
+    "ar": "عمة النبي محمد ﷺ وشاعرة"
   },
   "story": {
     "en": "Arwa bint Abd al-Muttalib (d. 15 AH) was a paternal aunt of the Prophet and one of the poets of Quraysh.",
-    "ar": "أَرْوَىٰ بِنْتُ عَبْدِ المُطَّلِبِ القُرَشِيَّةُ (تـ 15 هـ) عمة النبي محمد صلى الله عليه وسلم وعلي بن أبي طالب، وهي من الشواعر."
+    "ar": "أَرْوَىٰ بِنْتُ عَبْدِ المُطَّلِبِ القُرَشِيَّةُ (تـ 15 هـ) عمة النبي محمد ﷺ وعلي بن أبي طالب، وهي من الشواعر."
   },
   "refs": [
     {
@@ -5150,7 +5150,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Ubayd ibn Mas'ud al-Thaqafi (d. 13 AH) was a Companion and commander killed at the Battle of the Bridge in Iraq.",
-    "ar": "أبو عبيد بن مسعود الثقفي، (ت 13 هـ)، صحابي، أسلم في عهد النبي محمد، وهو والد المختار بن أبي عبيد وصفية بنت أبي عبيد، قُتِل في موقعة الجسر عام 13 هـ."
+    "ar": "أبو عبيد بن مسعود الثقفي، (ت 13 هـ)، صحابي، أسلم في عهد النبي محمد ﷺ، وهو والد المختار بن أبي عبيد وصفية بنت أبي عبيد، قُتِل في موقعة الجسر عام 13 هـ."
   },
   "refs": [
     {
@@ -5238,7 +5238,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Habab ibn al-Mundhir was a Companion of the Ansar, of the Banu Haram ibn Ka'b of the Khazraj. He fought in all the Prophet's campaigns, was known for his judgement, and the Prophet took his counsel on more than one occasion.",
-    "ar": "الحباب بن المنذر، صحابي من الأنصار من بني حرام بن كعب من الخزرج، شهد مع النبي صلى الله عليه وسلم المشاهد كلها، وكان ذا رأي ومشورة، فأخذ النبي صلى الله عليه وسلم برأيه في بعض المواقف."
+    "ar": "الحباب بن المنذر، صحابي من الأنصار من بني حرام بن كعب من الخزرج، شهد مع النبي محمد ﷺ المشاهد كلها، وكان ذا رأي ومشورة، فأخذ النبي محمد ﷺ برأيه في بعض المواقف."
   },
   "refs": [
     {
@@ -5423,7 +5423,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Shifa bint Abdullah was a woman Companion who is remembered in a hadith she narrated after visiting the Prophet, transmitted from her by al-Zuhri.",
-    "ar": "الشفاء بنت عبد الله صحابية، لها ذكر في حديث رواه الأوزاعي عن الزهري عنها، وروت دخولها على النبي."
+    "ar": "الشفاء بنت عبد الله صحابية، لها ذكر في حديث رواه الأوزاعي عن الزهري عنها، وروت دخولها على النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -5675,7 +5675,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Umm Kulthum bint al-Abbas ibn Abd al-Muttalib al-Hashimiyyah was a Companion and a cousin of the Prophet.",
-    "ar": "أم كلثوم بنت العباس بن عبد المطلب الهاشمية، صحابية، وابنة عم رسول الله صلى الله عليه وسلم."
+    "ar": "أم كلثوم بنت العباس بن عبد المطلب الهاشمية، صحابية، وابنة عم النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -5731,7 +5731,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Iyas ibn Tha'labah al-Bahili is better known by his kunya, Abu Umama — a Companion of the Prophet and one of the companions of Ali ibn Abi Talib. The sources differ on his given name (Ibn Hajar records «عبد الله بن ثعلبة» and «ثعلبة بن عبد الله» among the variants), and the street carries the first of them.",
-    "ar": "إياس بن ثعلبة الباهلي، المعروف بكنيته «أبو أمامة»، صحابي من أصحاب النبي صلى الله عليه وسلم، ومن أصحاب علي بن أبي طالب. واختلفت المصادر في اسمه، فذكر ابن حجر في ترجمته «عبد الله بن ثعلبة» و«ثعلبة بن عبد الله» من الأقوال، والشارع يحمل أولها."
+    "ar": "إياس بن ثعلبة الباهلي، المعروف بكنيته «أبو أمامة»، صحابي من أصحاب النبي محمد ﷺ، ومن أصحاب علي بن أبي طالب. واختلفت المصادر في اسمه، فذكر ابن حجر في ترجمته «عبد الله بن ثعلبة» و«ثعلبة بن عبد الله» من الأقوال، والشارع يحمل أولها."
   },
   "refs": [
     {
@@ -5808,7 +5808,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Bashir ibn al-Khasasiya was one of four men of Rabi'a who emigrated to the Prophet, coming from al-Yamama.",
-    "ar": "بشير بن الخصاصية أحد أربعة رجال من ربيعة هاجروا إلى النبي، وقدموا من اليمامة."
+    "ar": "بشير بن الخصاصية أحد أربعة رجال من ربيعة هاجروا إلى النبي محمد ﷺ، وقدموا من اليمامة."
   },
   "refs": [
     {
@@ -6037,7 +6037,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Thabit ibn Waqsh al-Ansari, of the Banu Abd al-Ashhal of the Aws, was killed at Uhud, and the Prophet gave tidings that Paradise was his.",
-    "ar": "ثابت بن وقش الأنصاري من بني عبد الأشهل من الأوس، قُتل يوم أحد، وشهد له النبي بالجنة."
+    "ar": "ثابت بن وقش الأنصاري من بني عبد الأشهل من الأوس، قُتل يوم أحد، وشهد له النبي محمد ﷺ بالجنة."
   },
   "refs": [
     {
@@ -6089,15 +6089,15 @@ window.STREETS = [
   "en": "Thawban Bin Bujdud Street",
   "meaning": {
     "en": "The Prophet's freedman",
-    "ar": "مولى النبي صلى الله عليه وسلم"
+    "ar": "مولى النبي محمد ﷺ"
   },
   "story": {
     "en": "Thawban ibn Bujdud (d. 54 AH), known as the Prophet's freedman, was a Companion and transmitter of hadith. The Prophet bought and freed him, and he stayed with him and kept much from him.",
-    "ar": "ثوبان بن بجدُد (ت 54هـ)، مولى النبي صلى الله عليه وسلم، صحابي ومن رواة الحديث. اشتراه النبي صلى الله عليه وسلم وأعتقه، فلزمه وصحبه وحفظ عنه كثيراً."
+    "ar": "ثوبان بن بجدُد (ت 54هـ)، مولى النبي محمد ﷺ، صحابي ومن رواة الحديث. اشتراه النبي محمد ﷺ وأعتقه، فلزمه وصحبه وحفظ عنه كثيراً."
   },
   "refs": [
     {
-      "label": "ويكيبيديا العربية — ثوبان مولى النبي محمد",
+      "label": "ويكيبيديا العربية — ثوبان مولى النبي محمد ﷺ",
       "url": "https://ar.wikipedia.org/wiki/%D8%AB%D9%88%D8%A8%D8%A7%D9%86_%D9%85%D9%88%D9%84%D9%89_%D8%A7%D9%84%D9%86%D8%A8%D9%8A_%D9%85%D8%AD%D9%85%D8%AF"
     }
   ]
@@ -6437,11 +6437,11 @@ window.STREETS = [
   "en": "Umaymah Bint Abd Al Muttalib Street",
   "meaning": {
     "en": "The Prophet's paternal aunt",
-    "ar": "عمة النبي صلى الله عليه وسلم"
+    "ar": "عمة النبي محمد ﷺ"
   },
   "story": {
     "en": "Umaymah bint Abd al-Muttalib was a paternal aunt of the Prophet and the mother of his wife Zaynab bint Jahsh.",
-    "ar": "أميمة بنت عبد المطلب، عمة رسول الله صلى الله عليه وسلم، ووالدة زوجته أم المؤمنين زينب بنت جحش."
+    "ar": "أميمة بنت عبد المطلب، عمة النبي محمد ﷺ، ووالدة زوجته أم المؤمنين زينب بنت جحش."
   },
   "refs": [
     {
@@ -6589,11 +6589,11 @@ window.STREETS = [
   "en": "Thabit Bin Rifa'ah Street",
   "meaning": {
     "en": "An Ansari who came to the Prophet as an orphan",
-    "ar": "أنصاري أتى النبي صلى الله عليه وسلم يتيماً"
+    "ar": "أنصاري أتى النبي محمد ﷺ يتيماً"
   },
   "story": {
     "en": "Abu Nu'aym: Thabit ibn Rifa'ah al-Ansari came to the Prophet and asked him; Qatadah relates that his uncle, an Ansari, came to the Prophet while Thabit was an orphan in his care.",
-    "ar": "عند أبي نعيم: «ثابت بن رفاعة الأنصاري أتى النبي صلى الله عليه وسلم فسأله»، وروى قتادة «أن عم ثابت بن رفاعة رجل من الأنصار أتى النبي صلى الله عليه وسلم، وثابت يومئذ يتيم في حجره»."
+    "ar": "عند أبي نعيم: «ثابت بن رفاعة الأنصاري أتى النبي محمد ﷺ فسأله»، وروى قتادة «أن عم ثابت بن رفاعة رجل من الأنصار أتى النبي محمد ﷺ، وثابت يومئذ يتيم في حجره»."
   },
   "refs": [
     {
@@ -6701,11 +6701,11 @@ window.STREETS = [
   "en": "Habeeb Bin Al Harith Street",
   "meaning": {
     "en": "A Companion who migrated to the Prophet",
-    "ar": "صحابي هاجر إلى النبي صلى الله عليه وسلم"
+    "ar": "صحابي هاجر إلى النبي محمد ﷺ"
   },
   "story": {
     "en": "Al-Isti'ab records him briefly: «Habib ibn al-Harith migrated to the Messenger of Allah, peace be upon him.»",
-    "ar": "في «الاستيعاب»: «حبيب بن الحارث هاجر إلى رسول الله صلى الله عليه وسلم»."
+    "ar": "في «الاستيعاب»: «حبيب بن الحارث هاجر إلى النبي محمد ﷺ»."
   },
   "refs": [
     {
@@ -6771,7 +6771,7 @@ window.STREETS = [
   },
   "story": {
     "en": "«Habib ibn Siba' Abu Jum'ah al-Kinani settled in Egypt.» Yahya ibn Ma'in said: «Abu Jum'ah, the companion of the Prophet, his name is Habib ibn Siba'.»",
-    "ar": "«حبيب بن سباع، أبو جمعة الكناني، سكن مصر». وقال يحيى بن معين: «أبو جمعة صاحب النبي صلى الله عليه وسلم اسمه حبيب بن سباع»."
+    "ar": "«حبيب بن سباع، أبو جمعة الكناني، سكن مصر». وقال يحيى بن معين: «أبو جمعة صاحب النبي محمد ﷺ اسمه حبيب بن سباع»."
   },
   "refs": [
     {
@@ -6827,7 +6827,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Baraka bint Tha'laba, known as Umm Ayman, was the Prophet's nurse and guardian. She was the wife of Zayd ibn Haritha and the mother of Usama ibn Zayd.",
-    "ar": "بركة بنت ثعلبة الحبشية، المعروفة بأم أيمن، حاضنة النبي ومربيته، وزوجة الصحابي زيد بن حارثة وأم أسامة بن زيد."
+    "ar": "بركة بنت ثعلبة الحبشية، المعروفة بأم أيمن، حاضنة النبي محمد ﷺ ومربيته، وزوجة الصحابي زيد بن حارثة وأم أسامة بن زيد."
   },
   "refs": [
     {
@@ -7000,7 +7000,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Iyas ibn Abi al-Bukayr was an early companion of the Prophet Muhammad who fought at Badr.",
-    "ar": "إياس بن البكير الليثي (المتوفي سنة 34 هـ) صحابي بدري من السابقين إلى الإسلام، شهد غزوات النبي محمد كلها."
+    "ar": "إياس بن البكير الليثي (المتوفي سنة 34 هـ) صحابي بدري من السابقين إلى الإسلام، شهد غزوات النبي محمد ﷺ كلها."
   },
   "refs": [
     {
@@ -7172,7 +7172,7 @@ window.STREETS = [
   "en": "Aminah Bint Wahab Street",
   "meaning": {
     "en": "Mother of Muhammad",
-    "ar": "أم النبي محمد، زوجة عبد الله بن عبد المطلب"
+    "ar": "أم النبي محمد ﷺ، زوجة عبد الله بن عبد المطلب"
   },
   "story": {
     "en": "Aminah bint Wahb (d. 577 CE) was the mother of the Prophet Muhammad.",
@@ -7220,7 +7220,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Habib ibn Zayd al-Ansari (d. 11 AH) was an Ansari companion sent as an envoy to Musaylimah, who killed him.",
-    "ar": "حبيب بن زيد بن عاصم (المتوفى سنة 11 هـ) صحابي من الأنصار من بني مازن بن النجار، أرسله النبي إلى مسيلمة فقتله."
+    "ar": "حبيب بن زيد بن عاصم (المتوفى سنة 11 هـ) صحابي من الأنصار من بني مازن بن النجار، أرسله النبي محمد ﷺ إلى مسيلمة فقتله."
   },
   "refs": [
     {
@@ -7326,11 +7326,11 @@ window.STREETS = [
   "en": "Khirash Bin Umayah Street",
   "meaning": {
     "en": "A Companion from Khuza'ah, envoy at Hudaybiyya",
-    "ar": "صحابي من خزاعة، بعثه النبي إلى قريش"
+    "ar": "صحابي من خزاعة، بعثه النبي محمد ﷺ إلى قريش"
   },
   "story": {
     "en": "Khirash ibn Umayyah al-Khuza'i was a Companion of the Prophet from Khuza'ah, sent as an envoy to Quraysh at Hudaybiyya.",
-    "ar": "خراش بن أمية الخزاعي صحابي من خزاعة، بعثه النبي إلى قريش عام الحديبية."
+    "ar": "خراش بن أمية الخزاعي صحابي من خزاعة، بعثه النبي محمد ﷺ إلى قريش عام الحديبية."
   },
   "refs": [
     {
@@ -7352,7 +7352,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salama ibn al-Akwa' (d. 74 AH / 693 CE) was a companion of the Prophet Muhammad, known for his archery and speed.",
-    "ar": "سلمة بن الأكوع (ت 74هـ/693م) صحابي من أصحاب النبي محمد، عُرف بالرماية وسرعة العدو."
+    "ar": "سلمة بن الأكوع (ت 74هـ/693م) صحابي من أصحاب النبي محمد ﷺ، عُرف بالرماية وسرعة العدو."
   },
   "refs": [
     {
@@ -7374,7 +7374,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Shaddad ibn Aws (d. 58 AH / 678 CE) was a companion of the Prophet Muhammad and a narrator of hadith.",
-    "ar": "شداد بن أوس (ت 58هـ/678م) صحابي من الأنصار، وروى عن النبي أحاديث في الصحيحين."
+    "ar": "شداد بن أوس (ت 58هـ/678م) صحابي من الأنصار، وروى عن النبي محمد ﷺ أحاديث في الصحيحين."
   },
   "refs": [
     {
@@ -7418,7 +7418,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Itab ibn Usayd (d. 13 AH / 634 CE) was appointed by the Prophet as the first governor of Mecca after its conquest.",
-    "ar": "عتاب بن أسيد (ت 13هـ/634م) ولّاه النبي مكة بعد فتحها، فكان أول أمير عليها في الإسلام."
+    "ar": "عتاب بن أسيد (ت 13هـ/634م) ولّاه النبي محمد ﷺ مكة بعد فتحها، فكان أول أمير عليها في الإسلام."
   },
   "refs": [
     {
@@ -7462,7 +7462,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Urwa ibn Mas'ud al-Thaqafi (d. 9 AH / 630 CE) was the chief of Thaqif who accepted Islam and was sent to his people.",
-    "ar": "عروة بن مسعود الثقفي (ت 9هـ/630م) سيد ثقيف، أسلم وبعثه النبي إلى قومه."
+    "ar": "عروة بن مسعود الثقفي (ت 9هـ/630م) سيد ثقيف، أسلم وبعثه النبي محمد ﷺ إلى قومه."
   },
   "refs": [
     {
@@ -7484,7 +7484,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Amir ibn Wathila, known as Abu al-Tufayl (d. c. 110 AH / 718 CE), was the last surviving companion of the Prophet.",
-    "ar": "عامر بن واثلة (أبو الطفيل، ت نحو 110هـ/718م) آخر من رأى النبي من الصحابة."
+    "ar": "عامر بن واثلة (أبو الطفيل، ت نحو 110هـ/718م) آخر من رأى النبي محمد ﷺ من الصحابة."
   },
   "refs": [
     {
@@ -15984,11 +15984,11 @@ window.STREETS = [
   "en": "Mu'ath Bin Jabal Street",
   "meaning": {
     "en": "A Companion sent to teach in Yemen",
-    "ar": "صحابي بعثه النبي إلى اليمن"
+    "ar": "صحابي بعثه النبي محمد ﷺ إلى اليمن"
   },
   "story": {
     "en": "Mu'adh ibn Jabal (d. 18 AH / 639 CE) was a companion sent by the Prophet to teach the people of Yemen.",
-    "ar": "معاذ بن جبل (ت 18هـ/639م) صحابي، بعثه النبي إلى اليمن معلّماً."
+    "ar": "معاذ بن جبل (ت 18هـ/639م) صحابي، بعثه النبي محمد ﷺ إلى اليمن معلّماً."
   },
   "refs": [
     {
@@ -16622,11 +16622,11 @@ window.STREETS = [
   "en": "Ar Rubayi' Bint Mu'awwidh Street",
   "meaning": {
     "en": "A figure of the early Islamic period",
-    "ar": "صحابية، وراوية للحديث عن النبي محمد"
+    "ar": "صحابية، وراوية للحديث عن النبي محمد ﷺ"
   },
   "story": {
     "en": "ar-Rabí bint Míwadh (d. 665) was a companion of the Prophet Muhammad.",
-    "ar": "الرُّبَيِّع بنت مُعَوِّذ صحابية، وراوية للحديث عن النبي محمد."
+    "ar": "الرُّبَيِّع بنت مُعَوِّذ صحابية، وراوية للحديث عن النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -16798,11 +16798,11 @@ window.STREETS = [
   "en": "Durrah Bint Abi Salamah Street",
   "meaning": {
     "en": "A figure of the early Islamic period",
-    "ar": "إحدى ربائب النبي محمد من زوجته أم سلمة"
+    "ar": "إحدى ربائب النبي محمد ﷺ من زوجته أم سلمة"
   },
   "story": {
     "en": "Durra bint Abi Salama was a companion of the Prophet Muhammad.",
-    "ar": "درة بنت أبي سلمة، صحابية، وربيبة النبي محمد، وهي ابنة الصحابي أبو سلمة."
+    "ar": "درة بنت أبي سلمة، صحابية، وربيبة النبي محمد ﷺ، وهي ابنة الصحابي أبو سلمة."
   },
   "refs": [
     {
@@ -17040,7 +17040,7 @@ window.STREETS = [
   "en": "Omar Bin Abi Salamah Street",
   "meaning": {
     "en": "A figure of the early Islamic period",
-    "ar": "ربيب النبي محمد، ووالي البحرين وفارس في عهد علي بن أبي طالب"
+    "ar": "ربيب النبي محمد ﷺ، ووالي البحرين وفارس في عهد علي بن أبي طالب"
   },
   "story": {
     "en": "Umar ibn Abi Salama (620–702) was a military commander.",
@@ -17396,7 +17396,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Bakr al-Siddiq (573–634), Abdullah ibn Abi Quhafa, was the first caliph and the Prophet's companion in the migration to Medina.",
-    "ar": "أبو بكر الصديق عبد الله بن أبي قحافة (ت 13هـ / 634م) أول الخلفاء، ورفيق النبي في الهجرة، وقد ورد نسبه كاملاً في كتب الأنساب."
+    "ar": "أبو بكر الصديق عبد الله بن أبي قحافة (ت 13هـ / 634م) أول الخلفاء، ورفيق النبي محمد ﷺ في الهجرة، وقد ورد نسبه كاملاً في كتب الأنساب."
   },
   "refs": [
     {
@@ -17704,7 +17704,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Āmir ibn Abī al-Bukayr al-Laythī was an early sahabi of the Islamic prophet Muhammad.",
-    "ar": "عامر بن البكير الليثي صحابي بدري من السابقين إلى الإسلام، شهد غزوات النبي محمد كلها، وقتل في معركة اليمامة."
+    "ar": "عامر بن البكير الليثي صحابي بدري من السابقين إلى الإسلام، شهد غزوات النبي محمد ﷺ كلها، وقتل في معركة اليمامة."
   },
   "refs": [
     {
@@ -17770,7 +17770,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al Nua'man Bin Sinan Street was a companion of the Prophet Muhammad.",
-    "ar": "النعمان بن سنان صحابي جليل كان مولى لقبيلة الخزرج من الأنصار شهد مع النبي محمد صلى الله."
+    "ar": "النعمان بن سنان صحابي جليل كان مولى لقبيلة الخزرج من الأنصار شهد مع النبي محمد ﷺ صلى الله."
   },
   "refs": [
     {
@@ -17902,7 +17902,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Huraith ibn Zayd ibn Abd Rabbih ibn Tha'labah al-Khazraji al-Ansari was a Companion of the Khazraj of the Ansar, who fought with the Prophet at Badr and Uhud.",
-    "ar": "حريث بن زيد بن عبد ربه بن ثعلبة الخزرجي الأنصاري، صحابي من قبيلة الخزرج من الأنصار، شهد مع النبي صلى الله عليه وسلم غزوة بدر وغزوة أُحد."
+    "ar": "حريث بن زيد بن عبد ربه بن ثعلبة الخزرجي الأنصاري، صحابي من قبيلة الخزرج من الأنصار، شهد مع النبي محمد ﷺ غزوة بدر وغزوة أُحد."
   },
   "refs": [
     {
@@ -17990,7 +17990,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Malik ibn Thabit al-Muzani — Numaylah was his mother — was a Companion of the Muzaynah, an ally of the Banu Awf ibn Mu'awiyah of the Aws. He fought with the Prophet at Badr and was killed at Uhud.",
-    "ar": "مالك بن ثابت المزني، ونميلة أمه، صحابي من قبيلة مزينة، حليف لبني عوف بن معاوية من قبيلة الأوس من الأنصار. شهد مع النبي صلى الله عليه وسلم غزوة بدر وغزوة أُحد، وقُتل يوم أُحد شهيداً."
+    "ar": "مالك بن ثابت المزني، ونميلة أمه، صحابي من قبيلة مزينة، حليف لبني عوف بن معاوية من قبيلة الأوس من الأنصار. شهد مع النبي محمد ﷺ غزوة بدر وغزوة أُحد، وقُتل يوم أُحد شهيداً."
   },
   "refs": [
     {
@@ -18187,8 +18187,8 @@ window.STREETS = [
     "ar": "صحابي من السابقين الأولين"
   },
   "story": {
-    "en": "Mo'ammar Bin Al Hareth Street was a companion of the Prophet Muhammad.",
-    "ar": "معمر بن الحارث الجمحي صحابي أسلم قديمًا قبل دخول النبي محمد دار الأرقم للدعوة فيها إلى الإس."
+    "en": "Mo'ammar ibn al-Harith al-Jumahi was a companion who accepted Islam early, before the Prophet Muhammad entered the house of al-Arqam to call people to Islam there.",
+    "ar": "معمر بن الحارث الجمحي صحابي أسلم قديمًا قبل دخول النبي محمد ﷺ دار الأرقم للدعوة فيها إلى الإسلام."
   },
   "refs": [
     {
@@ -18206,7 +18206,7 @@ window.STREETS = [
   "en": "Mu'teb Bin Ouf Street",
   "meaning": {
     "en": "A figure of the early Islamic period",
-    "ar": "صحابي هاجر إلى الحبشة ثم إلى المدينة، شهد المشاهد كلها مع رسول الله صلى الله عليه وسلم"
+    "ar": "صحابي هاجر إلى الحبشة ثم إلى المدينة، شهد المشاهد كلها مع النبي محمد ﷺ"
   },
   "story": {
     "en": "Mʻtb ibn ʻAwf was a companion of the Prophet Muhammad.",
@@ -18272,7 +18272,7 @@ window.STREETS = [
   "en": "Oqbah Bin Wahab Street",
   "meaning": {
     "en": "A figure of the early Islamic period",
-    "ar": "صحابي أحد السبعين الذين بايعو النبي محمد شهد العقبتين بدر وأحد"
+    "ar": "صحابي أحد السبعين الذين بايعو النبي محمد ﷺ شهد العقبتين بدر وأحد"
   },
   "story": {
     "en": "'Uqbah ibn Wahb was a companion of the Prophet Muhammad.",
@@ -18606,7 +18606,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Thabet Bin Hazaal Street was a companion of the Prophet Muhammad.",
-    "ar": "ثابت بن هزال صحابي من بني غنم بن عوف من الخزرج، شهد مع النبي محمد المشاهد كلها."
+    "ar": "ثابت بن هزال صحابي من بني غنم بن عوف من الخزرج، شهد مع النبي محمد ﷺ المشاهد كلها."
   },
   "refs": [
     {
@@ -18628,7 +18628,7 @@ window.STREETS = [
   },
   "story": {
     "en": "ʿitbān ibn Mālik was one of the companions of Muhammad. In Medina, Muhammad declared him the \"brother\" of Umar A Sunni site writes: `Utban ibn Malik was one of the Companions of the battle of Badr.",
-    "ar": "عِتْبَان بن مالك صحابي من الأنصار من بني غنم بن عوف من الخزرج، آخى النبي محمد بينه وبين عمر بن الخطاب، وشهد غزوات بدر وأحد والخندق، ثم ذهب بصره."
+    "ar": "عِتْبَان بن مالك صحابي من الأنصار من بني غنم بن عوف من الخزرج، آخى النبي محمد ﷺ بينه وبين عمر بن الخطاب، وشهد غزوات بدر وأحد والخندق، ثم ذهب بصره."
   },
   "refs": [
     {
@@ -18706,7 +18706,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Iyas ibn Aws ibn Utayk ibn Amr al-Ansari al-Ash-hali was a Companion of the Aws of the Ansar, of the clan Banu Abd al-Ashhal. He fought at Uhud with the Prophet and was killed there. The street name puts the clan name beside his own, and the sign spells it «Abd al-As-hal» where the clan is «Abd al-Ashhal».",
-    "ar": "إياس بن أوس بن عتيك بن عمرو الأنصاري الأشهلي، صحابي من قبيلة الأوس من الأنصار، من بني عبد الأشهل. شهد غزوة أُحد مع النبي صلى الله عليه وسلم وقُتل فيها شهيداً. واسم الشارع يجمع اسم القبيلة «عبد الأشهل» إلى اسمه، وقد وردت الكلمة على اللوحة «عبد الأسهل»."
+    "ar": "إياس بن أوس بن عتيك بن عمرو الأنصاري الأشهلي، صحابي من قبيلة الأوس من الأنصار، من بني عبد الأشهل. شهد غزوة أُحد مع النبي محمد ﷺ وقُتل فيها شهيداً. واسم الشارع يجمع اسم القبيلة «عبد الأشهل» إلى اسمه، وقد وردت الكلمة على اللوحة «عبد الأسهل»."
   },
   "refs": [
     {
@@ -18831,7 +18831,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ubayd Allah ibn Adi al-Nawfali — written on the sign as Abdullah — was a jurist of the Quraysh and a narrator of hadith, born in the lifetime of the Prophet Muhammad and counted among the Tabi'un.",
-    "ar": "عبيد الله بن عدي النوفلي، ويُكتب اسمه على اللوحة «عبدالله»، من فقهاء قريش وعلمائهم، وأحد رواة الحديث، وُلد في حياة النبي محمد، ويُعدّ من التابعين."
+    "ar": "عبيد الله بن عدي النوفلي، ويُكتب اسمه على اللوحة «عبدالله»، من فقهاء قريش وعلمائهم، وأحد رواة الحديث، وُلد في حياة النبي محمد ﷺ، ويُعدّ من التابعين."
   },
   "refs": [
     {
@@ -18854,7 +18854,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Amr ibn al-As (595–684) was a Companion and the eldest son of Amr ibn al-As. He embraced Islam a year before his father, kept a written record of what he heard from the Prophet, and was among the most learned of the Companions.",
-    "ar": "عبد الله بن عمرو بن العاص (27 ق.هـ–65هـ / 595–684م) صحابي، وهو أكبر أبناء عمرو بن العاص، أسلم قبل أبيه سنة 7هـ، وكان أحد حفّاظ الصحابة وأكثرهم علماً، وأُذن له في كتابة ما يسمعه من النبي."
+    "ar": "عبد الله بن عمرو بن العاص (27 ق.هـ–65هـ / 595–684م) صحابي، وهو أكبر أبناء عمرو بن العاص، أسلم قبل أبيه سنة 7هـ، وكان أحد حفّاظ الصحابة وأكثرهم علماً، وأُذن له في كتابة ما يسمعه من النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -18877,7 +18877,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abdullah ibn Abi Awfa al-Aslami was a Companion who gave the pledge at Hudaybiyyah and fought at Khaybar and Hunayn. He settled in Kufa and was the last of the Prophet's Companions to remain there.",
-    "ar": "عبد الله بن أبي أوفى الأسلمي صحابي، شهد الحديبية وبيعة الرضوان وخيبر وحنين، ثم تحوّل إلى الكوفة، وكان آخر من بقي فيها من أصحاب النبي."
+    "ar": "عبد الله بن أبي أوفى الأسلمي صحابي، شهد الحديبية وبيعة الرضوان وخيبر وحنين، ثم تحوّل إلى الكوفة، وكان آخر من بقي فيها من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -19407,11 +19407,11 @@ window.STREETS = [
   "en": "Abu Ayoub Al Ansari Street",
   "meaning": {
     "en": "The Companion whose house the Prophet stayed in at Medina",
-    "ar": "الصحابي الذي نزل النبي في بيته بالمدينة"
+    "ar": "الصحابي الذي نزل النبي محمد ﷺ في بيته بالمدينة"
   },
   "story": {
     "en": "Abu Ayyub al-Ansari (d. 52 AH), Khalid ibn Zayd, was a Companion of the Ansar whose house the Prophet stayed in after the migration to Medina.",
-    "ar": "أبو أيوب الأنصاري (ت 52هـ)، وهو خالد بن زيد، صحابي من الأنصار، نزل النبي في بيته حين قدم المدينة مهاجراً."
+    "ar": "أبو أيوب الأنصاري (ت 52هـ)، وهو خالد بن زيد، صحابي من الأنصار، نزل النبي محمد ﷺ في بيته حين قدم المدينة مهاجراً."
   },
   "refs": [
     {
@@ -19524,11 +19524,11 @@ window.STREETS = [
   "en": "Abu Qatadah Al Ansari Street",
   "meaning": {
     "en": "A Companion, called the rider of the Prophet",
-    "ar": "صحابي، كان يُقال له فارس رسول الله"
+    "ar": "صحابي، كان يُقال له فارس النبي محمد ﷺ"
   },
   "story": {
     "en": "Abu Qatada al-Ansari (614–674), al-Harith ibn Rib'i, was among the champions and commanders, known by his kunya and called the rider of the Messenger of God.",
-    "ar": "أبو قتادة الأنصاري (18 ق.هـ – 54هـ) الحارث بن ربعي الخزرجي، من الأبطال الولاة، اشتهر بكنيته، وكان يُقال له فارس رسول الله."
+    "ar": "أبو قتادة الأنصاري (18 ق.هـ – 54هـ) الحارث بن ربعي الخزرجي، من الأبطال الولاة، اشتهر بكنيته، وكان يُقال له فارس النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -19686,7 +19686,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Abbas ibn Abd al-Muttalib (568–653) was a Companion and the uncle of the Prophet Muhammad.",
-    "ar": "العباس بن عبد المطلب (56 ق.هـ – 32هـ / 568–653م) صحابي، وعمّ النبي محمد."
+    "ar": "العباس بن عبد المطلب (56 ق.هـ – 32هـ / 568–653م) صحابي، وعمّ النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -19863,7 +19863,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Al-Harith ibn Aws ibn Mu'adh (d. 3 AH) was a Companion of the Ansar of Banu Abd al-Ashhal, and the nephew of Sa'd ibn Mu'adh. The Prophet joined him in brotherhood with Amir ibn Fuhayrah; he fought at Badr and was killed at Uhud at the age of twenty-eight. Some accounts have him surviving that day and fighting at the Trench. His clan is the one the street «Abd al-As-hal Iyas ibn Aws» is named for.",
-    "ar": "الحارث بن أوس بن معاذ (ت 3هـ)، صحابي من الأنصار من بني عبد الأشهل، وابن أخي سعد بن معاذ. آخى النبي صلى الله عليه وسلم بينه وبين عامر بن فهيرة، وشهد بدراً، وقُتل يوم أُحد وله ثمانٍ وعشرون سنة. وذكر بعضهم أنه عاش بعد ذلك وشهد الخندق. وهو من القبيلة نفسها التي يحمل اسمها شارع «عبد الأسهل إياس بن أوس»."
+    "ar": "الحارث بن أوس بن معاذ (ت 3هـ)، صحابي من الأنصار من بني عبد الأشهل، وابن أخي سعد بن معاذ. آخى النبي محمد ﷺ بينه وبين عامر بن فهيرة، وشهد بدراً، وقُتل يوم أُحد وله ثمانٍ وعشرون سنة. وذكر بعضهم أنه عاش بعد ذلك وشهد الخندق. وهو من القبيلة نفسها التي يحمل اسمها شارع «عبد الأسهل إياس بن أوس»."
   },
   "refs": [
     {
@@ -20399,11 +20399,11 @@ window.STREETS = [
   "en": "Aysha Bint Abi Bakr Street",
   "meaning": {
     "en": "A wife of the Prophet and daughter of Abu Bakr",
-    "ar": "زوجة النبي وابنة أبي بكر"
+    "ar": "زوجة النبي محمد ﷺ وابنة أبي بكر"
   },
   "story": {
     "en": "Aisha bint Abi Bakr (d. 58 AH / 678 CE) was a wife of the Prophet Muhammad and the daughter of Abu Bakr, and is among the most frequently quoted narrators of hadith.",
-    "ar": "عائشة بنت أبي بكر (ت 58هـ / 678م) من أمهات المؤمنين، وابنة أبي بكر، ومن أكثر من روى الحديث عن النبي."
+    "ar": "عائشة بنت أبي بكر (ت 58هـ / 678م) من أمهات المؤمنين، وابنة أبي بكر، ومن أكثر من روى الحديث عن النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -21259,11 +21259,11 @@ window.STREETS = [
   "en": "Hafsa Bint Omar Bin Al Khattab Street",
   "meaning": {
     "en": "A wife of the Prophet, daughter of Umar",
-    "ar": "زوجة النبي وابنة عمر"
+    "ar": "زوجة النبي محمد ﷺ وابنة عمر"
   },
   "story": {
     "en": "The street is named for Hafsa bint Umar (d. 45 AH), a wife of the Prophet Muhammad and the daughter of Umar ibn al-Khattab.",
-    "ar": "سُمّي الشارع باسم حفصة بنت عمر (ت 45هـ)، زوجة النبي محمد، وابنة عمر بن الخطاب."
+    "ar": "سُمّي الشارع باسم حفصة بنت عمر (ت 45هـ)، زوجة النبي محمد ﷺ، وابنة عمر بن الخطاب."
   },
   "refs": [
     {
@@ -23983,7 +23983,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Thabit Bin Ad Dahhak was a companion of the Prophet Muhammad.",
-    "ar": "ثابِت بن الضَّحَّاك صحابي من أصحاب النبي محمد."
+    "ar": "ثابِت بن الضَّحَّاك صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -24083,7 +24083,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Fakhita bint Abi Talib, known as Umm Hani, was the Prophet's cousin and the sister of Ali ibn Abi Talib. Historians differ on her name — Fakhita, Atika or Fatima — the first being the best known. She married Hubayra ibn Abi Wahb al-Makhzumi.",
-    "ar": "فاختة بنت أبي طالب بن عبد المطلب الهاشمية، المعروفة بأم هانئ، بنت عم النبي وأخت علي بن أبي طالب. اختلف المؤرخون في اسمها: فاختة أو عاتكة أو فاطمة، والأشهر الأول. تزوجت هبيرة بن أبي وهب المخزومي."
+    "ar": "فاختة بنت أبي طالب بن عبد المطلب الهاشمية، المعروفة بأم هانئ، بنت عم النبي محمد ﷺ وأخت علي بن أبي طالب. اختلف المؤرخون في اسمها: فاختة أو عاتكة أو فاطمة، والأشهر الأول. تزوجت هبيرة بن أبي وهب المخزومي."
   },
   "refs": [
     {
@@ -24160,7 +24160,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Uqba ibn Amir al-Juhani (d. 58 AH) was a Companion who rode behind the Prophet, fought at Siffin, took part in the conquest of Egypt and governed it.",
-    "ar": "عقبة بن عامر الجهني (ت 58هـ) أمير من الصحابة، كان رديف النبي، وشهد صفّين، وحضر فتح مصر، ووليها سنة 44هـ."
+    "ar": "عقبة بن عامر الجهني (ت 58هـ) أمير من الصحابة، كان رديف النبي محمد ﷺ، وشهد صفّين، وحضر فتح مصر، ووليها سنة 44هـ."
   },
   "refs": [
     {
@@ -24404,11 +24404,11 @@ window.STREETS = [
   "en": "Zayd Bin Al Arqam Street",
   "meaning": {
     "en": "A Companion who fought in seventeen campaigns",
-    "ar": "صحابي، غزا مع النبي سبع عشرة غزوة"
+    "ar": "صحابي، غزا مع النبي محمد ﷺ سبع عشرة غزوة"
   },
   "story": {
     "en": "Zayd ibn Arqam al-Ansari (d. 68 AH) was a Companion who fought seventeen campaigns with the Prophet, was present at Siffin with Ali, and died in Kufa.",
-    "ar": "زيد بن أرقم الأنصاري (ت 68هـ) صحابي، غزا مع النبي سبع عشرة غزوة، وشهد صفّين مع علي، ومات بالكوفة."
+    "ar": "زيد بن أرقم الأنصاري (ت 68هـ) صحابي، غزا مع النبي محمد ﷺ سبع عشرة غزوة، وشهد صفّين مع علي، ومات بالكوفة."
   },
   "refs": [
     {
@@ -24469,7 +24469,7 @@ window.STREETS = [
   },
   "story": {
     "en": "The books record him as Azhar ibn Humaydah, and al-Isaba notes the form on the sign, Zuhrah, beside it. He transmitted from Abu Bakr al-Siddiq, and Ibn Abd al-Barr gave him a short entry. Ibn al-Athir ends with «his Companionship is open to consideration» — the sources did not settle whether he met the Prophet.",
-    "ar": "تذكره الكتب «أزهر بن حميضة»، وتشير الإصابة إلى الصيغة التي على اللوحة «زهرة» إلى جانبه. روى عن أبي بكر الصديق، وذكره ابن عبد البر في الاستيعاب مختصراً. وقال ابن الأثير في آخر ترجمته: «في صحبته نظر»، أي أن المصادر لم تُحرّر لقاءه النبي صلى الله عليه وسلم."
+    "ar": "تذكره الكتب «أزهر بن حميضة»، وتشير الإصابة إلى الصيغة التي على اللوحة «زهرة» إلى جانبه. روى عن أبي بكر الصديق، وذكره ابن عبد البر في الاستيعاب مختصراً. وقال ابن الأثير في آخر ترجمته: «في صحبته نظر»، أي أن المصادر لم تُحرّر لقاءه النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -24856,11 +24856,11 @@ window.STREETS = [
   "en": "Abu Baker Al Siddique Road",
   "meaning": {
     "en": "The first caliph, the Prophet's companion in the migration",
-    "ar": "أول الخلفاء ورفيق النبي في الهجرة"
+    "ar": "أول الخلفاء ورفيق النبي محمد ﷺ في الهجرة"
   },
   "story": {
     "en": "The road is named for Abu Bakr al-Siddiq (573–634), the first caliph and the companion of the Prophet in the migration to Medina.",
-    "ar": "سُمّي الطريق باسم أبي بكر الصديق (ت 13هـ / 634م)، أول الخلفاء، ورفيق النبي في الهجرة إلى المدينة."
+    "ar": "سُمّي الطريق باسم أبي بكر الصديق (ت 13هـ / 634م)، أول الخلفاء، ورفيق النبي محمد ﷺ في الهجرة إلى المدينة."
   },
   "refs": [
     {
@@ -25447,7 +25447,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Abu Yahya Abdullah ibn Abd Manaf ibn al-Nu'man ibn Sinan al-Khazraji al-Ansari was a Companion of the Khazraj of the Ansar, who fought with the Prophet at Badr and Uhud.",
-    "ar": "أبو يحيى عبد الله بن عبد مناف بن النعمان بن سنان الخزرجي الأنصاري، صحابي من قبيلة الخزرج من الأنصار، شهد مع النبي صلى الله عليه وسلم غزوة بدر وغزوة أُحد."
+    "ar": "أبو يحيى عبد الله بن عبد مناف بن النعمان بن سنان الخزرجي الأنصاري، صحابي من قبيلة الخزرج من الأنصار، شهد مع النبي محمد ﷺ غزوة بدر وغزوة أُحد."
   },
   "refs": [
     {
@@ -26921,7 +26921,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ali ibn Ubaydullah ibn al-Harith ibn Rahdah al-Amiri al-Qurashi lived into the Prophet's time and was killed at Yamama. Al-Zubayr ibn Bakkar names him without recording Companionship; Ibn al-Athir answers that whoever of Quraysh fell at Yamama must have been a Companion. The sign writes his father «Abdullah» where the dictionaries have «Ubaydullah».",
-    "ar": "علي بن عبيد الله بن الحارث بن رحضة بن عامر العامري القرشي، أدرك النبي صلى الله عليه وسلم وقُتل يوم اليمامة شهيداً. ذكره الزبير بن بكار ولم يذكر له صحبة، وقال ابن الأثير إن من قُتل يوم اليمامة من قريش لا بد أن تكون له صحبة. ويأتي اسم أبيه على اللوحة «عبد الله»، وفي كتب التراجم «عبيد الله»."
+    "ar": "علي بن عبيد الله بن الحارث بن رحضة بن عامر العامري القرشي، أدرك النبي محمد ﷺ وقُتل يوم اليمامة شهيداً. ذكره الزبير بن بكار ولم يذكر له صحبة، وقال ابن الأثير إن من قُتل يوم اليمامة من قريش لا بد أن تكون له صحبة. ويأتي اسم أبيه على اللوحة «عبد الله»، وفي كتب التراجم «عبيد الله»."
   },
   "refs": [
     {
@@ -27499,7 +27499,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Fatima bint Asad was the mother of Ali ibn Abi Talib and raised the Prophet Muhammad in her household after his grandfather's death.",
-    "ar": "فاطمة بنت أسد أم علي بن أبي طالب، وكفلت النبي محمداً في بيتها بعد وفاة جده."
+    "ar": "فاطمة بنت أسد أم علي بن أبي طالب، وكفلت النبي محمد ﷺاً في بيتها بعد وفاة جده."
   },
   "refs": [
     {
@@ -28126,7 +28126,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Jaber Bin Eyas was a companion of the Prophet Muhammad.",
-    "ar": "جبير بن إياس صحابي من أصحاب النبي محمد."
+    "ar": "جبير بن إياس صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -28233,7 +28233,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Kaeb Bin Omair was a companion of the Prophet Muhammad.",
-    "ar": "كعب بن عمير صحابي من أصحاب النبي محمد."
+    "ar": "كعب بن عمير صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -28289,7 +28289,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Khalid Bin Qais was a companion of the Prophet Muhammad.",
-    "ar": "خالد بن قيس صحابي من أصحاب النبي محمد."
+    "ar": "خالد بن قيس صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -28328,7 +28328,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Khalid Bin Sa'eed was a companion of the Prophet Muhammad.",
-    "ar": "خالد بن سعيد صحابي من أصحاب النبي محمد."
+    "ar": "خالد بن سعيد صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -28350,7 +28350,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Khubaib Bin Esaf was a companion of the Prophet Muhammad.",
-    "ar": "خبيب بن إساف صحابي من أصحاب النبي محمد."
+    "ar": "خبيب بن إساف صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -28411,7 +28411,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Malik Bin Amr was a companion of the Prophet Muhammad.",
-    "ar": "مالك بن عمرو صحابي من أصحاب النبي محمد."
+    "ar": "مالك بن عمرو صحابي من أصحاب النبي محمد ﷺ."
   },
   "refs": [
     {
@@ -31015,11 +31015,11 @@ window.STREETS = [
   "en": "Ali Bin Abi Talib Road",
   "meaning": {
     "en": "The Prophet's cousin and son-in-law",
-    "ar": "ابن عم النبي وزوج ابنته"
+    "ar": "ابن عم النبي محمد ﷺ وزوج ابنته"
   },
   "story": {
     "en": "Ali ibn Abi Talib (d. 40 AH / 661 CE) was the cousin of the Prophet Muhammad, the husband of his daughter Fatima, and the father of Hasan and Husayn.",
-    "ar": "علي بن أبي طالب (ت 40هـ / 661م) ابن عم النبي محمد، وزوج ابنته فاطمة، وأبو الحسن والحسين."
+    "ar": "علي بن أبي طالب (ت 40هـ / 661م) ابن عم النبي محمد ﷺ، وزوج ابنته فاطمة، وأبو الحسن والحسين."
   },
   "refs": [
     {
@@ -31529,7 +31529,7 @@ window.STREETS = [
     },
     "story": {
       "en": "Rabdan was the celebrated mount of Sheikh Zayed the First, a gift from the Sharif of Mecca, Abdullah bin Hashem, and said to be descended from the horse of the Prophet Muhammad. He was the subject of several poems, and his bloodline is still present in the horses ridden by the Al Nahyan family.",
-      "ar": "رَبْدان فرس الشيخ زايد الأول المشهورة، أهداها إليه شريف مكة عبدالله بن هاشم، ويُقال إنها من نسل فرس النبي صلى الله عليه وسلم. وقد نُظمت فيها قصائد، ونسلها باقٍ في خيول آل نهيان."
+      "ar": "رَبْدان فرس الشيخ زايد الأول المشهورة، أهداها إليه شريف مكة عبدالله بن هاشم، ويُقال إنها من نسل فرس النبي محمد ﷺ. وقد نُظمت فيها قصائد، ونسلها باقٍ في خيول آل نهيان."
     },
     "refs": [
       {
