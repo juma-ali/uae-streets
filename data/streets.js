@@ -6067,18 +6067,23 @@ window.STREETS = [
   "id": "thani-bin-abdullah-al-rumaithi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثاني بن عبدالله الرميثي",
   "en": "Thani Bin Abdullah Al Rumaithi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "First president of the Federal National Council",
+    "ar": "أول رئيس للمجلس الوطني الاتحادي"
   },
   "story": {
-    "en": "The street carries the name of ثاني بن عبدالله الرميثي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ثاني بن عبدالله الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "ثاني بن عبدالله بن حميد بن مرشد الرميثي، وُلد نحو ١٩٠٨، ذو رأي سديد، أشار على الشيخ شخبوط بن سلطان آل نهيان ببناء المدرسة الفلاحية سنة ١٩٥٨، وكان أول رئيس للمجلس الوطني الاتحادي، ويُعرف بـ«بوقفل». وحمل الشارع في التسمية القديمة الرقم ٤٣.",
+    "en": "Thani ibn Abdullah ibn Hamid ibn Murshid Al Rumaithi, born around 1908, was known for sound judgement. He advised Sheikh Shakhbut bin Sultan Al Nahyan to build the Agricultural School in 1958, and he was the first president of the Federal National Council. He was known as «Bu Qifl». The street carried the number 43 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ثاني بن عبدالله الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Thani%20Bin%20Abdullah%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "thawban-bin-bujdud-street",
@@ -8622,18 +8627,23 @@ window.STREETS = [
   "id": "ali-bin-thani-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن ثاني الرميثي",
   "en": "Ali Bin Thani Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "en": "A known poet of Abu Dhabi",
+    "ar": "شاعر معروف من أهالي أبوظبي"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Thani, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن ثاني، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن ثاني بن عبيد بن غميلة الرميثي، وُلد نحو ١٨٩٠، شاعر معروف من أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٩٢.",
+    "en": "Ali ibn Thani ibn Obaid ibn Ghumaylah Al Rumaithi, born around 1890, was a known poet of Abu Dhabi. The street carried the number 292 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن ثاني الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Ali%20Bin%20Thani%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "ali-bu-naas-al-rumaithi",
@@ -9227,18 +9237,23 @@ window.STREETS = [
   "id": "hamad-mohamed-thani-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد محمد ثاني الرميثي",
   "en": "Hamad Mohamed thani Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "en": "A former chief of staff of the Armed Forces",
+    "ar": "رئيس أركان القوات المسلحة سابقاً"
   },
   "story": {
-    "en": "The street carries the name of Hamad Mohamed thani, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد محمد ثاني، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الفريق ركن حمد بن محمد بن ثاني الرميثي، وُلد سنة ١٩٥٤، وكان رئيس أركان القوات المسلحة، ثم مستشاراً للشؤون العسكرية لرئيس الدولة بدرجة وزير. ومُنح عدداً من الأوسمة العسكرية، وبلغت مدة خدمته خمسين سنة. وحمل الشارع في التسمية القديمة الرقم ١٧٩.",
+    "en": "Lieutenant General Hamad ibn Mohammed ibn Thani Al Rumaithi, born in 1954, served as chief of staff of the Armed Forces and later as adviser on military affairs to the President at ministerial rank. He was awarded a number of military orders, and his service reached fifty years. The street carried the number 179 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد محمد ثاني الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Hamad%20Mohamed%20Thani%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "hamad-suhail-owaida-al-khyeli",
@@ -10351,18 +10366,23 @@ window.STREETS = [
   "id": "matar-bin-thani-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مطر بن ثاني الرميثي",
   "en": "Matar Bin Thani Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "en": "Guard of the fort and a poet of Abu Dhabi",
+    "ar": "حارس الحصن وشاعر من شعراء أبوظبي"
   },
   "story": {
-    "en": "The street carries the name of Matar Bin Thani, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مطر بن ثاني، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مطر بن ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٩٢٠، وكان حارساً للحصن وبرج المقطع ومطارزياً عند الشيخ شخبوط بن سلطان آل نهيان، ومن شعراء أبوظبي، عُرف بـ«الونه». وحمل الشارع في التسمية القديمة الرقم ٨٢.",
+    "en": "Matar ibn Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1920, was a guard of the fort and of the Burj al-Maqta', and a watchman for Sheikh Shakhbut bin Sultan Al Nahyan. He was one of Abu Dhabi's poets, known as «Al Wannah». The street carried the number 82 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مطر بن ثاني الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Matar%20Bin%20Thani%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "mehidi-bin-saeed-al-hameli",
@@ -11116,18 +11136,23 @@ window.STREETS = [
   "id": "mohammed-bin-thani-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن ثاني الرميثي",
   "en": "Mohammed Bin Thani Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "en": "In charge of the water sources in the northern sands",
+    "ar": "مكلّف بحفر موارد المياه وصيانتها"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Thani, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن ثاني، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٩١٠، وكُلف في عهد الشيخ شخبوط بن سلطان سنة ١٩٥٨ بحفر موارد المياه وصيانتها وإدامتها في الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٦٦.",
+    "en": "Mohammed ibn Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1910, was tasked in the time of Sheikh Shakhbut bin Sultan, in 1958, with digging, maintaining and keeping the water sources of the northern sands. The street carried the number 366 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن ثاني الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Mohammed%20Bin%20Thani%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "mohammed-bu-gbay-al-mansouri",
@@ -11626,18 +11651,23 @@ window.STREETS = [
   "id": "obaid-bin-thani-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن ثاني الرميثي",
   "en": "Obaid Bin Thani Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "en": "Companion of Sheikh Shakhbut, and of Sheikh Hazza",
+    "ar": "مرافق للشيخ شخبوط وللشيخ هزاع"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Thani, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن ثاني، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن ثاني بن مطر بن عبيد الرميثي، وُلد نحو ١٩١٥، وكان مرافقاً للشيخ شخبوط بن سلطان آل نهيان ولأخيه هزاع، وعمل في مركز العديد سنة ١٩٥٦، وتوفي سنة ١٩٨٠. وترافق مع بك ماستر سنة ١٩٥٢ بحسب الوثائق البريطانية. وحمل الشارع في التسمية القديمة الرقم ٧٢.",
+    "en": "Obaid ibn Thani ibn Matar ibn Obaid Al Rumaithi, born around 1915, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan and of his brother Hazza, and he worked at the Al Adayd centre in 1956. He died in 1980, and he accompanied Buckmaster in 1952 according to the British records. The street carried the number 72 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن ثاني الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Obaid%20Bin%20Thani%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "omair-bin-hayy-al-hameli",
@@ -13212,35 +13242,45 @@ window.STREETS = [
   "id": "thani-bin-matar-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثاني بن مطر الرميثي",
   "en": "Thani Bin Matar Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "en": "Companion of Sheikh Shakhbut from 1928",
+    "ar": "مرافق للشيخ شخبوط من سنة ١٩٢٨"
   },
   "story": {
-    "en": "The street carries the name of Thani Bin Matar, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ثاني بن مطر، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٨٨٠، رافق الشيخ شخبوط بن سلطان آل نهيان عند رجوعه إلى الحكم من الشارقة سنة ١٩٢٨، واستمر مرافقاً له حتى وفاته. وحمل الشارع في التسمية القديمة الرقم ١٥٩.",
+    "en": "Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1880, accompanied Sheikh Shakhbut bin Sultan Al Nahyan on his return to rule from Sharjah in 1928, and remained his companion until his death. The street carried the number 159 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ثاني بن مطر الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Thani%20Bin%20Matar%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "thani-bin-murshid-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثاني بن مرشد الرميثي",
   "en": "Thani Bin Murshid Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "en": "Members of the municipal council, Abu Dhabi 1969",
+    "ar": "عضو المجلس البلدي في أبوظبي ١٩٦٩"
   },
   "story": {
-    "en": "The street carries the name of Thani Bin Murshid, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ثاني بن مرشد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ثاني بن مرشد بن غنام بن علي الرميثي، وُلد نحو ١٩٢٠، وكُلف بتأمين معسكر رأس الصدر سنة ١٩٤٩، وعمل مندوباً للحاكم لدى شركات طريف سنة ١٩٦٣، وكان عضواً في المجلس البلدي في أبوظبي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ٧١.",
+    "en": "Thani ibn Murshid ibn Ghannam ibn Ali Al Rumaithi, born around 1920, was tasked with securing the Ras al-Sadr camp in 1949, served as the Ruler's representative to the Tarif companies in 1963, and was a member of the municipal council in Abu Dhabi in 1969. The street carried the number 71 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ثاني بن مرشد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding%20UAE%20Listing%20Section/Thani%20Bin%20Murshid%20Al%20Rumaithi"
+    }
+  ]
 },
 {
   "id": "yaed-bin-salem-al-qubaisi",
