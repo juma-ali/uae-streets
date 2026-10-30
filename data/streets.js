@@ -15623,18 +15623,31 @@ window.STREETS = [
   "id": "oud-bin-saqhan-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عُود بن صَقحان",
   "en": "'Oud Bin Saqhan Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "en": "Oud Bin Sag-Han (a place name)",
+    "ar": "عُود بن صَقحان — اسم موضع"
   },
   "story": {
-    "en": "The street carries the name of عُود بن صَقحان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عُود بن صَقحان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "en": "The street carries the name «Oud Bin Sag-Han». The name is known in Emirati heritage: in 2011 Aisha Al Muhairi published «The Legend of Bin Siqhan» with Majallat Al Dhafra in Abu Dhabi, and in 2012 Al Ittihad ran a piece titled «Ibn Siqhan». Gazetteers also list a settlement called Oud Bin Sag-Han near Al Ain. No text was found that explains the name, so the card claims no more than its existence.",
+    "ar": "يحمل الشارع اسم «عُود بن صَقحان». والاسم معروف في التراث الإماراتي: صدر سنة ٢٠١١ كتاب «أسطورة بن صقحان» لعائشة المهيري عن مجلة الظفرة بأبوظبي، ونشرت «الاتحاد» سنة ٢٠١٢ مقالاً عنوانه «ابن صقحان». وتذكر معاجم المواضع موضعاً بهذا الاسم قرب العين. ولم نقف على نصّ يفسّر الاسم، فلا تنسب البطاقة إليه أكثر من وجوده."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسطورة بن صقحان — عائشة المهيري، مجلة الظفرة، ٢٠١١ (سجل الكتاب)",
+      "url": "https://altibrah.ae/public/book/%D8%A3%D8%B3%D8%B7%D9%88%D8%B1%D8%A9-%D8%A8%D9%86-%D8%B5%D9%82%D8%AD%D8%A7%D9%86"
+    },
+    {
+      "label": "الاتحاد — «ابن صقحان»، ٢٠١٢",
+      "url": "https://www.aletihad.ae/writerarticle/79665/2012/%C2%AB%D8%A7%D8%A8%D9%86-%D8%B5%D9%82%D8%AD%D8%A7%D9%86%C2%BB"
+    },
+    {
+      "label": "GeoNames / geoview — Oud Bin Sag-Han (settlement)",
+      "url": "https://ae.geoview.info/oud_bin_saghan,12748725"
+    }
+  ]
 },
 {
   "id": "ahmed-abdulla-ahmed-street",
