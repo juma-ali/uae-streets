@@ -13,9 +13,7 @@
   } catch (e) {}
 </script>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2314603f'/%3E%3Cpath d='M8 21h16M8 15h11M8 9h16' stroke='%23f6f1e5' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/fonts.css?v=20261031K">
 <link rel="stylesheet" href="assets/css/styles.css">
 <style>
   .legal { padding-block: clamp(2rem, 5vw, 3.5rem) clamp(3rem, 6vw, 5rem); }
@@ -99,12 +97,11 @@
       <p>These stay on your device. They are not readable by this site's author or by
       anyone else, and clearing your browser data removes them.</p>
 
-      <h2>The one outside request</h2>
-      <p>Typefaces are loaded from <strong>Google Fonts</strong>, which means that
-      request reaches Google and carries your IP address, as any web request does.
-      Nothing else on these pages is fetched from a third party. If you would rather
-      avoid it, a browser extension that blocks third-party requests will simply show
-      the site in its fallback system fonts.</p>
+      <h2>No outside requests</h2>
+      <p>Nothing on these pages is fetched from another company. The typefaces are
+      served from this site's own folder rather than from a font service, so reading
+      here sends no request to Google or to anyone else — only to the server that
+      hosts the site.</p>
 
       <h2>Street data</h2>
       <p>Street names and geometry come from OpenStreetMap, © OpenStreetMap
@@ -116,7 +113,7 @@
       own privacy policy. Nothing is sent from here unless you follow that link and
       write there yourself.</p>
 
-      <p class="legal__note">In one line: no accounts, no tracking, no location
+      <p class="legal__note">In one line: no accounts, no tracking, no third-party requests, no location
       collected — the map maths happens in your browser, and your position is gone when
       you close the tab.</p>
     </section>
@@ -144,11 +141,10 @@
       <p>وهما باقيان على جهازك، لا يقرأهما صاحب الموقع ولا غيره، ويزولان بمسح بيانات
       المتصفح.</p>
 
-      <h2>الطلب الخارجي الوحيد</h2>
-      <p>تُحمّل الخطوط من <strong>Google Fonts</strong>، وهذا الطلب يصل إلى غوغل ويحمل
-      عنوان IP الخاص بك، كما يفعل أي طلب على الشبكة. ولا يُجلب شيء آخر من طرف ثالث.
-      وإن أردت تجنّبه، فأي إضافة تحجب طلبات الطرف الثالث ستعرض الموقع بخطوط النظام
-      البديلة.</p>
+      <h2>لا طلبات خارجية</h2>
+      <p>لا يُجلب شيء في هذه الصفحات من جهة أخرى. الخطوط تُقدَّم من مجلد الموقع نفسه
+      لا من خدمة خطوط، فقراءتك هنا لا ترسل طلباً إلى غوغل ولا إلى غيرها — بل إلى الخادم
+      الذي يستضيف الموقع وحده.</p>
 
       <h2>بيانات الشوارع</h2>
       <p>أسماء الشوارع وهندستها من OpenStreetMap، © مساهمو OpenStreetMap، برخصة
@@ -159,8 +155,8 @@
       <p>تُرسل التصحيحات عبر «قضايا GitHub»، وهو موقع آخر له سياسة خصوصية خاصة به. ولا
       يُرسل من هنا شيء إلا إن اتبعت الرابط وكتبت هناك بنفسك.</p>
 
-      <p class="legal__note">في سطر واحد: لا حسابات، ولا تتبّع، ولا جمع للموقع — حساب
-      المسافات يجري في متصفحك، وموقعك يزول بزوال التبويب.</p>
+      <p class="legal__note">في سطر واحد: لا حسابات، ولا تتبّع، ولا طلبات خارجية، ولا جمع للموقع —
+      حساب المسافات يجري في متصفحك، وموقعك يزول بزوال التبويب.</p>
     </section>
   </div>
 </main>
