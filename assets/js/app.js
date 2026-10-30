@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031T";
+    s.src = "data/cards.js?v=20261031U";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1162,6 +1162,21 @@
           (document.body && document.body.scrollTop) || 0
         );
       };
+      /* Fold the panel when the reader reaches the cards, not when they have
+         barely left the top. The hero is ~590px tall and the cards start ~870px
+         down, so a fixed 200px folded the panel while the reader was still
+         reading the introduction. */
+      var streetsDocTop = 0;
+      var measure = function () {
+        var streets = document.getElementById("streets");
+        if (!streets) { streetsDocTop = 640; return; }
+        /* measured while the page is at rest, so the value is a document offset
+           and does not drift with every scroll event */
+        streetsDocTop = streets.getBoundingClientRect().top + readY();
+      };
+      measure();
+      window.addEventListener("resize", function () { measure(); }, { passive: true });
+      var collapseAt = function () { return Math.max(520, streetsDocTop - 160); };
       var lastY = -1;
       var onScroll = function () {
         if (chosen) return;
@@ -1169,8 +1184,8 @@
         if (Math.abs(y - lastY) < 24) return;   // ignore trackpad jitter
         lastY = y;
         var open = panel.getAttribute("data-expanded") === "true";
-        if (y > 200 && open) { panel.setAttribute("data-expanded", "false"); syncFiltersToggle(); }
-        else if (y < 40 && !open) { panel.setAttribute("data-expanded", "true"); syncFiltersToggle(); }
+        if (open && y > collapseAt()) { panel.setAttribute("data-expanded", "false"); syncFiltersToggle(); }
+        else if (!open && y < 60) { panel.setAttribute("data-expanded", "true"); syncFiltersToggle(); }
       };
       window.addEventListener("scroll", onScroll, { passive: true });
       document.addEventListener("scroll", onScroll, { passive: true, capture: true });
