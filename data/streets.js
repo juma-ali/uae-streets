@@ -13728,16 +13728,16 @@ window.STREETS = [
   "id": "abdullah-bin-hilal-al-kuwaiti",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عبدالله بن هلال الكويتي",
   "en": "Abdullah Bin Hilal Al Kuwaiti Street",
   "meaning": {
-    "en": "An Emirati figure of the Kuwaiti family",
-    "ar": "شخصية إماراتية من أسرة الكويتي"
+    "en": "A man of learning in Al Ain, in charge of the aflaj, and a poet",
+    "ar": "من أهل العلم والصلاح في العين، ومسؤول عن قضاء الأفلاج، وشاعر"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Hilal, an Emirati figure of the Kuwaiti family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن هلال، وهو شخصية إماراتية من أسرة الكويتي، ولم يُعثر على ترجمة منشورة له."
+    "en": "Abdullah ibn Hilal Al Kuwaiti is remembered in Al Ain for his piety and his learning. He was responsible for the adjudication of the aflaj — the irrigation channels that divide water among the palm gardens — and he was a poet. No published biography of him was found, and the card records what is held about him without more.",
+    "ar": "عبدالله بن هلال الكويتي رجل عُرف بصلاحه وعلمه في مدينة العين، وكان مسؤولاً عن قضاء الأفلاج — أي الفصل في مياهها وقسمتها بين البساتين — وكان شاعراً. ولم نقع على ترجمة منشورة له، فالبطاقة تسجّل ما يُحفظ عنه ولا تزيد عليه."
   },
   "refs": []
 },
