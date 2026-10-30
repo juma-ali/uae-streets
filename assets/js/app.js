@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031X";
+    s.src = "data/cards.js?v=20261031Y";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1184,8 +1184,12 @@
         if (Math.abs(y - lastY) < 24) return;   // ignore trackpad jitter
         lastY = y;
         var open = panel.getAttribute("data-expanded") === "true";
-        if (open && y > collapseAt()) { panel.setAttribute("data-expanded", "false"); syncFiltersToggle(); }
-        else if (!open && y < 60) { panel.setAttribute("data-expanded", "true"); syncFiltersToggle(); }
+        /* Fold at the cards, unfold halfway back through the introduction. A
+           return point sitting at the very top meant the panel stayed shut for
+           the whole scroll back up. */
+        var at = collapseAt();
+        if (open && y > at) { panel.setAttribute("data-expanded", "false"); syncFiltersToggle(); }
+        else if (!open && y < Math.max(160, at * 0.75)) { panel.setAttribute("data-expanded", "true"); syncFiltersToggle(); }
       };
       window.addEventListener("scroll", onScroll, { passive: true });
       document.addEventListener("scroll", onScroll, { passive: true, capture: true });
