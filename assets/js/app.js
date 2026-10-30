@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261030ZJ";
+    s.src = "data/cards.js?v=20261030ZK";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1099,11 +1099,23 @@
         if (!card) return;
         // let modifier-clicks open the hash link normally
         if (e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
-        /* A KB-only street has no story card: its link is #road=<idx>, and the
-           hashchange handler opens it with openRoadSheet. Swallowing the click
-           here is what made those cards dead — there is no data-id to open. */
+        /* A KB-only street has no story card. Its link is #road=<idx>; open the
+           sheet directly rather than waiting for hashchange, which does not fire
+           when the same card is clicked twice. Swallowing the click here is what
+           made those cards dead — there was no data-id to open. */
         var id = card.getAttribute("data-id");
-        if (!id) return;
+        if (!id) {
+          var rm = /#road=(\d+)/.exec(card.getAttribute("href") || "");
+          if (!rm) return;
+          e.preventDefault();
+          var ridx = Number(rm[1]);
+          openRoadSheet(ridx);
+          if (location.hash !== "#road=" + ridx) {
+            try { history.replaceState(null, "", "#road=" + ridx); }
+            catch (err) { location.hash = "road=" + ridx; }
+          }
+          return;
+        }
         e.preventDefault();
         openStreet(id);
       });
