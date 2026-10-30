@@ -813,3 +813,11 @@ html[dir="rtl"] .card__ar { text-align: right; }
 @media (max-width: 760px) {
   .near-status { order: 3; }
 }
+
+/* ---------- nearby cards ---------- */
+.card--near { border-color: color-mix(in srgb, var(--ink) 18%, var(--line-2)); }
+.card__dist {
+  margin: .35rem 0 0; font-size: .74rem; font-weight: 600; letter-spacing: .02em;
+  color: var(--ink-2); font-variant-numeric: tabular-nums;
+}
+.card--near .card__dist { color: var(--ink); }

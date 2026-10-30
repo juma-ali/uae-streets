@@ -180,7 +180,7 @@
   });
 
   var state = { lang: "en", q: "", emirate: "all", region: "all", category: "all", origin: "all", district: "all",
-    town: "all", showRoads: false, limit: 24 };
+    town: "all", showRoads: false, limit: 24, nearby: null };
   var storyDistrict = {};
   var results = [];
   var lastRoads = [];
@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031G";
+    s.src = "data/cards.js?v=20261031H";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -399,18 +399,32 @@
             Math.cos(a * rad) * Math.cos(c * rad) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
     return 2 * R * Math.asin(Math.sqrt(h));
   }
-  function nearestStreet(lat, lon) {
-    if (!window.COORDS) return null;
-    var best = null;
+  function fmtMetres(m) {
+    if (m < 1000) return Math.round(m) + (state.lang === "ar" ? " متر" : " m");
+    return (m / 1000).toFixed(1) + (state.lang === "ar" ? " كم" : " km");
+  }
+  function nearestStreets(lat, lon, howMany) {
+    if (!window.COORDS) return [];
+    var all = [];
     for (var i = 0; i < window.COORDS.length; i++) {
       var c = window.COORDS[i];
       if (!c) continue;
-      var d = metresBetween(lat, lon, c[0], c[1]);
-      if (!best || d < best.metres) best = { idx: i, metres: d };
+      all.push({ idx: i, metres: metresBetween(lat, lon, c[0], c[1]) });
     }
-    return best;
+    all.sort(function (a, b) { return a.metres - b.metres; });
+    /* A street can appear as several rows; keep the closest of each name, so ten
+       cards mean ten different streets. */
+    var seen = {}, out = [];
+    for (var k = 0; k < all.length && out.length < howMany; k++) {
+      var row = ROADS && ROADS.rows[all[k].idx];
+      var key = row ? norm(row[1] || row[0]) : String(all[k].idx);
+      if (seen[key]) continue;
+      seen[key] = true;
+      out.push(all[k]);
+    }
+    return out;
   }
-  window.__nearestStreet = nearestStreet;   // used by the browser test
+  window.__nearestStreets = nearestStreets;   // used by the browser test
 
   function openRoadSheet(idx) {
     if (!ROADS) return;
@@ -448,7 +462,13 @@
     var catLabel = T.categoryNoun[r[3]] || r[3];
     var where = d ? (state.lang === "ar" ? d[1] || d[0] : d[0]) : "";
     if (!where) where = em;
-    var href = "#road=" + x.idx;
+    /* In the nearby list, a street that has a written card should open that card,
+       not the thinner row sheet. */
+    var storyId = x.storyId || null;
+    var href = storyId ? "#street=" + storyId : "#road=" + x.idx;
+    var distLine = typeof x.metres === "number"
+      ? '<p class="card__dist">' + esc(fmtMetres(x.metres)) + "</p>"
+      : "";
     var name = !r[1]
       ? '<h3 class="card__en" dir="ltr">' + esc(r[0]) + "</h3>" +
         '<p class="card__ar card__ar--missing" lang="ar" dir="rtl">' + esc(T.noArabicName) + "</p>"
@@ -458,12 +478,15 @@
       : '<h3 class="card__en" dir="ltr">' + esc(r[0] || r[1]) + "</h3>" +
         '<p class="card__ar" lang="ar" dir="rtl">' + esc(r[1]) + "</p>";
     var text = describeRoad(r, d, em, where);
-    return '<a class="card card--kb" href="' + esc(href) + '" style="--i:' + Math.min(i, 14) + '">' +
+    return '<a class="card card--kb' + (distLine ? " card--near" : "") + '" href="' + esc(href) + '"' +
+      (storyId ? ' data-id="' + esc(storyId) + '"' : "") +
+      ' style="--i:' + Math.min(i, 14) + '">' +
       '<div class="card__top">' +
         '<span class="card__emirate">' + esc(em) + "</span>" +
       "</div>" +
       name +
       (text ? '<p class="card__note">' + esc(text) + "</p>" : "") +
+      distLine +
       '<div class="card__foot">' +
         '<span class="card__tag">' + esc(catLabel) + "</span>" +
         '<span class="card__more">' + esc(state.lang === "ar" ? "التفاصيل" : "Details") + ' <span class="arrow" aria-hidden="true">→</span></span>' +
@@ -721,6 +744,24 @@
   }
   function renderGrid(animate) {
     var grid = $("#grid");
+    if (grid && state.nearby) {
+      var nearHtml = state.nearby.map(function (n, i) {
+        var row = ROADS.rows[n.idx];
+        var d = row[2] >= 0 ? ROADS.districts[row[2]] : null;
+        var sid = null;
+        if (row[7]) {
+          for (var k = 0; k < STREETS.length; k++) if (STREETS[k].id === row[7]) { sid = row[7]; break; }
+        }
+        return renderRoadCard({ row: row, district: d, idx: n.idx, metres: n.metres, storyId: sid }, i);
+      }).join("");
+      grid.classList.toggle("grid--animate", !!animate);
+      grid.innerHTML = nearHtml;
+      var moreWrap2 = $("#cards-more-wrap");
+      if (moreWrap2) moreWrap2.hidden = true;
+      var empty2 = $("#empty");
+      if (empty2) empty2.hidden = true;
+      return;
+    }
     lastRoads = (state.q || state.emirate !== "all" || state.category !== "all" || state.district !== "all") ? roadMatches() : [];
     if (!grid) return;
 
@@ -785,6 +826,15 @@
     }
 
     var titleEl = $("#collection-title");
+    if (titleEl && state.nearby) {
+      titleEl.textContent = state.lang === "ar" ? "أقرب الشوارع إليك" : "Nearest streets to you";
+      if (countEl) countEl.textContent = state.lang === "ar"
+        ? "من الأقرب إلى الأبعد"
+        : "nearest first";
+      var resetEl = $("#reset");
+      if (resetEl) resetEl.hidden = false;   // the list is a state you leave with Reset
+      return;
+    }
     if (titleEl) {
       var parts = [];
       if (state.category !== "all") parts.push(T.categoryNoun[state.category]);
@@ -793,7 +843,8 @@
     }
 
     var reset = $("#reset");
-    if (reset) reset.hidden = !isFiltered;
+    /* The nearby list is also a state you need to leave, so Reset shows for it too. */
+    if (reset) reset.hidden = !isFiltered && !state.nearby;
 
     /* "Show more cards" was rendered but never wired: give it a handler. */
     var moreBtnCtl = $("#cards-more");
@@ -1130,6 +1181,7 @@
       });
     }
     if (resetBtn) {
+      resetBtn.addEventListener("click", function () { state.nearby = null; });
       resetBtn.addEventListener("click", function () {
         state.q = ""; state.emirate = "all"; state.category = "all"; state.origin = "all"; state.district = "all";
         state.showRoads = false;
@@ -1181,25 +1233,20 @@
               say(nearLabel("تعذّر تحميل إحداثيات الشوارع. أعد المحاولة.", "The street coordinates could not be loaded. Try again."), true);
               return;
             }
-            var hit = nearestStreet(pos.coords.latitude, pos.coords.longitude);
-            if (!hit) {
+            var list = nearestStreets(pos.coords.latitude, pos.coords.longitude, 10);
+            if (!list.length) {
               say(nearLabel("لم يُعثر على شارع قريب.", "No nearby street was found."), true);
               return;
             }
-            var far = hit.metres > 250;
-            var dist = hit.metres < 1000
-              ? Math.round(hit.metres) + nearLabel(" متر", " m")
-              : (hit.metres / 1000).toFixed(1) + nearLabel(" كم", " km");
-            say(nearLabel("أقرب شارع يبعد ", "Nearest street: ") + dist +
-                (far ? nearLabel(" — قد لا تكون على شارع مسمّى.", " — you may not be on a named street.") : ""), far);
-            openRoadSheet(hit.idx);
-            var body = $("#sheet-body");
-            if (!body) return;
-            var p = document.createElement("p");
-            p.className = "sheet__dist" + (far ? " sheet__dist--far" : "");
-            p.textContent = nearLabel("أقرب شارع إليك يبعد نحو ", "The nearest street is about ") + dist +
-              (far ? nearLabel(" — قد لا تكون على شارع مسمّى.", " away — you may not be on a named street.") : "");
-            body.insertBefore(p, body.firstChild);
+            state.nearby = list;
+            state.showRoads = true;
+            var far = list[0].metres > 250;
+            say(nearLabel("أقرب عشرة شوارع، من الأقرب إلى الأبعد.", "The ten nearest streets, nearest first.") +
+                (far ? nearLabel(" أقربها يبعد " + fmtMetres(list[0].metres) + " وقد لا تكون على شارع مسمّى.",
+                                 " The closest is " + fmtMetres(list[0].metres) + " away — you may not be on a named street.") : ""), far);
+            update(true);
+            var streets = $("#streets");
+            if (streets && streets.scrollIntoView) streets.scrollIntoView({ behavior: "smooth", block: "start" });
           });
         }, function (err) {
           reset();
