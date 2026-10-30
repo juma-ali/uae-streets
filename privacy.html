@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy — UAE Streets</title>
+<meta name="description" content="How UAE Streets handles your data: nothing is collected, and your location never leaves your browser.">
+<meta name="theme-color" content="#15130f">
+<script>
+  try {
+    var savedTheme = localStorage.getItem("uae-streets-theme");
+    document.documentElement.setAttribute("data-theme", savedTheme === "light" ? "light" : "dark");
+  } catch (e) {}
+</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2314603f'/%3E%3Cpath d='M8 21h16M8 15h11M8 9h16' stroke='%23f6f1e5' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/styles.css">
+<style>
+  .legal { padding-block: clamp(2rem, 5vw, 3.5rem) clamp(3rem, 6vw, 5rem); }
+  .legal__wrap { max-inline-size: 46rem; margin-inline: auto; }
+  .legal h1 { font-size: clamp(1.6rem, 3.4vw, 2.2rem); margin-block-end: .4rem; }
+  .legal h2 { font-size: 1.1rem; margin-block: 2rem .6rem; }
+  .legal h3 { font-size: .92rem; margin-block: 1.3rem .3rem; color: var(--ink-2); }
+  .legal p, .legal li { font-size: .95rem; line-height: 1.75; color: var(--ink-2); }
+  .legal ul { padding-inline-start: 1.2rem; margin-block: .4rem; }
+  .legal li { margin-block: .3rem; }
+  .legal__back { display: inline-block; margin-block-end: 1.4rem; font-size: .85rem; }
+  .legal__lang { display: flex; gap: .5rem; margin-block-end: 1.6rem; }
+  .legal__lang button {
+    font: inherit; font-size: .8rem; font-weight: 600; padding: .3rem .8rem;
+    border-radius: 999px; border: 1px solid var(--line-2); background: none;
+    color: var(--ink-2); cursor: pointer;
+  }
+  .legal__lang button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+  .legal [data-panel] { display: none; }
+  .legal [data-panel].is-on { display: block; }
+  html[lang="ar"] .legal { direction: rtl; }
+  .legal__note {
+    margin-block-start: 2rem; padding: .9rem 1.1rem; border-radius: .6rem;
+    background: color-mix(in srgb, var(--ink) 7%, transparent);
+    font-size: .88rem;
+  }
+</style>
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="masthead">
+  <div class="wrap masthead__inner">
+    <a class="brand" href="index.html">
+      <svg class="brand__mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7" fill="currentColor" opacity=".12"/><path d="M8 21h16M8 15h11M8 9h16" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      <span class="brand__text">
+        <strong>UAE Streets</strong>
+        <small>شوارع الإمارات</small>
+      </span>
+    </a>
+    <div class="controls">
+      <button type="button" class="theme-btn" id="theme-toggle" aria-label="Switch colour theme">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v2.2M12 18.8V21M3 12h2.2M18.8 12H21M5.6 5.6l1.6 1.6M16.8 16.8l1.6 1.6M18.4 5.6l-1.6 1.6M7.2 16.8l-1.6 1.6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="legal" id="main">
+  <div class="wrap legal__wrap">
+    <a class="legal__back" href="index.html">← <span data-en="Back to the guide" data-ar="العودة إلى الدليل">Back to the guide</span></a>
+
+    <div class="legal__lang" role="group" aria-label="Language">
+      <button type="button" data-lang="en" aria-pressed="true">English</button>
+      <button type="button" data-lang="ar" aria-pressed="false">العربية</button>
+    </div>
+
+    <!-- ============ ENGLISH ============ -->
+    <section data-panel="en" class="is-on" lang="en" dir="ltr">
+      <h1>Privacy</h1>
+      <p>This site does not collect information about you. There are no accounts, no
+      cookies, no analytics, no advertising and no trackers of any kind. Pages are
+      plain files served by GitHub Pages.</p>
+
+      <h2>Your location</h2>
+      <p><strong>Your location never leaves your browser.</strong> The «Where am I?»
+      button asks your browser for a position only when you press it, and only with
+      your permission. That position is used inside the page to measure distances to
+      a list of street coordinates already downloaded with the site. It is never sent
+      to a server, never stored, and it disappears when you close the tab.</p>
+      <p>If you refuse permission, or never press the button, nothing changes: the
+      rest of the site works exactly the same.</p>
+
+      <h2>What is stored on your device</h2>
+      <p>Two settings are saved in your browser's local storage, and nothing else:</p>
+      <ul>
+        <li>the colour theme you chose (dark or light);</li>
+        <li>the language you chose (Arabic or English).</li>
+      </ul>
+      <p>These stay on your device. They are not readable by this site's author or by
+      anyone else, and clearing your browser data removes them.</p>
+
+      <h2>The one outside request</h2>
+      <p>Typefaces are loaded from <strong>Google Fonts</strong>, which means that
+      request reaches Google and carries your IP address, as any web request does.
+      Nothing else on these pages is fetched from a third party. If you would rather
+      avoid it, a browser extension that blocks third-party requests will simply show
+      the site in its fallback system fonts.</p>
+
+      <h2>Street data</h2>
+      <p>Street names and geometry come from OpenStreetMap, © OpenStreetMap
+      contributors, under the ODbL licence. That data is downloaded with the page; you
+      are not sending anything back to OpenStreetMap by browsing.</p>
+
+      <h2>Corrections</h2>
+      <p>Corrections are sent through GitHub issues, which is a separate site with its
+      own privacy policy. Nothing is sent from here unless you follow that link and
+      write there yourself.</p>
+
+      <p class="legal__note">In one line: no accounts, no tracking, no location
+      collected — the map maths happens in your browser, and your position is gone when
+      you close the tab.</p>
+    </section>
+
+    <!-- ============ ARABIC ============ -->
+    <section data-panel="ar" lang="ar" dir="rtl">
+      <h1>الخصوصية</h1>
+      <p>هذا الموقع لا يجمع عنك أي معلومة. لا حسابات، ولا ملفات تعريف ارتباط (كوكيز)،
+      ولا إحصاءات زوّار، ولا إعلانات، ولا أدوات تتبّع من أي نوع. الصفحات ملفات ثابتة
+      يستضيفها GitHub Pages.</p>
+
+      <h2>موقعك الجغرافي</h2>
+      <p><strong>موقعك لا يغادر متصفحك.</strong> زر «أين أنا؟» يطلب من متصفحك موقعاً
+      فقط عند ضغطك عليه، وبإذنك وحده. ويُستخدم هذا الموقع داخل الصفحة لقياس المسافات
+      إلى قائمة إحداثيات الشوارع التي نُزّلت مع الموقع. ولا يُرسَل إلى أي خادم، ولا
+      يُحفظ، ويزول بزوال التبويب.</p>
+      <p>وإن رفضت الإذن، أو لم تضغط الزر أصلاً، فلا يتغيّر شيء: بقية الموقع تعمل كما هي.</p>
+
+      <h2>ما يُحفظ على جهازك</h2>
+      <p>إعدادان فقط يُحفظان في ذاكرة المتصفح المحلية، ولا شيء غيرهما:</p>
+      <ul>
+        <li>المظهر الذي اخترته (داكن أو فاتح)؛</li>
+        <li>اللغة التي اخترتها (العربية أو الإنجليزية).</li>
+      </ul>
+      <p>وهما باقيان على جهازك، لا يقرأهما صاحب الموقع ولا غيره، ويزولان بمسح بيانات
+      المتصفح.</p>
+
+      <h2>الطلب الخارجي الوحيد</h2>
+      <p>تُحمّل الخطوط من <strong>Google Fonts</strong>، وهذا الطلب يصل إلى غوغل ويحمل
+      عنوان IP الخاص بك، كما يفعل أي طلب على الشبكة. ولا يُجلب شيء آخر من طرف ثالث.
+      وإن أردت تجنّبه، فأي إضافة تحجب طلبات الطرف الثالث ستعرض الموقع بخطوط النظام
+      البديلة.</p>
+
+      <h2>بيانات الشوارع</h2>
+      <p>أسماء الشوارع وهندستها من OpenStreetMap، © مساهمو OpenStreetMap، برخصة
+      ODbL. وهذه البيانات تُنزَّل مع الصفحة؛ فأنت لا ترسل شيئاً إلى OpenStreetMap
+      بمجرد التصفح.</p>
+
+      <h2>التصحيحات</h2>
+      <p>تُرسل التصحيحات عبر «قضايا GitHub»، وهو موقع آخر له سياسة خصوصية خاصة به. ولا
+      يُرسل من هنا شيء إلا إن اتبعت الرابط وكتبت هناك بنفسك.</p>
+
+      <p class="legal__note">في سطر واحد: لا حسابات، ولا تتبّع، ولا جمع للموقع — حساب
+      المسافات يجري في متصفحك، وموقعك يزول بزوال التبويب.</p>
+    </section>
+  </div>
+</main>
+
+<script>
+  (function () {
+    var btns = document.querySelectorAll(".legal__lang button");
+    var panels = document.querySelectorAll(".legal [data-panel]");
+    function show(lang) {
+      for (var i = 0; i < panels.length; i++) panels[i].classList.toggle("is-on", panels[i].getAttribute("data-panel") === lang);
+      for (var j = 0; j < btns.length; j++) btns[j].setAttribute("aria-pressed", String(btns[j].getAttribute("data-lang") === lang));
+      document.documentElement.lang = lang;
+      document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
+    }
+    for (var k = 0; k < btns.length; k++) {
+      btns[k].addEventListener("click", function () { show(this.getAttribute("data-lang")); });
+    }
+    /* open in the language the reader last used on the guide */
+    try {
+      var pref = localStorage.getItem("uae-streets-lang");
+      if (pref === "ar") show("ar");
+    } catch (e) {}
+    var t = document.getElementById("theme-toggle");
+    if (t) t.addEventListener("click", function () {
+      var next = document.documentElement.getAttribute("data-theme") === "light" ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", next);
+      try { localStorage.setItem("uae-streets-theme", next); } catch (e) {}
+    });
+  })();
+</script>
+</body>
+</html>

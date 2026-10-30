@@ -821,3 +821,6 @@ html[dir="rtl"] .card__ar { text-align: right; }
   color: var(--ink-2); font-variant-numeric: tabular-nums;
 }
 .card--near .card__dist { color: var(--ink); }
+
+.roads-foot { margin: .5rem 0 2rem; font-size: .85rem; color: var(--ink-3); }
+.roads-foot a { color: var(--ink-2); }
