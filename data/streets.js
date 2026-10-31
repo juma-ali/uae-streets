@@ -33759,5 +33759,1925 @@ window.STREETS = [
         "url": "https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9%20(%D9%81%D8%B5%D9%8A%D9%84%D8%A9%20%D8%B7%D9%8A%D9%88%D8%B1)"
       }
     ]
+  },
+{
+  "id": "al-twi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع الطَّوِي",
+  "en": "Al Twi Street",
+  "meaning": {
+    "ar": "الطَّوِي: البئر",
+    "en": "Al Twi: a well"
+  },
+  "story": {
+    "ar": "«الطَّوِي» بئر، والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في وسط المدينة.",
+    "en": "«Al Twi» is a well. The name belongs to the place names that streets in Abu Dhabi are named after, and this one lies in the Central District."
   }
+},
+{
+  "id": "tawi-abu-hamdi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي أبو حَمدي",
+  "en": "Tawi Abu Hamdi Street",
+  "meaning": {
+    "ar": "«طَوي أبو حَمدي»: بئر",
+    "en": "Tawi Abu Hamdi: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أبو حَمدي» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الفلاح.",
+    "en": "«Abu Hamdi» names the site of the well «Tawi» and is not a word to be glossed. The name is among the place names of Abu Dhabi, and the street lies in Al Falah."
+  }
+},
+{
+  "id": "tawi-abu-miraykhah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي أبو مرَيخه",
+  "en": "Tawi Abu Miraykhah Street",
+  "meaning": {
+    "ar": "«طَوي أبو مرَيخه»: بئر",
+    "en": "Tawi Abu Miraykhah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أبو مرَيخه» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في الظَّاهِر بأبوظبي.",
+    "en": "«Abu Miraykhah» is the name of the site to which the well «Tawi» is attributed, and it is not to be glossed in a dictionary. The street stands in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ash-ab-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أشعَب",
+  "en": "Tawi Ash'ab Street",
+  "meaning": {
+    "ar": "«طَوِي أشعَب»: بئر",
+    "en": "Tawi Ash'ab: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«أشعَب» اسمها الذي يُنسب إليه. والشارع في العَدلَة.",
+    "en": "«Ash'ab» is the name the well «Tawi» carries — a place name of Abu Dhabi. The street lies in Al 'Adlah."
+  }
+},
+{
+  "id": "tawi-atyal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أطيال",
+  "en": "Tawi Atyal Street",
+  "meaning": {
+    "ar": "«طَوِي أطيال»: بئر",
+    "en": "Tawi Atyal: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أطيال» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في الظَّاهِر بأبوظبي.",
+    "en": "«Atyal» belongs to the site of the well «Tawi» and is not for the dictionary; the whole name is a place name. It lies in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-um-al-banadiq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي أم البَناديق",
+  "en": "Tawi Um Al Banadiq Street",
+  "meaning": {
+    "ar": "«طَوي أم البَناديق»: بئر",
+    "en": "Tawi Um Al Banadiq: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«أم البَناديق» اسم البئر لا كلمة تُفسَّر. والشارع في رِمَاح بأبوظبي.",
+    "en": "«Um Al Banadiq» is the well's name, not a word to be glossed — the name is one of the place names, «Tawi» meaning a well. The street lies in the Rimah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-um-al-hasah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أم الحَصاه",
+  "en": "Tawi Um Al Hasah Street",
+  "meaning": {
+    "ar": "«طَوِي أم الحَصاه»: بئر",
+    "en": "Tawi Um Al Hasah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أم الحَصاه» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في الروضة.",
+    "en": "Standing at the site «Um Al Hasah» is the well «Tawi»; the whole name is one of the place names after which Abu Dhabi streets are named. The street lies in Al Rawdah."
+  }
+},
+{
+  "id": "tawi-um-at-teen-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أم الطِّين",
+  "en": "Tawi Um At Teen Street",
+  "meaning": {
+    "ar": "«طَوِي أم الطِّين»: بئر",
+    "en": "Tawi Um At Teen: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أم الطِّين» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في مْزِيرْعَة.",
+    "en": "A well called «Tawi», with «Um At Teen» as the name of its site — a name, not a word to gloss. It is one of Abu Dhabi's place names, and the street lies in the Mzeerʻah."
+  }
+},
+{
+  "id": "tawi-um-adh-dhiba-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أم الظِّبا",
+  "en": "Tawi Um Adh Dhiba Street",
+  "meaning": {
+    "ar": "«طَوِي أم الظِّبا»: بئر",
+    "en": "Tawi Um Adh Dhiba: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أم الظِّبا» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة زايد بأبوظبي.",
+    "en": "«Um Adh Dhiba» gives the well «Tawi» its site name — a proper name, not a dictionary word. The street is in the Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-um-al-dhiba-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أم الظِّبا",
+  "en": "Tawi Um Al Dhiba Street",
+  "meaning": {
+    "ar": "«طَوِي أم الظِّبا»: بئر",
+    "en": "Tawi Um Al Dhiba: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«أم الظِّبا» اسمها الذي يُنسب إليه. والشارع في زاخِر.",
+    "en": "One of Abu Dhabi's place names: the well «Tawi», known by the name «Um Al Dhiba». The street lies in the Zakhir."
+  }
+},
+{
+  "id": "tawi-um-al-atal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أُم العَتَل",
+  "en": "Tawi Um Al 'Atal Street",
+  "meaning": {
+    "ar": "«طَوِي أُم العَتَل»: بئر",
+    "en": "Tawi Um Al 'Atal: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أُم العَتَل» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في زاخِر بأبوظبي.",
+    "en": "Its site name «Um Al 'Atal» is carried by the well «Tawi» and no dictionary explains it; the full name names a place. It lies in the Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-um-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أم عُود",
+  "en": "Tawi Um 'Oud Street",
+  "meaning": {
+    "ar": "«طَوِي أم عُود»: بئر",
+    "en": "Tawi Um 'Oud: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«أم عُود» اسم البئر لا كلمة تُفسَّر. والشارع في مدينة زايد بأبوظبي.",
+    "en": "The name of the well is «Um 'Oud», a name rather than a glossable word; «Tawi» itself means a well. The street lies in the Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-um-qaryah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي أم قَرية",
+  "en": "Tawi Um Qaryah Street",
+  "meaning": {
+    "ar": "«طَوي أم قَرية»: بئر",
+    "en": "Tawi Um Qaryah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أم قَرية» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في المُشرِف.",
+    "en": "The site name «Um Qaryah» and the word «Tawi», a well, form a name of the kind Abu Dhabi streets take. The street lies in Al Mushrif."
+  }
+},
+{
+  "id": "tawi-um-ywayl-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي أم يوَيل",
+  "en": "Tawi Um Ywayl Street",
+  "meaning": {
+    "ar": "«طَوِي أم يوَيل»: بئر",
+    "en": "Tawi Um Ywayl: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«أم يوَيل» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الوَثْبَة.",
+    "en": "The site name «Um Ywayl» completes the name of the well «Tawi»; it is not a word for the dictionary. The name belongs to the place names of Abu Dhabi, and the street lies in Al Wathbah."
+  }
+},
+{
+  "id": "tawi-afrah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طوي افرَاح",
+  "en": "Tawi Afrah Street",
+  "meaning": {
+    "ar": "«طوي افرَاح»: بئر",
+    "en": "Tawi Afrah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«افرَاح» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة محمد بن زايد بأبوظبي.",
+    "en": "Attributed to the site «Afrah» is the well «Tawi»; the site name is not to be glossed. You will find the street in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-aslab-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الأصلاب",
+  "en": "Tawi Al Aslab Street",
+  "meaning": {
+    "ar": "«طَوِي الأصلاب»: بئر",
+    "en": "Tawi Al Aslab: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الأصلاب» اسمها الذي يُنسب إليه. والشارع في سوِيحَان.",
+    "en": "The place name «Al Aslab» belongs to the well «Tawi», an Abu Dhabi name of the old sites. The street lies in the Sweihan."
+  }
+},
+{
+  "id": "tawi-al-atan-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي الأطَن",
+  "en": "Tawi Al Atan Street",
+  "meaning": {
+    "ar": "«طَوي الأطَن»: بئر",
+    "en": "Tawi Al Atan: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الأطَن» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في الشَّامْخَة بأبوظبي.",
+    "en": "A place name in full: «Tawi», a well, and «Al Atan», a name belonging to its site and not glossed. It lies in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-bardah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي الباردة",
+  "en": "Tawi Al Bardah Street",
+  "meaning": {
+    "ar": "«طَوي الباردة»: بئر",
+    "en": "Tawi Al Bardah: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«الباردة» اسم البئر لا كلمة تُفسَّر. والشارع في مْبَزَّرَة الخَضْراء بأبوظبي.",
+    "en": "«Al Bardah» names the well «Tawi» and is not to be glossed; the name belongs to the place names. The street lies in the Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-bihouth-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي البحُوث",
+  "en": "Tawi Al Bihouth Street",
+  "meaning": {
+    "ar": "«طَوي البحُوث»: بئر في حفرة ضحلة في الأرض",
+    "en": "Tawi Al Bihouth: a well of a shallow hollow in the ground"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«البحُوث» في اسم الموضع؛ ومعنى الاسم «بئر في حفرة ضحلة في الأرض». والشارع في الصَّارُوج.",
+    "en": "«Al Bihouth» completes the site name of the well «Tawi»; the name means «a well of a shallow hollow in the ground». The street lies in Al Sarouj."
+  }
+},
+{
+  "id": "tawi-al-bad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي البَدع",
+  "en": "Tawi Al Bad' Street",
+  "meaning": {
+    "ar": "«طَوِي البَدع»: بئر عند مورد ماء",
+    "en": "Tawi Al Bad': a well of water source"
+  },
+  "story": {
+    "ar": "معنى الاسم «بئر عند مورد ماء»؛ ف«طَوي» بئر و«البَدع» وصفٌ فيه. والشارع في مدينة محمد بن زايد بأبوظبي.",
+    "en": "The name means «a well of water source»: «Tawi» is a well, and «Al Bad'» describes it. The street lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-bdi-at-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي البدِعات",
+  "en": "Tawi Al Bdi'at Street",
+  "meaning": {
+    "ar": "«طَوِي البدِعات»: بئر",
+    "en": "Tawi Al Bdi'at: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«البدِعات» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في مدينة محمد بن زايد.",
+    "en": "«Al Bdi'at» is the name of the place where the well «Tawi» lies; the whole is among the place names of Abu Dhabi's streets. The street lies in the Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "tawi-al-bdou-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي البدوع",
+  "en": "Tawi Al Bdou' Street",
+  "meaning": {
+    "ar": "«طَوِي البدوع»: بئر",
+    "en": "Tawi Al Bdou': a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«البدوع» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الوَثْبَة.",
+    "en": "«Al Bdou'» is what the site of the well «Tawi» is called, and it is not glossed as a word. Among Abu Dhabi's place names, this one lies in Al Wathbah."
+  }
+},
+{
+  "id": "tawi-al-biday-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي البِدَيع",
+  "en": "Tawi Al Biday' Street",
+  "meaning": {
+    "ar": "«طَوِي البِدَيع»: بئر",
+    "en": "Tawi Al Biday': a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«البِدَيع» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في العامرة بأبوظبي.",
+    "en": "«Al Biday'» names the place the well «Tawi» belongs to, without being a word to gloss. The street lies in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-baqqah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي البَقَّة",
+  "en": "Tawi Al Baqqah Street",
+  "meaning": {
+    "ar": "«طَوِي البَقَّة»: بئر",
+    "en": "Tawi Al Baqqah: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«البَقَّة» اسمها الذي يُنسب إليه. والشارع في الشَّامْخَة.",
+    "en": "«Al Baqqah» gives the well «Tawi» its name, and the whole is one of Abu Dhabi's place names. The street lies in Al Shamkhah."
+  }
+},
+{
+  "id": "tawi-ath-thiqaybah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الثِّقَيبة",
+  "en": "Tawi Ath Thiqaybah Street",
+  "meaning": {
+    "ar": "«طَوِي الثِّقَيبة»: بئر في حفرة صغيرة",
+    "en": "Tawi Ath Thiqaybah: a well of a small hole"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع في أبوظبي ومعناه «بئر في حفرة صغيرة»؛ فهو «طَوي» أي بئر «الثِّقَيبة». والشارع في القوع.",
+    "en": "An Abu Dhabi place name meaning «a well of a small hole»: «Tawi», a well, and «Ath Thiqaybah» as the site name. The street lies in Al Qou'."
+  }
+},
+{
+  "id": "tawi-al-jari-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الجارِي",
+  "en": "Tawi Al Jari Street",
+  "meaning": {
+    "ar": "«طَوِي الجارِي»: بئر",
+    "en": "Tawi Al Jari: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الجارِي» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في الطِّوَيَّة بأبوظبي.",
+    "en": "«Al Jari» is not a dictionary word but the name of the well «Tawi»'s site, and the whole names a place. It lies in Al Tiwayya, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-jabahnah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي الجَباهنه",
+  "en": "Tawi Al Jabahnah Street",
+  "meaning": {
+    "ar": "«طَوي الجَباهنه»: بئر",
+    "en": "Tawi Al Jabahnah: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«الجَباهنه» اسم البئر لا كلمة تُفسَّر. والشارع في الشَّامْخَة بأبوظبي.",
+    "en": "A place name: the well «Tawi», whose name «Al Jabahnah» is not a word for the dictionary. The street lies in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-jana-i-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الجَناعِي",
+  "en": "Tawi Al Jana'i Street",
+  "meaning": {
+    "ar": "«طَوِي الجَناعِي»: بئر",
+    "en": "Tawi Al Jana'i: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الجَناعِي» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في رِمَاح.",
+    "en": "A well named «Tawi» at the site «Al Jana'i»: the full name belongs to the place names that Abu Dhabi streets carry. The street lies in the Rimah."
+  }
+},
+{
+  "id": "tawi-al-jee-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الجيعة",
+  "en": "Tawi Al Jee'ah Street",
+  "meaning": {
+    "ar": "«طَوِي الجيعة»: بئر",
+    "en": "Tawi Al Jee'ah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الجيعة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الشَّامْخَة.",
+    "en": "«Al Jee'ah» names the site of the well «Tawi» and is not a word to be glossed. The name is among the place names of Abu Dhabi, and the street lies in Al Shamkhah."
+  }
+},
+{
+  "id": "tawi-al-hasi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي الحاسي",
+  "en": "Tawi Al Hasi Street",
+  "meaning": {
+    "ar": "«طَوي الحاسي»: بئر",
+    "en": "Tawi Al Hasi: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الحاسي» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في الشَّامْخَة بأبوظبي.",
+    "en": "«Al Hasi» is the name of the site to which the well «Tawi» is attributed, and it is not to be glossed in a dictionary. The street stands in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-hayir-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الحايِر",
+  "en": "Tawi Al Hayir Street",
+  "meaning": {
+    "ar": "«طَوِي الحايِر»: بئر",
+    "en": "Tawi Al Hayir: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الحايِر» اسمها الذي يُنسب إليه. والشارع في الشَّوامخ.",
+    "en": "«Al Hayir» is the name the well «Tawi» carries — a place name of Abu Dhabi. The street lies in Al Shawamekh."
+  }
+},
+{
+  "id": "tawi-al-hisan-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الحصان",
+  "en": "Tawi Al Hisan Street",
+  "meaning": {
+    "ar": "«طَوِي الحصان»: بئر",
+    "en": "Tawi Al Hisan: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الحصان» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في العامرة بأبوظبي.",
+    "en": "«Al Hisan» belongs to the site of the well «Tawi» and is not for the dictionary; the whole name is a place name. It lies in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-hisn-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الحصن",
+  "en": "Tawi Al Hisn Street",
+  "meaning": {
+    "ar": "«طَوِي الحصن»: بئر الحصن",
+    "en": "Tawi Al Hisn: a well of fort"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الحصن» في اسم الموضع؛ ومعنى الاسم «بئر الحصن». والشارع في مدينة محمد بن زايد.",
+    "en": "The name means «a well of fort»: the well «Tawi», with «Al Hisn» in the site name. The street lies in the Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "tawi-al-haffar-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي الحَفَّار",
+  "en": "Tawi Al Haffar Street",
+  "meaning": {
+    "ar": "«طَوي الحَفَّار»: بئر",
+    "en": "Tawi Al Haffar: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«الحَفَّار» اسم البئر لا كلمة تُفسَّر. والشارع في الظَّاهِر بأبوظبي.",
+    "en": "«Al Haffar» is the well's name, not a word to be glossed — the name is one of the place names, «Tawi» meaning a well. The street lies in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-hilayw-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الحِلَيو",
+  "en": "Tawi Al Hilayw Street",
+  "meaning": {
+    "ar": "«طَوِي الحِلَيو»: بئر",
+    "en": "Tawi Al Hilayw: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الحِلَيو» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في السَّمْحة.",
+    "en": "Standing at the site «Al Hilayw» is the well «Tawi»; the whole name is one of the place names after which Abu Dhabi streets are named. The street lies in Al Samhah."
+  }
+},
+{
+  "id": "tawi-al-hamam-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طوِي الحَمام",
+  "en": "Tawi Al Hamam Street",
+  "meaning": {
+    "ar": "«طوِي الحَمام»: بئر",
+    "en": "Tawi Al Hamam: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الحَمام» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في البطين.",
+    "en": "A well called «Tawi», with «Al Hamam» as the name of its site — a name, not a word to gloss. It is one of Abu Dhabi's place names, and the street lies in Al Bateen."
+  }
+},
+{
+  "id": "tawi-al-hamriyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الحَمرِيَّة",
+  "en": "Tawi Al Hamriyah Street",
+  "meaning": {
+    "ar": "«طَوِي الحَمرِيَّة»: بئر",
+    "en": "Tawi Al Hamriyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الحَمرِيَّة» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة زايد بأبوظبي.",
+    "en": "«Al Hamriyah» gives the well «Tawi» its site name — a proper name, not a dictionary word. The street is in the Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-khabbah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الخَبَّة",
+  "en": "Tawi Al Khabbah Street",
+  "meaning": {
+    "ar": "«طَوِي الخَبَّة»: بئر في منخفض يجتمع فيه الماء أو الرمل",
+    "en": "Tawi Al Khabbah: a well of a hollow where water or sand collects"
+  },
+  "story": {
+    "ar": "معنى الاسم «بئر في منخفض يجتمع فيه الماء أو الرمل»؛ ف«طَوي» بئر و«الخَبَّة» وصفٌ فيه. والشارع في الفلاح بأبوظبي.",
+    "en": "«Al Khabbah» describes the well «Tawi», and the name means «a well of a hollow where water or sand collects». The street lies in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-khusoub-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الخُصُوب",
+  "en": "Tawi Al Khusoub Street",
+  "meaning": {
+    "ar": "«طَوِي الخُصُوب»: بئر",
+    "en": "Tawi Al Khusoub: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الخُصُوب» اسمها الذي يُنسب إليه. والشارع في هِيلِي.",
+    "en": "One of Abu Dhabi's place names: the well «Tawi», known by the name «Al Khusoub». The street lies in the Hili."
+  }
+},
+{
+  "id": "tawi-al-khisayib-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الخِصَيِّب",
+  "en": "Tawi Al Khisayib Street",
+  "meaning": {
+    "ar": "«طَوِي الخِصَيِّب»: بئر",
+    "en": "Tawi Al Khisayib: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الخِصَيِّب» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في الشَّامْخَة بأبوظبي.",
+    "en": "Its site name «Al Khisayib» is carried by the well «Tawi» and no dictionary explains it; the full name names a place. It lies in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-khourah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الخُورة",
+  "en": "Tawi Al Khourah Street",
+  "meaning": {
+    "ar": "«طَوِي الخُورة»: بئر عند خُورة تمتد إلى اليابسة من البحر",
+    "en": "Tawi Al Khourah: a well of an inlet reaching inland from the sea"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع في أبوظبي ومعناه «بئر عند خُورة تمتد إلى اليابسة من البحر»؛ فهو «طَوي» أي بئر «الخُورة». والشارع في الساد.",
+    "en": "«Al Khourah» completes this Abu Dhabi place name, whose meaning is «a well of an inlet reaching inland from the sea» — «Tawi», a well. The street lies in Al Sad."
+  }
+},
+{
+  "id": "tawi-ad-darray-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الدَرَّاي",
+  "en": "Tawi Ad Darray Street",
+  "meaning": {
+    "ar": "«طَوِي الدَرَّاي»: بئر",
+    "en": "Tawi Ad Darray: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«الدَرَّاي» اسم البئر لا كلمة تُفسَّر. والشارع في الفلاح بأبوظبي.",
+    "en": "The name of the well is «Ad Darray», a name rather than a glossable word; «Tawi» itself means a well. The street lies in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ad-diwaybah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الدِّوَيبة",
+  "en": "Tawi Ad Diwaybah Street",
+  "meaning": {
+    "ar": "«طَوِي الدِّوَيبة»: بئر",
+    "en": "Tawi Ad Diwaybah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الدِّوَيبة» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في الفلاح.",
+    "en": "The site name «Ad Diwaybah» and the word «Tawi», a well, form a name of the kind Abu Dhabi streets take. The street lies in Al Falah."
+  }
+},
+{
+  "id": "tawi-ad-deewan-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي الدِّيوان",
+  "en": "Tawi Ad Deewan Street",
+  "meaning": {
+    "ar": "«طَوي الدِّيوان»: بئر",
+    "en": "Tawi Ad Deewan: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الدِّيوان» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في جَرْن يَافُور.",
+    "en": "The site name «Ad Deewan» completes the name of the well «Tawi»; it is not a word for the dictionary. The name belongs to the place names of Abu Dhabi, and the street lies in the Jarn Yafour."
+  }
+},
+{
+  "id": "tawi-ar-rafay-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الرَّفيعه",
+  "en": "Tawi Ar Rafay'ah Street",
+  "meaning": {
+    "ar": "«طَوِي الرَّفيعه»: بئر",
+    "en": "Tawi Ar Rafay'ah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الرَّفيعه» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة زايد بأبوظبي.",
+    "en": "Attributed to the site «Ar Rafay'ah» is the well «Tawi»; the site name is not to be glossed. You will find the street in the Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ar-riqayib-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الرِّقَيِّب",
+  "en": "Tawi Ar Riqayib Street",
+  "meaning": {
+    "ar": "«طَوِي الرِّقَيِّب»: بئر",
+    "en": "Tawi Ar Riqayib: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الرِّقَيِّب» اسمها الذي يُنسب إليه. والشارع في الفلاح.",
+    "en": "The place name «Ar Riqayib» belongs to the well «Tawi», an Abu Dhabi name of the old sites. The street lies in Al Falah."
+  }
+},
+{
+  "id": "tawi-ar-rikaysah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الرِّكَيسة",
+  "en": "Tawi Ar Rikaysah Street",
+  "meaning": {
+    "ar": "«طَوِي الرِّكَيسة»: بئر",
+    "en": "Tawi Ar Rikaysah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الرِّكَيسة» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في مدينة محمد بن زايد بأبوظبي.",
+    "en": "A place name in full: «Tawi», a well, and «Ar Rikaysah», a name belonging to its site and not glossed. It lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ar-roulah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الرُّوله",
+  "en": "Tawi Ar Roulah Street",
+  "meaning": {
+    "ar": "«طَوِي الرُّوله»: بئر عند شجر الرَّول",
+    "en": "Tawi Ar Roulah: a well of the rawl tree"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الرُّوله» في اسم الموضع؛ ومعنى الاسم «بئر عند شجر الرَّول». والشارع في شعاب الأشخر.",
+    "en": "«Ar Roulah» in the name of the well «Tawi» gives the meaning «a well of the rawl tree». The street lies in the Shiab Al Ashkhar."
+  }
+},
+{
+  "id": "tawi-ar-riwayha-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الرِّوَيحا",
+  "en": "Tawi Ar Riwayha Street",
+  "meaning": {
+    "ar": "«طَوِي الرِّوَيحا»: بئر",
+    "en": "Tawi Ar Riwayha: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«الرِّوَيحا» اسم البئر لا كلمة تُفسَّر. والشارع في النَّهضة بأبوظبي.",
+    "en": "«Ar Riwayha» names the well «Tawi» and is not to be glossed; the name belongs to the place names. The street lies in Al Nahdah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ar-riwaydah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الرِّوَيضه",
+  "en": "Tawi Ar Riwaydah Street",
+  "meaning": {
+    "ar": "«طَوِي الرِّوَيضه»: بئر",
+    "en": "Tawi Ar Riwaydah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الرِّوَيضه» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في الروضة.",
+    "en": "«Ar Riwaydah» is the name of the place where the well «Tawi» lies; the whole is among the place names of Abu Dhabi's streets. The street lies in Al Rawdah."
+  }
+},
+{
+  "id": "tawi-az-zafnah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الزَّفنة",
+  "en": "Tawi Az Zafnah Street",
+  "meaning": {
+    "ar": "«طَوِي الزَّفنة»: بئر",
+    "en": "Tawi Az Zafnah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الزَّفنة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الهِيَر.",
+    "en": "«Az Zafnah» is what the site of the well «Tawi» is called, and it is not glossed as a word. Among Abu Dhabi's place names, this one lies in Al Hiyar."
+  }
+},
+{
+  "id": "tawi-az-zallaqi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الزَّلاَّقِي",
+  "en": "Tawi Az Zallaqi Street",
+  "meaning": {
+    "ar": "«طَوِي الزَّلاَّقِي»: بئر",
+    "en": "Tawi Az Zallaqi: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الزَّلاَّقِي» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة محمد بن زايد بأبوظبي.",
+    "en": "«Az Zallaqi» names the place the well «Tawi» belongs to, without being a word to gloss. The street lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-as-saad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السَّاد",
+  "en": "Tawi As Saad Street",
+  "meaning": {
+    "ar": "«طَوِي السَّاد»: بئر",
+    "en": "Tawi As Saad: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«السَّاد» اسمها الذي يُنسب إليه. والشارع في شعاب الأشخر.",
+    "en": "«As Saad» gives the well «Tawi» its name, and the whole is one of Abu Dhabi's place names. The street lies in the Shiab Al Ashkhar."
+  }
+},
+{
+  "id": "tawi-as-sabr-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السَّبر",
+  "en": "Tawi As Sabr Street",
+  "meaning": {
+    "ar": "«طَوِي السَّبر»: بئر",
+    "en": "Tawi As Sabr: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«السَّبر» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في الظَّاهِر بأبوظبي.",
+    "en": "«As Sabr» is not a dictionary word but the name of the well «Tawi»'s site, and the whole names a place. It lies in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-as-sablah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السَّبلة",
+  "en": "Tawi As Sablah Street",
+  "meaning": {
+    "ar": "«طَوِي السَّبلة»: بئر",
+    "en": "Tawi As Sablah: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«السَّبلة» اسم البئر لا كلمة تُفسَّر. والشارع في الخَزنة بأبوظبي.",
+    "en": "A place name: the well «Tawi», whose name «As Sablah» is not a word for the dictionary. The street lies in Al Khaznah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-as-sibay-i-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السِّبَيعِي",
+  "en": "Tawi As Sibay'i Street",
+  "meaning": {
+    "ar": "«طَوِي السِّبَيعِي»: بئر",
+    "en": "Tawi As Sibay'i: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«السِّبَيعِي» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في زاخِر.",
+    "en": "A well named «Tawi» at the site «As Sibay'i»: the full name belongs to the place names that Abu Dhabi streets carry. The street lies in the Zakhir."
+  }
+},
+{
+  "id": "tawi-as-sa-diyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السَّعدِيَّة",
+  "en": "Tawi As Sa'diyah Street",
+  "meaning": {
+    "ar": "«طَوِي السَّعدِيَّة»: بئر",
+    "en": "Tawi As Sa'diyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«السَّعدِيَّة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في بني ياس.",
+    "en": "«As Sa'diyah» names the site of the well «Tawi» and is not a word to be glossed. The name is among the place names of Abu Dhabi, and the street lies in the Bani Yas."
+  }
+},
+{
+  "id": "tawi-as-sila-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السِّلَع",
+  "en": "Tawi As Sila' Street",
+  "meaning": {
+    "ar": "«طَوِي السِّلَع»: بئر",
+    "en": "Tawi As Sila': a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«السِّلَع» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في المَسْعُودِي بأبوظبي.",
+    "en": "«As Sila'» is the name of the site to which the well «Tawi» is attributed, and it is not to be glossed in a dictionary. The street stands in Al Mas'oudi, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-as-silaymat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طوِي السِّليمات",
+  "en": "Tawi As Silaymat Street",
+  "meaning": {
+    "ar": "«طوِي السِّليمات»: بئر",
+    "en": "Tawi As Silaymat: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«السِّليمات» اسمها الذي يُنسب إليه. والشارع في السَّلاَمَات.",
+    "en": "«As Silaymat» is the name the well «Tawi» carries — a place name of Abu Dhabi. The street lies in Al Salamat."
+  }
+},
+{
+  "id": "tawi-as-samhah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السَّمحة",
+  "en": "Tawi As Samhah Street",
+  "meaning": {
+    "ar": "«طَوِي السَّمحة»: بئر",
+    "en": "Tawi As Samhah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«السَّمحة» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في السَّمْحة بأبوظبي.",
+    "en": "«As Samhah» belongs to the site of the well «Tawi» and is not for the dictionary; the whole name is a place name. It lies in Al Samhah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-as-suwayhi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي السُّوَيحِي",
+  "en": "Tawi As Suwayhi Street",
+  "meaning": {
+    "ar": "«طَوِي السُّوَيحِي»: بئر",
+    "en": "Tawi As Suwayhi: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«السُّوَيحِي» اسم البئر لا كلمة تُفسَّر. والشارع في الفلاح بأبوظبي.",
+    "en": "«As Suwayhi» is the well's name, not a word to be glossed — the name is one of the place names, «Tawi» meaning a well. The street lies in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ash-sha-ir-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الشَّاعِر",
+  "en": "Tawi Ash Sha'ir Street",
+  "meaning": {
+    "ar": "«طَوِي الشَّاعِر»: بئر",
+    "en": "Tawi Ash Sha'ir: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الشَّاعِر» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في الظَّاهِر.",
+    "en": "Standing at the site «Ash Sha'ir» is the well «Tawi»; the whole name is one of the place names after which Abu Dhabi streets are named. The street lies in Al Dhahir."
+  }
+},
+{
+  "id": "tawi-ash-shibaykah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الشِّبَيكة",
+  "en": "Tawi Ash Shibaykah Street",
+  "meaning": {
+    "ar": "«طَوِي الشِّبَيكة»: بئر",
+    "en": "Tawi Ash Shibaykah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الشِّبَيكة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الشَّوامخ.",
+    "en": "A well called «Tawi», with «Ash Shibaykah» as the name of its site — a name, not a word to gloss. It is one of Abu Dhabi's place names, and the street lies in Al Shawamekh."
+  }
+},
+{
+  "id": "tawi-ash-shar-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الشَّرع",
+  "en": "Tawi Ash Shar' Street",
+  "meaning": {
+    "ar": "«طَوِي الشَّرع»: بئر",
+    "en": "Tawi Ash Shar': a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الشَّرع» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة شخبوط بأبوظبي.",
+    "en": "«Ash Shar'» gives the well «Tawi» its site name — a proper name, not a dictionary word. The street is in the Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ash-sharfa-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الشَّرفا",
+  "en": "Tawi Ash Sharfa Street",
+  "meaning": {
+    "ar": "«طَوِي الشَّرفا»: بئر",
+    "en": "Tawi Ash Sharfa: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الشَّرفا» اسمها الذي يُنسب إليه. والشارع في مدينة محمد بن زايد.",
+    "en": "One of Abu Dhabi's place names: the well «Tawi», known by the name «Ash Sharfa». The street lies in the Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "tawi-ash-shat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الشَّط",
+  "en": "Tawi Ash Shat Street",
+  "meaning": {
+    "ar": "«طَوِي الشَّط»: بئر على الشاطئ",
+    "en": "Tawi Ash Shat: a well of the shore"
+  },
+  "story": {
+    "ar": "معنى الاسم «بئر على الشاطئ»؛ ف«طَوي» بئر و«الشَّط» وصفٌ فيه. والشارع في الفلاح بأبوظبي.",
+    "en": "With the meaning «a well of the shore» — the well «Tawi», described by «Ash Shat». The street lies in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ash-shiq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الشِّق",
+  "en": "Tawi Ash Shiq Street",
+  "meaning": {
+    "ar": "«طَوِي الشِّق»: بئر",
+    "en": "Tawi Ash Shiq: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الشِّق» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في مدينة محمد بن زايد بأبوظبي.",
+    "en": "Its site name «Ash Shiq» is carried by the well «Tawi» and no dictionary explains it; the full name names a place. It lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-ash-shiwayb-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الشِّوَيب",
+  "en": "Tawi Ash Shiwayb Street",
+  "meaning": {
+    "ar": "«طَوِي الشِّوَيب»: بئر عند وادٍ صغير؛ وهو موضع بين دبي والعين",
+    "en": "Tawi Ash Shiwayb: a well of a small wadi; the place between Dubai and Al Ain"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع في أبوظبي ومعناه «بئر عند وادٍ صغير؛ وهو موضع بين دبي والعين»؛ فهو «طَوي» أي بئر «الشِّوَيب». والشارع في الشِّوَيْب.",
+    "en": "The meaning is «a well of a small wadi; the place between Dubai and Al Ain»: the word «Tawi» for a well, with «Ash Shiwayb» in the name — a place name of Abu Dhabi. The street lies in Al Shiwayb."
+  }
+},
+{
+  "id": "tawi-as-sihaybi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الصِّحَيبي",
+  "en": "Tawi As Sihaybi Street",
+  "meaning": {
+    "ar": "«طَوِي الصِّحَيبي»: بئر",
+    "en": "Tawi As Sihaybi: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«الصِّحَيبي» اسم البئر لا كلمة تُفسَّر. والشارع في الفلاح بأبوظبي.",
+    "en": "The name of the well is «As Sihaybi», a name rather than a glossable word; «Tawi» itself means a well. The street lies in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-as-saram-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الصَّرَم",
+  "en": "Tawi As Saram Street",
+  "meaning": {
+    "ar": "«طَوِي الصَّرَم»: بئر أُصول نخيل فتية؛ وحقل نخيل مُمهَّد",
+    "en": "Tawi As Saram: a well of young palm offshoots; a cleared palm plot"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الصَّرَم» في اسم الموضع؛ ومعنى الاسم «بئر أُصول نخيل فتية؛ وحقل نخيل مُمهَّد». والشارع في نِعْمة.",
+    "en": "«As Saram» completes the site name of the well «Tawi»; the name means «a well of young palm offshoots; a cleared palm plot». The street lies in the Ni'mah."
+  }
+},
+{
+  "id": "tawi-as-sallal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الصَّلَّال",
+  "en": "Tawi As Sallal Street",
+  "meaning": {
+    "ar": "«طَوِي الصَّلَّال»: بئر",
+    "en": "Tawi As Sallal: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الصَّلَّال» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في مَزْيَد.",
+    "en": "The site name «As Sallal» and the word «Tawi», a well, form a name of the kind Abu Dhabi streets take. The street lies in the Mazyad."
+  }
+},
+{
+  "id": "tawi-al-siwaytiyyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الصِّوَيتِيَّة",
+  "en": "Tawi Al Siwaytiyyah Street",
+  "meaning": {
+    "ar": "«طَوِي الصِّوَيتِيَّة»: بئر",
+    "en": "Tawi Al Siwaytiyyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الصِّوَيتِيَّة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في مدينة شخبوط.",
+    "en": "The site name «Al Siwaytiyyah» completes the name of the well «Tawi»; it is not a word for the dictionary. The name belongs to the place names of Abu Dhabi, and the street lies in the Shakhbout City."
+  }
+},
+{
+  "id": "tawi-as-siwaytiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الصِّوَيتِيَّة",
+  "en": "Tawi As Siwaytiyah Street",
+  "meaning": {
+    "ar": "«طَوِي الصِّوَيتِيَّة»: بئر",
+    "en": "Tawi As Siwaytiyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الصِّوَيتِيَّة» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في الفقع بأبوظبي.",
+    "en": "Attributed to the site «As Siwaytiyah» is the well «Tawi»; the site name is not to be glossed. You will find the street in Al Faqa', Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-adh-dhilayma-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الظِّلَيما",
+  "en": "Tawi Adh Dhilayma Street",
+  "meaning": {
+    "ar": "«طَوِي الظِّلَيما»: بئر",
+    "en": "Tawi Adh Dhilayma: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الظِّلَيما» اسمها الذي يُنسب إليه. والشارع في الفقع.",
+    "en": "The place name «Adh Dhilayma» belongs to the well «Tawi», an Abu Dhabi name of the old sites. The street lies in Al Faqa'."
+  }
+},
+{
+  "id": "tawi-al-asmiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العاصمِيَّة",
+  "en": "Tawi Al 'Asmiyah Street",
+  "meaning": {
+    "ar": "«طَوِي العاصمِيَّة»: بئر",
+    "en": "Tawi Al 'Asmiyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«العاصمِيَّة» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في الشَّوامخ بأبوظبي.",
+    "en": "A place name in full: «Tawi», a well, and «Al 'Asmiyah», a name belonging to its site and not glossed. It lies in Al Shawamekh, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-ayif-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العايِف",
+  "en": "Tawi Al 'Ayif Street",
+  "meaning": {
+    "ar": "«طَوِي العايِف»: بئر",
+    "en": "Tawi Al 'Ayif: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«العايِف» اسم البئر لا كلمة تُفسَّر. والشارع في مدينة محمد بن زايد بأبوظبي.",
+    "en": "«Al 'Ayif» names the well «Tawi» and is not to be glossed; the name belongs to the place names. The street lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-idhayb-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العِذَيب",
+  "en": "Tawi Al 'Idhayb Street",
+  "meaning": {
+    "ar": "«طَوِي العِذَيب»: بئر",
+    "en": "Tawi Al 'Idhayb: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«العِذَيب» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في بني ياس.",
+    "en": "«Al 'Idhayb» is the name of the place where the well «Tawi» lies; the whole is among the place names of Abu Dhabi's streets. The street lies in the Bani Yas."
+  }
+},
+{
+  "id": "tawi-al-ireed-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العِرِيض",
+  "en": "Tawi Al 'Ireed Street",
+  "meaning": {
+    "ar": "«طَوِي العِرِيض»: بئر",
+    "en": "Tawi Al 'Ireed: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«العِرِيض» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في مدينة زايد.",
+    "en": "«Al 'Ireed» is what the site of the well «Tawi» is called, and it is not glossed as a word. Among Abu Dhabi's place names, this one lies in the Zayed City."
+  }
+},
+{
+  "id": "tawi-al-ishoush-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العشُوش",
+  "en": "Tawi Al 'Ishoush Street",
+  "meaning": {
+    "ar": "«طَوِي العشُوش»: بئر الأعشاش",
+    "en": "Tawi Al 'Ishoush: a well of nests"
+  },
+  "story": {
+    "ar": "معنى الاسم «بئر الأعشاش»؛ ف«طَوي» بئر و«العشُوش» وصفٌ فيه. والشارع في الفلاح بأبوظبي.",
+    "en": "The name means «a well of nests»: «Tawi» is a well, and «Al 'Ishoush» describes it. The street lies in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-isam-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العِصَم",
+  "en": "Tawi Al 'Isam Street",
+  "meaning": {
+    "ar": "«طَوِي العِصَم»: بئر",
+    "en": "Tawi Al 'Isam: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«العِصَم» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في بَطين ليوا بأبوظبي.",
+    "en": "«Al 'Isam» names the place the well «Tawi» belongs to, without being a word to gloss. The street lies in the Bateen Liwa, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-iqabiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العِقابِيَّة",
+  "en": "Tawi Al 'Iqabiyah Street",
+  "meaning": {
+    "ar": "«طَوِي العِقابِيَّة»: بئر",
+    "en": "Tawi Al 'Iqabiyah: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«العِقابِيَّة» اسمها الذي يُنسب إليه. والشارع في الهِيَر.",
+    "en": "«Al 'Iqabiyah» gives the well «Tawi» its name, and the whole is one of Abu Dhabi's place names. The street lies in Al Hiyar."
+  }
+},
+{
+  "id": "tawi-al-iqayr-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العِقَير",
+  "en": "Tawi Al 'Iqayr Street",
+  "meaning": {
+    "ar": "«طَوِي العِقَير»: بئر",
+    "en": "Tawi Al 'Iqayr: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«العِقَير» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في مدينة زايد بأبوظبي.",
+    "en": "«Al 'Iqayr» is not a dictionary word but the name of the well «Tawi»'s site, and the whole names a place. It lies in the Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-iqaylah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العِقَيلة",
+  "en": "Tawi Al 'Iqaylah Street",
+  "meaning": {
+    "ar": "«طَوِي العِقَيلة»: بئر",
+    "en": "Tawi Al 'Iqaylah: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«العِقَيلة» اسم البئر لا كلمة تُفسَّر. والشارع في آل نَهيان بأبوظبي.",
+    "en": "A place name: the well «Tawi», whose name «Al 'Iqaylah» is not a word for the dictionary. The street lies in Al Nahyan, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-uwayrah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العُوَيرة",
+  "en": "Tawi Al 'Uwayrah Street",
+  "meaning": {
+    "ar": "«طَوِي العُوَيرة»: بئر",
+    "en": "Tawi Al 'Uwayrah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«العُوَيرة» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في الزَّاهية.",
+    "en": "A well named «Tawi» at the site «Al 'Uwayrah»: the full name belongs to the place names that Abu Dhabi streets carry. The street lies in Al Zahiyah."
+  }
+},
+{
+  "id": "tawi-al-aweenyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي العَوينية",
+  "en": "Tawi Al 'Aweenyah Street",
+  "meaning": {
+    "ar": "«طَوِي العَوينية»: بئر",
+    "en": "Tawi Al 'Aweenyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«العَوينية» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في مدينة شخبوط.",
+    "en": "«Al 'Aweenyah» names the site of the well «Tawi» and is not a word to be glossed. The name is among the place names of Abu Dhabi, and the street lies in the Shakhbout City."
+  }
+},
+{
+  "id": "tawi-al-ghantalah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوي الغَنطَله",
+  "en": "Tawi Al Ghantalah Street",
+  "meaning": {
+    "ar": "«طَوي الغَنطَله»: بئر",
+    "en": "Tawi Al Ghantalah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الغَنطَله» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة زايد بأبوظبي.",
+    "en": "«Al Ghantalah» is the name of the site to which the well «Tawi» is attributed, and it is not to be glossed in a dictionary. The street stands in the Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-ghuweifat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الغِوَيفات",
+  "en": "Tawi Al Ghuweifat Street",
+  "meaning": {
+    "ar": "«طَوِي الغِوَيفات»: بئر أُجم الغاف",
+    "en": "Tawi Al Ghuweifat: a well of stands of ghaf trees"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع في أبوظبي ومعناه «بئر أُجم الغاف»؛ فهو «طَوي» أي بئر «الغِوَيفات». والشارع في الروضة.",
+    "en": "An Abu Dhabi place name meaning «a well of stands of ghaf trees»: «Tawi», a well, and «Al Ghuweifat» as the site name. The street lies in Al Rawdah."
+  }
+},
+{
+  "id": "tawi-al-faw-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الفاو",
+  "en": "Tawi Al Faw Street",
+  "meaning": {
+    "ar": "«طَوِي الفاو»: بئر",
+    "en": "Tawi Al Faw: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الفاو» اسمها الذي يُنسب إليه. والشارع في الشِّوَيْب.",
+    "en": "«Al Faw» is the name the well «Tawi» carries — a place name of Abu Dhabi. The street lies in Al Shiwayb."
+  }
+},
+{
+  "id": "tawi-al-fayid-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الفايض",
+  "en": "Tawi Al Fayid Street",
+  "meaning": {
+    "ar": "«طَوِي الفايض»: بئر",
+    "en": "Tawi Al Fayid: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الفايض» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في زاخِر بأبوظبي.",
+    "en": "«Al Fayid» belongs to the site of the well «Tawi» and is not for the dictionary; the whole name is a place name. It lies in the Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-fadyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الفَضية",
+  "en": "Tawi Al Fadyah Street",
+  "meaning": {
+    "ar": "«طَوِي الفَضية»: بئر",
+    "en": "Tawi Al Fadyah: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«الفَضية» اسم البئر لا كلمة تُفسَّر. والشارع في مدينة محمد بن زايد بأبوظبي.",
+    "en": "«Al Fadyah» is the well's name, not a word to be glossed — the name is one of the place names, «Tawi» meaning a well. The street lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-falay-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الفَلَي",
+  "en": "Tawi Al Falay Street",
+  "meaning": {
+    "ar": "«طَوِي الفَلَي»: بئر",
+    "en": "Tawi Al Falay: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الفَلَي» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في عَيْن الفَايْضَة.",
+    "en": "Standing at the site «Al Falay» is the well «Tawi»; the whole name is one of the place names after which Abu Dhabi streets are named. The street lies in the Ain Al Faydah."
+  }
+},
+{
+  "id": "tawi-al-qabil-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القابِل",
+  "en": "Tawi Al Qabil Street",
+  "meaning": {
+    "ar": "«طَوِي القابِل»: بئر",
+    "en": "Tawi Al Qabil: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«القابِل» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الروضة الشرقية.",
+    "en": "A well called «Tawi», with «Al Qabil» as the name of its site — a name, not a word to gloss. It is one of Abu Dhabi's place names, and the street lies in Al Rawdah Al Sharqiyah."
+  }
+},
+{
+  "id": "tawi-al-qarah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القاره",
+  "en": "Tawi Al Qarah Street",
+  "meaning": {
+    "ar": "«طَوِي القاره»: بئر",
+    "en": "Tawi Al Qarah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«القاره» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في البطين بأبوظبي.",
+    "en": "«Al Qarah» gives the well «Tawi» its site name — a proper name, not a dictionary word. The street is in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-qaymah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القَايمة",
+  "en": "Tawi Al Qaymah Street",
+  "meaning": {
+    "ar": "«طَوِي القَايمة»: بئر",
+    "en": "Tawi Al Qaymah: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«القَايمة» اسمها الذي يُنسب إليه. والشارع في مدينة شخبوط.",
+    "en": "One of Abu Dhabi's place names: the well «Tawi», known by the name «Al Qaymah». The street lies in the Shakhbout City."
+  }
+},
+{
+  "id": "tawi-al-qibliyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القِبلِيَّة",
+  "en": "Tawi Al Qibliyah Street",
+  "meaning": {
+    "ar": "«طَوِي القِبلِيَّة»: بئر",
+    "en": "Tawi Al Qibliyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«القِبلِيَّة» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في مدينة محمد بن زايد بأبوظبي.",
+    "en": "Its site name «Al Qibliyah» is carried by the well «Tawi» and no dictionary explains it; the full name names a place. It lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-qarn-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القَرن",
+  "en": "Tawi Al Qarn Street",
+  "meaning": {
+    "ar": "«طَوِي القَرن»: بئر عند القمة",
+    "en": "Tawi Al Qarn: a well of peak"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«القَرن» في اسم الموضع؛ ومعنى الاسم «بئر عند القمة». والشارع في هِيلِي.",
+    "en": "The name means «a well of peak»: the well «Tawi», with «Al Qarn» in the site name. The street lies in the Hili."
+  }
+},
+{
+  "id": "tawi-al-qurn-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القَرن",
+  "en": "Tawi Al Qurn Street",
+  "meaning": {
+    "ar": "«طَوِي القَرن»: بئر عند القمة",
+    "en": "Tawi Al Qurn: a well of peak"
+  },
+  "story": {
+    "ar": "معنى الاسم «بئر عند القمة»؛ ف«طَوي» بئر و«القَرن» وصفٌ فيه. والشارع في مدينة محمد بن زايد بأبوظبي.",
+    "en": "«Al Qurn» describes the well «Tawi», and the name means «a well of peak». The street lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-qrain-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القرَين",
+  "en": "Tawi Al Qrain Street",
+  "meaning": {
+    "ar": "«طَوِي القرَين»: بئر",
+    "en": "Tawi Al Qrain: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«القرَين» اسم البئر لا كلمة تُفسَّر. والشارع في الخَزنة بأبوظبي.",
+    "en": "The name of the well is «Al Qrain», a name rather than a glossable word; «Tawi» itself means a well. The street lies in Al Khaznah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-qisaymah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القِصَيمة",
+  "en": "Tawi Al Qisaymah Street",
+  "meaning": {
+    "ar": "«طَوِي القِصَيمة»: بئر",
+    "en": "Tawi Al Qisaymah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«القِصَيمة» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في نِعْمة.",
+    "en": "The site name «Al Qisaymah» and the word «Tawi», a well, form a name of the kind Abu Dhabi streets take. The street lies in the Ni'mah."
+  }
+},
+{
+  "id": "tawi-al-qattar-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القَطَّار",
+  "en": "Tawi Al Qattar Street",
+  "meaning": {
+    "ar": "«طَوِي القَطَّار»: بئر",
+    "en": "Tawi Al Qattar: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«القَطَّار» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في مدينة شخبوط.",
+    "en": "The site name «Al Qattar» completes the name of the well «Tawi»; it is not a word for the dictionary. The name belongs to the place names of Abu Dhabi, and the street lies in the Shakhbout City."
+  }
+},
+{
+  "id": "tawi-al-qal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القَل",
+  "en": "Tawi Al Qal Street",
+  "meaning": {
+    "ar": "«طَوِي القَل»: بئر",
+    "en": "Tawi Al Qal: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«القَل» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في الفلاح بأبوظبي.",
+    "en": "Attributed to the site «Al Qal» is the well «Tawi»; the site name is not to be glossed. You will find the street in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-qin-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي القِنعة",
+  "en": "Tawi Al Qin'ah Street",
+  "meaning": {
+    "ar": "«طَوِي القِنعة»: بئر",
+    "en": "Tawi Al Qin'ah: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«القِنعة» اسمها الذي يُنسب إليه. والشارع في مدينة محمد بن زايد.",
+    "en": "The place name «Al Qin'ah» belongs to the well «Tawi», an Abu Dhabi name of the old sites. The street lies in the Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "tawi-al-kitabiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الكِتَابِيَّة",
+  "en": "Tawi Al Kitabiyah Street",
+  "meaning": {
+    "ar": "«طَوِي الكِتَابِيَّة»: بئر",
+    "en": "Tawi Al Kitabiyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«الكِتَابِيَّة» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في مدينة محمد بن زايد بأبوظبي.",
+    "en": "A place name in full: «Tawi», a well, and «Al Kitabiyah», a name belonging to its site and not glossed. It lies in the Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-likham-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي اللِّخام",
+  "en": "Tawi Al Likham Street",
+  "meaning": {
+    "ar": "«طَوِي اللِّخام»: بئر",
+    "en": "Tawi Al Likham: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«اللِّخام» اسم البئر لا كلمة تُفسَّر. والشارع في الخَزنة بأبوظبي.",
+    "en": "«Al Likham» names the well «Tawi» and is not to be glossed; the name belongs to the place names. The street lies in Al Khaznah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-liyayf-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي اللِّيَيف",
+  "en": "Tawi Al Liyayf Street",
+  "meaning": {
+    "ar": "«طَوِي اللِّيَيف»: بئر",
+    "en": "Tawi Al Liyayf: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«اللِّيَيف» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في بني ياس.",
+    "en": "«Al Liyayf» is the name of the place where the well «Tawi» lies; the whole is among the place names of Abu Dhabi's streets. The street lies in the Bani Yas."
+  }
+},
+{
+  "id": "tawi-al-markhiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المَرخيَّه",
+  "en": "Tawi Al Markhiyah Street",
+  "meaning": {
+    "ar": "«طَوِي المَرخيَّه»: بئر",
+    "en": "Tawi Al Markhiyah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«المَرخيَّه» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في نِعْمة.",
+    "en": "«Al Markhiyah» is what the site of the well «Tawi» is called, and it is not glossed as a word. Among Abu Dhabi's place names, this one lies in the Ni'mah."
+  }
+},
+{
+  "id": "tawi-al-marqat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المَرقاة",
+  "en": "Tawi Al Marqat Street",
+  "meaning": {
+    "ar": "«طَوِي المَرقاة»: بئر",
+    "en": "Tawi Al Marqat: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«المَرقاة» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في مدينة شخبوط بأبوظبي.",
+    "en": "«Al Marqat» names the place the well «Tawi» belongs to, without being a word to gloss. The street lies in the Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-marmoum-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المَرمُوم",
+  "en": "Tawi Al Marmoum Street",
+  "meaning": {
+    "ar": "«طَوِي المَرمُوم»: بئر",
+    "en": "Tawi Al Marmoum: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«المَرمُوم» اسمها الذي يُنسب إليه. والشارع في عَيْن الفَايْضَة.",
+    "en": "«Al Marmoum» gives the well «Tawi» its name, and the whole is one of Abu Dhabi's place names. The street lies in the Ain Al Faydah."
+  }
+},
+{
+  "id": "tawi-al-meraimeeth-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المرَيمِيث",
+  "en": "Tawi Al Meraimeeth Street",
+  "meaning": {
+    "ar": "«طَوِي المرَيمِيث»: بئر",
+    "en": "Tawi Al Meraimeeth: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«المرَيمِيث» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في شعاب الأشخر بأبوظبي.",
+    "en": "«Al Meraimeeth» is not a dictionary word but the name of the well «Tawi»'s site, and the whole names a place. It lies in the Shiab Al Ashkhar, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-missannid-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المِسَّنِّد",
+  "en": "Tawi Al Missannid Street",
+  "meaning": {
+    "ar": "«طَوِي المِسَّنِّد»: بئر",
+    "en": "Tawi Al Missannid: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«المِسَّنِّد» اسم البئر لا كلمة تُفسَّر. والشارع في سوِيحَان بأبوظبي.",
+    "en": "A place name: the well «Tawi», whose name «Al Missannid» is not a word for the dictionary. The street lies in the Sweihan, Abu Dhabi."
+  }
+},
+{
+  "id": "tawy-al-madyaq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المَضيق",
+  "en": "Tawy Al Madyaq Street",
+  "meaning": {
+    "ar": "«طَوِي المَضيق»: بئر",
+    "en": "Tawy Al Madyaq: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«المَضيق» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في السَّلاَمَات.",
+    "en": "A well named «Tawi» at the site «Al Madyaq»: the full name belongs to the place names that Abu Dhabi streets carry. The street lies in Al Salamat."
+  }
+},
+{
+  "id": "tawi-al-maghayil-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المَغايِل",
+  "en": "Tawi Al Maghayil Street",
+  "meaning": {
+    "ar": "«طَوِي المَغايِل»: بئر",
+    "en": "Tawi Al Maghayil: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«المَغايِل» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع في أبوظبي، والشارع في الهِيَر.",
+    "en": "«Al Maghayil» names the site of the well «Tawi» and is not a word to be glossed. The name is among the place names of Abu Dhabi, and the street lies in Al Hiyar."
+  }
+},
+{
+  "id": "tawi-al-milhah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المِلحة",
+  "en": "Tawi Al Milhah Street",
+  "meaning": {
+    "ar": "«طَوِي المِلحة»: بئر",
+    "en": "Tawi Al Milhah: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«المِلحة» اسم الموضع الذي تُنسب إليه البئر، ولا يُفسَّر بالمعجم. ويقع الشارع في الشَّوامخ بأبوظبي.",
+    "en": "«Al Milhah» is the name of the site to which the well «Tawi» is attributed, and it is not to be glossed in a dictionary. The street stands in Al Shawamekh, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-al-mlaysa-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي الملَيسا",
+  "en": "Tawi Al Mlaysa Street",
+  "meaning": {
+    "ar": "«طَوِي الملَيسا»: بئر",
+    "en": "Tawi Al Mlaysa: a well"
+  },
+  "story": {
+    "ar": "اسم من أسماء المواضع في أبوظبي: «طَوي» بئر، و«الملَيسا» اسمها الذي يُنسب إليه. والشارع في مدينة محمد بن زايد.",
+    "en": "«Al Mlaysa» is the name the well «Tawi» carries — a place name of Abu Dhabi. The street lies in the Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "tawi-al-mantaha-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي المَنتَهَى",
+  "en": "Tawi Al Mantaha Street",
+  "meaning": {
+    "ar": "«طَوِي المَنتَهَى»: بئر",
+    "en": "Tawi Al Mantaha: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«المَنتَهَى» اسم يخصّ الموضع لا يُفسَّر بالمعجم، والاسم كله اسم موضع. وهو في العَراد بأبوظبي.",
+    "en": "«Al Mantaha» belongs to the site of the well «Tawi» and is not for the dictionary; the whole name is a place name. It lies in Al 'Arad, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-an-nab-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي النَّبعة",
+  "en": "Tawi An Nab'ah Street",
+  "meaning": {
+    "ar": "«طَوِي النَّبعة»: بئر عند نبع ماء",
+    "en": "Tawi An Nab'ah: a well of a spring"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع في أبوظبي ومعناه «بئر عند نبع ماء»؛ فهو «طَوي» أي بئر «النَّبعة». والشارع في القوع.",
+    "en": "«An Nab'ah» completes this Abu Dhabi place name, whose meaning is «a well of a spring» — «Tawi», a well. The street lies in Al Qou'."
+  }
+},
+{
+  "id": "tawi-an-nad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي النَّد",
+  "en": "Tawi An Nad Street",
+  "meaning": {
+    "ar": "«طَوِي النَّد»: بئر عند تلّ ترابي مرتفع",
+    "en": "Tawi An Nad: a well of a raised earthen hill"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«النَّد» في اسم الموضع؛ ومعنى الاسم «بئر عند تلّ ترابي مرتفع». والشارع في القوع.",
+    "en": "«An Nad» in the name of the well «Tawi» gives the meaning «a well of a raised earthen hill». The street lies in Al Qou'."
+  }
+},
+{
+  "id": "tawi-an-nasab-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي النَّصَب",
+  "en": "Tawi An Nasab Street",
+  "meaning": {
+    "ar": "«طَوِي النَّصَب»: بئر",
+    "en": "Tawi An Nasab: a well"
+  },
+  "story": {
+    "ar": "الاسم من أسماء المواضع: «طَوي» بئر، و«النَّصَب» اسم البئر لا كلمة تُفسَّر. والشارع في الدَّانَةْ بأبوظبي.",
+    "en": "«An Nasab» is the well's name, not a word to be glossed — the name is one of the place names, «Tawi» meaning a well. The street lies in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "tawi-an-naqar-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي النَّقَر",
+  "en": "Tawi An Naqar Street",
+  "meaning": {
+    "ar": "«طَوِي النَّقَر»: بئر",
+    "en": "Tawi An Naqar: a well"
+  },
+  "story": {
+    "ar": "«طَوي» بئر، و«النَّقَر» اسم الموضع، والاسم كله من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي. والشارع في البطين.",
+    "en": "Standing at the site «An Naqar» is the well «Tawi»; the whole name is one of the place names after which Abu Dhabi streets are named. The street lies in Al Bateen."
+  }
+},
+{
+  "id": "tawi-an-niqyan-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع طَوِي النِّقيان",
+  "en": "Tawi An Niqyan Street",
+  "meaning": {
+    "ar": "«طَوِي النِّقيان»: بئر عند الكثبان الرملية",
+    "en": "Tawi An Niqyan: a well of sand dunes"
+  },
+  "story": {
+    "ar": "معنى الاسم «بئر عند الكثبان الرملية»؛ ف«طَوي» بئر و«النِّقيان» وصفٌ فيه. والشارع في العامرة بأبوظبي.",
+    "en": "With the meaning «a well of sand dunes» — the well «Tawi», described by «An Niqyan». The street lies in Al Aamerah, Abu Dhabi."
+  }
+}
 ];
