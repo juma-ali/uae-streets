@@ -59,3 +59,6 @@ assets/js/*.bak
 !.github/ISSUE_TEMPLATE/
 !.github/ISSUE_TEMPLATE/*.yml
 
+
+# the lint workflow needs tools/, which is local-only, so it stays local too
+.github/workflows/checks.yml
