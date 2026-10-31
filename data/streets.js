@@ -635,7 +635,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالهادي بن شعبان المنصوري",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulhadi-bin-shaaban-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulhadi-bin-shaaban-al-mansouri"
     }
   ]
 },
@@ -7646,7 +7646,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن ظاهر المهيري",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-dhahir-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-dhahir-al-muhairi"
     }
   ]
 },
@@ -7668,7 +7668,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن غانم الشامسي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ghanem-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ghanem-al-shamsi"
     }
   ]
 },
@@ -7690,7 +7690,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن غنوم الهاملي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ghanoum-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ghanoum-al-hameli"
     }
   ]
 },
@@ -7729,7 +7729,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن جاسم المريخي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-jassim-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-jassim-al-meraikhi"
     }
   ]
 },
@@ -7802,7 +7802,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن شيبان المهيري",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-shaiban-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-shaiban-al-muhairi"
     }
   ]
 },
@@ -7824,7 +7824,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن سليم الفلاسي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-slayem-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-slayem-al-falasi"
     }
   ]
 },
@@ -13808,7 +13808,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن عبدالرحيم الوسواسي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-abdulrahim-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-abdulrahim-al-waswasi"
     }
   ]
 },
@@ -13830,7 +13830,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن هلال الكويتي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-hilal-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-hilal-al-kuwaiti"
     }
   ]
 },
@@ -13874,7 +13874,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالرحيم بن تاج الدين الهاشمي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulraheem-bin-taj-al-din-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulraheem-bin-taj-al-din-al-hashemi"
     }
   ]
 },
@@ -14267,7 +14267,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد الفلاحي الياسي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-al-falahi-al"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-al-falahi-al-yasi"
     }
   ]
 },
@@ -23774,7 +23774,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الشيخة سلامة بنت بطي",
-      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sheikha-salama-bint-"
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sheikha-salama-bint-butti"
     }
   ]
 },
