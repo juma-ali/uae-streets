@@ -32,3 +32,5 @@ footer{margin-top:2.5rem;font-size:.78rem;color:var(--ink3);border-top:1px solid
 ul.gloss,small.gloss{color:var(--ink3);font-size:.78rem;direction:ltr}
 small.gloss{direction:rtl;text-align:right;display:inline-block;margin-top:.15rem}
 small.meta{color:var(--ink3);font-size:.75rem}
+/* streets whose name carries no dictionary gloss: a quiet note, not a gloss */
+small.gloss--none{color:var(--ink3);font-size:.74rem;opacity:.85;font-style:italic}
