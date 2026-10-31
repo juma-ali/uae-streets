@@ -58,3 +58,9 @@ assets/js/*.bak
 !.github/workflows/*.yml
 !.github/ISSUE_TEMPLATE/
 !.github/ISSUE_TEMPLATE/*.yml
+
+# the three tools the CI workflow runs
+!tools/arabic-lint.mjs
+!tools/editorial-lint.mjs
+!tools/arabic-review.mjs
+!docs/arabic-review.json
