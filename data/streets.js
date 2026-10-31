@@ -144,7 +144,7 @@ window.STREETS = [
     
     route: "D 92",
     refs: [
-      { label: "D 92 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" }
+      { label: "D 92 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai" }
     ],id: "al-wasl-road",
     emirate: "dubai",
     category: "word",
@@ -162,7 +162,7 @@ window.STREETS = [
     
     route: "D 94",
     refs: [
-      { label: "D 94 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" },
+      { label: "D 94 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai" },
       { label: "Jumeirah Archaeological Site — Wikipedia", url: "https://en.wikipedia.org/wiki/Jumeirah" }
     ],id: "jumeirah-road",
     emirate: "dubai",
@@ -264,7 +264,7 @@ window.STREETS = [
     
     route: "E 66",
     refs: [
-      { label: "E 66 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai#Road" },
+      { label: "E 66 — Wikipedia, Dubai (Road section)", url: "https://en.wikipedia.org/wiki/Dubai" },
       { label: "مؤسسة الموروث للدراسات الإماراتية — @almawrooth", url: "https://www.instagram.com/almawrooth/" }
     ],id: "oud-metha-road",
     emirate: "dubai",
@@ -3410,7 +3410,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "الأعلام للزركلي، ج٢ ص٤٦: البراء بن عازب",
-      "url": "https://archive.org/details/alalam"
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -4312,7 +4312,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "الأعلام للزركلي، ج٤ ص٢٢٠: عدي بن حاتم",
-      "url": "https://archive.org/details/alalam"
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -10560,10 +10560,6 @@ window.STREETS = [
     {
       "label": "وام — وزارة الثقافة تعيد طباعة الديوان",
       "url": "https://www.wam.ae/ar/article/hsynm5k5"
-    },
-    {
-      "label": "فهرس مكتبة — ديوان غيث بن جمعة بوجمهور القبيسي",
-      "url": "https://opac.lc.ac.ae/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=38624"
     }
   ]
 },
@@ -18518,7 +18514,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "الأعلام للزركلي، ج٢ ص١٥٥: أبو فراس الحمداني",
-      "url": "https://archive.org/details/alalam"
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -19178,7 +19174,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "الأعلام للزركلي، ج٣ ص١٣٨: سليمان بن يسار",
-      "url": "https://archive.org/details/alalam"
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -19860,7 +19856,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "الأعلام للزركلي، ج٧ ص٢٧١: معقل بن يسار",
-      "url": "https://archive.org/details/alalam"
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -20036,7 +20032,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "الأعلام للزركلي، ج١ ص٢١١: ابن المحاملي",
-      "url": "https://archive.org/details/alalam"
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -20432,7 +20428,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "الأعلام للزركلي، ج٣ ص١٩٥: صالح بن كيسان",
-      "url": "https://archive.org/details/alalam"
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -21455,17 +21451,17 @@ window.STREETS = [
   "ar": "شارع أبو بَكر بن المُنكَدِر",
   "en": "Abu Bakr Bin Al Munkadir Street",
   "meaning": {
-    "en": "A Tabi'i and ascetic of Medina",
-    "ar": "تابعي وزاهد من أهل المدينة"
+    "ar": "تابعي مدني، من زهّاد المدينة ورواة الحديث",
+    "en": "A Medinan Successor, ascetic and hadith transmitter"
   },
   "story": {
-    "en": "Abu Bakr ibn al-Munkadir (d. 130 AH) was a Tabi'i of Medina, remembered as one of its ascetics and narrators of hadith.",
-    "ar": "أبو بكر بن المنكدر (ت 130هـ) تابعي مدني، من زهّاد المدينة ورواة الحديث."
+    "ar": "أبو بكر بن المنكدر — وهو محمد بن المنكدر بن عبد الله القرشي التيمي المدني (٥٤–١٣٠هـ / ٦٧٤–٧٤٨م): زاهد من رجال الحديث، من أهل المدينة، أدرك بعض الصحابة وروى عنهم، وله نحو مئتي حديث.",
+    "en": "Abu Bakr ibn al-Munkadir — Muhammad ibn al-Munkadir ibn Abdullah al-Qurashi al-Taymi al-Madani (54–130 AH / 674–748 AD) — was an ascetic and a transmitter of hadith in Medina. He met some of the Companions and narrated from them, and some two hundred hadith are traced to him."
   },
   "refs": [
     {
-      "label": "Wikipedia — أبو بكر بن المنكدر",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D9%86%D9%83%D8%AF%D8%B1"
+      "label": "الأعلام للزركلي، ج٧ ص١١٢: ابن المنكدر",
+      "url": "https://archive.org/details/al_a_laam"
     }
   ]
 },
@@ -25823,7 +25819,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "Wikipedia — فاطمة بنت مبارك",
-      "url": "https://ar.wikipedia.org/wiki/فاطمة_بن_مبارك_الكتبي"
+      "url": "https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D8%B7%D9%85%D8%A9_%D8%A8%D9%86%D8%AA_%D9%85%D8%A8%D8%A7%D8%B1%D9%83_%D8%A7%D9%84%D9%83%D8%AA%D8%A8%D9%8A"
     }
   ]
 },
@@ -26775,7 +26771,7 @@ window.STREETS = [
   "refs": [
     {
       "label": "Wikipedia — فاطمة بنت مبارك",
-      "url": "https://ar.wikipedia.org/wiki/فاطمة_بن_مبارك_الكتبي"
+      "url": "https://ar.wikipedia.org/wiki/%D9%81%D8%A7%D8%B7%D9%85%D8%A9_%D8%A8%D9%86%D8%AA_%D9%85%D8%A8%D8%A7%D8%B1%D9%83_%D8%A7%D9%84%D9%83%D8%AA%D8%A8%D9%8A"
     }
   ]
 },
@@ -29706,7 +29702,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Fatima bint Asad was the mother of Ali ibn Abi Talib and raised the Prophet Muhammad in her household after his grandfather's death.",
-    "ar": "فاطمة بنت أسد أم علي بن أبي طالب، وكفلت النبي محمد ﷺاً في بيتها بعد وفاة جده."
+    "ar": "فاطمة بنت أسد أم علي بن أبي طالب، وكفلت النبي محمد ﷺ في بيتها بعد وفاة جده."
   },
   "refs": [
     {
