@@ -8196,14 +8196,13 @@ window.STREETS = [
   "ar": "شارع احمد بن فاضل الهاملي",
   "en": "Ahmed Bin Fadhel Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Fadhel, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم احمد بن فاضل، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم احمد بن فاضل الهاملي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Ahmed Bin Fadhel Al Hameli, which is all the record holds."
+  }
 },
 {
   "id": "ahmed-bin-gabran-al-suwaidi",
@@ -9836,14 +9835,13 @@ window.STREETS = [
   "ar": "شارع حمدة بنت علي الرميثي",
   "en": "Hamda Bint Ali Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Hamda Bint Ali, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم حمدة بنت علي، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم حمدة بنت علي الرميثي، ولم يُعثر على ترجمة منشورة لها، فلا تنسب البطاقة إليها أكثر من الاسم.",
+    "en": "The street carries the name Hamda Bint Ali Al Rumaithi, which is all the record holds."
+  }
 },
 {
   "id": "hamed-albadi-al-dhaheri",
@@ -10139,14 +10137,13 @@ window.STREETS = [
   "ar": "شارع هاشم بن صباح الرميثي",
   "en": "Hashim Bin Sabah Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Hashim Bin Sabah, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هاشم بن صباح، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم هاشم بن صباح الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Hashim Bin Sabah Al Rumaithi, which is all the record holds."
+  }
 },
 {
   "id": "hazza-bin-nasser-al-mansouri",
@@ -12487,14 +12484,13 @@ window.STREETS = [
   "ar": "طريق مبارك بن قرآن المنصوري",
   "en": "Mubarak Bin Qaran Al Mansouri Road",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bin Qaran, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الطريق باسم مبارك بن قرآن، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم مبارك بن قرآن المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Mubarak Bin Qaran Al Mansouri, which is all the record holds."
+  }
 },
 {
   "id": "mubarak-bin-saeed-al-mansouri",
@@ -12697,14 +12693,13 @@ window.STREETS = [
   "ar": "شارع عبيد بن كداس الرميثي",
   "en": "Obaid Bin Kadaas Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Kadaas, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن كداس، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم عبيد بن كداس الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Obaid Bin Kadaas Al Rumaithi, which is all the record holds."
+  }
 },
 {
   "id": "obaid-bin-kenaish-alhameli",
@@ -13022,14 +13017,13 @@ window.STREETS = [
   "ar": "شارع راشد بن حفيظ المزروعي",
   "en": "Rashed Bin Hfaid Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Rashed Bin Hfaid, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن حفيظ، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم راشد بن حفيظ المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Rashed Bin Hfaid Al Mazrouei, which is all the record holds."
+  }
 },
 {
   "id": "rashed-bin-mubarak-almansoori",
@@ -13694,14 +13688,13 @@ window.STREETS = [
   "ar": "شارع سعيد بن زايد المزروعي",
   "en": "Saeed Bin Zayed Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Zayed, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن زايد، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم سعيد بن زايد المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Saeed Bin Zayed Al Mazrouei, which is all the record holds."
+  }
 },
 {
   "id": "saeed-ibrahim-al-dhaheri",
@@ -14493,14 +14486,13 @@ window.STREETS = [
   "ar": "شارع سهيل بن سريع المزروعي",
   "en": "Suhail Bin Serayee Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bin Serayee, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سهيل بن سريع، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم سهيل بن سريع المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Suhail Bin Serayee Al Mazrouei, which is all the record holds."
+  }
 },
 {
   "id": "suhaila-bint-maizer-al-rumaithi",
@@ -15077,14 +15069,13 @@ window.STREETS = [
   "ar": "شارع مطر بن حمد الزعابي",
   "en": "Matar Bin Hamad Al Zeabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Zeabi family",
-    "ar": "شخصية إماراتية من أسرة الزعابي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Matar Bin Hamad, an Emirati figure of the Zeabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مطر بن حمد، وهو شخصية إماراتية من أسرة الزعابي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم مطر بن حمد الزعابي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Matar Bin Hamad Al Zeabi, which is all the record holds."
+  }
 },
 {
   "id": "rashid-nasser-al-zaabi",
@@ -16346,14 +16337,13 @@ window.STREETS = [
   "ar": "شارع نسيب بن أحمد الحميري",
   "en": "Nassib Bin Ahmed Al Humairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Humairi family",
-    "ar": "شخصية إماراتية من أسرة الحميري"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Nassib Bin Ahmed, an Emirati figure of the Humairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم نسيب بن أحمد، وهو شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم نسيب بن أحمد الحميري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Nassib Bin Ahmed Al Humairi, which is all the record holds."
+  }
 },
 {
   "id": "obaid-bilartee-al-humairi",
@@ -16385,14 +16375,13 @@ window.STREETS = [
   "ar": "شارع عبيد بن مريمان العامري",
   "en": "Obaid Bin Mariman Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Mariman, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن مريمان، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم عبيد بن مريمان العامري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Obaid Bin Mariman Al Ameri, which is all the record holds."
+  }
 },
 {
   "id": "obaid-mohammed-abdulla-al-kaabi",
@@ -16859,14 +16848,13 @@ window.STREETS = [
   "ar": "شرارع أبي أحمد الجرماني",
   "en": "Abi Ahmed Ali Jaramani Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of شرارع أبي أحمد الجرماني. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم شرارع أبي أحمد الجرماني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم أبي أحمد الجرماني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Abi Ahmed Ali Jaramani, which is all the record holds."
+  }
 },
 {
   "id": "abi-al-adarhim-al-zamani",
@@ -16876,14 +16864,13 @@ window.STREETS = [
   "ar": "شارع أبي الأدارهم الزماني",
   "en": "Abi Al Adarhim Al Zamani Street",
   "meaning": {
-    "en": "An Emirati figure of the Zamani family",
-    "ar": "شخصية إماراتية من أسرة الزماني"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Adarhim, an Emirati figure of the Zamani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي الأدارهم، وهو شخصية إماراتية من أسرة الزماني، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم أبي الأدارهم الزماني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Abi Al Adarhim Al Zamani, which is all the record holds."
+  }
 },
 {
   "id": "abi-al-arja-a-al-atki",
@@ -16927,14 +16914,13 @@ window.STREETS = [
   "ar": "شارع أبي الحسن الشاذلي",
   "en": "Abi Al Hassan Al Shadhli Street",
   "meaning": {
-    "en": "An Emirati figure of the Shadhli family",
-    "ar": "شخصية إماراتية من أسرة الشاذلي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Hassan, an Emirati figure of the Shadhli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي الحسن، وهو شخصية إماراتية من أسرة الشاذلي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "أبو الحسن الشاذلي، إمام الطريقة الشاذلية في التصوف الإسلامي.",
+    "en": "The street carries the name Abi Al Hassan Al Shadhli."
+  }
 },
 {
   "id": "abi-al-sedeeq-al-naji",
@@ -16961,14 +16947,13 @@ window.STREETS = [
   "ar": "شارع أبي أيوب الأنصاري",
   "en": "Abi Ayoub Al Ansari Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of أبي أيوب الأنصاري. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبي أيوب الأنصاري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
-  },
-  "refs": []
+    "ar": "أبو أيوب الأنصاري، صحابي من الأنصار، آوى النبي محمد ﷺ إلى داره عند الهجرة، وتوفي سنة ٥٠ هـ.",
+    "en": "The street carries the name Abi Ayoub Al Ansari, which is all the record holds."
+  }
 },
 {
   "id": "abi-dhar-al-ghifari",
@@ -16978,14 +16963,13 @@ window.STREETS = [
   "ar": "شارع أبي ذر الغفاري",
   "en": "Abi Dhar Al Ghifari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ghifari family",
-    "ar": "شخصية إماراتية من أسرة الغفاري"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Abi Dhar, an Emirati figure of the Ghifari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي ذر، وهو شخصية إماراتية من أسرة الغفاري، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "أبو ذر الغفاري (جندب بن جنادة)، صحابي من السابقين إلى الإسلام، توفي في الربذة سنة ٣١ أو ٣٢ هـ.",
+    "en": "The street carries the name Abi Dhar Al Ghifari, which is all the record holds."
+  }
 },
 {
   "id": "abi-dhu-ayb-al-hadhli",
@@ -16995,14 +16979,13 @@ window.STREETS = [
   "ar": "شارع أبي ذؤيب الهذلي",
   "en": "Abi Dhu'ayb Al Hadhli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hadhli family",
-    "ar": "شخصية إماراتية من أسرة الهذلي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Abi Dhu'ayb, an Emirati figure of the Hadhli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي ذؤيب، وهو شخصية إماراتية من أسرة الهذلي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "أبو ذؤيب الهذلي، شاعر جاهلي من هذيل، اشتهر بمرثية أولاده، وتوفي في أواخر القرن السادس الميلادي.",
+    "en": "The street carries the name Abi Dhu'ayb Al Hadhli, which is all the record holds."
+  }
 },
 {
   "id": "abi-hamid-al-sharqy",
@@ -17012,14 +16995,13 @@ window.STREETS = [
   "ar": "شارع أبي حامد الشرقي",
   "en": "Abi Hamid Al Sharqy Street",
   "meaning": {
-    "en": "An Emirati figure of the Sharqy family",
-    "ar": "شخصية إماراتية من أسرة الشرقي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Abi Hamid of the Al Sharqi family, the ruling family of Fujairah. No published biography of him was found, so the card records the name and the family, and claims nothing further.",
-    "ar": "يحمل الشارع اسم أبي حامد من أسرة آل الشرقي، الأسرة الحاكمة في إمارة الفجيرة. ولم يُعثر على ترجمة منشورة له، فالبطاقة تسجّل الاسم والأسرة ولا تنسب إليه غيرهما."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم أبي حامد الشرقي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Abi Hamid Al Sharqy, which is all the record holds."
+  }
 },
 {
   "id": "abi-murthed-al-ganwi",
@@ -17046,14 +17028,13 @@ window.STREETS = [
   "ar": "شارع أبي موسى الأشعري",
   "en": "Abi Mussa Al Ashari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ashari family",
-    "ar": "شخصية إماراتية من أسرة الاشعري"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Abi Mussa, an Emirati figure of the Ashari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي موسى، وهو شخصية إماراتية من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "أبو موسى الأشعري (عبد الله بن قيس)، صحابي استعمله النبي محمد ﷺ على زبيد وعدن، ووُلي البصرة ثم الكوفة، وتوفي سنة ٤٤ هـ.",
+    "en": "The street carries the name Abi Mussa Al Ashari. No published biography was found, and the card claims nothing beyond the name."
+  }
 },
 {
   "id": "abi-omaia-al-ghuzary",
@@ -17242,14 +17223,13 @@ window.STREETS = [
   "ar": "شارع علي بن سيف الخاطري",
   "en": "Ali bin Saif Al Khatery Street",
   "meaning": {
-    "en": "An Emirati figure of the Khatery family",
-    "ar": "شخصية إماراتية من أسرة الخاطري"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Ali bin Saif, an Emirati figure of the Khatery family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن سيف، وهو شخصية إماراتية من أسرة الخاطري، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم علي بن سيف الخاطري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Ali bin Saif Al Khatery, which is all the record holds."
+  }
 },
 {
   "id": "hane-bin-al-hani",
@@ -17259,14 +17239,13 @@ window.STREETS = [
   "ar": "شارع هاني بن الهاني",
   "en": "Hane Bin Al Hani Street",
   "meaning": {
-    "en": "An Emirati figure of the Hani family",
-    "ar": "شخصية إماراتية من أسرة الهاني"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Hane Bin, an Emirati figure of the Hani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هاني بن، وهو شخصية إماراتية من أسرة الهاني، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم هاني بن الهاني، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Hane Bin Al Hani. No published biography was found, and the card claims nothing beyond the name."
+  }
 },
 {
   "id": "hasan-mohammad-al-tunaiji",
@@ -17336,14 +17315,13 @@ window.STREETS = [
   "ar": "شارع نضلة بن عبيد الأسلمي",
   "en": "Nadlah Bin Obied Al Aslami Street",
   "meaning": {
-    "en": "An Emirati figure of the Aslami family",
-    "ar": "شخصية إماراتية من أسرة الاسلمي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Nadlah Bin Obied, an Emirati figure of the Aslami family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم نضلة بن عبيد، وهو شخصية إماراتية من أسرة الاسلمي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم نضلة بن عبيد الأسلمي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Nadlah Bin Obied Al Aslami, which is all the record holds."
+  }
 },
 {
   "id": "rashid-mohammad-al-bloush",
@@ -30017,14 +29995,13 @@ window.STREETS = [
   "ar": "شارع ابن الأنيازي",
   "en": "Iben Al Aniazy Street",
   "meaning": {
-    "en": "An Emirati figure of the Aniazy family",
-    "ar": "شخصية إماراتية من أسرة الانيازي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Iben, an Emirati figure of the Aniazy family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابن الانيازي، وهو شخصية إماراتية من أسرة الانيازي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم ابن الأنيازي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Iben Al Aniazy. No published biography was found, and the card claims nothing beyond the name."
+  }
 },
 {
   "id": "iben-al-anyazi-street",
@@ -30034,14 +30011,13 @@ window.STREETS = [
   "ar": "شارع ابن العنيزي",
   "en": "Iben Al Anyazi Street",
   "meaning": {
-    "en": "An Emirati figure of the Anyazi family",
-    "ar": "شخصية إماراتية من أسرة العنيزي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Iben, an Emirati figure of the Anyazi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابن العنيزي، وهو شخصية إماراتية من أسرة العنيزي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم ابن العنيزي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Iben Al Anyazi. No published biography was found, and the card claims nothing beyond the name."
+  }
 },
 {
   "id": "iben-al-bilansi-street",
@@ -30051,14 +30027,13 @@ window.STREETS = [
   "ar": "شارع ابن البلنسي",
   "en": "Iben Al Bilansi Street",
   "meaning": {
-    "en": "An Emirati figure of the Bilansi family",
-    "ar": "شخصية إماراتية من أسرة البلنسي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Iben, an Emirati figure of the Bilansi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابن البلنسي، وهو شخصية إماراتية من أسرة البلنسي، ولم يُعثر على ترجمة منشورة له."
-  },
-  "refs": []
+    "ar": "يحمل الشارع اسم ابن البلنسي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
+    "en": "The street carries the name Iben Al Bilansi, which is all the record holds."
+  }
 },
 {
   "id": "iben-al-musayeb-street",
