@@ -37583,5 +37583,3845 @@ window.STREETS = [
     "ar": "«طَوي» بئر، و«مَراغ» اسمها، والاسم من أسماء المواضع. والشارع في الظَّاهْرة من مدينة أبوظبي، والبئر موضع أُخذ منه الاسم.",
     "en": "«Maragh» is the name of the well «Tawi», and the name belongs to the place names. The street lies in Al Dhahrah, in the city of Abu Dhabi, where the well gave its name."
   }
+},
+{
+  "id": "al-wadi-street",
+  "emirate": "umm-al-quwain",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع الوادي",
+  "en": "Al Wadi Street",
+  "meaning": {
+    "ar": "«الوادي»: وادٍ، مجرى سيل جاف",
+    "en": "Al Wadi: valley, dry riverbed"
+  },
+  "story": {
+    "ar": "«الوادي» وادٍ، مجرى سيل جاف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في فلج المعلا.",
+    "en": "«Al Wadi» is a valley, a dry riverbed, and the name is taken from the word itself. The name belongs to the place names that streets in the Emirate of Umm Al Quwain are named after, and the street lies in Falaj Al-Mu'alla."
+  }
+},
+{
+  "id": "wadi-al-khor-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادى الخُور",
+  "en": "Wadi Al Khor Street",
+  "meaning": {
+    "ar": "«وادى الخُور»: وادٍ عند الخور",
+    "en": "Wadi Al Khor: valley of creek"
+  },
+  "story": {
+    "ar": "«وادى» وادٍ، ومعنى اسمه «وادٍ عند الخور»؛ و«الخُور» في الاسم. والشارع يقع في الشَّوامخ من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Khor» is in the name of the wadi «Wadi»; the name means «valley of creek». The street lies in Al Shawamekh, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-abu-uwayd-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي أبوعُوَيد",
+  "en": "Wadi Abu 'Uwayd Street",
+  "meaning": {
+    "ar": "«وادِي أبوعُوَيد»: وادٍ",
+    "en": "Wadi Abu 'Uwayd: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«أبوعُوَيد» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من شوارع الخَالِدية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Abu 'Uwayd» names the site of the wadi «Wadi», not as a word to be glossed. It is one of the streets of Al Khalidiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-um-ar-rimth-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي أم الرِّمث",
+  "en": "Wadi Um Ar Rimth Street",
+  "meaning": {
+    "ar": "«وادِي أم الرِّمث»: وادٍ عند الرمث",
+    "en": "Wadi Um Ar Rimth: valley of rimth"
+  },
+  "story": {
+    "ar": "«أم الرِّمث» في اسم الوادي «وادِي»، ومعناه «وادٍ عند الرمث». والاسم يُنسب إلى موضع، والشارع في فَلَج هَزَّاع من إمارة أبوظبي.",
+    "en": "The name of the wadi «Wadi» means «valley of rimth»: «Um Ar Rimth» completes it. The name is attributed to a site, and the street lies in Falaj Hazza', in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ibnah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي إبنه",
+  "en": "Wadi Ibnah Street",
+  "meaning": {
+    "ar": "«وادِي إبنه»: وادٍ يُنسب إلى إبنه",
+    "en": "Wadi Ibnah: a valley attributed to Ibnah"
+  },
+  "story": {
+    "ar": "«إبنه» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. وتقع الشوارع التي تحمل هذا الاسم في المُشرِف بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Ibnah» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. Streets carrying this name lie in Al Mushrif, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-iydayah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي إيدَيَّة",
+  "en": "Wadi Iydayah Street",
+  "meaning": {
+    "ar": "«وادِي إيدَيَّة»: وادٍ، و«إيدَيَّة» اسمه",
+    "en": "Wadi Iydayah: a valley, and «Iydayah» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«إيدَيَّة» اسم يُنسب إليه. وهو شارع في جَرْن يَافُور، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Iydayah» is the name attributed to the wadi «Wadi». It is a street in Jarn Yafour, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-bad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي البَدع",
+  "en": "Wadi Al Bad' Street",
+  "meaning": {
+    "ar": "«وادِي البَدع»: وادٍ عند مورد ماء",
+    "en": "Wadi Al Bad': valley of water source"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» ومعناه «وادٍ عند مورد ماء»، و«البَدع» في الاسم. والشارع في الظَّاهِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Bad'» describes the wadi «Wadi»; the meaning is «valley of water source». The street lies in Al Dhahir, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-bday-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي البدَيع",
+  "en": "Wadi Al Bday' Street",
+  "meaning": {
+    "ar": "«وادِي البدَيع»: وادٍ",
+    "en": "Wadi Al Bday': a valley"
+  },
+  "story": {
+    "ar": "«البدَيع» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Bday'» names the site, and «Wadi» is the wadi there, a place name. The site gave its name to the street in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-barad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي البَراد",
+  "en": "Wadi Al Barad Street",
+  "meaning": {
+    "ar": "«وادِي البَراد»: وادٍ يُنسب إلى البَراد",
+    "en": "Wadi Al Barad: a valley attributed to Al Barad"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«البَراد» اسم يُنسب إليه الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في العَدلَة.",
+    "en": "«Al Barad» is the name the site is given; «Wadi» is a valley. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al 'Adlah."
+  }
+},
+{
+  "id": "wadi-al-bat-ha-a-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي البَطحاء",
+  "en": "Wadi Al Bat-ha-a Street",
+  "meaning": {
+    "ar": "«وادِي البَطحاء»: وادٍ في بطحاء واسعة",
+    "en": "Wadi Al Bat-ha-a: valley of wide valley"
+  },
+  "story": {
+    "ar": "معنى «وادِي البَطحاء» هو «وادٍ في بطحاء واسعة»؛ و«وادِي» وادٍ. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "The name «Wadi Al Bat-ha-a» means «valley of wide valley». The street lies in Al Aamerah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-beeh-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي البيح",
+  "en": "Wadi Al Beeh Street",
+  "meaning": {
+    "ar": "«وادِي البيح»: وادٍ، و«البيح» اسمه",
+    "en": "Wadi Al Beeh: a valley, and «Al Beeh» its name"
+  },
+  "story": {
+    "ar": "«البيح» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». وهو من شوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Beeh» is not a word for the dictionary but the name on the wadi «Wadi». It is one of the streets of Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-taradees-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي التَّراديس",
+  "en": "Wadi At Taradees Street",
+  "meaning": {
+    "ar": "«وادِي التَّراديس»: وادٍ",
+    "en": "Wadi At Taradees: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«التَّراديس» اسمه الذي يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في الشَّوامخ من إمارة أبوظبي.",
+    "en": "«At Taradees» is the name the wadi «Wadi» goes by. The name is attributed to a site, and the street lies in Al Shawamekh, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ath-thimayd-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الثِّمَيد",
+  "en": "Wadi Ath Thimayd Street",
+  "meaning": {
+    "ar": "«وادِي الثِّمَيد»: وادٍ عند منخفض يجتمع فيه المطر",
+    "en": "Wadi Ath Thimayd: valley of a hollow where rain gathers"
+  },
+  "story": {
+    "ar": "«الثِّمَيد» يصف الوادي «وادِي»؛ والمعنى «وادٍ عند منخفض يجتمع فيه المطر». وتقع الشوارع التي تحمل هذا الاسم في هِيلِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Ath Thimayd» in the name of the wadi «Wadi» gives it the meaning «valley of a hollow where rain gathers». Streets carrying this name lie in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-jabeeb-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الجَبيب",
+  "en": "Wadi Al Jabeeb Street",
+  "meaning": {
+    "ar": "«وادِي الجَبيب»: وادٍ يُنسب إلى الجَبيب",
+    "en": "Wadi Al Jabeeb: a valley attributed to Al Jabeeb"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الجَبيب» اسم للموضع لا للكلمة. وهو شارع في الهِيَر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al Jabeeb» belongs to the site of «Wadi» as a name, not a word. It is a street in Al Hiyar, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-jard-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الجرد",
+  "en": "Wadi Al Jard Street",
+  "meaning": {
+    "ar": "«وادِي الجرد»: وادٍ، و«الجرد» اسمه",
+    "en": "Wadi Al Jard: a valley, and «Al Jard» its name"
+  },
+  "story": {
+    "ar": "«الجرد» اسم موضع الوادي «وادِي»، وليس كلمة تُفسَّر. والشارع في العامرة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Jard» names the site of the wadi «Wadi» and is not a word to be glossed. The street lies in Al Aamerah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-jazeerah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الجَزيرة",
+  "en": "Wadi Al Jazeerah Street",
+  "meaning": {
+    "ar": "«وادِي الجَزيرة»: وادٍ عند الجزيرة",
+    "en": "Wadi Al Jazeerah: valley of island"
+  },
+  "story": {
+    "ar": "الاسم «وادِي الجَزيرة» ومعناه «وادٍ عند الجزيرة». وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "A valley named «Wadi Al Jazeerah» — its meaning: «valley of island». The site gave its name to the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hassi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحاسِي",
+  "en": "Wadi Al Hassi Street",
+  "meaning": {
+    "ar": "«وادِي الحاسِي»: وادٍ",
+    "en": "Wadi Al Hassi: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي الحاسِي»: وادٍ، و«الحاسِي» اسم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الظَّاهِر.",
+    "en": "«Al Hassi» completes the name of the wadi «Wadi Al Hassi» — a name, not a word. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Dhahir."
+  }
+},
+{
+  "id": "wadi-al-harrah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحَرَّة",
+  "en": "Wadi Al Harrah Street",
+  "meaning": {
+    "ar": "«وادِي الحَرَّة»: وادٍ يُنسب إلى الحَرَّة",
+    "en": "Wadi Al Harrah: a valley attributed to Al Harrah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الحَرَّة» اسمه، والاسم من أسماء المواضع. والشارع يقع في بني ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Harrah» is the name of the wadi «Wadi», and the name belongs to the place names. The street lies in Bani Yas, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hafeef-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحَفيف",
+  "en": "Wadi Al Hafeef Street",
+  "meaning": {
+    "ar": "«وادِي الحَفيف»: وادٍ، و«الحَفيف» اسمه",
+    "en": "Wadi Al Hafeef: a valley, and «Al Hafeef» its name"
+  },
+  "story": {
+    "ar": "«الحَفيف» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وهو من شوارع الحِصِن في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Hafeef» is one of the place names that the wadi «Wadi» is attributed to. It is one of the streets of Al Hisn, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-halah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحَلاه",
+  "en": "Wadi Al Halah Street",
+  "meaning": {
+    "ar": "«وادِي الحَلاه»: وادٍ",
+    "en": "Wadi Al Halah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«الحَلاه» اسم موضعه المعروف. والاسم يُنسب إلى موضع، والشارع في زاخِر من إمارة أبوظبي.",
+    "en": "«Al Halah» is the name of the site of the wadi called «Wadi». The name is attributed to a site, and the street lies in Zakhir, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hilou-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحِلُو",
+  "en": "Wadi Al Hilou Street",
+  "meaning": {
+    "ar": "«وادِي الحِلُو»: وادٍ يُنسب إلى الحِلُو",
+    "en": "Wadi Al Hilou: a valley attributed to Al Hilou"
+  },
+  "story": {
+    "ar": "«الحِلُو» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. وتقع الشوارع التي تحمل هذا الاسم في الفلاح بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al Hilou» is the wadi's name, and «Wadi» means a valley; the name is compound. Streets carrying this name lie in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hulwah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحُلوة",
+  "en": "Wadi Al Hulwah Street",
+  "meaning": {
+    "ar": "«وادِي الحُلوة»: وادٍ، و«الحُلوة» اسمه",
+    "en": "Wadi Al Hulwah: a valley, and «Al Hulwah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«الحُلوة» اسم يحمله الموضع. وهو شارع في مَزْيَد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al Hulwah» is the name the site carries; «Wadi» means a valley. It is a street in Mazyad, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hilayfiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحِلَيفِيَّة",
+  "en": "Wadi Al Hilayfiyah Street",
+  "meaning": {
+    "ar": "«وادِي الحِلَيفِيَّة»: وادٍ",
+    "en": "Wadi Al Hilayfiyah: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وادِي»، و«الحِلَيفِيَّة» اسم الموضع. والشارع في النَّهضة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Hilayfiyah» is the site name, and the wadi is called «Wadi». The street lies in Al Nahdah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hamam-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحَمام",
+  "en": "Wadi Al Hamam Street",
+  "meaning": {
+    "ar": "«وادِي الحَمام»: وادٍ يُنسب إلى الحَمام",
+    "en": "Wadi Al Hamam: a valley attributed to Al Hamam"
+  },
+  "story": {
+    "ar": "«الحَمام» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Hamam» is the name added to the wadi «Wadi», and no dictionary glosses it. The site gave its name to the street in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hawami-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحَوامي",
+  "en": "Wadi Al Hawami Street",
+  "meaning": {
+    "ar": "«وادِي الحَوامي»: وادٍ، و«الحَوامي» اسمه",
+    "en": "Wadi Al Hawami: a valley, and «Al Hawami» its name"
+  },
+  "story": {
+    "ar": "«وادِي الحَوامي» وادٍ، و«الحَوامي» اسم لا تُفسَّره المعاجم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في آل نَهيان.",
+    "en": "«Al Hawami» names the wadi «Wadi Al Hawami» and no dictionary glosses it. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Nahyan."
+  }
+},
+{
+  "id": "wadi-al-hayl-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحَيل",
+  "en": "Wadi Al Hayl Street",
+  "meaning": {
+    "ar": "«وادِي الحَيل»: وادٍ",
+    "en": "Wadi Al Hayl: a valley"
+  },
+  "story": {
+    "ar": "«الحَيل» اسم الموضع الذي فيه الوادي «وادِي»، وليس كلمة تُفسَّر. والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Hayl» is the name of the place holding the wadi «Wadi», not a word to gloss. The street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hiyayrah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحِيَيرة",
+  "en": "Wadi Al Hiyayrah Street",
+  "meaning": {
+    "ar": "«وادِي الحِيَيرة»: وادٍ يُنسب إلى الحِيَيرة",
+    "en": "Wadi Al Hiyayrah: a valley attributed to Al Hiyayrah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«الحِيَيرة» اسم علم للموضع لا يُفسَّر. وهو من شوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Hiyayrah» is a proper name for the site of the wadi «Wadi» and is not glossed. It is one of the streets of Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hayeelah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الحَيِيلة",
+  "en": "Wadi Al Hayeelah Street",
+  "meaning": {
+    "ar": "«وادِي الحَيِيلة»: وادي الحييلة، والحييلة الخديعة",
+    "en": "Wadi Al Hayeelah: valley of trickery"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ ومعنى «الحَيِيلة» فيه «وادي الحييلة، والحييلة الخديعة». والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
+    "en": "The meaning of «Al Hayeelah» in the wadi's name is «valley of trickery». The name is attributed to a site, and the street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-khirays-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الخِرَيص",
+  "en": "Wadi Al Khirays Street",
+  "meaning": {
+    "ar": "«وادِي الخِرَيص»: وادٍ، و«الخِرَيص» اسمه",
+    "en": "Wadi Al Khirays: a valley, and «Al Khirays» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الخِرَيص» يُنسب إليها اسم الموضع. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al Khirays» is the site name attributed to the wadi «Wadi». Streets carrying this name lie in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-khudr-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الخُضر",
+  "en": "Wadi Al Khudr Street",
+  "meaning": {
+    "ar": "«وادِي الخُضر»: وادٍ",
+    "en": "Wadi Al Khudr: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» في الموضع المعروف بـ«الخُضر». وهو شارع في السَّمْحة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "The wadi «Wadi» stands at the site known as «Al Khudr». It is a street in Al Samhah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-khanfariyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع واَدي الخَنفَريَّه",
+  "en": "Wadi Al Khanfariyah Street",
+  "meaning": {
+    "ar": "«واَدي الخَنفَريَّه»: وادٍ يُنسب إلى الخَنفَريَّه",
+    "en": "Wadi Al Khanfariyah: a valley attributed to Al Khanfariyah"
+  },
+  "story": {
+    "ar": "«الخَنفَريَّه» اسم موضع الوادي، و«واَدي» وادٍ من أسماء المواضع. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Khanfariyah» names the site, and «Wadi» is its wadi, one of the place names. The street lies in Mohamed Bin Zayed City, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-khayriyat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الخَيرِيات",
+  "en": "Wadi Al Khayriyat Street",
+  "meaning": {
+    "ar": "«وادِي الخَيرِيات»: وادٍ، و«الخَيرِيات» اسمه",
+    "en": "Wadi Al Khayriyat: a valley, and «Al Khayriyat» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «الخَيرِيات»، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في المُنتَزه بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Khayriyat» names the site of the wadi «Wadi» and is not a word to gloss. The site gave its name to the street in Al Muntazah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ad-daqeeqah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الدَّقيقه",
+  "en": "Wadi Ad Daqeeqah Street",
+  "meaning": {
+    "ar": "«وادِي الدَّقيقه»: وادٍ",
+    "en": "Wadi Ad Daqeeqah: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الدَّقيقه» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
+    "en": "«Ad Daqeeqah» names the site of the wadi «Wadi», not as a word to be glossed. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Falah."
+  }
+},
+{
+  "id": "wadi-ar-ras-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الرَّأس",
+  "en": "Wadi Ar Ras Street",
+  "meaning": {
+    "ar": "«وادِي الرَّأس»: وادٍ عند رأس بارز",
+    "en": "Wadi Ar Ras: valley of headland"
+  },
+  "story": {
+    "ar": "اسم مركّب: «وادِي» وادٍ، و«الرَّأس» معناه «وادٍ عند رأس بارز». والشارع يقع في مَزْيَد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "A compound name: «Wadi» is a valley, and «Ar Ras» means «valley of headland». The street lies in Mazyad, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-razqi-road",
+  "emirate": "fujairah",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادي الرازقي",
+  "en": "Wadi Al Razqi Road",
+  "meaning": {
+    "ar": "«وادي الرازقي»: وادٍ يُنسب إلى الرازقي",
+    "en": "Wadi Al Razqi: a valley attributed to Al Razqi"
+  },
+  "story": {
+    "ar": "«الرازقي» اسم الوادي «وادي»؛ و«وادي» وادٍ. وهو من شوارع صمبريد في الفجيرة، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Razqi» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. It is one of the streets of Sambraid, Fujairah."
+  }
+},
+{
+  "id": "wadi-ar-rihayb-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الرِّحَيب",
+  "en": "Wadi Ar Rihayb Street",
+  "meaning": {
+    "ar": "«وادِي الرِّحَيب»: وادٍ، و«الرِّحَيب» اسمه",
+    "en": "Wadi Ar Rihayb: a valley, and «Ar Rihayb» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«الرِّحَيب» اسم يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في عَيْن الفَايْضَة من إمارة أبوظبي.",
+    "en": "«Ar Rihayb» is the name attributed to the wadi «Wadi». The name is attributed to a site, and the street lies in Ain Al Faydah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ar-rumani-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الرُّماني",
+  "en": "Wadi Ar Rumani Street",
+  "meaning": {
+    "ar": "«وادِي الرُّماني»: وادٍ",
+    "en": "Wadi Ar Rumani: a valley"
+  },
+  "story": {
+    "ar": "«الرُّماني» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في مْبَزَّرَة الخَضْراء بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Ar Rumani» names the site, and «Wadi» is the wadi there, a place name. Streets carrying this name lie in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ar-rimaylah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الرِّمَيلة",
+  "en": "Wadi Ar Rimaylah Street",
+  "meaning": {
+    "ar": "«وادِي الرِّمَيلة»: وادٍ يُنسب إلى الرِّمَيلة",
+    "en": "Wadi Ar Rimaylah: a valley attributed to Ar Rimaylah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الرِّمَيلة» اسم يُنسب إليه الموضع. وهو شارع في هِيلِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Ar Rimaylah» is the name the site is given; «Wadi» is a valley. It is a street in Hili, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ar-rawah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الرَّواح",
+  "en": "Wadi Ar Rawah Street",
+  "meaning": {
+    "ar": "«وادِي الرَّواح»: وادٍ، و«الرَّواح» اسمه",
+    "en": "Wadi Ar Rawah: a valley, and «Ar Rawah» its name"
+  },
+  "story": {
+    "ar": "«الرَّواح» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». والشارع في الوَثْبَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Ar Rawah» is not a word for the dictionary but the name on the wadi «Wadi». The street lies in Al Wathbah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ar-roudah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الرُّوضة",
+  "en": "Wadi Ar Roudah Street",
+  "meaning": {
+    "ar": "«وادِي الرُّوضة»: وادٍ عند مروة",
+    "en": "Wadi Ar Roudah: valley of meadow"
+  },
+  "story": {
+    "ar": "«الرُّوضة» في «وادِي الرُّوضة» يعطي المعنى «وادٍ عند مروة». وهذا الموضع أخذ منه اسم الشارع في زاخِر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Ar Roudah» in the name «Wadi Ar Roudah» gives the meaning «valley of meadow». The site gave its name to the street in Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ar-riyoum-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الرِّيُوم",
+  "en": "Wadi Ar Riyoum Street",
+  "meaning": {
+    "ar": "«وادِي الرِّيُوم»: وادي الريوم، والريوم الغزلان البيضاء",
+    "en": "Wadi Ar Riyoum: valley of white gazelles"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي» ومعناه «وادي الريوم، والريوم الغزلان البيضاء» من جهة «الرِّيُوم». والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الظَّاهِر.",
+    "en": "The wadi «Wadi» has the meaning «valley of white gazelles» through «Ar Riyoum». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Dhahir."
+  }
+},
+{
+  "id": "wadi-az-zarqah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الزَّرقه",
+  "en": "Wadi Az Zarqah Street",
+  "meaning": {
+    "ar": "«وادِي الزَّرقه»: وادٍ",
+    "en": "Wadi Az Zarqah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«الزَّرقه» اسمه الذي يُنسب إليه. والشارع يقع في الدَّانَةْ من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Az Zarqah» is the name the wadi «Wadi» goes by. The street lies in Al Danah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-sidr-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّدر",
+  "en": "Wadi As Sidr Street",
+  "meaning": {
+    "ar": "«وادِي السِّدر»: وادٍ يُنسب إلى السِّدر",
+    "en": "Wadi As Sidr: a valley attributed to As Sidr"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«السِّدر» اسم للموضع لا للكلمة. وهو من شوارع العامرة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«As Sidr» belongs to the site of «Wadi» as a name, not a word. It is one of the streets of Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-sara-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السَّرَى",
+  "en": "Wadi As Sara Street",
+  "meaning": {
+    "ar": "«وادِي السَّرَى»: وادٍ، و«السَّرَى» اسمه",
+    "en": "Wadi As Sara: a valley, and «As Sara» its name"
+  },
+  "story": {
+    "ar": "«السَّرَى» اسم موضع الوادي «وادِي»، وليس كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في الزَّاهية من إمارة أبوظبي.",
+    "en": "«As Sara» names the site of the wadi «Wadi» and is not a word to be glossed. The name is attributed to a site, and the street lies in Al Zahiyah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-si-fah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّعفه",
+  "en": "Wadi As Si'fah Street",
+  "meaning": {
+    "ar": "«وادِي السِّعفه»: وادٍ عند سعفة النخل",
+    "en": "Wadi As Si'fah: valley of palm frond"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، ومعنى اسمه «وادٍ عند سعفة النخل»؛ و«السِّعفه» في الاسم. وتقع الشوارع التي تحمل هذا الاسم في مْبَزَّرَة الخَضْراء بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«As Si'fah» is in the name of the wadi «Wadi»; the name means «valley of palm frond». Streets carrying this name lie in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-si-annah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّعَنَّة",
+  "en": "Wadi As Si'annah Street",
+  "meaning": {
+    "ar": "«وادِي السِّعَنَّة»: وادٍ",
+    "en": "Wadi As Si'annah: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي السِّعَنَّة»: وادٍ، و«السِّعَنَّة» اسم. وهو شارع في المُشرِف، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«As Si'annah» completes the name of the wadi «Wadi As Si'annah» — a name, not a word. It is a street in Al Mushrif, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-si-een-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّعِين",
+  "en": "Wadi As Si'een Street",
+  "meaning": {
+    "ar": "«وادِي السِّعِين»: وادٍ يُنسب إلى السِّعِين",
+    "en": "Wadi As Si'een: a valley attributed to As Si'een"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«السِّعِين» اسمه، والاسم من أسماء المواضع. والشارع في جَرْن يَافُور، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«As Si'een» is the name of the wadi «Wadi», and the name belongs to the place names. The street lies in Jarn Yafour, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-silat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّلات",
+  "en": "Wadi As Silat Street",
+  "meaning": {
+    "ar": "«وادِي السِّلات»: وادٍ، و«السِّلات» اسمه",
+    "en": "Wadi As Silat: a valley, and «As Silat» its name"
+  },
+  "story": {
+    "ar": "«السِّلات» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«As Silat» is one of the place names that the wadi «Wadi» is attributed to. The site gave its name to the street in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-siloul-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّلُول",
+  "en": "Wadi As Siloul Street",
+  "meaning": {
+    "ar": "«وادِي السِّلُول»: وادٍ",
+    "en": "Wadi As Siloul: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«السِّلُول» اسم موضعه المعروف. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
+    "en": "«As Siloul» is the name of the site of the wadi called «Wadi». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Falah."
+  }
+},
+{
+  "id": "wadi-as-sileel-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّلِيل",
+  "en": "Wadi As Sileel Street",
+  "meaning": {
+    "ar": "«وادِي السِّلِيل»: وادٍ يُنسب إلى السِّلِيل",
+    "en": "Wadi As Sileel: a valley attributed to As Sileel"
+  },
+  "story": {
+    "ar": "«السِّلِيل» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«As Sileel» is the wadi's name, and «Wadi» means a valley; the name is compound. The street lies in Al Aamerah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-silaymi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّلَيمِي",
+  "en": "Wadi As Silaymi Street",
+  "meaning": {
+    "ar": "«وادِي السِّلَيمِي»: وادٍ، و«السِّلَيمِي» اسمه",
+    "en": "Wadi As Silaymi: a valley, and «As Silaymi» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«السِّلَيمِي» اسم يحمله الموضع. وهو من شوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«As Silaymi» is the name the site carries; «Wadi» means a valley. It is one of the streets of Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-silaymi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وَادِي السِّلَيْمِي",
+  "en": "Wadi Al Silaymi Street",
+  "meaning": {
+    "ar": "«وَادِي السِّلَيْمِي»: وادٍ",
+    "en": "Wadi Al Silaymi: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وَادِي»، و«السِّلَيْمِي» اسم الموضع. والاسم يُنسب إلى موضع، والشارع في المَرْخَانِيَّة من إمارة أبوظبي.",
+    "en": "«Al Silaymi» is the site name, and the wadi is called «Wadi». The name is attributed to a site, and the street lies in Al Markhaniyyah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-silayah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّلَيَّه",
+  "en": "Wadi As Silayah Street",
+  "meaning": {
+    "ar": "«وادِي السِّلَيَّه»: وادٍ يُنسب إلى السِّلَيَّه",
+    "en": "Wadi As Silayah: a valley attributed to As Silayah"
+  },
+  "story": {
+    "ar": "«السِّلَيَّه» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. وتقع الشوارع التي تحمل هذا الاسم في السَّمْحة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«As Silayah» is the name added to the wadi «Wadi», and no dictionary glosses it. Streets carrying this name lie in Al Samhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-samr-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السَّمر",
+  "en": "Wadi As Samr Street",
+  "meaning": {
+    "ar": "«وادِي السَّمر»: وادٍ، و«السَّمر» اسمه",
+    "en": "Wadi As Samr: a valley, and «As Samr» its name"
+  },
+  "story": {
+    "ar": "«وادِي السَّمر» وادٍ، و«السَّمر» اسم لا تُفسَّره المعاجم. وهو شارع في السِّلَع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«As Samr» names the wadi «Wadi As Samr» and no dictionary glosses it. It is a street in Al Sila', the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-samr-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وَادِي السَّمْر",
+  "en": "Wadi Al Samr Street",
+  "meaning": {
+    "ar": "«وَادِي السَّمْر»: وادٍ",
+    "en": "Wadi Al Samr: a valley"
+  },
+  "story": {
+    "ar": "«السَّمْر» اسم الموضع الذي فيه الوادي «وَادِي»، وليس كلمة تُفسَّر. والشارع في عَشَارِج، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Samr» is the name of the place holding the wadi «Wadi», not a word to gloss. The street lies in 'Asharij, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-sour-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السُّور",
+  "en": "Wadi As Sour Street",
+  "meaning": {
+    "ar": "«وادِي السُّور»: وادٍ يُنسب إلى السُّور",
+    "en": "Wadi As Sour: a valley attributed to As Sour"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«السُّور» اسم علم للموضع لا يُفسَّر. وهذا الموضع أخذ منه اسم الشارع في المَنهَل بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«As Sour» is a proper name for the site of the wadi «Wadi» and is not glossed. The site gave its name to the street in Al Manhal, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-siwaydah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّوَيده",
+  "en": "Wadi As Siwaydah Street",
+  "meaning": {
+    "ar": "«وادِي السِّوَيده»: وادٍ، و«السِّوَيده» اسمه",
+    "en": "Wadi As Siwaydah: a valley, and «As Siwaydah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«السِّوَيده» يُنسب إليها اسم الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
+    "en": "«As Siwaydah» is the site name attributed to the wadi «Wadi». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "wadi-as-seeji-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي السِّيجي",
+  "en": "Wadi As Seeji Street",
+  "meaning": {
+    "ar": "«وادِي السِّيجي»: وادٍ",
+    "en": "Wadi As Seeji: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» في الموضع المعروف بـ«السِّيجي». والشارع يقع في جَرْن يَافُور من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "The wadi «Wadi» stands at the site known as «As Seeji». The street lies in Jarn Yafour, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ash-sharayat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الشَّرَيَّات",
+  "en": "Wadi Ash Sharayat Street",
+  "meaning": {
+    "ar": "«وادِي الشَّرَيَّات»: وادٍ يُنسب إلى الشَّرَيَّات",
+    "en": "Wadi Ash Sharayat: a valley attributed to Ash Sharayat"
+  },
+  "story": {
+    "ar": "«الشَّرَيَّات» اسم موضع الوادي، و«وادِي» وادٍ من أسماء المواضع. وهو من شوارع الظَّاهِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Ash Sharayat» names the site, and «Wadi» is its wadi, one of the place names. It is one of the streets of Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ash-shas-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الشَّص",
+  "en": "Wadi Ash Shas Street",
+  "meaning": {
+    "ar": "«وادِي الشَّص»: وادٍ، و«الشَّص» اسمه",
+    "en": "Wadi Ash Shas: a valley, and «Ash Shas» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «الشَّص»، وليس كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في النَّهضة من إمارة أبوظبي.",
+    "en": "«Ash Shas» names the site of the wadi «Wadi» and is not a word to gloss. The name is attributed to a site, and the street lies in Al Nahdah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ash-shi-ab-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الشعاب",
+  "en": "Wadi Ash Shi'ab Street",
+  "meaning": {
+    "ar": "«وادِي الشعاب»: وادٍ عند الأشعاب",
+    "en": "Wadi Ash Shi'ab: valley of gullies"
+  },
+  "story": {
+    "ar": "«الشعاب» في اسم الوادي «وادِي»، ومعناه «وادٍ عند الأشعاب». وتقع الشوارع التي تحمل هذا الاسم في آل نَهيان بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "The name of the wadi «Wadi» means «valley of gullies»: «Ash Shi'ab» completes it. Streets carrying this name lie in Al Nahyan, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ash-shuway-i-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الشُّوَيعِي",
+  "en": "Wadi Ash Shuway'i Street",
+  "meaning": {
+    "ar": "«وادِي الشُّوَيعِي»: وادٍ",
+    "en": "Wadi Ash Shuway'i: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الشُّوَيعِي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو شارع في السَّعادة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Ash Shuway'i» names the site of the wadi «Wadi», not as a word to be glossed. It is a street in Al Sa'adah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ash-shiwayn-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الشِّوَين",
+  "en": "Wadi Ash Shiwayn Street",
+  "meaning": {
+    "ar": "«وادِي الشِّوَين»: وادٍ يُنسب إلى الشِّوَين",
+    "en": "Wadi Ash Shiwayn: a valley attributed to Ash Shiwayn"
+  },
+  "story": {
+    "ar": "«الشِّوَين» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. والشارع في مدينة زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Ash Shiwayn» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. The street lies in Zayed City, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-safa-street",
+  "emirate": "dubai",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادي الصفا",
+  "en": "Wadi Al Safa Street",
+  "meaning": {
+    "ar": "«وادي الصفا»: وادٍ عند صخر صلب أملس",
+    "en": "Wadi Al Safa: valley of smooth hard rock"
+  },
+  "story": {
+    "ar": "وادٍ «وادي» ومعناه «وادٍ عند صخر صلب أملس»، و«الصفا» في الاسم. وهذا الموضع أخذ منه اسم الشارع في وادي الصفا 6 بإمارة دبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Safa» describes the wadi «Wadi»; the meaning is «valley of smooth hard rock». The site gave its name to the street in Wadi Al Safa 6, Dubai."
+  }
+},
+{
+  "id": "wadi-as-safa-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الصَّفا",
+  "en": "Wadi As Safa Street",
+  "meaning": {
+    "ar": "«وادِي الصَّفا»: وادٍ عند صخر صلب أملس",
+    "en": "Wadi As Safa: valley of smooth hard rock"
+  },
+  "story": {
+    "ar": "معنى «وادِي الصَّفا» هو «وادٍ عند صخر صلب أملس»؛ و«وادِي» وادٍ. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الزَّاهية.",
+    "en": "The name «Wadi As Safa» means «valley of smooth hard rock». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Zahiyah."
+  }
+},
+{
+  "id": "wadi-as-saffari-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الصَّفَّاري",
+  "en": "Wadi As Saffari Street",
+  "meaning": {
+    "ar": "«وادِي الصَّفَّاري»: وادٍ، و«الصَّفَّاري» اسمه",
+    "en": "Wadi As Saffari: a valley, and «As Saffari» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«الصَّفَّاري» اسم يُنسب إليه. والشارع يقع في الوَثْبَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«As Saffari» is the name attributed to the wadi «Wadi». The street lies in Al Wathbah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-safsaf-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الصَّفصَف",
+  "en": "Wadi As Safsaf Street",
+  "meaning": {
+    "ar": "«وادِي الصَّفصَف»: وادٍ",
+    "en": "Wadi As Safsaf: a valley"
+  },
+  "story": {
+    "ar": "«الصَّفصَف» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. وهو من شوارع الوَثْبَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«As Safsaf» names the site, and «Wadi» is the wadi there, a place name. It is one of the streets of Al Wathbah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-sallah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الصَّلَّة",
+  "en": "Wadi As Sallah Street",
+  "meaning": {
+    "ar": "«وادِي الصَّلَّة»: وادٍ يُنسب إلى الصَّلَّة",
+    "en": "Wadi As Sallah: a valley attributed to As Sallah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الصَّلَّة» اسم يُنسب إليه الموضع. والاسم يُنسب إلى موضع، والشارع في الهِيَر من إمارة أبوظبي.",
+    "en": "«As Sallah» is the name the site is given; «Wadi» is a valley. The name is attributed to a site, and the street lies in Al Hiyar, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-as-silayhah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الصِّليحه",
+  "en": "Wadi As Silayhah Street",
+  "meaning": {
+    "ar": "«وادِي الصِّليحه»: وادٍ، و«الصِّليحه» اسمه",
+    "en": "Wadi As Silayhah: a valley, and «As Silayhah» its name"
+  },
+  "story": {
+    "ar": "«الصِّليحه» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». وتقع الشوارع التي تحمل هذا الاسم في البطين بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«As Silayhah» is not a word for the dictionary but the name on the wadi «Wadi». Streets carrying this name lie in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ad-dab-iyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الضَّبعيَّه",
+  "en": "Wadi Ad Dab'iyah Street",
+  "meaning": {
+    "ar": "«وادِي الضَّبعيَّه»: وادٍ",
+    "en": "Wadi Ad Dab'iyah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«الضَّبعيَّه» اسمه الذي يُنسب إليه. وهو شارع في عَيْن الفَايْضَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Ad Dab'iyah» is the name the wadi «Wadi» goes by. It is a street in Ain Al Faydah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-tabnah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الطَّابنة",
+  "en": "Wadi At Tabnah Street",
+  "meaning": {
+    "ar": "«وادِي الطَّابنة»: وادٍ يُنسب إلى الطَّابنة",
+    "en": "Wadi At Tabnah: a valley attributed to At Tabnah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الطَّابنة» اسم للموضع لا للكلمة. والشارع في حَدْبَة الزَّعْفَرَانَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«At Tabnah» belongs to the site of «Wadi» as a name, not a word. The street lies in Hadbat Al Za'faranah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-taraf-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع واَدي الطرَف",
+  "en": "Wadi At Taraf Street",
+  "meaning": {
+    "ar": "«واَدي الطرَف»: وادٍ، و«الطرَف» اسمه",
+    "en": "Wadi At Taraf: a valley, and «At Taraf» its name"
+  },
+  "story": {
+    "ar": "«الطرَف» اسم موضع الوادي «واَدي»، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«At Taraf» names the site of the wadi «Wadi» and is not a word to be glossed. The site gave its name to the street in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-tila-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الطِّلاعة",
+  "en": "Wadi At Tila'ah Street",
+  "meaning": {
+    "ar": "«وادِي الطِّلاعة»: وادٍ",
+    "en": "Wadi At Tila'ah: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي الطِّلاعة»: وادٍ، و«الطِّلاعة» اسم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
+    "en": "«At Tila'ah» completes the name of the wadi «Wadi At Tila'ah» — a name, not a word. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Falah."
+  }
+},
+{
+  "id": "wadi-at-tuwa-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الطُّوَى",
+  "en": "Wadi At Tuwa Street",
+  "meaning": {
+    "ar": "«وادِي الطُّوَى»: وادٍ عند بئر",
+    "en": "Wadi At Tuwa: valley of a well"
+  },
+  "story": {
+    "ar": "«الطُّوَى» يصف الوادي «وادِي»؛ والمعنى «وادٍ عند بئر». والشارع يقع في بني ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«At Tuwa» in the name of the wadi «Wadi» gives it the meaning «valley of a well». The street lies in Bani Yas, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-tuwayib-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الطُّوَيِّب",
+  "en": "Wadi At Tuwayib Street",
+  "meaning": {
+    "ar": "«وادِي الطُّوَيِّب»: وادٍ يُنسب إلى الطُّوَيِّب",
+    "en": "Wadi At Tuwayib: a valley attributed to At Tuwayib"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الطُّوَيِّب» اسمه، والاسم من أسماء المواضع. وهو من شوارع العَراد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«At Tuwayib» is the name of the wadi «Wadi», and the name belongs to the place names. It is one of the streets of Al 'Arad, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-tiwayah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الطِّوَيَّة",
+  "en": "Wadi At Tiwayah Street",
+  "meaning": {
+    "ar": "«وادِي الطِّوَيَّة»: وادٍ عند بئر صغيرة",
+    "en": "Wadi At Tiwayah: valley of a small well"
+  },
+  "story": {
+    "ar": "الاسم «وادِي الطِّوَيَّة» ومعناه «وادٍ عند بئر صغيرة». والاسم يُنسب إلى موضع، والشارع في الطِّوَيَّة من إمارة أبوظبي.",
+    "en": "A valley named «Wadi At Tiwayah» — its meaning: «valley of a small well». The name is attributed to a site, and the street lies in Al Tiwayya, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-tiwaysah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الطّوَيسه",
+  "en": "Wadi At Tiwaysah Street",
+  "meaning": {
+    "ar": "«وادِي الطّوَيسه»: وادٍ، و«الطّوَيسه» اسمه",
+    "en": "Wadi At Tiwaysah: a valley, and «At Tiwaysah» its name"
+  },
+  "story": {
+    "ar": "«الطّوَيسه» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في المَسْعُودِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«At Tiwaysah» is one of the place names that the wadi «Wadi» is attributed to. Streets carrying this name lie in Al Mas'oudi, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-at-tawyayn-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الطَّويَين",
+  "en": "Wadi At Tawyayn Street",
+  "meaning": {
+    "ar": "«وادِي الطَّويَين»: وادٍ عند الآبار",
+    "en": "Wadi At Tawyayn: valley of wells"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ ومعنى «الطَّويَين» فيه «وادٍ عند الآبار». وهو شارع في العامرة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "The meaning of «At Tawyayn» in the wadi's name is «valley of wells». It is a street in Al Aamerah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-adh-dhahir-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الظَّاهر",
+  "en": "Wadi Adh Dhahir Street",
+  "meaning": {
+    "ar": "«وادِي الظَّاهر»: وادٍ",
+    "en": "Wadi Adh Dhahir: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«الظَّاهر» اسم موضعه المعروف. والشارع في الظَّاهِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Adh Dhahir» is the name of the site of the wadi called «Wadi». The street lies in Al Dhahir, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-amah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العامة",
+  "en": "Wadi Al 'Amah Street",
+  "meaning": {
+    "ar": "«وادِي العامة»: وادٍ يُنسب إلى العامة",
+    "en": "Wadi Al 'Amah: a valley attributed to Al 'Amah"
+  },
+  "story": {
+    "ar": "«العامة» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. وهذا الموضع أخذ منه اسم الشارع في الشِّوَيْب بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al 'Amah» is the wadi's name, and «Wadi» means a valley; the name is compound. The site gave its name to the street in Al Shiwayb, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-amah-street-2",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العامة",
+  "en": "Wadi Al Amah Street",
+  "meaning": {
+    "ar": "«وادِي العامة»: وادٍ، و«العامة» اسمه",
+    "en": "Wadi Al Amah: a valley, and «Al Amah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«العامة» اسم يحمله الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّوامخ.",
+    "en": "«Al Amah» is the name the site carries; «Wadi» means a valley. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Shawamekh."
+  }
+},
+{
+  "id": "wadi-al-amid-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العامِد",
+  "en": "Wadi Al 'Amid Street",
+  "meaning": {
+    "ar": "«وادِي العامِد»: وادٍ",
+    "en": "Wadi Al 'Amid: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وادِي»، و«العامِد» اسم الموضع. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al 'Amid» is the site name, and the wadi is called «Wadi». The street lies in Al Aamerah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-ijayli-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العِجَيلِي",
+  "en": "Wadi Al 'Ijayli Street",
+  "meaning": {
+    "ar": "«وادِي العِجَيلِي»: وادٍ يُنسب إلى العِجَيلِي",
+    "en": "Wadi Al 'Ijayli: a valley attributed to Al 'Ijayli"
+  },
+  "story": {
+    "ar": "«العِجَيلِي» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. وهو من شوارع مدينة شخبوط في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al 'Ijayli» is the name added to the wadi «Wadi», and no dictionary glosses it. It is one of the streets of Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-asum-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العَصُم",
+  "en": "Wadi Al 'Asum Street",
+  "meaning": {
+    "ar": "«وادِي العَصُم»: وادٍ، و«العَصُم» اسمه",
+    "en": "Wadi Al 'Asum: a valley, and «Al 'Asum» its name"
+  },
+  "story": {
+    "ar": "«وادِي العَصُم» وادٍ، و«العَصُم» اسم لا تُفسَّره المعاجم. والاسم يُنسب إلى موضع، والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
+    "en": "«Al 'Asum» names the wadi «Wadi Al 'Asum» and no dictionary glosses it. The name is attributed to a site, and the street lies in Mbazzarah Al Khadra, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-iqab-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العقاب",
+  "en": "Wadi Al 'Iqab Street",
+  "meaning": {
+    "ar": "«وادِي العقاب»: وادٍ عند ممر جبلي",
+    "en": "Wadi Al 'Iqab: valley of mountain pass"
+  },
+  "story": {
+    "ar": "اسم مركّب: «وادِي» وادٍ، و«العقاب» معناه «وادٍ عند ممر جبلي». وتقع الشوارع التي تحمل هذا الاسم في بني ياس بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "A compound name: «Wadi» is a valley, and «Al 'Iqab» means «valley of mountain pass». Streets carrying this name lie in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-iqbah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العِقبة",
+  "en": "Wadi Al 'Iqbah Street",
+  "meaning": {
+    "ar": "«وادِي العِقبة»: وادٍ عند ممر جبلي",
+    "en": "Wadi Al 'Iqbah: valley of mountain pass"
+  },
+  "story": {
+    "ar": "«العِقبة» في «وادِي العِقبة» يعطي المعنى «وادٍ عند ممر جبلي». وهو شارع في بني ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al 'Iqbah» in the name «Wadi Al 'Iqbah» gives the meaning «valley of mountain pass». It is a street in Bani Yas, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-alaq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العَلَق",
+  "en": "Wadi Al 'Alaq Street",
+  "meaning": {
+    "ar": "«وادِي العَلَق»: وادٍ",
+    "en": "Wadi Al 'Alaq: a valley"
+  },
+  "story": {
+    "ar": "«العَلَق» اسم الموضع الذي فيه الوادي «وادِي»، وليس كلمة تُفسَّر. والشارع في مْبَزَّرَة الخَضْراء، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al 'Alaq» is the name of the place holding the wadi «Wadi», not a word to gloss. The street lies in Mbazzarah Al Khadra, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-imayiq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العمَيِّق",
+  "en": "Wadi Al 'Imayiq Street",
+  "meaning": {
+    "ar": "«وادِي العمَيِّق»: وادٍ يُنسب إلى العمَيِّق",
+    "en": "Wadi Al 'Imayiq: a valley attributed to Al 'Imayiq"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«العمَيِّق» اسم علم للموضع لا يُفسَّر. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al 'Imayiq» is a proper name for the site of the wadi «Wadi» and is not glossed. The site gave its name to the street in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-iwaynah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العِوَينة",
+  "en": "Wadi Al 'Iwaynah Street",
+  "meaning": {
+    "ar": "«وادِي العِوَينة»: وادٍ، و«العِوَينة» اسمه",
+    "en": "Wadi Al 'Iwaynah: a valley, and «Al 'Iwaynah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«العِوَينة» يُنسب إليها اسم الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المُنتَزه.",
+    "en": "«Al 'Iwaynah» is the site name attributed to the wadi «Wadi». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Muntazah."
+  }
+},
+{
+  "id": "wadi-al-eedan-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العِيدان",
+  "en": "Wadi Al 'Eedan Street",
+  "meaning": {
+    "ar": "«وادِي العِيدان»: وادٍ عند الأغصان",
+    "en": "Wadi Al 'Eedan: valley of branches"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي» ومعناه «وادٍ عند الأغصان» من جهة «العِيدان». والشارع يقع في نِعْمة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "The wadi «Wadi» has the meaning «valley of branches» through «Al 'Eedan». The street lies in Ni'mah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-aymah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العَيمة",
+  "en": "Wadi Al 'Aymah Street",
+  "meaning": {
+    "ar": "«وادِي العَيمة»: وادٍ",
+    "en": "Wadi Al 'Aymah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» في الموضع المعروف بـ«العَيمة». وهو من شوارع الهِيَر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "The wadi «Wadi» stands at the site known as «Al 'Aymah». It is one of the streets of Al Hiyar, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-ain-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وَادِي العين",
+  "en": "Wadi Al 'Ain Street",
+  "meaning": {
+    "ar": "«وَادِي العين»: وادٍ عند نبع",
+    "en": "Wadi Al 'Ain: valley of spring"
+  },
+  "story": {
+    "ar": "«وَادِي» وادٍ، ومعنى اسمه «وادٍ عند نبع»؛ و«العين» في الاسم. والاسم يُنسب إلى موضع، والشارع في المَرْخَانِيَّة من إمارة أبوظبي.",
+    "en": "«Al 'Ain» is in the name of the wadi «Wadi»; the name means «valley of spring». The name is attributed to a site, and the street lies in Al Markhaniyyah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-iyaynah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي العيينه",
+  "en": "Wadi Al 'Iyaynah Street",
+  "meaning": {
+    "ar": "«وادِي العيينه»: وادٍ يُنسب إلى العيينه",
+    "en": "Wadi Al 'Iyaynah: a valley attributed to Al 'Iyaynah"
+  },
+  "story": {
+    "ar": "«العيينه» اسم موضع الوادي، و«وادِي» وادٍ من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في مدينة زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al 'Iyaynah» names the site, and «Wadi» is its wadi, one of the place names. Streets carrying this name lie in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-ghaf-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الغاف",
+  "en": "Wadi Al Ghaf Street",
+  "meaning": {
+    "ar": "«وادِي الغاف»: وادٍ عند شجرة الغاف",
+    "en": "Wadi Al Ghaf: valley of ghaf tree"
+  },
+  "story": {
+    "ar": "«الغاف» في اسم الوادي «وادِي»، ومعناه «وادٍ عند شجرة الغاف». وهو شارع في السَّمْحة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "The name of the wadi «Wadi» means «valley of ghaf tree»: «Al Ghaf» completes it. It is a street in Al Samhah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-ghabam-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الغَبَم",
+  "en": "Wadi Al Ghabam Street",
+  "meaning": {
+    "ar": "«وادِي الغَبَم»: وادٍ، و«الغَبَم» اسمه",
+    "en": "Wadi Al Ghabam: a valley, and «Al Ghabam» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «الغَبَم»، وليس كلمة تُفسَّر. والشارع في نَاهِل، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Ghabam» names the site of the wadi «Wadi» and is not a word to gloss. The street lies in Nahil, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-ghabbah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الغَبَّه",
+  "en": "Wadi Al Ghabbah Street",
+  "meaning": {
+    "ar": "«وادِي الغَبَّه»: وادٍ",
+    "en": "Wadi Al Ghabbah: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الغَبَّه» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في مَزْيَد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Ghabbah» names the site of the wadi «Wadi», not as a word to be glossed. The site gave its name to the street in Mazyad, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-gharbi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الغَربي",
+  "en": "Wadi Al Gharbi Street",
+  "meaning": {
+    "ar": "«وادِي الغَربي»: وادٍ يُنسب إلى الغَربي",
+    "en": "Wadi Al Gharbi: a valley attributed to Al Gharbi"
+  },
+  "story": {
+    "ar": "«الغَربي» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في عَيْن الفَايْضَة.",
+    "en": "«Al Gharbi» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Ain Al Faydah."
+  }
+},
+{
+  "id": "wadi-al-ghazeer-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الغَزير",
+  "en": "Wadi Al Ghazeer Street",
+  "meaning": {
+    "ar": "«وادِي الغَزير»: وادٍ، و«الغَزير» اسمه",
+    "en": "Wadi Al Ghazeer: a valley, and «Al Ghazeer» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«الغَزير» اسم يُنسب إليه. والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Ghazeer» is the name attributed to the wadi «Wadi». The street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-ghashbah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الغَشبة",
+  "en": "Wadi Al Ghashbah Street",
+  "meaning": {
+    "ar": "«وادِي الغَشبة»: وادٍ",
+    "en": "Wadi Al Ghashbah: a valley"
+  },
+  "story": {
+    "ar": "«الغَشبة» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. وهو من شوارع الروضة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Ghashbah» names the site, and «Wadi» is the wadi there, a place name. It is one of the streets of Al Rawdah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-ghayl-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الغَيل",
+  "en": "Wadi Al Ghayl Street",
+  "meaning": {
+    "ar": "«وادِي الغَيل»: وادٍ يبقى فيه ماء السيل",
+    "en": "Wadi Al Ghayl: valley of water left in the wadi bed after the flood has passed"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» ومعناه «وادٍ يبقى فيه ماء السيل»، و«الغَيل» في الاسم. والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
+    "en": "«Al Ghayl» describes the wadi «Wadi»; the meaning is «valley of water left in the wadi bed after the flood has passed». The name is attributed to a site, and the street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-faydah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الفايضة",
+  "en": "Wadi Al Faydah Street",
+  "meaning": {
+    "ar": "«وادِي الفايضة»: وادٍ يُنسب إلى الفايضة",
+    "en": "Wadi Al Faydah: a valley attributed to Al Faydah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الفايضة» اسم يُنسب إليه الموضع. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al Faydah» is the name the site is given; «Wadi» is a valley. Streets carrying this name lie in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-fayah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الفايه",
+  "en": "Wadi Al Fayah Street",
+  "meaning": {
+    "ar": "«وادِي الفايه»: وادٍ في أرض رملية ذات كثبان",
+    "en": "Wadi Al Fayah: valley of a desert tract with sand hills"
+  },
+  "story": {
+    "ar": "معنى «وادِي الفايه» هو «وادٍ في أرض رملية ذات كثبان»؛ و«وادِي» وادٍ. وهو شارع في الساد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "The name «Wadi Al Fayah» means «valley of a desert tract with sand hills». It is a street in Al Sad, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-farayid-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الفَرايد",
+  "en": "Wadi Al Farayid Street",
+  "meaning": {
+    "ar": "«وادِي الفَرايد»: وادٍ، و«الفَرايد» اسمه",
+    "en": "Wadi Al Farayid: a valley, and «Al Farayid» its name"
+  },
+  "story": {
+    "ar": "«الفَرايد» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Farayid» is not a word for the dictionary but the name on the wadi «Wadi». The street lies in Mohamed Bin Zayed City, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-farfar-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الفَرفار",
+  "en": "Wadi Al Farfar Street",
+  "meaning": {
+    "ar": "«وادِي الفَرفار»: وادٍ",
+    "en": "Wadi Al Farfar: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«الفَرفار» اسمه الذي يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Farfar» is the name the wadi «Wadi» goes by. The site gave its name to the street in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-filay-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الفِلَي",
+  "en": "Wadi Al Filay Street",
+  "meaning": {
+    "ar": "«وادِي الفِلَي»: وادٍ يُنسب إلى الفِلَي",
+    "en": "Wadi Al Filay: a valley attributed to Al Filay"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«الفِلَي» اسم للموضع لا للكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
+    "en": "«Al Filay» belongs to the site of «Wadi» as a name, not a word. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "wadi-al-fay-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الفَي",
+  "en": "Wadi Al Fay Street",
+  "meaning": {
+    "ar": "«وادِي الفَي»: وادي الظل",
+    "en": "Wadi Al Fay: valley of shade"
+  },
+  "story": {
+    "ar": "«الفَي» يصف الوادي «وادِي»؛ والمعنى «وادي الظل». والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Fay» in the name of the wadi «Wadi» gives it the meaning «valley of shade». The street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-qura-street",
+  "emirate": "sharjah",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادي القرة",
+  "en": "Wadi Al Qura Street",
+  "meaning": {
+    "ar": "«وادي القرة»: وادٍ، و«القرة» اسمه",
+    "en": "Wadi Al Qura: a valley, and «Al Qura» its name"
+  },
+  "story": {
+    "ar": "«القرة» اسم موضع الوادي «وادي»، وليس كلمة تُفسَّر. وهو من شوارع الرقة في الشارقة، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Qura» names the site of the wadi «Wadi» and is not a word to be glossed. It is one of the streets of Al Riqqa, Sharjah."
+  }
+},
+{
+  "id": "wadi-al-qara-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي القَرَى",
+  "en": "Wadi Al Qara Street",
+  "meaning": {
+    "ar": "«وادِي القَرَى»: وادٍ",
+    "en": "Wadi Al Qara: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي القَرَى»: وادٍ، و«القَرَى» اسم. والاسم يُنسب إلى موضع، والشارع في النَّهضة من إمارة أبوظبي.",
+    "en": "«Al Qara» completes the name of the wadi «Wadi Al Qara» — a name, not a word. The name is attributed to a site, and the street lies in Al Nahdah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-qirayih-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي القرَيِّح",
+  "en": "Wadi Al Qirayih Street",
+  "meaning": {
+    "ar": "«وادِي القرَيِّح»: وادٍ يُنسب إلى القرَيِّح",
+    "en": "Wadi Al Qirayih: a valley attributed to Al Qirayih"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«القرَيِّح» اسمه، والاسم من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في مْبَزَّرَة الخَضْراء بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al Qirayih» is the name of the wadi «Wadi», and the name belongs to the place names. Streets carrying this name lie in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-qisays-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي القسَيس",
+  "en": "Wadi Al Qisays Street",
+  "meaning": {
+    "ar": "«وادِي القسَيس»: وادٍ، و«القسَيس» اسمه",
+    "en": "Wadi Al Qisays: a valley, and «Al Qisays» its name"
+  },
+  "story": {
+    "ar": "«القسَيس» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وهو شارع في زاخِر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al Qisays» is one of the place names that the wadi «Wadi» is attributed to. It is a street in Zakhir, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-qillah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي القلَّه",
+  "en": "Wadi Al Qillah Street",
+  "meaning": {
+    "ar": "«وادِي القلَّه»: وادٍ عند تلّ حجري بارز في أرض مسطحة",
+    "en": "Wadi Al Qillah: valley of a prominent stony hill in flat ground"
+  },
+  "story": {
+    "ar": "الاسم «وادِي القلَّه» ومعناه «وادٍ عند تلّ حجري بارز في أرض مسطحة». والشارع في السَّمْحة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "A valley named «Wadi Al Qillah» — its meaning: «valley of a prominent stony hill in flat ground». The street lies in Al Samhah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-qilay-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي القلَيعة",
+  "en": "Wadi Al Qilay'ah Street",
+  "meaning": {
+    "ar": "«وادِي القلَيعة»: وادٍ",
+    "en": "Wadi Al Qilay'ah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«القلَيعة» اسم موضعه المعروف. وهذا الموضع أخذ منه اسم الشارع في البطين بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Qilay'ah» is the name of the site of the wadi called «Wadi». The site gave its name to the street in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-qourah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي القُوره",
+  "en": "Wadi Al Qourah Street",
+  "meaning": {
+    "ar": "«وادِي القُوره»: وادٍ يُنسب إلى القُوره",
+    "en": "Wadi Al Qourah: a valley attributed to Al Qourah"
+  },
+  "story": {
+    "ar": "«القُوره» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الوَثْبَة.",
+    "en": "«Al Qourah» is the wadi's name, and «Wadi» means a valley; the name is compound. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Wathbah."
+  }
+},
+{
+  "id": "wadi-al-kisayfah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الكسَيفه",
+  "en": "Wadi Al Kisayfah Street",
+  "meaning": {
+    "ar": "«وادِي الكسَيفه»: وادٍ، و«الكسَيفه» اسمه",
+    "en": "Wadi Al Kisayfah: a valley, and «Al Kisayfah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«الكسَيفه» اسم يحمله الموضع. والشارع يقع في الزَّاهية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Kisayfah» is the name the site carries; «Wadi» means a valley. The street lies in Al Zahiyah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-kinoud-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الكنُود",
+  "en": "Wadi Al Kinoud Street",
+  "meaning": {
+    "ar": "«وادِي الكنُود»: وادٍ",
+    "en": "Wadi Al Kinoud: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وادِي»، و«الكنُود» اسم الموضع. وهو من شوارع الطِّوَيَّة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Kinoud» is the site name, and the wadi is called «Wadi». It is one of the streets of Al Tiwayya, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-lab-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي اللَّب",
+  "en": "Wadi Al Lab Street",
+  "meaning": {
+    "ar": "«وادِي اللَّب»: وادٍ يُنسب إلى اللَّب",
+    "en": "Wadi Al Lab: a valley attributed to Al Lab"
+  },
+  "story": {
+    "ar": "«اللَّب» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
+    "en": "«Al Lab» is the name added to the wadi «Wadi», and no dictionary glosses it. The name is attributed to a site, and the street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-liwari-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي اللِّوارِي",
+  "en": "Wadi Al Liwari Street",
+  "meaning": {
+    "ar": "«وادِي اللِّوارِي»: وادٍ، و«اللِّوارِي» اسمه",
+    "en": "Wadi Al Liwari: a valley, and «Al Liwari» its name"
+  },
+  "story": {
+    "ar": "«وادِي اللِّوارِي» وادٍ، و«اللِّوارِي» اسم لا تُفسَّره المعاجم. وتقع الشوارع التي تحمل هذا الاسم في مدينة شخبوط بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al Liwari» names the wadi «Wadi Al Liwari» and no dictionary glosses it. Streets carrying this name lie in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mbazzarah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المبَزَّرة",
+  "en": "Wadi Al Mbazzarah Street",
+  "meaning": {
+    "ar": "«وادِي المبَزَّرة»: وادٍ",
+    "en": "Wadi Al Mbazzarah: a valley"
+  },
+  "story": {
+    "ar": "«المبَزَّرة» اسم الموضع الذي فيه الوادي «وادِي»، وليس كلمة تُفسَّر. وهو شارع في بني ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al Mbazzarah» is the name of the place holding the wadi «Wadi», not a word to gloss. It is a street in Bani Yas, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mithaymir-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المِثَيمِر",
+  "en": "Wadi Al Mithaymir Street",
+  "meaning": {
+    "ar": "«وادِي المِثَيمِر»: وادٍ يُنسب إلى المِثَيمِر",
+    "en": "Wadi Al Mithaymir: a valley attributed to Al Mithaymir"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«المِثَيمِر» اسم علم للموضع لا يُفسَّر. والشارع في المَنهَل، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Mithaymir» is a proper name for the site of the wadi «Wadi» and is not glossed. The street lies in Al Manhal, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mikhaylfah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المِخَيلفة",
+  "en": "Wadi Al Mikhaylfah Street",
+  "meaning": {
+    "ar": "«وادِي المِخَيلفة»: وادٍ، و«المِخَيلفة» اسمه",
+    "en": "Wadi Al Mikhaylfah: a valley, and «Al Mikhaylfah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«المِخَيلفة» يُنسب إليها اسم الموضع. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Mikhaylfah» is the site name attributed to the wadi «Wadi». The site gave its name to the street in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-madaynah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المَدَينة",
+  "en": "Wadi Al Madaynah Street",
+  "meaning": {
+    "ar": "«وادِي المَدَينة»: وادي المدينة",
+    "en": "Wadi Al Madaynah: valley of city"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ ومعنى «المَدَينة» فيه «وادي المدينة». والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
+    "en": "The meaning of «Al Madaynah» in the wadi's name is «valley of city». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "wadi-al-mrabba-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المرَبَّعة",
+  "en": "Wadi Al Mrabba'ah Street",
+  "meaning": {
+    "ar": "«وادِي المرَبَّعة»: وادٍ عند مربّع أرض",
+    "en": "Wadi Al Mrabba'ah: valley of square plot"
+  },
+  "story": {
+    "ar": "اسم مركّب: «وادِي» وادٍ، و«المرَبَّعة» معناه «وادٍ عند مربّع أرض». والشارع يقع في الشَّامْخَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "A compound name: «Wadi» is a valley, and «Al Mrabba'ah» means «valley of square plot». The street lies in Al Shamkhah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-murrah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المُرَّة",
+  "en": "Wadi Al Murrah Street",
+  "meaning": {
+    "ar": "«وادِي المُرَّة»: وادٍ",
+    "en": "Wadi Al Murrah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» في الموضع المعروف بـ«المُرَّة». وهو من شوارع مدينة شخبوط في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "The wadi «Wadi» stands at the site known as «Al Murrah». It is one of the streets of Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mrayr-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المرَير",
+  "en": "Wadi Al Mrayr Street",
+  "meaning": {
+    "ar": "«وادِي المرَير»: وادٍ يُنسب إلى المرَير",
+    "en": "Wadi Al Mrayr: a valley attributed to Al Mrayr"
+  },
+  "story": {
+    "ar": "«المرَير» اسم موضع الوادي، و«وادِي» وادٍ من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
+    "en": "«Al Mrayr» names the site, and «Wadi» is its wadi, one of the place names. The name is attributed to a site, and the street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mzayri-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المزَيرِع",
+  "en": "Wadi Al Mzayri' Street",
+  "meaning": {
+    "ar": "«وادِي المزَيرِع»: وادٍ، و«المزَيرِع» اسمه",
+    "en": "Wadi Al Mzayri': a valley, and «Al Mzayri'» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «المزَيرِع»، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الظَّاهِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al Mzayri'» names the site of the wadi «Wadi» and is not a word to gloss. Streets carrying this name lie in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mas-oudi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المَسعُودِي",
+  "en": "Wadi Al Mas'oudi Street",
+  "meaning": {
+    "ar": "«وادِي المَسعُودِي»: وادٍ",
+    "en": "Wadi Al Mas'oudi: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«المَسعُودِي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو شارع في المَسْعُودِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al Mas'oudi» names the site of the wadi «Wadi», not as a word to be glossed. It is a street in Al Mas'oudi, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-lmsalla-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المصلَّى",
+  "en": "Wadi Lmsalla Street",
+  "meaning": {
+    "ar": "«وادِي المصلَّى»: وادٍ عند مصلّى",
+    "en": "Wadi Lmsalla: valley of prayer ground"
+  },
+  "story": {
+    "ar": "«المصلَّى» في «وادِي المصلَّى» يعطي المعنى «وادٍ عند مصلّى». والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Lmsalla» in the name «Wadi Lmsalla» gives the meaning «valley of prayer ground». The street lies in Al Shamkhah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mitla-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المِطلاع",
+  "en": "Wadi Al Mitla' Street",
+  "meaning": {
+    "ar": "«وادِي المِطلاع»: وادٍ عند مسار صاعد في جبل",
+    "en": "Wadi Al Mitla': valley of an ascending path up a mountain or hill"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي» ومعناه «وادٍ عند مسار صاعد في جبل» من جهة «المِطلاع». وهذا الموضع أخذ منه اسم الشارع في الشِّوَيْب بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "The wadi «Wadi» has the meaning «valley of an ascending path up a mountain or hill» through «Al Mitla'». The site gave its name to the street in Al Shiwayb, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mdheem-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المظِيم",
+  "en": "Wadi Al Mdheem Street",
+  "meaning": {
+    "ar": "«وادِي المظِيم»: وادٍ يُنسب إلى المظِيم",
+    "en": "Wadi Al Mdheem: a valley attributed to Al Mdheem"
+  },
+  "story": {
+    "ar": "«المظِيم» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّامْخَة.",
+    "en": "«Al Mdheem» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Shamkhah."
+  }
+},
+{
+  "id": "wadi-al-mi-aymid-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المِعَيمِد",
+  "en": "Wadi Al Mi'aymid Street",
+  "meaning": {
+    "ar": "«وادِي المِعَيمِد»: وادٍ، و«المِعَيمِد» اسمه",
+    "en": "Wadi Al Mi'aymid: a valley, and «Al Mi'aymid» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«المِعَيمِد» اسم يُنسب إليه. والشارع يقع في الزَّاهية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Mi'aymid» is the name attributed to the wadi «Wadi». The street lies in Al Zahiyah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-maksar-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المَكسَر",
+  "en": "Wadi Al Maksar Street",
+  "meaning": {
+    "ar": "«وادِي المَكسَر»: وادٍ",
+    "en": "Wadi Al Maksar: a valley"
+  },
+  "story": {
+    "ar": "«المَكسَر» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. وهو من شوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Maksar» names the site, and «Wadi» is the wadi there, a place name. It is one of the streets of Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-manamah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المَنامه",
+  "en": "Wadi Al Manamah Street",
+  "meaning": {
+    "ar": "«وادِي المَنامه»: وادٍ يُنسب إلى المَنامه",
+    "en": "Wadi Al Manamah: a valley attributed to Al Manamah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«المَنامه» اسم يُنسب إليه الموضع. والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
+    "en": "«Al Manamah» is the name the site is given; «Wadi» is a valley. The name is attributed to a site, and the street lies in Al Falah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-minaysib-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المِنَيصِب",
+  "en": "Wadi Al Minaysib Street",
+  "meaning": {
+    "ar": "«وادِي المِنَيصِب»: وادٍ، و«المِنَيصِب» اسمه",
+    "en": "Wadi Al Minaysib: a valley, and «Al Minaysib» its name"
+  },
+  "story": {
+    "ar": "«المِنَيصِب» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». وتقع الشوارع التي تحمل هذا الاسم في الدَّانَةْ بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Al Minaysib» is not a word for the dictionary but the name on the wadi «Wadi». Streets carrying this name lie in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-minay-i-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المنَيعي",
+  "en": "Wadi Al Minay'i Street",
+  "meaning": {
+    "ar": "«وادِي المنَيعي»: وادٍ",
+    "en": "Wadi Al Minay'i: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«المنَيعي» اسمه الذي يُنسب إليه. وهو شارع في زاخِر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al Minay'i» is the name the wadi «Wadi» goes by. It is a street in Zakhir, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mawarid-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المَوارد",
+  "en": "Wadi Al Mawarid Street",
+  "meaning": {
+    "ar": "«وادِي المَوارد»: وادٍ يُنسب إلى المَوارد",
+    "en": "Wadi Al Mawarid: a valley attributed to Al Mawarid"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«المَوارد» اسم للموضع لا للكلمة. والشارع في نِعْمة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Mawarid» belongs to the site of «Wadi» as a name, not a word. The street lies in Ni'mah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mayd-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المَيد",
+  "en": "Wadi Al Mayd Street",
+  "meaning": {
+    "ar": "«وادِي المَيد»: وادٍ، و«المَيد» اسمه",
+    "en": "Wadi Al Mayd: a valley, and «Al Mayd» its name"
+  },
+  "story": {
+    "ar": "«المَيد» اسم موضع الوادي «وادِي»، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Mayd» names the site of the wadi «Wadi» and is not a word to be glossed. The site gave its name to the street in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-mayah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي المَيَّه",
+  "en": "Wadi Al Mayah Street",
+  "meaning": {
+    "ar": "«وادِي المَيَّه»: وادٍ",
+    "en": "Wadi Al Mayah: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي المَيَّه»: وادٍ، و«المَيَّه» اسم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مَزْيَد.",
+    "en": "«Al Mayah» completes the name of the wadi «Wadi Al Mayah» — a name, not a word. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Mazyad."
+  }
+},
+{
+  "id": "wadi-an-nibiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي النِّبِيَّة",
+  "en": "Wadi An Nibiyah Street",
+  "meaning": {
+    "ar": "«وادِي النِّبِيَّة»: وادٍ يُنسب إلى النِّبِيَّة",
+    "en": "Wadi An Nibiyah: a valley attributed to An Nibiyah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«النِّبِيَّة» اسمه، والاسم من أسماء المواضع. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«An Nibiyah» is the name of the wadi «Wadi», and the name belongs to the place names. The street lies in Mohamed Bin Zayed City, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-an-najd-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي النَّجد",
+  "en": "Wadi An Najd Street",
+  "meaning": {
+    "ar": "«وادِي النَّجد»: وادٍ، و«النَّجد» اسمه",
+    "en": "Wadi An Najd: a valley, and «An Najd» its name"
+  },
+  "story": {
+    "ar": "«النَّجد» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وهو من شوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«An Najd» is one of the place names that the wadi «Wadi» is attributed to. It is one of the streets of Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-an-nakhal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي النَّخَل",
+  "en": "Wadi An Nakhal Street",
+  "meaning": {
+    "ar": "«وادِي النَّخَل»: وادٍ",
+    "en": "Wadi An Nakhal: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«النَّخَل» اسم موضعه المعروف. والاسم يُنسب إلى موضع، والشارع في هِيلِي من إمارة أبوظبي.",
+    "en": "«An Nakhal» is the name of the site of the wadi called «Wadi». The name is attributed to a site, and the street lies in Hili, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-an-niyabiyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي النِّيَبِيَّة",
+  "en": "Wadi An Niyabiyah Street",
+  "meaning": {
+    "ar": "«وادِي النِّيَبِيَّة»: وادٍ يُنسب إلى النِّيَبِيَّة",
+    "en": "Wadi An Niyabiyah: a valley attributed to An Niyabiyah"
+  },
+  "story": {
+    "ar": "«النِّيَبِيَّة» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. وتقع الشوارع التي تحمل هذا الاسم في آل نَهيان بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«An Niyabiyah» is the wadi's name, and «Wadi» means a valley; the name is compound. Streets carrying this name lie in Al Nahyan, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-huwaydi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الهُوَيدِي",
+  "en": "Wadi Al Huwaydi Street",
+  "meaning": {
+    "ar": "«وادِي الهُوَيدِي»: وادٍ، و«الهُوَيدِي» اسمه",
+    "en": "Wadi Al Huwaydi: a valley, and «Al Huwaydi» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«الهُوَيدِي» اسم يحمله الموضع. وهو شارع في مدينة شخبوط، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Al Huwaydi» is the name the site carries; «Wadi» means a valley. It is a street in Shakhbout City, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-hayer-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي الهَيِر",
+  "en": "Wadi Al Hayer Street",
+  "meaning": {
+    "ar": "«وادِي الهَيِر»: وادٍ عند سلسلة كثبان",
+    "en": "Wadi Al Hayer: valley of a run of dunes"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، ومعنى اسمه «وادٍ عند سلسلة كثبان»؛ و«الهَيِر» في الاسم. والشارع في الهِيَر، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Al Hayer» is in the name of the wadi «Wadi»; the name means «valley of a run of dunes». The street lies in Al Hiyar, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-yam-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي اليام",
+  "en": "Wadi Al Yam Street",
+  "meaning": {
+    "ar": "«وادِي اليام»: وادٍ",
+    "en": "Wadi Al Yam: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وادِي»، و«اليام» اسم الموضع. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Al Yam» is the site name, and the wadi is called «Wadi». The site gave its name to the street in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-yirayf-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي اليِرَيف",
+  "en": "Wadi Al Yirayf Street",
+  "meaning": {
+    "ar": "«وادِي اليِرَيف»: وادٍ يُنسب إلى اليِرَيف",
+    "en": "Wadi Al Yirayf: a valley attributed to Al Yirayf"
+  },
+  "story": {
+    "ar": "«اليِرَيف» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
+    "en": "«Al Yirayf» is the name added to the wadi «Wadi», and no dictionary glosses it. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "wadi-al-yasham-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي اليَشَم",
+  "en": "Wadi Al Yasham Street",
+  "meaning": {
+    "ar": "«وادِي اليَشَم»: وادٍ، و«اليَشَم» اسمه",
+    "en": "Wadi Al Yasham: a valley, and «Al Yasham» its name"
+  },
+  "story": {
+    "ar": "«وادِي اليَشَم» وادٍ، و«اليَشَم» اسم لا تُفسَّره المعاجم. والشارع يقع في الفُوعَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Al Yasham» names the wadi «Wadi Al Yasham» and no dictionary glosses it. The street lies in Al Fou'ah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-yaf-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي اليَف",
+  "en": "Wadi Al Yaf Street",
+  "meaning": {
+    "ar": "«وادِي اليَف»: وادٍ",
+    "en": "Wadi Al Yaf: a valley"
+  },
+  "story": {
+    "ar": "«اليَف» اسم الموضع الذي فيه الوادي «وادِي»، وليس كلمة تُفسَّر. وهو من شوارع الساد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Al Yaf» is the name of the place holding the wadi «Wadi», not a word to gloss. It is one of the streets of Al Sad, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-al-yanay-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي اليَنَيع",
+  "en": "Wadi Al Yanay' Street",
+  "meaning": {
+    "ar": "«وادِي اليَنَيع»: وادٍ يُنسب إلى اليَنَيع",
+    "en": "Wadi Al Yanay': a valley attributed to Al Yanay'"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«اليَنَيع» اسم علم للموضع لا يُفسَّر. والاسم يُنسب إلى موضع، والشارع في الظَّاهْرة من إمارة أبوظبي.",
+    "en": "«Al Yanay'» is a proper name for the site of the wadi «Wadi» and is not glossed. The name is attributed to a site, and the street lies in Al Dhahrah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-bil-ashyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي بالعَشية",
+  "en": "Wadi Bil'ashyah Street",
+  "meaning": {
+    "ar": "«وادِي بالعَشية»: وادٍ، و«بالعَشية» اسمه",
+    "en": "Wadi Bil'ashyah: a valley, and «Bil'ashyah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«بالعَشية» يُنسب إليها اسم الموضع. وتقع الشوارع التي تحمل هذا الاسم في الهِيَر بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Bil'ashyah» is the site name attributed to the wadi «Wadi». Streets carrying this name lie in Al Hiyar, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-bdayn-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي بدَين",
+  "en": "Wadi Bdayn Street",
+  "meaning": {
+    "ar": "«وادِي بدَين»: وادٍ",
+    "en": "Wadi Bdayn: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» في الموضع المعروف بـ«بدَين». وهو شارع في رِمَاح، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "The wadi «Wadi» stands at the site known as «Bdayn». It is a street in Rimah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-baraq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي بَراق",
+  "en": "Wadi Baraq Street",
+  "meaning": {
+    "ar": "«وادِي بَراق»: وادٍ يُنسب إلى بَراق",
+    "en": "Wadi Baraq: a valley attributed to Baraq"
+  },
+  "story": {
+    "ar": "«بَراق» اسم موضع الوادي، و«وادِي» وادٍ من أسماء المواضع. والشارع في مدينة شخبوط، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Baraq» names the site, and «Wadi» is its wadi, one of the place names. The street lies in Shakhbout City, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-barout-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي بَرُوت",
+  "en": "Wadi Barout Street",
+  "meaning": {
+    "ar": "«وادِي بَرُوت»: وادٍ، و«بَرُوت» اسمه",
+    "en": "Wadi Barout: a valley, and «Barout» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «بَرُوت»، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في السَّمْحة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Barout» names the site of the wadi «Wadi» and is not a word to gloss. The site gave its name to the street in Al Samhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-thawban-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع واَدي ثَوبان",
+  "en": "Wadi Thawban Street",
+  "meaning": {
+    "ar": "«واَدي ثَوبان»: وادٍ",
+    "en": "Wadi Thawban: a valley"
+  },
+  "story": {
+    "ar": "«واَدي» وادٍ، و«ثَوبان» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في البطين.",
+    "en": "«Thawban» names the site of the wadi «Wadi», not as a word to be glossed. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Bateen."
+  }
+},
+{
+  "id": "wadi-ham-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي حام",
+  "en": "Wadi Ham Street",
+  "meaning": {
+    "ar": "«وادِي حام»: وادٍ يُنسب إلى حام",
+    "en": "Wadi Ham: a valley attributed to Ham"
+  },
+  "story": {
+    "ar": "«حام» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Ham» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. The street lies in Zakhir, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-hashnah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي حَشنة",
+  "en": "Wadi Hashnah Street",
+  "meaning": {
+    "ar": "«وادِي حَشنة»: وادٍ، و«حَشنة» اسمه",
+    "en": "Wadi Hashnah: a valley, and «Hashnah» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«حَشنة» اسم يُنسب إليه. وهو من شوارع الخَالِدية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Hashnah» is the name attributed to the wadi «Wadi». It is one of the streets of Al Khalidiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-huqub-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي حُقُب",
+  "en": "Wadi Huqub Street",
+  "meaning": {
+    "ar": "«وادِي حُقُب»: وادٍ",
+    "en": "Wadi Huqub: a valley"
+  },
+  "story": {
+    "ar": "«حُقُب» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في فَلَج هَزَّاع من إمارة أبوظبي.",
+    "en": "«Huqub» names the site, and «Wadi» is the wadi there, a place name. The name is attributed to a site, and the street lies in Falaj Hazza', in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-haqeel-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي حَقيل",
+  "en": "Wadi Haqeel Street",
+  "meaning": {
+    "ar": "«وادِي حَقيل»: وادٍ يُنسب إلى حَقيل",
+    "en": "Wadi Haqeel: a valley attributed to Haqeel"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«حَقيل» اسم يُنسب إليه الموضع. وتقع الشوارع التي تحمل هذا الاسم في بني ياس بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Haqeel» is the name the site is given; «Wadi» is a valley. Streets carrying this name lie in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-halayim-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع واَدي حَلايم",
+  "en": "Wadi Halayim Street",
+  "meaning": {
+    "ar": "«واَدي حَلايم»: وادٍ، و«حَلايم» اسمه",
+    "en": "Wadi Halayim: a valley, and «Halayim» its name"
+  },
+  "story": {
+    "ar": "«حَلايم» اسم لا يُفسَّر بالمعجم، والوادي «واَدي». وهو شارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Halayim» is not a word for the dictionary but the name on the wadi «Wadi». It is a street in Mohamed Bin Zayed City, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-hamdah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي حَمده",
+  "en": "Wadi Hamdah Street",
+  "meaning": {
+    "ar": "«وادِي حَمده»: وادٍ",
+    "en": "Wadi Hamdah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«حَمده» اسمه الذي يُنسب إليه. والشارع في القَطَّارَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Hamdah» is the name the wadi «Wadi» goes by. The street lies in Al Qattarah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-dihay-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي دِحَي",
+  "en": "Wadi Dihay Street",
+  "meaning": {
+    "ar": "«وادِي دِحَي»: وادٍ يُنسب إلى دِحَي",
+    "en": "Wadi Dihay: a valley attributed to Dihay"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«دِحَي» اسم للموضع لا للكلمة. وهذا الموضع أخذ منه اسم الشارع في السَّلاَمَات بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Dihay» belongs to the site of «Wadi» as a name, not a word. The site gave its name to the street in Al Salamat, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-dalham-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي دَلهَم",
+  "en": "Wadi Dalham Street",
+  "meaning": {
+    "ar": "«وادِي دَلهَم»: وادٍ، و«دَلهَم» اسمه",
+    "en": "Wadi Dalham: a valley, and «Dalham» its name"
+  },
+  "story": {
+    "ar": "«دَلهَم» اسم موضع الوادي «وادِي»، وليس كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
+    "en": "«Dalham» names the site of the wadi «Wadi» and is not a word to be glossed. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Shakhbout City."
+  }
+},
+{
+  "id": "wadi-diyani-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي دِياني",
+  "en": "Wadi Diyani Street",
+  "meaning": {
+    "ar": "«وادِي دِياني»: وادٍ",
+    "en": "Wadi Diyani: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي دِياني»: وادٍ، و«دِياني» اسم. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Diyani» completes the name of the wadi «Wadi Diyani» — a name, not a word. The street lies in Mohamed Bin Zayed City, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-daym-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي دَيم",
+  "en": "Wadi Daym Street",
+  "meaning": {
+    "ar": "«وادِي دَيم»: وادي الدوام",
+    "en": "Wadi Daym: valley of lasting"
+  },
+  "story": {
+    "ar": "«دَيم» في اسم الوادي «وادِي»، ومعناه «وادي الدوام». وهو من شوارع الفُوعَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "The name of the wadi «Wadi» means «valley of lasting»: «Daym» completes it. It is one of the streets of Al Fou'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-rakha-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي رَخا",
+  "en": "Wadi Rakha Street",
+  "meaning": {
+    "ar": "«وادِي رَخا»: وادٍ يُنسب إلى رَخا",
+    "en": "Wadi Rakha: a valley attributed to Rakha"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«رَخا» اسمه، والاسم من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في حميم من إمارة أبوظبي.",
+    "en": "«Rakha» is the name of the wadi «Wadi», and the name belongs to the place names. The name is attributed to a site, and the street lies in Hameem, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-rasyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي رَسية",
+  "en": "Wadi Rasyah Street",
+  "meaning": {
+    "ar": "«وادِي رَسية»: وادٍ، و«رَسية» اسمه",
+    "en": "Wadi Rasyah: a valley, and «Rasyah» its name"
+  },
+  "story": {
+    "ar": "«رَسية» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Rasyah» is one of the place names that the wadi «Wadi» is attributed to. Streets carrying this name lie in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-risaysah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي رسَيسه",
+  "en": "Wadi Risaysah Street",
+  "meaning": {
+    "ar": "«وادِي رسَيسه»: وادٍ",
+    "en": "Wadi Risaysah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«رسَيسه» اسم موضعه المعروف. وهو شارع في النَّهضة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Risaysah» is the name of the site of the wadi called «Wadi». It is a street in Al Nahdah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-zirayb-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي زِرَيب",
+  "en": "Wadi Zirayb Street",
+  "meaning": {
+    "ar": "«وادِي زِرَيب»: وادٍ يُنسب إلى زِرَيب",
+    "en": "Wadi Zirayb: a valley attributed to Zirayb"
+  },
+  "story": {
+    "ar": "«زِرَيب» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. والشارع في هِيلِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Zirayb» is the wadi's name, and «Wadi» means a valley; the name is compound. The street lies in Hili, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sahah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي ساحة",
+  "en": "Wadi Sahah Street",
+  "meaning": {
+    "ar": "«وادِي ساحة»: وادي الساحة",
+    "en": "Wadi Sahah: valley of the square"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» ومعناه «وادي الساحة، والساحة ميدان»، و«ساحة» في الاسم. وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Sahah» describes the wadi «Wadi»; the meaning is «square». The site gave its name to the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sbaytah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سبَيتة",
+  "en": "Wadi Sbaytah Street",
+  "meaning": {
+    "ar": "«وادِي سبَيتة»: وادٍ، و«سبَيتة» اسمه",
+    "en": "Wadi Sbaytah: a valley, and «Sbaytah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«سبَيتة» اسم يحمله الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشِّوَيْب.",
+    "en": "«Sbaytah» is the name the site carries; «Wadi» means a valley. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Shiwayb."
+  }
+},
+{
+  "id": "wadi-sibayah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سبَيَّه",
+  "en": "Wadi Sibayah Street",
+  "meaning": {
+    "ar": "«وادِي سبَيَّه»: وادٍ",
+    "en": "Wadi Sibayah: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وادِي»، و«سبَيَّه» اسم الموضع. والشارع يقع في مدينة زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Sibayah» is the site name, and the wadi is called «Wadi». The street lies in Zayed City, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sarabah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سَرابة",
+  "en": "Wadi Sarabah Street",
+  "meaning": {
+    "ar": "«وادِي سَرابة»: وادٍ يُنسب إلى سَرابة",
+    "en": "Wadi Sarabah: a valley attributed to Sarabah"
+  },
+  "story": {
+    "ar": "«سَرابة» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. وهو من شوارع الريف في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Sarabah» is the name added to the wadi «Wadi», and no dictionary glosses it. It is one of the streets of Al Reef, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sarraj-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سَرَّاج",
+  "en": "Wadi Sarraj Street",
+  "meaning": {
+    "ar": "«وادِي سَرَّاج»: وادٍ، و«سَرَّاج» اسمه",
+    "en": "Wadi Sarraj: a valley, and «Sarraj» its name"
+  },
+  "story": {
+    "ar": "«وادِي سَرَّاج» وادٍ، و«سَرَّاج» اسم لا تُفسَّره المعاجم. والاسم يُنسب إلى موضع، والشارع في مدينة زايد من إمارة أبوظبي.",
+    "en": "«Sarraj» names the wadi «Wadi Sarraj» and no dictionary glosses it. The name is attributed to a site, and the street lies in Zayed City, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-surour-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سرُور",
+  "en": "Wadi Surour Street",
+  "meaning": {
+    "ar": "«وادِي سرُور»: وادٍ",
+    "en": "Wadi Surour: a valley"
+  },
+  "story": {
+    "ar": "«سرُور» اسم الموضع الذي فيه الوادي «وادِي»، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في السَّمْحة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Surour» is the name of the place holding the wadi «Wadi», not a word to gloss. Streets carrying this name lie in Al Samhah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-salwan-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سَلوان",
+  "en": "Wadi Salwan Street",
+  "meaning": {
+    "ar": "«وادِي سَلوان»: وادٍ يُنسب إلى سَلوان",
+    "en": "Wadi Salwan: a valley attributed to Salwan"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«سَلوان» اسم علم للموضع لا يُفسَّر. وهو شارع في مدينة زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Salwan» is a proper name for the site of the wadi «Wadi» and is not glossed. It is a street in Zayed City, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-silaysil-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سِلَيسِل",
+  "en": "Wadi Silaysil Street",
+  "meaning": {
+    "ar": "«وادِي سِلَيسِل»: وادٍ، و«سِلَيسِل» اسمه",
+    "en": "Wadi Silaysil: a valley, and «Silaysil» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«سِلَيسِل» يُنسب إليها اسم الموضع. والشارع في رِمَاح، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Silaysil» is the site name attributed to the wadi «Wadi». The street lies in Rimah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-samah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع واَدي سَماح",
+  "en": "Wadi Samah Street",
+  "meaning": {
+    "ar": "«واَدي سَماح»: وادٍ",
+    "en": "Wadi Samah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «واَدي» في الموضع المعروف بـ«سَماح». وهذا الموضع أخذ منه اسم الشارع في الفُوعَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "The wadi «Wadi» stands at the site known as «Samah». The site gave its name to the street in Al Fou'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sanad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سَنَد",
+  "en": "Wadi Sanad Street",
+  "meaning": {
+    "ar": "«وادِي سَنَد»: وادٍ يُنسب إلى سَنَد",
+    "en": "Wadi Sanad: a valley attributed to Sanad"
+  },
+  "story": {
+    "ar": "«سَنَد» اسم موضع الوادي، و«وادِي» وادٍ من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة زايد.",
+    "en": "«Sanad» names the site, and «Wadi» is its wadi, one of the place names. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Zayed City."
+  }
+},
+{
+  "id": "wadi-sanah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سَنَه",
+  "en": "Wadi Sanah Street",
+  "meaning": {
+    "ar": "«وادِي سَنَه»: وادٍ، و«سَنَه» اسمه",
+    "en": "Wadi Sanah: a valley, and «Sanah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «سَنَه»، وليس كلمة تُفسَّر. والشارع يقع في شعاب الأشخر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Sanah» names the site of the wadi «Wadi» and is not a word to gloss. The street lies in Shiab Al Ashkhar, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-suhailah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سُهَيله",
+  "en": "Wadi Suhailah Street",
+  "meaning": {
+    "ar": "«وادِي سُهَيله»: وادٍ",
+    "en": "Wadi Suhailah: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«سُهَيله» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من شوارع مدينة زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Suhailah» names the site of the wadi «Wadi», not as a word to be glossed. It is one of the streets of Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sayraq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي سَيرَق",
+  "en": "Wadi Sayraq Street",
+  "meaning": {
+    "ar": "«وادِي سَيرَق»: وادٍ يُنسب إلى سَيرَق",
+    "en": "Wadi Sayraq: a valley attributed to Sayraq"
+  },
+  "story": {
+    "ar": "«سَيرَق» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
+    "en": "«Sayraq» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. The name is attributed to a site, and the street lies in Al Shamkhah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-shasah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي شاصه",
+  "en": "Wadi Shasah Street",
+  "meaning": {
+    "ar": "«وادِي شاصه»: وادٍ، و«شاصه» اسمه",
+    "en": "Wadi Shasah: a valley, and «Shasah» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«شاصه» اسم يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في المُشرِف بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Shasah» is the name attributed to the wadi «Wadi». Streets carrying this name lie in Al Mushrif, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-shaq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي شاق",
+  "en": "Wadi Shaq Street",
+  "meaning": {
+    "ar": "«وادِي شاق»: وادٍ",
+    "en": "Wadi Shaq: a valley"
+  },
+  "story": {
+    "ar": "«شاق» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. وهو شارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Shaq» names the site, and «Wadi» is the wadi there, a place name. It is a street in Al Shamkhah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sharm-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي شَرم",
+  "en": "Wadi Sharm Street",
+  "meaning": {
+    "ar": "«وادِي شَرم»: وادٍ يُنسب إلى شَرم",
+    "en": "Wadi Sharm: a valley attributed to Sharm"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«شَرم» اسم يُنسب إليه الموضع. والشارع في الطِّوَيَّة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Sharm» is the name the site is given; «Wadi» is a valley. The street lies in Al Tiwayya, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-shimal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي شِمال",
+  "en": "Wadi Shimal Street",
+  "meaning": {
+    "ar": "«وادِي شِمال»: وادي الشمال",
+    "en": "Wadi Shimal: valley of the north"
+  },
+  "story": {
+    "ar": "معنى «وادِي شِمال» هو «وادي الشمال»؛ و«وادِي» وادٍ. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "The name «Wadi Shimal» means «valley of the north». The site gave its name to the street in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-shoukah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي شُوكة",
+  "en": "Wadi Shoukah Street",
+  "meaning": {
+    "ar": "«وادِي شُوكة»: وادٍ، و«شُوكة» اسمه",
+    "en": "Wadi Shoukah: a valley, and «Shoukah» its name"
+  },
+  "story": {
+    "ar": "«شُوكة» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في النَّهضة.",
+    "en": "«Shoukah» is not a word for the dictionary but the name on the wadi «Wadi». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Nahdah."
+  }
+},
+{
+  "id": "wadi-saramah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي صَرامة",
+  "en": "Wadi Saramah Street",
+  "meaning": {
+    "ar": "«وادِي صَرامة»: وادٍ",
+    "en": "Wadi Saramah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«صَرامة» اسمه الذي يُنسب إليه. والشارع يقع في هِيلِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Saramah» is the name the wadi «Wadi» goes by. The street lies in Hili, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-safat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي صَفَت",
+  "en": "Wadi Safat Street",
+  "meaning": {
+    "ar": "«وادِي صَفَت»: وادٍ يُنسب إلى صَفَت",
+    "en": "Wadi Safat: a valley attributed to Safat"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«صَفَت» اسم للموضع لا للكلمة. وهو من شوارع زاخِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Safat» belongs to the site of «Wadi» as a name, not a word. It is one of the streets of Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-safad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي صَفَد",
+  "en": "Wadi Safad Street",
+  "meaning": {
+    "ar": "«وادِي صَفَد»: وادٍ، و«صَفَد» اسمه",
+    "en": "Wadi Safad: a valley, and «Safad» its name"
+  },
+  "story": {
+    "ar": "«صَفَد» اسم موضع الوادي «وادِي»، وليس كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في القوع من إمارة أبوظبي.",
+    "en": "«Safad» names the site of the wadi «Wadi» and is not a word to be glossed. The name is attributed to a site, and the street lies in Al Qou', in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sifi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي صفي",
+  "en": "Wadi Sifi Street",
+  "meaning": {
+    "ar": "«وادِي صفي»: وادٍ",
+    "en": "Wadi Sifi: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي صفي»: وادٍ، و«صفي» اسم. وتقع الشوارع التي تحمل هذا الاسم في العامرة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Sifi» completes the name of the wadi «Wadi Sifi» — a name, not a word. Streets carrying this name lie in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-siqayli-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي صِقَيلِي",
+  "en": "Wadi Siqayli Street",
+  "meaning": {
+    "ar": "«وادِي صِقَيلِي»: وادٍ يُنسب إلى صِقَيلِي",
+    "en": "Wadi Siqayli: a valley attributed to Siqayli"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«صِقَيلِي» اسمه، والاسم من أسماء المواضع. وهو شارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Siqayli» is the name of the wadi «Wadi», and the name belongs to the place names. It is a street in Mohamed Bin Zayed City, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-sineel-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي صنيل",
+  "en": "Wadi Sineel Street",
+  "meaning": {
+    "ar": "«وادِي صنيل»: وادٍ، و«صنيل» اسمه",
+    "en": "Wadi Sineel: a valley, and «Sineel» its name"
+  },
+  "story": {
+    "ar": "«صنيل» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. والشارع في الهِيَر، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Sineel» is one of the place names that the wadi «Wadi» is attributed to. The street lies in Al Hiyar, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-suwabi-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي صُوابِي",
+  "en": "Wadi Suwabi Street",
+  "meaning": {
+    "ar": "«وادِي صُوابِي»: وادٍ",
+    "en": "Wadi Suwabi: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«صُوابِي» اسم موضعه المعروف. وهذا الموضع أخذ منه اسم الشارع في مَزْيَد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Suwabi» is the name of the site of the wadi called «Wadi». The site gave its name to the street in Mazyad, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-dayqah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي ضَيقه",
+  "en": "Wadi Dayqah Street",
+  "meaning": {
+    "ar": "«وادِي ضَيقه»: وادٍ يُنسب إلى ضَيقه",
+    "en": "Wadi Dayqah: a valley attributed to Dayqah"
+  },
+  "story": {
+    "ar": "«ضَيقه» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الوَثْبَة.",
+    "en": "«Dayqah» is the wadi's name, and «Wadi» means a valley; the name is compound. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Wathbah."
+  }
+},
+{
+  "id": "wadi-tarabat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي طَرابات",
+  "en": "Wadi Tarabat Street",
+  "meaning": {
+    "ar": "«وادِي طَرابات»: وادٍ، و«طَرابات» اسمه",
+    "en": "Wadi Tarabat: a valley, and «Tarabat» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«طَرابات» اسم يحمله الموضع. والشارع يقع في السَّمْحة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Tarabat» is the name the site carries; «Wadi» means a valley. The street lies in Al Samhah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-tali-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي طَلِي",
+  "en": "Wadi Tali Street",
+  "meaning": {
+    "ar": "«وادِي طَلِي»: وادٍ",
+    "en": "Wadi Tali: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وادِي»، و«طَلِي» اسم الموضع. وهو من شوارع العامرة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Tali» is the site name, and the wadi is called «Wadi». It is one of the streets of Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-idhayq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي عِذَيق",
+  "en": "Wadi 'Idhayq Street",
+  "meaning": {
+    "ar": "«وادِي عِذَيق»: وادٍ يُنسب إلى عِذَيق",
+    "en": "Wadi 'Idhayq: a valley attributed to 'Idhayq"
+  },
+  "story": {
+    "ar": "«عِذَيق» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
+    "en": "«'Idhayq» is the name added to the wadi «Wadi», and no dictionary glosses it. The name is attributed to a site, and the street lies in Al Shamkhah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-arqeeyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي عَرقييَه",
+  "en": "Wadi 'Arqeeyah Street",
+  "meaning": {
+    "ar": "«وادِي عَرقييَه»: وادٍ، و«عَرقييَه» اسمه",
+    "en": "Wadi 'Arqeeyah: a valley, and «'Arqeeyah» its name"
+  },
+  "story": {
+    "ar": "«وادِي عَرقييَه» وادٍ، و«عَرقييَه» اسم لا تُفسَّره المعاجم. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«'Arqeeyah» names the wadi «Wadi 'Arqeeyah» and no dictionary glosses it. Streets carrying this name lie in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ismah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي عسمه",
+  "en": "Wadi 'Ismah Street",
+  "meaning": {
+    "ar": "«وادِي عسمه»: وادٍ",
+    "en": "Wadi 'Ismah: a valley"
+  },
+  "story": {
+    "ar": "«عسمه» اسم الموضع الذي فيه الوادي «وادِي»، وليس كلمة تُفسَّر. وهو شارع في السَّمْحة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«'Ismah» is the name of the place holding the wadi «Wadi», not a word to gloss. It is a street in Al Samhah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ishasah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي عشاصه",
+  "en": "Wadi 'Ishasah Street",
+  "meaning": {
+    "ar": "«وادِي عشاصه»: وادٍ يُنسب إلى عشاصه",
+    "en": "Wadi 'Ishasah: a valley attributed to 'Ishasah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«عشاصه» اسم علم للموضع لا يُفسَّر. والشارع في مدينة زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«'Ishasah» is a proper name for the site of the wadi «Wadi» and is not glossed. The street lies in Zayed City, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-asfah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي عَصفة",
+  "en": "Wadi 'Asfah Street",
+  "meaning": {
+    "ar": "«وادِي عَصفة»: وادٍ، و«عَصفة» اسمه",
+    "en": "Wadi 'Asfah: a valley, and «'Asfah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«عَصفة» يُنسب إليها اسم الموضع. وهذا الموضع أخذ منه اسم الشارع في الصَّارُوج بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«'Asfah» is the site name attributed to the wadi «Wadi». The site gave its name to the street in Al Sarouj, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-afya-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي عَفيا",
+  "en": "Wadi 'Afya Street",
+  "meaning": {
+    "ar": "«وادِي عَفيا»: وادٍ",
+    "en": "Wadi 'Afya: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» في الموضع المعروف بـ«عَفيا». والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
+    "en": "The wadi «Wadi» stands at the site known as «'Afya». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "wadi-ouf-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي عوف",
+  "en": "Wadi 'Ouf Street",
+  "meaning": {
+    "ar": "«وادِي عوف»: وادٍ يُنسب إلى عوف",
+    "en": "Wadi 'Ouf: a valley attributed to 'Ouf"
+  },
+  "story": {
+    "ar": "«عوف» اسم موضع الوادي، و«وادِي» وادٍ من أسماء المواضع. والشارع يقع في الشَّوامخ من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«'Ouf» names the site, and «Wadi» is its wadi, one of the place names. The street lies in Al Shawamekh, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ghar-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي غار",
+  "en": "Wadi Ghar Street",
+  "meaning": {
+    "ar": "«وادِي غار»: وادٍ، و«غار» اسمه",
+    "en": "Wadi Ghar: a valley, and «Ghar» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «غار»، وليس كلمة تُفسَّر. وهو من شوارع بني ياس في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Ghar» names the site of the wadi «Wadi» and is not a word to gloss. It is one of the streets of Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ghabbah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي غَبَّة",
+  "en": "Wadi Ghabbah Street",
+  "meaning": {
+    "ar": "«وادِي غَبَّة»: وادٍ",
+    "en": "Wadi Ghabbah: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«غَبَّة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في الساد من إمارة أبوظبي.",
+    "en": "«Ghabbah» names the site of the wadi «Wadi», not as a word to be glossed. The name is attributed to a site, and the street lies in Al Sad, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ghaleelah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي غَلِيله",
+  "en": "Wadi Ghaleelah Street",
+  "meaning": {
+    "ar": "«وادِي غَلِيله»: وادٍ فيه نخيل",
+    "en": "Wadi Ghaleelah: valley of a wadi with date palms"
+  },
+  "story": {
+    "ar": "«غَلِيله» يصف الوادي «وادِي»؛ والمعنى «وادٍ فيه نخيل». وتقع الشوارع التي تحمل هذا الاسم في النَّهضة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Ghaleelah» in the name of the wadi «Wadi» gives it the meaning «valley of a wadi with date palms». Streets carrying this name lie in Al Nahdah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ghummad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي غُمَّض",
+  "en": "Wadi Ghummad Street",
+  "meaning": {
+    "ar": "«وادِي غُمَّض»: وادٍ يُنسب إلى غُمَّض",
+    "en": "Wadi Ghummad: a valley attributed to Ghummad"
+  },
+  "story": {
+    "ar": "«غُمَّض» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. وهو شارع في الهِيَر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Ghummad» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. It is a street in Al Hiyar, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ghinayat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي غنَيَّات",
+  "en": "Wadi Ghinayat Street",
+  "meaning": {
+    "ar": "«وادِي غنَيَّات»: وادٍ، و«غنَيَّات» اسمه",
+    "en": "Wadi Ghinayat: a valley, and «Ghinayat» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«غنَيَّات» اسم يُنسب إليه. والشارع في الفُوعَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Ghinayat» is the name attributed to the wadi «Wadi». The street lies in Al Fou'ah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ghoub-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي غُوب",
+  "en": "Wadi Ghoub Street",
+  "meaning": {
+    "ar": "«وادِي غُوب»: وادٍ",
+    "en": "Wadi Ghoub: a valley"
+  },
+  "story": {
+    "ar": "«غُوب» اسم الموضع، و«وادِي» وادٍ من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Ghoub» names the site, and «Wadi» is the wadi there, a place name. The site gave its name to the street in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-quba-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي قُبا",
+  "en": "Wadi Quba Street",
+  "meaning": {
+    "ar": "«وادِي قُبا»: وادٍ يُنسب إلى قُبا",
+    "en": "Wadi Quba: a valley attributed to Quba"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«قُبا» اسم يُنسب إليه الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
+    "en": "«Quba» is the name the site is given; «Wadi» is a valley. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Mohamed Bin Zayed City."
+  }
+},
+{
+  "id": "wadi-kida-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي كِداعة",
+  "en": "Wadi Kida'ah Street",
+  "meaning": {
+    "ar": "«وادِي كِداعة»: وادٍ، و«كِداعة» اسمه",
+    "en": "Wadi Kida'ah: a valley, and «Kida'ah» its name"
+  },
+  "story": {
+    "ar": "«كِداعة» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Kida'ah» is not a word for the dictionary but the name on the wadi «Wadi». The street lies in Mohamed Bin Zayed City, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-kadrah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي كَدرة",
+  "en": "Wadi Kadrah Street",
+  "meaning": {
+    "ar": "«وادِي كَدرة»: وادٍ",
+    "en": "Wadi Kadrah: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«كَدرة» اسمه الذي يُنسب إليه. وهو من شوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Kadrah» is the name the wadi «Wadi» goes by. It is one of the streets of Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-kirayb-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي كرَيب",
+  "en": "Wadi Kirayb Street",
+  "meaning": {
+    "ar": "«وادِي كرَيب»: وادٍ يُنسب إلى كرَيب",
+    "en": "Wadi Kirayb: a valley attributed to Kirayb"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«كرَيب» اسم للموضع لا للكلمة. والاسم يُنسب إلى موضع، والشارع في جَرْن يَافُور من إمارة أبوظبي.",
+    "en": "«Kirayb» belongs to the site of «Wadi» as a name, not a word. The name is attributed to a site, and the street lies in Jarn Yafour, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-kimat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي كِمات",
+  "en": "Wadi Kimat Street",
+  "meaning": {
+    "ar": "«وادِي كِمات»: وادٍ، و«كِمات» اسمه",
+    "en": "Wadi Kimat: a valley, and «Kimat» its name"
+  },
+  "story": {
+    "ar": "«كِمات» اسم موضع الوادي «وادِي»، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في مَزْيَد بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Kimat» names the site of the wadi «Wadi» and is not a word to be glossed. Streets carrying this name lie in Mazyad, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-kawakib-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي كَواكِب",
+  "en": "Wadi Kawakib Street",
+  "meaning": {
+    "ar": "«وادِي كَواكِب»: وادٍ",
+    "en": "Wadi Kawakib: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي كَواكِب»: وادٍ، و«كَواكِب» اسم. وهو شارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Kawakib» completes the name of the wadi «Wadi Kawakib» — a name, not a word. It is a street in Mohamed Bin Zayed City, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-la-ashab-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لأشاب",
+  "en": "Wadi La-ashab Street",
+  "meaning": {
+    "ar": "«وادِي لأشاب»: وادٍ يُنسب إلى لأشاب",
+    "en": "Wadi La-ashab: a valley attributed to La-ashab"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«لأشاب» اسمه، والاسم من أسماء المواضع. والشارع في الروضة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«La-ashab» is the name of the wadi «Wadi», and the name belongs to the place names. The street lies in Al Rawdah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-lasal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لَسَل",
+  "en": "Wadi Lasal Street",
+  "meaning": {
+    "ar": "«وادِي لَسَل»: وادٍ، و«لَسَل» اسمه",
+    "en": "Wadi Lasal: a valley, and «Lasal» its name"
+  },
+  "story": {
+    "ar": "«لَسَل» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في مْبَزَّرَة الخَضْراء بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Lasal» is one of the place names that the wadi «Wadi» is attributed to. The site gave its name to the street in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-li-li-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لعلي",
+  "en": "Wadi Li'li Street",
+  "meaning": {
+    "ar": "«وادِي لعلي»: وادٍ",
+    "en": "Wadi Li'li: a valley"
+  },
+  "story": {
+    "ar": "وادٍ يُسمى «وادِي»، و«لعلي» اسم موضعه المعروف. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفُوعَة.",
+    "en": "«Li'li» is the name of the site of the wadi called «Wadi». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Fou'ah."
+  }
+},
+{
+  "id": "wadi-laghboum-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لَغبُوم",
+  "en": "Wadi Laghboum Street",
+  "meaning": {
+    "ar": "«وادِي لَغبُوم»: وادٍ يُنسب إلى لَغبُوم",
+    "en": "Wadi Laghboum: a valley attributed to Laghboum"
+  },
+  "story": {
+    "ar": "«لَغبُوم» اسم الوادي، و«وادِي» يعني وادياً، والاسم مركّب. والشارع يقع في العَراد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Laghboum» is the wadi's name, and «Wadi» means a valley; the name is compound. The street lies in Al 'Arad, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-laffat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لَفَّات",
+  "en": "Wadi Laffat Street",
+  "meaning": {
+    "ar": "«وادِي لَفَّات»: وادٍ، و«لَفَّات» اسمه",
+    "en": "Wadi Laffat: a valley, and «Laffat» its name"
+  },
+  "story": {
+    "ar": "«وادِي» أي وادٍ، و«لَفَّات» اسم يحمله الموضع. وهو من شوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Laffat» is the name the site carries; «Wadi» means a valley. It is one of the streets of Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-lifray-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لِفرَي",
+  "en": "Wadi Lifray Street",
+  "meaning": {
+    "ar": "«وادِي لِفرَي»: وادٍ",
+    "en": "Wadi Lifray: a valley"
+  },
+  "story": {
+    "ar": "اسم الوادي «وادِي»، و«لِفرَي» اسم الموضع. والاسم يُنسب إلى موضع، والشارع في الظَّاهِر من إمارة أبوظبي.",
+    "en": "«Lifray» is the site name, and the wadi is called «Wadi». The name is attributed to a site, and the street lies in Al Dhahir, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-lmyahah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لميَحة",
+  "en": "Wadi Lmyahah Street",
+  "meaning": {
+    "ar": "«وادِي لميَحة»: وادٍ يُنسب إلى لميَحة",
+    "en": "Wadi Lmyahah: a valley attributed to Lmyahah"
+  },
+  "story": {
+    "ar": "«لميَحة» اسم يُضاف إلى «وادِي» وادٍ، ولا يُفسَّر بالمعجم. وتقع الشوارع التي تحمل هذا الاسم في المَنهَل بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Lmyahah» is the name added to the wadi «Wadi», and no dictionary glosses it. Streets carrying this name lie in Al Manhal, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-loud-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لُود",
+  "en": "Wadi Loud Street",
+  "meaning": {
+    "ar": "«وادِي لُود»: وادٍ، و«لُود» اسمه",
+    "en": "Wadi Loud: a valley, and «Loud» its name"
+  },
+  "story": {
+    "ar": "«وادِي لُود» وادٍ، و«لُود» اسم لا تُفسَّره المعاجم. وهو شارع في الخَزنة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Loud» names the wadi «Wadi Loud» and no dictionary glosses it. It is a street in Al Khaznah, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-lourayn-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لورَين",
+  "en": "Wadi Lourayn Street",
+  "meaning": {
+    "ar": "«وادِي لورَين»: وادٍ",
+    "en": "Wadi Lourayn: a valley"
+  },
+  "story": {
+    "ar": "«لورَين» اسم الموضع الذي فيه الوادي «وادِي»، وليس كلمة تُفسَّر. والشارع في العِقَابِيَّة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Lourayn» is the name of the place holding the wadi «Wadi», not a word to gloss. The street lies in Al 'Iqabiyyah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-lousat-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لُوساط",
+  "en": "Wadi Lousat Street",
+  "meaning": {
+    "ar": "«وادِي لُوساط»: وادٍ يُنسب إلى لُوساط",
+    "en": "Wadi Lousat: a valley attributed to Lousat"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ و«لُوساط» اسم علم للموضع لا يُفسَّر. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Lousat» is a proper name for the site of the wadi «Wadi» and is not glossed. The site gave its name to the street in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-leel-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لِيل",
+  "en": "Wadi Leel Street",
+  "meaning": {
+    "ar": "«وادِي لِيل»: وادٍ، و«لِيل» اسمه",
+    "en": "Wadi Leel: a valley, and «Leel» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«لِيل» يُنسب إليها اسم الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في بني ياس.",
+    "en": "«Leel» is the site name attributed to the wadi «Wadi». The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Bani Yas."
+  }
+},
+{
+  "id": "wadi-leem-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي لِيم",
+  "en": "Wadi Leem Street",
+  "meaning": {
+    "ar": "«وادِي لِيم»: وادٍ",
+    "en": "Wadi Leem: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي» في الموضع المعروف بـ«لِيم». والشارع يقع في السَّعادة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "The wadi «Wadi» stands at the site known as «Leem». The street lies in Al Sa'adah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-mihayl-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي محَيل",
+  "en": "Wadi Mihayl Street",
+  "meaning": {
+    "ar": "«وادِي محَيل»: وادٍ يُنسب إلى محَيل",
+    "en": "Wadi Mihayl: a valley attributed to Mihayl"
+  },
+  "story": {
+    "ar": "«محَيل» اسم موضع الوادي، و«وادِي» وادٍ من أسماء المواضع. وهو من شوارع الظَّاهِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Mihayl» names the site, and «Wadi» is its wadi, one of the place names. It is one of the streets of Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-mad-hah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مَدحه",
+  "en": "Wadi Mad-hah Street",
+  "meaning": {
+    "ar": "«وادِي مَدحه»: وادٍ، و«مَدحه» اسمه",
+    "en": "Wadi Mad-hah: a valley, and «Mad-hah» its name"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ واسم موضعه «مَدحه»، وليس كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
+    "en": "«Mad-hah» names the site of the wadi «Wadi» and is not a word to gloss. The name is attributed to a site, and the street lies in Mohamed Bin Zayed City, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-madnan-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مدنان",
+  "en": "Wadi Madnan Street",
+  "meaning": {
+    "ar": "«وادِي مدنان»: وادٍ",
+    "en": "Wadi Madnan: a valley"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«مدنان» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الظَّاهِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Madnan» names the site of the wadi «Wadi», not as a word to be glossed. Streets carrying this name lie in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-mdayah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مدَيَّة",
+  "en": "Wadi Mdayah Street",
+  "meaning": {
+    "ar": "«وادِي مدَيَّة»: وادٍ يُنسب إلى مدَيَّة",
+    "en": "Wadi Mdayah: a valley attributed to Mdayah"
+  },
+  "story": {
+    "ar": "«مدَيَّة» اسم الوادي «وادِي»؛ و«وادِي» وادٍ. وهو شارع في الشِّوَيْب، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Mdayah» is the name of the site of the wadi «Wadi»; «Wadi» is a valley. It is a street in Al Shiwayb, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-maragh-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مَراغ",
+  "en": "Wadi Maragh Street",
+  "meaning": {
+    "ar": "«وادِي مَراغ»: وادٍ، و«مَراغ» اسمه",
+    "en": "Wadi Maragh: a valley, and «Maragh» its name"
+  },
+  "story": {
+    "ar": "وادٍ اسمه «وادِي»، و«مَراغ» اسم يُنسب إليه. والشارع في النَّهضة، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Maragh» is the name attributed to the wadi «Wadi». The street lies in Al Nahdah, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-murtaqam-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع واَدي مُرتَقَم",
+  "en": "Wadi Murtaqam Street",
+  "meaning": {
+    "ar": "«واَدي مُرتَقَم»: وادٍ",
+    "en": "Wadi Murtaqam: a valley"
+  },
+  "story": {
+    "ar": "«مُرتَقَم» اسم الموضع، و«واَدي» وادٍ من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«Murtaqam» names the site, and «Wadi» is the wadi there, a place name. The site gave its name to the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-mus-ad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مُسعَد",
+  "en": "Wadi Mus'ad Street",
+  "meaning": {
+    "ar": "«وادِي مُسعَد»: وادٍ يُنسب إلى مُسعَد",
+    "en": "Wadi Mus'ad: a valley attributed to Mus'ad"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«مُسعَد» اسم يُنسب إليه الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في السَّلاَمَات.",
+    "en": "«Mus'ad» is the name the site is given; «Wadi» is a valley. The name belongs to the place names that streets in the Emirate of Abu Dhabi are named after, and the street lies in Al Salamat."
+  }
+},
+{
+  "id": "wadi-misayneenah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مِسَينينة",
+  "en": "Wadi Misayneenah Street",
+  "meaning": {
+    "ar": "«وادِي مِسَينينة»: وادٍ، و«مِسَينينة» اسمه",
+    "en": "Wadi Misayneenah: a valley, and «Misayneenah» its name"
+  },
+  "story": {
+    "ar": "«مِسَينينة» اسم لا يُفسَّر بالمعجم، والوادي «وادِي». والشارع يقع في البطين من إمارة أبوظبي، والاسم مأخوذ من موضع.",
+    "en": "«Misayneenah» is not a word for the dictionary but the name on the wadi «Wadi». The street lies in Al Bateen, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-madhal-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مَظال",
+  "en": "Wadi Madhal Street",
+  "meaning": {
+    "ar": "«وادِي مَظال»: وادٍ",
+    "en": "Wadi Madhal: a valley"
+  },
+  "story": {
+    "ar": "وادٍ «وادِي»، و«مَظال» اسمه الذي يُنسب إليه. وهو من شوارع الهِيَر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
+    "en": "«Madhal» is the name the wadi «Wadi» goes by. It is one of the streets of Al Hiyar, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ma-ad-dah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مَعاضده",
+  "en": "Wadi Ma'ad-dah Street",
+  "meaning": {
+    "ar": "«وادِي مَعاضده»: وادٍ يُنسب إلى مَعاضده",
+    "en": "Wadi Ma'ad-dah: a valley attributed to Ma'ad-dah"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«مَعاضده» اسم للموضع لا للكلمة. والاسم يُنسب إلى موضع، والشارع في شعبة الوُطَاه من إمارة أبوظبي.",
+    "en": "«Ma'ad-dah» belongs to the site of «Wadi» as a name, not a word. The name is attributed to a site, and the street lies in Shi'bat Al Wutah, in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-mu-tirdah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مُعتِرضة",
+  "en": "Wadi Mu'tirdah Street",
+  "meaning": {
+    "ar": "«وادِي مُعتِرضة»: وادٍ، و«مُعتِرضة» اسمه",
+    "en": "Wadi Mu'tirdah: a valley, and «Mu'tirdah» its name"
+  },
+  "story": {
+    "ar": "«مُعتِرضة» اسم موضع الوادي «وادِي»، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في بو كِرَيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
+    "en": "«Mu'tirdah» names the site of the wadi «Wadi» and is not a word to be glossed. Streets carrying this name lie in Bu Kirayyah, Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-ma-ad-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي مَعَد",
+  "en": "Wadi Ma'ad Street",
+  "meaning": {
+    "ar": "«وادِي مَعَد»: وادٍ",
+    "en": "Wadi Ma'ad: a valley"
+  },
+  "story": {
+    "ar": "الاسم «وادِي مَعَد»: وادٍ، و«مَعَد» اسم. وهو شارع في الهِيَر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
+    "en": "«Ma'ad» completes the name of the wadi «Wadi Ma'ad» — a name, not a word. It is a street in Al Hiyar, the name taken from a place name in the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-mi-aytiq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي معَيتق",
+  "en": "Wadi Mi'aytiq Street",
+  "meaning": {
+    "ar": "«وادِي معَيتق»: وادٍ يُنسب إلى معَيتق",
+    "en": "Wadi Mi'aytiq: a valley attributed to Mi'aytiq"
+  },
+  "story": {
+    "ar": "«وادِي» وادٍ، و«معَيتق» اسمه، والاسم من أسماء المواضع. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
+    "en": "«Mi'aytiq» is the name of the wadi «Wadi», and the name belongs to the place names. The street lies in Bani Yas, and the name belongs to the place names of the Emirate of Abu Dhabi."
+  }
+},
+{
+  "id": "wadi-m-aysheeq-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع وادِي معَيشِيق",
+  "en": "Wadi M'aysheeq Street",
+  "meaning": {
+    "ar": "«وادِي معَيشِيق»: وادٍ، و«معَيشِيق» اسمه",
+    "en": "Wadi M'aysheeq: a valley, and «M'aysheeq» its name"
+  },
+  "story": {
+    "ar": "«معَيشِيق» من أسماء المواضع، و«وادِي» وادٍ يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في مدينة خليفة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
+    "en": "«M'aysheeq» is one of the place names that the wadi «Wadi» is attributed to. The site gave its name to the street in Khalifa City, Abu Dhabi."
+  }
 }
 ];
