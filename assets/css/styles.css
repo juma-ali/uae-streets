@@ -822,3 +822,10 @@ html[dir="rtl"] .card__ar { text-align: right; }
 
 .roads-foot { margin: .5rem 0 2rem; font-size: .85rem; color: var(--ink-3); }
 .roads-foot a { color: var(--ink-2); }
+
+/* ---------- visitor total ---------- */
+.visits {
+  margin: .9rem 0 0; font-size: .78rem; color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.visits b { color: var(--ink-2); font-weight: 600; }
