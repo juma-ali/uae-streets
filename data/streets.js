@@ -629,8 +629,8 @@ window.STREETS = [
     "en": "A poet and companion of Sheikh Khalifa bin Shakhbut"
   },
   "story": {
-    "ar": "عبدالهادي بن شعبان آل شظيب المطيوعي المنصوري، وُلد نحو ١٨٠١، شاعر معروف ومرافق للشيخ خليفة بن شخبوط بن ذياب. وحمل الشارع في التسمية القديمة الرقم ٢٩٤.",
-    "en": "Abdulhadi bin Shaaban Al Shazib Al Matyoui Al Mansouri, born around 1801, was a known poet and a companion of Sheikh Khalifa bin Shakhbut bin Dhiyab. The street carried the number 294 in the older naming."
+    "ar": "عبدالهادي بن شعبان آل شظيب المطيوعي المنصوري، وُلد نحو ١٨٠١، شاعر معروف ومرافق للشيخ خليفة بن شخبوط بن ذياب.",
+    "en": "Abdulhadi bin Shaaban Al Shazib Al Matyoui Al Mansouri, born around 1801, was a known poet and a companion of Sheikh Khalifa bin Shakhbut bin Dhiyab."
   },
   "refs": [
     {
@@ -704,8 +704,8 @@ window.STREETS = [
     "en": "Elder of Al Bu Muhair and one of the known figures of Abu Dhabi"
   },
   "story": {
-    "ar": "عبدالله بن عبدالله بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٨٨٥، كبير آل بو مهير وأحد رجال أبوظبي المعروفين. وحمل الشارع في التسمية القديمة الرقم ٨٣.",
-    "en": "Abdullah bin Abdullah bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1885, was the elder of Al Bu Muhair and one of the known figures of Abu Dhabi. The street carried the number 83 in the older naming."
+    "ar": "عبدالله بن عبدالله بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٨٨٥، كبير آل بو مهير وأحد رجال أبوظبي المعروفين.",
+    "en": "Abdullah bin Abdullah bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1885, was the elder of Al Bu Muhair and one of the known figures of Abu Dhabi."
   },
   "refs": [
     {
@@ -5404,8 +5404,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat, was wounded there, and died in 2005"
   },
   "story": {
-    "ar": "الرضه بن كمادي بن زيتون بن بيات المهيري، وُلد نحو ١٩١٨، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات، وتوفي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ٥٨٠.",
-    "en": "Al Rada bin Kamadi bin Zaitoon bin Bayat Al Muhairi, born around 1918, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s, and died in 2005. The street carried the number 580 in the older naming."
+    "ar": "الرضه بن كمادي بن زيتون بن بيات المهيري، وُلد نحو ١٩١٨، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات، وتوفي سنة ٢٠٠٥.",
+    "en": "Al Rada bin Kamadi bin Zaitoon bin Bayat Al Muhairi, born around 1918, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s, and died in 2005."
   },
   "refs": [
     {
@@ -5487,8 +5487,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "ar": "الصغيّر بن خادم بن شلبوت الخييلي، وُلد نحو ١٩١٦، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٤٥.",
-    "en": "Al Saghir bin Khadem bin Shalboot Al Khaili, born around 1916, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 645 in the older naming."
+    "ar": "الصغيّر بن خادم بن شلبوت الخييلي، وُلد نحو ١٩١٦، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات.",
+    "en": "Al Saghir bin Khadem bin Shalboot Al Khaili, born around 1916, took part in the affair of Al Shmeirikhat and died in it in the late 1940s."
   },
   "refs": [
     {
@@ -5509,8 +5509,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and was wounded there"
   },
   "story": {
-    "ar": "العيينه بن عصيان الكليلي العامري، وُلد نحو ١٩١٠، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٢٥.",
-    "en": "Alayena bin Aseyan Al Kalili Al Ameri, born around 1910, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 625 in the older naming."
+    "ar": "العيينه بن عصيان الكليلي العامري، وُلد نحو ١٩١٠، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات.",
+    "en": "Alayena bin Aseyan Al Kalili Al Ameri, born around 1910, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s."
   },
   "refs": [
     {
@@ -5609,8 +5609,8 @@ window.STREETS = [
     "en": "Elder of the Al Ruwaidh clan, a judge, poet and horseman"
   },
   "story": {
-    "ar": "الفندي بن غانم بن عطيش آل رويشد المزروعي، كبير فخذ آل رويشد من المزاريع، وُلد نحو ١٨٨٠، قاضٍ وشاعر وفارس، حكيم الرأي، وكان يحل المشاكل بين القبائل، وكان يقيم في محضر خنور في إليوا. وتوفي في الخمسينيات. وحمل الشارع في التسمية القديمة الرقم ٧٥٢.",
-    "en": "Al Fendi bin Ghanem bin Atteesh Al Ruwaidh Al Mazrouei, elder of the Al Ruwaidh clan of the Mazarei, born around 1880, was a judge, poet and horseman of sound judgement; he settled issues between the tribes and lived in Madhhar Khunur in Liwa. He died in the 1950s. The street carried the number 752 in the older naming."
+    "ar": "الفندي بن غانم بن عطيش آل رويشد المزروعي، كبير فخذ آل رويشد من المزاريع، وُلد نحو ١٨٨٠، قاضٍ وشاعر وفارس، حكيم الرأي، وكان يحل المشاكل بين القبائل، وكان يقيم في محضر خنور في إليوا. وتوفي في الخمسينيات.",
+    "en": "Al Fendi bin Ghanem bin Atteesh Al Ruwaidh Al Mazrouei, elder of the Al Ruwaidh clan of the Mazarei, born around 1880, was a judge, poet and horseman of sound judgement; he settled issues between the tribes and lived in Madhhar Khunur in Liwa. He died in the 1950s."
   },
   "refs": [
     {
@@ -5631,8 +5631,8 @@ window.STREETS = [
     "en": "A man of letters, poet, storyteller and deputy of the ruler's representative in Al Dhafra"
   },
   "story": {
-    "ar": "الكندي بن مصبح الكندي بن علي بن سالم بوملحا المرر، وُلد نحو ١٩٤٩، أديب وشاعر وراوي للقصص، عمل في الجمارك ثم في وزارة العمل والشؤون الاجتماعية، وعمل وكيل ممثل الحاكم في منطقة الظفرة، وتوفي سنة ٢٠٠٤. وحمل الشارع في التسمية القديمة الرقم ١٩٤.",
-    "en": "Al Kindi bin Musabah Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1949, was a man of letters, poet and storyteller; he worked in customs, then in the Ministry of Labour and Social Affairs, and served as deputy of the ruler's representative in the Al Dhafra region. He died in 2004. The street carried the number 194 in the older naming."
+    "ar": "الكندي بن مصبح الكندي بن علي بن سالم بوملحا المرر، وُلد نحو ١٩٤٩، أديب وشاعر وراوي للقصص، عمل في الجمارك ثم في وزارة العمل والشؤون الاجتماعية، وعمل وكيل ممثل الحاكم في منطقة الظفرة، وتوفي سنة ٢٠٠٤.",
+    "en": "Al Kindi bin Musabah Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1949, was a man of letters, poet and storyteller; he worked in customs, then in the Ministry of Labour and Social Affairs, and served as deputy of the ruler's representative in the Al Dhafra region. He died in 2004."
   },
   "refs": [
     {
@@ -5797,8 +5797,8 @@ window.STREETS = [
     "en": "A known poet of the people of the Al Ain region"
   },
   "story": {
-    "ar": "بخيت بن خلفان بن زنيد الخييلي، وُلد نحو ١٩٣٠، شاعر معروف من أهل منطقة العين. وحمل الشارع في التسمية القديمة الرقم ٦٤٤.",
-    "en": "Bakhit bin Khalfan bin Zunaid Al Khaili, born around 1930, was a known poet of the people of the Al Ain region. The street carried the number 644 in the older naming."
+    "ar": "بخيت بن خلفان بن زنيد الخييلي، وُلد نحو ١٩٣٠، شاعر معروف من أهل منطقة العين.",
+    "en": "Bakhit bin Khalfan bin Zunaid Al Khaili, born around 1930, was a known poet of the people of the Al Ain region."
   },
   "refs": [
     {
@@ -5836,8 +5836,8 @@ window.STREETS = [
     "en": "A known poet of the northern sands region"
   },
   "story": {
-    "ar": "بخيت بن علي بن ميزر بن علي بن سعيد ميزر الرميثي، وُلد نحو ١٩٠٥، شاعر معروف من منطقة الطف الشمالي، وتوفي نحو ١٩٥١. وحمل الشارع في التسمية القديمة الرقم ٣٦١.",
-    "en": "Bakhit bin Ali bin Mizar bin Ali bin Saeed Mizar Al Rumaithi, born around 1905, was a known poet of the northern sands region, and died around 1951. The street carried the number 361 in the older naming."
+    "ar": "بخيت بن علي بن ميزر بن علي بن سعيد ميزر الرميثي، وُلد نحو ١٩٠٥، شاعر معروف من منطقة الطف الشمالي، وتوفي نحو ١٩٥١.",
+    "en": "Bakhit bin Ali bin Mizar bin Ali bin Saeed Mizar Al Rumaithi, born around 1905, was a known poet of the northern sands region, and died around 1951."
   },
   "refs": [
     {
@@ -5919,8 +5919,8 @@ window.STREETS = [
     "en": "A known poet of the people of Dalma"
   },
   "story": {
-    "ar": "بطي بن خميس بن المغنى القبيسي، وُلد نحو ١٩٢٠، شاعر معروف من أهالي دلما. وحمل الشارع في التسمية القديمة الرقم ٣٥٨.",
-    "en": "Butti bin Khamis bin Al Mughni Al Qubaisi, born around 1920, was a known poet of the people of Dalma. The street carried the number 358 in the older naming."
+    "ar": "بطي بن خميس بن المغنى القبيسي، وُلد نحو ١٩٢٠، شاعر معروف من أهالي دلما.",
+    "en": "Butti bin Khamis bin Al Mughni Al Qubaisi, born around 1920, was a known poet of the people of Dalma."
   },
   "refs": [
     {
@@ -5958,8 +5958,8 @@ window.STREETS = [
     "en": "A poet and man of letters who lived on Dalma Island"
   },
   "story": {
-    "ar": "بيات بن محمد بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٣٠، شاعر وأديب عاش في جزيرة دلما. وحمل الشارع في التسمية القديمة الرقم ٧٧٥.",
-    "en": "Bayat bin Mohammed bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1930, was a poet and man of letters who lived on Dalma Island. The street carried the number 775 in the older naming."
+    "ar": "بيات بن محمد بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٣٠، شاعر وأديب عاش في جزيرة دلما.",
+    "en": "Bayat bin Mohammed bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1930, was a poet and man of letters who lived on Dalma Island."
   },
   "refs": [
     {
@@ -6136,8 +6136,8 @@ window.STREETS = [
     "ar": "أول رئيس للمجلس الوطني الاتحادي"
   },
   "story": {
-    "ar": "ثاني بن عبدالله بن حميد بن مرشد الرميثي، وُلد نحو ١٩٠٨، ذو رأي سديد، أشار على الشيخ شخبوط بن سلطان آل نهيان ببناء المدرسة الفلاحية سنة ١٩٥٨، وكان أول رئيس للمجلس الوطني الاتحادي، ويُعرف بـ«بوقفل». وحمل الشارع في التسمية القديمة الرقم ٤٣.",
-    "en": "Thani ibn Abdullah ibn Hamid ibn Murshid Al Rumaithi, born around 1908, was known for sound judgement. He advised Sheikh Shakhbut bin Sultan Al Nahyan to build the Agricultural School in 1958, and he was the first president of the Federal National Council. He was known as «Bu Qifl». The street carried the number 43 in the older naming."
+    "ar": "ثاني بن عبدالله بن حميد بن مرشد الرميثي، وُلد نحو ١٩٠٨، ذو رأي سديد، أشار على الشيخ شخبوط بن سلطان آل نهيان ببناء المدرسة الفلاحية سنة ١٩٥٨، وكان أول رئيس للمجلس الوطني الاتحادي، ويُعرف بـ«بوقفل».",
+    "en": "Thani ibn Abdullah ibn Hamid ibn Murshid Al Rumaithi, born around 1908, was known for sound judgement. He advised Sheikh Shakhbut bin Sultan Al Nahyan to build the Agricultural School in 1958, and he was the first president of the Federal National Council. He was known as «Bu Qifl»."
   },
   "refs": [
     {
@@ -6248,8 +6248,8 @@ window.STREETS = [
     "en": "A teacher, mutawwa' and folk healer in Al Ain"
   },
   "story": {
-    "ar": "جمعة بن بخيت بن جمعة الدرمكي، وُلد نحو ١٩٢٠، معلم ومدرس بالمطوع بين أهالي العين في القطارة، وهو أحد المعالجين الشعبيين. وحمل الشارع في التسمية القديمة الرقم ٥٠٤.",
-    "en": "Juma bin Bakhit bin Juma Al Darmaki, born around 1920, was a teacher and instructor, a mutawwa' among the people of Al Ain in Al Qattara, and one of the folk healers. The street carried the number 504 in the older naming."
+    "ar": "جمعة بن بخيت بن جمعة الدرمكي، وُلد نحو ١٩٢٠، معلم ومدرس بالمطوع بين أهالي العين في القطارة، وهو أحد المعالجين الشعبيين.",
+    "en": "Juma bin Bakhit bin Juma Al Darmaki, born around 1920, was a teacher and instructor, a mutawwa' among the people of Al Ain in Al Qattara, and one of the folk healers."
   },
   "refs": [
     {
@@ -6348,8 +6348,8 @@ window.STREETS = [
     "en": "Maternal uncle of the founder of the state, Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "حامد بن بطي بن خادم بن نهيمان القبيسي، وُلد نحو ١٨٨٥، أحد رجالات إمارة أبوظبي، وهو خال مؤسس الدولة الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٨.",
-    "en": "Hamed bin Butti bin Khadim bin Nuhayman Al Qubaisi, born around 1885, was one of the notables of the Emirate of Abu Dhabi, and the maternal uncle of the founder of the state, Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 68 in the older naming."
+    "ar": "حامد بن بطي بن خادم بن نهيمان القبيسي، وُلد نحو ١٨٨٥، أحد رجالات إمارة أبوظبي، وهو خال مؤسس الدولة الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Hamed bin Butti bin Khadim bin Nuhayman Al Qubaisi, born around 1885, was one of the notables of the Emirate of Abu Dhabi, and the maternal uncle of the founder of the state, Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -6431,8 +6431,8 @@ window.STREETS = [
     "en": "A poet of Al Dhafra who was close to Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "الدحّام بن زايد بن خلفان بن حمد بو حميّد المزروعي، وُلد نحو ١٩١٥، شاعر من سكان الظفرة ومن المقربين للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٨٩.",
-    "en": "Al Dahham bin Zayed bin Khalfan bin Hamd Bu Humaid Al Mazrouei, born around 1915, was a poet of the people of Al Dhafra and one of those close to Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 789 in the older naming."
+    "ar": "الدحّام بن زايد بن خلفان بن حمد بو حميّد المزروعي، وُلد نحو ١٩١٥، شاعر من سكان الظفرة ومن المقربين للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Al Dahham bin Zayed bin Khalfan bin Hamd Bu Humaid Al Mazrouei, born around 1915, was a poet of the people of Al Dhafra and one of those close to Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -6453,8 +6453,8 @@ window.STREETS = [
     "en": "Official for the affairs of Al Qattara in Al Ain and a known guide"
   },
   "story": {
-    "ar": "الدودة بن مكتوم الشريفي العامري، وُلد نحو ١٩١٨، كُلّف بشؤون القطارة في العين في عهد الشيخ زايد بن سلطان، وأحد الأدلة المعروفين، وتوفي في الثمانينيات. وحمل الشارع في التسمية القديمة الرقم ٥٢٩.",
-    "en": "Al Doda bin Maktoum Al Sheraifi Al Ameri, born around 1918, was tasked with the affairs of Al Qattara in Al Ain under Sheikh Zayed bin Sultan, and was one of the known guides; he died in the 1980s. The street carried the number 529 in the older naming."
+    "ar": "الدودة بن مكتوم الشريفي العامري، وُلد نحو ١٩١٨، كُلّف بشؤون القطارة في العين في عهد الشيخ زايد بن سلطان، وأحد الأدلة المعروفين، وتوفي في الثمانينيات.",
+    "en": "Al Doda bin Maktoum Al Sheraifi Al Ameri, born around 1918, was tasked with the affairs of Al Qattara in Al Ain under Sheikh Zayed bin Sultan, and was one of the known guides; he died in the 1980s."
   },
   "refs": [
     {
@@ -6492,8 +6492,8 @@ window.STREETS = [
     "en": "A judge and poet in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "الطاهر بن علي بن سالم بو ملحا المرر، وُلد نحو ١٨٦٠، قاضٍ في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، وكان شاعراً، وتوفي سنة ١٩٤٠ في محضر عتّاب في إليوا. وحمل الشارع في التسمية القديمة الرقم ٢١٨.",
-    "en": "Al Taher bin Ali bin Salem Bu Melha Al Marar, born around 1860, was a judge under Sheikh Zayed the First (1855–1909) and a poet; he died in 1940 in Madhhar Attab in Liwa. The street carried the number 218 in the older naming."
+    "ar": "الطاهر بن علي بن سالم بو ملحا المرر، وُلد نحو ١٨٦٠، قاضٍ في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، وكان شاعراً، وتوفي سنة ١٩٤٠ في محضر عتّاب في إليوا.",
+    "en": "Al Taher bin Ali bin Salem Bu Melha Al Marar, born around 1860, was a judge under Sheikh Zayed the First (1855–1909) and a poet; he died in 1940 in Madhhar Attab in Liwa."
   },
   "refs": [
     {
@@ -6761,8 +6761,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council, the Municipal Council and the Chamber of Commerce"
   },
   "story": {
-    "ar": "حاجي بن عبدالله بن حسين الخوري، وُلد نحو ١٩٤١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، والمجلس البلدي لمدينة أبوظبي، وغرفة تجارة وصناعة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٩٦.",
-    "en": "Hajji bin Abdullah bin Hussein Al Khouri, born around 1941, was a member of the National Consultative Council in 1971, of the Municipal Council of Abu Dhabi city, and of the Abu Dhabi Chamber of Commerce and Industry. The street carried the number 96 in the older naming."
+    "ar": "حاجي بن عبدالله بن حسين الخوري، وُلد نحو ١٩٤١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، والمجلس البلدي لمدينة أبوظبي، وغرفة تجارة وصناعة أبوظبي.",
+    "en": "Hajji bin Abdullah bin Hussein Al Khouri, born around 1941, was a member of the National Consultative Council in 1971, of the Municipal Council of Abu Dhabi city, and of the Abu Dhabi Chamber of Commerce and Industry."
   },
   "refs": [
     {
@@ -6783,8 +6783,8 @@ window.STREETS = [
     "en": "A companion and watchman for Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "حارب بن محمد بن سعيد بن سبت مسلم الخييلي، وُلد نحو ١٩١٩، مرافق ومطارزي للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٤٣.",
-    "en": "Hareb bin Mohammed bin Saeed bin Sabt Muslim Al Khaili, born around 1919, was a companion and watchman for Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 643 in the older naming."
+    "ar": "حارب بن محمد بن سعيد بن سبت مسلم الخييلي، وُلد نحو ١٩١٩، مرافق ومطارزي للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Hareb bin Mohammed bin Saeed bin Sabt Muslim Al Khaili, born around 1919, was a companion and watchman for Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -7672,8 +7672,8 @@ window.STREETS = [
     "en": "A judge for livestock claims under Zayed the First"
   },
   "story": {
-    "ar": "عبدالله بالهضعي الشريفي العامري، وُلد نحو ١٨٦٠، قاضٍ كلّفه الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالفصل في مطالبات الحلال بين أهل البادية. وحمل الشارع في التسمية القديمة الرقم ٥٣٤.",
-    "en": "Abdullah Al Hadaa Al Sheraifi Al Ameri, born around 1860, was a judge whom Sheikh Zayed the First (1855–1909) tasked with settling livestock claims among the people of the desert. The street carried the number 534 in the older naming."
+    "ar": "عبدالله بالهضعي الشريفي العامري، وُلد نحو ١٨٦٠، قاضٍ كلّفه الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالفصل في مطالبات الحلال بين أهل البادية.",
+    "en": "Abdullah Al Hadaa Al Sheraifi Al Ameri, born around 1860, was a judge whom Sheikh Zayed the First (1855–1909) tasked with settling livestock claims among the people of the desert."
   },
   "refs": [
     {
@@ -7694,8 +7694,8 @@ window.STREETS = [
     "en": "The official in charge of Das Island under Sheikh Shakhbut"
   },
   "story": {
-    "ar": "عبدالله بن محمد بن صالح بالهول السويدي، وُلد نحو ١٩١٦، مسؤول جزيرة داس في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٥٠.",
-    "en": "Abdullah bin Mohammed bin Saleh Bilhoul Al Suwaidi, born around 1916, was the official in charge of Das Island under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 250 in the older naming."
+    "ar": "عبدالله بن محمد بن صالح بالهول السويدي، وُلد نحو ١٩١٦، مسؤول جزيرة داس في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Abdullah bin Mohammed bin Saleh Bilhoul Al Suwaidi, born around 1916, was the official in charge of Das Island under Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -7716,8 +7716,8 @@ window.STREETS = [
     "en": "Elder of the Hawamil and assistant to the ruler's representative in the Western Region"
   },
   "story": {
-    "ar": "عبدالله بن علي بن صباح الهاملي، وُلد نحو ١٩٠٤، مساعد ممثل الحاكم في منطقة الغربية / إليوا حتى سنة ١٩٦٤، وكبير الهوامل. وحمل الشارع في التسمية القديمة الرقم ٧٩٠.",
-    "en": "Abdullah bin Ali bin Sabah Al Hameli, born around 1904, was assistant to the ruler's representative in the Western Region / Liwa until 1964, and elder of the Hawamil. The street carried the number 790 in the older naming."
+    "ar": "عبدالله بن علي بن صباح الهاملي، وُلد نحو ١٩٠٤، مساعد ممثل الحاكم في منطقة الغربية / إليوا حتى سنة ١٩٦٤، وكبير الهوامل.",
+    "en": "Abdullah bin Ali bin Sabah Al Hameli, born around 1904, was assistant to the ruler's representative in the Western Region / Liwa until 1964, and elder of the Hawamil."
   },
   "refs": [
     {
@@ -7738,8 +7738,8 @@ window.STREETS = [
     "en": "Of Al Ain, and a companion of Sheikh Zayed"
   },
   "story": {
-    "ar": "عبدالله بن ظاهر بن عبدالله بن مطر المهيري، وُلد نحو ١٩٢٣، من أهل العين، ومرافق للشيخ زايد بن سلطان. وحمل الشارع في التسمية القديمة الرقم ٥٩٦.",
-    "en": "Abdullah bin Dhahir bin Abdullah bin Matar Al Muhairi, born around 1923, was from Al Ain and a companion of Sheikh Zayed bin Sultan. The street carried the number 596 in the older naming."
+    "ar": "عبدالله بن ظاهر بن عبدالله بن مطر المهيري، وُلد نحو ١٩٢٣، من أهل العين، ومرافق للشيخ زايد بن سلطان.",
+    "en": "Abdullah bin Dhahir bin Abdullah bin Matar Al Muhairi, born around 1923, was from Al Ain and a companion of Sheikh Zayed bin Sultan."
   },
   "refs": [
     {
@@ -7760,8 +7760,8 @@ window.STREETS = [
     "en": "Oversaw the education of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "عبدالله بن محمد بن غانم بن سالم بن عبدالله بن سبت الشامسي، وُلد نحو ١٩٠٠، معلم وشيخ علم من أهل العين، أشرف على تعليم الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٥٣٧.",
-    "en": "Abdullah bin Mohammed bin Ghanem bin Salem bin Abdullah bin Sabt Al Shamsi, born around 1900, was a teacher and scholar of Al Ain who oversaw the education of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 537 in the older naming."
+    "ar": "عبدالله بن محمد بن غانم بن سالم بن عبدالله بن سبت الشامسي، وُلد نحو ١٩٠٠، معلم وشيخ علم من أهل العين، أشرف على تعليم الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Abdullah bin Mohammed bin Ghanem bin Salem bin Abdullah bin Sabt Al Shamsi, born around 1900, was a teacher and scholar of Al Ain who oversaw the education of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -7782,8 +7782,8 @@ window.STREETS = [
     "en": "Amir of Al Ain in 1946 and adviser to Shakhbut"
   },
   "story": {
-    "ar": "عبدالله بن محمد بن غنوم الهاملي، وُلد نحو ١٩٠٠، أمير على العين سنة ١٩٤٦ ومستشار خاص للشيخ شخبوط بن سلطان، حضر توقيع اتفاقية التنقيب عن النفط سنة ١٩٥٠، وله مسجد قديم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٢١.",
-    "en": "Abdullah bin Mohammed bin Ghanoum Al Hameli, born around 1900, was the amir of Al Ain in 1946 and private adviser to Sheikh Shakhbut bin Sultan. He attended the signing of the oil exploration agreement in 1950, and an old mosque in Abu Dhabi carries his name. The street carried the number 621 in the older naming."
+    "ar": "عبدالله بن محمد بن غنوم الهاملي، وُلد نحو ١٩٠٠، أمير على العين سنة ١٩٤٦ ومستشار خاص للشيخ شخبوط بن سلطان، حضر توقيع اتفاقية التنقيب عن النفط سنة ١٩٥٠، وله مسجد قديم في أبوظبي.",
+    "en": "Abdullah bin Mohammed bin Ghanoum Al Hameli, born around 1900, was the amir of Al Ain in 1946 and private adviser to Sheikh Shakhbut bin Sultan. He attended the signing of the oil exploration agreement in 1950, and an old mosque in Abu Dhabi carries his name."
   },
   "refs": [
     {
@@ -7804,8 +7804,8 @@ window.STREETS = [
     "en": "One of the senior wutwashi of Abu Dhabi"
   },
   "story": {
-    "ar": "عبدالله بن حميد بن مرشد بن سالم الرميثي، وُلد نحو ١٨٨٥، من كبار وطواويش أبوظبي، عُرف بالكرم والسخاء وحب فعل الخير، وبنى عدة مساجد في أبوظبي منها ما هو باقٍ إلى اليوم. وحمل الشارع في التسمية القديمة الرقم ٦٩.",
-    "en": "Abdullah bin Humaid bin Murshid bin Salem Al Rumaithi, born around 1885, was one of the senior wutwashi of Abu Dhabi; he was known for generosity and munificence and for a love of doing good, and he built several mosques in Abu Dhabi, some of which still stand today. The street carried the number 69 in the older naming."
+    "ar": "عبدالله بن حميد بن مرشد بن سالم الرميثي، وُلد نحو ١٨٨٥، من كبار وطواويش أبوظبي، عُرف بالكرم والسخاء وحب فعل الخير، وبنى عدة مساجد في أبوظبي منها ما هو باقٍ إلى اليوم.",
+    "en": "Abdullah bin Humaid bin Murshid bin Salem Al Rumaithi, born around 1885, was one of the senior wutwashi of Abu Dhabi; he was known for generosity and munificence and for a love of doing good, and he built several mosques in Abu Dhabi, some of which still stand today."
   },
   "refs": [
     {
@@ -7826,8 +7826,8 @@ window.STREETS = [
     "en": "A poet present at the affair of Al Qara, 1889"
   },
   "story": {
-    "ar": "عبدالله بن جاسم بن جابر بن محمد المريخي، وُلد نحو ١٨٥٠، شارك في واقعة القارة سنة ١٨٨٩، وكان شاعراً معروفاً ومرافقاً للشيوخ. وحمل الشارع في التسمية القديمة الرقم ٧٧٩.",
-    "en": "Abdullah bin Jassim bin Jaber bin Mohammed Al Meraikhi, born around 1850, took part in the affair of Al Qara in 1889, and was a known poet and a companion of the rulers. The street carried the number 779 in the older naming."
+    "ar": "عبدالله بن جاسم بن جابر بن محمد المريخي، وُلد نحو ١٨٥٠، شارك في واقعة القارة سنة ١٨٨٩، وكان شاعراً معروفاً ومرافقاً للشيوخ.",
+    "en": "Abdullah bin Jassim bin Jaber bin Mohammed Al Meraikhi, born around 1850, took part in the affair of Al Qara in 1889, and was a known poet and a companion of the rulers."
   },
   "refs": [
     {
@@ -7848,8 +7848,8 @@ window.STREETS = [
     "en": "Builder of the fort of Madhhar Al Dhafir"
   },
   "story": {
-    "ar": "عبدالله بن كنيش بن ميثان الهاملي، وُلد نحو ١٨٣٠، باني قلعة محضر الظفير بمعاونة أهل المحضر، وتوفي في واقعة الخريس سنة ١٨٨٨ في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٣١١.",
-    "en": "Abdullah bin Kenaish bin Mithan Al Hameli, born around 1830, built the fort of Madhhar Al Dhafir with the help of the people of Madhhar, and died in the affair of Al Kharees in 1888 under Sheikh Zayed the First. The street carried the number 311 in the older naming."
+    "ar": "عبدالله بن كنيش بن ميثان الهاملي، وُلد نحو ١٨٣٠، باني قلعة محضر الظفير بمعاونة أهل المحضر، وتوفي في واقعة الخريس سنة ١٨٨٨ في عهد الشيخ زايد الأول.",
+    "en": "Abdullah bin Kenaish bin Mithan Al Hameli, born around 1830, built the fort of Madhhar Al Dhafir with the help of the people of Madhhar, and died in the affair of Al Kharees in 1888 under Sheikh Zayed the First."
   },
   "refs": [
     {
@@ -7870,8 +7870,8 @@ window.STREETS = [
     "en": "One of the known poets of the Emirate of Abu Dhabi"
   },
   "story": {
-    "ar": "عبدالله بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٠٢، شاعر من الشعراء المعروفين في إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٨٠.",
-    "en": "Abdullah bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1902, was one of the known poets of the Emirate of Abu Dhabi. The street carried the number 80 in the older naming."
+    "ar": "عبدالله بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٠٢، شاعر من الشعراء المعروفين في إمارة أبوظبي.",
+    "en": "Abdullah bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1902, was one of the known poets of the Emirate of Abu Dhabi."
   },
   "refs": [
     {
@@ -7892,8 +7892,8 @@ window.STREETS = [
     "en": "A watchman for Sheikh Shakhbut, of the people of Al Bateen"
   },
   "story": {
-    "ar": "عبدالله بن مسفر بن سيف السويدي، وُلد نحو ١٩١٩، مطارزي عند الشيخ شخبوط بن سلطان آل نهيان، من أهل البطين. وحمل الشارع في التسمية القديمة الرقم ١٧٨.",
-    "en": "Abdullah bin Misfer bin Saif Al Suwaidi, born around 1919, was a watchman for Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Al Bateen. The street carried the number 178 in the older naming."
+    "ar": "عبدالله بن مسفر بن سيف السويدي، وُلد نحو ١٩١٩، مطارزي عند الشيخ شخبوط بن سلطان آل نهيان، من أهل البطين.",
+    "en": "Abdullah bin Misfer bin Saif Al Suwaidi, born around 1919, was a watchman for Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Al Bateen."
   },
   "refs": [
     {
@@ -7914,8 +7914,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "عبدالله بن علي بن محمد بن شيبان المهيري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٠١.",
-    "en": "Abdullah bin Ali bin Mohammed bin Shaiban Al Muhairi, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 101 in the older naming."
+    "ar": "عبدالله بن علي بن محمد بن شيبان المهيري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Abdullah bin Ali bin Mohammed bin Shaiban Al Muhairi, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -7936,8 +7936,8 @@ window.STREETS = [
     "en": "First head of the Immigration and Customs Department"
   },
   "story": {
-    "ar": "عبدالله بن سلطان بن أحمد بن سعيد بن سليم الفلاسي، وُلد نحو ١٨٨٥، أول رئيس لدائرة الهجرة والجمارك في أبوظبي في عهد الشيخ شخبوط، ومن الشعراء المعروفين، وتوفي سنة ١٩٨٥. وحمل الشارع في التسمية القديمة الرقم ٣٣٢.",
-    "en": "Abdullah bin Sultan bin Ahmed bin Saeed bin Sulayem Al Falasi, born around 1885, was the first head of the Immigration and Customs Department in Abu Dhabi in the time of Sheikh Shakhbut, and one of the country's known poets. He died in 1985. The street carried the number 332 in the older naming."
+    "ar": "عبدالله بن سلطان بن أحمد بن سعيد بن سليم الفلاسي، وُلد نحو ١٨٨٥، أول رئيس لدائرة الهجرة والجمارك في أبوظبي في عهد الشيخ شخبوط، ومن الشعراء المعروفين، وتوفي سنة ١٩٨٥.",
+    "en": "Abdullah bin Sultan bin Ahmed bin Saeed bin Sulayem Al Falasi, born around 1885, was the first head of the Immigration and Customs Department in Abu Dhabi in the time of Sheikh Shakhbut, and one of the country's known poets. He died in 1985."
   },
   "refs": [
     {
@@ -7958,8 +7958,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "عبدالله بن سلطان بن راشد بن حميد بن مرشد الرميثي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٧٠.",
-    "en": "Abdullah bin Sultan bin Rashid bin Humaid bin Murshid Al Rumaithi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 170 in the older naming."
+    "ar": "عبدالله بن سلطان بن راشد بن حميد بن مرشد الرميثي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Abdullah bin Sultan bin Rashid bin Humaid bin Murshid Al Rumaithi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -7980,8 +7980,8 @@ window.STREETS = [
     "en": "Governor of Dalma Island under Sheikh Hamdan bin Zayed the First"
   },
   "story": {
-    "ar": "عبد الرحمن بن حمد النيدي القبيسي، وُلد نحو ١٨٧٢، والي جزيرة دلما في عهد الشيخ حمدان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٢١٥.",
-    "en": "Abdulrahman bin Hamd Al Needi Al Qubaisi, born around 1872, was the governor of Dalma Island under Sheikh Hamdan bin Zayed the First. The street carried the number 215 in the older naming."
+    "ar": "عبد الرحمن بن حمد النيدي القبيسي، وُلد نحو ١٨٧٢، والي جزيرة دلما في عهد الشيخ حمدان بن زايد الأول.",
+    "en": "Abdulrahman bin Hamd Al Needi Al Qubaisi, born around 1872, was the governor of Dalma Island under Sheikh Hamdan bin Zayed the First."
   },
   "refs": [
     {
@@ -8002,8 +8002,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد عبدالرحمن حسن عبدالله حسن الزعابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٣.",
-    "en": "The martyr Abdulrahman Hassan Abdullah Hassan Al Zaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 53 in the older naming."
+    "ar": "الشهيد عبدالرحمن حسن عبدالله حسن الزعابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Abdulrahman Hassan Abdullah Hassan Al Zaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -8024,8 +8024,8 @@ window.STREETS = [
     "en": "A known guide specialised in locating and digging for water"
   },
   "story": {
-    "ar": "عابر بن حيي بن عابر الهاملي، وُلد نحو ١٩٠٠، دليل معروف وحرفي في الحدادة، متخصص في معرفة وحفر المياه، من أهالي محضر قرمدة. وحمل الشارع في التسمية القديمة الرقم ٧٥٦.",
-    "en": "Aber bin Hayy bin Aber Al Hameli, born around 1900, was a known guide, a craftsman in blacksmithing and specialised in locating and digging for water, of the people of Madhhar Qarmada. The street carried the number 756 in the older naming."
+    "ar": "عابر بن حيي بن عابر الهاملي، وُلد نحو ١٩٠٠، دليل معروف وحرفي في الحدادة، متخصص في معرفة وحفر المياه، من أهالي محضر قرمدة.",
+    "en": "Aber bin Hayy bin Aber Al Hameli, born around 1900, was a known guide, a craftsman in blacksmithing and specialised in locating and digging for water, of the people of Madhhar Qarmada."
   },
   "refs": [
     {
@@ -8046,8 +8046,8 @@ window.STREETS = [
     "en": "A teacher and educator known as Al Mutawwa'a"
   },
   "story": {
-    "ar": "عفرا بنت محمد بن عبيد بن سليم الفلاسي، وُلدت نحو ١٩١٨، مُدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٥٨٧.",
-    "en": "Afra bint Mohammed bin Obaid bin Saleem Al Falasi, born around 1918, was a teacher and educator known in that time as «Al Mutawwa'a», and she taught the families of Al Ain. The street carried the number 587 in the older naming."
+    "ar": "عفرا بنت محمد بن عبيد بن سليم الفلاسي، وُلدت نحو ١٩١٨، مُدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي العين.",
+    "en": "Afra bint Mohammed bin Obaid bin Saleem Al Falasi, born around 1918, was a teacher and educator known in that time as «Al Mutawwa'a», and she taught the families of Al Ain."
   },
   "refs": [
     {
@@ -8068,8 +8068,8 @@ window.STREETS = [
     "en": "A teacher known as Al Mutawwa'a who built a mosque in Abu Dhabi"
   },
   "story": {
-    "ar": "عفرا بنت سيف بن أحمد بن عبدالله بالعشار آل غنام المزروعي، وُلدت نحو ١٩٢٠، مُدرسة تُعرف في ذلك الزمان بـ«المطوعة»، وكانت تجيد الشعر، وقد بنت مسجداً قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٠٣.",
-    "en": "Afra bint Saif bin Ahmed bin Abdullah Bil Ashaar Al Ghannam Al Mazrouei, born around 1920, was a teacher known in that time as «Al Mutawwa'a»; she was skilled in poetry, and built an old mosque in Abu Dhabi. The street carried the number 103 in the older naming."
+    "ar": "عفرا بنت سيف بن أحمد بن عبدالله بالعشار آل غنام المزروعي، وُلدت نحو ١٩٢٠، مُدرسة تُعرف في ذلك الزمان بـ«المطوعة»، وكانت تجيد الشعر، وقد بنت مسجداً قديماً في أبوظبي.",
+    "en": "Afra bint Saif bin Ahmed bin Abdullah Bil Ashaar Al Ghannam Al Mazrouei, born around 1920, was a teacher known in that time as «Al Mutawwa'a»; she was skilled in poetry, and built an old mosque in Abu Dhabi."
   },
   "refs": [
     {
@@ -8090,8 +8090,8 @@ window.STREETS = [
     "en": "Leased the sea waters of Abu Dhabi and worked in marine fishing"
   },
   "story": {
-    "ar": "أحمد بن عبدالله بن غميلة الرميثي، وُلد نحو ١٨٩٠، شخصية معروفة باستثمار البحور في أبوظبي عن طريق استئجارها والعمل في مجال الصيد البحري، وله علاقة وثيقة بالحاكم. وحمل الشارع في التسمية القديمة الرقم ١٥٦.",
-    "en": "Ahmed bin Abdullah bin Ghumaylah Al Rumaithi, born around 1890, was a figure known for investing in the sea waters of Abu Dhabi by leasing them and working in marine fishing, and he had close ties with the ruler. The street carried the number 156 in the older naming."
+    "ar": "أحمد بن عبدالله بن غميلة الرميثي، وُلد نحو ١٨٩٠، شخصية معروفة باستثمار البحور في أبوظبي عن طريق استئجارها والعمل في مجال الصيد البحري، وله علاقة وثيقة بالحاكم.",
+    "en": "Ahmed bin Abdullah bin Ghumaylah Al Rumaithi, born around 1890, was a figure known for investing in the sea waters of Abu Dhabi by leasing them and working in marine fishing, and he had close ties with the ruler."
   },
   "refs": [
     {
@@ -8112,8 +8112,8 @@ window.STREETS = [
     "en": "A known poet of the eras of Sheikh Zayed the First and Sheikh Shakhbut"
   },
   "story": {
-    "ar": "أحمد بن علي بن ميزر بن علي بن سعيد الرميثي، وُلد نحو ١٩٠٠، شاعر معروف عاش في عهد الشيخ زايد الأول وعهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٨٦.",
-    "en": "Ahmed bin Ali bin Mizar bin Ali bin Saeed Al Rumaithi, born around 1900, was a known poet who lived in the time of Sheikh Zayed the First and of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 286 in the older naming."
+    "ar": "أحمد بن علي بن ميزر بن علي بن سعيد الرميثي، وُلد نحو ١٩٠٠، شاعر معروف عاش في عهد الشيخ زايد الأول وعهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Ahmed bin Ali bin Mizar bin Ali bin Saeed Al Rumaithi, born around 1900, was a known poet who lived in the time of Sheikh Zayed the First and of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -8134,8 +8134,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "أحمد بن محمد بن بندوق القمزي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٧٧.",
-    "en": "Ahmed bin Mohammed bin Banduq Al Qamzi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 77 in the older naming."
+    "ar": "أحمد بن محمد بن بندوق القمزي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Ahmed bin Mohammed bin Banduq Al Qamzi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -8156,8 +8156,8 @@ window.STREETS = [
     "en": "A poet from the Al Qattara area of Al Ain"
   },
   "story": {
-    "ar": "أحمد بن محمد بن دري الفلاحي، وُلد نحو ١٩٣٠، شاعر من منطقة القطارة بالعين، وتوفي سنة ٢٠٠٦. وحمل الشارع في التسمية القديمة الرقم ٦٠٢.",
-    "en": "Ahmed bin Mohammed bin Drai Al Falahi, born around 1930, was a poet from the Al Qattara area of Al Ain, and died in 2006. The street carried the number 602 in the older naming."
+    "ar": "أحمد بن محمد بن دري الفلاحي، وُلد نحو ١٩٣٠، شاعر من منطقة القطارة بالعين، وتوفي سنة ٢٠٠٦.",
+    "en": "Ahmed bin Mohammed bin Drai Al Falahi, born around 1930, was a poet from the Al Qattara area of Al Ain, and died in 2006."
   },
   "refs": [
     {
@@ -8216,8 +8216,8 @@ window.STREETS = [
     "en": "A poet and guard of Burj Al Maqta and the fort in Abu Dhabi"
   },
   "story": {
-    "ar": "أحمد بن جبران بن خميس بن جبران السويدي، وُلد نحو ١٩١٧، شاعر وحارس لبرج المقطع والحصن، من أهالي البطين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٤٤.",
-    "en": "Ahmed bin Gabran bin Khamis bin Gabran Al Suwaidi, born around 1917, was a poet and a guard of Burj Al Maqta and the fort, of the people of Al Bateen in Abu Dhabi. The street carried the number 44 in the older naming."
+    "ar": "أحمد بن جبران بن خميس بن جبران السويدي، وُلد نحو ١٩١٧، شاعر وحارس لبرج المقطع والحصن، من أهالي البطين في أبوظبي.",
+    "en": "Ahmed bin Gabran bin Khamis bin Gabran Al Suwaidi, born around 1917, was a poet and a guard of Burj Al Maqta and the fort, of the people of Al Bateen in Abu Dhabi."
   },
   "refs": [
     {
@@ -8238,8 +8238,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "أحمد بن سلطان بن غنوم الهاملي، وُلد نحو ١٩١٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٦٨.",
-    "en": "Ahmed bin Sultan bin Ghanoum Al Hameli, born around 1915, was a member of the National Consultative Council in 1971. The street carried the number 168 in the older naming."
+    "ar": "أحمد بن سلطان بن غنوم الهاملي، وُلد نحو ١٩١٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Ahmed bin Sultan bin Ghanoum Al Hameli, born around 1915, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -8260,8 +8260,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "أحمد بن حاضر بن محمد بن جاسم بن جابر المريخي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٧٧٨.",
-    "en": "Ahmed bin Hader bin Mohammed bin Jassim bin Jaber Al Meraikhi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 778 in the older naming."
+    "ar": "أحمد بن حاضر بن محمد بن جاسم بن جابر المريخي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Ahmed bin Hader bin Mohammed bin Jassim bin Jaber Al Meraikhi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -8282,8 +8282,8 @@ window.STREETS = [
     "en": "Governor of the Al Ain villages and oases and the ruler's representative"
   },
   "story": {
-    "ar": "أحمد بن محمد بن هلال بن محمد بن سعيد الظاهري، وُلد نحو ١٨٧٦، عُيِّن والياً على قرى وواحات العين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، ثم عُيِّن في عهد الشيخ شخبوط بن سلطان آل نهيان ممثلاً للحاكم، وتوفي سنة ١٩٣٦. وحمل الشارع في التسمية القديمة الرقم ٥٠٢.",
-    "en": "Ahmed bin Mohammed bin Hilal bin Mohammed bin Saeed Al Dhaheri, born around 1876, was appointed governor of the villages and oases of Al Ain under Sheikh Zayed the First (1855–1909), and later was appointed ruler's representative under Sheikh Shakhbut bin Sultan Al Nahyan; he died in 1936. The street carried the number 502 in the older naming."
+    "ar": "أحمد بن محمد بن هلال بن محمد بن سعيد الظاهري، وُلد نحو ١٨٧٦، عُيِّن والياً على قرى وواحات العين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، ثم عُيِّن في عهد الشيخ شخبوط بن سلطان آل نهيان ممثلاً للحاكم، وتوفي سنة ١٩٣٦.",
+    "en": "Ahmed bin Mohammed bin Hilal bin Mohammed bin Saeed Al Dhaheri, born around 1876, was appointed governor of the villages and oases of Al Ain under Sheikh Zayed the First (1855–1909), and later was appointed ruler's representative under Sheikh Shakhbut bin Sultan Al Nahyan; he died in 1936."
   },
   "refs": [
     {
@@ -8304,8 +8304,8 @@ window.STREETS = [
     "en": "A person the street is named after"
   },
   "story": {
-    "ar": "يحمل الشارع اسم أحمد بن حظيبة الهاملي، وورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر في المصدر أكثر من الاسم. وحمل الشارع في التسمية القديمة الرقم ٢٢٨.",
-    "en": "The street carries the name Ahmed bin Hudhayba Al Hameli; he is recorded in the «Honouring the Pioneers of the UAE: Memorial Streets» listing, and the source publishes no more than the name. The street carried the number 228 in the older naming."
+    "ar": "يحمل الشارع اسم أحمد بن حظيبة الهاملي، وورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر في المصدر أكثر من الاسم.",
+    "en": "The street carries the name Ahmed bin Hudhayba Al Hameli; he is recorded in the «Honouring the Pioneers of the UAE: Memorial Streets» listing, and the source publishes no more than the name."
   },
   "refs": [
     {
@@ -8326,8 +8326,8 @@ window.STREETS = [
     "en": "Deputy chairman of the Consultative Council and official in charge of the Markhia centre"
   },
   "story": {
-    "ar": "أحمد بن جمعة بن جبر بن حبيش السويدي، وُلد نحو ١٩١٥، نائب رئيس المجلس الاستشاري، وعضو في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨، وعمل مسؤول مركز المرخية / إليوا. وحمل الشارع في التسمية القديمة الرقم ٥٠.",
-    "en": "Ahmed bin Juma bin Jaber bin Habish Al Suwaidi, born around 1915, was deputy chairman of the Consultative Council and a member of the advisory committee of the Department of Nationality, Passports and Residence in 1968; he also served as official in charge of the Markhia centre / Liwa. The street carried the number 50 in the older naming."
+    "ar": "أحمد بن جمعة بن جبر بن حبيش السويدي، وُلد نحو ١٩١٥، نائب رئيس المجلس الاستشاري، وعضو في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨، وعمل مسؤول مركز المرخية / إليوا.",
+    "en": "Ahmed bin Juma bin Jaber bin Habish Al Suwaidi, born around 1915, was deputy chairman of the Consultative Council and a member of the advisory committee of the Department of Nationality, Passports and Residence in 1968; he also served as official in charge of the Markhia centre / Liwa."
   },
   "refs": [
     {
@@ -8348,8 +8348,8 @@ window.STREETS = [
     "en": "A scholar and judge in Abu Dhabi"
   },
   "story": {
-    "ar": "أحمد بن خلف بن خميس بن خلفان بن خدية القبيسي، وُلد نحو ١٨٩٤، شيخ علم وقاضٍ في أبوظبي، وتوفي في الخمسينيات. وحمل الشارع في التسمية القديمة الرقم ١٠٩.",
-    "en": "Ahmed bin Khalaf bin Khamis bin Khalfan bin Khudaiya Al Qubaisi, born around 1894, was a scholar and judge in Abu Dhabi, and died in the 1950s. The street carried the number 109 in the older naming."
+    "ar": "أحمد بن خلف بن خميس بن خلفان بن خدية القبيسي، وُلد نحو ١٨٩٤، شيخ علم وقاضٍ في أبوظبي، وتوفي في الخمسينيات.",
+    "en": "Ahmed bin Khalaf bin Khamis bin Khalfan bin Khudaiya Al Qubaisi, born around 1894, was a scholar and judge in Abu Dhabi, and died in the 1950s."
   },
   "refs": [
     {
@@ -8370,8 +8370,8 @@ window.STREETS = [
     "en": "One of the founders of the Union who held the Ministry of Foreign Affairs"
   },
   "story": {
-    "ar": "أحمد بن خليفة بن أحمد بن خليفة السويدي، وُلد نحو ١٩٣٧، من مؤسسي الاتحاد، وتولّى وزارة الخارجية، وكان مستشاراً شخصياً للشيخ زايد بن سلطان آل نهيان وعضواً في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠٠٦. وحمل الشارع في التسمية القديمة الرقم ٩٩.",
-    "en": "Ahmed bin Khalifa bin Ahmed bin Khalifa Al Suwaidi, born around 1937, was one of the founders of the Union; he held the Ministry of Foreign Affairs, was personal adviser to Sheikh Zayed bin Sultan Al Nahyan and a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2006. The street carried the number 99 in the older naming."
+    "ar": "أحمد بن خليفة بن أحمد بن خليفة السويدي، وُلد نحو ١٩٣٧، من مؤسسي الاتحاد، وتولّى وزارة الخارجية، وكان مستشاراً شخصياً للشيخ زايد بن سلطان آل نهيان وعضواً في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠٠٦.",
+    "en": "Ahmed bin Khalifa bin Ahmed bin Khalifa Al Suwaidi, born around 1937, was one of the founders of the Union; he held the Ministry of Foreign Affairs, was personal adviser to Sheikh Zayed bin Sultan Al Nahyan and a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2006."
   },
   "refs": [
     {
@@ -8392,8 +8392,8 @@ window.STREETS = [
     "en": "A known poet in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "أحمد بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٠٠، شاعر معروف في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ١٩٧.",
-    "en": "Ahmed bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1900, was a known poet in the time of Sheikh Zayed the First (1855–1909). The street carried the number 197 in the older naming."
+    "ar": "أحمد بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٠٠، شاعر معروف في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Ahmed bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1900, was a known poet in the time of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -8414,8 +8414,8 @@ window.STREETS = [
     "en": "The ruler's representative at the drilling company Santa Fe"
   },
   "story": {
-    "ar": "أحمد بن محمد بن ماجد بن حسن السويدي، وُلد نحو ١٩٢٠، ممثل الحاكم لدى شركة المقاولة للحفر سانتافية، وعمل في أمن وحراسة معسكرات النفط في طريف سنة ١٩٥٢. وحمل الشارع في التسمية القديمة الرقم ٢٤٤.",
-    "en": "Ahmed bin Mohammed bin Majid bin Hassan Al Suwaidi, born around 1920, was the ruler's representative at the drilling contractor Santa Fe, and worked in the security and guarding of the oil camps in Tarif in 1952. The street carried the number 244 in the older naming."
+    "ar": "أحمد بن محمد بن ماجد بن حسن السويدي، وُلد نحو ١٩٢٠، ممثل الحاكم لدى شركة المقاولة للحفر سانتافية، وعمل في أمن وحراسة معسكرات النفط في طريف سنة ١٩٥٢.",
+    "en": "Ahmed bin Mohammed bin Majid bin Hassan Al Suwaidi, born around 1920, was the ruler's representative at the drilling contractor Santa Fe, and worked in the security and guarding of the oil camps in Tarif in 1952."
   },
   "refs": [
     {
@@ -8436,8 +8436,8 @@ window.STREETS = [
     "en": "Deputy chairman of the National Consultative Council and a municipal council member"
   },
   "story": {
-    "ar": "أحمد بن محمد بن مسعود بن سالم المسعود المحيربي، وُلد نحو ١٩٤٥، نائب رئيس المجلس الاستشاري الوطني سنة ١٩٧١، وعضو في مجلس أبوظبي البلدي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ٥٦.",
-    "en": "Ahmed bin Mohammed bin Masoud bin Salem Al Masoud Al Muhairbi, born around 1945, was deputy chairman of the National Consultative Council in 1971, and a member of the Abu Dhabi Municipal Council in 1969. The street carried the number 56 in the older naming."
+    "ar": "أحمد بن محمد بن مسعود بن سالم المسعود المحيربي، وُلد نحو ١٩٤٥، نائب رئيس المجلس الاستشاري الوطني سنة ١٩٧١، وعضو في مجلس أبوظبي البلدي سنة ١٩٦٩.",
+    "en": "Ahmed bin Mohammed bin Masoud bin Salem Al Masoud Al Muhairbi, born around 1945, was deputy chairman of the National Consultative Council in 1971, and a member of the Abu Dhabi Municipal Council in 1969."
   },
   "refs": [
     {
@@ -8458,8 +8458,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "أحمد بن محمد بن خليفة السويدي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٦١.",
-    "en": "Ahmed bin Mohammed bin Khalifa Al Suwaidi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 161 in the older naming."
+    "ar": "أحمد بن محمد بن خليفة السويدي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Ahmed bin Mohammed bin Khalifa Al Suwaidi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -8480,8 +8480,8 @@ window.STREETS = [
     "en": "A poet from the Al Taff area of Abu Dhabi"
   },
   "story": {
-    "ar": "أحمد بن سعيد بن ميزر بن سعيد الرميثي، وُلد نحو ١٨٩٠، شاعر من سكان الطف في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١١٣.",
-    "en": "Ahmed bin Saeed bin Mizar bin Saeed Al Rumaithi, born around 1890, was a poet from the people of the Al Taff area of Abu Dhabi. The street carried the number 113 in the older naming."
+    "ar": "أحمد بن سعيد بن ميزر بن سعيد الرميثي، وُلد نحو ١٨٩٠، شاعر من سكان الطف في أبوظبي.",
+    "en": "Ahmed bin Saeed bin Mizar bin Saeed Al Rumaithi, born around 1890, was a poet from the people of the Al Taff area of Abu Dhabi."
   },
   "refs": [
     {
@@ -8502,8 +8502,8 @@ window.STREETS = [
     "en": "A poet of Madhhar Al Dhwayhir who has the Al Zaal poetry collection"
   },
   "story": {
-    "ar": "أحمد بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٩٠٠، شاعر من محضر الظويهر، وله ديوان آل زعل. وحمل الشارع في التسمية القديمة الرقم ١٨٧.",
-    "en": "Ahmed bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1900, was a poet of Madhhar Al Dhwayhir, and he has the Al Zaal poetry collection. The street carried the number 187 in the older naming."
+    "ar": "أحمد بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٩٠٠، شاعر من محضر الظويهر، وله ديوان آل زعل.",
+    "en": "Ahmed bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1900, was a poet of Madhhar Al Dhwayhir, and he has the Al Zaal poetry collection."
   },
   "refs": [
     {
@@ -8524,8 +8524,8 @@ window.STREETS = [
     "en": "A scholar, teacher and imam in Liwa"
   },
   "story": {
-    "ar": "أحمد بن سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٢٦، شيخ علم ومدرس وإمام في إليوا، وعُرف بحب الخير ومساعدة الآخرين. وحمل الشارع في التسمية القديمة الرقم ٣٤٧.",
-    "en": "Ahmed bin Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1926, was a scholar, teacher and imam in Liwa, and was known for a love of good and for helping others. The street carried the number 347 in the older naming."
+    "ar": "أحمد بن سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٢٦، شيخ علم ومدرس وإمام في إليوا، وعُرف بحب الخير ومساعدة الآخرين.",
+    "en": "Ahmed bin Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1926, was a scholar, teacher and imam in Liwa, and was known for a love of good and for helping others."
   },
   "refs": [
     {
@@ -8546,8 +8546,8 @@ window.STREETS = [
     "en": "The issuing of travel passports and administrative affairs were entrusted to him"
   },
   "story": {
-    "ar": "أحمد بن سعيد بن سرحان بن عبدالله بن سرحان الرميثي، وُلد نحو ١٩٣٠، من رجال الشيخ شخبوط بن سلطان آل نهيان الذين يُوكل إليهم حل الأمور الإدارية وحل المشاكل القبلية، وقد أُوكل إليه إصدار جوازات السفر. وحمل الشارع في التسمية القديمة الرقم ١٥٤.",
-    "en": "Ahmed bin Saeed bin Sarhan bin Abdullah bin Sarhan Al Rumaithi, born around 1930, was one of Sheikh Shakhbut bin Sultan Al Nahyan's men to whom administrative affairs and tribal issues were entrusted, and the issuing of travel passports was assigned to him. The street carried the number 154 in the older naming."
+    "ar": "أحمد بن سعيد بن سرحان بن عبدالله بن سرحان الرميثي، وُلد نحو ١٩٣٠، من رجال الشيخ شخبوط بن سلطان آل نهيان الذين يُوكل إليهم حل الأمور الإدارية وحل المشاكل القبلية، وقد أُوكل إليه إصدار جوازات السفر.",
+    "en": "Ahmed bin Saeed bin Sarhan bin Abdullah bin Sarhan Al Rumaithi, born around 1930, was one of Sheikh Shakhbut bin Sultan Al Nahyan's men to whom administrative affairs and tribal issues were entrusted, and the issuing of travel passports was assigned to him."
   },
   "refs": [
     {
@@ -8568,8 +8568,8 @@ window.STREETS = [
     "en": "One of the known poets of Abu Dhabi"
   },
   "story": {
-    "ar": "أحمد بن محمد بن سيف بن شملان الفلاحي، وُلد نحو ١٩٢٢، أحد الشعراء المعروفين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٩٩.",
-    "en": "Ahmed bin Mohammed bin Saif bin Shamlan Al Falahi, born around 1922, was one of the known poets of Abu Dhabi. The street carried the number 299 in the older naming."
+    "ar": "أحمد بن محمد بن سيف بن شملان الفلاحي، وُلد نحو ١٩٢٢، أحد الشعراء المعروفين في أبوظبي.",
+    "en": "Ahmed bin Mohammed bin Saif bin Shamlan Al Falahi, born around 1922, was one of the known poets of Abu Dhabi."
   },
   "refs": [
     {
@@ -8590,8 +8590,8 @@ window.STREETS = [
     "en": "A zakat collector and scholar who built mosques in Abu Dhabi"
   },
   "story": {
-    "ar": "أحمد بن محمد بن يعروف بن بهلول المطيوعي المنصوري، وُلد نحو ١٨٨٤، جامع للزكاة وشيخ علم، ومن الذين قاموا بأعمال خيرية منها بناء المساجد قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٤٠.",
-    "en": "Ahmed bin Mohammed bin Yarouf bin Bahlol Al Matyoui Al Mansouri, born around 1884, was a zakat collector and scholar, and one of those who did charitable works including building mosques in Abu Dhabi long ago. The street carried the number 340 in the older naming."
+    "ar": "أحمد بن محمد بن يعروف بن بهلول المطيوعي المنصوري، وُلد نحو ١٨٨٤، جامع للزكاة وشيخ علم، ومن الذين قاموا بأعمال خيرية منها بناء المساجد قديماً في أبوظبي.",
+    "en": "Ahmed bin Mohammed bin Yarouf bin Bahlol Al Matyoui Al Mansouri, born around 1884, was a zakat collector and scholar, and one of those who did charitable works including building mosques in Abu Dhabi long ago."
   },
   "refs": [
     {
@@ -8612,8 +8612,8 @@ window.STREETS = [
     "en": "A scholar and one of the first educated people of Abu Dhabi"
   },
   "story": {
-    "ar": "أحمد بن العبد بن شاهين بن زعل السويدي، وُلد نحو ١٨٩٠، شيخ علم من أوائل المتعلمين في أبوظبي، وكان صاحب مكتبة كبيرة في بيته. وحمل الشارع في التسمية القديمة الرقم ٣٤٢.",
-    "en": "Ahmed bin Al Abd bin Shaheen bin Zaal Al Suwaidi, born around 1890, was a scholar and one of the first educated people of Abu Dhabi, and he had a large library in his house. The street carried the number 342 in the older naming."
+    "ar": "أحمد بن العبد بن شاهين بن زعل السويدي، وُلد نحو ١٨٩٠، شيخ علم من أوائل المتعلمين في أبوظبي، وكان صاحب مكتبة كبيرة في بيته.",
+    "en": "Ahmed bin Al Abd bin Shaheen bin Zaal Al Suwaidi, born around 1890, was a scholar and one of the first educated people of Abu Dhabi, and he had a large library in his house."
   },
   "refs": [
     {
@@ -8634,8 +8634,8 @@ window.STREETS = [
     "en": "A Rumaithat elder entrusted by Shakhbut with the affairs of the seas"
   },
   "story": {
-    "ar": "أحمد بن سعيد بن بيات بولوتة الرميثي، وُلد نحو ١٨٩٧، من كبار الرميثات، وكان يوكله الشيخ شخبوط بن سلطان آل نهيان في قضايا البحور، وتوفي في الستينيات تقريباً. وحمل الشارع في التسمية القديمة الرقم ١٧١.",
-    "en": "Ahmed bin Saeed bin Bayat Bu Luta Al Rumaithi, born around 1897, was one of the elders of the Rumaithat; Sheikh Shakhbut bin Sultan Al Nahyan entrusted him with the affairs of the seas, and he died around the 1960s. The street carried the number 171 in the older naming."
+    "ar": "أحمد بن سعيد بن بيات بولوتة الرميثي، وُلد نحو ١٨٩٧، من كبار الرميثات، وكان يوكله الشيخ شخبوط بن سلطان آل نهيان في قضايا البحور، وتوفي في الستينيات تقريباً.",
+    "en": "Ahmed bin Saeed bin Bayat Bu Luta Al Rumaithi, born around 1897, was one of the elders of the Rumaithat; Sheikh Shakhbut bin Sultan Al Nahyan entrusted him with the affairs of the seas, and he died around the 1960s."
   },
   "refs": [
     {
@@ -8700,8 +8700,8 @@ window.STREETS = [
     "en": "A scholar under Sheikh Dhiyab bin Essa bin Nahyan in Liwa"
   },
   "story": {
-    "ar": "الحبيشي بن بهلول بن عبدالنبي بن سيف بن رشيد المطيوعي المنصوري، وُلد نحو ١٧٥٠، شيخ علم في عهد الشيخ ذياب بن عيسى بن نهيان آل نهيان في الفترة (١٧٨٥–١٨٣٤) في منطقة إليوا. وحمل الشارع في التسمية القديمة الرقم ٢٩٦.",
-    "en": "Al Habaishi bin Bahlol bin Abdulnabi bin Saif bin Rashid Al Matyoui Al Mansouri, born around 1750, was a scholar under Sheikh Dhiyab bin Essa bin Nahyan Al Nahyan in the period 1785–1834 in the Liwa region. The street carried the number 296 in the older naming."
+    "ar": "الحبيشي بن بهلول بن عبدالنبي بن سيف بن رشيد المطيوعي المنصوري، وُلد نحو ١٧٥٠، شيخ علم في عهد الشيخ ذياب بن عيسى بن نهيان آل نهيان في الفترة (١٧٨٥–١٨٣٤) في منطقة إليوا.",
+    "en": "Al Habaishi bin Bahlol bin Abdulnabi bin Saif bin Rashid Al Matyoui Al Mansouri, born around 1750, was a scholar under Sheikh Dhiyab bin Essa bin Nahyan Al Nahyan in the period 1785–1834 in the Liwa region."
   },
   "refs": [
     {
@@ -8722,8 +8722,8 @@ window.STREETS = [
     "en": "A scholar of Al Dhafra, of the people of Madhhar Qarmada"
   },
   "story": {
-    "ar": "الحبيب بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٠٠، شيخ علم من الظفرة من أهالي محضر قرمدة. وحمل الشارع في التسمية القديمة الرقم ٢٢٢.",
-    "en": "Al Habeeb bin Ahmed bin Khalfan Al Muhairbi, born around 1900, was a scholar of Al Dhafra, of the people of Madhhar Qarmada. The street carried the number 222 in the older naming."
+    "ar": "الحبيب بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٠٠، شيخ علم من الظفرة من أهالي محضر قرمدة.",
+    "en": "Al Habeeb bin Ahmed bin Khalfan Al Muhairbi, born around 1900, was a scholar of Al Dhafra, of the people of Madhhar Qarmada."
   },
   "refs": [
     {
@@ -8744,8 +8744,8 @@ window.STREETS = [
     "en": "Secretary to Sheikh Zayed bin Sultan and chairman of the Chamber of Commerce"
   },
   "story": {
-    "ar": "الحاج بن عبدالله بن سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٤٥، عمل سكرتيراً للشيخ زايد بن سلطان آل نهيان، ورئيساً في المجلس البلدي ورئيساً لغرفة التجارة، وعضواً في المجلس الوطني الاستشاري سنة ١٩٧١، ثم النائب الأول لأعضاء المجلس الاستشاري الوطني. وحمل الشارع في التسمية القديمة الرقم ١٧٢.",
-    "en": "Al Haj bin Abdullah bin Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1945, worked as secretary to Sheikh Zayed bin Sultan Al Nahyan, and as chairman of the Municipal Council and chairman of the Chamber of Commerce, and as a member of the National Consultative Council in 1971, then first deputy of the members of the National Consultative Council. The street carried the number 172 in the older naming."
+    "ar": "الحاج بن عبدالله بن سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٤٥، عمل سكرتيراً للشيخ زايد بن سلطان آل نهيان، ورئيساً في المجلس البلدي ورئيساً لغرفة التجارة، وعضواً في المجلس الوطني الاستشاري سنة ١٩٧١، ثم النائب الأول لأعضاء المجلس الاستشاري الوطني.",
+    "en": "Al Haj bin Abdullah bin Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1945, worked as secretary to Sheikh Zayed bin Sultan Al Nahyan, and as chairman of the Municipal Council and chairman of the Chamber of Commerce, and as a member of the National Consultative Council in 1971, then first deputy of the members of the National Consultative Council."
   },
   "refs": [
     {
@@ -8783,8 +8783,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "علي بن عبدالله بن عيسى آل يعقوب الزعابي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٥.",
-    "en": "Ali bin Abdullah bin Essa Al Yaqoub Al Zaabi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 55 in the older naming."
+    "ar": "علي بن عبدالله بن عيسى آل يعقوب الزعابي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Ali bin Abdullah bin Essa Al Yaqoub Al Zaabi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -8805,8 +8805,8 @@ window.STREETS = [
     "en": "A martyr who died on the international borders in 1980"
   },
   "story": {
-    "ar": "الشهيد علي بن سلمان بن محمد الصليح عفصان المزروعي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وُلد نحو ١٩٥٢، واستُشهد أثناء مطاردة أمنية على الحدود الدولية سنة ١٩٨٠. وحمل الشارع في التسمية القديمة الرقم ٧٥٤.",
-    "en": "The martyr Ali bin Salman bin Mohammed Al Saleeh Afsan Al Mazrouei is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. Born around 1952, he died in a security pursuit on the international borders in 1980. The street carried the number 754 in the older naming."
+    "ar": "الشهيد علي بن سلمان بن محمد الصليح عفصان المزروعي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وُلد نحو ١٩٥٢، واستُشهد أثناء مطاردة أمنية على الحدود الدولية سنة ١٩٨٠.",
+    "en": "The martyr Ali bin Salman bin Mohammed Al Saleeh Afsan Al Mazrouei is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. Born around 1952, he died in a security pursuit on the international borders in 1980."
   },
   "refs": [
     {
@@ -8827,8 +8827,8 @@ window.STREETS = [
     "en": "Worked in administrative affairs in the Al Jimi oasis"
   },
   "story": {
-    "ar": "علي بن عزيز الشريفي العامري، وُلد نحو ١٩٢٠، وعمل في الشؤون الإدارية في واحة الجيمي. وحمل الشارع في التسمية القديمة الرقم ٥٨٥.",
-    "en": "Ali bin Aziz Al Sheraifi Al Ameri, born around 1920, worked in administrative affairs in the Al Jimi oasis. The street carried the number 585 in the older naming."
+    "ar": "علي بن عزيز الشريفي العامري، وُلد نحو ١٩٢٠، وعمل في الشؤون الإدارية في واحة الجيمي.",
+    "en": "Ali bin Aziz Al Sheraifi Al Ameri, born around 1920, worked in administrative affairs in the Al Jimi oasis."
   },
   "refs": [
     {
@@ -8871,8 +8871,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan and uncle of Sheikha Fatima bint Mubarak"
   },
   "story": {
-    "ar": "علي بن غانم بن ضاحي بن غانم الكتبي، وُلد نحو ١٩٣٢، مرافق للشيخ زايد بن سلطان آل نهيان، من أهل العين، وهو عم الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٧٢.",
-    "en": "Ali bin Ghanem bin Dhahi bin Ghanem Al Ketbi, born around 1932, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Ain, and he is the uncle of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 572 in the older naming."
+    "ar": "علي بن غانم بن ضاحي بن غانم الكتبي، وُلد نحو ١٩٣٢، مرافق للشيخ زايد بن سلطان آل نهيان، من أهل العين، وهو عم الشيخة فاطمة بنت مبارك (أم الإمارات).",
+    "en": "Ali bin Ghanem bin Dhahi bin Ghanem Al Ketbi, born around 1932, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Ain, and he is the uncle of Sheikha Fatima bint Mubarak (Mother of the Nation)."
   },
   "refs": [
     {
@@ -8893,8 +8893,8 @@ window.STREETS = [
     "en": "A known poet of the people of the northern sands"
   },
   "story": {
-    "ar": "علي بن خميس بالعود الرميثي، وُلد نحو ١٩٣٠، شاعر معروف من أهل الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ١١١.",
-    "en": "Ali bin Khamis Bil Awd Al Rumaithi, born around 1930, was a known poet of the people of the northern sands. The street carried the number 111 in the older naming."
+    "ar": "علي بن خميس بالعود الرميثي، وُلد نحو ١٩٣٠، شاعر معروف من أهل الطف الشمالي.",
+    "en": "Ali bin Khamis Bil Awd Al Rumaithi, born around 1930, was a known poet of the people of the northern sands."
   },
   "refs": [
     {
@@ -8915,8 +8915,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "علي بن مبارك بن محمد آل سالمين المنصوري، وُلد نحو ١٩٢٣، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٩٧.",
-    "en": "Ali bin Mubarak bin Mohammed Al Salmeen Al Mansouri, born around 1923, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 797 in the older naming."
+    "ar": "علي بن مبارك بن محمد آل سالمين المنصوري، وُلد نحو ١٩٢٣، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Ali bin Mubarak bin Mohammed Al Salmeen Al Mansouri, born around 1923, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -8937,8 +8937,8 @@ window.STREETS = [
     "en": "A merchant and wutwashi, one of the senior notables of Abu Dhabi"
   },
   "story": {
-    "ar": "علي بن مرشد بن سالم الرميثي، وُلد نحو ١٨٧٠، من كبار رجالات أبوظبي، تاجر وطواش، وله مسجد قديم في أبوظبي يقع في حارة الرميثات قديماً. وحمل الشارع في التسمية القديمة الرقم ٧٠.",
-    "en": "Ali bin Murshid bin Salem Al Rumaithi, born around 1870, was one of the senior notables of Abu Dhabi, a merchant and wutwashi, and he has an old mosque in Abu Dhabi located in the Rumaithat quarter of old. The street carried the number 70 in the older naming."
+    "ar": "علي بن مرشد بن سالم الرميثي، وُلد نحو ١٨٧٠، من كبار رجالات أبوظبي، تاجر وطواش، وله مسجد قديم في أبوظبي يقع في حارة الرميثات قديماً.",
+    "en": "Ali bin Murshid bin Salem Al Rumaithi, born around 1870, was one of the senior notables of Abu Dhabi, a merchant and wutwashi, and he has an old mosque in Abu Dhabi located in the Rumaithat quarter of old."
   },
   "refs": [
     {
@@ -8959,8 +8959,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "علي بن محمد سعيد بن سبت الخييلي، وُلد نحو ١٩٢٤، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٤١.",
-    "en": "Ali bin Mohammed Saeed bin Sabt Al Khaili, born around 1924, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 641 in the older naming."
+    "ar": "علي بن محمد سعيد بن سبت الخييلي، وُلد نحو ١٩٢٤، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Ali bin Mohammed Saeed bin Sabt Al Khaili, born around 1924, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -8981,8 +8981,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "ar": "علي بن راشد بن مبارك بن راشد بن درويش بن سندية المنصوري، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣٥٦.",
-    "en": "Ali bin Rashid bin Mubarak bin Rashid bin Darwish bin Sandia Al Mansouri, born around 1920, was a known poet of the people of Al Dhafra. The street carried the number 356 in the older naming."
+    "ar": "علي بن راشد بن مبارك بن راشد بن درويش بن سندية المنصوري، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة.",
+    "en": "Ali bin Rashid bin Mubarak bin Rashid bin Darwish bin Sandia Al Mansouri, born around 1920, was a known poet of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -9003,8 +9003,8 @@ window.STREETS = [
     "en": "Assistant to the governor of Dalma Island, Sheikh Hazza bin Sultan"
   },
   "story": {
-    "ar": "علي بن شيبان الخميري، وُلد نحو ١٨٨٢، مساعد والي جزيرة دلما الشيخ هزاع بن سلطان آل نهيان من سنة ١٩٣٣ إلى سنة ١٩٣٧ في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٢١.",
-    "en": "Ali bin Shaiban Al Khemairi, born around 1882, was assistant to the governor of Dalma Island, Sheikh Hazza bin Sultan Al Nahyan, from 1933 to 1937 in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 321 in the older naming."
+    "ar": "علي بن شيبان الخميري، وُلد نحو ١٨٨٢، مساعد والي جزيرة دلما الشيخ هزاع بن سلطان آل نهيان من سنة ١٩٣٣ إلى سنة ١٩٣٧ في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Ali bin Shaiban Al Khemairi, born around 1882, was assistant to the governor of Dalma Island, Sheikh Hazza bin Sultan Al Nahyan, from 1933 to 1937 in the time of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -9025,8 +9025,8 @@ window.STREETS = [
     "ar": "شاعر معروف من أهالي أبوظبي"
   },
   "story": {
-    "ar": "علي بن ثاني بن عبيد بن غميلة الرميثي، وُلد نحو ١٨٩٠، شاعر معروف من أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٩٢.",
-    "en": "Ali ibn Thani ibn Obaid ibn Ghumaylah Al Rumaithi, born around 1890, was a known poet of Abu Dhabi. The street carried the number 292 in the older naming."
+    "ar": "علي بن ثاني بن عبيد بن غميلة الرميثي، وُلد نحو ١٨٩٠، شاعر معروف من أهالي أبوظبي.",
+    "en": "Ali ibn Thani ibn Obaid ibn Ghumaylah Al Rumaithi, born around 1890, was a known poet of Abu Dhabi."
   },
   "refs": [
     {
@@ -9047,8 +9047,8 @@ window.STREETS = [
     "en": "A poet and qawma elder gifted the mare Kahila by Sheikh Zayed the First"
   },
   "story": {
-    "ar": "علي بن مصبح بن عامر بو نعاس الرميثي، وُلد نحو ١٨٦٠، شاعر معروف وكبير قومة، أهداه الشيخ زايد الأول فرسه كحيلة من نسل ربدان. وحمل الشارع في التسمية القديمة الرقم ٣٦٢.",
-    "en": "Ali bin Musabah bin Amer Bu Naas Al Rumaithi, born around 1860, was a known poet and elder of the qawma, and Sheikh Zayed the First gifted him his mare Kahila, of the Rabdan line. The street carried the number 362 in the older naming."
+    "ar": "علي بن مصبح بن عامر بو نعاس الرميثي، وُلد نحو ١٨٦٠، شاعر معروف وكبير قومة، أهداه الشيخ زايد الأول فرسه كحيلة من نسل ربدان.",
+    "en": "Ali bin Musabah bin Amer Bu Naas Al Rumaithi, born around 1860, was a known poet and elder of the qawma, and Sheikh Zayed the First gifted him his mare Kahila, of the Rabdan line."
   },
   "refs": [
     {
@@ -9069,8 +9069,8 @@ window.STREETS = [
     "en": "A known guide entrusted with the security and guiding of the oil companies"
   },
   "story": {
-    "ar": "علي بن سعيد بن ثامر بوعوانة المنصوري، وُلد نحو ١٩١٥، دليل معروف، أُوكل إليه الشيخ شخبوط بن سلطان آل نهيان أمن ودلالة شركات تنقيب النفط سنة ١٩٤٨. وحمل الشارع في التسمية القديمة الرقم ٧٩٨.",
-    "en": "Ali bin Saeed bin Thamer Bu Awana Al Mansouri, born around 1915, was a known guide; Sheikh Shakhbut bin Sultan Al Nahyan entrusted him with the security and guiding of the oil exploration companies in 1948. The street carried the number 798 in the older naming."
+    "ar": "علي بن سعيد بن ثامر بوعوانة المنصوري، وُلد نحو ١٩١٥، دليل معروف، أُوكل إليه الشيخ شخبوط بن سلطان آل نهيان أمن ودلالة شركات تنقيب النفط سنة ١٩٤٨.",
+    "en": "Ali bin Saeed bin Thamer Bu Awana Al Mansouri, born around 1915, was a known guide; Sheikh Shakhbut bin Sultan Al Nahyan entrusted him with the security and guiding of the oil exploration companies in 1948."
   },
   "refs": [
     {
@@ -9113,8 +9113,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد على راشد على الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٠٦.",
-    "en": "The martyr Ali Rashid Ali Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 506 in the older naming."
+    "ar": "الشهيد على راشد على الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Ali Rashid Ali Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -9135,8 +9135,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد على سعيد اليبهونى الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٨٦.",
-    "en": "The martyr Ali Saeed Al Yabhooni Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 86 in the older naming."
+    "ar": "الشهيد على سعيد اليبهونى الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Ali Saeed Al Yabhooni Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -9157,8 +9157,8 @@ window.STREETS = [
     "en": "A man of the northern sands known for courage and marksmanship"
   },
   "story": {
-    "ar": "المر بن سعيد بن هلال بن سعيد بن دميثان القمزي، وُلد نحو ١٩٢٥، من رجال الطف الشمالي، واشتهر بالشجاعة والكرم وبإجادته للرماية. وحمل الشارع في التسمية القديمة الرقم ٣٦٠.",
-    "en": "Al Mur bin Saeed bin Hilal bin Saeed bin Dumithan Al Qamzi, born around 1925, was one of the men of the northern sands, known for courage, generosity and skill in marksmanship. The street carried the number 360 in the older naming."
+    "ar": "المر بن سعيد بن هلال بن سعيد بن دميثان القمزي، وُلد نحو ١٩٢٥، من رجال الطف الشمالي، واشتهر بالشجاعة والكرم وبإجادته للرماية.",
+    "en": "Al Mur bin Saeed bin Hilal bin Saeed bin Dumithan Al Qamzi, born around 1925, was one of the men of the northern sands, known for courage, generosity and skill in marksmanship."
   },
   "refs": [
     {
@@ -9179,8 +9179,8 @@ window.STREETS = [
     "en": "A folk healer of the people of Al Ain with knowledge of genealogy"
   },
   "story": {
-    "ar": "عقيدة بن علي بن جمعة المهيري، وُلد نحو ١٩٢٠، معالج شعبي من أهل العين، لديه معرفة في علم الأنساب، ونال جائزة أبوظبي سنة ٢٠١١. وحمل الشارع في التسمية القديمة الرقم ٥٩٩.",
-    "en": "Aqeeda bin Ali bin Juma Al Muhairi, born around 1920, was a folk healer of the people of Al Ain with knowledge in the science of genealogy, and received the Abu Dhabi Award in 2011. The street carried the number 599 in the older naming."
+    "ar": "عقيدة بن علي بن جمعة المهيري، وُلد نحو ١٩٢٠، معالج شعبي من أهل العين، لديه معرفة في علم الأنساب، ونال جائزة أبوظبي سنة ٢٠١١.",
+    "en": "Aqeeda bin Ali bin Juma Al Muhairi, born around 1920, was a folk healer of the people of Al Ain with knowledge in the science of genealogy, and received the Abu Dhabi Award in 2011."
   },
   "refs": [
     {
@@ -9201,8 +9201,8 @@ window.STREETS = [
     "en": "A known man of the Al Dhafra region and director of Ghayathi municipality"
   },
   "story": {
-    "ar": "عشوان بن عبدالله بن مبارك بالعري المزروعي، وُلد نحو ١٩٤٥، أحد رجال منطقة الظفرة المعروفين، وفي بداية حياته كان رئيس العمل والعمال في جبل الظنة سنة ١٩٦٩، ثم مدير بلدية غياثي. وحمل الشارع في التسمية القديمة الرقم ٦١٥.",
-    "en": "Ashwan bin Abdullah bin Mubarak Bil Arri Al Mazrouei, born around 1945, was one of the known men of the Al Dhafra region; at the beginning of his career he was head of labour and workers at Jabal Al Dhanna in 1969, then director of Ghayathi municipality. The street carried the number 615 in the older naming."
+    "ar": "عشوان بن عبدالله بن مبارك بالعري المزروعي، وُلد نحو ١٩٤٥، أحد رجال منطقة الظفرة المعروفين، وفي بداية حياته كان رئيس العمل والعمال في جبل الظنة سنة ١٩٦٩، ثم مدير بلدية غياثي.",
+    "en": "Ashwan bin Abdullah bin Mubarak Bil Arri Al Mazrouei, born around 1945, was one of the known men of the Al Dhafra region; at the beginning of his career he was head of labour and workers at Jabal Al Dhanna in 1969, then director of Ghayathi municipality."
   },
   "refs": [
     {
@@ -9223,8 +9223,8 @@ window.STREETS = [
     "en": "A judge with a role in reconciling between the tribes of Liwa"
   },
   "story": {
-    "ar": "عصيان بن عصيان المسافري المنصوري، وُلد نحو ١٩٠٠، قاضٍ وله دور في الصلح بين القبائل، من أهل ليوا من محضر بن عصيان، وتوفي سنة ١٩٧٩. وحمل الشارع في التسمية القديمة الرقم ٣٢٨.",
-    "en": "Aseyan bin Aseyan Al Masafri Al Mansouri, born around 1900, was a judge with a role in reconciling between the tribes, of the people of Liwa, from Madhhar bin Aseyan; he died in 1979. The street carried the number 328 in the older naming."
+    "ar": "عصيان بن عصيان المسافري المنصوري، وُلد نحو ١٩٠٠، قاضٍ وله دور في الصلح بين القبائل، من أهل ليوا من محضر بن عصيان، وتوفي سنة ١٩٧٩.",
+    "en": "Aseyan bin Aseyan Al Masafri Al Mansouri, born around 1900, was a judge with a role in reconciling between the tribes, of the people of Liwa, from Madhhar bin Aseyan; he died in 1979."
   },
   "refs": [
     {
@@ -9245,8 +9245,8 @@ window.STREETS = [
     "en": "A pearl diver versed in genealogy who built mosques in Abu Dhabi"
   },
   "story": {
-    "ar": "عتيق بن راشد بن عريان المهيري، وُلد نحو ١٩٣٥، عمل غيّاصاً، وكان عارفاً في الأنساب، عُرف بإجادته لمهنة الغوص، وبنى عدة مساجد قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٠١.",
-    "en": "Atiq bin Rashid bin Arian Al Muhairi, born around 1935, worked as a pearl diver, was versed in genealogy, and was known for skill in the diving profession; he built several mosques in Abu Dhabi long ago. The street carried the number 301 in the older naming."
+    "ar": "عتيق بن راشد بن عريان المهيري، وُلد نحو ١٩٣٥، عمل غيّاصاً، وكان عارفاً في الأنساب، عُرف بإجادته لمهنة الغوص، وبنى عدة مساجد قديماً في أبوظبي.",
+    "en": "Atiq bin Rashid bin Arian Al Muhairi, born around 1935, worked as a pearl diver, was versed in genealogy, and was known for skill in the diving profession; he built several mosques in Abu Dhabi long ago."
   },
   "refs": [
     {
@@ -9267,8 +9267,8 @@ window.STREETS = [
     "en": "Guard of the fort and Burj Al Maqta under Shakhbut"
   },
   "story": {
-    "ar": "عتيق بن سالم بن عزران الرميثي، وُلد نحو ١٩٢٩، عمل حارساً للحصن وبرج المقطع في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٧٥.",
-    "en": "Atiq bin Salem bin Azran Al Rumaithi, born around 1929, worked as a guard of the fort and Burj Al Maqta under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 175 in the older naming."
+    "ar": "عتيق بن سالم بن عزران الرميثي، وُلد نحو ١٩٢٩، عمل حارساً للحصن وبرج المقطع في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Atiq bin Salem bin Azran Al Rumaithi, born around 1929, worked as a guard of the fort and Burj Al Maqta under Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -9289,8 +9289,8 @@ window.STREETS = [
     "en": "One of Sheikh Shakhbut's guards and a poet"
   },
   "story": {
-    "ar": "عتيق بن محمد بن بندوق القمزي، وُلد نحو ١٩٢٦، من حرس الشيخ شخبوط بن سلطان آل نهيان، وكان شاعراً. وحمل الشارع في التسمية القديمة الرقم ٣٢٦.",
-    "en": "Atiq bin Mohammed bin Banduq Al Qamzi, born around 1926, was one of the guards of Sheikh Shakhbut bin Sultan Al Nahyan, and was a poet. The street carried the number 326 in the older naming."
+    "ar": "عتيق بن محمد بن بندوق القمزي، وُلد نحو ١٩٢٦، من حرس الشيخ شخبوط بن سلطان آل نهيان، وكان شاعراً.",
+    "en": "Atiq bin Mohammed bin Banduq Al Qamzi, born around 1926, was one of the guards of Sheikh Shakhbut bin Sultan Al Nahyan, and was a poet."
   },
   "refs": [
     {
@@ -9311,8 +9311,8 @@ window.STREETS = [
     "en": "A watchman for Sheikh Shakhbut and a poet of Al Bateen"
   },
   "story": {
-    "ar": "عتيق بن ضاعن بن خميس بن محمد بن عبدالله المهيري، وُلد نحو ١٩٢٠، عمل مطارزي للشيخ شخبوط بن سلطان آل نهيان، وعمل في شركة النفط في الصدر ثم طريف، وشاعر معروف من أهل البطين. وحمل الشارع في التسمية القديمة الرقم ٣٥٥.",
-    "en": "Atiq bin Daen bin Khamis bin Mohammed bin Abdullah Al Muhairi, born around 1920, worked as a watchman for Sheikh Shakhbut bin Sultan Al Nahyan, and worked for the oil company in Al Sadr and then Tarif; he was a known poet of the people of Al Bateen. The street carried the number 355 in the older naming."
+    "ar": "عتيق بن ضاعن بن خميس بن محمد بن عبدالله المهيري، وُلد نحو ١٩٢٠، عمل مطارزي للشيخ شخبوط بن سلطان آل نهيان، وعمل في شركة النفط في الصدر ثم طريف، وشاعر معروف من أهل البطين.",
+    "en": "Atiq bin Daen bin Khamis bin Mohammed bin Abdullah Al Muhairi, born around 1920, worked as a watchman for Sheikh Shakhbut bin Sultan Al Nahyan, and worked for the oil company in Al Sadr and then Tarif; he was a known poet of the people of Al Bateen."
   },
   "refs": [
     {
@@ -9333,8 +9333,8 @@ window.STREETS = [
     "en": "A known poet nicknamed Bin Kasla"
   },
   "story": {
-    "ar": "عتيق بن جمعة بن محمد بن كسلا الرميثي، وُلد نحو ١٩١٥، شاعر معروف يُكنى بـ«بن كسلا»، وسكن موارد السميح والسمحة والبدوع والدويبة. وحمل الشارع في التسمية القديمة الرقم ٣٦٨.",
-    "en": "Atiq bin Juma bin Mohammed bin Kasla Al Rumaithi, born around 1915, was a known poet nicknamed «Bin Kasla», and he lived at the water sources of Al Sameeh, Al Samha, Al Bado' and Al Dwaiba. The street carried the number 368 in the older naming."
+    "ar": "عتيق بن جمعة بن محمد بن كسلا الرميثي، وُلد نحو ١٩١٥، شاعر معروف يُكنى بـ«بن كسلا»، وسكن موارد السميح والسمحة والبدوع والدويبة.",
+    "en": "Atiq bin Juma bin Mohammed bin Kasla Al Rumaithi, born around 1915, was a known poet nicknamed «Bin Kasla», and he lived at the water sources of Al Sameeh, Al Samha, Al Bado' and Al Dwaiba."
   },
   "refs": [
     {
@@ -9355,8 +9355,8 @@ window.STREETS = [
     "en": "Tasked with digging and maintaining the water sources of the northern sands"
   },
   "story": {
-    "ar": "عتيق بن ميزر بن سعيد بن ميزر الرميثي، وُلد نحو ١٩١٥، وكُلف في عهد الشيخ شخبوط بن سلطان آل نهيان سنة ١٩٥٨ بحفر وصيانة وإدامة موارد الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٦٧.",
-    "en": "Atiq bin Mizar bin Saeed bin Mizar Al Rumaithi, born around 1915, was tasked in the time of Sheikh Shakhbut bin Sultan Al Nahyan, in 1958, with digging, maintaining and keeping the water sources of the northern sands. The street carried the number 367 in the older naming."
+    "ar": "عتيق بن ميزر بن سعيد بن ميزر الرميثي، وُلد نحو ١٩١٥، وكُلف في عهد الشيخ شخبوط بن سلطان آل نهيان سنة ١٩٥٨ بحفر وصيانة وإدامة موارد الطف الشمالي.",
+    "en": "Atiq bin Mizar bin Saeed bin Mizar Al Rumaithi, born around 1915, was tasked in the time of Sheikh Shakhbut bin Sultan Al Nahyan, in 1958, with digging, maintaining and keeping the water sources of the northern sands."
   },
   "refs": [
     {
@@ -9377,8 +9377,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan and one of the senior people of Al Bateen"
   },
   "story": {
-    "ar": "عتيق بن ماجد بن ثاني بن ماجد عبيد المهيري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان، ومن كبار أهل البطين. وحمل الشارع في التسمية القديمة الرقم ٤٥.",
-    "en": "Atiq bin Majid bin Thani bin Majid Obaid Al Muhairi, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan and one of the senior people of Al Bateen. The street carried the number 45 in the older naming."
+    "ar": "عتيق بن ماجد بن ثاني بن ماجد عبيد المهيري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان، ومن كبار أهل البطين.",
+    "en": "Atiq bin Majid bin Thani bin Majid Obaid Al Muhairi, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan and one of the senior people of Al Bateen."
   },
   "refs": [
     {
@@ -9399,8 +9399,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "عيلان بن علي بن هلال بن علي بن سعيد بن عيد السبوسي، وُلد نحو ١٩٤٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٨٧.",
-    "en": "Aylan bin Ali bin Hilal bin Ali bin Saeed bin Eid Al Sabousi, born around 1940, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 287 in the older naming."
+    "ar": "عيلان بن علي بن هلال بن علي بن سعيد بن عيد السبوسي، وُلد نحو ١٩٤٠، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Aylan bin Ali bin Hilal bin Ali bin Saeed bin Eid Al Sabousi, born around 1940, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -9421,8 +9421,8 @@ window.STREETS = [
     "en": "Dug the bada' of the Mazarei in the Al Dhafra region"
   },
   "story": {
-    "ar": "عزان بن محمد بن راشد المزروعي، وُلد نحو ١٩١٠، وحفر بدع المزاريع في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٢٧.",
-    "en": "Azzan bin Mohammed bin Rashid Al Mazrouei, born around 1910, dug the bada' of the Mazarei in the Al Dhafra region. The street carried the number 227 in the older naming."
+    "ar": "عزان بن محمد بن راشد المزروعي، وُلد نحو ١٩١٠، وحفر بدع المزاريع في منطقة الظفرة.",
+    "en": "Azzan bin Mohammed bin Rashid Al Mazrouei, born around 1910, dug the bada' of the Mazarei in the Al Dhafra region."
   },
   "refs": [
     {
@@ -9443,8 +9443,8 @@ window.STREETS = [
     "en": "A guard at Burj Al Maqta and a guide for travellers"
   },
   "story": {
-    "ar": "بطي بالطحينة المهيري، وُلد نحو ١٩٢٦، حارس في برج المقطع، وعمل في إرشاد المسافرين الذين يعبرون المقطع. وحمل الشارع في التسمية القديمة الرقم ١٧٤.",
-    "en": "Butti Bil Tahina Al Muhairi, born around 1926, was a guard at Burj Al Maqta, and worked in guiding travellers crossing Al Maqtah. The street carried the number 174 in the older naming."
+    "ar": "بطي بالطحينة المهيري، وُلد نحو ١٩٢٦، حارس في برج المقطع، وعمل في إرشاد المسافرين الذين يعبرون المقطع.",
+    "en": "Butti Bil Tahina Al Muhairi, born around 1926, was a guard at Burj Al Maqta, and worked in guiding travellers crossing Al Maqtah."
   },
   "refs": [
     {
@@ -9465,8 +9465,8 @@ window.STREETS = [
     "en": "A boat captain of the people of Dalma island"
   },
   "story": {
-    "ar": "بطي بن بيات بن خليفة المشوي القبيسي، وُلد نحو ١٩١٠، نوخذة من أهالي دلما. وحمل الشارع في التسمية القديمة الرقم ٧٨٥.",
-    "en": "Butti bin Bayat bin Khalifa Al Mashwi Al Qubaisi, born around 1910, was a nawkhadha (pearling-boat captain) of the people of Dalma. The street carried the number 785 in the older naming."
+    "ar": "بطي بن بيات بن خليفة المشوي القبيسي، وُلد نحو ١٩١٠، نوخذة من أهالي دلما.",
+    "en": "Butti bin Bayat bin Khalifa Al Mashwi Al Qubaisi, born around 1910, was a nawkhadha (pearling-boat captain) of the people of Dalma."
   },
   "refs": [
     {
@@ -9487,8 +9487,8 @@ window.STREETS = [
     "en": "Maternal grandfather of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "بطي بن خادم بن نهيمان القبيسي، وُلد نحو ١٨٧٠، جد الشيخ زايد بن سلطان آل نهيان من الأم، وكُلف من حاكم أبوظبي الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالإشراف على محاضر في إليوا. وحمل الشارع في التسمية القديمة الرقم ٦٢.",
-    "en": "Butti bin Khadim bin Nuhayman Al Qubaisi, born around 1870, was the maternal grandfather of Sheikh Zayed bin Sultan Al Nahyan, and was tasked by the ruler of Abu Dhabi Sheikh Zayed the First (1855–1909) with supervising the mahadir in Liwa. The street carried the number 62 in the older naming."
+    "ar": "بطي بن خادم بن نهيمان القبيسي، وُلد نحو ١٨٧٠، جد الشيخ زايد بن سلطان آل نهيان من الأم، وكُلف من حاكم أبوظبي الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالإشراف على محاضر في إليوا.",
+    "en": "Butti bin Khadim bin Nuhayman Al Qubaisi, born around 1870, was the maternal grandfather of Sheikh Zayed bin Sultan Al Nahyan, and was tasked by the ruler of Abu Dhabi Sheikh Zayed the First (1855–1909) with supervising the mahadir in Liwa."
   },
   "refs": [
     {
@@ -9509,8 +9509,8 @@ window.STREETS = [
     "en": "Represented the ruler on Dalma under Sheikh Shakhbut"
   },
   "story": {
-    "ar": "بطي بن محمد بن خلفان القبيسي، وُلد نحو ١٩١٦، ومثّل الحاكم في دلما في عهد الشيخ شخبوط بن سلطان آل نهيان مدة من الزمن. وحمل الشارع في التسمية القديمة الرقم ٢٠٤.",
-    "en": "Butti bin Mohammed bin Khalfan Al Qubaisi, born around 1916, represented the ruler on Dalma in the time of Sheikh Shakhbut bin Sultan Al Nahyan for a period. The street carried the number 204 in the older naming."
+    "ar": "بطي بن محمد بن خلفان القبيسي، وُلد نحو ١٩١٦، ومثّل الحاكم في دلما في عهد الشيخ شخبوط بن سلطان آل نهيان مدة من الزمن.",
+    "en": "Butti bin Mohammed bin Khalfan Al Qubaisi, born around 1916, represented the ruler on Dalma in the time of Sheikh Shakhbut bin Sultan Al Nahyan for a period."
   },
   "refs": [
     {
@@ -9531,8 +9531,8 @@ window.STREETS = [
     "en": "Elder of Al Bu Muhair in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "بطي بن عمير بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٨٥٥، من الرجال المعروفين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، وهو كبير آل بو مهير. وحمل الشارع في التسمية القديمة الرقم ١٠٥.",
-    "en": "Butti bin Omair bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1855, was one of the known men in the time of Sheikh Zayed the First (1855–1909), and was the elder of Al Bu Muhair. The street carried the number 105 in the older naming."
+    "ar": "بطي بن عمير بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٨٥٥، من الرجال المعروفين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، وهو كبير آل بو مهير.",
+    "en": "Butti bin Omair bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1855, was one of the known men in the time of Sheikh Zayed the First (1855–1909), and was the elder of Al Bu Muhair."
   },
   "refs": [
     {
@@ -9553,8 +9553,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and died in it in 1946"
   },
   "story": {
-    "ar": "ضحي بن عبدالله بن راشد بالقطري المزروعي، وُلد نحو ١٩١٥، شارك في واقعة الشميريخات وتوفي فيها سنة ١٩٤٦. وحمل الشارع في التسمية القديمة الرقم ٧٣.",
-    "en": "Duhi bin Abdullah bin Rashid Bil Qatari Al Mazrouei, born around 1915, took part in the affair of Al Shmeirikhat and died in it in 1946. The street carried the number 73 in the older naming."
+    "ar": "ضحي بن عبدالله بن راشد بالقطري المزروعي، وُلد نحو ١٩١٥، شارك في واقعة الشميريخات وتوفي فيها سنة ١٩٤٦.",
+    "en": "Duhi bin Abdullah bin Rashid Bil Qatari Al Mazrouei, born around 1915, took part in the affair of Al Shmeirikhat and died in it in 1946."
   },
   "refs": [
     {
@@ -9575,8 +9575,8 @@ window.STREETS = [
     "en": "A pearl diver, poet and companion of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "عيد بن مصبح بن عبيد العميمي، وُلد نحو ١٨٧٥، غيّاص وشاعر من أهل الطف الشمالي، ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩)، واشتهر باسمَي «عويدين» و«العيادي». وحمل الشارع في التسمية القديمة الرقم ٢١٦.",
-    "en": "Eid bin Musabah bin Obaid Al Amimi, born around 1875, was a pearl diver and poet of the people of the northern sands, and a companion of Sheikh Zayed the First (1855–1909); he was known by the two names «Uwaideen» and «Al Ayadi». The street carried the number 216 in the older naming."
+    "ar": "عيد بن مصبح بن عبيد العميمي، وُلد نحو ١٨٧٥، غيّاص وشاعر من أهل الطف الشمالي، ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩)، واشتهر باسمَي «عويدين» و«العيادي».",
+    "en": "Eid bin Musabah bin Obaid Al Amimi, born around 1875, was a pearl diver and poet of the people of the northern sands, and a companion of Sheikh Zayed the First (1855–1909); he was known by the two names «Uwaideen» and «Al Ayadi»."
   },
   "refs": [
     {
@@ -9619,8 +9619,8 @@ window.STREETS = [
     "en": "A known man of Al Dhafra nicknamed Faris bin Watiha"
   },
   "story": {
-    "ar": "فارس بن غانم بن علي بن عطيش آل رويشد المزروعي، وُلد نحو ١٨٥٩، من الرجال المعروفين في منطقة الظفرة، ويُكنى بـ«فارس بن وتيهة». وحمل الشارع في التسمية القديمة الرقم ٢٥٣.",
-    "en": "Faris bin Ghanem bin Ali bin Atteesh Al Ruwaidh Al Mazrouei, born around 1859, was one of the known men of the Al Dhafra region, and was nicknamed «Faris bin Watiha». The street carried the number 253 in the older naming."
+    "ar": "فارس بن غانم بن علي بن عطيش آل رويشد المزروعي، وُلد نحو ١٨٥٩، من الرجال المعروفين في منطقة الظفرة، ويُكنى بـ«فارس بن وتيهة».",
+    "en": "Faris bin Ghanem bin Ali bin Atteesh Al Ruwaidh Al Mazrouei, born around 1859, was one of the known men of the Al Dhafra region, and was nicknamed «Faris bin Watiha»."
   },
   "refs": [
     {
@@ -9641,8 +9641,8 @@ window.STREETS = [
     "en": "A mutawwa'a who taught a generation of boys and girls in the 1950s"
   },
   "story": {
-    "ar": "فاطمة بنت علي بن أحمد الرميثي، وُلدت نحو ١٩١١، مطوعة، ودرّست جيل من الأولاد والبنات في الخمسينيات. وحمل الشارع في التسمية القديمة الرقم ٧٤.",
-    "en": "Fatima bint Ali bin Ahmed Al Rumaithi, born around 1911, was a mutawwa'a, and taught a generation of boys and girls in the 1950s. The street carried the number 74 in the older naming."
+    "ar": "فاطمة بنت علي بن أحمد الرميثي، وُلدت نحو ١٩١١، مطوعة، ودرّست جيل من الأولاد والبنات في الخمسينيات.",
+    "en": "Fatima bint Ali bin Ahmed Al Rumaithi, born around 1911, was a mutawwa'a, and taught a generation of boys and girls in the 1950s."
   },
   "refs": [
     {
@@ -9663,8 +9663,8 @@ window.STREETS = [
     "en": "A teacher known in that time as Al Mutawwa'a in Abu Dhabi"
   },
   "story": {
-    "ar": "فاطمة بنت عبيد بن سعيد العّكال الرميثي، وُلدت نحو ١٩٢٢، مُدرسة، وتُعرف في ذلك الزمان بـ«المطوعة» في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٦.",
-    "en": "Fatima bint Obaid bin Saeed Al Akkali Al Rumaithi, born around 1922, was a teacher known in that time as «Al Mutawwa'a» in Abu Dhabi. The street carried the number 36 in the older naming."
+    "ar": "فاطمة بنت عبيد بن سعيد العّكال الرميثي، وُلدت نحو ١٩٢٢، مُدرسة، وتُعرف في ذلك الزمان بـ«المطوعة» في أبوظبي.",
+    "en": "Fatima bint Obaid bin Saeed Al Akkali Al Rumaithi, born around 1922, was a teacher known in that time as «Al Mutawwa'a» in Abu Dhabi."
   },
   "refs": [
     {
@@ -9685,8 +9685,8 @@ window.STREETS = [
     "en": "A known man of Al Dhafra and a companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "غدير بن سعيد بن سويد بن تعيب بن حسن المنصوري، وُلد نحو ١٩٣٠، من رجال الظفرة المعروفين، رافق الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٦٥.",
-    "en": "Ghadeer bin Saeed bin Swaid bin Tuaib bin Hassan Al Mansouri, born around 1930, was one of the known men of Al Dhafra who accompanied Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 765 in the older naming."
+    "ar": "غدير بن سعيد بن سويد بن تعيب بن حسن المنصوري، وُلد نحو ١٩٣٠، من رجال الظفرة المعروفين، رافق الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Ghadeer bin Saeed bin Swaid bin Tuaib bin Hassan Al Mansouri, born around 1930, was one of the known men of Al Dhafra who accompanied Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -9707,8 +9707,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Shakhbut bin Sultan of Abu Dhabi"
   },
   "story": {
-    "ar": "غيث بن مهّنا بن سعيد المهيري، وُلد نحو ١٩٢٦، مرافق للشيخ شخبوط بن سلطان آل نهيان، من أهل أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٦٩.",
-    "en": "Ghaith bin Mohanna bin Saeed Al Muhairi, born around 1926, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Abu Dhabi. The street carried the number 269 in the older naming."
+    "ar": "غيث بن مهّنا بن سعيد المهيري، وُلد نحو ١٩٢٦، مرافق للشيخ شخبوط بن سلطان آل نهيان، من أهل أبوظبي.",
+    "en": "Ghaith bin Mohanna bin Saeed Al Muhairi, born around 1926, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Abu Dhabi."
   },
   "refs": [
     {
@@ -9729,8 +9729,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "غانم بن علي بن هميلة المزروعي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٩٠.",
-    "en": "Ghanem bin Ali bin Hamila Al Mazrouei, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 290 in the older naming."
+    "ar": "غانم بن علي بن هميلة المزروعي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Ghanem bin Ali bin Hamila Al Mazrouei, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -9751,8 +9751,8 @@ window.STREETS = [
     "en": "Of the sheikhs of Al Balshar in the Al Dhafra region"
   },
   "story": {
-    "ar": "غانم بن جريو الغوينمي الشعري المنصوري، وُلد نحو ١٩٢٠، رجل معروف من مشايخ آل بالشعر من أهالي منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٥٨.",
-    "en": "Ghanem bin Jrayw Al Ghweinmi Al Shaari Al Mansouri, born around 1920, was a known man of the sheikhs of Al Balshar, of the people of the Al Dhafra region. The street carried the number 758 in the older naming."
+    "ar": "غانم بن جريو الغوينمي الشعري المنصوري، وُلد نحو ١٩٢٠، رجل معروف من مشايخ آل بالشعر من أهالي منطقة الظفرة.",
+    "en": "Ghanem bin Jrayw Al Ghweinmi Al Shaari Al Mansouri, born around 1920, was a known man of the sheikhs of Al Balshar, of the people of the Al Dhafra region."
   },
   "refs": [
     {
@@ -9773,8 +9773,8 @@ window.STREETS = [
     "en": "A known poet from Abu Dhabi"
   },
   "story": {
-    "ar": "حابس بن مضحي آل حابس الهدواني المنصوري، وُلد نحو ١٩٣٢، شاعر معروف من أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢١٠.",
-    "en": "Habis bin Mudhi Al Habis Al Hadwani Al Mansouri, born around 1932, was a known poet from Abu Dhabi. The street carried the number 210 in the older naming."
+    "ar": "حابس بن مضحي آل حابس الهدواني المنصوري، وُلد نحو ١٩٣٢، شاعر معروف من أبوظبي.",
+    "en": "Habis bin Mudhi Al Habis Al Hadwani Al Mansouri, born around 1932, was a known poet from Abu Dhabi."
   },
   "refs": [
     {
@@ -9795,8 +9795,8 @@ window.STREETS = [
     "ar": "رئيس أركان القوات المسلحة سابقاً"
   },
   "story": {
-    "ar": "الفريق ركن حمد بن محمد بن ثاني الرميثي، وُلد سنة ١٩٥٤، وكان رئيس أركان القوات المسلحة، ثم مستشاراً للشؤون العسكرية لرئيس الدولة بدرجة وزير. ومُنح عدداً من الأوسمة العسكرية، وبلغت مدة خدمته خمسين سنة. وحمل الشارع في التسمية القديمة الرقم ١٧٩.",
-    "en": "Lieutenant General Hamad ibn Mohammed ibn Thani Al Rumaithi, born in 1954, served as chief of staff of the Armed Forces and later as adviser on military affairs to the President at ministerial rank. He was awarded a number of military orders, and his service reached fifty years. The street carried the number 179 in the older naming."
+    "ar": "الفريق ركن حمد بن محمد بن ثاني الرميثي، وُلد سنة ١٩٥٤، وكان رئيس أركان القوات المسلحة، ثم مستشاراً للشؤون العسكرية لرئيس الدولة بدرجة وزير. ومُنح عدداً من الأوسمة العسكرية، وبلغت مدة خدمته خمسين سنة.",
+    "en": "Lieutenant General Hamad ibn Mohammed ibn Thani Al Rumaithi, born in 1954, served as chief of staff of the Armed Forces and later as adviser on military affairs to the President at ministerial rank. He was awarded a number of military orders, and his service reached fifty years."
   },
   "refs": [
     {
@@ -9817,8 +9817,8 @@ window.STREETS = [
     "en": "Military companion of Sheikh Zayed bin Sultan, with the rank of lieutenant general"
   },
   "story": {
-    "ar": "حمد بن سهيل بن عويضة بن جابر الخييلي، وُلد نحو ١٩٢٠، المرافق العسكري للشيخ زايد بن سلطان آل نهيان، وترقى في السلك العسكري حتى أصبح برتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ٧٨.",
-    "en": "Hamad bin Suhail bin Owaida bin Jaber Al Khaili, born around 1920, was the military companion of Sheikh Zayed bin Sultan Al Nahyan; he rose through the military ranks until he held the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street carried the number 78 in the older naming."
+    "ar": "حمد بن سهيل بن عويضة بن جابر الخييلي، وُلد نحو ١٩٢٠، المرافق العسكري للشيخ زايد بن سلطان آل نهيان، وترقى في السلك العسكري حتى أصبح برتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. ويقع الشارع في الدانة بأبوظبي، وجاء الاسم على اللوحة بزيادة «عويضة»، وللرجل شارع آخر في الفوعة بالاسم الأقصر.",
+    "en": "Hamad bin Suhail bin Owaida bin Jaber Al Khaili, born around 1920, was the military companion of Sheikh Zayed bin Sultan Al Nahyan; he rose through the military ranks until he held the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street lies in Al Danah, Abu Dhabi; its sign gives the name with «Owaida», and a second street for the same man stands in Al Faqah under the shorter form."
   },
   "refs": [
     {
@@ -9855,8 +9855,8 @@ window.STREETS = [
     "en": "Accompanied Sheikh Zayed bin Sultan and was entrusted with supervising the farms"
   },
   "story": {
-    "ar": "حمد بن محمد بن أحمد بن علي بن حمد البادي الظاهري، وُلد نحو ١٩١٩، رافق الشيخ زايد بن سلطان آل نهيان، وأُوكل إليه الإشراف على العزب، وكانت حياته عامرة بأعمال الخير. وحمل الشارع في التسمية القديمة الرقم ٥٠٣.",
-    "en": "Hamad bin Mohammed bin Ahmed bin Ali bin Hamad Al Badi Al Dhaheri, born around 1919, accompanied Sheikh Zayed bin Sultan Al Nahyan, was entrusted with supervising the farms, and his life was full of good works. The street carried the number 503 in the older naming."
+    "ar": "حمد بن محمد بن أحمد بن علي بن حمد البادي الظاهري، وُلد نحو ١٩١٩، رافق الشيخ زايد بن سلطان آل نهيان، وأُوكل إليه الإشراف على العزب، وكانت حياته عامرة بأعمال الخير.",
+    "en": "Hamad bin Mohammed bin Ahmed bin Ali bin Hamad Al Badi Al Dhaheri, born around 1919, accompanied Sheikh Zayed bin Sultan Al Nahyan, was entrusted with supervising the farms, and his life was full of good works."
   },
   "refs": [
     {
@@ -9877,8 +9877,8 @@ window.STREETS = [
     "en": "Assistant to Sheikh Sultan bin Zayed the First on Dalma Island"
   },
   "story": {
-    "ar": "حمد بن دسمال السويدي، وُلد نحو ١٨٧٦، مساعد للشيخ سلطان بن زايد الأول في جزيرة دلما، خلال حكم زايد الأول نحو سنة ١٩٠٦. وحمل الشارع في التسمية القديمة الرقم ٢٥٢.",
-    "en": "Hamad bin Dasmal Al Suwaidi, born around 1876, was assistant to Sheikh Sultan bin Zayed the First on Dalma Island, during the rule of Zayed the First around 1906. The street carried the number 252 in the older naming."
+    "ar": "حمد بن دسمال السويدي، وُلد نحو ١٨٧٦، مساعد للشيخ سلطان بن زايد الأول في جزيرة دلما، خلال حكم زايد الأول نحو سنة ١٩٠٦.",
+    "en": "Hamad bin Dasmal Al Suwaidi, born around 1876, was assistant to Sheikh Sultan bin Zayed the First on Dalma Island, during the rule of Zayed the First around 1906."
   },
   "refs": [
     {
@@ -9899,8 +9899,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan of the people of Al Ain"
   },
   "story": {
-    "ar": "حمد بن سعيد بن ضاحي بن غانم الكتبي، وُلد نحو ١٩١٨، مرافق للشيخ زايد بن سلطان آل نهيان، من أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٥٥٣.",
-    "en": "Hamad bin Saeed bin Dhahi bin Ghanem Al Ketbi, born around 1918, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Ain. The street carried the number 553 in the older naming."
+    "ar": "حمد بن سعيد بن ضاحي بن غانم الكتبي، وُلد نحو ١٩١٨، مرافق للشيخ زايد بن سلطان آل نهيان، من أهالي العين.",
+    "en": "Hamad bin Saeed bin Dhahi bin Ghanem Al Ketbi, born around 1918, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Ain."
   },
   "refs": [
     {
@@ -9921,8 +9921,8 @@ window.STREETS = [
     "en": "A religious notary known for reconciling among people"
   },
   "story": {
-    "ar": "حمد بن محمد بن حمد مصبح المشغوني، وُلد نحو ١٨٩٨، مأذون شرعي وشيخ، عُرف بالإصلاح بين الناس، ومعالج وراقي بلا مقابل. وحمل الشارع في التسمية القديمة الرقم ٣٠٩.",
-    "en": "Hamad bin Mohammed bin Hamad Musabah Al Mashghouni, born around 1898, was a religious notary and a sheikh known for reconciling among people, and a healer and raqi without charge. The street carried the number 309 in the older naming."
+    "ar": "حمد بن محمد بن حمد مصبح المشغوني، وُلد نحو ١٨٩٨، مأذون شرعي وشيخ، عُرف بالإصلاح بين الناس، ومعالج وراقي بلا مقابل.",
+    "en": "Hamad bin Mohammed bin Hamad Musabah Al Mashghouni, born around 1898, was a religious notary and a sheikh known for reconciling among people, and a healer and raqi without charge."
   },
   "refs": [
     {
@@ -9943,8 +9943,8 @@ window.STREETS = [
     "en": "Commander of Abu Dhabi Police"
   },
   "story": {
-    "ar": "حمد بن سعيد بن أحمد الحساني، وُلد نحو ١٩٤١، قائد شرطة أبوظبي، وبدأ عمله في الشرطة سنة ١٩٥٨. وحمل الشارع في التسمية القديمة الرقم ٥٦٤.",
-    "en": "Hamad bin Saeed bin Ahmed Al Hassani, born around 1941, was the commander of Abu Dhabi Police, and began his police work in 1958. The street carried the number 564 in the older naming."
+    "ar": "حمد بن سعيد بن أحمد الحساني، وُلد نحو ١٩٤١، قائد شرطة أبوظبي، وبدأ عمله في الشرطة سنة ١٩٥٨.",
+    "en": "Hamad bin Saeed bin Ahmed Al Hassani, born around 1941, was the commander of Abu Dhabi Police, and began his police work in 1958."
   },
   "refs": [
     {
@@ -9965,8 +9965,8 @@ window.STREETS = [
     "en": "Military companion of Sheikh Zayed bin Sultan, with the rank of lieutenant general"
   },
   "story": {
-    "ar": "حمد بن سهيل بن عويضة بن جابر الخييلي، وُلد نحو ١٩٢٠، المرافق العسكري للشيخ زايد بن سلطان آل نهيان، وترقى في السلك العسكري حتى أصبح برتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ٥٦٩.",
-    "en": "Hamad bin Suhail bin Owaida bin Jaber Al Khaili, born around 1920, was the military companion of Sheikh Zayed bin Sultan Al Nahyan; he rose through the military ranks until he held the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street carried the number 569 in the older naming."
+    "ar": "حمد بن سهيل بن عويضة بن جابر الخييلي، وُلد نحو ١٩٢٠، المرافق العسكري للشيخ زايد بن سلطان آل نهيان، وترقى في السلك العسكري حتى أصبح برتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. ويقع الشارع في الفوعة بأبوظبي، وجاء الاسم على اللوحة بغير «عويضة»، وللرجل شارع آخر في الدانة بالاسم الأطول.",
+    "en": "Hamad bin Suhail bin Owaida bin Jaber Al Khaili, born around 1920, was the military companion of Sheikh Zayed bin Sultan Al Nahyan; he rose through the military ranks until he held the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street lies in Al Faqah, Abu Dhabi; its sign gives the name without «Owaida», and a second street for the same man stands in Al Danah under the longer form."
   },
   "refs": [
     {
@@ -10009,8 +10009,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council, the Chamber of Commerce and the Municipal Council"
   },
   "story": {
-    "ar": "هامل بن خادم الغيث القبيسي، وُلد نحو ١٩٣١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو مجلس غرفة التجارة سنة ١٩٦٩، وعضو المجلس البلدي في أبوظبي، وعُرف بأعمال الخير. وحمل الشارع في التسمية القديمة الرقم ٣٠٣.",
-    "en": "Hamel bin Khadim Al Ghait Al Qubaisi, born around 1931, was a member of the National Consultative Council in 1971, of the Chamber of Commerce board in 1969, and of the Municipal Council in Abu Dhabi, and was known for good works. The street carried the number 303 in the older naming."
+    "ar": "هامل بن خادم الغيث القبيسي، وُلد نحو ١٩٣١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو مجلس غرفة التجارة سنة ١٩٦٩، وعضو المجلس البلدي في أبوظبي، وعُرف بأعمال الخير.",
+    "en": "Hamel bin Khadim Al Ghait Al Qubaisi, born around 1931, was a member of the National Consultative Council in 1971, of the Chamber of Commerce board in 1969, and of the Municipal Council in Abu Dhabi, and was known for good works."
   },
   "refs": [
     {
@@ -10031,8 +10031,8 @@ window.STREETS = [
     "en": "Maternal uncle of Sheikha Fatima bint Mubarak (Mother of the Nation)"
   },
   "story": {
-    "ar": "حماد بن سالم بن عبدالله بن سالم الكتبي، وُلد نحو ١٩١٣، أحد رجالات إمارة أبوظبي، وهو خال الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٧٦.",
-    "en": "Hammad bin Salem bin Abdullah bin Salem Al Ketbi, born around 1913, was one of the notables of the Emirate of Abu Dhabi, and the maternal uncle of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 576 in the older naming."
+    "ar": "حماد بن سالم بن عبدالله بن سالم الكتبي، وُلد نحو ١٩١٣، أحد رجالات إمارة أبوظبي، وهو خال الشيخة فاطمة بنت مبارك (أم الإمارات).",
+    "en": "Hammad bin Salem bin Abdullah bin Salem Al Ketbi, born around 1913, was one of the notables of the Emirate of Abu Dhabi, and the maternal uncle of Sheikha Fatima bint Mubarak (Mother of the Nation)."
   },
   "refs": [
     {
@@ -10075,8 +10075,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and was wounded there"
   },
   "story": {
-    "ar": "حارب بن مغير بن جابر الخييلي، وُلد نحو ١٩٠٨، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٢٠.",
-    "en": "Harib bin Meghair bin Jaber Al Khyeli, born around 1908, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 620 in the older naming."
+    "ar": "حارب بن مغير بن جابر الخييلي، وُلد نحو ١٩٠٨، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات.",
+    "en": "Harib bin Meghair bin Jaber Al Khyeli, born around 1908, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s."
   },
   "refs": [
     {
@@ -10097,8 +10097,8 @@ window.STREETS = [
     "en": "A known poet of the people of Liwa"
   },
   "story": {
-    "ar": "حسن بن راشد بن هميلة المزروعي، وُلد نحو ١٨٩٥، شاعر معروف من أهل إليوا. وحمل الشارع في التسمية القديمة الرقم ٢٢١.",
-    "en": "Hasan bin Rashid bin Hamila Al Mazrouei, born around 1895, was a known poet of the people of Liwa. The street carried the number 221 in the older naming."
+    "ar": "حسن بن راشد بن هميلة المزروعي، وُلد نحو ١٨٩٥، شاعر معروف من أهل إليوا.",
+    "en": "Hasan bin Rashid bin Hamila Al Mazrouei, born around 1895, was a known poet of the people of Liwa."
   },
   "refs": [
     {
@@ -10119,8 +10119,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "حسن بن رحمه الزعابي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٤.",
-    "en": "Hasan bin Rahma Al Zaabi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 54 in the older naming."
+    "ar": "حسن بن رحمه الزعابي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Hasan bin Rahma Al Zaabi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -10157,8 +10157,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan known as Rai Al Buwaidha"
   },
   "story": {
-    "ar": "هزاع بن ناصر بن حمدان بن سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان، ويُعرف بـ«راعي البويضا»، وتوفي سنة ٢٠١٢. وحمل الشارع في التسمية القديمة الرقم ٣٠٦.",
-    "en": "Hazza bin Nasser bin Hamdan bin Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan, known as «Rai Al Buwaidha»; he died in 2012. The street carried the number 306 in the older naming."
+    "ar": "هزاع بن ناصر بن حمدان بن سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان، ويُعرف بـ«راعي البويضا»، وتوفي سنة ٢٠١٢.",
+    "en": "Hazza bin Nasser bin Hamdan bin Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan, known as «Rai Al Buwaidha»; he died in 2012."
   },
   "refs": [
     {
@@ -10179,8 +10179,8 @@ window.STREETS = [
     "en": "Entrusted with guiding the German traveller Burckhardt in 1904"
   },
   "story": {
-    "ar": "هلال بن محمد بن هلال بن محمد بن سعيد الظاهري، وُلد نحو ١٨٧٠، في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩) أُوكلت إليه دلالة الرحالة الألماني بورخارت سنة ١٩٠٤. وحمل الشارع في التسمية القديمة الرقم ٥٨٦.",
-    "en": "Hilal bin Mohammed bin Hilal bin Mohammed bin Saeed Al Dhaheri, born around 1870, in the time of Sheikh Zayed the First (1855–1909) was entrusted with guiding the German traveller Burckhardt in 1904. The street carried the number 586 in the older naming."
+    "ar": "هلال بن محمد بن هلال بن محمد بن سعيد الظاهري، وُلد نحو ١٨٧٠، في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩) أُوكلت إليه دلالة الرحالة الألماني بورخارت سنة ١٩٠٤.",
+    "en": "Hilal bin Mohammed bin Hilal bin Mohammed bin Saeed Al Dhaheri, born around 1870, in the time of Sheikh Zayed the First (1855–1909) was entrusted with guiding the German traveller Burckhardt in 1904."
   },
   "refs": [
     {
@@ -10201,8 +10201,8 @@ window.STREETS = [
     "en": "The ruler's representative in the Al Dhafra region"
   },
   "story": {
-    "ar": "هلال بن سعيد بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٩٩، وعُيِّن ممثلاً للحاكم في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٢٦.",
-    "en": "Hilal bin Saeed bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1899, was appointed ruler's representative in the Al Dhafra region. The street carried the number 226 in the older naming."
+    "ar": "هلال بن سعيد بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٩٩، وعُيِّن ممثلاً للحاكم في منطقة الظفرة.",
+    "en": "Hilal bin Saeed bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1899, was appointed ruler's representative in the Al Dhafra region."
   },
   "refs": [
     {
@@ -10223,8 +10223,8 @@ window.STREETS = [
     "en": "A scholar and mutawwa' in Dalma Island"
   },
   "story": {
-    "ar": "هلال بن خليفة بن بطحان الهاملي، وُلد نحو ١٩٣٠، شيخ علم ومطوع في جزيرة دلما. وحمل الشارع في التسمية القديمة الرقم ٣٨.",
-    "en": "Hilal bin Khalifa bin Bathan Al Hameli, born around 1930, was a scholar and mutawwa' in Dalma Island. The street carried the number 38 in the older naming."
+    "ar": "هلال بن خليفة بن بطحان الهاملي، وُلد نحو ١٩٣٠، شيخ علم ومطوع في جزيرة دلما.",
+    "en": "Hilal bin Khalifa bin Bathan Al Hameli, born around 1930, was a scholar and mutawwa' in Dalma Island."
   },
   "refs": [
     {
@@ -10245,8 +10245,8 @@ window.STREETS = [
     "en": "Entrusted with guarding Khor Ghanadha and nicknamed Al Sabbari"
   },
   "story": {
-    "ar": "حميد بن أحمد بن سعيد بن ميزر بن سعيد الرميثي، وُلد نحو ١٩٢١، من رجال أبوظبي، وأُوكل إليه حراسة خور غناضة، ويُكنى بالصباري. وحمل الشارع في التسمية القديمة الرقم ٣٦٩.",
-    "en": "Humaid bin Ahmed bin Saeed bin Mizar bin Saeed Al Rumaithi, born around 1921, was one of the men of Abu Dhabi, entrusted with guarding Khor Ghanadha, and was nicknamed «Al Sabbari». The street carried the number 369 in the older naming."
+    "ar": "حميد بن أحمد بن سعيد بن ميزر بن سعيد الرميثي، وُلد نحو ١٩٢١، من رجال أبوظبي، وأُوكل إليه حراسة خور غناضة، ويُكنى بالصباري.",
+    "en": "Humaid bin Ahmed bin Saeed bin Mizar bin Saeed Al Rumaithi, born around 1921, was one of the men of Abu Dhabi, entrusted with guarding Khor Ghanadha, and was nicknamed «Al Sabbari»."
   },
   "refs": [
     {
@@ -10267,8 +10267,8 @@ window.STREETS = [
     "en": "A known man of Abu Dhabi in the time of Zayed the First"
   },
   "story": {
-    "ar": "حميد بن ثاني الحصم الرميثي، وُلد نحو ١٨٠٠، من رجال أبوظبي المعروفين الذين عاصروا عهد الشيخ شخبوط بن ذياب وعهد الشيخ زايد الأول، وعُرف بأعمال الخير كحفر الآبار، وله مسجد قديم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٦.",
-    "en": "Humaid bin Thani Al Hasm Al Rumaithi, born around 1800, was one of the known men of Abu Dhabi who lived through the time of Sheikh Shakhbut bin Dhiyab and the time of Sheikh Zayed the First; he was known for good works such as digging wells, and he has an old mosque in Abu Dhabi. The street carried the number 66 in the older naming."
+    "ar": "حميد بن ثاني الحصم الرميثي، وُلد نحو ١٨٠٠، من رجال أبوظبي المعروفين الذين عاصروا عهد الشيخ شخبوط بن ذياب وعهد الشيخ زايد الأول، وعُرف بأعمال الخير كحفر الآبار، وله مسجد قديم في أبوظبي.",
+    "en": "Humaid bin Thani Al Hasm Al Rumaithi, born around 1800, was one of the known men of Abu Dhabi who lived through the time of Sheikh Shakhbut bin Dhiyab and the time of Sheikh Zayed the First; he was known for good works such as digging wells, and he has an old mosque in Abu Dhabi."
   },
   "refs": [
     {
@@ -10289,8 +10289,8 @@ window.STREETS = [
     "en": "A senior nawkhadha of the diving and pearl trade in Abu Dhabi"
   },
   "story": {
-    "ar": "حميد بن عبدالله بن حميد بن مرشد بن سالم الرميثي، وُلد نحو ١٩٠٥، من كبار نواخذة الغوص والتجارة من أهل أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٠٣.",
-    "en": "Humaid bin Abdullah bin Humaid bin Murshid bin Salem Al Rumaithi, born around 1905, was one of the senior nawkhadhas of the diving and pearl trade of the people of Abu Dhabi. The street carried the number 203 in the older naming."
+    "ar": "حميد بن عبدالله بن حميد بن مرشد بن سالم الرميثي، وُلد نحو ١٩٠٥، من كبار نواخذة الغوص والتجارة من أهل أبوظبي.",
+    "en": "Humaid bin Abdullah bin Humaid bin Murshid bin Salem Al Rumaithi, born around 1905, was one of the senior nawkhadhas of the diving and pearl trade of the people of Abu Dhabi."
   },
   "refs": [
     {
@@ -10311,8 +10311,8 @@ window.STREETS = [
     "en": "A poet of the Eastern Region nicknamed Al Hala"
   },
   "story": {
-    "ar": "حميد بن خلفان بن حمد الفليتي النعيمي، وُلد نحو ١٨٩٠، شاعر معروف من شعراء المنطقة الشرقية، ويُكنى بـ«الهاله»، واشتهر بأدائه لفن التغرودة التي تحمل في ثناياها الأحداث والأخبار الجارية في ذلك الزمان. وحمل الشارع في التسمية القديمة الرقم ٦٠٧.",
-    "en": "Humaid bin Khalfan bin Hamd Al Filaiti Al Nuaimi, born around 1890, was a known poet of the Eastern Region, nicknamed «Al Hala», and was known for his performance of the taghrooda, which carries within it the events and news of that time. The street carried the number 607 in the older naming."
+    "ar": "حميد بن خلفان بن حمد الفليتي النعيمي، وُلد نحو ١٨٩٠، شاعر معروف من شعراء المنطقة الشرقية، ويُكنى بـ«الهاله»، واشتهر بأدائه لفن التغرودة التي تحمل في ثناياها الأحداث والأخبار الجارية في ذلك الزمان.",
+    "en": "Humaid bin Khalfan bin Hamd Al Filaiti Al Nuaimi, born around 1890, was a known poet of the Eastern Region, nicknamed «Al Hala», and was known for his performance of the taghrooda, which carries within it the events and news of that time."
   },
   "refs": [
     {
@@ -10333,8 +10333,8 @@ window.STREETS = [
     "en": "Tasked with collecting date zakat and a poet of Al Dhafra"
   },
   "story": {
-    "ar": "حمَيّد بن محمد بن زايد بن دحنان آل محمد الفلاحي، وُلد نحو ١٩٠٥، أحد المكلفين بجمع زكاة التمور في عهد الشيخ شخبوط بن سلطان آل نهيان، ويُعد أحد شعراء الظفرة المعروفين. وحمل الشارع في التسمية القديمة الرقم ٣٤٤.",
-    "en": "Humaid bin Mohammed bin Zayed bin Dahanan Al Mohammed Al Falahi, born around 1905, was one of those tasked with collecting date zakat under Sheikh Shakhbut bin Sultan Al Nahyan, and is among the known poets of Al Dhafra. The street carried the number 344 in the older naming."
+    "ar": "حمَيّد بن محمد بن زايد بن دحنان آل محمد الفلاحي، وُلد نحو ١٩٠٥، أحد المكلفين بجمع زكاة التمور في عهد الشيخ شخبوط بن سلطان آل نهيان، ويُعد أحد شعراء الظفرة المعروفين.",
+    "en": "Humaid bin Mohammed bin Zayed bin Dahanan Al Mohammed Al Falahi, born around 1905, was one of those tasked with collecting date zakat under Sheikh Shakhbut bin Sultan Al Nahyan, and is among the known poets of Al Dhafra."
   },
   "refs": [
     {
@@ -10355,8 +10355,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan who worked in the Amiri Guard"
   },
   "story": {
-    "ar": "عيسى بن جابر بن راشد جابر الخييلي، وُلد نحو ١٩٣٧، مرافق للشيخ زايد بن سلطان آل نهيان، وعمل في الحرس الأميري. وحمل الشارع في التسمية القديمة الرقم ٦٠٣.",
-    "en": "Issa bin Jaber bin Rashid Jaber Al Khaili, born around 1937, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and worked in the Amiri Guard. The street carried the number 603 in the older naming."
+    "ar": "عيسى بن جابر بن راشد جابر الخييلي، وُلد نحو ١٩٣٧، مرافق للشيخ زايد بن سلطان آل نهيان، وعمل في الحرس الأميري.",
+    "en": "Issa bin Jaber bin Rashid Jaber Al Khaili, born around 1937, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and worked in the Amiri Guard."
   },
   "refs": [
     {
@@ -10377,8 +10377,8 @@ window.STREETS = [
     "en": "A known poet of the people of Dalma"
   },
   "story": {
-    "ar": "عيسى بن مهير بن سيف بن عيسى المزروعي، وُلد نحو ١٩٤٨، شاعر معروف من أهل دلما. وحمل الشارع في التسمية القديمة الرقم ١٠٧.",
-    "en": "Issa bin Muhair bin Saif bin Issa Al Mazrouei, born around 1948, was a known poet of the people of Dalma. The street carried the number 107 in the older naming."
+    "ar": "عيسى بن مهير بن سيف بن عيسى المزروعي، وُلد نحو ١٩٤٨، شاعر معروف من أهل دلما.",
+    "en": "Issa bin Muhair bin Saif bin Issa Al Mazrouei, born around 1948, was a known poet of the people of Dalma."
   },
   "refs": [
     {
@@ -10443,8 +10443,8 @@ window.STREETS = [
     "en": "A known poet of the poets of Abu Dhabi"
   },
   "story": {
-    "ar": "جمعة بن محمد بن عدل بن محمد بن عبيد بن سعيد بن ميزر الرميثي، وُلد نحو ١٩١٠، شاعر معروف من شعراء أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٤٦.",
-    "en": "Juma bin Mohammed bin Adl bin Mohammed bin Obaid bin Saeed bin Mizar Al Rumaithi, born around 1910, was a known poet of the poets of Abu Dhabi. The street carried the number 346 in the older naming."
+    "ar": "جمعة بن محمد بن عدل بن محمد بن عبيد بن سعيد بن ميزر الرميثي، وُلد نحو ١٩١٠، شاعر معروف من شعراء أبوظبي.",
+    "en": "Juma bin Mohammed bin Adl bin Mohammed bin Obaid bin Saeed bin Mizar Al Rumaithi, born around 1910, was a known poet of the poets of Abu Dhabi."
   },
   "refs": [
     {
@@ -10465,8 +10465,8 @@ window.STREETS = [
     "en": "A known poet in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "جمعة بن محمد بن كسلا الرميثي، وُلد نحو ١٨٩٠، شاعر معروف في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١٦٥.",
-    "en": "Juma bin Mohammed bin Kasla Al Rumaithi, born around 1890, was a known poet in the time of Sheikh Zayed the First. The street carried the number 165 in the older naming."
+    "ar": "جمعة بن محمد بن كسلا الرميثي، وُلد نحو ١٨٩٠، شاعر معروف في عهد الشيخ زايد الأول.",
+    "en": "Juma bin Mohammed bin Kasla Al Rumaithi, born around 1890, was a known poet in the time of Sheikh Zayed the First."
   },
   "refs": [
     {
@@ -10487,8 +10487,8 @@ window.STREETS = [
     "en": "A mu'arraf of the advisory committee for nationality and passports"
   },
   "story": {
-    "ar": "جمعة بن محمد بن علي بن صباح الهاملي، وُلد نحو ١٩٢٥، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ٧٥٥.",
-    "en": "Juma bin Mohammed bin Ali bin Sabah Al Hameli, born around 1925, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968. The street carried the number 755 in the older naming."
+    "ar": "جمعة بن محمد بن علي بن صباح الهاملي، وُلد نحو ١٩٢٥، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨.",
+    "en": "Juma bin Mohammed bin Ali bin Sabah Al Hameli, born around 1925, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968."
   },
   "refs": [
     {
@@ -10509,8 +10509,8 @@ window.STREETS = [
     "en": "A known poet nicknamed Rai Sabla who practised pearl diving"
   },
   "story": {
-    "ar": "جمعة بن سيف بن حمد بن مصبح بن شمط الكتبي، وُلد نحو ١٨٧٥، شاعر معروف يُعرف بـ«راعي سبلا»، من أهالي منطقة المسعودي بمدينة العين، امتهن الغوص. وحمل الشارع في التسمية القديمة الرقم ٥٧٠.",
-    "en": "Juma bin Saif bin Hamad bin Musabah bin Shamt Al Ketbi, born around 1875, was a known poet known as «Rai Sabla», of the people of the Al Masoudi area in Al Ain city; he practised pearl diving. The street carried the number 570 in the older naming."
+    "ar": "جمعة بن سيف بن حمد بن مصبح بن شمط الكتبي، وُلد نحو ١٨٧٥، شاعر معروف يُعرف بـ«راعي سبلا»، من أهالي منطقة المسعودي بمدينة العين، امتهن الغوص.",
+    "en": "Juma bin Saif bin Hamad bin Musabah bin Shamt Al Ketbi, born around 1875, was a known poet known as «Rai Sabla», of the people of the Al Masoudi area in Al Ain city; he practised pearl diving."
   },
   "refs": [
     {
@@ -10531,8 +10531,8 @@ window.STREETS = [
     "en": "A scholar of Al Bateen who built an old mosque there"
   },
   "story": {
-    "ar": "جمعة بن سنان بن خادم بن جمعة بن راشد المهيري، وُلد نحو ١٨٦٢، عالم من أهالي البطين، وبنى مسجداً قديماً في البطين. وحمل الشارع في التسمية القديمة الرقم ٤٩.",
-    "en": "Juma bin Sinan bin Khadim bin Juma bin Rashid Al Muhairi, born around 1862, was a scholar of the people of Al Bateen, and built an old mosque in Al Bateen. The street carried the number 49 in the older naming."
+    "ar": "جمعة بن سنان بن خادم بن جمعة بن راشد المهيري، وُلد نحو ١٨٦٢، عالم من أهالي البطين، وبنى مسجداً قديماً في البطين.",
+    "en": "Juma bin Sinan bin Khadim bin Juma bin Rashid Al Muhairi, born around 1862, was a scholar of the people of Al Bateen, and built an old mosque in Al Bateen."
   },
   "refs": [
     {
@@ -10575,8 +10575,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan and member of the National Consultative Council"
   },
   "story": {
-    "ar": "خادم بن محمد بن مطر بن محمد بن خادم الرميثي، وُلد نحو ١٩٣٦، من مرافقي الشيخ زايد بن سلطان آل نهيان، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠١١. وحمل الشارع في التسمية القديمة الرقم ٣٦٥.",
-    "en": "Khadim bin Mohammed bin Matar bin Mohammed bin Khadim Al Rumaithi, born around 1936, was one of the companions of Sheikh Zayed bin Sultan Al Nahyan, a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2011. The street carried the number 365 in the older naming."
+    "ar": "خادم بن محمد بن مطر بن محمد بن خادم الرميثي، وُلد نحو ١٩٣٦، من مرافقي الشيخ زايد بن سلطان آل نهيان، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠١١.",
+    "en": "Khadim bin Mohammed bin Matar bin Mohammed bin Khadim Al Rumaithi, born around 1936, was one of the companions of Sheikh Zayed bin Sultan Al Nahyan, a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2011."
   },
   "refs": [
     {
@@ -10597,8 +10597,8 @@ window.STREETS = [
     "en": "Served in the Oman Coast Force and as a guard of Burj Al Maqta"
   },
   "story": {
-    "ar": "خلف بن محمد بن حاضر المهيري، وُلد نحو ١٩٠٣، عمل في قوة ساحل عمان منذ تأسيسها، وكان حارساً لبرج المقطع سنة ١٩٥٨. وحمل الشارع في التسمية القديمة الرقم ١٧٣.",
-    "en": "Khalaf bin Mohammed bin Hader Al Muhairi, born around 1903, worked in the Oman Coast Force since its establishment, and was a guard of Burj Al Maqta in 1958. The street carried the number 173 in the older naming."
+    "ar": "خلف بن محمد بن حاضر المهيري، وُلد نحو ١٩٠٣، عمل في قوة ساحل عمان منذ تأسيسها، وكان حارساً لبرج المقطع سنة ١٩٥٨.",
+    "en": "Khalaf bin Mohammed bin Hader Al Muhairi, born around 1903, worked in the Oman Coast Force since its establishment, and was a guard of Burj Al Maqta in 1958."
   },
   "refs": [
     {
@@ -10619,8 +10619,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "ar": "خلفان بن محمد بن مبارك الحديلي المنصوري، وُلد نحو ١٩١٨، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣٥٧.",
-    "en": "Khalfan bin Mohammed bin Mubarak Al Hadhili Al Mansouri, born around 1918, was a known poet of the people of Al Dhafra. The street carried the number 357 in the older naming."
+    "ar": "خلفان بن محمد بن مبارك الحديلي المنصوري، وُلد نحو ١٩١٨، شاعر معروف من أهل الظفرة.",
+    "en": "Khalfan bin Mohammed bin Mubarak Al Hadhili Al Mansouri, born around 1918, was a known poet of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -10641,8 +10641,8 @@ window.STREETS = [
     "en": "A poet of Al Dhafra and a companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "خلفان بن عبدالرحمن بن رمضان المنصوري، وُلد نحو ١٩٣٦، شاعر معروف من أهل الظفرة، ومن مرافقي الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٠٧.",
-    "en": "Khalfan bin Abdulrahman bin Ramadan Al Mansouri, born around 1936, was a known poet of the people of Al Dhafra and one of the companions of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 307 in the older naming."
+    "ar": "خلفان بن عبدالرحمن بن رمضان المنصوري، وُلد نحو ١٩٣٦، شاعر معروف من أهل الظفرة، ومن مرافقي الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Khalfan bin Abdulrahman bin Ramadan Al Mansouri, born around 1936, was a known poet of the people of Al Dhafra and one of the companions of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -10663,8 +10663,8 @@ window.STREETS = [
     "en": "Among the first to join the Oman Coast Force"
   },
   "story": {
-    "ar": "خلفان بن سعيد بن حمد الحساني، وُلد نحو ١٩٣٥، من الأوائل المنتسبين لقوة ساحل عمان. وحمل الشارع في التسمية القديمة الرقم ٥٤٥.",
-    "en": "Khalfan bin Saeed bin Hamad Al Hassani, born around 1935, was among the first to join the Oman Coast Force. The street carried the number 545 in the older naming."
+    "ar": "خلفان بن سعيد بن حمد الحساني، وُلد نحو ١٩٣٥، من الأوائل المنتسبين لقوة ساحل عمان.",
+    "en": "Khalfan bin Saeed bin Hamad Al Hassani, born around 1935, was among the first to join the Oman Coast Force."
   },
   "refs": [
     {
@@ -10685,8 +10685,8 @@ window.STREETS = [
     "en": "Contributed to preserving heritage and heritage sports"
   },
   "story": {
-    "ar": "خليفة بن أحمد بن خلفان المحيربي، من الذين كانت لهم إسهامات في الحفاظ على التراث والرياضات التراثية وحمايتها، وبخاصة الصيد بالصقور والسباقات البحرية. وحمل الشارع في التسمية القديمة الرقم ٨٠٢.",
-    "en": "Khalifa bin Ahmed bin Khalfan Al Muhairbi is among those who had contributions to preserving and protecting heritage and heritage sports, in particular falconry and sea races. The street carried the number 802 in the older naming."
+    "ar": "خليفة بن أحمد بن خلفان المحيربي، من الذين كانت لهم إسهامات في الحفاظ على التراث والرياضات التراثية وحمايتها، وبخاصة الصيد بالصقور والسباقات البحرية.",
+    "en": "Khalifa bin Ahmed bin Khalfan Al Muhairbi is among those who had contributions to preserving and protecting heritage and heritage sports, in particular falconry and sea races."
   },
   "refs": [
     {
@@ -10707,8 +10707,8 @@ window.STREETS = [
     "en": "Father of Ahmed bin Khalifa Al Suwaidi and the poetess Ousha bint Khalifa"
   },
   "story": {
-    "ar": "خليفة بن أحمد بن خليفة بن خميس بن يعروف السويدي، وُلد نحو ١٩٠٠، والد أحمد بن خليفة السويدي والشاعرة عوشة بنت خليفة (فتاة العرب). وحمل الشارع في التسمية القديمة الرقم ١٩٠.",
-    "en": "Khalifa bin Ahmed bin Khalifa bin Khamis bin Yarouf Al Suwaidi, born around 1900, was the father of Ahmed bin Khalifa Al Suwaidi and of the poetess Ousha bint Khalifa (the Girl of the Arabs). The street carried the number 190 in the older naming."
+    "ar": "خليفة بن أحمد بن خليفة بن خميس بن يعروف السويدي، وُلد نحو ١٩٠٠، والد أحمد بن خليفة السويدي والشاعرة عوشة بنت خليفة (فتاة العرب).",
+    "en": "Khalifa bin Ahmed bin Khalifa bin Khamis bin Yarouf Al Suwaidi, born around 1900, was the father of Ahmed bin Khalifa Al Suwaidi and of the poetess Ousha bint Khalifa (the Girl of the Arabs)."
   },
   "refs": [
     {
@@ -10729,8 +10729,8 @@ window.STREETS = [
     "en": "An Armed Forces officer who rose to the rank of brigadier"
   },
   "story": {
-    "ar": "خليفة بن سالم بن سعيد بن حاسوم الدرمكي، وُلد نحو ١٩٣٧، حاصل على وسام الإمارات، ومن رجال القوات المسلحة الذين خدموا في بداية تأسيس قوة دفاع أبوظبي، وتدرج في الرتب العسكرية حتى رتبة عميد. وحمل الشارع في التسمية القديمة الرقم ٥٥٧.",
-    "en": "Khalifa bin Salem bin Saeed bin Hasoom Al Darmaki, born around 1937, received the UAE Medal, and was among the Armed Forces men who served at the beginning of the Abu Dhabi Defence Force; he rose through the military ranks to the rank of brigadier. The street carried the number 557 in the older naming."
+    "ar": "خليفة بن سالم بن سعيد بن حاسوم الدرمكي، وُلد نحو ١٩٣٧، حاصل على وسام الإمارات، ومن رجال القوات المسلحة الذين خدموا في بداية تأسيس قوة دفاع أبوظبي، وتدرج في الرتب العسكرية حتى رتبة عميد.",
+    "en": "Khalifa bin Salem bin Saeed bin Hasoom Al Darmaki, born around 1937, received the UAE Medal, and was among the Armed Forces men who served at the beginning of the Abu Dhabi Defence Force; he rose through the military ranks to the rank of brigadier."
   },
   "refs": [
     {
@@ -10751,8 +10751,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "خليفة بن سعيد بن هويدن الكتبي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٦٠٥.",
-    "en": "Khalifa bin Saeed bin Hweeden Al Ketbi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 605 in the older naming."
+    "ar": "خليفة بن سعيد بن هويدن الكتبي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Khalifa bin Saeed bin Hweeden Al Ketbi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -10773,8 +10773,8 @@ window.STREETS = [
     "en": "A scholar and merchant, forefather of Ahmed bin Khalifa Al Suwaidi"
   },
   "story": {
-    "ar": "خليفة بن خميس بن يعروف السويدي، وُلد نحو ١٨٠١، شيخ علم وتاجر في أبوظبي، وهو الجد الأعلى لأحمد بن خليفة السويدي، وتوفي حاجاً بمكة المكرمة ودُفن فيها. وحمل الشارع في التسمية القديمة الرقم ١٦٢.",
-    "en": "Khalifa bin Khamis bin Yarouf Al Suwaidi, born around 1801, was a scholar and merchant in Abu Dhabi and the forefather of Ahmed bin Khalifa Al Suwaidi; he died while performing hajj in Makkah and was buried there. The street carried the number 162 in the older naming."
+    "ar": "خليفة بن خميس بن يعروف السويدي، وُلد نحو ١٨٠١، شيخ علم وتاجر في أبوظبي، وهو الجد الأعلى لأحمد بن خليفة السويدي، وتوفي حاجاً بمكة المكرمة ودُفن فيها.",
+    "en": "Khalifa bin Khamis bin Yarouf Al Suwaidi, born around 1801, was a scholar and merchant in Abu Dhabi and the forefather of Ahmed bin Khalifa Al Suwaidi; he died while performing hajj in Makkah and was buried there."
   },
   "refs": [
     {
@@ -10795,8 +10795,8 @@ window.STREETS = [
     "en": "A poet and Armed Forces member of the people of Al Ain"
   },
   "story": {
-    "ar": "خليفة بن محمد بن حميد بن هزاع بن مترف الجابري، وُلد نحو ١٩٤٥، شاعر معروف وأحد منتسبي القوات المسلحة، من أهالي مدينة العين، وحصل على وسام الشرف من الملكة إليزابيث ملكة بريطانيا سنة ١٩٦٧. وحمل الشارع في التسمية القديمة الرقم ٥٧١.",
-    "en": "Khalifa bin Mohammed bin Humaid bin Hazza bin Metref Al Jabri, born around 1945, was a known poet and a member of the Armed Forces, of the people of Al Ain city, and received an honorary award from Queen Elizabeth, Queen of Britain, in 1967. The street carried the number 571 in the older naming."
+    "ar": "خليفة بن محمد بن حميد بن هزاع بن مترف الجابري، وُلد نحو ١٩٤٥، شاعر معروف وأحد منتسبي القوات المسلحة، من أهالي مدينة العين، وحصل على وسام الشرف من الملكة إليزابيث ملكة بريطانيا سنة ١٩٦٧.",
+    "en": "Khalifa bin Mohammed bin Humaid bin Hazza bin Metref Al Jabri, born around 1945, was a known poet and a member of the Armed Forces, of the people of Al Ain city, and received an honorary award from Queen Elizabeth, Queen of Britain, in 1967."
   },
   "refs": [
     {
@@ -10817,8 +10817,8 @@ window.STREETS = [
     "en": "Commander of the guards of the western regions in 1934"
   },
   "story": {
-    "ar": "خليفة بن سويدان بن زعل المحيربي، وُلد نحو ١٨٩٥، وكان قائداً لحراس المناطق الغربية سنة ١٩٣٤ (الطف – راس غميس وصير بني ياس). وحمل الشارع في التسمية القديمة الرقم ٧٦٣.",
-    "en": "Khalifa bin Swaidan bin Zaal Al Muhairbi, born around 1895, was commander of the guards of the western regions in 1934 (Al Taff – Ras Ghumais and Sir Bani Yas). The street carried the number 763 in the older naming."
+    "ar": "خليفة بن سويدان بن زعل المحيربي، وُلد نحو ١٨٩٥، وكان قائداً لحراس المناطق الغربية سنة ١٩٣٤ (الطف – راس غميس وصير بني ياس).",
+    "en": "Khalifa bin Swaidan bin Zaal Al Muhairbi, born around 1895, was commander of the guards of the western regions in 1934 (Al Taff – Ras Ghumais and Sir Bani Yas)."
   },
   "refs": [
     {
@@ -10839,8 +10839,8 @@ window.STREETS = [
     "en": "A mutawwa' and poet of Dalma and Al Yas Island"
   },
   "story": {
-    "ar": "خليفة بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٠٠، مطوع وشاعر معروف من أهالي جزيرة دلما وجزيرة الياس، عمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٧٧٧.",
-    "en": "Khalifa bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1900, was a mutawwa' and known poet of the people of Dalma Island and Al Yas Island, and worked in pearl diving. The street carried the number 777 in the older naming."
+    "ar": "خليفة بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٠٠، مطوع وشاعر معروف من أهالي جزيرة دلما وجزيرة الياس، عمل في مهنة الغوص.",
+    "en": "Khalifa bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1900, was a mutawwa' and known poet of the people of Dalma Island and Al Yas Island, and worked in pearl diving."
   },
   "refs": [
     {
@@ -10861,8 +10861,8 @@ window.STREETS = [
     "en": "A judge in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "خليفة بن يوسف بن علي الخميري، وُلد نحو ١٨٨٠، قاضٍ في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٢٨٠.",
-    "en": "Khalifa bin Yousef bin Ali Al Khemairi, born around 1880, was a judge under Sheikh Zayed the First (1855–1909). The street carried the number 280 in the older naming."
+    "ar": "خليفة بن يوسف بن علي الخميري، وُلد نحو ١٨٨٠، قاضٍ في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Khalifa bin Yousef bin Ali Al Khemairi, born around 1880, was a judge under Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -10883,8 +10883,8 @@ window.STREETS = [
     "en": "Head of the diwan and adviser to Sheikh Shakhbut, and a member of Abu Dhabi councils"
   },
   "story": {
-    "ar": "خليفة بن يوسف بن أحمد بن عبيد السويدي، وُلد نحو ١٩١٥، رئيس ديوان ومستشار الشيخ شخبوط بن سلطان آل نهيان، وعضو مجلس أبوظبي للتخطيط والمجلس البلدي وغرفة تجارة وصناعة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٢٣.",
-    "en": "Khalifa bin Yousef bin Ahmed bin Obaid Al Suwaidi, born around 1915, was head of the diwan and adviser to Sheikh Shakhbut bin Sultan Al Nahyan, and a member of the Abu Dhabi Planning Council, the Municipal Council, and the Abu Dhabi Chamber of Commerce and Industry. The street carried the number 323 in the older naming."
+    "ar": "خليفة بن يوسف بن أحمد بن عبيد السويدي، وُلد نحو ١٩١٥، رئيس ديوان ومستشار الشيخ شخبوط بن سلطان آل نهيان، وعضو مجلس أبوظبي للتخطيط والمجلس البلدي وغرفة تجارة وصناعة أبوظبي.",
+    "en": "Khalifa bin Yousef bin Ahmed bin Obaid Al Suwaidi, born around 1915, was head of the diwan and adviser to Sheikh Shakhbut bin Sultan Al Nahyan, and a member of the Abu Dhabi Planning Council, the Municipal Council, and the Abu Dhabi Chamber of Commerce and Industry."
   },
   "refs": [
     {
@@ -10905,8 +10905,8 @@ window.STREETS = [
     "en": "A sheikh of the Mazarei who supervised the building of the fort of Mwaqab"
   },
   "story": {
-    "ar": "خميس بن علي بن خميس بن مفلح آل رويشد المزروعي، وُلد نحو ١٨٨٠، من شيوخ المزاريع، أشرف على بناء قلعة موقب في إليوا في عهد الشيخ سلطان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٢٣٧.",
-    "en": "Khamis bin Ali bin Khamis bin Mufleh Al Ruwaidh Al Mazrouei, born around 1880, was one of the sheikhs of the Mazarei; he supervised the building of the fort of Mwaqab in Liwa under Sheikh Sultan bin Zayed the First. The street carried the number 237 in the older naming."
+    "ar": "خميس بن علي بن خميس بن مفلح آل رويشد المزروعي، وُلد نحو ١٨٨٠، من شيوخ المزاريع، أشرف على بناء قلعة موقب في إليوا في عهد الشيخ سلطان بن زايد الأول.",
+    "en": "Khamis bin Ali bin Khamis bin Mufleh Al Ruwaidh Al Mazrouei, born around 1880, was one of the sheikhs of the Mazarei; he supervised the building of the fort of Mwaqab in Liwa under Sheikh Sultan bin Zayed the First."
   },
   "refs": [
     {
@@ -10927,8 +10927,8 @@ window.STREETS = [
     "en": "A mu'arraf of the advisory committee and a poet who practised pearl diving"
   },
   "story": {
-    "ar": "خميس بن محمد بن علي المزروعي، وُلد نحو ١٩١٨، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨، وشاعر معروف امتهن الغوص أول مهنة في حياته. وحمل الشارع في التسمية القديمة الرقم ٢٨٢.",
-    "en": "Khamis bin Mohammed bin Ali Al Mazrouei, born around 1918, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968, and a known poet who practised pearl diving as the first profession in his life. The street carried the number 282 in the older naming."
+    "ar": "خميس بن محمد بن علي المزروعي، وُلد نحو ١٩١٨، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨، وشاعر معروف امتهن الغوص أول مهنة في حياته.",
+    "en": "Khamis bin Mohammed bin Ali Al Mazrouei, born around 1918, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968, and a known poet who practised pearl diving as the first profession in his life."
   },
   "refs": [
     {
@@ -10949,8 +10949,8 @@ window.STREETS = [
     "en": "An imam, scholar and teacher, then imam of Al Muhindi Mosque in Dalma"
   },
   "story": {
-    "ar": "خميس بن سعيد بن عتيق القبيسي، وُلد نحو ١٩٢٢، إمام وشيخ علم ومدرس في مدرسة العتيبة، وانتقل إلى جزيرة دلما حيث تولى الإمامة وشؤون المصلين في مسجد المهندي. وحمل الشارع في التسمية القديمة الرقم ٧٧٤.",
-    "en": "Khamis bin Saeed bin Atiq Al Qubaisi, born around 1922, was an imam, scholar and teacher at Al Otaiba School, and moved to Dalma Island where he took charge of the imamate and the affairs of worshippers at Al Muhindi Mosque. The street carried the number 774 in the older naming."
+    "ar": "خميس بن سعيد بن عتيق القبيسي، وُلد نحو ١٩٢٢، إمام وشيخ علم ومدرس في مدرسة العتيبة، وانتقل إلى جزيرة دلما حيث تولى الإمامة وشؤون المصلين في مسجد المهندي.",
+    "en": "Khamis bin Saeed bin Atiq Al Qubaisi, born around 1922, was an imam, scholar and teacher at Al Otaiba School, and moved to Dalma Island where he took charge of the imamate and the affairs of worshippers at Al Muhindi Mosque."
   },
   "refs": [
     {
@@ -10971,8 +10971,8 @@ window.STREETS = [
     "en": "Preserved Abu Dhabi's heritage and cultivated its mangroves"
   },
   "story": {
-    "ar": "خميس بن راشد بن زعل بن راشد الرميثي، وُلد نحو ١٩٣٤، كان مهتماً بتراث أبوظبي ومحافظاً عليه، ومن أشهر أعماله زراعة القرم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٤١.",
-    "en": "Khamis bin Rashid bin Zaal bin Rashid Al Rumaithi, born around 1934, was interested in the heritage of Abu Dhabi and preserved it; among his best-known works is his cultivation of mangroves in Abu Dhabi. The street carried the number 41 in the older naming."
+    "ar": "خميس بن راشد بن زعل بن راشد الرميثي، وُلد نحو ١٩٣٤، كان مهتماً بتراث أبوظبي ومحافظاً عليه، ومن أشهر أعماله زراعة القرم في أبوظبي.",
+    "en": "Khamis bin Rashid bin Zaal bin Rashid Al Rumaithi, born around 1934, was interested in the heritage of Abu Dhabi and preserved it; among his best-known works is his cultivation of mangroves in Abu Dhabi."
   },
   "refs": [
     {
@@ -10993,8 +10993,8 @@ window.STREETS = [
     "en": "Elder of the Hawamil tribe who built an old mosque in Abu Dhabi"
   },
   "story": {
-    "ar": "كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٨٦٣، من رجال أبوظبي المعروفين بفعل الخير، وكبير قبيلة الهوامل، وبنى مسجداً قديماً في حارة الهوامل بأبوظبي. وحمل الشارع في التسمية القديمة الرقم ٥٩.",
-    "en": "Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1863, was one of the men of Abu Dhabi known for doing good and elder of the Hawamil tribe, and built an old mosque in the Hawamil quarter in Abu Dhabi. The street carried the number 59 in the older naming."
+    "ar": "كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٨٦٣، من رجال أبوظبي المعروفين بفعل الخير، وكبير قبيلة الهوامل، وبنى مسجداً قديماً في حارة الهوامل بأبوظبي.",
+    "en": "Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1863, was one of the men of Abu Dhabi known for doing good and elder of the Hawamil tribe, and built an old mosque in the Hawamil quarter in Abu Dhabi."
   },
   "refs": [
     {
@@ -11032,8 +11032,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council and personal bodyguard of Sheikh Shakhbut"
   },
   "story": {
-    "ar": "مانع بن عبد الله بن عبدالله بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٩٢٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وكان حارساً شخصياً للشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٤٨.",
-    "en": "Mana bin Abdullah bin Abdullah bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1920, was a member of the National Consultative Council in 1971, and personal bodyguard of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 48 in the older naming."
+    "ar": "مانع بن عبد الله بن عبدالله بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٩٢٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وكان حارساً شخصياً للشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Mana bin Abdullah bin Abdullah bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1920, was a member of the National Consultative Council in 1971, and personal bodyguard of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -11054,8 +11054,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "منصور بن ناصر بن حمدان بن محمد بن حمد بن سالمين آل سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٠٨.",
-    "en": "Mansoor bin Nasser bin Hamdan bin Mohammed bin Hamad bin Salmeen Al Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 308 in the older naming."
+    "ar": "منصور بن ناصر بن حمدان بن محمد بن حمد بن سالمين آل سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Mansoor bin Nasser bin Hamdan bin Mohammed bin Hamad bin Salmeen Al Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -11076,8 +11076,8 @@ window.STREETS = [
     "en": "A poet nicknamed Buzahira who practised pearl diving and documented his era's events"
   },
   "story": {
-    "ar": "منصور بن غانم بن أحمد المزروعي، وُلد نحو ١٨٩٨، شاعر يُكنى بـ«بوزاهرة»، عمل في مهنة الغوص، واشتهر بتوثيق الأحداث الجارية خلال حياته. وحمل الشارع في التسمية القديمة الرقم ٢٢٠.",
-    "en": "Mansour bin Ghanem bin Ahmed Al Mazrouei, born around 1898, was a poet nicknamed «Buzahira» who worked in pearl diving and was known for documenting the events of his time. The street carried the number 220 in the older naming."
+    "ar": "منصور بن غانم بن أحمد المزروعي، وُلد نحو ١٨٩٨، شاعر يُكنى بـ«بوزاهرة»، عمل في مهنة الغوص، واشتهر بتوثيق الأحداث الجارية خلال حياته.",
+    "en": "Mansour bin Ghanem bin Ahmed Al Mazrouei, born around 1898, was a poet nicknamed «Buzahira» who worked in pearl diving and was known for documenting the events of his time."
   },
   "refs": [
     {
@@ -11098,8 +11098,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council and guard of Burj Al Maqta"
   },
   "story": {
-    "ar": "مطر بن حاضر بن بخيت المهيري، وُلد نحو ١٩٢١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وحرس برج المقطع في بدايات حياته في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٤٧.",
-    "en": "Matar bin Hader bin Bakhit Al Muhairi, born around 1921, was a member of the National Consultative Council in 1971, and guarded Burj Al Maqta at the beginning of his life in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 47 in the older naming."
+    "ar": "مطر بن حاضر بن بخيت المهيري، وُلد نحو ١٩٢١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وحرس برج المقطع في بدايات حياته في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Matar bin Hader bin Bakhit Al Muhairi, born around 1921, was a member of the National Consultative Council in 1971, and guarded Burj Al Maqta at the beginning of his life in the time of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -11120,8 +11120,8 @@ window.STREETS = [
     "en": "One of Sheikh Zayed bin Sultan's men known for wisdom"
   },
   "story": {
-    "ar": "مطر بن سعيد بن حاذه الكتبي، وُلد نحو ١٩٢٥، من رجال الشيخ زايد بن سلطان آل نهيان المعروفين، اشتُهر بالحكمة وسدادة الرأي، وكُلّف بالصلح بين الناس. وحمل الشارع في التسمية القديمة الرقم ٥٧٧.",
-    "en": "Matar bin Saeed bin Hatha Al Ketbi, born around 1925, was one of the known men of Sheikh Zayed bin Sultan Al Nahyan; he was known for wisdom and sound judgement, and was tasked with reconciling among people. The street carried the number 577 in the older naming."
+    "ar": "مطر بن سعيد بن حاذه الكتبي، وُلد نحو ١٩٢٥، من رجال الشيخ زايد بن سلطان آل نهيان المعروفين، اشتُهر بالحكمة وسدادة الرأي، وكُلّف بالصلح بين الناس.",
+    "en": "Matar bin Saeed bin Hatha Al Ketbi, born around 1925, was one of the known men of Sheikh Zayed bin Sultan Al Nahyan; he was known for wisdom and sound judgement, and was tasked with reconciling among people."
   },
   "refs": [
     {
@@ -11142,8 +11142,8 @@ window.STREETS = [
     "en": "A guard of Burj Al Maqta in Abu Dhabi"
   },
   "story": {
-    "ar": "مطر بن خادم بن ناصر المهيري، وُلد نحو ١٩٠٧، عمل حارساً لبرج المقطع في أبوظبي، وتوفي سنة ١٩٧٧. وحمل الشارع في التسمية القديمة الرقم ٢٥٤.",
-    "en": "Matar bin Khadim bin Nasser Al Muhairi, born around 1907, worked as a guard of Burj Al Maqta in Abu Dhabi, and died in 1977. The street carried the number 254 in the older naming."
+    "ar": "مطر بن خادم بن ناصر المهيري، وُلد نحو ١٩٠٧، عمل حارساً لبرج المقطع في أبوظبي، وتوفي سنة ١٩٧٧.",
+    "en": "Matar bin Khadim bin Nasser Al Muhairi, born around 1907, worked as a guard of Burj Al Maqta in Abu Dhabi, and died in 1977."
   },
   "refs": [
     {
@@ -11164,8 +11164,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan of the people of Al Dhafra"
   },
   "story": {
-    "ar": "مطر بن محمد بن راشد بالفاره القبيسي، وُلد نحو ١٩٢٧، مرافق للشيخ زايد بن سلطان آل نهيان، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٩٩.",
-    "en": "Matar bin Mohammed bin Rashid Bil Faraha Al Qubaisi, born around 1927, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Dhafra. The street carried the number 799 in the older naming."
+    "ar": "مطر بن محمد بن راشد بالفاره القبيسي، وُلد نحو ١٩٢٧، مرافق للشيخ زايد بن سلطان آل نهيان، من أهالي الظفرة.",
+    "en": "Matar bin Mohammed bin Rashid Bil Faraha Al Qubaisi, born around 1927, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -11186,8 +11186,8 @@ window.STREETS = [
     "en": "Tasked with digging and maintaining the water sources of the northern sands"
   },
   "story": {
-    "ar": "مطر بن محمد بن مطر بن محمد بن عبدالله الرميثي، وُلد نحو ١٩١٥، وكُلف في عهد الشيخ شخبوط بن سلطان آل نهيان سنة ١٩٥٨ بحفر وصيانة وإدامة موارد المياه في الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٦٤.",
-    "en": "Matar bin Mohammed bin Matar bin Mohammed bin Abdullah Al Rumaithi, born around 1915, was tasked in the time of Sheikh Shakhbut bin Sultan Al Nahyan, in 1958, with digging, maintaining and keeping the water sources of the northern sands. The street carried the number 364 in the older naming."
+    "ar": "مطر بن محمد بن مطر بن محمد بن عبدالله الرميثي، وُلد نحو ١٩١٥، وكُلف في عهد الشيخ شخبوط بن سلطان آل نهيان سنة ١٩٥٨ بحفر وصيانة وإدامة موارد المياه في الطف الشمالي.",
+    "en": "Matar bin Mohammed bin Matar bin Mohammed bin Abdullah Al Rumaithi, born around 1915, was tasked in the time of Sheikh Shakhbut bin Sultan Al Nahyan, in 1958, with digging, maintaining and keeping the water sources of the northern sands."
   },
   "refs": [
     {
@@ -11208,8 +11208,8 @@ window.STREETS = [
     "ar": "حارس الحصن وشاعر من شعراء أبوظبي"
   },
   "story": {
-    "ar": "مطر بن ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٩٢٠، وكان حارساً للحصن وبرج المقطع ومطارزياً عند الشيخ شخبوط بن سلطان آل نهيان، ومن شعراء أبوظبي، عُرف بـ«الونه». وحمل الشارع في التسمية القديمة الرقم ٨٢.",
-    "en": "Matar ibn Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1920, was a guard of the fort and of the Burj al-Maqta', and a watchman for Sheikh Shakhbut bin Sultan Al Nahyan. He was one of Abu Dhabi's poets, known as «Al Wannah». The street carried the number 82 in the older naming."
+    "ar": "مطر بن ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٩٢٠، وكان حارساً للحصن وبرج المقطع ومطارزياً عند الشيخ شخبوط بن سلطان آل نهيان، ومن شعراء أبوظبي، عُرف بـ«الونه».",
+    "en": "Matar ibn Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1920, was a guard of the fort and of the Burj al-Maqta', and a watchman for Sheikh Shakhbut bin Sultan Al Nahyan. He was one of Abu Dhabi's poets, known as «Al Wannah»."
   },
   "refs": [
     {
@@ -11230,8 +11230,8 @@ window.STREETS = [
     "en": "An imam and scholar in Madhhar Al Dhafir"
   },
   "story": {
-    "ar": "مهيدي بن سعيد بن مرشد بن عضيد الهاملي، وُلد نحو ١٩٣١، إمام وشيخ علم في محضر ظفير. وحمل الشارع في التسمية القديمة الرقم ٣٠٤.",
-    "en": "Mehidi bin Saeed bin Murshid bin Adaid Al Hameli, born around 1931, was an imam and scholar in Madhhar Al Dhafir. The street carried the number 304 in the older naming."
+    "ar": "مهيدي بن سعيد بن مرشد بن عضيد الهاملي، وُلد نحو ١٩٣١، إمام وشيخ علم في محضر ظفير.",
+    "en": "Mehidi bin Saeed bin Murshid bin Adaid Al Hameli, born around 1931, was an imam and scholar in Madhhar Al Dhafir."
   },
   "refs": [
     {
@@ -11252,8 +11252,8 @@ window.STREETS = [
     "en": "A scholar in Ghagha Island"
   },
   "story": {
-    "ar": "مهيدي بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٣٠، شيخ علم في جزيرة غاغة. وحمل الشارع في التسمية القديمة الرقم ٧٨٧.",
-    "en": "Mehidi bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1930, was a scholar in Ghagha Island. The street carried the number 787 in the older naming."
+    "ar": "مهيدي بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٣٠، شيخ علم في جزيرة غاغة.",
+    "en": "Mehidi bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1930, was a scholar in Ghagha Island."
   },
   "refs": [
     {
@@ -11274,8 +11274,8 @@ window.STREETS = [
     "en": "Of the people of Ghagha Island, preserved it and accompanied Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "مهنا بن بطي بن محمد بن هزيم بن صخير القبيسي، وُلد نحو ١٩٢٨، رافق الشيخ زايد بن سلطان آل نهيان، وهو من أهالي جزيرة غاغة، وتولى الحفاظ عليها وإدامتها، وتوفي سنة ٢٠١٦. وحمل الشارع في التسمية القديمة الرقم ٧٨٦.",
-    "en": "Mihanna bin Butti bin Mohammed bin Hazeim bin Sukhair Al Qubaisi, born around 1928, accompanied Sheikh Zayed bin Sultan Al Nahyan; he was of the people of Ghagha Island and undertook its preservation and upkeep, and died in 2016. The street carried the number 786 in the older naming."
+    "ar": "مهنا بن بطي بن محمد بن هزيم بن صخير القبيسي، وُلد نحو ١٩٢٨، رافق الشيخ زايد بن سلطان آل نهيان، وهو من أهالي جزيرة غاغة، وتولى الحفاظ عليها وإدامتها، وتوفي سنة ٢٠١٦.",
+    "en": "Mihanna bin Butti bin Mohammed bin Hazeim bin Sukhair Al Qubaisi, born around 1928, accompanied Sheikh Zayed bin Sultan Al Nahyan; he was of the people of Ghagha Island and undertook its preservation and upkeep, and died in 2016."
   },
   "refs": [
     {
@@ -11296,8 +11296,8 @@ window.STREETS = [
     "en": "A known poet nicknamed Baghsab of the people of Al Dhafra"
   },
   "story": {
-    "ar": "محمد بن حاضر بن سحبان بن خزام المخزومي المنصوري، وُلد نحو ١٨٩٥، شاعر معروف يُكنى بـ«بغّصاب»، من أهالي منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٧٠.",
-    "en": "Mohammed bin Hader bin Sahban bin Khazam Al Makhzoumi Al Mansouri, born around 1895, was a known poet nicknamed «Baghsab», of the people of the Al Dhafra region. The street carried the number 770 in the older naming."
+    "ar": "محمد بن حاضر بن سحبان بن خزام المخزومي المنصوري، وُلد نحو ١٨٩٥، شاعر معروف يُكنى بـ«بغّصاب»، من أهالي منطقة الظفرة.",
+    "en": "Mohammed bin Hader bin Sahban bin Khazam Al Makhzoumi Al Mansouri, born around 1895, was a known poet nicknamed «Baghsab», of the people of the Al Dhafra region."
   },
   "refs": [
     {
@@ -11318,8 +11318,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan who practised pearl diving, of Al Ain"
   },
   "story": {
-    "ar": "محمد بن صالح بن دري الفلاحي، مرافق للشيخ زايد بن سلطان آل نهيان، عمل في مهنة الغوص في بداية حياته، وهو من أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٥٩٢.",
-    "en": "Mohammed bin Saleh bin Drai Al Falahi was a companion of Sheikh Zayed bin Sultan Al Nahyan; he worked in pearl diving at the beginning of his life and is of the people of Al Ain. The street carried the number 592 in the older naming."
+    "ar": "محمد بن صالح بن دري الفلاحي، مرافق للشيخ زايد بن سلطان آل نهيان، عمل في مهنة الغوص في بداية حياته، وهو من أهالي العين.",
+    "en": "Mohammed bin Saleh bin Drai Al Falahi was a companion of Sheikh Zayed bin Sultan Al Nahyan; he worked in pearl diving at the beginning of his life and is of the people of Al Ain."
   },
   "refs": [
     {
@@ -11340,8 +11340,8 @@ window.STREETS = [
     "en": "A commander in the forces of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "محمد بن سيف بن زايد الفلاحي، وُلد نحو ١٨٨٥، قائد في قوات الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٦٠.",
-    "en": "Mohammed bin Saif bin Zayed Al Falahi, born around 1885, was a commander in the forces of Sheikh Zayed the First (1855–1909). The street carried the number 60 in the older naming."
+    "ar": "محمد بن سيف بن زايد الفلاحي، وُلد نحو ١٨٨٥، قائد في قوات الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Mohammed bin Saif bin Zayed Al Falahi, born around 1885, was a commander in the forces of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -11362,8 +11362,8 @@ window.STREETS = [
     "en": "Deputy head of the Public Works Department in Abu Dhabi"
   },
   "story": {
-    "ar": "محمد بن حمد بن ميزر الحر السويدي، وُلد نحو ١٩٣٠، وكيل دائرة الأشغال في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦١.",
-    "en": "Mohammed bin Hamd bin Mizar Al Hur Al Suwaidi, born around 1930, was deputy head of the Public Works Department in Abu Dhabi. The street carried the number 61 in the older naming."
+    "ar": "محمد بن حمد بن ميزر الحر السويدي، وُلد نحو ١٩٣٠، وكيل دائرة الأشغال في أبوظبي.",
+    "en": "Mohammed bin Hamd bin Mizar Al Hur Al Suwaidi, born around 1930, was deputy head of the Public Works Department in Abu Dhabi."
   },
   "refs": [
     {
@@ -11384,8 +11384,8 @@ window.STREETS = [
     "en": "Assistant judge in maritime cases"
   },
   "story": {
-    "ar": "محمد بن عبدالغني الخميري، وُلد نحو ١٨٨٠، مساعد قاضي في أمور قضايا البحر. وحمل الشارع في التسمية القديمة الرقم ٣٢٩.",
-    "en": "Mohammed bin Abdulghani Al Khemairi, born around 1880, was assistant judge in maritime cases. The street carried the number 329 in the older naming."
+    "ar": "محمد بن عبدالغني الخميري، وُلد نحو ١٨٨٠، مساعد قاضي في أمور قضايا البحر.",
+    "en": "Mohammed bin Abdulghani Al Khemairi, born around 1880, was assistant judge in maritime cases."
   },
   "refs": [
     {
@@ -11406,8 +11406,8 @@ window.STREETS = [
     "en": "A scholar and member of the National Consultative Council"
   },
   "story": {
-    "ar": "محمد بن عبدالله بن سيف القمزي، وُلد نحو ١٨٨٩، شيخ علم وعضو في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٩٨.",
-    "en": "Mohammed bin Abdullah bin Saif Al Qamzi, born around 1889, was a scholar and member of the National Consultative Council in 1971. The street carried the number 98 in the older naming."
+    "ar": "محمد بن عبدالله بن سيف القمزي، وُلد نحو ١٨٨٩، شيخ علم وعضو في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Mohammed bin Abdullah bin Saif Al Qamzi, born around 1889, was a scholar and member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -11428,8 +11428,8 @@ window.STREETS = [
     "en": "A scholar of Ghagha Island of the people of Al Dhafra"
   },
   "story": {
-    "ar": "محمد بن سعيد بن عيسى بن محسن بن ذياب بن عبلان المزروعي، وُلد نحو ١٨٠٠، شيخ علم في جزيرة غاغة، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ١١٥.",
-    "en": "Mohammed bin Saeed bin Essa bin Mohsin bin Dhiyab bin Ablan Al Mazrouei, born around 1800, was a scholar in Ghagha Island, of the people of Al Dhafra. The street carried the number 115 in the older naming."
+    "ar": "محمد بن سعيد بن عيسى بن محسن بن ذياب بن عبلان المزروعي، وُلد نحو ١٨٠٠، شيخ علم في جزيرة غاغة، من أهالي الظفرة.",
+    "en": "Mohammed bin Saeed bin Essa bin Mohsin bin Dhiyab bin Ablan Al Mazrouei, born around 1800, was a scholar in Ghagha Island, of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -11450,8 +11450,8 @@ window.STREETS = [
     "en": "Supervised the building of Burj Al Tariq, of the people of Al Dhafra"
   },
   "story": {
-    "ar": "محمد بن الصليح آل عفصان المزروعي، وُلد نحو ١٨٣٠، أشرف على بناء برج الطرق، من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٥٩.",
-    "en": "Mohammed bin Al Saleeh Al Afsan Al Mazrouei, born around 1830, supervised the building of Burj Al Tariq, of the people of Al Dhafra. The street carried the number 759 in the older naming."
+    "ar": "محمد بن الصليح آل عفصان المزروعي، وُلد نحو ١٨٣٠، أشرف على بناء برج الطرق، من أهل الظفرة.",
+    "en": "Mohammed bin Al Saleeh Al Afsan Al Mazrouei, born around 1830, supervised the building of Burj Al Tariq, of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -11472,8 +11472,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "محمد بن الفندي بن غانم بن عطيش المزروعي، وُلد نحو ١٩٤٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١١٤.",
-    "en": "Mohammed bin Al Fendi bin Ghanem bin Atteesh Al Mazrouei, born around 1940, was a member of the National Consultative Council in 1971. The street carried the number 114 in the older naming."
+    "ar": "محمد بن الفندي بن غانم بن عطيش المزروعي، وُلد نحو ١٩٤٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Mohammed bin Al Fendi bin Ghanem bin Atteesh Al Mazrouei, born around 1940, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -11494,8 +11494,8 @@ window.STREETS = [
     "en": "A zakat collector known for his skill in taming horses"
   },
   "story": {
-    "ar": "محمد بن علي بن خليفة الظاهري، وُلد نحو ١٩٠٥، من عمال الزكاة في عهد الشيخ شخبوط بن سلطان آل نهيان، ويُكنى بـ«قريعان»، وعُرف بمهارته في ترويض الخيل. وحمل الشارع في التسمية القديمة الرقم ٥٣١.",
-    "en": "Mohammed bin Ali bin Khalifa Al Dhaheri, born around 1905, was among the zakat collectors under Sheikh Shakhbut bin Sultan Al Nahyan, nicknamed «Quraian», and was known for his skill in taming horses. The street carried the number 531 in the older naming."
+    "ar": "محمد بن علي بن خليفة الظاهري، وُلد نحو ١٩٠٥، من عمال الزكاة في عهد الشيخ شخبوط بن سلطان آل نهيان، ويُكنى بـ«قريعان»، وعُرف بمهارته في ترويض الخيل.",
+    "en": "Mohammed bin Ali bin Khalifa Al Dhaheri, born around 1905, was among the zakat collectors under Sheikh Shakhbut bin Sultan Al Nahyan, nicknamed «Quraian», and was known for his skill in taming horses."
   },
   "refs": [
     {
@@ -11516,8 +11516,8 @@ window.STREETS = [
     "en": "A known poet of the people of Abu Dhabi"
   },
   "story": {
-    "ar": "محمد بن علي بن ميزر المهيري، وُلد نحو ١٩١٠، شاعر معروف من أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٩٩.",
-    "en": "Mohammed bin Ali bin Mizar Al Muhairi, born around 1910, was a known poet of the people of Abu Dhabi. The street carried the number 199 in the older naming."
+    "ar": "محمد بن علي بن ميزر المهيري، وُلد نحو ١٩١٠، شاعر معروف من أهالي أبوظبي.",
+    "en": "Mohammed bin Ali bin Mizar Al Muhairi, born around 1910, was a known poet of the people of Abu Dhabi."
   },
   "refs": [
     {
@@ -11538,8 +11538,8 @@ window.STREETS = [
     "en": "One of the known men of Abu Dhabi and the Rumaithat elders"
   },
   "story": {
-    "ar": "محمد بن علي بن مرشد بن سالم الرميثي، وُلد نحو ١٨٨٠، من رجال أبوظبي المعروفين، ومن كبار الرميثات، وعُرف بأعمال الخير. وحمل الشارع في التسمية القديمة الرقم ٩٠.",
-    "en": "Mohammed bin Ali bin Murshid bin Salem Al Rumaithi, born around 1880, was one of the known men of Abu Dhabi and one of the elders of the Rumaithat, and was known for good works. The street carried the number 90 in the older naming."
+    "ar": "محمد بن علي بن مرشد بن سالم الرميثي، وُلد نحو ١٨٨٠، من رجال أبوظبي المعروفين، ومن كبار الرميثات، وعُرف بأعمال الخير.",
+    "en": "Mohammed bin Ali bin Murshid bin Salem Al Rumaithi, born around 1880, was one of the known men of Abu Dhabi and one of the elders of the Rumaithat, and was known for good works."
   },
   "refs": [
     {
@@ -11560,8 +11560,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "محمد بن صالح بن عزيز المنذري المنصوري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٦٦.",
-    "en": "Mohammed bin Saleh bin Aziz Al Mundhiri Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 266 in the older naming."
+    "ar": "محمد بن صالح بن عزيز المنذري المنصوري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Mohammed bin Saleh bin Aziz Al Mundhiri Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -11582,8 +11582,8 @@ window.STREETS = [
     "en": "A poet and guard of the Al Hosn fort, Burj Al Maqta and the exploration mission"
   },
   "story": {
-    "ar": "محمد بن حميد بن خميس بن جبران السويدي، وُلد نحو ١٩٢٣، شاعر وأحد حراس قصر الحصن وبرج المقطع، وحراسة بعثة التنقيب عن النفط في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٥٧.",
-    "en": "Mohammed bin Humaid bin Khamis bin Gabran Al Suwaidi, born around 1923, was a poet and one of the guards of the Al Hosn fort and Burj Al Maqta, and of the oil exploration mission in Abu Dhabi. The street carried the number 157 in the older naming."
+    "ar": "محمد بن حميد بن خميس بن جبران السويدي، وُلد نحو ١٩٢٣، شاعر وأحد حراس قصر الحصن وبرج المقطع، وحراسة بعثة التنقيب عن النفط في أبوظبي.",
+    "en": "Mohammed bin Humaid bin Khamis bin Gabran Al Suwaidi, born around 1923, was a poet and one of the guards of the Al Hosn fort and Burj Al Maqta, and of the oil exploration mission in Abu Dhabi."
   },
   "refs": [
     {
@@ -11604,8 +11604,8 @@ window.STREETS = [
     "en": "A known poet of Madhhar Shat in Liwa"
   },
   "story": {
-    "ar": "محمد بن غنّام بن فجر الهاملي، وُلد نحو ١٨٩٠، شاعر معروف من محضر شاة من محاضر إليوا، ورفض جامع زكاة لغير الحاكم في محضره نحو سنة ١٩٣٠. وحمل الشارع في التسمية القديمة الرقم ٧٩٣.",
-    "en": "Mohammed bin Ghannam bin Fajar Al Hameli, born around 1890, was a known poet of Madhhar Shat of the mahadir of Liwa, and refused a zakat collector not of the ruler in his mahdhar around 1930. The street carried the number 793 in the older naming."
+    "ar": "محمد بن غنّام بن فجر الهاملي، وُلد نحو ١٨٩٠، شاعر معروف من محضر شاة من محاضر إليوا، ورفض جامع زكاة لغير الحاكم في محضره نحو سنة ١٩٣٠.",
+    "en": "Mohammed bin Ghannam bin Fajar Al Hameli, born around 1890, was a known poet of Madhhar Shat of the mahadir of Liwa, and refused a zakat collector not of the ruler in his mahdhar around 1930."
   },
   "refs": [
     {
@@ -11626,8 +11626,8 @@ window.STREETS = [
     "en": "Tasked with supervising Madhhar Al Dhafir and the roads in Liwa"
   },
   "story": {
-    "ar": "محمد بن غتيل بن زعل المحيربي، وُلد نحو ١٨٦٠، وكُلف من الحاكم بالإشراف على محضر ظفير والطرق في إليوا في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٢٥١.",
-    "en": "Mohammed bin Ghateel bin Zaal Al Muhairbi, born around 1860, was tasked by the ruler with supervising Madhhar Al Dhafir and the roads in Liwa under Sheikh Zayed the First (1855–1909). The street carried the number 251 in the older naming."
+    "ar": "محمد بن غتيل بن زعل المحيربي، وُلد نحو ١٨٦٠، وكُلف من الحاكم بالإشراف على محضر ظفير والطرق في إليوا في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Mohammed bin Ghateel bin Zaal Al Muhairbi, born around 1860, was tasked by the ruler with supervising Madhhar Al Dhafir and the roads in Liwa under Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -11648,8 +11648,8 @@ window.STREETS = [
     "en": "Minister of state for finance and industry in the first government"
   },
   "story": {
-    "ar": "محمد بن حبروش بن محمد بن حبروش السويدي، وُلد نحو ١٩٤٦، شغل منصب نائب رئيس الديوان الأميري وعضو مجلس التخطيط سنة ١٩٦٩، ثم رئيساً لدائرة المالية سنة ١٩٧٠، ثم عُين وزير دولة للشؤون المالية والصناعة في أول حكومة للدولة سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٢٩.",
-    "en": "Mohammed bin Habroush bin Mohammed bin Habroush Al Suwaidi, born around 1946, held the post of deputy head of the Amiri Court and member of the Planning Council in 1969, then head of the Finance Department in 1970, and was then appointed minister of state for finance and industry in the first government of the state in 1971. The street carried the number 229 in the older naming."
+    "ar": "محمد بن حبروش بن محمد بن حبروش السويدي، وُلد نحو ١٩٤٦، شغل منصب نائب رئيس الديوان الأميري وعضو مجلس التخطيط سنة ١٩٦٩، ثم رئيساً لدائرة المالية سنة ١٩٧٠، ثم عُين وزير دولة للشؤون المالية والصناعة في أول حكومة للدولة سنة ١٩٧١.",
+    "en": "Mohammed bin Habroush bin Mohammed bin Habroush Al Suwaidi, born around 1946, held the post of deputy head of the Amiri Court and member of the Planning Council in 1969, then head of the Finance Department in 1970, and was then appointed minister of state for finance and industry in the first government of the state in 1971."
   },
   "refs": [
     {
@@ -11670,8 +11670,8 @@ window.STREETS = [
     "en": "A poet of the poets of Al Dhafra"
   },
   "story": {
-    "ar": "محمد بن حيي بن محمد حيي بن علي الهاملي، وُلد نحو ١٩٢٧، شاعر من شعراء الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٠٦.",
-    "en": "Mohammed bin Hayy bin Mohammed bin Hayy bin Ali Al Hameli, born around 1927, was a poet of the poets of Al Dhafra. The street carried the number 206 in the older naming."
+    "ar": "محمد بن حيي بن محمد حيي بن علي الهاملي، وُلد نحو ١٩٢٧، شاعر من شعراء الظفرة.",
+    "en": "Mohammed bin Hayy bin Mohammed bin Hayy bin Ali Al Hameli, born around 1927, was a poet of the poets of Al Dhafra."
   },
   "refs": [
     {
@@ -11692,8 +11692,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Shakhbut bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "محمد بن حوفان بن هادف بن خلفان المنذري المنصوري، وُلد نحو ١٩٢٥، مرافق للشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٦٨.",
-    "en": "Mohammed bin Hofan bin Hadef bin Khalfan Al Mundhiri Al Mansouri, born around 1925, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 768 in the older naming."
+    "ar": "محمد بن حوفان بن هادف بن خلفان المنذري المنصوري، وُلد نحو ١٩٢٥، مرافق للشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Mohammed bin Hofan bin Hadef bin Khalfan Al Mundhiri Al Mansouri, born around 1925, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -11714,8 +11714,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "محمد بن جابر بن راشد بن جابر بن راشد بن حميد الهاملي، وُلد نحو ١٩٤١، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٤١.",
-    "en": "Mohammed bin Jaber bin Rashid bin Jaber bin Rashid bin Humaid Al Hameli, born around 1941, was a member of the National Consultative Council in 1971. The street carried the number 241 in the older naming."
+    "ar": "محمد بن جابر بن راشد بن جابر بن راشد بن حميد الهاملي، وُلد نحو ١٩٤١، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Mohammed bin Jaber bin Rashid bin Jaber bin Rashid bin Humaid Al Hameli, born around 1941, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -11736,8 +11736,8 @@ window.STREETS = [
     "en": "Dug a well north of Al Khattim called Khais Bin Jarwan"
   },
   "story": {
-    "ar": "محمد بن مبارك بن محمد بن جروان المنصوري، وُلد نحو ١٨٧٤، حفر طويّاً شمال منطقة الختم يسمى «خيس بن جروان»، وأقام عليه وأدامه. وحمل الشارع في التسمية القديمة الرقم ٣٧٠.",
-    "en": "Mohammed bin Mubarak bin Mohammed bin Jarwan Al Mansouri, born around 1874, dug a well north of the Al Khattim area called «Khais Bin Jarwan», and settled at it and kept it up. The street carried the number 370 in the older naming."
+    "ar": "محمد بن مبارك بن محمد بن جروان المنصوري، وُلد نحو ١٨٧٤، حفر طويّاً شمال منطقة الختم يسمى «خيس بن جروان»، وأقام عليه وأدامه.",
+    "en": "Mohammed bin Mubarak bin Mohammed bin Jarwan Al Mansouri, born around 1874, dug a well north of the Al Khattim area called «Khais Bin Jarwan», and settled at it and kept it up."
   },
   "refs": [
     {
@@ -11758,8 +11758,8 @@ window.STREETS = [
     "en": "A merchant of Dalma Island who built a dam to preserve fresh water"
   },
   "story": {
-    "ar": "محمد بن جاسم بن جابر بن محمد المريخي، وُلد نحو ١٩١٠، تاجر في جزيرة دلما، وبنى سداً في الجزيرة لحفظ المياه العذبة. وحمل الشارع في التسمية القديمة الرقم ٧٧٢.",
-    "en": "Mohammed bin Jassim bin Jaber bin Mohammed Al Meraikhi, born around 1910, was a merchant in Dalma Island, and built a dam on the island to preserve fresh water. The street carried the number 772 in the older naming."
+    "ar": "محمد بن جاسم بن جابر بن محمد المريخي، وُلد نحو ١٩١٠، تاجر في جزيرة دلما، وبنى سداً في الجزيرة لحفظ المياه العذبة.",
+    "en": "Mohammed bin Jassim bin Jaber bin Mohammed Al Meraikhi, born around 1910, was a merchant in Dalma Island, and built a dam on the island to preserve fresh water."
   },
   "refs": [
     {
@@ -11780,8 +11780,8 @@ window.STREETS = [
     "en": "Supervised the building of the Al Jabbana fort and a sheikh of the Manasir"
   },
   "story": {
-    "ar": "محمد بن جريو الغوينمي الشعري المنصوري، وُلد نحو ١٨٤٠، أشرف على بناء قلعة الجبّانة في إليوا، وهو أحد شيوخ المناصير. وحمل الشارع في التسمية القديمة الرقم ٢٧٢.",
-    "en": "Mohammed bin Jrayw Al Ghweinmi Al Shaari Al Mansouri, born around 1840, supervised the building of the fort of Al Jabbana in Liwa, and was one of the sheikhs of the Manasir. The street carried the number 272 in the older naming."
+    "ar": "محمد بن جريو الغوينمي الشعري المنصوري، وُلد نحو ١٨٤٠، أشرف على بناء قلعة الجبّانة في إليوا، وهو أحد شيوخ المناصير.",
+    "en": "Mohammed bin Jrayw Al Ghweinmi Al Shaari Al Mansouri, born around 1840, supervised the building of the fort of Al Jabbana in Liwa, and was one of the sheikhs of the Manasir."
   },
   "refs": [
     {
@@ -11802,8 +11802,8 @@ window.STREETS = [
     "en": "A known poet of Al Bateen who practised pearl diving"
   },
   "story": {
-    "ar": "محمد بن كاسب بن محمد بن كاسب المهيري، وُلد نحو ١٨٥٥، شاعر معروف من منطقة البطين في إمارة أبوظبي، وعمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٣٩.",
-    "en": "Mohammed bin Kasib bin Mohammed bin Kasib Al Muhairi, born around 1855, was a known poet of the Al Bateen area in the Emirate of Abu Dhabi, and worked in pearl diving. The street carried the number 39 in the older naming."
+    "ar": "محمد بن كاسب بن محمد بن كاسب المهيري، وُلد نحو ١٨٥٥، شاعر معروف من منطقة البطين في إمارة أبوظبي، وعمل في مهنة الغوص.",
+    "en": "Mohammed bin Kasib bin Mohammed bin Kasib Al Muhairi, born around 1855, was a known poet of the Al Bateen area in the Emirate of Abu Dhabi, and worked in pearl diving."
   },
   "refs": [
     {
@@ -11824,8 +11824,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan of the sheikhs of Al Balshar"
   },
   "story": {
-    "ar": "محمد بن خادم بوهليبه الشعري المنصوري، وُلد نحو ١٨٩٢، مرافق للشيخ زايد بن سلطان آل نهيان، من شيوخ آل بالشعر، من محضر يّره من محاضر إليوا. وحمل الشارع في التسمية القديمة الرقم ١٦٩.",
-    "en": "Mohammed bin Khadim Bu Hulaibah Al Shaari Al Mansouri, born around 1892, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the sheikhs of Al Balshar, from Madhhar Yarra of the mahadir of Liwa. The street carried the number 169 in the older naming."
+    "ar": "محمد بن خادم بوهليبه الشعري المنصوري، وُلد نحو ١٨٩٢، مرافق للشيخ زايد بن سلطان آل نهيان، من شيوخ آل بالشعر، من محضر يّره من محاضر إليوا.",
+    "en": "Mohammed bin Khadim Bu Hulaibah Al Shaari Al Mansouri, born around 1892, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the sheikhs of Al Balshar, from Madhhar Yarra of the mahadir of Liwa."
   },
   "refs": [
     {
@@ -11846,8 +11846,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "ar": "محمد بن خميس آل شكر المزروعي، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٦٤.",
-    "en": "Mohammed bin Khamis Al Shukr Al Mazrouei, born around 1920, was a known poet of the people of Al Dhafra. The street carried the number 764 in the older naming."
+    "ar": "محمد بن خميس آل شكر المزروعي، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة.",
+    "en": "Mohammed bin Khamis Al Shukr Al Mazrouei, born around 1920, was a known poet of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -11868,8 +11868,8 @@ window.STREETS = [
     "en": "A known poet of the poets of Abu Dhabi"
   },
   "story": {
-    "ar": "محمد بن خميس بن حمد بن مكتوم آل خميس المزروعي، وُلد نحو ١٨٤٥، شاعر معروف من شعراء أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٠٢.",
-    "en": "Mohammed bin Khamis bin Hamad bin Maktoum Al Khamis Al Mazrouei, born around 1845, was a known poet of the poets of Abu Dhabi. The street carried the number 102 in the older naming."
+    "ar": "محمد بن خميس بن حمد بن مكتوم آل خميس المزروعي، وُلد نحو ١٨٤٥، شاعر معروف من شعراء أبوظبي.",
+    "en": "Mohammed bin Khamis bin Hamad bin Maktoum Al Khamis Al Mazrouei, born around 1845, was a known poet of the poets of Abu Dhabi."
   },
   "refs": [
     {
@@ -11890,8 +11890,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "محمد بن مكتوم الشريفي العامري، وُلد نحو ١٩١٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٣٢.",
-    "en": "Mohammed bin Maktoum Al Sheraifi Al Ameri, born around 1915, was a member of the National Consultative Council in 1971. The street carried the number 532 in the older naming."
+    "ar": "محمد بن مكتوم الشريفي العامري، وُلد نحو ١٩١٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Mohammed bin Maktoum Al Sheraifi Al Ameri, born around 1915, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -11912,8 +11912,8 @@ window.STREETS = [
     "en": "Guard of the fort in Abu Dhabi and of the exploration missions"
   },
   "story": {
-    "ar": "محمد بن مرخان آل مرخان المنصوري، وُلد نحو ١٨٩٩، من حراس الحصن في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان، وحراسة بعثات التنقيب عن النفط. وحمل الشارع في التسمية القديمة الرقم ٣١٢.",
-    "en": "Mohammed bin Markhan Al Markhan Al Mansouri, born around 1899, was among the guards of the fort in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and of the oil exploration missions. The street carried the number 312 in the older naming."
+    "ar": "محمد بن مرخان آل مرخان المنصوري، وُلد نحو ١٨٩٩، من حراس الحصن في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان، وحراسة بعثات التنقيب عن النفط.",
+    "en": "Mohammed bin Markhan Al Markhan Al Mansouri, born around 1899, was among the guards of the fort in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and of the oil exploration missions."
   },
   "refs": [
     {
@@ -11956,8 +11956,8 @@ window.STREETS = [
     "en": "A senior Abu Dhabi merchant of the pearl and diving trade"
   },
   "story": {
-    "ar": "محمد بن مسعود بن سالم بن خلفان بن رحمة المحيربي، وُلد نحو ١٨٦١، من أهل الخير وكبار تجار أبوظبي، عمل في تجارة اللؤلؤ والغوص. وحمل الشارع في التسمية القديمة الرقم ٦٣.",
-    "en": "Mohammed bin Masoud bin Salem bin Khalfan bin Rahma Al Muhairbi, born around 1861, was of the people of good and the senior merchants of Abu Dhabi; he worked in the pearl and diving trade. The street carried the number 63 in the older naming."
+    "ar": "محمد بن مسعود بن سالم بن خلفان بن رحمة المحيربي، وُلد نحو ١٨٦١، من أهل الخير وكبار تجار أبوظبي، عمل في تجارة اللؤلؤ والغوص.",
+    "en": "Mohammed bin Masoud bin Salem bin Khalfan bin Rahma Al Muhairbi, born around 1861, was of the people of good and the senior merchants of Abu Dhabi; he worked in the pearl and diving trade."
   },
   "refs": [
     {
@@ -11978,8 +11978,8 @@ window.STREETS = [
     "en": "A guide known for his knowledge of the emirate's geographical landmarks"
   },
   "story": {
-    "ar": "محمد بن مبارك بن سيف بن علوبة الخييلي، وُلد نحو ١٩٢٢، عمل دليلاً واشتُهر بمعرفته بمختلف المعالم الجغرافية في الإمارة وأسمائها، وعمل في بداية حياته في مهنة الغوص، وتوفي سنة ٢٠٢٠. وحمل الشارع في التسمية القديمة الرقم ٣٧١.",
-    "en": "Mohammed bin Mubarak bin Saif bin Olaibah Al Khaili, born around 1922, worked as a guide and was known for his knowledge of the emirate's geographical landmarks and their names; he worked in pearl diving at the beginning of his life, and died in 2020. The street carried the number 371 in the older naming."
+    "ar": "محمد بن مبارك بن سيف بن علوبة الخييلي، وُلد نحو ١٩٢٢، عمل دليلاً واشتُهر بمعرفته بمختلف المعالم الجغرافية في الإمارة وأسمائها، وعمل في بداية حياته في مهنة الغوص، وتوفي سنة ٢٠٢٠.",
+    "en": "Mohammed bin Mubarak bin Saif bin Olaibah Al Khaili, born around 1922, worked as a guide and was known for his knowledge of the emirate's geographical landmarks and their names; he worked in pearl diving at the beginning of his life, and died in 2020."
   },
   "refs": [
     {
@@ -12000,8 +12000,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "محمد بن ناصر بن حمدان بن سالمين آل سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣١٤.",
-    "en": "Mohammed bin Nasser bin Hamdan bin Salmeen Al Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 314 in the older naming."
+    "ar": "محمد بن ناصر بن حمدان بن سالمين آل سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Mohammed bin Nasser bin Hamdan bin Salmeen Al Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -12022,8 +12022,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan and guard of the exploration mission and Burj Al Maqta"
   },
   "story": {
-    "ar": "محمد بن عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٩١٢، مرافق للشيخ زايد بن سلطان آل نهيان، وكُلف بأمن وحراسة بعثة التنقيب، وهو أحد حراس برج المقطع في أبوظبي من سنة ١٩٤٥. وحمل الشارع في التسمية القديمة الرقم ٢٣٣.",
-    "en": "Mohammed bin Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1912, was a companion of Sheikh Zayed bin Sultan Al Nahyan, tasked with the security and guarding of the exploration mission, and one of the guards of Burj Al Maqta in Abu Dhabi from 1945. The street carried the number 233 in the older naming."
+    "ar": "محمد بن عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٩١٢، مرافق للشيخ زايد بن سلطان آل نهيان، وكُلف بأمن وحراسة بعثة التنقيب، وهو أحد حراس برج المقطع في أبوظبي من سنة ١٩٤٥.",
+    "en": "Mohammed bin Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1912, was a companion of Sheikh Zayed bin Sultan Al Nahyan, tasked with the security and guarding of the exploration mission, and one of the guards of Burj Al Maqta in Abu Dhabi from 1945."
   },
   "refs": [
     {
@@ -12044,8 +12044,8 @@ window.STREETS = [
     "en": "Headed the Al Ain Agriculture Department and accompanied Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "محمد (بالجنّي) بن سالم بن الظاهري، وُلد نحو ١٩٢٥، ترأس دائرة الزراعة في العين، ورافق الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢١١.",
-    "en": "Mohammed (Al Junni) bin Salem bin Al Dhaheri, born around 1925, headed the Agriculture Department in Al Ain and accompanied Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 211 in the older naming."
+    "ar": "محمد (بالجنّي) بن سالم بن الظاهري، وُلد نحو ١٩٢٥، ترأس دائرة الزراعة في العين، ورافق الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Mohammed (Al Junni) bin Salem bin Al Dhaheri, born around 1925, headed the Agriculture Department in Al Ain and accompanied Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -12066,8 +12066,8 @@ window.STREETS = [
     "en": "A known poet of Dalma in the time of Sheikh Shakhbut"
   },
   "story": {
-    "ar": "محمد بن صلهوم بن محمد القبيسي، وُلد نحو ١٨٩٠ في جزيرة دلما، شاعر معروف في عهد الشيخ شخبوط بن سلطان آل نهيان، وتوفي في دلما سنة ١٩٥٧ عن عمر ناهز ٦٧ سنة. وحمل الشارع في التسمية القديمة الرقم ٢٤٠.",
-    "en": "Mohammed bin Salhoum bin Mohammed Al Qubaisi, born around 1890 on Dalma Island, was a known poet in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and died in Dalma in 1957 at the age of about 67. The street carried the number 240 in the older naming."
+    "ar": "محمد بن صلهوم بن محمد القبيسي، وُلد نحو ١٨٩٠ في جزيرة دلما، شاعر معروف في عهد الشيخ شخبوط بن سلطان آل نهيان، وتوفي في دلما سنة ١٩٥٧ عن عمر ناهز ٦٧ سنة.",
+    "en": "Mohammed bin Salhoum bin Mohammed Al Qubaisi, born around 1890 on Dalma Island, was a known poet in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and died in Dalma in 1957 at the age of about 67."
   },
   "refs": [
     {
@@ -12088,8 +12088,8 @@ window.STREETS = [
     "en": "An adviser and companion of Sheikh Zayed the First of the Al Bu Rahma sheikhs"
   },
   "story": {
-    "ar": "محمد بن سالمين بن حمد آل سالمين المنصوري، وُلد نحو ١٨٦٠، مستشار ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩)، من شيوخ آل بو رحمة. وحمل الشارع في التسمية القديمة الرقم ٣٣١.",
-    "en": "Mohammed bin Salmeen bin Hamad Al Salmeen Al Mansouri, born around 1860, was an adviser and companion of Sheikh Zayed the First (1855–1909), of the sheikhs of Al Bu Rahma. The street carried the number 331 in the older naming."
+    "ar": "محمد بن سالمين بن حمد آل سالمين المنصوري، وُلد نحو ١٨٦٠، مستشار ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩)، من شيوخ آل بو رحمة.",
+    "en": "Mohammed bin Salmeen bin Hamad Al Salmeen Al Mansouri, born around 1860, was an adviser and companion of Sheikh Zayed the First (1855–1909), of the sheikhs of Al Bu Rahma."
   },
   "refs": [
     {
@@ -12110,8 +12110,8 @@ window.STREETS = [
     "en": "Established and maintained a well in Madhhar Khunur in Liwa"
   },
   "story": {
-    "ar": "محمد بن صياح بن غانم بن عطيش المزروعي، وُلد نحو ١٨٩٩، وأقام وأدام طويّاً في محضر خنور في إليوا. وحمل الشارع في التسمية القديمة الرقم ٣٣٦.",
-    "en": "Mohammed bin Sayah bin Ghanem bin Atteesh Al Mazrouei, born around 1899, established and maintained a well in Madhhar Khunur in Liwa. The street carried the number 336 in the older naming."
+    "ar": "محمد بن صياح بن غانم بن عطيش المزروعي، وُلد نحو ١٨٩٩، وأقام وأدام طويّاً في محضر خنور في إليوا.",
+    "en": "Mohammed bin Sayah bin Ghanem bin Atteesh Al Mazrouei, born around 1899, established and maintained a well in Madhhar Khunur in Liwa."
   },
   "refs": [
     {
@@ -12132,8 +12132,8 @@ window.STREETS = [
     "en": "A scholar and jurist known for wisdom and reconciling among people"
   },
   "story": {
-    "ar": "محمد بن شبيب بن سعيد آل شبيب المهيري، وُلد نحو ١٧٣٠، عالم وفقيه، اشتُهر بالحكمة والصلح بين الناس في ذلك الزمان. وحمل الشارع في التسمية القديمة الرقم ٢٩٧.",
-    "en": "Mohammed bin Shabib bin Saeed Al Shabib Al Muhairi, born around 1730, was a scholar and jurist known for wisdom and for reconciling among people in that time. The street carried the number 297 in the older naming."
+    "ar": "محمد بن شبيب بن سعيد آل شبيب المهيري، وُلد نحو ١٧٣٠، عالم وفقيه، اشتُهر بالحكمة والصلح بين الناس في ذلك الزمان.",
+    "en": "Mohammed bin Shabib bin Saeed Al Shabib Al Muhairi, born around 1730, was a scholar and jurist known for wisdom and for reconciling among people in that time."
   },
   "refs": [
     {
@@ -12154,8 +12154,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "محمد بن شيبان بن حسين المهيري، وُلد نحو ١٨٣٠، مرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٨٩.",
-    "en": "Mohammed bin Shaiban bin Hussein Al Muhairi, born around 1830, was a companion of Sheikh Zayed the First (1855–1909). The street carried the number 89 in the older naming."
+    "ar": "محمد بن شيبان بن حسين المهيري، وُلد نحو ١٨٣٠، مرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Mohammed bin Shaiban bin Hussein Al Muhairi, born around 1830, was a companion of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -12176,8 +12176,8 @@ window.STREETS = [
     "en": "Took charge of the Al Ain Agriculture Department, a poet and companion of Sheikh Zayed"
   },
   "story": {
-    "ar": "محمد بن سلطان بن محمد بن سلطان الدرمكي، وُلد نحو ١٩٤٠، تسلّم دائرة الزراعة في العين في بداية نشأتها، وظل مرافقاً للشيخ زايد بن سلطان آل نهيان، وهو من شعراء إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٠٤.",
-    "en": "Mohammed bin Sultan bin Mohammed bin Sultan Al Darmaki, born around 1940, took charge of the Agriculture Department in Al Ain at the beginning of its establishment, and remained a companion of Sheikh Zayed bin Sultan Al Nahyan; he is one of the poets of the Emirate of Abu Dhabi. The street carried the number 604 in the older naming."
+    "ar": "محمد بن سلطان بن محمد بن سلطان الدرمكي، وُلد نحو ١٩٤٠، تسلّم دائرة الزراعة في العين في بداية نشأتها، وظل مرافقاً للشيخ زايد بن سلطان آل نهيان، وهو من شعراء إمارة أبوظبي.",
+    "en": "Mohammed bin Sultan bin Mohammed bin Sultan Al Darmaki, born around 1940, took charge of the Agriculture Department in Al Ain at the beginning of its establishment, and remained a companion of Sheikh Zayed bin Sultan Al Nahyan; he is one of the poets of the Emirate of Abu Dhabi."
   },
   "refs": [
     {
@@ -12198,8 +12198,8 @@ window.STREETS = [
     "ar": "مكلّف بحفر موارد المياه وصيانتها"
   },
   "story": {
-    "ar": "محمد بن ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٩١٠، وكُلف في عهد الشيخ شخبوط بن سلطان سنة ١٩٥٨ بحفر موارد المياه وصيانتها وإدامتها في الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٦٦.",
-    "en": "Mohammed ibn Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1910, was tasked in the time of Sheikh Shakhbut bin Sultan, in 1958, with digging, maintaining and keeping the water sources of the northern sands. The street carried the number 366 in the older naming."
+    "ar": "محمد بن ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٩١٠، وكُلف في عهد الشيخ شخبوط بن سلطان سنة ١٩٥٨ بحفر موارد المياه وصيانتها وإدامتها في الطف الشمالي.",
+    "en": "Mohammed ibn Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1910, was tasked in the time of Sheikh Shakhbut bin Sultan, in 1958, with digging, maintaining and keeping the water sources of the northern sands."
   },
   "refs": [
     {
@@ -12220,8 +12220,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "ar": "محمد بن ناصر بن سعيد بن حمد بوقبي آل تعيب المنصوري، وُلد نحو ١٩٠٧، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٢٣٠.",
-    "en": "Mohammed bin Nasser bin Saeed bin Hamad Bu Qabi Al Tuaib Al Mansouri, born around 1907, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 230 in the older naming."
+    "ar": "محمد بن ناصر بن سعيد بن حمد بوقبي آل تعيب المنصوري، وُلد نحو ١٩٠٧، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات.",
+    "en": "Mohammed bin Nasser bin Saeed bin Hamad Bu Qabi Al Tuaib Al Mansouri, born around 1907, took part in the affair of Al Shmeirikhat and died in it in the late 1940s."
   },
   "refs": [
     {
@@ -12242,8 +12242,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد هزاع ناصر المنصوري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٠٨.",
-    "en": "The martyr Mohammed Hazza Nasser Al Mansouri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 608 in the older naming."
+    "ar": "الشهيد محمد هزاع ناصر المنصوري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Hazza Nasser Al Mansouri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -12286,8 +12286,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد ناصر راشد بطى الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٢٧.",
-    "en": "The martyr Mohammed Nasser Rashid Butti Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 627 in the older naming."
+    "ar": "الشهيد محمد ناصر راشد بطى الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Nasser Rashid Butti Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -12308,8 +12308,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد سيف محمد النعيمي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥١٠.",
-    "en": "The martyr Mohammed Saif Mohammed Al Nuaimi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 510 in the older naming."
+    "ar": "الشهيد محمد سيف محمد النعيمي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Saif Mohammed Al Nuaimi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -12330,8 +12330,8 @@ window.STREETS = [
     "en": "A known guide who contributed to collecting Al Dhafra's geographical names"
   },
   "story": {
-    "ar": "محسن بن بخيت بن محسن بن حفيظ المزروعي، وُلد نحو ١٩٢٠، دليل معروف عمل دليلاً في القوات المسلحة، من أهالي بينونة، وساهم في جمع الأسماء الجغرافية لمنطقة الظفرة في السبعينيات. وحمل الشارع في التسمية القديمة الرقم ٧٦٧.",
-    "en": "Mohsin bin Bakhit bin Mohsin bin Hafeeth Al Mazrouei, born around 1920, was a known guide who worked as a guide in the Armed Forces, of the people of Binouna, and contributed to collecting the geographical names of the Al Dhafra region in the 1970s. The street carried the number 767 in the older naming."
+    "ar": "محسن بن بخيت بن محسن بن حفيظ المزروعي، وُلد نحو ١٩٢٠، دليل معروف عمل دليلاً في القوات المسلحة، من أهالي بينونة، وساهم في جمع الأسماء الجغرافية لمنطقة الظفرة في السبعينيات.",
+    "en": "Mohsin bin Bakhit bin Mohsin bin Hafeeth Al Mazrouei, born around 1920, was a known guide who worked as a guide in the Armed Forces, of the people of Binouna, and contributed to collecting the geographical names of the Al Dhafra region in the 1970s."
   },
   "refs": [
     {
@@ -12352,8 +12352,8 @@ window.STREETS = [
     "en": "A teacher and educator known as Al Mutawwa'a who taught in Al Bateen"
   },
   "story": {
-    "ar": "موزه الهادومة السويدي، وُلدت نحو ١٨٩٦، مدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي البطين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٧٦.",
-    "en": "Moza Al Hadouma Al Suwaidi, born around 1896, was a teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Al Bateen in Abu Dhabi. The street carried the number 76 in the older naming."
+    "ar": "موزه الهادومة السويدي، وُلدت نحو ١٨٩٦، مدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي البطين في أبوظبي.",
+    "en": "Moza Al Hadouma Al Suwaidi, born around 1896, was a teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Al Bateen in Abu Dhabi."
   },
   "refs": [
     {
@@ -12374,8 +12374,8 @@ window.STREETS = [
     "en": "Built the Al Jabbana fort with the help of the mahdhar's people"
   },
   "story": {
-    "ar": "مبارك باليتيمة آل حليمان المنصوري، وُلد نحو ١٨٢٠، وبنى قلعة الجبّانة بمساعدة أهل المحضر في عهد زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٧٩٥.",
-    "en": "Mubarak Bilyateema Al Haliman Al Mansouri, born around 1820, built the Al Jabbana fort with the help of the people of the mahdhar under Zayed the First. The street carried the number 795 in the older naming."
+    "ar": "مبارك باليتيمة آل حليمان المنصوري، وُلد نحو ١٨٢٠، وبنى قلعة الجبّانة بمساعدة أهل المحضر في عهد زايد الأول.",
+    "en": "Mubarak Bilyateema Al Haliman Al Mansouri, born around 1820, built the Al Jabbana fort with the help of the people of the mahdhar under Zayed the First."
   },
   "refs": [
     {
@@ -12396,8 +12396,8 @@ window.STREETS = [
     "en": "Father of Sheikha Fatima bint Mubarak (Mother of the Nation)"
   },
   "story": {
-    "ar": "مبارك بن غانم بن ضاحي بن غانم الكتبي، من رجالات منطقة العين المعروفين، وهو والد الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٦٠١.",
-    "en": "Mubarak bin Ghanem bin Dhahi bin Ghanem Al Ketbi was one of the known notables of the Al Ain region, and the father of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 601 in the older naming."
+    "ar": "مبارك بن غانم بن ضاحي بن غانم الكتبي، من رجالات منطقة العين المعروفين، وهو والد الشيخة فاطمة بنت مبارك (أم الإمارات).",
+    "en": "Mubarak bin Ghanem bin Dhahi bin Ghanem Al Ketbi was one of the known notables of the Al Ain region, and the father of Sheikha Fatima bint Mubarak (Mother of the Nation)."
   },
   "refs": [
     {
@@ -12418,8 +12418,8 @@ window.STREETS = [
     "en": "A notable of Abu Dhabi known for wisdom who took part in the affair of Al Shmeirikhat"
   },
   "story": {
-    "ar": "مبارك بن فاضل بن سعيد بن فاضل آل غنام المزروعي، وُلد نحو ١٩٢٠، من رجالات أبوظبي المعروفين، عُرف بالحكمة وسدادة الرأي وسعيه إلى الخير ومساعدة الناس، وشارك في واقعة الشميريخات سنة ١٩٤٦ وجرح فيها. وحمل الشارع في التسمية القديمة الرقم ٩١.",
-    "en": "Mubarak bin Fadhel bin Saeed bin Fadhel Al Ghannam Al Mazrouei, born around 1920, was one of the known notables of Abu Dhabi, known for wisdom and sound judgement and for striving after good and helping people; he took part in the affair of Al Shmeirikhat in 1946 and was wounded there. The street carried the number 91 in the older naming."
+    "ar": "مبارك بن فاضل بن سعيد بن فاضل آل غنام المزروعي، وُلد نحو ١٩٢٠، من رجالات أبوظبي المعروفين، عُرف بالحكمة وسدادة الرأي وسعيه إلى الخير ومساعدة الناس، وشارك في واقعة الشميريخات سنة ١٩٤٦ وجرح فيها.",
+    "en": "Mubarak bin Fadhel bin Saeed bin Fadhel Al Ghannam Al Mazrouei, born around 1920, was one of the known notables of Abu Dhabi, known for wisdom and sound judgement and for striving after good and helping people; he took part in the affair of Al Shmeirikhat in 1946 and was wounded there."
   },
   "refs": [
     {
@@ -12440,8 +12440,8 @@ window.STREETS = [
     "en": "Assistant to the ruler's representative on Das Island in 1960"
   },
   "story": {
-    "ar": "مبارك بن حاضر بن بخيت المهيري، وُلد نحو ١٩٣٠، مساعد ممثل الحاكم في جزيرة داس سنة ١٩٦٠. وحمل الشارع في التسمية القديمة الرقم ٢٣٥.",
-    "en": "Mubarak bin Hader bin Bakhit Al Muhairi, born around 1930, was assistant to the ruler's representative on Das Island in 1960. The street carried the number 235 in the older naming."
+    "ar": "مبارك بن حاضر بن بخيت المهيري، وُلد نحو ١٩٣٠، مساعد ممثل الحاكم في جزيرة داس سنة ١٩٦٠.",
+    "en": "Mubarak bin Hader bin Bakhit Al Muhairi, born around 1930, was assistant to the ruler's representative on Das Island in 1960."
   },
   "refs": [
     {
@@ -12462,8 +12462,8 @@ window.STREETS = [
     "en": "Dug the Mughayth and Bada' Mubarak wells in the 1950s"
   },
   "story": {
-    "ar": "مبارك بن محمد بن حفيظ المزروعي، وُلد نحو ١٩١٤، حافر طويَّين في بداية الخمسينيات: مغيث، وقد سمّاه الشيخ هزاع بن سلطان «غياثي»، وطوي بدع مبارك وقد نُسب إليه. وحمل الشارع في التسمية القديمة الرقم ٧٧١.",
-    "en": "Mubarak bin Mohammed bin Hafeeth Al Mazrouei, born around 1914, dug two wells in the early 1950s: Mughayth, which Sheikh Hazza bin Sultan named «Ghayathi», and the Bada' Mubarak well, which was named after him. The street carried the number 771 in the older naming."
+    "ar": "مبارك بن محمد بن حفيظ المزروعي، وُلد نحو ١٩١٤، حافر طويَّين في بداية الخمسينيات: مغيث، وقد سمّاه الشيخ هزاع بن سلطان «غياثي»، وطوي بدع مبارك وقد نُسب إليه.",
+    "en": "Mubarak bin Mohammed bin Hafeeth Al Mazrouei, born around 1914, dug two wells in the early 1950s: Mughayth, which Sheikh Hazza bin Sultan named «Ghayathi», and the Bada' Mubarak well, which was named after him."
   },
   "refs": [
     {
@@ -12500,8 +12500,8 @@ window.STREETS = [
     "en": "A judge and scholar nicknamed Al Miradd, the one to whom cases are referred"
   },
   "story": {
-    "ar": "مبارك بن سعيد بن عبدالمعين المطيوعي المنصوري، وُلد نحو ١٨٢٠، قاضٍ وشيخ علم يُكنى بـ«المّردّ» أي الذي يُرد إليه الأحكام والقضايا، وهو من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٩٦.",
-    "en": "Mubarak bin Saeed bin Abdulmaeen Al Matyoui Al Mansouri, born around 1820, was a judge and scholar nicknamed «Al Miradd», the one to whom judgements and cases are referred; he was of the people of Al Dhafra. The street carried the number 796 in the older naming."
+    "ar": "مبارك بن سعيد بن عبدالمعين المطيوعي المنصوري، وُلد نحو ١٨٢٠، قاضٍ وشيخ علم يُكنى بـ«المّردّ» أي الذي يُرد إليه الأحكام والقضايا، وهو من أهل الظفرة.",
+    "en": "Mubarak bin Saeed bin Abdulmaeen Al Matyoui Al Mansouri, born around 1820, was a judge and scholar nicknamed «Al Miradd», the one to whom judgements and cases are referred; he was of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -12522,8 +12522,8 @@ window.STREETS = [
     "en": "Restored the fort of Al Dhafir in 1915"
   },
   "story": {
-    "ar": "مرشد بن عضيد الهاملي، وُلد نحو ١٨٨٥، ورمّم قلعة ظفير سنة ١٩١٥ في عهد الشيخ حمدان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١٨٣.",
-    "en": "Murshid bin Adaid Al Hameli, born around 1885, restored the fort of Al Dhafir in 1915 under Sheikh Hamdan bin Zayed the First. The street carried the number 183 in the older naming."
+    "ar": "مرشد بن عضيد الهاملي، وُلد نحو ١٨٨٥، ورمّم قلعة ظفير سنة ١٩١٥ في عهد الشيخ حمدان بن زايد الأول.",
+    "en": "Murshid bin Adaid Al Hameli, born around 1885, restored the fort of Al Dhafir in 1915 under Sheikh Hamdan bin Zayed the First."
   },
   "refs": [
     {
@@ -12544,8 +12544,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "مسلم بن محمد بن سعيد بن سبت الخييلي، وُلد نحو ١٩٣٣، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٤٢.",
-    "en": "Muslim bin Mohammed bin Saeed bin Sabt Al Khaili, born around 1933, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 642 in the older naming."
+    "ar": "مسلم بن محمد بن سعيد بن سبت الخييلي، وُلد نحو ١٩٣٣، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Muslim bin Mohammed bin Saeed bin Sabt Al Khaili, born around 1933, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -12566,8 +12566,8 @@ window.STREETS = [
     "en": "Member of the Municipal Council in Abu Dhabi by decree in 1969"
   },
   "story": {
-    "ar": "مسلم بن مكتوم بن راشد بن هميله المزروعي، وُلد نحو ١٩٣٠، وعضو المجلس البلدي في أبوظبي بمرسوم سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ٢٣٤.",
-    "en": "Muslim bin Maktoum bin Rashid bin Hamila Al Mazrouei, born around 1930, was a member of the Municipal Council in Abu Dhabi by decree in 1969. The street carried the number 234 in the older naming."
+    "ar": "مسلم بن مكتوم بن راشد بن هميله المزروعي، وُلد نحو ١٩٣٠، وعضو المجلس البلدي في أبوظبي بمرسوم سنة ١٩٦٩.",
+    "en": "Muslim bin Maktoum bin Rashid bin Hamila Al Mazrouei, born around 1930, was a member of the Municipal Council in Abu Dhabi by decree in 1969."
   },
   "refs": [
     {
@@ -12588,8 +12588,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "ناصر بن محمد بن ناصر بن سعيد بن حمد بوقبي آل تعيب المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٠٥.",
-    "en": "Nasser bin Mohammed bin Nasser bin Saeed bin Hamad Bu Qabi Al Tuaib Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 305 in the older naming."
+    "ar": "ناصر بن محمد بن ناصر بن سعيد بن حمد بوقبي آل تعيب المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Nasser bin Mohammed bin Nasser bin Saeed bin Hamad Bu Qabi Al Tuaib Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -12610,8 +12610,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council and watchman for Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "ناصر بن سعيد بن سويد بن غدير المنصوري، وُلد نحو ١٩٤١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، ومطارزي للشيخ زايد بن سلطان آل نهيان، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٢٥.",
-    "en": "Nasser bin Saeed bin Swaid bin Ghadeer Al Mansouri, born around 1941, was a member of the National Consultative Council in 1971 and a watchman for Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Dhafra. The street carried the number 225 in the older naming."
+    "ar": "ناصر بن سعيد بن سويد بن غدير المنصوري، وُلد نحو ١٩٤١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، ومطارزي للشيخ زايد بن سلطان آل نهيان، من أهالي الظفرة.",
+    "en": "Nasser bin Saeed bin Swaid bin Ghadeer Al Mansouri, born around 1941, was a member of the National Consultative Council in 1971 and a watchman for Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -12649,8 +12649,8 @@ window.STREETS = [
     "en": "A scholar of the people of Madhhar Qarmada"
   },
   "story": {
-    "ar": "عبيد بن سعيد بالحمودي المحيربي، وُلد نحو ١٩١٠، شيخ علم من أهل محضر قرمدة. وحمل الشارع في التسمية القديمة الرقم ٢٦٧.",
-    "en": "Obaid bin Saeed Bil Hamoudi Al Muhairbi, born around 1910, was a scholar of the people of Madhhar Qarmada. The street carried the number 267 in the older naming."
+    "ar": "عبيد بن سعيد بالحمودي المحيربي، وُلد نحو ١٩١٠، شيخ علم من أهل محضر قرمدة.",
+    "en": "Obaid bin Saeed Bil Hamoudi Al Muhairbi, born around 1910, was a scholar of the people of Madhhar Qarmada."
   },
   "refs": [
     {
@@ -12671,8 +12671,8 @@ window.STREETS = [
     "en": "A nawkhadha tasked with registering diving ships for tax"
   },
   "story": {
-    "ar": "عبيد بن بيات بن عبدالله المحيربي، وُلد نحو ١٩٢٠، نوخذة كُلف بتسجيل سفن الغوص لدفع الضريبة في عهد الشيخ شخبوط بن سلطان آل نهيان، من أهالي دلما. وحمل الشارع في التسمية القديمة الرقم ٧٨٤.",
-    "en": "Obaid bin Bayat bin Abdullah Al Muhairbi, born around 1920, was a nawkhadha tasked with registering diving ships for tax payment under Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Dalma. The street carried the number 784 in the older naming."
+    "ar": "عبيد بن بيات بن عبدالله المحيربي، وُلد نحو ١٩٢٠، نوخذة كُلف بتسجيل سفن الغوص لدفع الضريبة في عهد الشيخ شخبوط بن سلطان آل نهيان، من أهالي دلما.",
+    "en": "Obaid bin Bayat bin Abdullah Al Muhairbi, born around 1920, was a nawkhadha tasked with registering diving ships for tax payment under Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Dalma."
   },
   "refs": [
     {
@@ -12731,8 +12731,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "ar": "عبيد بن خلفان بن عبيد السويكت المزروعي، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٥٨.",
-    "en": "Obaid bin Khalfan bin Obaid Al Swaikit Al Mazrouei, born around 1920, was a known poet of the people of Al Dhafra. The street carried the number 258 in the older naming."
+    "ar": "عبيد بن خلفان بن عبيد السويكت المزروعي، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة.",
+    "en": "Obaid bin Khalfan bin Obaid Al Swaikit Al Mazrouei, born around 1920, was a known poet of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -12753,8 +12753,8 @@ window.STREETS = [
     "en": "A poet of the Mazid area who contributed to poets' programmes on radio and TV"
   },
   "story": {
-    "ar": "عبيد بن معضد بن عبيد بن معضد الخريباني النعيمي، وُلد نحو ١٩٢٩، شاعر من منطقة مزيد، وساهم في برامج الشعراء في الإذاعة والتلفاز في أبوظبي ودبي منذ بداية تأسيس البرنامج. وحمل الشارع في التسمية القديمة الرقم ٥٠٨.",
-    "en": "Obaid bin Muaded bin Obaid bin Muaded Al Kheraibani Al Nuaimi, born around 1929, was a poet of the Mazid area who contributed to the poets' programmes on radio and television in Abu Dhabi and Dubai since the programme's establishment. The street carried the number 508 in the older naming."
+    "ar": "عبيد بن معضد بن عبيد بن معضد الخريباني النعيمي، وُلد نحو ١٩٢٩، شاعر من منطقة مزيد، وساهم في برامج الشعراء في الإذاعة والتلفاز في أبوظبي ودبي منذ بداية تأسيس البرنامج.",
+    "en": "Obaid bin Muaded bin Obaid bin Muaded Al Kheraibani Al Nuaimi, born around 1929, was a poet of the Mazid area who contributed to the poets' programmes on radio and television in Abu Dhabi and Dubai since the programme's establishment."
   },
   "refs": [
     {
@@ -12775,8 +12775,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "عبيد بن راشد آل سالمين المنصوري، وُلد نحو ١٩٤٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٧٣.",
-    "en": "Obaid bin Rashid Al Salmeen Al Mansouri, born around 1940, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 273 in the older naming."
+    "ar": "عبيد بن راشد آل سالمين المنصوري، وُلد نحو ١٩٤٠، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Obaid bin Rashid Al Salmeen Al Mansouri, born around 1940, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -12797,8 +12797,8 @@ window.STREETS = [
     "en": "A senior Al Bu Muhair figure and companion of Sheikh Sultan bin Zayed the First"
   },
   "story": {
-    "ar": "عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٨٨٠، من رجالات أبوظبي ومن كبار آل بو مهير المعروفين بالكرم وأعمال الخير، من المرافقين للشيخ سلطان بن زايد الأول، وقد صاهره الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٤٦.",
-    "en": "Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1880, was one of the notables of Abu Dhabi and the senior Al Bu Muhair known for generosity and good works; he was among the companions of Sheikh Sultan bin Zayed the First, and Sheikh Zayed bin Sultan Al Nahyan became related to him by marriage. The street carried the number 46 in the older naming."
+    "ar": "عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٨٨٠، من رجالات أبوظبي ومن كبار آل بو مهير المعروفين بالكرم وأعمال الخير، من المرافقين للشيخ سلطان بن زايد الأول، وقد صاهره الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1880, was one of the notables of Abu Dhabi and the senior Al Bu Muhair known for generosity and good works; he was among the companions of Sheikh Sultan bin Zayed the First, and Sheikh Zayed bin Sultan Al Nahyan became related to him by marriage."
   },
   "refs": [
     {
@@ -12819,8 +12819,8 @@ window.STREETS = [
     "en": "A companion and guard of Sheikh Shakhbut and member of the Consultative Council"
   },
   "story": {
-    "ar": "عبيد بن سعيد بن مبارك سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ شخبوط بن سلطان آل نهيان ومن حراسه، وعضو في المجلس الاستشاري قبل قيام الاتحاد. وحمل الشارع في التسمية القديمة الرقم ٢٩٣.",
-    "en": "Obaid bin Saeed bin Mubarak Salmeen Al Mansouri, born around 1930, was a companion and one of the guards of Sheikh Shakhbut bin Sultan Al Nahyan, and a member of the Consultative Council before the Union. The street carried the number 293 in the older naming."
+    "ar": "عبيد بن سعيد بن مبارك سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ شخبوط بن سلطان آل نهيان ومن حراسه، وعضو في المجلس الاستشاري قبل قيام الاتحاد.",
+    "en": "Obaid bin Saeed bin Mubarak Salmeen Al Mansouri, born around 1930, was a companion and one of the guards of Sheikh Shakhbut bin Sultan Al Nahyan, and a member of the Consultative Council before the Union."
   },
   "refs": [
     {
@@ -12841,8 +12841,8 @@ window.STREETS = [
     "ar": "مرافق للشيخ شخبوط وللشيخ هزاع"
   },
   "story": {
-    "ar": "عبيد بن ثاني بن مطر بن عبيد الرميثي، وُلد نحو ١٩١٥، وكان مرافقاً للشيخ شخبوط بن سلطان آل نهيان ولأخيه هزاع، وعمل في مركز العديد سنة ١٩٥٦، وتوفي سنة ١٩٨٠. وترافق مع بك ماستر سنة ١٩٥٢ بحسب الوثائق البريطانية. وحمل الشارع في التسمية القديمة الرقم ٧٢.",
-    "en": "Obaid ibn Thani ibn Matar ibn Obaid Al Rumaithi, born around 1915, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan and of his brother Hazza, and he worked at the Al Adayd centre in 1956. He died in 1980, and he accompanied Buckmaster in 1952 according to the British records. The street carried the number 72 in the older naming."
+    "ar": "عبيد بن ثاني بن مطر بن عبيد الرميثي، وُلد نحو ١٩١٥، وكان مرافقاً للشيخ شخبوط بن سلطان آل نهيان ولأخيه هزاع، وعمل في مركز العديد سنة ١٩٥٦، وتوفي سنة ١٩٨٠. وترافق مع بك ماستر سنة ١٩٥٢ بحسب الوثائق البريطانية.",
+    "en": "Obaid ibn Thani ibn Matar ibn Obaid Al Rumaithi, born around 1915, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan and of his brother Hazza, and he worked at the Al Adayd centre in 1956. He died in 1980, and he accompanied Buckmaster in 1952 according to the British records."
   },
   "refs": [
     {
@@ -12863,8 +12863,8 @@ window.STREETS = [
     "en": "A companion and known poet in the time of Sheikh Shakhbut"
   },
   "story": {
-    "ar": "عمير بن حيي بن محمد بن حيي بن على الهاملي، وُلد نحو ١٩٣٥، مرافق وشاعر معروف في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٣٨.",
-    "en": "Omair bin Hayy bin Mohammed bin Hayy bin Ali Al Hameli, born around 1935, was a companion and known poet in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 238 in the older naming."
+    "ar": "عمير بن حيي بن محمد بن حيي بن على الهاملي، وُلد نحو ١٩٣٥، مرافق وشاعر معروف في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Omair bin Hayy bin Mohammed bin Hayy bin Ali Al Hameli, born around 1935, was a companion and known poet in the time of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -12885,8 +12885,8 @@ window.STREETS = [
     "en": "Private companion of Sheikh Zayed bin Sultan and member of the Al Ain Municipal Council"
   },
   "story": {
-    "ar": "عمير بن معضد بن سيف بن معضد المشغوني، وُلد نحو ١٩٤٤، المرافق الخاص للشيخ زايد بن سلطان آل نهيان، وعضو في المجلس البلدي في مدينة العين. وحمل الشارع في التسمية القديمة الرقم ٢١٩.",
-    "en": "Omair bin Muaded bin Saif bin Muaded Al Mashghouni, born around 1944, was the private companion of Sheikh Zayed bin Sultan Al Nahyan, and a member of the Municipal Council in Al Ain city. The street carried the number 219 in the older naming."
+    "ar": "عمير بن معضد بن سيف بن معضد المشغوني، وُلد نحو ١٩٤٤، المرافق الخاص للشيخ زايد بن سلطان آل نهيان، وعضو في المجلس البلدي في مدينة العين.",
+    "en": "Omair bin Muaded bin Saif bin Muaded Al Mashghouni, born around 1944, was the private companion of Sheikh Zayed bin Sultan Al Nahyan, and a member of the Municipal Council in Al Ain city."
   },
   "refs": [
     {
@@ -12907,8 +12907,8 @@ window.STREETS = [
     "en": "A known businessman of Abu Dhabi who contributed to good works"
   },
   "story": {
-    "ar": "عمير بن يوسف بن أحمد المهيري، وُلد نحو ١٩٢٠، رجل أعمال معروف في أبوظبي، وساهم في أعمال خيرية كثيرة منها بناء المساكن وكفالة المحتاجين. وحمل الشارع في التسمية القديمة الرقم ٢٦٤.",
-    "en": "Omair bin Yousef bin Ahmed Al Muhairi, born around 1920, was a known businessman in Abu Dhabi, and contributed to many good works including building housing and sponsoring the needy. The street carried the number 264 in the older naming."
+    "ar": "عمير بن يوسف بن أحمد المهيري، وُلد نحو ١٩٢٠، رجل أعمال معروف في أبوظبي، وساهم في أعمال خيرية كثيرة منها بناء المساكن وكفالة المحتاجين.",
+    "en": "Omair bin Yousef bin Ahmed Al Muhairi, born around 1920, was a known businessman in Abu Dhabi, and contributed to many good works including building housing and sponsoring the needy."
   },
   "refs": [
     {
@@ -12929,8 +12929,8 @@ window.STREETS = [
     "en": "A known poetess of Abu Dhabi nicknamed Bint Shamlan"
   },
   "story": {
-    "ar": "عوشة بنت سعيد الحصم الرميثي، وُلدت نحو ١٨٩٥، شاعرة معروفة من أهل أبوظبي، وتُكنى بـ«بنت شملان»، عاشت في حكم زايد بن خليفة وابنه طحنون في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١٦٣.",
-    "en": "Osha bint Saeed Al Hasm Al Rumaithi, born around 1895, was a known poetess of the people of Abu Dhabi, nicknamed «Bint Shamlan»; she lived under the rule of Zayed bin Khalifa and his son Tahnoun, in the time of Sheikh Zayed the First. The street carried the number 163 in the older naming."
+    "ar": "عوشة بنت سعيد الحصم الرميثي، وُلدت نحو ١٨٩٥، شاعرة معروفة من أهل أبوظبي، وتُكنى بـ«بنت شملان»، عاشت في حكم زايد بن خليفة وابنه طحنون في عهد الشيخ زايد الأول.",
+    "en": "Osha bint Saeed Al Hasm Al Rumaithi, born around 1895, was a known poetess of the people of Abu Dhabi, nicknamed «Bint Shamlan»; she lived under the rule of Zayed bin Khalifa and his son Tahnoun, in the time of Sheikh Zayed the First."
   },
   "refs": [
     {
@@ -12951,8 +12951,8 @@ window.STREETS = [
     "en": "A known poetess of Abu Dhabi who received the Abu Dhabi Award"
   },
   "story": {
-    "ar": "عوشة بنت خليفة بن أحمد السويدي، وُلدت نحو ١٩٢٠، شاعرة معروفة من أهل أبوظبي، ونالت جائزة أبوظبي سنة ٢٠٠٩. وحمل الشارع في التسمية القديمة الرقم ٨٥.",
-    "en": "Osha bint Khalifa bin Ahmed Al Suwaidi, born around 1920, was a known poetess of the people of Abu Dhabi, and received the Abu Dhabi Award in 2009. The street carried the number 85 in the older naming."
+    "ar": "عوشة بنت خليفة بن أحمد السويدي، وُلدت نحو ١٩٢٠، شاعرة معروفة من أهل أبوظبي، ونالت جائزة أبوظبي سنة ٢٠٠٩.",
+    "en": "Osha bint Khalifa bin Ahmed Al Suwaidi, born around 1920, was a known poetess of the people of Abu Dhabi, and received the Abu Dhabi Award in 2009."
   },
   "refs": [
     {
@@ -12973,8 +12973,8 @@ window.STREETS = [
     "en": "One of Al Ain's women who helped her uncle Sheikh Ahmed bin Hilal in his tasks"
   },
   "story": {
-    "ar": "قضمة بنت هلال بن محمد بن هلال الظاهري، وُلدت نحو ١٩٠٧، من نساء العين المشهود لهن برجاحة العقل وقوة الشخصية والكرم، وكانت تساعد عمها الشيخ أحمد بن هلال في مهامه. وحمل الشارع في التسمية القديمة الرقم ٥٥٥.",
-    "en": "Qadma bint Hilal bin Mohammed bin Hilal Al Dhaheri, born around 1907, was one of the women of Al Ain attested for sound mind, strength of character and generosity, and she used to help her uncle Sheikh Ahmed bin Hilal in his tasks. The street carried the number 555 in the older naming."
+    "ar": "قضمة بنت هلال بن محمد بن هلال الظاهري، وُلدت نحو ١٩٠٧، من نساء العين المشهود لهن برجاحة العقل وقوة الشخصية والكرم، وكانت تساعد عمها الشيخ أحمد بن هلال في مهامه.",
+    "en": "Qadma bint Hilal bin Mohammed bin Hilal Al Dhaheri, born around 1907, was one of the women of Al Ain attested for sound mind, strength of character and generosity, and she used to help her uncle Sheikh Ahmed bin Hilal in his tasks."
   },
   "refs": [
     {
@@ -12995,8 +12995,8 @@ window.STREETS = [
     "en": "A known poet of Abu Dhabi and Al Ain who took part in the affair of Al Shmeirikhat"
   },
   "story": {
-    "ar": "قمّاش بن خلفان بن مصبح بن عبيد العميمي، وُلد نحو ١٨٩٥، شاعر معروف من أهالي أبوظبي والعين، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٢٤.",
-    "en": "Qammash bin Khalfan bin Musabah bin Obaid Al Amimi, born around 1895, was a known poet of the people of Abu Dhabi and Al Ain; he took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 624 in the older naming."
+    "ar": "قمّاش بن خلفان بن مصبح بن عبيد العميمي، وُلد نحو ١٨٩٥، شاعر معروف من أهالي أبوظبي والعين، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات.",
+    "en": "Qammash bin Khalfan bin Musabah bin Obaid Al Amimi, born around 1895, was a known poet of the people of Abu Dhabi and Al Ain; he took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s."
   },
   "refs": [
     {
@@ -13050,8 +13050,8 @@ window.STREETS = [
     "en": "A known poet of Al Dhafra and the mahadir of Liwa"
   },
   "story": {
-    "ar": "راشد بن دعفوس آل حريحر المزروعي، وُلد نحو ١٨٩٢، شاعر معروف من أهل منطقة الظفرة ومحاضر إليوا. وحمل الشارع في التسمية القديمة الرقم ٢٠٠.",
-    "en": "Rashid bin Daafous Al Hariharr Al Mazrouei, born around 1892, was a known poet of the Al Dhafra region and the mahadir of Liwa. The street carried the number 200 in the older naming."
+    "ar": "راشد بن دعفوس آل حريحر المزروعي، وُلد نحو ١٨٩٢، شاعر معروف من أهل منطقة الظفرة ومحاضر إليوا.",
+    "en": "Rashid bin Daafous Al Hariharr Al Mazrouei, born around 1892, was a known poet of the Al Dhafra region and the mahadir of Liwa."
   },
   "refs": [
     {
@@ -13072,8 +13072,8 @@ window.STREETS = [
     "en": "A known poet of Al Ain who worked on Das Island and in the Armed Forces"
   },
   "story": {
-    "ar": "راشد بن عبيد العليوي بن حمرعين الظاهري، وُلد نحو ١٩٤٠، شاعر معروف من أهل العين، عمل في بداية حياته في جزيرة داس ثم في القوات المسلحة. وحمل الشارع في التسمية القديمة الرقم ٥٨٢.",
-    "en": "Rashid bin Obaid Al Alawi bin Hamrain Al Dhaheri, born around 1940, was a known poet of the people of Al Ain; he worked at the beginning of his life on Das Island and then in the Armed Forces. The street carried the number 582 in the older naming."
+    "ar": "راشد بن عبيد العليوي بن حمرعين الظاهري، وُلد نحو ١٩٤٠، شاعر معروف من أهل العين، عمل في بداية حياته في جزيرة داس ثم في القوات المسلحة.",
+    "en": "Rashid bin Obaid Al Alawi bin Hamrain Al Dhaheri, born around 1940, was a known poet of the people of Al Ain; he worked at the beginning of his life on Das Island and then in the Armed Forces."
   },
   "refs": [
     {
@@ -13094,8 +13094,8 @@ window.STREETS = [
     "en": "Tasked with supervising the mahadir of Shah, Al Sabkhah and Wadhail in Liwa"
   },
   "story": {
-    "ar": "راشد بن حميد الهاملي، وُلد نحو ١٨٧٠، وكُلف من حاكم أبوظبي الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالإشراف على محاضر شاه والسبخة ووذيل في إليوا. وحمل الشارع في التسمية القديمة الرقم ٧٩١.",
-    "en": "Rashid bin Humaid Al Hameli, born around 1870, was tasked by the ruler of Abu Dhabi Sheikh Zayed the First (1855–1909) with supervising the mahadir of Shah, Al Sabkhah and Wadhail in Liwa. The street carried the number 791 in the older naming."
+    "ar": "راشد بن حميد الهاملي، وُلد نحو ١٨٧٠، وكُلف من حاكم أبوظبي الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالإشراف على محاضر شاه والسبخة ووذيل في إليوا.",
+    "en": "Rashid bin Humaid Al Hameli, born around 1870, was tasked by the ruler of Abu Dhabi Sheikh Zayed the First (1855–1909) with supervising the mahadir of Shah, Al Sabkhah and Wadhail in Liwa."
   },
   "refs": [
     {
@@ -13116,8 +13116,8 @@ window.STREETS = [
     "en": "Governor of Liwa from 1955 to 1964"
   },
   "story": {
-    "ar": "راشد بن جابر بن راشد بن حميد الهاملي، وُلد نحو ١٩١٥، وعُيِّن والياً على إليوا من سنة ١٩٥٥ إلى سنة ١٩٦٤. وحمل الشارع في التسمية القديمة الرقم ١٨٢.",
-    "en": "Rashid bin Jaber bin Rashid bin Humaid Al Hameli, born around 1915, was appointed governor of Liwa from 1955 to 1964. The street carried the number 182 in the older naming."
+    "ar": "راشد بن جابر بن راشد بن حميد الهاملي، وُلد نحو ١٩١٥، وعُيِّن والياً على إليوا من سنة ١٩٥٥ إلى سنة ١٩٦٤.",
+    "en": "Rashid bin Jaber bin Rashid bin Humaid Al Hameli, born around 1915, was appointed governor of Liwa from 1955 to 1964."
   },
   "refs": [
     {
@@ -13138,8 +13138,8 @@ window.STREETS = [
     "en": "A scholar and benefactor who built an old mosque in Abu Dhabi"
   },
   "story": {
-    "ar": "راشد بن جبر الحلامي، وُلد نحو ١٨٥٠، شيخ علم وفاعل خير، وبنى مسجداً قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٨٦.",
-    "en": "Rashid bin Jabr Al Halami, born around 1850, was a scholar and benefactor, and built an old mosque in Abu Dhabi. The street carried the number 186 in the older naming."
+    "ar": "راشد بن جبر الحلامي، وُلد نحو ١٨٥٠، شيخ علم وفاعل خير، وبنى مسجداً قديماً في أبوظبي.",
+    "en": "Rashid bin Jabr Al Halami, born around 1850, was a scholar and benefactor, and built an old mosque in Abu Dhabi."
   },
   "refs": [
     {
@@ -13160,8 +13160,8 @@ window.STREETS = [
     "en": "Representative of the ruler of Abu Dhabi on Dalma Island 1937–1945"
   },
   "story": {
-    "ar": "راشد بن جبر بن جمعة السويدي، وُلد نحو ١٩٠٧، وكان ممثل حاكم أبوظبي في جزيرة دلما من سنة ١٩٣٧ إلى سنة ١٩٤٥. وحمل الشارع في التسمية القديمة الرقم ٣٢٥.",
-    "en": "Rashid bin Jabr bin Juma Al Suwaidi, born around 1907, was the representative of the ruler of Abu Dhabi on Dalma Island from 1937 to 1945. The street carried the number 325 in the older naming."
+    "ar": "راشد بن جبر بن جمعة السويدي، وُلد نحو ١٩٠٧، وكان ممثل حاكم أبوظبي في جزيرة دلما من سنة ١٩٣٧ إلى سنة ١٩٤٥.",
+    "en": "Rashid bin Jabr bin Juma Al Suwaidi, born around 1907, was the representative of the ruler of Abu Dhabi on Dalma Island from 1937 to 1945."
   },
   "refs": [
     {
@@ -13182,8 +13182,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "راشد بن خادم بن حليمان بن ثاني بن سعيد آل رشيّد الشعري المنصوري، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وتوفي سنة ١٩٨٣. وحمل الشارع في التسمية القديمة الرقم ٦١١.",
-    "en": "Rashid bin Khadim bin Haliman bin Thani bin Saeed Al Rasheed Al Shaari Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971, and died in 1983. The street carried the number 611 in the older naming."
+    "ar": "راشد بن خادم بن حليمان بن ثاني بن سعيد آل رشيّد الشعري المنصوري، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وتوفي سنة ١٩٨٣.",
+    "en": "Rashid bin Khadim bin Haliman bin Thani bin Saeed Al Rasheed Al Shaari Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971, and died in 1983."
   },
   "refs": [
     {
@@ -13204,8 +13204,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Ain"
   },
   "story": {
-    "ar": "راشد بن خلفان النايلي الشامسي، وُلد نحو ١٩٢٠، شاعر معروف من أهل العين. وحمل الشارع في التسمية القديمة الرقم ٥٣٦.",
-    "en": "Rashid bin Khalfan Al Naili Al Shamsi, born around 1920, was a known poet of the people of Al Ain. The street carried the number 536 in the older naming."
+    "ar": "راشد بن خلفان النايلي الشامسي، وُلد نحو ١٩٢٠، شاعر معروف من أهل العين.",
+    "en": "Rashid bin Khalfan Al Naili Al Shamsi, born around 1920, was a known poet of the people of Al Ain."
   },
   "refs": [
     {
@@ -13226,8 +13226,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council and of the passports and reconciliation committees"
   },
   "story": {
-    "ar": "راشد بن محمد بن عبدالله بن راشد النيادي، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني من سنة ١٩٧١، وعضو لجنة إصدار جوازات أبوظبي، وعضو لجنة المصالحة في محكمة العين. وحمل الشارع في التسمية القديمة الرقم ٥٠٥.",
-    "en": "Rashid bin Mohammed bin Abdullah bin Rashid Al Neyadi, born around 1930, was a member of the National Consultative Council from 1971, of the Abu Dhabi passports issuance committee, and of the reconciliation committee at Al Ain court. The street carried the number 505 in the older naming."
+    "ar": "راشد بن محمد بن عبدالله بن راشد النيادي، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني من سنة ١٩٧١، وعضو لجنة إصدار جوازات أبوظبي، وعضو لجنة المصالحة في محكمة العين.",
+    "en": "Rashid bin Mohammed bin Abdullah bin Rashid Al Neyadi, born around 1930, was a member of the National Consultative Council from 1971, of the Abu Dhabi passports issuance committee, and of the reconciliation committee at Al Ain court."
   },
   "refs": [
     {
@@ -13248,8 +13248,8 @@ window.STREETS = [
     "en": "A known poet of Al Dhafra with the Bin Muslim diwan"
   },
   "story": {
-    "ar": "راشد بن سالم بن راشد بن مسلم المنصوري، وُلد نحو ١٩٣٥، شاعر معروف من أهل الظفرة، وله ديوان «بن مسلم». وحمل الشارع في التسمية القديمة الرقم ٧٦٦.",
-    "en": "Rashid bin Salem bin Rashid bin Muslim Al Mansouri, born around 1935, was a known poet of the people of Al Dhafra, and has the diwan «Bin Muslim». The street carried the number 766 in the older naming."
+    "ar": "راشد بن سالم بن راشد بن مسلم المنصوري، وُلد نحو ١٩٣٥، شاعر معروف من أهل الظفرة، وله ديوان «بن مسلم».",
+    "en": "Rashid bin Salem bin Rashid bin Muslim Al Mansouri, born around 1935, was a known poet of the people of Al Dhafra, and has the diwan «Bin Muslim»."
   },
   "refs": [
     {
@@ -13270,8 +13270,8 @@ window.STREETS = [
     "en": "A known poet of the people of Dalma and Ghagha"
   },
   "story": {
-    "ar": "راشد بن حميد بن سيف بن زنيد القبيسي، وُلد نحو ١٩٠٧، شاعر معروف من أهل دلما وغاغة. وحمل الشارع في التسمية القديمة الرقم ٣٢٧.",
-    "en": "Rashid bin Humaid bin Saif bin Zunaid Al Qubaisi, born around 1907, was a known poet of the people of Dalma and Ghagha. The street carried the number 327 in the older naming."
+    "ar": "راشد بن حميد بن سيف بن زنيد القبيسي، وُلد نحو ١٩٠٧، شاعر معروف من أهل دلما وغاغة.",
+    "en": "Rashid bin Humaid bin Saif bin Zunaid Al Qubaisi, born around 1907, was a known poet of the people of Dalma and Ghagha."
   },
   "refs": [
     {
@@ -13314,8 +13314,8 @@ window.STREETS = [
     "en": "Tender and maintainer of the old water sources of the Al Samha area"
   },
   "story": {
-    "ar": "صابر بن محمد بن سعيد بن عيسى بن محسن بن ذياب بن عبلان المزروعي، وُلد نحو ١٩٢٠، من أهالي منطقة السمحة، وكان قائماً ومديماً للموارد القديمة مثل السميح والدويبة والبدوع وبئر صابر. وحمل الشارع في التسمية القديمة الرقم ٣٥٤.",
-    "en": "Saber bin Mohammed bin Saeed bin Essa bin Mohsin bin Dhiyab bin Ablan Al Mazrouei, born around 1920, was of the people of the Al Samha area, and tended and maintained the old water sources such as Al Sameeh, Al Dwaiba, Al Bado' and Bir Saber. The street carried the number 354 in the older naming."
+    "ar": "صابر بن محمد بن سعيد بن عيسى بن محسن بن ذياب بن عبلان المزروعي، وُلد نحو ١٩٢٠، من أهالي منطقة السمحة، وكان قائماً ومديماً للموارد القديمة مثل السميح والدويبة والبدوع وبئر صابر.",
+    "en": "Saber bin Mohammed bin Saeed bin Essa bin Mohsin bin Dhiyab bin Ablan Al Mazrouei, born around 1920, was of the people of the Al Samha area, and tended and maintained the old water sources such as Al Sameeh, Al Dwaiba, Al Bado' and Bir Saber."
   },
   "refs": [
     {
@@ -13336,8 +13336,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سعيد احمد راشد محمد المنصوري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٨١.",
-    "en": "The martyr Saeed Ahmed Rashid Mohammed Al Mansouri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 581 in the older naming."
+    "ar": "الشهيد سعيد احمد راشد محمد المنصوري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saeed Ahmed Rashid Mohammed Al Mansouri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -13358,8 +13358,8 @@ window.STREETS = [
     "en": "A poet and guide for the exploration companies nicknamed Rai Al Melha"
   },
   "story": {
-    "ar": "سعيد بن جاسم بن محمد الرقراقي المزروعي، وُلد نحو ١٩١٠، شاعر معروف ودليل لشركات التنقيب عن البترول من أهل إليوا، ويُعرف بـ«راعي الملحا»، وعمل بالغوص في بداية حياته. وحمل الشارع في التسمية القديمة الرقم ٢٦٣.",
-    "en": "Saeed bin Jassim bin Mohammed Al Raqraqui Al Mazrouei, born around 1910, was a known poet and a guide for the oil exploration companies of the people of Liwa, known as «Rai Al Melha»; he worked in pearl diving at the beginning of his life. The street carried the number 263 in the older naming."
+    "ar": "سعيد بن جاسم بن محمد الرقراقي المزروعي، وُلد نحو ١٩١٠، شاعر معروف ودليل لشركات التنقيب عن البترول من أهل إليوا، ويُعرف بـ«راعي الملحا»، وعمل بالغوص في بداية حياته.",
+    "en": "Saeed bin Jassim bin Mohammed Al Raqraqui Al Mazrouei, born around 1910, was a known poet and a guide for the oil exploration companies of the people of Liwa, known as «Rai Al Melha»; he worked in pearl diving at the beginning of his life."
   },
   "refs": [
     {
@@ -13380,8 +13380,8 @@ window.STREETS = [
     "en": "Official in charge of Mubarraz Island and member of the Consultative Council in 1979"
   },
   "story": {
-    "ar": "سعيد بن عبدالله بن مسلم بن عبدالله القبيسي، وُلد نحو ١٩٢٠، مسؤول جزيرة مبرز، وعضو المجلس الاستشاري سنة ١٩٧٩. وحمل الشارع في التسمية القديمة الرقم ٢٢٣.",
-    "en": "Saeed bin Abdullah bin Muslim bin Abdullah Al Qubaisi, born around 1920, was the official in charge of Mubarraz Island and a member of the Consultative Council in 1979. The street carried the number 223 in the older naming."
+    "ar": "سعيد بن عبدالله بن مسلم بن عبدالله القبيسي، وُلد نحو ١٩٢٠، مسؤول جزيرة مبرز، وعضو المجلس الاستشاري سنة ١٩٧٩.",
+    "en": "Saeed bin Abdullah bin Muslim bin Abdullah Al Qubaisi, born around 1920, was the official in charge of Mubarraz Island and a member of the Consultative Council in 1979."
   },
   "refs": [
     {
@@ -13402,8 +13402,8 @@ window.STREETS = [
     "en": "A poet and pearl diver of Liwa who frequented the Al Buzoom islands"
   },
   "story": {
-    "ar": "سعيد بن محمد بن سعيد بن عبلان المزروعي، وُلد نحو ١٩٢١، شاعر معروف وغيّاص من سكان إليوا، وكان يتردد على جزر البزوم. وحمل الشارع في التسمية القديمة الرقم ١٨٨.",
-    "en": "Saeed bin Mohammed bin Saeed bin Ablan Al Mazrouei, born around 1921, was a known poet and pearl diver of the people of Liwa, and he frequented the Al Buzoom islands. The street carried the number 188 in the older naming."
+    "ar": "سعيد بن محمد بن سعيد بن عبلان المزروعي، وُلد نحو ١٩٢١، شاعر معروف وغيّاص من سكان إليوا، وكان يتردد على جزر البزوم.",
+    "en": "Saeed bin Mohammed bin Saeed bin Ablan Al Mazrouei, born around 1921, was a known poet and pearl diver of the people of Liwa, and he frequented the Al Buzoom islands."
   },
   "refs": [
     {
@@ -13424,8 +13424,8 @@ window.STREETS = [
     "en": "Of Sir Bani Yas, took part in building the Dalma dam and had a mosque named after him"
   },
   "story": {
-    "ar": "سعيد بن علي المهندي، وُلد نحو ١٨٥٨، من أهل صير بني ياس، امتهن صيد البحر وله مسكر معروف، ثم انتقل إلى دلما وشارك في بناء سد دلما، وسُمّي مسجداً في دلما باسمه. وحمل الشارع في التسمية القديمة الرقم ٧٨٣.",
-    "en": "Saeed bin Ali Al Mohannadi, born around 1858, was of the people of Sir Bani Yas; he practised sea fishing and had a known maskar, then moved to Dalma, took part in building the Dalma dam, and a mosque in Dalma was named after him. The street carried the number 783 in the older naming."
+    "ar": "سعيد بن علي المهندي، وُلد نحو ١٨٥٨، من أهل صير بني ياس، امتهن صيد البحر وله مسكر معروف، ثم انتقل إلى دلما وشارك في بناء سد دلما، وسُمّي مسجداً في دلما باسمه.",
+    "en": "Saeed bin Ali Al Mohannadi, born around 1858, was of the people of Sir Bani Yas; he practised sea fishing and had a known maskar, then moved to Dalma, took part in building the Dalma dam, and a mosque in Dalma was named after him."
   },
   "refs": [
     {
@@ -13446,8 +13446,8 @@ window.STREETS = [
     "en": "A judge, scholar and poet in the time of Zayed the First"
   },
   "story": {
-    "ar": "سعيد بن محمد بن عبدالله بن علي بن الجبيهاء اليبهوني الظاهري، وُلد نحو ١٩٠٥، قاضٍ وشيخ علم في أبوظبي والعين، وشاعر معروف في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٥٣٥.",
-    "en": "Saeed bin Mohammed bin Abdullah bin Ali bin Al Jubaiha Al Yabhooni Al Dhaheri, born around 1905, was a judge and scholar in Abu Dhabi and Al Ain, and a known poet in the time of Sheikh Zayed the First (1855–1909). The street carried the number 535 in the older naming."
+    "ar": "سعيد بن محمد بن عبدالله بن علي بن الجبيهاء اليبهوني الظاهري، وُلد نحو ١٩٠٥، قاضٍ وشيخ علم في أبوظبي والعين، وشاعر معروف في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Saeed bin Mohammed bin Abdullah bin Ali bin Al Jubaiha Al Yabhooni Al Dhaheri, born around 1905, was a judge and scholar in Abu Dhabi and Al Ain, and a known poet in the time of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -13468,8 +13468,8 @@ window.STREETS = [
     "en": "A known poet skilled in the Al Wannah art and companion of Zayed the First"
   },
   "story": {
-    "ar": "سعيد بن راشد بن سعيد بن عتيق المحيشي الهاملي، وُلد نحو ١٨٧٥، شاعر معروف عُرف بإجادته لفن الونه، وشارك في عدة غزوات مع الشيخ زايد الأول، ورافق الشيخ حمدان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١١٠.",
-    "en": "Saeed bin Rashid bin Saeed bin Atiq Al Muhaishi Al Hameli, born around 1875, was a known poet skilled in the art of Al Wannah; he took part in several expeditions with Sheikh Zayed the First and accompanied Sheikh Hamdan bin Zayed the First. The street carried the number 110 in the older naming."
+    "ar": "سعيد بن راشد بن سعيد بن عتيق المحيشي الهاملي، وُلد نحو ١٨٧٥، شاعر معروف عُرف بإجادته لفن الونه، وشارك في عدة غزوات مع الشيخ زايد الأول، ورافق الشيخ حمدان بن زايد الأول.",
+    "en": "Saeed bin Rashid bin Saeed bin Atiq Al Muhaishi Al Hameli, born around 1875, was a known poet skilled in the art of Al Wannah; he took part in several expeditions with Sheikh Zayed the First and accompanied Sheikh Hamdan bin Zayed the First."
   },
   "refs": [
     {
@@ -13490,8 +13490,8 @@ window.STREETS = [
     "en": "A scholar in Dalma in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "سعيد بن عتيق القبيسي، وُلد نحو ١٨٧٣، شيخ علم في دلما في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٧٨٢.",
-    "en": "Saeed bin Atiq Al Qubaisi, born around 1873, was a scholar in Dalma in the time of Sheikh Zayed the First (1855–1909). The street carried the number 782 in the older naming."
+    "ar": "سعيد بن عتيق القبيسي، وُلد نحو ١٨٧٣، شيخ علم في دلما في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Saeed bin Atiq Al Qubaisi, born around 1873, was a scholar in Dalma in the time of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -13512,8 +13512,8 @@ window.STREETS = [
     "en": "A scholar and mutawwa' of the northern sands"
   },
   "story": {
-    "ar": "سعيد بن هلال بن سعيد بن دميثان القمزي، وُلد نحو ١٩٠٠، شيخ علم ومطوع من أهل الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٠٠.",
-    "en": "Saeed bin Hilal bin Saeed bin Dumithan Al Qamzi, born around 1900, was a scholar and mutawwa' of the northern sands. The street carried the number 300 in the older naming."
+    "ar": "سعيد بن هلال بن سعيد بن دميثان القمزي، وُلد نحو ١٩٠٠، شيخ علم ومطوع من أهل الطف الشمالي.",
+    "en": "Saeed bin Hilal bin Saeed bin Dumithan Al Qamzi, born around 1900, was a scholar and mutawwa' of the northern sands."
   },
   "refs": [
     {
@@ -13534,8 +13534,8 @@ window.STREETS = [
     "en": "A known poet of the northern sands region"
   },
   "story": {
-    "ar": "سعيد بن علي بن ميزر بن سعيد الرميثي، وُلد نحو ١٩٠٠، شاعر معروف من أهل منطقة الطف الشمالي، وتوفي سنة ١٩٤٥. وحمل الشارع في التسمية القديمة الرقم ٩٣.",
-    "en": "Saeed bin Ali bin Mizar bin Saeed Al Rumaithi, born around 1900, was a known poet of the northern sands region, and died in 1945. The street carried the number 93 in the older naming."
+    "ar": "سعيد بن علي بن ميزر بن سعيد الرميثي، وُلد نحو ١٩٠٠، شاعر معروف من أهل منطقة الطف الشمالي، وتوفي سنة ١٩٤٥.",
+    "en": "Saeed bin Ali bin Mizar bin Saeed Al Rumaithi, born around 1900, was a known poet of the northern sands region, and died in 1945."
   },
   "refs": [
     {
@@ -13556,8 +13556,8 @@ window.STREETS = [
     "en": "A known poet of Liwa with the Diwan of Ibn Al Onsa"
   },
   "story": {
-    "ar": "سعيد بن ماجد بن راشد بن عامر العنصا المديهمي المنصوري، وُلد نحو ١٩٣٠، شاعر معروف من أهل إليوا، وله ديوان «ابن العنصا». وحمل الشارع في التسمية القديمة الرقم ٢٩٥.",
-    "en": "Saeed bin Majid bin Rashid bin Amer Al Onsa Al Mudeihimi Al Mansouri, born around 1930, was a known poet of the people of Liwa, and has the diwan «Ibn Al Onsa». The street carried the number 295 in the older naming."
+    "ar": "سعيد بن ماجد بن راشد بن عامر العنصا المديهمي المنصوري، وُلد نحو ١٩٣٠، شاعر معروف من أهل إليوا، وله ديوان «ابن العنصا».",
+    "en": "Saeed bin Majid bin Rashid bin Amer Al Onsa Al Mudeihimi Al Mansouri, born around 1930, was a known poet of the people of Liwa, and has the diwan «Ibn Al Onsa»."
   },
   "refs": [
     {
@@ -13578,8 +13578,8 @@ window.STREETS = [
     "en": "A known poet of Al Ain known for courage and generosity"
   },
   "story": {
-    "ar": "سعيد بن معضد بن سيف المشغوني العميمي، وُلد نحو ١٨٨٠، شاعر معروف من أهل العين، وعُرف بالشجاعة والكرم. وحمل الشارع في التسمية القديمة الرقم ٣٥٢.",
-    "en": "Saeed bin Muaded bin Saif Al Mashghouni Al Amimi, born around 1880, was a known poet of the people of Al Ain, known for courage and generosity. The street carried the number 352 in the older naming."
+    "ar": "سعيد بن معضد بن سيف المشغوني العميمي، وُلد نحو ١٨٨٠، شاعر معروف من أهل العين، وعُرف بالشجاعة والكرم.",
+    "en": "Saeed bin Muaded bin Saif Al Mashghouni Al Amimi, born around 1880, was a known poet of the people of Al Ain, known for courage and generosity."
   },
   "refs": [
     {
@@ -13600,8 +13600,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan and son of the maternal uncle of Sheikha Salama bint Zayed"
   },
   "story": {
-    "ar": "سعيد بن عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٩٣٥، مرافق للشيخ زايد بن سلطان آل نهيان، وهو ولد خال الشيخة سلامة بنت زايد بن سلطان. وحمل الشارع في التسمية القديمة الرقم ٣٤٥.",
-    "en": "Saeed bin Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1935, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and the son of the maternal uncle of Sheikha Salama bint Zayed bin Sultan. The street carried the number 345 in the older naming."
+    "ar": "سعيد بن عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٩٣٥، مرافق للشيخ زايد بن سلطان آل نهيان، وهو ولد خال الشيخة سلامة بنت زايد بن سلطان.",
+    "en": "Saeed bin Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1935, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and the son of the maternal uncle of Sheikha Salama bint Zayed bin Sultan."
   },
   "refs": [
     {
@@ -13622,8 +13622,8 @@ window.STREETS = [
     "en": "A known poet of Abu Dhabi with the Al Zaal diwan"
   },
   "story": {
-    "ar": "سعيد بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٨٥، شاعر معروف من أهل أبوظبي، وله ديوان آل زعل، وعمل في مركز المارية في إليوا. وحمل الشارع في التسمية القديمة الرقم ٩٢.",
-    "en": "Saeed bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1885, was a known poet of the people of Abu Dhabi with the Al Zaal diwan, and worked at the Al Mariya centre in Liwa. The street carried the number 92 in the older naming."
+    "ar": "سعيد بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٨٥، شاعر معروف من أهل أبوظبي، وله ديوان آل زعل، وعمل في مركز المارية في إليوا.",
+    "en": "Saeed bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1885, was a known poet of the people of Abu Dhabi with the Al Zaal diwan, and worked at the Al Mariya centre in Liwa."
   },
   "refs": [
     {
@@ -13644,8 +13644,8 @@ window.STREETS = [
     "en": "A judge specialising in livestock and palm cases of Al Dhafra"
   },
   "story": {
-    "ar": "سعيد بن سويد بن غدير بن حمد بن تعيب بن حسن المنصوري، وُلد نحو ١٨٦٠، قاضٍ مختص في قضايا الحلال والنخيل، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٧٤.",
-    "en": "Saeed bin Swaid bin Ghadeer bin Hamad bin Tuaib bin Hassan Al Mansouri, born around 1860, was a judge specialising in livestock and palm cases, of the people of Al Dhafra. The street carried the number 274 in the older naming."
+    "ar": "سعيد بن سويد بن غدير بن حمد بن تعيب بن حسن المنصوري، وُلد نحو ١٨٦٠، قاضٍ مختص في قضايا الحلال والنخيل، من أهالي الظفرة.",
+    "en": "Saeed bin Swaid bin Ghadeer bin Hamad bin Tuaib bin Hassan Al Mansouri, born around 1860, was a judge specialising in livestock and palm cases, of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -13666,8 +13666,8 @@ window.STREETS = [
     "en": "A scholar in Abu Dhabi in the time of Sheikh Shakhbut"
   },
   "story": {
-    "ar": "سعيد بن محمد بن يعروف بن بهلول المطيوعي المنصوري، وُلد نحو ١٨٨٥، شيخ علم في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٧٩.",
-    "en": "Saeed bin Mohammed bin Yarouf bin Bahlol Al Matyoui Al Mansouri, born around 1885, was a scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 279 in the older naming."
+    "ar": "سعيد بن محمد بن يعروف بن بهلول المطيوعي المنصوري، وُلد نحو ١٨٨٥، شيخ علم في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Saeed bin Mohammed bin Yarouf bin Bahlol Al Matyoui Al Mansouri, born around 1885, was a scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -13704,8 +13704,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سعيد ابراهيم محمد سالم الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٠٦.",
-    "en": "The martyr Saeed Ibrahim Mohammed Salem Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 606 in the older naming."
+    "ar": "الشهيد سعيد ابراهيم محمد سالم الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saeed Ibrahim Mohammed Salem Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -13726,8 +13726,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سعيد راشد مبارك سعيد النيادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥١٦.",
-    "en": "The martyr Saeed Rashid Mubarak Saeed Al Neyadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 516 in the older naming."
+    "ar": "الشهيد سعيد راشد مبارك سعيد النيادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saeed Rashid Mubarak Saeed Al Neyadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -13748,8 +13748,8 @@ window.STREETS = [
     "en": "A horseman known for strength and composure in the time of Zayed the First"
   },
   "story": {
-    "ar": "سيف بن عفصان بن خلفان الخييلي، وُلد نحو ١٨٣٣، فارس ورجل مشهور بقوته ورباطة جأشه في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٥٢٨.",
-    "en": "Saif bin Afsan bin Khalfan Al Khaili, born around 1833, was a horseman known for his strength and composure in the time of Sheikh Zayed the First. The street carried the number 528 in the older naming."
+    "ar": "سيف بن عفصان بن خلفان الخييلي، وُلد نحو ١٨٣٣، فارس ورجل مشهور بقوته ورباطة جأشه في عهد الشيخ زايد الأول.",
+    "en": "Saif bin Afsan bin Khalfan Al Khaili, born around 1833, was a horseman known for his strength and composure in the time of Sheikh Zayed the First."
   },
   "refs": [
     {
@@ -13770,8 +13770,8 @@ window.STREETS = [
     "en": "Member of the advisory committee for nationality, passports and residence"
   },
   "story": {
-    "ar": "سيف بن علي بن خفية القبيسي، وُلد نحو ١٩١٥، وعضو في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ١٦٤.",
-    "en": "Saif bin Ali bin Khufaiyah Al Qubaisi, born around 1915, was a member of the advisory committee of the Department of Nationality, Passports and Residence in 1968. The street carried the number 164 in the older naming."
+    "ar": "سيف بن علي بن خفية القبيسي، وُلد نحو ١٩١٥، وعضو في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨.",
+    "en": "Saif bin Ali bin Khufaiyah Al Qubaisi, born around 1915, was a member of the advisory committee of the Department of Nationality, Passports and Residence in 1968."
   },
   "refs": [
     {
@@ -13792,8 +13792,8 @@ window.STREETS = [
     "en": "A man of religion known as Al Mutawwa' of Al Dhafra"
   },
   "story": {
-    "ar": "سيف بن خليفة بن بطحان الهاملي، وُلد نحو ١٨٦١، عالم دين يُعرف بـ«المطوع» من أهل الظفرة، وكان يتردد بين دلما وإليوا. وحمل الشارع في التسمية القديمة الرقم ٧٨٠.",
-    "en": "Saif bin Khalifa bin Bathan Al Hameli, born around 1861, was a man of religion known as «Al Mutawwa'» of Al Dhafra, and he moved between Dalma and Liwa. The street carried the number 780 in the older naming."
+    "ar": "سيف بن خليفة بن بطحان الهاملي، وُلد نحو ١٨٦١، عالم دين يُعرف بـ«المطوع» من أهل الظفرة، وكان يتردد بين دلما وإليوا.",
+    "en": "Saif bin Khalifa bin Bathan Al Hameli, born around 1861, was a man of religion known as «Al Mutawwa'» of Al Dhafra, and he moved between Dalma and Liwa."
   },
   "refs": [
     {
@@ -13814,8 +13814,8 @@ window.STREETS = [
     "en": "Member of the Municipal Council in Abu Dhabi in 1969"
   },
   "story": {
-    "ar": "سيف بن جبر بن جمعة السويدي، وُلد نحو ١٩٣٠، وعضو المجلس البلدي في أبوظبي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ١٦٧.",
-    "en": "Saif bin Jabr bin Juma Al Suwaidi, born around 1930, was a member of the Municipal Council in Abu Dhabi in 1969. The street carried the number 167 in the older naming."
+    "ar": "سيف بن جبر بن جمعة السويدي، وُلد نحو ١٩٣٠، وعضو المجلس البلدي في أبوظبي سنة ١٩٦٩.",
+    "en": "Saif bin Jabr bin Juma Al Suwaidi, born around 1930, was a member of the Municipal Council in Abu Dhabi in 1969."
   },
   "refs": [
     {
@@ -13836,8 +13836,8 @@ window.STREETS = [
     "en": "A known poet of Al Bateen who practised pearl diving"
   },
   "story": {
-    "ar": "سيف بن كاسب بن محمد بن كاسب المهيري، وُلد نحو ١٨٩٠، شاعر معروف من منطقة البطين في إمارة أبوظبي، وعمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٢٤٣.",
-    "en": "Saif bin Kasib bin Mohammed bin Kasib Al Muhairi, born around 1890, was a known poet of the Al Bateen area in the Emirate of Abu Dhabi, and worked in pearl diving. The street carried the number 243 in the older naming."
+    "ar": "سيف بن كاسب بن محمد بن كاسب المهيري، وُلد نحو ١٨٩٠، شاعر معروف من منطقة البطين في إمارة أبوظبي، وعمل في مهنة الغوص.",
+    "en": "Saif bin Kasib bin Mohammed bin Kasib Al Muhairi, born around 1890, was a known poet of the Al Bateen area in the Emirate of Abu Dhabi, and worked in pearl diving."
   },
   "refs": [
     {
@@ -13858,8 +13858,8 @@ window.STREETS = [
     "en": "A known poet nicknamed Al Mahdars"
   },
   "story": {
-    "ar": "سيف بن خلفان بن سيف بن حارب بن حاضر العميمي، وُلد نحو ١٩٢٠، شاعر معروف يُكنى بـ«المهدرس». وحمل الشارع في التسمية القديمة الرقم ٢٤٢.",
-    "en": "Saif bin Khalfan bin Saif bin Harib bin Hader Al Amimi, born around 1920, was a known poet nicknamed «Al Mahdars». The street carried the number 242 in the older naming."
+    "ar": "سيف بن خلفان بن سيف بن حارب بن حاضر العميمي، وُلد نحو ١٩٢٠، شاعر معروف يُكنى بـ«المهدرس».",
+    "en": "Saif bin Khalfan bin Saif bin Harib bin Hader Al Amimi, born around 1920, was a known poet nicknamed «Al Mahdars»."
   },
   "refs": [
     {
@@ -13880,8 +13880,8 @@ window.STREETS = [
     "en": "A scholar known as Al Mutawwa' who practised diving between Dalma and Ghagha"
   },
   "story": {
-    "ar": "سيف بن مطر بن سعيد القبيسي، وُلد نحو ١٩٢٠، شيخ علم يُعرف بـ«المطوع»، عاش متنقلاً بين جزيرة دلما وجزيرة غاغة، ومارس مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٧٧٦.",
-    "en": "Saif bin Matar bin Saeed Al Qubaisi, born around 1920, was a scholar known as «Al Mutawwa'», lived moving between Dalma and Ghagha islands, and practised pearl diving. The street carried the number 776 in the older naming."
+    "ar": "سيف بن مطر بن سعيد القبيسي، وُلد نحو ١٩٢٠، شيخ علم يُعرف بـ«المطوع»، عاش متنقلاً بين جزيرة دلما وجزيرة غاغة، ومارس مهنة الغوص.",
+    "en": "Saif bin Matar bin Saeed Al Qubaisi, born around 1920, was a scholar known as «Al Mutawwa'», lived moving between Dalma and Ghagha islands, and practised pearl diving."
   },
   "refs": [
     {
@@ -13902,8 +13902,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سيف أحمد محمد ميا العفاري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٣٨.",
-    "en": "The martyr Saif Ahmed Mohammed Maya Al Afari is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 638 in the older naming."
+    "ar": "الشهيد سيف أحمد محمد ميا العفاري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saif Ahmed Mohammed Maya Al Afari is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -13924,8 +13924,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council and companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "سيف بن معضد بن سيف بن معضد المشغوني، وُلد نحو ١٩٢٠، عضو المجلس الاستشاري الوطني لإمارة أبوظبي سنة ١٩٧٠، ومرافق للشيخ زايد بن سلطان آل نهيان، وهو خال الشيخ سلطان بن زايد آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٥٧٥.",
-    "en": "Saif bin Muaded bin Saif bin Muaded Al Mashghouni, born around 1920, was a member of the National Consultative Council of the Emirate of Abu Dhabi in 1970 and a companion of Sheikh Zayed bin Sultan Al Nahyan, and the maternal uncle of Sheikh Sultan bin Zayed Al Nahyan. The street carried the number 575 in the older naming."
+    "ar": "سيف بن معضد بن سيف بن معضد المشغوني، وُلد نحو ١٩٢٠، عضو المجلس الاستشاري الوطني لإمارة أبوظبي سنة ١٩٧٠، ومرافق للشيخ زايد بن سلطان آل نهيان، وهو خال الشيخ سلطان بن زايد آل نهيان.",
+    "en": "Saif bin Muaded bin Saif bin Muaded Al Mashghouni, born around 1920, was a member of the National Consultative Council of the Emirate of Abu Dhabi in 1970 and a companion of Sheikh Zayed bin Sultan Al Nahyan, and the maternal uncle of Sheikh Sultan bin Zayed Al Nahyan."
   },
   "refs": [
     {
@@ -13946,8 +13946,8 @@ window.STREETS = [
     "en": "Governor of Liwa and official of the Al Markhia and Al Mariya borders centre"
   },
   "story": {
-    "ar": "سيف بن موسى بن حيي الهاملي، وُلد نحو ١٩١٥، والي إليوا ومسؤول مركز حدود المرخية والمارية في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٥٠.",
-    "en": "Saif bin Musa bin Hayy Al Hameli, born around 1915, was governor of Liwa and official of the Al Markhia and Al Mariya borders centre in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 750 in the older naming."
+    "ar": "سيف بن موسى بن حيي الهاملي، وُلد نحو ١٩١٥، والي إليوا ومسؤول مركز حدود المرخية والمارية في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Saif bin Musa bin Hayy Al Hameli, born around 1915, was governor of Liwa and official of the Al Markhia and Al Mariya borders centre in the time of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -13968,8 +13968,8 @@ window.STREETS = [
     "en": "A known poet of Liwa who took part in the war of Al Duru'"
   },
   "story": {
-    "ar": "سيف بن سعيد بن عيسى المزروعي، وُلد نحو ١٨٩٠، شاعر معروف من أهل إليوا، وقد شارك في حرب الدروع سنة ١٩٢٧. وحمل الشارع في التسمية القديمة الرقم ٣٤١.",
-    "en": "Saif bin Saeed bin Essa Al Mazrouei, born around 1890, was a known poet of the people of Liwa, and took part in the war of Al Duru' in 1927. The street carried the number 341 in the older naming."
+    "ar": "سيف بن سعيد بن عيسى المزروعي، وُلد نحو ١٨٩٠، شاعر معروف من أهل إليوا، وقد شارك في حرب الدروع سنة ١٩٢٧.",
+    "en": "Saif bin Saeed bin Essa Al Mazrouei, born around 1890, was a known poet of the people of Liwa, and took part in the war of Al Duru' in 1927."
   },
   "refs": [
     {
@@ -13990,8 +13990,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "ar": "سيف بن خلفان بن سيف بن سلومة المنصوري، وُلد نحو ١٩١٥، شاعر معروف من أهل الظفرة، وتوفي سنة ١٩٨٥. وحمل الشارع في التسمية القديمة الرقم ٢٧٧.",
-    "en": "Saif bin Khalfan bin Saif bin Saluma Al Mansouri, born around 1915, was a known poet of the people of Al Dhafra, and died in 1985. The street carried the number 277 in the older naming."
+    "ar": "سيف بن خلفان بن سيف بن سلومة المنصوري، وُلد نحو ١٩١٥، شاعر معروف من أهل الظفرة، وتوفي سنة ١٩٨٥.",
+    "en": "Saif bin Khalfan bin Saif bin Saluma Al Mansouri, born around 1915, was a known poet of the people of Al Dhafra, and died in 1985."
   },
   "refs": [
     {
@@ -14012,8 +14012,8 @@ window.STREETS = [
     "en": "A known poet of Al Ain known as Rai Dabyan"
   },
   "story": {
-    "ar": "سيف بن مصبح بن علي بن ساري الكتبي، وُلد نحو ١٨٩٢، شاعر معروف من أهل العين، ويُعرف براعي ظبيان، ويُعد من أشهر المغردين في الماضي. وحمل الشارع في التسمية القديمة الرقم ٥٥٦.",
-    "en": "Saif bin Musabah bin Ali bin Sari Al Ketbi, born around 1892, was a known poet of the people of Al Ain, known as Rai Dabyan, and is counted among the most famous singers of the past. The street carried the number 556 in the older naming."
+    "ar": "سيف بن مصبح بن علي بن ساري الكتبي، وُلد نحو ١٨٩٢، شاعر معروف من أهل العين، ويُعرف براعي ظبيان، ويُعد من أشهر المغردين في الماضي.",
+    "en": "Saif bin Musabah bin Ali bin Sari Al Ketbi, born around 1892, was a known poet of the people of Al Ain, known as Rai Dabyan, and is counted among the most famous singers of the past."
   },
   "refs": [
     {
@@ -14034,8 +14034,8 @@ window.STREETS = [
     "en": "A scholar known as Rai Al Jahili after the well he dug in Al Dhafra"
   },
   "story": {
-    "ar": "سيف بن رشيد بن شظيب آل شظيب المطيوعي المنصوري، وُلد نحو ١٨٥٥، عالم وشيخ علم يُعرف بـ«راعي الجاهلي» نسبة إلى طوي الجاهلي وهو مورد حفره في الظفرة، وتوفي ودُفن بجوار المورد. وحمل الشارع في التسمية القديمة الرقم ٢٥٧.",
-    "en": "Saif bin Rashid bin Shdhaib Al Shdhaib Al Matyoui Al Mansouri, born around 1855, was a scholar known as «Rai Al Jahili» after the Al Jahili well, a source he dug in Al Dhafra; he died and was buried beside the source. The street carried the number 257 in the older naming."
+    "ar": "سيف بن رشيد بن شظيب آل شظيب المطيوعي المنصوري، وُلد نحو ١٨٥٥، عالم وشيخ علم يُعرف بـ«راعي الجاهلي» نسبة إلى طوي الجاهلي وهو مورد حفره في الظفرة، وتوفي ودُفن بجوار المورد.",
+    "en": "Saif bin Rashid bin Shdhaib Al Shdhaib Al Matyoui Al Mansouri, born around 1855, was a scholar known as «Rai Al Jahili» after the Al Jahili well, a source he dug in Al Dhafra; he died and was buried beside the source."
   },
   "refs": [
     {
@@ -14056,8 +14056,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "سيف بن سعيد بن سيف بن يضيف السبوسي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٨٩.",
-    "en": "Saif bin Saeed bin Saif bin Yadaif Al Sabousi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 589 in the older naming."
+    "ar": "سيف بن سعيد بن سيف بن يضيف السبوسي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Saif bin Saeed bin Saif bin Yadaif Al Sabousi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -14078,8 +14078,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سيف محمد سيف بالروب القبيسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ١٨٩.",
-    "en": "The martyr Saif Mohammed Saif Bil Roob Al Qubaisi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 189 in the older naming."
+    "ar": "الشهيد سيف محمد سيف بالروب القبيسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saif Mohammed Saif Bil Roob Al Qubaisi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -14117,8 +14117,8 @@ window.STREETS = [
     "en": "A guide and well measurer, companion of an English traveller, and director of Al Dhafra education"
   },
   "story": {
-    "ar": "سالم بن علي بن سالم بالرطاع الهاملي، وُلد نحو ١٩٤٢، عمل في بداية حياته دليلاً وقِيّاس آبار، وكان مرافقاً للرحالة الإنجليزي المُكنى بـ«أبو صبيعة»، ومديراً للمنطقة التعليمية في الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٥٣.",
-    "en": "Salem bin Ali bin Salem Bilrtaa Al Hameli, born around 1942, worked at the beginning of his life as a guide and well measurer, and was a companion of the English traveller nicknamed «Abu Subai'ah» and director of the Al Dhafra education district. The street carried the number 753 in the older naming."
+    "ar": "سالم بن علي بن سالم بالرطاع الهاملي، وُلد نحو ١٩٤٢، عمل في بداية حياته دليلاً وقِيّاس آبار، وكان مرافقاً للرحالة الإنجليزي المُكنى بـ«أبو صبيعة»، ومديراً للمنطقة التعليمية في الظفرة.",
+    "en": "Salem bin Ali bin Salem Bilrtaa Al Hameli, born around 1942, worked at the beginning of his life as a guide and well measurer, and was a companion of the English traveller nicknamed «Abu Subai'ah» and director of the Al Dhafra education district."
   },
   "refs": [
     {
@@ -14139,8 +14139,8 @@ window.STREETS = [
     "en": "Worked in Sheikh Zayed bin Sultan's Special Department and was tasked with bringing palms from Basra"
   },
   "story": {
-    "ar": "سالم بن راشد بن عديمة النعيمي، وُلد نحو ١٩٣٠، من أهل العين، عمل في الدائرة الخاصة للشيخ زايد بن سلطان آل نهيان، وكُلف بجلب أنواع من النخيل من البصرة إلى دولة الإمارات. وحمل الشارع في التسمية القديمة الرقم ٥٣٩.",
-    "en": "Salem bin Rashid bin Adima Al Nuaimi, born around 1930, was of the people of Al Ain; he worked in the Special Department of Sheikh Zayed bin Sultan Al Nahyan and was tasked with bringing kinds of palm trees from Basra to the UAE. The street carried the number 539 in the older naming."
+    "ar": "سالم بن راشد بن عديمة النعيمي، وُلد نحو ١٩٣٠، من أهل العين، عمل في الدائرة الخاصة للشيخ زايد بن سلطان آل نهيان، وكُلف بجلب أنواع من النخيل من البصرة إلى دولة الإمارات.",
+    "en": "Salem bin Rashid bin Adima Al Nuaimi, born around 1930, was of the people of Al Ain; he worked in the Special Department of Sheikh Zayed bin Sultan Al Nahyan and was tasked with bringing kinds of palm trees from Basra to the UAE."
   },
   "refs": [
     {
@@ -14161,8 +14161,8 @@ window.STREETS = [
     "en": "A judge and scholar in Abu Dhabi in the time of Sheikh Shakhbut"
   },
   "story": {
-    "ar": "سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٨٧٥، قاضٍ وشيخ علم في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٥٨.",
-    "en": "Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1875, was a judge and scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 158 in the older naming."
+    "ar": "سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٨٧٥، قاضٍ وشيخ علم في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1875, was a judge and scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -14183,8 +14183,8 @@ window.STREETS = [
     "en": "Adviser to Sheikh Hamdan bin Zayed the First and sheikh of the Mazarei tribe"
   },
   "story": {
-    "ar": "سالم بن فارس بن علي بن راشد بن مانع المزروعي، وُلد نحو ١٨٦٢، مستشار الشيخ حمدان بن زايد الأول، وشاعر وشيخ قبيلة المزاريع. وحمل الشارع في التسمية القديمة الرقم ٢٦١.",
-    "en": "Salem bin Fares bin Ali bin Rashid bin Mana Al Mazrouei, born around 1862, was adviser to Sheikh Hamdan bin Zayed the First, a poet and sheikh of the Mazarei tribe. The street carried the number 261 in the older naming."
+    "ar": "سالم بن فارس بن علي بن راشد بن مانع المزروعي، وُلد نحو ١٨٦٢، مستشار الشيخ حمدان بن زايد الأول، وشاعر وشيخ قبيلة المزاريع.",
+    "en": "Salem bin Fares bin Ali bin Rashid bin Mana Al Mazrouei, born around 1862, was adviser to Sheikh Hamdan bin Zayed the First, a poet and sheikh of the Mazarei tribe."
   },
   "refs": [
     {
@@ -14205,8 +14205,8 @@ window.STREETS = [
     "en": "A mu'arraf of the advisory committee for nationality and passports"
   },
   "story": {
-    "ar": "سالم بن عبيد بن هياي المنصوري، وُلد نحو ١٩٢٠، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ٣٧٢.",
-    "en": "Salem bin Obaid bin Hayyai Al Mansouri, born around 1920, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968. The street carried the number 372 in the older naming."
+    "ar": "سالم بن عبيد بن هياي المنصوري، وُلد نحو ١٩٢٠، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨.",
+    "en": "Salem bin Obaid bin Hayyai Al Mansouri, born around 1920, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968."
   },
   "refs": [
     {
@@ -14227,8 +14227,8 @@ window.STREETS = [
     "en": "A known poet of Al Ain nicknamed Al Kas"
   },
   "story": {
-    "ar": "سالم بن خميس بن عبد الله الظاهري، وُلد نحو ١٩٢٦، شاعر معروف من أهل العين، ويُكنى بـ«الكاس». وحمل الشارع في التسمية القديمة الرقم ٥٧٨.",
-    "en": "Salem bin Khamis bin Abdullah Al Dhaheri, born around 1926, was a known poet of the people of Al Ain, nicknamed «Al Kas». The street carried the number 578 in the older naming."
+    "ar": "سالم بن خميس بن عبد الله الظاهري، وُلد نحو ١٩٢٦، شاعر معروف من أهل العين، ويُكنى بـ«الكاس».",
+    "en": "Salem bin Khamis bin Abdullah Al Dhaheri, born around 1926, was a known poet of the people of Al Ain, nicknamed «Al Kas»."
   },
   "refs": [
     {
@@ -14249,8 +14249,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "ar": "سالم بن علي بن سالم بن مران الظاهري، وُلد نحو ١٩٢٠، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٥٥٢.",
-    "en": "Salem bin Ali bin Salem bin Maran Al Dhaheri, born around 1920, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 552 in the older naming."
+    "ar": "سالم بن علي بن سالم بن مران الظاهري، وُلد نحو ١٩٢٠، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات.",
+    "en": "Salem bin Ali bin Salem bin Maran Al Dhaheri, born around 1920, took part in the affair of Al Shmeirikhat and died in it in the late 1940s."
   },
   "refs": [
     {
@@ -14288,8 +14288,8 @@ window.STREETS = [
     "en": "A teacher known as Al Mutawwa' who taught Sheikh Khalifa bin Zayed"
   },
   "story": {
-    "ar": "سالم بن جمعة بن طناف الشامسي، وُلد نحو ١٩٢٤، مدرس يُعرف في ذلك الزمان بـ«المطوع» من أهالي العين، ودرس على يده الشيخ خليفة بن زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٥٤٢.",
-    "en": "Salem bin Juma bin Tannaf Al Shamsi, born around 1924, was a teacher known in that time as «Al Mutawwa'» of the people of Al Ain, and Sheikh Khalifa bin Zayed bin Sultan Al Nahyan studied under him. The street carried the number 542 in the older naming."
+    "ar": "سالم بن جمعة بن طناف الشامسي، وُلد نحو ١٩٢٤، مدرس يُعرف في ذلك الزمان بـ«المطوع» من أهالي العين، ودرس على يده الشيخ خليفة بن زايد بن سلطان آل نهيان.",
+    "en": "Salem bin Juma bin Tannaf Al Shamsi, born around 1924, was a teacher known in that time as «Al Mutawwa'» of the people of Al Ain, and Sheikh Khalifa bin Zayed bin Sultan Al Nahyan studied under him."
   },
   "refs": [
     {
@@ -14310,8 +14310,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سالم راشد غليطه القمزي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦٠.",
-    "en": "The martyr Salem Rashid Ghalitha Al Qemzi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 560 in the older naming."
+    "ar": "الشهيد سالم راشد غليطه القمزي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Salem Rashid Ghalitha Al Qemzi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -14332,8 +14332,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "صقر بن حمدان بن غانم الفلاحي، وُلد نحو ١٩٢٧، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٣٠٢.",
-    "en": "Saqr bin Hamdan bin Ghanem Al Falahi, born around 1927, was a member of the National Consultative Council in 1971. The street carried the number 302 in the older naming."
+    "ar": "صقر بن حمدان بن غانم الفلاحي، وُلد نحو ١٩٢٧، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Saqr bin Hamdan bin Ghanem Al Falahi, born around 1927, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -14354,8 +14354,8 @@ window.STREETS = [
     "en": "A judge, scholar and jurist in the time of Sheikh Dhiyab bin Essa"
   },
   "story": {
-    "ar": "شبيب بن سعيد آل شبيب المهيري، وُلد نحو ١٦٣٠، قاضٍ وشيخ وعالم وفقيه في عهد الشيخ ذياب بن عيسى، وعاش في منطقة الظفرة في نهاية القرن الثامن عشر. وحمل الشارع في التسمية القديمة الرقم ٥١.",
-    "en": "Shabib bin Saeed Al Shabib Al Muhairi, born around 1630, was a judge, sheikh, scholar and jurist in the time of Sheikh Dhiyab bin Essa, and lived in the Al Dhafra region at the end of the 18th century. The street carried the number 51 in the older naming."
+    "ar": "شبيب بن سعيد آل شبيب المهيري، وُلد نحو ١٦٣٠، قاضٍ وشيخ وعالم وفقيه في عهد الشيخ ذياب بن عيسى، وعاش في منطقة الظفرة في نهاية القرن الثامن عشر.",
+    "en": "Shabib bin Saeed Al Shabib Al Muhairi, born around 1630, was a judge, sheikh, scholar and jurist in the time of Sheikh Dhiyab bin Essa, and lived in the Al Dhafra region at the end of the 18th century."
   },
   "refs": [
     {
@@ -14398,8 +14398,8 @@ window.STREETS = [
     "en": "A scholar of the Al Bateen area of Abu Dhabi"
   },
   "story": {
-    "ar": "سنان بن خادم بن جمعة بن راشد المهيري، وُلد نحو ١٨٨٩، عالم من منطقة البطين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٨٤.",
-    "en": "Sinan bin Khadim bin Juma bin Rashid Al Muhairi, born around 1889, was a scholar of the Al Bateen area in Abu Dhabi. The street carried the number 84 in the older naming."
+    "ar": "سنان بن خادم بن جمعة بن راشد المهيري، وُلد نحو ١٨٨٩، عالم من منطقة البطين في أبوظبي.",
+    "en": "Sinan bin Khadim bin Juma bin Rashid Al Muhairi, born around 1889, was a scholar of the Al Bateen area in Abu Dhabi."
   },
   "refs": [
     {
@@ -14420,8 +14420,8 @@ window.STREETS = [
     "en": "Among the founders of Abu Dhabi Police and the Oman Coast Force"
   },
   "story": {
-    "ar": "سهيل بن محمد بالقاز المهيري، وُلد نحو ١٩٣٣، من قوة ساحل عمان سنة ١٩٥١، وشارك في حراسة السلع والعديد سنة ١٩٥٥، وهو أحد مؤسسي شرطة أبوظبي، وقد كرّمه وزير الداخلية. وحمل الشارع في التسمية القديمة الرقم ٣٣٥.",
-    "en": "Suhail bin Mohammed Bil Qaz Al Muhairi, born around 1933, was of the Oman Coast Force in 1951, took part in guarding Al Sila' and Al Madid in 1955, and is one of the founders of Abu Dhabi Police; the minister of the interior recognised him. The street carried the number 335 in the older naming."
+    "ar": "سهيل بن محمد بالقاز المهيري، وُلد نحو ١٩٣٣، من قوة ساحل عمان سنة ١٩٥١، وشارك في حراسة السلع والعديد سنة ١٩٥٥، وهو أحد مؤسسي شرطة أبوظبي، وقد كرّمه وزير الداخلية.",
+    "en": "Suhail bin Mohammed Bil Qaz Al Muhairi, born around 1933, was of the Oman Coast Force in 1951, took part in guarding Al Sila' and Al Madid in 1955, and is one of the founders of Abu Dhabi Police; the minister of the interior recognised him."
   },
   "refs": [
     {
@@ -14442,8 +14442,8 @@ window.STREETS = [
     "en": "Dug the bada' of the Mazarei in the Al Dhafra region"
   },
   "story": {
-    "ar": "سهيل بن هلال بن عبدالله المزروعي، وُلد نحو ١٩٢٠، وحفر بدع المزاريع في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٣٦.",
-    "en": "Suhail bin Hilal bin Abdullah Al Mazrouei, born around 1920, dug the bada' of the Mazarei in the Al Dhafra region. The street carried the number 236 in the older naming."
+    "ar": "سهيل بن هلال بن عبدالله المزروعي، وُلد نحو ١٩٢٠، وحفر بدع المزاريع في منطقة الظفرة.",
+    "en": "Suhail bin Hilal bin Abdullah Al Mazrouei, born around 1920, dug the bada' of the Mazarei in the Al Dhafra region."
   },
   "refs": [
     {
@@ -14464,8 +14464,8 @@ window.STREETS = [
     "en": "A poet and companion of Sheikh Zayed bin Sultan, brother of Sheikha Fatima bint Mubarak"
   },
   "story": {
-    "ar": "سهيل بن مبارك بن غانم بن ضاحي الكتبي، وُلد نحو ١٩٤٦، شاعر معروف ومرافق للشيخ زايد بن سلطان آل نهيان، وشقيق الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٢٧.",
-    "en": "Suhail bin Mubarak bin Ghanem bin Dhahi Al Ketbi, born around 1946, was a known poet and companion of Sheikh Zayed bin Sultan Al Nahyan, and the brother of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 527 in the older naming."
+    "ar": "سهيل بن مبارك بن غانم بن ضاحي الكتبي، وُلد نحو ١٩٤٦، شاعر معروف ومرافق للشيخ زايد بن سلطان آل نهيان، وشقيق الشيخة فاطمة بنت مبارك (أم الإمارات).",
+    "en": "Suhail bin Mubarak bin Ghanem bin Dhahi Al Ketbi, born around 1946, was a known poet and companion of Sheikh Zayed bin Sultan Al Nahyan, and the brother of Sheikha Fatima bint Mubarak (Mother of the Nation)."
   },
   "refs": [
     {
@@ -14502,8 +14502,8 @@ window.STREETS = [
     "en": "A known poetess of Abu Dhabi in the time of Sheikh Sultan bin Zayed"
   },
   "story": {
-    "ar": "سهيلة بنت علي بن ميزر بن سعيد الرميثي، وُلدت نحو ١٩١٥، شاعرة معروفة من أهالي أبوظبي في عهد الشيخ سلطان بن زايد. وحمل الشارع في التسمية القديمة الرقم ٣٦٣.",
-    "en": "Suhaila bint Ali bin Mizar bin Saeed Al Rumaithi, born around 1915, was a known poetess of the people of Abu Dhabi in the time of Sheikh Sultan bin Zayed. The street carried the number 363 in the older naming."
+    "ar": "سهيلة بنت علي بن ميزر بن سعيد الرميثي، وُلدت نحو ١٩١٥، شاعرة معروفة من أهالي أبوظبي في عهد الشيخ سلطان بن زايد.",
+    "en": "Suhaila bint Ali bin Mizar bin Saeed Al Rumaithi, born around 1915, was a known poetess of the people of Abu Dhabi in the time of Sheikh Sultan bin Zayed."
   },
   "refs": [
     {
@@ -14541,8 +14541,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan entrusted with administrative tasks in Al Ain"
   },
   "story": {
-    "ar": "سلطان بن علي باليازيه النيادي، وُلد نحو ١٩٢٦، مرافق للشيخ زايد بن سلطان آل نهيان، وأُوكل إليه بعض المهام في الشؤون الإدارية لمنطقة العين. وحمل الشارع في التسمية القديمة الرقم ٥٠٧.",
-    "en": "Sultan bin Ali Bilyazyah Al Neyadi, born around 1926, was a companion of Sheikh Zayed bin Sultan Al Nahyan, entrusted with some administrative tasks in the Al Ain region. The street carried the number 507 in the older naming."
+    "ar": "سلطان بن علي باليازيه النيادي، وُلد نحو ١٩٢٦، مرافق للشيخ زايد بن سلطان آل نهيان، وأُوكل إليه بعض المهام في الشؤون الإدارية لمنطقة العين.",
+    "en": "Sultan bin Ali Bilyazyah Al Neyadi, born around 1926, was a companion of Sheikh Zayed bin Sultan Al Nahyan, entrusted with some administrative tasks in the Al Ain region."
   },
   "refs": [
     {
@@ -14563,8 +14563,8 @@ window.STREETS = [
     "en": "A known man of Al Ain and uncle of Sheikha Fatima bint Mubarak"
   },
   "story": {
-    "ar": "سلطان بن غانم بن ضاحي بن غانم الكتبي، وُلد نحو ١٨٨٨، من الرجال المعروفين في العين، وعم الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٧٤.",
-    "en": "Sultan bin Ghanem bin Dhahi bin Ghanem Al Ketbi, born around 1888, was one of the known men of Al Ain, and the uncle of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 574 in the older naming."
+    "ar": "سلطان بن غانم بن ضاحي بن غانم الكتبي، وُلد نحو ١٨٨٨، من الرجال المعروفين في العين، وعم الشيخة فاطمة بنت مبارك (أم الإمارات).",
+    "en": "Sultan bin Ghanem bin Dhahi bin Ghanem Al Ketbi, born around 1888, was one of the known men of Al Ain, and the uncle of Sheikha Fatima bint Mubarak (Mother of the Nation)."
   },
   "refs": [
     {
@@ -14585,8 +14585,8 @@ window.STREETS = [
     "en": "Secretary general of the Abu Dhabi Executive Council and of the Special Department"
   },
   "story": {
-    "ar": "سلطان بن عبدالله بن غنوم الهاملي، وُلد نحو ١٩٤٦، أمين عام لمجلس أبوظبي التنفيذي، وعمل في الدائرة الخاصة للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٩٤.",
-    "en": "Sultan bin Abdullah bin Ghanoum Al Hameli, born around 1946, was secretary general of the Abu Dhabi Executive Council, and worked in the Special Department of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 94 in the older naming."
+    "ar": "سلطان بن عبدالله بن غنوم الهاملي، وُلد نحو ١٩٤٦، أمين عام لمجلس أبوظبي التنفيذي، وعمل في الدائرة الخاصة للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Sultan bin Abdullah bin Ghanoum Al Hameli, born around 1946, was secretary general of the Abu Dhabi Executive Council, and worked in the Special Department of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -14607,8 +14607,8 @@ window.STREETS = [
     "en": "Took part in the affair of Husn Mazid and member of the National Consultative Council"
   },
   "story": {
-    "ar": "سلطان بن مطر بن مطر الحلامي، وُلد نحو ١٩٢٨، شارك في واقعة حصن مزيد سنة ١٩٥٣، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٨٤.",
-    "en": "Sultan bin Matar bin Matar Al Halami, born around 1928, took part in the affair of Husn Mazid in 1953, and was a member of the National Consultative Council in 1971. The street carried the number 584 in the older naming."
+    "ar": "سلطان بن مطر بن مطر الحلامي، وُلد نحو ١٩٢٨، شارك في واقعة حصن مزيد سنة ١٩٥٣، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Sultan bin Matar bin Matar Al Halami, born around 1928, took part in the affair of Husn Mazid in 1953, and was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -14629,8 +14629,8 @@ window.STREETS = [
     "en": "A known merchant of the diving and pearl trade of Liwa"
   },
   "story": {
-    "ar": "سلطان بن محمد بن راشد بالفارة القبيسي، وُلد نحو ١٩١٥، تاجر معروف في تجارة الغوص واللؤلؤ من أهالي إليوا، وعُرف بالكرم. وحمل الشارع في التسمية القديمة الرقم ٢٠٧.",
-    "en": "Sultan bin Mohammed bin Rashid Bil Farah Al Qubaisi, born around 1915, was a known merchant of the diving and pearl trade of the people of Liwa, known for generosity. The street carried the number 207 in the older naming."
+    "ar": "سلطان بن محمد بن راشد بالفارة القبيسي، وُلد نحو ١٩١٥، تاجر معروف في تجارة الغوص واللؤلؤ من أهالي إليوا، وعُرف بالكرم.",
+    "en": "Sultan bin Mohammed bin Rashid Bil Farah Al Qubaisi, born around 1915, was a known merchant of the diving and pearl trade of the people of Liwa, known for generosity."
   },
   "refs": [
     {
@@ -14673,8 +14673,8 @@ window.STREETS = [
     "en": "Military companion of Sheikh Khalifa bin Zayed and of the Oman Coast Force"
   },
   "story": {
-    "ar": "سلطان بن راشد بن سعيد الظاهري، وُلد نحو ١٩٣٢، التحق بقوة ساحل عمان في بداية حياته، ومرافق عسكري للشيخ خليفة بن زايد آل نهيان، من أهل العين. وحمل الشارع في التسمية القديمة الرقم ٥٨٨.",
-    "en": "Sultan bin Rashid bin Saeed Al Dhaheri, born around 1932, joined the Oman Coast Force at the beginning of his life and was a military companion of Sheikh Khalifa bin Zayed Al Nahyan, of the people of Al Ain. The street carried the number 588 in the older naming."
+    "ar": "سلطان بن راشد بن سعيد الظاهري، وُلد نحو ١٩٣٢، التحق بقوة ساحل عمان في بداية حياته، ومرافق عسكري للشيخ خليفة بن زايد آل نهيان، من أهل العين.",
+    "en": "Sultan bin Rashid bin Saeed Al Dhaheri, born around 1932, joined the Oman Coast Force at the beginning of his life and was a military companion of Sheikh Khalifa bin Zayed Al Nahyan, of the people of Al Ain."
   },
   "refs": [
     {
@@ -14695,8 +14695,8 @@ window.STREETS = [
     "en": "A known poet of Al Ain who excelled in taghrooda poems"
   },
   "story": {
-    "ar": "سلطان بن سيف بن مصبح بن علي بن ساري الكتبي، وُلد نحو ١٩١٩، شاعر معروف من أهل العين، برَع في قصائد التغرودة. وحمل الشارع في التسمية القديمة الرقم ٥٦٢.",
-    "en": "Sultan bin Saif bin Musabah bin Ali bin Sari Al Ketbi, born around 1919, was a known poet of the people of Al Ain who excelled in taghrooda poems. The street carried the number 562 in the older naming."
+    "ar": "سلطان بن سيف بن مصبح بن علي بن ساري الكتبي، وُلد نحو ١٩١٩، شاعر معروف من أهل العين، برَع في قصائد التغرودة.",
+    "en": "Sultan bin Saif bin Musabah bin Ali bin Sari Al Ketbi, born around 1919, was a known poet of the people of Al Ain who excelled in taghrooda poems."
   },
   "refs": [
     {
@@ -14717,8 +14717,8 @@ window.STREETS = [
     "en": "A poet and one of Sheikh Hamdan bin Zayed the First's men"
   },
   "story": {
-    "ar": "سلطان بن سبيع بن مسفر الوبراني الرحمي المنصوري، وُلد نحو ١٨٨٠، شاعر معروف ومن رجال الشيخ حمدان بن زايد الأول، ويُعرف ببداوته وكثرة التنقل بين واحات الظفرة في إليوا. وحمل الشارع في التسمية القديمة الرقم ٧٩٤.",
-    "en": "Sultan bin Subai bin Musaffir Al Wabrani Al Rahami Al Mansouri, born around 1880, was a known poet and one of Sheikh Hamdan bin Zayed the First's men, known for his Bedouin ways and for moving often between the oases of Al Dhafra in Liwa. The street carried the number 794 in the older naming."
+    "ar": "سلطان بن سبيع بن مسفر الوبراني الرحمي المنصوري، وُلد نحو ١٨٨٠، شاعر معروف ومن رجال الشيخ حمدان بن زايد الأول، ويُعرف ببداوته وكثرة التنقل بين واحات الظفرة في إليوا.",
+    "en": "Sultan bin Subai bin Musaffir Al Wabrani Al Rahami Al Mansouri, born around 1880, was a known poet and one of Sheikh Hamdan bin Zayed the First's men, known for his Bedouin ways and for moving often between the oases of Al Dhafra in Liwa."
   },
   "refs": [
     {
@@ -14739,8 +14739,8 @@ window.STREETS = [
     "en": "President of the National Consultative Council and ruler's representative in Jabal Al Dhanna"
   },
   "story": {
-    "ar": "سلطان بن سرور بن سلطان الظاهري، وُلد نحو ١٩٣٧، عُيِّن ممثل الحاكم في جبل الظنة سنة ١٩٦٢ في عهد الشيخ شخبوط بن سلطان آل نهيان، ورئيس المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٦٤٩.",
-    "en": "Sultan bin Suroor bin Sultan Al Dhaheri, born around 1937, was appointed ruler's representative in Jabal Al Dhanna in 1962 in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and president of the National Consultative Council in 1971. The street carried the number 649 in the older naming."
+    "ar": "سلطان بن سرور بن سلطان الظاهري، وُلد نحو ١٩٣٧، عُيِّن ممثل الحاكم في جبل الظنة سنة ١٩٦٢ في عهد الشيخ شخبوط بن سلطان آل نهيان، ورئيس المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Sultan bin Suroor bin Sultan Al Dhaheri, born around 1937, was appointed ruler's representative in Jabal Al Dhanna in 1962 in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and president of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -14761,8 +14761,8 @@ window.STREETS = [
     "en": "A known poet of Al Ain who worked in the oil companies"
   },
   "story": {
-    "ar": "سلطان بن عبيد بن سلطان بن عبدالله بن وقيش الظاهري، وُلد نحو ١٩٤٢، شاعر معروف من أهل العين، وعمل في شركات النفط. وحمل الشارع في التسمية القديمة الرقم ٥٩٧.",
-    "en": "Sultan bin Obaid bin Sultan bin Abdullah bin Wiqaish Al Dhaheri, born around 1942, was a known poet of the people of Al Ain, and worked in the oil companies. The street carried the number 597 in the older naming."
+    "ar": "سلطان بن عبيد بن سلطان بن عبدالله بن وقيش الظاهري، وُلد نحو ١٩٤٢، شاعر معروف من أهل العين، وعمل في شركات النفط.",
+    "en": "Sultan bin Obaid bin Sultan bin Abdullah bin Wiqaish Al Dhaheri, born around 1942, was a known poet of the people of Al Ain, and worked in the oil companies."
   },
   "refs": [
     {
@@ -14783,8 +14783,8 @@ window.STREETS = [
     "en": "A known poet of the people of Abu Dhabi"
   },
   "story": {
-    "ar": "سويدان بن عبيد بن خليفة بن ربيع المهيري، وُلد نحو ١٨٨٤، شاعر معروف من أهل أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٣٨.",
-    "en": "Swaidan bin Obaid bin Khalifa bin Rubaya Al Muhairi, born around 1884, was a known poet of the people of Abu Dhabi. The street carried the number 338 in the older naming."
+    "ar": "سويدان بن عبيد بن خليفة بن ربيع المهيري، وُلد نحو ١٨٨٤، شاعر معروف من أهل أبوظبي.",
+    "en": "Swaidan bin Obaid bin Khalifa bin Rubaya Al Muhairi, born around 1884, was a known poet of the people of Abu Dhabi."
   },
   "refs": [
     {
@@ -14805,8 +14805,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed the First known as Amir Al Jaysh"
   },
   "story": {
-    "ar": "سويدان بن زعل المحيربي، وُلد نحو ١٨٨٠، مرافق للشيخ زايد الأول وأحد رجاله المعروفين بالكرم والفروسية وقوة الشخصية، ويُعرف بـ«أمير الجيش». وحمل الشارع في التسمية القديمة الرقم ٣٣٤.",
-    "en": "Swaidan bin Zaal Al Muhairbi, born around 1880, was a companion of Sheikh Zayed the First and one of his men known for generosity, horsemanship and strength of character, and was known as «Amir Al Jaysh». The street carried the number 334 in the older naming."
+    "ar": "سويدان بن زعل المحيربي، وُلد نحو ١٨٨٠، مرافق للشيخ زايد الأول وأحد رجاله المعروفين بالكرم والفروسية وقوة الشخصية، ويُعرف بـ«أمير الجيش».",
+    "en": "Swaidan bin Zaal Al Muhairbi, born around 1880, was a companion of Sheikh Zayed the First and one of his men known for generosity, horsemanship and strength of character, and was known as «Amir Al Jaysh»."
   },
   "refs": [
     {
@@ -14827,8 +14827,8 @@ window.STREETS = [
     "en": "A teacher known as Al Mutawwa' and a religious notary"
   },
   "story": {
-    "ar": "ثاني بن أحمد بن عفصان المهيري، وُلد نحو ١٨٨٥، معلم ومدرس يُعرف بـ«المطوع» بين أهالي العين، وكان مأذوناً شرعياً في ذلك الزمان. وحمل الشارع في التسمية القديمة الرقم ٦٢٢.",
-    "en": "Thani bin Ahmed bin Afsan Al Muhairi, born around 1885, was a teacher known as «Al Mutawwa'» among the people of Al Ain, and was a religious notary in that time. The street carried the number 622 in the older naming."
+    "ar": "ثاني بن أحمد بن عفصان المهيري، وُلد نحو ١٨٨٥، معلم ومدرس يُعرف بـ«المطوع» بين أهالي العين، وكان مأذوناً شرعياً في ذلك الزمان.",
+    "en": "Thani bin Ahmed bin Afsan Al Muhairi, born around 1885, was a teacher known as «Al Mutawwa'» among the people of Al Ain, and was a religious notary in that time."
   },
   "refs": [
     {
@@ -14849,8 +14849,8 @@ window.STREETS = [
     "ar": "مرافق للشيخ شخبوط من سنة ١٩٢٨"
   },
   "story": {
-    "ar": "ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٨٨٠، رافق الشيخ شخبوط بن سلطان آل نهيان عند رجوعه إلى الحكم من الشارقة سنة ١٩٢٨، واستمر مرافقاً له حتى وفاته. وحمل الشارع في التسمية القديمة الرقم ١٥٩.",
-    "en": "Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1880, accompanied Sheikh Shakhbut bin Sultan Al Nahyan on his return to rule from Sharjah in 1928, and remained his companion until his death. The street carried the number 159 in the older naming."
+    "ar": "ثاني بن مطر بن عبيد بن ميزر الرميثي، وُلد نحو ١٨٨٠، رافق الشيخ شخبوط بن سلطان آل نهيان عند رجوعه إلى الحكم من الشارقة سنة ١٩٢٨، واستمر مرافقاً له حتى وفاته.",
+    "en": "Thani ibn Matar ibn Obaid ibn Mizar Al Rumaithi, born around 1880, accompanied Sheikh Shakhbut bin Sultan Al Nahyan on his return to rule from Sharjah in 1928, and remained his companion until his death."
   },
   "refs": [
     {
@@ -14871,8 +14871,8 @@ window.STREETS = [
     "ar": "عضو المجلس البلدي في أبوظبي ١٩٦٩"
   },
   "story": {
-    "ar": "ثاني بن مرشد بن غنام بن علي الرميثي، وُلد نحو ١٩٢٠، وكُلف بتأمين معسكر رأس الصدر سنة ١٩٤٩، وعمل مندوباً للحاكم لدى شركات طريف سنة ١٩٦٣، وكان عضواً في المجلس البلدي في أبوظبي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ٧١.",
-    "en": "Thani ibn Murshid ibn Ghannam ibn Ali Al Rumaithi, born around 1920, was tasked with securing the Ras al-Sadr camp in 1949, served as the Ruler's representative to the Tarif companies in 1963, and was a member of the municipal council in Abu Dhabi in 1969. The street carried the number 71 in the older naming."
+    "ar": "ثاني بن مرشد بن غنام بن علي الرميثي، وُلد نحو ١٩٢٠، وكُلف بتأمين معسكر رأس الصدر سنة ١٩٤٩، وعمل مندوباً للحاكم لدى شركات طريف سنة ١٩٦٣، وكان عضواً في المجلس البلدي في أبوظبي سنة ١٩٦٩.",
+    "en": "Thani ibn Murshid ibn Ghannam ibn Ali Al Rumaithi, born around 1920, was tasked with securing the Ras al-Sadr camp in 1949, served as the Ruler's representative to the Tarif companies in 1963, and was a member of the municipal council in Abu Dhabi in 1969."
   },
   "refs": [
     {
@@ -14893,8 +14893,8 @@ window.STREETS = [
     "en": "A merchant and wutwashi, chairman of the Dalma Cooperative Society"
   },
   "story": {
-    "ar": "ياعد بن سالم بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٢٠، تاجر وطواش، وأُوكلت إليه مهام الشؤون الإدارية في جزيرة دلما، وعُيِّن رئيساً لجمعية دلما التعاونية. وحمل الشارع في التسمية القديمة الرقم ٧٧٣.",
-    "en": "Yaed bin Salem bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1920, was a merchant and wutwashi, entrusted with the administrative affairs of Dalma Island, and appointed chairman of the Dalma Cooperative Society. The street carried the number 773 in the older naming."
+    "ar": "ياعد بن سالم بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٢٠، تاجر وطواش، وأُوكلت إليه مهام الشؤون الإدارية في جزيرة دلما، وعُيِّن رئيساً لجمعية دلما التعاونية.",
+    "en": "Yaed bin Salem bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1920, was a merchant and wutwashi, entrusted with the administrative affairs of Dalma Island, and appointed chairman of the Dalma Cooperative Society."
   },
   "refs": [
     {
@@ -14915,8 +14915,8 @@ window.STREETS = [
     "en": "A judge in maritime cases in Abu Dhabi"
   },
   "story": {
-    "ar": "يوسف بن أحمد بن عفصان المهيري، وُلد نحو ١٨٦٤، قاضٍ في قضايا البحور في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢١٤.",
-    "en": "Yousef bin Ahmed bin Afsan Al Muhairi, born around 1864, was a judge in maritime cases in Abu Dhabi. The street carried the number 214 in the older naming."
+    "ar": "يوسف بن أحمد بن عفصان المهيري، وُلد نحو ١٨٦٤، قاضٍ في قضايا البحور في أبوظبي.",
+    "en": "Yousef bin Ahmed bin Afsan Al Muhairi, born around 1864, was a judge in maritime cases in Abu Dhabi."
   },
   "refs": [
     {
@@ -14937,8 +14937,8 @@ window.STREETS = [
     "en": "A scholar in Abu Dhabi in 1869"
   },
   "story": {
-    "ar": "يوسف بن سهيل بن ناشر القمزي، وُلد نحو ١٨١٩، شيخ علم في أبوظبي سنة ١٨٦٩. وحمل الشارع في التسمية القديمة الرقم ١١٦.",
-    "en": "Yousef bin Suhail bin Nashir Al Qamzi, born around 1819, was a scholar in Abu Dhabi in 1869. The street carried the number 116 in the older naming."
+    "ar": "يوسف بن سهيل بن ناشر القمزي، وُلد نحو ١٨١٩، شيخ علم في أبوظبي سنة ١٨٦٩.",
+    "en": "Yousef bin Suhail bin Nashir Al Qamzi, born around 1819, was a scholar in Abu Dhabi in 1869."
   },
   "refs": [
     {
@@ -14959,8 +14959,8 @@ window.STREETS = [
     "en": "A scholar in Abu Dhabi in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "زعل بن راشد الرميثي، وُلد نحو ١٨٨٠، شيخ علم في أبوظبي في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ١٠٤.",
-    "en": "Zaal bin Rashid Al Rumaithi, born around 1880, was a scholar in Abu Dhabi in the time of Sheikh Zayed the First (1855–1909). The street carried the number 104 in the older naming."
+    "ar": "زعل بن راشد الرميثي، وُلد نحو ١٨٨٠، شيخ علم في أبوظبي في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Zaal bin Rashid Al Rumaithi, born around 1880, was a scholar in Abu Dhabi in the time of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -14981,8 +14981,8 @@ window.STREETS = [
     "en": "A known poet of the people of Liwa"
   },
   "story": {
-    "ar": "زعل بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٩٨، شاعر معروف من أهل إليوا. وحمل الشارع في التسمية القديمة الرقم ٧٥٧.",
-    "en": "Zaal bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1898, was a known poet of the people of Liwa. The street carried the number 757 in the older naming."
+    "ar": "زعل بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٩٨، شاعر معروف من أهل إليوا.",
+    "en": "Zaal bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1898, was a known poet of the people of Liwa."
   },
   "refs": [
     {
@@ -15003,8 +15003,8 @@ window.STREETS = [
     "en": "Governor of Liwa under Sultan bin Zayed the First, nicknamed Abu Al Dahham"
   },
   "story": {
-    "ar": "زايد بن خلفان بن حمد بو حميّد المزروعي، وُلد نحو ١٨٩٢، والي إليوا في عهد سلطان بن زايد الأول، ويُعرف بـ«أبو الدحام». وحمل الشارع في التسمية القديمة الرقم ٢٣٩.",
-    "en": "Zayed bin Khalfan bin Hamd Bu Humaid Al Mazrouei, born around 1892, was governor of Liwa under Sultan bin Zayed the First, and was known as «Abu Al Dahham». The street carried the number 239 in the older naming."
+    "ar": "زايد بن خلفان بن حمد بو حميّد المزروعي، وُلد نحو ١٨٩٢، والي إليوا في عهد سلطان بن زايد الأول، ويُعرف بـ«أبو الدحام».",
+    "en": "Zayed bin Khalfan bin Hamd Bu Humaid Al Mazrouei, born around 1892, was governor of Liwa under Sultan bin Zayed the First, and was known as «Abu Al Dahham»."
   },
   "refs": [
     {
@@ -15025,8 +15025,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "زيتون بن محمد بن زيتون الشعري المنصوري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٧٥.",
-    "en": "Zaytoun bin Mohammed bin Zaytoun Al Shaari Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 275 in the older naming."
+    "ar": "زيتون بن محمد بن زيتون الشعري المنصوري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Zaytoun bin Mohammed bin Zaytoun Al Shaari Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -15358,8 +15358,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد عبدالله احمد عبدالله احمد الحوسني، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٣٩.",
-    "en": "The martyr Abdullah Ahmed Abdullah Ahmed Al Hosani is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 339 in the older naming."
+    "ar": "الشهيد عبدالله احمد عبدالله احمد الحوسني، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Abdullah Ahmed Abdullah Ahmed Al Hosani is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15380,8 +15380,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد عبدالله محمد عيسى عبيد الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦١.",
-    "en": "The martyr Abdullah Mohammed Essa Obaid Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 561 in the older naming."
+    "ar": "الشهيد عبدالله محمد عيسى عبيد الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Abdullah Mohammed Essa Obaid Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15402,8 +15402,8 @@ window.STREETS = [
     "en": "A teacher and scholar who led Abu Dhabi's mosques"
   },
   "story": {
-    "ar": "عبدالله بن عبدالرحيم الوسواسي، وُلد نحو ١٩٢٠، معلم وشيخ علم أمّ عدة مساجد في أبوظبي، منها مسجد حامد بن بطي ومسجد عتيج بن عريان ومسجد بن حريف. وحمل الشارع في التسمية القديمة الرقم ٧٥.",
-    "en": "Abdullah bin Abdulrahim Al Waswasi, born around 1920, was a teacher and scholar who led prayers at several mosques in Abu Dhabi, among them Hamid bin Butti, Otaij bin Urayyan and Bin Hurayf. The street carried the number 75 in the older naming."
+    "ar": "عبدالله بن عبدالرحيم الوسواسي، وُلد نحو ١٩٢٠، معلم وشيخ علم أمّ عدة مساجد في أبوظبي، منها مسجد حامد بن بطي ومسجد عتيج بن عريان ومسجد بن حريف.",
+    "en": "Abdullah bin Abdulrahim Al Waswasi, born around 1920, was a teacher and scholar who led prayers at several mosques in Abu Dhabi, among them Hamid bin Butti, Otaij bin Urayyan and Bin Hurayf."
   },
   "refs": [
     {
@@ -15424,8 +15424,8 @@ window.STREETS = [
     "en": "A judge and head of the aflaj committee"
   },
   "story": {
-    "ar": "عبدالله بن هلال سعيد سلطان أحمد سلطان الكويتي، وُلد نحو ١٩٢٣، قاضٍ وعضو المجلس الاستشاري وعضو لجنة المصالحة ورئيس لجنة الأفلاج، وأُوكلت إليه مسؤولية جمع الزكاة سنة ١٩٥٣. وحمل الشارع في التسمية القديمة الرقم ٥٩٣.",
-    "en": "Abdullah bin Hilal Saeed Sultan Ahmed Sultan Al Kuwaiti, born around 1923, was a judge, a member of the Advisory Council and of the reconciliation committee, and head of the aflaj committee; in 1953 he was given charge of collecting zakat. The street carried the number 593 in the older naming."
+    "ar": "عبدالله بن هلال سعيد سلطان أحمد سلطان الكويتي، وُلد نحو ١٩٢٣، قاضٍ وعضو المجلس الاستشاري وعضو لجنة المصالحة ورئيس لجنة الأفلاج، وأُوكلت إليه مسؤولية جمع الزكاة سنة ١٩٥٣.",
+    "en": "Abdullah bin Hilal Saeed Sultan Ahmed Sultan Al Kuwaiti, born around 1923, was a judge, a member of the Advisory Council and of the reconciliation committee, and head of the aflaj committee; in 1953 he was given charge of collecting zakat."
   },
   "refs": [
     {
@@ -15468,8 +15468,8 @@ window.STREETS = [
     "en": "Judge, imam and preacher in Abu Dhabi, 1922–1964"
   },
   "story": {
-    "ar": "السيد عبدالرحيم بن تاج الدين الهاشمي، وُلد نحو ١٨٩٤، قاضٍ وإمام مسجد وخطيب في أبوظبي من سنة ١٩٢٢ إلى سنة ١٩٦٤. وحمل الشارع في التسمية القديمة الرقم ٢٧١.",
-    "en": "Sayyid Abdulrahim bin Taj al-Din Al Hashemi, born around 1894, was a judge, mosque imam and preacher in Abu Dhabi from 1922 to 1964. The street carried the number 271 in the older naming."
+    "ar": "السيد عبدالرحيم بن تاج الدين الهاشمي، وُلد نحو ١٨٩٤، قاضٍ وإمام مسجد وخطيب في أبوظبي من سنة ١٩٢٢ إلى سنة ١٩٦٤.",
+    "en": "Sayyid Abdulrahim bin Taj al-Din Al Hashemi, born around 1894, was a judge, mosque imam and preacher in Abu Dhabi from 1922 to 1964."
   },
   "refs": [
     {
@@ -15490,8 +15490,8 @@ window.STREETS = [
     "en": "Secretary to Sheikh Zayed and a member of the Al Ain Municipal Council"
   },
   "story": {
-    "ar": "أحمد بن المحمود البلوشي، وُلد في منطقة الخريس في الجيمي سنة ١٩٢٣، وعمل سكرتيراً للشيخ زايد منذ سنة ١٩٥٢ وحتى قيام دولة الإمارات العربية المتحدة، وكان عضواً في المجلس الاستشاري لإمارة أبوظبي وعضواً في المجلس البلدي لمدينة العين. وحمل الشارع في التسمية القديمة الرقم ٦٥١.",
-    "en": "Ahmed bin Al Mahmoud Al Blooshi, born in the Al Kharees area of Al Jimi in 1923, worked as secretary to Sheikh Zayed from 1952 until the establishment of the United Arab Emirates, and was a member of the Consultative Council of the Emirate of Abu Dhabi and of the Municipal Council of Al Ain city. The street carried the number 651 in the older naming."
+    "ar": "أحمد بن المحمود البلوشي، وُلد في منطقة الخريس في الجيمي سنة ١٩٢٣، وعمل سكرتيراً للشيخ زايد منذ سنة ١٩٥٢ وحتى قيام دولة الإمارات العربية المتحدة، وكان عضواً في المجلس الاستشاري لإمارة أبوظبي وعضواً في المجلس البلدي لمدينة العين.",
+    "en": "Ahmed bin Al Mahmoud Al Blooshi, born in the Al Kharees area of Al Jimi in 1923, worked as secretary to Sheikh Zayed from 1952 until the establishment of the United Arab Emirates, and was a member of the Consultative Council of the Emirate of Abu Dhabi and of the Municipal Council of Al Ain city."
   },
   "refs": [
     {
@@ -15512,8 +15512,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد احمد خليفه سالم على البلوشي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٩٠.",
-    "en": "The martyr Ahmed Khalifa Salem Ali Al Blooshi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 590 in the older naming."
+    "ar": "الشهيد احمد خليفه سالم على البلوشي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Ahmed Khalifa Salem Ali Al Blooshi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15599,8 +15599,8 @@ window.STREETS = [
     "en": "A known poet nicknamed Al Keif, known for the taghrooda"
   },
   "story": {
-    "ar": "علي بن علي بن ثعيلب بن العطيب الحليطي العامري، وُلد نحو ١٩٢٢، شاعر معروف، ويُكنى بـ«الكيف»، واشتهر بالتغرودة الإماراتية. وحمل الشارع في التسمية القديمة الرقم ٦٤٧.",
-    "en": "Ali bin Ali bin Thuailab bin Al Ateeb Al Hulaiti Al Ameri, born around 1922, was a known poet nicknamed «Al Keif», and was known for the Emirati taghrooda. The street carried the number 647 in the older naming."
+    "ar": "علي بن علي بن ثعيلب بن العطيب الحليطي العامري، وُلد نحو ١٩٢٢، شاعر معروف، ويُكنى بـ«الكيف»، واشتهر بالتغرودة الإماراتية.",
+    "en": "Ali bin Ali bin Thuailab bin Al Ateeb Al Hulaiti Al Ameri, born around 1922, was a known poet nicknamed «Al Keif», and was known for the Emirati taghrooda."
   },
   "refs": [
     {
@@ -15638,8 +15638,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد على ناصر سالم سيف الخيلي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٣٠.",
-    "en": "The martyr Ali Nasser Salem Saif Al Khyeli is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 530 in the older naming."
+    "ar": "الشهيد على ناصر سالم سيف الخيلي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Ali Nasser Salem Saif Al Khyeli is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15660,8 +15660,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد على سعيد على خرباش الساعدي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٠٩.",
-    "en": "The martyr Ali Saeed Ali Kharbash Al Saedi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 509 in the older naming."
+    "ar": "الشهيد على سعيد على خرباش الساعدي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Ali Saeed Ali Kharbash Al Saedi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15682,8 +15682,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan who worked in Al Ain departments"
   },
   "story": {
-    "ar": "عامر بن قانوش بن محمد العامري، وُلد نحو ١٩٤٢، مرافق للشيخ زايد بن سلطان آل نهيان، وعمل في الدائرة الخاصة ودائرة الزراعة في العين. وحمل الشارع في التسمية القديمة الرقم ٦٢٦.",
-    "en": "Amer bin Qanosh bin Mohammed Al Ameri, born around 1942, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and worked in the Special Department and the Agriculture Department in Al Ain. The street carried the number 626 in the older naming."
+    "ar": "عامر بن قانوش بن محمد العامري، وُلد نحو ١٩٤٢، مرافق للشيخ زايد بن سلطان آل نهيان، وعمل في الدائرة الخاصة ودائرة الزراعة في العين.",
+    "en": "Amer bin Qanosh bin Mohammed Al Ameri, born around 1942, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and worked in the Special Department and the Agriculture Department in Al Ain."
   },
   "refs": [
     {
@@ -15704,8 +15704,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد بطى عائل مسفر عائل الاحبابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٤١.",
-    "en": "The martyr Butti Ayel Musaffir Ayel Al Ahbabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 541 in the older naming."
+    "ar": "الشهيد بطى عائل مسفر عائل الاحبابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Butti Ayel Musaffir Ayel Al Ahbabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15726,8 +15726,8 @@ window.STREETS = [
     "en": "A poet and narrator of folk poetry versed in UAE tribal genealogies"
   },
   "story": {
-    "ar": "عيد بن سعيد بن عيد بن حسين الغفلي، وُلد نحو ١٩٢٨، شاعر ومُلمّ بتاريخ المنطقة وأحداثها، وراوٍ للشعر الشعبي، وعارف بأنساب قبائل الإمارات، وتوفي سنة ٢٠١٣. وحمل الشارع في التسمية القديمة الرقم ٥٧٩.",
-    "en": "Eid bin Saeed bin Eid bin Hussein Al Ghafli, born around 1928, was a poet versed in the history of the region and its events, a narrator of folk poetry, and versed in the genealogies of the UAE tribes; he died in 2013. The street carried the number 579 in the older naming."
+    "ar": "عيد بن سعيد بن عيد بن حسين الغفلي، وُلد نحو ١٩٢٨، شاعر ومُلمّ بتاريخ المنطقة وأحداثها، وراوٍ للشعر الشعبي، وعارف بأنساب قبائل الإمارات، وتوفي سنة ٢٠١٣.",
+    "en": "Eid bin Saeed bin Eid bin Hussein Al Ghafli, born around 1928, was a poet versed in the history of the region and its events, a narrator of folk poetry, and versed in the genealogies of the UAE tribes; he died in 2013."
   },
   "refs": [
     {
@@ -15748,8 +15748,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "ar": "فهد بن معيض بن خليان الأحبابي، وُلد نحو ١٩٢٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٢٩.",
-    "en": "Fahad bin Muaid bin Khalian Al Ahbabi, born around 1920, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 629 in the older naming."
+    "ar": "فهد بن معيض بن خليان الأحبابي، وُلد نحو ١٩٢٠، مرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Fahad bin Muaid bin Khalian Al Ahbabi, born around 1920, was a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -15770,8 +15770,8 @@ window.STREETS = [
     "en": "A senior pearl merchant of Dalma who built a mosque there"
   },
   "story": {
-    "ar": "فهد بن راشد الدوسري، وُلد نحو ١٨٨٦، من كبار تجار اللؤلؤ في دلما، وبنى مسجداً يُعرف باسمه في عهد الشيخ شخبوط بن سلطان آل نهيان في جزيرة دلما. وحمل الشارع في التسمية القديمة الرقم ٧٨١.",
-    "en": "Fahad bin Rashid Al Dosari, born around 1886, was one of the senior pearl merchants of Dalma, and built a mosque known by his name under Sheikh Shakhbut bin Sultan Al Nahyan on Dalma Island. The street carried the number 781 in the older naming."
+    "ar": "فهد بن راشد الدوسري، وُلد نحو ١٨٨٦، من كبار تجار اللؤلؤ في دلما، وبنى مسجداً يُعرف باسمه في عهد الشيخ شخبوط بن سلطان آل نهيان في جزيرة دلما.",
+    "en": "Fahad bin Rashid Al Dosari, born around 1886, was one of the senior pearl merchants of Dalma, and built a mosque known by his name under Sheikh Shakhbut bin Sultan Al Nahyan on Dalma Island."
   },
   "refs": [
     {
@@ -15792,8 +15792,8 @@ window.STREETS = [
     "en": "Chief of the Habab tribe and member of the National Consultative Council"
   },
   "story": {
-    "ar": "فلاح بن جابر بن مفرح بن حويمل بن جهيم الاحبابي، وُلد نحو ١٨٩٩، مرافق للشيخ زايد بن سلطان آل نهيان، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١، وكبير قبيلة الحباب في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٣١.",
-    "en": "Falah bin Jaber bin Mufarrah bin Huwaimil bin Juhaim Al Ahbabi, born around 1899, was a companion of Sheikh Zayed bin Sultan Al Nahyan, a member of the National Consultative Council in 1971, and chief of the Habab tribe in Abu Dhabi. The street carried the number 631 in the older naming."
+    "ar": "فلاح بن جابر بن مفرح بن حويمل بن جهيم الاحبابي، وُلد نحو ١٨٩٩، مرافق للشيخ زايد بن سلطان آل نهيان، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١، وكبير قبيلة الحباب في أبوظبي.",
+    "en": "Falah bin Jaber bin Mufarrah bin Huwaimil bin Juhaim Al Ahbabi, born around 1899, was a companion of Sheikh Zayed bin Sultan Al Nahyan, a member of the National Consultative Council in 1971, and chief of the Habab tribe in Abu Dhabi."
   },
   "refs": [
     {
@@ -15836,8 +15836,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد جمعه محمد عبدالله يليل الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٨١.",
-    "en": "The martyr Juma Mohammed Abdullah Yalil Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 381 in the older naming."
+    "ar": "الشهيد جمعه محمد عبدالله يليل الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Juma Mohammed Abdullah Yalil Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15858,8 +15858,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Khalifa bin Zayed the First who practised pearl diving"
   },
   "story": {
-    "ar": "خليفة بن خليفة بالقوبع الحميري، وُلد نحو ١٨٤٥، مرافق للشيخ خليفة بن زايد الأول، امتهن في بداية حياته مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٢٤٧.",
-    "en": "Khalifa bin Khalifa Bilqouba Al Humairi, born around 1845, was a companion of Sheikh Khalifa bin Zayed the First, and practised pearl diving at the beginning of his life. The street carried the number 247 in the older naming."
+    "ar": "خليفة بن خليفة بالقوبع الحميري، وُلد نحو ١٨٤٥، مرافق للشيخ خليفة بن زايد الأول، امتهن في بداية حياته مهنة الغوص.",
+    "en": "Khalifa bin Khalifa Bilqouba Al Humairi, born around 1845, was a companion of Sheikh Khalifa bin Zayed the First, and practised pearl diving at the beginning of his life."
   },
   "refs": [
     {
@@ -15880,8 +15880,8 @@ window.STREETS = [
     "en": "A notable of Abu Dhabi and elder of the Dhailat of Banu Yas"
   },
   "story": {
-    "ar": "خليفة بن خميس بن قريش الدحيلي السويدي، وُلد نحو ١٩٠٠، من رجالات أبوظبي، كبير الدحيلات من بني ياس، وورد ذكره في الوثائق البريطانية سنة ١٩٥٥. وحمل الشارع في التسمية القديمة الرقم ٢٢٤.",
-    "en": "Khalifa bin Khamis bin Quraish Al Dehaili Al Suwaidi, born around 1900, was one of the notables of Abu Dhabi and elder of the Dhailat of Banu Yas; he is mentioned in the British documents of 1955. The street carried the number 224 in the older naming."
+    "ar": "خليفة بن خميس بن قريش الدحيلي السويدي، وُلد نحو ١٩٠٠، من رجالات أبوظبي، كبير الدحيلات من بني ياس، وورد ذكره في الوثائق البريطانية سنة ١٩٥٥.",
+    "en": "Khalifa bin Khamis bin Quraish Al Dehaili Al Suwaidi, born around 1900, was one of the notables of Abu Dhabi and elder of the Dhailat of Banu Yas; he is mentioned in the British documents of 1955."
   },
   "refs": [
     {
@@ -15902,8 +15902,8 @@ window.STREETS = [
     "en": "A mutawwa'a and teacher known as Al Mutawwa'a in Abu Dhabi and Al Ain"
   },
   "story": {
-    "ar": "كنه بنت سعيد بن بروك الحميري، وُلدت نحو ١٩٢٠، مطوعة ومُدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي أبوظبي والعين. وحمل الشارع في التسمية القديمة الرقم ٢٠١.",
-    "en": "Kunna bint Saeed bin Burook Al Humairi, born around 1920, was a mutawwa'a, teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Abu Dhabi and Al Ain. The street carried the number 201 in the older naming."
+    "ar": "كنه بنت سعيد بن بروك الحميري، وُلدت نحو ١٩٢٠، مطوعة ومُدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي أبوظبي والعين.",
+    "en": "Kunna bint Saeed bin Burook Al Humairi, born around 1920, was a mutawwa'a, teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Abu Dhabi and Al Ain."
   },
   "refs": [
     {
@@ -15924,8 +15924,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council and the Municipal Council"
   },
   "story": {
-    "ar": "محمد بن عبدالله بن بروك الحميري، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو المجلس البلدي في أبوظبي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ١٨٥.",
-    "en": "Mohammed bin Abdullah bin Burook Al Humairi, born around 1930, was a member of the National Consultative Council in 1971 and of the Municipal Council in Abu Dhabi in 1969. The street carried the number 185 in the older naming."
+    "ar": "محمد بن عبدالله بن بروك الحميري، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو المجلس البلدي في أبوظبي سنة ١٩٦٩.",
+    "en": "Mohammed bin Abdullah bin Burook Al Humairi, born around 1930, was a member of the National Consultative Council in 1971 and of the Municipal Council in Abu Dhabi in 1969."
   },
   "refs": [
     {
@@ -15968,8 +15968,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد على محمد زينل البستكي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ١٩٦.",
-    "en": "The martyr Mohammed Ali Mohammed Zainal Al Bastaki is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 196 in the older naming."
+    "ar": "الشهيد محمد على محمد زينل البستكي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Ali Mohammed Zainal Al Bastaki is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -15990,8 +15990,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد على حسن احمد الحوسني، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٣٠.",
-    "en": "The martyr Mohammed Ali Hassan Ahmed Al Hosani is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 330 in the older naming."
+    "ar": "الشهيد محمد على حسن احمد الحوسني، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Ali Hassan Ahmed Al Hosani is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16012,8 +16012,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد جاسم صالح تقى الحمادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٣٧.",
-    "en": "The martyr Mohammed Jassim Saleh Taqi Al Hammadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 337 in the older naming."
+    "ar": "الشهيد محمد جاسم صالح تقى الحمادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Jassim Saleh Taqi Al Hammadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16034,8 +16034,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد خلفان عبدالله سليم السيابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٩٨.",
-    "en": "The martyr Mohammed Khalfan Abdullah Saleem Al Seyabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 298 in the older naming."
+    "ar": "الشهيد محمد خلفان عبدالله سليم السيابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Khalfan Abdullah Saleem Al Seyabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16056,8 +16056,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد سالم صالح عبدالله الجنيبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ١١٧.",
-    "en": "The martyr Mohammed Salem Saleh Abdullah Al Junaibi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 117 in the older naming."
+    "ar": "الشهيد محمد سالم صالح عبدالله الجنيبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Salem Saleh Abdullah Al Junaibi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16078,8 +16078,8 @@ window.STREETS = [
     "en": "Judge of Al Ain city in 1947"
   },
   "story": {
-    "ar": "السيد محمد بن السيد عبدالرحيم بن تاج الدين الهاشمي، وُلد نحو ١٨٨٧، قاضي في مدينة العين سنة ١٩٤٧ في عهد الشيخ زايد بن سلطان آل نهيان، وتوفي سنة ١٩٥٢. وحمل الشارع في التسمية القديمة الرقم ٥٢٦.",
-    "en": "Sayyid Mohammed bin Sayyid Abdulrahim bin Taj Al Din Al Hashemi, born around 1887, was a judge in Al Ain city in 1947 in the time of Sheikh Zayed bin Sultan Al Nahyan; he died in 1952. The street carried the number 526 in the older naming."
+    "ar": "السيد محمد بن السيد عبدالرحيم بن تاج الدين الهاشمي، وُلد نحو ١٨٨٧، قاضي في مدينة العين سنة ١٩٤٧ في عهد الشيخ زايد بن سلطان آل نهيان، وتوفي سنة ١٩٥٢.",
+    "en": "Sayyid Mohammed bin Sayyid Abdulrahim bin Taj Al Din Al Hashemi, born around 1887, was a judge in Al Ain city in 1947 in the time of Sheikh Zayed bin Sultan Al Nahyan; he died in 1952."
   },
   "refs": [
     {
@@ -16100,8 +16100,8 @@ window.STREETS = [
     "en": "One of the judges of Abu Dhabi"
   },
   "story": {
-    "ar": "محمد بن أحمد الشنقيطي، وُلد نحو ١٩٠٩، قاضي من قضاة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٣٢.",
-    "en": "Mohammed bin Ahmed Al Shinqiti, born around 1909, was one of the judges of Abu Dhabi. The street carried the number 232 in the older naming."
+    "ar": "محمد بن أحمد الشنقيطي، وُلد نحو ١٩٠٩، قاضي من قضاة أبوظبي.",
+    "en": "Mohammed bin Ahmed Al Shinqiti, born around 1909, was one of the judges of Abu Dhabi."
   },
   "refs": [
     {
@@ -16122,8 +16122,8 @@ window.STREETS = [
     "en": "Among the first in the Oman Coast Force"
   },
   "story": {
-    "ar": "محمد بن حمد الشرقي العامري، وُلد نحو ١٩٣٠، من الأوائل في قوة ساحل عمان. وحمل الشارع في التسمية القديمة الرقم ٥٤٣.",
-    "en": "Mohammed bin Hamad Al Sharqi Al Ameri, born around 1930, was among the first in the Oman Coast Force. The street carried the number 543 in the older naming."
+    "ar": "محمد بن حمد الشرقي العامري، وُلد نحو ١٩٣٠، من الأوائل في قوة ساحل عمان.",
+    "en": "Mohammed bin Hamad Al Sharqi Al Ameri, born around 1930, was among the first in the Oman Coast Force."
   },
   "refs": [
     {
@@ -16161,8 +16161,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "محمد بن مرشد بن مانع الحميري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٩١.",
-    "en": "Mohammed bin Murshid bin Mana Al Humairi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 291 in the older naming."
+    "ar": "محمد بن مرشد بن مانع الحميري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Mohammed bin Murshid bin Mana Al Humairi, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -16183,8 +16183,8 @@ window.STREETS = [
     "en": "A teacher at Al Nahyania School and the Agricultural School"
   },
   "story": {
-    "ar": "محمد بن راشد آل جمعة التميمي، وُلد نحو ١٩١٦، معلم ومدرس في مدرسة النهيانية سنة ١٩٥٩، وسكن في منطقة المويجعي، ثم انتقل إلى المدرسة الفلاحية في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٣٥.",
-    "en": "Mohammed bin Rashid Al Juma Al Tamimi, born around 1916, was a teacher at Al Nahyania School in 1959; he lived in the Al Muwaiji area, then moved to the Agricultural School in Abu Dhabi. The street carried the number 635 in the older naming."
+    "ar": "محمد بن راشد آل جمعة التميمي، وُلد نحو ١٩١٦، معلم ومدرس في مدرسة النهيانية سنة ١٩٥٩، وسكن في منطقة المويجعي، ثم انتقل إلى المدرسة الفلاحية في أبوظبي.",
+    "en": "Mohammed bin Rashid Al Juma Al Tamimi, born around 1916, was a teacher at Al Nahyania School in 1959; he lived in the Al Muwaiji area, then moved to the Agricultural School in Abu Dhabi."
   },
   "refs": [
     {
@@ -16205,8 +16205,8 @@ window.STREETS = [
     "en": "A scholar and jurist who taught at Khalaf Al Otaiba Mosque"
   },
   "story": {
-    "ar": "محمد بن عبدالله بن علي بن مكتوم بن سباع الكندي، وُلد نحو ١٨٤٤، عالم وفقيه يُدرِّس في مسجد خلف العتيبة. وحمل الشارع في التسمية القديمة الرقم ٢٤٩.",
-    "en": "Mohammed bin Abdullah bin Ali bin Maktoum bin Sabaa Al Kindi, born around 1844, was a scholar and jurist who taught at Khalaf Al Otaiba Mosque. The street carried the number 249 in the older naming."
+    "ar": "محمد بن عبدالله بن علي بن مكتوم بن سباع الكندي، وُلد نحو ١٨٤٤، عالم وفقيه يُدرِّس في مسجد خلف العتيبة.",
+    "en": "Mohammed bin Abdullah bin Ali bin Maktoum bin Sabaa Al Kindi, born around 1844, was a scholar and jurist who taught at Khalaf Al Otaiba Mosque."
   },
   "refs": [
     {
@@ -16227,8 +16227,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد خالد محمد ابراهيم الحامدي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٨٠.",
-    "en": "The martyr Mohammed Khaled Mohammed Ibrahim Al Hamdi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 380 in the older naming."
+    "ar": "الشهيد محمد خالد محمد ابراهيم الحامدي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Khaled Mohammed Ibrahim Al Hamdi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16249,8 +16249,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد محمد خميس سعيد خميس الريسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٣٢.",
-    "en": "The martyr Mohammed Khamis Saeed Khamis Al Rayssi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 632 in the older naming."
+    "ar": "الشهيد محمد خميس سعيد خميس الريسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mohammed Khamis Saeed Khamis Al Rayssi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16271,8 +16271,8 @@ window.STREETS = [
     "en": "A known poet of the poets of Al Ain"
   },
   "story": {
-    "ar": "مبارك بن محمد بن سهيل بالسليمي الحبنوني العامري، وُلد نحو ١٨٧٠، شاعر معروف من شعراء أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٢١٢.",
-    "en": "Mubarak bin Mohammed bin Suhail Bil Saleemi Al Habnoni Al Ameri, born around 1870, was a known poet of the poets of the people of Al Ain. The street carried the number 212 in the older naming."
+    "ar": "مبارك بن محمد بن سهيل بالسليمي الحبنوني العامري، وُلد نحو ١٨٧٠، شاعر معروف من شعراء أهالي العين.",
+    "en": "Mubarak bin Mohammed bin Suhail Bil Saleemi Al Habnoni Al Ameri, born around 1870, was a known poet of the poets of the people of Al Ain."
   },
   "refs": [
     {
@@ -16293,8 +16293,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد مبارك سيف مبارك خادم الخيلي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٧٧.",
-    "en": "The martyr Mubarak Saif Mubarak Khadem Al Khaili is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 377 in the older naming."
+    "ar": "الشهيد مبارك سيف مبارك خادم الخيلي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Mubarak Saif Mubarak Khadem Al Khaili is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16315,8 +16315,8 @@ window.STREETS = [
     "en": "A teacher and educator known as Al Mutawwa'a who taught in Abu Dhabi"
   },
   "story": {
-    "ar": "نافجة بنت عبيد بن محمد الطنيجي، وُلدت نحو ١٩١٩، مدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٧٠.",
-    "en": "Nafja bint Obaid bin Mohammed Al Tunaiji, born around 1919, was a teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Abu Dhabi. The street carried the number 270 in the older naming."
+    "ar": "نافجة بنت عبيد بن محمد الطنيجي، وُلدت نحو ١٩١٩، مدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي أبوظبي.",
+    "en": "Nafja bint Obaid bin Mohammed Al Tunaiji, born around 1919, was a teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Abu Dhabi."
   },
   "refs": [
     {
@@ -16353,8 +16353,8 @@ window.STREETS = [
     "en": "One of the Armed Forces men who served long"
   },
   "story": {
-    "ar": "عبيد بن راشد بالعرطى الحميري، وُلد نحو ١٩٤٥، من رجال دولة الإمارات الذين خدموا طويلاً في القوات المسلحة، وشهد لهم بحسن السيرة والأداء. وحمل الشارع في التسمية القديمة الرقم ٥٦٣.",
-    "en": "Obaid bin Rashid Bil Arti Al Humairi, born around 1945, was one of the men of the UAE who served long in the Armed Forces, and were attested for good conduct and performance. The street carried the number 563 in the older naming."
+    "ar": "عبيد بن راشد بالعرطى الحميري، وُلد نحو ١٩٤٥، من رجال دولة الإمارات الذين خدموا طويلاً في القوات المسلحة، وشهد لهم بحسن السيرة والأداء.",
+    "en": "Obaid bin Rashid Bil Arti Al Humairi, born around 1945, was one of the men of the UAE who served long in the Armed Forces, and were attested for good conduct and performance."
   },
   "refs": [
     {
@@ -16391,8 +16391,8 @@ window.STREETS = [
     "en": "Deputy chief of staff of the Armed Forces and under-secretary of Defence"
   },
   "story": {
-    "ar": "الفريق ركن عبيد بن محمد بن عبدالله المكتومي الكعبي، وُلد سنة ١٩٤٧، وكان نائب رئيس أركان القوات المسلحة ثم وكيل وزارة الدفاع، وتقلّد وسام الإمارات العسكري (الطبقة الأولى) ووسام توحيد القوات المسلحة ووسام تحرير الكويت وميدالية قيام الاتحاد وميدالية الخدمة الطويلة الممتازة وميدالية اليوبيل الفضي. وحمل الشارع في التسمية القديمة الرقم ١٩٥.",
-    "en": "Lieutenant General (Staff) Obaid bin Mohammed bin Abdullah Al Maktoumi Al Kaabi, born in 1947, was deputy chief of staff of the Armed Forces and then under-secretary of the Ministry of Defence; he held the UAE Military Medal (First Class), the Armed Forces Unification Medal, the Kuwait Liberation Medal, the Union Establishment Medal, the Long Service Medal and the Silver Jubilee Medal. The street carried the number 195 in the older naming."
+    "ar": "الفريق ركن عبيد بن محمد بن عبدالله المكتومي الكعبي، وُلد سنة ١٩٤٧، وكان نائب رئيس أركان القوات المسلحة ثم وكيل وزارة الدفاع، وتقلّد وسام الإمارات العسكري (الطبقة الأولى) ووسام توحيد القوات المسلحة ووسام تحرير الكويت وميدالية قيام الاتحاد وميدالية الخدمة الطويلة الممتازة وميدالية اليوبيل الفضي.",
+    "en": "Lieutenant General (Staff) Obaid bin Mohammed bin Abdullah Al Maktoumi Al Kaabi, born in 1947, was deputy chief of staff of the Armed Forces and then under-secretary of the Ministry of Defence; he held the UAE Military Medal (First Class), the Armed Forces Unification Medal, the Kuwait Liberation Medal, the Union Establishment Medal, the Long Service Medal and the Silver Jubilee Medal."
   },
   "refs": [
     {
@@ -16413,8 +16413,8 @@ window.STREETS = [
     "en": "A teacher and scholar at Al Otaibiya School from 1923"
   },
   "story": {
-    "ar": "عمر السالك الشنقيطي، وُلد نحو ١٨٦٣، مدرّس وشيخ علم في المدرسة العتيبية من سنة ١٩٢٣. وحمل الشارع في التسمية القديمة الرقم ٢٠٩.",
-    "en": "Omer Al Salek Al Shinqiti, born around 1863, was a teacher and scholar at Al Otaibiya School from 1923. The street carried the number 209 in the older naming."
+    "ar": "عمر السالك الشنقيطي، وُلد نحو ١٨٦٣، مدرّس وشيخ علم في المدرسة العتيبية من سنة ١٩٢٣.",
+    "en": "Omer Al Salek Al Shinqiti, born around 1863, was a teacher and scholar at Al Otaibiya School from 1923."
   },
   "refs": [
     {
@@ -16435,8 +16435,8 @@ window.STREETS = [
     "en": "A notable of the Al Qoa' area of Al Ain and companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "عويص بن علي بن أحمد الدرعي، من أعيان منطقة القوع في مدينة العين، وأحد مرافقي الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٥٢.",
-    "en": "Owais bin Ali bin Ahmed Al Derei was of the notables of the Al Qoa' area in Al Ain city, and one of the companions of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 652 in the older naming."
+    "ar": "عويص بن علي بن أحمد الدرعي، من أعيان منطقة القوع في مدينة العين، وأحد مرافقي الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Owais bin Ali bin Ahmed Al Derei was of the notables of the Al Qoa' area in Al Ain city, and one of the companions of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -16457,8 +16457,8 @@ window.STREETS = [
     "en": "Imam and preacher of the mosque of Sheikha Hessa bint Mohammed bin Khalifa"
   },
   "story": {
-    "ar": "راشد بن سعيد بن سليمان الغيثي، وُلد نحو ١٩٢٣، إمام وخطيب مسجد الشيخة حصة بنت محمد بن خليفة آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٣٦.",
-    "en": "Rashed bin Saeed bin Suleiman Al Ghaithi, born around 1923, was imam and preacher of the mosque of Sheikha Hessa bint Mohammed bin Khalifa Al Nahyan. The street carried the number 636 in the older naming."
+    "ar": "راشد بن سعيد بن سليمان الغيثي، وُلد نحو ١٩٢٣، إمام وخطيب مسجد الشيخة حصة بنت محمد بن خليفة آل نهيان.",
+    "en": "Rashed bin Saeed bin Suleiman Al Ghaithi, born around 1923, was imam and preacher of the mosque of Sheikha Hessa bint Mohammed bin Khalifa Al Nahyan."
   },
   "refs": [
     {
@@ -16479,8 +16479,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سعد محمد صالح سعد الاحبابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٢٨.",
-    "en": "The martyr Saad Mohammed Saleh Saad Al Ahbabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 628 in the older naming."
+    "ar": "الشهيد سعد محمد صالح سعد الاحبابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saad Mohammed Saleh Saad Al Ahbabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16501,8 +16501,8 @@ window.STREETS = [
     "en": "Lived at and maintained the Malad well west of Bu Mareikha in Al Taff"
   },
   "story": {
-    "ar": "سعيد بن حمد بالخالص العامري، وُلد نحو ١٩٠٥، وسكن وأدام طوي ملد غرب بو مريخة في الطف حتى وفاته سنة ١٩٢٥، وعمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٣٥٩.",
-    "en": "Saeed bin Hamad Bil Khalis Al Amri, born around 1905, lived at and maintained the Malad well west of Bu Mareikha in Al Taff until his death in 1925, and worked in pearl diving. The street carried the number 359 in the older naming."
+    "ar": "سعيد بن حمد بالخالص العامري، وُلد نحو ١٩٠٥، وسكن وأدام طوي ملد غرب بو مريخة في الطف حتى وفاته سنة ١٩٢٥، وعمل في مهنة الغوص.",
+    "en": "Saeed bin Hamad Bil Khalis Al Amri, born around 1905, lived at and maintained the Malad well west of Bu Mareikha in Al Taff until his death in 1925, and worked in pearl diving."
   },
   "refs": [
     {
@@ -16523,8 +16523,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "سعيد بن عبدالرحمن بن سعيد الناصري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٣٨.",
-    "en": "Saeed bin Abdulrahman bin Saeed Al Nasri, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 538 in the older naming."
+    "ar": "سعيد بن عبدالرحمن بن سعيد الناصري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Saeed bin Abdulrahman bin Saeed Al Nasri, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -16545,8 +16545,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Rufai'a and was wounded there"
   },
   "story": {
-    "ar": "سعيد بن محمد بن دربش العامري، وُلد نحو ١٩١٠، شارك في واقعة الرفيعه وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٣٩.",
-    "en": "Saeed bin Mohammed bin Darbash Al Ameri, born around 1910, took part in the affair of Al Rufai'a and was wounded there in the late 1940s. The street carried the number 639 in the older naming."
+    "ar": "سعيد بن محمد بن دربش العامري، وُلد نحو ١٩١٠، شارك في واقعة الرفيعه وجرح فيها في أواخر الأربعينات.",
+    "en": "Saeed bin Mohammed bin Darbash Al Ameri, born around 1910, took part in the affair of Al Rufai'a and was wounded there in the late 1940s."
   },
   "refs": [
     {
@@ -16567,8 +16567,8 @@ window.STREETS = [
     "en": "A folk healer, poet and companion of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "سعيد بن عبدالله بن وريقة العامري، وُلد نحو ١٨٦٠، معالج شعبي معروف وشاعر ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٦٢٣.",
-    "en": "Saeed bin Abdullah bin Wariqah Al Ameri, born around 1860, was a known folk healer, poet and companion of Sheikh Zayed the First (1855–1909). The street carried the number 623 in the older naming."
+    "ar": "سعيد بن عبدالله بن وريقة العامري، وُلد نحو ١٨٦٠، معالج شعبي معروف وشاعر ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Saeed bin Abdullah bin Wariqah Al Ameri, born around 1860, was a known folk healer, poet and companion of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -16589,8 +16589,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سعيد محمد ناصر الهاجري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٦٠.",
-    "en": "The martyr Saeed Mohammed Nasser Al Hajeri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 260 in the older naming."
+    "ar": "الشهيد سعيد محمد ناصر الهاجري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saeed Mohammed Nasser Al Hajeri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16611,8 +16611,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and was wounded there"
   },
   "story": {
-    "ar": "سالم بالمر بن ناصر العامري، وُلد نحو ١٩٢٠، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٥٤٠.",
-    "en": "Salem Bilmur bin Nasser Al Ameri, born around 1920, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 540 in the older naming."
+    "ar": "سالم بالمر بن ناصر العامري، وُلد نحو ١٩٢٠، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات.",
+    "en": "Salem Bilmur bin Nasser Al Ameri, born around 1920, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s."
   },
   "refs": [
     {
@@ -16633,8 +16633,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council who received the Abu Dhabi Award"
   },
   "story": {
-    "ar": "سالم بن مسلم بن حم العامري، وُلد نحو ١٩٢٥، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠٠٦. وحمل الشارع في التسمية القديمة الرقم ٦٤٠.",
-    "en": "Salem bin Muslim bin Ham Al Ameri, born around 1925, was a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2006. The street carried the number 640 in the older naming."
+    "ar": "سالم بن مسلم بن حم العامري، وُلد نحو ١٩٢٥، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠٠٦.",
+    "en": "Salem bin Muslim bin Ham Al Ameri, born around 1925, was a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2006."
   },
   "refs": [
     {
@@ -16655,8 +16655,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "سالم بن محمد بن ركاض العامري، وُلد نحو ١٩١٢، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٦٣٤.",
-    "en": "Salem bin Mohammed bin Rakkad Al Ameri, born around 1912, was a member of the National Consultative Council in 1971. The street carried the number 634 in the older naming."
+    "ar": "سالم بن محمد بن ركاض العامري، وُلد نحو ١٩١٢، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Salem bin Mohammed bin Rakkad Al Ameri, born around 1912, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -16677,8 +16677,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Ain"
   },
   "story": {
-    "ar": "سالم بن ثعيلب بن سالم العامري، وُلد نحو ١٨٩٢، شاعر معروف من أهل العين، وتوفي سنة ١٩٧٤. وحمل الشارع في التسمية القديمة الرقم ٢٣١.",
-    "en": "Salem bin Thuaylib bin Salem Al Ameri, born around 1892, was a known poet of the people of Al Ain, and died in 1974. The street carried the number 231 in the older naming."
+    "ar": "سالم بن ثعيلب بن سالم العامري، وُلد نحو ١٨٩٢، شاعر معروف من أهل العين، وتوفي سنة ١٩٧٤.",
+    "en": "Salem bin Thuaylib bin Salem Al Ameri, born around 1892, was a known poet of the people of Al Ain, and died in 1974."
   },
   "refs": [
     {
@@ -16699,8 +16699,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Ain"
   },
   "story": {
-    "ar": "سهيل بن علي بن الأسود بن سليم بلعويني العامري، وُلد نحو ١٨٧٦، شاعر معروف من أهل العين. وحمل الشارع في التسمية القديمة الرقم ٢٦٢.",
-    "en": "Suhail bin Ali bin Al Aswad bin Saleem Bil Aweeni Al Ameri, born around 1876, was a known poet of the people of Al Ain. The street carried the number 262 in the older naming."
+    "ar": "سهيل بن علي بن الأسود بن سليم بلعويني العامري، وُلد نحو ١٨٧٦، شاعر معروف من أهل العين.",
+    "en": "Suhail bin Ali bin Al Aswad bin Saleem Bil Aweeni Al Ameri, born around 1876, was a known poet of the people of Al Ain."
   },
   "refs": [
     {
@@ -16721,8 +16721,8 @@ window.STREETS = [
     "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "ar": "سهيل بالعري باللوتية العامري، وُلد نحو ١٩١٠، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٥٩٤.",
-    "en": "Suhail Bil Arri Biloutaih Al Ameri, born around 1910, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 594 in the older naming."
+    "ar": "سهيل بالعري باللوتية العامري، وُلد نحو ١٩١٠، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات.",
+    "en": "Suhail Bil Arri Biloutaih Al Ameri, born around 1910, took part in the affair of Al Shmeirikhat and died in it in the late 1940s."
   },
   "refs": [
     {
@@ -16743,8 +16743,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد سليمان عبدالله محمد العبري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٨٣.",
-    "en": "The martyr Suleiman Abdullah Mohammed Al Ebri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 283 in the older naming."
+    "ar": "الشهيد سليمان عبدالله محمد العبري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Suleiman Abdullah Mohammed Al Ebri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16765,8 +16765,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد يوسف محمد سالم سليمان الوهيبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٧٨.",
-    "en": "The martyr Yousef Mohammed Salem Suleiman Al Wheibi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 378 in the older naming."
+    "ar": "الشهيد يوسف محمد سالم سليمان الوهيبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Yousef Mohammed Salem Suleiman Al Wheibi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -16809,8 +16809,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد زايد مسلم سهيل مسعود العامري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٨٥.",
-    "en": "The martyr Zayed Musallam Suhail Masoud Al Ameri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 285 in the older naming."
+    "ar": "الشهيد زايد مسلم سهيل مسعود العامري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Zayed Musallam Suhail Masoud Al Ameri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -17616,8 +17616,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد احمد عبدالله احمد عمر، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٧٩.",
-    "en": "The martyr Ahmed Abdullah Ahmed Omar is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 379 in the older naming."
+    "ar": "الشهيد احمد عبدالله احمد عمر، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Ahmed Abdullah Ahmed Omar is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -17638,8 +17638,8 @@ window.STREETS = [
     "en": "A known poet of Al Dhafra with several poetry collections"
   },
   "story": {
-    "ar": "أحمد بن علي الكندي بن علي بوملحا المرر، وُلد نحو ١٩٤٠، شاعر معروف وله عدة دواوين شعر، من أهالي الظفرة، وعمل في الشرطة في إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٧٦٠.",
-    "en": "Ahmed bin Ali Al Kindi bin Ali Bu Melha Al Marar, born around 1940, was a known poet with several poetry collections, of the people of Al Dhafra, and served in the police of the Emirate of Abu Dhabi. The street carried the number 760 in the older naming."
+    "ar": "أحمد بن علي الكندي بن علي بوملحا المرر، وُلد نحو ١٩٤٠، شاعر معروف وله عدة دواوين شعر، من أهالي الظفرة، وعمل في الشرطة في إمارة أبوظبي.",
+    "en": "Ahmed bin Ali Al Kindi bin Ali Bu Melha Al Marar, born around 1940, was a known poet with several poetry collections, of the people of Al Dhafra, and served in the police of the Emirate of Abu Dhabi."
   },
   "refs": [
     {
@@ -17682,8 +17682,8 @@ window.STREETS = [
     "en": "A judge, adviser, scholar, poet and companion of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "علي بن سالم بو ملحا المرر، وُلد نحو ١٨٢٥، قاضٍ ومستشار وشيخ علم وشاعر ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٩٥.",
-    "en": "Ali bin Salem Bu Melha Al Marar, born around 1825, was a judge, adviser, scholar, poet and companion of Sheikh Zayed the First (1855–1909). The street carried the number 95 in the older naming."
+    "ar": "علي بن سالم بو ملحا المرر، وُلد نحو ١٨٢٥، قاضٍ ومستشار وشيخ علم وشاعر ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Ali bin Salem Bu Melha Al Marar, born around 1825, was a judge, adviser, scholar, poet and companion of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -17704,8 +17704,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council and of the Planning Council"
   },
   "story": {
-    "ar": "بطي بن حامد بن بطي خادم بن نهيمان آل حامد القبيسي، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو في مجلس التخطيط سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ١٦٠.",
-    "en": "Butti bin Hamid bin Butti Khadim bin Nuhayman Al Hamed Al Qubaisi, born around 1930, was a member of the National Consultative Council in 1971 and a member of the Planning Council in 1968. The street carried the number 160 in the older naming."
+    "ar": "بطي بن حامد بن بطي خادم بن نهيمان آل حامد القبيسي، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو في مجلس التخطيط سنة ١٩٦٨.",
+    "en": "Butti bin Hamid bin Butti Khadim bin Nuhayman Al Hamed Al Qubaisi, born around 1930, was a member of the National Consultative Council in 1971 and a member of the Planning Council in 1968."
   },
   "refs": [
     {
@@ -20737,8 +20737,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد عبدالعزيز سرحان صالح بخيت الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦٧.",
-    "en": "The martyr Abdelaziz Sarhan Saleh Bakhit Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 567 in the older naming."
+    "ar": "الشهيد عبدالعزيز سرحان صالح بخيت الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Abdelaziz Sarhan Saleh Bakhit Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -20759,8 +20759,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد عبدالحميد سلطان عبدالله الحمادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٤٦.",
-    "en": "The martyr Abdulhameed Sultan Abdullah Al Hammadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 246 in the older naming."
+    "ar": "الشهيد عبدالحميد سلطان عبدالله الحمادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Abdulhameed Sultan Abdullah Al Hammadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -20919,8 +20919,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "عبدالله بن أحمد بن خلف بن عبدالله بن عتيبة العتيبة، وُلد نحو ١٩٣٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٠٦.",
-    "en": "Abdullah bin Ahmed bin Khalaf bin Abdullah bin Otaiba Al Otaiba, born around 1935, was a member of the National Consultative Council in 1971. The street carried the number 106 in the older naming."
+    "ar": "عبدالله بن أحمد بن خلف بن عبدالله بن عتيبة العتيبة، وُلد نحو ١٩٣٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Abdullah bin Ahmed bin Khalaf bin Abdullah bin Otaiba Al Otaiba, born around 1935, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -21036,8 +21036,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "ar": "عبدالله بن حاذه بن عبدالله المرر، وُلد نحو ١٩٤٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣١٠.",
-    "en": "Abdullah bin Hatha bin Abdullah Al Marar, born around 1940, was a known poet of the people of Al Dhafra. The street carried the number 310 in the older naming."
+    "ar": "عبدالله بن حاذه بن عبدالله المرر، وُلد نحو ١٩٤٠، شاعر معروف من أهل الظفرة.",
+    "en": "Abdullah bin Hatha bin Abdullah Al Marar, born around 1940, was a known poet of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -21226,8 +21226,8 @@ window.STREETS = [
     "en": "A scholar under Sheikh Hamdan bin Zayed the First"
   },
   "story": {
-    "ar": "عبداللطيف بن إبراهيم بن عبداللطيف المبارك، وُلد نحو ١٨٦٣، شيخ علم في عهد الشيخ حمدان بن زايد الأول، ودرس في مدرسة العتيبات. وحمل الشارع في التسمية القديمة الرقم ٨١.",
-    "en": "Abdullatif bin Ibrahim bin Abdullatif Al Mubarak, born around 1863, was a scholar under Sheikh Hamdan bin Zayed the First, and studied at Al Otaibat School. The street carried the number 81 in the older naming."
+    "ar": "عبداللطيف بن إبراهيم بن عبداللطيف المبارك، وُلد نحو ١٨٦٣، شيخ علم في عهد الشيخ حمدان بن زايد الأول، ودرس في مدرسة العتيبات.",
+    "en": "Abdullatif bin Ibrahim bin Abdullatif Al Mubarak, born around 1863, was a scholar under Sheikh Hamdan bin Zayed the First, and studied at Al Otaibat School."
   },
   "refs": [
     {
@@ -21316,8 +21316,8 @@ window.STREETS = [
     "en": "A judge, scholar and jurist"
   },
   "story": {
-    "ar": "عبدالرحمن بن علي بن عبدالرحمن بن عبداللطيف المبارك، وُلد نحو ١٩٠٩، قاضٍ وشيخ علم وفقيه، ودرس في أبوظبي وجزيرة دلما في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٤٥.",
-    "en": "Abdulrahman bin Ali bin Abdulrahman bin Abdullatif Al Mubarak, born around 1909, was a judge, scholar and jurist, and studied in Abu Dhabi and on Dalma Island under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 245 in the older naming."
+    "ar": "عبدالرحمن بن علي بن عبدالرحمن بن عبداللطيف المبارك، وُلد نحو ١٩٠٩، قاضٍ وشيخ علم وفقيه، ودرس في أبوظبي وجزيرة دلما في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Abdulrahman bin Ali bin Abdulrahman bin Abdullatif Al Mubarak, born around 1909, was a judge, scholar and jurist, and studied in Abu Dhabi and on Dalma Island under Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -21572,8 +21572,8 @@ window.STREETS = [
     "en": "A scholar and teacher under Sheikh Shakhbut"
   },
   "story": {
-    "ar": "عبدالعزيز بن حمد بن عبداللطيف المبارك، وُلد نحو ١٨٨٨، شيخ علم ومُدرس في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٨١.",
-    "en": "Abdulaziz bin Hamd bin Abdullatif Al Mubarak, born around 1888, was a scholar and teacher under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 281 in the older naming."
+    "ar": "عبدالعزيز بن حمد بن عبداللطيف المبارك، وُلد نحو ١٨٨٨، شيخ علم ومُدرس في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Abdulaziz bin Hamd bin Abdullatif Al Mubarak, born around 1888, was a scholar and teacher under Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -21616,8 +21616,8 @@ window.STREETS = [
     "en": "A poet of Al Dhafra and a companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "ar": "أحمد بن محمد بن مرشد بن أحمد بن بليد المرر، وُلد نحو ١٨٩٩، أحد شعراء الظفرة المعروفين، امتهن الغوص، وأحد مرافقي الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٦١.",
-    "en": "Ahmed bin Mohammed bin Murshid bin Ahmed bin Blaid Al Marar, born around 1899, was one of the known poets of Al Dhafra; he practised pearl diving, and was one of the companions of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 761 in the older naming."
+    "ar": "أحمد بن محمد بن مرشد بن أحمد بن بليد المرر، وُلد نحو ١٨٩٩، أحد شعراء الظفرة المعروفين، امتهن الغوص، وأحد مرافقي الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Ahmed bin Mohammed bin Murshid bin Ahmed bin Blaid Al Marar, born around 1899, was one of the known poets of Al Dhafra; he practised pearl diving, and was one of the companions of Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -21638,8 +21638,8 @@ window.STREETS = [
     "en": "A judge, adviser, scholar and poet under Zayed the First"
   },
   "story": {
-    "ar": "أحمد بن علي بن سالم بوملحا المرر، وُلد نحو ١٨٥٥، قاضٍ ومستشار وشيخ علم وشاعر في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٢٥٩.",
-    "en": "Ahmed bin Ali bin Salem Bu Melha Al Marar, born around 1855, was a judge, adviser, scholar and poet under Sheikh Zayed the First (1855–1909). The street carried the number 259 in the older naming."
+    "ar": "أحمد بن علي بن سالم بوملحا المرر، وُلد نحو ١٨٥٥، قاضٍ ومستشار وشيخ علم وشاعر في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Ahmed bin Ali bin Salem Bu Melha Al Marar, born around 1855, was a judge, adviser, scholar and poet under Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -21660,8 +21660,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "أحمد بن خلفان بن مطر بن جبارة المرر، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٥٥.",
-    "en": "Ahmed bin Khalfan bin Matar bin Jabara Al Marar, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 155 in the older naming."
+    "ar": "أحمد بن خلفان بن مطر بن جبارة المرر، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Ahmed bin Khalfan bin Matar bin Jabara Al Marar, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -21682,8 +21682,8 @@ window.STREETS = [
     "en": "A poet and writer who witnessed the first oil concession agreement of 1939"
   },
   "story": {
-    "ar": "أحمد بن خلف بن عبدالله بن سيف بن بطي عتيبة العتيبة، وُلد نحو ١٨٦٢، شاعر وأديب، وشارك وشاهد على أول اتفاقية امتياز للنفط سنة ١٩٣٩. وحمل الشارع في التسمية القديمة الرقم ٨٨.",
-    "en": "Ahmed bin Khalaf bin Abdullah bin Saif bin Butti Otaiba Al Otaiba, born around 1862, was a poet and writer, and took part in and witnessed the first oil concession agreement in 1939. The street carried the number 88 in the older naming."
+    "ar": "أحمد بن خلف بن عبدالله بن سيف بن بطي عتيبة العتيبة، وُلد نحو ١٨٦٢، شاعر وأديب، وشارك وشاهد على أول اتفاقية امتياز للنفط سنة ١٩٣٩.",
+    "en": "Ahmed bin Khalaf bin Abdullah bin Saif bin Butti Otaiba Al Otaiba, born around 1862, was a poet and writer, and took part in and witnessed the first oil concession agreement in 1939."
   },
   "refs": [
     {
@@ -21704,8 +21704,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council"
   },
   "story": {
-    "ar": "أحمد بن محمد بن عبدالرحيم الفهيم، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعمل قبل قيام الاتحاد في مجال تجارة الغوص واللؤلؤ. وحمل الشارع في التسمية القديمة الرقم ٢٥٦.",
-    "en": "Ahmed bin Mohammed bin Abdulrahim Al Fahim, born around 1930, was a member of the National Consultative Council in 1971, and before the Union worked in the pearl diving and pearl trade. The street carried the number 256 in the older naming."
+    "ar": "أحمد بن محمد بن عبدالرحيم الفهيم، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعمل قبل قيام الاتحاد في مجال تجارة الغوص واللؤلؤ.",
+    "en": "Ahmed bin Mohammed bin Abdulrahim Al Fahim, born around 1930, was a member of the National Consultative Council in 1971, and before the Union worked in the pearl diving and pearl trade."
   },
   "refs": [
     {
@@ -22190,8 +22190,8 @@ window.STREETS = [
     "en": "A judge and known poet in Al Dhafra"
   },
   "story": {
-    "ar": "علي بن الكندي بن علي بن سالم بو ملحا المرر، وُلد نحو ١٩١٠، قاضٍ وشاعر معروف في الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣١٧.",
-    "en": "Ali bin Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1910, was a judge and known poet in Al Dhafra. The street carried the number 317 in the older naming."
+    "ar": "علي بن الكندي بن علي بن سالم بو ملحا المرر، وُلد نحو ١٩١٠، قاضٍ وشاعر معروف في الظفرة.",
+    "en": "Ali bin Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1910, was a judge and known poet in Al Dhafra."
   },
   "refs": [
     {
@@ -22234,8 +22234,8 @@ window.STREETS = [
     "en": "A known poet with 80 poems from Madhhar Attab"
   },
   "story": {
-    "ar": "علي بن مصبح الكندي بن علي بن سالم بوملحا المرر، وُلد نحو ١٩٤٠، شاعر معروف له ٨٠ قصيدة، من محضر عتّاب في إليوا. وحمل الشارع في التسمية القديمة الرقم ١١٢.",
-    "en": "Ali bin Musabah Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1940, was a known poet with 80 poems, from Madhhar Attab in Liwa. The street carried the number 112 in the older naming."
+    "ar": "علي بن مصبح الكندي بن علي بن سالم بوملحا المرر، وُلد نحو ١٩٤٠، شاعر معروف له ٨٠ قصيدة، من محضر عتّاب في إليوا.",
+    "en": "Ali bin Musabah Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1940, was a known poet with 80 poems, from Madhhar Attab in Liwa."
   },
   "refs": [
     {
@@ -23041,8 +23041,8 @@ window.STREETS = [
     "en": "The first government doctor in Al Ain city"
   },
   "story": {
-    "ar": "الدكتور جورج ماثيو، وُلد نحو ١٩٢٠، أول طبيب حكومي في مدينة العين، وكانت له إسهامات في تطوير الطب الحديث، ونال جائزة أبوظبي سنة ٢٠١٧. وحمل الشارع في التسمية القديمة الرقم ٣٧٤.",
-    "en": "Dr George Matthew, born around 1920, was the first government doctor in Al Ain city; he had contributions to the development of modern medicine, and received the Abu Dhabi Award in 2017. The street carried the number 374 in the older naming."
+    "ar": "الدكتور جورج ماثيو، وُلد نحو ١٩٢٠، أول طبيب حكومي في مدينة العين، وكانت له إسهامات في تطوير الطب الحديث، ونال جائزة أبوظبي سنة ٢٠١٧.",
+    "en": "Dr George Matthew, born around 1920, was the first government doctor in Al Ain city; he had contributions to the development of modern medicine, and received the Abu Dhabi Award in 2017."
   },
   "refs": [
     {
@@ -23301,8 +23301,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد هادف حميد مانع ارحمه الشامسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٤٤.",
-    "en": "The martyr Hadef Humaid Manea Arhamah Al Shamsi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 544 in the older naming."
+    "ar": "الشهيد هادف حميد مانع ارحمه الشامسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Hadef Humaid Manea Arhamah Al Shamsi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -23593,8 +23593,8 @@ window.STREETS = [
     "en": "Served in the Armed Forces and received the UAE Military Medal"
   },
   "story": {
-    "ar": "حيي بن جمعة بن حيي بن عباد الهاملي، وُلد سنة ١٩٥٣، وعمل في القوات المسلحة لدولة الإمارات العربية المتحدة، وتقلّد مناصب مدير العمليات ومدير التنظيم والتسليح، ومُنح وسام الإمارات العسكري (الطبقة الأولى) ووسام تحرير الكويت ووسام الخدمة في قوة دفاع أبوظبي وميدالية دمج القوات المسلحة وميدالية الخدمة الطويلة الممتازة، وعُيِّن في السلك الدبلوماسي قبل وفاته. وتوفي سنة ٢٠٠٠. وحمل الشارع في التسمية القديمة الرقم ٢٠٢.",
-    "en": "Hayy bin Juma bin Hayy bin Abbad Al Hameli, born in 1953, served in the Armed Forces of the United Arab Emirates and held the posts of director of operations and director of organisation and armament; he received the UAE Military Medal (First Class), the Kuwait Liberation Medal, the Service Medal of the Abu Dhabi Defence Force, the Armed Forces Unification Medal and the Long Service Medal, and was appointed to the diplomatic corps before his death. He died in 2000. The street carried the number 202 in the older naming."
+    "ar": "حيي بن جمعة بن حيي بن عباد الهاملي، وُلد سنة ١٩٥٣، وعمل في القوات المسلحة لدولة الإمارات العربية المتحدة، وتقلّد مناصب مدير العمليات ومدير التنظيم والتسليح، ومُنح وسام الإمارات العسكري (الطبقة الأولى) ووسام تحرير الكويت ووسام الخدمة في قوة دفاع أبوظبي وميدالية دمج القوات المسلحة وميدالية الخدمة الطويلة الممتازة، وعُيِّن في السلك الدبلوماسي قبل وفاته. وتوفي سنة ٢٠٠٠.",
+    "en": "Hayy bin Juma bin Hayy bin Abbad Al Hameli, born in 1953, served in the Armed Forces of the United Arab Emirates and held the posts of director of operations and director of organisation and armament; he received the UAE Military Medal (First Class), the Kuwait Liberation Medal, the Service Medal of the Abu Dhabi Defence Force, the Armed Forces Unification Medal and the Long Service Medal, and was appointed to the diplomatic corps before his death. He died in 2000."
   },
   "refs": [
     {
@@ -23756,8 +23756,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد حمود على صالح سعيد العامري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٣٧.",
-    "en": "The martyr Hmoud Ali Saleh Saeed Al Ameri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 637 in the older naming."
+    "ar": "الشهيد حمود على صالح سعيد العامري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Hmoud Ali Saleh Saeed Al Ameri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -23897,8 +23897,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد اسماعيل عبدالقادر محمد الملا، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٨٧.",
-    "en": "The martyr Ismail Abdulqader Mohammed Al Mulla is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 87 in the older naming."
+    "ar": "الشهيد اسماعيل عبدالقادر محمد الملا، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Ismail Abdulqader Mohammed Al Mulla is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -23970,8 +23970,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "جبارة بن حسن بن جبارة المرر، وُلد نحو ١٩٣٣، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٠٨.",
-    "en": "Jubara bin Hassan bin Jabara Al Marar, born around 1933, was a member of the National Consultative Council in 1971. The street carried the number 108 in the older naming."
+    "ar": "جبارة بن حسن بن جبارة المرر، وُلد نحو ١٩٣٣، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Jubara bin Hassan bin Jabara Al Marar, born around 1933, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -24082,8 +24082,8 @@ window.STREETS = [
     "en": "A senior diving and pearl merchant who founded Al Otaiba School"
   },
   "story": {
-    "ar": "خلف بن عبدالله بن سيف بن بطي بن العتيبة، وُلد نحو ١٨٣٥، أحد كبار تجار الغوص واللؤلؤ في أبوظبي، أسس مدرسة العتيبة، وله عدة مساجد في أبوظبي، وعُرف بفعل الخير. وحمل الشارع في التسمية القديمة الرقم ٢٥٥.",
-    "en": "Khalaf bin Abdullah bin Saif bin Butti bin Al Otaiba, born around 1835, was one of the senior diving and pearl merchants of Abu Dhabi; he founded Al Otaiba School, has several mosques in Abu Dhabi, and was known for doing good. The street carried the number 255 in the older naming."
+    "ar": "خلف بن عبدالله بن سيف بن بطي بن العتيبة، وُلد نحو ١٨٣٥، أحد كبار تجار الغوص واللؤلؤ في أبوظبي، أسس مدرسة العتيبة، وله عدة مساجد في أبوظبي، وعُرف بفعل الخير.",
+    "en": "Khalaf bin Abdullah bin Saif bin Butti bin Al Otaiba, born around 1835, was one of the senior diving and pearl merchants of Abu Dhabi; he founded Al Otaiba School, has several mosques in Abu Dhabi, and was known for doing good."
   },
   "refs": [
     {
@@ -24104,8 +24104,8 @@ window.STREETS = [
     "en": "A judge, scholar and nawkhadha specialising in maritime cases"
   },
   "story": {
-    "ar": "خلفان بن مطر بن جبارة المرر، وُلد نحو ١٩٠٥، قاضٍ وعالم ونوخذة متخصص في قضايا البحر، ويُعتبر آخر شخص عُيِّن في هذا المنصب. وحمل الشارع في التسمية القديمة الرقم ٧٩.",
-    "en": "Khalfan bin Matar bin Jabara Al Marar, born around 1905, was a judge, scholar and nawkhadha specialising in maritime cases, and is considered the last person appointed to this post. The street carried the number 79 in the older naming."
+    "ar": "خلفان بن مطر بن جبارة المرر، وُلد نحو ١٩٠٥، قاضٍ وعالم ونوخذة متخصص في قضايا البحر، ويُعتبر آخر شخص عُيِّن في هذا المنصب.",
+    "en": "Khalfan bin Matar bin Jabara Al Marar, born around 1905, was a judge, scholar and nawkhadha specialising in maritime cases, and is considered the last person appointed to this post."
   },
   "refs": [
     {
@@ -24143,8 +24143,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد خلفان حماد على سالم الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦٥.",
-    "en": "The martyr Khalfan Hammad Ali Salem Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 565 in the older naming."
+    "ar": "الشهيد خلفان حماد على سالم الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Khalfan Hammad Ali Salem Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -24165,8 +24165,8 @@ window.STREETS = [
     "en": "Founded the Amiri Guard and rose to the rank of lieutenant general"
   },
   "story": {
-    "ar": "خلفان بن مطر بن سعيد محمد بن سالم بن خرسان الرميثي، وُلد نحو ١٩٤٠، حاصل على ميدالية الإمارات من الدرجة الأولى، وأسس الحرس الأميري، وانضم في بداية خدمته إلى قوة ساحل عمان، وتدرج في الرتب العسكرية حتى رتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ١٨٠.",
-    "en": "Khalfan bin Matar bin Saeed Mohammed bin Salem bin Kharsan Al Rumaithi, born around 1940, received the UAE Medal (First Class), founded the Amiri Guard, joined the Oman Coast Force at the start of his service, rose through the military ranks to the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street carried the number 180 in the older naming."
+    "ar": "خلفان بن مطر بن سعيد محمد بن سالم بن خرسان الرميثي، وُلد نحو ١٩٤٠، حاصل على ميدالية الإمارات من الدرجة الأولى، وأسس الحرس الأميري، وانضم في بداية خدمته إلى قوة ساحل عمان، وتدرج في الرتب العسكرية حتى رتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥.",
+    "en": "Khalfan bin Matar bin Saeed Mohammed bin Salem bin Kharsan Al Rumaithi, born around 1940, received the UAE Medal (First Class), founded the Amiri Guard, joined the Oman Coast Force at the start of his service, rose through the military ranks to the rank of lieutenant general, and received the Abu Dhabi Award in 2005."
   },
   "refs": [
     {
@@ -24593,8 +24593,8 @@ window.STREETS = [
     "en": "The first minister of petroleum in Abu Dhabi and a known poet"
   },
   "story": {
-    "ar": "مانع بن سعيد بن أحمد بن خلف بن عبدالله العتيبة، وُلد نحو ١٩٤٦، أول وزير للبترول ورئيس لدائرة البترول في إمارة أبوظبي، ورافق الشيخ زايد بن سلطان آل نهيان، وهو من الشعراء المعروفين في إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٦٦.",
-    "en": "Mana bin Saeed bin Ahmed bin Khalaf bin Abdullah Al Otaiba, born around 1946, was the first minister of petroleum and head of the Petroleum Department of the Emirate of Abu Dhabi; he accompanied Sheikh Zayed bin Sultan Al Nahyan and is one of the known poets of the Emirate of Abu Dhabi. The street carried the number 166 in the older naming."
+    "ar": "مانع بن سعيد بن أحمد بن خلف بن عبدالله العتيبة، وُلد نحو ١٩٤٦، أول وزير للبترول ورئيس لدائرة البترول في إمارة أبوظبي، ورافق الشيخ زايد بن سلطان آل نهيان، وهو من الشعراء المعروفين في إمارة أبوظبي.",
+    "en": "Mana bin Saeed bin Ahmed bin Khalaf bin Abdullah Al Otaiba, born around 1946, was the first minister of petroleum and head of the Petroleum Department of the Emirate of Abu Dhabi; he accompanied Sheikh Zayed bin Sultan Al Nahyan and is one of the known poets of the Emirate of Abu Dhabi."
   },
   "refs": [
     {
@@ -24632,8 +24632,8 @@ window.STREETS = [
     "en": "A judge and scholar in the time of Sheikh Shakhbut"
   },
   "story": {
-    "ar": "مجرن بن محمد بن أحمد بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٩٠٣، قاضٍ وشيخ علم في عهد الشيخ شخبوط بن سلطان آل نهيان، من أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٢٢.",
-    "en": "Mejren bin Mohammed bin Ahmed bin Sultan bin Mejren bin Rashid Al Marar, born around 1903, was a judge and scholar in the time of Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Abu Dhabi. The street carried the number 322 in the older naming."
+    "ar": "مجرن بن محمد بن أحمد بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٩٠٣، قاضٍ وشيخ علم في عهد الشيخ شخبوط بن سلطان آل نهيان، من أهالي أبوظبي.",
+    "en": "Mejren bin Mohammed bin Ahmed bin Sultan bin Mejren bin Rashid Al Marar, born around 1903, was a judge and scholar in the time of Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Abu Dhabi."
   },
   "refs": [
     {
@@ -24654,8 +24654,8 @@ window.STREETS = [
     "en": "A religious scholar in the time of Sheikh Zayed the First"
   },
   "story": {
-    "ar": "مجرن بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٨٢٥، من علماء الدين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ١٠٠.",
-    "en": "Mejren bin Sultan bin Mejren bin Rashid Al Marar, born around 1825, was among the religious scholars in the time of Sheikh Zayed the First (1855–1909). The street carried the number 100 in the older naming."
+    "ar": "مجرن بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٨٢٥، من علماء الدين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Mejren bin Sultan bin Mejren bin Rashid Al Marar, born around 1825, was among the religious scholars in the time of Sheikh Zayed the First (1855–1909)."
   },
   "refs": [
     {
@@ -24676,8 +24676,8 @@ window.STREETS = [
     "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "ar": "مسباح بن مبارك بن مسباح المرر، وُلد نحو ١٩٢٨، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣٢٤.",
-    "en": "Misbah bin Mubarak bin Misbah Al Marar, born around 1928, was a known poet of the people of Al Dhafra. The street carried the number 324 in the older naming."
+    "ar": "مسباح بن مبارك بن مسباح المرر، وُلد نحو ١٩٢٨، شاعر معروف من أهل الظفرة.",
+    "en": "Misbah bin Mubarak bin Misbah Al Marar, born around 1928, was a known poet of the people of Al Dhafra."
   },
   "refs": [
     {
@@ -24732,8 +24732,8 @@ window.STREETS = [
     "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "محمد بن عبدالله الصايغ، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٨٨.",
-    "en": "Mohammed bin Abdullah Al Sayegh, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 288 in the older naming."
+    "ar": "محمد بن عبدالله الصايغ، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١.",
+    "en": "Mohammed bin Abdullah Al Sayegh, born around 1930, was a member of the National Consultative Council in 1971."
   },
   "refs": [
     {
@@ -24754,8 +24754,8 @@ window.STREETS = [
     "en": "A judge, teacher and preacher of the Grand Mosque in Abu Dhabi"
   },
   "story": {
-    "ar": "محمد بن علي أبوذينة التونسي، وُلد نحو ١٨٧١، قاضٍ ومدرّس درّس في مدرسة العتيبة، إلى جانب الخطابة والإمامة في الجامع الكبير بأبوظبي من سنة ١٩١٠ إلى سنة ١٩٤١. وحمل الشارع في التسمية القديمة الرقم ٢١٣.",
-    "en": "Mohammed bin Ali Abu Athaina Al Tunisi, born around 1871, was a judge and teacher who taught at Al Otaiba School, alongside preaching and the imamate at the Grand Mosque in Abu Dhabi from 1910 to 1941. The street carried the number 213 in the older naming."
+    "ar": "محمد بن علي أبوذينة التونسي، وُلد نحو ١٨٧١، قاضٍ ومدرّس درّس في مدرسة العتيبة، إلى جانب الخطابة والإمامة في الجامع الكبير بأبوظبي من سنة ١٩١٠ إلى سنة ١٩٤١.",
+    "en": "Mohammed bin Ali Abu Athaina Al Tunisi, born around 1871, was a judge and teacher who taught at Al Otaiba School, alongside preaching and the imamate at the Grand Mosque in Abu Dhabi from 1910 to 1941."
   },
   "refs": [
     {
@@ -24798,8 +24798,8 @@ window.STREETS = [
     "en": "A judge and scholar in Abu Dhabi"
   },
   "story": {
-    "ar": "محمد بن أحمد بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٨٧١، قاضٍ وشيخ علم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٤٠.",
-    "en": "Mohammed bin Ahmed bin Sultan bin Mejren bin Rashid Al Marar, born around 1871, was a judge and scholar in Abu Dhabi. The street carried the number 40 in the older naming."
+    "ar": "محمد بن أحمد بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٨٧١، قاضٍ وشيخ علم في أبوظبي.",
+    "en": "Mohammed bin Ahmed bin Sultan bin Mejren bin Rashid Al Marar, born around 1871, was a judge and scholar in Abu Dhabi."
   },
   "refs": [
     {
@@ -24854,8 +24854,8 @@ window.STREETS = [
     "en": "A companion of Sheikh Zayed bin Sultan entrusted with the reserves of Al Dhafra"
   },
   "story": {
-    "ar": "مرشد بن علي المعلا بن مرشد المرر، وُلد نحو ١٩٤١، مرافق للشيخ زايد بن سلطان آل نهيان، وأُوكل إليه الإشراف على مشاريع الغابات والمحميات البرية في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ١٩٣.",
-    "en": "Murshid bin Ali bin Al Moalla bin Murshid Al Marar, born around 1941, was a companion of Sheikh Zayed bin Sultan Al Nahyan, entrusted with supervising the forests and wildlife reserves projects in the Al Dhafra region. The street carried the number 193 in the older naming."
+    "ar": "مرشد بن علي المعلا بن مرشد المرر، وُلد نحو ١٩٤١، مرافق للشيخ زايد بن سلطان آل نهيان، وأُوكل إليه الإشراف على مشاريع الغابات والمحميات البرية في منطقة الظفرة.",
+    "en": "Murshid bin Ali bin Al Moalla bin Murshid Al Marar, born around 1941, was a companion of Sheikh Zayed bin Sultan Al Nahyan, entrusted with supervising the forests and wildlife reserves projects in the Al Dhafra region."
   },
   "refs": [
     {
@@ -24876,8 +24876,8 @@ window.STREETS = [
     "en": "Judge of Al Dhafra in the time of Sheikh Shakhbut"
   },
   "story": {
-    "ar": "مصبح بن الكندي بن علي بن سالم المرر، وُلد نحو ١٩١٧، قاضي الظفرة في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٨٨.",
-    "en": "Musabah bin Al Kindi bin Ali bin Salem Al Marar, born around 1917, was the judge of Al Dhafra in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 788 in the older naming."
+    "ar": "مصبح بن الكندي بن علي بن سالم المرر، وُلد نحو ١٩١٧، قاضي الظفرة في عهد الشيخ شخبوط بن سلطان آل نهيان.",
+    "en": "Musabah bin Al Kindi bin Ali bin Salem Al Marar, born around 1917, was the judge of Al Dhafra in the time of Sheikh Shakhbut bin Sultan Al Nahyan."
   },
   "refs": [
     {
@@ -25513,8 +25513,8 @@ window.STREETS = [
     "en": "A martyr from the UAE"
   },
   "story": {
-    "ar": "الشهيد صالح حسن صالح ناصر بن عمرو، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٧٨.",
-    "en": "The martyr Saleh Hassan Saleh Nasser bin Amro is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 278 in the older naming."
+    "ar": "الشهيد صالح حسن صالح ناصر بن عمرو، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه.",
+    "en": "The martyr Saleh Hassan Saleh Nasser bin Amro is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name."
   },
   "refs": [
     {
@@ -25535,8 +25535,8 @@ window.STREETS = [
     "en": "A judge and scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Dhiyab"
   },
   "story": {
-    "ar": "سالم بن عبدالله بن بو ملحا المرر، وُلد نحو ١٧٨٥، قاضٍ وعالم في أبوظبي قبل مولد الشيخ زايد الأول، في عهد الشيخ شخبوط بن ذياب آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٤٨.",
-    "en": "Salem bin Abdullah bin Bu Melha Al Marar, born around 1785, was a judge and scholar in Abu Dhabi before the birth of Sheikh Zayed the First, in the time of Sheikh Shakhbut bin Dhiyab Al Nahyan. The street carried the number 248 in the older naming."
+    "ar": "سالم بن عبدالله بن بو ملحا المرر، وُلد نحو ١٧٨٥، قاضٍ وعالم في أبوظبي قبل مولد الشيخ زايد الأول، في عهد الشيخ شخبوط بن ذياب آل نهيان.",
+    "en": "Salem bin Abdullah bin Bu Melha Al Marar, born around 1785, was a judge and scholar in Abu Dhabi before the birth of Sheikh Zayed the First, in the time of Sheikh Shakhbut bin Dhiyab Al Nahyan."
   },
   "refs": [
     {
@@ -25664,8 +25664,8 @@ window.STREETS = [
     "en": "Under-secretary of Defence and chief of staff"
   },
   "story": {
-    "ar": "الشيخ فيصل بن سلطان بن سالم القاسمي، تولّى منصب وكيل وزارة الدفاع ورئيس أركان القوات المسلحة، وحصل على أوسمة منها الميدالية العسكرية من الدرجة الأولى من الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٧٦.",
-    "en": "Sheikh Faisal bin Sultan bin Salem Al Qasimi served as under-secretary of the Ministry of Defence and chief of staff of the Armed Forces, and received decorations including the first-class military medal from Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 176 in the older naming."
+    "ar": "الشيخ فيصل بن سلطان بن سالم القاسمي، تولّى منصب وكيل وزارة الدفاع ورئيس أركان القوات المسلحة، وحصل على أوسمة منها الميدالية العسكرية من الدرجة الأولى من الشيخ زايد بن سلطان آل نهيان.",
+    "en": "Sheikh Faisal bin Sultan bin Salem Al Qasimi served as under-secretary of the Ministry of Defence and chief of staff of the Armed Forces, and received decorations including the first-class military medal from Sheikh Zayed bin Sultan Al Nahyan."
   },
   "refs": [
     {
