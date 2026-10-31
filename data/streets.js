@@ -692,20 +692,28 @@ window.STREETS = [
     ]
   },
   {
-    id: "abdullah-bin-abdullah-al-muhairi-street",
-    emirate: "abu-dhabi",
-    category: "person",
-    origin: "account",
-    ar: "شارع عبدالله بن عبدالله المهيري",
-    en: "Abdullah Bin Abdullah Al Muhairi Street",
-    translit: "Shāriʿ ʿAbd Allāh bin ʿAbd Allāh al-Muhayrī",
-    meaning: { en: "A tribal figure of Al Bu Muhair, of the Bani Yas", ar: "من الوجوه العشائرية المعروفة في آل بو مهير من بني ياس" },
-    story: {
-      en: "Abdullah bin Abdullah Al Muhairi was one of the well-known tribal figures of the United Arab Emirates, from Al Bu Muhair — one of the main sections (hafuf) of the historic Bani Yas confederation. He died in April 2026.",
-      ar: "عبدالله بن عبدالله المهيري من الرموز والوجوه العشائرية المعروفة في دولة الإمارات، وينتمي إلى قبيلة آل بو مهير، أحد الحفوف الرئيسية لحلف قبائل بني ياس التاريخي. وتوفي في أبريل 2026."
-    },
-    refs: []
+  "id": "abdullah-bin-abdullah-al-muhairi-street",
+  "emirate": "abu-dhabi",
+  "category": "person",
+  "origin": "documented",
+  "ar": "شارع عبدالله بن عبدالله المهيري",
+  "en": "Abdullah Bin Abdullah Al Muhairi Street",
+  "translit": "Shāriʿ ʿAbd Allāh bin ʿAbd Allāh al-Muhayrī",
+  "meaning": {
+    "ar": "كبير آل بو مهير وأحد رجال أبوظبي المعروفين",
+    "en": "Elder of Al Bu Muhair and one of the known figures of Abu Dhabi"
   },
+  "story": {
+    "ar": "عبدالله بن عبدالله بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٨٨٥، كبير آل بو مهير وأحد رجال أبوظبي المعروفين. وحمل الشارع في التسمية القديمة الرقم ٨٣.",
+    "en": "Abdullah bin Abdullah bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1885, was the elder of Al Bu Muhair and one of the known figures of Abu Dhabi. The street carried the number 83 in the older naming."
+  },
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن عبدالله المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-abdullah-al-muhairi"
+    }
+  ]
+},
   {
     id: "abdullah-bin-abi-habeebah-street",
     emirate: "abu-dhabi",
@@ -5388,18 +5396,23 @@ window.STREETS = [
   "id": "alrada-bin-beyat-al-muhairi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الرضه بن بيات المهيري",
   "en": "Alrada Bin Beyat Al Muhairi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شارك في واقعة الشميريخات وجرح فيها وتوفي سنة ٢٠٠٥",
+    "en": "Took part in the affair of Al Shmeirikhat, was wounded there, and died in 2005"
   },
   "story": {
-    "en": "The street carries the name of الرضه بن بيات المهيري. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الرضه بن بيات المهيري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الرضه بن كمادي بن زيتون بن بيات المهيري، وُلد نحو ١٩١٨، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات، وتوفي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ٥٨٠.",
+    "en": "Al Rada bin Kamadi bin Zaitoon bin Bayat Al Muhairi, born around 1918, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s, and died in 2005. The street carried the number 580 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الرضه بن بيات المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alrada-bin-beyat-al-muhairi"
+    }
+  ]
 },
 {
   "id": "al-sah-bin-fulan-al-mazni-street",
@@ -5466,35 +5479,45 @@ window.STREETS = [
   "id": "alsaghir-bin-khadem-al-khaili-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الصغيّر بن خادم الخييلي",
   "en": "Alsaghir Bin Khadem Al Khaili Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شارك في واقعة الشميريخات وتوفي فيها",
+    "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "en": "The street carries the name of الصغيّر بن خادم الخييلي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الصغيّر بن خادم الخييلي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الصغيّر بن خادم بن شلبوت الخييلي، وُلد نحو ١٩١٦، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٤٥.",
+    "en": "Al Saghir bin Khadem bin Shalboot Al Khaili, born around 1916, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 645 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الصغيّر بن خادم الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alsaghir-bin-khadem-al-khaili"
+    }
+  ]
 },
 {
   "id": "alayena-bin-aseyan-al-ameri-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع العيينه بن عصيان العامري",
   "en": "Alayena Bin Aseyan Al Ameri Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شارك في واقعة الشميريخات وجرح فيها",
+    "en": "Took part in the affair of Al Shmeirikhat and was wounded there"
   },
   "story": {
-    "en": "The street carries the name of العيينه بن عصيان العامري. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم العيينه بن عصيان العامري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "العيينه بن عصيان الكليلي العامري، وُلد نحو ١٩١٠، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٢٥.",
+    "en": "Alayena bin Aseyan Al Kalili Al Ameri, born around 1910, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 625 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: العيينه بن عصيان العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alayena-bin-aseyan-al-ameri"
+    }
+  ]
 },
 {
   "id": "al-fakeh-bin-basheer-street",
@@ -5578,35 +5601,45 @@ window.STREETS = [
   "id": "alfindi-bin-ghanem-al-mazrouei-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الفندي بن غانم المزروعي",
   "en": "Alfindi Bin Ghanem Al Mazrouei Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "كبير فخذ آل رويشد، قاضٍ وشاعر وفارس",
+    "en": "Elder of the Al Ruwaidh clan, a judge, poet and horseman"
   },
   "story": {
-    "en": "The street carries the name of الفندي بن غانم المزروعي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الفندي بن غانم المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الفندي بن غانم بن عطيش آل رويشد المزروعي، كبير فخذ آل رويشد من المزاريع، وُلد نحو ١٨٨٠، قاضٍ وشاعر وفارس، حكيم الرأي، وكان يحل المشاكل بين القبائل، وكان يقيم في محضر خنور في إليوا. وتوفي في الخمسينيات. وحمل الشارع في التسمية القديمة الرقم ٧٥٢.",
+    "en": "Al Fendi bin Ghanem bin Atteesh Al Ruwaidh Al Mazrouei, elder of the Al Ruwaidh clan of the Mazarei, born around 1880, was a judge, poet and horseman of sound judgement; he settled issues between the tribes and lived in Madhhar Khunur in Liwa. He died in the 1950s. The street carried the number 752 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الفندي بن غانم المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alfindi-bin-ghanem-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "alkindi-bin-musabah-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الكندي بن مصبح المرر",
   "en": "Alkindi Bin Musabah Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "أديب وشاعر وراوي للقصص ووكيل ممثل الحاكم في الظفرة",
+    "en": "A man of letters, poet, storyteller and deputy of the ruler's representative in Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of الكندي بن مصبح المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الكندي بن مصبح المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الكندي بن مصبح الكندي بن علي بن سالم بوملحا المرر، وُلد نحو ١٩٤٩، أديب وشاعر وراوي للقصص، عمل في الجمارك ثم في وزارة العمل والشؤون الاجتماعية، وعمل وكيل ممثل الحاكم في منطقة الظفرة، وتوفي سنة ٢٠٠٤. وحمل الشارع في التسمية القديمة الرقم ١٩٤.",
+    "en": "Al Kindi bin Musabah Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1949, was a man of letters, poet and storyteller; he worked in customs, then in the Ministry of Labour and Social Affairs, and served as deputy of the ruler's representative in the Al Dhafra region. He died in 2004. The street carried the number 194 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الكندي بن مصبح المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alkindi-bin-musabah-al-marar"
+    }
+  ]
 },
 {
   "id": "al-layth-bin-sa-ed-street",
@@ -5756,18 +5789,23 @@ window.STREETS = [
   "id": "bakhit-bin-khalfan-al-khaili-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بخيت بن خلفان الخييلي",
   "en": "Bakhit Bin Khalfan Al Khaili Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر معروف من أهل منطقة العين",
+    "en": "A known poet of the people of the Al Ain region"
   },
   "story": {
-    "en": "The street carries the name of بخيت بن خلفان الخييلي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم بخيت بن خلفان الخييلي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "بخيت بن خلفان بن زنيد الخييلي، وُلد نحو ١٩٣٠، شاعر معروف من أهل منطقة العين. وحمل الشارع في التسمية القديمة الرقم ٦٤٤.",
+    "en": "Bakhit bin Khalfan bin Zunaid Al Khaili, born around 1930, was a known poet of the people of the Al Ain region. The street carried the number 644 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بخيت بن خلفان الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/bakhit-bin-khalfan-al-khaili"
+    }
+  ]
 },
 {
   "id": "bakheet-bin-mohsin-al-mazrouei-street",
@@ -5790,18 +5828,23 @@ window.STREETS = [
   "id": "bakhit-bin-maizer-al-rumaithi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بخيت بن ميزر الرميثي",
   "en": "Bakhit Bin Maizer Al Rumaithi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر معروف من منطقة الطف الشمالي",
+    "en": "A known poet of the northern sands region"
   },
   "story": {
-    "en": "The street carries the name of بخيت بن ميزر الرميثي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم بخيت بن ميزر الرميثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "بخيت بن علي بن ميزر بن علي بن سعيد ميزر الرميثي، وُلد نحو ١٩٠٥، شاعر معروف من منطقة الطف الشمالي، وتوفي نحو ١٩٥١. وحمل الشارع في التسمية القديمة الرقم ٣٦١.",
+    "en": "Bakhit bin Ali bin Mizar bin Ali bin Saeed Mizar Al Rumaithi, born around 1905, was a known poet of the northern sands region, and died around 1951. The street carried the number 361 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بخيت بن ميزر الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/bakhit-bin-maizer-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "basheer-bin-al-khasasya-street",
@@ -5868,18 +5911,23 @@ window.STREETS = [
   "id": "butti-bin-almughni-al-qubaisi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي بن المغنى القبيسي",
   "en": "Butti Bin Almughni Al Qubaisi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر معروف من أهالي دلما",
+    "en": "A known poet of the people of Dalma"
   },
   "story": {
-    "en": "The street carries the name of بطي بن المغنى القبيسي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم بطي بن المغنى القبيسي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "بطي بن خميس بن المغنى القبيسي، وُلد نحو ١٩٢٠، شاعر معروف من أهالي دلما. وحمل الشارع في التسمية القديمة الرقم ٣٥٨.",
+    "en": "Butti bin Khamis bin Al Mughni Al Qubaisi, born around 1920, was a known poet of the people of Dalma. The street carried the number 358 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي بن المغنى القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/butti-bin-almughni-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "bikr-bin-umayah-street",
@@ -5902,18 +5950,23 @@ window.STREETS = [
   "id": "beyat-bin-mohammed-al-hameli-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بيات بن محمد الهاملي",
   "en": "Beyat Bin Mohammed Al Hameli Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر وأديب عاش في جزيرة دلما",
+    "en": "A poet and man of letters who lived on Dalma Island"
   },
   "story": {
-    "en": "The street carries the name of بيات بن محمد الهاملي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم بيات بن محمد الهاملي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "بيات بن محمد بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٣٠، شاعر وأديب عاش في جزيرة دلما. وحمل الشارع في التسمية القديمة الرقم ٧٧٥.",
+    "en": "Bayat bin Mohammed bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1930, was a poet and man of letters who lived on Dalma Island. The street carried the number 775 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بيات بن محمد الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/beyat-bin-mohammed-al-hameli"
+    }
+  ]
 },
 {
   "id": "tamam-bin-nasser-street",
@@ -6187,18 +6240,23 @@ window.STREETS = [
   "id": "juma-bin-bakhit-al-darmaki-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة بن بخيت الدرمكي",
   "en": "Juma Bin Bakhit Al Darmaki Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "معلم ومدرس بالمطوع ومعالج شعبي في العين",
+    "en": "A teacher, mutawwa' and folk healer in Al Ain"
   },
   "story": {
-    "en": "The street carries the name of جمعة بن بخيت الدرمكي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم جمعة بن بخيت الدرمكي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "جمعة بن بخيت بن جمعة الدرمكي، وُلد نحو ١٩٢٠، معلم ومدرس بالمطوع بين أهالي العين في القطارة، وهو أحد المعالجين الشعبيين. وحمل الشارع في التسمية القديمة الرقم ٥٠٤.",
+    "en": "Juma bin Bakhit bin Juma Al Darmaki, born around 1920, was a teacher and instructor, a mutawwa' among the people of Al Ain in Al Qattara, and one of the folk healers. The street carried the number 504 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جمعة بن بخيت الدرمكي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/juma-bin-bakhit-al-darmaki"
+    }
+  ]
 },
 {
   "id": "jumaa-bin-hathboor-al-rumaithi-street",
@@ -6282,18 +6340,23 @@ window.STREETS = [
   "id": "hamed-bin-butti-al-qubaisi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حامد بن بطي القبيسي",
   "en": "Hamed Bin Butti Al Qubaisi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "خال مؤسس الدولة الشيخ زايد بن سلطان",
+    "en": "Maternal uncle of the founder of the state, Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of حامد بن بطي القبيسي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حامد بن بطي القبيسي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "حامد بن بطي بن خادم بن نهيمان القبيسي، وُلد نحو ١٨٨٥، أحد رجالات إمارة أبوظبي، وهو خال مؤسس الدولة الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٨.",
+    "en": "Hamed bin Butti bin Khadim bin Nuhayman Al Qubaisi, born around 1885, was one of the notables of the Emirate of Abu Dhabi, and the maternal uncle of the founder of the state, Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 68 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حامد بن بطي القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamed-bin-butti-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "habbab-bin-qaithy-street",
@@ -6360,35 +6423,45 @@ window.STREETS = [
   "id": "aldahham-bin-zayed-al-mazrouei-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الدحّام بن زايد المزروعي",
   "en": "Aldahham Bin Zayed Al Mazrouei Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر من الظفرة ومن المقربين للشيخ زايد بن سلطان",
+    "en": "A poet of Al Dhafra who was close to Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of الدحّام بن زايد المزروعي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الدحّام بن زايد المزروعي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الدحّام بن زايد بن خلفان بن حمد بو حميّد المزروعي، وُلد نحو ١٩١٥، شاعر من سكان الظفرة ومن المقربين للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٨٩.",
+    "en": "Al Dahham bin Zayed bin Khalfan bin Hamd Bu Humaid Al Mazrouei, born around 1915, was a poet of the people of Al Dhafra and one of those close to Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 789 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الدحّام بن زايد المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/aldahham-bin-zayed-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "aldoda-bin-maktoum-al-sheraifi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الدودة بن مكتوم الشريفي",
   "en": "Aldoda Bin Maktoum Al Sheraifi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "مسؤول شؤون القطارة بالعين وأحد الأدلة المعروفين",
+    "en": "Official for the affairs of Al Qattara in Al Ain and a known guide"
   },
   "story": {
-    "en": "The street carries the name of الدودة بن مكتوم الشريفي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الدودة بن مكتوم الشريفي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الدودة بن مكتوم الشريفي العامري، وُلد نحو ١٩١٨، كُلّف بشؤون القطارة في العين في عهد الشيخ زايد بن سلطان، وأحد الأدلة المعروفين، وتوفي في الثمانينيات. وحمل الشارع في التسمية القديمة الرقم ٥٢٩.",
+    "en": "Al Doda bin Maktoum Al Sheraifi Al Ameri, born around 1918, was tasked with the affairs of Al Qattara in Al Ain under Sheikh Zayed bin Sultan, and was one of the known guides; he died in the 1980s. The street carried the number 529 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الدودة بن مكتوم الشريفي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/aldoda-bin-maktoum-al-sheraifi"
+    }
+  ]
 },
 {
   "id": "al-rabab-bint-haretha-street",
@@ -6411,18 +6484,23 @@ window.STREETS = [
   "id": "altaher-bin-ali-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الطاهر بن علي المرر",
   "en": "Altaher Bin Ali Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وشاعر في عهد الشيخ زايد الأول",
+    "en": "A judge and poet in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of الطاهر بن علي المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الطاهر بن علي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الطاهر بن علي بن سالم بو ملحا المرر، وُلد نحو ١٨٦٠، قاضٍ في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، وكان شاعراً، وتوفي سنة ١٩٤٠ في محضر عتّاب في إليوا. وحمل الشارع في التسمية القديمة الرقم ٢١٨.",
+    "en": "Al Taher bin Ali bin Salem Bu Melha Al Marar, born around 1860, was a judge under Sheikh Zayed the First (1855–1909) and a poet; he died in 1940 in Madhhar Attab in Liwa. The street carried the number 218 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الطاهر بن علي المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/altaher-bin-ali-al-marar"
+    }
+  ]
 },
 {
   "id": "al-as-bin-hashim-street",
@@ -6675,35 +6753,45 @@ window.STREETS = [
   "id": "hajji-bin-abdullah-al-khoury-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حاجي بن عبدالله الخوري",
   "en": "Hajji Bin Abdullah Al Khoury Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "ar": "عضو المجلس الاستشاري الوطني والمجلس البلدي وغرفة التجارة",
+    "en": "Member of the National Consultative Council, the Municipal Council and the Chamber of Commerce"
   },
   "story": {
-    "en": "No published source was found identifying who Hajji Bin Abdullah Al Khoury — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «حاجي بن عبدالله الخوري» الذي يحمل الشارع اسمه."
+    "ar": "حاجي بن عبدالله بن حسين الخوري، وُلد نحو ١٩٤١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، والمجلس البلدي لمدينة أبوظبي، وغرفة تجارة وصناعة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٩٦.",
+    "en": "Hajji bin Abdullah bin Hussein Al Khouri, born around 1941, was a member of the National Consultative Council in 1971, of the Municipal Council of Abu Dhabi city, and of the Abu Dhabi Chamber of Commerce and Industry. The street carried the number 96 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حاجي بن عبدالله الخوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hajji-bin-abdullah-al-khoury"
+    }
+  ]
 },
 {
   "id": "hareb-bin-sabt-al-khaili-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حارب بن سبت الخييلي",
   "en": "Hareb Bin Sabt Al Khaili Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "مرافق ومطارزي للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion and watchman for Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of حارب بن سبت الخييلي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حارب بن سبت الخييلي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "حارب بن محمد بن سعيد بن سبت مسلم الخييلي، وُلد نحو ١٩١٩، مرافق ومطارزي للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٤٣.",
+    "en": "Hareb bin Mohammed bin Saeed bin Sabt Muslim Al Khaili, born around 1919, was a companion and watchman for Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 643 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حارب بن سبت الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hareb-bin-sabt-al-khaili"
+    }
+  ]
 },
 {
   "id": "habeeb-bin-al-harith-street",
@@ -7598,35 +7686,45 @@ window.STREETS = [
   "id": "abdullah-bilhoul-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بالهول السويدي",
   "en": "Abdullah Bilhoul Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "مسؤول جزيرة داس في عهد الشيخ شخبوط",
+    "en": "The official in charge of Das Island under Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bilhoul, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بالهول، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن محمد بن صالح بالهول السويدي، وُلد نحو ١٩١٦، مسؤول جزيرة داس في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٥٠.",
+    "en": "Abdullah bin Mohammed bin Saleh Bilhoul Al Suwaidi, born around 1916, was the official in charge of Das Island under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 250 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بالهول السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bilhoul-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-ali-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن علي الهاملي",
   "en": "Abdullah Bin Ali Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "كبير الهوامل ومساعد ممثل الحاكم في منطقة الغربية",
+    "en": "Elder of the Hawamil and assistant to the ruler's representative in the Western Region"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Ali, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن علي، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن علي بن صباح الهاملي، وُلد نحو ١٩٠٤، مساعد ممثل الحاكم في منطقة الغربية / إليوا حتى سنة ١٩٦٤، وكبير الهوامل. وحمل الشارع في التسمية القديمة الرقم ٧٩٠.",
+    "en": "Abdullah bin Ali bin Sabah Al Hameli, born around 1904, was assistant to the ruler's representative in the Western Region / Liwa until 1964, and elder of the Hawamil. The street carried the number 790 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن علي الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ali-al-hameli"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-dhahir-al-muhairi",
@@ -7698,18 +7796,23 @@ window.STREETS = [
   "id": "abdullah-bin-humaid-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن حميد الرميثي",
   "en": "Abdullah Bin Humaid Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "من كبار وطواويش أبوظبي",
+    "en": "One of the senior wutwashi of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Humaid, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن حميد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن حميد بن مرشد بن سالم الرميثي، وُلد نحو ١٨٨٥، من كبار وطواويش أبوظبي، عُرف بالكرم والسخاء وحب فعل الخير، وبنى عدة مساجد في أبوظبي منها ما هو باقٍ إلى اليوم. وحمل الشارع في التسمية القديمة الرقم ٦٩.",
+    "en": "Abdullah bin Humaid bin Murshid bin Salem Al Rumaithi, born around 1885, was one of the senior wutwashi of Abu Dhabi; he was known for generosity and munificence and for a love of doing good, and he built several mosques in Abu Dhabi, some of which still stand today. The street carried the number 69 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن حميد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-humaid-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-jassim-al-meraikhi",
@@ -7737,52 +7840,67 @@ window.STREETS = [
   "id": "abdullah-bin-kenaish-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن كنيش الهاملي",
   "en": "Abdullah Bin Kenaish Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "باني قلعة محضر الظفير",
+    "en": "Builder of the fort of Madhhar Al Dhafir"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Kenaish, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن كنيش، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن كنيش بن ميثان الهاملي، وُلد نحو ١٨٣٠، باني قلعة محضر الظفير بمعاونة أهل المحضر، وتوفي في واقعة الخريس سنة ١٨٨٨ في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٣١١.",
+    "en": "Abdullah bin Kenaish bin Mithan Al Hameli, born around 1830, built the fort of Madhhar Al Dhafir with the help of the people of Madhhar, and died in the affair of Al Kharees in 1888 under Sheikh Zayed the First. The street carried the number 311 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن كنيش الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-kenaish-al-hameli"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-kulaib-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن كليب الهاملي",
   "en": "Abdullah Bin Kulaib Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شاعر من الشعراء المعروفين في إمارة أبوظبي",
+    "en": "One of the known poets of the Emirate of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Kulaib, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن كليب، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٠٢، شاعر من الشعراء المعروفين في إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٨٠.",
+    "en": "Abdullah bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1902, was one of the known poets of the Emirate of Abu Dhabi. The street carried the number 80 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن كليب الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-kulaib-al-hameli"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-misfer-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن مسفر السويدي",
   "en": "Abdullah Bin Misfer Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "مطارزي عند الشيخ شخبوط من أهل البطين",
+    "en": "A watchman for Sheikh Shakhbut, of the people of Al Bateen"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Misfer, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن مسفر، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن مسفر بن سيف السويدي، وُلد نحو ١٩١٩، مطارزي عند الشيخ شخبوط بن سلطان آل نهيان، من أهل البطين. وحمل الشارع في التسمية القديمة الرقم ١٧٨.",
+    "en": "Abdullah bin Misfer bin Saif Al Suwaidi, born around 1919, was a watchman for Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Al Bateen. The street carried the number 178 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن مسفر السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-misfer-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-shaiban-al-muhairi",
@@ -7832,188 +7950,243 @@ window.STREETS = [
   "id": "abdullah-bin-sultan-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن سلطان الرميثي",
   "en": "Abdullah Bin Sultan Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Abdullah Bin Sultan, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله بن سلطان، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبدالله بن سلطان بن راشد بن حميد بن مرشد الرميثي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٧٠.",
+    "en": "Abdullah bin Sultan bin Rashid bin Humaid bin Murshid Al Rumaithi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 170 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن سلطان الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-sultan-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "abdulrahman-alneedi-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرحمن النيدي القبيسي",
   "en": "Abdulrahman Alneedi Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "والي جزيرة دلما في عهد الشيخ حمدان بن زايد الأول",
+    "en": "Governor of Dalma Island under Sheikh Hamdan bin Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Alneedi, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالرحمن النيدي، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبد الرحمن بن حمد النيدي القبيسي، وُلد نحو ١٨٧٢، والي جزيرة دلما في عهد الشيخ حمدان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٢١٥.",
+    "en": "Abdulrahman bin Hamd Al Needi Al Qubaisi, born around 1872, was the governor of Dalma Island under Sheikh Hamdan bin Zayed the First. The street carried the number 215 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالرحمن النيدي القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulrahman-alneedi-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "abdulrahman-hasan-al-zaabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرحمن حسن الزعابي",
   "en": "Abdulrahman Hasan Al Zaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Zaabi family",
-    "ar": "شخصية إماراتية من أسرة الزعابي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman Hasan, an Emirati figure of the Zaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالرحمن حسن، وهو شخصية إماراتية من أسرة الزعابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد عبدالرحمن حسن عبدالله حسن الزعابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٣.",
+    "en": "The martyr Abdulrahman Hassan Abdullah Hassan Al Zaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 53 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالرحمن حسن الزعابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulrahman-hasan-al-zaabi"
+    }
+  ]
 },
 {
   "id": "aber-bin-hayy-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عابر بن حيي الهاملي",
   "en": "Aber Bin Hayy Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "دليل معروف ومتخصص في معرفة وحفر المياه",
+    "en": "A known guide specialised in locating and digging for water"
   },
   "story": {
-    "en": "The street carries the name of Aber Bin Hayy, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عابر بن حيي، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عابر بن حيي بن عابر الهاملي، وُلد نحو ١٩٠٠، دليل معروف وحرفي في الحدادة، متخصص في معرفة وحفر المياه، من أهالي محضر قرمدة. وحمل الشارع في التسمية القديمة الرقم ٧٥٦.",
+    "en": "Aber bin Hayy bin Aber Al Hameli, born around 1900, was a known guide, a craftsman in blacksmithing and specialised in locating and digging for water, of the people of Madhhar Qarmada. The street carried the number 756 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عابر بن حيي الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/aber-bin-hayy-al-hameli"
+    }
+  ]
 },
 {
   "id": "afra-bint-mohammed-al-falasi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عفرا بنت محمد الفلاسي",
   "en": "Afra Bint Mohammed Al Falasi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falasi family",
-    "ar": "شخصية إماراتية من أسرة الفلاسي"
+    "ar": "مُدرسة ومربية تُعرف بالمطوعة",
+    "en": "A teacher and educator known as Al Mutawwa'a"
   },
   "story": {
-    "en": "The street carries the name of Afra Bint Mohammed, an Emirati figure of the Falasi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عفرا بنت محمد، وهي شخصية إماراتية من أسرة الفلاسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عفرا بنت محمد بن عبيد بن سليم الفلاسي، وُلدت نحو ١٩١٨، مُدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٥٨٧.",
+    "en": "Afra bint Mohammed bin Obaid bin Saleem Al Falasi, born around 1918, was a teacher and educator known in that time as «Al Mutawwa'a», and she taught the families of Al Ain. The street carried the number 587 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عفرا بنت محمد الفلاسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/afra-bint-mohammed-al-falasi"
+    }
+  ]
 },
 {
   "id": "afra-bint-saif-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عفرا بنت سيف المزروعي",
   "en": "Afra Bint Saif Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "مُدرسة تُعرف بالمطوعة وبنت مسجداً في أبوظبي",
+    "en": "A teacher known as Al Mutawwa'a who built a mosque in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Afra Bint Saif, an Emirati figure of the Mazrouei family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عفرا بنت سيف، وهي شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عفرا بنت سيف بن أحمد بن عبدالله بالعشار آل غنام المزروعي، وُلدت نحو ١٩٢٠، مُدرسة تُعرف في ذلك الزمان بـ«المطوعة»، وكانت تجيد الشعر، وقد بنت مسجداً قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٠٣.",
+    "en": "Afra bint Saif bin Ahmed bin Abdullah Bil Ashaar Al Ghannam Al Mazrouei, born around 1920, was a teacher known in that time as «Al Mutawwa'a»; she was skilled in poetry, and built an old mosque in Abu Dhabi. The street carried the number 103 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عفرا بنت سيف المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/afra-bint-saif-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-abdullah-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن عبدالله الرميثي",
   "en": "Ahmed Bin Abdullah Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "استثمر بحور أبوظبي وعمل في الصيد البحري",
+    "en": "Leased the sea waters of Abu Dhabi and worked in marine fishing"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Abdullah, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن عبدالله، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن عبدالله بن غميلة الرميثي، وُلد نحو ١٨٩٠، شخصية معروفة باستثمار البحور في أبوظبي عن طريق استئجارها والعمل في مجال الصيد البحري، وله علاقة وثيقة بالحاكم. وحمل الشارع في التسمية القديمة الرقم ١٥٦.",
+    "en": "Ahmed bin Abdullah bin Ghumaylah Al Rumaithi, born around 1890, was a figure known for investing in the sea waters of Abu Dhabi by leasing them and working in marine fishing, and he had close ties with the ruler. The street carried the number 156 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن عبدالله الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-abdullah-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-ali-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن علي الرميثي",
   "en": "Ahmed Bin Ali Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر معروف عاش في عهد الشيخ زايد الأول وشخبوط",
+    "en": "A known poet of the eras of Sheikh Zayed the First and Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Ali, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن علي، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن علي بن ميزر بن علي بن سعيد الرميثي، وُلد نحو ١٩٠٠، شاعر معروف عاش في عهد الشيخ زايد الأول وعهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٨٦.",
+    "en": "Ahmed bin Ali bin Mizar bin Ali bin Saeed Al Rumaithi, born around 1900, was a known poet who lived in the time of Sheikh Zayed the First and of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 286 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن علي الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-ali-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-banduq-al-qamzi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن بندوق القمزي",
   "en": "Ahmed Bin Banduq Al Qamzi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qamzi family",
-    "ar": "شخصية إماراتية من أسرة القمزي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Banduq, an Emirati figure of the Qamzi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن بندوق، وهو شخصية إماراتية من أسرة القمزي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن بندوق القمزي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٧٧.",
+    "en": "Ahmed bin Mohammed bin Banduq Al Qamzi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 77 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن بندوق القمزي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-banduq-al-qamzi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-drai-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن دري الفلاحي",
   "en": "Ahmed Bin Drai Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "شاعر من منطقة القطارة بالعين",
+    "en": "A poet from the Al Qattara area of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Drai, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن دري، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن دري الفلاحي، وُلد نحو ١٩٣٠، شاعر من منطقة القطارة بالعين، وتوفي سنة ٢٠٠٦. وحمل الشارع في التسمية القديمة الرقم ٦٠٢.",
+    "en": "Ahmed bin Mohammed bin Drai Al Falahi, born around 1930, was a poet from the Al Qattara area of Al Ain, and died in 2006. The street carried the number 602 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن دري الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-drai-al-falahi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-fadel-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن فاضل المزروعي",
   "en": "Ahmed Bin Fadel Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "أمير في إليوا ومسؤول شؤون المواطنين لدى شركات النفط",
+    "en": "Amir in Liwa and officer for citizens' affairs at the oil companies"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Fadel, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن فاضل، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن فاضل بن سعيد بن فاضل آل غنام المزروعي، وُلد نحو ١٩١٠، أمير في إليوا سنة ١٩٤٩، ومسؤول عن شؤون المواطنين لدى شركات النفط سنة ١٩٥٠.",
+    "en": "Ahmed bin Fadhel bin Saeed bin Fadhel Al Ghannam Al Mazrouei, born around 1910, was amir in Liwa in 1949, and was in charge of citizens' affairs with the oil companies in 1950."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن فاضل المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-fadel-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-fadhel-al-hameli",
@@ -8036,358 +8209,463 @@ window.STREETS = [
   "id": "ahmed-bin-gabran-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن جبران السويدي",
   "en": "Ahmed Bin Gabran Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "شاعر وحارس لبرج المقطع والحصن في أبوظبي",
+    "en": "A poet and guard of Burj Al Maqta and the fort in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Gabran, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن جبران، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن جبران بن خميس بن جبران السويدي، وُلد نحو ١٩١٧، شاعر وحارس لبرج المقطع والحصن، من أهالي البطين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٤٤.",
+    "en": "Ahmed bin Gabran bin Khamis bin Gabran Al Suwaidi, born around 1917, was a poet and a guard of Burj Al Maqta and the fort, of the people of Al Bateen in Abu Dhabi. The street carried the number 44 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن جبران السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-gabran-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-ghanoum-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن غنوم الهاملي",
   "en": "Ahmed Bin Ghanoum Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Ghanoum, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن غنوم، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن سلطان بن غنوم الهاملي، وُلد نحو ١٩١٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٦٨.",
+    "en": "Ahmed bin Sultan bin Ghanoum Al Hameli, born around 1915, was a member of the National Consultative Council in 1971. The street carried the number 168 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن غنوم الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-ghanoum-al-hameli"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-hader-al-meraikhi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن حاضر المريخي",
   "en": "Ahmed Bin Hader Al Meraikhi Street",
   "meaning": {
-    "en": "An Emirati figure of the Meraikhi family",
-    "ar": "شخصية إماراتية من أسرة المريخي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Hader, an Emirati figure of the Meraikhi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن حاضر، وهو شخصية إماراتية من أسرة المريخي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن حاضر بن محمد بن جاسم بن جابر المريخي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٧٧٨.",
+    "en": "Ahmed bin Hader bin Mohammed bin Jassim bin Jaber Al Meraikhi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 778 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن حاضر المريخي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-hader-al-meraikhi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-hilal-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن هلال الظاهري",
   "en": "Ahmed Bin Hilal Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "والي على قرى وواحات العين وممثل للحاكم",
+    "en": "Governor of the Al Ain villages and oases and the ruler's representative"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Hilal, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن هلال، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن هلال بن محمد بن سعيد الظاهري، وُلد نحو ١٨٧٦، عُيِّن والياً على قرى وواحات العين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، ثم عُيِّن في عهد الشيخ شخبوط بن سلطان آل نهيان ممثلاً للحاكم، وتوفي سنة ١٩٣٦. وحمل الشارع في التسمية القديمة الرقم ٥٠٢.",
+    "en": "Ahmed bin Mohammed bin Hilal bin Mohammed bin Saeed Al Dhaheri, born around 1876, was appointed governor of the villages and oases of Al Ain under Sheikh Zayed the First (1855–1909), and later was appointed ruler's representative under Sheikh Shakhbut bin Sultan Al Nahyan; he died in 1936. The street carried the number 502 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن هلال الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-hilal-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-hudhayba-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن حظيبة الهاملي",
   "en": "Ahmed Bin Hudhayba Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شخص يحمل الشارع اسمه",
+    "en": "A person the street is named after"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Hudhayba, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن حظيبة، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الشارع اسم أحمد بن حظيبة الهاملي، وورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر في المصدر أكثر من الاسم. وحمل الشارع في التسمية القديمة الرقم ٢٢٨.",
+    "en": "The street carries the name Ahmed bin Hudhayba Al Hameli; he is recorded in the «Honouring the Pioneers of the UAE: Memorial Streets» listing, and the source publishes no more than the name. The street carried the number 228 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن حظيبة الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-hudhayba-al-hameli"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-juma-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن جمعة السويدي",
   "en": "Ahmed Bin Juma Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "نائب رئيس المجلس الاستشاري ومسؤول مركز المرخية",
+    "en": "Deputy chairman of the Consultative Council and official in charge of the Markhia centre"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Juma, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن جمعة، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن جمعة بن جبر بن حبيش السويدي، وُلد نحو ١٩١٥، نائب رئيس المجلس الاستشاري، وعضو في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨، وعمل مسؤول مركز المرخية / إليوا. وحمل الشارع في التسمية القديمة الرقم ٥٠.",
+    "en": "Ahmed bin Juma bin Jaber bin Habish Al Suwaidi, born around 1915, was deputy chairman of the Consultative Council and a member of the advisory committee of the Department of Nationality, Passports and Residence in 1968; he also served as official in charge of the Markhia centre / Liwa. The street carried the number 50 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن جمعة السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-juma-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-khalaf-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن خلف القبيسي",
   "en": "Ahmed Bin Khalaf Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "شيخ علم وقاضٍ في أبوظبي",
+    "en": "A scholar and judge in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Khalaf, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن خلف، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن خلف بن خميس بن خلفان بن خدية القبيسي، وُلد نحو ١٨٩٤، شيخ علم وقاضٍ في أبوظبي، وتوفي في الخمسينيات. وحمل الشارع في التسمية القديمة الرقم ١٠٩.",
+    "en": "Ahmed bin Khalaf bin Khamis bin Khalfan bin Khudaiya Al Qubaisi, born around 1894, was a scholar and judge in Abu Dhabi, and died in the 1950s. The street carried the number 109 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن خلف القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-khalaf-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-khalifa-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن خليفة السويدي",
   "en": "Ahmed Bin Khalifa Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "من مؤسسي الاتحاد وتولّى وزارة الخارجية",
+    "en": "One of the founders of the Union who held the Ministry of Foreign Affairs"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Khalifa, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن خليفة، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن خليفة بن أحمد بن خليفة السويدي، وُلد نحو ١٩٣٧، من مؤسسي الاتحاد، وتولّى وزارة الخارجية، وكان مستشاراً شخصياً للشيخ زايد بن سلطان آل نهيان وعضواً في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠٠٦. وحمل الشارع في التسمية القديمة الرقم ٩٩.",
+    "en": "Ahmed bin Khalifa bin Ahmed bin Khalifa Al Suwaidi, born around 1937, was one of the founders of the Union; he held the Ministry of Foreign Affairs, was personal adviser to Sheikh Zayed bin Sultan Al Nahyan and a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2006. The street carried the number 99 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن خليفة السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-khalifa-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-kulaib-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن كليب الهاملي",
   "en": "Ahmed Bin Kulaib Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شاعر معروف في عهد الشيخ زايد الأول",
+    "en": "A known poet in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Kulaib, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن كليب، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٩٠٠، شاعر معروف في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ١٩٧.",
+    "en": "Ahmed bin Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1900, was a known poet in the time of Sheikh Zayed the First (1855–1909). The street carried the number 197 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن كليب الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-kulaib-al-hameli"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-majid-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن ماجد السويدي",
   "en": "Ahmed Bin Majid Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "ممثل الحاكم لدى شركة الحفر سانتافية",
+    "en": "The ruler's representative at the drilling company Santa Fe"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Majid, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن ماجد، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن ماجد بن حسن السويدي، وُلد نحو ١٩٢٠، ممثل الحاكم لدى شركة المقاولة للحفر سانتافية، وعمل في أمن وحراسة معسكرات النفط في طريف سنة ١٩٥٢. وحمل الشارع في التسمية القديمة الرقم ٢٤٤.",
+    "en": "Ahmed bin Mohammed bin Majid bin Hassan Al Suwaidi, born around 1920, was the ruler's representative at the drilling contractor Santa Fe, and worked in the security and guarding of the oil camps in Tarif in 1952. The street carried the number 244 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن ماجد السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-majid-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-masoud-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن مسعود المحيربي",
   "en": "Ahmed Bin Masoud Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "نائب رئيس المجلس الاستشاري الوطني وعضو المجلس البلدي",
+    "en": "Deputy chairman of the National Consultative Council and a municipal council member"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Masoud, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن مسعود، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن مسعود بن سالم المسعود المحيربي، وُلد نحو ١٩٤٥، نائب رئيس المجلس الاستشاري الوطني سنة ١٩٧١، وعضو في مجلس أبوظبي البلدي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ٥٦.",
+    "en": "Ahmed bin Mohammed bin Masoud bin Salem Al Masoud Al Muhairbi, born around 1945, was deputy chairman of the National Consultative Council in 1971, and a member of the Abu Dhabi Municipal Council in 1969. The street carried the number 56 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن مسعود المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-masoud-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-mohammed-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن محمد السويدي",
   "en": "Ahmed Bin Mohammed Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Mohammed, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن محمد، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن خليفة السويدي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٦١.",
+    "en": "Ahmed bin Mohammed bin Khalifa Al Suwaidi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 161 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن محمد السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-mohammed-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-saeed-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن سعيد الرميثي",
   "en": "Ahmed Bin Saeed Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر من سكان الطف في أبوظبي",
+    "en": "A poet from the Al Taff area of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Saeed, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن سعيد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن سعيد بن ميزر بن سعيد الرميثي، وُلد نحو ١٨٩٠، شاعر من سكان الطف في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١١٣.",
+    "en": "Ahmed bin Saeed bin Mizar bin Saeed Al Rumaithi, born around 1890, was a poet from the people of the Al Taff area of Abu Dhabi. The street carried the number 113 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن سعيد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-saeed-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-saif-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن سيف الفلاحي",
   "en": "Ahmed Bin Saif Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "شاعر من محضر الظويهر وله ديوان آل زعل",
+    "en": "A poet of Madhhar Al Dhwayhir who has the Al Zaal poetry collection"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Saif, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن سيف، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٩٠٠، شاعر من محضر الظويهر، وله ديوان آل زعل. وحمل الشارع في التسمية القديمة الرقم ١٨٧.",
+    "en": "Ahmed bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1900, was a poet of Madhhar Al Dhwayhir, and he has the Al Zaal poetry collection. The street carried the number 187 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن سيف الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-saif-al-falahi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-salem-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن سالم المحيربي",
   "en": "Ahmed Bin Salem Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "شيخ علم ومدرس وإمام في إليوا",
+    "en": "A scholar, teacher and imam in Liwa"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Salem, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن سالم، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٢٦، شيخ علم ومدرس وإمام في إليوا، وعُرف بحب الخير ومساعدة الآخرين. وحمل الشارع في التسمية القديمة الرقم ٣٤٧.",
+    "en": "Ahmed bin Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1926, was a scholar, teacher and imam in Liwa, and was known for a love of good and for helping others. The street carried the number 347 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن سالم المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-salem-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-sarhan-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن سرحان الرميثي",
   "en": "Ahmed Bin Sarhan Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "أوكل إليه إصدار جوازات السفر وحل الأمور الإدارية",
+    "en": "The issuing of travel passports and administrative affairs were entrusted to him"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Sarhan, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن سرحان، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن سعيد بن سرحان بن عبدالله بن سرحان الرميثي، وُلد نحو ١٩٣٠، من رجال الشيخ شخبوط بن سلطان آل نهيان الذين يُوكل إليهم حل الأمور الإدارية وحل المشاكل القبلية، وقد أُوكل إليه إصدار جوازات السفر. وحمل الشارع في التسمية القديمة الرقم ١٥٤.",
+    "en": "Ahmed bin Saeed bin Sarhan bin Abdullah bin Sarhan Al Rumaithi, born around 1930, was one of Sheikh Shakhbut bin Sultan Al Nahyan's men to whom administrative affairs and tribal issues were entrusted, and the issuing of travel passports was assigned to him. The street carried the number 154 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن سرحان الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-sarhan-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-shamlan-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن شملان الفلاحي",
   "en": "Ahmed Bin Shamlan Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "شاعر من الشعراء المعروفين في أبوظبي",
+    "en": "One of the known poets of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Shamlan, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن شملان، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن سيف بن شملان الفلاحي، وُلد نحو ١٩٢٢، أحد الشعراء المعروفين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٩٩.",
+    "en": "Ahmed bin Mohammed bin Saif bin Shamlan Al Falahi, born around 1922, was one of the known poets of Abu Dhabi. The street carried the number 299 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن شملان الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-shamlan-al-falahi"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-yarouf-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن يعروف المنصوري",
   "en": "Ahmed Bin Yarouf Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "جامع للزكاة وشيخ علم بنى مساجد في أبوظبي",
+    "en": "A zakat collector and scholar who built mosques in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Yarouf, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن يعروف، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن محمد بن يعروف بن بهلول المطيوعي المنصوري، وُلد نحو ١٨٨٤، جامع للزكاة وشيخ علم، ومن الذين قاموا بأعمال خيرية منها بناء المساجد قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٤٠.",
+    "en": "Ahmed bin Mohammed bin Yarouf bin Bahlol Al Matyoui Al Mansouri, born around 1884, was a zakat collector and scholar, and one of those who did charitable works including building mosques in Abu Dhabi long ago. The street carried the number 340 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن يعروف المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-yarouf-al-mansouri"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-zaal-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن زعل السويدي",
   "en": "Ahmed Bin Zaal Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "شيخ علم من أوائل المتعلمين في أبوظبي",
+    "en": "A scholar and one of the first educated people of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bin Zaal, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بن زعل، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن العبد بن شاهين بن زعل السويدي، وُلد نحو ١٨٩٠، شيخ علم من أوائل المتعلمين في أبوظبي، وكان صاحب مكتبة كبيرة في بيته. وحمل الشارع في التسمية القديمة الرقم ٣٤٢.",
+    "en": "Ahmed bin Al Abd bin Shaheen bin Zaal Al Suwaidi, born around 1890, was a scholar and one of the first educated people of Abu Dhabi, and he had a large library in his house. The street carried the number 342 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن زعل السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-zaal-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "ahmed-bu-luta-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بولوتة الرميثي",
   "en": "Ahmed Bu Luta Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "من كبار الرميثات وكلّفه شخبوط بقضايا البحور",
+    "en": "A Rumaithat elder entrusted by Shakhbut with the affairs of the seas"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Bu Luta, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد بولوتة، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن سعيد بن بيات بولوتة الرميثي، وُلد نحو ١٨٩٧، من كبار الرميثات، وكان يوكله الشيخ شخبوط بن سلطان آل نهيان في قضايا البحور، وتوفي في الستينيات تقريباً. وحمل الشارع في التسمية القديمة الرقم ١٧١.",
+    "en": "Ahmed bin Saeed bin Bayat Bu Luta Al Rumaithi, born around 1897, was one of the elders of the Rumaithat; Sheikh Shakhbut bin Sultan Al Nahyan entrusted him with the affairs of the seas, and he died around the 1960s. The street carried the number 171 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بولوتة الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bu-luta-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ahmed-khamis-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "طريق أحمد خميس الهاملي",
   "en": "Ahmed Khamis Al Hameli Road",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "أول طيار حربي في دولة الإمارات",
+    "en": "The first military pilot in the UAE"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Khamis, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الطريق باسم أحمد خميس، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن خميس الهاملي، أول طيار حربي في دولة الإمارات.",
+    "en": "Ahmed bin Khamis Al Hameli was the first military pilot in the United Arab Emirates."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد خميس الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-khamis-al-hameli"
+    }
+  ]
 },
 {
   "id": "alasry-bin-hamouda-al-dhaheri",
@@ -8415,52 +8693,67 @@ window.STREETS = [
   "id": "alhabaishi-bin-bahlol-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحبيشي بن بهلول المنصوري",
   "en": "Alhabaishi Bin Bahlol Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شيخ علم في عهد الشيخ ذياب بن عيسى بن نهيان في إليوا",
+    "en": "A scholar under Sheikh Dhiyab bin Essa bin Nahyan in Liwa"
   },
   "story": {
-    "en": "The street carries the name of Alhabaishi Bin Bahlol, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الحبيشي بن بهلول، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الحبيشي بن بهلول بن عبدالنبي بن سيف بن رشيد المطيوعي المنصوري، وُلد نحو ١٧٥٠، شيخ علم في عهد الشيخ ذياب بن عيسى بن نهيان آل نهيان في الفترة (١٧٨٥–١٨٣٤) في منطقة إليوا. وحمل الشارع في التسمية القديمة الرقم ٢٩٦.",
+    "en": "Al Habaishi bin Bahlol bin Abdulnabi bin Saif bin Rashid Al Matyoui Al Mansouri, born around 1750, was a scholar under Sheikh Dhiyab bin Essa bin Nahyan Al Nahyan in the period 1785–1834 in the Liwa region. The street carried the number 296 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الحبيشي بن بهلول المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alhabaishi-bin-bahlol-al-mansouri"
+    }
+  ]
 },
 {
   "id": "alhabeeb-bin-ahmed-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحبيب بن أحمد المحيربي",
   "en": "Alhabeeb Bin Ahmed Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "شيخ علم من الظفرة من أهالي محضر قرمدة",
+    "en": "A scholar of Al Dhafra, of the people of Madhhar Qarmada"
   },
   "story": {
-    "en": "The street carries the name of Alhabeeb Bin Ahmed, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الحبيب بن أحمد، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الحبيب بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٠٠، شيخ علم من الظفرة من أهالي محضر قرمدة. وحمل الشارع في التسمية القديمة الرقم ٢٢٢.",
+    "en": "Al Habeeb bin Ahmed bin Khalfan Al Muhairbi, born around 1900, was a scholar of Al Dhafra, of the people of Madhhar Qarmada. The street carried the number 222 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الحبيب بن أحمد المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alhabeeb-bin-ahmed-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "alhaj-bin-abdullah-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحاج بن عبدالله المحيربي",
   "en": "Alhaj Bin Abdullah Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "سكرتير الشيخ زايد بن سلطان ورئيس غرفة التجارة",
+    "en": "Secretary to Sheikh Zayed bin Sultan and chairman of the Chamber of Commerce"
   },
   "story": {
-    "en": "The street carries the name of Alhaj Bin Abdullah, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الحاج بن عبدالله، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الحاج بن عبدالله بن سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٩٤٥، عمل سكرتيراً للشيخ زايد بن سلطان آل نهيان، ورئيساً في المجلس البلدي ورئيساً لغرفة التجارة، وعضواً في المجلس الوطني الاستشاري سنة ١٩٧١، ثم النائب الأول لأعضاء المجلس الاستشاري الوطني. وحمل الشارع في التسمية القديمة الرقم ١٧٢.",
+    "en": "Al Haj bin Abdullah bin Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1945, worked as secretary to Sheikh Zayed bin Sultan Al Nahyan, and as chairman of the Municipal Council and chairman of the Chamber of Commerce, and as a member of the National Consultative Council in 1971, then first deputy of the members of the National Consultative Council. The street carried the number 172 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: الحاج بن عبدالله المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/alhaj-bin-abdullah-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "ali-alqusaili-almansoori",
@@ -8483,188 +8776,243 @@ window.STREETS = [
   "id": "ali-bin-abdullah-al-zaabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن عبدالله الزعابي",
   "en": "Ali Bin Abdullah Al Zaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Zaabi family",
-    "ar": "شخصية إماراتية من أسرة الزعابي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Abdullah, an Emirati figure of the Zaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن عبدالله، وهو شخصية إماراتية من أسرة الزعابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن عبدالله بن عيسى آل يعقوب الزعابي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٥.",
+    "en": "Ali bin Abdullah bin Essa Al Yaqoub Al Zaabi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 55 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن عبدالله الزعابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-abdullah-al-zaabi"
+    }
+  ]
 },
 {
   "id": "ali-bin-afsan-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن عفصان المزروعي",
   "en": "Ali Bin Afsan Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شهيد استُشهد على الحدود الدولية سنة ١٩٨٠",
+    "en": "A martyr who died on the international borders in 1980"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Afsan, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن عفصان، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد علي بن سلمان بن محمد الصليح عفصان المزروعي من الذين استُشهدوا أثناء أداء مهامهم الوطنية وأداء الواجب والدفاع عن حدود الوطن ورموزه، وسُمّي الشارع تقديراً لتفانيه وتضحيته بروحه في الميادين العسكرية والمدنية والإنسانية. وُلد نحو ١٩٥٢، واستُشهد أثناء مطاردة أمنية على الحدود الدولية سنة ١٩٨٠. وحمل الشارع في التسمية القديمة الرقم ٧٥٤.",
+    "en": "The martyr Ali bin Salman bin Mohammed Al Saleeh Afsan Al Mazrouei is one of those who died while carrying out their national duties, performing their duty and defending the country's borders and its symbols. The street was named in appreciation of his devotion and of the sacrifice of his life in the military, civil and humanitarian fields. Born around 1952, he died in a security pursuit on the international borders in 1980. The street carried the number 754 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن عفصان المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-afsan-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "ali-bin-aziz-al-sheraifi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن عزيز الشريفي",
   "en": "Ali Bin Aziz Al Sheraifi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sheraifi family",
-    "ar": "شخصية إماراتية من أسرة الشريفي"
+    "ar": "عامل في الشؤون الإدارية في واحة الجيمي",
+    "en": "Worked in administrative affairs in the Al Jimi oasis"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Aziz, an Emirati figure of the Sheraifi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن عزيز، وهو شخصية إماراتية من أسرة الشريفي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن عزيز الشريفي العامري، وُلد نحو ١٩٢٠، وعمل في الشؤون الإدارية في واحة الجيمي. وحمل الشارع في التسمية القديمة الرقم ٥٨٥.",
+    "en": "Ali bin Aziz Al Sheraifi Al Ameri, born around 1920, worked in administrative affairs in the Al Jimi oasis. The street carried the number 585 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن عزيز الشريفي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-aziz-al-sheraifi"
+    }
+  ]
 },
 {
   "id": "ali-bin-dihayr-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن دهْير المزروعي",
   "en": "Ali Bin Dihayr Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "من أهل إليوا وله مواقف شجاعة",
+    "en": "Of the people of Liwa, with acts of courage"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Dihayr, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن دهْير، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن محمد بن ربيّع بن دهْير المزروعي، وُلد نحو ١٨٩٠، وله مواقف شجاعة، ومن أهل فعل الخير من أهل إليوا.",
+    "en": "Ali bin Mohammed bin Rabee bin Dihair Al Mazrouei, born around 1890, had acts of courage and was among those who do good, of the people of Liwa."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن دهْير المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-dihayr-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "ali-bin-ghanem-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن غانم الكتبي",
   "en": "Ali Bin Ghanem Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "مرافق للشيخ زايد بن سلطان وعم الشيخة فاطمة بنت مبارك",
+    "en": "A companion of Sheikh Zayed bin Sultan and uncle of Sheikha Fatima bint Mubarak"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Ghanem, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن غانم، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن غانم بن ضاحي بن غانم الكتبي، وُلد نحو ١٩٣٢، مرافق للشيخ زايد بن سلطان آل نهيان، من أهل العين، وهو عم الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٧٢.",
+    "en": "Ali bin Ghanem bin Dhahi bin Ghanem Al Ketbi, born around 1932, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Ain, and he is the uncle of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 572 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن غانم الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-ghanem-al-ketbi"
+    }
+  ]
 },
 {
   "id": "ali-bin-khamis-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن خميس الرميثي",
   "en": "Ali Bin Khamis Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر معروف من أهل الطف الشمالي",
+    "en": "A known poet of the people of the northern sands"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Khamis, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن خميس، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن خميس بالعود الرميثي، وُلد نحو ١٩٣٠، شاعر معروف من أهل الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ١١١.",
+    "en": "Ali bin Khamis Bil Awd Al Rumaithi, born around 1930, was a known poet of the people of the northern sands. The street carried the number 111 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن خميس الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-khamis-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ali-bin-mubarak-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن مبارك المنصوري",
   "en": "Ali Bin Mubarak Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Mubarak, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن مبارك، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن مبارك بن محمد آل سالمين المنصوري، وُلد نحو ١٩٢٣، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٩٧.",
+    "en": "Ali bin Mubarak bin Mohammed Al Salmeen Al Mansouri, born around 1923, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 797 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن مبارك المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-mubarak-al-mansouri"
+    }
+  ]
 },
 {
   "id": "ali-bin-murshid-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن مرشد الرميثي",
   "en": "Ali Bin Murshid Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "تاجر وطواش من كبار رجالات أبوظبي",
+    "en": "A merchant and wutwashi, one of the senior notables of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Murshid, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن مرشد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن مرشد بن سالم الرميثي، وُلد نحو ١٨٧٠، من كبار رجالات أبوظبي، تاجر وطواش، وله مسجد قديم في أبوظبي يقع في حارة الرميثات قديماً. وحمل الشارع في التسمية القديمة الرقم ٧٠.",
+    "en": "Ali bin Murshid bin Salem Al Rumaithi, born around 1870, was one of the senior notables of Abu Dhabi, a merchant and wutwashi, and he has an old mosque in Abu Dhabi located in the Rumaithat quarter of old. The street carried the number 70 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن مرشد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-murshid-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ali-bin-sabt-al-khaili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن سبت الخييلي",
   "en": "Ali Bin Sabt Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure of the Khaili family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "مرافق الشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Sabt, an Emirati figure of the Khaili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن سبت، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن محمد سعيد بن سبت الخييلي، وُلد نحو ١٩٢٤، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٤١.",
+    "en": "Ali bin Mohammed Saeed bin Sabt Al Khaili, born around 1924, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 641 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن سبت الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-sabt-al-khaili"
+    }
+  ]
 },
 {
   "id": "ali-bin-sandia-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن سندية المنصوري",
   "en": "Ali Bin Sandia Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Sandia, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن سندية، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن راشد بن مبارك بن راشد بن درويش بن سندية المنصوري، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣٥٦.",
+    "en": "Ali bin Rashid bin Mubarak bin Rashid bin Darwish bin Sandia Al Mansouri, born around 1920, was a known poet of the people of Al Dhafra. The street carried the number 356 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن سندية المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-sandia-al-mansouri"
+    }
+  ]
 },
 {
   "id": "ali-bin-shaiban-al-khemairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن شيبان الخميري",
   "en": "Ali Bin Shaiban Al Khemairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Khemairi family",
-    "ar": "شخصية إماراتية من أسرة الخميري"
+    "ar": "مساعد والي جزيرة دلما الشيخ هزاع بن سلطان",
+    "en": "Assistant to the governor of Dalma Island, Sheikh Hazza bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Shaiban, an Emirati figure of the Khemairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن شيبان، وهو شخصية إماراتية من أسرة الخميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن شيبان الخميري، وُلد نحو ١٨٨٢، مساعد والي جزيرة دلما الشيخ هزاع بن سلطان آل نهيان من سنة ١٩٣٣ إلى سنة ١٩٣٧ في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٢١.",
+    "en": "Ali bin Shaiban Al Khemairi, born around 1882, was assistant to the governor of Dalma Island, Sheikh Hazza bin Sultan Al Nahyan, from 1933 to 1937 in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 321 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن شيبان الخميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-shaiban-al-khemairi"
+    }
+  ]
 },
 {
   "id": "ali-bin-thani-al-rumaithi",
@@ -8692,35 +9040,45 @@ window.STREETS = [
   "id": "ali-bu-naas-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بو نعاس الرميثي",
   "en": "Ali Bu Naas Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر وكبير قومة أهداه الشيخ زايد الأول فرس كحيلة",
+    "en": "A poet and qawma elder gifted the mare Kahila by Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Ali Bu Naas, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بو نعاس، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن مصبح بن عامر بو نعاس الرميثي، وُلد نحو ١٨٦٠، شاعر معروف وكبير قومة، أهداه الشيخ زايد الأول فرسه كحيلة من نسل ربدان. وحمل الشارع في التسمية القديمة الرقم ٣٦٢.",
+    "en": "Ali bin Musabah bin Amer Bu Naas Al Rumaithi, born around 1860, was a known poet and elder of the qawma, and Sheikh Zayed the First gifted him his mare Kahila, of the Rabdan line. The street carried the number 362 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بو نعاس الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bu-naas-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ali-bu-uawana-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بوعوانة المنصوري",
   "en": "Ali Bu Uawana Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "دليل معروف أُوكل إليه أمن ودلالة شركات النفط",
+    "en": "A known guide entrusted with the security and guiding of the oil companies"
   },
   "story": {
-    "en": "The street carries the name of Ali Bu Uawana, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بوعوانة، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن سعيد بن ثامر بوعوانة المنصوري، وُلد نحو ١٩١٥، دليل معروف، أُوكل إليه الشيخ شخبوط بن سلطان آل نهيان أمن ودلالة شركات تنقيب النفط سنة ١٩٤٨. وحمل الشارع في التسمية القديمة الرقم ٧٩٨.",
+    "en": "Ali bin Saeed bin Thamer Bu Awana Al Mansouri, born around 1915, was a known guide; Sheikh Shakhbut bin Sultan Al Nahyan entrusted him with the security and guiding of the oil exploration companies in 1948. The street carried the number 798 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بوعوانة المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bu-uawana-al-mansouri"
+    }
+  ]
 },
 {
   "id": "ali-khamis-al-ktebi",
@@ -8748,375 +9106,485 @@ window.STREETS = [
   "id": "ali-rashed-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي راشد الظاهري",
   "en": "Ali Rashed Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Ali Rashed, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي راشد، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد على راشد على الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٠٦.",
+    "en": "The martyr Ali Rashid Ali Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 506 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي راشد الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-rashed-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "ali-saeed-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي سعيد الظاهري",
   "en": "Ali Saeed Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Ali Saeed, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي سعيد، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد على سعيد اليبهونى الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٨٦.",
+    "en": "The martyr Ali Saeed Al Yabhooni Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 86 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي سعيد الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-saeed-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "almur-bin-dumithan-al-qamzi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع المر بن دميثان القمزي",
   "en": "Almur Bin Dumithan Al Qamzi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qamzi family",
-    "ar": "شخصية إماراتية من أسرة القمزي"
+    "ar": "من رجال الطف الشمالي اشتهر بالشجاعة والرماية",
+    "en": "A man of the northern sands known for courage and marksmanship"
   },
   "story": {
-    "en": "The street carries the name of Almur Bin Dumithan, an Emirati figure of the Qamzi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم المر بن دميثان، وهو شخصية إماراتية من أسرة القمزي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "المر بن سعيد بن هلال بن سعيد بن دميثان القمزي، وُلد نحو ١٩٢٥، من رجال الطف الشمالي، واشتهر بالشجاعة والكرم وبإجادته للرماية. وحمل الشارع في التسمية القديمة الرقم ٣٦٠.",
+    "en": "Al Mur bin Saeed bin Hilal bin Saeed bin Dumithan Al Qamzi, born around 1925, was one of the men of the northern sands, known for courage, generosity and skill in marksmanship. The street carried the number 360 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: المر بن دميثان القمزي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/almur-bin-dumithan-al-qamzi"
+    }
+  ]
 },
 {
   "id": "aqeeda-bin-ali-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عقيدة بن علي المهيري",
   "en": "Aqeeda Bin Ali Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "معالج شعبي من أهل العين لديه معرفة في علم الأنساب",
+    "en": "A folk healer of the people of Al Ain with knowledge of genealogy"
   },
   "story": {
-    "en": "The street carries the name of Aqeeda Bin Ali, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عقيدة بن علي، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عقيدة بن علي بن جمعة المهيري، وُلد نحو ١٩٢٠، معالج شعبي من أهل العين، لديه معرفة في علم الأنساب، ونال جائزة أبوظبي سنة ٢٠١١. وحمل الشارع في التسمية القديمة الرقم ٥٩٩.",
+    "en": "Aqeeda bin Ali bin Juma Al Muhairi, born around 1920, was a folk healer of the people of Al Ain with knowledge in the science of genealogy, and received the Abu Dhabi Award in 2011. The street carried the number 599 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عقيدة بن علي المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/aqeeda-bin-ali-al-muhairi"
+    }
+  ]
 },
 {
   "id": "ashwan-bin-abdullah-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عشوان بن عبدالله المزروعي",
   "en": "Ashwan Bin Abdullah Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "من رجال منطقة الظفرة المعروفين ومدير بلدية غياثي",
+    "en": "A known man of the Al Dhafra region and director of Ghayathi municipality"
   },
   "story": {
-    "en": "The street carries the name of Ashwan Bin Abdullah, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عشوان بن عبدالله، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عشوان بن عبدالله بن مبارك بالعري المزروعي، وُلد نحو ١٩٤٥، أحد رجال منطقة الظفرة المعروفين، وفي بداية حياته كان رئيس العمل والعمال في جبل الظنة سنة ١٩٦٩، ثم مدير بلدية غياثي. وحمل الشارع في التسمية القديمة الرقم ٦١٥.",
+    "en": "Ashwan bin Abdullah bin Mubarak Bil Arri Al Mazrouei, born around 1945, was one of the known men of the Al Dhafra region; at the beginning of his career he was head of labour and workers at Jabal Al Dhanna in 1969, then director of Ghayathi municipality. The street carried the number 615 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عشوان بن عبدالله المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ashwan-bin-abdullah-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "asyan-bin-asyan-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عصيان بن عصيان المنصوري",
   "en": "Asyan Bin Asyan Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "قاضٍ له دور في الصلح بين القبائل من أهل ليوا",
+    "en": "A judge with a role in reconciling between the tribes of Liwa"
   },
   "story": {
-    "en": "The street carries the name of Asyan Bin Asyan, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عصيان بن عصيان، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عصيان بن عصيان المسافري المنصوري، وُلد نحو ١٩٠٠، قاضٍ وله دور في الصلح بين القبائل، من أهل ليوا من محضر بن عصيان، وتوفي سنة ١٩٧٩. وحمل الشارع في التسمية القديمة الرقم ٣٢٨.",
+    "en": "Aseyan bin Aseyan Al Masafri Al Mansouri, born around 1900, was a judge with a role in reconciling between the tribes, of the people of Liwa, from Madhhar bin Aseyan; he died in 1979. The street carried the number 328 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عصيان بن عصيان المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/asyan-bin-asyan-al-mansouri"
+    }
+  ]
 },
 {
   "id": "atiq-bin-arian-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عتيق بن عريان المهيري",
   "en": "Atiq Bin Arian Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "غيّاص وعارف بالأنساب بنى مساجد في أبوظبي",
+    "en": "A pearl diver versed in genealogy who built mosques in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Atiq Bin Arian, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عتيق بن عريان، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عتيق بن راشد بن عريان المهيري، وُلد نحو ١٩٣٥، عمل غيّاصاً، وكان عارفاً في الأنساب، عُرف بإجادته لمهنة الغوص، وبنى عدة مساجد قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٠١.",
+    "en": "Atiq bin Rashid bin Arian Al Muhairi, born around 1935, worked as a pearl diver, was versed in genealogy, and was known for skill in the diving profession; he built several mosques in Abu Dhabi long ago. The street carried the number 301 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عتيق بن عريان المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/atiq-bin-arian-al-muhairi"
+    }
+  ]
 },
 {
   "id": "atiq-bin-azran-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عتيق بن عزران الرميثي",
   "en": "Atiq Bin Azran Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "حارس للحصن وبرج المقطع في عهد شخبوط",
+    "en": "Guard of the fort and Burj Al Maqta under Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Atiq Bin Azran, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عتيق بن عزران، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عتيق بن سالم بن عزران الرميثي، وُلد نحو ١٩٢٩، عمل حارساً للحصن وبرج المقطع في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٧٥.",
+    "en": "Atiq bin Salem bin Azran Al Rumaithi, born around 1929, worked as a guard of the fort and Burj Al Maqta under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 175 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عتيق بن عزران الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/atiq-bin-azran-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "atiq-bin-banduq-al-qamzi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عتيق بن بندوق القمزي",
   "en": "Atiq Bin Banduq Al Qamzi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qamzi family",
-    "ar": "شخصية إماراتية من أسرة القمزي"
+    "ar": "من حرس الشيخ شخبوط وشاعر",
+    "en": "One of Sheikh Shakhbut's guards and a poet"
   },
   "story": {
-    "en": "The street carries the name of Atiq Bin Banduq, an Emirati figure of the Qamzi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عتيق بن بندوق، وهو شخصية إماراتية من أسرة القمزي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عتيق بن محمد بن بندوق القمزي، وُلد نحو ١٩٢٦، من حرس الشيخ شخبوط بن سلطان آل نهيان، وكان شاعراً. وحمل الشارع في التسمية القديمة الرقم ٣٢٦.",
+    "en": "Atiq bin Mohammed bin Banduq Al Qamzi, born around 1926, was one of the guards of Sheikh Shakhbut bin Sultan Al Nahyan, and was a poet. The street carried the number 326 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عتيق بن بندوق القمزي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/atiq-bin-banduq-al-qamzi"
+    }
+  ]
 },
 {
   "id": "atiq-bin-daen-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عتيق بن ضاعن المهيري",
   "en": "Atiq Bin Daen Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مطارزي للشيخ شخبوط وشاعر من أهل البطين",
+    "en": "A watchman for Sheikh Shakhbut and a poet of Al Bateen"
   },
   "story": {
-    "en": "The street carries the name of Atiq Bin Daen, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عتيق بن ضاعن، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عتيق بن ضاعن بن خميس بن محمد بن عبدالله المهيري، وُلد نحو ١٩٢٠، عمل مطارزي للشيخ شخبوط بن سلطان آل نهيان، وعمل في شركة النفط في الصدر ثم طريف، وشاعر معروف من أهل البطين. وحمل الشارع في التسمية القديمة الرقم ٣٥٥.",
+    "en": "Atiq bin Daen bin Khamis bin Mohammed bin Abdullah Al Muhairi, born around 1920, worked as a watchman for Sheikh Shakhbut bin Sultan Al Nahyan, and worked for the oil company in Al Sadr and then Tarif; he was a known poet of the people of Al Bateen. The street carried the number 355 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عتيق بن ضاعن المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/atiq-bin-daen-al-muhairi"
+    }
+  ]
 },
 {
   "id": "atiq-bin-kasla-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عتيق بن كسلا الرميثي",
   "en": "Atiq Bin Kasla Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر معروف يُكنى ببن كسلا",
+    "en": "A known poet nicknamed Bin Kasla"
   },
   "story": {
-    "en": "The street carries the name of Atiq Bin Kasla, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عتيق بن كسلا، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عتيق بن جمعة بن محمد بن كسلا الرميثي، وُلد نحو ١٩١٥، شاعر معروف يُكنى بـ«بن كسلا»، وسكن موارد السميح والسمحة والبدوع والدويبة. وحمل الشارع في التسمية القديمة الرقم ٣٦٨.",
+    "en": "Atiq bin Juma bin Mohammed bin Kasla Al Rumaithi, born around 1915, was a known poet nicknamed «Bin Kasla», and he lived at the water sources of Al Sameeh, Al Samha, Al Bado' and Al Dwaiba. The street carried the number 368 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عتيق بن كسلا الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/atiq-bin-kasla-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "atiq-bin-maizer-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عتيق بن ميزر الرميثي",
   "en": "Atiq Bin Maizer Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "كُلف بحفر وصيانة وإدامة موارد الطف الشمالي",
+    "en": "Tasked with digging and maintaining the water sources of the northern sands"
   },
   "story": {
-    "en": "The street carries the name of Atiq Bin Maizer, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عتيق بن ميزر، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عتيق بن ميزر بن سعيد بن ميزر الرميثي، وُلد نحو ١٩١٥، وكُلف في عهد الشيخ شخبوط بن سلطان آل نهيان سنة ١٩٥٨ بحفر وصيانة وإدامة موارد الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٦٧.",
+    "en": "Atiq bin Mizar bin Saeed bin Mizar Al Rumaithi, born around 1915, was tasked in the time of Sheikh Shakhbut bin Sultan Al Nahyan, in 1958, with digging, maintaining and keeping the water sources of the northern sands. The street carried the number 367 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عتيق بن ميزر الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/atiq-bin-maizer-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "atiq-bin-majid-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عتيق بن ماجد المهيري",
   "en": "Atiq Bin Majid Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مرافق للشيخ زايد بن سلطان من كبار أهل البطين",
+    "en": "A companion of Sheikh Zayed bin Sultan and one of the senior people of Al Bateen"
   },
   "story": {
-    "en": "The street carries the name of Atiq Bin Majid, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عتيق بن ماجد، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عتيق بن ماجد بن ثاني بن ماجد عبيد المهيري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان، ومن كبار أهل البطين. وحمل الشارع في التسمية القديمة الرقم ٤٥.",
+    "en": "Atiq bin Majid bin Thani bin Majid Obaid Al Muhairi, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan and one of the senior people of Al Bateen. The street carried the number 45 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عتيق بن ماجد المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/atiq-bin-majid-al-muhairi"
+    }
+  ]
 },
 {
   "id": "aylan-bin-ali-al-sabousi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عيلان بن علي السبوسي",
   "en": "Aylan Bin Ali Al Sabousi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sabousi family",
-    "ar": "شخصية إماراتية من أسرة السبوسي"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Aylan Bin Ali, an Emirati figure of the Sabousi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عيلان بن علي، وهو شخصية إماراتية من أسرة السبوسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عيلان بن علي بن هلال بن علي بن سعيد بن عيد السبوسي، وُلد نحو ١٩٤٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٨٧.",
+    "en": "Aylan bin Ali bin Hilal bin Ali bin Saeed bin Eid Al Sabousi, born around 1940, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 287 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عيلان بن علي السبوسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/aylan-bin-ali-al-sabousi"
+    }
+  ]
 },
 {
   "id": "azzan-bin-mohammed-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عزان بن محمد المزروعي",
   "en": "Azzan Bin Mohammed Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "حفر بدع المزاريع في منطقة الظفرة",
+    "en": "Dug the bada' of the Mazarei in the Al Dhafra region"
   },
   "story": {
-    "en": "The street carries the name of Azzan Bin Mohammed, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عزان بن محمد، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عزان بن محمد بن راشد المزروعي، وُلد نحو ١٩١٠، وحفر بدع المزاريع في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٢٧.",
+    "en": "Azzan bin Mohammed bin Rashid Al Mazrouei, born around 1910, dug the bada' of the Mazarei in the Al Dhafra region. The street carried the number 227 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عزان بن محمد المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/azzan-bin-mohammed-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "butti-biltahina-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي بالطحينة المهيري",
   "en": "Butti Biltahina Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "حارس في برج المقطع ومرشد للمسافرين",
+    "en": "A guard at Burj Al Maqta and a guide for travellers"
   },
   "story": {
-    "en": "The street carries the name of Butti Biltahina, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي بالطحينة، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "بطي بالطحينة المهيري، وُلد نحو ١٩٢٦، حارس في برج المقطع، وعمل في إرشاد المسافرين الذين يعبرون المقطع. وحمل الشارع في التسمية القديمة الرقم ١٧٤.",
+    "en": "Butti Bil Tahina Al Muhairi, born around 1926, was a guard at Burj Al Maqta, and worked in guiding travellers crossing Al Maqtah. The street carried the number 174 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي بالطحينة المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/butti-biltahina-al-muhairi"
+    }
+  ]
 },
 {
   "id": "butti-bin-beyat-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي بن بيات القبيسي",
   "en": "Butti Bin Beyat Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "نوخذة من أهالي جزيرة دلما",
+    "en": "A boat captain of the people of Dalma island"
   },
   "story": {
-    "en": "The street carries the name of Butti Bin Beyat, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي بن بيات، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "بطي بن بيات بن خليفة المشوي القبيسي، وُلد نحو ١٩١٠، نوخذة من أهالي دلما. وحمل الشارع في التسمية القديمة الرقم ٧٨٥.",
+    "en": "Butti bin Bayat bin Khalifa Al Mashwi Al Qubaisi, born around 1910, was a nawkhadha (pearling-boat captain) of the people of Dalma. The street carried the number 785 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي بن بيات القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/butti-bin-beyat-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "butti-bin-khadim-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي بن خادم القبيسي",
   "en": "Butti Bin Khadim Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "جد الشيخ زايد بن سلطان من الأم",
+    "en": "Maternal grandfather of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Butti Bin Khadim, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي بن خادم، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "بطي بن خادم بن نهيمان القبيسي، وُلد نحو ١٨٧٠، جد الشيخ زايد بن سلطان آل نهيان من الأم، وكُلف من حاكم أبوظبي الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالإشراف على محاضر في إليوا. وحمل الشارع في التسمية القديمة الرقم ٦٢.",
+    "en": "Butti bin Khadim bin Nuhayman Al Qubaisi, born around 1870, was the maternal grandfather of Sheikh Zayed bin Sultan Al Nahyan, and was tasked by the ruler of Abu Dhabi Sheikh Zayed the First (1855–1909) with supervising the mahadir in Liwa. The street carried the number 62 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي بن خادم القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/butti-bin-khadim-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "butti-bin-mohammed-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي بن محمد القبيسي",
   "en": "Butti Bin Mohammed Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "مثّل الحاكم في دلما في عهد الشيخ شخبوط",
+    "en": "Represented the ruler on Dalma under Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Butti Bin Mohammed, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي بن محمد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "بطي بن محمد بن خلفان القبيسي، وُلد نحو ١٩١٦، ومثّل الحاكم في دلما في عهد الشيخ شخبوط بن سلطان آل نهيان مدة من الزمن. وحمل الشارع في التسمية القديمة الرقم ٢٠٤.",
+    "en": "Butti bin Mohammed bin Khalfan Al Qubaisi, born around 1916, represented the ruler on Dalma in the time of Sheikh Shakhbut bin Sultan Al Nahyan for a period. The street carried the number 204 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي بن محمد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/butti-bin-mohammed-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "butti-bin-omair-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي بن عمير المهيري",
   "en": "Butti Bin Omair Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "كبير آل بو مهير في عهد الشيخ زايد الأول",
+    "en": "Elder of Al Bu Muhair in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Butti Bin Omair, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي بن عمير، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "بطي بن عمير بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٨٥٥، من الرجال المعروفين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩)، وهو كبير آل بو مهير. وحمل الشارع في التسمية القديمة الرقم ١٠٥.",
+    "en": "Butti bin Omair bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1855, was one of the known men in the time of Sheikh Zayed the First (1855–1909), and was the elder of Al Bu Muhair. The street carried the number 105 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي بن عمير المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/butti-bin-omair-al-muhairi"
+    }
+  ]
 },
 {
   "id": "duhi-bin-abdullah-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ضحي بن عبدالله المزروعي",
   "en": "Duhi Bin Abdullah Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شارك في واقعة الشميريخات وتوفي فيها سنة ١٩٤٦",
+    "en": "Took part in the affair of Al Shmeirikhat and died in it in 1946"
   },
   "story": {
-    "en": "The street carries the name of Duhi Bin Abdullah, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ضحي بن عبدالله، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ضحي بن عبدالله بن راشد بالقطري المزروعي، وُلد نحو ١٩١٥، شارك في واقعة الشميريخات وتوفي فيها سنة ١٩٤٦. وحمل الشارع في التسمية القديمة الرقم ٧٣.",
+    "en": "Duhi bin Abdullah bin Rashid Bil Qatari Al Mazrouei, born around 1915, took part in the affair of Al Shmeirikhat and died in it in 1946. The street carried the number 73 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ضحي بن عبدالله المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/duhi-bin-abdullah-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "eid-bin-musabeh-al-amimi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عيد بن مصبح العميمي",
   "en": "Eid Bin Musabeh Al Amimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Amimi family",
-    "ar": "شخصية إماراتية من أسرة العميمي"
+    "ar": "غيّاص وشاعر ومرافق للشيخ زايد الأول",
+    "en": "A pearl diver, poet and companion of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Eid Bin Musabeh, an Emirati figure of the Amimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عيد بن مصبح، وهو شخصية إماراتية من أسرة العميمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عيد بن مصبح بن عبيد العميمي، وُلد نحو ١٨٧٥، غيّاص وشاعر من أهل الطف الشمالي، ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩)، واشتهر باسمَي «عويدين» و«العيادي». وحمل الشارع في التسمية القديمة الرقم ٢١٦.",
+    "en": "Eid bin Musabah bin Obaid Al Amimi, born around 1875, was a pearl diver and poet of the people of the northern sands, and a companion of Sheikh Zayed the First (1855–1909); he was known by the two names «Uwaideen» and «Al Ayadi». The street carried the number 216 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عيد بن مصبح العميمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/eid-bin-musabeh-al-amimi"
+    }
+  ]
 },
 {
   "id": "faraj-bin-hamouda-al-dhaheri",
@@ -9144,137 +9612,177 @@ window.STREETS = [
   "id": "fares-bin-ghanem-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فارس بن غانم المزروعي",
   "en": "Fares Bin Ghanem Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "من رجال الظفرة المعروفين يُكنى بفارس بن وتيهة",
+    "en": "A known man of Al Dhafra nicknamed Faris bin Watiha"
   },
   "story": {
-    "en": "The street carries the name of Fares Bin Ghanem, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم فارس بن غانم، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "فارس بن غانم بن علي بن عطيش آل رويشد المزروعي، وُلد نحو ١٨٥٩، من الرجال المعروفين في منطقة الظفرة، ويُكنى بـ«فارس بن وتيهة». وحمل الشارع في التسمية القديمة الرقم ٢٥٣.",
+    "en": "Faris bin Ghanem bin Ali bin Atteesh Al Ruwaidh Al Mazrouei, born around 1859, was one of the known men of the Al Dhafra region, and was nicknamed «Faris bin Watiha». The street carried the number 253 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: فارس بن غانم المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/fares-bin-ghanem-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "fatima-bint-ali-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فاطمة بنت علي الرميثي",
   "en": "Fatima Bint Ali Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "مطوعة درّست جيل من الأولاد والبنات في الخمسينيات",
+    "en": "A mutawwa'a who taught a generation of boys and girls in the 1950s"
   },
   "story": {
-    "en": "The street carries the name of Fatima Bint Ali, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم فاطمة بنت علي، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "فاطمة بنت علي بن أحمد الرميثي، وُلدت نحو ١٩١١، مطوعة، ودرّست جيل من الأولاد والبنات في الخمسينيات. وحمل الشارع في التسمية القديمة الرقم ٧٤.",
+    "en": "Fatima bint Ali bin Ahmed Al Rumaithi, born around 1911, was a mutawwa'a, and taught a generation of boys and girls in the 1950s. The street carried the number 74 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: فاطمة بنت علي الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/fatima-bint-ali-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "fatima-bint-obaid-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فاطمة بنت عبيد الرميثي",
   "en": "Fatima Bint Obaid Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "مُدرسة تُعرف في ذلك الزمان بالمطوعة في أبوظبي",
+    "en": "A teacher known in that time as Al Mutawwa'a in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Fatima Bint Obaid, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم فاطمة بنت عبيد، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "فاطمة بنت عبيد بن سعيد العّكال الرميثي، وُلدت نحو ١٩٢٢، مُدرسة، وتُعرف في ذلك الزمان بـ«المطوعة» في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٦.",
+    "en": "Fatima bint Obaid bin Saeed Al Akkali Al Rumaithi, born around 1922, was a teacher known in that time as «Al Mutawwa'a» in Abu Dhabi. The street carried the number 36 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: فاطمة بنت عبيد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/fatima-bint-obaid-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "ghadeer-bin-saeed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع غدير بن سعيد المنصوري",
   "en": "Ghadeer Bin Saeed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "من رجال الظفرة المعروفين ومرافق للشيخ زايد بن سلطان",
+    "en": "A known man of Al Dhafra and a companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Ghadeer Bin Saeed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم غدير بن سعيد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "غدير بن سعيد بن سويد بن تعيب بن حسن المنصوري، وُلد نحو ١٩٣٠، من رجال الظفرة المعروفين، رافق الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٦٥.",
+    "en": "Ghadeer bin Saeed bin Swaid bin Tuaib bin Hassan Al Mansouri, born around 1930, was one of the known men of Al Dhafra who accompanied Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 765 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: غدير بن سعيد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ghadeer-bin-saeed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "ghaith-bin-mohanna-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع غيث بن مهّنا المهيري",
   "en": "Ghaith Bin Mohanna Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مرافق للشيخ شخبوط بن سلطان من أهل أبوظبي",
+    "en": "A companion of Sheikh Shakhbut bin Sultan of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Ghaith Bin Mohanna, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم غيث بن مهّنا، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "غيث بن مهّنا بن سعيد المهيري، وُلد نحو ١٩٢٦، مرافق للشيخ شخبوط بن سلطان آل نهيان، من أهل أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٦٩.",
+    "en": "Ghaith bin Mohanna bin Saeed Al Muhairi, born around 1926, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Abu Dhabi. The street carried the number 269 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: غيث بن مهنا المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ghaith-bin-mohanna-al-muhairi"
+    }
+  ]
 },
 {
   "id": "ghanem-bin-hamila-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع غانم بن هميلة المزروعي",
   "en": "Ghanem Bin Hamila Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Ghanem Bin Hamila, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم غانم بن هميلة، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "غانم بن علي بن هميلة المزروعي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٩٠.",
+    "en": "Ghanem bin Ali bin Hamila Al Mazrouei, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 290 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: غانم بن هميلة المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ghanem-bin-hamila-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "ghanem-bin-jrayw-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع غانم بن جريو المنصوري",
   "en": "Ghanem Bin Jrayw Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "من مشايخ آل بالشعر في منطقة الظفرة",
+    "en": "Of the sheikhs of Al Balshar in the Al Dhafra region"
   },
   "story": {
-    "en": "The street carries the name of Ghanem Bin Jrayw, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم غانم بن جريو، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "غانم بن جريو الغوينمي الشعري المنصوري، وُلد نحو ١٩٢٠، رجل معروف من مشايخ آل بالشعر من أهالي منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٥٨.",
+    "en": "Ghanem bin Jrayw Al Ghweinmi Al Shaari Al Mansouri, born around 1920, was a known man of the sheikhs of Al Balshar, of the people of the Al Dhafra region. The street carried the number 758 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: غانم بن جريو المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ghanem-bin-jrayw-al-mansouri"
+    }
+  ]
 },
 {
   "id": "habis-bin-mudhi-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حابس بن مضحي المنصوري",
   "en": "Habis Bin Mudhi Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف من أبوظبي",
+    "en": "A known poet from Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Habis Bin Mudhi, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حابس بن مضحي، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حابس بن مضحي آل حابس الهدواني المنصوري، وُلد نحو ١٩٣٢، شاعر معروف من أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢١٠.",
+    "en": "Habis bin Mudhi Al Habis Al Hadwani Al Mansouri, born around 1932, was a known poet from Abu Dhabi. The street carried the number 210 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حابس بن مضحي المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/habis-bin-mudhi-al-mansouri"
+    }
+  ]
 },
 {
   "id": "hamad-mohamed-thani-al-rumaithi",
@@ -9302,18 +9810,23 @@ window.STREETS = [
   "id": "hamad-suhail-owaida-al-khyeli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد سهيل عويضة الخييلي",
   "en": "Hamad Suhail Owaida Al Khyeli Street",
   "meaning": {
-    "en": "An Emirati figure of the Khyeli family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "المرافق العسكري للشيخ زايد بن سلطان وبرتبة فريق",
+    "en": "Military companion of Sheikh Zayed bin Sultan, with the rank of lieutenant general"
   },
   "story": {
-    "en": "The street carries the name of Hamad Suhail Owaida, an Emirati figure of the Khyeli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد سهيل عويضة، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمد بن سهيل بن عويضة بن جابر الخييلي، وُلد نحو ١٩٢٠، المرافق العسكري للشيخ زايد بن سلطان آل نهيان، وترقى في السلك العسكري حتى أصبح برتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ٧٨.",
+    "en": "Hamad bin Suhail bin Owaida bin Jaber Al Khaili, born around 1920, was the military companion of Sheikh Zayed bin Sultan Al Nahyan; he rose through the military ranks until he held the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street carried the number 78 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد سهيل عويضة الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamad-suhail-owaida-al-khyeli"
+    }
+  ]
 },
 {
   "id": "hamda-bint-ali-al-rumaithi",
@@ -9336,103 +9849,133 @@ window.STREETS = [
   "id": "hamed-albadi-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد البادي الظاهري",
   "en": "Hamed Albadi Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "رافق الشيخ زايد بن سلطان وأُوكل إليه الإشراف على العزب",
+    "en": "Accompanied Sheikh Zayed bin Sultan and was entrusted with supervising the farms"
   },
   "story": {
-    "en": "The street carries the name of Hamed Albadi, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد البادي، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمد بن محمد بن أحمد بن علي بن حمد البادي الظاهري، وُلد نحو ١٩١٩، رافق الشيخ زايد بن سلطان آل نهيان، وأُوكل إليه الإشراف على العزب، وكانت حياته عامرة بأعمال الخير. وحمل الشارع في التسمية القديمة الرقم ٥٠٣.",
+    "en": "Hamad bin Mohammed bin Ahmed bin Ali bin Hamad Al Badi Al Dhaheri, born around 1919, accompanied Sheikh Zayed bin Sultan Al Nahyan, was entrusted with supervising the farms, and his life was full of good works. The street carried the number 503 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد البادي الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamed-albadi-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "hamed-bin-dasmal-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد بن دسمال السويدي",
   "en": "Hamed Bin Dasmal Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "مساعد الشيخ سلطان بن زايد الأول في جزيرة دلما",
+    "en": "Assistant to Sheikh Sultan bin Zayed the First on Dalma Island"
   },
   "story": {
-    "en": "The street carries the name of Hamed Bin Dasmal, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد بن دسمال، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمد بن دسمال السويدي، وُلد نحو ١٨٧٦، مساعد للشيخ سلطان بن زايد الأول في جزيرة دلما، خلال حكم زايد الأول نحو سنة ١٩٠٦. وحمل الشارع في التسمية القديمة الرقم ٢٥٢.",
+    "en": "Hamad bin Dasmal Al Suwaidi, born around 1876, was assistant to Sheikh Sultan bin Zayed the First on Dalma Island, during the rule of Zayed the First around 1906. The street carried the number 252 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد بن دسمال السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamed-bin-dasmal-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "hamed-bin-dhahi-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد بن ضاحي الكتبي",
   "en": "Hamed Bin Dhahi Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "مرافق للشيخ زايد بن سلطان من أهالي العين",
+    "en": "A companion of Sheikh Zayed bin Sultan of the people of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Hamed Bin Dhahi, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد بن ضاحي، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمد بن سعيد بن ضاحي بن غانم الكتبي، وُلد نحو ١٩١٨، مرافق للشيخ زايد بن سلطان آل نهيان، من أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٥٥٣.",
+    "en": "Hamad bin Saeed bin Dhahi bin Ghanem Al Ketbi, born around 1918, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Ain. The street carried the number 553 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد بن ضاحي الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamed-bin-dhahi-al-ketbi"
+    }
+  ]
 },
 {
   "id": "hamed-bin-musabeh-al-mashghouni",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد بن مصبح المشغوني",
   "en": "Hamed Bin Musabeh Al Mashghouni Street",
   "meaning": {
-    "en": "An Emirati figure of the Mashghouni family",
-    "ar": "شخصية إماراتية من أسرة المشغوني"
+    "ar": "مأذون شرعي عُرف بالإصلاح بين الناس",
+    "en": "A religious notary known for reconciling among people"
   },
   "story": {
-    "en": "The street carries the name of Hamed Bin Musabeh, an Emirati figure of the Mashghouni family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد بن مصبح، وهو شخصية إماراتية من أسرة المشغوني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمد بن محمد بن حمد مصبح المشغوني، وُلد نحو ١٨٩٨، مأذون شرعي وشيخ، عُرف بالإصلاح بين الناس، ومعالج وراقي بلا مقابل. وحمل الشارع في التسمية القديمة الرقم ٣٠٩.",
+    "en": "Hamad bin Mohammed bin Hamad Musabah Al Mashghouni, born around 1898, was a religious notary and a sheikh known for reconciling among people, and a healer and raqi without charge. The street carried the number 309 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد بن مصبح المشغوني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamed-bin-musabeh-al-mashghouni"
+    }
+  ]
 },
 {
   "id": "hamed-bin-saeed-al-hassani",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد بن سعيد الحساني",
   "en": "Hamed Bin Saeed Al Hassani Street",
   "meaning": {
-    "en": "An Emirati figure of the Hassani family",
-    "ar": "شخصية إماراتية من أسرة الحساني"
+    "ar": "قائد شرطة أبوظبي",
+    "en": "Commander of Abu Dhabi Police"
   },
   "story": {
-    "en": "The street carries the name of Hamed Bin Saeed, an Emirati figure of the Hassani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد بن سعيد، وهو شخصية إماراتية من أسرة الحساني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمد بن سعيد بن أحمد الحساني، وُلد نحو ١٩٤١، قائد شرطة أبوظبي، وبدأ عمله في الشرطة سنة ١٩٥٨. وحمل الشارع في التسمية القديمة الرقم ٥٦٤.",
+    "en": "Hamad bin Saeed bin Ahmed Al Hassani, born around 1941, was the commander of Abu Dhabi Police, and began his police work in 1958. The street carried the number 564 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد بن سعيد الحساني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamed-bin-saeed-al-hassani"
+    }
+  ]
 },
 {
   "id": "hamed-bin-suhail-al-khaili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمد بن سهيل الخييلي",
   "en": "Hamed Bin Suhail Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure of the Khaili family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "المرافق العسكري للشيخ زايد بن سلطان وبرتبة فريق",
+    "en": "Military companion of Sheikh Zayed bin Sultan, with the rank of lieutenant general"
   },
   "story": {
-    "en": "The street carries the name of Hamed Bin Suhail, an Emirati figure of the Khaili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمد بن سهيل، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمد بن سهيل بن عويضة بن جابر الخييلي، وُلد نحو ١٩٢٠، المرافق العسكري للشيخ زايد بن سلطان آل نهيان، وترقى في السلك العسكري حتى أصبح برتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ٥٦٩.",
+    "en": "Hamad bin Suhail bin Owaida bin Jaber Al Khaili, born around 1920, was the military companion of Sheikh Zayed bin Sultan Al Nahyan; he rose through the military ranks until he held the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street carried the number 569 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمد بن سهيل الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamed-bin-suhail-al-khaili"
+    }
+  ]
 },
 {
   "id": "hamed-bu-qitah-al-dhaheri",
@@ -9460,35 +10003,45 @@ window.STREETS = [
   "id": "hamel-bin-khadim-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع هامل بن خادم القبيسي",
   "en": "Hamel Bin Khadim Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "عضو المجلس الاستشاري الوطني وغرفة التجارة والمجلس البلدي",
+    "en": "Member of the National Consultative Council, the Chamber of Commerce and the Municipal Council"
   },
   "story": {
-    "en": "The street carries the name of Hamel Bin Khadim, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هامل بن خادم، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "هامل بن خادم الغيث القبيسي، وُلد نحو ١٩٣١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو مجلس غرفة التجارة سنة ١٩٦٩، وعضو المجلس البلدي في أبوظبي، وعُرف بأعمال الخير. وحمل الشارع في التسمية القديمة الرقم ٣٠٣.",
+    "en": "Hamel bin Khadim Al Ghait Al Qubaisi, born around 1931, was a member of the National Consultative Council in 1971, of the Chamber of Commerce board in 1969, and of the Municipal Council in Abu Dhabi, and was known for good works. The street carried the number 303 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: هامل بن خادم القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hamel-bin-khadim-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "hammad-bin-salem-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حماد بن سالم الكتبي",
   "en": "Hammad Bin Salem Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "خال الشيخة فاطمة بنت مبارك (أم الإمارات)",
+    "en": "Maternal uncle of Sheikha Fatima bint Mubarak (Mother of the Nation)"
   },
   "story": {
-    "en": "The street carries the name of Hammad Bin Salem, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حماد بن سالم، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حماد بن سالم بن عبدالله بن سالم الكتبي، وُلد نحو ١٩١٣، أحد رجالات إمارة أبوظبي، وهو خال الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٧٦.",
+    "en": "Hammad bin Salem bin Abdullah bin Salem Al Ketbi, born around 1913, was one of the notables of the Emirate of Abu Dhabi, and the maternal uncle of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 576 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حماد بن سالم الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hammad-bin-salem-al-ketbi"
+    }
+  ]
 },
 {
   "id": "hamouda-bin-ali-al-dhaheri",
@@ -9516,52 +10069,67 @@ window.STREETS = [
   "id": "harib-bin-meghair-al-khyeli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حارب بن مغير الخييلي",
   "en": "Harib Bin Meghair Al Khyeli Street",
   "meaning": {
-    "en": "An Emirati figure of the Khyeli family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "شارك في واقعة الشميريخات وجرح فيها",
+    "en": "Took part in the affair of Al Shmeirikhat and was wounded there"
   },
   "story": {
-    "en": "The street carries the name of Harib Bin Meghair, an Emirati figure of the Khyeli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حارب بن مغير، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حارب بن مغير بن جابر الخييلي، وُلد نحو ١٩٠٨، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٢٠.",
+    "en": "Harib bin Meghair bin Jaber Al Khyeli, born around 1908, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 620 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حارب بن مغير الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/harib-bin-meghair-al-khyeli"
+    }
+  ]
 },
 {
   "id": "hasan-bin-hamila-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حسن بن هميلة المزروعي",
   "en": "Hasan Bin Hamila Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر معروف من أهل إليوا",
+    "en": "A known poet of the people of Liwa"
   },
   "story": {
-    "en": "The street carries the name of Hasan Bin Hamila, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حسن بن هميلة، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حسن بن راشد بن هميلة المزروعي، وُلد نحو ١٨٩٥، شاعر معروف من أهل إليوا. وحمل الشارع في التسمية القديمة الرقم ٢٢١.",
+    "en": "Hasan bin Rashid bin Hamila Al Mazrouei, born around 1895, was a known poet of the people of Liwa. The street carried the number 221 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حسن بن هميلة المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hasan-bin-hamila-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "hasan-bin-rahma-al-zaabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حسن بن رحمه الزعابي",
   "en": "Hasan Bin Rahma Al Zaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Zaabi family",
-    "ar": "شخصية إماراتية من أسرة الزعابي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Hasan Bin Rahma, an Emirati figure of the Zaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حسن بن رحمه، وهو شخصية إماراتية من أسرة الزعابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حسن بن رحمه الزعابي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٤.",
+    "en": "Hasan bin Rahma Al Zaabi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 54 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حسن بن رحمه الزعابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hasan-bin-rahma-al-zaabi"
+    }
+  ]
 },
 {
   "id": "hashim-bin-sabah-al-rumaithi",
@@ -9584,307 +10152,397 @@ window.STREETS = [
   "id": "hazza-bin-nasser-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع هزاع بن ناصر المنصوري",
   "en": "Hazza' Bin Nasser Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ زايد بن سلطان يُعرف براعي البويضا",
+    "en": "A companion of Sheikh Zayed bin Sultan known as Rai Al Buwaidha"
   },
   "story": {
-    "en": "The street carries the name of Hazza' Bin Nasser, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هزاع بن ناصر، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "هزاع بن ناصر بن حمدان بن سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان، ويُعرف بـ«راعي البويضا»، وتوفي سنة ٢٠١٢. وحمل الشارع في التسمية القديمة الرقم ٣٠٦.",
+    "en": "Hazza bin Nasser bin Hamdan bin Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan, known as «Rai Al Buwaidha»; he died in 2012. The street carried the number 306 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: هزاع بن ناصر المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hazza-bin-nasser-al-mansouri"
+    }
+  ]
 },
 {
   "id": "hilal-bin-mohammed-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع هلال بن محمد الظاهري",
   "en": "Hilal Bin Mohammed Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "أُوكلت إليه دلالة الرحالة الألماني بورخارت سنة ١٩٠٤",
+    "en": "Entrusted with guiding the German traveller Burckhardt in 1904"
   },
   "story": {
-    "en": "The street carries the name of Hilal Bin Mohammed, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هلال بن محمد، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "هلال بن محمد بن هلال بن محمد بن سعيد الظاهري، وُلد نحو ١٨٧٠، في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩) أُوكلت إليه دلالة الرحالة الألماني بورخارت سنة ١٩٠٤. وحمل الشارع في التسمية القديمة الرقم ٥٨٦.",
+    "en": "Hilal bin Mohammed bin Hilal bin Mohammed bin Saeed Al Dhaheri, born around 1870, in the time of Sheikh Zayed the First (1855–1909) was entrusted with guiding the German traveller Burckhardt in 1904. The street carried the number 586 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: هلال بن محمد الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hilal-bin-mohammed-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "hilal-bin-saeed-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع هلال بن سعيد الفلاحي",
   "en": "Hilal Bin Saeed Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "ممثل الحاكم في منطقة الظفرة",
+    "en": "The ruler's representative in the Al Dhafra region"
   },
   "story": {
-    "en": "The street carries the name of Hilal Bin Saeed, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هلال بن سعيد، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "هلال بن سعيد بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٩٩، وعُيِّن ممثلاً للحاكم في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٢٦.",
+    "en": "Hilal bin Saeed bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1899, was appointed ruler's representative in the Al Dhafra region. The street carried the number 226 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: هلال بن سعيد الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hilal-bin-saeed-al-falahi"
+    }
+  ]
 },
 {
   "id": "hillal-bin-bathan-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع هلال بن بطحان الهاملي",
   "en": "Hillal Bin Bathan Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شيخ علم ومطوع في جزيرة دلما",
+    "en": "A scholar and mutawwa' in Dalma Island"
   },
   "story": {
-    "en": "The street carries the name of Hillal Bin Bathan, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هلال بن بطحان، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "هلال بن خليفة بن بطحان الهاملي، وُلد نحو ١٩٣٠، شيخ علم ومطوع في جزيرة دلما. وحمل الشارع في التسمية القديمة الرقم ٣٨.",
+    "en": "Hilal bin Khalifa bin Bathan Al Hameli, born around 1930, was a scholar and mutawwa' in Dalma Island. The street carried the number 38 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: هلال بن بطحان الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hillal-bin-bathan-al-hameli"
+    }
+  ]
 },
 {
   "id": "humaid-al-sabbari-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حميد الصباري الرميثي",
   "en": "Humaid Al Sabbari Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "أُوكل إليه حراسة خور غناضة ويُكنى بالصباري",
+    "en": "Entrusted with guarding Khor Ghanadha and nicknamed Al Sabbari"
   },
   "story": {
-    "en": "The street carries the name of Humaid Al Sabbari, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حميد الصباري، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حميد بن أحمد بن سعيد بن ميزر بن سعيد الرميثي، وُلد نحو ١٩٢١، من رجال أبوظبي، وأُوكل إليه حراسة خور غناضة، ويُكنى بالصباري. وحمل الشارع في التسمية القديمة الرقم ٣٦٩.",
+    "en": "Humaid bin Ahmed bin Saeed bin Mizar bin Saeed Al Rumaithi, born around 1921, was one of the men of Abu Dhabi, entrusted with guarding Khor Ghanadha, and was nicknamed «Al Sabbari». The street carried the number 369 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حميد الصباري الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/humaid-al-sabbari-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "humaid-alhasm-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حميد الحصم الرميثي",
   "en": "Humaid Alhasm Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "من رجال أبوظبي المعروفين في عهد الزايد الأول",
+    "en": "A known man of Abu Dhabi in the time of Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Humaid Alhasm, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حميد الحصم، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حميد بن ثاني الحصم الرميثي، وُلد نحو ١٨٠٠، من رجال أبوظبي المعروفين الذين عاصروا عهد الشيخ شخبوط بن ذياب وعهد الشيخ زايد الأول، وعُرف بأعمال الخير كحفر الآبار، وله مسجد قديم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٦.",
+    "en": "Humaid bin Thani Al Hasm Al Rumaithi, born around 1800, was one of the known men of Abu Dhabi who lived through the time of Sheikh Shakhbut bin Dhiyab and the time of Sheikh Zayed the First; he was known for good works such as digging wells, and he has an old mosque in Abu Dhabi. The street carried the number 66 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حميد الحصم الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/humaid-alhasm-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "humaid-bin-abdullah-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حميد بن عبدالله الرميثي",
   "en": "Humaid Bin Abdullah Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "من كبار نواخذة الغوص والتجارة في أبوظبي",
+    "en": "A senior nawkhadha of the diving and pearl trade in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Humaid Bin Abdullah, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حميد بن عبدالله، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حميد بن عبدالله بن حميد بن مرشد بن سالم الرميثي، وُلد نحو ١٩٠٥، من كبار نواخذة الغوص والتجارة من أهل أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٠٣.",
+    "en": "Humaid bin Abdullah bin Humaid bin Murshid bin Salem Al Rumaithi, born around 1905, was one of the senior nawkhadhas of the diving and pearl trade of the people of Abu Dhabi. The street carried the number 203 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حميد بن عبدالله الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/humaid-bin-abdullah-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "humaid-bin-khalfan-al-nuaimi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حميد بن خلفان النعيمي",
   "en": "Humaid Bin Khalfan Al Nuaimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Nuaimi family",
-    "ar": "شخصية إماراتية من أسرة النعيمي"
+    "ar": "شاعر من شعراء المنطقة الشرقية يُكنى بالهاله",
+    "en": "A poet of the Eastern Region nicknamed Al Hala"
   },
   "story": {
-    "en": "The street carries the name of Humaid Bin Khalfan, an Emirati figure of the Nuaimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حميد بن خلفان، وهو شخصية إماراتية من أسرة النعيمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حميد بن خلفان بن حمد الفليتي النعيمي، وُلد نحو ١٨٩٠، شاعر معروف من شعراء المنطقة الشرقية، ويُكنى بـ«الهاله»، واشتهر بأدائه لفن التغرودة التي تحمل في ثناياها الأحداث والأخبار الجارية في ذلك الزمان. وحمل الشارع في التسمية القديمة الرقم ٦٠٧.",
+    "en": "Humaid bin Khalfan bin Hamd Al Filaiti Al Nuaimi, born around 1890, was a known poet of the Eastern Region, nicknamed «Al Hala», and was known for his performance of the taghrooda, which carries within it the events and news of that time. The street carried the number 607 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حميد بن خلفان النعيمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/humaid-bin-khalfan-al-nuaimi"
+    }
+  ]
 },
 {
   "id": "humayed-bin-dahanan-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمَيّد بن دحنان الفلاحي",
   "en": "Humayed Bin Dahanan Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "مكلّف بجمع زكاة التمور وشاعر من الظفرة",
+    "en": "Tasked with collecting date zakat and a poet of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Humayed Bin Dahanan, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمَيّد بن دحنان، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حمَيّد بن محمد بن زايد بن دحنان آل محمد الفلاحي، وُلد نحو ١٩٠٥، أحد المكلفين بجمع زكاة التمور في عهد الشيخ شخبوط بن سلطان آل نهيان، ويُعد أحد شعراء الظفرة المعروفين. وحمل الشارع في التسمية القديمة الرقم ٣٤٤.",
+    "en": "Humaid bin Mohammed bin Zayed bin Dahanan Al Mohammed Al Falahi, born around 1905, was one of those tasked with collecting date zakat under Sheikh Shakhbut bin Sultan Al Nahyan, and is among the known poets of Al Dhafra. The street carried the number 344 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمَيّد بن دحنان الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/humayed-bin-dahanan-al-falahi"
+    }
+  ]
 },
 {
   "id": "issa-bin-jaber-al-khaili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عيسى بن جابر الخييلي",
   "en": "Issa Bin Jaber Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure of the Khaili family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "مرافق للشيخ زايد بن سلطان وعامل في الحرس الأميري",
+    "en": "A companion of Sheikh Zayed bin Sultan who worked in the Amiri Guard"
   },
   "story": {
-    "en": "The street carries the name of Issa Bin Jaber, an Emirati figure of the Khaili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عيسى بن جابر، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عيسى بن جابر بن راشد جابر الخييلي، وُلد نحو ١٩٣٧، مرافق للشيخ زايد بن سلطان آل نهيان، وعمل في الحرس الأميري. وحمل الشارع في التسمية القديمة الرقم ٦٠٣.",
+    "en": "Issa bin Jaber bin Rashid Jaber Al Khaili, born around 1937, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and worked in the Amiri Guard. The street carried the number 603 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عيسى بن جابر الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/issa-bin-jaber-al-khaili"
+    }
+  ]
 },
 {
   "id": "issa-bin-muhair-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عيسى بن مهير المزروعي",
   "en": "Issa Bin Muhair Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر معروف من أهل دلما",
+    "en": "A known poet of the people of Dalma"
   },
   "story": {
-    "en": "The street carries the name of Issa Bin Muhair, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عيسى بن مهير، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عيسى بن مهير بن سيف بن عيسى المزروعي، وُلد نحو ١٩٤٨، شاعر معروف من أهل دلما. وحمل الشارع في التسمية القديمة الرقم ١٠٧.",
+    "en": "Issa bin Muhair bin Saif bin Issa Al Mazrouei, born around 1948, was a known poet of the people of Dalma. The street carried the number 107 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عيسى بن مهير المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/issa-bin-muhair-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "issa-bin-qatami-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سليمان بن قطامي المنصوري",
   "en": "Issa Bin Qatami Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Issa Bin Qatami, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سليمان بن قطامي، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سليمان بن محمد بن قطامي المطيوعي المنذري المنصوري، وُلد نحو ١٩٣٠، شاعر معروف من أهل الظفرة.",
+    "en": "Suleiman bin Mohammed bin Qatami Al Matyoui Al Mundhiri Al Mansouri, born around 1930, was a known poet of the people of Al Dhafra."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سليمان بن قطامي المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/issa-bin-qatami-al-mansouri"
+    }
+  ]
 },
 {
   "id": "jabed-bin-hayy-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جابر بن هياي المنصوري",
   "en": "Jabed Bin Hayy Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف في إمارة أبوظبي وله حكم وأمثال",
+    "en": "A known poet of Abu Dhabi whose verses carry wisdom and proverbs"
   },
   "story": {
-    "en": "The street carries the name of Jabed Bin Hayy, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جابر بن هياي، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "جابر بن عبيد بن سالم بن هياي المنصوري، وُلد نحو ١٩٣٦، شاعر معروف في إمارة أبوظبي، يزخر ديوانه بأبيات الحكم والأمثال.",
+    "en": "Jaber bin Obaid bin Salem bin Hayyai Al Mansouri, born around 1936, was a known poet in the Emirate of Abu Dhabi, whose diwan teems with verses of wisdom and proverbs."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جابر بن هياي المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/jabed-bin-hayy-al-mansouri"
+    }
+  ]
 },
 {
   "id": "juma-bin-adl-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة بن عدل الرميثي",
   "en": "Juma Bin Adl Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر معروف من شعراء أبوظبي",
+    "en": "A known poet of the poets of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Juma Bin Adl, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة بن عدل، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "جمعة بن محمد بن عدل بن محمد بن عبيد بن سعيد بن ميزر الرميثي، وُلد نحو ١٩١٠، شاعر معروف من شعراء أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٤٦.",
+    "en": "Juma bin Mohammed bin Adl bin Mohammed bin Obaid bin Saeed bin Mizar Al Rumaithi, born around 1910, was a known poet of the poets of Abu Dhabi. The street carried the number 346 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جمعة بن عدل الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/juma-bin-adl-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "juma-bin-kasla-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة بن كسلا الرميثي",
   "en": "Juma Bin Kasla Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر معروف في عهد الشيخ زايد الأول",
+    "en": "A known poet in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Juma Bin Kasla, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة بن كسلا، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "جمعة بن محمد بن كسلا الرميثي، وُلد نحو ١٨٩٠، شاعر معروف في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١٦٥.",
+    "en": "Juma bin Mohammed bin Kasla Al Rumaithi, born around 1890, was a known poet in the time of Sheikh Zayed the First. The street carried the number 165 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جمعة بن كسلا الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/juma-bin-kasla-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "juma-bin-mohammed-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة بن محمد الهاملي",
   "en": "Juma Bin Mohammed Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات",
+    "en": "A mu'arraf of the advisory committee for nationality and passports"
   },
   "story": {
-    "en": "The street carries the name of Juma Bin Mohammed, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة بن محمد، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "جمعة بن محمد بن علي بن صباح الهاملي، وُلد نحو ١٩٢٥، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ٧٥٥.",
+    "en": "Juma bin Mohammed bin Ali bin Sabah Al Hameli, born around 1925, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968. The street carried the number 755 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جمعة بن محمد الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/juma-bin-mohammed-al-hameli"
+    }
+  ]
 },
 {
   "id": "juma-bin-shamtt-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة بن شمط الكتبي",
   "en": "Juma Bin Shamtt Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "شاعر معروف يُعرف براعي سبلا وامتهن الغوص",
+    "en": "A known poet nicknamed Rai Sabla who practised pearl diving"
   },
   "story": {
-    "en": "The street carries the name of Juma Bin Shamtt, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة بن شمط، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "جمعة بن سيف بن حمد بن مصبح بن شمط الكتبي، وُلد نحو ١٨٧٥، شاعر معروف يُعرف بـ«راعي سبلا»، من أهالي منطقة المسعودي بمدينة العين، امتهن الغوص. وحمل الشارع في التسمية القديمة الرقم ٥٧٠.",
+    "en": "Juma bin Saif bin Hamad bin Musabah bin Shamt Al Ketbi, born around 1875, was a known poet known as «Rai Sabla», of the people of the Al Masoudi area in Al Ain city; he practised pearl diving. The street carried the number 570 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جمعة بن شمط الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/juma-bin-shamtt-al-ketbi"
+    }
+  ]
 },
 {
   "id": "juma-bin-sinan-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة بن سنان المهيري",
   "en": "Juma Bin Sinan Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "عالم من أهالي البطين بنى مسجداً قديماً فيها",
+    "en": "A scholar of Al Bateen who built an old mosque there"
   },
   "story": {
-    "en": "The street carries the name of Juma Bin Sinan, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة بن سنان، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "جمعة بن سنان بن خادم بن جمعة بن راشد المهيري، وُلد نحو ١٨٦٢، عالم من أهالي البطين، وبنى مسجداً قديماً في البطين. وحمل الشارع في التسمية القديمة الرقم ٤٩.",
+    "en": "Juma bin Sinan bin Khadim bin Juma bin Rashid Al Muhairi, born around 1862, was a scholar of the people of Al Bateen, and built an old mosque in Al Bateen. The street carried the number 49 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جمعة بن سنان المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/juma-bin-sinan-al-muhairi"
+    }
+  ]
 },
 {
   "id": "juma-bu-jamhour-al-qubaisi",
@@ -9916,341 +10574,441 @@ window.STREETS = [
   "id": "khadim-bin-mohammed-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خادم بن محمد الرميثي",
   "en": "Khadim Bin Mohammed Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "من مرافقي الشيخ زايد بن سلطان وعضو المجلس الاستشاري الوطني",
+    "en": "A companion of Sheikh Zayed bin Sultan and member of the National Consultative Council"
   },
   "story": {
-    "en": "The street carries the name of Khadim Bin Mohammed, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خادم بن محمد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خادم بن محمد بن مطر بن محمد بن خادم الرميثي، وُلد نحو ١٩٣٦، من مرافقي الشيخ زايد بن سلطان آل نهيان، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠١١. وحمل الشارع في التسمية القديمة الرقم ٣٦٥.",
+    "en": "Khadim bin Mohammed bin Matar bin Mohammed bin Khadim Al Rumaithi, born around 1936, was one of the companions of Sheikh Zayed bin Sultan Al Nahyan, a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2011. The street carried the number 365 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خادم بن محمد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khadim-bin-mohammed-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "khalaf-bin-mohammed-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلف بن محمد المهيري",
   "en": "Khalaf Bin Mohammed Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "عمل في قوة ساحل عمان وحارساً لبرج المقطع",
+    "en": "Served in the Oman Coast Force and as a guard of Burj Al Maqta"
   },
   "story": {
-    "en": "The street carries the name of Khalaf Bin Mohammed, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خلف بن محمد، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خلف بن محمد بن حاضر المهيري، وُلد نحو ١٩٠٣، عمل في قوة ساحل عمان منذ تأسيسها، وكان حارساً لبرج المقطع سنة ١٩٥٨. وحمل الشارع في التسمية القديمة الرقم ١٧٣.",
+    "en": "Khalaf bin Mohammed bin Hader Al Muhairi, born around 1903, worked in the Oman Coast Force since its establishment, and was a guard of Burj Al Maqta in 1958. The street carried the number 173 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلف بن محمد المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalaf-bin-mohammed-al-muhairi"
+    }
+  ]
 },
 {
   "id": "khalfan-bin-mohammed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلفان بن محمد المنصوري",
   "en": "Khalfan Bin Mohammed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Khalfan Bin Mohammed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خلفان بن محمد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خلفان بن محمد بن مبارك الحديلي المنصوري، وُلد نحو ١٩١٨، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣٥٧.",
+    "en": "Khalfan bin Mohammed bin Mubarak Al Hadhili Al Mansouri, born around 1918, was a known poet of the people of Al Dhafra. The street carried the number 357 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلفان بن محمد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalfan-bin-mohammed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "khalfan-bin-ramadan-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلفان بن رمضان المنصوري",
   "en": "Khalfan Bin Ramadan Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر من الظفرة ومرافق للشيخ زايد بن سلطان",
+    "en": "A poet of Al Dhafra and a companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Khalfan Bin Ramadan, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خلفان بن رمضان، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خلفان بن عبدالرحمن بن رمضان المنصوري، وُلد نحو ١٩٣٦، شاعر معروف من أهل الظفرة، ومن مرافقي الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٠٧.",
+    "en": "Khalfan bin Abdulrahman bin Ramadan Al Mansouri, born around 1936, was a known poet of the people of Al Dhafra and one of the companions of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 307 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلفان بن رمضان المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalfan-bin-ramadan-al-mansouri"
+    }
+  ]
 },
 {
   "id": "khalfan-bin-saeed-al-hassani",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلفان بن سعيد الحساني",
   "en": "Khalfan Bin Saeed Al Hassani Street",
   "meaning": {
-    "en": "An Emirati figure of the Hassani family",
-    "ar": "شخصية إماراتية من أسرة الحساني"
+    "ar": "من الأوائل المنتسبين لقوة ساحل عمان",
+    "en": "Among the first to join the Oman Coast Force"
   },
   "story": {
-    "en": "The street carries the name of Khalfan Bin Saeed, an Emirati figure of the Hassani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خلفان بن سعيد، وهو شخصية إماراتية من أسرة الحساني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خلفان بن سعيد بن حمد الحساني، وُلد نحو ١٩٣٥، من الأوائل المنتسبين لقوة ساحل عمان. وحمل الشارع في التسمية القديمة الرقم ٥٤٥.",
+    "en": "Khalfan bin Saeed bin Hamad Al Hassani, born around 1935, was among the first to join the Oman Coast Force. The street carried the number 545 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلفان بن سعيد الحساني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalfan-bin-saeed-al-hassani"
+    }
+  ]
 },
 {
   "id": "khalifa-ahmed-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة أحمد المحيربي",
   "en": "Khalifa Ahmed Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "أسهم في الحفاظ على التراث والرياضات التراثية",
+    "en": "Contributed to preserving heritage and heritage sports"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Ahmed, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة أحمد، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن أحمد بن خلفان المحيربي، من الذين كانت لهم إسهامات في الحفاظ على التراث والرياضات التراثية وحمايتها، وبخاصة الصيد بالصقور والسباقات البحرية. وحمل الشارع في التسمية القديمة الرقم ٨٠٢.",
+    "en": "Khalifa bin Ahmed bin Khalfan Al Muhairbi is among those who had contributions to preserving and protecting heritage and heritage sports, in particular falconry and sea races. The street carried the number 802 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة أحمد المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-ahmed-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-ahmed-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن أحمد السويدي",
   "en": "Khalifa Bin Ahmed Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "والد أحمد بن خليفة السويدي والشاعرة عوشة بنت خليفة",
+    "en": "Father of Ahmed bin Khalifa Al Suwaidi and the poetess Ousha bint Khalifa"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Ahmed, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن أحمد، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن أحمد بن خليفة بن خميس بن يعروف السويدي، وُلد نحو ١٩٠٠، والد أحمد بن خليفة السويدي والشاعرة عوشة بنت خليفة (فتاة العرب). وحمل الشارع في التسمية القديمة الرقم ١٩٠.",
+    "en": "Khalifa bin Ahmed bin Khalifa bin Khamis bin Yarouf Al Suwaidi, born around 1900, was the father of Ahmed bin Khalifa Al Suwaidi and of the poetess Ousha bint Khalifa (the Girl of the Arabs). The street carried the number 190 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن أحمد السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-ahmed-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-hasoom-al-darmaki",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن حاسوم الدرمكي",
   "en": "Khalifa Bin Hasoom Al Darmaki Street",
   "meaning": {
-    "en": "An Emirati figure of the Darmaki family",
-    "ar": "شخصية إماراتية من أسرة الدرمكي"
+    "ar": "ضابط في القوات المسلحة ترقى إلى رتبة عميد",
+    "en": "An Armed Forces officer who rose to the rank of brigadier"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Hasoom, an Emirati figure of the Darmaki family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن حاسوم، وهو شخصية إماراتية من أسرة الدرمكي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن سالم بن سعيد بن حاسوم الدرمكي، وُلد نحو ١٩٣٧، حاصل على وسام الإمارات، ومن رجال القوات المسلحة الذين خدموا في بداية تأسيس قوة دفاع أبوظبي، وتدرج في الرتب العسكرية حتى رتبة عميد. وحمل الشارع في التسمية القديمة الرقم ٥٥٧.",
+    "en": "Khalifa bin Salem bin Saeed bin Hasoom Al Darmaki, born around 1937, received the UAE Medal, and was among the Armed Forces men who served at the beginning of the Abu Dhabi Defence Force; he rose through the military ranks to the rank of brigadier. The street carried the number 557 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن حاسوم الدرمكي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-hasoom-al-darmaki"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-hweeden-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن هويدن الكتبي",
   "en": "Khalifa Bin Hweeden Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Hweeden, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن هويدن، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن سعيد بن هويدن الكتبي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٦٠٥.",
+    "en": "Khalifa bin Saeed bin Hweeden Al Ketbi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 605 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن هويدن الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-hweeden-al-ketbi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-khamis-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن خميس السويدي",
   "en": "Khalifa Bin Khamis Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "شيخ علم وتاجر والد الأعلى لأحمد بن خليفة السويدي",
+    "en": "A scholar and merchant, forefather of Ahmed bin Khalifa Al Suwaidi"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Khamis, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن خميس، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن خميس بن يعروف السويدي، وُلد نحو ١٨٠١، شيخ علم وتاجر في أبوظبي، وهو الجد الأعلى لأحمد بن خليفة السويدي، وتوفي حاجاً بمكة المكرمة ودُفن فيها. وحمل الشارع في التسمية القديمة الرقم ١٦٢.",
+    "en": "Khalifa bin Khamis bin Yarouf Al Suwaidi, born around 1801, was a scholar and merchant in Abu Dhabi and the forefather of Ahmed bin Khalifa Al Suwaidi; he died while performing hajj in Makkah and was buried there. The street carried the number 162 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن خميس السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-khamis-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-metref-al-jabri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن مترف الجابري",
   "en": "Khalifa Bin Metref Al Jabri Street",
   "meaning": {
-    "en": "An Emirati figure of the Jabri family",
-    "ar": "شخصية إماراتية من أسرة الجابري"
+    "ar": "شاعر وضابط في القوات المسلحة من أهل العين",
+    "en": "A poet and Armed Forces member of the people of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Metref, an Emirati figure of the Jabri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن مترف، وهو شخصية إماراتية من أسرة الجابري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن محمد بن حميد بن هزاع بن مترف الجابري، وُلد نحو ١٩٤٥، شاعر معروف وأحد منتسبي القوات المسلحة، من أهالي مدينة العين، وحصل على وسام الشرف من الملكة إليزابيث ملكة بريطانيا سنة ١٩٦٧. وحمل الشارع في التسمية القديمة الرقم ٥٧١.",
+    "en": "Khalifa bin Mohammed bin Humaid bin Hazza bin Metref Al Jabri, born around 1945, was a known poet and a member of the Armed Forces, of the people of Al Ain city, and received an honorary award from Queen Elizabeth, Queen of Britain, in 1967. The street carried the number 571 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن مترف الجابري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-metref-al-jabri"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-swaidan-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن سويدان المحيربي",
   "en": "Khalifa Bin Swaidan Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "قائد حراس المناطق الغربية سنة ١٩٣٤",
+    "en": "Commander of the guards of the western regions in 1934"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Swaidan, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن سويدان، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن سويدان بن زعل المحيربي، وُلد نحو ١٨٩٥، وكان قائداً لحراس المناطق الغربية سنة ١٩٣٤ (الطف – راس غميس وصير بني ياس). وحمل الشارع في التسمية القديمة الرقم ٧٦٣.",
+    "en": "Khalifa bin Swaidan bin Zaal Al Muhairbi, born around 1895, was commander of the guards of the western regions in 1934 (Al Taff – Ras Ghumais and Sir Bani Yas). The street carried the number 763 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن سويدان المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-swaidan-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-yaed-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن ياعد القبيسي",
   "en": "Khalifa Bin Yaed Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "مطوع وشاعر من أهالي دلما وجزيرة الياس",
+    "en": "A mutawwa' and poet of Dalma and Al Yas Island"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Yaed, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن ياعد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٠٠، مطوع وشاعر معروف من أهالي جزيرة دلما وجزيرة الياس، عمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٧٧٧.",
+    "en": "Khalifa bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1900, was a mutawwa' and known poet of the people of Dalma Island and Al Yas Island, and worked in pearl diving. The street carried the number 777 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن ياعد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-yaed-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-yousef-al-khemairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن يوسف الخميري",
   "en": "Khalifa Bin Yousef Al Khemairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Khemairi family",
-    "ar": "شخصية إماراتية من أسرة الخميري"
+    "ar": "قاضٍ في عهد الشيخ زايد الأول",
+    "en": "A judge in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Yousef, an Emirati figure of the Khemairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن يوسف، وهو شخصية إماراتية من أسرة الخميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن يوسف بن علي الخميري، وُلد نحو ١٨٨٠، قاضٍ في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٢٨٠.",
+    "en": "Khalifa bin Yousef bin Ali Al Khemairi, born around 1880, was a judge under Sheikh Zayed the First (1855–1909). The street carried the number 280 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن يوسف الخميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-yousef-al-khemairi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-yousef-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن يوسف السويدي",
   "en": "Khalifa Bin Yousef Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "رئيس ديوان ومستشار الشيخ شخبوط وعضو مجالس أبوظبي",
+    "en": "Head of the diwan and adviser to Sheikh Shakhbut, and a member of Abu Dhabi councils"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Yousef, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن يوسف، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن يوسف بن أحمد بن عبيد السويدي، وُلد نحو ١٩١٥، رئيس ديوان ومستشار الشيخ شخبوط بن سلطان آل نهيان، وعضو مجلس أبوظبي للتخطيط والمجلس البلدي وغرفة تجارة وصناعة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٢٣.",
+    "en": "Khalifa bin Yousef bin Ahmed bin Obaid Al Suwaidi, born around 1915, was head of the diwan and adviser to Sheikh Shakhbut bin Sultan Al Nahyan, and a member of the Abu Dhabi Planning Council, the Municipal Council, and the Abu Dhabi Chamber of Commerce and Industry. The street carried the number 323 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن يوسف السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-yousef-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "khamis-bin-ali-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خميس بن علي المزروعي",
   "en": "Khamis Bin Ali Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "من شيوخ المزاريع أشرف على بناء قلعة موقب",
+    "en": "A sheikh of the Mazarei who supervised the building of the fort of Mwaqab"
   },
   "story": {
-    "en": "The street carries the name of Khamis Bin Ali, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خميس بن علي، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خميس بن علي بن خميس بن مفلح آل رويشد المزروعي، وُلد نحو ١٨٨٠، من شيوخ المزاريع، أشرف على بناء قلعة موقب في إليوا في عهد الشيخ سلطان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٢٣٧.",
+    "en": "Khamis bin Ali bin Khamis bin Mufleh Al Ruwaidh Al Mazrouei, born around 1880, was one of the sheikhs of the Mazarei; he supervised the building of the fort of Mwaqab in Liwa under Sheikh Sultan bin Zayed the First. The street carried the number 237 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خميس بن علي المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khamis-bin-ali-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "khamis-bin-mohammed-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خميس بن محمد المزروعي",
   "en": "Khamis Bin Mohammed Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "معّرف في اللجنة الاستشارية وشاعر امتهن الغوص",
+    "en": "A mu'arraf of the advisory committee and a poet who practised pearl diving"
   },
   "story": {
-    "en": "The street carries the name of Khamis Bin Mohammed, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خميس بن محمد، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خميس بن محمد بن علي المزروعي، وُلد نحو ١٩١٨، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨، وشاعر معروف امتهن الغوص أول مهنة في حياته. وحمل الشارع في التسمية القديمة الرقم ٢٨٢.",
+    "en": "Khamis bin Mohammed bin Ali Al Mazrouei, born around 1918, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968, and a known poet who practised pearl diving as the first profession in his life. The street carried the number 282 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خميس بن محمد المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khamis-bin-mohammed-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "khamis-bin-saeed-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خميس بن سعيد القبيسي",
   "en": "Khamis Bin Saeed Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "إمام وشيخ علم ومدرس ثم إمام مسجد المهندي في دلما",
+    "en": "An imam, scholar and teacher, then imam of Al Muhindi Mosque in Dalma"
   },
   "story": {
-    "en": "The street carries the name of Khamis Bin Saeed, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خميس بن سعيد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خميس بن سعيد بن عتيق القبيسي، وُلد نحو ١٩٢٢، إمام وشيخ علم ومدرس في مدرسة العتيبة، وانتقل إلى جزيرة دلما حيث تولى الإمامة وشؤون المصلين في مسجد المهندي. وحمل الشارع في التسمية القديمة الرقم ٧٧٤.",
+    "en": "Khamis bin Saeed bin Atiq Al Qubaisi, born around 1922, was an imam, scholar and teacher at Al Otaiba School, and moved to Dalma Island where he took charge of the imamate and the affairs of worshippers at Al Muhindi Mosque. The street carried the number 774 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خميس بن سعيد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khamis-bin-saeed-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "khamis-bin-zaal-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خميس بن زعل الرميثي",
   "en": "Khamis Bin Zaal Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "حافظ على تراث أبوظبي وزرع القرم فيها",
+    "en": "Preserved Abu Dhabi's heritage and cultivated its mangroves"
   },
   "story": {
-    "en": "The street carries the name of Khamis Bin Zaal, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خميس بن زعل، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خميس بن راشد بن زعل بن راشد الرميثي، وُلد نحو ١٩٣٤، كان مهتماً بتراث أبوظبي ومحافظاً عليه، ومن أشهر أعماله زراعة القرم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٤١.",
+    "en": "Khamis bin Rashid bin Zaal bin Rashid Al Rumaithi, born around 1934, was interested in the heritage of Abu Dhabi and preserved it; among his best-known works is his cultivation of mangroves in Abu Dhabi. The street carried the number 41 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خميس بن زعل الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khamis-bin-zaal-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "kulaib-bin-abdullah-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع كليب بن عبدالله الهاملي",
   "en": "Kulaib Bin Abdullah Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "كبير قبيلة الهوامل وبنى مسجداً قديماً في أبوظبي",
+    "en": "Elder of the Hawamil tribe who built an old mosque in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Kulaib Bin Abdullah, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم كليب بن عبدالله، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "كليب بن عبدالله بن محمد الهاملي، وُلد نحو ١٨٦٣، من رجال أبوظبي المعروفين بفعل الخير، وكبير قبيلة الهوامل، وبنى مسجداً قديماً في حارة الهوامل بأبوظبي. وحمل الشارع في التسمية القديمة الرقم ٥٩.",
+    "en": "Kulaib bin Abdullah bin Mohammed Al Hameli, born around 1863, was one of the men of Abu Dhabi known for doing good and elder of the Hawamil tribe, and built an old mosque in the Hawamil quarter in Abu Dhabi. The street carried the number 59 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: كليب بن عبدالله الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/kulaib-bin-abdullah-al-hameli"
+    }
+  ]
 },
 {
   "id": "maktoom-alfandi-al-mazrouei",
@@ -10273,137 +11031,177 @@ window.STREETS = [
   "id": "mana-bin-abdullah-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مانع بن عبد الله المهيري",
   "en": "Mana Bin Abdullah Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "عضو المجلس الاستشاري الوطني وحارس شخصي للشيخ شخبوط",
+    "en": "Member of the National Consultative Council and personal bodyguard of Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Mana Bin Abdullah, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مانع بن عبد الله، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مانع بن عبد الله بن عبدالله بن مانع بن عيلان بن فاضل المهيري، وُلد نحو ١٩٢٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وكان حارساً شخصياً للشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٤٨.",
+    "en": "Mana bin Abdullah bin Abdullah bin Mana bin Aylan bin Fadhel Al Muhairi, born around 1920, was a member of the National Consultative Council in 1971, and personal bodyguard of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 48 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مانع بن عبد الله المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mana-bin-abdullah-al-muhairi"
+    }
+  ]
 },
 {
   "id": "mansoor-bin-nasser-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع منصور بن ناصر المنصوري",
   "en": "Mansoor Bin Nasser Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Mansoor Bin Nasser, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم منصور بن ناصر، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "منصور بن ناصر بن حمدان بن محمد بن حمد بن سالمين آل سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٠٨.",
+    "en": "Mansoor bin Nasser bin Hamdan bin Mohammed bin Hamad bin Salmeen Al Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 308 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: منصور بن ناصر المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mansoor-bin-nasser-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mansour-bin-ghanem-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع منصور بن غانم المزروعي",
   "en": "Mansour Bin Ghanem Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر يُكنى ببوزاهرة وامتهن الغوص ووثّق أحداث عصره",
+    "en": "A poet nicknamed Buzahira who practised pearl diving and documented his era's events"
   },
   "story": {
-    "en": "The street carries the name of Mansour Bin Ghanem, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم منصور بن غانم، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "منصور بن غانم بن أحمد المزروعي، وُلد نحو ١٨٩٨، شاعر يُكنى بـ«بوزاهرة»، عمل في مهنة الغوص، واشتهر بتوثيق الأحداث الجارية خلال حياته. وحمل الشارع في التسمية القديمة الرقم ٢٢٠.",
+    "en": "Mansour bin Ghanem bin Ahmed Al Mazrouei, born around 1898, was a poet nicknamed «Buzahira» who worked in pearl diving and was known for documenting the events of his time. The street carried the number 220 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: منصور بن غانم المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mansour-bin-ghanem-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "matar-bin-hader-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مطر بن حاضر المهيري",
   "en": "Matar Bin Hader Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "عضو المجلس الاستشاري الوطني وحارس برج المقطع",
+    "en": "Member of the National Consultative Council and guard of Burj Al Maqta"
   },
   "story": {
-    "en": "The street carries the name of Matar Bin Hader, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مطر بن حاضر، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مطر بن حاضر بن بخيت المهيري، وُلد نحو ١٩٢١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وحرس برج المقطع في بدايات حياته في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٤٧.",
+    "en": "Matar bin Hader bin Bakhit Al Muhairi, born around 1921, was a member of the National Consultative Council in 1971, and guarded Burj Al Maqta at the beginning of his life in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 47 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مطر بن حاضر المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/matar-bin-hader-al-muhairi"
+    }
+  ]
 },
 {
   "id": "matar-bin-hatha-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مطر بن حاذه الكتبي",
   "en": "Matar Bin Hatha Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "من رجال الشيخ زايد بن سلطان المشهورين بالحكمة",
+    "en": "One of Sheikh Zayed bin Sultan's men known for wisdom"
   },
   "story": {
-    "en": "The street carries the name of Matar Bin Hatha, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مطر بن حاذه، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مطر بن سعيد بن حاذه الكتبي، وُلد نحو ١٩٢٥، من رجال الشيخ زايد بن سلطان آل نهيان المعروفين، اشتُهر بالحكمة وسدادة الرأي، وكُلّف بالصلح بين الناس. وحمل الشارع في التسمية القديمة الرقم ٥٧٧.",
+    "en": "Matar bin Saeed bin Hatha Al Ketbi, born around 1925, was one of the known men of Sheikh Zayed bin Sultan Al Nahyan; he was known for wisdom and sound judgement, and was tasked with reconciling among people. The street carried the number 577 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مطر بن حاذه الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/matar-bin-hatha-al-ketbi"
+    }
+  ]
 },
 {
   "id": "matar-bin-khadim-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مطر بن خادم المهيري",
   "en": "Matar Bin Khadim Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "حارس لبرج المقطع في أبوظبي",
+    "en": "A guard of Burj Al Maqta in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Matar Bin Khadim, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مطر بن خادم، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مطر بن خادم بن ناصر المهيري، وُلد نحو ١٩٠٧، عمل حارساً لبرج المقطع في أبوظبي، وتوفي سنة ١٩٧٧. وحمل الشارع في التسمية القديمة الرقم ٢٥٤.",
+    "en": "Matar bin Khadim bin Nasser Al Muhairi, born around 1907, worked as a guard of Burj Al Maqta in Abu Dhabi, and died in 1977. The street carried the number 254 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مطر بن خادم المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/matar-bin-khadim-al-muhairi"
+    }
+  ]
 },
 {
   "id": "matar-bin-mohammed-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مطر بن محمد القبيسي",
   "en": "Matar Bin Mohammed Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "مرافق للشيخ زايد بن سلطان من أهالي الظفرة",
+    "en": "A companion of Sheikh Zayed bin Sultan of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Matar Bin Mohammed, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مطر بن محمد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مطر بن محمد بن راشد بالفاره القبيسي، وُلد نحو ١٩٢٧، مرافق للشيخ زايد بن سلطان آل نهيان، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٩٩.",
+    "en": "Matar bin Mohammed bin Rashid Bil Faraha Al Qubaisi, born around 1927, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Dhafra. The street carried the number 799 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مطر بن محمد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/matar-bin-mohammed-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "matar-bin-mohammed-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مطر بن محمد الرميثي",
   "en": "Matar Bin Mohammed Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "كُلف بحفر وصيانة وإدامة موارد الطف الشمالي",
+    "en": "Tasked with digging and maintaining the water sources of the northern sands"
   },
   "story": {
-    "en": "The street carries the name of Matar Bin Mohammed, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مطر بن محمد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مطر بن محمد بن مطر بن محمد بن عبدالله الرميثي، وُلد نحو ١٩١٥، وكُلف في عهد الشيخ شخبوط بن سلطان آل نهيان سنة ١٩٥٨ بحفر وصيانة وإدامة موارد المياه في الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٦٤.",
+    "en": "Matar bin Mohammed bin Matar bin Mohammed bin Abdullah Al Rumaithi, born around 1915, was tasked in the time of Sheikh Shakhbut bin Sultan Al Nahyan, in 1958, with digging, maintaining and keeping the water sources of the northern sands. The street carried the number 364 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مطر بن محمد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/matar-bin-mohammed-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "matar-bin-thani-al-rumaithi",
@@ -10431,749 +11229,969 @@ window.STREETS = [
   "id": "mehidi-bin-saeed-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مهيدي بن سعيد الهاملي",
   "en": "Mehidi Bin Saeed Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "إمام وشيخ علم في محضر ظفير",
+    "en": "An imam and scholar in Madhhar Al Dhafir"
   },
   "story": {
-    "en": "The street carries the name of Mehidi Bin Saeed, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مهيدي بن سعيد، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مهيدي بن سعيد بن مرشد بن عضيد الهاملي، وُلد نحو ١٩٣١، إمام وشيخ علم في محضر ظفير. وحمل الشارع في التسمية القديمة الرقم ٣٠٤.",
+    "en": "Mehidi bin Saeed bin Murshid bin Adaid Al Hameli, born around 1931, was an imam and scholar in Madhhar Al Dhafir. The street carried the number 304 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مهيدي بن سعيد الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mehidi-bin-saeed-al-hameli"
+    }
+  ]
 },
 {
   "id": "mehidi-bin-yaed-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مهيدي بن ياعد القبيسي",
   "en": "Mehidi Bin Yaed Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "شيخ علم في جزيرة غاغة",
+    "en": "A scholar in Ghagha Island"
   },
   "story": {
-    "en": "The street carries the name of Mehidi Bin Yaed, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مهيدي بن ياعد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مهيدي بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٣٠، شيخ علم في جزيرة غاغة. وحمل الشارع في التسمية القديمة الرقم ٧٨٧.",
+    "en": "Mehidi bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1930, was a scholar in Ghagha Island. The street carried the number 787 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مهيدي بن ياعد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mehidi-bin-yaed-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "mihanna-bin-butti-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مهنا بن بطي القبيسي",
   "en": "Mihanna Bin Butti Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "من أهالي جزيرة غاغة حافظ عليها ورافق الشيخ زايد بن سلطان",
+    "en": "Of the people of Ghagha Island, preserved it and accompanied Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Mihanna Bin Butti, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مهنا بن بطي، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مهنا بن بطي بن محمد بن هزيم بن صخير القبيسي، وُلد نحو ١٩٢٨، رافق الشيخ زايد بن سلطان آل نهيان، وهو من أهالي جزيرة غاغة، وتولى الحفاظ عليها وإدامتها، وتوفي سنة ٢٠١٦. وحمل الشارع في التسمية القديمة الرقم ٧٨٦.",
+    "en": "Mihanna bin Butti bin Mohammed bin Hazeim bin Sukhair Al Qubaisi, born around 1928, accompanied Sheikh Zayed bin Sultan Al Nahyan; he was of the people of Ghagha Island and undertook its preservation and upkeep, and died in 2016. The street carried the number 786 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مهنا بن بطي القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mihanna-bin-butti-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "mohamed-bin-hader-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن حاضر المنصوري",
   "en": "Mohamed Bin Hader Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف يُكنى بغّصاب من أهل الظفرة",
+    "en": "A known poet nicknamed Baghsab of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Bin Hader, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن حاضر، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن حاضر بن سحبان بن خزام المخزومي المنصوري، وُلد نحو ١٨٩٥، شاعر معروف يُكنى بـ«بغّصاب»، من أهالي منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٧٠.",
+    "en": "Mohammed bin Hader bin Sahban bin Khazam Al Makhzoumi Al Mansouri, born around 1895, was a known poet nicknamed «Baghsab», of the people of the Al Dhafra region. The street carried the number 770 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن حاضر المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-bin-hader-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammad-bin-drai-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن دري الفلاحي",
   "en": "Mohammad Bin Drai Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "مرافق للشيخ زايد بن سلطان امتهن الغوص من أهل العين",
+    "en": "A companion of Sheikh Zayed bin Sultan who practised pearl diving, of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Mohammad Bin Drai, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن دري، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن صالح بن دري الفلاحي، مرافق للشيخ زايد بن سلطان آل نهيان، عمل في مهنة الغوص في بداية حياته، وهو من أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٥٩٢.",
+    "en": "Mohammed bin Saleh bin Drai Al Falahi was a companion of Sheikh Zayed bin Sultan Al Nahyan; he worked in pearl diving at the beginning of his life and is of the people of Al Ain. The street carried the number 592 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن دري الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammad-bin-drai-al-falahi"
+    }
+  ]
 },
 {
   "id": "mohammad-bin-saif-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن سيف الفلاحي",
   "en": "Mohammad Bin Saif Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "قائد في قوات الشيخ زايد الأول",
+    "en": "A commander in the forces of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Mohammad Bin Saif, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن سيف، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن سيف بن زايد الفلاحي، وُلد نحو ١٨٨٥، قائد في قوات الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٦٠.",
+    "en": "Mohammed bin Saif bin Zayed Al Falahi, born around 1885, was a commander in the forces of Sheikh Zayed the First (1855–1909). The street carried the number 60 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن سيف الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammad-bin-saif-al-falahi"
+    }
+  ]
 },
 {
   "id": "mohammed-alhur-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد الحر السويدي",
   "en": "Mohammed Alhur Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "وكيل دائرة الأشغال في أبوظبي",
+    "en": "Deputy head of the Public Works Department in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Alhur, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد الحر، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن حمد بن ميزر الحر السويدي، وُلد نحو ١٩٣٠، وكيل دائرة الأشغال في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦١.",
+    "en": "Mohammed bin Hamd bin Mizar Al Hur Al Suwaidi, born around 1930, was deputy head of the Public Works Department in Abu Dhabi. The street carried the number 61 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد الحر السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-alhur-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-abdulghani-al-khemairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن عبدالغني الخميري",
   "en": "Mohammed Bin Abdulghani Al Khemairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Khemairi family",
-    "ar": "شخصية إماراتية من أسرة الخميري"
+    "ar": "مساعد قاضي في أمور قضايا البحر",
+    "en": "Assistant judge in maritime cases"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Abdulghani, an Emirati figure of the Khemairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن عبدالغني، وهو شخصية إماراتية من أسرة الخميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن عبدالغني الخميري، وُلد نحو ١٨٨٠، مساعد قاضي في أمور قضايا البحر. وحمل الشارع في التسمية القديمة الرقم ٣٢٩.",
+    "en": "Mohammed bin Abdulghani Al Khemairi, born around 1880, was assistant judge in maritime cases. The street carried the number 329 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن عبدالغني الخميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-abdulghani-al-khemairi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-abdullah-al-qamzi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن عبدالله القمزي",
   "en": "Mohammed Bin Abdullah Al Qamzi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qamzi family",
-    "ar": "شخصية إماراتية من أسرة القمزي"
+    "ar": "شيخ علم وعضو المجلس الاستشاري الوطني",
+    "en": "A scholar and member of the National Consultative Council"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Abdullah, an Emirati figure of the Qamzi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن عبدالله، وهو شخصية إماراتية من أسرة القمزي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن عبدالله بن سيف القمزي، وُلد نحو ١٨٨٩، شيخ علم وعضو في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٩٨.",
+    "en": "Mohammed bin Abdullah bin Saif Al Qamzi, born around 1889, was a scholar and member of the National Consultative Council in 1971. The street carried the number 98 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن عبدالله القمزي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-abdullah-al-qamzi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ablan-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن عبلان المزروعي",
   "en": "Mohammed Bin Ablan Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شيخ علم في جزيرة غاغة من أهل الظفرة",
+    "en": "A scholar of Ghagha Island of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ablan, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن عبلان، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن سعيد بن عيسى بن محسن بن ذياب بن عبلان المزروعي، وُلد نحو ١٨٠٠، شيخ علم في جزيرة غاغة، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ١١٥.",
+    "en": "Mohammed bin Saeed bin Essa bin Mohsin bin Dhiyab bin Ablan Al Mazrouei, born around 1800, was a scholar in Ghagha Island, of the people of Al Dhafra. The street carried the number 115 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن عبلان المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ablan-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-afsan-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن عفصان المزروعي",
   "en": "Mohammed Bin Afsan Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "أشرف على بناء برج الطرق من أهل الظفرة",
+    "en": "Supervised the building of Burj Al Tariq, of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Afsan, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن عفصان، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن الصليح آل عفصان المزروعي، وُلد نحو ١٨٣٠، أشرف على بناء برج الطرق، من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٥٩.",
+    "en": "Mohammed bin Al Saleeh Al Afsan Al Mazrouei, born around 1830, supervised the building of Burj Al Tariq, of the people of Al Dhafra. The street carried the number 759 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن عفصان المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-afsan-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-alfendi-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن الفندي المزروعي",
   "en": "Mohammed Bin Alfendi Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Alfendi, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن الفندي، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن الفندي بن غانم بن عطيش المزروعي، وُلد نحو ١٩٤٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١١٤.",
+    "en": "Mohammed bin Al Fendi bin Ghanem bin Atteesh Al Mazrouei, born around 1940, was a member of the National Consultative Council in 1971. The street carried the number 114 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن الفندي المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-alfendi-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ali-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن علي الظاهري",
   "en": "Mohammed Bin Ali Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "من عمال الزكاة عُرف بمهارته في ترويض الخيل",
+    "en": "A zakat collector known for his skill in taming horses"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ali, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن علي، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن علي بن خليفة الظاهري، وُلد نحو ١٩٠٥، من عمال الزكاة في عهد الشيخ شخبوط بن سلطان آل نهيان، ويُكنى بـ«قريعان»، وعُرف بمهارته في ترويض الخيل. وحمل الشارع في التسمية القديمة الرقم ٥٣١.",
+    "en": "Mohammed bin Ali bin Khalifa Al Dhaheri, born around 1905, was among the zakat collectors under Sheikh Shakhbut bin Sultan Al Nahyan, nicknamed «Quraian», and was known for his skill in taming horses. The street carried the number 531 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن علي الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ali-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ali-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن علي المهيري",
   "en": "Mohammed Bin Ali Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "شاعر معروف من أهالي أبوظبي",
+    "en": "A known poet of the people of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ali, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن علي، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن علي بن ميزر المهيري، وُلد نحو ١٩١٠، شاعر معروف من أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٩٩.",
+    "en": "Mohammed bin Ali bin Mizar Al Muhairi, born around 1910, was a known poet of the people of Abu Dhabi. The street carried the number 199 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن علي المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ali-al-muhairi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ali-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن علي الرميثي",
   "en": "Mohammed Bin Ali Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "من رجال أبوظبي المعروفين وكبار الرميثات",
+    "en": "One of the known men of Abu Dhabi and the Rumaithat elders"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ali, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن علي، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن علي بن مرشد بن سالم الرميثي، وُلد نحو ١٨٨٠، من رجال أبوظبي المعروفين، ومن كبار الرميثات، وعُرف بأعمال الخير. وحمل الشارع في التسمية القديمة الرقم ٩٠.",
+    "en": "Mohammed bin Ali bin Murshid bin Salem Al Rumaithi, born around 1880, was one of the known men of Abu Dhabi and one of the elders of the Rumaithat, and was known for good works. The street carried the number 90 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن علي الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ali-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-aziz-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن عزيز المنصوري",
   "en": "Mohammed Bin Aziz Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Aziz, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن عزيز، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن صالح بن عزيز المنذري المنصوري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٦٦.",
+    "en": "Mohammed bin Saleh bin Aziz Al Mundhiri Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 266 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن عزيز المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-aziz-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-gabran-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن جبران السويدي",
   "en": "Mohammed Bin Gabran Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "شاعر وحارس لقصر الحصن وبرج المقطع وبعثة التنقيب",
+    "en": "A poet and guard of the Al Hosn fort, Burj Al Maqta and the exploration mission"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Gabran, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن جبران، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن حميد بن خميس بن جبران السويدي، وُلد نحو ١٩٢٣، شاعر وأحد حراس قصر الحصن وبرج المقطع، وحراسة بعثة التنقيب عن النفط في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٥٧.",
+    "en": "Mohammed bin Humaid bin Khamis bin Gabran Al Suwaidi, born around 1923, was a poet and one of the guards of the Al Hosn fort and Burj Al Maqta, and of the oil exploration mission in Abu Dhabi. The street carried the number 157 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن جبران السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-gabran-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ghannam-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن غنّام الهاملي",
   "en": "Mohammed Bin Ghannam Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شاعر معروف من محضر شاة في إليوا",
+    "en": "A known poet of Madhhar Shat in Liwa"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ghannam, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن غنّام، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن غنّام بن فجر الهاملي، وُلد نحو ١٨٩٠، شاعر معروف من محضر شاة من محاضر إليوا، ورفض جامع زكاة لغير الحاكم في محضره نحو سنة ١٩٣٠. وحمل الشارع في التسمية القديمة الرقم ٧٩٣.",
+    "en": "Mohammed bin Ghannam bin Fajar Al Hameli, born around 1890, was a known poet of Madhhar Shat of the mahadir of Liwa, and refused a zakat collector not of the ruler in his mahdhar around 1930. The street carried the number 793 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن غنّام الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ghannam-al-hameli"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ghateel-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن غتيل المحيربي",
   "en": "Mohammed Bin Ghateel Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "كُلف بالإشراف على محضر ظفير والطرق في إليوا",
+    "en": "Tasked with supervising Madhhar Al Dhafir and the roads in Liwa"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Ghateel, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن غتيل، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن غتيل بن زعل المحيربي، وُلد نحو ١٨٦٠، وكُلف من الحاكم بالإشراف على محضر ظفير والطرق في إليوا في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٢٥١.",
+    "en": "Mohammed bin Ghateel bin Zaal Al Muhairbi, born around 1860, was tasked by the ruler with supervising Madhhar Al Dhafir and the roads in Liwa under Sheikh Zayed the First (1855–1909). The street carried the number 251 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن غتيل المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ghateel-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-habroush-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن حبروش السويدي",
   "en": "Mohammed Bin Habroush Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "وزير دولة للشؤون المالية والصناعة في أول حكومة",
+    "en": "Minister of state for finance and industry in the first government"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Habroush, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن حبروش، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن حبروش بن محمد بن حبروش السويدي، وُلد نحو ١٩٤٦، شغل منصب نائب رئيس الديوان الأميري وعضو مجلس التخطيط سنة ١٩٦٩، ثم رئيساً لدائرة المالية سنة ١٩٧٠، ثم عُين وزير دولة للشؤون المالية والصناعة في أول حكومة للدولة سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٢٩.",
+    "en": "Mohammed bin Habroush bin Mohammed bin Habroush Al Suwaidi, born around 1946, held the post of deputy head of the Amiri Court and member of the Planning Council in 1969, then head of the Finance Department in 1970, and was then appointed minister of state for finance and industry in the first government of the state in 1971. The street carried the number 229 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن حبروش السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-habroush-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-hayy-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن حيي الهاملي",
   "en": "Mohammed Bin Hayy Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شاعر من شعراء الظفرة",
+    "en": "A poet of the poets of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Hayy, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن حيي، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن حيي بن محمد حيي بن علي الهاملي، وُلد نحو ١٩٢٧، شاعر من شعراء الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٠٦.",
+    "en": "Mohammed bin Hayy bin Mohammed bin Hayy bin Ali Al Hameli, born around 1927, was a poet of the poets of Al Dhafra. The street carried the number 206 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن حيي الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-hayy-al-hameli"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-hofan-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن حوفان المنصوري",
   "en": "Mohammed Bin Hofan Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ شخبوط بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Shakhbut bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Hofan, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن حوفان، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن حوفان بن هادف بن خلفان المنذري المنصوري، وُلد نحو ١٩٢٥، مرافق للشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٦٨.",
+    "en": "Mohammed bin Hofan bin Hadef bin Khalfan Al Mundhiri Al Mansouri, born around 1925, was a companion of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 768 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن حوفان المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-hofan-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-jaber-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن جابر الهاملي",
   "en": "Mohammed Bin Jaber Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Jaber, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن جابر، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن جابر بن راشد بن جابر بن راشد بن حميد الهاملي، وُلد نحو ١٩٤١، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٤١.",
+    "en": "Mohammed bin Jaber bin Rashid bin Jaber bin Rashid bin Humaid Al Hameli, born around 1941, was a member of the National Consultative Council in 1971. The street carried the number 241 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن جابر الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-jaber-al-hameli"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-jarwan-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن جروان المنصوري",
   "en": "Mohammed Bin Jarwan Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "حفر طويّاً شمال منطقة الختم يسمى خيس بن جروان",
+    "en": "Dug a well north of Al Khattim called Khais Bin Jarwan"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Jarwan, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن جروان، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن مبارك بن محمد بن جروان المنصوري، وُلد نحو ١٨٧٤، حفر طويّاً شمال منطقة الختم يسمى «خيس بن جروان»، وأقام عليه وأدامه. وحمل الشارع في التسمية القديمة الرقم ٣٧٠.",
+    "en": "Mohammed bin Mubarak bin Mohammed bin Jarwan Al Mansouri, born around 1874, dug a well north of the Al Khattim area called «Khais Bin Jarwan», and settled at it and kept it up. The street carried the number 370 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن جروان المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-jarwan-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-jassim-al-meraikhi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن جاسم المريخي",
   "en": "Mohammed Bin Jassim Al Meraikhi Street",
   "meaning": {
-    "en": "An Emirati figure of the Meraikhi family",
-    "ar": "شخصية إماراتية من أسرة المريخي"
+    "ar": "تاجر في جزيرة دلما بنى سداً لحفظ المياه العذبة",
+    "en": "A merchant of Dalma Island who built a dam to preserve fresh water"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Jassim, an Emirati figure of the Meraikhi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن جاسم، وهو شخصية إماراتية من أسرة المريخي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن جاسم بن جابر بن محمد المريخي، وُلد نحو ١٩١٠، تاجر في جزيرة دلما، وبنى سداً في الجزيرة لحفظ المياه العذبة. وحمل الشارع في التسمية القديمة الرقم ٧٧٢.",
+    "en": "Mohammed bin Jassim bin Jaber bin Mohammed Al Meraikhi, born around 1910, was a merchant in Dalma Island, and built a dam on the island to preserve fresh water. The street carried the number 772 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن جاسم المريخي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-jassim-al-meraikhi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-jrayw-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن جريو المنصوري",
   "en": "Mohammed Bin Jrayw Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "أشرف على بناء قلعة الجبّانة وأحد شيوخ المناصير",
+    "en": "Supervised the building of the Al Jabbana fort and a sheikh of the Manasir"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Jrayw, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن جريو، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن جريو الغوينمي الشعري المنصوري، وُلد نحو ١٨٤٠، أشرف على بناء قلعة الجبّانة في إليوا، وهو أحد شيوخ المناصير. وحمل الشارع في التسمية القديمة الرقم ٢٧٢.",
+    "en": "Mohammed bin Jrayw Al Ghweinmi Al Shaari Al Mansouri, born around 1840, supervised the building of the fort of Al Jabbana in Liwa, and was one of the sheikhs of the Manasir. The street carried the number 272 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن جريو المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-jrayw-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-kasib-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن كاسب المهيري",
   "en": "Mohammed Bin Kasib Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "شاعر معروف من البطين امتهن الغوص",
+    "en": "A known poet of Al Bateen who practised pearl diving"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Kasib, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن كاسب، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن كاسب بن محمد بن كاسب المهيري، وُلد نحو ١٨٥٥، شاعر معروف من منطقة البطين في إمارة أبوظبي، وعمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٣٩.",
+    "en": "Mohammed bin Kasib bin Mohammed bin Kasib Al Muhairi, born around 1855, was a known poet of the Al Bateen area in the Emirate of Abu Dhabi, and worked in pearl diving. The street carried the number 39 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن كاسب المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-kasib-al-muhairi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-khadim-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن خادم المنصوري",
   "en": "Mohammed Bin Khadim Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ زايد بن سلطان من شيوخ آل بالشعر",
+    "en": "A companion of Sheikh Zayed bin Sultan of the sheikhs of Al Balshar"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Khadim, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن خادم، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن خادم بوهليبه الشعري المنصوري، وُلد نحو ١٨٩٢، مرافق للشيخ زايد بن سلطان آل نهيان، من شيوخ آل بالشعر، من محضر يّره من محاضر إليوا. وحمل الشارع في التسمية القديمة الرقم ١٦٩.",
+    "en": "Mohammed bin Khadim Bu Hulaibah Al Shaari Al Mansouri, born around 1892, was a companion of Sheikh Zayed bin Sultan Al Nahyan, of the sheikhs of Al Balshar, from Madhhar Yarra of the mahadir of Liwa. The street carried the number 169 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن خادم المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-khadim-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-khamis-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن خميس المزروعي",
   "en": "Mohammed Bin Khamis Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Khamis, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن خميس، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن خميس آل شكر المزروعي، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٦٤.",
+    "en": "Mohammed bin Khamis Al Shukr Al Mazrouei, born around 1920, was a known poet of the people of Al Dhafra. The street carried the number 764 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن خميس المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-khamis-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-maktoum-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مكتوم المزروعي",
   "en": "Mohammed Bin Maktoum Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر معروف من شعراء أبوظبي",
+    "en": "A known poet of the poets of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Maktoum, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن مكتوم، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن خميس بن حمد بن مكتوم آل خميس المزروعي، وُلد نحو ١٨٤٥، شاعر معروف من شعراء أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٠٢.",
+    "en": "Mohammed bin Khamis bin Hamad bin Maktoum Al Khamis Al Mazrouei, born around 1845, was a known poet of the poets of Abu Dhabi. The street carried the number 102 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مكتوم المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-maktoum-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-maktoum-al-sheraifi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مكتوم الشريفي",
   "en": "Mohammed Bin Maktoum Al Sheraifi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sheraifi family",
-    "ar": "شخصية إماراتية من أسرة الشريفي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Maktoum, an Emirati figure of the Sheraifi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن مكتوم، وهو شخصية إماراتية من أسرة الشريفي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن مكتوم الشريفي العامري، وُلد نحو ١٩١٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٣٢.",
+    "en": "Mohammed bin Maktoum Al Sheraifi Al Ameri, born around 1915, was a member of the National Consultative Council in 1971. The street carried the number 532 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مكتوم الشريفي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-maktoum-al-sheraifi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-markhan-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مرخان المنصوري",
   "en": "Mohammed Bin Markhan Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "حارس للحصن في أبوظبي وحراسة بعثات التنقيب",
+    "en": "Guard of the fort in Abu Dhabi and of the exploration missions"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Markhan, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن مرخان، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن مرخان آل مرخان المنصوري، وُلد نحو ١٨٩٩، من حراس الحصن في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان، وحراسة بعثات التنقيب عن النفط. وحمل الشارع في التسمية القديمة الرقم ٣١٢.",
+    "en": "Mohammed bin Markhan Al Markhan Al Mansouri, born around 1899, was among the guards of the fort in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and of the oil exploration missions. The street carried the number 312 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مرخان المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-markhan-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-marshoud-al-sabousi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مروشد السبوسي",
   "en": "Mohammed Bin Marshoud Al Sabousi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sabousi family",
-    "ar": "شخصية إماراتية من أسرة السبوسي"
+    "ar": "من مرافقي الشيخ زايد الأول",
+    "en": "One of the companions of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Marshoud, an Emirati figure of the Sabousi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن مروشد، وهو شخصية إماراتية من أسرة السبوسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن مروشد بن راشد بالمروشد السبوسي، وُلد نحو ١٨٧٩، من مرافقي الشيخ زايد الأول (١٨٥٥–١٩٠٩).",
+    "en": "Mohammed bin Marshoud bin Rashid Bil Marshoud Al Sabousi, born around 1879, was among the companions of Sheikh Zayed the First (1855–1909)."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مروشد السبوسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-marshoud-al-sabousi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-masoud-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مسعود المحيربي",
   "en": "Mohammed Bin Masoud Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "من كبار تجار أبوظبي في تجارة اللؤلؤ والغوص",
+    "en": "A senior Abu Dhabi merchant of the pearl and diving trade"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Masoud, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن مسعود، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن مسعود بن سالم بن خلفان بن رحمة المحيربي، وُلد نحو ١٨٦١، من أهل الخير وكبار تجار أبوظبي، عمل في تجارة اللؤلؤ والغوص. وحمل الشارع في التسمية القديمة الرقم ٦٣.",
+    "en": "Mohammed bin Masoud bin Salem bin Khalfan bin Rahma Al Muhairbi, born around 1861, was of the people of good and the senior merchants of Abu Dhabi; he worked in the pearl and diving trade. The street carried the number 63 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مسعود المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-masoud-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-mubarak-al-khaili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مبارك الخييلي",
   "en": "Mohammed Bin Mubarak Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure of the Khaili family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "دليل عُرف بمعرفة معالم الإمارة الجغرافية",
+    "en": "A guide known for his knowledge of the emirate's geographical landmarks"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Mubarak, an Emirati figure of the Khaili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن مبارك، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن مبارك بن سيف بن علوبة الخييلي، وُلد نحو ١٩٢٢، عمل دليلاً واشتُهر بمعرفته بمختلف المعالم الجغرافية في الإمارة وأسمائها، وعمل في بداية حياته في مهنة الغوص، وتوفي سنة ٢٠٢٠. وحمل الشارع في التسمية القديمة الرقم ٣٧١.",
+    "en": "Mohammed bin Mubarak bin Saif bin Olaibah Al Khaili, born around 1922, worked as a guide and was known for his knowledge of the emirate's geographical landmarks and their names; he worked in pearl diving at the beginning of his life, and died in 2020. The street carried the number 371 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مبارك الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-mubarak-al-khaili"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-nasser-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن ناصر المنصوري",
   "en": "Mohammed Bin Nasser Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Nasser, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن ناصر، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن ناصر بن حمدان بن سالمين آل سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣١٤.",
+    "en": "Mohammed bin Nasser bin Hamdan bin Salmeen Al Salmeen Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 314 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن ناصر المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-nasser-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-obaid-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن عبيد المهيري",
   "en": "Mohammed Bin Obaid Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مرافق للشيخ زايد بن سلطان وحارس لبعثة التنقيب وبرج المقطع",
+    "en": "A companion of Sheikh Zayed bin Sultan and guard of the exploration mission and Burj Al Maqta"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Obaid, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن عبيد، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٩١٢، مرافق للشيخ زايد بن سلطان آل نهيان، وكُلف بأمن وحراسة بعثة التنقيب، وهو أحد حراس برج المقطع في أبوظبي من سنة ١٩٤٥. وحمل الشارع في التسمية القديمة الرقم ٢٣٣.",
+    "en": "Mohammed bin Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1912, was a companion of Sheikh Zayed bin Sultan Al Nahyan, tasked with the security and guarding of the exploration mission, and one of the guards of Burj Al Maqta in Abu Dhabi from 1945. The street carried the number 233 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن عبيد المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-obaid-al-muhairi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-salem-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن سالم الظاهري",
   "en": "Mohammed Bin Salem Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "ترأس دائرة الزراعة في العين ورافق الشيخ زايد بن سلطان",
+    "en": "Headed the Al Ain Agriculture Department and accompanied Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Salem, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن سالم، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد (بالجنّي) بن سالم بن الظاهري، وُلد نحو ١٩٢٥، ترأس دائرة الزراعة في العين، ورافق الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢١١.",
+    "en": "Mohammed (Al Junni) bin Salem bin Al Dhaheri, born around 1925, headed the Agriculture Department in Al Ain and accompanied Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 211 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن سالم الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-salem-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-salhoum-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن صلهوم القبيسي",
   "en": "Mohammed Bin Salhoum Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "شاعر معروف من دلما في عهد الشيخ شخبوط",
+    "en": "A known poet of Dalma in the time of Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Salhoum, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن صلهوم، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن صلهوم بن محمد القبيسي، وُلد نحو ١٨٩٠ في جزيرة دلما، شاعر معروف في عهد الشيخ شخبوط بن سلطان آل نهيان، وتوفي في دلما سنة ١٩٥٧ عن عمر ناهز ٦٧ سنة. وحمل الشارع في التسمية القديمة الرقم ٢٤٠.",
+    "en": "Mohammed bin Salhoum bin Mohammed Al Qubaisi, born around 1890 on Dalma Island, was a known poet in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and died in Dalma in 1957 at the age of about 67. The street carried the number 240 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن صلهوم القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-salhoum-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-salmeen-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن سالمين المنصوري",
   "en": "Mohammed Bin Salmeen Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مستشار ومرافق للشيخ زايد الأول من شيوخ آل بو رحمة",
+    "en": "An adviser and companion of Sheikh Zayed the First of the Al Bu Rahma sheikhs"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Salmeen, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن سالمين، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن سالمين بن حمد آل سالمين المنصوري، وُلد نحو ١٨٦٠، مستشار ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩)، من شيوخ آل بو رحمة. وحمل الشارع في التسمية القديمة الرقم ٣٣١.",
+    "en": "Mohammed bin Salmeen bin Hamad Al Salmeen Al Mansouri, born around 1860, was an adviser and companion of Sheikh Zayed the First (1855–1909), of the sheikhs of Al Bu Rahma. The street carried the number 331 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن سالمين المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-salmeen-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-sayah-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن صياح المزروعي",
   "en": "Mohammed Bin Sayah Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "أقام وأدام طويّاً في محضر خنور في إليوا",
+    "en": "Established and maintained a well in Madhhar Khunur in Liwa"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Sayah, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن صياح، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن صياح بن غانم بن عطيش المزروعي، وُلد نحو ١٨٩٩، وأقام وأدام طويّاً في محضر خنور في إليوا. وحمل الشارع في التسمية القديمة الرقم ٣٣٦.",
+    "en": "Mohammed bin Sayah bin Ghanem bin Atteesh Al Mazrouei, born around 1899, established and maintained a well in Madhhar Khunur in Liwa. The street carried the number 336 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن صياح المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-sayah-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-shabib-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن شبيب المهيري",
   "en": "Mohammed Bin Shabib Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "عالم وفقيه اشتُهر بالحكمة والصلح بين الناس",
+    "en": "A scholar and jurist known for wisdom and reconciling among people"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Shabib, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن شبيب، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن شبيب بن سعيد آل شبيب المهيري، وُلد نحو ١٧٣٠، عالم وفقيه، اشتُهر بالحكمة والصلح بين الناس في ذلك الزمان. وحمل الشارع في التسمية القديمة الرقم ٢٩٧.",
+    "en": "Mohammed bin Shabib bin Saeed Al Shabib Al Muhairi, born around 1730, was a scholar and jurist known for wisdom and for reconciling among people in that time. The street carried the number 297 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن شبيب المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-shabib-al-muhairi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-shaiban-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن شيبان المهيري",
   "en": "Mohammed Bin Shaiban Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مرافق للشيخ زايد الأول",
+    "en": "A companion of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Shaiban, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن شيبان، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن شيبان بن حسين المهيري، وُلد نحو ١٨٣٠، مرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٨٩.",
+    "en": "Mohammed bin Shaiban bin Hussein Al Muhairi, born around 1830, was a companion of Sheikh Zayed the First (1855–1909). The street carried the number 89 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن شيبان المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-shaiban-al-muhairi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-sultan-al-darmaki",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن سلطان الدرمكي",
   "en": "Mohammed Bin Sultan Al Darmaki Street",
   "meaning": {
-    "en": "An Emirati figure of the Darmaki family",
-    "ar": "شخصية إماراتية من أسرة الدرمكي"
+    "ar": "تسلّم دائرة الزراعة في العين وشاعر ومرافق للشيخ زايد",
+    "en": "Took charge of the Al Ain Agriculture Department, a poet and companion of Sheikh Zayed"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Sultan, an Emirati figure of the Darmaki family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن سلطان، وهو شخصية إماراتية من أسرة الدرمكي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن سلطان بن محمد بن سلطان الدرمكي، وُلد نحو ١٩٤٠، تسلّم دائرة الزراعة في العين في بداية نشأتها، وظل مرافقاً للشيخ زايد بن سلطان آل نهيان، وهو من شعراء إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٠٤.",
+    "en": "Mohammed bin Sultan bin Mohammed bin Sultan Al Darmaki, born around 1940, took charge of the Agriculture Department in Al Ain at the beginning of its establishment, and remained a companion of Sheikh Zayed bin Sultan Al Nahyan; he is one of the poets of the Emirate of Abu Dhabi. The street carried the number 604 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن سلطان الدرمكي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-sultan-al-darmaki"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-thani-al-rumaithi",
@@ -11201,205 +12219,265 @@ window.STREETS = [
   "id": "mohammed-bu-gbay-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بوقبي المنصوري",
   "en": "Mohammed Bu Gbay Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شارك في واقعة الشميريخات وتوفي فيها",
+    "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bu Gbay, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بوقبي، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن ناصر بن سعيد بن حمد بوقبي آل تعيب المنصوري، وُلد نحو ١٩٠٧، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٢٣٠.",
+    "en": "Mohammed bin Nasser bin Saeed bin Hamad Bu Qabi Al Tuaib Al Mansouri, born around 1907, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 230 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بوقبي المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bu-gbay-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mohammed-hazza-al-mansoori",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد هزاع المنصوري",
   "en": "Mohammed Hazza Al Mansoori Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansoori family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Hazza, an Emirati figure of the Mansoori family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد هزاع، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد هزاع ناصر المنصوري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٠٨.",
+    "en": "The martyr Mohammed Hazza Nasser Al Mansouri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 608 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد هزاع المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-hazza-al-mansoori"
+    }
+  ]
 },
 {
   "id": "mohammed-khalaf-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد خلف المزروعي",
   "en": "Mohammed Khalaf Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "مدير عام هيئة أبوظبي للثقافة والتراث",
+    "en": "Director general of the Abu Dhabi Authority for Culture and Heritage"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Khalaf, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد خلف، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد خلف المزروعي، من مواليد مدينة زايد بالمنطقة الغربية، تابع دراسته الجامعية في الولايات المتحدة خمس سنوات وتخرّج بدرجة الماجستير في الإدارة العامة من ولاية أوريغون، وشغل منصب رئيس مجلس إدارة شركة أبوظبي للإعلام، ثم مستشاراً للثقافة والتراث بديوان الشيخ محمد بن زايد آل نهيان ولي عهد أبوظبي، ثم مديراً عاماً لهيئة أبوظبي للثقافة والتراث، وكان عضواً في اللجنة المنظمة للمعرض الدولي للصيد والفروسية، وأسس مجلة «الصقّار» للصيد والفروسية، وعضواً في نادي صقاري الإمارات. وتوفي في حادث مروري في مدينة زايد يوم ١٣ نوفمبر ٢٠١٤.",
+    "en": "Mohammed Khalaf Al Mazrouei, born in Zayed City in the Western Region, pursued his university studies in the United States for five years and graduated with a master's degree in public administration from Oregon; he chaired the board of Abu Dhabi Media Company, then served as adviser for culture and heritage at the diwan of Sheikh Mohammed bin Zayed, Crown Prince of Abu Dhabi, and then as director general of the Abu Dhabi Authority for Culture and Heritage. He was a member of the organizing committee of the International Hunting and Equestrian Exhibition, founded the hunting and equestrian magazine «Al Saqqar», and was a member of the Emirates Saqqari Club. He died in a traffic accident in Zayed City on 13 November 2014."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد خلف المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-khalaf-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mohammed-nasser-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد ناصر الظاهري",
   "en": "Mohammed Nasser Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Nasser, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد ناصر، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد ناصر راشد بطى الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٢٧.",
+    "en": "The martyr Mohammed Nasser Rashid Butti Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 627 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد ناصر الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-nasser-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "mohammed-saif-al-nuaimi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد سيف النعيمي",
   "en": "Mohammed Saif Al Nuaimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Nuaimi family",
-    "ar": "شخصية إماراتية من أسرة النعيمي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Saif, an Emirati figure of the Nuaimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد سيف، وهو شخصية إماراتية من أسرة النعيمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد سيف محمد النعيمي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥١٠.",
+    "en": "The martyr Mohammed Saif Mohammed Al Nuaimi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 510 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد سيف النعيمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-saif-al-nuaimi"
+    }
+  ]
 },
 {
   "id": "mohsin-bin-bakhit-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محسن بن بخيت المزروعي",
   "en": "Mohsin Bin Bakhit Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "دليل معروف ساهم في جمع أسماء الظفرة الجغرافية",
+    "en": "A known guide who contributed to collecting Al Dhafra's geographical names"
   },
   "story": {
-    "en": "The street carries the name of Mohsin Bin Bakhit, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محسن بن بخيت، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محسن بن بخيت بن محسن بن حفيظ المزروعي، وُلد نحو ١٩٢٠، دليل معروف عمل دليلاً في القوات المسلحة، من أهالي بينونة، وساهم في جمع الأسماء الجغرافية لمنطقة الظفرة في السبعينيات. وحمل الشارع في التسمية القديمة الرقم ٧٦٧.",
+    "en": "Mohsin bin Bakhit bin Mohsin bin Hafeeth Al Mazrouei, born around 1920, was a known guide who worked as a guide in the Armed Forces, of the people of Binouna, and contributed to collecting the geographical names of the Al Dhafra region in the 1970s. The street carried the number 767 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محسن بن بخيت المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohsin-bin-bakhit-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "moza-alhadouma-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع موزه الهادومة السويدي",
   "en": "Moza Alhadouma Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "مُدرسة ومربية تُعرف بالمطوعة درّست في البطين",
+    "en": "A teacher and educator known as Al Mutawwa'a who taught in Al Bateen"
   },
   "story": {
-    "en": "The street carries the name of Moza Alhadouma, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم موزه الهادومة، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "موزه الهادومة السويدي، وُلدت نحو ١٨٩٦، مدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي البطين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٧٦.",
+    "en": "Moza Al Hadouma Al Suwaidi, born around 1896, was a teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Al Bateen in Abu Dhabi. The street carried the number 76 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: موزه الهادومة السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/moza-alhadouma-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "mubarak-bilyateema-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك باليتيمة المنصوري",
   "en": "Mubarak Bilyateema Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "بنى قلعة الجبّانة بمساعدة أهل المحضر",
+    "en": "Built the Al Jabbana fort with the help of the mahdhar's people"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bilyateema, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك باليتيمة، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مبارك باليتيمة آل حليمان المنصوري، وُلد نحو ١٨٢٠، وبنى قلعة الجبّانة بمساعدة أهل المحضر في عهد زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٧٩٥.",
+    "en": "Mubarak Bilyateema Al Haliman Al Mansouri, born around 1820, built the Al Jabbana fort with the help of the people of the mahdhar under Zayed the First. The street carried the number 795 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك باليتيمة المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-bilyateema-al-mansouri"
+    }
+  ]
 },
 {
   "id": "mubarak-bin-dhahi-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك بن ضاحي الكتبي",
   "en": "Mubarak Bin Dhahi Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "والد الشيخة فاطمة بنت مبارك (أم الإمارات)",
+    "en": "Father of Sheikha Fatima bint Mubarak (Mother of the Nation)"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bin Dhahi, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك بن ضاحي، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مبارك بن غانم بن ضاحي بن غانم الكتبي، من رجالات منطقة العين المعروفين، وهو والد الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٦٠١.",
+    "en": "Mubarak bin Ghanem bin Dhahi bin Ghanem Al Ketbi was one of the known notables of the Al Ain region, and the father of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 601 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك بن ضاحي الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-bin-dhahi-al-ketbi"
+    }
+  ]
 },
 {
   "id": "mubarak-bin-fadel-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك بن فاضل المزروعي",
   "en": "Mubarak Bin Fadel Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "من رجالات أبوظبي عُرف بالحكمة وشارك في واقعة الشميريخات",
+    "en": "A notable of Abu Dhabi known for wisdom who took part in the affair of Al Shmeirikhat"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bin Fadel, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك بن فاضل، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مبارك بن فاضل بن سعيد بن فاضل آل غنام المزروعي، وُلد نحو ١٩٢٠، من رجالات أبوظبي المعروفين، عُرف بالحكمة وسدادة الرأي وسعيه إلى الخير ومساعدة الناس، وشارك في واقعة الشميريخات سنة ١٩٤٦ وجرح فيها. وحمل الشارع في التسمية القديمة الرقم ٩١.",
+    "en": "Mubarak bin Fadhel bin Saeed bin Fadhel Al Ghannam Al Mazrouei, born around 1920, was one of the known notables of Abu Dhabi, known for wisdom and sound judgement and for striving after good and helping people; he took part in the affair of Al Shmeirikhat in 1946 and was wounded there. The street carried the number 91 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك بن فاضل المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-bin-fadel-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mubarak-bin-hader-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك بن حاضر المهيري",
   "en": "Mubarak Bin Hader Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مساعد ممثل الحاكم في جزيرة داس سنة ١٩٦٠",
+    "en": "Assistant to the ruler's representative on Das Island in 1960"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bin Hader, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك بن حاضر، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مبارك بن حاضر بن بخيت المهيري، وُلد نحو ١٩٣٠، مساعد ممثل الحاكم في جزيرة داس سنة ١٩٦٠. وحمل الشارع في التسمية القديمة الرقم ٢٣٥.",
+    "en": "Mubarak bin Hader bin Bakhit Al Muhairi, born around 1930, was assistant to the ruler's representative on Das Island in 1960. The street carried the number 235 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك بن حاضر المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-bin-hader-al-muhairi"
+    }
+  ]
 },
 {
   "id": "mubarak-bin-mohammed-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك بن محمد المزروعي",
   "en": "Mubarak Bin Mohammed Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "حفر طويَّي مغيث وبدع مبارك في الخمسينيات",
+    "en": "Dug the Mughayth and Bada' Mubarak wells in the 1950s"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bin Mohammed, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك بن محمد، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مبارك بن محمد بن حفيظ المزروعي، وُلد نحو ١٩١٤، حافر طويَّين في بداية الخمسينيات: مغيث، وقد سمّاه الشيخ هزاع بن سلطان «غياثي»، وطوي بدع مبارك وقد نُسب إليه. وحمل الشارع في التسمية القديمة الرقم ٧٧١.",
+    "en": "Mubarak bin Mohammed bin Hafeeth Al Mazrouei, born around 1914, dug two wells in the early 1950s: Mughayth, which Sheikh Hazza bin Sultan named «Ghayathi», and the Bada' Mubarak well, which was named after him. The street carried the number 771 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك بن محمد المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-bin-mohammed-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "mubarak-bin-qaran-al-mansouri",
@@ -11422,103 +12500,133 @@ window.STREETS = [
   "id": "mubarak-bin-saeed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك بن سعيد المنصوري",
   "en": "Mubarak Bin Saeed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "قاضٍ وشيخ علم يُكنى بالمّردّ أي الذي يُرد إليه القضايا",
+    "en": "A judge and scholar nicknamed Al Miradd, the one to whom cases are referred"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Bin Saeed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك بن سعيد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مبارك بن سعيد بن عبدالمعين المطيوعي المنصوري، وُلد نحو ١٨٢٠، قاضٍ وشيخ علم يُكنى بـ«المّردّ» أي الذي يُرد إليه الأحكام والقضايا، وهو من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٩٦.",
+    "en": "Mubarak bin Saeed bin Abdulmaeen Al Matyoui Al Mansouri, born around 1820, was a judge and scholar nicknamed «Al Miradd», the one to whom judgements and cases are referred; he was of the people of Al Dhafra. The street carried the number 796 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك بن سعيد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-bin-saeed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "murshid-bin-adaeed-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مرشد بن عضيد الهاملي",
   "en": "Murshid Bin Adaeed Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "رمّم قلعة ظفير سنة ١٩١٥",
+    "en": "Restored the fort of Al Dhafir in 1915"
   },
   "story": {
-    "en": "The street carries the name of Murshid Bin Adaeed, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مرشد بن عضيد، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مرشد بن عضيد الهاملي، وُلد نحو ١٨٨٥، ورمّم قلعة ظفير سنة ١٩١٥ في عهد الشيخ حمدان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١٨٣.",
+    "en": "Murshid bin Adaid Al Hameli, born around 1885, restored the fort of Al Dhafir in 1915 under Sheikh Hamdan bin Zayed the First. The street carried the number 183 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مرشد بن عضيد الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/murshid-bin-adaeed-al-hameli"
+    }
+  ]
 },
 {
   "id": "musallem-bin-sabt-al-khaili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مسلم بن سبت الخييلي",
   "en": "Musallem Bin Sabt Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure of the Khaili family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Musallem Bin Sabt, an Emirati figure of the Khaili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مسلم بن سبت، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مسلم بن محمد بن سعيد بن سبت الخييلي، وُلد نحو ١٩٣٣، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٤٢.",
+    "en": "Muslim bin Mohammed bin Saeed bin Sabt Al Khaili, born around 1933, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 642 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مسلم بن سبت الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/musallem-bin-sabt-al-khaili"
+    }
+  ]
 },
 {
   "id": "muslim-bin-maktoum-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مسلم بن مكتوم المزروعي",
   "en": "Muslim Bin Maktoum Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "عضو المجلس البلدي في أبوظبي بمرسوم سنة ١٩٦٩",
+    "en": "Member of the Municipal Council in Abu Dhabi by decree in 1969"
   },
   "story": {
-    "en": "The street carries the name of Muslim Bin Maktoum, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مسلم بن مكتوم، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مسلم بن مكتوم بن راشد بن هميله المزروعي، وُلد نحو ١٩٣٠، وعضو المجلس البلدي في أبوظبي بمرسوم سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ٢٣٤.",
+    "en": "Muslim bin Maktoum bin Rashid bin Hamila Al Mazrouei, born around 1930, was a member of the Municipal Council in Abu Dhabi by decree in 1969. The street carried the number 234 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مسلم بن مكتوم المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/muslim-bin-maktoum-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "nasser-bin-mohammed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ناصر بن محمد المنصوري",
   "en": "Nasser Bin Mohammed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Nasser Bin Mohammed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ناصر بن محمد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ناصر بن محمد بن ناصر بن سعيد بن حمد بوقبي آل تعيب المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٣٠٥.",
+    "en": "Nasser bin Mohammed bin Nasser bin Saeed bin Hamad Bu Qabi Al Tuaib Al Mansouri, born around 1930, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 305 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ناصر بن محمد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/nasser-bin-mohammed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "nasser-bin-saeed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ناصر بن سعيد المنصوري",
   "en": "Nasser Bin Saeed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "عضو المجلس الاستشاري الوطني ومطارزي للشيخ زايد بن سلطان",
+    "en": "Member of the National Consultative Council and watchman for Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Nasser Bin Saeed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ناصر بن سعيد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ناصر بن سعيد بن سويد بن غدير المنصوري، وُلد نحو ١٩٤١، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، ومطارزي للشيخ زايد بن سلطان آل نهيان، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٢٥.",
+    "en": "Nasser bin Saeed bin Swaid bin Ghadeer Al Mansouri, born around 1941, was a member of the National Consultative Council in 1971 and a watchman for Sheikh Zayed bin Sultan Al Nahyan, of the people of Al Dhafra. The street carried the number 225 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ناصر بن سعيد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/nasser-bin-saeed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "nasser-bin-sweed-almansoori",
@@ -11541,35 +12649,45 @@ window.STREETS = [
   "id": "obaid-bilhamoudi-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بالحمودي المحيربي",
   "en": "Obaid Bilhamoudi Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "شيخ علم من أهل محضر قرمدة",
+    "en": "A scholar of the people of Madhhar Qarmada"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bilhamoudi, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بالحمودي، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن سعيد بالحمودي المحيربي، وُلد نحو ١٩١٠، شيخ علم من أهل محضر قرمدة. وحمل الشارع في التسمية القديمة الرقم ٢٦٧.",
+    "en": "Obaid bin Saeed Bil Hamoudi Al Muhairbi, born around 1910, was a scholar of the people of Madhhar Qarmada. The street carried the number 267 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بالحمودي المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bilhamoudi-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "obaid-bin-beyat-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن بيات المحيربي",
   "en": "Obaid Bin Beyat Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "نوخذة كُلف بتسجيل سفن الغوص لدفع الضريبة",
+    "en": "A nawkhadha tasked with registering diving ships for tax"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Beyat, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن بيات، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن بيات بن عبدالله المحيربي، وُلد نحو ١٩٢٠، نوخذة كُلف بتسجيل سفن الغوص لدفع الضريبة في عهد الشيخ شخبوط بن سلطان آل نهيان، من أهالي دلما. وحمل الشارع في التسمية القديمة الرقم ٧٨٤.",
+    "en": "Obaid bin Bayat bin Abdullah Al Muhairbi, born around 1920, was a nawkhadha tasked with registering diving ships for tax payment under Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Dalma. The street carried the number 784 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن بيات المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bin-beyat-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "obaid-bin-kadaas-al-rumaithi",
@@ -11592,103 +12710,133 @@ window.STREETS = [
   "id": "obaid-bin-kenaish-alhameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن كنيش الهاملي",
   "en": "Obaid Bin Kenaish Alhameli Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "له مساهمات مجتمعية في منطقة الظفرة",
+    "en": "With several community contributions in the Al Dhafra region"
   },
   "story": {
-    "en": "The street carries the name of عبيد بن كنيش الهاملي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبيد بن كنيش الهاملي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبيد بن كنيش بن مبارك الهاملي، من مواليد ليوا سنة ١٩٣٥، وله عدة مساهمات مجتمعية في منطقة الظفرة.",
+    "en": "Obaid bin Kenaish bin Mubarak Al Hameli was born in Liwa in 1935 and has several community contributions in the Al Dhafra region."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن كنيش الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bin-kenaish-alhameli"
+    }
+  ]
 },
 {
   "id": "obaid-bin-khalfan-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن خلفان المزروعي",
   "en": "Obaid Bin Khalfan Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Khalfan, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن خلفان، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن خلفان بن عبيد السويكت المزروعي، وُلد نحو ١٩٢٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٥٨.",
+    "en": "Obaid bin Khalfan bin Obaid Al Swaikit Al Mazrouei, born around 1920, was a known poet of the people of Al Dhafra. The street carried the number 258 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن خلفان المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bin-khalfan-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "obaid-bin-muaded-al-kheraibani",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن معضد الخريباني",
   "en": "Obaid Bin Muaded Al Kheraibani Street",
   "meaning": {
-    "en": "An Emirati figure of the Kheraibani family",
-    "ar": "شخصية إماراتية من أسرة الخريباني"
+    "ar": "شاعر من منطقة مزيد ساهم في برامج الشعراء في الإذاعة والتلفاز",
+    "en": "A poet of the Mazid area who contributed to poets' programmes on radio and TV"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Muaded, an Emirati figure of the Kheraibani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن معضد، وهو شخصية إماراتية من أسرة الخريباني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن معضد بن عبيد بن معضد الخريباني النعيمي، وُلد نحو ١٩٢٩، شاعر من منطقة مزيد، وساهم في برامج الشعراء في الإذاعة والتلفاز في أبوظبي ودبي منذ بداية تأسيس البرنامج. وحمل الشارع في التسمية القديمة الرقم ٥٠٨.",
+    "en": "Obaid bin Muaded bin Obaid bin Muaded Al Kheraibani Al Nuaimi, born around 1929, was a poet of the Mazid area who contributed to the poets' programmes on radio and television in Abu Dhabi and Dubai since the programme's establishment. The street carried the number 508 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن معضد الخريباني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bin-muaded-al-kheraibani"
+    }
+  ]
 },
 {
   "id": "obaid-bin-rashid-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن راشد المنصوري",
   "en": "Obaid Bin Rashid Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Rashid, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن راشد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن راشد آل سالمين المنصوري، وُلد نحو ١٩٤٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٧٣.",
+    "en": "Obaid bin Rashid Al Salmeen Al Mansouri, born around 1940, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 273 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن راشد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bin-rashid-al-mansouri"
+    }
+  ]
 },
 {
   "id": "obaid-bin-rashid-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن راشد المهيري",
   "en": "Obaid Bin Rashid Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "من كبار آل بو مهير ومرافق للشيخ سلطان بن زايد الأول",
+    "en": "A senior Al Bu Muhair figure and companion of Sheikh Sultan bin Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Rashid, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن راشد، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٨٨٠، من رجالات أبوظبي ومن كبار آل بو مهير المعروفين بالكرم وأعمال الخير، من المرافقين للشيخ سلطان بن زايد الأول، وقد صاهره الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٤٦.",
+    "en": "Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1880, was one of the notables of Abu Dhabi and the senior Al Bu Muhair known for generosity and good works; he was among the companions of Sheikh Sultan bin Zayed the First, and Sheikh Zayed bin Sultan Al Nahyan became related to him by marriage. The street carried the number 46 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن راشد المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bin-rashid-al-muhairi"
+    }
+  ]
 },
 {
   "id": "obaid-bin-saeed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بن سعيد المنصوري",
   "en": "Obaid Bin Saeed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "مرافق وحارس للشيخ شخبوط وعضو المجلس الاستشاري",
+    "en": "A companion and guard of Sheikh Shakhbut and member of the Consultative Council"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bin Saeed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بن سعيد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن سعيد بن مبارك سالمين المنصوري، وُلد نحو ١٩٣٠، مرافق للشيخ شخبوط بن سلطان آل نهيان ومن حراسه، وعضو في المجلس الاستشاري قبل قيام الاتحاد. وحمل الشارع في التسمية القديمة الرقم ٢٩٣.",
+    "en": "Obaid bin Saeed bin Mubarak Salmeen Al Mansouri, born around 1930, was a companion and one of the guards of Sheikh Shakhbut bin Sultan Al Nahyan, and a member of the Consultative Council before the Union. The street carried the number 293 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بن سعيد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bin-saeed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "obaid-bin-thani-al-rumaithi",
@@ -11716,120 +12864,155 @@ window.STREETS = [
   "id": "omair-bin-hayy-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمير بن حيي الهاملي",
   "en": "Omair Bin Hayy Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "مرافق وشاعر معروف في عهد الشيخ شخبوط",
+    "en": "A companion and known poet in the time of Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Omair Bin Hayy, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عمير بن حيي، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عمير بن حيي بن محمد بن حيي بن على الهاملي، وُلد نحو ١٩٣٥، مرافق وشاعر معروف في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٣٨.",
+    "en": "Omair bin Hayy bin Mohammed bin Hayy bin Ali Al Hameli, born around 1935, was a companion and known poet in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 238 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عمير بن حيي الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/omair-bin-hayy-al-hameli"
+    }
+  ]
 },
 {
   "id": "omair-bin-muaded-al-mashghoni",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمير بن معضد المشغوني",
   "en": "Omair Bin Muaded Al Mashghoni Street",
   "meaning": {
-    "en": "An Emirati figure of the Mashghoni family",
-    "ar": "شخصية إماراتية من أسرة المشغوني"
+    "ar": "المرافق الخاص للشيخ زايد بن سلطان وعضو المجلس البلدي للعين",
+    "en": "Private companion of Sheikh Zayed bin Sultan and member of the Al Ain Municipal Council"
   },
   "story": {
-    "en": "The street carries the name of Omair Bin Muaded, an Emirati figure of the Mashghoni family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عمير بن معضد، وهو شخصية إماراتية من أسرة المشغوني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عمير بن معضد بن سيف بن معضد المشغوني، وُلد نحو ١٩٤٤، المرافق الخاص للشيخ زايد بن سلطان آل نهيان، وعضو في المجلس البلدي في مدينة العين. وحمل الشارع في التسمية القديمة الرقم ٢١٩.",
+    "en": "Omair bin Muaded bin Saif bin Muaded Al Mashghouni, born around 1944, was the private companion of Sheikh Zayed bin Sultan Al Nahyan, and a member of the Municipal Council in Al Ain city. The street carried the number 219 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عمير بن معضد المشغوني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/omair-bin-muaded-al-mashghoni"
+    }
+  ]
 },
 {
   "id": "omair-bin-yousef-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمير بن يوسف المهيري",
   "en": "Omair Bin Yousef Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "رجل أعمال معروف في أبوظبي ساهم في أعمال الخير",
+    "en": "A known businessman of Abu Dhabi who contributed to good works"
   },
   "story": {
-    "en": "The street carries the name of Omair Bin Yousef, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عمير بن يوسف، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عمير بن يوسف بن أحمد المهيري، وُلد نحو ١٩٢٠، رجل أعمال معروف في أبوظبي، وساهم في أعمال خيرية كثيرة منها بناء المساكن وكفالة المحتاجين. وحمل الشارع في التسمية القديمة الرقم ٢٦٤.",
+    "en": "Omair bin Yousef bin Ahmed Al Muhairi, born around 1920, was a known businessman in Abu Dhabi, and contributed to many good works including building housing and sponsoring the needy. The street carried the number 264 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عمير بن يوسف المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/omair-bin-yousef-al-muhairi"
+    }
+  ]
 },
 {
   "id": "osha-bint-alhasm-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عوشة بنت الحصم الرميثي",
   "en": "Osha Bint Alhasm Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعرة معروفة من أهل أبوظبي تُكنى ببنت شملان",
+    "en": "A known poetess of Abu Dhabi nicknamed Bint Shamlan"
   },
   "story": {
-    "en": "The street carries the name of Osha Bint Alhasm, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عوشة بنت الحصم، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عوشة بنت سعيد الحصم الرميثي، وُلدت نحو ١٨٩٥، شاعرة معروفة من أهل أبوظبي، وتُكنى بـ«بنت شملان»، عاشت في حكم زايد بن خليفة وابنه طحنون في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١٦٣.",
+    "en": "Osha bint Saeed Al Hasm Al Rumaithi, born around 1895, was a known poetess of the people of Abu Dhabi, nicknamed «Bint Shamlan»; she lived under the rule of Zayed bin Khalifa and his son Tahnoun, in the time of Sheikh Zayed the First. The street carried the number 163 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عوشة بنت الحصم الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/osha-bint-alhasm-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "osha-bint-khalifa-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عوشة بنت خليفة السويدي",
   "en": "Osha Bint Khalifa Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "شاعرة معروفة من أهل أبوظبي نالت جائزة أبوظبي",
+    "en": "A known poetess of Abu Dhabi who received the Abu Dhabi Award"
   },
   "story": {
-    "en": "The street carries the name of Osha Bint Khalifa, an Emirati figure of the Suwaidi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم عوشة بنت خليفة، وهي شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عوشة بنت خليفة بن أحمد السويدي، وُلدت نحو ١٩٢٠، شاعرة معروفة من أهل أبوظبي، ونالت جائزة أبوظبي سنة ٢٠٠٩. وحمل الشارع في التسمية القديمة الرقم ٨٥.",
+    "en": "Osha bint Khalifa bin Ahmed Al Suwaidi, born around 1920, was a known poetess of the people of Abu Dhabi, and received the Abu Dhabi Award in 2009. The street carried the number 85 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عوشة بنت خليفة السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/osha-bint-khalifa-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "qadma-bint-hilal-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع قضمة بنت هلال الظاهري",
   "en": "Qadma Bint Hilal Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "من نساء العين ساعدت عمها الشيخ أحمد بن هلال في مهامه",
+    "en": "One of Al Ain's women who helped her uncle Sheikh Ahmed bin Hilal in his tasks"
   },
   "story": {
-    "en": "The street carries the name of Qadma Bint Hilal, an Emirati figure of the Dhaheri family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم قضمة بنت هلال، وهي شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "قضمة بنت هلال بن محمد بن هلال الظاهري، وُلدت نحو ١٩٠٧، من نساء العين المشهود لهن برجاحة العقل وقوة الشخصية والكرم، وكانت تساعد عمها الشيخ أحمد بن هلال في مهامه. وحمل الشارع في التسمية القديمة الرقم ٥٥٥.",
+    "en": "Qadma bint Hilal bin Mohammed bin Hilal Al Dhaheri, born around 1907, was one of the women of Al Ain attested for sound mind, strength of character and generosity, and she used to help her uncle Sheikh Ahmed bin Hilal in his tasks. The street carried the number 555 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: قضمة بنت هلال الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/qadma-bint-hilal-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "qammash-bin-khalfan-al-amimi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع قمّاش بن خلفان العميمي",
   "en": "Qammash Bin Khalfan Al Amimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Amimi family",
-    "ar": "شخصية إماراتية من أسرة العميمي"
+    "ar": "شاعر معروف من أهل أبوظبي والعين وشارك في واقعة الشميريخات",
+    "en": "A known poet of Abu Dhabi and Al Ain who took part in the affair of Al Shmeirikhat"
   },
   "story": {
-    "en": "The street carries the name of Qammash Bin Khalfan, an Emirati figure of the Amimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم قمّاش بن خلفان، وهو شخصية إماراتية من أسرة العميمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "قمّاش بن خلفان بن مصبح بن عبيد العميمي، وُلد نحو ١٨٩٥، شاعر معروف من أهالي أبوظبي والعين، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٢٤.",
+    "en": "Qammash bin Khalfan bin Musabah bin Obaid Al Amimi, born around 1895, was a known poet of the people of Abu Dhabi and Al Ain; he took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 624 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: قمّاش بن خلفان العميمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/qammash-bin-khalfan-al-amimi"
+    }
+  ]
 },
 {
   "id": "rashed-bin-hfaid-al-mazrouei",
@@ -11869,494 +13052,639 @@ window.STREETS = [
   "id": "rashid-bin-daafous-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن دعفوس المزروعي",
   "en": "Rashid Bin Daafous Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر معروف من أهل الظفرة ومحاضر إليوا",
+    "en": "A known poet of Al Dhafra and the mahadir of Liwa"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Daafous, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن دعفوس، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن دعفوس آل حريحر المزروعي، وُلد نحو ١٨٩٢، شاعر معروف من أهل منطقة الظفرة ومحاضر إليوا. وحمل الشارع في التسمية القديمة الرقم ٢٠٠.",
+    "en": "Rashid bin Daafous Al Hariharr Al Mazrouei, born around 1892, was a known poet of the Al Dhafra region and the mahadir of Liwa. The street carried the number 200 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن دعفوس المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-daafous-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "rashid-bin-hamr-ain-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن حمرعين الظاهري",
   "en": "Rashid Bin Hamr Ain Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شاعر معروف من أهل العين عمل في جزيرة داس والقوات المسلحة",
+    "en": "A known poet of Al Ain who worked on Das Island and in the Armed Forces"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Hamr Ain, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن حمرعين، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن عبيد العليوي بن حمرعين الظاهري، وُلد نحو ١٩٤٠، شاعر معروف من أهل العين، عمل في بداية حياته في جزيرة داس ثم في القوات المسلحة. وحمل الشارع في التسمية القديمة الرقم ٥٨٢.",
+    "en": "Rashid bin Obaid Al Alawi bin Hamrain Al Dhaheri, born around 1940, was a known poet of the people of Al Ain; he worked at the beginning of his life on Das Island and then in the Armed Forces. The street carried the number 582 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن حمرعين الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-hamr-ain-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "rashid-bin-humaid-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن حميد الهاملي",
   "en": "Rashid Bin Humaid Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "كُلف بالإشراف على محاضر شاه والسبخة ووذيل في إليوا",
+    "en": "Tasked with supervising the mahadir of Shah, Al Sabkhah and Wadhail in Liwa"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Humaid, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن حميد، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن حميد الهاملي، وُلد نحو ١٨٧٠، وكُلف من حاكم أبوظبي الشيخ زايد الأول (١٨٥٥–١٩٠٩) بالإشراف على محاضر شاه والسبخة ووذيل في إليوا. وحمل الشارع في التسمية القديمة الرقم ٧٩١.",
+    "en": "Rashid bin Humaid Al Hameli, born around 1870, was tasked by the ruler of Abu Dhabi Sheikh Zayed the First (1855–1909) with supervising the mahadir of Shah, Al Sabkhah and Wadhail in Liwa. The street carried the number 791 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن حميد الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-humaid-al-hameli"
+    }
+  ]
 },
 {
   "id": "rashid-bin-jaber-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن جابر الهاملي",
   "en": "Rashid Bin Jaber Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "والي على إليوا من سنة ١٩٥٥ إلى ١٩٦٤",
+    "en": "Governor of Liwa from 1955 to 1964"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Jaber, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن جابر، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن جابر بن راشد بن حميد الهاملي، وُلد نحو ١٩١٥، وعُيِّن والياً على إليوا من سنة ١٩٥٥ إلى سنة ١٩٦٤. وحمل الشارع في التسمية القديمة الرقم ١٨٢.",
+    "en": "Rashid bin Jaber bin Rashid bin Humaid Al Hameli, born around 1915, was appointed governor of Liwa from 1955 to 1964. The street carried the number 182 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن جابر الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-jaber-al-hameli"
+    }
+  ]
 },
 {
   "id": "rashid-bin-jabr-al-halami",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن جبر الحلامي",
   "en": "Rashid Bin Jabr Al Halami Street",
   "meaning": {
-    "en": "An Emirati figure of the Halami family",
-    "ar": "شخصية إماراتية من أسرة الحلامي"
+    "ar": "شيخ علم وفاعل خير بنى مسجداً قديماً في أبوظبي",
+    "en": "A scholar and benefactor who built an old mosque in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Jabr, an Emirati figure of the Halami family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن جبر، وهو شخصية إماراتية من أسرة الحلامي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن جبر الحلامي، وُلد نحو ١٨٥٠، شيخ علم وفاعل خير، وبنى مسجداً قديماً في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٨٦.",
+    "en": "Rashid bin Jabr Al Halami, born around 1850, was a scholar and benefactor, and built an old mosque in Abu Dhabi. The street carried the number 186 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن جبر الحلامي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-jabr-al-halami"
+    }
+  ]
 },
 {
   "id": "rashid-bin-jabr-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن جبر السويدي",
   "en": "Rashid Bin Jabr Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "ممثل حاكم أبوظبي في جزيرة دلما ١٩٣٧–١٩٤٥",
+    "en": "Representative of the ruler of Abu Dhabi on Dalma Island 1937–1945"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Jabr, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن جبر، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن جبر بن جمعة السويدي، وُلد نحو ١٩٠٧، وكان ممثل حاكم أبوظبي في جزيرة دلما من سنة ١٩٣٧ إلى سنة ١٩٤٥. وحمل الشارع في التسمية القديمة الرقم ٣٢٥.",
+    "en": "Rashid bin Jabr bin Juma Al Suwaidi, born around 1907, was the representative of the ruler of Abu Dhabi on Dalma Island from 1937 to 1945. The street carried the number 325 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن جبر السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-jabr-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "rashid-bin-khadim-al-mansoori",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن خادم المنصوري",
   "en": "Rashid Bin Khadim Al Mansoori Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansoori family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Khadim, an Emirati figure of the Mansoori family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن خادم، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن خادم بن حليمان بن ثاني بن سعيد آل رشيّد الشعري المنصوري، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وتوفي سنة ١٩٨٣. وحمل الشارع في التسمية القديمة الرقم ٦١١.",
+    "en": "Rashid bin Khadim bin Haliman bin Thani bin Saeed Al Rasheed Al Shaari Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971, and died in 1983. The street carried the number 611 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن خادم المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-khadim-al-mansoori"
+    }
+  ]
 },
 {
   "id": "rashid-bin-khalfan-al-shamsi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن خلفان الشامسي",
   "en": "Rashid Bin Khalfan Al Shamsi Street",
   "meaning": {
-    "en": "An Emirati figure of the Shamsi family",
-    "ar": "شخصية إماراتية من أسرة الشامسي"
+    "ar": "شاعر معروف من أهل العين",
+    "en": "A known poet of the people of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Khalfan, an Emirati figure of the Shamsi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن خلفان، وهو شخصية إماراتية من أسرة الشامسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن خلفان النايلي الشامسي، وُلد نحو ١٩٢٠، شاعر معروف من أهل العين. وحمل الشارع في التسمية القديمة الرقم ٥٣٦.",
+    "en": "Rashid bin Khalfan Al Naili Al Shamsi, born around 1920, was a known poet of the people of Al Ain. The street carried the number 536 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن خلفان الشامسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-khalfan-al-shamsi"
+    }
+  ]
 },
 {
   "id": "rashid-bin-mohammed-al-neyadi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن محمد النيادي",
   "en": "Rashid Bin Mohammed Al Neyadi Street",
   "meaning": {
-    "en": "An Emirati figure of the Neyadi family",
-    "ar": "شخصية إماراتية من أسرة النيادي"
+    "ar": "عضو المجلس الاستشاري الوطني ولجان الجوازات والمصالحة",
+    "en": "Member of the National Consultative Council and of the passports and reconciliation committees"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Mohammed, an Emirati figure of the Neyadi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن محمد، وهو شخصية إماراتية من أسرة النيادي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن محمد بن عبدالله بن راشد النيادي، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني من سنة ١٩٧١، وعضو لجنة إصدار جوازات أبوظبي، وعضو لجنة المصالحة في محكمة العين. وحمل الشارع في التسمية القديمة الرقم ٥٠٥.",
+    "en": "Rashid bin Mohammed bin Abdullah bin Rashid Al Neyadi, born around 1930, was a member of the National Consultative Council from 1971, of the Abu Dhabi passports issuance committee, and of the reconciliation committee at Al Ain court. The street carried the number 505 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن محمد النيادي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-mohammed-al-neyadi"
+    }
+  ]
 },
 {
   "id": "rashid-bin-salem-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن سالم المنصوري",
   "en": "Rashid Bin Salem Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف من الظفرة وله ديوان بن مسلم",
+    "en": "A known poet of Al Dhafra with the Bin Muslim diwan"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Salem, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن سالم، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن سالم بن راشد بن مسلم المنصوري، وُلد نحو ١٩٣٥، شاعر معروف من أهل الظفرة، وله ديوان «بن مسلم». وحمل الشارع في التسمية القديمة الرقم ٧٦٦.",
+    "en": "Rashid bin Salem bin Rashid bin Muslim Al Mansouri, born around 1935, was a known poet of the people of Al Dhafra, and has the diwan «Bin Muslim». The street carried the number 766 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن سالم المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-salem-al-mansouri"
+    }
+  ]
 },
 {
   "id": "rashid-bin-zunaid-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن زنيد القبيسي",
   "en": "Rashid Bin Zunaid Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "شاعر معروف من أهل دلما وغاغة",
+    "en": "A known poet of the people of Dalma and Ghagha"
   },
   "story": {
-    "en": "The street carries the name of Rashid Bin Zunaid, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم راشد بن زنيد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "راشد بن حميد بن سيف بن زنيد القبيسي، وُلد نحو ١٩٠٧، شاعر معروف من أهل دلما وغاغة. وحمل الشارع في التسمية القديمة الرقم ٣٢٧.",
+    "en": "Rashid bin Humaid bin Saif bin Zunaid Al Qubaisi, born around 1907, was a known poet of the people of Dalma and Ghagha. The street carried the number 327 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن زنيد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashid-bin-zunaid-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "rubaya-bin-shaheen-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ربيّع بن شاهين المهيري",
   "en": "Rubaya Bin Shaheen Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "قاضي في مجال تحكيم البحر عُيِّن من الشيخ زايد الأول",
+    "en": "A judge in maritime arbitration appointed by Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Rubaya Bin Shaheen, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ربيّع بن شاهين، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ربيّع بن شاهين أحمد المهيري، وُلد نحو ١٨٧٠، قاضي في مجال تحكيم البحر، عُيِّن من قبل الشيخ زايد الأول.",
+    "en": "Rubaya bin Shaheen Ahmed Al Muhairi, born around 1870, was a judge in maritime arbitration, appointed by Sheikh Zayed the First."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ربيّع بن شاهين المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rubaya-bin-shaheen-al-muhairi"
+    }
+  ]
 },
 {
   "id": "saber-bin-ablan-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع صابر بن عبلان المزروعي",
   "en": "Saber Bin Ablan Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "قائم ومُديم للموارد القديمة في منطقة السمحة",
+    "en": "Tender and maintainer of the old water sources of the Al Samha area"
   },
   "story": {
-    "en": "The street carries the name of Saber Bin Ablan, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم صابر بن عبلان، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "صابر بن محمد بن سعيد بن عيسى بن محسن بن ذياب بن عبلان المزروعي، وُلد نحو ١٩٢٠، من أهالي منطقة السمحة، وكان قائماً ومديماً للموارد القديمة مثل السميح والدويبة والبدوع وبئر صابر. وحمل الشارع في التسمية القديمة الرقم ٣٥٤.",
+    "en": "Saber bin Mohammed bin Saeed bin Essa bin Mohsin bin Dhiyab bin Ablan Al Mazrouei, born around 1920, was of the people of the Al Samha area, and tended and maintained the old water sources such as Al Sameeh, Al Dwaiba, Al Bado' and Bir Saber. The street carried the number 354 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: صابر بن عبلان المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saber-bin-ablan-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "saeed-ahmed-al-mansoori",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد أحمد المنصوري",
   "en": "Saeed Ahmed Al Mansoori Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansoori family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Saeed Ahmed, an Emirati figure of the Mansoori family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد أحمد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سعيد احمد راشد محمد المنصوري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٨١.",
+    "en": "The martyr Saeed Ahmed Rashid Mohammed Al Mansouri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 581 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد أحمد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-ahmed-al-mansoori"
+    }
+  ]
 },
 {
   "id": "saeed-alraqraqi-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد الرقراقي المزروعي",
   "en": "Saeed Alraqraqi Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر ودليل لشركات التنقيب يُعرف براعي الملحا",
+    "en": "A poet and guide for the exploration companies nicknamed Rai Al Melha"
   },
   "story": {
-    "en": "The street carries the name of Saeed Alraqraqi, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد الرقراقي، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن جاسم بن محمد الرقراقي المزروعي، وُلد نحو ١٩١٠، شاعر معروف ودليل لشركات التنقيب عن البترول من أهل إليوا، ويُعرف بـ«راعي الملحا»، وعمل بالغوص في بداية حياته. وحمل الشارع في التسمية القديمة الرقم ٢٦٣.",
+    "en": "Saeed bin Jassim bin Mohammed Al Raqraqui Al Mazrouei, born around 1910, was a known poet and a guide for the oil exploration companies of the people of Liwa, known as «Rai Al Melha»; he worked in pearl diving at the beginning of his life. The street carried the number 263 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد الرقراقي المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-alraqraqi-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "saeed-bin-abdullah-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن عبدالله القبيسي",
   "en": "Saeed Bin Abdullah Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "مسؤول جزيرة مبرز وعضو المجلس الاستشاري سنة ١٩٧٩",
+    "en": "Official in charge of Mubarraz Island and member of the Consultative Council in 1979"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Abdullah, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن عبدالله، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن عبدالله بن مسلم بن عبدالله القبيسي، وُلد نحو ١٩٢٠، مسؤول جزيرة مبرز، وعضو المجلس الاستشاري سنة ١٩٧٩. وحمل الشارع في التسمية القديمة الرقم ٢٢٣.",
+    "en": "Saeed bin Abdullah bin Muslim bin Abdullah Al Qubaisi, born around 1920, was the official in charge of Mubarraz Island and a member of the Consultative Council in 1979. The street carried the number 223 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن عبدالله القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-abdullah-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "saeed-bin-ablan-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن عبلان المزروعي",
   "en": "Saeed Bin Ablan Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر وغيّاص من سكان إليوا يتردد على جزر البزوم",
+    "en": "A poet and pearl diver of Liwa who frequented the Al Buzoom islands"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Ablan, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن عبلان، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن محمد بن سعيد بن عبلان المزروعي، وُلد نحو ١٩٢١، شاعر معروف وغيّاص من سكان إليوا، وكان يتردد على جزر البزوم. وحمل الشارع في التسمية القديمة الرقم ١٨٨.",
+    "en": "Saeed bin Mohammed bin Saeed bin Ablan Al Mazrouei, born around 1921, was a known poet and pearl diver of the people of Liwa, and he frequented the Al Buzoom islands. The street carried the number 188 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن عبلان المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-ablan-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "saeed-bin-ali-al-mohannadi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن علي المهندي",
   "en": "Saeed Bin Ali Al Mohannadi Street",
   "meaning": {
-    "en": "An Emirati figure of the Mohannadi family",
-    "ar": "شخصية إماراتية من أسرة المهندي"
+    "ar": "من أهل صير بني ياس شارك في بناء سد دلما وسُمّي مسجد باسمه",
+    "en": "Of Sir Bani Yas, took part in building the Dalma dam and had a mosque named after him"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Ali, an Emirati figure of the Mohannadi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن علي، وهو شخصية إماراتية من أسرة المهندي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن علي المهندي، وُلد نحو ١٨٥٨، من أهل صير بني ياس، امتهن صيد البحر وله مسكر معروف، ثم انتقل إلى دلما وشارك في بناء سد دلما، وسُمّي مسجداً في دلما باسمه. وحمل الشارع في التسمية القديمة الرقم ٧٨٣.",
+    "en": "Saeed bin Ali Al Mohannadi, born around 1858, was of the people of Sir Bani Yas; he practised sea fishing and had a known maskar, then moved to Dalma, took part in building the Dalma dam, and a mosque in Dalma was named after him. The street carried the number 783 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن علي المهندي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-ali-al-mohannadi"
+    }
+  ]
 },
 {
   "id": "saeed-bin-aljubaiha-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن الجبيهاء الظاهري",
   "en": "Saeed Bin AlJubaiha Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "قاضٍ وشيخ علم وشاعر في عهد زايد الأول",
+    "en": "A judge, scholar and poet in the time of Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin AlJubaiha, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن الجبيهاء، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن محمد بن عبدالله بن علي بن الجبيهاء اليبهوني الظاهري، وُلد نحو ١٩٠٥، قاضٍ وشيخ علم في أبوظبي والعين، وشاعر معروف في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٥٣٥.",
+    "en": "Saeed bin Mohammed bin Abdullah bin Ali bin Al Jubaiha Al Yabhooni Al Dhaheri, born around 1905, was a judge and scholar in Abu Dhabi and Al Ain, and a known poet in the time of Sheikh Zayed the First (1855–1909). The street carried the number 535 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن الجبيهاء الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-aljubaiha-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "saeed-bin-atiq-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن عتيق الهاملي",
   "en": "Saeed Bin Atiq Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "شاعر معروف عُرف بإجادته لفن الونه ومرافق للزايد الأول",
+    "en": "A known poet skilled in the Al Wannah art and companion of Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Atiq, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن عتيق، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن راشد بن سعيد بن عتيق المحيشي الهاملي، وُلد نحو ١٨٧٥، شاعر معروف عُرف بإجادته لفن الونه، وشارك في عدة غزوات مع الشيخ زايد الأول، ورافق الشيخ حمدان بن زايد الأول. وحمل الشارع في التسمية القديمة الرقم ١١٠.",
+    "en": "Saeed bin Rashid bin Saeed bin Atiq Al Muhaishi Al Hameli, born around 1875, was a known poet skilled in the art of Al Wannah; he took part in several expeditions with Sheikh Zayed the First and accompanied Sheikh Hamdan bin Zayed the First. The street carried the number 110 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن عتيق الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-atiq-al-hameli"
+    }
+  ]
 },
 {
   "id": "saeed-bin-atiq-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن عتيق القبيسي",
   "en": "Saeed Bin Atiq Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "شيخ علم في دلما في عهد الشيخ زايد الأول",
+    "en": "A scholar in Dalma in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Atiq, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن عتيق، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن عتيق القبيسي، وُلد نحو ١٨٧٣، شيخ علم في دلما في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٧٨٢.",
+    "en": "Saeed bin Atiq Al Qubaisi, born around 1873, was a scholar in Dalma in the time of Sheikh Zayed the First (1855–1909). The street carried the number 782 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن عتيق القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-atiq-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "saeed-bin-dumithan-al-qamzi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن دميثان القمزي",
   "en": "Saeed Bin Dumithan Al Qamzi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qamzi family",
-    "ar": "شخصية إماراتية من أسرة القمزي"
+    "ar": "شيخ علم ومطوع من أهل الطف الشمالي",
+    "en": "A scholar and mutawwa' of the northern sands"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Dumithan, an Emirati figure of the Qamzi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن دميثان، وهو شخصية إماراتية من أسرة القمزي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن هلال بن سعيد بن دميثان القمزي، وُلد نحو ١٩٠٠، شيخ علم ومطوع من أهل الطف الشمالي. وحمل الشارع في التسمية القديمة الرقم ٣٠٠.",
+    "en": "Saeed bin Hilal bin Saeed bin Dumithan Al Qamzi, born around 1900, was a scholar and mutawwa' of the northern sands. The street carried the number 300 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن دميثان القمزي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-dumithan-al-qamzi"
+    }
+  ]
 },
 {
   "id": "saeed-bin-maizer-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن ميزر الرميثي",
   "en": "Saeed Bin Maizer Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعر معروف من منطقة الطف الشمالي",
+    "en": "A known poet of the northern sands region"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Maizer, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن ميزر، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن علي بن ميزر بن سعيد الرميثي، وُلد نحو ١٩٠٠، شاعر معروف من أهل منطقة الطف الشمالي، وتوفي سنة ١٩٤٥. وحمل الشارع في التسمية القديمة الرقم ٩٣.",
+    "en": "Saeed bin Ali bin Mizar bin Saeed Al Rumaithi, born around 1900, was a known poet of the northern sands region, and died in 1945. The street carried the number 93 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن ميزر الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-maizer-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "saeed-bin-majid-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن ماجد المنصوري",
   "en": "Saeed Bin Majid Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف من أهل إليوا وله ديوان ابن العنصا",
+    "en": "A known poet of Liwa with the Diwan of Ibn Al Onsa"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Majid, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن ماجد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن ماجد بن راشد بن عامر العنصا المديهمي المنصوري، وُلد نحو ١٩٣٠، شاعر معروف من أهل إليوا، وله ديوان «ابن العنصا». وحمل الشارع في التسمية القديمة الرقم ٢٩٥.",
+    "en": "Saeed bin Majid bin Rashid bin Amer Al Onsa Al Mudeihimi Al Mansouri, born around 1930, was a known poet of the people of Liwa, and has the diwan «Ibn Al Onsa». The street carried the number 295 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن ماجد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-majid-al-mansouri"
+    }
+  ]
 },
 {
   "id": "saeed-bin-muaded-al-mashghoni",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن معضد المشغوني",
   "en": "Saeed Bin Muaded Al Mashghoni Street",
   "meaning": {
-    "en": "An Emirati figure of the Mashghoni family",
-    "ar": "شخصية إماراتية من أسرة المشغوني"
+    "ar": "شاعر معروف من أهل العين عُرف بالشجاعة والكرم",
+    "en": "A known poet of Al Ain known for courage and generosity"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Muaded, an Emirati figure of the Mashghoni family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن معضد، وهو شخصية إماراتية من أسرة المشغوني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن معضد بن سيف المشغوني العميمي، وُلد نحو ١٨٨٠، شاعر معروف من أهل العين، وعُرف بالشجاعة والكرم. وحمل الشارع في التسمية القديمة الرقم ٣٥٢.",
+    "en": "Saeed bin Muaded bin Saif Al Mashghouni Al Amimi, born around 1880, was a known poet of the people of Al Ain, known for courage and generosity. The street carried the number 352 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن معضد المشغوني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-muaded-al-mashghoni"
+    }
+  ]
 },
 {
   "id": "saeed-bin-muaded-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن معضد المهيري",
   "en": "Saeed Bin Muaded Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "مرافق للشيخ زايد بن سلطان وولد خال الشيخة سلامة بنت زايد",
+    "en": "A companion of Sheikh Zayed bin Sultan and son of the maternal uncle of Sheikha Salama bint Zayed"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Muaded, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن معضد، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن عبيد بن راشد بن عمير بن معضد المهيري، وُلد نحو ١٩٣٥، مرافق للشيخ زايد بن سلطان آل نهيان، وهو ولد خال الشيخة سلامة بنت زايد بن سلطان. وحمل الشارع في التسمية القديمة الرقم ٣٤٥.",
+    "en": "Saeed bin Obaid bin Rashid bin Omair bin Maadad Al Muhairi, born around 1935, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and the son of the maternal uncle of Sheikha Salama bint Zayed bin Sultan. The street carried the number 345 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن معضد المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-muaded-al-muhairi"
+    }
+  ]
 },
 {
   "id": "saeed-bin-saif-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن سيف الفلاحي",
   "en": "Saeed Bin Saif Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "شاعر معروف من أبوظبي وله ديوان آل زعل",
+    "en": "A known poet of Abu Dhabi with the Al Zaal diwan"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Saif, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن سيف، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٨٥، شاعر معروف من أهل أبوظبي، وله ديوان آل زعل، وعمل في مركز المارية في إليوا. وحمل الشارع في التسمية القديمة الرقم ٩٢.",
+    "en": "Saeed bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1885, was a known poet of the people of Abu Dhabi with the Al Zaal diwan, and worked at the Al Mariya centre in Liwa. The street carried the number 92 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن سيف الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-saif-al-falahi"
+    }
+  ]
 },
 {
   "id": "saeed-bin-sweed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن سويد المنصوري",
   "en": "Saeed Bin Sweed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "قاضٍ مختص في قضايا الحلال والنخيل من أهل الظفرة",
+    "en": "A judge specialising in livestock and palm cases of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Sweed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن سويد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن سويد بن غدير بن حمد بن تعيب بن حسن المنصوري، وُلد نحو ١٨٦٠، قاضٍ مختص في قضايا الحلال والنخيل، من أهالي الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٧٤.",
+    "en": "Saeed bin Swaid bin Ghadeer bin Hamad bin Tuaib bin Hassan Al Mansouri, born around 1860, was a judge specialising in livestock and palm cases, of the people of Al Dhafra. The street carried the number 274 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن سويد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-sweed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "saeed-bin-yarouf-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن يعروف المنصوري",
   "en": "Saeed Bin Yarouf Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شيخ علم في أبوظبي في عهد الشيخ شخبوط",
+    "en": "A scholar in Abu Dhabi in the time of Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Yarouf, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن يعروف، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن محمد بن يعروف بن بهلول المطيوعي المنصوري، وُلد نحو ١٨٨٥، شيخ علم في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٧٩.",
+    "en": "Saeed bin Mohammed bin Yarouf bin Bahlol Al Matyoui Al Mansouri, born around 1885, was a scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 279 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن يعروف المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-yarouf-al-mansouri"
+    }
+  ]
 },
 {
   "id": "saeed-bin-zayed-al-mazrouei",
@@ -12379,307 +13707,397 @@ window.STREETS = [
   "id": "saeed-ibrahim-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد ابراهيم الظاهري",
   "en": "Saeed Ibrahim Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Saeed Ibrahim, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد ابراهيم، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سعيد ابراهيم محمد سالم الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٠٦.",
+    "en": "The martyr Saeed Ibrahim Mohammed Salem Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 606 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد ابراهيم الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-ibrahim-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "saeed-rashed-al-neyadi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد راشد النيادي",
   "en": "Saeed Rashed Al Neyadi Street",
   "meaning": {
-    "en": "An Emirati figure of the Neyadi family",
-    "ar": "شخصية إماراتية من أسرة النيادي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Saeed Rashed, an Emirati figure of the Neyadi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد راشد، وهو شخصية إماراتية من أسرة النيادي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سعيد راشد مبارك سعيد النيادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥١٦.",
+    "en": "The martyr Saeed Rashid Mubarak Saeed Al Neyadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 516 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد راشد النيادي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-rashed-al-neyadi"
+    }
+  ]
 },
 {
   "id": "saif-bin-afsan-al-khaili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن عفصان الخييلي",
   "en": "Saif Bin Afsan Al Khaili Street",
   "meaning": {
-    "en": "An Emirati figure of the Khaili family",
-    "ar": "شخصية إماراتية من أسرة الخييلي"
+    "ar": "فارس مشهور بالقوة ورباطة الجأش في عهد زايد الأول",
+    "en": "A horseman known for strength and composure in the time of Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Afsan, an Emirati figure of the Khaili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن عفصان، وهو شخصية إماراتية من أسرة الخييلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن عفصان بن خلفان الخييلي، وُلد نحو ١٨٣٣، فارس ورجل مشهور بقوته ورباطة جأشه في عهد الشيخ زايد الأول. وحمل الشارع في التسمية القديمة الرقم ٥٢٨.",
+    "en": "Saif bin Afsan bin Khalfan Al Khaili, born around 1833, was a horseman known for his strength and composure in the time of Sheikh Zayed the First. The street carried the number 528 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن عفصان الخييلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-afsan-al-khaili"
+    }
+  ]
 },
 {
   "id": "saif-bin-ali-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن علي القبيسي",
   "en": "Saif Bin Ali Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "عضو اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة",
+    "en": "Member of the advisory committee for nationality, passports and residence"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Ali, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن علي، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن علي بن خفية القبيسي، وُلد نحو ١٩١٥، وعضو في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ١٦٤.",
+    "en": "Saif bin Ali bin Khufaiyah Al Qubaisi, born around 1915, was a member of the advisory committee of the Department of Nationality, Passports and Residence in 1968. The street carried the number 164 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن علي القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-ali-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "saif-bin-bathan-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن بطحان الهاملي",
   "en": "Saif Bin Bathan Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "عالم دين يُعرف بالمطوع من أهل الظفرة",
+    "en": "A man of religion known as Al Mutawwa' of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Bathan, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن بطحان، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن خليفة بن بطحان الهاملي، وُلد نحو ١٨٦١، عالم دين يُعرف بـ«المطوع» من أهل الظفرة، وكان يتردد بين دلما وإليوا. وحمل الشارع في التسمية القديمة الرقم ٧٨٠.",
+    "en": "Saif bin Khalifa bin Bathan Al Hameli, born around 1861, was a man of religion known as «Al Mutawwa'» of Al Dhafra, and he moved between Dalma and Liwa. The street carried the number 780 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن بطحان الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-bathan-al-hameli"
+    }
+  ]
 },
 {
   "id": "saif-bin-jabr-al-suwaidi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن جبر السويدي",
   "en": "Saif Bin Jabr Al Suwaidi Street",
   "meaning": {
-    "en": "An Emirati figure of the Suwaidi family",
-    "ar": "شخصية إماراتية من أسرة السويدي"
+    "ar": "عضو المجلس البلدي في أبوظبي سنة ١٩٦٩",
+    "en": "Member of the Municipal Council in Abu Dhabi in 1969"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Jabr, an Emirati figure of the Suwaidi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن جبر، وهو شخصية إماراتية من أسرة السويدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن جبر بن جمعة السويدي، وُلد نحو ١٩٣٠، وعضو المجلس البلدي في أبوظبي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ١٦٧.",
+    "en": "Saif bin Jabr bin Juma Al Suwaidi, born around 1930, was a member of the Municipal Council in Abu Dhabi in 1969. The street carried the number 167 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن جبر السويدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-jabr-al-suwaidi"
+    }
+  ]
 },
 {
   "id": "saif-bin-kasib-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن كاسب المهيري",
   "en": "Saif Bin Kasib Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "شاعر معروف من البطين امتهن الغوص",
+    "en": "A known poet of Al Bateen who practised pearl diving"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Kasib, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن كاسب، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن كاسب بن محمد بن كاسب المهيري، وُلد نحو ١٨٩٠، شاعر معروف من منطقة البطين في إمارة أبوظبي، وعمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٢٤٣.",
+    "en": "Saif bin Kasib bin Mohammed bin Kasib Al Muhairi, born around 1890, was a known poet of the Al Bateen area in the Emirate of Abu Dhabi, and worked in pearl diving. The street carried the number 243 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن كاسب المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-kasib-al-muhairi"
+    }
+  ]
 },
 {
   "id": "saif-bin-khalfan-al-amimi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن خلفان العميمي",
   "en": "Saif Bin Khalfan Al Amimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Amimi family",
-    "ar": "شخصية إماراتية من أسرة العميمي"
+    "ar": "شاعر معروف يُكنى بالمهدرس",
+    "en": "A known poet nicknamed Al Mahdars"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Khalfan, an Emirati figure of the Amimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن خلفان، وهو شخصية إماراتية من أسرة العميمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن خلفان بن سيف بن حارب بن حاضر العميمي، وُلد نحو ١٩٢٠، شاعر معروف يُكنى بـ«المهدرس». وحمل الشارع في التسمية القديمة الرقم ٢٤٢.",
+    "en": "Saif bin Khalfan bin Saif bin Harib bin Hader Al Amimi, born around 1920, was a known poet nicknamed «Al Mahdars». The street carried the number 242 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن خلفان العميمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-khalfan-al-amimi"
+    }
+  ]
 },
 {
   "id": "saif-bin-matar-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن مطر القبيسي",
   "en": "Saif Bin Matar Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "شيخ علم يُعرف بالمطوع مارس الغوص بين دلما وغاغة",
+    "en": "A scholar known as Al Mutawwa' who practised diving between Dalma and Ghagha"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Matar, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن مطر، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن مطر بن سعيد القبيسي، وُلد نحو ١٩٢٠، شيخ علم يُعرف بـ«المطوع»، عاش متنقلاً بين جزيرة دلما وجزيرة غاغة، ومارس مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٧٧٦.",
+    "en": "Saif bin Matar bin Saeed Al Qubaisi, born around 1920, was a scholar known as «Al Mutawwa'», lived moving between Dalma and Ghagha islands, and practised pearl diving. The street carried the number 776 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن مطر القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-matar-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "saif-bin-maya-al-afari",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن ميا العفاري",
   "en": "Saif Bin Maya Al Afari Street",
   "meaning": {
-    "en": "An Emirati figure of the Afari family",
-    "ar": "شخصية إماراتية من أسرة العفاري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Maya, an Emirati figure of the Afari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن ميا، وهو شخصية إماراتية من أسرة العفاري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سيف أحمد محمد ميا العفاري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٣٨.",
+    "en": "The martyr Saif Ahmed Mohammed Maya Al Afari is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 638 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن ميا العفاري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-maya-al-afari"
+    }
+  ]
 },
 {
   "id": "saif-bin-muaded-al-mashghoni",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن معضد المشغوني",
   "en": "Saif Bin Muaded Al Mashghoni Street",
   "meaning": {
-    "en": "An Emirati figure of the Mashghoni family",
-    "ar": "شخصية إماراتية من أسرة المشغوني"
+    "ar": "عضو المجلس الاستشاري الوطني ومرافق للشيخ زايد بن سلطان",
+    "en": "Member of the National Consultative Council and companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Muaded, an Emirati figure of the Mashghoni family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن معضد، وهو شخصية إماراتية من أسرة المشغوني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن معضد بن سيف بن معضد المشغوني، وُلد نحو ١٩٢٠، عضو المجلس الاستشاري الوطني لإمارة أبوظبي سنة ١٩٧٠، ومرافق للشيخ زايد بن سلطان آل نهيان، وهو خال الشيخ سلطان بن زايد آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٥٧٥.",
+    "en": "Saif bin Muaded bin Saif bin Muaded Al Mashghouni, born around 1920, was a member of the National Consultative Council of the Emirate of Abu Dhabi in 1970 and a companion of Sheikh Zayed bin Sultan Al Nahyan, and the maternal uncle of Sheikh Sultan bin Zayed Al Nahyan. The street carried the number 575 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن معضد المشغوني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-muaded-al-mashghoni"
+    }
+  ]
 },
 {
   "id": "saif-bin-musa-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن موسى الهاملي",
   "en": "Saif Bin Musa Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "والي إليوا ومسؤول مركز حدود المرخية والمارية",
+    "en": "Governor of Liwa and official of the Al Markhia and Al Mariya borders centre"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Musa, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن موسى، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن موسى بن حيي الهاملي، وُلد نحو ١٩١٥، والي إليوا ومسؤول مركز حدود المرخية والمارية في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٥٠.",
+    "en": "Saif bin Musa bin Hayy Al Hameli, born around 1915, was governor of Liwa and official of the Al Markhia and Al Mariya borders centre in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 750 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن موسى الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-musa-al-hameli"
+    }
+  ]
 },
 {
   "id": "saif-bin-saeed-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن سعيد المزروعي",
   "en": "Saif Bin Saeed Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "شاعر معروف من أهل إليوا وشارك في حرب الدروع",
+    "en": "A known poet of Liwa who took part in the war of Al Duru'"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Saeed, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن سعيد، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن سعيد بن عيسى المزروعي، وُلد نحو ١٨٩٠، شاعر معروف من أهل إليوا، وقد شارك في حرب الدروع سنة ١٩٢٧. وحمل الشارع في التسمية القديمة الرقم ٣٤١.",
+    "en": "Saif bin Saeed bin Essa Al Mazrouei, born around 1890, was a known poet of the people of Liwa, and took part in the war of Al Duru' in 1927. The street carried the number 341 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن سعيد المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-saeed-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "saif-bin-saluma-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن سلومة المنصوري",
   "en": "Saif Bin Saluma Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Saluma, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن سلومة، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن خلفان بن سيف بن سلومة المنصوري، وُلد نحو ١٩١٥، شاعر معروف من أهل الظفرة، وتوفي سنة ١٩٨٥. وحمل الشارع في التسمية القديمة الرقم ٢٧٧.",
+    "en": "Saif bin Khalfan bin Saif bin Saluma Al Mansouri, born around 1915, was a known poet of the people of Al Dhafra, and died in 1985. The street carried the number 277 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن سلومة المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-saluma-al-mansouri"
+    }
+  ]
 },
 {
   "id": "saif-bin-sari-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن ساري الكتبي",
   "en": "Saif Bin Sari Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "شاعر معروف من أهل العين يُعرف براعي ظبيان",
+    "en": "A known poet of Al Ain known as Rai Dabyan"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Sari, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن ساري، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن مصبح بن علي بن ساري الكتبي، وُلد نحو ١٨٩٢، شاعر معروف من أهل العين، ويُعرف براعي ظبيان، ويُعد من أشهر المغردين في الماضي. وحمل الشارع في التسمية القديمة الرقم ٥٥٦.",
+    "en": "Saif bin Musabah bin Ali bin Sari Al Ketbi, born around 1892, was a known poet of the people of Al Ain, known as Rai Dabyan, and is counted among the most famous singers of the past. The street carried the number 556 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن ساري الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-sari-al-ketbi"
+    }
+  ]
 },
 {
   "id": "saif-bin-shdhaib-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن شظيب المنصوري",
   "en": "Saif Bin Shdhaib Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "عالم يُعرف براعي الجاهلي نسبة إلى طوي حفره في الظفرة",
+    "en": "A scholar known as Rai Al Jahili after the well he dug in Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Shdhaib, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن شظيب، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن رشيد بن شظيب آل شظيب المطيوعي المنصوري، وُلد نحو ١٨٥٥، عالم وشيخ علم يُعرف بـ«راعي الجاهلي» نسبة إلى طوي الجاهلي وهو مورد حفره في الظفرة، وتوفي ودُفن بجوار المورد. وحمل الشارع في التسمية القديمة الرقم ٢٥٧.",
+    "en": "Saif bin Rashid bin Shdhaib Al Shdhaib Al Matyoui Al Mansouri, born around 1855, was a scholar known as «Rai Al Jahili» after the Al Jahili well, a source he dug in Al Dhafra; he died and was buried beside the source. The street carried the number 257 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن شظيب المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-shdhaib-al-mansouri"
+    }
+  ]
 },
 {
   "id": "saif-bin-yadaif-al-sabousi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف بن يضيف السبوسي",
   "en": "Saif Bin Yadaif Al Sabousi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sabousi family",
-    "ar": "شخصية إماراتية من أسرة السبوسي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Saif Bin Yadaif, an Emirati figure of the Sabousi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف بن يضيف، وهو شخصية إماراتية من أسرة السبوسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سيف بن سعيد بن سيف بن يضيف السبوسي، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٨٩.",
+    "en": "Saif bin Saeed bin Saif bin Yadaif Al Sabousi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 589 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف بن يضيف السبوسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-bin-yadaif-al-sabousi"
+    }
+  ]
 },
 {
   "id": "saif-mohamed-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سيف محمد القبيسي",
   "en": "Saif Mohamed Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Saif Mohamed, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سيف محمد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سيف محمد سيف بالروب القبيسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ١٨٩.",
+    "en": "The martyr Saif Mohammed Saif Bil Roob Al Qubaisi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 189 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سيف محمد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saif-mohamed-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "saleh-bin-aziz-almansoori",
@@ -12702,120 +14120,155 @@ window.STREETS = [
   "id": "salem-bilrtaa-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بالرطاع الهاملي",
   "en": "Salem Bilrtaa Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "دليل وقِيّاس آبار ومرافق لرحالة إنجليزي ومدير تعليم الظفرة",
+    "en": "A guide and well measurer, companion of an English traveller, and director of Al Dhafra education"
   },
   "story": {
-    "en": "The street carries the name of Salem Bilrtaa, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بالرطاع، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن علي بن سالم بالرطاع الهاملي، وُلد نحو ١٩٤٢، عمل في بداية حياته دليلاً وقِيّاس آبار، وكان مرافقاً للرحالة الإنجليزي المُكنى بـ«أبو صبيعة»، ومديراً للمنطقة التعليمية في الظفرة. وحمل الشارع في التسمية القديمة الرقم ٧٥٣.",
+    "en": "Salem bin Ali bin Salem Bilrtaa Al Hameli, born around 1942, worked at the beginning of his life as a guide and well measurer, and was a companion of the English traveller nicknamed «Abu Subai'ah» and director of the Al Dhafra education district. The street carried the number 753 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بالرطاع الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bilrtaa-al-hameli"
+    }
+  ]
 },
 {
   "id": "salem-bin-adima-al-nuaimi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن عديمة النعيمي",
   "en": "Salem Bin Adima Al Nuaimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Nuaimi family",
-    "ar": "شخصية إماراتية من أسرة النعيمي"
+    "ar": "عمل في الدائرة الخاصة للشيخ زايد بن سلطان وكُلف بجلب النخيل من البصرة",
+    "en": "Worked in Sheikh Zayed bin Sultan's Special Department and was tasked with bringing palms from Basra"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Adima, an Emirati figure of the Nuaimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن عديمة، وهو شخصية إماراتية من أسرة النعيمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن راشد بن عديمة النعيمي، وُلد نحو ١٩٣٠، من أهل العين، عمل في الدائرة الخاصة للشيخ زايد بن سلطان آل نهيان، وكُلف بجلب أنواع من النخيل من البصرة إلى دولة الإمارات. وحمل الشارع في التسمية القديمة الرقم ٥٣٩.",
+    "en": "Salem bin Rashid bin Adima Al Nuaimi, born around 1930, was of the people of Al Ain; he worked in the Special Department of Sheikh Zayed bin Sultan Al Nahyan and was tasked with bringing kinds of palm trees from Basra to the UAE. The street carried the number 539 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن عديمة النعيمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-adima-al-nuaimi"
+    }
+  ]
 },
 {
   "id": "salem-bin-ahmed-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن أحمد المحيربي",
   "en": "Salem Bin Ahmed Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "قاضٍ وشيخ علم في أبوظبي في عهد الشيخ شخبوط",
+    "en": "A judge and scholar in Abu Dhabi in the time of Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Ahmed, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن أحمد، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن أحمد بن خلفان المحيربي، وُلد نحو ١٨٧٥، قاضٍ وشيخ علم في أبوظبي في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ١٥٨.",
+    "en": "Salem bin Ahmed bin Khalfan Al Muhairbi, born around 1875, was a judge and scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 158 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن أحمد المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-ahmed-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "salem-bin-fares-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن فارس المزروعي",
   "en": "Salem Bin Fares Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "مستشار الشيخ حمدان بن زايد الأول وشيخ قبيلة المزاريع",
+    "en": "Adviser to Sheikh Hamdan bin Zayed the First and sheikh of the Mazarei tribe"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Fares, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن فارس، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن فارس بن علي بن راشد بن مانع المزروعي، وُلد نحو ١٨٦٢، مستشار الشيخ حمدان بن زايد الأول، وشاعر وشيخ قبيلة المزاريع. وحمل الشارع في التسمية القديمة الرقم ٢٦١.",
+    "en": "Salem bin Fares bin Ali bin Rashid bin Mana Al Mazrouei, born around 1862, was adviser to Sheikh Hamdan bin Zayed the First, a poet and sheikh of the Mazarei tribe. The street carried the number 261 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن فارس المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-fares-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "salem-bin-hayay-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن هياي المنصوري",
   "en": "Salem Bin Hayay Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات",
+    "en": "A mu'arraf of the advisory committee for nationality and passports"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Hayay, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن هياي، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن عبيد بن هياي المنصوري، وُلد نحو ١٩٢٠، معّرف في اللجنة الاستشارية لدائرة الجنسية والجوازات والإقامة سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ٣٧٢.",
+    "en": "Salem bin Obaid bin Hayyai Al Mansouri, born around 1920, was a mu'arraf in the advisory committee of the Department of Nationality, Passports and Residence in 1968. The street carried the number 372 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن هياي المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-hayay-al-mansouri"
+    }
+  ]
 },
 {
   "id": "salem-bin-khamis-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن خميس الظاهري",
   "en": "Salem Bin Khamis Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شاعر معروف من أهل العين يُكنى بالكاس",
+    "en": "A known poet of Al Ain nicknamed Al Kas"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Khamis, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن خميس، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن خميس بن عبد الله الظاهري، وُلد نحو ١٩٢٦، شاعر معروف من أهل العين، ويُكنى بـ«الكاس». وحمل الشارع في التسمية القديمة الرقم ٥٧٨.",
+    "en": "Salem bin Khamis bin Abdullah Al Dhaheri, born around 1926, was a known poet of the people of Al Ain, nicknamed «Al Kas». The street carried the number 578 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن خميس الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-khamis-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "salem-bin-maran-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن مران الظاهري",
   "en": "Salem Bin Maran Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شارك في واقعة الشميريخات وتوفي فيها",
+    "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Maran, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن مران، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن علي بن سالم بن مران الظاهري، وُلد نحو ١٩٢٠، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٥٥٢.",
+    "en": "Salem bin Ali bin Salem bin Maran Al Dhaheri, born around 1920, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 552 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن مران الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-maran-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "salem-bin-obaid-almansoori",
@@ -12838,69 +14291,89 @@ window.STREETS = [
   "id": "salem-bin-tannaf-al-shamsi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن طناف الشامسي",
   "en": "Salem Bin Tannaf Al Shamsi Street",
   "meaning": {
-    "en": "An Emirati figure of the Shamsi family",
-    "ar": "شخصية إماراتية من أسرة الشامسي"
+    "ar": "مدرس يُعرف بالمطوع درّس الشيخ خليفة بن زايد",
+    "en": "A teacher known as Al Mutawwa' who taught Sheikh Khalifa bin Zayed"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Tannaf, an Emirati figure of the Shamsi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن طناف، وهو شخصية إماراتية من أسرة الشامسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن جمعة بن طناف الشامسي، وُلد نحو ١٩٢٤، مدرس يُعرف في ذلك الزمان بـ«المطوع» من أهالي العين، ودرس على يده الشيخ خليفة بن زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٥٤٢.",
+    "en": "Salem bin Juma bin Tannaf Al Shamsi, born around 1924, was a teacher known in that time as «Al Mutawwa'» of the people of Al Ain, and Sheikh Khalifa bin Zayed bin Sultan Al Nahyan studied under him. The street carried the number 542 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن طناف الشامسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-tannaf-al-shamsi"
+    }
+  ]
 },
 {
   "id": "salem-rashed-al-qemzi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم راشد القمزي",
   "en": "Salem Rashed Al Qemzi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qemzi family",
-    "ar": "شخصية إماراتية من أسرة القمزي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Salem Rashed, an Emirati figure of the Qemzi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم راشد، وهو شخصية إماراتية من أسرة القمزي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سالم راشد غليطه القمزي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦٠.",
+    "en": "The martyr Salem Rashid Ghalitha Al Qemzi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 560 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم راشد القمزي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-rashed-al-qemzi"
+    }
+  ]
 },
 {
   "id": "saqr-bin-hamdan-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع صقر بن حمدان الفلاحي",
   "en": "Saqr Bin Hamdan Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Saqr Bin Hamdan, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم صقر بن حمدان، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "صقر بن حمدان بن غانم الفلاحي، وُلد نحو ١٩٢٧، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٣٠٢.",
+    "en": "Saqr bin Hamdan bin Ghanem Al Falahi, born around 1927, was a member of the National Consultative Council in 1971. The street carried the number 302 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: صقر بن حمدان الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saqr-bin-hamdan-al-falahi"
+    }
+  ]
 },
 {
   "id": "shabib-bin-saeed-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع شبيب بن سعيد المهيري",
   "en": "Shabib Bin Saeed Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "قاضٍ وعالم وفقيه في عهد الشيخ ذياب بن عيسى",
+    "en": "A judge, scholar and jurist in the time of Sheikh Dhiyab bin Essa"
   },
   "story": {
-    "en": "The street carries the name of Shabib Bin Saeed, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم شبيب بن سعيد، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "شبيب بن سعيد آل شبيب المهيري، وُلد نحو ١٦٣٠، قاضٍ وشيخ وعالم وفقيه في عهد الشيخ ذياب بن عيسى، وعاش في منطقة الظفرة في نهاية القرن الثامن عشر. وحمل الشارع في التسمية القديمة الرقم ٥١.",
+    "en": "Shabib bin Saeed Al Shabib Al Muhairi, born around 1630, was a judge, sheikh, scholar and jurist in the time of Sheikh Dhiyab bin Essa, and lived in the Al Dhafra region at the end of the 18th century. The street carried the number 51 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: شبيب بن سعيد المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/shabib-bin-saeed-al-muhairi"
+    }
+  ]
 },
 {
   "id": "sheikh-theyab-bin-eissa-al-falahi",
@@ -12928,69 +14401,89 @@ window.STREETS = [
   "id": "sinan-bin-khadim-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سنان بن خادم المهيري",
   "en": "Sinan Bin Khadim Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "عالم من منطقة البطين في أبوظبي",
+    "en": "A scholar of the Al Bateen area of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Sinan Bin Khadim, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سنان بن خادم، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سنان بن خادم بن جمعة بن راشد المهيري، وُلد نحو ١٨٨٩، عالم من منطقة البطين في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٨٤.",
+    "en": "Sinan bin Khadim bin Juma bin Rashid Al Muhairi, born around 1889, was a scholar of the Al Bateen area in Abu Dhabi. The street carried the number 84 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سنان بن خادم المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sinan-bin-khadim-al-muhairi"
+    }
+  ]
 },
 {
   "id": "suhail-bilqaz-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سهيل بالقاز المهيري",
   "en": "Suhail Bilqaz Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "من مؤسسي شرطة أبوظبي وقوة ساحل عمان",
+    "en": "Among the founders of Abu Dhabi Police and the Oman Coast Force"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bilqaz, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سهيل بالقاز، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سهيل بن محمد بالقاز المهيري، وُلد نحو ١٩٣٣، من قوة ساحل عمان سنة ١٩٥١، وشارك في حراسة السلع والعديد سنة ١٩٥٥، وهو أحد مؤسسي شرطة أبوظبي، وقد كرّمه وزير الداخلية. وحمل الشارع في التسمية القديمة الرقم ٣٣٥.",
+    "en": "Suhail bin Mohammed Bil Qaz Al Muhairi, born around 1933, was of the Oman Coast Force in 1951, took part in guarding Al Sila' and Al Madid in 1955, and is one of the founders of Abu Dhabi Police; the minister of the interior recognised him. The street carried the number 335 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سهيل بالقاز المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/suhail-bilqaz-al-muhairi"
+    }
+  ]
 },
 {
   "id": "suhail-bin-hilal-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سهيل بن هلال المزروعي",
   "en": "Suhail Bin Hilal Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "حفر بدع المزاريع في منطقة الظفرة",
+    "en": "Dug the bada' of the Mazarei in the Al Dhafra region"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bin Hilal, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سهيل بن هلال، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سهيل بن هلال بن عبدالله المزروعي، وُلد نحو ١٩٢٠، وحفر بدع المزاريع في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ٢٣٦.",
+    "en": "Suhail bin Hilal bin Abdullah Al Mazrouei, born around 1920, dug the bada' of the Mazarei in the Al Dhafra region. The street carried the number 236 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سهيل بن هلال المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/suhail-bin-hilal-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "suhail-bin-mubarak-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سهيل بن مبارك الكتبي",
   "en": "Suhail Bin Mubarak Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "شاعر ومرافق للشيخ زايد بن سلطان وشقيق الشيخة فاطمة بنت مبارك",
+    "en": "A poet and companion of Sheikh Zayed bin Sultan, brother of Sheikha Fatima bint Mubarak"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bin Mubarak, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سهيل بن مبارك، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سهيل بن مبارك بن غانم بن ضاحي الكتبي، وُلد نحو ١٩٤٦، شاعر معروف ومرافق للشيخ زايد بن سلطان آل نهيان، وشقيق الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٢٧.",
+    "en": "Suhail bin Mubarak bin Ghanem bin Dhahi Al Ketbi, born around 1946, was a known poet and companion of Sheikh Zayed bin Sultan Al Nahyan, and the brother of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 527 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سهيل بن مبارك الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/suhail-bin-mubarak-al-ketbi"
+    }
+  ]
 },
 {
   "id": "suhail-bin-serayee-al-mazrouei",
@@ -13013,18 +14506,23 @@ window.STREETS = [
   "id": "suhaila-bint-maizer-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سهيلة بنت ميزر الرميثي",
   "en": "Suhaila Bint Maizer Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شاعرة معروفة من أهل أبوظبي في عهد الشيخ سلطان بن زايد",
+    "en": "A known poetess of Abu Dhabi in the time of Sheikh Sultan bin Zayed"
   },
   "story": {
-    "en": "The street carries the name of Suhaila Bint Maizer, an Emirati figure of the Rumaithi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم سهيلة بنت ميزر، وهي شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سهيلة بنت علي بن ميزر بن سعيد الرميثي، وُلدت نحو ١٩١٥، شاعرة معروفة من أهالي أبوظبي في عهد الشيخ سلطان بن زايد. وحمل الشارع في التسمية القديمة الرقم ٣٦٣.",
+    "en": "Suhaila bint Ali bin Mizar bin Saeed Al Rumaithi, born around 1915, was a known poetess of the people of Abu Dhabi in the time of Sheikh Sultan bin Zayed. The street carried the number 363 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سهيلة بنت ميزر الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/suhaila-bint-maizer-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "sultan-belfarah-al-qubaisi",
@@ -13047,239 +14545,309 @@ window.STREETS = [
   "id": "sultan-bilyazyah-al-neyadi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان باليازيه النيادي",
   "en": "Sultan Bilyazyah Al Neyadi Street",
   "meaning": {
-    "en": "An Emirati figure of the Neyadi family",
-    "ar": "شخصية إماراتية من أسرة النيادي"
+    "ar": "مرافق للشيخ زايد بن سلطان وكُلف بمهام إدارية في العين",
+    "en": "A companion of Sheikh Zayed bin Sultan entrusted with administrative tasks in Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bilyazyah, an Emirati figure of the Neyadi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان باليازيه، وهو شخصية إماراتية من أسرة النيادي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن علي باليازيه النيادي، وُلد نحو ١٩٢٦، مرافق للشيخ زايد بن سلطان آل نهيان، وأُوكل إليه بعض المهام في الشؤون الإدارية لمنطقة العين. وحمل الشارع في التسمية القديمة الرقم ٥٠٧.",
+    "en": "Sultan bin Ali Bilyazyah Al Neyadi, born around 1926, was a companion of Sheikh Zayed bin Sultan Al Nahyan, entrusted with some administrative tasks in the Al Ain region. The street carried the number 507 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان باليازيه النيادي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bilyazyah-al-neyadi"
+    }
+  ]
 },
 {
   "id": "sultan-bin-ghanem-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن غانم الكتبي",
   "en": "Sultan Bin Ghanem Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "من رجال العين المعروفين وعم الشيخة فاطمة بنت مبارك",
+    "en": "A known man of Al Ain and uncle of Sheikha Fatima bint Mubarak"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Ghanem, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن غانم، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن غانم بن ضاحي بن غانم الكتبي، وُلد نحو ١٨٨٨، من الرجال المعروفين في العين، وعم الشيخة فاطمة بنت مبارك (أم الإمارات). وحمل الشارع في التسمية القديمة الرقم ٥٧٤.",
+    "en": "Sultan bin Ghanem bin Dhahi bin Ghanem Al Ketbi, born around 1888, was one of the known men of Al Ain, and the uncle of Sheikha Fatima bint Mubarak (Mother of the Nation). The street carried the number 574 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن غانم الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-ghanem-al-ketbi"
+    }
+  ]
 },
 {
   "id": "sultan-bin-ghanoum-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن غنوم الهاملي",
   "en": "Sultan Bin Ghanoum Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "أمين عام لمجلس أبوظبي التنفيذي وعمل في الدائرة الخاصة",
+    "en": "Secretary general of the Abu Dhabi Executive Council and of the Special Department"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Ghanoum, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن غنوم، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن عبدالله بن غنوم الهاملي، وُلد نحو ١٩٤٦، أمين عام لمجلس أبوظبي التنفيذي، وعمل في الدائرة الخاصة للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٩٤.",
+    "en": "Sultan bin Abdullah bin Ghanoum Al Hameli, born around 1946, was secretary general of the Abu Dhabi Executive Council, and worked in the Special Department of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 94 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن غنوم الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-ghanoum-al-hameli"
+    }
+  ]
 },
 {
   "id": "sultan-bin-matar-al-halami",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن مطر الحلامي",
   "en": "Sultan Bin Matar Al Halami Street",
   "meaning": {
-    "en": "An Emirati figure of the Halami family",
-    "ar": "شخصية إماراتية من أسرة الحلامي"
+    "ar": "شارك في واقعة حصن مزيد وعضو المجلس الاستشاري الوطني",
+    "en": "Took part in the affair of Husn Mazid and member of the National Consultative Council"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Matar, an Emirati figure of the Halami family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن مطر، وهو شخصية إماراتية من أسرة الحلامي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن مطر بن مطر الحلامي، وُلد نحو ١٩٢٨، شارك في واقعة حصن مزيد سنة ١٩٥٣، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٨٤.",
+    "en": "Sultan bin Matar bin Matar Al Halami, born around 1928, took part in the affair of Husn Mazid in 1953, and was a member of the National Consultative Council in 1971. The street carried the number 584 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن مطر الحلامي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-matar-al-halami"
+    }
+  ]
 },
 {
   "id": "sultan-bin-mohammed-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن محمد القبيسي",
   "en": "Sultan Bin Mohammed Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "تاجر معروف في تجارة الغوص واللؤلؤ من أهل إليوا",
+    "en": "A known merchant of the diving and pearl trade of Liwa"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Mohammed, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن محمد، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن محمد بن راشد بالفارة القبيسي، وُلد نحو ١٩١٥، تاجر معروف في تجارة الغوص واللؤلؤ من أهالي إليوا، وعُرف بالكرم. وحمل الشارع في التسمية القديمة الرقم ٢٠٧.",
+    "en": "Sultan bin Mohammed bin Rashid Bil Farah Al Qubaisi, born around 1915, was a known merchant of the diving and pearl trade of the people of Liwa, known for generosity. The street carried the number 207 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن محمد القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-mohammed-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "sultan-bin-qaran-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن قرآن المنصوري",
   "en": "Sultan Bin Qaran Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "عضو المجلس الاستشاري الوطني ومرافق للشيخ زايد بن سلطان",
+    "en": "Member of the National Consultative Council and companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Qaran, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن قرآن، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن قرآن بن مانع المنذري المنصوري، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، ومرافق للشيخ زايد بن سلطان آل نهيان.",
+    "en": "Sultan bin Qaran bin Mana Al Mundhiri Al Mansouri was a member of the National Consultative Council in 1971 and a companion of Sheikh Zayed bin Sultan Al Nahyan."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن قرآن المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-qaran-al-mansouri"
+    }
+  ]
 },
 {
   "id": "sultan-bin-rashid-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن راشد الظاهري",
   "en": "Sultan Bin Rashid Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "مرافق عسكري للشيخ خليفة بن زايد وقوة ساحل عمان",
+    "en": "Military companion of Sheikh Khalifa bin Zayed and of the Oman Coast Force"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Rashid, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن راشد، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن راشد بن سعيد الظاهري، وُلد نحو ١٩٣٢، التحق بقوة ساحل عمان في بداية حياته، ومرافق عسكري للشيخ خليفة بن زايد آل نهيان، من أهل العين. وحمل الشارع في التسمية القديمة الرقم ٥٨٨.",
+    "en": "Sultan bin Rashid bin Saeed Al Dhaheri, born around 1932, joined the Oman Coast Force at the beginning of his life and was a military companion of Sheikh Khalifa bin Zayed Al Nahyan, of the people of Al Ain. The street carried the number 588 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن راشد الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-rashid-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "sultan-bin-sari-al-ketbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن ساري الكتبي",
   "en": "Sultan Bin Sari Al Ketbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ketbi family",
-    "ar": "شخصية إماراتية من أسرة الكتبي"
+    "ar": "شاعر معروف من أهل العين برع في قصائد التغرودة",
+    "en": "A known poet of Al Ain who excelled in taghrooda poems"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Sari, an Emirati figure of the Ketbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن ساري، وهو شخصية إماراتية من أسرة الكتبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن سيف بن مصبح بن علي بن ساري الكتبي، وُلد نحو ١٩١٩، شاعر معروف من أهل العين، برَع في قصائد التغرودة. وحمل الشارع في التسمية القديمة الرقم ٥٦٢.",
+    "en": "Sultan bin Saif bin Musabah bin Ali bin Sari Al Ketbi, born around 1919, was a known poet of the people of Al Ain who excelled in taghrooda poems. The street carried the number 562 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن ساري الكتبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-sari-al-ketbi"
+    }
+  ]
 },
 {
   "id": "sultan-bin-subai-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن سبيع المنصوري",
   "en": "Sultan Bin Subai Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "شاعر ومن رجال الشيخ حمدان بن زايد الأول",
+    "en": "A poet and one of Sheikh Hamdan bin Zayed the First's men"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Subai, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن سبيع، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن سبيع بن مسفر الوبراني الرحمي المنصوري، وُلد نحو ١٨٨٠، شاعر معروف ومن رجال الشيخ حمدان بن زايد الأول، ويُعرف ببداوته وكثرة التنقل بين واحات الظفرة في إليوا. وحمل الشارع في التسمية القديمة الرقم ٧٩٤.",
+    "en": "Sultan bin Subai bin Musaffir Al Wabrani Al Rahami Al Mansouri, born around 1880, was a known poet and one of Sheikh Hamdan bin Zayed the First's men, known for his Bedouin ways and for moving often between the oases of Al Dhafra in Liwa. The street carried the number 794 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن سبيع المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-subai-al-mansouri"
+    }
+  ]
 },
 {
   "id": "sultan-bin-suroor-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن سرور الظاهري",
   "en": "Sultan Bin Suroor Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "رئيس المجلس الاستشاري الوطني وممثل الحاكم في جبل الظنة",
+    "en": "President of the National Consultative Council and ruler's representative in Jabal Al Dhanna"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Suroor, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن سرور، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن سرور بن سلطان الظاهري، وُلد نحو ١٩٣٧، عُيِّن ممثل الحاكم في جبل الظنة سنة ١٩٦٢ في عهد الشيخ شخبوط بن سلطان آل نهيان، ورئيس المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٦٤٩.",
+    "en": "Sultan bin Suroor bin Sultan Al Dhaheri, born around 1937, was appointed ruler's representative in Jabal Al Dhanna in 1962 in the time of Sheikh Shakhbut bin Sultan Al Nahyan, and president of the National Consultative Council in 1971. The street carried the number 649 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن سرور الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-suroor-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "sultan-bin-wiqaish-al-dhaheri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلطان بن وقيش الظاهري",
   "en": "Sultan Bin Wiqaish Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شاعر معروف من أهل العين وعمل في شركات النفط",
+    "en": "A known poet of Al Ain who worked in the oil companies"
   },
   "story": {
-    "en": "The street carries the name of Sultan Bin Wiqaish, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سلطان بن وقيش، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سلطان بن عبيد بن سلطان بن عبدالله بن وقيش الظاهري، وُلد نحو ١٩٤٢، شاعر معروف من أهل العين، وعمل في شركات النفط. وحمل الشارع في التسمية القديمة الرقم ٥٩٧.",
+    "en": "Sultan bin Obaid bin Sultan bin Abdullah bin Wiqaish Al Dhaheri, born around 1942, was a known poet of the people of Al Ain, and worked in the oil companies. The street carried the number 597 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلطان بن وقيش الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sultan-bin-wiqaish-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "swaidan-bin-rubaya-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سويدان بن ربيع المهيري",
   "en": "Swaidan Bin Rubaya Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "شاعر معروف من أهل أبوظبي",
+    "en": "A known poet of the people of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Swaidan Bin Rubaya, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سويدان بن ربيع، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سويدان بن عبيد بن خليفة بن ربيع المهيري، وُلد نحو ١٨٨٤، شاعر معروف من أهل أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٣٨.",
+    "en": "Swaidan bin Obaid bin Khalifa bin Rubaya Al Muhairi, born around 1884, was a known poet of the people of Abu Dhabi. The street carried the number 338 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سويدان بن ربيع المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/swaidan-bin-rubaya-al-muhairi"
+    }
+  ]
 },
 {
   "id": "swaidan-bin-zaal-al-muhairbi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سويدان بن زعل المحيربي",
   "en": "Swaidan Bin Zaal Al Muhairbi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairbi family",
-    "ar": "شخصية إماراتية من أسرة المحيربي"
+    "ar": "مرافق للشيخ زايد الأول ويُعرف بأمير الجيش",
+    "en": "A companion of Sheikh Zayed the First known as Amir Al Jaysh"
   },
   "story": {
-    "en": "The street carries the name of Swaidan Bin Zaal, an Emirati figure of the Muhairbi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سويدان بن زعل، وهو شخصية إماراتية من أسرة المحيربي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سويدان بن زعل المحيربي، وُلد نحو ١٨٨٠، مرافق للشيخ زايد الأول وأحد رجاله المعروفين بالكرم والفروسية وقوة الشخصية، ويُعرف بـ«أمير الجيش». وحمل الشارع في التسمية القديمة الرقم ٣٣٤.",
+    "en": "Swaidan bin Zaal Al Muhairbi, born around 1880, was a companion of Sheikh Zayed the First and one of his men known for generosity, horsemanship and strength of character, and was known as «Amir Al Jaysh». The street carried the number 334 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سويدان بن زعل المحيربي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/swaidan-bin-zaal-al-muhairbi"
+    }
+  ]
 },
 {
   "id": "thani-bin-afsan-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ثاني بن عفصان المهيري",
   "en": "Thani Bin Afsan Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "معلم ومدرس يُعرف بالمطوع ومأذون شرعي",
+    "en": "A teacher known as Al Mutawwa' and a religious notary"
   },
   "story": {
-    "en": "The street carries the name of Thani Bin Afsan, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ثاني بن عفصان، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ثاني بن أحمد بن عفصان المهيري، وُلد نحو ١٨٨٥، معلم ومدرس يُعرف بـ«المطوع» بين أهالي العين، وكان مأذوناً شرعياً في ذلك الزمان. وحمل الشارع في التسمية القديمة الرقم ٦٢٢.",
+    "en": "Thani bin Ahmed bin Afsan Al Muhairi, born around 1885, was a teacher known as «Al Mutawwa'» among the people of Al Ain, and was a religious notary in that time. The street carried the number 622 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ثاني بن عفصان المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/thani-bin-afsan-al-muhairi"
+    }
+  ]
 },
 {
   "id": "thani-bin-matar-al-rumaithi",
@@ -13329,120 +14897,155 @@ window.STREETS = [
   "id": "yaed-bin-salem-al-qubaisi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع ياعد بن سالم القبيسي",
   "en": "Yaed Bin Salem Al Qubaisi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qubaisi family",
-    "ar": "شخصية إماراتية من أسرة القبيسي"
+    "ar": "تاجر وطواش ورئيس جمعية دلما التعاونية",
+    "en": "A merchant and wutwashi, chairman of the Dalma Cooperative Society"
   },
   "story": {
-    "en": "The street carries the name of Yaed Bin Salem, an Emirati figure of the Qubaisi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ياعد بن سالم، وهو شخصية إماراتية من أسرة القبيسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "ياعد بن سالم بن ياعد بن سعيد بن ياعد القبيسي، وُلد نحو ١٩٢٠، تاجر وطواش، وأُوكلت إليه مهام الشؤون الإدارية في جزيرة دلما، وعُيِّن رئيساً لجمعية دلما التعاونية. وحمل الشارع في التسمية القديمة الرقم ٧٧٣.",
+    "en": "Yaed bin Salem bin Yaed bin Saeed bin Yaed Al Qubaisi, born around 1920, was a merchant and wutwashi, entrusted with the administrative affairs of Dalma Island, and appointed chairman of the Dalma Cooperative Society. The street carried the number 773 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: ياعد بن سالم القبيسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/yaed-bin-salem-al-qubaisi"
+    }
+  ]
 },
 {
   "id": "yousef-bin-afsan-al-muhairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع يوسف بن عفصان المهيري",
   "en": "Yousef Bin Afsan Al Muhairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Muhairi family",
-    "ar": "شخصية إماراتية من أسرة المهيري"
+    "ar": "قاضٍ في قضايا البحور في أبوظبي",
+    "en": "A judge in maritime cases in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Yousef Bin Afsan, an Emirati figure of the Muhairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم يوسف بن عفصان، وهو شخصية إماراتية من أسرة المهيري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يوسف بن أحمد بن عفصان المهيري، وُلد نحو ١٨٦٤، قاضٍ في قضايا البحور في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢١٤.",
+    "en": "Yousef bin Ahmed bin Afsan Al Muhairi, born around 1864, was a judge in maritime cases in Abu Dhabi. The street carried the number 214 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: يوسف بن عفصان المهيري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/yousef-bin-afsan-al-muhairi"
+    }
+  ]
 },
 {
   "id": "yousef-bin-nashir-al-qamzi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع يوسف بن ناشر القمزي",
   "en": "Yousef Bin Nashir Al Qamzi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qamzi family",
-    "ar": "شخصية إماراتية من أسرة القمزي"
+    "ar": "شيخ علم في أبوظبي سنة ١٨٦٩",
+    "en": "A scholar in Abu Dhabi in 1869"
   },
   "story": {
-    "en": "The street carries the name of Yousef Bin Nashir, an Emirati figure of the Qamzi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم يوسف بن ناشر، وهو شخصية إماراتية من أسرة القمزي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يوسف بن سهيل بن ناشر القمزي، وُلد نحو ١٨١٩، شيخ علم في أبوظبي سنة ١٨٦٩. وحمل الشارع في التسمية القديمة الرقم ١١٦.",
+    "en": "Yousef bin Suhail bin Nashir Al Qamzi, born around 1819, was a scholar in Abu Dhabi in 1869. The street carried the number 116 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: يوسف بن ناشر القمزي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/yousef-bin-nashir-al-qamzi"
+    }
+  ]
 },
 {
   "id": "zaal-bin-rashid-al-rumaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زعل بن راشد الرميثي",
   "en": "Zaal Bin Rashid Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "شيخ علم في أبوظبي في عهد الشيخ زايد الأول",
+    "en": "A scholar in Abu Dhabi in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Zaal Bin Rashid, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم زعل بن راشد، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "زعل بن راشد الرميثي، وُلد نحو ١٨٨٠، شيخ علم في أبوظبي في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ١٠٤.",
+    "en": "Zaal bin Rashid Al Rumaithi, born around 1880, was a scholar in Abu Dhabi in the time of Sheikh Zayed the First (1855–1909). The street carried the number 104 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: زعل بن راشد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/zaal-bin-rashid-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "zaal-bin-saif-al-falahi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زعل بن سيف الفلاحي",
   "en": "Zaal Bin Saif Al Falahi Street",
   "meaning": {
-    "en": "An Emirati figure of the Falahi family",
-    "ar": "شخصية إماراتية من أسرة الفلاحي"
+    "ar": "شاعر معروف من أهل إليوا",
+    "en": "A known poet of the people of Liwa"
   },
   "story": {
-    "en": "The street carries the name of Zaal Bin Saif, an Emirati figure of the Falahi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم زعل بن سيف، وهو شخصية إماراتية من أسرة الفلاحي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "زعل بن سيف بن زعل بن ذياب بن فلاح آل سلطان الفلاحي، وُلد نحو ١٨٩٨، شاعر معروف من أهل إليوا. وحمل الشارع في التسمية القديمة الرقم ٧٥٧.",
+    "en": "Zaal bin Saif bin Zaal bin Dhiyab bin Falah Al Sultan Al Falahi, born around 1898, was a known poet of the people of Liwa. The street carried the number 757 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: زعل بن سيف الفلاحي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/zaal-bin-saif-al-falahi"
+    }
+  ]
 },
 {
   "id": "zayed-bin-khalfan-al-mazrouei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زايد بن خلفان المزروعي",
   "en": "Zayed Bin Khalfan Al Mazrouei Street",
   "meaning": {
-    "en": "An Emirati figure of the Mazrouei family",
-    "ar": "شخصية إماراتية من أسرة المزروعي"
+    "ar": "والي إليوا في عهد سلطان بن زايد الأول ويُكنى بأبو الدحام",
+    "en": "Governor of Liwa under Sultan bin Zayed the First, nicknamed Abu Al Dahham"
   },
   "story": {
-    "en": "The street carries the name of Zayed Bin Khalfan, an Emirati figure of the Mazrouei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم زايد بن خلفان، وهو شخصية إماراتية من أسرة المزروعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "زايد بن خلفان بن حمد بو حميّد المزروعي، وُلد نحو ١٨٩٢، والي إليوا في عهد سلطان بن زايد الأول، ويُعرف بـ«أبو الدحام». وحمل الشارع في التسمية القديمة الرقم ٢٣٩.",
+    "en": "Zayed bin Khalfan bin Hamd Bu Humaid Al Mazrouei, born around 1892, was governor of Liwa under Sultan bin Zayed the First, and was known as «Abu Al Dahham». The street carried the number 239 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: زايد بن خلفان المزروعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/zayed-bin-khalfan-al-mazrouei"
+    }
+  ]
 },
 {
   "id": "zaytoun-bin-mohammed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زيتون بن محمد المنصوري",
   "en": "Zaytoun Bin Mohammed Al Mansouri Street",
   "meaning": {
-    "en": "An Emirati figure of the Mansouri family",
-    "ar": "شخصية إماراتية من أسرة المنصوري"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Zaytoun Bin Mohammed, an Emirati figure of the Mansouri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم زيتون بن محمد، وهو شخصية إماراتية من أسرة المنصوري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "زيتون بن محمد بن زيتون الشعري المنصوري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٧٥.",
+    "en": "Zaytoun bin Mohammed bin Zaytoun Al Shaari Al Mansouri, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 275 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: زيتون بن محمد المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/zaytoun-bin-mohammed-al-mansouri"
+    }
+  ]
 },
 {
   "id": "sheikh-humaid-bin-rashid-al-nuaimi",
@@ -13760,35 +15363,45 @@ window.STREETS = [
   "id": "abdulla-ahmed-al-hosani",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله أحمد الحوسني",
   "en": "Abdulla Ahmed Al Hosani Street",
   "meaning": {
-    "en": "An Emirati figure of the Hosani family",
-    "ar": "شخصية إماراتية من أسرة الحوسني"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Abdulla Ahmed, an Emirati figure of the Hosani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله أحمد، وهو شخصية إماراتية من أسرة الحوسني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد عبدالله احمد عبدالله احمد الحوسني، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٣٩.",
+    "en": "The martyr Abdullah Ahmed Abdullah Ahmed Al Hosani is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 339 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله أحمد الحوسني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulla-ahmed-al-hosani"
+    }
+  ]
 },
 {
   "id": "abdulla-mohammed-al-kaabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله محمد الكعبي",
   "en": "Abdulla Mohammed Al Kaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kaabi family",
-    "ar": "شخصية إماراتية من أسرة الكعبي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Abdulla Mohammed, an Emirati figure of the Kaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالله محمد، وهو شخصية إماراتية من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد عبدالله محمد عيسى عبيد الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦١.",
+    "en": "The martyr Abdullah Mohammed Essa Obaid Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 561 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله محمد الكعبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulla-mohammed-al-kaabi"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-abdulrahim-al-waswasi",
@@ -13882,35 +15495,45 @@ window.STREETS = [
   "id": "ahmed-al-mahmoud-al-blooshi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد المحمود البلوشي",
   "en": "Ahmed Al Mahmoud Al Blooshi Street",
   "meaning": {
-    "en": "An Emirati figure of the Blooshi family",
-    "ar": "شخصية إماراتية من أسرة البلوشي"
+    "ar": "سكرتير الشيخ زايد وعضو المجلس البلدي للعين",
+    "en": "Secretary to Sheikh Zayed and a member of the Al Ain Municipal Council"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Al Mahmoud, an Emirati figure of the Blooshi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد المحمود، وهو شخصية إماراتية من أسرة البلوشي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أحمد بن المحمود البلوشي، وُلد في منطقة الخريس في الجيمي سنة ١٩٢٣، وعمل سكرتيراً للشيخ زايد منذ سنة ١٩٥٢ وحتى قيام دولة الإمارات العربية المتحدة، وكان عضواً في المجلس الاستشاري لإمارة أبوظبي وعضواً في المجلس البلدي لمدينة العين. وحمل الشارع في التسمية القديمة الرقم ٦٥١.",
+    "en": "Ahmed bin Al Mahmoud Al Blooshi, born in the Al Kharees area of Al Jimi in 1923, worked as secretary to Sheikh Zayed from 1952 until the establishment of the United Arab Emirates, and was a member of the Consultative Council of the Emirate of Abu Dhabi and of the Municipal Council of Al Ain city. The street carried the number 651 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد المحمود البلوشي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-al-mahmoud-al-blooshi"
+    }
+  ]
 },
 {
   "id": "ahmed-khalifa-al-blooshi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد خليفة البلوشي",
   "en": "Ahmed Khalifa Al Blooshi Street",
   "meaning": {
-    "en": "An Emirati figure of the Blooshi family",
-    "ar": "شخصية إماراتية من أسرة البلوشي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Ahmed Khalifa, an Emirati figure of the Blooshi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أحمد خليفة، وهو شخصية إماراتية من أسرة البلوشي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد احمد خليفه سالم على البلوشي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٩٠.",
+    "en": "The martyr Ahmed Khalifa Salem Ali Al Blooshi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 590 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد خليفة البلوشي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-khalifa-al-blooshi"
+    }
+  ]
 },
 {
   "id": "al-jaroud-bin-al-mu-alla",
@@ -13959,35 +15582,45 @@ window.STREETS = [
   "id": "ali-almqaidi-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي المقيضي العامري",
   "en": "Ali Almqaidi Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شارك في واقعة الرفيعه وجرح فيها",
+    "en": "Took part in the affair of Al Rufai'a and was wounded there"
   },
   "story": {
-    "en": "The street carries the name of Ali Almqaidi, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي المقيضي، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن سعيد المقيضي العامري، وُلد نحو ١٩١٠، شارك في واقعة الرفيعه وجرح فيها في أواخر الأربعينات.",
+    "en": "Ali bin Saeed Al Maqaidi Al Ameri, born around 1910, took part in the affair of Al Rufai'a and was wounded there in the late 1940s."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي المقيضي العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-almqaidi-al-ameri"
+    }
+  ]
 },
 {
   "id": "ali-bin-alateeb-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن العطيب العامري",
   "en": "Ali Bin Alateeb Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شاعر معروف يُكنى بالكيف واشتهر بالتغرودة",
+    "en": "A known poet nicknamed Al Keif, known for the taghrooda"
   },
   "story": {
-    "en": "The street carries the name of Ali Bin Alateeb, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي بن العطيب، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "علي بن علي بن ثعيلب بن العطيب الحليطي العامري، وُلد نحو ١٩٢٢، شاعر معروف، ويُكنى بـ«الكيف»، واشتهر بالتغرودة الإماراتية. وحمل الشارع في التسمية القديمة الرقم ٦٤٧.",
+    "en": "Ali bin Ali bin Thuailab bin Al Ateeb Al Hulaiti Al Ameri, born around 1922, was a known poet nicknamed «Al Keif», and was known for the Emirati taghrooda. The street carried the number 647 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن العطيب العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-alateeb-al-ameri"
+    }
+  ]
 },
 {
   "id": "ali-khalifa-al-mesmari",
@@ -14010,137 +15643,177 @@ window.STREETS = [
   "id": "ali-nasser-al-khyeli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي ناصر الخيلي",
   "en": "Ali Nasser Al Khyeli Street",
   "meaning": {
-    "en": "An Emirati figure of the Khyeli family",
-    "ar": "شخصية إماراتية من أسرة الخيلي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Ali Nasser, an Emirati figure of the Khyeli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي ناصر، وهو شخصية إماراتية من أسرة الخيلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد على ناصر سالم سيف الخيلي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٣٠.",
+    "en": "The martyr Ali Nasser Salem Saif Al Khyeli is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 530 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي ناصر الخيلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-nasser-al-khyeli"
+    }
+  ]
 },
 {
   "id": "ali-saeed-al-saedi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي سعيد الساعدي",
   "en": "Ali Saeed Al Saedi Street",
   "meaning": {
-    "en": "An Emirati figure of the Saedi family",
-    "ar": "شخصية إماراتية من أسرة الساعدي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Ali Saeed, an Emirati figure of the Saedi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم علي سعيد، وهو شخصية إماراتية من أسرة الساعدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد على سعيد على خرباش الساعدي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٠٩.",
+    "en": "The martyr Ali Saeed Ali Kharbash Al Saedi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 509 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي سعيد الساعدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-saeed-al-saedi"
+    }
+  ]
 },
 {
   "id": "amer-bin-qanosh-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عامر بن قانوش العامري",
   "en": "Amer Bin Qanosh Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "مرافق للشيخ زايد بن سلطان وعامل في دوائر العين",
+    "en": "A companion of Sheikh Zayed bin Sultan who worked in Al Ain departments"
   },
   "story": {
-    "en": "The street carries the name of Amer Bin Qanosh, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عامر بن قانوش، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عامر بن قانوش بن محمد العامري، وُلد نحو ١٩٤٢، مرافق للشيخ زايد بن سلطان آل نهيان، وعمل في الدائرة الخاصة ودائرة الزراعة في العين. وحمل الشارع في التسمية القديمة الرقم ٦٢٦.",
+    "en": "Amer bin Qanosh bin Mohammed Al Ameri, born around 1942, was a companion of Sheikh Zayed bin Sultan Al Nahyan, and worked in the Special Department and the Agriculture Department in Al Ain. The street carried the number 626 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عامر بن قانوش العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/amer-bin-qanosh-al-ameri"
+    }
+  ]
 },
 {
   "id": "buti-ayel-al-ahbabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي عائل الاحبابي",
   "en": "Buti Ayel Al Ahbabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ahbabi family",
-    "ar": "شخصية إماراتية من أسرة الاحبابي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Buti Ayel, an Emirati figure of the Ahbabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم بطي عائل، وهو شخصية إماراتية من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد بطى عائل مسفر عائل الاحبابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٤١.",
+    "en": "The martyr Butti Ayel Musaffir Ayel Al Ahbabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 541 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي عائل الاحبابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/buti-ayel-al-ahbabi"
+    }
+  ]
 },
 {
   "id": "eid-bin-saeed-al-ghafli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عيد بن سعيد الغفلي",
   "en": "Eid Bin Saeed Al Ghafli Street",
   "meaning": {
-    "en": "An Emirati figure of the Ghafli family",
-    "ar": "شخصية إماراتية من أسرة الغفلي"
+    "ar": "شاعر وراوٍ للشعر الشعبي عارف بأنساب قبائل الإمارات",
+    "en": "A poet and narrator of folk poetry versed in UAE tribal genealogies"
   },
   "story": {
-    "en": "The street carries the name of Eid Bin Saeed, an Emirati figure of the Ghafli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عيد بن سعيد، وهو شخصية إماراتية من أسرة الغفلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عيد بن سعيد بن عيد بن حسين الغفلي، وُلد نحو ١٩٢٨، شاعر ومُلمّ بتاريخ المنطقة وأحداثها، وراوٍ للشعر الشعبي، وعارف بأنساب قبائل الإمارات، وتوفي سنة ٢٠١٣. وحمل الشارع في التسمية القديمة الرقم ٥٧٩.",
+    "en": "Eid bin Saeed bin Eid bin Hussein Al Ghafli, born around 1928, was a poet versed in the history of the region and its events, a narrator of folk poetry, and versed in the genealogies of the UAE tribes; he died in 2013. The street carried the number 579 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عيد بن سعيد الغفلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/eid-bin-saeed-al-ghafli"
+    }
+  ]
 },
 {
   "id": "fahad-bin-muaid-al-ahbabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فهد بن معيض الأحبابي",
   "en": "Fahad Bin Muaid Al Ahbabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ahbabi family",
-    "ar": "شخصية إماراتية من أسرة الاحبابي"
+    "ar": "مرافق للشيخ زايد بن سلطان آل نهيان",
+    "en": "A companion of Sheikh Zayed bin Sultan Al Nahyan"
   },
   "story": {
-    "en": "The street carries the name of Fahad Bin Muaid, an Emirati figure of the Ahbabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم فهد بن معيض، وهو شخصية إماراتية من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "فهد بن معيض بن خليان الأحبابي، وُلد نحو ١٩٢٠، مرافق للشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٢٩.",
+    "en": "Fahad bin Muaid bin Khalian Al Ahbabi, born around 1920, was a companion of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 629 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: فهد بن معيض الأحبابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/fahad-bin-muaid-al-ahbabi"
+    }
+  ]
 },
 {
   "id": "fahad-bin-rashid-al-dosari",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فهد بن راشد الدوسري",
   "en": "Fahad Bin Rashid Al Dosari Street",
   "meaning": {
-    "en": "An Emirati figure of the Dosari family",
-    "ar": "شخصية إماراتية من أسرة الدوسري"
+    "ar": "من كبار تجار اللؤلؤ في دلما وبنى مسجداً فيها",
+    "en": "A senior pearl merchant of Dalma who built a mosque there"
   },
   "story": {
-    "en": "The street carries the name of Fahad Bin Rashid, an Emirati figure of the Dosari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم فهد بن راشد، وهو شخصية إماراتية من أسرة الدوسري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "فهد بن راشد الدوسري، وُلد نحو ١٨٨٦، من كبار تجار اللؤلؤ في دلما، وبنى مسجداً يُعرف باسمه في عهد الشيخ شخبوط بن سلطان آل نهيان في جزيرة دلما. وحمل الشارع في التسمية القديمة الرقم ٧٨١.",
+    "en": "Fahad bin Rashid Al Dosari, born around 1886, was one of the senior pearl merchants of Dalma, and built a mosque known by his name under Sheikh Shakhbut bin Sultan Al Nahyan on Dalma Island. The street carried the number 781 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: فهد بن راشد الدوسري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/fahad-bin-rashid-al-dosari"
+    }
+  ]
 },
 {
   "id": "falah-bin-jaber-al-ahbabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع فلاح بن جابر الاحبابي",
   "en": "Falah Bin Jaber Al Ahbabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ahbabi family",
-    "ar": "شخصية إماراتية من أسرة الاحبابي"
+    "ar": "كبير قبيلة الحباب وعضو المجلس الاستشاري الوطني",
+    "en": "Chief of the Habab tribe and member of the National Consultative Council"
   },
   "story": {
-    "en": "The street carries the name of Falah Bin Jaber, an Emirati figure of the Ahbabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم فلاح بن جابر، وهو شخصية إماراتية من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "فلاح بن جابر بن مفرح بن حويمل بن جهيم الاحبابي، وُلد نحو ١٨٩٩، مرافق للشيخ زايد بن سلطان آل نهيان، وعضو في المجلس الاستشاري الوطني سنة ١٩٧١، وكبير قبيلة الحباب في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٣١.",
+    "en": "Falah bin Jaber bin Mufarrah bin Huwaimil bin Juhaim Al Ahbabi, born around 1899, was a companion of Sheikh Zayed bin Sultan Al Nahyan, a member of the National Consultative Council in 1971, and chief of the Habab tribe in Abu Dhabi. The street carried the number 631 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: فلاح بن جابر الاحبابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/falah-bin-jaber-al-ahbabi"
+    }
+  ]
 },
 {
   "id": "jaber-bin-abdullah-al-ansari",
@@ -14168,86 +15841,111 @@ window.STREETS = [
   "id": "jumaa-mohamed-al-kaabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جمعة محمد الكعبي",
   "en": "Jumaa Mohamed Al Kaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kaabi family",
-    "ar": "شخصية إماراتية من أسرة الكعبي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Jumaa Mohamed, an Emirati figure of the Kaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم جمعة محمد، وهو شخصية إماراتية من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد جمعه محمد عبدالله يليل الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٨١.",
+    "en": "The martyr Juma Mohammed Abdullah Yalil Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 381 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جمعة محمد الكعبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/jumaa-mohamed-al-kaabi"
+    }
+  ]
 },
 {
   "id": "khalifa-bilqouba-al-humairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بالقوبع الحميري",
   "en": "Khalifa Bilqouba Al Humairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Humairi family",
-    "ar": "شخصية إماراتية من أسرة الحميري"
+    "ar": "مرافق للشيخ خليفة بن زايد الأول وامتهن الغوص",
+    "en": "A companion of Sheikh Khalifa bin Zayed the First who practised pearl diving"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bilqouba, an Emirati figure of the Humairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بالقوبع، وهو شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن خليفة بالقوبع الحميري، وُلد نحو ١٨٤٥، مرافق للشيخ خليفة بن زايد الأول، امتهن في بداية حياته مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٢٤٧.",
+    "en": "Khalifa bin Khalifa Bilqouba Al Humairi, born around 1845, was a companion of Sheikh Khalifa bin Zayed the First, and practised pearl diving at the beginning of his life. The street carried the number 247 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بالقوبع الحميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bilqouba-al-humairi"
+    }
+  ]
 },
 {
   "id": "khalifa-bin-khamis-al-dehaili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة بن خميس الدحيلي",
   "en": "Khalifa Bin Khamis Al Dehaili Street",
   "meaning": {
-    "en": "An Emirati figure of the Dehaili family",
-    "ar": "شخصية إماراتية من أسرة الدحيلي"
+    "ar": "من رجالات أبوظبي وكبير الدحيلات من بني ياس",
+    "en": "A notable of Abu Dhabi and elder of the Dhailat of Banu Yas"
   },
   "story": {
-    "en": "The street carries the name of Khalifa Bin Khamis, an Emirati figure of the Dehaili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خليفة بن خميس، وهو شخصية إماراتية من أسرة الدحيلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خليفة بن خميس بن قريش الدحيلي السويدي، وُلد نحو ١٩٠٠، من رجالات أبوظبي، كبير الدحيلات من بني ياس، وورد ذكره في الوثائق البريطانية سنة ١٩٥٥. وحمل الشارع في التسمية القديمة الرقم ٢٢٤.",
+    "en": "Khalifa bin Khamis bin Quraish Al Dehaili Al Suwaidi, born around 1900, was one of the notables of Abu Dhabi and elder of the Dhailat of Banu Yas; he is mentioned in the British documents of 1955. The street carried the number 224 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة بن خميس الدحيلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-bin-khamis-al-dehaili"
+    }
+  ]
 },
 {
   "id": "kunna-bint-saeed-al-humairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع كنه بنت سعيد الحميري",
   "en": "Kunna Bint Saeed Al Humairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Humairi family",
-    "ar": "شخصية إماراتية من أسرة الحميري"
+    "ar": "مطوعة ومُدرسة تُعرف بالمطوعة درّست في أبوظبي والعين",
+    "en": "A mutawwa'a and teacher known as Al Mutawwa'a in Abu Dhabi and Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Kunna Bint Saeed, an Emirati figure of the Humairi family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم كنه بنت سعيد، وهي شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "كنه بنت سعيد بن بروك الحميري، وُلدت نحو ١٩٢٠، مطوعة ومُدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي أبوظبي والعين. وحمل الشارع في التسمية القديمة الرقم ٢٠١.",
+    "en": "Kunna bint Saeed bin Burook Al Humairi, born around 1920, was a mutawwa'a, teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Abu Dhabi and Al Ain. The street carried the number 201 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: كنه بنت سعيد الحميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/kunna-bint-saeed-al-humairi"
+    }
+  ]
 },
 {
   "id": "moahmmed-bin-brook-al-humairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن بروك الحميري",
   "en": "Moahmmed Bin Brook Al Humairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Humairi family",
-    "ar": "شخصية إماراتية من أسرة الحميري"
+    "ar": "عضو المجلس الاستشاري الوطني والمجلس البلدي",
+    "en": "Member of the National Consultative Council and the Municipal Council"
   },
   "story": {
-    "en": "The street carries the name of Moahmmed Bin Brook, an Emirati figure of the Humairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن بروك، وهو شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن عبدالله بن بروك الحميري، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو المجلس البلدي في أبوظبي سنة ١٩٦٩. وحمل الشارع في التسمية القديمة الرقم ١٨٥.",
+    "en": "Mohammed bin Abdullah bin Burook Al Humairi, born around 1930, was a member of the National Consultative Council in 1971 and of the Municipal Council in Abu Dhabi in 1969. The street carried the number 185 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن بروك الحميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/moahmmed-bin-brook-al-humairi"
+    }
+  ]
 },
 {
   "id": "mohamed-al-falahi-al-yasi",
@@ -14275,137 +15973,177 @@ window.STREETS = [
   "id": "mohamed-ali-al-bastaki",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد علي البستكي",
   "en": "Mohamed Ali Al Bastaki Street",
   "meaning": {
-    "en": "An Emirati figure of the Bastaki family",
-    "ar": "شخصية إماراتية من أسرة البستكي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Ali, an Emirati figure of the Bastaki family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد علي، وهو شخصية إماراتية من أسرة البستكي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد على محمد زينل البستكي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ١٩٦.",
+    "en": "The martyr Mohammed Ali Mohammed Zainal Al Bastaki is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 196 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد علي البستكي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-ali-al-bastaki"
+    }
+  ]
 },
 {
   "id": "mohamed-ali-al-hosani",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد علي الحوسني",
   "en": "Mohamed Ali Al Hosani Street",
   "meaning": {
-    "en": "An Emirati figure of the Hosani family",
-    "ar": "شخصية إماراتية من أسرة الحوسني"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Ali, an Emirati figure of the Hosani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد علي، وهو شخصية إماراتية من أسرة الحوسني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد على حسن احمد الحوسني، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٣٠.",
+    "en": "The martyr Mohammed Ali Hassan Ahmed Al Hosani is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 330 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد علي الحوسني",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-ali-al-hosani"
+    }
+  ]
 },
 {
   "id": "mohamed-jassem-al-hammadi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد جاسم الحمادي",
   "en": "Mohamed Jassem Al Hammadi Street",
   "meaning": {
-    "en": "An Emirati figure of the Hammadi family",
-    "ar": "شخصية إماراتية من أسرة الحمادي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Jassem, an Emirati figure of the Hammadi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد جاسم، وهو شخصية إماراتية من أسرة الحمادي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد جاسم صالح تقى الحمادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٣٧.",
+    "en": "The martyr Mohammed Jassim Saleh Taqi Al Hammadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 337 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد جاسم الحمادي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-jassem-al-hammadi"
+    }
+  ]
 },
 {
   "id": "mohamed-khalfan-al-seyabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد خلفان السيابي",
   "en": "Mohamed Khalfan Al Seyabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Seyabi family",
-    "ar": "شخصية إماراتية من أسرة السيابي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Khalfan, an Emirati figure of the Seyabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد خلفان، وهو شخصية إماراتية من أسرة السيابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد خلفان عبدالله سليم السيابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٩٨.",
+    "en": "The martyr Mohammed Khalfan Abdullah Saleem Al Seyabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 298 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد خلفان السيابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-khalfan-al-seyabi"
+    }
+  ]
 },
 {
   "id": "mohamed-salem-al-junaibi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد سالم الجنيبي",
   "en": "Mohamed Salem Al Junaibi Street",
   "meaning": {
-    "en": "An Emirati figure of the Junaibi family",
-    "ar": "شخصية إماراتية من أسرة الجنيبي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohamed Salem, an Emirati figure of the Junaibi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد سالم، وهو شخصية إماراتية من أسرة الجنيبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد سالم صالح عبدالله الجنيبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ١١٧.",
+    "en": "The martyr Mohammed Salem Saleh Abdullah Al Junaibi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 117 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد سالم الجنيبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohamed-salem-al-junaibi"
+    }
+  ]
 },
 {
   "id": "mohammad-bin-taj-al-din-al-hashemi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن تاج الدين الهاشمي",
   "en": "Mohammad Bin Taj Al Din Al Hashemi Street",
   "meaning": {
-    "en": "An Emirati figure of the Hashemi family",
-    "ar": "شخصية إماراتية من أسرة الهاشمي"
+    "ar": "قاضي مدينة العين سنة ١٩٤٧",
+    "en": "Judge of Al Ain city in 1947"
   },
   "story": {
-    "en": "The street carries the name of Mohammad Bin Taj Al Din, an Emirati figure of the Hashemi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن تاج الدين، وهو شخصية إماراتية من أسرة الهاشمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "السيد محمد بن السيد عبدالرحيم بن تاج الدين الهاشمي، وُلد نحو ١٨٨٧، قاضي في مدينة العين سنة ١٩٤٧ في عهد الشيخ زايد بن سلطان آل نهيان، وتوفي سنة ١٩٥٢. وحمل الشارع في التسمية القديمة الرقم ٥٢٦.",
+    "en": "Sayyid Mohammed bin Sayyid Abdulrahim bin Taj Al Din Al Hashemi, born around 1887, was a judge in Al Ain city in 1947 in the time of Sheikh Zayed bin Sultan Al Nahyan; he died in 1952. The street carried the number 526 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن تاج الدين الهاشمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammad-bin-taj-al-din-al-hashemi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ahmed-al-shinqiti",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن أحمد الشنقيطي",
   "en": "Mohammed Bin Ahmed Al Shinqiti Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضي من قضاة أبوظبي",
+    "en": "One of the judges of Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of محمد بن أحمد الشنقيطي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن أحمد الشنقيطي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "محمد بن أحمد الشنقيطي، وُلد نحو ١٩٠٩، قاضي من قضاة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٣٢.",
+    "en": "Mohammed bin Ahmed Al Shinqiti, born around 1909, was one of the judges of Abu Dhabi. The street carried the number 232 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن أحمد الشنقيطي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ahmed-al-shinqiti"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-hamed-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن حمد العامري",
   "en": "Mohammed Bin Hamed Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "من الأوائل في قوة ساحل عمان",
+    "en": "Among the first in the Oman Coast Force"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Hamed, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن حمد، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن حمد الشرقي العامري، وُلد نحو ١٩٣٠، من الأوائل في قوة ساحل عمان. وحمل الشارع في التسمية القديمة الرقم ٥٤٣.",
+    "en": "Mohammed bin Hamad Al Sharqi Al Ameri, born around 1930, was among the first in the Oman Coast Force. The street carried the number 543 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن حمد العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-hamed-al-ameri"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-khalifa-al-kindi",
@@ -14428,137 +16166,177 @@ window.STREETS = [
   "id": "mohammed-bin-murshid-al-humairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مرشد الحميري",
   "en": "Mohammed Bin Murshid Al Humairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Humairi family",
-    "ar": "شخصية إماراتية من أسرة الحميري"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Murshid, an Emirati figure of the Humairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن مرشد، وهو شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن مرشد بن مانع الحميري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٩١.",
+    "en": "Mohammed bin Murshid bin Mana Al Humairi, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 291 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مرشد الحميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-murshid-al-humairi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-rashid-al-tamimi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن راشد التميمي",
   "en": "Mohammed Bin Rashid Al Tamimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Tamimi family",
-    "ar": "شخصية إماراتية من أسرة التميمي"
+    "ar": "معلم ومدرس في مدرسة النهيانية والمدرسة الفلاحية",
+    "en": "A teacher at Al Nahyania School and the Agricultural School"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Bin Rashid, an Emirati figure of the Tamimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد بن راشد، وهو شخصية إماراتية من أسرة التميمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "محمد بن راشد آل جمعة التميمي، وُلد نحو ١٩١٦، معلم ومدرس في مدرسة النهيانية سنة ١٩٥٩، وسكن في منطقة المويجعي، ثم انتقل إلى المدرسة الفلاحية في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٦٣٥.",
+    "en": "Mohammed bin Rashid Al Juma Al Tamimi, born around 1916, was a teacher at Al Nahyania School in 1959; he lived in the Al Muwaiji area, then moved to the Agricultural School in Abu Dhabi. The street carried the number 635 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن راشد التميمي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-rashid-al-tamimi"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-sabaa-al-kindi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن سباع الكندي",
   "en": "Mohammed Bin Sabaa Al Kindi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عالم وفقيه يُدرِّس في مسجد خلف العتيبة",
+    "en": "A scholar and jurist who taught at Khalaf Al Otaiba Mosque"
   },
   "story": {
-    "en": "The street carries the name of محمد بن سباع الكندي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن سباع الكندي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "محمد بن عبدالله بن علي بن مكتوم بن سباع الكندي، وُلد نحو ١٨٤٤، عالم وفقيه يُدرِّس في مسجد خلف العتيبة. وحمل الشارع في التسمية القديمة الرقم ٢٤٩.",
+    "en": "Mohammed bin Abdullah bin Ali bin Maktoum bin Sabaa Al Kindi, born around 1844, was a scholar and jurist who taught at Khalaf Al Otaiba Mosque. The street carried the number 249 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن سباع الكندي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-sabaa-al-kindi"
+    }
+  ]
 },
 {
   "id": "mohammed-khaled-al-hamdi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد خالد الحامدي",
   "en": "Mohammed Khaled Al Hamdi Street",
   "meaning": {
-    "en": "An Emirati figure of the Hamdi family",
-    "ar": "شخصية إماراتية من أسرة الحامدي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Khaled, an Emirati figure of the Hamdi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد خالد، وهو شخصية إماراتية من أسرة الحامدي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد خالد محمد ابراهيم الحامدي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٨٠.",
+    "en": "The martyr Mohammed Khaled Mohammed Ibrahim Al Hamdi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 380 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد خالد الحامدي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-khaled-al-hamdi"
+    }
+  ]
 },
 {
   "id": "mohammed-khamis-al-rayssi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد خميس الريسي",
   "en": "Mohammed Khamis Al Rayssi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rayssi family",
-    "ar": "شخصية إماراتية من أسرة الريسي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mohammed Khamis, an Emirati figure of the Rayssi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم محمد خميس، وهو شخصية إماراتية من أسرة الريسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد محمد خميس سعيد خميس الريسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٣٢.",
+    "en": "The martyr Mohammed Khamis Saeed Khamis Al Rayssi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 632 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد خميس الريسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-khamis-al-rayssi"
+    }
+  ]
 },
 {
   "id": "mubarak-alhabnoni-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك الحبنوني العامري",
   "en": "Mubarak Alhabnoni Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شاعر معروف من شعراء أهالي العين",
+    "en": "A known poet of the poets of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Alhabnoni, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك الحبنوني، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "مبارك بن محمد بن سهيل بالسليمي الحبنوني العامري، وُلد نحو ١٨٧٠، شاعر معروف من شعراء أهالي العين. وحمل الشارع في التسمية القديمة الرقم ٢١٢.",
+    "en": "Mubarak bin Mohammed bin Suhail Bil Saleemi Al Habnoni Al Ameri, born around 1870, was a known poet of the poets of the people of Al Ain. The street carried the number 212 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك الحبنوني العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-alhabnoni-al-ameri"
+    }
+  ]
 },
 {
   "id": "mubarak-saif-al-kheili",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مبارك سيف الخيلي",
   "en": "Mubarak Saif Al Kheili Street",
   "meaning": {
-    "en": "An Emirati figure of the Kheili family",
-    "ar": "شخصية إماراتية من أسرة الخيلي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Mubarak Saif, an Emirati figure of the Kheili family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم مبارك سيف، وهو شخصية إماراتية من أسرة الخيلي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد مبارك سيف مبارك خادم الخيلي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٧٧.",
+    "en": "The martyr Mubarak Saif Mubarak Khadem Al Khaili is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 377 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مبارك سيف الخيلي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-saif-al-kheili"
+    }
+  ]
 },
 {
   "id": "nafja-bint-obaid-al-teneiji",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع نافجة بنت عبيد الطنيجي",
   "en": "Nafja Bint Obaid Al Teneiji Street",
   "meaning": {
-    "en": "An Emirati figure of the Teneiji family",
-    "ar": "شخصية إماراتية من أسرة الطنيجي"
+    "ar": "مُدرسة ومربية تُعرف بالمطوعة درّست في أبوظبي",
+    "en": "A teacher and educator known as Al Mutawwa'a who taught in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of Nafja Bint Obaid, an Emirati figure of the Teneiji family. No published biography of her was found.",
-    "ar": "سُمّي الشارع باسم نافجة بنت عبيد، وهي شخصية إماراتية من أسرة الطنيجي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "نافجة بنت عبيد بن محمد الطنيجي، وُلدت نحو ١٩١٩، مدرسة ومربية، تُعرف في ذلك الزمان بـ«المطوعة»، ودرّست أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٢٧٠.",
+    "en": "Nafja bint Obaid bin Mohammed Al Tunaiji, born around 1919, was a teacher and educator known in that time as «Al Mutawwa'a», and taught the people of Abu Dhabi. The street carried the number 270 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: نافجة بنت عبيد الطنيجي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/nafja-bint-obaid-al-teneiji"
+    }
+  ]
 },
 {
   "id": "nassib-bin-ahmed-al-humairi",
@@ -14581,18 +16359,23 @@ window.STREETS = [
   "id": "obaid-bilartee-al-humairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد بالعرطى الحميري",
   "en": "Obaid Bilartee Al Humairi Street",
   "meaning": {
-    "en": "An Emirati figure of the Humairi family",
-    "ar": "شخصية إماراتية من أسرة الحميري"
+    "ar": "من رجال القوات المسلحة الذين خدموا طويلاً",
+    "en": "One of the Armed Forces men who served long"
   },
   "story": {
-    "en": "The street carries the name of Obaid Bilartee, an Emirati figure of the Humairi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد بالعرطى، وهو شخصية إماراتية من أسرة الحميري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبيد بن راشد بالعرطى الحميري، وُلد نحو ١٩٤٥، من رجال دولة الإمارات الذين خدموا طويلاً في القوات المسلحة، وشهد لهم بحسن السيرة والأداء. وحمل الشارع في التسمية القديمة الرقم ٥٦٣.",
+    "en": "Obaid bin Rashid Bil Arti Al Humairi, born around 1945, was one of the men of the UAE who served long in the Armed Forces, and were attested for good conduct and performance. The street carried the number 563 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد بالعرطى الحميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/obaid-bilartee-al-humairi"
+    }
+  ]
 },
 {
   "id": "obaid-bin-mariman-al-ameri",
@@ -14615,307 +16398,397 @@ window.STREETS = [
   "id": "obaid-mohammed-abdulla-al-kaabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبيد محمد عبدالله الكعبي",
   "en": "Obaid Mohammed Abdulla Al Kaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kaabi family",
-    "ar": "شخصية إماراتية من أسرة الكعبي"
+    "ar": "نائب رئيس أركان القوات المسلحة ووكيل وزارة الدفاع",
+    "en": "Deputy chief of staff of the Armed Forces and under-secretary of Defence"
   },
   "story": {
-    "en": "The street carries the name of Obaid Mohammed Abdulla, an Emirati figure of the Kaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبيد محمد عبدالله، وهو شخصية إماراتية من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الفريق ركن عبيد بن محمد بن عبدالله المكتومي الكعبي، وُلد سنة ١٩٤٧، وكان نائب رئيس أركان القوات المسلحة ثم وكيل وزارة الدفاع، وتقلّد وسام الإمارات العسكري (الطبقة الأولى) ووسام توحيد القوات المسلحة ووسام تحرير الكويت وميدالية قيام الاتحاد وميدالية الخدمة الطويلة الممتازة وميدالية اليوبيل الفضي. وحمل الشارع في التسمية القديمة الرقم ١٩٥.",
+    "en": "Lieutenant General (Staff) Obaid bin Mohammed bin Abdullah Al Maktoumi Al Kaabi, born in 1947, was deputy chief of staff of the Armed Forces and then under-secretary of the Ministry of Defence; he held the UAE Military Medal (First Class), the Armed Forces Unification Medal, the Kuwait Liberation Medal, the Union Establishment Medal, the Long Service Medal and the Silver Jubilee Medal. The street carried the number 195 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبيد محمد عبدالله الكعبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/oaid-mohammed-abdulla-al-kaabi"
+    }
+  ]
 },
 {
   "id": "omer-alsalek-al-shinqiti",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عمر السالك الشنقيطي",
   "en": "Omer Alsalek Al Shinqiti Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "مدرّس وشيخ علم في المدرسة العتيبية من سنة ١٩٢٣",
+    "en": "A teacher and scholar at Al Otaibiya School from 1923"
   },
   "story": {
-    "en": "The street carries the name of عمر السالك الشنقيطي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمر السالك الشنقيطي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عمر السالك الشنقيطي، وُلد نحو ١٨٦٣، مدرّس وشيخ علم في المدرسة العتيبية من سنة ١٩٢٣. وحمل الشارع في التسمية القديمة الرقم ٢٠٩.",
+    "en": "Omer Al Salek Al Shinqiti, born around 1863, was a teacher and scholar at Al Otaibiya School from 1923. The street carried the number 209 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عمر السالك الشنقيطي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/omer-alsalek-al-shinqiti"
+    }
+  ]
 },
 {
   "id": "owais-bin-ali-al-derei",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عويص بن علي الدرعي",
   "en": "Owais Bin Ali Al Derei Street",
   "meaning": {
-    "en": "An Emirati figure of the Derei family",
-    "ar": "شخصية إماراتية من أسرة الدرعي"
+    "ar": "من أعيان منطقة القوع بالعين ومرافق للشيخ زايد بن سلطان",
+    "en": "A notable of the Al Qoa' area of Al Ain and companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of Owais Bin Ali, an Emirati figure of the Derei family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عويص بن علي، وهو شخصية إماراتية من أسرة الدرعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عويص بن علي بن أحمد الدرعي، من أعيان منطقة القوع في مدينة العين، وأحد مرافقي الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٥٢.",
+    "en": "Owais bin Ali bin Ahmed Al Derei was of the notables of the Al Qoa' area in Al Ain city, and one of the companions of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 652 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عويص بن علي الدرعي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/owais-bin-ali-al-derei"
+    }
+  ]
 },
 {
   "id": "rashed-bin-saeed-al-ghaithi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن سعيد الغيثي",
   "en": "Rashed Bin Saeed Al Ghaithi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "إمام وخطيب مسجد الشيخة حصة بنت محمد بن خليفة",
+    "en": "Imam and preacher of the mosque of Sheikha Hessa bint Mohammed bin Khalifa"
   },
   "story": {
-    "en": "The street carries the name of راشد بن سعيد الغيثي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم راشد بن سعيد الغيثي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "راشد بن سعيد بن سليمان الغيثي، وُلد نحو ١٩٢٣، إمام وخطيب مسجد الشيخة حصة بنت محمد بن خليفة آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٦٣٦.",
+    "en": "Rashed bin Saeed bin Suleiman Al Ghaithi, born around 1923, was imam and preacher of the mosque of Sheikha Hessa bint Mohammed bin Khalifa Al Nahyan. The street carried the number 636 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: راشد بن سعيد الغيثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/rashed-bin-saeed-al-ghaithi"
+    }
+  ]
 },
 {
   "id": "saad-mohammed-al-ahbabi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعد محمد الاحبابي",
   "en": "Saad Mohammed Al Ahbabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Ahbabi family",
-    "ar": "شخصية إماراتية من أسرة الاحبابي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Saad Mohammed, an Emirati figure of the Ahbabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعد محمد، وهو شخصية إماراتية من أسرة الاحبابي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سعد محمد صالح سعد الاحبابي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٢٨.",
+    "en": "The martyr Saad Mohammed Saleh Saad Al Ahbabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 628 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعد محمد الاحبابي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saad-mohammed-al-ahbabi"
+    }
+  ]
 },
 {
   "id": "saeed-bilkhalis-al-amri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بالخالص العامري",
   "en": "Saeed Bilkhalis Al Amri Street",
   "meaning": {
-    "en": "An Emirati figure of the Amri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "سكن وأدام طوي ملد غرب بو مريخة في الطف",
+    "en": "Lived at and maintained the Malad well west of Bu Mareikha in Al Taff"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bilkhalis, an Emirati figure of the Amri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بالخالص، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن حمد بالخالص العامري، وُلد نحو ١٩٠٥، وسكن وأدام طوي ملد غرب بو مريخة في الطف حتى وفاته سنة ١٩٢٥، وعمل في مهنة الغوص. وحمل الشارع في التسمية القديمة الرقم ٣٥٩.",
+    "en": "Saeed bin Hamad Bil Khalis Al Amri, born around 1905, lived at and maintained the Malad well west of Bu Mareikha in Al Taff until his death in 1925, and worked in pearl diving. The street carried the number 359 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بالخالص العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bilkhalis-al-amri"
+    }
+  ]
 },
 {
   "id": "saeed-bin-abdulrahman-al-nasri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن عبدالرحمن الناصري",
   "en": "Saeed Bin Abdulrahman Al Nasri Street",
   "meaning": {
-    "en": "An Emirati figure of the Nasri family",
-    "ar": "شخصية إماراتية من أسرة الناصري"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Abdulrahman, an Emirati figure of the Nasri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن عبدالرحمن، وهو شخصية إماراتية من أسرة الناصري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن عبدالرحمن بن سعيد الناصري، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٥٣٨.",
+    "en": "Saeed bin Abdulrahman bin Saeed Al Nasri, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 538 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن عبدالرحمن الناصري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-abdulrahman-al-nasri"
+    }
+  ]
 },
 {
   "id": "saeed-bin-darbash-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن دربش العامري",
   "en": "Saeed Bin Darbash Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شارك في واقعة الرفيعه وجرح فيها",
+    "en": "Took part in the affair of Al Rufai'a and was wounded there"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Darbash, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن دربش، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن محمد بن دربش العامري، وُلد نحو ١٩١٠، شارك في واقعة الرفيعه وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٦٣٩.",
+    "en": "Saeed bin Mohammed bin Darbash Al Ameri, born around 1910, took part in the affair of Al Rufai'a and was wounded there in the late 1940s. The street carried the number 639 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن دربش العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-darbash-al-ameri"
+    }
+  ]
 },
 {
   "id": "saeed-bin-wariqah-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن وريقة العامري",
   "en": "Saeed Bin Wariqah Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "معالج شعبي وشاعر ومرافق للشيخ زايد الأول",
+    "en": "A folk healer, poet and companion of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of Saeed Bin Wariqah, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد بن وريقة، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سعيد بن عبدالله بن وريقة العامري، وُلد نحو ١٨٦٠، معالج شعبي معروف وشاعر ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٦٢٣.",
+    "en": "Saeed bin Abdullah bin Wariqah Al Ameri, born around 1860, was a known folk healer, poet and companion of Sheikh Zayed the First (1855–1909). The street carried the number 623 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن وريقة العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-wariqah-al-ameri"
+    }
+  ]
 },
 {
   "id": "saeed-mohamed-al-hajeri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد محمد الهاجري",
   "en": "Saeed Mohamed Al Hajeri Street",
   "meaning": {
-    "en": "An Emirati figure of the Hajeri family",
-    "ar": "شخصية إماراتية من أسرة الهاجري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Saeed Mohamed, an Emirati figure of the Hajeri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سعيد محمد، وهو شخصية إماراتية من أسرة الهاجري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سعيد محمد ناصر الهاجري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٦٠.",
+    "en": "The martyr Saeed Mohammed Nasser Al Hajeri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 260 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد محمد الهاجري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-mohamed-al-hajeri"
+    }
+  ]
 },
 {
   "id": "salem-bilmur-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بالمر العامري",
   "en": "Salem Bilmur Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شارك في واقعة الشميريخات وجرح فيها",
+    "en": "Took part in the affair of Al Shmeirikhat and was wounded there"
   },
   "story": {
-    "en": "The street carries the name of Salem Bilmur, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بالمر، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بالمر بن ناصر العامري، وُلد نحو ١٩٢٠، شارك في واقعة الشميريخات وجرح فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٥٤٠.",
+    "en": "Salem Bilmur bin Nasser Al Ameri, born around 1920, took part in the affair of Al Shmeirikhat and was wounded there in the late 1940s. The street carried the number 540 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بالمر العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bilmur-al-ameri"
+    }
+  ]
 },
 {
   "id": "salem-bin-ham-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن حم العامري",
   "en": "Salem Bin Ham Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "عضو المجلس الاستشاري الوطني ونال جائزة أبوظبي",
+    "en": "Member of the National Consultative Council who received the Abu Dhabi Award"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Ham, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن حم، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن مسلم بن حم العامري، وُلد نحو ١٩٢٥، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، ونال جائزة أبوظبي سنة ٢٠٠٦. وحمل الشارع في التسمية القديمة الرقم ٦٤٠.",
+    "en": "Salem bin Muslim bin Ham Al Ameri, born around 1925, was a member of the National Consultative Council in 1971, and received the Abu Dhabi Award in 2006. The street carried the number 640 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن حم العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-ham-al-ameri"
+    }
+  ]
 },
 {
   "id": "salem-bin-rakkad-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن ركاض العامري",
   "en": "Salem Bin Rakkad Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Rakkad, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن ركاض، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن محمد بن ركاض العامري، وُلد نحو ١٩١٢، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٦٣٤.",
+    "en": "Salem bin Mohammed bin Rakkad Al Ameri, born around 1912, was a member of the National Consultative Council in 1971. The street carried the number 634 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن ركاض العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-rakkad-al-ameri"
+    }
+  ]
 },
 {
   "id": "salem-bin-thuaylib-al-amri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بن ثعيلب العامري",
   "en": "Salem Bin Thuaylib Al Amri Street",
   "meaning": {
-    "en": "An Emirati figure of the Amri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شاعر معروف من أهل العين",
+    "en": "A known poet of the people of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Salem Bin Thuaylib, an Emirati figure of the Amri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سالم بن ثعيلب، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سالم بن ثعيلب بن سالم العامري، وُلد نحو ١٨٩٢، شاعر معروف من أهل العين، وتوفي سنة ١٩٧٤. وحمل الشارع في التسمية القديمة الرقم ٢٣١.",
+    "en": "Salem bin Thuaylib bin Salem Al Ameri, born around 1892, was a known poet of the people of Al Ain, and died in 1974. The street carried the number 231 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بن ثعيلب العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bin-thuaylib-al-amri"
+    }
+  ]
 },
 {
   "id": "suhail-bilaswad-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سهيل بالاسود العامري",
   "en": "Suhail Bilaswad Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شاعر معروف من أهل العين",
+    "en": "A known poet of the people of Al Ain"
   },
   "story": {
-    "en": "The street carries the name of Suhail Bilaswad, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سهيل بالاسود، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سهيل بن علي بن الأسود بن سليم بلعويني العامري، وُلد نحو ١٨٧٦، شاعر معروف من أهل العين. وحمل الشارع في التسمية القديمة الرقم ٢٦٢.",
+    "en": "Suhail bin Ali bin Al Aswad bin Saleem Bil Aweeni Al Ameri, born around 1876, was a known poet of the people of Al Ain. The street carried the number 262 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سهيل بالاسود العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/suhail-bilaswad-al-ameri"
+    }
+  ]
 },
 {
   "id": "suhail-biloutaih-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سهيل باللوتية العامري",
   "en": "Suhail Biloutaih Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شارك في واقعة الشميريخات وتوفي فيها",
+    "en": "Took part in the affair of Al Shmeirikhat and died in it"
   },
   "story": {
-    "en": "The street carries the name of Suhail Biloutaih, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سهيل باللوتية، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "سهيل بالعري باللوتية العامري، وُلد نحو ١٩١٠، شارك في واقعة الشميريخات وتوفي فيها في أواخر الأربعينات. وحمل الشارع في التسمية القديمة الرقم ٥٩٤.",
+    "en": "Suhail Bil Arri Biloutaih Al Ameri, born around 1910, took part in the affair of Al Shmeirikhat and died in it in the late 1940s. The street carried the number 594 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سهيل باللوتية العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/suhail-biloutaih-al-ameri"
+    }
+  ]
 },
 {
   "id": "sulaiman-abdullah-al-ebri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سليمان عبدالله العبري",
   "en": "Sulaiman Abdullah Al Ebri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ebri family",
-    "ar": "شخصية إماراتية من أسرة العبري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Sulaiman Abdullah, an Emirati figure of the Ebri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم سليمان عبدالله، وهو شخصية إماراتية من أسرة العبري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد سليمان عبدالله محمد العبري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٨٣.",
+    "en": "The martyr Suleiman Abdullah Mohammed Al Ebri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 283 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سليمان عبدالله العبري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/sulaiman-abdullah-al-ebri"
+    }
+  ]
 },
 {
   "id": "yousif-mohamed-al-wheibi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع يوسف محمد الوهيبي",
   "en": "Yousif Mohamed Al Wheibi Street",
   "meaning": {
-    "en": "An Emirati figure of the Wheibi family",
-    "ar": "شخصية إماراتية من أسرة الوهيبي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Yousif Mohamed, an Emirati figure of the Wheibi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم يوسف محمد، وهو شخصية إماراتية من أسرة الوهيبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد يوسف محمد سالم سليمان الوهيبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٧٨.",
+    "en": "The martyr Yousef Mohammed Salem Suleiman Al Wheibi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 378 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: يوسف محمد الوهيبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/yousif-mohamed-al-wheibi"
+    }
+  ]
 },
 {
   "id": "zayd-bin-khalid-al-jahni",
@@ -14943,18 +16816,23 @@ window.STREETS = [
   "id": "zayed-musallam-al-ameri",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع زايد مسلم العامري",
   "en": "Zayed Musallam Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Zayed Musallam, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم زايد مسلم، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد زايد مسلم سهيل مسعود العامري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٨٥.",
+    "en": "The martyr Zayed Musallam Suhail Masoud Al Ameri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 285 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: زايد مسلم العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/zayed-musallam-al-ameri"
+    }
+  ]
 },
 {
   "id": "abdullrahmman-al-fihri",
@@ -15756,35 +17634,45 @@ window.STREETS = [
   "id": "ahmed-abdulla-ahmed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد عبدالله أحمد",
   "en": "Ahmed Abdulla Ahmed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of أحمد عبدالله أحمد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد عبدالله أحمد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشهيد احمد عبدالله احمد عمر، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٣٧٩.",
+    "en": "The martyr Ahmed Abdullah Ahmed Omar is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 379 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد عبدالله أحمد",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-abdulla-ahmed"
+    }
+  ]
 },
 {
   "id": "ahmed-bilkindi-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بالكندي المرر",
   "en": "Ahmed Bilkindi Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر معروف وله دواوين شعر من أهل الظفرة",
+    "en": "A known poet of Al Dhafra with several poetry collections"
   },
   "story": {
-    "en": "The street carries the name of أحمد بالكندي المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بالكندي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أحمد بن علي الكندي بن علي بوملحا المرر، وُلد نحو ١٩٤٠، شاعر معروف وله عدة دواوين شعر، من أهالي الظفرة، وعمل في الشرطة في إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٧٦٠.",
+    "en": "Ahmed bin Ali Al Kindi bin Ali Bu Melha Al Marar, born around 1940, was a known poet with several poetry collections, of the people of Al Dhafra, and served in the police of the Emirate of Abu Dhabi. The street carried the number 760 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بالكندي المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bilkindi-al-marar"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-hamed-al-hamed-street",
@@ -15812,52 +17700,67 @@ window.STREETS = [
   "id": "ali-bu-melha-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بو ملحا المرر",
   "en": "Ali Bu Melha Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ ومستشار وشيخ علم وشاعر ومرافق للشيخ زايد الأول",
+    "en": "A judge, adviser, scholar, poet and companion of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of علي بو ملحا المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم علي بو ملحا المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "علي بن سالم بو ملحا المرر، وُلد نحو ١٨٢٥، قاضٍ ومستشار وشيخ علم وشاعر ومرافق للشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٩٥.",
+    "en": "Ali bin Salem Bu Melha Al Marar, born around 1825, was a judge, adviser, scholar, poet and companion of Sheikh Zayed the First (1855–1909). The street carried the number 95 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بو ملحا المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bu-melha-al-marar"
+    }
+  ]
 },
 {
   "id": "butti-bin-hamed-al-hamed-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع بطي بن حامد آل حامد",
   "en": "Butti Bin Hamed Al Hamed Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عضو المجلس الاستشاري الوطني وعضو مجلس التخطيط",
+    "en": "Member of the National Consultative Council and of the Planning Council"
   },
   "story": {
-    "en": "The street carries the name of بطي بن حامد آل حامد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم بطي بن حامد آل حامد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "بطي بن حامد بن بطي خادم بن نهيمان آل حامد القبيسي، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعضو في مجلس التخطيط سنة ١٩٦٨. وحمل الشارع في التسمية القديمة الرقم ١٦٠.",
+    "en": "Butti bin Hamid bin Butti Khadim bin Nuhayman Al Hamed Al Qubaisi, born around 1930, was a member of the National Consultative Council in 1971 and a member of the Planning Council in 1968. The street carried the number 160 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: بطي بن حامد آل حامد",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/butti-bin-hamed-al-hamed"
+    }
+  ]
 },
 {
   "id": "khalifa-al-mubarak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خليفة المبارك",
   "en": "Khalifa Al Mubarak Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "رئيس دائرة القضاء في أبوظبي السابق وسفير للإمارات",
+    "en": "Former head of the Abu Dhabi Judiciary Department and UAE ambassador"
   },
   "story": {
-    "en": "The street carries the name of خليفة المبارك. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم خليفة المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشهيد خليفة بن الشيخ أحمد بن عبدالعزيز المبارك، رئيس دائرة القضاء في أبوظبي السابق، من مواليد سنة ١٩٤٧، تخرّج من جامعة بيروت قسم الفلسفة والاجتماع، وعمل سفيراً للإمارات في السودان سنة ١٩٧٣، وسفيراً للدولة في سوريا سنة ١٩٧٦، وسفيراً للدولة في فرنسا سنة ١٩٨٠، واغتيل في ٨ فبراير ١٩٨٤ في باريس عن عمر يناهز ٣٦ عاماً، وخلفه أربعة أبناء: خلدون المبارك الرئيس التنفيذي والعضو المنتدب لشركة مبادلة للتنمية ورئيس مجلس إدارة نادي مانشستر سيتي، والدكتورة رزان المبارك العضو المنتدب لجمعية الإمارات للحياة الفطرية، ومحمد المبارك ورشا المبارك.",
+    "en": "The martyr Khalifa bin Sheikh Ahmed bin Abdulaziz Al Mubarak, former head of the Abu Dhabi Judiciary Department, was born in 1947; he graduated from the University of Beirut in philosophy and sociology, and served as UAE ambassador to Sudan in 1973, to Syria in 1976, and to France in 1980. He was assassinated on 8 February 1984 in Paris at the age of about 36. He was survived by four children: Khaldoon Al Mubarak, CEO and managing director of Mubadala Development and chairman of the English club Manchester City, Dr Razan Al Mubarak of the Emirates Wildlife Society, Mohammed Al Mubarak and Rasha Al Mubarak."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خليفة المبارك",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalifa-al-mubarak"
+    }
+  ]
 },
 {
   "id": "al-uola-street",
@@ -18852,35 +20755,45 @@ window.STREETS = [
   "id": "abdelaziz-sarhan-al-kaabi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالعزيز سرحان الكعبي",
   "en": "Abdelaziz Sarhan Al Kaabi Street",
   "meaning": {
-    "en": "An Emirati figure of the Kaabi family",
-    "ar": "شخصية إماراتية من أسرة الكعبي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Abdelaziz Sarhan, an Emirati figure of the Kaabi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالعزيز سرحان الكعبي، وهو شخصية إماراتية من أسرة الكعبي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد عبدالعزيز سرحان صالح بخيت الكعبي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦٧.",
+    "en": "The martyr Abdelaziz Sarhan Saleh Bakhit Al Kaabi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 567 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالعزيز سرحان الكعبي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdelaziz-sarhan-al-kaabi"
+    }
+  ]
 },
 {
   "id": "abdulhameed-sultan-al-hammadi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالحميد سلطان الحمادي",
   "en": "Abdulhameed Sultan Al Hammadi Street",
   "meaning": {
-    "en": "An Emirati figure of the Hammadi family",
-    "ar": "شخصية إماراتية من أسرة الحمادي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Abdulhameed Sultan, an Emirati figure of the Hammadi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالحميد سلطان الحمادي، وهو شخصية إماراتية من أسرة الحمادي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد عبدالحميد سلطان عبدالله الحمادي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٤٦.",
+    "en": "The martyr Abdulhameed Sultan Abdullah Al Hammadi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 246 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالحميد سلطان الحمادي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulhameed-sultan-al-hammadi"
+    }
+  ]
 },
 {
   "id": "abduljalil-bin-mohammed-al-fahim-street",
@@ -19024,18 +20937,23 @@ window.STREETS = [
   "id": "abdullah-bin-ahmed-al-otaiba-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن أحمد العتيبة",
   "en": "Abdullah Bin Ahmed Al Otaiba Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن أحمد العتيبة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن أحمد العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالله بن أحمد بن خلف بن عبدالله بن عتيبة العتيبة، وُلد نحو ١٩٣٥، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٠٦.",
+    "en": "Abdullah bin Ahmed bin Khalaf bin Abdullah bin Otaiba Al Otaiba, born around 1935, was a member of the National Consultative Council in 1971. The street carried the number 106 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن أحمد العتيبة",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-ahmed-al-otaiba"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-al-harith-street",
@@ -19136,18 +21054,23 @@ window.STREETS = [
   "id": "abdullah-bin-hatha-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن حاذه المرر",
   "en": "Abdullah Bin Hatha Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن حاذه المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن حاذه المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالله بن حاذه بن عبدالله المرر، وُلد نحو ١٩٤٠، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣١٠.",
+    "en": "Abdullah bin Hatha bin Abdullah Al Marar, born around 1940, was a known poet of the people of Al Dhafra. The street carried the number 310 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالله بن حاذه المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullah-bin-hatha-al-marar"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-jubayr-street",
@@ -19321,18 +21244,23 @@ window.STREETS = [
   "id": "abdullatif-bin-ibrahim-al-mubarak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبداللطيف بن إبراهيم المبارك",
   "en": "Abdullatif Bin Ibrahim Al Mubarak Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شيخ علم في عهد الشيخ حمدان بن زايد الأول",
+    "en": "A scholar under Sheikh Hamdan bin Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of عبداللطيف بن إبراهيم المبارك. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبداللطيف بن إبراهيم المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبداللطيف بن إبراهيم بن عبداللطيف المبارك، وُلد نحو ١٨٦٣، شيخ علم في عهد الشيخ حمدان بن زايد الأول، ودرس في مدرسة العتيبات. وحمل الشارع في التسمية القديمة الرقم ٨١.",
+    "en": "Abdullatif bin Ibrahim bin Abdullatif Al Mubarak, born around 1863, was a scholar under Sheikh Hamdan bin Zayed the First, and studied at Al Otaibat School. The street carried the number 81 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبداللطيف بن إبراهيم المبارك",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdullatif-bin-ibrahim-al-mubarak"
+    }
+  ]
 },
 {
   "id": "abdulrahman-al-awza-i-street",
@@ -19406,18 +21334,23 @@ window.STREETS = [
   "id": "abdulrahman-bin-ali-al-mubarak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرحمن بن علي المبارك",
   "en": "Abdulrahman Bin Ali Al Mubarak Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وشيخ علم وفقيه",
+    "en": "A judge, scholar and jurist"
   },
   "story": {
-    "en": "The street carries the name of عبدالرحمن بن علي المبارك. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن علي المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالرحمن بن علي بن عبدالرحمن بن عبداللطيف المبارك، وُلد نحو ١٩٠٩، قاضٍ وشيخ علم وفقيه، ودرس في أبوظبي وجزيرة دلما في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٤٥.",
+    "en": "Abdulrahman bin Ali bin Abdulrahman bin Abdullatif Al Mubarak, born around 1909, was a judge, scholar and jurist, and studied in Abu Dhabi and on Dalma Island under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 245 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالرحمن بن علي المبارك",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abdulrahman-bin-ali-al-mubarak"
+    }
+  ]
 },
 {
   "id": "abdulrahman-bin-samurah-street",
@@ -19657,120 +21590,155 @@ window.STREETS = [
   "id": "abulaziz-bin-hamed-al-mubarak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالعزيز بن حمد المبارك",
   "en": "Abulaziz Bin Hamed Al Mubarak Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شيخ علم ومُدرس في عهد الشيخ شخبوط",
+    "en": "A scholar and teacher under Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of عبدالعزيز بن حمد المبارك. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالعزيز بن حمد المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالعزيز بن حمد بن عبداللطيف المبارك، وُلد نحو ١٨٨٨، شيخ علم ومُدرس في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٨١.",
+    "en": "Abdulaziz bin Hamd bin Abdullatif Al Mubarak, born around 1888, was a scholar and teacher under Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 281 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: عبدالعزيز بن حمد المبارك",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/abulaziz-bin-hamed-al-mubarak"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-abulaziz-al-mubarak-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن عبدالعزيز المبارك",
   "en": "Ahmed Bin Abulaziz Al Mubarak Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وشيخ علم وخطيب الجامع الكبير في أبوظبي",
+    "en": "A judge, scholar and preacher of the Grand Mosque in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن عبدالعزيز المبارك. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن عبدالعزيز المبارك، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أحمد بن عبدالعزيز بن حمد بن عبداللطيف المبارك، وُلد نحو ١٩٠٨، قاضٍ وشيخ علم في عهد الشيخ زايد بن سلطان آل نهيان، وخطيب للجامع الكبير في أبوظبي، وتولّى أعلى المناصب القضائية.",
+    "en": "Ahmed bin Abdulaziz bin Hamd bin Abdullatif Al Mubarak, born around 1908, was a judge and scholar under Sheikh Zayed bin Sultan Al Nahyan, and preacher of the Grand Mosque in Abu Dhabi; he held the highest judicial offices."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن عبدالعزيز المبارك",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-abulaziz-al-mubarak"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-blaid-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن بليد المرر",
   "en": "Ahmed Bin Blaid Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر من شعراء الظفرة ومرافق للشيخ زايد بن سلطان",
+    "en": "A poet of Al Dhafra and a companion of Sheikh Zayed bin Sultan"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن بليد المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن بليد المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أحمد بن محمد بن مرشد بن أحمد بن بليد المرر، وُلد نحو ١٨٩٩، أحد شعراء الظفرة المعروفين، امتهن الغوص، وأحد مرافقي الشيخ زايد بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٦١.",
+    "en": "Ahmed bin Mohammed bin Murshid bin Ahmed bin Blaid Al Marar, born around 1899, was one of the known poets of Al Dhafra; he practised pearl diving, and was one of the companions of Sheikh Zayed bin Sultan Al Nahyan. The street carried the number 761 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن بليد المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-blaid-al-marar"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-bu-melha-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن بوملحا المرر",
   "en": "Ahmed Bin Bu Melha Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ ومستشار وشيخ علم وشاعر في عهد زايد الأول",
+    "en": "A judge, adviser, scholar and poet under Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن بوملحا المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن بوملحا المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أحمد بن علي بن سالم بوملحا المرر، وُلد نحو ١٨٥٥، قاضٍ ومستشار وشيخ علم وشاعر في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ٢٥٩.",
+    "en": "Ahmed bin Ali bin Salem Bu Melha Al Marar, born around 1855, was a judge, adviser, scholar and poet under Sheikh Zayed the First (1855–1909). The street carried the number 259 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن بوملحا المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-bu-melha-al-marar"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-jbara-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن جبارة المرر",
   "en": "Ahmed Bin Jbara Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن جبارة المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن جبارة المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أحمد بن خلفان بن مطر بن جبارة المرر، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٥٥.",
+    "en": "Ahmed bin Khalfan bin Matar bin Jabara Al Marar, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 155 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن جبارة المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-jbara-al-marar"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-khalaf-al-otaiba-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن خلف العتيبة",
   "en": "Ahmed Bin Khalaf Al Otaiba Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر وأديب شاهد أول اتفاقية امتياز للنفط ١٩٣٩",
+    "en": "A poet and writer who witnessed the first oil concession agreement of 1939"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن خلف العتيبة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن خلف العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أحمد بن خلف بن عبدالله بن سيف بن بطي عتيبة العتيبة، وُلد نحو ١٨٦٢، شاعر وأديب، وشارك وشاهد على أول اتفاقية امتياز للنفط سنة ١٩٣٩. وحمل الشارع في التسمية القديمة الرقم ٨٨.",
+    "en": "Ahmed bin Khalaf bin Abdullah bin Saif bin Butti Otaiba Al Otaiba, born around 1862, was a poet and writer, and took part in and witnessed the first oil concession agreement in 1939. The street carried the number 88 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن خلف العتيبة",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-khalaf-al-otaiba"
+    }
+  ]
 },
 {
   "id": "ahmed-bin-mohamed-al-fahim-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أحمد بن محمد الفهيم",
   "en": "Ahmed Bin Mohamed Al Fahim Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عضو المجلس الاستشاري الوطني",
+    "en": "Member of the National Consultative Council"
   },
   "story": {
-    "en": "The street carries the name of أحمد بن محمد الفهيم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أحمد بن محمد الفهيم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أحمد بن محمد بن عبدالرحيم الفهيم، وُلد نحو ١٩٣٠، عضو في المجلس الاستشاري الوطني سنة ١٩٧١، وعمل قبل قيام الاتحاد في مجال تجارة الغوص واللؤلؤ. وحمل الشارع في التسمية القديمة الرقم ٢٥٦.",
+    "en": "Ahmed bin Mohammed bin Abdulrahim Al Fahim, born around 1930, was a member of the National Consultative Council in 1971, and before the Union worked in the pearl diving and pearl trade. The street carried the number 256 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: أحمد بن محمد الفهيم",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ahmed-bin-mohamed-al-fahim"
+    }
+  ]
 },
 {
   "id": "al-ala-a-bin-ziyad-street",
@@ -20240,18 +22208,23 @@ window.STREETS = [
   "id": "ali-bin-alkindi-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن الكندي المرر",
   "en": "Ali Bin Alkindi Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وشاعر معروف في الظفرة",
+    "en": "A judge and known poet in Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of علي بن الكندي المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم علي بن الكندي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "علي بن الكندي بن علي بن سالم بو ملحا المرر، وُلد نحو ١٩١٠، قاضٍ وشاعر معروف في الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣١٧.",
+    "en": "Ali bin Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1910, was a judge and known poet in Al Dhafra. The street carried the number 317 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن الكندي المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-alkindi-al-marar"
+    }
+  ]
 },
 {
   "id": "ali-bin-hamzah-street",
@@ -20279,18 +22252,23 @@ window.STREETS = [
   "id": "ali-bin-musabah-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع علي بن مصبح المرر",
   "en": "Ali Bin Musabah Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر معروف له ٨٠ قصيدة من محضر عتّاب",
+    "en": "A known poet with 80 poems from Madhhar Attab"
   },
   "story": {
-    "en": "The street carries the name of علي بن مصبح المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم علي بن مصبح المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "علي بن مصبح الكندي بن علي بن سالم بوملحا المرر، وُلد نحو ١٩٤٠، شاعر معروف له ٨٠ قصيدة، من محضر عتّاب في إليوا. وحمل الشارع في التسمية القديمة الرقم ١١٢.",
+    "en": "Ali bin Musabah Al Kindi bin Ali bin Salem Bu Melha Al Marar, born around 1940, was a known poet with 80 poems, from Madhhar Attab in Liwa. The street carried the number 112 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: علي بن مصبح المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ali-bin-musabah-al-marar"
+    }
+  ]
 },
 {
   "id": "an-nawwas-bin-sam-an-street",
@@ -21081,18 +23059,23 @@ window.STREETS = [
   "id": "george-matthew-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جورج ماثيو",
   "en": "George Matthew Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "أول طبيب حكومي في مدينة العين",
+    "en": "The first government doctor in Al Ain city"
   },
   "story": {
-    "en": "The street carries the name of جورج ماثيو. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم جورج ماثيو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الدكتور جورج ماثيو، وُلد نحو ١٩٢٠، أول طبيب حكومي في مدينة العين، وكانت له إسهامات في تطوير الطب الحديث، ونال جائزة أبوظبي سنة ٢٠١٧. وحمل الشارع في التسمية القديمة الرقم ٣٧٤.",
+    "en": "Dr George Matthew, born around 1920, was the first government doctor in Al Ain city; he had contributions to the development of modern medicine, and received the Abu Dhabi Award in 2017. The street carried the number 374 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جورج ماثيو",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/george-matthew"
+    }
+  ]
 },
 {
   "id": "ghadeer-bin-habis-street",
@@ -21336,18 +23319,23 @@ window.STREETS = [
   "id": "hadef-humaid-al-shamsi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع هادف حميد الشامسي",
   "en": "Hadef Humaid Al Shamsi Street",
   "meaning": {
-    "en": "An Emirati figure of the Shamsi family",
-    "ar": "شخصية إماراتية من أسرة الشامسي"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Hadef Humaid, an Emirati figure of the Shamsi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم هادف حميد الشامسي، وهو شخصية إماراتية من أسرة الشامسي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد هادف حميد مانع ارحمه الشامسي، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٤٤.",
+    "en": "The martyr Hadef Humaid Manea Arhamah Al Shamsi is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 544 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: هادف حميد الشامسي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hadef-humaid-al-shamsi"
+    }
+  ]
 },
 {
   "id": "hadrad-bin-abi-hadrad-street",
@@ -21623,18 +23611,23 @@ window.STREETS = [
   "id": "hayy-juma-hayy-al-hameli-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حيي جمعة حيي الهاملي",
   "en": "Hayy Juma Hayy Al Hameli Street",
   "meaning": {
-    "en": "An Emirati figure of the Hameli family",
-    "ar": "شخصية إماراتية من أسرة الهاملي"
+    "ar": "عمل في القوات المسلحة ومُنح وسام الإمارات العسكري",
+    "en": "Served in the Armed Forces and received the UAE Military Medal"
   },
   "story": {
-    "en": "The street carries the name of Hayy Juma Hayy, an Emirati figure of the Hameli family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حيي جمعه حيي الهاملي، وهو شخصية إماراتية من أسرة الهاملي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "حيي بن جمعة بن حيي بن عباد الهاملي، وُلد سنة ١٩٥٣، وعمل في القوات المسلحة لدولة الإمارات العربية المتحدة، وتقلّد مناصب مدير العمليات ومدير التنظيم والتسليح، ومُنح وسام الإمارات العسكري (الطبقة الأولى) ووسام تحرير الكويت ووسام الخدمة في قوة دفاع أبوظبي وميدالية دمج القوات المسلحة وميدالية الخدمة الطويلة الممتازة، وعُيِّن في السلك الدبلوماسي قبل وفاته. وتوفي سنة ٢٠٠٠. وحمل الشارع في التسمية القديمة الرقم ٢٠٢.",
+    "en": "Hayy bin Juma bin Hayy bin Abbad Al Hameli, born in 1953, served in the Armed Forces of the United Arab Emirates and held the posts of director of operations and director of organisation and armament; he received the UAE Military Medal (First Class), the Kuwait Liberation Medal, the Service Medal of the Abu Dhabi Defence Force, the Armed Forces Unification Medal and the Long Service Medal, and was appointed to the diplomatic corps before his death. He died in 2000. The street carried the number 202 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حيي جمعة حيي الهاملي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hayy-juma-hayy-al-hameli"
+    }
+  ]
 },
 {
   "id": "haz-bin-yalad-street",
@@ -21781,18 +23774,23 @@ window.STREETS = [
   "id": "hmoud-ali-al-ameri-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع حمود علي العامري",
   "en": "Hmoud Ali Al Ameri Street",
   "meaning": {
-    "en": "An Emirati figure of the Ameri family",
-    "ar": "شخصية إماراتية من أسرة العامري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Hmoud Ali, an Emirati figure of the Ameri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم حمود علي العامري، وهو شخصية إماراتية من أسرة العامري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد حمود على صالح سعيد العامري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٦٣٧.",
+    "en": "The martyr Hmoud Ali Saleh Saeed Al Ameri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 637 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: حمود علي العامري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/hmoud-ali-al-ameri"
+    }
+  ]
 },
 {
   "id": "hubaysh-bin-khalid-street",
@@ -21917,18 +23915,23 @@ window.STREETS = [
   "id": "ismail-abdulqader-al-mulla-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع اسماعيل عبدالقادر الملا",
   "en": "Ismail Abdulqader Al Mulla Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of اسماعيل عبدالقادر الملا. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم اسماعيل عبدالقادر الملا، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشهيد اسماعيل عبدالقادر محمد الملا، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٨٧.",
+    "en": "The martyr Ismail Abdulqader Mohammed Al Mulla is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 87 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: اسماعيل عبدالقادر الملا",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/ismail-abdulqader-al-mulla"
+    }
+  ]
 },
 {
   "id": "iyad-al-ash-ari-street",
@@ -21985,18 +23988,23 @@ window.STREETS = [
   "id": "jubara-bin-hasan-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع جبارة بن حسن المرر",
   "en": "Jubara Bin Hasan Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of جبارة بن حسن المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم جبارة بن حسن المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "جبارة بن حسن بن جبارة المرر، وُلد نحو ١٩٣٣، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ١٠٨.",
+    "en": "Jubara bin Hassan bin Jabara Al Marar, born around 1933, was a member of the National Consultative Council in 1971. The street carried the number 108 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: جبارة بن حسن المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/jubara-bin-hasan-al-marar"
+    }
+  ]
 },
 {
   "id": "jundub-bin-abdullah-street",
@@ -22092,35 +24100,45 @@ window.STREETS = [
   "id": "khalaf-bin-abdullah-al-otaiba-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلف بن عبدالله العتيبة",
   "en": "Khalaf Bin Abdullah Al Otaiba Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "من كبار تجار الغوص واللؤلؤ وأسس مدرسة العتيبة",
+    "en": "A senior diving and pearl merchant who founded Al Otaiba School"
   },
   "story": {
-    "en": "The street carries the name of خلف بن عبدالله العتيبة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم خلف بن عبدالله العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "خلف بن عبدالله بن سيف بن بطي بن العتيبة، وُلد نحو ١٨٣٥، أحد كبار تجار الغوص واللؤلؤ في أبوظبي، أسس مدرسة العتيبة، وله عدة مساجد في أبوظبي، وعُرف بفعل الخير. وحمل الشارع في التسمية القديمة الرقم ٢٥٥.",
+    "en": "Khalaf bin Abdullah bin Saif bin Butti bin Al Otaiba, born around 1835, was one of the senior diving and pearl merchants of Abu Dhabi; he founded Al Otaiba School, has several mosques in Abu Dhabi, and was known for doing good. The street carried the number 255 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلف بن عبدالله العتيبة",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalaf-bin-abdullah-al-otaiba"
+    }
+  ]
 },
 {
   "id": "khalfan-bin-jbara-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلفان بن جبارة المرر",
   "en": "Khalfan Bin Jbara Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وعالم ونوخذة متخصص في قضايا البحر",
+    "en": "A judge, scholar and nawkhadha specialising in maritime cases"
   },
   "story": {
-    "en": "The street carries the name of خلفان بن جبارة المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم خلفان بن جبارة المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "خلفان بن مطر بن جبارة المرر، وُلد نحو ١٩٠٥، قاضٍ وعالم ونوخذة متخصص في قضايا البحر، ويُعتبر آخر شخص عُيِّن في هذا المنصب. وحمل الشارع في التسمية القديمة الرقم ٧٩.",
+    "en": "Khalfan bin Matar bin Jabara Al Marar, born around 1905, was a judge, scholar and nawkhadha specialising in maritime cases, and is considered the last person appointed to this post. The street carried the number 79 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلفان بن جبارة المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalfan-bin-jbara-al-marar"
+    }
+  ]
 },
 {
   "id": "khalfan-bin-matar-al-rumaithi-street",
@@ -22143,35 +24161,45 @@ window.STREETS = [
   "id": "khalfan-hammad-al-dhaheri-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلفان حماد الظاهري",
   "en": "Khalfan Hammad Al Dhaheri Street",
   "meaning": {
-    "en": "An Emirati figure of the Dhaheri family",
-    "ar": "شخصية إماراتية من أسرة الظاهري"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of Khalfan Hammad, an Emirati figure of the Dhaheri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خلفان حماد الظاهري، وهو شخصية إماراتية من أسرة الظاهري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشهيد خلفان حماد على سالم الظاهري، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٥٦٥.",
+    "en": "The martyr Khalfan Hammad Ali Salem Al Dhaheri is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 565 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلفان حماد الظاهري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalfan-hammad-al-dhaheri"
+    }
+  ]
 },
 {
   "id": "khalfan-matar-saeed-al-rumaithi-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خلفان مطر سعيد الرميثي",
   "en": "Khalfan Matar Saeed Al Rumaithi Street",
   "meaning": {
-    "en": "An Emirati figure of the Rumaithi family",
-    "ar": "شخصية إماراتية من أسرة الرميثي"
+    "ar": "أسس الحرس الأميري وترقى إلى رتبة فريق",
+    "en": "Founded the Amiri Guard and rose to the rank of lieutenant general"
   },
   "story": {
-    "en": "The street carries the name of Khalfan Matar Saeed, an Emirati figure of the Rumaithi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خلفان مطر سعيد الرميثي، وهو شخصية إماراتية من أسرة الرميثي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خلفان بن مطر بن سعيد محمد بن سالم بن خرسان الرميثي، وُلد نحو ١٩٤٠، حاصل على ميدالية الإمارات من الدرجة الأولى، وأسس الحرس الأميري، وانضم في بداية خدمته إلى قوة ساحل عمان، وتدرج في الرتب العسكرية حتى رتبة فريق، ونال جائزة أبوظبي سنة ٢٠٠٥. وحمل الشارع في التسمية القديمة الرقم ١٨٠.",
+    "en": "Khalfan bin Matar bin Saeed Mohammed bin Salem bin Kharsan Al Rumaithi, born around 1940, received the UAE Medal (First Class), founded the Amiri Guard, joined the Oman Coast Force at the start of his service, rose through the military ranks to the rank of lieutenant general, and received the Abu Dhabi Award in 2005. The street carried the number 180 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: خلفان مطر سعيد الرميثي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/khalfan-matar-saeed-al-rumaithi"
+    }
+  ]
 },
 {
   "id": "khalid-bin-abi-jabal-street",
@@ -22583,18 +24611,23 @@ window.STREETS = [
   "id": "mana-bin-saeed-al-otaiba-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مانع بن سعيد العتيبة",
   "en": "Mana Bin Saeed Al Otaiba Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "أول وزير للبترول في أبوظبي وشاعر معروف",
+    "en": "The first minister of petroleum in Abu Dhabi and a known poet"
   },
   "story": {
-    "en": "The street carries the name of مانع بن سعيد العتيبة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مانع بن سعيد العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مانع بن سعيد بن أحمد بن خلف بن عبدالله العتيبة، وُلد نحو ١٩٤٦، أول وزير للبترول ورئيس لدائرة البترول في إمارة أبوظبي، ورافق الشيخ زايد بن سلطان آل نهيان، وهو من الشعراء المعروفين في إمارة أبوظبي. وحمل الشارع في التسمية القديمة الرقم ١٦٦.",
+    "en": "Mana bin Saeed bin Ahmed bin Khalaf bin Abdullah Al Otaiba, born around 1946, was the first minister of petroleum and head of the Petroleum Department of the Emirate of Abu Dhabi; he accompanied Sheikh Zayed bin Sultan Al Nahyan and is one of the known poets of the Emirate of Abu Dhabi. The street carried the number 166 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مانع بن سعيد العتيبة",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mana-bin-saeed-al-otaiba"
+    }
+  ]
 },
 {
   "id": "mas-oud-bin-al-aswad-street",
@@ -22617,52 +24650,67 @@ window.STREETS = [
   "id": "mejren-bin-mohammed-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مجرن بن محمد المرر",
   "en": "Mejren Bin Mohammed Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وشيخ علم في عهد الشيخ شخبوط",
+    "en": "A judge and scholar in the time of Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of مجرن بن محمد المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مجرن بن محمد المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مجرن بن محمد بن أحمد بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٩٠٣، قاضٍ وشيخ علم في عهد الشيخ شخبوط بن سلطان آل نهيان، من أهالي أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٣٢٢.",
+    "en": "Mejren bin Mohammed bin Ahmed bin Sultan bin Mejren bin Rashid Al Marar, born around 1903, was a judge and scholar in the time of Sheikh Shakhbut bin Sultan Al Nahyan, of the people of Abu Dhabi. The street carried the number 322 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مجرن بن محمد المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mejren-bin-mohammed-al-marar"
+    }
+  ]
 },
 {
   "id": "mejren-bin-sultan-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مجرن بن سلطان المرر",
   "en": "Mejren Bin Sultan Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "من علماء الدين في عهد الشيخ زايد الأول",
+    "en": "A religious scholar in the time of Sheikh Zayed the First"
   },
   "story": {
-    "en": "The street carries the name of مجرن بن سلطان المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مجرن بن سلطان المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مجرن بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٨٢٥، من علماء الدين في عهد الشيخ زايد الأول (١٨٥٥–١٩٠٩). وحمل الشارع في التسمية القديمة الرقم ١٠٠.",
+    "en": "Mejren bin Sultan bin Mejren bin Rashid Al Marar, born around 1825, was among the religious scholars in the time of Sheikh Zayed the First (1855–1909). The street carried the number 100 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مجرن بن سلطان المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mejren-bin-sultan-al-marar"
+    }
+  ]
 },
 {
   "id": "misbah-bin-mubarak-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مسباح بن مبارك المرر",
   "en": "Misbah Bin Mubarak Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر معروف من أهل الظفرة",
+    "en": "A known poet of the people of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of مسباح بن مبارك المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مسباح بن مبارك المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مسباح بن مبارك بن مسباح المرر، وُلد نحو ١٩٢٨، شاعر معروف من أهل الظفرة. وحمل الشارع في التسمية القديمة الرقم ٣٢٤.",
+    "en": "Misbah bin Mubarak bin Misbah Al Marar, born around 1928, was a known poet of the people of Al Dhafra. The street carried the number 324 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مسباح بن مبارك المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/misbah-bin-mubarak-al-marar"
+    }
+  ]
 },
 {
   "id": "mohamed-bin-bleaid-al-marar-street",
@@ -22702,35 +24750,45 @@ window.STREETS = [
   "id": "mohammed-bin-abdullah-al-sayegh-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن عبدالله الصايغ",
   "en": "Mohammed Bin Abdullah Al Sayegh Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "Member of the National Consultative Council in 1971"
   },
   "story": {
-    "en": "The street carries the name of محمد بن عبدالله الصايغ. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن عبدالله الصايغ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "محمد بن عبدالله الصايغ، وُلد نحو ١٩٣٠، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. وحمل الشارع في التسمية القديمة الرقم ٢٨٨.",
+    "en": "Mohammed bin Abdullah Al Sayegh, born around 1930, was a member of the National Consultative Council in 1971. The street carried the number 288 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن عبدالله الصايغ",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-abdullah-al-sayegh"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-ali-abu-athaina-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن علي أبوذينة",
   "en": "Mohammed Bin Ali Abu Athaina Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ ومدرّس وخطيب الجامع الكبير بأبوظبي",
+    "en": "A judge, teacher and preacher of the Grand Mosque in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of محمد بن علي أبوذينة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن علي أبوذينة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "محمد بن علي أبوذينة التونسي، وُلد نحو ١٨٧١، قاضٍ ومدرّس درّس في مدرسة العتيبة، إلى جانب الخطابة والإمامة في الجامع الكبير بأبوظبي من سنة ١٩١٠ إلى سنة ١٩٤١. وحمل الشارع في التسمية القديمة الرقم ٢١٣.",
+    "en": "Mohammed bin Ali Abu Athaina Al Tunisi, born around 1871, was a judge and teacher who taught at Al Otaiba School, alongside preaching and the imamate at the Grand Mosque in Abu Dhabi from 1910 to 1941. The street carried the number 213 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن علي أبوذينة",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-ali-abu-athaina"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-butti-al-hamed-street",
@@ -22758,18 +24816,23 @@ window.STREETS = [
   "id": "mohammed-bin-mejren-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن مجرن المرر",
   "en": "Mohammed Bin Mejren Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وشيخ علم في أبوظبي",
+    "en": "A judge and scholar in Abu Dhabi"
   },
   "story": {
-    "en": "The street carries the name of محمد بن مجرن المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن مجرن المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "محمد بن أحمد بن سلطان بن مجرن بن راشد المرر، وُلد نحو ١٨٧١، قاضٍ وشيخ علم في أبوظبي. وحمل الشارع في التسمية القديمة الرقم ٤٠.",
+    "en": "Mohammed bin Ahmed bin Sultan bin Mejren bin Rashid Al Marar, born around 1871, was a judge and scholar in Abu Dhabi. The street carried the number 40 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: محمد بن مجرن المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mohammed-bin-mejren-al-marar"
+    }
+  ]
 },
 {
   "id": "mohammed-bin-thabit-street",
@@ -22809,35 +24872,45 @@ window.STREETS = [
   "id": "murshid-bin-ali-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مرشد بن علي المرر",
   "en": "Murshid Bin Ali Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "مرافق للشيخ زايد بن سلطان وأُوكل إليه الإشراف على محميات الظفرة",
+    "en": "A companion of Sheikh Zayed bin Sultan entrusted with the reserves of Al Dhafra"
   },
   "story": {
-    "en": "The street carries the name of مرشد بن علي المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مرشد بن علي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مرشد بن علي المعلا بن مرشد المرر، وُلد نحو ١٩٤١، مرافق للشيخ زايد بن سلطان آل نهيان، وأُوكل إليه الإشراف على مشاريع الغابات والمحميات البرية في منطقة الظفرة. وحمل الشارع في التسمية القديمة الرقم ١٩٣.",
+    "en": "Murshid bin Ali bin Al Moalla bin Murshid Al Marar, born around 1941, was a companion of Sheikh Zayed bin Sultan Al Nahyan, entrusted with supervising the forests and wildlife reserves projects in the Al Dhafra region. The street carried the number 193 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مرشد بن علي المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/murshid-bin-ali-al-marar"
+    }
+  ]
 },
 {
   "id": "musabah-bin-alkindi-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع مصبح بن الكندي المرر",
   "en": "Musabah Bin Alkindi Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضي الظفرة في عهد الشيخ شخبوط",
+    "en": "Judge of Al Dhafra in the time of Sheikh Shakhbut"
   },
   "story": {
-    "en": "The street carries the name of مصبح بن الكندي المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مصبح بن الكندي المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مصبح بن الكندي بن علي بن سالم المرر، وُلد نحو ١٩١٧، قاضي الظفرة في عهد الشيخ شخبوط بن سلطان آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٧٨٨.",
+    "en": "Musabah bin Al Kindi bin Ali bin Salem Al Marar, born around 1917, was the judge of Al Dhafra in the time of Sheikh Shakhbut bin Sultan Al Nahyan. The street carried the number 788 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: مصبح بن الكندي المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/musabah-bin-alkindi-al-marar"
+    }
+  ]
 },
 {
   "id": "nakhl-bin-jibarah-street",
@@ -23375,18 +25448,23 @@ window.STREETS = [
   "id": "saeed-bin-ahmed-al-otaiba-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سعيد بن أحمد العتيبة",
   "en": "Saeed Bin Ahmed Al Otaiba Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر وتاجر ورئيس غرفة التجارة والصناعة في أبوظبي",
+    "en": "A poet, merchant and chairman of the Abu Dhabi Chamber of Commerce and Industry"
   },
   "story": {
-    "en": "The street carries the name of سعيد بن أحمد العتيبة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم سعيد بن أحمد العتيبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "سعيد بن أحمد بن خلف بن عبدالله بن عتيبة العتيبة، وُلد نحو ١٩١٦، رافق الشيخ زايد بن سلطان آل نهيان، وكان شاعراً وتاجراً ورئيساً لغرفة التجارة والصناعة في أبوظبي منذ سنة ١٩٧١.",
+    "en": "Saeed bin Ahmed bin Khalaf bin Abdullah bin Otaiba Al Otaiba, born around 1916, accompanied Sheikh Zayed bin Sultan Al Nahyan, and was a poet, merchant and chairman of the Abu Dhabi Chamber of Commerce and Industry from 1971."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سعيد بن أحمد العتيبة",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saeed-bin-ahmed-al-otaiba"
+    }
+  ]
 },
 {
   "id": "sahl-ibn-al-handhaliyah-street",
@@ -23431,52 +25509,67 @@ window.STREETS = [
   "id": "salama-bint-butti-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سلامة بنت بطي",
   "en": "Salama Bint Butti Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "زوجة الشيخ سلطان بن زايد الأول ووالدة مؤسس الدولة",
+    "en": "Wife of Sheikh Sultan bin Zayed the First and mother of the founder of the state"
   },
   "story": {
-    "en": "The street carries the name of سلامة بنت بطي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم سلامة بنت بطي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشيخة سلامة بنت بطي آل حامد، كريمة شيخ عشيرة القبيسات من قبيلة بني ياس الشيخ بطي بن خادم بن نهيمان القبيسي، تزوجها حاكم أبوظبي الشيخ سلطان بن زايد الأول (١٩٢٢–١٩٢٧)، وأنجبا الشيخ شخبوط بن سلطان حاكم أبوظبي (١٩٢٨–١٩٦٦)، والشيخ هزاع بن سلطان، والشيخ خالد بن سلطان، والشيخ زايد بن سلطان آل نهيان مؤسس دولة الإمارات العربية المتحدة (١٩١٨–٢٠٠٤)، واشتُهرت بقوة شخصيتها وسعة علمها وفهمها.",
+    "en": "Sheikha Salama bint Butti Al Hamed, daughter of the chief of the Qubaisat of Banu Yas, Sheikh Butti bin Khadim bin Nuhayman Al Qubaisi, married the ruler of Abu Dhabi Sheikh Sultan bin Zayed the First (1922–1927); they had Sheikh Shakhbut bin Sultan, ruler of Abu Dhabi (1928–1966), Sheikh Hazza bin Sultan, Sheikh Khalid bin Sultan, and Sheikh Zayed bin Sultan Al Nahyan, founder of the United Arab Emirates (1918–2004). She was known for strength of character and breadth of knowledge and understanding."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سلامة بنت بطي",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salama-bint-butti"
+    }
+  ]
 },
 {
   "id": "saleh-hasan-binomar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع صالح حسن بن عمرو",
   "en": "Saleh Hasan Binomar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شهيد من أبناء الإمارات",
+    "en": "A martyr from the UAE"
   },
   "story": {
-    "en": "The street carries the name of صالح حسن بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم صالح حسن بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشهيد صالح حسن صالح ناصر بن عمرو، ورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر عنه في المصدر أكثر من اسمه. وحمل الشارع في التسمية القديمة الرقم ٢٧٨.",
+    "en": "The martyr Saleh Hassan Saleh Nasser bin Amro is recorded in the «Honouring the Pioneers of the UAE» memorial street listing; the source publishes no more than his name. The street carried the number 278 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: صالح حسن بن عمرو",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/saleh-hasan-binomar"
+    }
+  ]
 },
 {
   "id": "salem-bu-melha-al-marar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع سالم بو ملحا المرر",
   "en": "Salem Bu Melha Al Marar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قاضٍ وعالم في أبوظبي في عهد الشيخ شخبوط بن ذياب",
+    "en": "A judge and scholar in Abu Dhabi in the time of Sheikh Shakhbut bin Dhiyab"
   },
   "story": {
-    "en": "The street carries the name of سالم بو ملحا المرر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم سالم بو ملحا المرر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "سالم بن عبدالله بن بو ملحا المرر، وُلد نحو ١٧٨٥، قاضٍ وعالم في أبوظبي قبل مولد الشيخ زايد الأول، في عهد الشيخ شخبوط بن ذياب آل نهيان. وحمل الشارع في التسمية القديمة الرقم ٢٤٨.",
+    "en": "Salem bin Abdullah bin Bu Melha Al Marar, born around 1785, was a judge and scholar in Abu Dhabi before the birth of Sheikh Zayed the First, in the time of Sheikh Shakhbut bin Dhiyab Al Nahyan. The street carried the number 248 in the older naming."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — «تكريم رواد الإمارات: شوارع تذكارية»: سالم بو ملحا المرر",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/salem-bu-melha-al-marar"
+    }
+  ]
 },
 {
   "id": "salim-bin-abdullah-street",

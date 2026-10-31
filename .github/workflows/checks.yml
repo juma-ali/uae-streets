@@ -1,0 +1,52 @@
+name: checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  arabic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Mechanical Arabic checks: punctuation, Latin leakage, calques,
+      # ar/en length balance. Fails the run on any finding.
+      - name: Lint Arabic
+        run: node tools/arabic-lint.mjs --fail
+
+      # Informational: lists entries whose Arabic changed since it was
+      # approved. Never fails — it is a reading list, not a gate.
+      # Cards about public figures must stay neutral and factual.
+      - name: Editorial policy
+        run: node tools/editorial-lint.mjs --fail
+
+      - name: Arabic review queue
+        run: node tools/arabic-review.mjs
+
+      # Issue forms break silently if their YAML is wrong: the "New issue"
+      # page simply stops rendering the templates.
+      - name: Install js-yaml
+        run: npm install --no-save --no-audit --no-fund js-yaml@4
+
+      - name: Validate issue forms
+        run: node tools/validate-forms.mjs
+
+  kb:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Guards the invariants this project established: the OSM UAE naming
+      # convention, the plot-number filter, unique OSM ids, coordinates,
+      # known emirates, and districts that streets actually reference.
+      - name: Knowledge base assertions
+        run: node tools/audit.mjs --assert
