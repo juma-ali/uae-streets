@@ -1,0 +1,47 @@
+name: visits
+
+# Keep data/visits.json current, so the footer total is served from this site and
+# cannot be hidden by an ad blocker.
+#
+# The job asks GoatCounter for the total once a day and commits the file only
+# when the number changed. No secrets are needed: the counter endpoint is public.
+
+on:
+  schedule:
+    - cron: "17 3 * * *"      # daily, 03:17 UTC
+  workflow_dispatch:           # and on demand
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the total
+        run: |
+          set -euo pipefail
+          json=$(curl -fsS --max-time 30 \
+            -H 'User-Agent: UAEStreets-visits/1.0' \
+            https://monan.goatcounter.com/counter/TOTAL.json)
+          echo "got: $json"
+          count=$(printf '%s' "$json" | sed -n 's/.*"count"[[:space:]]*:[[:space:]]*"\([0-9]*\)".*/\1/p')
+          unique=$(printf '%s' "$json" | sed -n 's/.*"count_unique"[[:space:]]*:[[:space:]]*"\([0-9]*\)".*/\1/p')
+          if [ -z "$count" ]; then echo "no count in the response"; exit 1; fi
+          printf '{\n "count": %s,\n "count_unique": %s,\n "updated": "%s"\n}\n' \
+            "$count" "${unique:-0}" "$(date -u +%F)" > data/visits.json
+          cat data/visits.json
+
+      - name: Commit if it changed
+        run: |
+          git config user.name  "visits-bot"
+          git config user.email "visits-bot@users.noreply.github.com"
+          if git diff --quiet -- data/visits.json; then
+            echo "unchanged"
+            exit 0
+          fi
+          git add data/visits.json
+          git commit -m "visits: $(date -u +%F)"
+          git push

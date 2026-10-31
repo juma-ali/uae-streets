@@ -51,3 +51,8 @@ data/glosses-extra.js
 data/localities.js
 
 assets/js/*.bak
+
+# keep the scheduled jobs
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
