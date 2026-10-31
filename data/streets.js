@@ -3392,17 +3392,17 @@ window.STREETS = [
   "ar": "شارع البراء بن عازب",
   "en": "Al Bara-a Bin 'Azib Street",
   "meaning": {
-    "en": "Sahabah",
-    "ar": "صحابي"
+    "ar": "صحابي من أصحاب الفتوح",
+    "en": "A Companion, and a leader in the conquests"
   },
   "story": {
-    "en": "Al-Bara' ibn Azib (600–690) was a companion of the Prophet Muhammad.",
-    "ar": "أبو عمارة البراء بن عازب الأنصاري (المتوفى سنة 72هـ) ص."
+    "ar": "البراء بن عازب بن الحارث الخزرجي، أبو عمارة، صحابي من أصحاب الفتوح، أسلم صغيراً وغزا مع النبي محمد ﷺ خمس عشرة غزوة أولها الخندق. وجعله عثمان أميراً على الري سنة ٢٤هـ، ففتح أبهر وقزوين وزنجان، ثم سكن الكوفة واعتزل الأعمال، وتوفي في زمن مصعب بن الزبير.",
+    "en": "Al-Bara ibn Azib ibn al-Harith al-Khazraji, Abu Umarah, was a Companion and a leader in the conquests. He accepted Islam young and fought fifteen campaigns with the Prophet Muhammad ﷺ, the first of them the Trench. Uthman appointed him governor of al-Rayy in 24 AH, where he took Abhar, Qazvin and Zanjan; he later settled in Kufa and withdrew from public office, dying in the time of Musab ibn al-Zubayr."
   },
   "refs": [
     {
-      "label": "Wikipedia — البراء بن عازب",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1_%D8%A8%D9%86_%D8%B9%D8%A7%D8%B2%D8%A8"
+      "label": "الأعلام للزركلي، ج٢ ص٤٦: البراء بن عازب",
+      "url": "https://archive.org/details/alalam"
     }
   ]
 },
@@ -3700,17 +3700,17 @@ window.STREETS = [
   "ar": "شارع ابن خلدون",
   "en": "Ibn Khaldoun Street",
   "meaning": {
-    "en": "Historiographer and historian",
-    "ar": "عالِمٌ و مؤسس علم الاجتماع"
+    "ar": "مؤرخ وعالم اجتماع، صاحب «المقدمة»",
+    "en": "Historian and social thinker, author of the «Muqaddimah»"
   },
   "story": {
-    "en": "Ibn Khaldun (1332–1406) was a historiographer and historian.",
-    "ar": "ابنُ خَلدون (732 - 808 هـ / 1332 - 1406 م) هو أَبُو زَيْدٍ وَلِيُّ الدِّيْنِ ع."
+    "ar": "عبد الرحمن بن محمد بن خلدون الحضرمي (٧٣٢–٨٠٨هـ / ١٣٣٢–١٤٠٦م)، مؤرخ وعالم اجتماع، وُلد بتونس وتوفي بالقاهرة، وله «المقدمة» و«العبر» و«الشفاء للسائل». عمل في القضاء والكتابة لدى عدة دول في المغرب والأندلس ومصر.",
+    "en": "Abd al-Rahman ibn Muhammad ibn Khaldun al-Hadrami (732–808 AH / 1332–1406 AD) was a historian and social thinker, born in Tunis and died in Cairo. His works include «al-Muqaddimah», «al-Ibar» and «al-Shifa li al-Sail». He served as a judge and a secretary in several states in the Maghrib, Andalusia and Egypt."
   },
   "refs": [
     {
-      "label": "Wikipedia — ابن خلدون",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%AE%D9%84%D8%AF%D9%88%D9%86"
+      "label": "ابن خلدون — ترجمته وأعماله (تحقق يدوي، ٢٠٢٦)",
+      "url": "https://ar.wikipedia.org/wiki/ابن_خلدون"
     }
   ]
 },
@@ -4294,17 +4294,17 @@ window.STREETS = [
   "ar": "شارع عدي بن حاتم الطائي",
   "en": "Adi Bin Hatem Al Tai Street",
   "meaning": {
-    "en": "Sahabah",
-    "ar": "صحابي و ابن حاتم الطائي النجدي والمعروف بأكرم العرب ،"
+    "ar": "أمير طيء وصحابي من الأجواد",
+    "en": "Chief of Tayy, a Companion, and a byword for generosity"
   },
   "story": {
-    "en": "Adi ibn Hatim (572–687) was a companion of the Prophet Muhammad.",
-    "ar": "أَبُو طَرِيفٍ عَدِيُّ بْنُ حَاتِمِ بْنِ عَبْدِ اَ."
+    "ar": "عدي بن حاتم بن عبد الله الطائي، أبو وهب وأبو طريف، أمير وصحابي من الأجواد العقلاء، وكان رئيس طيء في الجاهلية والإسلام. أسلم سنة ٩هـ وشهد فتح العراق، ثم سكن الكوفة وشهد الجمل وصفين والنهروان مع علي، وفقئت عينه، وعاش أكثر من مئة سنة.",
+    "en": "Adi ibn Hatim ibn Abdullah al-Tai, Abu Wahb and Abu Tarif, was a chief and a Companion, counted among the generous and the prudent. He was the head of Tayy before Islam and after it, accepted Islam in 9 AH and took part in the conquest of Iraq. He settled in Kufa and fought at the Camel, Siffin and Nahrawan with Ali; he lost an eye and lived more than a hundred years."
   },
   "refs": [
     {
-      "label": "Wikipedia — عدي بن حاتم الطائي",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%8A_%D8%A8%D9%86_%D8%AD%D8%A7%D8%AA%D9%85_%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A"
+      "label": "الأعلام للزركلي، ج٤ ص٢٢٠: عدي بن حاتم",
+      "url": "https://archive.org/details/alalam"
     }
   ]
 },
@@ -5109,17 +5109,17 @@ window.STREETS = [
   "ar": "شارع ابن كثير",
   "en": "Iben Katheer Street",
   "meaning": {
-    "en": "A historian, traditionist and Qur'an commentator",
-    "ar": "مؤرخ ومحدث ومفسر"
+    "ar": "محدّث ومفسّر ومؤرخ دمشقي",
+    "en": "A Damascene hadith scholar, exegete and historian"
   },
   "story": {
-    "en": "Ibn Kathir (701–774 AH / 1301–1373 CE) was a historian and hadith scholar, author of a well-known Qur'an commentary.",
-    "ar": "ابن كثير الدمشقي (701- 774 هـ / 1301- 1373 م) هو عِمادُ الدِّينِ أبُو الفِداءِ إسْماعِيلُ بنُ عُمَرَ بنِ كَثِيرِ بنِ ضَوِّ بنِ دِرْعٍ القُرَشِيُّ الحَ."
+    "ar": "ابن كثير الدمشقي (٧٠١–٧٧٤هـ / ١٣٠١–١٣٧٣م) هو عماد الدين أبو الفداء إسماعيل بن عمر بن كثير بن ضوّ بن درع القرشي، محدّث ومفسّر ومؤرخ، من أهل دمشق، وله «تفسير القرآن العظيم» و«البداية والنهاية».",
+    "en": "Ibn Kathir al-Dimashqi (701–774 AH / 1301–1373 AD), Imad al-Din Abu al-Fida Ismail ibn Umar ibn Kathir ibn Daw ibn Dara al-Qurashi, was a hadith scholar, exegete and historian of Damascus, author of «Tafsir al-Quran al-Azim» and «al-Bidaya wa al-Nihaya»."
   },
   "refs": [
     {
-      "label": "Wikipedia — ابن كثير الدمشقي",
-      "url": "https://ar.wikipedia.org/wiki/ابن_كثير_الدمشقي"
+      "label": "ابن كثير — ترجمته وأعماله (تحقق يدوي، ٢٠٢٦)",
+      "url": "https://ar.wikipedia.org/wiki/ابن_كثير"
     }
   ]
 },
@@ -16627,17 +16627,17 @@ window.STREETS = [
   "ar": "شارع أبو فِراس الحَمَدانِي",
   "en": "Abu Firas Al Hamadani Street",
   "meaning": {
-    "en": "Hamdanid dynasty prince and poet",
-    "ar": "شاعر عربي من العهد العباسي"
+    "ar": "أمير وشاعر وفارس",
+    "en": "A prince, a poet and a horseman"
   },
   "story": {
-    "en": "Abu Firas al-Hamdani (932–968) was a Hamdanid prince and poet.",
-    "ar": "أَبُو فِرَاسْ الحَارِثُ بْنُ سَعِيدْ بْنِ حَمْدَانْ الحَمْدَانِي التَغْلِبي الرَ."
+    "ar": "الحارث بن سعيد بن حمدان التغلبي الربعي، أبو فراس الحمداني، أمير وشاعر وفارس، وهو ابن عم سيف الدولة، وله وقائع كثيرة قاتل بها بين يديه. جرح في معركة مع الروم وأُسر سنة ٣٥١هـ، فاشتهر شعره في الأسر المعروف بالروميات.",
+    "en": "Al-Harith ibn Saeed ibn Hamdan al-Taghlibi al-Rabii, Abu Firas al-Hamadani, was a prince, poet and horseman, a cousin of Sayf al-Dawla, with many battles fought at his side. Wounded in a battle with the Byzantines, he was taken captive in 351 AH, and the poems of that captivity became known as the Romaniyyat."
   },
   "refs": [
     {
-      "label": "Wikipedia — أبو فراس الحمداني",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%81%D8%B1%D8%A7%D8%B3_%D8%A7%D9%84%D8%AD%D9%85%D8%AF%D8%A7%D9%86%D9%8A"
+      "label": "الأعلام للزركلي، ج٢ ص١٥٥: أبو فراس الحمداني",
+      "url": "https://archive.org/details/alalam"
     }
   ]
 },
@@ -17173,23 +17173,17 @@ window.STREETS = [
   "id": "ramlah-bint-abi-awf-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "documented",
+  "origin": "unsourced",
   "ar": "شارع رَملة بنت أبي عوف",
   "en": "Ramlah Bint Abi 'Awf Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "صحابية من السابقين الأولين"
+    "ar": "امرأة يحمل الشارع اسمها",
+    "en": "A woman the street is named after"
   },
   "story": {
-    "en": "Ramla bint Abi Awf was a companion of the Prophet Muhammad.",
-    "ar": "الصحابية رملة بنت أبي عوف السهمية هي: رملة بنت أبي عوف بن صبيرة بن سعيد بن س."
-  },
-  "refs": [
-    {
-      "label": "Wikipedia — رملة بنت أبي عوف",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B1%D9%85%D9%84%D8%A9_%D8%A8%D9%86%D8%AA_%D8%A3%D8%A8%D9%8A_%D8%B9%D9%88%D9%81"
-    }
-  ]
+    "ar": "يحمل الشارع اسم رملة بنت أبي عوف السهمية، ولم يُعثر على ترجمة منشورة لها، فلا تنسب البطاقة إليها أكثر من الاسم.",
+    "en": "The street carries the name Ramlah bint Abi Awf al-Sahmiyyah, and no published biography of her was found, so the card claims no more than the name."
+  }
 },
 {
   "id": "ribee-i-bin-hirash-street",
@@ -17287,17 +17281,17 @@ window.STREETS = [
   "ar": "شارع سُلَيمان بن يَسار",
   "en": "Sulaiman Bin Yasar Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "أحد الفقهاء السبعة بالمدينة، ثقة عالم فقيه كثير الحديث"
+    "ar": "أحد الفقهاء السبعة بالمدينة",
+    "en": "One of the seven jurists of Medina"
   },
   "story": {
-    "en": "Sulaiman bin Yasar (654–725) was a Tabi'i.",
-    "ar": "أبو أيوب سليمان بن يسار مولى أم المؤمنين ميمونة بنت ال."
+    "ar": "سليمان بن يسار، أبو أيوب، مولى ميمونة أم المؤمنين، أحد الفقهاء السبعة بالمدينة. وُلد في خلافة عثمان، وكان أبوه فارسياً، وقال ابن سعد في وصفه: ثقة عالم فقيه كثير الحديث.",
+    "en": "Sulayman ibn Yasar, Abu Ayyub, was a freed client of Maymunah, Mother of the Believers, and one of the seven jurists of Medina. He was born during the caliphate of Uthman, his father was Persian, and Ibn Saad described him as trustworthy, learned, a jurist and a frequent narrator of hadith."
   },
   "refs": [
     {
-      "label": "Wikipedia — سليمان بن يسار",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D9%8A%D8%B3%D8%A7%D8%B1"
+      "label": "الأعلام للزركلي، ج٣ ص١٣٨: سليمان بن يسار",
+      "url": "https://archive.org/details/alalam"
     }
   ]
 },
@@ -17358,7 +17352,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Safwan ibn Sulaym (680–750) was a Tabi'i.",
-    "ar": "صفوان بن سليم المدني تابعي، فقيه، وأحد رواة الحديث ال."
+    "ar": "صفوان بن سليم المدني تابعي، فقيه، وأحد رواة الحديث."
   },
   "refs": [
     {
@@ -17375,17 +17369,17 @@ window.STREETS = [
   "ar": "شارع عُتبة بن مَسعُود",
   "en": "Utbah Bin Mas'oud Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "صحابي هاجر الهجريتين وشهد غزوة أحد وباقي المشاهد"
+    "ar": "صحابي، أخو عبد الله بن مسعود",
+    "en": "A Companion, brother of Abdullah ibn Masud"
   },
   "story": {
-    "en": "Utba ibn Mas'ud was a companion of the Prophet Muhammad.",
-    "ar": "أبو عبد الله عتبة بن مسعود بن غافل الهذليّ صحابي وفقيه كان حليفًا لبني ز."
+    "ar": "عتبة بن مسعود الهذلي، صحابي، أخو عبد الله بن مسعود، من السابقين إلى الإسلام، هاجر إلى الحبشة، وتوفي في حياة النبي محمد ﷺ.",
+    "en": "Utbah ibn Masud al-Hudhali was a Companion, brother of Abdullah ibn Masud, among the earliest to accept Islam. He migrated to Abyssinia and died during the lifetime of the Prophet Muhammad ﷺ."
   },
   "refs": [
     {
-      "label": "Wikipedia — عتبة بن مسعود",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AA%D8%A8%D8%A9_%D8%A8%D9%86_%D9%85%D8%B3%D8%B9%D9%88%D8%AF"
+      "label": "عتبة بن مسعود — ترجمته (تحقق يدوي، ٢٠٢٦)",
+      "url": "https://ar.wikipedia.org/wiki/عتبة_بن_مسعود"
     }
   ]
 },
@@ -17424,7 +17418,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Zayd ibn Aslam (d. 753) was a Tabi'i.",
-    "ar": "زيد بن أسلم تابعي وفقيه مدني، وأحد رواة الحديث ا."
+    "ar": "زيد بن أسلم تابعي وفقيه مدني، وأحد رواة الحديث."
   },
   "refs": [
     {
@@ -17485,17 +17479,17 @@ window.STREETS = [
   "ar": "شارع الزهراوى",
   "en": "Al Zahrawi Street",
   "meaning": {
-    "en": "Arab Andalusian physician, surgeon and chemist",
-    "ar": "عالمٌ مُسلم أندلسي"
+    "ar": "طبيب أندلسي، صاحب «التصريف»",
+    "en": "An Andalusian physician, author of «al-Tasrif»"
   },
   "story": {
-    "en": "Abu al-Qasim al-Zahrawi (936–1010) was an Arab Andalusian physician, surgeon and chemist.",
-    "ar": "أَبُو القَاسِمِ خَلَفُ بْنُ عَبَّاسٍ الزَّهْرَاوِيُّ المعروف في العالم الغربي باسم «» طبيب عربي مسلم عاش ف."
+    "ar": "أبو القاسم خلف بن العباس الزهراوي (ت نحو ٤٠٤هـ / ١٠١٣م)، طبيب أندلسي من أهل الزهراء قرب قرطبة، وله «التصريف لمن عجز عن التأليف»، وهو من أشهر كتب الطب في أوروبا في العصور الوسطى.",
+    "en": "Abu al-Qasim Khalaf ibn al-Abbas al-Zahrawi (d. c. 404 AH / 1013 AD) was an Andalusian physician of al-Zahra near Cordoba. His «al-Tasrif li-man ajaza an al-talif» was among the most widely used medical books in medieval Europe."
   },
   "refs": [
     {
-      "label": "Wikipedia — الزهراوي",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D9%88%D9%8A"
+      "label": "الزهراوي — ترجمته وأعماله (تحقق يدوي، ٢٠٢٦)",
+      "url": "https://ar.wikipedia.org/wiki/الزهراوي"
     }
   ]
 },
@@ -17767,23 +17761,17 @@ window.STREETS = [
   "id": "bujair-bin-abi-bujair-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "documented",
+  "origin": "account",
   "ar": "شارع بجير بن أبي بجير",
   "en": "Bujair Bin Abi Bujair Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "ar": "صحابي من بني عبس من غطفان",
+    "en": "A Companion of the Banu Abs of Ghatafan"
   },
   "story": {
-    "en": "Bujayr ibn Abi-Bujayr was a companion of the Prophet Muhammad.",
-    "ar": "بُجَير بن أبي بُجَير العبسي الغطفاني صحابي جليل من بني عبس من غطفان ويُقَال هو م."
-  },
-  "refs": [
-    {
-      "label": "Wikipedia — بجير بن أبي بجير",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A8%D8%AC%D9%8A%D8%B1_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%A8%D8%AC%D9%8A%D8%B1"
-    }
-  ]
+    "ar": "بجير بن أبي بجير العبسي الغطفاني، صحابي من بني عبس من غطفان، ولم يُعثر على ترجمة منشورة مفصّلة له.",
+    "en": "Bujayr ibn Abi Bujayr al-Absi al-Ghatafani was a Companion of the Banu Abs of Ghatafan; no detailed published biography of him was found."
+  }
 },
 {
   "id": "hateb-bin-amr-street",
@@ -17899,23 +17887,17 @@ window.STREETS = [
   "id": "amr-bin-muath-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "documented",
+  "origin": "account",
   "ar": "شارع عمرو بن معاذ",
   "en": "Amr Bin Muath Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "ar": "صحابي من الأنصار",
+    "en": "A Companion of the Ansar"
   },
   "story": {
-    "en": "Amr ibn Mu'adh was a companion of the Prophet Muhammad.",
-    "ar": "أبو عثمان عمرو بن معاذ بن النعمان الأشهلي الأوسي الأنصاري صحابي من بني."
-  },
-  "refs": [
-    {
-      "label": "Wikipedia — عمرو بن معاذ",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1%D9%88_%D8%A8%D9%86_%D9%85%D8%B9%D8%A7%D8%B0"
-    }
-  ]
+    "ar": "عمرو بن معاذ النعمان الأشهلي الأوسي الأنصاري، صحابي من بني عبد الأشهل من الأوس، ولم يُعثر على ترجمة منشورة مفصّلة له.",
+    "en": "Amr ibn Muadh al-Numan al-Ash-hali al-Awsi al-Ansari was a Companion of the Banu Abd al-Ashhal of the Aws; no detailed published biography of him was found."
+  }
 },
 {
   "id": "amer-bin-salamah-street",
@@ -17969,17 +17951,17 @@ window.STREETS = [
   "ar": "شارع معقل بن يسار",
   "en": "Ma'aqal Bin Yassar Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "صحابي جليل"
+    "ar": "صحابي، وإليه نُسب نهر معقل بالبصرة",
+    "en": "A Companion; the Nahr Maqil in Basra is named after him"
   },
   "story": {
-    "en": "Ma'qil ibn Yasar (d. 685) was a narrator of hadith.",
-    "ar": "مَعْقِلُ بن يَسَار بن عَبْد الله بن مُعَبر بن حَرَاق بن لأَي بن كع."
+    "ar": "معقل بن يسار بن عبد الله المزني، صحابي، أسلم قبل الحديبية وشهد بيعة الرضوان، وسكن البصرة وتوفي بها. ونهر معقل فيها منسوب إليه، حفره بأمر عمر.",
+    "en": "Maqil ibn Yasar ibn Abdullah al-Muzani was a Companion who accepted Islam before Hudaybiyyah and took the pledge of Ridwan. He settled in Basra and died there, and the Nahr Maqil canal in the city is named after him, dug on Umar's order."
   },
   "refs": [
     {
-      "label": "Wikipedia — معقل بن يسار",
-      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D9%82%D9%84_%D8%A8%D9%86_%D9%8A%D8%B3%D8%A7%D8%B1"
+      "label": "الأعلام للزركلي، ج٧ ص٢٧١: معقل بن يسار",
+      "url": "https://archive.org/details/alalam"
     }
   ]
 },
@@ -18053,23 +18035,17 @@ window.STREETS = [
   "id": "malik-bin-zama-a-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "documented",
+  "origin": "account",
   "ar": "شارع مالك بن زمعة",
   "en": "Malik Bin Zama'a Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "من اصحاب الرسول محمد"
+    "ar": "صحابي من السابقين إلى الإسلام",
+    "en": "A Companion among the earliest Muslims"
   },
   "story": {
-    "en": "Malik ibn Zam'a was a companion of the Prophet Muhammad.",
-    "ar": "مالك بن زمعة القرشي العامري الكناني صحابي من السابقين إلى الإسلام وهو أخ."
-  },
-  "refs": [
-    {
-      "label": "Wikipedia — مالك بن زمعة",
-      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D9%83_%D8%A8%D9%86_%D8%B2%D9%85%D8%B9%D8%A9"
-    }
-  ]
+    "ar": "مالك بن زمعة القرشي العامري الكناني، صحابي من السابقين إلى الإسلام، ولم يُعثر على ترجمة منشورة مفصّلة له.",
+    "en": "Malik ibn Zamah al-Qurashi al-Ameri al-Kinani was a Companion among the earliest to accept Islam; no detailed published biography of him was found."
+  }
 },
 {
   "id": "ma-aqal-bin-al-munther-street",
@@ -18145,17 +18121,17 @@ window.STREETS = [
   "ar": "شارع ابن المحاملي",
   "en": "Iben Al Mohamily Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "فقيه شافعي (368 – 415هـ / 978 – 1024م)"
+    "ar": "فقيه شافعي بغدادي",
+    "en": "A Shafi'i jurist of Baghdad"
   },
   "story": {
-    "en": "Iben Al Mohamily Street (978–1024) was a jurist.",
-    "ar": "أَبُو الْحَسَنِ أَحْمَدُ بْنُ مُحَمَّدِ بْنِ أَحْمَدَ بْنِ الْ."
+    "ar": "أحمد بن محمد بن أحمد بن القاسم الضبي، أبو الحسن ابن المحاملي (٣٦٨–٤١٥هـ / ٩٧٨–١٠٢٤م)، فقيه شافعي، بغدادي المولد والوفاة، له تصانيف منها «تحرير الأدلة» و«المجموع» و«المقنع» في فقه الشافعية.",
+    "en": "Ahmad ibn Muhammad ibn Ahmad ibn al-Qasim al-Dabbi, Abu al-Hasan Ibn al-Mahamili (368–415 AH / 978–1024 AD), was a Shafi'i jurist, born and died in Baghdad. His works include «Tahrir al-Adilla», «al-Majmu» and «al-Muqni» on Shafi'i law."
   },
   "refs": [
     {
-      "label": "Wikipedia — ابن المحاملي",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%84%D9%8A"
+      "label": "الأعلام للزركلي، ج١ ص٢١١: ابن المحاملي",
+      "url": "https://archive.org/details/alalam"
     }
   ]
 },
@@ -18172,7 +18148,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ma'abad Bin Qais Street was a companion of the Prophet Muhammad.",
-    "ar": "معبد بن قيس بن صيفي بن صخر الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار ش."
+    "ar": "معبد بن قيس بن صيفي بن صخر الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار."
   },
   "refs": [
     {
@@ -18260,7 +18236,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Muath Bin Al Hareth Street was a companion of the Prophet Muhammad.",
-    "ar": "معاذ بن الحارث المعروف بـ معاذ بن عفراء صحابي من الأنصار من بني غنم بن مالك بن النجار م."
+    "ar": "معاذ بن الحارث المعروف بـ معاذ بن عفراء صحابي من الأنصار من بني غنم بن مالك بن النجار."
   },
   "refs": [
     {
@@ -18317,23 +18293,17 @@ window.STREETS = [
   "id": "mu-teb-bin-ouf-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "documented",
+  "origin": "account",
   "ar": "شارع معتب بن عوف",
   "en": "Mu'teb Bin Ouf Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "صحابي هاجر إلى الحبشة ثم إلى المدينة، شهد المشاهد كلها مع النبي محمد ﷺ"
+    "ar": "صحابي، يُعرف بمعتب بن الحمراء",
+    "en": "A Companion, known as Mutib ibn al-Hamra"
   },
   "story": {
-    "en": "Mʻtb ibn ʻAwf was a companion of the Prophet Muhammad.",
-    "ar": "مُعَتِّب بن عوف الخزاعي المعروف بـ معتب بن الحمراء صحابي كان حليفًا لب."
-  },
-  "refs": [
-    {
-      "label": "Wikipedia — معتب بن عوف",
-      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%AA%D8%A8_%D8%A8%D9%86_%D8%B9%D9%88%D9%81"
-    }
-  ]
+    "ar": "معتب بن عوف الخزاعي، المعروف بمعتب بن الحمراء، صحابي، هاجر إلى الحبشة ثم إلى المدينة، وشهد المشاهد مع النبي محمد ﷺ.",
+    "en": "Mutib ibn Awf al-Khuza'i, known as Mutib ibn al-Hamra, was a Companion who migrated to Abyssinia and then to Medina, and was present at the campaigns with the Prophet Muhammad ﷺ."
+  }
 },
 {
   "id": "mohammed-al-khamis-street",
@@ -18383,23 +18353,17 @@ window.STREETS = [
   "id": "oqbah-bin-wahab-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "documented",
+  "origin": "account",
   "ar": "شارع عقبة بن وهب",
   "en": "Oqbah Bin Wahab Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "صحابي أحد السبعين الذين بايعو النبي محمد ﷺ شهد العقبتين بدر وأحد"
+    "ar": "صحابي غطفاني",
+    "en": "A Companion of Ghatafan"
   },
   "story": {
-    "en": "'Uqbah ibn Wahb was a companion of the Prophet Muhammad.",
-    "ar": "عقبة بن وهب بن عبدالله الغطفاني هو الصحابي عقبة بن وهب بن كلدة من بني عب."
-  },
-  "refs": [
-    {
-      "label": "Wikipedia — عقبة بن وهب",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%82%D8%A8%D8%A9_%D8%A8%D9%86_%D9%88%D9%87%D8%A8"
-    }
-  ]
+    "ar": "عقبة بن وهب بن كلدة الغطفاني، صحابي، ولم يُعثر على ترجمة منشورة مفصّلة له.",
+    "en": "Uqbah ibn Wahb ibn Kaladah al-Ghatafani was a Companion; no detailed published biography of him was found."
+  }
 },
 {
   "id": "oqbah-bin-othman-street",
@@ -18471,23 +18435,17 @@ window.STREETS = [
   "id": "rab-ay-bin-rafe-h-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "documented",
+  "origin": "account",
   "ar": "شارع ربعي بن رافع",
   "en": "Rab'ay Bin Rafe'h Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "من أعلام صدر الإسلام"
+    "ar": "صحابي من قبيلة بلي",
+    "en": "A Companion of the Bali tribe"
   },
   "story": {
-    "en": "Rab'ay Bin Rafe'h Street was a companion of the Prophet Muhammad.",
-    "ar": "ربعي بن رافع بن زيد بن حارثة البلوي صحابي جليل من قبيلة بلي وهو حليف لبني عمرو بن عو."
-  },
-  "refs": [
-    {
-      "label": "Wikipedia — ربعي بن رافع",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B1%D8%A8%D8%B9%D9%8A_%D8%A8%D9%86_%D8%B1%D8%A7%D9%81%D8%B9"
-    }
-  ]
+    "ar": "ربعي بن رافع البلوي، صحابي من قبيلة بلي، وكان حليفاً لبني عمرو بن عوف، ولم يُعثر على ترجمة منشورة مفصّلة له.",
+    "en": "Rab'i ibn Rafi al-Balawi was a Companion of the Bali tribe and an ally of the Banu Amr ibn Awf; no detailed published biography of him was found."
+  }
 },
 {
   "id": "okasha-bin-thour-street",
@@ -18541,17 +18499,17 @@ window.STREETS = [
   "ar": "شارع صالح بن كيسان",
   "en": "Saleh Bin Kaysan Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "مؤدب أبناء عمر بن عبد العزيز، من فقهاء المدينة وثقات في رواية الحديث"
+    "ar": "من فقهاء المدينة وثقات الحديث",
+    "en": "A jurist of Medina and a trustworthy narrator"
   },
   "story": {
-    "en": "Salih ibn Kaysan (660–757) was a Tabi'i.",
-    "ar": "صالح بن كيسان، هو صالح بن كيسان، مولى بني غفار وفي ر."
+    "ar": "صالح بن كيسان المدني (ت ١٤٠هـ / ٧٥٧م)، مؤدب أبناء عمر بن عبد العزيز، وكان من فقهاء المدينة الجامعين بين الحديث والفقه، وأحد الثقات في رواية الحديث، وعاش أكثر من مئة سنة.",
+    "en": "Salih ibn Kaysan al-Madani (d. 140 AH / 757 AD) was tutor to the sons of Umar ibn Abd al-Aziz, one of the jurists of Medina who joined hadith with law, and a trustworthy narrator; he lived more than a hundred years."
   },
   "refs": [
     {
-      "label": "Wikipedia — صالح بن كيسان",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B5%D8%A7%D9%84%D8%AD_%D8%A8%D9%86_%D9%83%D9%8A%D8%B3%D8%A7%D9%86"
+      "label": "الأعلام للزركلي، ج٣ ص١٩٥: صالح بن كيسان",
+      "url": "https://archive.org/details/alalam"
     }
   ]
 },
@@ -18568,7 +18526,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Salmah Bin Thabet Street was a companion of the Prophet Muhammad.",
-    "ar": "سلمة بن ثابت بن وقش الأشهلي الأوسي الأنصاري صحابي جليل من بني عبد الأشهل من الأوس شه."
+    "ar": "سلمة بن ثابت بن وقش الأشهلي الأوسي الأنصاري صحابي جليل من بني عبد الأشهل من الأوس."
   },
   "refs": [
     {
@@ -18590,7 +18548,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Raf'e Bin Al Hareth Street was a companion of the Prophet Muhammad.",
-    "ar": "رافع بن الحارث بن سواد بن زيد الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شه."
+    "ar": "رافع بن الحارث بن سواد بن زيد الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار."
   },
   "refs": [
     {
