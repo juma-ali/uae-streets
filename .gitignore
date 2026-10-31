@@ -8,57 +8,13 @@ desktop.ini
 .idea/
 *.swp
 
-# Local preview / test artefacts
-.tmp/
-*.log
-
-# Installed only for tools/validate-forms.mjs (js-yaml), never committed
+# Dependencies
 node_modules/
 package-lock.json
 
-# Local portrait-review tool (never committed)
-.review/
-
-# Overpass query cache (never committed)
-.cache/
-# stray installers and agent downloads
+# Local artefacts and installers
+.tmp/
+*.log
 *.exe
 *.msi
 *.dmg
-
-# local model output, merged by hand
-unsloth/answers/
-unsloth/answers-single/
-unsloth/tasks-single/
-unsloth/words-*/
-unsloth/tasks-words/
-# working material, not part of the site
-unsloth/
-research/
-archive/
-data/head-nouns.csv
-data/verification-sample.csv
-data/verification-sample2.csv
-tools/
-docs/
-.github/
-CONTRIBUTING.md
-CITATION.cff
-data/kb.js
-data/dictionary.js
-data/categories.js
-data/glosses-extra.js
-data/localities.js
-
-assets/js/*.bak
-
-# keep the scheduled jobs
-!.github/
-!.github/workflows/
-!.github/workflows/*.yml
-!.github/ISSUE_TEMPLATE/
-!.github/ISSUE_TEMPLATE/*.yml
-
-
-# the lint workflow needs tools/, which is local-only, so it stays local too
-.github/workflows/checks.yml
