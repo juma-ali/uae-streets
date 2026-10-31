@@ -226,7 +226,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031AB";
+    s.src = "data/cards.js?v=20261031AC";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -426,24 +426,6 @@
   }
   window.__nearestStreets = nearestStreets;   // used by the browser test
 
-  /* The visitor total, from GoatCounter's public counter.
-     If the site owner has not enabled public counts, the request returns 403 and
-     the line stays hidden — no broken number, no empty label. */
-  (function visitTotal() {
-    var box = document.getElementById("visits");
-    var num = document.getElementById("visits-n");
-    if (!box || !num) return;
-    fetch("https://monan.goatcounter.com/counter/TOTAL.json", { mode: "cors", cache: "no-store" })
-      .then(function (r) { return r.ok ? r.json() : null; })
-      .then(function (j) {
-        if (!j || j.count === undefined) return;
-        var n = Number(j.count);
-        if (!isFinite(n)) return;
-        num.textContent = n.toLocaleString("en-US");
-        box.hidden = false;
-      })
-      .catch(function () {});
-  })();
 
   function openRoadSheet(idx) {
     if (!ROADS) return;
