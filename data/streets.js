@@ -17173,17 +17173,23 @@ window.STREETS = [
   "id": "ramlah-bint-abi-awf-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع رَملة بنت أبي عوف",
   "en": "Ramlah Bint Abi 'Awf Street",
   "meaning": {
-    "ar": "امرأة يحمل الشارع اسمها",
-    "en": "A woman the street is named after"
+    "ar": "صحابية من السابقين الأولين",
+    "en": "A Companion among the earliest Muslims"
   },
   "story": {
-    "ar": "يحمل الشارع اسم رملة بنت أبي عوف السهمية، ولم يُعثر على ترجمة منشورة لها، فلا تنسب البطاقة إليها أكثر من الاسم.",
-    "en": "The street carries the name Ramlah bint Abi Awf al-Sahmiyyah, and no published biography of her was found, so the card claims no more than the name."
-  }
+    "ar": "الصحابية رملة بنت أبي عوف السهمية، بنت أبي عوف بن صبيرة بن سعيد بن سعد بن سهم، أسلمت بمكة قديماً، وتُعدّ من السابقين الأولين في الإسلام، وهاجرت إلى الحبشة مع زوجها المطلب بن أزهر.",
+    "en": "Ramlah bint Abi Awf al-Sahmiyyah, daughter of Abu Awf ibn Subayrah ibn Saeed ibn Saad ibn Sahm, accepted Islam early in Mecca and is counted among the first Muslims. She migrated to Abyssinia with her husband al-Muttalib ibn Azhar."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — رملة بنت أبي عوف",
+      "url": "https://ar.wikipedia.org/wiki/رملة_بنت_أبي_عوف"
+    }
+  ]
 },
 {
   "id": "ribee-i-bin-hirash-street",
@@ -17761,17 +17767,23 @@ window.STREETS = [
   "id": "bujair-bin-abi-bujair-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع بجير بن أبي بجير",
   "en": "Bujair Bin Abi Bujair Street",
   "meaning": {
-    "ar": "صحابي من بني عبس من غطفان",
-    "en": "A Companion of the Banu Abs of Ghatafan"
+    "ar": "صحابي شهد بدراً وأحداً",
+    "en": "A Companion present at Badr and Uhud"
   },
   "story": {
-    "ar": "بجير بن أبي بجير العبسي الغطفاني، صحابي من بني عبس من غطفان، ولم يُعثر على ترجمة منشورة مفصّلة له.",
-    "en": "Bujayr ibn Abi Bujayr al-Absi al-Ghatafani was a Companion of the Banu Abs of Ghatafan; no detailed published biography of him was found."
-  }
+    "ar": "بُجَير بن أبي بُجَير العبسي الغطفاني، صحابي من بني عبس من غطفان، ويُقال إنه من قبيلة جهينة، وكان حليفاً لقبيلة الخزرج من الأنصار، شهد مع النبي محمد ﷺ غزوة بدر وغزوة أحد.",
+    "en": "Bujayr ibn Abi Bujayr al-Absi al-Ghatafani was a Companion of the Banu Abs of Ghatafan, said by some to be of the Juhaynah, and an ally of the Khazraj of the Ansar. He was present with the Prophet Muhammad ﷺ at Badr and Uhud."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — بجير بن أبي بجير",
+      "url": "https://ar.wikipedia.org/wiki/بجير_بن_أبي_بجير"
+    }
+  ]
 },
 {
   "id": "hateb-bin-amr-street",
@@ -17887,17 +17899,23 @@ window.STREETS = [
   "id": "amr-bin-muath-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع عمرو بن معاذ",
   "en": "Amr Bin Muath Street",
   "meaning": {
-    "ar": "صحابي من الأنصار",
-    "en": "A Companion of the Ansar"
+    "ar": "صحابي من الأنصار، قُتل يوم أُحد",
+    "en": "A Companion of the Ansar, killed at Uhud"
   },
   "story": {
-    "ar": "عمرو بن معاذ النعمان الأشهلي الأوسي الأنصاري، صحابي من بني عبد الأشهل من الأوس، ولم يُعثر على ترجمة منشورة مفصّلة له.",
-    "en": "Amr ibn Muadh al-Numan al-Ash-hali al-Awsi al-Ansari was a Companion of the Banu Abd al-Ashhal of the Aws; no detailed published biography of him was found."
-  }
+    "ar": "أبو عثمان عمرو بن معاذ بن النعمان الأشهلي الأوسي الأنصاري (٢٩ ق.هـ – ٣هـ / ٥٩٣ – ٦٢٥م)، صحابي من بني عبد الأشهل من قبيلة الأوس، وأخو الصحابي سعد بن معاذ، شهد مع النبي محمد ﷺ بدراً وأحداً، وقُتل يوم أُحد شهيداً.",
+    "en": "Abu Uthman Amr ibn Muadh ibn al-Numan al-Ash-hali al-Awsi al-Ansari (29 BH – 3 AH / 593–625 AD) was a Companion of the Banu Abd al-Ashhal of the Aws and brother of the Companion Saad ibn Muadh. He was present with the Prophet Muhammad ﷺ at Badr and Uhud, and was killed at Uhud."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عمرو بن معاذ",
+      "url": "https://ar.wikipedia.org/wiki/عمرو_بن_معاذ"
+    }
+  ]
 },
 {
   "id": "amer-bin-salamah-street",
@@ -18035,17 +18053,23 @@ window.STREETS = [
   "id": "malik-bin-zama-a-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع مالك بن زمعة",
   "en": "Malik Bin Zama'a Street",
   "meaning": {
-    "ar": "صحابي من السابقين إلى الإسلام",
-    "en": "A Companion among the earliest Muslims"
+    "ar": "صحابي، أخو أم المؤمنين سودة",
+    "en": "A Companion, brother of Sawdah, Mother of the Believers"
   },
   "story": {
-    "ar": "مالك بن زمعة القرشي العامري الكناني، صحابي من السابقين إلى الإسلام، ولم يُعثر على ترجمة منشورة مفصّلة له.",
-    "en": "Malik ibn Zamah al-Qurashi al-Ameri al-Kinani was a Companion among the earliest to accept Islam; no detailed published biography of him was found."
-  }
+    "ar": "مالك بن زمعة القرشي العامري الكناني، صحابي من السابقين إلى الإسلام، وهو أخو أم المؤمنين سودة بنت زمعة، هاجر إلى أرض الحبشة في الهجرة الثانية ومعه امرأته عميرة بنت السعدي، وتوفي وليس له عقب.",
+    "en": "Malik ibn Zamah al-Qurashi al-Ameri al-Kinani was a Companion among the earliest Muslims and the brother of Sawdah bint Zamah, Mother of the Believers. He migrated to Abyssinia in the second migration with his wife Umayrah bint al-Sadi, and died leaving no descendants."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — مالك بن زمعة",
+      "url": "https://ar.wikipedia.org/wiki/مالك_بن_زمعة"
+    }
+  ]
 },
 {
   "id": "ma-aqal-bin-al-munther-street",
@@ -18293,17 +18317,23 @@ window.STREETS = [
   "id": "mu-teb-bin-ouf-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع معتب بن عوف",
   "en": "Mu'teb Bin Ouf Street",
   "meaning": {
-    "ar": "صحابي، يُعرف بمعتب بن الحمراء",
-    "en": "A Companion, known as Mutib ibn al-Hamra"
+    "ar": "صحابي شهد الغزوات كلها",
+    "en": "A Companion present at every campaign"
   },
   "story": {
-    "ar": "معتب بن عوف الخزاعي، المعروف بمعتب بن الحمراء، صحابي، هاجر إلى الحبشة ثم إلى المدينة، وشهد المشاهد مع النبي محمد ﷺ.",
-    "en": "Mutib ibn Awf al-Khuza'i, known as Mutib ibn al-Hamra, was a Companion who migrated to Abyssinia and then to Medina, and was present at the campaigns with the Prophet Muhammad ﷺ."
-  }
+    "ar": "مُعَتِّب بن عوف الخزاعي، المعروف بمعتب بن الحمراء (ت ٥٧هـ)، صحابي كان حليفاً لبني مخزوم، أسلم قديماً وهاجر إلى الحبشة، ثم هاجر إلى يثرب ونزل على مبشر بن عبد المنذر، وآخى النبي محمد ﷺ بينه وبين ثعلبة بن حاطب، وشارك في غزواته كلها.",
+    "en": "Mutib ibn Awf al-Khuza'i, known as Mutib ibn al-Hamra (d. 57 AH), was a Companion and an ally of the Banu Makhzum. He accepted Islam early, migrated to Abyssinia and then to Yathrib, where he stayed with Mubashshir ibn Abd al-Mundhir; the Prophet Muhammad ﷺ made him a brother of Thalabah ibn Hatib, and he took part in all his campaigns."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — معتب بن عوف",
+      "url": "https://ar.wikipedia.org/wiki/معتب_بن_عوف"
+    }
+  ]
 },
 {
   "id": "mohammed-al-khamis-street",
@@ -18353,17 +18383,23 @@ window.STREETS = [
   "id": "oqbah-bin-wahab-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع عقبة بن وهب",
   "en": "Oqbah Bin Wahab Street",
   "meaning": {
-    "ar": "صحابي غطفاني",
-    "en": "A Companion of Ghatafan"
+    "ar": "من السبعين الذين بايعوا ليلة العقبة",
+    "en": "One of the seventy who pledged at al-Aqabah"
   },
   "story": {
-    "ar": "عقبة بن وهب بن كلدة الغطفاني، صحابي، ولم يُعثر على ترجمة منشورة مفصّلة له.",
-    "en": "Uqbah ibn Wahb ibn Kaladah al-Ghatafani was a Companion; no detailed published biography of him was found."
-  }
+    "ar": "عقبة بن وهب بن كلدة الغطفاني، من بني عبد الله بن غطفان، صحابي من السبعين الذين بايعوا النبي محمد ﷺ ليلة العقبة، شهد العقبتين وغزوة بدر وغزوة أحد.",
+    "en": "Uqbah ibn Wahb ibn Kaladah al-Ghatafani, of the Banu Abdullah ibn Ghatafan, was a Companion among the seventy who gave their pledge to the Prophet Muhammad ﷺ at al-Aqabah. He was present at both Aqabah pledges, at Badr and at Uhud."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عقبة بن وهب",
+      "url": "https://ar.wikipedia.org/wiki/عقبة_بن_وهب"
+    }
+  ]
 },
 {
   "id": "oqbah-bin-othman-street",
@@ -18435,17 +18471,23 @@ window.STREETS = [
   "id": "rab-ay-bin-rafe-h-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع ربعي بن رافع",
   "en": "Rab'ay Bin Rafe'h Street",
   "meaning": {
-    "ar": "صحابي من قبيلة بلي",
-    "en": "A Companion of the Bali tribe"
+    "ar": "صحابي من بلي شهد بدراً",
+    "en": "A Companion of Bali, present at Badr"
   },
   "story": {
-    "ar": "ربعي بن رافع البلوي، صحابي من قبيلة بلي، وكان حليفاً لبني عمرو بن عوف، ولم يُعثر على ترجمة منشورة مفصّلة له.",
-    "en": "Rab'i ibn Rafi al-Balawi was a Companion of the Bali tribe and an ally of the Banu Amr ibn Awf; no detailed published biography of him was found."
-  }
+    "ar": "ربعي بن رافع بن زيد بن حارثة البلوي، صحابي جليل من قبيلة بلي، وكان حليفاً لبني عمرو بن عوف من الأوس، شهد مع النبي محمد ﷺ غزوة بدر. وقال ابن عبد البر: «حليف لبني عمرو بن عوف شهد بدراً».",
+    "en": "Rab'i ibn Rafi ibn Yazid ibn Harithah al-Balawi was a Companion of the Bali tribe and an ally of the Banu Amr ibn Awf of the Aws. He was present with the Prophet Muhammad ﷺ at Badr; Ibn Abd al-Barr wrote: «an ally of the Banu Amr ibn Awf, present at Badr»."
+  },
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — ربعي بن رافع",
+      "url": "https://ar.wikipedia.org/wiki/ربعي_بن_رافع"
+    }
+  ]
 },
 {
   "id": "okasha-bin-thour-street",
