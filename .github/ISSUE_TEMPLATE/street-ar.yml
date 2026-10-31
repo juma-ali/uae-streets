@@ -1,0 +1,89 @@
+name: اقتراح شارع (العربية)
+description: اقترح شارعاً يستحق أن يُضاف إلى الدليل
+title: "[شارع]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## المصدر شرط أساسي
+
+        **لا يُنظر في أي اقتراح دون مصدر عام يمكن التحقق منه.** الدليل مبني على
+        أدلة مصنّفة: كل مدخل إما «موثّق» أو «رواية محلية». والاقتراح بلا مصدر لا
+        يمكن وضعه في أي من الفئتين.
+
+        **المصادر المقبولة:** كتاب أو بحث أكاديمي، أرشيف صحفي، إصدار بلدي أو وزاري،
+        خريطة رسمية.
+        **غير المقبولة:** منشورات شبكات التواصل، المدونات بلا مصادر، الذاكرة الشخصية.
+
+  - type: input
+    id: street_ar
+    attributes:
+      label: اسم الشارع (بالعربية)
+      description: كما هو مكتوب على اللوحة، مع «شارع» إن وردت فيها.
+      placeholder: شارع الوصل
+    validations:
+      required: true
+
+  - type: input
+    id: street_en
+    attributes:
+      label: اسم الشارع (بالإنجليزية)
+      description: الصيغة الشائعة بالإنجليزية، إن وُجدت.
+      placeholder: Al Wasl Road
+    validations:
+      required: true
+
+  - type: dropdown
+    id: emirate
+    attributes:
+      label: الإمارة
+      options:
+        - أبوظبي
+        - دبي
+        - الشارقة
+        - عجمان
+        - أم القيوين
+        - رأس الخيمة
+        - الفجيرة
+        - لا أعرف
+    validations:
+      required: true
+
+  - type: input
+    id: area
+    attributes:
+      label: المنطقة أو الحي
+      description: أين يمرّ الشارع، إن كنت تعرف.
+      placeholder: جميرا ١
+
+  - type: textarea
+    id: naming
+    attributes:
+      label: على اسم ماذا سُمّي؟
+      description: الشخص أو القبيلة أو المكان أو الكلمة أو الحدث الذي يحمله الاسم — ولماذا يهم.
+      placeholder: سُمّي على اسم …
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: المصدر
+      description: رابط، أو توثيق كامل (المؤلف، العنوان، السنة، الصفحة). يجب أن يكون عاماً ويمكن لغيره التحقق منه.
+      placeholder: "https://… أو: المؤلف، العنوان، الناشر، السنة، صفحة …"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: قبل الإرسال
+      options:
+        - label: هذا الشارع موجود ويحمل هذا الاسم اليوم.
+          required: true
+        - label: الكتابة العربية مطابقة للوحة أو لخرائط البلدية.
+          required: true
+        - label: مصدري عام ويمكن التحقق منه — وليس منشوراً على شبكة اجتماعية أو ذاكرة شخصية.
+          required: true
+        - label: أتفهّم أن الاقتراح الناقص قد يُغلق دون إجراء.
+          required: true

@@ -1,0 +1,90 @@
+name: Street suggestion
+description: Propose a street that belongs in the guide
+title: "[Street]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## A public, checkable source is required
+
+        Suggestions without a source are **closed without action**. The guide is
+        built on labelled evidence: every entry is either `documented` (on the
+        record) or `local` (a widely told account). A suggestion with no source
+        cannot be placed in either category.
+
+        **Good sources:** a book or academic paper, a newspaper archive, a
+        municipality or ministry publication, an official map.
+        **Not sources:** social media posts, unsourced blogs, personal recollection.
+
+  - type: input
+    id: street_ar
+    attributes:
+      label: Street name (Arabic)
+      description: Exactly as written on the sign, including شارع if it appears there.
+      placeholder: شارع الوصل
+    validations:
+      required: true
+
+  - type: input
+    id: street_en
+    attributes:
+      label: Street name (English)
+      description: The form normally used in English, if there is one.
+      placeholder: Al Wasl Road
+    validations:
+      required: true
+
+  - type: dropdown
+    id: emirate
+    attributes:
+      label: Emirate
+      options:
+        - Abu Dhabi
+        - Dubai
+        - Sharjah
+        - Ajman
+        - Umm Al Quwain
+        - Ras Al Khaimah
+        - Fujairah
+        - Not sure
+    validations:
+      required: true
+
+  - type: input
+    id: area
+    attributes:
+      label: Area or district
+      description: Where the street runs, if you know it.
+      placeholder: Jumeirah 1
+
+  - type: textarea
+    id: naming
+    attributes:
+      label: What is it named after?
+      description: The person, tribe, place, word or event behind the name — and why it matters.
+      placeholder: Named after …
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link, or a full citation (author, title, year, page). It must be public and checkable by someone else.
+      placeholder: "https://… or: Author, Title, Publisher, year, page N"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before submitting
+      options:
+        - label: This street exists and carries this name today.
+          required: true
+        - label: The Arabic spelling matches the sign or the municipality's maps.
+          required: true
+        - label: My source is public and checkable — not a social media post or personal recollection.
+          required: true
+        - label: I understand that an incomplete suggestion may be closed without action.
+          required: true
