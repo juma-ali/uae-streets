@@ -1,5 +1,12 @@
 name: checks
 
+# What can run on a public checkout.
+#
+# data/kb.js, tools/audit.mjs and tools/validate-forms.mjs are build-time
+# artefacts that are deliberately not published, so those jobs are skipped
+# unless the files are present. Without this they fail on every push for a
+# reason that has nothing to do with the change.
+
 on:
   push:
   pull_request:
@@ -19,21 +26,23 @@ jobs:
       - name: Lint Arabic
         run: node tools/arabic-lint.mjs --fail
 
-      # Informational: lists entries whose Arabic changed since it was
-      # approved. Never fails — it is a reading list, not a gate.
       # Cards about public figures must stay neutral and factual.
       - name: Editorial policy
         run: node tools/editorial-lint.mjs --fail
 
+      # Informational: lists entries whose Arabic changed since it was
+      # approved. Never a gate — it is a reading list.
       - name: Arabic review queue
-        run: node tools/arabic-review.mjs
+        run: node tools/arabic-review.mjs || true
 
       # Issue forms break silently if their YAML is wrong: the "New issue"
       # page simply stops rendering the templates.
       - name: Install js-yaml
+        if: hashFiles('tools/validate-forms.mjs') != ''
         run: npm install --no-save --no-audit --no-fund js-yaml@4
 
       - name: Validate issue forms
+        if: hashFiles('tools/validate-forms.mjs') != ''
         run: node tools/validate-forms.mjs
 
   kb:
@@ -48,5 +57,8 @@ jobs:
       # Guards the invariants this project established: the OSM UAE naming
       # convention, the plot-number filter, unique OSM ids, coordinates,
       # known emirates, and districts that streets actually reference.
+      # hashFiles needs the workspace, which is why this condition sits on the
+      # step and not on the job.
       - name: Knowledge base assertions
+        if: hashFiles('data/kb.js') != ''
         run: node tools/audit.mjs --assert
