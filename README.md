@@ -14,7 +14,8 @@ Two halves of one dataset:
 - **The directory** lists them: every named street collected from OpenStreetMap,
   grouped **emirate → city → town → district**, and searchable in either language.
 
-Both are plain static pages. No framework, no build step, no trackers.
+Both are plain static pages. No framework, no build step, no cookies and no individual
+tracking — only an anonymous count of page views.
 
 **بالعربية:** دليل لأسماء شوارع الإمارات — أصولها ومعانيها ومن وراءها — وقائمة بكل
 شارع مسمّى في الدولة، مرتّبة إمارة ← مدينة ← بلدة ← حي، وبحث يتعامل مع الكتابة العربية
@@ -45,12 +46,12 @@ quiet.
 |---|---|
 | Named streets | 11,246 |
 | Districts | 456 |
-| Cards with a written story | 1,682 |
-| — sourced to a published reference | 614 |
-| — recorded accounts | 27 |
-| — recorded and nothing claimed | 1,041 |
-| Streets that carry a meaning | 6,775 |
-| Streets with a route number | 6,530 |
+| Cards with a written story | 8,267 |
+| — sourced to a published reference | 1,056 |
+| — recorded accounts | 6,610 |
+| — recorded and nothing claimed | 601 |
+| Streets that carry a meaning | 6,776 |
+| Streets with a route number | 387 |
 | Directory pages | 347 |
 
 ## How a name is written up
@@ -69,16 +70,16 @@ card, not a correction.
 ```
 index.html          the guide
 roads.html          the browsable index of streets
-assets/             one stylesheet, two scripts
-data/               streets.js · cards.js · hierarchy.js · glossary · version.json
+privacy.html        what is collected and what is not
+assets/             two stylesheets, three scripts, self-hosted fonts
+data/               streets.js · cards.js · coords.js · hierarchy.js · glosses · version.json · visits.json
 directory/          347 generated pages: emirates, districts, street tables, search
-tools/              the build chain and the linters
-research/           source notes: what was found, what is print-only, what failed
 ```
 
-The build is a chain of plain Node scripts — `classify` → `cards-build` → `wiki-build`
-— over a knowledge base assembled from OpenStreetMap and the offline PBF import. Two
-linters guard the prose: one for Arabic typography, one for editorial policy.
+The pages are generated from a knowledge base assembled from OpenStreetMap. The build
+chain and the source notes are kept outside this repository, which carries only what
+the site serves. Two linters guard the prose — one for Arabic typography, one for
+editorial policy — and run before anything is published.
 
 ## Sources and licence
 
