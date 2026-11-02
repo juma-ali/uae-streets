@@ -20894,18 +20894,23 @@ window.STREETS = [
   "id": "abdullah-bin-abi-rabee-ah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن أبي ربيعة",
   "en": "Abdullah Bin Abi Rabee'ah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي، ووالي اليمن في عهد عمر وعثمان",
+    "en": "A Companion, and governor of Yemen under Umar and Uthman"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن أبي ربيعة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن أبي ربيعة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالله بن أبي ربيعة بن المغيرة القرشي المخزومي، واسمه في الجاهلية بُجَير، أسلم يوم فتح مكة فسمّاه النبي محمد ﷺ عبدالله. ولاّه النبي ﷺ الجَنَد ونواحيها، ثم ولاّه عمر صنعاء والجَنَد، وأقرّه عثمان. ولما حُصر عثمان جاء لنصره فكُسرت فخذه، فجهّز من مكة من خرج في طلب دم عثمان حتى مات. وهو والد الشاعر عمر بن أبي ربيعة.",
+    "en": "Abdullah ibn Abi Rabia ibn al-Mughira al-Qurashi al-Makhzumi, whose name before Islam was Bujayr, accepted Islam at the conquest of Mecca and the Prophet Muhammad ﷺ named him Abdullah. The Prophet appointed him over al-Janad and its districts, Umar appointed him over Sanaa and al-Janad, and Uthman confirmed him. When Uthman was besieged he came to his aid and his thigh was broken; from Mecca he equipped those who set out seeking blood for Uthman, until he died. He was the father of the poet Umar ibn Abi Rabia."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الله بن أبي ربيعة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%B1%D8%A8%D9%8A%D8%B9%D8%A9"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-ahmed-al-otaiba-street",
