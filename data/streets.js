@@ -13025,18 +13025,31 @@ window.STREETS = [
   "id": "rashed-bin-mubarak-almansoori",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع راشد بن مبارك المنصوري",
   "en": "Rashed Bin Mubarak Almansoori Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "من أعيان غيّاثي، والأمين العام لهيئة الهلال الأحمر الإماراتي",
+    "en": "A notable of Ghayathi, and Secretary-General of the Emirates Red Crescent"
   },
   "story": {
-    "en": "The street carries the name of راشد بن مبارك المنصوري. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم راشد بن مبارك المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "راشد مبارك علي المنصوري، من أعيان مدينة غيّاثي في منطقة الظفرة. كان نائباً للأمين العام لقطاع الشؤون المحلية في هيئة الهلال الأحمر الإماراتي سنة ٢٠١٩، ثم أميناً عاماً للهيئة، وترأس وفدها في المؤتمر الدولي بجنيف سنة ٢٠٢٤. وزاره الشيخ حمدان بن زايد آل نهيان في منزله بغياثي.",
+    "en": "Rashid Mubarak Ali al-Mansoori, a notable of Ghayathi in the Al Dhafra region. He was deputy secretary-general for local affairs at the Emirates Red Crescent in 2019, later secretary-general of the authority, and led its delegation at the international conference in Geneva in 2024. Sheikh Hamdan bin Zayed Al Nahyan visited him at his home in Ghayathi."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الاتحاد — الإمارات تجدد التزامها بمسؤوليتها الإنسانية (ترأس وفد الهلال الأحمر، ٢٠٢٤)",
+      "url": "https://www.aletihad.ae/news/%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa/4527733/"
+    },
+    {
+      "label": "الاتحاد — حمدان بن زايد يزور راشد مبارك المنصوري في غياثي",
+      "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/4676680/"
+    },
+    {
+      "label": "البلاد — نائب الأمين العام لقطاع الشؤون المحلية (٢٠١٩)",
+      "url": "https://www.elbalad.news/4013689"
+    }
+  ]
 },
 {
   "id": "rashid-bin-daafous-al-mazrouei",
