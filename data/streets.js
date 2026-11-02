@@ -20673,18 +20673,27 @@ window.STREETS = [
   "id": "abayah-bin-rib-ee-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عباية بن رِبعِي",
   "en": "Abayah Bin Rib'ee Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "راوٍ من أهل الكوفة، روى عن عمر وعلي",
+    "en": "A narrator of Kufa, who related from Umar and Ali"
   },
   "story": {
-    "en": "The street carries the name of عباية بن رِبعِي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عباية بن رِبعِي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عباية بن رِبعي الأسدي، من أهل الكوفة. عدّه ابن سعد في الطبقة التي روت عن عمر بن الخطاب وعلي بن أبي طالب، وقال: «روى عن عمر وعلي، وكان قليل الحديث». وروى عنه موسى بن طريف، وترجم له ابن حجر في «لسان الميزان» في باب «من اسمه عباية».",
+    "en": "Abaya ibn Rib'i al-Asadi, of Kufa. Ibn Sa'd counts him among the generation that related from Umar ibn al-Khattab and Ali ibn Abi Talib, and writes: “He related from Umar and Ali, and had few hadith.” Musa ibn Tarif related from him, and Ibn Hajar gives him an entry in Lisan al-Mizan, in the chapter “Those named Abaya”."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "الطبقات الكبرى — ابن سعد، ترجمة عباية بن ربعي",
+      "url": "https://shamela.ws/book/9351/2575"
+    },
+    {
+      "label": "لسان الميزان — ابن حجر، من اسمه عباية",
+      "url": "https://shamela.ws/book/12063/1484"
+    }
+  ]
 },
 {
   "id": "abd-al-as-hal-iyas-bin-aws-street",
