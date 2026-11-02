@@ -21142,18 +21142,23 @@ window.STREETS = [
   "id": "abdullah-bin-tha-labah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن ثعلَبة",
   "en": "Abdullah Bin Tha'labah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي من بَلِيّ، حليف الأنصار، شهد بدراً وأُحداً",
+    "en": "A Companion of the Bali tribe, ally of the Ansar, present at Badr and Uhud"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن ثعلَبة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن ثعلَبة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالله بن ثَعلَبة بن خَزْمة البلوي، من قبيلة بَلِيّ، وكان حليفاً للخزرج من الأنصار. شهد مع النبي محمد ﷺ غزوة بدر وغزوة أُحد، وهو أخو الصحابي بَحّاث بن ثعلبة. ويسرد ابن الكلبي نسبه إلى بَلِيّ بن عمرو.",
+    "en": "Abdullah ibn Thalaba ibn Khazma al-Balawi, of the Bali tribe, was an ally of the Khazraj of the Ansar. He was present with the Prophet Muhammad ﷺ at Badr and at Uhud, and was the brother of the Companion Bahhath ibn Thalaba. The genealogy is given up to Bali ibn Amr."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الله بن ثعلبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%AB%D8%B9%D9%84%D8%A8%D8%A9"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-thabit-street",
