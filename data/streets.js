@@ -143009,22 +143009,6 @@ window.STREETS = [
   }
 },
 {
-  "id": "al-thamaneen-street",
-  "emirate": "dubai",
-  "category": "word",
-  "origin": "account",
-  "ar": "شارع الثمانين",
-  "en": "Al Thamaneen Street",
-  "meaning": {
-    "ar": "«الثمانين»: العدد ٨٠",
-    "en": "Al Thamaneen: eighty"
-  },
-  "story": {
-    "ar": "تُقرأ «الثمانين» عدداً هو ثمانون. ويمر الشارع في مرسى دبي، دبي.",
-    "en": "«Al Thamaneen» reads as the number eighty. You will find the street in Dubai Marina, Dubai."
-  }
-},
-{
   "id": "ath-thumoumah-street",
   "emirate": "abu-dhabi",
   "category": "word",
