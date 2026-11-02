@@ -180,7 +180,7 @@
   });
 
   var state = { lang: "en", q: "", emirate: "all", region: "all", category: "all", origin: "all", district: "all",
-    town: "all", showRoads: false, limit: 24, nearby: null };
+    town: "all", showRoads: false, limit: 24, nearby: null, shuffleSeed: null };
   var storyDistrict = {};
   var results = [];
   var lastRoads = [];
@@ -206,6 +206,12 @@
   }
 
   function orderResults(arr) {
+    /* The shuffle button reorders whatever the current filters leave — a pure
+       ordering, unlike the opening view, which puts documented cards first. */
+    if (state.shuffleSeed !== null) {
+      var seed = state.shuffleSeed;
+      return arr.slice().sort(function (x, y) { return seededHash(seed + x.id) - seededHash(seed + y.id); });
+    }
     if (!isDefaultView()) return arr;
     return arr.slice().sort(function (x, y) {
       var rx = ORIGIN_RANK[x.origin || "unsourced"];
@@ -226,7 +232,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031AZ";
+    s.src = "data/cards.js?v=20261031BA";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;
@@ -1245,7 +1251,7 @@
       });
     }
     if (resetBtn) {
-      resetBtn.addEventListener("click", function () { state.nearby = null; });
+      resetBtn.addEventListener("click", function () { state.nearby = null; state.shuffleSeed = null; });
       resetBtn.addEventListener("click", function () {
         state.q = ""; state.emirate = "all"; state.category = "all"; state.origin = "all"; state.district = "all";
         state.showRoads = false;
@@ -1320,6 +1326,17 @@
           else if (code === 3) say(nearLabel("انتهت مدة التحديد. أعد المحاولة.", "Locating timed out. Try again."), true);
           else say(nearLabel("تعذّر تحديد الموقع.", "The location could not be read."), true);
         }, { enableHighAccuracy: true, timeout: 15000, maximumAge: 60000 });
+      });
+    }
+
+    var randomBtn = $("#randomize");
+    if (randomBtn) {
+      randomBtn.addEventListener("click", function () {
+        state.shuffleSeed = Math.floor(Math.random() * 1e9);
+        state.limit = PAGE;
+        update(true);
+        var streets = $("#streets");
+        if (streets && streets.scrollIntoView) streets.scrollIntoView({ behavior: "smooth", block: "start" });
       });
     }
 
