@@ -533,6 +533,16 @@ html[dir="rtl"] .eg-en { text-align: right; }
 .footer__ext { font-size: .85em; opacity: .6; }
 /* ↗ points up-and-right; in RTL the "forward" direction is left, so mirror it. */
 html[dir="rtl"] .footer__ext { display: inline-block; transform: scaleX(-1); }
+
+/* The disclosure line: quieter than the base row, and it wraps widely. */
+.footer__ai {
+  margin: 0 0 1.1rem;
+  max-width: 62ch;
+  font-size: .82rem;
+  line-height: 1.65;
+  opacity: .62;
+}
+
 .footer__base {
   display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
   margin-block-start: 2.6rem; padding-block-start: 1.2rem;
