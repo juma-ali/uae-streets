@@ -18,3 +18,6 @@ package-lock.json
 *.exe
 *.msi
 *.dmg
+
+# local research archive: the DMT founding-UAE photos and texts
+archive/
