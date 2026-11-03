@@ -138511,17 +138511,23 @@ window.STREETS = [
   "id": "naymrou-street",
   "emirate": "abu-dhabi",
   "category": "place",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع نَيمرُو",
   "en": "Naymrou Street",
   "meaning": {
-    "ar": "«نَيمرُو»: نمر صغير",
-    "en": "Naymrou: a small leopard or tiger"
+    "ar": "نَيمرُو: لفظ مغاربي بمعنى «رقم»، ويُطلق على قطعة الأرض المرقّمة",
+    "en": "naymrou — a Maghrebi dialect word for “number”, used of a numbered plot of land"
   },
   "story": {
-    "ar": "«نَيمرُو» نمر صغير، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في زاخِر، أبوظبي.",
-    "en": "«Naymrou» is a small leopard or tiger, and the name is taken from the word itself. The name is taken from a place name, and the street lies in Zakhir, Abu Dhabi."
-  }
+    "ar": "«نَيمرُو» لفظ من اللهجات المغاربية، وبخاصة الحسانية في موريتانيا والجزائر، بمعنى «رقم»، ويُستعمل في تسمية قطع الأرض المرقّمة: يُقال «نيمرو للبيع» أي قطعة أرض مرقّمة. وهو ليس من الفصحى. والشارع يحمل هذا الاسم في زاخِر بأبوظبي.",
+    "en": "«Naymrou» is a Maghrebi dialect word — chiefly Hassaniya in Mauritania and Algeria — meaning “number”, used of numbered plots of land: «نيمرو للبيع» is a numbered plot for sale. It is not a classical Arabic word. The street carries this name in Zakhir, Abu Dhabi."
+  },
+  "refs": [
+    {
+      "label": "Voursa — سوق موريتاني، إعلان «نيمرو للبيع» (قطعة أرض مرقّمة)",
+      "url": "https://voursa.com/AR/categories/real_estate/ads/%d9%86%d9%8a%d9%85%d8%b1%d9%88-%d9%84%d9%84%d8%a8%d9%8a%d8%b9--f560"
+    }
+  ]
 },
 {
   "id": "hadeer-street",
