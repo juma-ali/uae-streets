@@ -125641,17 +125641,23 @@ window.STREETS = [
   "id": "al-ghalla-street",
   "emirate": "umm-al-quwain",
   "category": "place",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع الغلة",
   "en": "Al Ghalla Street",
   "meaning": {
-    "ar": "«الغلة»: غلة",
-    "en": "Al Ghalla: yield"
+    "ar": "الغُلَّة: ما تخرجه الأرض من زرع وثمر",
+    "en": "the produce of the land — crops"
   },
   "story": {
-    "ar": "«الغلة» غلة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الدار البيضاء، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
-    "en": "«Al Ghalla» is a yield, and the name is taken from the word itself. It is a street in Al Dar Al Baidah, the name taken from a place name in the Emirate of Umm Al Quwain."
-  }
+    "ar": "«الغُلَّة» ما تخرجه الأرض من زرع وثمر، أي المحاصيل التي تُجتنى منها. والشارع يحمل هذا الاسم في الدار البيضاء بأم القيوين.",
+    "en": "«Al Ghullah» is what the land brings forth — the crops gathered from it. The street carries this name in Al Dar Al Bayda, Umm Al Quwain."
+  },
+  "refs": [
+    {
+      "label": "المعاني — غَلَّة",
+      "url": "https://www.almaany.com/ar/dict/ar-ar/%D8%BA%D9%84%D8%A9/"
+    }
+  ]
 },
 {
   "id": "al-ghamam-street",
