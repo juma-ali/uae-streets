@@ -104677,33 +104677,53 @@ window.STREETS = [
   "id": "al-ghalah-street",
   "emirate": "abu-dhabi",
   "category": "place",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع الغالة",
   "en": "Al Ghalah Street",
   "meaning": {
-    "ar": "«الغالة»: الغالية، نوع من الطيب",
-    "en": "Al Ghalah: a fine perfume"
+    "ar": "الغَالّة: ما ينقطع من ساحل البحر فيجتمع في موضع",
+    "en": "what breaks off the seashore and collects in one place"
   },
   "story": {
-    "ar": "«الغالة» الغالية، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في آل نَهيان من إمارة أبوظبي.",
-    "en": "«Al Ghalah» is a fine perfume, and the name is taken from the word itself. The name is attributed to a site, and the street lies in Al Nahyan, in the Emirate of Abu Dhabi."
-  }
+    "ar": "«الغَالّة» ما ينقطع من ساحل البحر فيجتمع في موضع، وهي من ألفاظ الساحل في «المعجم الوسيط». والشارع يحمل هذا الاسم في آل نهيان بأبوظبي.",
+    "en": "«Al Ghallah» is what breaks off from the seashore and gathers in one place, a coastal word in al-Mu'jam al-Wasit. The street carries this name in Al Nahyan, Abu Dhabi."
+  },
+  "refs": [
+    {
+      "label": "مجمع اللغة العربية بالقاهرة — المعجم الوسيط، مادة «الغالّة»",
+      "url": "https://www.arabicacademy.gov.eg/ar/%D9%85%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/%D8%A7%D9%84%D8%BA%D8%A7%D9%84%D9%91%D8%A9%D9%8F?exact_search=true"
+    },
+    {
+      "label": "المعاني — الغالة",
+      "url": "https://www.almaany.com/ar/dict/ar-ar/%D8%A7%D9%84%D8%BA%D8%A7%D9%84%D8%A9/"
+    }
+  ]
 },
 {
   "id": "al-ghala-street",
   "emirate": "dubai",
   "category": "place",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع الغاله",
   "en": "Al Ghala Street",
   "meaning": {
-    "ar": "«الغاله»: الغالية، نوع من الطيب",
-    "en": "Al Ghala: a fine perfume"
+    "ar": "الغَالّة: ما ينقطع من ساحل البحر فيجتمع في موضع",
+    "en": "what breaks off the seashore and collects in one place"
   },
   "story": {
-    "ar": "الاسم «الغاله» الغالية، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في جميرا بإمارة دبي، والاسم من أسماء المواضع.",
-    "en": "The name «Al Ghala» is a fine perfume and is not compound. Streets carrying this name lie in Jumeirah, Dubai."
-  }
+    "ar": "«الغَالّة» ما ينقطع من ساحل البحر فيجتمع في موضع، وهي من ألفاظ الساحل التي وردت في «المعجم الوسيط» عند مادة «غلل». والشارع يحمل هذا الاسم في جميرا بدبي.",
+    "en": "«Al Ghallah» is what breaks off from the seashore and gathers in one place — a coastal word entered under the root gh-l-l in al-Mu'jam al-Wasit. The street carries this name in Jumeirah, Dubai."
+  },
+  "refs": [
+    {
+      "label": "مجمع اللغة العربية بالقاهرة — المعجم الوسيط، مادة «الغالّة»",
+      "url": "https://www.arabicacademy.gov.eg/ar/%D9%85%D8%AD%D8%B1%D9%83-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB/%D8%A7%D9%84%D8%BA%D8%A7%D9%84%D9%91%D8%A9%D9%8F?exact_search=true"
+    },
+    {
+      "label": "المعاني — الغالة",
+      "url": "https://www.almaany.com/ar/dict/ar-ar/%D8%A7%D9%84%D8%BA%D8%A7%D9%84%D8%A9/"
+    }
+  ]
 },
 {
   "id": "al-ghubaiba-street",
