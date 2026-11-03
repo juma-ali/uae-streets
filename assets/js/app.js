@@ -232,7 +232,7 @@
     if (roadsLoading) return;
     roadsLoading = true;
     var s = document.createElement("script");
-    s.src = "data/cards.js?v=20261031BJ";
+    s.src = "data/cards.js?v=20261031BK";
     s.onload = function () {
       ROADS = window.ROADS || null;
       roadsLoading = false;

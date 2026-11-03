@@ -152431,5 +152431,8757 @@ window.STREETS = [
     "ar": "في «اللحظات» جمعٌ لـ«لحظة»، وهي اللحظات. والشارع في الشهامة، أبوظبي.",
     "en": "Plural of lahzhah — moments: that is «Al Lahadhat». You will find the street in Al Shahamah, Abu Dhabi."
   }
+},
+{
+  "id": "al-lazeem-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللَّزِيم",
+  "en": "Al Lazeem Street",
+  "meaning": {
+    "ar": "اللزيم: اللازم والملازم، والخادم الملازم",
+    "en": "the adherent one; a servant who stays close"
+  },
+  "story": {
+    "ar": "«اللَّزِيم» اللازم والملازم، والخادم الملازم. والشارع يحمل هذا الاسم في الفلاح، أبوظبي.",
+    "en": "Adherent one, a servant who stays close: that is «Al Lazeem». The street is in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-lizeemah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللِّزِيمة",
+  "en": "Al Lizeemah Street",
+  "meaning": {
+    "ar": "«اللِّزِيمة»: القطعة من الإبل أقلها اثنان أو ثلاثة وأكثرها نحو خمسة عشر",
+    "en": "Al Lizeemah: a small herd of camels (two to fifteen)"
+  },
+  "story": {
+    "ar": "«اللِّزِيمة» القطعة من الإبل، أقلها اثنان وأكثرها نحو خمسة عشر. ويقع الشارع في ربدان، أبوظبي.",
+    "en": "Small herd of camels, two to fifteen: that is «Al Lizeemah». This street lies in Rabdan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-lata-if-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللَّطائِف",
+  "en": "Al Lata-if Street",
+  "meaning": {
+    "ar": "اللطائف: جمع لطيفة، وهي الأشياء اللطيفة الرقيقة",
+    "en": "delicacies, fine subtleties (plural of latifa)"
+  },
+  "story": {
+    "ar": "«اللَّطائِف» جمع «لطيفة»، وهي الأشياء اللطيفة الرقيقة. والشارع في هِيلِي، أبوظبي.",
+    "en": "Plural of latifah — delicacies and fine subtleties: that is «Al Lata-if». You will find the street in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "al-latayif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللَّطايِف",
+  "en": "Al Latayif Street",
+  "meaning": {
+    "ar": "«اللَّطايِف»: جمع لطيفة",
+    "en": "Al Latayif: delicacies, kindnesses"
+  },
+  "story": {
+    "ar": "«اللطايف» جمع «لطيفة» على رسمٍ بديل. ويمر الشارع في بني ياس، أبوظبي.",
+    "en": "Variant plural of latifah — delicacies and kindnesses: that is «Al Latayif». The street runs in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "al-lutf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللُّطْف",
+  "en": "Al Lutf Street",
+  "meaning": {
+    "ar": "اللطف: الرفق والرأفة والعناية اللطيفة",
+    "en": "gentleness, kindness, subtle grace"
+  },
+  "story": {
+    "ar": "«اللُّطْف» الرفق والرأفة والعناية اللطيفة. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "«Al Lutf» means gentleness, kindness and subtle grace. The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-lughat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللغات",
+  "en": "Al Lughat Street",
+  "meaning": {
+    "ar": "«اللغات»: جمع لغة",
+    "en": "Al Lughat: languages"
+  },
+  "story": {
+    "ar": "«اللغات» جمع «لغة»، وهي اللغات. ويقع الشارع في نِعْمة، أبوظبي.",
+    "en": "Plural of lughah — languages: that is «Al Lughat». This street is in Ni'mah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-laqaya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللقايا",
+  "en": "Al Laqaya Street",
+  "meaning": {
+    "ar": "اللقايا: جمع لَقيّة، وهي ما يُلتقط من الشيء",
+    "en": "things picked up or gathered (plural of laqiyya)"
+  },
+  "story": {
+    "ar": "تُسمّى «اللقايا» جمع «لَقيّة»، وهي ما يُلتقط من الشيء. والشارع في المَقَام، أبوظبي.",
+    "en": "Plural of laqiyyah — things picked up or gathered: that is «Al Laqaya». You will find the street in Al Maqam, Abu Dhabi."
+  }
+},
+{
+  "id": "al-lammah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللَّمَّة",
+  "en": "Al Lammah Street",
+  "meaning": {
+    "ar": "اللمة: الجماعة من الناس الملتمة؛ ورملة ملتفّة من الرمال",
+    "en": "a gathered group of people; a mass of sand dunes"
+  },
+  "story": {
+    "ar": "«اللمة» الجماعة من الناس الملتمة، ورملةٌ ملتفّة من الرمال. ويمر الشارع في الخِبِيصِي، أبوظبي.",
+    "en": "Gathered group of people, and a mass of sand dunes: that is «Al Lammah». The street runs in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-lanj-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللّنْج",
+  "en": "Al Lanj Street",
+  "meaning": {
+    "ar": "اللنج: سفينة خشبية شرقية",
+    "en": "a traditional wooden dhow/boat"
+  },
+  "story": {
+    "ar": "«اللنج» سفينةٌ خشبية شرقية. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "Traditional wooden dhow: that is «Al Lanj». The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-layali-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الليالي",
+  "en": "Al Layali Street",
+  "meaning": {
+    "ar": "«الليالي»: جمع ليلة",
+    "en": "Al Layali: nights"
+  },
+  "story": {
+    "ar": "«الليالي» على وزن جمع «ليلة»، وهي الليالي. ويقع الشارع في الشهامة، أبوظبي.",
+    "en": "Plural of laylah — nights: that is «Al Layali». This street is in Al Shahamah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-leefah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اللِـيْفَة",
+  "en": "Al Leefah Street",
+  "meaning": {
+    "ar": "«اللِـيْفَة»: ليف النخل",
+    "en": "Al Leefah: palm fibre"
+  },
+  "story": {
+    "ar": "«اللِـيْفَة» ليفُ النخل. والشارع في جزيرة ياس، أبوظبي.",
+    "en": "Palm fibre: that is «Al Leefah». You will find the street on Yas Island, Abu Dhabi."
+  }
+},
+{
+  "id": "al-ma-athir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَآثِر",
+  "en": "Al Ma-athir Street",
+  "meaning": {
+    "ar": "«المَآثِر»: جمع مأثرة، وهي الآثار الباقية",
+    "en": "traces left behind — the plural of ma'tharah"
+  },
+  "story": {
+    "ar": "يأتي «المَآثِر» جمعاً لـ«مأثرة»، وهي الآثار الباقية. ويمر الشارع في المُعْتَرِض، أبوظبي.",
+    "en": "Plural of ma'tharah — the traces left behind: that is «Al Ma-athir». The street runs in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "al-m-adhan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المأذن",
+  "en": "Al M-adhan Street",
+  "meaning": {
+    "ar": "المأذن: مؤذّن المسجد أو موضع الأذان",
+    "en": "the caller to prayer; the place of the call"
+  },
+  "story": {
+    "ar": "«المأذن» مؤذّنُ المسجد أو موضعُ الأذان. والشارع يحمل هذا الاسم في نِعْمة، أبوظبي.",
+    "en": "Caller to prayer, and the place of the call: that is «Al M-adhan». The street sits in Ni'mah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mu-ayyid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُؤَيِّد",
+  "en": "Al Mu-ayyid Street",
+  "meaning": {
+    "ar": "المؤيد: الأمر العظيم والداهية الشديدة؛ والتأييد: النصرة والمعونة",
+    "en": "a mighty matter; the aided/victorious; support, succour"
+  },
+  "story": {
+    "ar": "«المؤيد» الأمر العظيم والداهية الشديدة، والتأييد النصرة والمعونة. ويقع الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Mighty matter; the root also gives support and succour: that is «Al Mu-ayyid». This street lies in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-madih-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَادِح",
+  "en": "Al Madih Street",
+  "meaning": {
+    "ar": "«المادح»: فاعلٌ من «مَدَح»",
+    "en": "Al Madih: the participle of madaha"
+  },
+  "story": {
+    "ar": "«المادح» فاعلٌ من «مَدَح». والشارع في الخِبِيصِي، أبوظبي.",
+    "en": "Participle of madaha: that is «Al Madih». You will find the street in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manih-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المانح",
+  "en": "Al Manih Street",
+  "meaning": {
+    "ar": "«المانح»: المُعطي المُبخِل بنفعه",
+    "en": "Al Manih: a giver, grantor"
+  },
+  "story": {
+    "ar": "«المانح» المُعطي. ويمر الشارع في رُوْضَة الرِّيْف، أبوظبي.",
+    "en": "«Al Manih» names the giver and grantor. The street runs in Rawdat Al Reef, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mubadir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المبادر",
+  "en": "Al Mubadir Street",
+  "meaning": {
+    "ar": "المبادر: المُبادِر السريع إلى الشيء",
+    "en": "an initiator, one who takes the lead"
+  },
+  "story": {
+    "ar": "«المبادر» المُبادِر السريع إلى الشيء. والشارع يحمل هذا الاسم في الخِبِيصِي، أبوظبي.",
+    "en": "Initiator, one who takes the lead: that is «Al Mubadir». The street sits in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mubadarat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المبادرات",
+  "en": "Al Mubadarat Street",
+  "meaning": {
+    "ar": "المبادرات: جمع مبادرة، وهي الابتداء والسبق",
+    "en": "initiatives (plural of mubadara)"
+  },
+  "story": {
+    "ar": "«المبادرات» جمع «مبادرة»، وهي الابتداء والسبق. ويقع الشارع في الرَّحبة، أبوظبي.",
+    "en": "Plural of mubadarah — initiatives: that is «Al Mubadarat». This street is in Al Rahbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mabadi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَبَادي",
+  "en": "Al Mabadi Street",
+  "meaning": {
+    "ar": "«المَبَادي»: جمع مبدأ، وهي القواعد الأساسية للعلم أو الفن أو القانون",
+    "en": "Al Mabadi: principles, fundamentals (plural of mabda')"
+  },
+  "story": {
+    "ar": "كلمة «المَبَادي» جمع «مبدأ»، وهي القواعد الأساسية. والشارع في البَاهية، أبوظبي.",
+    "en": "Plural of mabda' — principles and fundamentals: that is «Al Mabadi». You will find the street in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mubhir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المبهر",
+  "en": "Al Mubhir Street",
+  "meaning": {
+    "ar": "المبهر: المُدهش",
+    "en": "astounding; heavily spiced"
+  },
+  "story": {
+    "ar": "«المبهر» المُدهش، والمُبَهَّر بكثرة البهار. ويمر الشارع في الخِبِيصِي، أبوظبي.",
+    "en": "«Al Mubhir» means astounding, and heavily spiced. The street runs in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muta-amil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المتأمل",
+  "en": "Al Muta-amil Street",
+  "meaning": {
+    "ar": "المتامل: المُتأمِّل المُتفكِّر",
+    "en": "a contemplator, one who reflects"
+  },
+  "story": {
+    "ar": "«المتامل» المُتأمِّل المُتفكِّر. والشارع يحمل هذا الاسم في البَاهية، أبوظبي.",
+    "en": "Contemplator, one who reflects: that is «Al Muta-amil». The street sits in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutajir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُتاجر",
+  "en": "Al Mutajir Street",
+  "meaning": {
+    "ar": "«المُتاجر»: جمع متجر",
+    "en": "Al Mutajir: shops"
+  },
+  "story": {
+    "ar": "«المتاجر» صيغةُ جمع «متجر»، وهي المتاجر. ويقع الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Plural of matjar — shops: that is «Al Mutajir». This street lies in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutadarik-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المتدارك",
+  "en": "Al Mutadarik Street",
+  "meaning": {
+    "ar": "المتدارك: المُدرِك والمُتدارِك لما فات",
+    "en": "one who catches up or makes up for what was missed"
+  },
+  "story": {
+    "ar": "«المتدارك» المُدرِك لما فات. والشارع في المَرْخَانِيَّة، أبوظبي.",
+    "en": "«Al Mutadarik» is one who catches up on what was missed. You will find the street in Al Markhaniyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutasadir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُتَصَدِر",
+  "en": "Al Mutasadir Street",
+  "meaning": {
+    "ar": "المتصدر: صاحب الصدر، والمُقدَّم في المجلس",
+    "en": "the one in the fore, presiding at the front"
+  },
+  "story": {
+    "ar": "«المتصدر» صاحب الصدر، والمُقدَّم في المجلس. ويمر الشارع في وسط المدينة، أبوظبي.",
+    "en": "One in the fore, presiding at the front: that is «Al Mutasadir». The street runs in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muta-awin-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المتعاون",
+  "en": "Al Muta'awin Street",
+  "meaning": {
+    "ar": "«المتعاون»: المُتَعَاوِن",
+    "en": "Al Muta'awin: cooperative"
+  },
+  "story": {
+    "ar": "«المتعاون» المُتَعَاوِن. والشارع يحمل هذا الاسم في رُوْضَة الرِّيْف، أبوظبي.",
+    "en": "«Al Muta'awin» means cooperative. The street sits in Rawdat Al Reef, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutqin-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُتْقِن",
+  "en": "Al Mutqin Street",
+  "meaning": {
+    "ar": "المتقن: البارع المحكم للعمل",
+    "en": "a skilled, precise craftsman"
+  },
+  "story": {
+    "ar": "«المتقن» البارع المحكم للعمل. ويقع الشارع في غْنَيْمَة، أبوظبي.",
+    "en": "Skilled, precise craftsman: that is «Al Mutqin». This street is in Ghnaymah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutama-in-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُتَمَعِّن",
+  "en": "Al Mutama'in Street",
+  "meaning": {
+    "ar": "المتمعن: المُتأمِّل الدقيق المُنظر فيه",
+    "en": "a close examiner, careful observer"
+  },
+  "story": {
+    "ar": "«المتمعن» المُتأمِّل الدقيق المُنظر فيه. والشارع في المَرْخَانِيَّة، أبوظبي.",
+    "en": "Close examiner, the careful observer: that is «Al Mutama'in». You will find the street in Al Markhaniyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutamakin-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُتَمَكِن",
+  "en": "Al Mutamakin Street",
+  "meaning": {
+    "ar": "المتمكن: القادر الحاذق المُتقِن لعمله",
+    "en": "a capable, accomplished master of a craft"
+  },
+  "story": {
+    "ar": "«المتمكن» القادر الحاذق المُتقِن لعمله. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Capable, accomplished master of a craft: that is «Al Mutamakin». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutamanni-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُتمنّي",
+  "en": "Al Mutamanni Street",
+  "meaning": {
+    "ar": "المتمني: الراغب الطالب لما يتمناه",
+    "en": "a wisher, one who desires"
+  },
+  "story": {
+    "ar": "«المتمني» الراغب الطالب لما يتمناه. والشارع يحمل هذا الاسم في أم غَافة، أبوظبي.",
+    "en": "Wisher, one who desires: that is «Al Mutamanni». The street sits in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutawazi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المتوازي",
+  "en": "Al Mutawazi Street",
+  "meaning": {
+    "ar": "المتوازي: المُتَوَازِي، كالأضلاع المتوازية",
+    "en": "parallel (as of parallel lines/sides)"
+  },
+  "story": {
+    "ar": "«المتوازي» المُتَوَازِي، كالأضلاع المتوازية. ويقع الشارع في المُويجْعِي، أبوظبي.",
+    "en": "«Al Mutawazi» means parallel, as of parallel lines. This street is in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muthabir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المثابر",
+  "en": "Al Muthabir Street",
+  "meaning": {
+    "ar": "المثابر: المُداوم المجتهد على العمل",
+    "en": "a persevering, diligent worker"
+  },
+  "story": {
+    "ar": "«المثابر» المُداوم المجتهد على العمل. والشارع يحمل هذا الاسم في الوَثْبَة، أبوظبي.",
+    "en": "Persevering, diligent worker: that is «Al Muthabir». The street sits in Al Wathbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mathayil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَثَايِل",
+  "en": "Al Mathayil Street",
+  "meaning": {
+    "ar": "المثايل: جمع مثال، وهي الأمثلة والنظائر",
+    "en": "examples, similitudes (plural of mithal)"
+  },
+  "story": {
+    "ar": "«المَثَايِل» جمع «مثال»، وهي الأمثلة والنظائر. ويقع الشارع في المَقَام، أبوظبي.",
+    "en": "Plural of mithal — examples and similitudes: that is «Al Mathayil». This street lies in Al Maqam, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mithna-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِثْنَا",
+  "en": "Al Mithna Street",
+  "meaning": {
+    "ar": "المثنى: الثاني، وما أُضيف إلى اثنين",
+    "en": "the second; the dual form"
+  },
+  "story": {
+    "ar": "«المِثْنَا» الثاني، وما أُضيف إلى اثنين. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "Second, and the dual form: that is «Al Mithna». You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mithiybah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِثِيبة",
+  "en": "Al Mithiybah Street",
+  "meaning": {
+    "ar": "المثيبة: المجازاة بالثواب",
+    "en": "recompense, reward (from athaba — to reward)"
+  },
+  "story": {
+    "ar": "«المثيبة» المجازاة بالثواب. ويمر الشارع في المُشرِف، أبوظبي.",
+    "en": "Recompense and reward: that is «Al Mithiybah». The street runs in Al Mushrif, Abu Dhabi."
+  }
+},
+{
+  "id": "al-majamee-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المجاميع",
+  "en": "Al Majamee' Street",
+  "meaning": {
+    "ar": "«المجاميع»: جمع مجمع",
+    "en": "Al Majamee': collections"
+  },
+  "story": {
+    "ar": "«المجاميع» جمع «مجمع»، وهي المجاميع. والشارع يحمل هذا الاسم في الوَثْبَة، أبوظبي.",
+    "en": "Plural of majma' — collections: that is «Al Majamee'». The street sits in Al Wathbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mijdaf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِجداف",
+  "en": "Al Mijdaf Street",
+  "meaning": {
+    "ar": "«المِجداف»: خشبة في رأسها لوح عريض تُدفع بها السفينة",
+    "en": "Al Mijdaf: an oar/paddle; also, a bird's wing"
+  },
+  "story": {
+    "ar": "«المجداف» خشبةٌ في رأسها لوحٌ عريض تُدفع بها السفينة، وجناحُ الطائر. ويقع الشارع في البطين، أبوظبي.",
+    "en": "Oar, and also a bird's wing: that is «Al Mijdaf». This street is in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mijdhaf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِجذَف",
+  "en": "Al Mijdhaf Street",
+  "meaning": {
+    "ar": "المجذف: المُجذِّف بالمجذاف",
+    "en": "an oarsman; a swift runner"
+  },
+  "story": {
+    "ar": "«المجذف» المُجذِّف بالمجذاف، والسريع الجري. والشارع في الفلاح، أبوظبي.",
+    "en": "Oarsman, and the swift runner: that is «Al Mijdhaf». You will find the street in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mijza-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِجْزَى",
+  "en": "Al Mijza Street",
+  "meaning": {
+    "ar": "ما يعطي عائداً كافياً أو ربحاً مرضياً مقابل الجهد أو المال المبذول",
+    "en": "that which yields sufficient return or satisfactory profit for the effort or money spent"
+  },
+  "story": {
+    "ar": "«المِجْزَى» ما يعطي عائداً كافياً مقابل الجهد أو المال. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "What yields sufficient return for the effort or money spent: that is «Al Mijza». The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mujzi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المجزي",
+  "en": "Al Mujzi Street",
+  "meaning": {
+    "ar": "ما يعطي عائداً كافياً أو ربحاً مرضياً مقابل الجهد أو المال المبذول",
+    "en": "that which yields sufficient return or satisfactory profit for the effort or money spent"
+  },
+  "story": {
+    "ar": "يُقال «المجزي» لما يعطي ربحاً مرضياً مقابل الجهد. والشارع يحمل هذا الاسم في الجيمي، أبوظبي.",
+    "en": "The name «Al Mujzi» is given to what gives a satisfactory profit. The street sits in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mujaljal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المجلجل",
+  "en": "Al Mujaljal Street",
+  "meaning": {
+    "ar": "المجلجل: المُدوِّي كصوت الجلجلة والرعد",
+    "en": "thundering, resounding loudly"
+  },
+  "story": {
+    "ar": "«المجلجل» المُدوِّي كصوت الجلجلة والرعد. ويقع الشارع في المُويجْعِي، أبوظبي.",
+    "en": "Thundering, resounding one: that is «Al Mujaljal». This street lies in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mujannad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُجَنَّد",
+  "en": "Al Mujannad Street",
+  "meaning": {
+    "ar": "المجند: المسجَّل في الجيش، والمشحون بالقوة",
+    "en": "enlisted, mobilised; brimming with vigour"
+  },
+  "story": {
+    "ar": "«المجند» المسجَّل في الجيش، والمشحون بالقوة. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "Enlisted one, brimming with vigour: that is «Al Mujannad». You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mahajir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَحاجِر",
+  "en": "Al Mahajir Street",
+  "meaning": {
+    "ar": "«المَحاجِر»: جمع محجر",
+    "en": "Al Mahajir: quarries"
+  },
+  "story": {
+    "ar": "الاسم «المحاجر» جمع «محجر»، وهي مواضع استخراج الحجر. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Plural of mahjar — quarries: that is «Al Mahajir». The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muhadhi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المحاذي",
+  "en": "Al Muhadhi Street",
+  "meaning": {
+    "ar": "«المحاذي»: المُلاصق المُقارِب في الجنب",
+    "en": "Al Muhadhi: adjacent, bordering on"
+  },
+  "story": {
+    "ar": "«المحاذي» المُلاصق المُقارِب في الجنب. والشارع يحمل هذا الاسم في المُويجْعِي، أبوظبي.",
+    "en": "Adjacent one, bordering on a thing: that is «Al Muhadhi». The street sits in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mahharah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَحَّارة",
+  "en": "Al Mahharah Street",
+  "meaning": {
+    "ar": "المحارة: الصدفة البحرية؛ والبيع بالمحارة",
+    "en": "a seashell; also the practice of selling by draw/lot"
+  },
+  "story": {
+    "ar": "«المحارة» الصدفة البحرية، والبيع بالمحارة. ويقع الشارع في دلما، أبوظبي.",
+    "en": "Seashell, and selling by draw or lot: that is «Al Mahharah». This street is in Delma, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mahazim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المحازم",
+  "en": "Al Mahazim Street",
+  "meaning": {
+    "ar": "المحازم: جمع مِحْزَم، وهو الحزام",
+    "en": "belts, girths (plural of mihzam)"
+  },
+  "story": {
+    "ar": "«المحازم» لفظٌ يجمع «مِحْزَم»، وهو الحزام. والشارع في دلما، أبوظبي.",
+    "en": "Plural of mihzam — belts and girths: that is «Al Mahazim». You will find the street in Delma, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mahafil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَحَافِل",
+  "en": "Al Mahafil Street",
+  "meaning": {
+    "ar": "المحافل: جمع مَحْفَل، وهي المجالس والاجتماعات",
+    "en": "assemblies, gatherings (plural of mahfal)"
+  },
+  "story": {
+    "ar": "في «المحافل» جمعٌ لـ«مَحْفَل»، وهي المجالس والاجتماعات. ويمر الشارع في جَرْن يَافُور، أبوظبي.",
+    "en": "Plural of mahfal — assemblies and gatherings: that is «Al Mahafil». The street runs in Jarn Yafour, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mahakim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَحاكِم",
+  "en": "Al Mahakim Street",
+  "meaning": {
+    "ar": "«المَحاكِم»: جمع محكمة",
+    "en": "Al Mahakim: courts"
+  },
+  "story": {
+    "ar": "تُسمّى «المحاكم» جمع «محكمة»، وهي المحاكم. والشارع يحمل هذا الاسم في المرْفَأ، أبوظبي.",
+    "en": "Plural of mahkamah — courts: that is «Al Mahakim». The street sits in Al Marfa, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mahamil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَحامِل",
+  "en": "Al Mahamil Street",
+  "meaning": {
+    "ar": "المحامل: جمع مِحْمَل، وهو ما يُحمل عليه وموكب المحمل",
+    "en": "litters, biers; palanquins (plural of mihmal)"
+  },
+  "story": {
+    "ar": "«المحامل» على وزن جمع «مِحْمَل»، وهو ما يُحمل عليه وموكب المحمل. ويقع الشارع في نَاهِل، أبوظبي.",
+    "en": "Plural of mihmal — litters and palanquins: that is «Al Mahamil». This street lies in Nahil, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muhawarah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المحاورة",
+  "en": "Al Muhawarah Street",
+  "meaning": {
+    "ar": "«المحاورة»: الكلام والحوار بين طرفين",
+    "en": "dialogue — talking things over between two sides"
+  },
+  "story": {
+    "ar": "«المحاورة» الكلام والحوار بين طرفين. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "«Al Muhawarah» means dialogue, talking things over between two sides. You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mhajjalah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المحجّلة",
+  "en": "Al Mhajjalah Street",
+  "meaning": {
+    "ar": "المحجلة: الدابة البيضاء القوائم",
+    "en": "an animal with white legs/feet"
+  },
+  "story": {
+    "ar": "«المحجلة» الدابة البيضاء القوائم. ويمر الشارع في الوَثْبَة، أبوظبي.",
+    "en": "Animal with white legs and feet: that is «Al Mhajjalah». The street runs in Al Wathbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mihsinah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِحسِنة",
+  "en": "Al Mihsinah Street",
+  "meaning": {
+    "ar": "«المِحسِنة»: مؤنث «مُحسِن»",
+    "en": "Al Mihsinah: the feminine of muhsin"
+  },
+  "story": {
+    "ar": "«المِحسِنة» مؤنث «مُحسِن». والشارع يحمل هذا الاسم في نَاهِل، أبوظبي.",
+    "en": "Feminine of muhsin: that is «Al Mihsinah». The street sits in Nahil, Abu Dhabi."
+  }
+},
+{
+  "id": "al-makhayeel-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المخاييل",
+  "en": "Al Makhayeel Street",
+  "meaning": {
+    "ar": "المخاييل: جمع مخيلة",
+    "en": "imaginations, specters"
+  },
+  "story": {
+    "ar": "يأتي «المخاييل» جمعاً لـ«مخيلة»، وهي صور الأشياء في الوهم. ويقع الشارع في جَرْن يَافُور، أبوظبي.",
+    "en": "Plural of makhilah — imaginations and specters: that is «Al Makhayeel». This street is in Jarn Yafour, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mada-ih-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَدائِح",
+  "en": "Al Mada-ih Street",
+  "meaning": {
+    "ar": "«المَدائِح»: جمع مَدِيحة",
+    "en": "Al Mada-ih: the plural of madihah"
+  },
+  "story": {
+    "ar": "«المَدائِح» جمع «مَدِيحة». والشارع في مدينة خليفة، أبوظبي.",
+    "en": "Plural of madihah: that is «Al Mada-ih». You will find the street in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-madabis-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المدابس",
+  "en": "Al Madabis Street",
+  "meaning": {
+    "ar": "المدابس: جمع مِدْبَس",
+    "en": "buckles, clasps"
+  },
+  "story": {
+    "ar": "كلمة «المدابس» جمع «مِدْبَس»، وهي الأزرار والقالب. ويمر الشارع في المَنهَل، أبوظبي.",
+    "en": "Plural of midbas — buckles and clasps: that is «Al Madabis». The street runs in Al Manhal, Abu Dhabi."
+  }
+},
+{
+  "id": "al-madaris-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَدارِس",
+  "en": "Al Madaris Street",
+  "meaning": {
+    "ar": "«المَدارِس»: جمع مدرسة",
+    "en": "Al Madaris: schools"
+  },
+  "story": {
+    "ar": "«المدارس» صيغةُ جمع «مدرسة»، وهي المدارس. والشارع يحمل هذا الاسم في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Plural of madrasah — schools: that is «Al Madaris». The street sits in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-midameek-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِدامِيك",
+  "en": "Al Midameek Street",
+  "meaning": {
+    "ar": "المداميك: جمع مِدماك",
+    "en": "building courses"
+  },
+  "story": {
+    "ar": "الاسم «المداميك» جمع «مِدماك»، وهي طبقات البناء. ويقع الشارع في عَيْن الفَايْضَة، أبوظبي.",
+    "en": "Plural of midmak — building courses: that is «Al Midameek». This street lies in Ain Al Faydah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-modawi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُداوي",
+  "en": "Al Modawi Street",
+  "meaning": {
+    "ar": "«المُداوي»: المُعالج",
+    "en": "Al Modawi: healer"
+  },
+  "story": {
+    "ar": "«المداوي» المُعالج. والشارع في بني ياس، أبوظبي.",
+    "en": "«Al Modawi» names the healer. You will find the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "al-midaweer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِدَاوِير",
+  "en": "Al Midaweer Street",
+  "meaning": {
+    "ar": "«المِدَاوِير»: جمع مِدْوَرة",
+    "en": "Al Midaweer: round places"
+  },
+  "story": {
+    "ar": "«المداوير» لفظٌ يجمع «مِدْوَرة»، وهي المواضع المستديرة. ويمر الشارع في غِيَّاثِي، أبوظبي.",
+    "en": "Plural of midwarah — round places: that is «Al Midaweer». The street runs in Ghiyathi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-madayen-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَداين",
+  "en": "Al Madayen Street",
+  "meaning": {
+    "ar": "«المَداين»: جمع مدينة",
+    "en": "Al Madayen: cities"
+  },
+  "story": {
+    "ar": "في «المداين» جمعٌ لـ«مدينة»، وهي المدن. والشارع يحمل هذا الاسم في المُطَاوْعَة، أبوظبي.",
+    "en": "Cities are what «Al Madayen» names — the plural of madinah. The street sits in Al Mutaw'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mdabbas-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المدَبَّس",
+  "en": "Al Mdabbas Street",
+  "meaning": {
+    "ar": "«المدَبَّس»: المُثَبَّت بالدبّوس",
+    "en": "Al Mdabbas: fastened with a pin"
+  },
+  "story": {
+    "ar": "«المُدَبَّس» المُثَبَّت بالدبّوس. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "What is fastened with a pin: that is «Al Mdabbas». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-midrar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِدرار",
+  "en": "Al Midrar Street",
+  "meaning": {
+    "ar": "«المِدرار»: الكثير العطاء والغيث",
+    "en": "Al Midrar: abundant giver"
+  },
+  "story": {
+    "ar": "«المِدرار» الكثير العطاء والغيث. والشارع يحمل هذا الاسم في المَنهَل، أبوظبي.",
+    "en": "Abundant giver, and the plentiful rain: that is «Al Midrar». The street sits in Al Manhal, Abu Dhabi."
+  }
+},
+{
+  "id": "al-madaffah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المدفة",
+  "en": "Al Madaffah Street",
+  "meaning": {
+    "ar": "«المِدْفَة»: المجداف الذي تُدفع به السفينة",
+    "en": "an oar — the paddle that pushes the boat"
+  },
+  "story": {
+    "ar": "«المِدْفَة» المجداف الذي تُدفع به السفينة. ويقع الشارع في غْنَيْمَة، أبوظبي.",
+    "en": "Oar that pushes the boat: that is «Al Madaffah». This street lies in Ghnaymah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-madina-al-tebbia-street",
+  "emirate": "dubai",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع المدينة الطبية",
+  "en": "Al Madina Al Tebbia Street",
+  "meaning": {
+    "ar": "مدينة، بلدة",
+    "en": "city, town"
+  },
+  "story": {
+    "ar": "«المدينة الطبية» اسمٌ يحمله الشارع في أم هرير، دبي. و«المدينة» البلد والبلدة.",
+    "en": "The street carries the name «Al Madina Al Tebbia» in Umm Hurair, Dubai. «Al Madina» is the city, the town."
+  }
+},
+{
+  "id": "al-morabah-street",
+  "emirate": "fujairah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المرابح",
+  "en": "Al Morabah Street",
+  "meaning": {
+    "ar": "«المرابح»: جمع مَرْبَح",
+    "en": "Al Morabah: profits"
+  },
+  "story": {
+    "ar": "يأتي «المرابح» جمعاً لـ«مَرْبَح»، وهي الأرباح. والشارع في المربعة، الفجيرة.",
+    "en": "Plural of marbih — profits: that is «Al Morabah». You will find the street in Al Murabah, Fujairah."
+  }
+},
+{
+  "id": "al-marabea-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المرابع",
+  "en": "Al Marabea' Street",
+  "meaning": {
+    "ar": "«المرابع»: جمع مَرْبَع",
+    "en": "Al Marabea': camps, abodes"
+  },
+  "story": {
+    "ar": "كلمة «المَرَابِع» جمع «مَرْبَع»، وهي مواضع الربوع والإقامة. ويمر الشارع في مجتمع القوز، دبي.",
+    "en": "Plural of marba' — camps and abodes: that is «Al Marabea'». The street runs in Al Quoz Community, Dubai."
+  }
+},
+{
+  "id": "al-marabee-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَرابِيع",
+  "en": "Al Marabee' Street",
+  "meaning": {
+    "ar": "«المَرابِيع»: جمع مِرْبَاع",
+    "en": "Al Marabee': warrior shares"
+  },
+  "story": {
+    "ar": "«المَرابيع» صيغةُ جمع «مِرْبَاع»، وهي نصيب الفارس من الغنيمة. والشارع يحمل هذا الاسم في السَّمْحة، أبوظبي.",
+    "en": "Plural of mirba' — warrior shares of the spoil: that is «Al Marabee'». The street sits in Al Samhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maratib-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المراتب",
+  "en": "Al Maratib Street",
+  "meaning": {
+    "ar": "المراتب: جمع مرتبة",
+    "en": "ranks, degrees"
+  },
+  "story": {
+    "ar": "«المراتب» جمع «مرتبة»، وهي الدرجات والمنازل. ويقع الشارع في البَاهية، أبوظبي.",
+    "en": "Plural of martabah — ranks and degrees: that is «Al Maratib». This street is in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marati-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَراتِع",
+  "en": "Al Marati' Street",
+  "meaning": {
+    "ar": "«المَراتِع»: جمع مَرْتَع",
+    "en": "Al Marati': pastures"
+  },
+  "story": {
+    "ar": "الاسم «المَراتِع» جمع «مَرْتَع»، وهي مواضع رعي الماشية. والشارع في بني ياس، أبوظبي.",
+    "en": "Plural of marti' — pastures: that is «Al Marati'». You will find the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marajil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المراجل",
+  "en": "Al Marajil Street",
+  "meaning": {
+    "ar": "«المراجل»: جمع مِرْجَل",
+    "en": "Al Marajil: cauldrons"
+  },
+  "story": {
+    "ar": "«المراجل» لفظٌ يجمع «مِرْجَل»، وهي القدور. ويمر الشارع في المُطَاوْعَة، أبوظبي.",
+    "en": "Plural of mirjal — cauldrons: that is «Al Marajil». The street runs in Al Mutaw'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maras-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَراس",
+  "en": "Al Maras Street",
+  "meaning": {
+    "ar": "المَراس: المرسى",
+    "en": "anchorage, contact"
+  },
+  "story": {
+    "ar": "«المَراس» المرسى، موضع رسو السفن. والشارع يحمل هذا الاسم في العامرة، أبوظبي.",
+    "en": "Anchorage, where ships come to rest: that is «Al Maras». The street sits in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marasim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَراسِم",
+  "en": "Al Marasim Street",
+  "meaning": {
+    "ar": "المَراسِم: جمع مَرْسَم",
+    "en": "ceremonies, protocols"
+  },
+  "story": {
+    "ar": "في «المَراسِم» جمعٌ لـ«مَرْسَم»، وهي الأنظمة والمراسيم. ويقع الشارع في فَلَج هَزَّاع، أبوظبي.",
+    "en": "Plural of marsam — ceremonies and protocols: that is «Al Marasim». This street lies in Falaj Hazza', Abu Dhabi."
+  }
+},
+{
+  "id": "al-marasi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَراسِي",
+  "en": "Al Marasi Street",
+  "meaning": {
+    "ar": "المَرَاسِي: جمع مَرْسَى",
+    "en": "anchors, anchorages"
+  },
+  "story": {
+    "ar": "تُسمّى «المَرَاسِي» جمع «مَرْسَى»، وهي المواضع. والشارع في دلما، أبوظبي.",
+    "en": "Plural of marsa — anchors and anchorages: that is «Al Marasi». You will find the street in Delma, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maraseel-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَراسِيل",
+  "en": "Al Maraseel Street",
+  "meaning": {
+    "ar": "المَراسِيل: جمع مُرْسَل",
+    "en": "messages, swift horses"
+  },
+  "story": {
+    "ar": "«المَراسِيل» على وزن جمع «مُرْسَل»، وهي الرسائل أو الأفراس السريعة. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Plural of mursal — messages and swift horses: that is «Al Maraseel». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marasim-street-2",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المراسيم",
+  "en": "Al Marasim Street",
+  "meaning": {
+    "ar": "«المراسيم»: جمع مرسوم",
+    "en": "decrees — the plural of marsoum"
+  },
+  "story": {
+    "ar": "«المراسيم» جمع «مرسوم». والشارع يحمل هذا الاسم في السلمة، أم القيوين.",
+    "en": "Plural of marsoum — decrees: that is «Al Marasim». The street sits in Al Salmah, Umm Al Quwain."
+  }
+},
+{
+  "id": "al-marasid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَراصِد",
+  "en": "Al Marasid Street",
+  "meaning": {
+    "ar": "المَراصِد: جمع مَرْصَد",
+    "en": "observation posts"
+  },
+  "story": {
+    "ar": "يأتي «المَراصِد» جمعاً لـ«مَرْصَد»، وهي مواضع المراقبة. ويقع الشارع في فَلَج هَزَّاع، أبوظبي.",
+    "en": "Plural of marsad — observation posts: that is «Al Marasid». This street is in Falaj Hazza', Abu Dhabi."
+  }
+},
+{
+  "id": "al-marafid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المرافد",
+  "en": "Al Marafid Street",
+  "meaning": {
+    "ar": "المرافد: جمع مِرْفاد",
+    "en": "supports, tributaries"
+  },
+  "story": {
+    "ar": "كلمة «المرافد» جمع «مِرْفاد»، وهي المساعدات. والشارع في الشهامة، أبوظبي.",
+    "en": "Plural of mirfad — supports and tributaries: that is «Al Marafid». You will find the street in Al Shahamah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marafi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَرافِي",
+  "en": "Al Marafi Street",
+  "meaning": {
+    "ar": "المَرافِي: جمع مَرْفَاة",
+    "en": "places of comfort"
+  },
+  "story": {
+    "ar": "«المَرافِي» صيغةُ جمع «مَرْفَاة»، وهي مواضع الراحة. ويمر الشارع في الدَّانَةْ، أبوظبي.",
+    "en": "Plural of marfah — places of comfort: that is «Al Marafi». The street runs in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marakib-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَراكِب",
+  "en": "Al Marakib Street",
+  "meaning": {
+    "ar": "المَراكِب: جمع مركب",
+    "en": "ships, vessels"
+  },
+  "story": {
+    "ar": "الاسم «المَراكِب» جمع «مركب»، وهي السفن. والشارع يحمل هذا الاسم في مدينة زايد، أبوظبي.",
+    "en": "Plural of markab — ships and vessels: that is «Al Marakib». The street sits in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marami-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَرامِي",
+  "en": "Al Marami Street",
+  "meaning": {
+    "ar": "«المَرامِي»: جمع مَرْمَى",
+    "en": "Al Marami: targets"
+  },
+  "story": {
+    "ar": "«المَرامِي» لفظٌ يجمع «مَرْمَى»، وهي أهداف الرمي. ويقع الشارع في مدينة زايد، أبوظبي.",
+    "en": "Plural of marama — targets: that is «Al Marami». This street lies in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maraya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَرَايَا",
+  "en": "Al Maraya Street",
+  "meaning": {
+    "ar": "«المَرَايَا»: جمع مِرْآة",
+    "en": "Al Maraya: mirrors"
+  },
+  "story": {
+    "ar": "في «المَرَايَا» جمعٌ لـ«مِرْآة»، وهي المرايا. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "Mirrors are what «Al Maraya» names — the plural of mir'ah. You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marjani-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَرْجَانِي",
+  "en": "Al Marjani Street",
+  "meaning": {
+    "ar": "«المَرْجَانِي»: نسبة إلى المرجان",
+    "en": "Al Marjani: coral-colored"
+  },
+  "story": {
+    "ar": "«المَرْجَانِي» نسبةٌ إلى المرجان. ويمر الشارع في الخِبِيصِي، أبوظبي.",
+    "en": "Adjective of coral: that is «Al Marjani». The street runs in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marji-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المرجي",
+  "en": "Al Marji Street",
+  "meaning": {
+    "ar": "المرجي: المُرجى أو نسبة إلى المرج",
+    "en": "hoped for, meadow-related"
+  },
+  "story": {
+    "ar": "«المرجي» المُرجى أو نسبةٌ إلى المرج. والشارع يحمل هذا الاسم في أم سقيم، دبي.",
+    "en": "Hoped-for one, or what relates to the meadow: that is «Al Marji». The street sits in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "al-muraheb-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المرحب",
+  "en": "Al Muraheb Street",
+  "meaning": {
+    "ar": "المرحب: الواسع الفسيح",
+    "en": "spacious, welcome"
+  },
+  "story": {
+    "ar": "«المرحب» الواسع الفسيح. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "Spacious and open: that is «Al Muraheb». The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marzoum-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَرزُوم",
+  "en": "Al Marzoum Street",
+  "meaning": {
+    "ar": "المَرْزُوم: المُقيَّد بالزمام",
+    "en": "restrained by a halter"
+  },
+  "story": {
+    "ar": "«المَرْزُوم» المُقيَّد بالزمام. والشارع يحمل هذا الاسم في مدينة زايد، أبوظبي.",
+    "en": "One restrained by a halter: that is «Al Marzoum». The street sits in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mersal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِرْسال",
+  "en": "Al Mersal Street",
+  "meaning": {
+    "ar": "«المِرْسال»: الكثير الإرسال",
+    "en": "Al Mersal: frequently sending"
+  },
+  "story": {
+    "ar": "«المِرْسَال» الكثير الإرسال. ويقع الشارع في المُويجْعِي، أبوظبي.",
+    "en": "One who sends frequently: that is «Al Mersal». This street is in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mirdab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِرضاب",
+  "en": "Al Mirdab Street",
+  "meaning": {
+    "ar": "المِرضاب: المكان المُعتدل أو الألواح",
+    "en": "flat stones, moderate ground"
+  },
+  "story": {
+    "ar": "«المِرضاب» المكان المُعتدل أو الألواح. والشارع في مدينة خليفة، أبوظبي.",
+    "en": "Flat stones, and moderate ground: that is «Al Mirdab». You will find the street in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mardouf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَرضُوف",
+  "en": "Al Mardouf Street",
+  "meaning": {
+    "ar": "«المَرضُوف»: المُفروش بالرُّضافة",
+    "en": "Al Mardouf: spread with mats"
+  },
+  "story": {
+    "ar": "«المَرضُوف» المُفروش بالحصير. ويمر الشارع في هِيلِي، أبوظبي.",
+    "en": "What is spread with mats: that is «Al Mardouf». The street runs in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "al-murfad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُرْفَد",
+  "en": "Al Murfad Street",
+  "meaning": {
+    "ar": "«المُرْفَد»: المساعد أو العون",
+    "en": "Al Murfad: helper, support"
+  },
+  "story": {
+    "ar": "«المُرْفَد» المساعد أو العون. والشارع يحمل هذا الاسم في البَاهية، أبوظبي.",
+    "en": "Helper and the support: that is «Al Murfad». The street sits in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marqoum-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المرقوم",
+  "en": "Al Marqoum Street",
+  "meaning": {
+    "ar": "«المرقوم»: المُعلَّم بعلامة",
+    "en": "Al Marqoum: marked, inscribed"
+  },
+  "story": {
+    "ar": "«المَرْقُوم» المُعلَّم بعلامة. ويمر الشارع في الجيمي، أبوظبي.",
+    "en": "What is marked and inscribed: that is «Al Marqoum». The street runs in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mirkaz-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِركاز",
+  "en": "Al Mirkaz Street",
+  "meaning": {
+    "ar": "المِركاز: المركز أو محل التجمع",
+    "en": "center, gathering place"
+  },
+  "story": {
+    "ar": "«المِركاز» المركز أو محل التجمع. والشارع يحمل هذا الاسم في مدينة خليفة، أبوظبي.",
+    "en": "«Al Mirkaz» is the centre, the gathering place. The street sits in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-marou-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المروؤة",
+  "en": "Al Marou-ah Street",
+  "meaning": {
+    "ar": "المروؤة: شجاعة الفؤاد",
+    "en": "courage, chivalry"
+  },
+  "story": {
+    "ar": "«المروؤة» شجاعة الفؤاد. والشارع يحمل هذا الاسم في المَقَام، أبوظبي.",
+    "en": "«Al Marou-ah» means courage and chivalry. The street sits in Al Maqam, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mirwah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِرواح",
+  "en": "Al Mirwah Street",
+  "meaning": {
+    "ar": "«المِرواح»: الذهاب والمجيء",
+    "en": "Al Mirwah: coming and going"
+  },
+  "story": {
+    "ar": "«المِرواح» الذهاب والمجيء. ويمر الشارع في الشَّوامخ، أبوظبي.",
+    "en": "Coming and going: that is «Al Mirwah». The street runs in Al Shawamekh, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mirwad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِرْوَد",
+  "en": "Al Mirwad Street",
+  "meaning": {
+    "ar": "«المِرْوَد»: أداة التدوير أو المُقوَّم",
+    "en": "Al Mirwad: straightening tool"
+  },
+  "story": {
+    "ar": "«المِرْوَد» أداة التدوير أو المُقوَّم. والشارع في الوَثْبَة، أبوظبي.",
+    "en": "Straightening tool: that is «Al Mirwad». You will find the street in Al Wathbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mazaya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَزَايَا",
+  "en": "Al Mazaya Street",
+  "meaning": {
+    "ar": "«المَزَايَا»: جمع مَزِيَّة",
+    "en": "advantages — the plural of maziyah"
+  },
+  "story": {
+    "ar": "تُسمّى «المَزَايَا» جمع «مَزِيَّة»، وهي المزايا. ويمر الشارع في المُويجْعِي، أبوظبي.",
+    "en": "Plural of maziyah — advantages: that is «Al Mazaya». The street runs in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mizayan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِزَايَن",
+  "en": "Al Mizayan Street",
+  "meaning": {
+    "ar": "المِزَايَن: جمع مِيزان",
+    "en": "scales, weighing places"
+  },
+  "story": {
+    "ar": "«المِزَايَن» على وزن جمع «مِيزان»، أو مواضع الموازنة. والشارع يحمل هذا الاسم في الروضة الشرقية، أبوظبي.",
+    "en": "Plural of mizan — scales and weighing places: that is «Al Mizayan». The street sits in Al Rawdah Al Sharqiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mazri-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المزري",
+  "en": "Al Mazri Street",
+  "meaning": {
+    "ar": "المزري: المُعَيِّر، من أزرى",
+    "en": "blaming, reproachful"
+  },
+  "story": {
+    "ar": "«المزري» المُعَيِّر، من «أزرى». ويقع الشارع في مْزِيرْعَة، أبوظبي.",
+    "en": "Blaming, reproachful one: that is «Al Mazri». This street lies in Mzeer'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mazhar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَزهَر",
+  "en": "Al Mazhar Street",
+  "meaning": {
+    "ar": "المَزْهَر: الآلة الموسيقية أو المُزهر",
+    "en": "musical instrument, blooming"
+  },
+  "story": {
+    "ar": "«المَزْهَر» الآلة الموسيقية أو المُزهر. والشارع في مَزْيَد، أبوظبي.",
+    "en": "Musical instrument, and the blooming one: that is «Al Mazhar». You will find the street in Mazyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mazhariyat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَزْهَرِيَّات",
+  "en": "Al Mazhariyat Street",
+  "meaning": {
+    "ar": "«المَزْهَرِيَّات»: الأزهار أو الأواني الزهرية",
+    "en": "Al Mazhariyat: flower vases, flowers"
+  },
+  "story": {
+    "ar": "«المَزْهَرِيَّات» الأزهار أو الأواني الزهرية. ويمر الشارع في مدينة شخبوط، أبوظبي.",
+    "en": "«Al Mazhariyat» are flower vases and flowers. The street runs in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muzoun-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُزُون",
+  "en": "Al Muzoun Street",
+  "meaning": {
+    "ar": "«المُزُون»: جمع مُزْن",
+    "en": "Al Muzoun: rain clouds"
+  },
+  "story": {
+    "ar": "يأتي «المُزُون» جمعاً لـ«مُزْن»، وهي السحب الممطرة. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "Rain clouds are what «Al Muzoun» names — the plural of muzn. The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masa-il-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المسائل",
+  "en": "Al Masa-il Street",
+  "meaning": {
+    "ar": "المسائل: جمع مسألة",
+    "en": "questions, issues"
+  },
+  "story": {
+    "ar": "كلمة «المسائل» جمع «مسألة»، وهي القضايا. ويمر الشارع في البَاهية، أبوظبي.",
+    "en": "Plural of mas'ilah — questions and issues: that is «Al Masa-il». The street runs in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masaqi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَساقِي",
+  "en": "Al Masaqi Street",
+  "meaning": {
+    "ar": "«المَساقِي»: جمع مَسْقَاة",
+    "en": "Al Masaqi: water sources"
+  },
+  "story": {
+    "ar": "«المَساقِي» صيغةُ جمع «مَسْقَاة»، وهي مصادر المياه. والشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Plural of masqah — water sources: that is «Al Masaqi». You will find the street in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-musanadah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُسانَدة",
+  "en": "Al Musanadah Street",
+  "meaning": {
+    "ar": "«المُسانَدة»: الدعم والعون",
+    "en": "Al Musanadah: support"
+  },
+  "story": {
+    "ar": "«المُسانَدة» الدعم والعون. ويمر الشارع في العامرة، أبوظبي.",
+    "en": "«Al Musanadah» means support and help. The street runs in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masayeer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المسايير",
+  "en": "Al Masayeer Street",
+  "meaning": {
+    "ar": "المسايير: جمع مسيارة",
+    "en": "moving things, caravans"
+  },
+  "story": {
+    "ar": "الاسم «المسايير» جمع «مسيارة»، وهي الرحلات أو الأشياء المتحركة. والشارع يحمل هذا الاسم في الروضة الشرقية، أبوظبي.",
+    "en": "Plural of musayyarah — caravans and moving things: that is «Al Masayeer». The street sits in Al Rawdah Al Sharqiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masbou-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَسبُوعة",
+  "en": "Al Masbou'ah Street",
+  "meaning": {
+    "ar": "«المَسبُوعة»: التي سُبِع لها، أو ذات السَّبْع",
+    "en": "Al Masbou'ah: the seventh-day one"
+  },
+  "story": {
+    "ar": "«المَسْبُوعة» التي سُبِع لها، أو ذات السَّبْع. ويقع الشارع في هِيلِي، أبوظبي.",
+    "en": "Seventh-day one: that is «Al Masbou'ah». This street is in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masarrat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَسرات",
+  "en": "Al Masarrat Street",
+  "meaning": {
+    "ar": "«المَسرات»: جمع مَسَرَّة",
+    "en": "Al Masarrat: delights"
+  },
+  "story": {
+    "ar": "«المَسرات» لفظٌ يجمع «مَسَرَّة»، وهي البهجة والسرور. والشارع في المُشرِف، أبوظبي.",
+    "en": "Plural of masarrah — delights: that is «Al Masarrat». You will find the street in Al Mushrif, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masarrah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَسرَّة",
+  "en": "Al Masarrah Street",
+  "meaning": {
+    "ar": "«المَسرَّة»: البهجة والسرور",
+    "en": "Al Masarrah: delight"
+  },
+  "story": {
+    "ar": "«المَسرَّة» البهجة والسرور. ويمر الشارع في المُشرِف، أبوظبي.",
+    "en": "«Al Masarrah» means delight. The street runs in Al Mushrif, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masraj-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَسْرَج",
+  "en": "Al Masraj Street",
+  "meaning": {
+    "ar": "«المَسْرَج»: السَّرْج",
+    "en": "Al Masraj: saddled"
+  },
+  "story": {
+    "ar": "«المَسْرَج» السَّرْج، أو المُسرَّج. والشارع يحمل هذا الاسم في آل نَهيان، أبوظبي.",
+    "en": "Saddle, or the saddled one: that is «Al Masraj». The street sits in Al Nahyan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masrad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَسْرَد",
+  "en": "Al Masrad Street",
+  "meaning": {
+    "ar": "«المَسْرَد»: أداة السرد أو الخياطة",
+    "en": "Al Masrad: awl, stitching tool"
+  },
+  "story": {
+    "ar": "«المَسْرَد» أداة السرد أو الخياطة. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Awl, a stitching tool: that is «Al Masrad». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-misra-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المسرى",
+  "en": "Al Misra Street",
+  "meaning": {
+    "ar": "المسرى: موضع السَّيْر أو الرحلة الليلية",
+    "en": "Al Misra: night journey place"
+  },
+  "story": {
+    "ar": "«المسرى» موضع السَّيْر أو الرحلة الليلية. والشارع في جزيرة ياس، أبوظبي.",
+    "en": "Night journey place: that is «Al Misra». You will find the street on Yas Island, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mustabbah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُسطَبَّة",
+  "en": "Al Mustabbah Street",
+  "meaning": {
+    "ar": "«المُسطَبَّة»: المرتبة أو المنصّة المرتفعة",
+    "en": "a platform or step — the raised seat"
+  },
+  "story": {
+    "ar": "«المُسطَبَّة» المرتبة أو المنصّة المرتفعة. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Platform or step: that is «Al Mustabbah». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-musfir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المسفر",
+  "en": "Al Musfir Street",
+  "meaning": {
+    "ar": "المسفر: المضيء المشرق",
+    "en": "bright, radiant"
+  },
+  "story": {
+    "ar": "«المسفر» المضيء المشرق. والشارع يحمل هذا الاسم في الرَّحبة، أبوظبي.",
+    "en": "Bright and radiant: that is «Al Musfir». The street sits in Al Rahbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masqat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَسقاة",
+  "en": "Al Masqat Street",
+  "meaning": {
+    "ar": "«المَسقاة»: موضع السقيا أو الماء",
+    "en": "Al Masqat: watering place"
+  },
+  "story": {
+    "ar": "«المَسقاة» موضع السقيا أو الماء. ويقع الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Watering place: that is «Al Masqat». This street is in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mussana-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُسَّنى",
+  "en": "Al Mussana Street",
+  "meaning": {
+    "ar": "«المُسَّنى»: الغاية القصوى أو الدرجة العليا",
+    "en": "Al Mussana: the utmost, highest degree"
+  },
+  "story": {
+    "ar": "«المُسَّنى» الغاية القصوى أو الدرجة العليا. والشارع في الوِقن، أبوظبي.",
+    "en": "Utmost, the highest degree: that is «Al Mussana». You will find the street in Al Wiqan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masayl-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَسَيْل",
+  "en": "Al Masayl Street",
+  "meaning": {
+    "ar": "«المَسَيْل»: مسيل الماء",
+    "en": "Al Masayl: watercourse"
+  },
+  "story": {
+    "ar": "«المَسَيْل» مسيل الماء، المكان الذي يجري فيه. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "Watercourse: that is «Al Masayl». The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masharif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَشارِف",
+  "en": "Al Masharif Street",
+  "meaning": {
+    "ar": "المَشارِف: جمع مَشْرَف",
+    "en": "overlooks, highlands"
+  },
+  "story": {
+    "ar": "في «المَشارِف» جمعٌ لـ«مَشْرَف»، وهي المواضع المرتفعة أو القرى. والشارع يحمل هذا الاسم في زاخِر، أبوظبي.",
+    "en": "Plural of mashraf — overlooks and highlands: that is «Al Masharif». The street sits in Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mashariq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَشارِق",
+  "en": "Al Mashariq Street",
+  "meaning": {
+    "ar": "«المَشارِق»: جمع مَشْرَق",
+    "en": "Al Mashariq: eastern lands"
+  },
+  "story": {
+    "ar": "تُسمّى «المَشارِق» جمع «مَشْرَق»، وهي مواضع الشروق. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Plural of mashriq — eastern lands: that is «Al Mashariq». The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mashareef-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَشَارِيف",
+  "en": "Al Mashareef Street",
+  "meaning": {
+    "ar": "«المَشَارِيف»: جمع مَشْرَف",
+    "en": "Al Mashareef: elevated places"
+  },
+  "story": {
+    "ar": "«المَشَارِيف» على وزن جمع «مَشْرَف»، أو المواضع المشرفة. والشارع يحمل هذا الاسم في المُويجْعِي، أبوظبي.",
+    "en": "Plural of mashraf — elevated places: that is «Al Mashareef». You will find the street in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masha-il-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَشاعِل",
+  "en": "Al Masha'il Street",
+  "meaning": {
+    "ar": "«المَشاعِل»: جمع مِشْعَل",
+    "en": "Al Masha'il: torches"
+  },
+  "story": {
+    "ar": "يأتي «المَشاعِل» جمعاً لـ«مِشْعَل»، وهي المشاعل والقناديل. ويمر الشارع في عَيْن الفَايْضَة، أبوظبي.",
+    "en": "Plural of mish'al — torches: that is «Al Masha'il». The street runs in Ain Al Faydah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mushawir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُشَاوِر",
+  "en": "Al Mushawir Street",
+  "meaning": {
+    "ar": "«المُشَاوِر»: من شاور، المستشير",
+    "en": "Al Mushawir: consulters"
+  },
+  "story": {
+    "ar": "«المُشَاوِر» من شاور، المستشير. والشارع يحمل هذا الاسم في أم غَافة، أبوظبي.",
+    "en": "One who consults: that is «Al Mushawir». The street sits in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mashboub-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَشْبُوب",
+  "en": "Al Mashboub Street",
+  "meaning": {
+    "ar": "المَشْبُوب: المُشبَّب",
+    "en": "ornamented, youthful"
+  },
+  "story": {
+    "ar": "«المَشْبُوب» المُشبَّب، المُتحسن بالشَّبابة. ويمر الشارع في المَرْخَانِيَّة، أبوظبي.",
+    "en": "Ornamented, youthful one: that is «Al Mashboub». The street runs in Al Markhaniyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mishraf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِشْرَاف",
+  "en": "Al Mishraf Street",
+  "meaning": {
+    "ar": "المِشْرَاف: المُشرِف أو طائرة المراقبة",
+    "en": "Al Mishraf: overseer, glider"
+  },
+  "story": {
+    "ar": "«المِشْرَاف» المُشرِف أو طائرة المراقبة. والشارع يحمل هذا الاسم في وسط المدينة، أبوظبي.",
+    "en": "Overseer, and a glider: that is «Al Mishraf». The street is in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mushriqah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُشْرِقَة",
+  "en": "Al Mushriqah Street",
+  "meaning": {
+    "ar": "«المُشْرِقَة»: المكان المُشرق",
+    "en": "Al Mushriqah: the shining place"
+  },
+  "story": {
+    "ar": "«المُشْرِقَة» المكان المُشرق. ويقع الشارع في مدينة الرياض، أبوظبي.",
+    "en": "Shining place: that is «Al Mushriqah». This street lies in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mashmoom-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المشموم",
+  "en": "Al Mashmoom Street",
+  "meaning": {
+    "ar": "المَشْمُوم: قرنة المسك، وكل معطّر",
+    "en": "the musk-pod; the fragrant one"
+  },
+  "story": {
+    "ar": "«المَشْمُوم» قرنة المسك، وكل معطّر. والشارع في شنتير، أم القيوين.",
+    "en": "Musk-pod, and any fragrant thing: that is «Al Mashmoom». You will find the street in Shanteer, Umm Al Quwain."
+  }
+},
+{
+  "id": "al-mashmoum-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَشمُوم",
+  "en": "Al Mashmoum Street",
+  "meaning": {
+    "ar": "المَشْمُوم: قرنة المسك، وكل معطّر",
+    "en": "the musk-pod; the fragrant one"
+  },
+  "story": {
+    "ar": "يُسمّى «المَشمُوم» قرنةَ المسك وكلَّ معطّر. ويمر الشارع في المُشرِف، أبوظبي.",
+    "en": "The name «Al Mashmoom» is given to the musk-pod and all that is perfumed. The street runs in Al Mushrif, Abu Dhabi."
+  }
+},
+{
+  "id": "al-masabeeh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَصَابِيح",
+  "en": "Al Masabeeh Street",
+  "meaning": {
+    "ar": "«المَصَابِيح»: جمع مصباح",
+    "en": "Al Masabeeh: lamps"
+  },
+  "story": {
+    "ar": "«المَصَابِيح» جمع «مصباح»، وهي القداح. والشارع يحمل هذا الاسم في الوِقن، أبوظبي.",
+    "en": "Plural of misbah — lamps: that is «Al Masabeeh». The street sits in Al Wiqan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mudi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُضِي",
+  "en": "Al Mudi Street",
+  "meaning": {
+    "ar": "«المُضِي»: الذهاب والتقدم أو الإضاءة",
+    "en": "Al Mudi: proceeding, light"
+  },
+  "story": {
+    "ar": "«المُضِي» الذهاب والتقدم أو الإضاءة. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "«Al Mudi» means proceeding and light. The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-midyaf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المضياف",
+  "en": "Al Midyaf Street",
+  "meaning": {
+    "ar": "«المضياف»: كثير الضيافة",
+    "en": "Al Midyaf: hospitable"
+  },
+  "story": {
+    "ar": "«المضياف» كثير الضيافة، الكريم بالضيوف. والشارع في الجيمي، أبوظبي.",
+    "en": "Hospitable one: that is «Al Midyaf». You will find the street in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-matali-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَطَالِع",
+  "en": "Al Matali' Street",
+  "meaning": {
+    "ar": "المَطَالِع: جمع مَطْلَع",
+    "en": "ascents, rising places"
+  },
+  "story": {
+    "ar": "«المَطَالِع» جمع «مَطْلَع»، وهي مواضع الطلوع. ويمر الشارع في الزَّاهية، أبوظبي.",
+    "en": "Plural of matla' — ascents and rising places: that is «Al Matali'». The street runs in Al Zahiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutaw-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُطَاوْعَة",
+  "en": "Al Mutaw'ah Street",
+  "meaning": {
+    "ar": "المُطَاوْعَة: الانقياد والموافقة",
+    "en": "Al Mutaw'ah: compliance"
+  },
+  "story": {
+    "ar": "«المُطَاوْعَة» الانقياد والموافقة. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "«Al Mutaw'ah» means compliance. The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mataya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَطايا",
+  "en": "Al Mataya Street",
+  "meaning": {
+    "ar": "«المَطايا»: جمع مَطِيَّة",
+    "en": "Al Mataya: riding camels"
+  },
+  "story": {
+    "ar": "يأتي «المَطايا» جمعاً لـ«مَطِيَّة»، وهي الإبل. ويقع الشارع في الوِقن، أبوظبي.",
+    "en": "Riding camels are what «Al Mataya» names — the plural of matiyyah. This street is in Al Wiqan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mutayyab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُطَيَّب",
+  "en": "Al Mutayyab Street",
+  "meaning": {
+    "ar": "«المُطَيَّب»: المُعطَّر",
+    "en": "perfumed and fragrant"
+  },
+  "story": {
+    "ar": "«المُطَيَّب» المُعطَّر. والشارع في الدَّهْماء، أبوظبي.",
+    "en": "Perfumed one: that is «Al Mutayyab». You will find the street in Al Dahma, Abu Dhabi."
+  }
+},
+{
+  "id": "al-midhaheer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِظاهِير",
+  "en": "Al Midhaheer Street",
+  "meaning": {
+    "ar": "«المِظاهِير»: جمع مِظْهَر، وهي المظاهر",
+    "en": "Al Midhaheer: manifestations"
+  },
+  "story": {
+    "ar": "كلمة «المِظاهِير» جمع «مِظْهَر»، وهي المظاهر. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Plural of mizhar — manifestations: that is «Al Midhaheer». The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-ma-abir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَعابِر",
+  "en": "Al Ma'abir Street",
+  "meaning": {
+    "ar": "«المَعابِر»: جمع مَعْبَر",
+    "en": "Al Ma'abir: crossings"
+  },
+  "story": {
+    "ar": "«المَعابِر» صيغةُ جمع «مَعْبَر»، وهي مواضع العبور. والشارع يحمل هذا الاسم في مدينة خليفة، أبوظبي.",
+    "en": "Plural of ma'bar — crossings: that is «Al Ma'abir». The street sits in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "exhibition-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المعارض",
+  "en": "Exhibition Street",
+  "meaning": {
+    "ar": "«المعارِض»: أرضُ العروض",
+    "en": "exhibition grounds"
+  },
+  "story": {
+    "ar": "«المعارِض» أرضٌ تُقام فيها العروض. والشارع يحمل هذا الاسم في المركز التجاري، دبي.",
+    "en": "«Exhibition» names the exhibition grounds. The street is in Trade Centre, Dubai."
+  }
+},
+{
+  "id": "ma-ared-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المعارض",
+  "en": "Ma'ared Street",
+  "meaning": {
+    "ar": "«المَعارِض»: أرضُ العروض",
+    "en": "exhibition grounds"
+  },
+  "story": {
+    "ar": "يُطلق «المَعارِض» على أرضِ العروض. ويقع الشارع في جبل علي الصناعية 2، دبي.",
+    "en": "The name «Ma'ared» is given to the exhibition grounds. This street lies in Jabal Ali Industrial 2, Dubai."
+  }
+},
+{
+  "id": "al-maareedh-street",
+  "emirate": "ras-al-khaimah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المعارض",
+  "en": "Al Maareedh Street",
+  "meaning": {
+    "ar": "«المَعارِض»: أرضُ العروض",
+    "en": "exhibition grounds"
+  },
+  "story": {
+    "ar": "«المَعارِض» أرضُ العروض. والشارع في المعيريض، رأس الخيمة.",
+    "en": "Exhibition grounds: that is «Al Maareedh». You will find the street in Al Mairid, Ras Al Khaimah."
+  }
+},
+{
+  "id": "al-ma-arif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَعارِف",
+  "en": "Al Ma'arif Street",
+  "meaning": {
+    "ar": "المَعارِف: جمع مَعْرِفة",
+    "en": "knowledge, sciences"
+  },
+  "story": {
+    "ar": "الاسم «المَعارِف» جمع «مَعْرِفة»، وهي العلوم والمعارف. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Plural of ma'rifah — knowledge and sciences: that is «Al Ma'arif». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mua-did-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُعَاضِد",
+  "en": "Al Mua'did Street",
+  "meaning": {
+    "ar": "«المُعَاضِد»: المُساعد",
+    "en": "Al Mua'did: supporters"
+  },
+  "story": {
+    "ar": "«المُعَاضِد» المُساعد، من «عاضد». والشارع يحمل هذا الاسم في الشهامة، أبوظبي.",
+    "en": "«Al Mua'did» names the supporter. The street sits in Al Shahamah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-ma-alim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَعالِم",
+  "en": "Al Ma'alim Street",
+  "meaning": {
+    "ar": "«المَعالِم»: جمع مَعْلَم",
+    "en": "Al Ma'alim: landmarks"
+  },
+  "story": {
+    "ar": "«المَعالِم» لفظٌ يجمع «مَعْلَم»، وهي العلامات والآثار. ويمر الشارع في الوِقن، أبوظبي.",
+    "en": "Plural of ma'lam — landmarks: that is «Al Ma'alim». The street runs in Al Wiqan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-ma-ali-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المعالي",
+  "en": "Al Ma'ali Street",
+  "meaning": {
+    "ar": "«المعالي»: جمع مَعَالٍ، وهي القمم",
+    "en": "high places — the plural of ma'alin"
+  },
+  "story": {
+    "ar": "في «المعالي» جمعٌ لـ«مَعَالٍ»، وهي القمم. والشارع في الرَّحبة، أبوظبي.",
+    "en": "Plural of ma'alin — high places: that is «Al Ma'ali». You will find the street in Al Rahbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-ma-ani-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَعانِي",
+  "en": "Al Ma'ani Street",
+  "meaning": {
+    "ar": "«المَعانِي»: جمع مَعْنًى",
+    "en": "Al Ma'ani: meanings"
+  },
+  "story": {
+    "ar": "تُسمّى «المَعانِي» جمع «مَعْنًى»، وهي المعاني والمقاصد. ويمر الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Plural of ma'na — meanings: that is «Al Ma'ani». The street runs in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mu-tarid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُعْتَرِض",
+  "en": "Al Mu'tarid Street",
+  "meaning": {
+    "ar": "«المُعْتَرِض»: المُتَعَرِّض أو المُعترِض",
+    "en": "Al Mu'tarid: objecting, crossing"
+  },
+  "story": {
+    "ar": "«المُعْتَرِض» المُتَعَرِّض أو المُعترِض. والشارع يحمل هذا الاسم في المُعْتَرِض، أبوظبي.",
+    "en": "Objecting, crossing one: that is «Al Mu'tarid». The street sits in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mu-tali-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُعْتَلي",
+  "en": "Al Mu'tali Street",
+  "meaning": {
+    "ar": "المُعْتَلي: الصاعد المرتفع",
+    "en": "ascending, elevated"
+  },
+  "story": {
+    "ar": "«المُعْتَلي» الصاعد المرتفع. ويقع الشارع في المُويجْعِي، أبوظبي.",
+    "en": "Ascending, elevated one: that is «Al Mu'tali». This street is in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-ma-dhar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَعذَر",
+  "en": "Al Ma'dhar Street",
+  "meaning": {
+    "ar": "«المَعذَر»: موضع العذار أو المعذرة",
+    "en": "Al Ma'dhar: place of excuse"
+  },
+  "story": {
+    "ar": "«المَعذَر» موضع العذار أو المعذرة. والشارع في الوِقن، أبوظبي.",
+    "en": "Place of excuse: that is «Al Ma'dhar». You will find the street in Al Wiqan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mu-attar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المعطر",
+  "en": "Al Mu'attar Street",
+  "meaning": {
+    "ar": "«المعطر»: المُعطَّر",
+    "en": "Al Mu'attar: perfumed"
+  },
+  "story": {
+    "ar": "«المعطر» المُعطَّر. ويمر الشارع في الدَّهْماء، أبوظبي.",
+    "en": "Perfumed one: that is «Al Mu'attar». The street runs in Al Dahma, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mi-laq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِعلاق",
+  "en": "Al Mi'laq Street",
+  "meaning": {
+    "ar": "«المِعلاق»: الشَّوكة التي تُعلَّق عليها الأشياء",
+    "en": "a hook and hanger — where things are hung"
+  },
+  "story": {
+    "ar": "«المِعلاق» الشَّوكة التي تُعلَّق عليها الأشياء. والشارع يحمل هذا الاسم في نِعْمة، أبوظبي.",
+    "en": "Hook, a hanger: that is «Al Mi'laq». The street sits in Ni'mah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mi-alli-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِعَلِّي",
+  "en": "Al Mi'alli Street",
+  "meaning": {
+    "ar": "المِعَلِّي: من علّى",
+    "en": "the elevated one"
+  },
+  "story": {
+    "ar": "«المِعَلِّي» من «علّى»، أو المكان المرتفع. ويقع الشارع في الظَّاهِر، أبوظبي.",
+    "en": "Elevated one: that is «Al Mi'alli». This street is in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mighadir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِغادِر",
+  "en": "Al Mighadir Street",
+  "meaning": {
+    "ar": "«المِغادِر»: من غادر، المُغادر",
+    "en": "Al Mighadir: departing"
+  },
+  "story": {
+    "ar": "«المِغادِر» من «غادر»، المُغادر. والشارع في الظَّاهِر، أبوظبي.",
+    "en": "Departing one: that is «Al Mighadir». You will find the street in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maghas-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَغاص",
+  "en": "Al Maghas Street",
+  "meaning": {
+    "ar": "«المَغاص»: موضع الغوص",
+    "en": "Al Maghas: diving place"
+  },
+  "story": {
+    "ar": "«المَغاص» موضع الغوص. ويمر الشارع في الدَّانَةْ، أبوظبي.",
+    "en": "Diving place: that is «Al Maghas». The street runs in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maghanim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَغانِم",
+  "en": "Al Maghanim Street",
+  "meaning": {
+    "ar": "«المَغانِم»: جمع مَغْنَمة",
+    "en": "Al Maghanim: spoils"
+  },
+  "story": {
+    "ar": "«المَغانِم» على وزن جمع «مَغْنَمة»، وهي الغنائم. والشارع يحمل هذا الاسم في الشَّامْخَة، أبوظبي.",
+    "en": "Plural of maghnamah — spoils: that is «Al Maghanim». The street sits in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mughtanim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المغتنم",
+  "en": "Al Mughtanim Street",
+  "meaning": {
+    "ar": "المغتنم: من اغتنم",
+    "en": "seizing opportunity"
+  },
+  "story": {
+    "ar": "«المغتنم» من «اغتنم»، المستفيد. والشارع يحمل هذا الاسم في الروضة الشرقية، أبوظبي.",
+    "en": "One who seizes the opportunity: that is «Al Mughtanim». The street sits in Al Rawdah Al Sharqiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maghna-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَغنَى",
+  "en": "Al Maghna Street",
+  "meaning": {
+    "ar": "المَغنَى: الغناء أو المغني",
+    "en": "singer, sufficiency"
+  },
+  "story": {
+    "ar": "«المَغنَى» الغناء أو المغني. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Song, and the singer: that is «Al Maghna». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mafaz-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَفاز",
+  "en": "Al Mafaz Street",
+  "meaning": {
+    "ar": "المَفاز: الطريق أو النجاة أو الصحراء",
+    "en": "Al Mafaz: desert, salvation"
+  },
+  "story": {
+    "ar": "«المَفاز» الطريق أو النجاة أو الصحراء. والشارع في البطين، أبوظبي.",
+    "en": "«Al Mafaz» means desert and salvation. You will find the street in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mufradah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المفردة",
+  "en": "Al Mufradah Street",
+  "meaning": {
+    "ar": "المفردة: الشيء المنفرد أو الكلمة المفردة",
+    "en": "Al Mufradah: the singular one"
+  },
+  "story": {
+    "ar": "«المفردة» الشيء المنفرد أو الكلمة المفردة. ويمر الشارع في المُطَاوْعَة، أبوظبي.",
+    "en": "Singular one: that is «Al Mufradah». The street runs in Al Mutaw'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mifliqah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِفلِقة",
+  "en": "Al Mifliqah Street",
+  "meaning": {
+    "ar": "المِفلِقة: التي تفلق",
+    "en": "splitting, cleaving"
+  },
+  "story": {
+    "ar": "«المِفلِقة» التي تفلق، أو الرمح. والشارع يحمل هذا الاسم في غِيَّاثِي، أبوظبي.",
+    "en": "Splitting one, and the spear: that is «Al Mifliqah». The street sits in Ghiyathi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maqadeer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المقادير",
+  "en": "Al Maqadeer Street",
+  "meaning": {
+    "ar": "المقادير: جمع مقدار",
+    "en": "measures, destinies"
+  },
+  "story": {
+    "ar": "«المقادير» جمع «مقدار»، وهي القيم والمقادير. ويمر الشارع في البَاهية، أبوظبي.",
+    "en": "Plural of miqdar — measures and destinies: that is «Al Maqadeer». The street runs in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maqasid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المقاصد",
+  "en": "Al Maqasid Street",
+  "meaning": {
+    "ar": "المقاصد: جمع مقصود",
+    "en": "purposes, goals"
+  },
+  "story": {
+    "ar": "يأتي «المقاصد» جمعاً لـ«مقصود»، وهي الأهداف. والشارع يحمل هذا الاسم في مدينة خليفة، أبوظبي.",
+    "en": "Plural of maqsud — purposes and goals: that is «Al Maqasid». The street sits in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muqtarin-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المقترن",
+  "en": "Al Muqtarin Street",
+  "meaning": {
+    "ar": "«المقترن»: المُتَّصِل بالآخر",
+    "en": "Al Muqtarin: connected, joined"
+  },
+  "story": {
+    "ar": "«المقترن» المُتَّصِل بالآخر. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Connected, joined one: that is «Al Muqtarin». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-miqattarah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِقَطَّرة",
+  "en": "Al Miqattarah Street",
+  "meaning": {
+    "ar": "«المِقَطَّرة»: الآلة التي يُقطَّر بها",
+    "en": "Al Miqattarah: distiller, dropper"
+  },
+  "story": {
+    "ar": "«المِقَطَّرة» الآلة التي يُقطَّر بها. والشارع يحمل هذا الاسم في الظَّاهِر، أبوظبي.",
+    "en": "Distiller: that is «Al Miqattarah». The street sits in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "al-miqnas-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِقناص",
+  "en": "Al Miqnas Street",
+  "meaning": {
+    "ar": "«المِقناص»: موضع الصيد",
+    "en": "Al Miqnas: hunting ground"
+  },
+  "story": {
+    "ar": "«المِقناص» موضع الصيد. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Hunting ground: that is «Al Miqnas». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maknoun-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَكْنُون",
+  "en": "Al Maknoun Street",
+  "meaning": {
+    "ar": "«المَكْنُون»: المخزون المحفوظ",
+    "en": "Al Maknoun: stored, treasured"
+  },
+  "story": {
+    "ar": "«المَكْنُون» المخزون المحفوظ. والشارع في المَسْعُودِي، أبوظبي.",
+    "en": "What is stored and treasured: that is «Al Maknoun». You will find the street in Al Mas'oudi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-malaleeh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَلالِيح",
+  "en": "Al Malaleeh Street",
+  "meaning": {
+    "ar": "«المَلالِيح»: جمع مِلْيَح",
+    "en": "Al Malaleeh: planks, boards"
+  },
+  "story": {
+    "ar": "كلمة «المَلالِيح» جمع «مِلْيَح»، وهي الألواح الملبَّسة. ويمر الشارع في جَزِيرَة الرِّيم، أبوظبي.",
+    "en": "Plural of milyah — planks and boards: that is «Al Malaleeh». The street runs on Al Reem Island, Abu Dhabi."
+  }
+},
+{
+  "id": "al-malha-a-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَلحاء",
+  "en": "Al Malha-a Street",
+  "meaning": {
+    "ar": "المَلْحَاء: ما لَوْنُه لونَ المِلْح؛ وشجرة سقط ورقها؛ وفرقة عظيمة من الجيش",
+    "en": "salt-coloured; saline land; a tree that sheds its leaves"
+  },
+  "story": {
+    "ar": "«المَلْحَاء» ما لَوْنُه لونَ المِلْح، وشجرةٌ سقط ورقها. والشارع يحمل هذا الاسم في نَاهِل، أبوظبي.",
+    "en": "Salt-coloured, saline land, and a tree that sheds its leaves: that is «Al Malha-a». The street sits in Nahil, Abu Dhabi."
+  }
+},
+{
+  "id": "al-milaysa-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِلَيسا",
+  "en": "Al Milaysa Street",
+  "meaning": {
+    "ar": "المِلِيسا: عشبة المليسة، والاسم يوناني يعني «عسل النحل»",
+    "en": "melissa, lemon balm (Melissa officinalis)"
+  },
+  "story": {
+    "ar": "«المِلِيسا» عشبةُ المليسة، والاسم يوناني يعني «عسل النحل». ويمر الشارع في حَدْبَة الزَّعْفَرَانَة، أبوظبي.",
+    "en": "Melissa, lemon balm; the name means honey of bees: that is «Al Milaysa». The street runs in Hadbat Al Za'faranah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mimrah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِمراح",
+  "en": "Al Mimrah Street",
+  "meaning": {
+    "ar": "المِمْرَاح: النشيط؛ وعين ممراح: سريعة أو غزيرة الدمع",
+    "en": "lively, merry; an eye quick or copious in tears"
+  },
+  "story": {
+    "ar": "«المِمْرَاح» النشيط، وعينٌ سريعة أو غزيرة الدمع. والشارع في شعاب الأشخر، أبوظبي.",
+    "en": "Lively one, and an eye quick or copious in tears: that is «Al Mimrah». You will find the street in Shiab Al Ashkhar, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mamlahah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَملَحة",
+  "en": "Al Mamlahah Street",
+  "meaning": {
+    "ar": "المَمْلَحة: موضع المِلْح ومَصنَعُه",
+    "en": "salt pan, salt works (place of salt)"
+  },
+  "story": {
+    "ar": "«المَمْلَحة» موضعُ المِلْح ومَصنَعُه. ويمر الشارع في البطين، أبوظبي.",
+    "en": "Salt pan, a place of salt: that is «Al Mamlahah». The street runs in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manabi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنابِع",
+  "en": "Al Manabi' Street",
+  "meaning": {
+    "ar": "المَنَابِع: جمع مَنْبَع",
+    "en": "springs, sources (pl. of manba')"
+  },
+  "story": {
+    "ar": "«المَنَابِع» صيغةُ جمع «مَنْبَع»، ومَنبع الشيء مَصْدَرُه. والشارع يحمل هذا الاسم في العامرة، أبوظبي.",
+    "en": "Springs and sources: that is «Al Manabi'», the plural of manba'. The street sits in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manajim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَناجِم",
+  "en": "Al Manajim Street",
+  "meaning": {
+    "ar": "المَناجِم: جمع مَنْجَم",
+    "en": "Al Manajim: mines"
+  },
+  "story": {
+    "ar": "«المَناجِم» جمع «مَنْجَم»، وهي المناجم. ويمر الشارع في نِعْمة، أبوظبي.",
+    "en": "Plural of manjam — mines: that is «Al Manajim». The street runs in Ni'mah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manadir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنَادِر",
+  "en": "Al Manadir Street",
+  "meaning": {
+    "ar": "المَنَادِر: جمع مِنْدَر، وهي مواضع درس الحبوب والأماكن المرتفعة",
+    "en": "threshing floors, elevated places (pl. of mindar)"
+  },
+  "story": {
+    "ar": "الاسم «المَنَادِر» جمع «مِنْدَر»، وهي مواضع درس الحبوب والأماكن المرتفعة. والشارع في زاخِر، أبوظبي.",
+    "en": "Plural of mindar — threshing floors and elevated places: that is «Al Manadir». You will find the street in Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manazil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنازِل",
+  "en": "Al Manazil Street",
+  "meaning": {
+    "ar": "«المَنازِل»: جمع مَنْزِل",
+    "en": "Al Manazil: homes, stations"
+  },
+  "story": {
+    "ar": "«المَنازِل» لفظٌ يجمع «مَنْزِل»، وهي الدور والمنازل. ويمر الشارع في البطين، أبوظبي.",
+    "en": "Plural of manzil — homes and stations: that is «Al Manazil». The street runs in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manasik-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَناسِك",
+  "en": "Al Manasik Street",
+  "meaning": {
+    "ar": "المَنَاسِك: جمع مَنْسَك، وهي شعائر الحج وعباداته",
+    "en": "the rites of pilgrimage (pl. of mansak)"
+  },
+  "story": {
+    "ar": "في «المَنَاسِك» جمعٌ لـ«مَنْسَك»، وهي شعائر الحج وعباداته. والشارع يحمل هذا الاسم في الوَثْبَة، أبوظبي.",
+    "en": "Plural of mansak — the rites of pilgrimage: that is «Al Manasik». The street sits in Al Wathbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manaseeb-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المناسيب",
+  "en": "Al Manaseeb Street",
+  "meaning": {
+    "ar": "المَنَاسِيب: الطيور الداجنة المستعملة في الرسائل",
+    "en": "tamed carrier birds; ground/water levels"
+  },
+  "story": {
+    "ar": "«المَنَاسِيب» الطيور الداجنة المستعملة في الرسائل، ومناسيب الأرض مستوياتها. ويمر الشارع في جزيرة ياس، أبوظبي.",
+    "en": "«Al Manaseeb» are tamed carrier birds, and the levels of ground and water. The street runs on Yas Island, Abu Dhabi."
+  }
+},
+{
+  "id": "al-munashid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المناشد",
+  "en": "Al Munashid Street",
+  "meaning": {
+    "ar": "المُنَاشِد: فاعل من ناشَدَ — طالَبَه وحَلَّفَه",
+    "en": "one who implores or adjures (participle of naashada)"
+  },
+  "story": {
+    "ar": "«المُنَاشِد» فاعلٌ من «ناشَدَ»، أي طالَبَه وحَلَّفَه. والشارع في المَقَام، أبوظبي.",
+    "en": "One who implores or adjures: that is «Al Munashid». You will find the street in Al Maqam, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manatiq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المناطق",
+  "en": "Al Manatiq Street",
+  "meaning": {
+    "ar": "«المناطق»: جمع مَنْطَقة",
+    "en": "Al Manatiq: regions, zones"
+  },
+  "story": {
+    "ar": "«المناطق» جمع «مَنْطَقة»، وهي الأقاليم. ويمر الشارع في الجيمي، أبوظبي.",
+    "en": "Plural of manatiq — regions and zones: that is «Al Manatiq». The street runs in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manadhir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَناظِر",
+  "en": "Al Manadhir Street",
+  "meaning": {
+    "ar": "«المَناظِر»: جمع مَنْظَر",
+    "en": "Al Manadhir: views, scenes"
+  },
+  "story": {
+    "ar": "تُسمّى «المَناظِر» جمع «مَنْظَر»، وهي المشاهد. والشارع يحمل هذا الاسم في الشَّوامخ، أبوظبي.",
+    "en": "Plural of manzar — views and scenes: that is «Al Manadhir». The street sits in Al Shawamekh, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manafidh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنافِذ",
+  "en": "Al Manafidh Street",
+  "meaning": {
+    "ar": "المَنَافِذ: جمع مَنْفَذ",
+    "en": "outlets, exits (pl. of manfadh)"
+  },
+  "story": {
+    "ar": "«المَنَافِذ» على وزن جمع «مَنْفَذ»، وهي المخارج والمسالك. ويمر الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Plural of manfadh — outlets and exits: that is «Al Manafidh». The street runs in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manaqib-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَناقِب",
+  "en": "Al Manaqib Street",
+  "meaning": {
+    "ar": "«المَناقِب»: جمع مَنْقَبة، وطريقٌ ضيق بين دارين",
+    "en": "a narrow passage between houses — the plural of manqabah"
+  },
+  "story": {
+    "ar": "يأتي «المَناقِب» جمعاً لـ«مَنْقَبة»، وطريقٌ ضيق بين دارين. والشارع يحمل هذا الاسم في العامرة، أبوظبي.",
+    "en": "Plural of manqabah, and a narrow passage between houses: that is «Al Manaqib». The street sits in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manahij-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المناهج",
+  "en": "Al Manahij Street",
+  "meaning": {
+    "ar": "المناهج: جمع مَنْهَج",
+    "en": "methods, curricula"
+  },
+  "story": {
+    "ar": "كلمة «المناهج» جمع «مَنْهَج»، وهي الطرق والأساليب. ويمر الشارع في مدينة شخبوط، أبوظبي.",
+    "en": "Plural of manhaj — methods and curricula: that is «Al Manahij». The street runs in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manahil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَناهِل",
+  "en": "Al Manahil Street",
+  "meaning": {
+    "ar": "المَنَاهِل: جمع مَنْهَل",
+    "en": "watering places (pl. of manhal)"
+  },
+  "story": {
+    "ar": "«المَناهِل» صيغةُ جمع «مَنْهَل»، وهي مواضع الماء التي تردها الإبل. والشارع في هِيلِي، أبوظبي.",
+    "en": "Plural of manhal — watering places: that is «Al Manahil». You will find the street in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manayih-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المنايح",
+  "en": "Al Manayih Street",
+  "meaning": {
+    "ar": "المَنَايِح: جمع مَنِيحة",
+    "en": "lent milk-animals (pl. of maniha)"
+  },
+  "story": {
+    "ar": "الاسم «المَنَايِح» جمع «مَنِيحة»، وهي الناقة أو الشاة تُمنح للحلب. ويمر الشارع في هِيلِي، أبوظبي.",
+    "en": "Plural of manihah — lent milk-animals: that is «Al Manayih». The street runs in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "al-manbi-j-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنبِعِج",
+  "en": "Al Manbi'j Street",
+  "meaning": {
+    "ar": "المُنْبَعِج: فاعل من انبَعَجَ — اتّسَع وانفرَجَت جوانبه",
+    "en": "wide and flared open (participle of inba'aja)"
+  },
+  "story": {
+    "ar": "«المُنْبَعِج» فاعلٌ من «انبَعَجَ»، اتّسَع وانفرَجَت جوانبه. والشارع يحمل هذا الاسم في السِّلَع، أبوظبي.",
+    "en": "What is wide and flared open: that is «Al Manbi'j». The street sits in Al Sila', Abu Dhabi."
+  }
+},
+{
+  "id": "al-munjaz-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المنجز",
+  "en": "Al Munjaz Street",
+  "meaning": {
+    "ar": "المُنْجِز: فاعل من أَنْجَزَ — أَتَمَّه وقَضاه",
+    "en": "accomplisher; irrevocable (of a divorce)"
+  },
+  "story": {
+    "ar": "«المُنْجِز» فاعلٌ من «أَنْجَزَ»، أَتَمَّه وقَضاه. ويمر الشارع في البَاهية، أبوظبي.",
+    "en": "Accomplisher; the term is also used of an irrevocable act: that is «Al Munjaz». The street runs in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-minkhal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المنخال",
+  "en": "Al Minkhal Street",
+  "meaning": {
+    "ar": "المِنْخَال: الآلة التي يُنخَل بها الدقيق",
+    "en": "a sifting tool for flour (like the minkhul)"
+  },
+  "story": {
+    "ar": "«المِنْخَال» الآلة التي يُنخَل بها الدقيق. والشارع في المُعْتَرِض، أبوظبي.",
+    "en": "Sifting tool for flour: that is «Al Minkhal». You will find the street in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mandareen-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنْدَرِين",
+  "en": "Al Mandareen Street",
+  "meaning": {
+    "ar": "«المَنْدَرِين»: فاكهة حمضية شبيهة بالبرتقال",
+    "en": "the mandarin orange, a citrus fruit like the orange"
+  },
+  "story": {
+    "ar": "«المَنْدَرِين» فاكهةٌ حمضية شبيهة بالبرتقال. ويمر الشارع في ربدان، أبوظبي.",
+    "en": "Mandarin orange: that is «Al Mandareen». The street runs in Rabdan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mansura-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المنصورة",
+  "en": "Al Mansura Street",
+  "meaning": {
+    "ar": "المَنْصُورَة: الغالبة الظافرة",
+    "en": "the victorious (fem.)"
+  },
+  "story": {
+    "ar": "«المَنْصُورَة» الغالبة الظافرة. والشارع يحمل هذا الاسم في الشرق، الشارقة.",
+    "en": "Victorious one: that is «Al Mansura». The street sits in Al Sharq, Sharjah."
+  }
+},
+{
+  "id": "al-mansourah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنصُورة",
+  "en": "Al Mansourah Street",
+  "meaning": {
+    "ar": "المَنْصُورَة: الغالبة الظافرة",
+    "en": "the victorious (fem.)"
+  },
+  "story": {
+    "ar": "يُوصف بالمنصورة ما غلب وظفر. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "The name «Al Mansourah» describes what wins and prevails. The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-min-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِنعة",
+  "en": "Al Min'ah Street",
+  "meaning": {
+    "ar": "المَنْعَة: المنعة والحصانة والحماية؛ ومنَعَه: حَرَمَه",
+    "en": "invulnerability, protection; to deprive of"
+  },
+  "story": {
+    "ar": "«المَنْعَة» المنعة والحصانة والحماية. والشارع يحمل هذا الاسم في زاخِر، أبوظبي.",
+    "en": "«Al Min'ah» means invulnerability and protection. You will find the street in Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mun-imeen-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُنْعِمِين",
+  "en": "Al Mun'imeen Street",
+  "meaning": {
+    "ar": "«المُنْعِمِين»: جمع مُنْعِم، وهم المُعطون",
+    "en": "the plural of mun'im — the givers"
+  },
+  "story": {
+    "ar": "«المُنْعِمِين» لفظٌ يجمع «مُنْعِم»، وهم المُعطون. ويمر الشارع في وسط المدينة، أبوظبي.",
+    "en": "Plural of mun'im — the givers: that is «Al Mun'imeen». The street runs in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maneef-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المنيف",
+  "en": "Al Maneef Street",
+  "meaning": {
+    "ar": "«المُنِيف»: العالي الشامخ",
+    "en": "towering and high above others"
+  },
+  "story": {
+    "ar": "«المُنِيف» العالي الشامخ. والشارع يحمل هذا الاسم في الروضة، أبوظبي.",
+    "en": "Towering and high: that is «Al Maneef». The street sits in Al Rawdah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maneefah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَنِيفة",
+  "en": "Al Maneefah Street",
+  "meaning": {
+    "ar": "«المَنِيفة»: العالية المرتفعة",
+    "en": "high and towering, the elevated one"
+  },
+  "story": {
+    "ar": "«المَنِيفة» العالية المرتفعة. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "High, towering one: that is «Al Maneefah». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-maharat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَهارات",
+  "en": "Al Maharat Street",
+  "meaning": {
+    "ar": "«المَهارات»: جمع مَهارة",
+    "en": "Al Maharat: skills"
+  },
+  "story": {
+    "ar": "في «المَهارات» جمعٌ لـ«مَهارة»، وهي الإتقان. والشارع يحمل هذا الاسم في البَاهية، أبوظبي.",
+    "en": "Plural of maharah — skills: that is «Al Maharat». You will find the street in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mehab-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المهب",
+  "en": "Al Mehab Street",
+  "meaning": {
+    "ar": "المَهَبّ: جهة هبوب الريح",
+    "en": "the direction the wind blows from"
+  },
+  "story": {
+    "ar": "«المَهَبّ» جهةُ هبوب الريح. ويمر الشارع في الرأس، أم القيوين.",
+    "en": "Direction the wind blows from: that is «Al Mehab». The street runs in Al Raas, Umm Al Quwain."
+  }
+},
+{
+  "id": "al-mahab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَهَب",
+  "en": "Al Mahab Street",
+  "meaning": {
+    "ar": "المَهَبّ: جهة هبوب الريح",
+    "en": "the direction the wind blows from"
+  },
+  "story": {
+    "ar": "يُسمّى «المَهَب» جهةَ هبوب الريح. والشارع يحمل هذا الاسم في مْبَزَّرَة الخَضْراء، أبوظبي.",
+    "en": "The name «Al Mahab» is given to the quarter the wind comes from. The street sits in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mihdham-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِهذَم",
+  "en": "Al Mihdham Street",
+  "meaning": {
+    "ar": "المِهْذَم: السيف القاطع",
+    "en": "the keen cutting sword"
+  },
+  "story": {
+    "ar": "«المِهْذَم» السيف القاطع. ويمر الشارع في المَنهَل، أبوظبي.",
+    "en": "Keen cutting sword: that is «Al Mihdham». The street runs in Al Manhal, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mahamat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَهَمات",
+  "en": "Al Mahamat Street",
+  "meaning": {
+    "ar": "«المَهَمات»: جمع مُهِمَّة، وهي المهام",
+    "en": "Al Mahamat: important tasks"
+  },
+  "story": {
+    "ar": "تُسمّى «المَهَمات» جمع «مُهِمَّة»، وهي المهام. والشارع في بني ياس، أبوظبي.",
+    "en": "Plural of muhimmah — important tasks: that is «Al Mahamat». You will find the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mihan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المِهَن",
+  "en": "Al Mihan Street",
+  "meaning": {
+    "ar": "المِهَن: جمع مِهْنة، وهي الحرف والخدمات والوظائف",
+    "en": "trades, crafts, occupations (pl. of mihna)"
+  },
+  "story": {
+    "ar": "«المِهَن» على وزن جمع «مِهْنة»، وهي الحرف والخدمات والوظائف. ويمر الشارع في الشُّوِيهَات، أبوظبي.",
+    "en": "Plural of mihnah — trades and occupations: that is «Al Mihan». The street runs in Al Shuweehat, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mehimat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المهَيمات",
+  "en": "Al Mehimat Street",
+  "meaning": {
+    "ar": "«المهَيمات»: جمع مُهَيْمِن، والرياح المهيمنات الغالبات",
+    "en": "the all-watching ones, and dominant winds"
+  },
+  "story": {
+    "ar": "يأتي «المُهَيْمِنَات» جمعاً لـ«مُهَيْمِن»، والرياح المهيمنات الغالبات. والشارع يحمل هذا الاسم في البطين، أبوظبي.",
+    "en": "Plural of muhaymin — the all-watching ones, and dominant winds: that is «Al Mehimat». The street sits in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawatheeq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَواثِيق",
+  "en": "Al Mawatheeq Street",
+  "meaning": {
+    "ar": "«المَواثِيق»: جمع مِيثاق",
+    "en": "Al Mawatheeq: covenants"
+  },
+  "story": {
+    "ar": "«المَواثِيق» جمع «مِيثاق»، وهي العهود. ويمر الشارع في البطين، أبوظبي.",
+    "en": "Plural of mithaq — covenants: that is «Al Mawatheeq». The street runs in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muwarid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُوارِد",
+  "en": "Al Muwarid Street",
+  "meaning": {
+    "ar": "المُوارِد: جمع مَوْرِد",
+    "en": "resources, sources"
+  },
+  "story": {
+    "ar": "كلمة «المُوارِد» جمع «مَوْرِد»، وهي المصادر. والشارع يحمل هذا الاسم في الشَّامْخَة، أبوظبي.",
+    "en": "Plural of mawrid — resources: that is «Al Muwarid». You will find the street in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muwazi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الموازي",
+  "en": "Al Muwazi Street",
+  "meaning": {
+    "ar": "المُوَازِي: المُقابِل المُساوِي",
+    "en": "parallel, equal; a joined pair of wooden pieces"
+  },
+  "story": {
+    "ar": "«المُوَازِي» المُقابِل المُساوِي، وموازيان قطعتا خشب متزاوجتان. ويمر الشارع في ساس النَّخْل، أبوظبي.",
+    "en": "«Al Muwazi» means parallel and equal; the dual names a joined pair of wooden pieces. The street runs in Sas Al Nakhl, Abu Dhabi."
+  }
+},
+{
+  "id": "al-muwazeen-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الموازين",
+  "en": "Al Muwazeen Street",
+  "meaning": {
+    "ar": "«الموازين»: جمع ميزان",
+    "en": "Al Muwazeen: scales"
+  },
+  "story": {
+    "ar": "«الموازين» صيغةُ جمع «ميزان»، وهي الميزانات. والشارع يحمل هذا الاسم في البَاهية، أبوظبي.",
+    "en": "Plural of mizan — scales: that is «Al Muwazeen». The street sits in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawasim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَواسِم",
+  "en": "Al Mawasim Street",
+  "meaning": {
+    "ar": "«المَواسِم»: جمع مَوْسِم",
+    "en": "Al Mawasim: seasons"
+  },
+  "story": {
+    "ar": "الاسم «المَواسِم» جمع «مَوْسِم»، وهي المواسم. ويمر الشارع في الحِصِن، أبوظبي.",
+    "en": "Plural of mawsim — seasons: that is «Al Mawasim». The street runs in Al Hisn, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawaseel-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَواصِيل",
+  "en": "Al Mawaseel Street",
+  "meaning": {
+    "ar": "المَوَاصِيل: المنزلة والموقع والمكانة",
+    "en": "status, standing, rank (dialectal)"
+  },
+  "story": {
+    "ar": "«المَوَاصِيل» في اللهجات: المنزلة والموقع والمكانة. والشارع في بني ياس، أبوظبي.",
+    "en": "Used dialectally for status and standing: that is «Al Mawaseel». You will find the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawaqid-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المواقد",
+  "en": "Al Mawaqid Street",
+  "meaning": {
+    "ar": "المواقد: جمع مَوْقِد",
+    "en": "hearths, fireplaces"
+  },
+  "story": {
+    "ar": "«المواقد» لفظٌ يجمع «مَوْقِد»، وهي مواضع النار. ويمر الشارع في ساس النَّخْل، أبوظبي.",
+    "en": "Plural of maqwid — hearths and fireplaces: that is «Al Mawaqid». The street runs in Sas Al Nakhl, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawaqif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المواقف",
+  "en": "Al Mawaqif Street",
+  "meaning": {
+    "ar": "المَوَاقِف: جمع موقف",
+    "en": "parking lots, stands"
+  },
+  "story": {
+    "ar": "في «المَوَاقِف» جمعٌ لـ«موقف»، وهي مواضع الوقوف والركن. والشارع يحمل هذا الاسم في الصَّدر، أبوظبي.",
+    "en": "Plural of mawqif — parking lots and stands: that is «Al Mawaqif». The street sits in Al Sader, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawaqeet-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَواقِيت",
+  "en": "Al Mawaqeet Street",
+  "meaning": {
+    "ar": "المَوَاقِيت: جمع مِيقَات، وهي الأوقات ومواضع الإحرام",
+    "en": "appointed times; the stations of ihram (pl. of mīqāt)"
+  },
+  "story": {
+    "ar": "تُسمّى «المَوَاقِيت» جمع «مِيقَات»، وهي الأوقات ومواضع الإحرام. ويمر الشارع في العامرة، أبوظبي.",
+    "en": "Plural of miqat — appointed times and the stations of ihram: that is «Al Mawaqeet». The street runs in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawakib-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَوَاكِب",
+  "en": "Al Mawakib Street",
+  "meaning": {
+    "ar": "المَوَاكِب: جمع مَوْكِب",
+    "en": "processions, cavalcades (pl. of mawkib)"
+  },
+  "story": {
+    "ar": "«المَوَاكِب» على وزن جمع «مَوْكِب»، وهي الجماعات المتسيرة في احتفال. والشارع في المُويجْعِي، أبوظبي.",
+    "en": "Plural of mawkib — processions and cavalcades: that is «Al Mawakib». You will find the street in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mualeef-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُوَاليف",
+  "en": "Al Mualeef Street",
+  "meaning": {
+    "ar": "المُوَالِيف: جمع مَوْلُوف/مَأْلُوف",
+    "en": "the accustomed, familiar ones (pl. of mawluuf)"
+  },
+  "story": {
+    "ar": "يأتي «المُوَالِيف» جمعاً لـ«مَوْلُوف»، وهي المألوفات المستأنس بها. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Plural of mawluuf — the accustomed and familiar ones: that is «Al Mualeef». The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mawani-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَوَانِي",
+  "en": "Al Mawani Street",
+  "meaning": {
+    "ar": "المَوَانِي: جمع مِينَاء، وهي مرسى السفن",
+    "en": "ports, harbours (pl. of mīnā')"
+  },
+  "story": {
+    "ar": "كلمة «المَوَانِي» جمع «مِينَاء»، وهي مرسى السفن. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "Ports and harbours are what «Al Mawani» names — the plural of mina'. The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mowrad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المُورَد",
+  "en": "Al Mowrad Street",
+  "meaning": {
+    "ar": "المُورَد: الماء الذي يُورَد",
+    "en": "water source, reference"
+  },
+  "story": {
+    "ar": "«المُورَد» الماء الذي يُورَد، أو المرجع. والشارع يحمل هذا الاسم في الشَّامْخَة، أبوظبي.",
+    "en": "Water source, and a reference: that is «Al Mowrad». The street sits in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mayyah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَيَّاح",
+  "en": "Al Mayyah Street",
+  "meaning": {
+    "ar": "المَيَّاح: الكثير التبختر والتمايل في مشيته",
+    "en": "one who struts and sways as he walks"
+  },
+  "story": {
+    "ar": "«المَيَّاح» الكثير التبختر والتمايل في مشيته. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "One who struts and sways as he walks: that is «Al Mayyah». The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mayadeen-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَيادِين",
+  "en": "Al Mayadeen Street",
+  "meaning": {
+    "ar": "«المَيادِين»: جمع مَيْدَان",
+    "en": "Al Mayadeen: arenas, fields"
+  },
+  "story": {
+    "ar": "المقصود بـ«المَيادِين» جمع «مَيْدَان»، وهي الساحات. والشارع في العامرة، أبوظبي.",
+    "en": "Plural of maydan — arenas and fields: that is «Al Mayadeen». You will find the street in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mayameen-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَيامِين",
+  "en": "Al Mayameen Street",
+  "meaning": {
+    "ar": "«المَيَامِين»: جمع مَيْمُون، وهم ذوو اليمن",
+    "en": "the plural of maymun — the fortunate ones"
+  },
+  "story": {
+    "ar": "«المَيَامِين» صيغةُ جمع «مَيْمُون»، وهم ذوو اليمن. ويمر الشارع في الخِرَيْر، أبوظبي.",
+    "en": "Plural of maymun — the fortunate ones: that is «Al Mayameen». The street runs in Al Khirayr, Abu Dhabi."
+  }
+},
+{
+  "id": "al-mayj-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع المَيْج",
+  "en": "Al Mayj Street",
+  "meaning": {
+    "ar": "المَيْج: الاختلاط والاضطراب والدوران",
+    "en": "confusion, turmoil, swirling (from māja yamīju)"
+  },
+  "story": {
+    "ar": "«المَيْج» الاختلاط والاضطراب والدوران. والشارع يحمل هذا الاسم في ميناء زايد، أبوظبي.",
+    "en": "«Al Mayj» means confusion and swirling. The street sits in Zayed Port, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nasfah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّاصفة",
+  "en": "An Nasfah Street",
+  "meaning": {
+    "ar": "النَّاصفة: فاعلة من ناصَفَه — قاسمَه نصفَه؛ والناصِف: الشارع الناصف الواسع",
+    "en": "one who halves or shares equally; the middle of a road"
+  },
+  "story": {
+    "ar": "«النَّاصفة» فاعلةٌ من «ناصَفَه»، قاسمَه نصفَه؛ والناصِف الشارع الواسع. ويمر الشارع في غِيَّاثِي، أبوظبي.",
+    "en": "One who halves or shares equally; the word also names the middle of a road: that is «An Nasfah». The street runs in Ghiyathi, Abu Dhabi."
+  }
+},
+{
+  "id": "an-namsah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّامسة",
+  "en": "An Namsah Street",
+  "meaning": {
+    "ar": "«النَّامسة»: من نامَس الصائد، ونامَسَه باح له بسرّه",
+    "en": "a hunter who enters the hide; one who confides a secret"
+  },
+  "story": {
+    "ar": "«النَّامِس» من «نامَس» الصائد، دخل الناموس؛ ونامَسَه باح له بسرّه. والشارع في العامرة، أبوظبي.",
+    "en": "Hunter who enters the hide, and one who confides a secret: that is «An Namsah». You will find the street in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nahour-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّاهُور",
+  "en": "Al Nahour Street",
+  "meaning": {
+    "ar": "«النَّاهُور»: السحاب",
+    "en": "Al Nahour: raincloud"
+  },
+  "story": {
+    "ar": "«النَّاهُور» السحاب. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Raincloud: that is «Al Nahour». The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nahi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّاهي",
+  "en": "An Nahi Street",
+  "meaning": {
+    "ar": "النَّاهِي: الشبعان الريّان",
+    "en": "sated, quenched; the forbidder"
+  },
+  "story": {
+    "ar": "«النَّاهِي» الشبعان الريّان؛ والناهي المانع. والشارع يحمل هذا الاسم في مدينة خليفة، أبوظبي.",
+    "en": "Sated and quenched one, and the forbidder: that is «An Nahi». The street sits in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nabbagh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّبَّاغ",
+  "en": "Al Nabbagh Street",
+  "meaning": {
+    "ar": "النُّبَاغ: غبارُ الشيء؛ ونُباغ الدقيق والطريق",
+    "en": "dust, fine particles (of flour or a road)"
+  },
+  "story": {
+    "ar": "«النُّبَاغ» غبارُ الشيء؛ ونُباغ الدقيق والطريق. ويمر الشارع في الرَّحبة، أبوظبي.",
+    "en": "Dust, fine particles of flour or a road: that is «Al Nabbagh». The street runs in Al Rahbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nabat-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النبط",
+  "en": "Al Nabat Street",
+  "meaning": {
+    "ar": "نَبَطَ الشيء: ظهر بعد خفائه؛ والنبط: قوم النبط",
+    "en": "to spring up after being hidden; the Nabataeans"
+  },
+  "story": {
+    "ar": "«نَبَطَ» الشيء: ظهر بعد خفائه؛ والنبط قومُ النبط. والشارع يحمل هذا الاسم في برشا هايتس، دبي.",
+    "en": "«Al Nabat» means to spring up after being hidden; the word also names the Nabataeans. The street sits in Barsha Heights, Dubai."
+  }
+},
+{
+  "id": "al-nethra-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النثرة",
+  "en": "Al Nethra Street",
+  "meaning": {
+    "ar": "النَّثْرة: ما يُنثَر؛ والقطعة من الثياب؛ وما أُخرج من الأنف",
+    "en": "what is scattered; a piece of cloth; nasal mucus"
+  },
+  "story": {
+    "ar": "«النَّثْرة» ما يُنثَر، والقطعة من الثياب. ويمر الشارع في الصفوح 1، دبي.",
+    "en": "What is scattered, and a piece of cloth: that is «Al Nethra». The street runs in Al Sufouh 1, Dubai."
+  }
+},
+{
+  "id": "an-nathriyyah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّثْرِيَّة",
+  "en": "An Nathriyyah Street",
+  "meaning": {
+    "ar": "النَّثْرِيَّة: المنسوبة إلى النثر",
+    "en": "prose-related (as opposed to verse)"
+  },
+  "story": {
+    "ar": "«النَّثْرِيَّة» المنسوبة إلى النثر. والشارع يحمل هذا الاسم في مدينة خليفة، أبوظبي.",
+    "en": "Adjective of prose: that is «An Nathriyyah». You will find the street in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "an-naja-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّجع",
+  "en": "An Naja' Street",
+  "meaning": {
+    "ar": "النَّجَع: التجمع العمراني الصغير في الصحراء أو الريف",
+    "en": "a small hamlet; to be effective (of medicine)"
+  },
+  "story": {
+    "ar": "«النَّجَع» التجمع العمراني الصغير في الصحراء أو الريف، ونَجَع الدواء أثّر. ويمر الشارع في الظَّاهِر، أبوظبي.",
+    "en": "Small hamlet; the verb also means for medicine to take effect: that is «An Naja'». The street runs in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "an-najmat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّجمات",
+  "en": "An Najmat Street",
+  "meaning": {
+    "ar": "«النَّجمات»: جمع نجمة",
+    "en": "An Najmat: small stars"
+  },
+  "story": {
+    "ar": "الاسم «النَّجمات» جمع «نجمة»، وهي النجوم الصغيرة. والشارع يحمل هذا الاسم في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Plural of najmah — small stars: that is «An Najmat». The street sits in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-najmi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النجمي",
+  "en": "Al Najmi Street",
+  "meaning": {
+    "ar": "النَّجْميّ: المنسوب إلى النجم",
+    "en": "stellar, astral (relating to a star)"
+  },
+  "story": {
+    "ar": "«النَّجْميّ» المنسوب إلى النجم. ويمر الشارع في الروضة الشرقية، أبوظبي.",
+    "en": "Adjective of the star: that is «Al Najmi». The street runs in Al Rawdah Al Sharqiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "an-najwah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّجوة",
+  "en": "An Najwah Street",
+  "meaning": {
+    "ar": "«النَّجوة»: المكان المرتفع من الأرض؛ والنجاة",
+    "en": "An Najwah: a high place; salvation"
+  },
+  "story": {
+    "ar": "«النَّجْوة» المكان المرتفع من الأرض، والنجاة. والشارع في هِيلِي، أبوظبي.",
+    "en": "High place, and salvation: that is «An Najwah». You will find the street in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "al-najoom-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النجوم",
+  "en": "Al Najoom Street",
+  "meaning": {
+    "ar": "«النجوم»: جمع نجم",
+    "en": "Al Najoom: the stars"
+  },
+  "story": {
+    "ar": "«النجوم» لفظٌ يجمع «نجم»، وهي النجوم. ويمر الشارع في الحبية 6، دبي.",
+    "en": "Plural of najm — the stars: that is «Al Najoom». The street runs in Al Hebiah 6, Dubai."
+  }
+},
+{
+  "id": "an-nadeeb-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النديب",
+  "en": "An Nadeeb Street",
+  "meaning": {
+    "ar": "النَّديب: ذو النُّدوب — ظهرت فيه آثار الجروح",
+    "en": "scarred (bearing marks of wounds)"
+  },
+  "story": {
+    "ar": "«النَّديب» ذو النُّدوب، ظهرت فيه آثار الجروح. والشارع يحمل هذا الاسم في مدينة زايد، أبوظبي.",
+    "en": "Scarred one, bearing marks of wounds: that is «An Nadeeb». The street sits in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nuzhat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النُّزهات",
+  "en": "An Nuzhat Street",
+  "meaning": {
+    "ar": "النُّزْهات: جمع نُزْهة",
+    "en": "outings, pleasures (pl. of nuzha)"
+  },
+  "story": {
+    "ar": "في «النُّزْهات» جمعٌ لـ«نُزْهة»، وهي التنزه والخروج إلى الهواء الطلق. ويمر الشارع في غِيَّاثِي، أبوظبي.",
+    "en": "Plural of nuzhah — outings and pleasures: that is «An Nuzhat». The street runs in Ghiyathi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nizoul-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النِّزُول",
+  "en": "Al Nizoul Street",
+  "meaning": {
+    "ar": "النِّزُول: جمع نَزْل",
+    "en": "descents, alightings"
+  },
+  "story": {
+    "ar": "تُسمّى «النِّزُول» جمع «نَزْل»، أو فعل النزول. والشارع في المُعْتَرِض، أبوظبي.",
+    "en": "Plural of nazl — descents and alightings: that is «Al Nizoul». You will find the street in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nasayim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النسايم",
+  "en": "Al Nasayim Street",
+  "meaning": {
+    "ar": "النَّسَائِم: جمع نَسيم",
+    "en": "gentle breezes (pl. of nasīm)"
+  },
+  "story": {
+    "ar": "«النَّسَائِم» على وزن جمع «نَسيم»، وهي النسائم العليلة. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Gentle breezes are what «Al Nasayim» names — the plural of nasim. The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nassem-raod",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النسيم",
+  "en": "Al Nassem Raod",
+  "meaning": {
+    "ar": "النَّسيم، الريح الطيبة",
+    "en": "the gentle breeze"
+  },
+  "story": {
+    "ar": "«النَّسيم» الريحُ الطيبة. والشارع يحمل هذا الاسم في أبراج بحيرات جميرا، دبي.",
+    "en": "Gentle breeze: that is «Al Nassem». The street sits in JLT cluster Q, Dubai."
+  }
+},
+{
+  "id": "al-naseem-a-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النسيم أ",
+  "en": "Al Naseem A Street",
+  "meaning": {
+    "ar": "النَّسيم، الريح الطيبة",
+    "en": "the gentle breeze"
+  },
+  "story": {
+    "ar": "يُطلق «النَّسيم» على الريح الطيبة. ويمر الشارع في الحبية 6، دبي.",
+    "en": "The name «Al Naseem» is given to the gentle breeze. The street runs in Al Hebiah 6, Dubai."
+  }
+},
+{
+  "id": "al-naseem-b-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النسيم ب",
+  "en": "Al Naseem B Street",
+  "meaning": {
+    "ar": "النَّسيم، الريح الطيبة",
+    "en": "the gentle breeze"
+  },
+  "story": {
+    "ar": "«النَّسيم» هو الريحُ الطيبة الهادئة. والشارع في الحبية 6، دبي.",
+    "en": "«Al Naseem» means the soft pleasant wind. You will find the street in Al Hebiah 6, Dubai."
+  }
+},
+{
+  "id": "al-nashama-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النشاما",
+  "en": "Al Nashama Street",
+  "meaning": {
+    "ar": "«النَّشَامَى»: جمع نَشْم، وهي شجر الجبل ذي الأعواد الصلبة",
+    "en": "hardwood mountain shrubs — the plural of nashm"
+  },
+  "story": {
+    "ar": "يأتي «النَّشَامَى» جمعاً لـ«نَشْم»، وهي شجر الجبل ذي الأعواد الصلبة. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Plural of nashm — hardwood mountain shrubs: that is «Al Nashama». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nashmi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّشْمِي",
+  "en": "Al Nashmi Street",
+  "meaning": {
+    "ar": "«النَّشْميّ»: المنسوب إلى النَّشْم، شجر الجبل",
+    "en": "the adjective of nashm wood, the mountain shrub"
+  },
+  "story": {
+    "ar": "«النَّشْميّ» المنسوب إلى النَّشْم، شجر الجبل. والشارع يحمل هذا الاسم في أم غَافة، أبوظبي.",
+    "en": "Adjective of nashm wood: that is «Al Nashmi». The street sits in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nassas-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النصاص",
+  "en": "An Nassas Street",
+  "meaning": {
+    "ar": "النِّصاص: جمع نُصّة",
+    "en": "forelocks (pl. of nussa)"
+  },
+  "story": {
+    "ar": "كلمة «النِّصاص» جمع «نُصّة»، وهي ما أقبل من الشعر على الجبهة. ويمر الشارع في الخَزنة، أبوظبي.",
+    "en": "Plural of nussah — forelocks: that is «An Nassas». The street runs in Al Khaznah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nadeed-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَضِيد",
+  "en": "Al Nadeed Street",
+  "meaning": {
+    "ar": "النَّضِيد: المنضود المتراص — كالنخل الباسق له طلع نضيد",
+    "en": "stacked, piled in layers; full date-spadices"
+  },
+  "story": {
+    "ar": "«النَّضِيد» المنضود المتراص، كالنخل الباسق. والشارع يحمل هذا الاسم في المَرْخَانِيَّة، أبوظبي.",
+    "en": "What is stacked and piled in layers: that is «Al Nadeed». You will find the street in Al Markhaniyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nadheem-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّظِيم",
+  "en": "Al Nadheem Street",
+  "meaning": {
+    "ar": "النَّظِيم: المنظوم — نظيم من لؤلؤ",
+    "en": "strung, arranged (as a string of pearls)"
+  },
+  "story": {
+    "ar": "«النَّظِيم» المنظوم، نظيمٌ من لؤلؤ. ويمر الشارع في الخِبِيصِي، أبوظبي.",
+    "en": "Strung and arranged one, like a string of pearls: that is «Al Nadheem». The street runs in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-na-a-im-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّعَائِم",
+  "en": "Al Na'a-im Street",
+  "meaning": {
+    "ar": "النَّعَائِم: منزلة من منازل القمر، صورتها كالنعامة؛ وثمانية أَنْجُم",
+    "en": "a lunar mansion shaped like an ostrich; eight stars"
+  },
+  "story": {
+    "ar": "«النَّعَائِم» منزلةٌ من منازل القمر صورتها كالنعامة، وثمانية أَنْجُم. والشارع في الخِبِيصِي، أبوظبي.",
+    "en": "Lunar mansion shaped like an ostrich, and eight stars: that is «Al Na'a-im». The street sits in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nnafaf-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النعاف",
+  "en": "Al Nnafaf Street",
+  "meaning": {
+    "ar": "النِّعاف: جمع نِعْف، ما انحدر عن الجبل وارتفع عن منحدر الوادي",
+    "en": "the sloping skirts of a mountain (pl. of nif)"
+  },
+  "story": {
+    "ar": "يأتي «النِّعاف» جمعاً لـ«نِعْف»، وما انحدر عن الجبل وارتفع عن منحدر الوادي. والشارع يحمل هذا الاسم في شنتير، أم القيوين.",
+    "en": "Plural of nif — the sloping skirts of a mountain: that is «Al Nnafaf». The street sits in Shanteer, Umm Al Quwain."
+  }
+},
+{
+  "id": "an-ni-ashi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النِّعَشِي",
+  "en": "An Ni'ashi Street",
+  "meaning": {
+    "ar": "النَّعْشيّ: المنسوب إلى النَّعْش",
+    "en": "relating to the bier (na'sh)"
+  },
+  "story": {
+    "ar": "«النَّعْشيّ» المنسوب إلى النَّعْش. ويمر الشارع في الفلاح، أبوظبي.",
+    "en": "Adjective of the bier: that is «An Ni'ashi». The street runs in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nahgamat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النغمات",
+  "en": "Al Nahgamat Street",
+  "meaning": {
+    "ar": "النَّغَمَات: جمع نَغْمة، وهي الأصوات الموسيقية",
+    "en": "musical notes, tones (pl. of naghma)"
+  },
+  "story": {
+    "ar": "«النَّغَمَات» جمع «نَغْمة»، وهي الأصوات الموسيقية. والشارع يحمل هذا الاسم في مدينة خليفة، أبوظبي.",
+    "en": "Plural of naghamah — musical notes and tones: that is «Al Nahgamat». The street sits in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nafh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَفْح",
+  "en": "Al Nafh Street",
+  "meaning": {
+    "ar": "النَّفْح: البَرد؛ ونفحت الريح: نسمت",
+    "en": "a cool breeze; to blow softly (of wind)"
+  },
+  "story": {
+    "ar": "«النَّفْح» البَرد، ونفحت الريح نسمت. ويمر الشارع في عَشَارِج، أبوظبي.",
+    "en": "Cool breeze, and the wind's soft blowing: that is «Al Nafh». The street runs in 'Asharij, Abu Dhabi."
+  }
+},
+{
+  "id": "an-naqsh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّقش",
+  "en": "An Naqsh Street",
+  "meaning": {
+    "ar": "النَّقْش: البحث والاستخراج",
+    "en": "to engrave, to adorn; to extract"
+  },
+  "story": {
+    "ar": "«النَّقْش» البحث والاستخراج، ونَقَش الشيء زخرفه. والشارع في غِيَّاثِي، أبوظبي.",
+    "en": "«An Naqsh» means to engrave, to adorn, and to extract. You will find the street in Ghiyathi, Abu Dhabi."
+  }
+},
+{
+  "id": "an-niqayrah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النِّقَيرة",
+  "en": "An Niqayrah Street",
+  "meaning": {
+    "ar": "النَّقِيرة: تصغير نَقْرة؛ وتمر يبقى في أسفل القليب",
+    "en": "a small hollow; dates left at the bottom of a well"
+  },
+  "story": {
+    "ar": "«النَّقِيرة» تصغير «نَقْرة»، وتمرٌ يبقى في أسفل القليب. ويمر الشارع في القوع، أبوظبي.",
+    "en": "Small hollow, and dates left at the bottom of a well: that is «An Niqayrah». The street runs in Al Qou', Abu Dhabi."
+  }
+},
+{
+  "id": "an-nama-a-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّماء",
+  "en": "An Nama-a Street",
+  "meaning": {
+    "ar": "«النَّماء»: النمو والزيادة",
+    "en": "An Nama-a: growth, increase"
+  },
+  "story": {
+    "ar": "«النَّماء» النمو والزيادة. والشارع يحمل هذا الاسم في الخِرَيْر، أبوظبي.",
+    "en": "«An Nama-a» means growth and increase. The street sits in Al Khirayr, Abu Dhabi."
+  }
+},
+{
+  "id": "al-namadhij-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النماذج",
+  "en": "Al Namadhij Street",
+  "meaning": {
+    "ar": "النَّمَاذِج: جمع نَمُوذَج",
+    "en": "models, samples (pl. of namūdhaj)"
+  },
+  "story": {
+    "ar": "«النَّمَاذِج» جمع «نَمُوذَج»، وهي الأمثلة والنماذج. ويمر الشارع في البَاهية، أبوظبي.",
+    "en": "Plural of namudhaj — models and samples: that is «Al Namadhij». The street runs in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-namariq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النمارق",
+  "en": "Al Namariq Street",
+  "meaning": {
+    "ar": "النَّمَارِق: جمع نُمْرُقة",
+    "en": "cushions, bolsters (pl. of numruqa)"
+  },
+  "story": {
+    "ar": "كلمة «النَّمَارِق» جمع «نُمْرُقة»، وهي الوسائد الصغيرة. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "Plural of numruqah — cushions and bolsters: that is «Al Namariq». You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nimaylah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النِّمَيلة",
+  "en": "An Nimaylah Street",
+  "meaning": {
+    "ar": "النَّميلة: نَمَّام مُفسِد؛ ومكان كثير النمل؛ وحاذق ماهر",
+    "en": "a malicious tale-bearer; an ant-infested place; an adroit expert"
+  },
+  "story": {
+    "ar": "«النَّميلة» نَمَّامٌ مُفسِد، ومكانٌ كثير النمل، وحاذقٌ ماهر. ويمر الشارع في مَزْيَد، أبوظبي.",
+    "en": "Malicious tale-bearer, an ant-infested place, and an adroit expert: that is «An Nimaylah». The street runs in Mazyad, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nahadah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّهَدة",
+  "en": "An Nahadah Street",
+  "meaning": {
+    "ar": "النَّهْدَة: مؤنث/تصغير نَهْد — الشيء المرتفع",
+    "en": "a small elevation; the towering sand-hill"
+  },
+  "story": {
+    "ar": "«النَّهْدَة» الشيء المرتفع، والنهداء الرملة المشرفة. والشارع يحمل هذا الاسم في هِيلِي، أبوظبي.",
+    "en": "Small elevation, and the towering sand-hill: that is «An Nahadah». The street sits in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nahrayn-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النهرين",
+  "en": "Al Nahrayn Street",
+  "meaning": {
+    "ar": "النَّهْرين: مثنى نَهْر",
+    "en": "the two rivers (dual of nahr)"
+  },
+  "story": {
+    "ar": "«النَّهْرين» مثنى «نَهْر»، أي نهران. ويمر الشارع في البَاهية، أبوظبي.",
+    "en": "Dual of nahr — two rivers: that is «Al Nahrayn». The street runs in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nahallah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّهلَّه",
+  "en": "An Nahallah Street",
+  "meaning": {
+    "ar": "النَّهْلة: السَّقْية الواحدة؛ ويستعمل اسم عَلَم مؤنث",
+    "en": "a single draught of water; also a female given name"
+  },
+  "story": {
+    "ar": "«النَّهْلة» السَّقْية الواحدة، ويستعمل اسم عَلَم مؤنث. والشارع في عَيْن الفَايْضَة، أبوظبي.",
+    "en": "Single draught of water; the word is also a female given name: that is «An Nahallah». You will find the street in Ain Al Faydah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nawabigh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النوابغ",
+  "en": "Al Nawabigh Street",
+  "meaning": {
+    "ar": "«النَّوَابِغ»: جمع نَابِغة",
+    "en": "the plural of nabighah"
+  },
+  "story": {
+    "ar": "«النَّوَابِغ» جمع «نَابِغة». ويمر الشارع في الرَّحبة، أبوظبي.",
+    "en": "Plural of nabighah: that is «Al Nawabigh». The street runs in Al Rahbah, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nawahi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّواحي",
+  "en": "An Nawahi Street",
+  "meaning": {
+    "ar": "النَّوَاحِي: جمع نَاحِية، وهي الجهات والجوانب",
+    "en": "directions, regions, sides (pl. of nāhiya)"
+  },
+  "story": {
+    "ar": "«النَّوَاحِي» صيغةُ جمع «نَاحِية»، وهي الجهات والجوانب. والشارع يحمل هذا الاسم في مدينة شخبوط، أبوظبي.",
+    "en": "Plural of nahiyyah — directions and regions: that is «An Nawahi». The street sits in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nuwwarah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النُّوَّارة",
+  "en": "An Nuwwarah Street",
+  "meaning": {
+    "ar": "«النُّوَّارة»: ما يخرج من الشجر من الزهر",
+    "en": "An Nuwwarah: blossom, bloom (of a tree)"
+  },
+  "story": {
+    "ar": "«النُّوَّارة» ما يخرج من الشجر من الزهر. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Blossom that comes from the trees: that is «An Nuwwarah». The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nawaris-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّوَارِس",
+  "en": "Al Nawaris Street",
+  "meaning": {
+    "ar": "النَّوَارِس: جمع نَوْرَس",
+    "en": "saffrons (pl. of nawras)"
+  },
+  "story": {
+    "ar": "الاسم «النَّوَارِس» جمع «نَوْرَس»، وهو الزعفران. والشارع في المُعْتَرِض، أبوظبي.",
+    "en": "Plural of nawras — saffrons: that is «Al Nawaris». You will find the street in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nawasif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَواصِف",
+  "en": "Al Nawasif Street",
+  "meaning": {
+    "ar": "النَّوَاصِف: جمع ناصِفة؛ والناصِفة من ناصَفَه: قاسمَه نصفَه",
+    "en": "pl. of naasifa — one who halves / shares equally"
+  },
+  "story": {
+    "ar": "«النَّوَاصِف» لفظٌ يجمع «ناصِفة»، والناصِفة من ناصَفَه قاسمَه نصفَه. ويمر الشارع في وسط المدينة، أبوظبي.",
+    "en": "Plural of nasifah — one who halves or shares equally: that is «Al Nawasif». The street runs in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "an-nawamees-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَّوامِيس",
+  "en": "An Nawamees Street",
+  "meaning": {
+    "ar": "النَّوَامِيس: جمع نَامُوس، وهي القوانين والشرائع",
+    "en": "laws, codes; buzzing mosquitoes (pl. of nāmūs)"
+  },
+  "story": {
+    "ar": "في «النَّوَامِيس» جمعٌ لـ«نَامُوس»، وهي القوانين والشرائع والحشرات الطنانة. والشارع في السَّلاَمَات، أبوظبي.",
+    "en": "Plural of namus — laws and codes, and buzzing mosquitoes: that is «An Nawamees». The street sits in Al Salamat, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nawaya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النَوَايَا",
+  "en": "Al Nawaya Street",
+  "meaning": {
+    "ar": "«النَوَايَا»: جمع نية",
+    "en": "Al Nawaya: intentions"
+  },
+  "story": {
+    "ar": "تُسمّى «النَوَايَا» جمع «نية»، وهي المقاصد. ويمر الشارع في غْنَيْمَة، أبوظبي.",
+    "en": "Plural of niyyah — intentions: that is «Al Nawaya». The street runs in Ghnaymah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-niwayi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النِّوَايِع",
+  "en": "Al Niwayi' Street",
+  "meaning": {
+    "ar": "«النِّوَايِع»: الموائِل من الغُصون، وجمع نائِعة",
+    "en": "the bending branches; plural of na'ighah"
+  },
+  "story": {
+    "ar": "«النَّوَائِع» الموائِل من الغُصون، وجمع «نائِعة». والشارع في المُعْتَرِض، أبوظبي.",
+    "en": "«Al Niwayi'» are the bending branches, and the plural of na'ighah. You will find the street in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nouf-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النوف",
+  "en": "Al Nouf Street",
+  "meaning": {
+    "ar": "النَّوْف: الفلاة لا ماء فيها ولا أنيس، والمرتفع من سنام الناقة؛ و اسم علم مؤنث شائع",
+    "en": "the waterless desert; the high camel-hump; also a common female given name"
+  },
+  "story": {
+    "ar": "«النَّوْف» الفلاة لا ماء فيها ولا أنيس، والمرتفع من سنام الناقة، واسمٌ علم مؤنث. ويمر الشارع في شنتير، أم القيوين.",
+    "en": "Waterless desert, the high camel-hump, and a common female given name: that is «Al Nouf». The street runs in Shanteer, Umm Al Quwain."
+  }
+},
+{
+  "id": "an-nouf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النُّوف",
+  "en": "An Nouf Street",
+  "meaning": {
+    "ar": "النَّوْف: الفلاة لا ماء فيها ولا أنيس، والمرتفع من سنام الناقة؛ و اسم علم مؤنث شائع",
+    "en": "the waterless desert; the high camel-hump; also a common female given name"
+  },
+  "story": {
+    "ar": "يُطلق «النُّوف» على الفلاة الجرداء وعلى مرتفع السنام، وهو اسمٌ مؤنث. والشارع يحمل هذا الاسم في حَدْبَة الزَّعْفَرَانَة، أبوظبي.",
+    "en": "The name «An Nouf» is given to the waterless desert and the camel's high hump; it is also a female name. The street sits in Hadbat Al Za'faranah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-nuweer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النُوِير",
+  "en": "Al Nuweer Street",
+  "meaning": {
+    "ar": "النُّوَيْر: تصغير نور",
+    "en": "a little light; clover blossom"
+  },
+  "story": {
+    "ar": "«النُّوَيْر» تصغير «نور»، ويقال للنُّوَّار زهر البرسيم. ويمر الشارع في الجيمي، أبوظبي.",
+    "en": "Little light, and the clover blossom: that is «Al Nuweer». The street runs in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "an-niyaq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النِّياق",
+  "en": "An Niyaq Street",
+  "meaning": {
+    "ar": "النِّياق: جمع ناقة",
+    "en": "she-camels, rising ground"
+  },
+  "story": {
+    "ar": "«النِّياق» على وزن جمع «ناقة»، أو المنابت الصغيرة. والشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Plural of naqah — she-camels, and rising ground: that is «An Niyaq». You will find the street in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-neefah-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع النيفة",
+  "en": "Al Neefah Street",
+  "meaning": {
+    "ar": "«النيفة»: مؤنث نَيْف — الزيادة على العدد والفضل",
+    "en": "Al Neefah: the surplus (fem. of nayf)"
+  },
+  "story": {
+    "ar": "«النَّيْفة» مؤنث «نَيْف»، الزيادة على العدد والفضل. ويمر الشارع في العهد، أم القيوين.",
+    "en": "Surplus, the feminine of nayf: that is «Al Neefah». The street runs in Al Aahad, Umm Al Quwain."
+  }
+},
+{
+  "id": "al-haal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهَال",
+  "en": "Al Haal Street",
+  "meaning": {
+    "ar": "الهال: نبات الهيل — بذور عطرية تُضاف إلى القهوة",
+    "en": "cardamom — the aromatic seeds added to coffee"
+  },
+  "story": {
+    "ar": "«الهال» نباتُ الهيل، بذورٌ عطرية تُضاف إلى القهوة. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "Cardamom, the aromatic seeds added to coffee: that is «Al Haal». The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hamat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهامات",
+  "en": "Al Hamat Street",
+  "meaning": {
+    "ar": "الهَامَات: جمع هَامَّة، وهي القمم والرؤوس؛ والهوام من الدواب",
+    "en": "summits, heads; venomous crawlers (pl. of hāmma)"
+  },
+  "story": {
+    "ar": "يأتي «الهَامَات» جمعاً لـ«هَامَّة»، وهي القمم والرؤوس والهوام من الدواب. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Plural of haimah — summits and heads, and venomous crawlers: that is «Al Hamat». The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hamir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهَامِر",
+  "en": "Al Hamir Street",
+  "meaning": {
+    "ar": "الهَامِر: السحاب السيال",
+    "en": "a torrential cloud; to sweep away"
+  },
+  "story": {
+    "ar": "«الهَامِر» السحاب السيال، وهَامَرَ الشيء جَرَفه. والشارع في وسط المدينة، أبوظبي.",
+    "en": "Torrential cloud, and to sweep away: that is «Al Hamir». You will find the street in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hbab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهباب",
+  "en": "Al Hbab Street",
+  "meaning": {
+    "ar": "«الهباب»: التراب أو شيء قليل",
+    "en": "Al Hbab: dust, little"
+  },
+  "story": {
+    "ar": "«الهباب» التراب أو شيء قليل. ويمر الشارع في سوِيحَان، أبوظبي.",
+    "en": "«Al Hbab» means dust, or a little of a thing. The street runs in Sweihan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-habbat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهبات",
+  "en": "Al Habbat Street",
+  "meaning": {
+    "ar": "الهَبَّات: جمع هِبَّة، وهي العطايا",
+    "en": "gifts, grants (pl. of hibba)"
+  },
+  "story": {
+    "ar": "«الهَبَّات» جمع «هِبَّة»، وهي العطايا. والشارع يحمل هذا الاسم في الجيمي، أبوظبي.",
+    "en": "Plural of hibbah — gifts and grants: that is «Al Habbat». The street sits in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hatoun-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهتون",
+  "en": "Al Hatoun Street",
+  "meaning": {
+    "ar": "الهَتُون: السحاب كثير القطر؛ وعين هتون الدمع",
+    "en": "a heavy-pouring cloud; a tear-shedding eye"
+  },
+  "story": {
+    "ar": "«الهَتُون» السحاب كثير القطر، وعينٌ هتون الدمع. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Heavy-pouring cloud, and a tear-shedding eye: that is «Al Hatoun». The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hadaya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهَدَايَا",
+  "en": "Al Hadaya Street",
+  "meaning": {
+    "ar": "الهَدَايَا: جمع هدية",
+    "en": "gifts, presents"
+  },
+  "story": {
+    "ar": "«الهَدَايَا» جمع «هدية»، وهي العطايا. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "Plural of hadiyyah — gifts and presents: that is «Al Hadaya». You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hudham-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهُذام",
+  "en": "Al Hudham Street",
+  "meaning": {
+    "ar": "الهُذام: السيف القاطع؛ والشجاع؛ وسنان هذام: حديد",
+    "en": "the keen cutting sword; the brave one"
+  },
+  "story": {
+    "ar": "«الهُذام» السيف القاطع، والشجاع، وسنانٌ هذام حديد. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Keen cutting sword, and the brave one: that is «Al Hudham». The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hazar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهَزَار",
+  "en": "Al Hazar Street",
+  "meaning": {
+    "ar": "الهَزَار: طائر حسن الصوت؛ وبالفارسية: الألف",
+    "en": "the melodious nightingale; (Persian) a thousand"
+  },
+  "story": {
+    "ar": "«الهَزَار» طائرٌ حسن الصوت، وبالفارسية الألف. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "Melodious nightingale; in Persian the word means a thousand: that is «Al Hazar». The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hazam-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهَزم",
+  "en": "Al Hazam Street",
+  "meaning": {
+    "ar": "الهَزْم: الكسر والإحناء؛ وهزيمة العدوّ: كسره وتفرّقه",
+    "en": "breaking, defeat; a hollow or depression dug in the ground"
+  },
+  "story": {
+    "ar": "«الهَزْم» الكسر والإحناء، والحفرة والانخفاض في الأرض. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "«Al Hazam» means breaking and defeat, and a hollow dug in the ground. The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hazeem-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهَزِيم",
+  "en": "Al Hazeem Street",
+  "meaning": {
+    "ar": "الهَزِيم: صوت الرعد والريح والخيل المتكسر؛ ويطلق على المنخفضات من الأرض",
+    "en": "a rumbling sound (of thunder, wind, running horses); low-lying ground"
+  },
+  "story": {
+    "ar": "«الهَزِيم» صوت الرعد والريح والخيل المتكسر، والمنخفضات من الأرض. والشارع في الزَّاهية، أبوظبي.",
+    "en": "Rumbling sound, and low-lying ground: that is «Al Hazeem». You will find the street in Al Zahiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hidab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهِضاب",
+  "en": "Al Hidab Street",
+  "meaning": {
+    "ar": "«الهِضاب»: جمع هضبة، وهي المرتفعات ذات الأسطح المستوية",
+    "en": "plateaus and tablelands — the plural of hadabah"
+  },
+  "story": {
+    "ar": "كلمة «الهضاب» جمع «هضبة»، وهي المرتفعات ذات الأسطح المستوية. ويمر الشارع في مُصَفَح، أبوظبي.",
+    "en": "Plural of hadabah — plateaus and tablelands: that is «Al Hidab». The street runs in Musaffah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hilali-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهِلاَلِي",
+  "en": "Al Hilali Street",
+  "meaning": {
+    "ar": "«الهِلاَلِي»: نسبةٌ إلى بني هلال",
+    "en": "the adjective of Bani Hilal"
+  },
+  "story": {
+    "ar": "«الهِلاَلِي» نسبةٌ إلى بني هلال. والشارع يحمل هذا الاسم في آل نَهيان، أبوظبي.",
+    "en": "Adjective of Bani Hilal: that is «Al Hilali». The street sits in Al Nahyan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hameem-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهميم",
+  "en": "Al Hameem Street",
+  "meaning": {
+    "ar": "الهميم: صوت دبيب خشاش الأرض وصوت تأمين الأم لطفلها؛ ومصدر هَمَّ: الدبيب والزحف؛ ومطر ضعيف",
+    "en": "the faint patter of creatures on the soil; a mother’s lulling hum; light drizzle"
+  },
+  "story": {
+    "ar": "«الهميم» صوتُ دبيب خشاش الأرض وصوتُ تأمين الأم لطفلها، ومطرٌ ضعيف. ويمر الشارع في ربدان، أبوظبي.",
+    "en": "Faint patter of creatures, a mother's lulling hum, and light drizzle: that is «Al Hameem». The street runs in Rabdan, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hawa-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهوا",
+  "en": "Al Hawa Street",
+  "meaning": {
+    "ar": "«الهَوَاء»: ما يُتنفَّس من الفَضاء، والهَوى السقوط والميل",
+    "en": "air; desire or a fall — what is breathed, and a downward turn"
+  },
+  "story": {
+    "ar": "«الهَوَاء» ما يُتنفَّس من الفَضاء، والهَوى السقوط والميل. والشارع في الثنية 1، دبي.",
+    "en": "Air; the word also means desire, or a fall: that is «Al Hawa». You will find the street in Al Thanyah 1, Dubai."
+  }
+},
+{
+  "id": "al-hiwayat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهوايات",
+  "en": "Al Hiwayat Street",
+  "meaning": {
+    "ar": "«الهوايات»: جمع هواية",
+    "en": "Al Hiwayat: hobbies"
+  },
+  "story": {
+    "ar": "«الهوايات» صيغةُ جمع «هواية»، وهي الميول والشغف. ويمر الشارع في الشَّوامخ، أبوظبي.",
+    "en": "Plural of hawiyyah — hobbies: that is «Al Hiwayat». The street runs in Al Shawamekh, Abu Dhabi."
+  }
+},
+{
+  "id": "al-hayal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الهَيَّال",
+  "en": "Al Hayal Street",
+  "meaning": {
+    "ar": "الهَيَال: ما انهال من الرمل، أي تتابع سقوطه",
+    "en": "sand that pours down in succession"
+  },
+  "story": {
+    "ar": "«الهَيَال» ما انهال من الرمل، أي تتابع سقوطه. والشارع يحمل هذا الاسم في مُصَفَح، أبوظبي.",
+    "en": "Sand that pours down in succession: that is «Al Hayal». The street sits in Musaffah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wathib-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَاثِب",
+  "en": "Al Wathib Street",
+  "meaning": {
+    "ar": "الواثب: القافز الطائر؛ من وَثَب يَثِبُ وثْباً: طَفَر",
+    "en": "leaping, pouncing (participle of wathaba)"
+  },
+  "story": {
+    "ar": "«الواثب» القافز الطائر، من «وَثَب». ويمر الشارع في غِيَّاثِي، أبوظبي.",
+    "en": "Leaping, pouncing one: that is «Al Wathib». The street runs in Ghiyathi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-warish-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَارِش",
+  "en": "Al Warish Street",
+  "meaning": {
+    "ar": "الوَارِش: الطمّاع الذي يأكل شديداً حرصاً",
+    "en": "greedy, covetous (eater); one who grasps at base things"
+  },
+  "story": {
+    "ar": "«الوَارِش» الطمّاع الذي يأكل شديداً حرصاً. والشارع في عَشَارِج، أبوظبي.",
+    "en": "Greedy, covetous eater: that is «Al Warish». You will find the street in 'Asharij, Abu Dhabi."
+  }
+},
+{
+  "id": "al-was-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَاسْعَة",
+  "en": "Al Was'ah Street",
+  "meaning": {
+    "ar": "«الواسعة»: الشاسعة الفسيحة",
+    "en": "spacious and vast — broad and open"
+  },
+  "story": {
+    "ar": "«الواسعة» الشاسعة الفسيحة التي لا تضيق. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Spacious and vast: that is «Al Was'ah». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wasmi-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الواسمي",
+  "en": "Al Wasmi Street",
+  "meaning": {
+    "ar": "الواسمي: المنسوب إلى الوَسْم — الكيّ والعلامة في الإبل",
+    "en": "of the branding mark (wasm); the rain that marks the earth"
+  },
+  "story": {
+    "ar": "«الواسمي» المنسوب إلى الوَسْم، والمطر الذي تُوسَم به الأرض. والشارع يحمل هذا الاسم في شنتير، أم القيوين.",
+    "en": "Adjective of the branding mark, and the rain that marks the earth: that is «Al Wasmi». The street sits in Shanteer, Umm Al Quwain."
+  }
+},
+{
+  "id": "al-wafi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوافِي",
+  "en": "Al Wafi Street",
+  "meaning": {
+    "ar": "الوافي: الذي يتمّ ويعطي حقّه كاملاً",
+    "en": "fulfilling, loyal; one who pays in full"
+  },
+  "story": {
+    "ar": "«الوافي» الذي يتمّ ويعطي حقّه كاملاً. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "One who pays in full: that is «Al Wafi». The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wafeen-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوافين",
+  "en": "Al Wafeen Street",
+  "meaning": {
+    "ar": "«الوافين»: جمع وافٍ، وهم المُوفون",
+    "en": "those who fulfil — the plural of wafi"
+  },
+  "story": {
+    "ar": "الاسم «الوافين» جمع «وافٍ»، وهم المُوفون الوافون. والشارع في الجيمي، أبوظبي.",
+    "en": "Plural of wafi — those who fulfil or arrive: that is «Al Wafeen». You will find the street in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wanes-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوانس",
+  "en": "Al Wanes Street",
+  "meaning": {
+    "ar": "الوَانِس: المؤانس المألوف، من معاني الجذر أنس",
+    "en": "the companionable, familiar one (from uns / istānasa)"
+  },
+  "story": {
+    "ar": "«الوَانِس» المؤانس المألوف. ويمر الشارع في أم سقيم، دبي.",
+    "en": "Companionable, familiar one: that is «Al Wanes». The street runs in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "al-wuthouq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوُثُوق",
+  "en": "Al Wuthouq Street",
+  "meaning": {
+    "ar": "«الوُثُوق»: الثقة والاطمئنان",
+    "en": "Al Wuthouq: trust, confidence"
+  },
+  "story": {
+    "ar": "«الوُثُوق» الثقة والاطمئنان. والشارع يحمل هذا الاسم في البَاهية، أبوظبي.",
+    "en": "«Al Wuthouq» means trust and confidence. The street sits in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wajahah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوجاهة",
+  "en": "Al Wajahah Street",
+  "meaning": {
+    "ar": "«الوجاهة»: المكانة والاعتبار",
+    "en": "Al Wajahah: prestige, dignity"
+  },
+  "story": {
+    "ar": "«الوجاهة» المكانة والاعتبار. ويمر الشارع في الدَّانَةْ، أبوظبي.",
+    "en": "«Al Wajahah» means prestige and dignity. The street runs in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wujfan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوجفان",
+  "en": "Al Wujfan Street",
+  "meaning": {
+    "ar": "«الوجفان»: الاضطراب والسرعة في السير",
+    "en": "Al Wujfan: galloping, agitation"
+  },
+  "story": {
+    "ar": "«الوجفان» الاضطراب والسرعة في السير. والشارع في عَيْن الفَايْضَة، أبوظبي.",
+    "en": "Galloping and agitation: that is «Al Wujfan». You will find the street in Ain Al Faydah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wujahaa-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوجهاء",
+  "en": "Al Wujahaa Street",
+  "meaning": {
+    "ar": "الوجهاء: جمع وَجِيه",
+    "en": "distinguished people"
+  },
+  "story": {
+    "ar": "«الوجهاء» لفظٌ يجمع «وَجِيه»، وهم ذوو المكانة. ويمر الشارع في الصَّدر، أبوظبي.",
+    "en": "Plural of wajih — people of standing: that is «Al Wujahaa». The street runs in Al Sader, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wijeef-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوِجِيف",
+  "en": "Al Wijeef Street",
+  "meaning": {
+    "ar": "«الوِجِيف»: الجري السريع والاضطراب",
+    "en": "Al Wijeef: swift galloping"
+  },
+  "story": {
+    "ar": "«الوجيف» الجري السريع والاضطراب. والشارع يحمل هذا الاسم في الروضة الشرقية، أبوظبي.",
+    "en": "Swift galloping: that is «Al Wijeef». The street sits in Al Rawdah Al Sharqiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wada-i-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَدَائِع",
+  "en": "Al Wada-i' Street",
+  "meaning": {
+    "ar": "«الوَدَائِع»: جمع وديعة، وهي الأمانات",
+    "en": "deposits and trusts — the plural of wida'ah"
+  },
+  "story": {
+    "ar": "في «الوَدَائِع» جمعٌ لـ«وديعة»، وهي الأمانات والمودعات. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "Plural of wida'ah — deposits and trusts: that is «Al Wada-i'». The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-widad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوداد",
+  "en": "Al Widad Street",
+  "meaning": {
+    "ar": "«الوداد»: المحبة والصداقة",
+    "en": "Al Widad: love, friendship"
+  },
+  "story": {
+    "ar": "«الوداد» المحبة والصداقة. والشارع في الجيمي، أبوظبي.",
+    "en": "«Al Widad» means love and friendship. You will find the street in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wadaq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَدَق",
+  "en": "Al Wadaq Street",
+  "meaning": {
+    "ar": "«الوَدَق»: المطر الرقيق وقطره",
+    "en": "Al Wadaq: light rain, drizzle"
+  },
+  "story": {
+    "ar": "«الوَدَق» المطر الرقيق وقطره. ويمر الشارع في الحِصِن، أبوظبي.",
+    "en": "Light rain and drizzle: that is «Al Wadaq». The street runs in Al Hisn, Abu Dhabi."
+  }
+},
+{
+  "id": "al-widyan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوِديان",
+  "en": "Al Widyan Street",
+  "meaning": {
+    "ar": "«الوِديان»: جمع وادٍ",
+    "en": "Al Widyan: valleys"
+  },
+  "story": {
+    "ar": "«الوِديان» جمع «وادٍ»، وهي الأودية. والشارع يحمل هذا الاسم في السَّلاَمَات، أبوظبي.",
+    "en": "Valleys are what «Al Widyan» names — the plural of wadi. The street sits in Al Salamat, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wars-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَرس",
+  "en": "Al Wars Street",
+  "meaning": {
+    "ar": "الوَرس: نبات الوَرْس، صبغة صفراء",
+    "en": "wars plant (yellow dye)"
+  },
+  "story": {
+    "ar": "«الوَرس» نباتُ الوَرْس، صبغةٌ صفراء. ويمر الشارع في العامرة، أبوظبي.",
+    "en": "Wars plant, a yellow dye: that is «Al Wars». The street runs in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wara-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَرَعة",
+  "en": "Al Wara'ah Street",
+  "meaning": {
+    "ar": "«الورعة»: الامتناع عمّا يُخشى في الدين",
+    "en": "piety and scrupulousness — holding back from what is feared"
+  },
+  "story": {
+    "ar": "«الورعة» الامتناع عمّا يُخشى معه في الدين. والشارع يحمل هذا الاسم في بني ياس، أبوظبي.",
+    "en": "«Al Wara'ah» means piety and scrupulousness. The street sits in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "al-warqa-a-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الورقاء",
+  "en": "Al Warqa'a Street",
+  "meaning": {
+    "ar": "الوَرْقَاء: الحمامة البيضاء، أو المورقة اللون",
+    "en": "the white dove; the grey one (fem.)"
+  },
+  "story": {
+    "ar": "«الوَرْقَاء» الحمامة البيضاء، أو المورقة اللون. ويمر الشارع في الورقاء، دبي.",
+    "en": "White dove, or the grey one: that is «Al Warqa'a». The street runs in Al Warqa, Dubai."
+  }
+},
+{
+  "id": "al-warqa-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الورقاء",
+  "en": "Al Warqa' Street",
+  "meaning": {
+    "ar": "الوَرْقَاء: الحمامة البيضاء، أو المورقة اللون",
+    "en": "the white dove; the grey one (fem.)"
+  },
+  "story": {
+    "ar": "يُسمّى «الوَرْقَاء» الحمامةَ البيضاء والمورقةَ اللون. والشارع في شنتير، أم القيوين.",
+    "en": "The name «Al Warqa'» is given to the white dove and the grey one. You will find the street in Shanteer, Umm Al Quwain."
+  }
+},
+{
+  "id": "al-wusamaa-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوسماء",
+  "en": "Al Wusamaa Street",
+  "meaning": {
+    "ar": "الوسماء: المُوسومة",
+    "en": "the branded one"
+  },
+  "story": {
+    "ar": "«الوسماء» المُوسومة، أو فرسٌ وسماء. ويمر الشارع في الرَّحبة، أبوظبي.",
+    "en": "Branded one: that is «Al Wusamaa». The street runs in Al Rahbah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wasmi-street-2",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَسمِي",
+  "en": "Al Wasmi Street",
+  "meaning": {
+    "ar": "الوسمي: أوّل المطر في الربيع؛ ومن وَسَمَ: كواه بعلامة",
+    "en": "the first rain of spring; a branding mark"
+  },
+  "story": {
+    "ar": "«الوسمي» أوّل المطر في الربيع، ومن «وَسَمَ» كواه بعلامة. والشارع يحمل هذا الاسم في المُزُون، أبوظبي.",
+    "en": "First rain of spring, and a branding mark: that is «Al Wasmi». The street sits in Al Muzoun, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wada-ah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَضَاءة",
+  "en": "Al Wada-ah Street",
+  "meaning": {
+    "ar": "«الوَضَاءة»: الحسن والبهاء والضياء",
+    "en": "Al Wada-ah: beauty, radiance"
+  },
+  "story": {
+    "ar": "«الوضاءة» الحسن والبهاء والضياء. ويمر الشارع في غْنَيْمَة، أبوظبي.",
+    "en": "«Al Wada-ah» means beauty and radiance. The street runs in Ghnaymah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wateedah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوطيدة",
+  "en": "Al Wateedah Street",
+  "meaning": {
+    "ar": "«الوطيدة»: المُثبَّتة المُحكَّمة",
+    "en": "Al Wateedah: firmly established"
+  },
+  "story": {
+    "ar": "«الوطيده» المُثبَّتة المُحكَّمة. والشارع في بَدْع المُطاوْعة، أبوظبي.",
+    "en": "What is firmly established: that is «Al Wateedah». You will find the street in Bad' Al Mutaw'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wu-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوعود",
+  "en": "Al Wu'oud Street",
+  "meaning": {
+    "ar": "«الوعود»: جمع وعد، وهي العهود",
+    "en": "promises — the plural of wa'd"
+  },
+  "story": {
+    "ar": "«الوعود» جمع «وعد»، وهي العهود والمواعيد. ويمر الشارع في مدينة شخبوط، أبوظبي.",
+    "en": "Plural of wa'd — promises: that is «Al Wu'oud». The street runs in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wifadah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوِفادة",
+  "en": "Al Wifadah Street",
+  "meaning": {
+    "ar": "الوفادة: الوفود والزوّار",
+    "en": "the coming of visitors/legates; delegation"
+  },
+  "story": {
+    "ar": "«الوفادة» الوفود والزوّار، وقدومُ القوم. والشارع يحمل هذا الاسم في مْبَزَّرَة الخَضْراء، أبوظبي.",
+    "en": "Coming of visitors and legates: that is «Al Wifadah». The street sits in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "al-waqar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوَقَر",
+  "en": "Al Waqar Street",
+  "meaning": {
+    "ar": "الوَقْر: ثِقَل الأذن وضعف السمع",
+    "en": "heaviness of hearing; a load"
+  },
+  "story": {
+    "ar": "«الوَقْر» ثِقَل الأذن وضعف السمع، والحمل والثِّقَل. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Heaviness of hearing, and a load: that is «Al Waqar». The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wiqan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوِقن",
+  "en": "Al Wiqan Street",
+  "meaning": {
+    "ar": "الوقن: الوُكنة — مأوى الطائر ومكان استقراره",
+    "en": "the nest; a place of settlement"
+  },
+  "story": {
+    "ar": "«الوقن» الوُكنة، مأوى الطائر ومكان استقراره. والشارع في مدينة خليفة، أبوظبي.",
+    "en": "Nest, a place of settlement: that is «Al Wiqan». You will find the street in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "al-walam-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الولم",
+  "en": "Al Walam Street",
+  "meaning": {
+    "ar": "«الولم»: القيد؛ وحزام السرج أو الرحل الذي يُشدّ على ظهر الدابة",
+    "en": "Al Walam: a fetter; the girth that fastens the saddle"
+  },
+  "story": {
+    "ar": "«الوَلْم» القيد، وحزامُ السرج الذي يُشدّ على ظهر الدابة. ويمر الشارع في جميرا، دبي.",
+    "en": "Fetter, and the girth that fastens the saddle: that is «Al Walam». The street runs in Jumeirah, Dubai."
+  }
+},
+{
+  "id": "al-waleef-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوليف",
+  "en": "Al Waleef Street",
+  "meaning": {
+    "ar": "الوليف: تتابع لمعان البرق",
+    "en": "successive flashes of lightning"
+  },
+  "story": {
+    "ar": "«الوليف» تتابع لمعان البرق. والشارع يحمل هذا الاسم في الصَّدر، أبوظبي.",
+    "en": "Successive flashes of lightning: that is «Al Waleef». The street sits in Al Sader, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wahj-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوهج",
+  "en": "Al Wahj Street",
+  "meaning": {
+    "ar": "الوهج: شدة التوقد والحرارة والضياء",
+    "en": "blaze, intense glow and heat"
+  },
+  "story": {
+    "ar": "«الوهج» شدة التوقد والحرارة والضياء. ويمر الشارع في العامرة، أبوظبي.",
+    "en": "Blaze, the intense glow and heat: that is «Al Wahj». The street runs in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wiheed-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوِهِيد",
+  "en": "Al Wiheed Street",
+  "meaning": {
+    "ar": "«الوِهِيد»: الأرض المنخفضة والحفرة المنخفضة",
+    "en": "Al Wiheed: low-lying ground; a hollow"
+  },
+  "story": {
+    "ar": "«الوَهِيد» الأرض المنخفضة والحفرة المنخفضة. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "Low-lying ground, a hollow: that is «Al Wiheed». You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-wuhaydah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الوُهَيدة",
+  "en": "Al Wuhaydah Street",
+  "meaning": {
+    "ar": "الوهيده: الأرض المنخفضة؛ والحفرة",
+    "en": "low-lying ground; a pit"
+  },
+  "story": {
+    "ar": "«الوهيده» الأرض المنخفضة والحفرة. ويمر الشارع في المُشرِف، أبوظبي.",
+    "en": "Low-lying ground, a pit: that is «Al Wuhaydah». The street runs in Al Mushrif, Abu Dhabi."
+  }
+},
+{
+  "id": "al-yaqoutah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع الياقوته",
+  "en": "Al Yaqoutah Street",
+  "meaning": {
+    "ar": "«الياقوته»: حجرٌ كريم من أصلب الأحجار",
+    "en": "the ruby, a corundum gemstone"
+  },
+  "story": {
+    "ar": "«الياقوت» حجرٌ كريم، والكلمة معربة عن الفارسية. والشارع يحمل هذا الاسم في وسط المدينة، أبوظبي.",
+    "en": "Ruby; the word is borrowed from Persian: that is «Al Yaqoutah». The street sits in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "al-yani-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اليانع",
+  "en": "Al Yani' Street",
+  "meaning": {
+    "ar": "اليانع: الثمر الناضج الطيب",
+    "en": "ripe (fruit); deep red"
+  },
+  "story": {
+    "ar": "«اليانع» الثمر الناضج الطيب، وشيءٌ يانع أحمر قانٍ. ويمر الشارع في وسط المدينة، أبوظبي.",
+    "en": "Ripe fruit, and deep red: that is «Al Yani'». The street runs in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "al-yahoom-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اليحوم",
+  "en": "Al Yahoom Street",
+  "meaning": {
+    "ar": "«اليحوم»: يدور حول الشيء أو المكان ولا يبرحه",
+    "en": "Al Yahoom: to circle or hover around"
+  },
+  "story": {
+    "ar": "«يَحُوم» يدور حول الشيء ولا يبرحه، والطائر يحوم في الهواء. والشارع في مرسى دبي، دبي.",
+    "en": "«Al Yahoom» means to circle or hover around. You will find the street in Dubai Marina, Dubai."
+  }
+},
+{
+  "id": "al-yireed-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اليِرِيد",
+  "en": "Al Yireed Street",
+  "meaning": {
+    "ar": "يُريد: يطلب ويشتهي",
+    "en": "to want, desire"
+  },
+  "story": {
+    "ar": "«يُريد» يطلب ويشتهي، والرِّيد الطلب والإرادة. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "«Al Yireed» means to want and desire. The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "al-ya-four-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اليعفور",
+  "en": "Al Ya'four Street",
+  "meaning": {
+    "ar": "اليعفور: الظبي الصغير",
+    "en": "the young gazelle; dust-coloured"
+  },
+  "story": {
+    "ar": "«اليعفور» الظبي الصغير، ومن «عَفَرَ» صار لونه كالعَفَر تراباً. والشارع يحمل هذا الاسم في الخِبِيصِي، أبوظبي.",
+    "en": "Young gazelle, and the dust-coloured one: that is «Al Ya'four». The street sits in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-yamam-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اليَمَام",
+  "en": "Al Yamam Street",
+  "meaning": {
+    "ar": "«اليَمَام»: طائر اليمام",
+    "en": "Al Yamam: doves, graves"
+  },
+  "story": {
+    "ar": "«اليَمَام» طائرُ اليمام، أو القبر. ويمر الشارع في الخِبِيصِي، أبوظبي.",
+    "en": "«Al Yamam» means doves, and graves. The street runs in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "al-yiwari-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع اليِوارِي",
+  "en": "Al Yiwari Street",
+  "meaning": {
+    "ar": "يُواري: يستر ويُخفي",
+    "en": "to conceal, cover over; to bury"
+  },
+  "story": {
+    "ar": "«يُواري» يستر ويُخفي، ووارى الميّت دفنه. والشارع في عَيْن الفَايْضَة، أبوظبي.",
+    "en": "«Al Yiwari» means to conceal and cover over, and to bury. You will find the street in Ain Al Faydah, Abu Dhabi."
+  }
+},
+{
+  "id": "imru-al-qays-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع امرؤ القيس",
+  "en": "Imru Al Qays Street",
+  "meaning": {
+    "ar": "«امرؤ القيس»: الإنسان والشخص",
+    "en": "person; human being — one"
+  },
+  "story": {
+    "ar": "«امرؤ القيس» معناها الإنسان والشخص. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "«Imru Al Qays» means a person, a human being. The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "emra-o-al-qais-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع امرؤ القيس",
+  "en": "Emra'o Al Qais Street",
+  "meaning": {
+    "ar": "«امرؤ القيس»: الإنسان والشخص",
+    "en": "person; human being — one"
+  },
+  "story": {
+    "ar": "يُقرأ «امرؤ القيس» بمعنى الإنسان والشخص. ويمر الشارع في الحمرة، أم القيوين.",
+    "en": "The name «Emra'o Al Qais» reads as person and human being. The street runs in Al Hamrah, Umm Al Quwain."
+  }
+},
+{
+  "id": "battal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع بَتَّال",
+  "en": "Battal Street",
+  "meaning": {
+    "ar": "بَتَّال: فَعَّال من البَتّ",
+    "en": "the relentless slayer; a sharp sword"
+  },
+  "story": {
+    "ar": "«بَتَّال» فَعَّال من البَتّ، القاطع الذي يفصل بصرامة، ويطلق على السيف الحاد. والشارع في مدينة الرياض، أبوظبي.",
+    "en": "Relentless slayer, and a sharp sword: that is «Battal». You will find the street in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "bidou-khalifa-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع بدوع خليفة",
+  "en": "Bidou' Khalifa Street",
+  "meaning": {
+    "ar": "البِدُوع: جمع بَدْع، وفي أسماء ليوا مصادر المياه والآبار",
+    "en": "water sources, wells (in Liwa place names)"
+  },
+  "story": {
+    "ar": "تُسمّى «البِدُوع» جمع «بَدْع»، وفي أسماء ليوا مصادر المياه والآبار. ويمر الشارع في مدينة شخبوط، أبوظبي.",
+    "en": "«Bidou' Khalifa» takes its first word from bad' — water sources and wells in Liwa place names. The street runs in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "basateen-al-falah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع بَسَاتِين الفَلاح",
+  "en": "Basateen Al Falah Street",
+  "meaning": {
+    "ar": "البساتين: جمع بستان",
+    "en": "Basateen Al Falah: orchards"
+  },
+  "story": {
+    "ar": "«البساتين» على وزن جمع «بستان»، وهي البساتين. والشارع يحمل هذا الاسم في مدينة شخبوط، أبوظبي.",
+    "en": "«Basateen Al Falah» takes its first word from bustan — orchards. The street sits in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "bateen-al-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع بَطِين العُود",
+  "en": "Bateen Al 'Oud Street",
+  "meaning": {
+    "ar": "«بَطِين العُود»: بطنُ الشجرة القديمة",
+    "en": "ventricle of an old tree — the inside of the ancient trunk"
+  },
+  "story": {
+    "ar": "«بَطِين العُود» بطنُ الشجرة القديمة. ويمر الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Ventricle of an old tree: that is «Bateen Al 'Oud». The street runs in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "balaqi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع بَلاقِع",
+  "en": "Balaqi' Street",
+  "meaning": {
+    "ar": "بَلَاقِع: جمع بَلْقَعَة، الأرض القفر الخالية",
+    "en": "desolate lands (plural of balqʿa)"
+  },
+  "story": {
+    "ar": "المقصود بـ«بَلَاقِع» جمع «بَلْقَعَة»، الأرض القفر الخالية. والشارع يحمل هذا الاسم في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Plural of balqa'ah — desolate lands: that is «Balaqi'». The street sits in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "bunat-al-watan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع بُناة الوَطَن",
+  "en": "Bunat Al Watan Street",
+  "meaning": {
+    "ar": "«بُناة الوَطَن»: بُناة: جمع بانٍ",
+    "en": "Bunat Al Watan: builders"
+  },
+  "story": {
+    "ar": "يأتي «بُناة» جمعاً لـ«بانٍ»، وهم البناؤون. والشارع يحمل هذا الاسم في الفلاح، أبوظبي.",
+    "en": "«Bunat Al Watan» takes its first word from bani — builders. The street sits in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "birouwaana-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع بيروانة",
+  "en": "Birouwaana Street",
+  "meaning": {
+    "ar": "البيروانة، مروحة السفينة",
+    "en": "the ship's propeller"
+  },
+  "story": {
+    "ar": "«البيروانة» مروحةُ السفينة. ويمر الشارع في أم سقيم، دبي.",
+    "en": "Ship's propeller: that is «Birouwaana». The street runs in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "julnar-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع جلنار",
+  "en": "Julnar Street",
+  "meaning": {
+    "ar": "الجُلَّنار، زهر الرمان",
+    "en": "the pomegranate blossom"
+  },
+  "story": {
+    "ar": "«الجُلَّنار» زهرُ الرمان. والشارع في الثنية 2، دبي.",
+    "en": "Pomegranate blossom: that is «Julnar». You will find the street in Al Thanyah 2, Dubai."
+  }
+},
+{
+  "id": "joory-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع جوري",
+  "en": "Joory Street",
+  "meaning": {
+    "ar": "«جوري»: الورد الجوري",
+    "en": "Joory: damask rose"
+  },
+  "story": {
+    "ar": "«جوري» الورد الجوري. ويمر الشارع في البرشاء جنوب 5، دبي.",
+    "en": "Damask rose: that is «Joory». The street runs in Al Barsha South 5, Dubai."
+  }
+},
+{
+  "id": "habayah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حباية",
+  "en": "Habayah Street",
+  "meaning": {
+    "ar": "حباية: الحبّة الصغيرة أو اللؤلؤة",
+    "en": "a small bead/pearl; a pill"
+  },
+  "story": {
+    "ar": "«حباية» الحبّة الصغيرة أو اللؤلؤة، وحبّة الدواء. والشارع يحمل هذا الاسم في المَرْخَانِيَّة، أبوظبي.",
+    "en": "Small bead or pearl, and a pill: that is «Habayah». The street sits in Al Markhaniyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "hibwah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حِبوة",
+  "en": "Hibwah Street",
+  "meaning": {
+    "ar": "حِبوة: العطية والهبة",
+    "en": "a gift; a wrap-around garment"
+  },
+  "story": {
+    "ar": "«حِبوة» العطية والهبة، وما يُحتبى به من ثوب. ويمر الشارع في البطين، أبوظبي.",
+    "en": "Gift, and a wrap-around garment: that is «Hibwah». The street runs in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "hadab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حَداب",
+  "en": "Hadab Street",
+  "meaning": {
+    "ar": "حَداب: الأحنف، والتلال الصغيرة؛ وارتفاع في الظهر",
+    "en": "a humpback; small hills; a hump on the back"
+  },
+  "story": {
+    "ar": "«حَداب» الأحنف، والتلال الصغيرة، وارتفاعٌ في الظهر. والشارع في أم غَافة، أبوظبي.",
+    "en": "Humpback, small hills, and a hump on the back: that is «Hadab». You will find the street in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "hadabah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حَدابه",
+  "en": "Hadabah Street",
+  "meaning": {
+    "ar": "حَدابة: تصغير حدبة",
+    "en": "a small hump/hillock"
+  },
+  "story": {
+    "ar": "«حَدابة» تصغير «حدبة»، تلّة صغيرة. ويمر الشارع في الفُوعَة، أبوظبي.",
+    "en": "Diminutive of hadabah — a small hillock: that is «Hadabah». The street runs in Al Fou'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "hadadi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حَدَادِي",
+  "en": "Hadadi Street",
+  "meaning": {
+    "ar": "الحَدادي: النسبة إلى الحدادة",
+    "en": "relating to blacksmithing"
+  },
+  "story": {
+    "ar": "«الحَدادي» النسبة إلى الحدادة. والشارع يحمل هذا الاسم في السَّلاَمَات، أبوظبي.",
+    "en": "Adjective of blacksmithing: that is «Hadadi». The street sits in Al Salamat, Abu Dhabi."
+  }
+},
+{
+  "id": "hadbaat-al-ghabeenah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حَدبات الغَبينه",
+  "en": "Hadbaat Al Ghabeenah Street",
+  "meaning": {
+    "ar": "الحدبات: جمع حدبة",
+    "en": "small hills, mounds"
+  },
+  "story": {
+    "ar": "كلمة «الحدبات» جمع «حدبة»، وهي التلال الصغيرة. ويمر الشارع في المُنتَزه، أبوظبي.",
+    "en": "«Hadbaat Al Ghabeenah» takes its first word from hadabah — small hills and mounds. The street runs in Al Muntazah, Abu Dhabi."
+  }
+},
+{
+  "id": "hadbaat-khalifa-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حَدبات خلِيفة",
+  "en": "Hadbaat Khalifa Street",
+  "meaning": {
+    "ar": "الحدبات: جمع حدبة",
+    "en": "small hills, mounds"
+  },
+  "story": {
+    "ar": "«حَدبات» صيغةُ جمع «حدبة»، وهي التلال الصغيرة. والشارع في العامرة، أبوظبي.",
+    "en": "«Hadbaat Khalifa» takes its first word from hadabah — mounds and hillocks. You will find the street in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "hadbat-al-izeeziyah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع حَدبة العزيزيَّه",
+  "en": "Hadbat Al 'Izeeziyah Street",
+  "meaning": {
+    "ar": "«حَدبة العزيزيَّه»: نسبةٌ إلى العزيز",
+    "en": "of al-Izz — the adjective of the name Izz"
+  },
+  "story": {
+    "ar": "«حَدبة العزيزيَّه» اسمٌ يحمله الشارع في مْزِيرْعَة، أبوظبي.",
+    "en": "The street carries the name «Hadbat Al 'Izeeziyah» in Mzeer'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "hadr-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حدر",
+  "en": "Hadr Street",
+  "meaning": {
+    "ar": "حدر: النزول من مرتفع؛ والامتلاء والغلظ",
+    "en": "descent from a height; fullness/thickness"
+  },
+  "story": {
+    "ar": "«حدر» النزول من مرتفع، والامتلاء والغلظ. ويمر الشارع في مُصَفَح، أبوظبي.",
+    "en": "Descent from a height, and fullness: that is «Hadr». The street runs in Musaffah, Abu Dhabi."
+  }
+},
+{
+  "id": "hudoud-ghireeb-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حُدُود غِرِيب",
+  "en": "Hudoud Ghireeb Street",
+  "meaning": {
+    "ar": "الحدود: جمع حدّ",
+    "en": "boundaries, limits"
+  },
+  "story": {
+    "ar": "الاسم «الحدود» جمع «حدّ»، وهي المنافذ الفاصلة بين الأراضي. والشارع يحمل هذا الاسم في شعبة الوُطَاه، أبوظبي.",
+    "en": "«Hudoud Ghireeb» takes its first word from hadd — boundaries and limits. The street sits in Shi'bat Al Wutah, Abu Dhabi."
+  }
+},
+{
+  "id": "hiraybah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حِرَيبة",
+  "en": "Hiraybah Street",
+  "meaning": {
+    "ar": "حِرَيبة: المنهوبة المأسورة بالحرب",
+    "en": "the plundered, taken captive in war"
+  },
+  "story": {
+    "ar": "«حِرَيبة» المنهوبة المأسورة بالحرب. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Plundered one, taken captive in war: that is «Hiraybah». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "hireemlah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حِرِيملة",
+  "en": "Hireemlah Street",
+  "meaning": {
+    "ar": "حِرِيملة: نبات الرَّيْحَان البري",
+    "en": "wild basil / rue (an aromatic plant)"
+  },
+  "story": {
+    "ar": "«حِرِيملة» نباتُ الرَّيْحَان البري. والشارع في زاخِر، أبوظبي.",
+    "en": "Wild basil: that is «Hireemlah». You will find the street in Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "hazzeez-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حَزِّيز",
+  "en": "Hazzeez Street",
+  "meaning": {
+    "ar": "حَزِّيز: الأرض الصلبة",
+    "en": "firm, hard ground"
+  },
+  "story": {
+    "ar": "«حَزِّيز» الأرض الصلبة. ويمر الشارع في عَشَارِج، أبوظبي.",
+    "en": "Firm, hard ground: that is «Hazzeez». The street runs in 'Asharij, Abu Dhabi."
+  }
+},
+{
+  "id": "hassan-salama-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حسن سلامة",
+  "en": "Hassan Salama Street",
+  "meaning": {
+    "ar": "«حسن سلامة»: الخير",
+    "en": "goodness — what is good"
+  },
+  "story": {
+    "ar": "«حسن سلامة» معناها الخير. والشارع يحمل هذا الاسم في كلباء، الشارقة.",
+    "en": "«Hassan Salama» means goodness. The street sits in Kalba, Sharjah."
+  }
+},
+{
+  "id": "hassan-salamah-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حسن سلامة",
+  "en": "Hassan Salamah Street",
+  "meaning": {
+    "ar": "«حسن سلامة»: الخير",
+    "en": "goodness — what is good"
+  },
+  "story": {
+    "ar": "يُقرأ «حسن سلامة» بمعنى الخير. ويمر الشارع في مدينة الشارقة، الشارقة.",
+    "en": "The name «Hassan Salamah» reads as goodness. The street runs in Sharjah City, Sharjah."
+  }
+},
+{
+  "id": "hidayat-ar-riqayib-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حِضَيَّة الرِّقَيِّب",
+  "en": "Hidayat Ar Riqayib Street",
+  "meaning": {
+    "ar": "الحِضَيَّة: مجتمع ماء المطر في حفرة الصخر",
+    "en": "a rock hollow where rain gathers"
+  },
+  "story": {
+    "ar": "«الحِضَيَّة» مجتمعُ ماء المطر في حفرة الصخر. والشارع يحمل هذا الاسم في الظَّاهِر، أبوظبي.",
+    "en": "With «Hadbaat Khalifa», the first word is hadabah — mounds and hillocks. The street sits in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "haleemah-al-sa-diyyah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حليمة السعدية",
+  "en": "Haleemah Al Sa'diyyah Street",
+  "meaning": {
+    "ar": "«حليمة»: الحَلِمة الصغيرة",
+    "en": "papilla — the little nipple-shaped part"
+  },
+  "story": {
+    "ar": "«حليمة» الحَلِمة الصغيرة. والشارع يحمل هذا الاسم في أم غَافة، أبوظبي.",
+    "en": "Papilla: that is «Haleemah». The street sits in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "haleemah-as-sa-diyah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حليمة السعدية",
+  "en": "Haleemah As Sa'diyah Street",
+  "meaning": {
+    "ar": "«حليمة»: الحَلِمة الصغيرة",
+    "en": "papilla — the little nipple-shaped part"
+  },
+  "story": {
+    "ar": "يُسمّى «حليمة» الحَلِمةَ الصغيرة. ويمر الشارع في الفلاح، أبوظبي.",
+    "en": "The name «Haleemah» is given to the papilla. The street runs in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "halemah-al-sadiah-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حليمة السعدية",
+  "en": "Halemah Al Sadiah Street",
+  "meaning": {
+    "ar": "«حليمة»: الحَلِمة الصغيرة",
+    "en": "papilla — the little nipple-shaped part"
+  },
+  "story": {
+    "ar": "«حليمة» تصغير «حَلِمة»، وهي الحَلِمة الصغيرة. والشارع في الحمرة، أم القيوين.",
+    "en": "Diminutive of halimah — the papilla: that is «Halemah». You will find the street in Al Hamrah, Umm Al Quwain."
+  }
+},
+{
+  "id": "hamrour-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حَمْرُور",
+  "en": "Hamrour Street",
+  "meaning": {
+    "ar": "حَمْرُور: الأرض الحمراء",
+    "en": "red land / red soil"
+  },
+  "story": {
+    "ar": "«حَمْرُور» الأرض الحمراء. ويمر الشارع في الزَّاهية، أبوظبي.",
+    "en": "Red land, red soil: that is «Hamrour». The street runs in Al Zahiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "howa-aya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع حُوَأيا",
+  "en": "Howa-aya Street",
+  "meaning": {
+    "ar": "حُوَأْيا: كرش الشاة والبقر",
+    "en": "tripe (stomach of sheep/cattle)"
+  },
+  "story": {
+    "ar": "«حُوَأْيا» كرشُ الشاة والبقر. والشارع يحمل هذا الاسم في الهِيَر، أبوظبي.",
+    "en": "Tripe of sheep and cattle: that is «Howa-aya». The street sits in Al Hiyar, Abu Dhabi."
+  }
+},
+{
+  "id": "khasbah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع خصبة",
+  "en": "Khasbah Street",
+  "meaning": {
+    "ar": "«خصبة»: الأرض الخصبة",
+    "en": "Khasbah: fertile land"
+  },
+  "story": {
+    "ar": "«الخَصْبة» الأرض الخصبة. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Fertile land: that is «Khasbah». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "khasbat-ar-reem-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع خَصبة الرِّيم",
+  "en": "Khasbat Ar Reem Street",
+  "meaning": {
+    "ar": "«خَصبة الرِّيم»: الخَصْبة: الأرض الخصبة",
+    "en": "Khasbat Ar Reem: fertile land"
+  },
+  "story": {
+    "ar": "«خَصبة الرِّيم» أرضٌ خصبة. والشارع يحمل هذا الاسم في النَّهضة، أبوظبي.",
+    "en": "Fertile land: that is «Khasbat Ar Reem». You will find the street in Al Nahdah, Abu Dhabi."
+  }
+},
+{
+  "id": "chatifah-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع خطيفه",
+  "en": "Chatifah Street",
+  "meaning": {
+    "ar": "«خطيفه»: المأخوذة على عَجَل، وطبقٌ من اللبن يُطبخ بالدقيق",
+    "en": "the hastily taken; a dish of milk cooked with flour"
+  },
+  "story": {
+    "ar": "«خطيفه» المأخوذة على عَجَل، وطبقٌ من اللبن يُذَرُّ عليه الدقيق فيُطبخ. ويمر الشارع في أم سقيم، دبي.",
+    "en": "What is snatched in haste, and a dish of milk cooked with flour: that is «Chatifah». The street runs in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "khamis-hamad-al-kaabi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع خميس حمد الكعبي",
+  "en": "Khamis Hamad Al Kaabi Street",
+  "meaning": {
+    "ar": "الخميس",
+    "en": "Thursday"
+  },
+  "story": {
+    "ar": "«الخميس» خميسُ الأسبوع. والشارع يحمل هذا الاسم في الفُوعَة، أبوظبي.",
+    "en": "As for «Khayoor», the first word is khayr — farms and estates. The street sits in Al Fou'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "khayoor-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع خيور",
+  "en": "Khayoor Street",
+  "meaning": {
+    "ar": "الخيور: جمع خَيْر، أو المزارع",
+    "en": "farms, estates (plural of khayr)"
+  },
+  "story": {
+    "ar": "«الخيور» لفظٌ يجمع «خَيْر»، أو المزارع. ويمر الشارع في أم سقيم، دبي.",
+    "en": "Plural of khayr — farms and estates: that is «Khayoor». The street runs in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "dahin-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع داهِن",
+  "en": "Dahin Street",
+  "meaning": {
+    "ar": "«داهِن»: الملاطف المساير والمُدارِي",
+    "en": "the conciliator, one who flatters to get along"
+  },
+  "story": {
+    "ar": "«داهِن» الملاطف المساير. والشارع يحمل هذا الاسم في الشَّامْخَة، أبوظبي.",
+    "en": "Conciliator, one who flatters to get along: that is «Dahin». The street sits in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "dubai-madam-road",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع دبي المدام",
+  "en": "Dubai Madam Road",
+  "meaning": {
+    "ar": "«دبي»: اسمُ مدينة دبي",
+    "en": "Dubai — a city in the United Arab Emirates"
+  },
+  "story": {
+    "ar": "«دبي» اسمُ مدينة دبي. والشارع يحمل هذا الاسم في المدام، الشارقة.",
+    "en": "«Dubai» names the city of Dubai. The street runs in Al Madam, Sharjah."
+  }
+},
+{
+  "id": "droub-al-khair-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع دُرُوب الخَير",
+  "en": "Droub Al Khair Street",
+  "meaning": {
+    "ar": "الدروب: جمع درب",
+    "en": "Droub Al Khair: paths"
+  },
+  "story": {
+    "ar": "«الدروب» جمع «درب»، وهي المسالك. ويمر الشارع في الخَالِدية، أبوظبي.",
+    "en": "Droub Al Khair takes its first word from darb — paths. The street runs in Al Khalidiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "defalas-road",
+  "emirate": "ras-al-khaimah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع دفالس",
+  "en": "Defalas Road",
+  "meaning": {
+    "ar": "«دفالس»: وعاءٌ فخاري كبير لحفظ الماء وتبريده",
+    "en": "a large clay jar for water, kept cool in the ground"
+  },
+  "story": {
+    "ar": "«دفالس» وعاءٌ فخاري كبير لحفظ الماء وتبريده. والشارع في حلحل، رأس الخيمة.",
+    "en": "Large clay jar for water: that is «Defalas». You will find the street in Halhal, Ras Al Khaimah."
+  }
+},
+{
+  "id": "diftah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع دِفتة",
+  "en": "Diftah Street",
+  "meaning": {
+    "ar": "«دِفتة»: جانب السفينة",
+    "en": "Diftah: a ship's side"
+  },
+  "story": {
+    "ar": "«دِفتة» جانبُ السفينة. ويمر الشارع في زاخِر، أبوظبي.",
+    "en": "Ship's side: that is «Diftah». The street runs in Zakhir, Abu Dhabi."
+  }
+},
+{
+  "id": "daqlah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع دَقلة",
+  "en": "Daqlah Street",
+  "meaning": {
+    "ar": "الدَّقِلة: شاةٌ ضاويةٌ قميئة",
+    "en": "a thin ewe; also a ship's mast"
+  },
+  "story": {
+    "ar": "«الدَّقِلة» شاةٌ ضاويةٌ قميئة، والدَّقَل خشبةٌ طويلة تُشدّ في السفينة. والشارع في العامرة، أبوظبي.",
+    "en": "Thin ewe, and a ship's mast: that is «Daqlah». You will find the street in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "dihn-al-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع دِهن العُود",
+  "en": "Dihn Al 'Oud Street",
+  "meaning": {
+    "ar": "«دِهن العُود»: دهنُ الشجرة القديمة",
+    "en": "oily of an old tree — the oil pressed from an ancient trunk"
+  },
+  "story": {
+    "ar": "«دِهن العُود» دهنُ الشجرة القديمة. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Oil of an old tree: that is «Dihn Al 'Oud». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "december-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ديسمبر",
+  "en": "December Street",
+  "meaning": {
+    "ar": "«ديسمبر»: الشهر الثاني عشر من السنة الميلادية",
+    "en": "December — the twelfth month of the year"
+  },
+  "story": {
+    "ar": "«ديسمبر» الشهرُ الثاني عشر من السنة الميلادية. والشارع يحمل هذا الاسم في مدينة زايد، أبوظبي.",
+    "en": "Twelfth month of the calendar year: that is «December». The street sits in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "deema",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ديمة",
+  "en": "Deema",
+  "meaning": {
+    "ar": "«ديمة»: المطر الدائم الساكن",
+    "en": "Deema: steady light rain"
+  },
+  "story": {
+    "ar": "«الدِّيَمة» المطرُ الدائم الساكن. ويمر الشارع في الثنية 3، دبي.",
+    "en": "Steady light rain: that is «Deema». The street runs in Al Thanyah 3, Dubai."
+  }
+},
+{
+  "id": "rajjas-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رَجَّاس",
+  "en": "Rajjas Street",
+  "meaning": {
+    "ar": "رَجَّاس: مبالغة من رجَس، ذو الصوت الشديد المُرجِّس",
+    "en": "rajjās: the tremendous noise-maker (intensive of rajasa)"
+  },
+  "story": {
+    "ar": "«رَجَّاس» مبالغةٌ من «رَجَس»، ذو الصوت الشديد. والشارع يحمل هذا الاسم في المُويجْعِي، أبوظبي.",
+    "en": "Tremendous noise-maker: that is «Rajjas». You will find the street in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "rajjaf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رَجَّاف",
+  "en": "Rajjaf Street",
+  "meaning": {
+    "ar": "الرَّجَّاف: البحر؛ ويُطلق على يوم القيامة لرجفته",
+    "en": "the sea; the Day of Judgment (for its trembling)"
+  },
+  "story": {
+    "ar": "«الرَّجَّاف» البحر، ويُطلق على يوم القيامة لرجفته. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "Sea, and the Day of Judgment for its trembling: that is «Rajjaf». The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "rihoul-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رِحُول",
+  "en": "Rihoul Street",
+  "meaning": {
+    "ar": "الرَّحُول: كثير الارتحال",
+    "en": "much-travelled; riding-camels"
+  },
+  "story": {
+    "ar": "«الرَّحُول» كثير الارتحال، ورِحُول جمع «راحلة». والشارع في غِيَّاثِي، أبوظبي.",
+    "en": "Much-travelled one, and riding-camels: that is «Rihoul». You will find the street in Ghiyathi, Abu Dhabi."
+  }
+},
+{
+  "id": "ruznamah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رزنامة",
+  "en": "Ruznamah Street",
+  "meaning": {
+    "ar": "الرَّزنامة: التقويم",
+    "en": "a calendar, almanac"
+  },
+  "story": {
+    "ar": "«الرَّزنامة» التقويم، كتيّبُ معرفة الأيام والشهور. ويمر الشارع في جزيرة ياس، أبوظبي.",
+    "en": "Calendar, an almanac: that is «Ruznamah». The street runs on Yas Island, Abu Dhabi."
+  }
+},
+{
+  "id": "rizoum-jabir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رِزُوم جَبِر",
+  "en": "Rizoum Jabir Street",
+  "meaning": {
+    "ar": "الرُّزوم: كثبان رملية عالية",
+    "en": "Rizoum Jabir: high sand hills"
+  },
+  "story": {
+    "ar": "«الرُّزوم» كثبانٌ رملية عالية. والشارع يحمل هذا الاسم في العِقَابِيَّة، أبوظبي.",
+    "en": "Rizoum Jabir takes its first word from ruzum — high sand hills. The street sits in Al 'Iqabiyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "rzeem-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رزيم",
+  "en": "Rzeem Street",
+  "meaning": {
+    "ar": "الرَّزِيم: الزَّئير دون فتح الفم، وصوت الرعد الشديد",
+    "en": "a stifled roar (of a lion) or a loud rumble of thunder"
+  },
+  "story": {
+    "ar": "«الرَّزِيم» الزَّئير دون فتح الفم، وصوتُ الرعد الشديد. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Stifled roar, or a loud rumble of thunder: that is «Rzeem». The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "rasha-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رشا",
+  "en": "Rasha Street",
+  "meaning": {
+    "ar": "«رشا»: حبلُ الدلو المعلَّق في البئر",
+    "en": "the rope of a well bucket"
+  },
+  "story": {
+    "ar": "«رشا» حبلُ الدلو المعلَّق في البئر. والشارع في وادي الصفا 7، دبي.",
+    "en": "Rope of a well bucket: that is «Rasha». You will find the street in Wadi Al Safa 7, Dubai."
+  }
+},
+{
+  "id": "rimah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رِماح",
+  "en": "Rimah Street",
+  "meaning": {
+    "ar": "الرماح: جمع رمح",
+    "en": "spears (pl. of rumḥ)"
+  },
+  "story": {
+    "ar": "«الرماح» جمع «رمح»، ورماح الجن الطاعون. ويمر الشارع في رِمَاح، أبوظبي.",
+    "en": "Rimah is the plural of rumh — spears. The street runs in Rimah, Abu Dhabi."
+  }
+},
+{
+  "id": "ramramah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رَمرَامَة",
+  "en": "Ramramah Street",
+  "meaning": {
+    "ar": "رَمْرامَة: نسبة إلى الرَّمْرام، نبات عشبي أخضر",
+    "en": "of the ramrām — a green spring grass"
+  },
+  "story": {
+    "ar": "«رَمْرامَة» نسبةٌ إلى الرَّمْرام، نباتٌ عشبي أخضر. والشارع يحمل هذا الاسم في الدَّانَةْ، أبوظبي.",
+    "en": "Adjective of rarmam, a green spring grass: that is «Ramramah». The street sits in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "rmaylat-al-khalal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع رمَيلة الخَلال",
+  "en": "Rmaylat Al Khalal Street",
+  "meaning": {
+    "ar": "«رمَيلة الخَلال»: الرِّمَيلة: تلة رملية صغيرة",
+    "en": "Rmaylat Al Khalal: a small sand hill"
+  },
+  "story": {
+    "ar": "«الرِّمَيلة» تلةٌ رملية صغيرة. ويمر الشارع في بني ياس، أبوظبي.",
+    "en": "Rmaylat Al Khalal takes its first word from rumaylah — a small sand hill. The street runs in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "zulal",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع زلال",
+  "en": "Zulal",
+  "meaning": {
+    "ar": "زلال: الماء الصافي العذب",
+    "en": "limpid, pure (of water)"
+  },
+  "story": {
+    "ar": "«زلال» الماءُ الصافي العذب. والشارع في الثنية 3، دبي.",
+    "en": "Limpid, pure water: that is «Zulal». You will find the street in Al Thanyah 3, Dubai."
+  }
+},
+{
+  "id": "zimeem-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع زِمِيم",
+  "en": "Zimeem Street",
+  "meaning": {
+    "ar": "زَميم: القريب الملازم؛ من زَمَّ الشيء",
+    "en": "the close, constant companion"
+  },
+  "story": {
+    "ar": "«زَميم» القريب الملازم، من «زَمَّ» الشيءَ شدَّه. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "Close, constant companion: that is «Zimeem». The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "zoweer-al-arta-a-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع زُوِير الأرطاء",
+  "en": "Zoweer Al Arta-a Street",
+  "meaning": {
+    "ar": "الزُّوِير: تصغير زَوْر",
+    "en": "a small bend or inlet"
+  },
+  "story": {
+    "ar": "«الزُّوِير» تصغير «زَوْر»، ويُطلق على المنعطف الصغير. والشارع يحمل هذا الاسم في البطين، أبوظبي.",
+    "en": "Zoweer Al Arta-a takes its first word from zuwayr — a small bend or inlet. The street sits in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "sas-an-nakhl-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ساس النَّخل",
+  "en": "Sas An Nakhl Street",
+  "meaning": {
+    "ar": "السَّاس: العُثُّ الذي يقع في الحبوب والطعام، وكل شيء ائتكل؛ وساس الناس: تولى رياستهم",
+    "en": "moth (that eats provisions/cloth); to govern / manage people's affairs"
+  },
+  "story": {
+    "ar": "«السَّاس» العُثُّ الذي يقع في الحبوب، و«ساس الناس» تولى رياستهم. ويمر الشارع في مْبَزَّرَة الخَضْراء، أبوظبي.",
+    "en": "Sas An Nakhl takes its first word from sas — the moth, and to govern people's affairs. The street runs in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "sidra",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سدرة",
+  "en": "Sidra",
+  "meaning": {
+    "ar": "«سدرة»: شجرةُ السدر",
+    "en": "the sidr tree, the buckthorn"
+  },
+  "story": {
+    "ar": "«سدرة» شجرةُ السدر. والشارع في حدائق الشيخ محمد بن راشد، دبي.",
+    "en": "Sidr tree: that is «Sidra». You will find the street in Hadaeq Sheikh Mohammed Bin Rashid, Dubai."
+  }
+},
+{
+  "id": "sarmad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سَرمَد",
+  "en": "Sarmad Street",
+  "meaning": {
+    "ar": "سَرمَد: أبديّ دائم لا ينقطع",
+    "en": "eternal, everlasting"
+  },
+  "story": {
+    "ar": "«سَرمَد» أبديٌّ دائم لا ينقطع. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "«Sarmad» means eternal and everlasting. The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "sufyan-al-hilali-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سفيان الهلالي",
+  "en": "Sufyan Al Hilali Street",
+  "meaning": {
+    "ar": "«سفيان الهلالي»: نسبةٌ إلى بني هلال",
+    "en": "the adjective of Bani Hilal"
+  },
+  "story": {
+    "ar": "«سفيان الهلالي» نسبةٌ إلى بني هلال. والشارع يحمل هذا الاسم في مدينة الشارقة، الشارقة.",
+    "en": "Adjective of Bani Hilal: that is «Sufyan Al Hilali». The street sits in Sharjah City, Sharjah."
+  }
+},
+{
+  "id": "suqya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سقيا",
+  "en": "Suqya Street",
+  "meaning": {
+    "ar": "السِّقْيا: الاسم من السقي، إعطاء الماء للشرب",
+    "en": "the act of giving water to drink"
+  },
+  "story": {
+    "ar": "«السِّقْيا» الاسم من السقي، إعطاءُ الماء للشرب. ويمر الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Act of giving water to drink: that is «Suqya». The street runs in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "sultani-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سُلطاني",
+  "en": "Sultani Street",
+  "meaning": {
+    "ar": "«سُلطاني»: المنسوب إلى السلطان",
+    "en": "Sultani: sultanic, of the sultan"
+  },
+  "story": {
+    "ar": "«السُّلْطَاني» المنسوب إلى السلطان. والشارع في مدينة خليفة، أبوظبي.",
+    "en": "Adjective of the sultan: that is «Sultani». You will find the street in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "silayslah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سِلَيسلة",
+  "en": "Silayslah Street",
+  "meaning": {
+    "ar": "السَّلِيسِلة: تصغير سِلْسِلَة",
+    "en": "a small chain (dim. of silsila)"
+  },
+  "story": {
+    "ar": "«السَّلِيسِلة» تصغير «سِلْسِلَة»، حَلَقاتٌ متصلة. ويمر الشارع في العامرة، أبوظبي.",
+    "en": "Small chain: that is «Silayslah». The street runs in Al Aamerah, Abu Dhabi."
+  }
+},
+{
+  "id": "sulaiman-at-taymi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سُلَيمان التَّيمِي",
+  "en": "Sulaiman At Taymi Street",
+  "meaning": {
+    "ar": "«سُلَيمان»: سليمان",
+    "en": "Solomon — the name"
+  },
+  "story": {
+    "ar": "«سُلَيمان» هو سليمان. والشارع يحمل هذا الاسم في الخَزنة، أبوظبي.",
+    "en": "«Sulaiman At Taymi» takes its first word from Solomon. The street sits in Al Khaznah, Abu Dhabi."
+  }
+},
+{
+  "id": "sawah-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سواح",
+  "en": "Sawah Street",
+  "meaning": {
+    "ar": "«سواح»: كثير السياحة والتنقل",
+    "en": "Sawah: wandering, roaming"
+  },
+  "story": {
+    "ar": "«السَّوَّاح» كثير السياحة والتنقل. والشارع يحمل هذا الاسم في حلوان، الشارقة.",
+    "en": "Wandering, roaming one: that is «Sawah». The street sits in Halwan, Sharjah."
+  }
+},
+{
+  "id": "swasi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سواسِي",
+  "en": "Swasi Street",
+  "meaning": {
+    "ar": "«سواسِي»: جمع سائس، القائمون على أمر الناس وتدبيرهم",
+    "en": "collectors and managers — the plural of sa'is"
+  },
+  "story": {
+    "ar": "يأتي «سواسِي» جمعاً لـ«سائس»، القائمون على أمر الناس وتدبيرهم. ويمر الشارع في ربدان، أبوظبي.",
+    "en": "Plural of sa'is — collectors and managers: that is «Swasi». The street runs in Rabdan, Abu Dhabi."
+  }
+},
+{
+  "id": "seedaf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سيداف",
+  "en": "Seedaf Street",
+  "meaning": {
+    "ar": "السيداف: شجيرة من الفصيلة البطباطية تنمو في الوديان الصخرية وسفوح المرتفعات",
+    "en": "sidaf (Pteropyrum scoparium), a desert shrub of the buckwheat family"
+  },
+  "story": {
+    "ar": "«السيداف» شجيرةٌ من الفصيلة البطباطية تنمو في الوديان الصخرية. والشارع في وسط المدينة، أبوظبي.",
+    "en": "Sidaf, a desert shrub of the buckwheat family: that is «Seedaf». You will find the street in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "sayqan-as-silamah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع سَيقان السِّلَمه",
+  "en": "Sayqan As Silamah Street",
+  "meaning": {
+    "ar": "«سَيقان»: جمع ساق، ما بين الركبة والقدم وساق الشجرة",
+    "en": "legs and tree stems — the plural of saq"
+  },
+  "story": {
+    "ar": "كلمة «سَيقان» جمع «ساق»، ما بين الركبة والقدم وساق الشجرة. ويمر الشارع في الفلاح، أبوظبي.",
+    "en": "Sayqan As Silamah takes its first word from saq — legs and tree stems. The street runs in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "shi-bat-al-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع شِعْبَة العُود",
+  "en": "Shi'bat Al 'Oud Street",
+  "meaning": {
+    "ar": "«شِعْبَة العُود»: وادٍ صغير عند شجرة قديمة",
+    "en": "ravine of an old tree — the little gorge by an ancient trunk"
+  },
+  "story": {
+    "ar": "«شِعْبَة العُود» اسمٌ يحمله الشارع في عَشَارِج، أبوظبي. و«الشِّعْبة» الوادي الصغير.",
+    "en": "The street carries the name «Shi'bat Al 'Oud» in 'Asharij, Abu Dhabi. «Al Shi'bah» is a small ravine."
+  }
+},
+{
+  "id": "shammal-street",
+  "emirate": "ras-al-khaimah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع شمال",
+  "en": "Shammal Street",
+  "meaning": {
+    "ar": "«الشمال»: شمالُ الجهات",
+    "en": "the north, the northern quarter"
+  },
+  "story": {
+    "ar": "«الشمال» شمالُ الجهات. والشارع في الرفاعة، رأس الخيمة.",
+    "en": "North: that is «Shammal». The street sits in Al Rafaah, Ras Al Khaimah."
+  }
+},
+{
+  "id": "shawahiq-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع شواهق",
+  "en": "Shawahiq Street",
+  "meaning": {
+    "ar": "الشواهق: المرتفعات",
+    "en": "heights, peaks"
+  },
+  "story": {
+    "ar": "«الشواهق» المرتفعات. ويمر الشارع في المُويجْعِي، أبوظبي.",
+    "en": "«Shawahiq» means heights and peaks. The street runs in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "shiwayb-al-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع شِوَيب العُود",
+  "en": "Shiwayb Al 'Oud Street",
+  "meaning": {
+    "ar": "«شِوَيب العُود»: وادٍ صغير عند شجرة قديمة",
+    "en": "a small wadi of an old tree — the little watercourse by an ancient trunk"
+  },
+  "story": {
+    "ar": "«شِوَيب العُود» وادٍ صغير عند شجرة قديمة. والشارع في هِيلِي، أبوظبي.",
+    "en": "Small wadi by an old tree: that is «Shiwayb Al 'Oud». You will find the street in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "shees-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع شِيص",
+  "en": "Shees Street",
+  "meaning": {
+    "ar": "الشِّيص: التمر الرديء الذي لا يشتد نواه",
+    "en": "poor / unripe dates (whose stones do not harden)"
+  },
+  "story": {
+    "ar": "«الشِّيص» التمر الرديء الذي لا يشتد نواه. ويمر الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Poor, unripe dates: that is «Shees». The street runs in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "shees-al-yahal-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع شيص اليَحَل",
+  "en": "Shees Al Yahal Street",
+  "meaning": {
+    "ar": "الشِّيص: التمر الرديء الذي لا يشتد نواه",
+    "en": "poor / unripe dates (whose stones do not harden)"
+  },
+  "story": {
+    "ar": "«الشِّيص» التمر الذي لم ينضج ولم يشتدّ نواه. والشارع يحمل هذا الاسم في مْبَزَّرَة الخَضْراء، أبوظبي.",
+    "en": "«Ash-Shis» is the date that has not ripened and whose stone has not hardened. The street carries this name in Mubazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "sidarah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صِدارة",
+  "en": "Sidarah Street",
+  "meaning": {
+    "ar": "الصدارة: الرياسة، وأوّل الشيء ومقدّمته؛ ومن صدَر الأمر: وقع وتقرّر",
+    "en": "leadership, the foremost position (from sadara — to come first)"
+  },
+  "story": {
+    "ar": "«الصدارة» الرياسة، وأوّل الشيء ومقدّمته. ويمر الشارع في مدينة شخبوط، أبوظبي.",
+    "en": "Leadership, the foremost position: that is «Sidarah». The street runs in Shakhbout City, Abu Dhabi."
+  }
+},
+{
+  "id": "sireef-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صِرِيف",
+  "en": "Sireef Street",
+  "meaning": {
+    "ar": "«صريف»: صوتُ الحديدة",
+    "en": "a clanging sound"
+  },
+  "story": {
+    "ar": "«صريف» صوتُ الحديدة. والشارع في مُصَفَح، أبوظبي.",
+    "en": "Clanging sound: that is «Sireef». You will find the street in Musaffah, Abu Dhabi."
+  }
+},
+{
+  "id": "salah-al-din-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صلاح الدين",
+  "en": "Salah Al Din Street",
+  "meaning": {
+    "ar": "«صلاح الدين»: البرُّ والإحسان",
+    "en": "goodness, righteousness — what is good and right"
+  },
+  "story": {
+    "ar": "«صلاح الدين» معناها البرُّ والإحسان. ويمر الشارع في المرقبات، دبي.",
+    "en": "«Salah Al Din» means goodness and righteousness. The street runs in Al Muraqqabat, Dubai."
+  }
+},
+{
+  "id": "salahuddeen-al-ayoubi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صلاح الدين الأيوبي",
+  "en": "Salahuddeen Al Ayoubi Street",
+  "meaning": {
+    "ar": "«صلاح الدين الأيوبي»: البرُّ والإحسان",
+    "en": "goodness, righteousness — what is good and right"
+  },
+  "story": {
+    "ar": "يُقرأ «صلاح الدين الأيوبي» بمعنى البر والإحسان. والشارع يحمل هذا الاسم في وسط المدينة، أبوظبي.",
+    "en": "The name «Salahuddeen Al Ayoubi» reads as goodness and righteousness. The street sits in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "salah-al-deen-al-ayoubi-street",
+  "emirate": "ajman",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صلاح الدين الأيوبي",
+  "en": "Salah Al Deen Al Ayoubi Street",
+  "meaning": {
+    "ar": "«صلاح الدين الأيوبي»: البرُّ والإحسان",
+    "en": "goodness, righteousness — what is good and right"
+  },
+  "story": {
+    "ar": "«صلاح الدين الأيوبي» اسمٌ معناه البرُّ والإحسان. ويمر الشارع في النعيمية، عجمان.",
+    "en": "Name meaning goodness and righteousness: that is «Salah Al Deen Al Ayoubi». The street runs in Al Nuaimia, Ajman."
+  }
+},
+{
+  "id": "salah-al-deen-al-ayoubi-street-2",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صلاح الدين الأيوبي",
+  "en": "Salah Al Deen Al Ayoubi Street",
+  "meaning": {
+    "ar": "«صلاح الدين الأيوبي»: البرُّ والإحسان",
+    "en": "goodness, righteousness — what is good and right"
+  },
+  "story": {
+    "ar": "«صلاح الدين الأيوبي» معناها البرُّ والإحسان. والشارع في كلباء، الشارقة.",
+    "en": "«Salah Al Deen Al Ayoubi» carries the sense of goodness and righteousness. You will find the street in Kalba, Sharjah."
+  }
+},
+{
+  "id": "salah-al-deen-al-ayoobi-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صلاح الدين الأيوبي",
+  "en": "Salah Al Deen Al Ayoobi Street",
+  "meaning": {
+    "ar": "«صلاح الدين الأيوبي»: البرُّ والإحسان",
+    "en": "goodness, righteousness — what is good and right"
+  },
+  "story": {
+    "ar": "معنى «صلاح الدين الأيوبي» البرُّ والإحسان. ويمر الشارع في الحمرة، أم القيوين.",
+    "en": "The meaning of «Salah Al Deen Al Ayoobi» is goodness and righteousness. The street runs in Al Hamrah, Umm Al Quwain."
+  }
+},
+{
+  "id": "salt-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع صَلت",
+  "en": "Salt Street",
+  "meaning": {
+    "ar": "الصَّلْت: الأملس المشرق الوجه؛ والسيف الصقيل الماضي",
+    "en": "bright smooth-faced; a keen shining sword (salt)"
+  },
+  "story": {
+    "ar": "«الصَّلْت» الأملس المشرق الوجه، والسيف الصقيل الماضي. والشارع يحمل هذا الاسم في البطين، أبوظبي.",
+    "en": "Bright smooth-faced one, and a keen shining sword: that is «Salt». The street sits in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "dawi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ضاوِي",
+  "en": "Dawi Street",
+  "meaning": {
+    "ar": "الضاوي: الهزيل النحيف الشديد الضعف",
+    "en": "emaciated, extremely thin (dāwī)"
+  },
+  "story": {
+    "ar": "«الضاوي» الهزيل النحيف الشديد الضعف. ويمر الشارع في البطين، أبوظبي.",
+    "en": "Emaciated, extremely thin one: that is «Dawi». The street runs in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "diwa-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ضِوَى",
+  "en": "Diwa Street",
+  "meaning": {
+    "ar": "ضَوِيَ ضَوًى: ضعف وهُزِل أو دَقّ؛ والضَّواة: داء يصيب الإبل",
+    "en": "to grow thin/weak; a wasting disease in camels (dawiya)"
+  },
+  "story": {
+    "ar": "«ضَوِيَ» ضعف وهُزِل، والضَّواة داءٌ يصيب الإبل. والشارع في غْنَيْمَة، أبوظبي.",
+    "en": "«Diwa» means to grow thin and weak; the word also names a wasting disease in camels. You will find the street in Ghnaymah, Abu Dhabi."
+  }
+},
+{
+  "id": "ta-an-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع طعان",
+  "en": "Ta'an Street",
+  "meaning": {
+    "ar": "الطَّعْن: القدح والثلب والطَّعْن باللسان أو بالرمح؛ والطعان: مصدر الطَّعَن",
+    "en": "slander, reproach; stabbing/charging with a spear (ta'ān)"
+  },
+  "story": {
+    "ar": "«الطَّعْن» القدح والثلب، والطَّعْن باللسان أو بالرمح. ويمر الشارع في أم سقيم، دبي.",
+    "en": "Slander and reproach, and stabbing with a spear: that is «Ta'an». The street runs in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "tuwarif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع طُوارِف",
+  "en": "Tuwarif Street",
+  "meaning": {
+    "ar": "«طُوارِف»: جمع طارفة، الأمور الجديدة النازلة",
+    "en": "novelties and sudden events — the plural of tarifah"
+  },
+  "story": {
+    "ar": "«طُوارِف» صيغةُ جمع «طارفة»، الأمور الجديدة النازلة. والشارع يحمل هذا الاسم في الوِقن، أبوظبي.",
+    "en": "Plural of tarifah — novelties and sudden events: that is «Tuwarif». The street sits in Al Wiqan, Abu Dhabi."
+  }
+},
+{
+  "id": "teebi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع طِيبِي",
+  "en": "Teebi Street",
+  "meaning": {
+    "ar": "الطيبيّ: المنسوب إلى الطيب — العطر والزكاء والنظافة",
+    "en": "fragrant; of perfume/pleasantness (rel. to tayyib)"
+  },
+  "story": {
+    "ar": "«الطيبيّ» المنسوب إلى الطيب، العطر والزكاء والنظافة. ويمر الشارع في المُعْتَرِض، أبوظبي.",
+    "en": "Adjective of fragrance and pleasantness: that is «Teebi». The street runs in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "dhafeer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ظفير",
+  "en": "Dhafeer Street",
+  "meaning": {
+    "ar": "«ظفير»: ضفيرةُ الشعر، ونوعٌ من الحبل",
+    "en": "hair braid; a type of rope"
+  },
+  "story": {
+    "ar": "«ظفير» ضفيرةُ الشعر، ونوعٌ من الحبل. والشارع في السَّعادة، أبوظبي.",
+    "en": "Hair braid, and a type of rope: that is «Dhafeer». You will find the street in Al Sa'adah, Abu Dhabi."
+  }
+},
+{
+  "id": "dhunoun-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ظنون",
+  "en": "Dhunoun Street",
+  "meaning": {
+    "ar": "«ظنون»: الأفكار والشبهات والتخمينات",
+    "en": "thoughts; suspicions; conjectures"
+  },
+  "story": {
+    "ar": "«ظنون» الأفكار والشبهات والتخمينات. ويمر الشارع في عَشَارِج، أبوظبي.",
+    "en": "«Dhunoun» are thoughts and conjectures. The street runs in 'Asharij, Abu Dhabi."
+  }
+},
+{
+  "id": "dhaharat-at-teeb-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ظَهارة الطِّيب",
+  "en": "Dhaharat At Teeb Street",
+  "meaning": {
+    "ar": "«ظَهارة»: الظهرُ الظاهر، وظِهار يمين الطلاق",
+    "en": "back surface; zihar divorce oath"
+  },
+  "story": {
+    "ar": "«ظَهارة» الظهرُ الظاهر، وظِهار يمين الطلاق. والشارع يحمل هذا الاسم في الروضة، أبوظبي.",
+    "en": "«Dhaharat At Teeb» takes its first word from zaharah — the back surface, and the zihar oath. The street sits in Al Rawdah, Abu Dhabi."
+  }
+},
+{
+  "id": "asem-al-helali-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عاصم الهلالي",
+  "en": "Asem Al Helali Street",
+  "meaning": {
+    "ar": "«عاصم الهلالي»: نسبةٌ إلى بني هلال",
+    "en": "the adjective of Bani Hilal"
+  },
+  "story": {
+    "ar": "«عاصم الهلالي» نسبةٌ إلى بني هلال. ويمر الشارع في الذيد، الشارقة.",
+    "en": "Adjective of Bani Hilal: that is «Asem Al Helali». The street runs in Al Dhaid, Sharjah."
+  }
+},
+{
+  "id": "asim-al-hilali-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عاصم الهلالي",
+  "en": "Asim Al Hilali Street",
+  "meaning": {
+    "ar": "«عاصم الهلالي»: نسبةٌ إلى بني هلال",
+    "en": "the adjective of Bani Hilal"
+  },
+  "story": {
+    "ar": "يُنسب «عاصم الهلالي» إلى بني هلال. والشارع يحمل هذا الاسم في كلباء، الشارقة.",
+    "en": "The name «Asim Al Hilali» derives from Bani Hilal. You will find the street in Kalba, Sharjah."
+  }
+},
+{
+  "id": "aliyah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عالية",
+  "en": "'Aliyah Street",
+  "meaning": {
+    "ar": "العَالِيَة: المرتفعة",
+    "en": "the high, the upper (fem.)"
+  },
+  "story": {
+    "ar": "«العَالِيَة» المرتفعة. ويمر الشارع في نِعْمة، أبوظبي.",
+    "en": "High, the upper one: that is «'Aliyah». The street runs in Ni'mah, Abu Dhabi."
+  }
+},
+{
+  "id": "ujaij-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عجَيِّج",
+  "en": "'Ujaij Street",
+  "meaning": {
+    "ar": "«عجَيِّج»: الضجيج والصخب والصوت العالي",
+    "en": "clamor, uproar and loud noise — the din of voices"
+  },
+  "story": {
+    "ar": "«عجَيِّج» الضجيج والصخب والصوت العالي. والشارع يحمل هذا الاسم في البَاهية، أبوظبي.",
+    "en": "Clamor, uproar and loud noise: that is «'Ujaij». The street sits in Al Bahyah, Abu Dhabi."
+  }
+},
+{
+  "id": "ifaynah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عِفَينة",
+  "en": "'Ifaynah Street",
+  "meaning": {
+    "ar": "«عِفَينة»: المغبرّة، وخرابٌ صغير",
+    "en": "dust-covered; a small ruin"
+  },
+  "story": {
+    "ar": "«عِفَينة» المغبرّة، وخرابٌ صغير. ويمر الشارع في مْزِيرْعَة، أبوظبي.",
+    "en": "Dust-covered, and a small ruin: that is «'Ifaynah». The street runs in Mzeer'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "okadh-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عكاظ",
+  "en": "Okadh Street",
+  "meaning": {
+    "ar": "«عكاظ»: سوقُ عكاظ الشهير في الجاهلية",
+    "en": "the famous pre-Islamic market of Ukaz"
+  },
+  "story": {
+    "ar": "«عكاظ» سوقُ عكاظ الشهير في الجاهلية. والشارع في السلمة، أم القيوين.",
+    "en": "«Okadh» names the famous pre-Islamic market of Ukaz. You will find the street in Al Salmah, Umm Al Quwain."
+  }
+},
+{
+  "id": "annabi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عنابي",
+  "en": "Annabi Street",
+  "meaning": {
+    "ar": "«عنابي»: لونُ العنّاب، أحمرُ داكن",
+    "en": "jujube-colored; dark red"
+  },
+  "story": {
+    "ar": "«عنابي» لونُ العنّاب، أحمرُ داكن. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Jujube-coloured, dark red: that is «Annabi». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "oud-al-mitaynah-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع عُود المطَينه",
+  "en": "'Oud Al Mitaynah Street",
+  "meaning": {
+    "ar": "«عُود المطَينه»: شجرةٌ قديمة في أرضٍ طينية",
+    "en": "an old tree of clay ground — the ancient trunk on clayey soil"
+  },
+  "story": {
+    "ar": "«عُود المطَينه» اسمٌ يحمله الشارع في الفُوعَة، أبوظبي. و«المطينه» الأرضُ الطينية.",
+    "en": "The street carries the name «'Oud Al Mitaynah» in Al Fou'ah, Abu Dhabi. «Al Mitaynah» is clay ground."
+  }
+},
+{
+  "id": "oud-al-maydour-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع عُود المَيدُور",
+  "en": "'Oud Al Maydour Street",
+  "meaning": {
+    "ar": "«عُود المَيدُور»: شجرةٌ قديمة عند المَيدُور",
+    "en": "an old tree of a person with smallpox"
+  },
+  "story": {
+    "ar": "«عُود المَيدُور» اسمٌ يحمله الشارع في مْبَزَّرَة الخَضْراء، أبوظبي.",
+    "en": "The street carries the name «'Oud Al Maydour» in Mbazzarah Al Khadra, Abu Dhabi."
+  }
+},
+{
+  "id": "uweed-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عُوِيد",
+  "en": "'Uweed Street",
+  "meaning": {
+    "ar": "عُوَيْد: تصغير عُود، أي شجرة صغيرة",
+    "en": "a small tree (dim. of ud)"
+  },
+  "story": {
+    "ar": "«عُوَيْد» تصغير «عُود»، أي شجرة صغيرة. ويمر الشارع في المَعْمُورَة، أبوظبي.",
+    "en": "Diminutive of ud — a small tree: that is «'Uweed». The street runs in Al Ma'mourah, Abu Dhabi."
+  }
+},
+{
+  "id": "uwayd-al-milih-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عُوَيد الملح",
+  "en": "'Uwayd Al Milih Street",
+  "meaning": {
+    "ar": "عُوَيْد: تصغير عُود، أي شجرة صغيرة",
+    "en": "a small tree (dim. of ud)"
+  },
+  "story": {
+    "ar": "«عُوَيد الملح» تصغير «عُود»، شجرةٌ صغيرة. والشارع يحمل هذا الاسم في الصَّارُوج، أبوظبي.",
+    "en": "'Uwayd Al Milih takes its first word from uwayd — a small tree. The street sits in Al Sarouj, Abu Dhabi."
+  }
+},
+{
+  "id": "aydanah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع عَيْدَانَة",
+  "en": "Aydanah Street",
+  "meaning": {
+    "ar": "«العَيْدَانَة»: أعودُ صغيرة أو بناءٌ منها",
+    "en": "small sticks; a structure of sticks"
+  },
+  "story": {
+    "ar": "«العَيْدَانَة» أعودُ صغيرة أو بناءٌ منها. ويمر الشارع في الفلاح، أبوظبي.",
+    "en": "«'Aydanah» are small sticks, and a structure of sticks. The street runs in Al Falah, Abu Dhabi."
+  }
+},
+{
+  "id": "ghadeer",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع غدير",
+  "en": "Ghadeer",
+  "meaning": {
+    "ar": "«غدير»: ماءٌ يتجمّع بعد هطول الأمطار",
+    "en": "standing water left after rain"
+  },
+  "story": {
+    "ar": "«غدير» ماءٌ يتجمّع بعد هطول الأمطار. والشارع في الثنية 3، دبي.",
+    "en": "Standing water left after rain: that is «Ghadeer». You will find the street in Al Thanyah 3, Dubai."
+  }
+},
+{
+  "id": "ghazar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع غَزار",
+  "en": "Ghazar Street",
+  "meaning": {
+    "ar": "«غَزار»: كثيرٌ وافر",
+    "en": "abundant; plentiful"
+  },
+  "story": {
+    "ar": "«غَزار» كثيرٌ وافر. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "«Ghazar» means abundant and plentiful. The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "ghafwah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع غَفوَة",
+  "en": "Ghafwah Street",
+  "meaning": {
+    "ar": "«غَفوَة»: غفوةٌ خفيفة ونعاس",
+    "en": "a light nap; dozing off"
+  },
+  "story": {
+    "ar": "«غَفوَة» غفوةٌ خفيفة ونعاس. والشارع يحمل هذا الاسم في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Light nap, dozing off: that is «Ghafwah». The street sits in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "glen-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع غلين",
+  "en": "Glen Street",
+  "meaning": {
+    "ar": "«غلين»: نباتٌ ووادٍ",
+    "en": "a type of plant; a valley"
+  },
+  "story": {
+    "ar": "«غلين» نباتٌ ووادٍ. ويمر الشارع في القصيص الصناعية، دبي.",
+    "en": "Type of plant, and a valley: that is «Glen». The street runs in Al Qusais Industrial Area, Dubai."
+  }
+},
+{
+  "id": "ghemmad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع غِمَّض",
+  "en": "Ghemmad Street",
+  "meaning": {
+    "ar": "«غِمَّض»: غمضُ العينين والرمش",
+    "en": "to close the eyes; blinking"
+  },
+  "story": {
+    "ar": "«غِمَّض» غمضُ العينين والرمش. والشارع في السَّمْحة، أبوظبي.",
+    "en": "To close the eyes, blinking: that is «Ghemmad». You will find the street in Al Samhah, Abu Dhabi."
+  }
+},
+{
+  "id": "gheenat-al-adab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع غِينة العَضَب",
+  "en": "Gheenat Al 'Adab Street",
+  "meaning": {
+    "ar": "الغَيْنَة: الأشجار الملتفّة في الجبال والسهل بلا ماء يجاورها",
+    "en": "dense thickets of trees in mountain or plain, with no water nearby"
+  },
+  "story": {
+    "ar": "«الغَيْنَة» الأشجار الملتفّة في الجبال والسهل بلا ماء يجاورها. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Gheenat Al 'Adab takes its first word from ghaynah — dense thickets with no water nearby. The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "ghiyout-as-sout-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع غِيُوط السُّوت",
+  "en": "Ghiyout As Sout Street",
+  "meaning": {
+    "ar": "«غِيُوط السُّوت»: أرضٌ منخفضة تنبت فيها شجيرات الغضا",
+    "en": "low ground where ghada shrubs grow — the hollow where the ghada rises"
+  },
+  "story": {
+    "ar": "«غِيُوط السُّوت» أرضٌ منخفضة تنبت فيها شجيرات الغضا. والشارع في السَّمْحة، أبوظبي.",
+    "en": "Ghiyout As Sout are low grounds where ghada shrubs grow. The street sits in Al Samhah, Abu Dhabi."
+  }
+},
+{
+  "id": "faroud-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع فرود",
+  "en": "Faroud Street",
+  "meaning": {
+    "ar": "«فرود»: النزول",
+    "en": "going down"
+  },
+  "story": {
+    "ar": "«فرود» النزول. ويمر الشارع في ربدان، أبوظبي.",
+    "en": "«Faroud» means going down. The street runs in Rabdan, Abu Dhabi."
+  }
+},
+{
+  "id": "firees-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع فِريس",
+  "en": "Firees Street",
+  "meaning": {
+    "ar": "«فِريس»: حجرٌ صغير ورحى",
+    "en": "a small stone; a millstone"
+  },
+  "story": {
+    "ar": "«فِريس» حجرٌ صغير ورحى. والشارع يحمل هذا الاسم في الهَرميَّة، أبوظبي.",
+    "en": "Small stone, and a millstone: that is «Firees». You will find the street in Al Harmiyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "fallat-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع فَلَّاة",
+  "en": "Fallat Street",
+  "meaning": {
+    "ar": "فَلَّاة: الصحراء القفراء",
+    "en": "desert, wilderness"
+  },
+  "story": {
+    "ar": "«فَلَّاة» الصحراء القفراء. ويمر الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Desert and wilderness: that is «Fallat». The street runs in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "filiy-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع فِلِي",
+  "en": "Filiy Street",
+  "meaning": {
+    "ar": "«فِلِي»: فأرٌ صغير، وحدُّ نصلٍ مكسور",
+    "en": "a small mouse; a nicked blade"
+  },
+  "story": {
+    "ar": "«فِلِي» فأرٌ صغير، وحدُّ نصلٍ مكسور. والشارع يحمل هذا الاسم في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Small mouse, and a nicked blade: that is «Filiy». The street sits in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "fanan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع فنن",
+  "en": "Fanan Street",
+  "meaning": {
+    "ar": "«فنن»: أعلى الشجرة وفرعها",
+    "en": "the top of a tree; a branch"
+  },
+  "story": {
+    "ar": "«فنن» أعلى الشجرة وفرعها. ويمر الشارع في الروضة الشرقية، أبوظبي.",
+    "en": "Top of a tree, a branch: that is «Fanan». The street runs in Al Rawdah Al Sharqiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "funoud-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع فُنُود",
+  "en": "Funoud Street",
+  "meaning": {
+    "ar": "«فُنُود»: قممُ الجبال وأعلى الأجزاء",
+    "en": "the tops of mountains; the highest parts"
+  },
+  "story": {
+    "ar": "«فُنُود» قممُ الجبال وأعلى الأجزاء. والشارع في أبو سمْرة، أبوظبي.",
+    "en": "«Funoud» are the tops of mountains, the highest parts. You will find the street in Abu Samrah, Abu Dhabi."
+  }
+},
+{
+  "id": "qirmat-as-siwaydah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع قِرمة السِّوَيدة",
+  "en": "Qirmat As Siwaydah Street",
+  "meaning": {
+    "ar": "القَرْمة: علامة على سهام الميسر؛ وقَرِم الصغير: أكل أكلاً ضعيفاً إبّان الفطام",
+    "en": "a mark on the arrows of maysir; also the weaning young one's weak eating"
+  },
+  "story": {
+    "ar": "«القَرْمة» علامةٌ على سهام الميسر، وقَرِم الصغير أكلٌ ضعيف إبّان الفطام. ويمر الشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Qirmat As Siwaydah takes its first word from qarmah — a mark on the arrows of maysir. The street runs in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "qshash-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع قشاش",
+  "en": "Qshash Street",
+  "meaning": {
+    "ar": "القشّاش: من يلتقط الشيء الحقير من الطعام فيأكله، وجامع القُشاش",
+    "en": "a gleaner of meagre food; a gatherer of scraps"
+  },
+  "story": {
+    "ar": "«القشّاش» من يلتقط الشيء الحقير من الطعام، وجامعُ الفضلات. والشارع يحمل هذا الاسم في مدينة محمد بن زايد، أبوظبي.",
+    "en": "Gleaner of meagre food, a gatherer of scraps: that is «Qshash». The street sits in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "qismah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع قِصمة",
+  "en": "Qismah Street",
+  "meaning": {
+    "ar": "القِصْمَة: الكسر، والرجوع قبل تمام المقصود",
+    "en": "a breaking; turning back before an errand is done"
+  },
+  "story": {
+    "ar": "«القِصْمَة» الكسر، والرجوع قبل تمام المقصود. ويمر الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "«Al Qismah» is a breaking, or turning back before an errand is finished. The street runs in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "qamra-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع قَمرَا",
+  "en": "Qamra Street",
+  "meaning": {
+    "ar": "قَمْرَا: تثنية قمر",
+    "en": "two moons (dual of qamar)"
+  },
+  "story": {
+    "ar": "«قَمْرَا» تثنية «قمر»، أي قمران. والشارع في الدَّانَةْ، أبوظبي.",
+    "en": "Dual of qamar — two moons: that is «Qamra». You will find the street in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "kabir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع كابر",
+  "en": "Kabir Street",
+  "meaning": {
+    "ar": "كابر: المتكبر، وكابر السنّ: الأكبر سنّاً",
+    "en": "proud, arrogant; the elder in years"
+  },
+  "story": {
+    "ar": "«كابر» المتكبر، وكابر السنّ الأكبر سنّاً. ويمر الشارع في حَبْشَان، أبوظبي.",
+    "en": "Proud one, and the elder in years: that is «Kabir». The street runs in Habshan, Abu Dhabi."
+  }
+},
+{
+  "id": "camelia",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع كاميليا",
+  "en": "Camelia",
+  "meaning": {
+    "ar": "كاميليا: زهرة الكاميليا",
+    "en": "camellia (the flower)"
+  },
+  "story": {
+    "ar": "«كاميليا» زهرةُ الكاميليا. والشارع يحمل هذا الاسم في وادي الصفا 7، دبي.",
+    "en": "Camellia flower: that is «Camelia». The street sits in Wadi Al Safa 7, Dubai."
+  }
+},
+{
+  "id": "kitaylah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع كِتَيلة",
+  "en": "Kitaylah Street",
+  "meaning": {
+    "ar": "«كِتَيلة»: حزمةٌ صغيرة ملتصقة",
+    "en": "a small clinging bundle or clot"
+  },
+  "story": {
+    "ar": "«كِتَيلة» حزمةٌ صغيرة ملتصقة. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "Small clinging bundle or clot: that is «Kitaylah». The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "k-haylan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع كحَيلان",
+  "en": "K-haylan Street",
+  "meaning": {
+    "ar": "كحيلان: الأكحل",
+    "en": "kohl-eyed, dark-eyed"
+  },
+  "story": {
+    "ar": "«كحيلان» الأكحل، ذو الكُحْل في عينيه. والشارع في بني ياس، أبوظبي.",
+    "en": "Kohl-eyed, dark-eyed: that is «K-haylan». You will find the street in Bani Yas, Abu Dhabi."
+  }
+},
+{
+  "id": "creek-avenue-street",
+  "emirate": "dubai",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع كريك افينيو",
+  "en": "Creek Avenue Street",
+  "meaning": {
+    "ar": "«كريك»: الجدول المائي، كلمةٌ مستعارة",
+    "en": "creek — a borrowed word for a water channel"
+  },
+  "story": {
+    "ar": "«كريك افينيو» اسمٌ يحمله الشارع في رأس الخور، دبي. و«كريك» الجدول المائي، كلمةٌ مستعارة.",
+    "en": "The street carries the name «Creek Avenue» in Ras Al Khor, Dubai. «Creek» is a borrowed word for a water channel."
+  }
+},
+{
+  "id": "kan-ad-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع كَنعد",
+  "en": "Kan'ad Street",
+  "meaning": {
+    "ar": "الكنعد: سمك بحري من سلالة أسماك التونة",
+    "en": "kingfish/king mackerel — a migratory tuna-family fish"
+  },
+  "story": {
+    "ar": "«الكنعد» سمكٌ بحري من سلالة أسماك التونة. ويمر الشارع في الدَّانَةْ، أبوظبي.",
+    "en": "Kingfish, a migratory tuna-family fish: that is «Kan'ad». The street runs in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "kunooz-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع كنوز",
+  "en": "Kunooz Street",
+  "meaning": {
+    "ar": "«كنوز»: جمع كنز",
+    "en": "Kunooz: treasures"
+  },
+  "story": {
+    "ar": "الاسم «الكُنُوز» جمع «كنز»، وهي الكنوز. والشارع يحمل هذا الاسم في مجتمع القوز، دبي.",
+    "en": "Treasures are what «Kunooz» names — the plural of kanz. The street sits in Al Quoz Community, Dubai."
+  }
+},
+{
+  "id": "lazzaz-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع لَزَّاز",
+  "en": "Lazzaz Street",
+  "meaning": {
+    "ar": "اللزاز: الملتصق؛ وشدة الحر واللزوجة",
+    "en": "the clinging one; intense heat, viscosity"
+  },
+  "story": {
+    "ar": "«اللزاز» الملتصق، وشدةُ الحر واللزوجة. ويمر الشارع في هِيلِي، أبوظبي.",
+    "en": "Clinging one, and intense heat and viscosity: that is «Lazzaz». The street runs in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "lafih-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع لَفِح",
+  "en": "Lafih Street",
+  "meaning": {
+    "ar": "اللفح: شدة الحر واللهب، والاختلاط والشوب",
+    "en": "the blast of heat or flame; a scorching"
+  },
+  "story": {
+    "ar": "«اللفح» شدةُ الحر واللهب. والشارع في ميناء زايد، أبوظبي.",
+    "en": "Blast of heat or flame, a scorching: that is «Lafih». You will find the street in Zayed Port, Abu Dhabi."
+  }
+},
+{
+  "id": "liqf-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع لِقْف",
+  "en": "Liqf Street",
+  "meaning": {
+    "ar": "اللقف: الالتقاط وأخذ الشيء بسرعة",
+    "en": "to snatch up, take quickly"
+  },
+  "story": {
+    "ar": "«اللقف» الالتقاط وأخذ الشيء بسرعة. ويمر الشارع في الخِبِيصِي، أبوظبي.",
+    "en": "To snatch up and take quickly: that is «Liqf». The street runs in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "lamhah-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع لمحة",
+  "en": "Lamhah Street",
+  "meaning": {
+    "ar": "اللَّمْحَة: النظرة السريعة",
+    "en": "a glance, a glimpse"
+  },
+  "story": {
+    "ar": "«اللَّمْحَة» النظرةُ السريعة. والشارع يحمل هذا الاسم في السلمة، أم القيوين.",
+    "en": "Glance, a glimpse: that is «Lamhah». The street sits in Al Salmah, Umm Al Quwain."
+  }
+},
+{
+  "id": "lamhah-street-2",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع لَمْحَة",
+  "en": "Lamhah Street",
+  "meaning": {
+    "ar": "اللَّمْحَة: النظرة السريعة",
+    "en": "a glance, a glimpse"
+  },
+  "story": {
+    "ar": "يُقال «لَمْحَة» للنظرة السريعة العابرة. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "The name «Lamhah» is given to a quick glance. The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "lolow-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع لولو",
+  "en": "Lolow Street",
+  "meaning": {
+    "ar": "«لُولُو»: اللؤلؤة، بلهجة الخليج",
+    "en": "pearl in Gulf Arabic — the lulu of the Gulf"
+  },
+  "story": {
+    "ar": "«لُولُو» اللؤلؤة بلهجة الخليج. والشارع يحمل هذا الاسم في قرية جميرا الدائرية، دبي.",
+    "en": "Pearl in Gulf Arabic: that is «Lolow». You will find the street in Jumeirah Village Circle, Dubai."
+  }
+},
+{
+  "id": "lila-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ليلا",
+  "en": "Lila Street",
+  "meaning": {
+    "ar": "«ليلا»: في الليل",
+    "en": "by night — in the hours of night"
+  },
+  "story": {
+    "ar": "«ليلا» في الليل. ويمر الشارع في وادي الصفا 7، دبي.",
+    "en": "«Lila» means by night. The street runs in Wadi Al Safa 7, Dubai."
+  }
+},
+{
+  "id": "madi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ماضِي",
+  "en": "Madi Street",
+  "meaning": {
+    "ar": "الماضي: السالف الذي مضى، و زمن الماضي",
+    "en": "the past; the one that has gone by"
+  },
+  "story": {
+    "ar": "«الماضي» السالف الذي مضى، وزمنُ الماضي. والشارع يحمل هذا الاسم في الطِّوَيَّة، أبوظبي.",
+    "en": "Past, the one that has gone by: that is «Madi». The street sits in Al Tiwayya, Abu Dhabi."
+  }
+},
+{
+  "id": "malik-al-ashtar-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مالك الأشتر",
+  "en": "Malik Al Ashtar Street",
+  "meaning": {
+    "ar": "«مالك»: المالك",
+    "en": "owner — the possessor"
+  },
+  "story": {
+    "ar": "«مالك» هو المالك. ويمر الشارع في مدينة الشارقة، الشارقة.",
+    "en": "«Malik Al Ashtar» takes its first word from malik — owner. The street runs in Sharjah City, Sharjah."
+  }
+},
+{
+  "id": "mejsemi-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مجسمي",
+  "en": "Mejsemi Street",
+  "meaning": {
+    "ar": "المجسمي: الحجمي، ذو ثلاثة أبعاد",
+    "en": "three-dimensional, volumetric"
+  },
+  "story": {
+    "ar": "«المجسمي» الحجمي، ذو ثلاثة أبعاد. والشارع في أم سقيم، دبي.",
+    "en": "Three-dimensional and volumetric: that is «Mejsemi». You will find the street in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "majloud-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مَجْلُود",
+  "en": "Majloud Street",
+  "meaning": {
+    "ar": "مجلود: المضروب بالجلد والسوط",
+    "en": "one flogged, lashed with a whip"
+  },
+  "story": {
+    "ar": "«مجلود» المضروب بالجلد والسوط. ويمر الشارع في المُويجْعِي، أبوظبي.",
+    "en": "One flogged, lashed with a whip: that is «Majloud». The street runs in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "mahaya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مَحَايَا",
+  "en": "Mahaya Street",
+  "meaning": {
+    "ar": "المحايا: جمع مَحْيَى",
+    "en": "faces, aspects (plural of mahya)"
+  },
+  "story": {
+    "ar": "«المحايا» لفظٌ يجمع «مَحْيَى»، وهي الوجه والناحية من الجسد. والشارع يحمل هذا الاسم في الروضة الشرقية، أبوظبي.",
+    "en": "Plural of mahya — faces and aspects: that is «Mahaya». The street sits in Al Rawdah Al Sharqiyah, Abu Dhabi."
+  }
+},
+{
+  "id": "mahan-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مَحن",
+  "en": "Mahan Street",
+  "meaning": {
+    "ar": "المحن: جمع محنة، وهي البليّة والابتلاء والشدة",
+    "en": "trials, tribulations (plural of mihna)"
+  },
+  "story": {
+    "ar": "في «المحن» جمعٌ لـ«محنة»، وهي البليّة والابتلاء والشدة. ويمر الشارع في البطين، أبوظبي.",
+    "en": "Plural of mihnah — trials and tribulations: that is «Mahan». The street runs in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "mihayeer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مِحَيِير",
+  "en": "Mihayeer Street",
+  "meaning": {
+    "ar": "المحيير: المُحيِّر المُدهش",
+    "en": "baffling, perplexing"
+  },
+  "story": {
+    "ar": "«المحيير» المُحيِّر المُدهش. والشارع في الشَّامْخَة، أبوظبي.",
+    "en": "Baffling, perplexing one: that is «Mihayeer». You will find the street in Al Shamkhah, Abu Dhabi."
+  }
+},
+{
+  "id": "mdawwarah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مْدَوَّرَة",
+  "en": "Mdawwarah Street",
+  "meaning": {
+    "ar": "«المُدَوَّرة»: المستديرة أو المكان المستدير",
+    "en": "round and circular — the curved one"
+  },
+  "story": {
+    "ar": "«المُدَوَّرة» المستديرة أو المكان المستدير. ويمر الشارع في الخِبِيصِي، أبوظبي.",
+    "en": "Round and circular: that is «Mdawwarah». The street runs in Al Khibeesi, Abu Dhabi."
+  }
+},
+{
+  "id": "marabi-as-sila-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مرابِع السِّلع",
+  "en": "Marabi' As Sila' Street",
+  "meaning": {
+    "ar": "«مرابِع السِّلع»: المَرَابِع: جمع مَرْبَع",
+    "en": "Marabi' As Sila': camps, abodes"
+  },
+  "story": {
+    "ar": "تُسمّى «المَرَابِع» جمع «مَرْبَع»، وهي مواضع الربوع والإقامة. والشارع يحمل هذا الاسم في السِّلَع، أبوظبي.",
+    "en": "Marabi' As Sila' takes its first word from marabi' — camps and abodes. The street sits in Al Sila', Abu Dhabi."
+  }
+},
+{
+  "id": "marbah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مَربَح",
+  "en": "Marbah Street",
+  "meaning": {
+    "ar": "«المَرْبَح»: المكان الذي يُربَح فيه أو الربح",
+    "en": "profitable and gainful — where profit is made"
+  },
+  "story": {
+    "ar": "«المَرْبَح» المكان الذي يُربَح فيه أو الربح. ويمر الشارع في هِيلِي، أبوظبي.",
+    "en": "Profitable place, or the profit itself: that is «Marbah». The street runs in Hili, Abu Dhabi."
+  }
+},
+{
+  "id": "mirdif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مِردِف",
+  "en": "Mirdif Street",
+  "meaning": {
+    "ar": "المِرْدِف: المُتبع",
+    "en": "one who follows"
+  },
+  "story": {
+    "ar": "«المِرْدِف» المُتبع، من «أردف». والشارع في مدينة زايد، أبوظبي.",
+    "en": "One who follows: that is «Mirdif». You will find the street in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "mraqqab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مرَقَّب",
+  "en": "Mraqqab Street",
+  "meaning": {
+    "ar": "«المَرْقَب»: المكان المرتفع للمراقبة",
+    "en": "watchtower — the high place kept for watching"
+  },
+  "story": {
+    "ar": "«المَرْقَب» المكان المرتفع للمراقبة. ويمر الشارع في السَّعادة، أبوظبي.",
+    "en": "Watchtower: that is «Mraqqab». The street runs in Al Sa'adah, Abu Dhabi."
+  }
+},
+{
+  "id": "mrawweh-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مرَوح",
+  "en": "Mrawweh Street",
+  "meaning": {
+    "ar": "المَرُوح: جمع راحة",
+    "en": "fan, resting place"
+  },
+  "story": {
+    "ar": "«المَرُوح» على وزن جمع «راحة»، أو المكان الذي يُراح فيه. والشارع يحمل هذا الاسم في البطين، أبوظبي.",
+    "en": "Fan, and a resting place: that is «Mrawweh». The street sits in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "mizrab-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مِزْرَاب",
+  "en": "Mizrab Street",
+  "meaning": {
+    "ar": "«مِزْرَاب»: المَزراب",
+    "en": "Mizrab: gutter, spout"
+  },
+  "story": {
+    "ar": "«المِزْرَاب» المَزراب، مجرى الماء. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "Gutter, the spout: that is «Mizrab». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "mizmelah-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مزمله",
+  "en": "Mizmelah Street",
+  "meaning": {
+    "ar": "«المُزَمِّلة»: التي تُزمِّل",
+    "en": "the wrapped one — she who wraps herself"
+  },
+  "story": {
+    "ar": "«المُزَمِّلة» التي تُزمِّل، أي تلتفّ. والشارع في أم سقيم، دبي.",
+    "en": "Wrapped one: that is «Mizmelah». You will find the street in Umm Suqeim, Dubai."
+  }
+},
+{
+  "id": "mazoon-street",
+  "emirate": "ras-al-khaimah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مزون",
+  "en": "Mazoon Street",
+  "meaning": {
+    "ar": "«مزون»: جمع مُزْن",
+    "en": "Mazoon: rain clouds"
+  },
+  "story": {
+    "ar": "يأتي «المُزُون» جمعاً لـ«مُزْن»، وهي السحب الممطرة. ويمر الشارع في اصفني، رأس الخيمة.",
+    "en": "Plural of muzn — rain clouds: that is «Mazoon». The street runs in Esfini, Ras Al Khaimah."
+  }
+},
+{
+  "id": "musari-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مُساري",
+  "en": "Musari Street",
+  "meaning": {
+    "ar": "«مُساري»: من سار ليلاً",
+    "en": "night travelers — those who walk by night"
+  },
+  "story": {
+    "ar": "«مُساري» من سار ليلاً. والشارع يحمل هذا الاسم في أم غَافة، أبوظبي.",
+    "en": "«Musari» are night travellers. The street sits in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "misakin-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مِسَاكِن",
+  "en": "Misakin Street",
+  "meaning": {
+    "ar": "«مِسَاكِن»: جمع مسكن",
+    "en": "Misakin: dwellings"
+  },
+  "story": {
+    "ar": "كلمة «مِسَاكِن» جمع «مسكن»، وهي الدور والمساكن. ويمر الشارع في الدَّانَةْ، أبوظبي.",
+    "en": "Dwellings are what «Misakin» names — the plural of maskan. The street runs in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "mismih-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مِسمِح",
+  "en": "Mismih Street",
+  "meaning": {
+    "ar": "«مِسمِح»: السخي الكريم",
+    "en": "Mismih: generous, easy"
+  },
+  "story": {
+    "ar": "«المِسْمِح» السخيّ الكريم. والشارع في دلما، أبوظبي.",
+    "en": "Generous and easy one: that is «Mismih». You will find the street in Delma, Abu Dhabi."
+  }
+},
+{
+  "id": "maeen",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع معين",
+  "en": "Maeen",
+  "meaning": {
+    "ar": "«المعين»: المربعُ المائل أو المُعين",
+    "en": "the rhombus, and the helper — the slanted square"
+  },
+  "story": {
+    "ar": "«المعين» المربعُ المائل، أو المُعين. ويمر الشارع في الثنية 3، دبي.",
+    "en": "Rhombus, and the helper: that is «Maeen». The street runs in Al Thanyah 3, Dubai."
+  }
+},
+{
+  "id": "maghazi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مَغازي",
+  "en": "Maghazi Street",
+  "meaning": {
+    "ar": "مَغازي: جمع مَغْزًى",
+    "en": "raids, expeditions"
+  },
+  "story": {
+    "ar": "«مَغازي» صيغةُ جمع «مَغْزًى»، وهي الغزوات أو البعثات. والشارع يحمل هذا الاسم في مدينة خليفة، أبوظبي.",
+    "en": "Plural of maghza — raids and expeditions: that is «Maghazi». The street sits in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "miqsar-al-hadar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مقصار الحَضَر",
+  "en": "Miqsar Al Hadar Street",
+  "meaning": {
+    "ar": "الحضر: الحضور، أو سكان البلدان",
+    "en": "presence; the settled (towns) people, as opposed to Bedouin"
+  },
+  "story": {
+    "ar": "«الحضر» الحضور، أو سكان البلدان خلافاً للبدو. والشارع يحمل هذا الاسم في الطِّوَيَّة، أبوظبي.",
+    "en": "Miqsar Al Hadar takes its second word from hadar — the settled townspeople. The street sits in Al Tiwayya, Abu Dhabi."
+  }
+},
+{
+  "id": "mkasib-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مكاسِب",
+  "en": "Mkasib Street",
+  "meaning": {
+    "ar": "«مكاسِب»: جمع مَكْسَب",
+    "en": "Mkasib: earnings"
+  },
+  "story": {
+    "ar": "«مكاسِب» جمع «مَكْسَب»، وهي مصادر الكسب. ويمر الشارع في البطين، أبوظبي.",
+    "en": "«Mkasib» is the plural of maksab — earnings. The street runs in Al Bateen, Abu Dhabi."
+  }
+},
+{
+  "id": "makhoulah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مَكحُولة",
+  "en": "Makhoulah Street",
+  "meaning": {
+    "ar": "«مَكحُولة»: التي تُكحَّل، أو الكُحْلة",
+    "en": "Makhoulah: kohl-wearing one"
+  },
+  "story": {
+    "ar": "«المَكحُولة» التي تُكحَّل، أو الكُحْلة. والشارع في الدَّانَةْ، أبوظبي.",
+    "en": "«Makhoulah» is the kohl-wearing one. You will find the street in Al Danah, Abu Dhabi."
+  }
+},
+{
+  "id": "malaqit-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مَلاقط",
+  "en": "Malaqit Street",
+  "meaning": {
+    "ar": "مَلاقط: جمع مِلْقَط",
+    "en": "tongs, pincers"
+  },
+  "story": {
+    "ar": "«مَلاقط» جمع «مِلْقَط»، وهي آلات الأخذ. ويمر الشارع في الرُّويضات، أبوظبي.",
+    "en": "Tongs and pincers are what «Malaqit» names — the plural of miqat. The street runs in Al Ruwaydat, Abu Dhabi."
+  }
+},
+{
+  "id": "malayim-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ملايم",
+  "en": "Malayim Street",
+  "meaning": {
+    "ar": "المُلايِمُ: المناسب اللطيف المعتدل",
+    "en": "suitable, mild, gentle, agreeable"
+  },
+  "story": {
+    "ar": "«المُلايِمُ» المناسب اللطيف المعتدل. والشارع يحمل هذا الاسم في وسط المدينة، أبوظبي.",
+    "en": "«Malayim» is the suitable, mild and agreeable one. The street sits in Central District, Abu Dhabi."
+  }
+},
+{
+  "id": "miltifit-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مِلْتِفِت",
+  "en": "Miltifit Street",
+  "meaning": {
+    "ar": "المُلْتَفِت: فاعل من إلْتَفَتَ، الالتفات",
+    "en": "turning around (participle of iltafata)"
+  },
+  "story": {
+    "ar": "«المُلْتَفِت» فاعلٌ من «إلْتَفَتَ»، الالتفات. ويمر الشارع في أم غَافة، أبوظبي.",
+    "en": "One who turns around: that is «Miltifit». The street runs in Um Ghafah, Abu Dhabi."
+  }
+},
+{
+  "id": "manakhil-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مناخل",
+  "en": "Manakhil Street",
+  "meaning": {
+    "ar": "المَنَاخِل: جمع مِنْخَل",
+    "en": "sieves (pl. of minkhal)"
+  },
+  "story": {
+    "ar": "«المَنَاخِل» جمع «مِنْخَل»، أداةٌ ذات ثقوب ضيقة لنخل الدقيق. والشارع في الهَرميَّة، أبوظبي.",
+    "en": "Plural of minkhal — sieves: that is «Manakhil». You will find the street in Al Harmiyyah, Abu Dhabi."
+  }
+},
+{
+  "id": "manshar-street",
+  "emirate": "umm-al-quwain",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع منشر",
+  "en": "Manshar Street",
+  "meaning": {
+    "ar": "«منشر»: موضعُ النشر أو الناشر",
+    "en": "spreading place — where things are spread out"
+  },
+  "story": {
+    "ar": "«منشر» موضعُ النشر أو الناشر. ويمر الشارع في الدار البيضاء، أم القيوين.",
+    "en": "«Manshar» is a spreading place. The street runs in Al Dar Al Baidah, Umm Al Quwain."
+  }
+},
+{
+  "id": "minshalah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مِنشَلة",
+  "en": "Minshalah Street",
+  "meaning": {
+    "ar": "المِنْشَلة: الآلة التي يُنشَل بها اللحم من القدر؛ والمَنْشَلة: موضع الخاتم من الخنصر",
+    "en": "a hooked lifting tool; the ring-seat at the base of the little finger"
+  },
+  "story": {
+    "ar": "«المِنْشَلة» الآلة التي يُنشَل بها اللحم من القدر، ومَنْشَلة الخاتم من الخنصر. والشارع في السَّلاَمَات، أبوظبي.",
+    "en": "«Minshalah» is a hooked lifting tool, and the ring-seat at the base of the little finger. The street sits in Al Salamat, Abu Dhabi."
+  }
+},
+{
+  "id": "mhayya-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مْهَيَّا",
+  "en": "Mhayya Street",
+  "meaning": {
+    "ar": "مُهَيَّأ: مُجَهَّز ومُعَدّ",
+    "en": "prepared, ready, set up"
+  },
+  "story": {
+    "ar": "«مُهَيَّأ» مُجَهَّز ومُعَدّ، جاهز للاستعمال. ويمر الشارع في مدينة الرياض، أبوظبي.",
+    "en": "«Mhayya» is what is prepared and ready. The street runs in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "mousham-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مُوشَم",
+  "en": "Mousham Street",
+  "meaning": {
+    "ar": "المُوشَّم: المُعلَّم بوسم؛ ووَشَمَ الغصن: بدا ورقه",
+    "en": "branded, marked; to tattoo, to bud (of a branch)"
+  },
+  "story": {
+    "ar": "«المُوشَّم» المُعلَّم بوسم، ووَشَمَ الغصن بدا ورقه. والشارع يحمل هذا الاسم في مدينة زايد، أبوظبي.",
+    "en": "Branded and marked one; the verb also describes a branch budding: that is «Mousham». The street sits in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "mouyah-al-hideeb-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مُوَيه الحِضِيب",
+  "en": "Mouyah Al Hideeb Street",
+  "meaning": {
+    "ar": "مُوَيْه: تصغير ماء",
+    "en": "a little water (diminutive of water)"
+  },
+  "story": {
+    "ar": "«مُوَيْه» تصغير «ماء»، أي ماءٌ قليل. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Mouyah Al Hideeb takes its first word from muwayh — a little water. The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "muwayih-as-sabr-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع مُوَيِه السَّبر",
+  "en": "Muwayih As Sabr Street",
+  "meaning": {
+    "ar": "مُوَيْه: تصغير ماء",
+    "en": "a little water (diminutive of water)"
+  },
+  "story": {
+    "ar": "«مُوَيِه» تصغير «ماء»، ماءٌ يسير. والشارع في الحِصِن، أبوظبي.",
+    "en": "Muwayih As Sabr takes its first word from muwayh — a little water. You will find the street in Al Hisn, Abu Dhabi."
+  }
+},
+{
+  "id": "miyar-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ميار",
+  "en": "Miyar Street",
+  "meaning": {
+    "ar": "المَيَّار: جامع الميرة، أي جالب الطعام والقوت",
+    "en": "a provision-merchant, one who brings food supplies"
+  },
+  "story": {
+    "ar": "«المَيَّار» جامعُ الميرة، أي جالب الطعام والقوت. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Provision-merchant, one who brings food supplies: that is «Miyar». The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "nabir-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع نَابِر",
+  "en": "Nabir Street",
+  "meaning": {
+    "ar": "النَّابِر: بيت التاجر الذي يجمع فيه المتاع والغلال",
+    "en": "a merchant's storehouse; one who defends (from nabara)"
+  },
+  "story": {
+    "ar": "«النَّابِر» بيتُ التاجر الذي يجمع فيه المتاع، والمُدافِع. والشارع في المُعْتَرِض، أبوظبي.",
+    "en": "«Nabir» is a merchant's storehouse, and one who defends. The street sits in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "nasaq-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ناسداك",
+  "en": "Nasaq Street",
+  "meaning": {
+    "ar": "«ناسداك»: سوقٌ مالي أمريكي للأسهم",
+    "en": "NASDAQ, the American stock exchange"
+  },
+  "story": {
+    "ar": "«ناسداك» سوقٌ مالي أمريكي للأسهم. ويمر الشارع في مرسى دبي، دبي.",
+    "en": "«Nasaq» is NASDAQ, the American stock exchange. The street runs in Dubai Marina, Dubai."
+  }
+},
+{
+  "id": "nasser-mohammed-al-kaabi-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ناصر محمد الكعبي",
+  "en": "Nasser Mohammed Al Kaabi Street",
+  "meaning": {
+    "ar": "«ناصر»: المُعين، لقبٌ من ألقاب الله",
+    "en": "the Helper, an epithet of God"
+  },
+  "story": {
+    "ar": "«ناصر» معناها المُعين، وهو لقبٌ من ألقاب الله. والشارع يحمل هذا الاسم في الفُوعَة، أبوظبي.",
+    "en": "In the name, «Nasser Mohammed Al Kaabi» — its first word tells the meaning — the Helper, an epithet of God. The street sits in Al Fou'ah, Abu Dhabi."
+  }
+},
+{
+  "id": "nafe-a-al-khuza-l-street",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع نافع الخزعل",
+  "en": "Nafe'a Al Khuza'l Street",
+  "meaning": {
+    "ar": "«نافع»: النافع المفيد",
+    "en": "useful, beneficial"
+  },
+  "story": {
+    "ar": "«نافع» النافع المفيد. ويمر الشارع في الشرق، الشارقة.",
+    "en": "Usefulness is the sense of «Nafe'a Al Khuza'l». The street runs in Al Sharq, Sharjah."
+  }
+},
+{
+  "id": "nisreen-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع نسرين",
+  "en": "Nisreen street",
+  "meaning": {
+    "ar": "«نسرين»: ورد النسرين",
+    "en": "Nisreen: dog rose"
+  },
+  "story": {
+    "ar": "«النسرين» وردُ النسرين، زهرةُ الورد الكلبي. والشارع في الثنية 4، دبي.",
+    "en": "Dog rose: that is «Nisreen». You will find the street in Al Thanyah 4, Dubai."
+  }
+},
+{
+  "id": "nisaybah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع نِصَيبة",
+  "en": "Nisaybah Street",
+  "meaning": {
+    "ar": "النَّصِيبة: إحدى الأحجار التي تُنصَب حول الحوض عضائد؛ وما نُصِب علامة",
+    "en": "a stone set around a trough as a prop; a marker set up"
+  },
+  "story": {
+    "ar": "«النَّصِيبة» إحدى الأحجار التي تُنصَب حول الحوض عضائد، وما نُصِب علامة. ويمر الشارع في الظَّاهِر، أبوظبي.",
+    "en": "«Nisaybah» is a stone set around a trough as a prop, and a marker set up. The street runs in Al Dhahir, Abu Dhabi."
+  }
+},
+{
+  "id": "naffa-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع نَفَّاع",
+  "en": "Naffa' Street",
+  "meaning": {
+    "ar": "النَّفَاع: الفائدة والمَنْفَعة؛ والنَّفَّاع: كثير النفع",
+    "en": "benefit, usefulness; one who is of much use"
+  },
+  "story": {
+    "ar": "«النَّفَاع» الفائدة والمَنْفَعة، والنَّفَّاع كثير النفع. والشارع يحمل هذا الاسم في مدينة الرياض، أبوظبي.",
+    "en": "«Naffa'» means benefit and usefulness. The street sits in Madinat Al Riyad, Abu Dhabi."
+  }
+},
+{
+  "id": "nameer-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع نَمِير",
+  "en": "Nameer Street",
+  "meaning": {
+    "ar": "«النَّمير من الماء»: الطيب الناجع في الريّ",
+    "en": "sweet, wholesome water — water that is pure and fresh"
+  },
+  "story": {
+    "ar": "«النَّمير من الماء» الطيب الناجع في الريّ. ويمر الشارع في مدينة خليفة، أبوظبي.",
+    "en": "«Nameer» is sweet and wholesome of water. The street runs in Khalifa City, Abu Dhabi."
+  }
+},
+{
+  "id": "novelia-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع نوفيليا",
+  "en": "Novelia Street",
+  "meaning": {
+    "ar": "«نوفيليا»: الرواية القصيرة",
+    "en": "a novella — a short novel"
+  },
+  "story": {
+    "ar": "«نوفيليا» الرواية القصيرة. والشارع يحمل هذا الاسم في قرى فيكتوري هايتس، دبي.",
+    "en": "«Novelia» is a novella, a short novel. The street sits in Victory Heights Villages, Dubai."
+  }
+},
+{
+  "id": "hadfah-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع هدفه",
+  "en": "Hadfah Street",
+  "meaning": {
+    "ar": "الهَدَف: المقصد والغاية والطلب المرغوب",
+    "en": "Hadfah: the goal, target, aim"
+  },
+  "story": {
+    "ar": "«الهَدَف» المقصد والغاية والطلب المرغوب. والشارع في المَنهَل، أبوظبي.",
+    "en": "Goal and the target: that is «Hadfah». You will find the street in Al Manhal, Abu Dhabi."
+  }
+},
+{
+  "id": "wakif-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع واكف",
+  "en": "Wakif Street",
+  "meaning": {
+    "ar": "الوَاكِف: السائل المتقاطر قليلاً قليلاً",
+    "en": "dripping, trickling (participle of wakafa)"
+  },
+  "story": {
+    "ar": "«الوَاكِف» السائل المتقاطر قليلاً قليلاً. ويمر الشارع في مدينة زايد، أبوظبي.",
+    "en": "Dripping, trickling one: that is «Wakif». The street runs in Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "wanis-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع وَانِس",
+  "en": "Wanis Street",
+  "meaning": {
+    "ar": "الوَانِس: المؤانس المألوف، من معاني الجذر أنس",
+    "en": "the companionable, familiar one (from uns / istānasa)"
+  },
+  "story": {
+    "ar": "«الوَانِس» المؤانس المألوف. والشارع يحمل هذا الاسم في المُويجْعِي، أبوظبي.",
+    "en": "Companionable, familiar one: that is «Wanis». The street sits in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "wad-ha-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع وَضْحَاء",
+  "en": "Wad-ha Street",
+  "meaning": {
+    "ar": "«الوضحة»: بقعة من الأرض وقطعة من اللحم، والوضحاء الأرض البيضاء الصافية",
+    "en": "a clear white patch of ground — the bright open desert"
+  },
+  "story": {
+    "ar": "«الوضحاء» الأرض البيضاء الصافية، ومن «وَضَحَ» بان. ويمر الشارع في الجيمي، أبوظبي.",
+    "en": "«Wad-ha» is a clear white patch of ground, bright open desert. The street runs in Al Jimi, Abu Dhabi."
+  }
+},
+{
+  "id": "waqeea-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع وَقيع",
+  "en": "Waqeea' Street",
+  "meaning": {
+    "ar": "الوَقِيع: المكان الصُّلب لا يكاد يُنشِّف الماء؛ وسِكّين وقيع: حديد",
+    "en": "hard, water-impermeable ground; a steel blade or hard hoof"
+  },
+  "story": {
+    "ar": "«الوَقِيع» المكان الصُّلب لا يكاد يُنشِّف الماء، وسِكّينٌ وقيع حديد. والشارع في المُعْتَرِض، أبوظبي.",
+    "en": "«Waqeea'» is hard, water-impermeable ground, and a steel blade. You will find the street in Al Mu'tarid, Abu Dhabi."
+  }
+},
+{
+  "id": "yasmin-street",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع ياسمين",
+  "en": "Yasmin Street",
+  "meaning": {
+    "ar": "ياسمين: زهرة الياسمين",
+    "en": "Yasmin: jasmine"
+  },
+  "story": {
+    "ar": "«ياسمين» زهرةُ الياسمين. ويمر الشارع في وادي الصفا 7، دبي.",
+    "en": "Jasmine flower: that is «Yasmin». The street runs in Wadi Al Safa 7, Dubai."
+  }
+},
+{
+  "id": "yida-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع يِدا",
+  "en": "Yida Street",
+  "meaning": {
+    "ar": "يدا: مثنى يَد — الكفّان",
+    "en": "two hands; power, bounty"
+  },
+  "story": {
+    "ar": "«يدا» مثنى «يَد»، الكفّان؛ واليد القوة والسِّعة والنعمة. والشارع يحمل هذا الاسم في ميناء زايد، أبوظبي.",
+    "en": "Dual of yad — two hands; the word also means power and bounty: that is «Yida». The street sits in Zayed Port, Abu Dhabi."
+  }
+},
+{
+  "id": "yidha-street",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "شارع يِذَاع",
+  "en": "Yidha' Street",
+  "meaning": {
+    "ar": "«يِذَاع»: يُنشر ويُعلن بين الناس ليصير معروفاً",
+    "en": "Yidha': to be broadcast or announced"
+  },
+  "story": {
+    "ar": "«يُذاع» يُنشر ويُعلن بين الناس. ويمر الشارع في المُويجْعِي، أبوظبي.",
+    "en": "«Yidha'» means to be broadcast or announced. The street runs in Al Muwaij'i, Abu Dhabi."
+  }
+},
+{
+  "id": "yaw-al-oud-street",
+  "emirate": "abu-dhabi",
+  "category": "place",
+  "origin": "account",
+  "ar": "شارع يَو العُود",
+  "en": "Yaw Al 'Oud Street",
+  "meaning": {
+    "ar": "«يَو العُود»: مَهْبَطٌ رملي بين الكثبان عند شجرة قديمة",
+    "en": "a sandy hollow between dunes of an old tree"
+  },
+  "story": {
+    "ar": "«يَو العُود» اسمٌ يحمله الشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "The street carries the name «Yaw Al 'Oud» in Mohamed Bin Zayed City, Abu Dhabi."
+  }
+},
+{
+  "id": "azalea-lane",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الأزالية",
+  "en": "Azalea Lane",
+  "meaning": {
+    "ar": "الأزالية: زهرة الأزاليا، شجيرة مزهرة من جنس الرودودندرون",
+    "en": "azalea — the azalea flower (shrub of genus Rhododendron)"
+  },
+  "story": {
+    "ar": "«الأزالية» زهرةُ الأزاليا، شجيرةٌ مزهرة من جنس الرودودندرون. والشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "As a name, «Azalea Lane» draws its sense from its first word — «Azalea Lane» takes its name from the azalea flower. The street sits in Green Community West, Dubai."
+  }
+},
+{
+  "id": "eucalyptus-grove",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الأوكالبتوس",
+  "en": "Eucalyptus Grove",
+  "meaning": {
+    "ar": "الأوكالبتوس: جنس أشجار مزهرة من الفصيلة الآسية، تُعرف بأشجار الكافور",
+    "en": "eucalyptus — a genus of flowering trees in the myrtle family"
+  },
+  "story": {
+    "ar": "«الأوكالبتوس» جنسُ أشجار مزهرة من الفصيلة الآسية، وتُعرف بأشجار الكافور. والشارع يحمل هذا الاسم في قرية المجتمع الخضراء، دبي.",
+    "en": "«Eucalyptus Grove» is named after the eucalyptus trees. The street sits in Green Community West, Dubai."
+  }
+},
+{
+  "id": "poinsettia-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق البونسيتة",
+  "en": "Poinsettia Way",
+  "meaning": {
+    "ar": "البُونسيتة: زهرة زينة معروفة",
+    "en": "bougainvillea / poinsettia — an ornamental flower"
+  },
+  "story": {
+    "ar": "«البُونسيتة» زهرةُ زينة معروفة. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "The poinsettia flower gives «Poinsettia Way» its name. The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "new-al-taawun-road",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق التعاون الجديد",
+  "en": "New Al Taawun Road",
+  "meaning": {
+    "ar": "«التعاون»: التعاون بين الناس",
+    "en": "cooperation — working together"
+  },
+  "story": {
+    "ar": "«التعاون» التعاون بين الناس. والشارع يحمل هذا الاسم في مدينة الشارقة، الشارقة.",
+    "en": "New Al Taawun Road takes its second word from ta'awun — cooperation. The street sits in Sharjah City, Sharjah."
+  }
+},
+{
+  "id": "border-road",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الحدود",
+  "en": "Border Road",
+  "meaning": {
+    "ar": "الحدود: جمع حدّ",
+    "en": "boundaries, limits"
+  },
+  "story": {
+    "ar": "«الحدود» جمع «حدّ»، وهي المنافذ الفاصلة بين الأراضي. ويمر الشارع في كلباء، الشارقة.",
+    "en": "Boundaries and limits give «Border Road» its name. The street runs in Kalba, Sharjah."
+  }
+},
+{
+  "id": "border-track",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الحدود",
+  "en": "Border Track",
+  "meaning": {
+    "ar": "الحدود: جمع حدّ",
+    "en": "boundaries, limits"
+  },
+  "story": {
+    "ar": "«طريق الحدود» معناه المنافذ الفاصلة بين الأراضي والممتلكات. والشارع في كلباء، الشارقة.",
+    "en": "«Border Track» carries the sense of boundaries and limits. You will find the street in Kalba, Sharjah."
+  }
+},
+{
+  "id": "daffodil-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الدافوديل",
+  "en": "Daffodil Way",
+  "meaning": {
+    "ar": "الدافوديل: زهرة الدافوديل",
+    "en": "daffodil (the flower)"
+  },
+  "story": {
+    "ar": "«الدافوديل» زهرةُ الدافوديل. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "«Daffodil Way» is named after the daffodil flower. The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "al-shanouf-road",
+  "emirate": "sharjah",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الشنوف",
+  "en": "Al Shanouf Road",
+  "meaning": {
+    "ar": "«الشنوف»: جمع شنف، القرط الذي يُعلَّق في أعلى الأذن",
+    "en": "earrings — the plural of shanf, the upper earring"
+  },
+  "story": {
+    "ar": "«الشنوف» جمع «شنف»، القرط الذي يُعلَّق في أعلى الأذن. والشارع يحمل هذا الاسم في مدينة الشارقة، الشارقة.",
+    "en": "«Al Shanouf Road» takes its first word from shanf — the upper earring. The street sits in Sharjah City, Sharjah."
+  }
+},
+{
+  "id": "camomile-lane",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الكاموميل",
+  "en": "Camomile Lane",
+  "meaning": {
+    "ar": "الكاموميل: البابونج، زهرة عطرية شبيهة بالأقحوان",
+    "en": "chamomile — a fragrant daisy-like flower"
+  },
+  "story": {
+    "ar": "«الكاموميل» البابونج، زهرةٌ عطرية شبيهة بالأقحوان. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "«Camomile Lane» takes its name from the chamomile flower. The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "camelia-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق الكاميليا",
+  "en": "Camelia Way",
+  "meaning": {
+    "ar": "كاميليا: زهرة الكاميليا",
+    "en": "camellia (the flower)"
+  },
+  "story": {
+    "ar": "«كاميليا» زهرةُ الكاميليا. والشارع يحمل هذا الاسم في قرية المجتمع الخضراء، دبي.",
+    "en": "«Camelia Way» is named after the camellia flower. The street sits in Green Community West, Dubai."
+  }
+},
+{
+  "id": "primrose-lane",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق بريمروز",
+  "en": "Primrose Lane",
+  "meaning": {
+    "ar": "البريمروز: تحويلاً لاسم زهرة «پريمروز» أو «زهرة الربيع»",
+    "en": "primrose — the spring flower (transliteration)"
+  },
+  "story": {
+    "ar": "«البريمروز» تحويلاً لاسم زهرة الربيع. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "«Primrose Lane» is named after the spring flower. The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "pompidou-road",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق بومبيدو",
+  "en": "Pompidou Road",
+  "meaning": {
+    "ar": "«بومبيدو»: رئيسُ فرنسا",
+    "en": "Pompidou, the French president"
+  },
+  "story": {
+    "ar": "«بومبيدو» رئيسُ فرنسا. والشارع يحمل هذا الاسم في الروية 2، دبي.",
+    "en": "«Pompidou Road» takes its name from Pompidou, the French president. The street sits in Al Ruwayyah 2, Dubai."
+  }
+},
+{
+  "id": "petunia-lane",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق بيتونيا",
+  "en": "Petunia Lane",
+  "meaning": {
+    "ar": "بيتونيا: زهرة البيتونيا",
+    "en": "petunia — the flowering plant"
+  },
+  "story": {
+    "ar": "«بيتونيا» زهرةُ البيتونيا. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "«Petunia Lane» is named after the petunia flower. The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "geranium-road",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق جيرانيوم",
+  "en": "Geranium Road",
+  "meaning": {
+    "ar": "جيرانيوم: جنس نباتي مزهر من الفصيلة الغرنوقية",
+    "en": "geranium — a flowering plant genus"
+  },
+  "story": {
+    "ar": "«جيرانيوم» جنسٌ نباتي مزهر من الفصيلة الغرنوقية. والشارع يحمل هذا الاسم في قرية المجتمع الخضراء، دبي.",
+    "en": "«Geranium Road» takes its name from the geranium genus. The street sits in Green Community West, Dubai."
+  }
+},
+{
+  "id": "gerbera-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق جيربيرا",
+  "en": "Gerbera Way",
+  "meaning": {
+    "ar": "جيربيرا: زهرة الجيربيرا",
+    "en": "gerbera — the daisy-like flower"
+  },
+  "story": {
+    "ar": "«جيربيرا» زهرةُ الجيربيرا. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "After the gerbera flower: that is «Gerbera Way». The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "khuzam-road",
+  "emirate": "ras-al-khaimah",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق خزام",
+  "en": "Khuzam Road",
+  "meaning": {
+    "ar": "الخزام: نبات حولي من الفصيلة الكرنبية، ويُعرف أيضاً باسم الساليح.",
+    "en": "khuzam (Erucaria hispanica), a mustard-family herb"
+  },
+  "story": {
+    "ar": "«الخزام» نباتٌ حولي من الفصيلة الكرنبية، ويُعرف أيضاً باسم الساليح. والشارع يحمل هذا الاسم في القرم، رأس الخيمة.",
+    "en": "«Khuzam Road» takes its name from khuzam, a mustard-family herb. The street sits in Al Gurum Resort, Ras Al Khaimah."
+  }
+},
+{
+  "id": "ras-al-khor-road",
+  "emirate": "dubai",
+  "category": "place",
+  "origin": "account",
+  "ar": "طريق رأس الخور",
+  "en": "Ras Al Khor Road",
+  "meaning": {
+    "ar": "«الرأس»: الجَبِين، أو الرأس المطل على البحر",
+    "en": "headland, cape — the rise that looks over the sea"
+  },
+  "story": {
+    "ar": "«رأس الخور» اسمٌ يحمله الشارع في رأس الخور الصناعية 2، دبي. و«الرأس» المطل على البحر.",
+    "en": "The street carries the name «Ras Al Khor Road» in Ras Al Khor Ind 2, Dubai. «Ar Ras» is the headland."
+  }
+},
+{
+  "id": "cherywood-road-east",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق شيري وود الشرقي",
+  "en": "Cherywood Road East",
+  "meaning": {
+    "ar": "«شيري»: الكَرْز، كلمةٌ مستعارة",
+    "en": "cherry, a borrowed word"
+  },
+  "story": {
+    "ar": "«شيري» الكَرْز، كلمةٌ مستعارة. والشارع يحمل هذا الاسم في جرين كميونيتي الشرق، دبي.",
+    "en": "«Cherywood Road East» takes its first word from cherry, a borrowed word. The street sits in Green Community East, Dubai."
+  }
+},
+{
+  "id": "cherywood-road-north",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق شيري وود الشمالي",
+  "en": "Cherywood Road North",
+  "meaning": {
+    "ar": "«شيري وود الشمالي»: شيري: الكَرْز",
+    "en": "Cherywood Road North: cherry"
+  },
+  "story": {
+    "ar": "يُنسب «شيري وود الشمالي» إلى الكَرْز. ويمر الشارع في جرين كميونيتي الشرق، دبي.",
+    "en": "The name «Cherywood Road North» derives from cherry. The street runs in Green Community East, Dubai."
+  }
+},
+{
+  "id": "cherywood-road-west",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق شيري وود الغربي",
+  "en": "Cherywood Road West",
+  "meaning": {
+    "ar": "«شيري وود الغربي»: شيري: الكَرْز",
+    "en": "Cherywood Road West: cherry"
+  },
+  "story": {
+    "ar": "«شيري وود الغربي» نسبةٌ إلى الكَرْز. والشارع في جرين كميونيتي الشرق، دبي.",
+    "en": "The name of «Camelia Way» comes from the camellia flower. You will find the street in Green Community East, Dubai."
+  }
+},
+{
+  "id": "gladioli-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق غلاديولي",
+  "en": "Gladioli Way",
+  "meaning": {
+    "ar": "«غلاديولي»: زهرة الغلاديولوس",
+    "en": "gladiolus flower — the bloom of the gladiolus"
+  },
+  "story": {
+    "ar": "«زهرة الغلاديولوس» تُسمّى سيفَ العجوز. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "After the gladiolus flower: that is «Gladioli Way». The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "frangipani-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق فرانجيباني",
+  "en": "Frangipani Way",
+  "meaning": {
+    "ar": "زهرة الفرانجيباني",
+    "en": "frangipani flower"
+  },
+  "story": {
+    "ar": "«الفرانجيباني» زهرةُ الفرانجيباني. والشارع يحمل هذا الاسم في قرية المجتمع الخضراء، دبي.",
+    "en": "The name of «Geranium Road» comes from the geranium genus. The street sits in Green Community West, Dubai."
+  }
+},
+{
+  "id": "freesia-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق فريزيا",
+  "en": "Freesia Way",
+  "meaning": {
+    "ar": "زهرة الفريزيا",
+    "en": "freesia flower"
+  },
+  "story": {
+    "ar": "«الفريزيا» زهرةُ الفريزيا. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "After the freesia flower: that is «Freesia Way». The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "fuchsia-drive",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق فوشيا",
+  "en": "Fuchsia Drive",
+  "meaning": {
+    "ar": "زهرة الفوشيا: جنس نباتي من أزهار الزينة المتدلية",
+    "en": "fuchsia — a genus of flowering ornamental plants"
+  },
+  "story": {
+    "ar": "«الفوشيا» جنسٌ نباتي من أزهار الزينة المتدلية. والشارع يحمل هذا الاسم في جرين كميونيتي الشرق، دبي.",
+    "en": "The name of «Frangipani Way» comes from the frangipani flower. The street sits in Green Community East, Dubai."
+  }
+},
+{
+  "id": "foxglove-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق فوكسغلوف",
+  "en": "Foxglove Way",
+  "meaning": {
+    "ar": "فوكسغلوف: زهرة الديجيتاليس",
+    "en": "foxglove (Digitalis) — a genus of flowering plants"
+  },
+  "story": {
+    "ar": "«فوكسغلوف» زهرةُ الديجيتاليس. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "After the foxglove flower: that is «Foxglove Way». The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "violet-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق فيوليت",
+  "en": "Violet Way",
+  "meaning": {
+    "ar": "فيوليت: لون البنفسج، وزهرة البنفسج",
+    "en": "violet — the colour and the flower"
+  },
+  "story": {
+    "ar": "«فيوليت» لونُ البنفسج وزهرتُه. والشارع يحمل هذا الاسم في قرية المجتمع الخضراء، دبي.",
+    "en": "With «Azalea Lane», the name comes from the azalea flower. The street sits in Green Community West, Dubai."
+  }
+},
+{
+  "id": "carnation-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق كارنيشن",
+  "en": "Carnation Way",
+  "meaning": {
+    "ar": "كارنيشن: القرنفل المزروع، زهرة معروفة",
+    "en": "carnation — the cultivated clove-pink flower"
+  },
+  "story": {
+    "ar": "«كارنيشن» القرنفل المزروع، زهرةٌ معروفة. ويمر الشارع في مدينة دبي للاستوديوهات 1، دبي.",
+    "en": "After the carnation flower: that is «Carnation Way». The street runs in Dubai Studio City 1, Dubai."
+  }
+},
+{
+  "id": "lupinus-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق لوبينوس",
+  "en": "Lupinus Way",
+  "meaning": {
+    "ar": "لوبينوس: الترمس، جنس نباتي من الفصيلة البقولية",
+    "en": "Lupinus — the lupin genus of leguminous plants"
+  },
+  "story": {
+    "ar": "«لوبينوس» الترمس، جنسٌ نباتي من الفصيلة البقولية. والشارع يحمل هذا الاسم في قرية المجتمع الخضراء، دبي.",
+    "en": "As for «Camomile Lane», the name comes from chamomile. The street sits in Green Community West, Dubai."
+  }
+},
+{
+  "id": "laurel-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق لوريل",
+  "en": "Laurel Way",
+  "meaning": {
+    "ar": "اللوريل: نبات الغار",
+    "en": "laurel — the bay/laurel tree"
+  },
+  "story": {
+    "ar": "«اللوريل» نباتُ الغار، أشجارٌ معمرة ورقها عطري. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "After the laurel tree: that is «Laurel Way». The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "lilly-lane",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق ليلي",
+  "en": "Lilly Lane",
+  "meaning": {
+    "ar": "«ليلي»: النشوة",
+    "en": "ecstasy — a state of elation"
+  },
+  "story": {
+    "ar": "«ليلي» النشوة. والشارع يحمل هذا الاسم في مدينة دبي للاستوديوهات 1، دبي.",
+    "en": "For «Petunia Lane», the name comes from the petunia flower. The street sits in Dubai Studio City 1, Dubai."
+  }
+},
+{
+  "id": "lily-lane",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق ليلي",
+  "en": "Lily Lane",
+  "meaning": {
+    "ar": "«ليلي»: النشوة",
+    "en": "ecstasy — a state of elation"
+  },
+  "story": {
+    "ar": "يُطلق «ليلي» على النشوة الغامرة. ويمر الشارع في جرين كميونيتي الشرق، دبي.",
+    "en": "The name «Lily Lane» points to the state of elation. The street runs in Green Community East, Dubai."
+  }
+},
+{
+  "id": "mald-road",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق مَلد",
+  "en": "Mald Road",
+  "meaning": {
+    "ar": "المَلْد: الناعم من الناس والغصون؛ ومَلِدَ الغصن: اهتزّ ولان",
+    "en": "the soft and smooth (of people and branches); a swaying branch"
+  },
+  "story": {
+    "ar": "«المَلْد» الناعم من الناس والغصون، ومَلِدَ الغصن اهتزّ ولان. والشارع يحمل هذا الاسم في مْشَيْرِف، أبوظبي.",
+    "en": "Named for the gerbera flower: that is «Gerbera Way». The street sits in Mshayrif, Abu Dhabi."
+  }
+},
+{
+  "id": "mimosa-way",
+  "emirate": "dubai",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق ميموزا",
+  "en": "Mimosa Way",
+  "meaning": {
+    "ar": "«ميموزا»: جنس نباتي من الفصيلة البقولية",
+    "en": "mimosa — the sensitive-plant genus"
+  },
+  "story": {
+    "ar": "«المِمُوزة» المستحية، جنسٌ نباتي من الفصيلة البقولية. ويمر الشارع في قرية المجتمع الخضراء، دبي.",
+    "en": "After the mimosa genus: that is «Mimosa Way». The street runs in Green Community West, Dubai."
+  }
+},
+{
+  "id": "nahil-road",
+  "emirate": "abu-dhabi",
+  "category": "word",
+  "origin": "account",
+  "ar": "طريق ناهل",
+  "en": "Nahil Road",
+  "meaning": {
+    "ar": "النَّاهِل: الأولُ الشرب؛ والناهلة: المترددة على المناهل",
+    "en": "one who drinks for the first time; a she-camel returning to water"
+  },
+  "story": {
+    "ar": "«النَّاهِل» الأولُ الشرب، والناهلة المترددة على المناهل. والشارع في بَدْع بِنت سَعود، أبوظبي.",
+    "en": "Named for the mimosa genus: that is «Mimosa Way». You will find the street in Bad' Bint Sa'oud, Abu Dhabi."
+  }
+},
+{
+  "id": "palm-jumeirah-road",
+  "emirate": "dubai",
+  "category": "place",
+  "origin": "account",
+  "ar": "طريق نخلة جميرا",
+  "en": "Palm Jumeirah Road",
+  "meaning": {
+    "ar": "«النخلة»: شجرةُ النخيل",
+    "en": "palm tree — the date-palm of the coast"
+  },
+  "story": {
+    "ar": "«نخلة جميرا» اسمٌ يحمله الشارع في الصفوح 2، دبي. و«النخلة» شجرةُ النخيل.",
+    "en": "The street carries the name «Palm Jumeirah Road» in Al Sufouh 2, Dubai. «An Nakhlah» is the palm tree."
+  }
 }
 ];
