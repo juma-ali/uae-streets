@@ -44143,8 +44143,8 @@ window.STREETS = [
   "ar": "شارع جَبَل سَماح",
   "en": "Jabal Samah Street",
   "meaning": {
-    "ar": "«جَبَل سَماح»: جبل",
-    "en": "Jabal Samah: mountain"
+    "ar": "«سَماح» من السَّهولة والسَّعَة؛ ولعلّ الجبل سُمّي بذلك.",
+    "en": "Samah suggests ease and plenitude; the mountain may be so named."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«سَماح» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في زاخِر من إمارة أبوظبي.",
@@ -44159,8 +44159,8 @@ window.STREETS = [
   "ar": "شارع جَبَل سَوداء",
   "en": "Jabal Sawda-a Street",
   "meaning": {
-    "ar": "«جَبَل سَوداء»: جبل",
-    "en": "Jabal Sawda-a: mountain"
+    "ar": "«السَّوداء» أنثى الأسود من الألوان؛ ولعلّ الجبل سُمّي بلون تربته.",
+    "en": "Sawda is the feminine of black; likely named after soil colour."
   },
   "story": {
     "ar": "«سَوداء» اسم الموضع في «جَبَل»؛ و«جَبَل» جبل. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -44175,8 +44175,8 @@ window.STREETS = [
   "ar": "شارع جَبَل شَرية",
   "en": "Jabal Sharyah Street",
   "meaning": {
-    "ar": "«جَبَل شَرية»: جبل",
-    "en": "Jabal Sharyah: mountain"
+    "ar": "لا يُفسَّر «شَرية» في المعاجم، والشارع في الشَّامْخَة.",
+    "en": "Sharyah is unexplained in the lexicons; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "جبل اسمه «جَبَل»، و«شَرية» اسم يُنسب إليه. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -44191,8 +44191,8 @@ window.STREETS = [
   "ar": "شارع جَبَل شِعَيبي",
   "en": "Jabal Shi'aybi Street",
   "meaning": {
-    "ar": "«جَبَل شِعَيبي»: جبل",
-    "en": "Jabal Shi'aybi: mountain"
+    "ar": "«شِعَيبي» تصغيرُ «شَعيب» وهو الصغير من الشِّعاب؛ ولعلّ الجبل سُمّي به.",
+    "en": "Shi'aybi is a diminutive of a small valley; a plausible mountain name."
   },
   "story": {
     "ar": "«شِعَيبي» اسم الموضع، و«جَبَل» جبل من أسماء المواضع. والشارع في مدينة شخبوط، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -44207,8 +44207,8 @@ window.STREETS = [
   "ar": "شارع جَبَل شُوَيخة",
   "en": "Jabal Shuwaykhah Street",
   "meaning": {
-    "ar": "«جَبَل شُوَيخة»: جبل",
-    "en": "Jabal Shuwaykhah: mountain"
+    "ar": "«شُوَيخة» اسمٌ مجهولُ التفسير، والشارع في زاخِر.",
+    "en": "Shuwaykhah is a name of unknown meaning; the street lies in Zakhir."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«شُوَيخة» اسم يُنسب إليه الموضع. وهذا الموضع أخذ منه اسم الشارع في زاخِر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -44223,8 +44223,8 @@ window.STREETS = [
   "ar": "شارع جَبَل شيَمة",
   "en": "Jabal Shyamah Street",
   "meaning": {
-    "ar": "«جَبَل شيَمة»: جبل",
-    "en": "Jabal Shyamah: mountain"
+    "ar": "«الشِّيمة» الطبعُ والخُلُق؛ ولعلّ الجبل سُمّي بذلك.",
+    "en": "Shimah means character and temperament; the mountain may be so named."
   },
   "story": {
     "ar": "«شيَمة» اسم لا يُفسَّر بالمعجم، و«جَبَل» جبل. والاسم من أسماء المواضع، والشارع في الظَّاهِر، أبوظبي.",
@@ -44239,8 +44239,8 @@ window.STREETS = [
   "ar": "شارع جَبَل صِحَيلة",
   "en": "Jabal Sihaylah Street",
   "meaning": {
-    "ar": "«جَبَل صِحَيلة»: جبل",
-    "en": "Jabal Sihaylah: mountain"
+    "ar": "«صِحَيلة» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في حَدْبَة الزَّعْفَرَانَة.",
+    "en": "Sihaylah is an unexplained proper name; the street lies in Hadbat Al Za'faranah."
   },
   "story": {
     "ar": "جبل «جَبَل»، و«صِحَيلة» اسمه الذي يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في حَدْبَة الزَّعْفَرَانَة.",
@@ -44255,8 +44255,8 @@ window.STREETS = [
   "ar": "شارع جَبَل صَفان",
   "en": "Jabal Safan Street",
   "meaning": {
-    "ar": "«جَبَل صَفان»: جبل",
-    "en": "Jabal Safan: mountain"
+    "ar": "«صَفان» قد تُنسب إلى الصَّفَا من الحجارة؛ ولعلّ الجبل سُمّي بها.",
+    "en": "Safan may derive from smooth rocks; the mountain may be so named."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«صَفان» اسم للموضع لا للكلمة. والشارع يقع في مدينة زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -44271,8 +44271,8 @@ window.STREETS = [
   "ar": "شارع جبل طارق",
   "en": "Jabal Tarek Street",
   "meaning": {
-    "ar": "«جبل طارق»: جبل",
-    "en": "Jabal Tarek: mountain"
+    "ar": "«الطَّارِق» الزائرُ ليلاً أو النجمُ الثاقب؛ ولعلّ الجبل سُمّي به.",
+    "en": "Tariq means a night visitor or the morning star; a plausible name."
   },
   "story": {
     "ar": "«طارق» اسم موضع «جبل» جبل، وليس كلمة تُفسَّر. وهو من الشوارع مدينة الشارقة في الشارقة، والاسم يدل على موضع لا على كلمة.",
@@ -44287,8 +44287,8 @@ window.STREETS = [
   "ar": "شارع جَبَل ظَبَّار",
   "en": "Jabal Dhabbar Street",
   "meaning": {
-    "ar": "«جَبَل ظَبَّار»: جبل",
-    "en": "Jabal Dhabbar: mountain"
+    "ar": "«ظَبَّار» لا يُفسَّر في المعاجم، والشارع في الوَثْبَة.",
+    "en": "Dhabbar is unexplained in the lexicons; the street lies in Al Wathbah."
   },
   "story": {
     "ar": "الاسم «جَبَل ظَبَّار»: جبل، و«ظَبَّار» اسم. والاسم يُنسب إلى موضع، والشارع في الوَثْبَة من إمارة أبوظبي.",
@@ -44303,8 +44303,8 @@ window.STREETS = [
   "ar": "شارع جَبَل عَزير",
   "en": "Jabal 'Azeer Street",
   "meaning": {
-    "ar": "«جَبَل عَزير»: جبل",
-    "en": "Jabal 'Azeer: mountain"
+    "ar": "«عَزير» لا تُفسِّره المعاجم، والشارع في الصَّارُوج.",
+    "en": "Azeer is left unexplained by the lexicons; the street lies in Al Sarouj."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«عَزير» اسمه، والاسم من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في الصَّارُوج بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -44319,8 +44319,8 @@ window.STREETS = [
   "ar": "شارع جبل علي",
   "en": "Jabal 'Ali Street",
   "meaning": {
-    "ar": "«جبل علي»: جبل",
-    "en": "Jabal 'Ali: mountain"
+    "ar": "«العَلِيّ» الموضعُ المرتفع؛ ولعلّ الجبل سُمّي بعلوّه.",
+    "en": "Ali means the elevated ground; the mountain may be named for its height."
   },
   "story": {
     "ar": "«علي» من أسماء المواضع، و«جبل» جبل يُنسب إليه. وهو الشارع في مدينة زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -44335,8 +44335,8 @@ window.STREETS = [
   "ar": "شارع جبل علي",
   "en": "Jabal Ali Street",
   "meaning": {
-    "ar": "«جبل علي»: جبل",
-    "en": "Jabal Ali: mountain"
+    "ar": "«العَلِيّ» من العُلوّ والارتفاع؛ والشارع في رُوْضَة الرِّيْف.",
+    "en": "Ali derives from loftiness and height; the street stands in Rawdat Al Reef."
   },
   "story": {
     "ar": "جبل يُسمى «جبل»، و«علي» اسم موضعه المألوف. والشارع في رُوْضَة الرِّيْف، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -44351,8 +44351,8 @@ window.STREETS = [
   "ar": "شارع جبل علي المركزي",
   "en": "Jabal Ali Central Street",
   "meaning": {
-    "ar": "«جبل علي المركزي»: جبل",
-    "en": "Jabal Ali Central: mountain"
+    "ar": "«المركزيّ» نسبةٌ إلى المركز؛ والطريق في جبل علي الصناعية.",
+    "en": "The central suffix marks the middle route in Jebel Ali Industrial area."
   },
   "story": {
     "ar": "«علي المركزي» اسم «جبل علي المركزي»، و«جبل» جبل، والاسم مركّب. وهذا الموضع أخذ منه اسم الشارع في جبل علي الصناعية 2 بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -44367,8 +44367,8 @@ window.STREETS = [
   "ar": "شارع جَبَل غَبَّس",
   "en": "Jabal Ghabbas Street",
   "meaning": {
-    "ar": "«جَبَل غَبَّس»: جبل",
-    "en": "Jabal Ghabbas: mountain"
+    "ar": "لم يَرِد «غَبَّس» في المعاجم، والشارع في مدينة زايد.",
+    "en": "Ghabbas is absent from the lexicons; the street lies in Zayed City."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«غَبَّس» اسم يحمله الموضع. والاسم من أسماء المواضع، والشارع في مدينة زايد، أبوظبي.",
@@ -44383,8 +44383,8 @@ window.STREETS = [
   "ar": "شارع جَبَل غرَل",
   "en": "Jabal Gharal Street",
   "meaning": {
-    "ar": "«جَبَل غرَل»: جبل",
-    "en": "Jabal Gharal: mountain"
+    "ar": "لم يُفسِّر اللغويون «غرَل»، والشارع في الوَثْبَة.",
+    "en": "Gharal is left unexplained by linguists; the street lies in Al Wathbah."
   },
   "story": {
     "ar": "اسم الموضع «جَبَل» جبل، و«غرَل» اسم ذلك الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الوَثْبَة.",
@@ -44399,8 +44399,8 @@ window.STREETS = [
   "ar": "شارع جَبَل غَرِيب",
   "en": "Jabal Ghareeb Street",
   "meaning": {
-    "ar": "«جَبَل غَرِيب»: جبل",
-    "en": "Jabal Ghareeb: mountain"
+    "ar": "«الغَرِيب» النازحُ عن وطنه؛ ولعلّ الجبل سُمّي بذلك.",
+    "en": "Ghareeb means a stranger far from home; a plausible mountain name."
   },
   "story": {
     "ar": "«غَرِيب» اسم يُضاف إلى «جَبَل» جبل، ولا يُفسَّر بالمعجم. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -44415,8 +44415,8 @@ window.STREETS = [
   "ar": "شارع جَبَل غُلُوص",
   "en": "Jabal Ghulous Street",
   "meaning": {
-    "ar": "«جَبَل غُلُوص»: جبل",
-    "en": "Jabal Ghulous: mountain"
+    "ar": "«غُلُوص» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في مدينة زايد.",
+    "en": "Ghulous is an unexplained proper name; the street lies in Zayed City."
   },
   "story": {
     "ar": "«جَبَل غُلُوص» جبل، و«غُلُوص» اسم لا تُفسَّره المعاجم. وهو من الشوارع مدينة زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -44431,8 +44431,8 @@ window.STREETS = [
   "ar": "شارع جَبَل غُمِيس",
   "en": "Jabal Ghumeis Street",
   "meaning": {
-    "ar": "«جَبَل غُمِيس»: جبل",
-    "en": "Jabal Ghumeis: mountain"
+    "ar": "«غُمِيس» تصغيرُ «غَمْس» في الماء؛ ولعلّ الجبل سُمّي به.",
+    "en": "Ghumais is a diminutive of immersion in water; a plausible mountain name."
   },
   "story": {
     "ar": "«غُمِيس» اسم الموضع الذي فيه «جَبَل» جبل، وليس كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في السِّلَع من إمارة أبوظبي.",
@@ -44447,8 +44447,8 @@ window.STREETS = [
   "ar": "شارع جَبَل غَندُوس",
   "en": "Jabal Ghandous Street",
   "meaning": {
-    "ar": "«جَبَل غَندُوس»: جبل",
-    "en": "Jabal Ghandous: mountain"
+    "ar": "«غَندُوس» لم يَرِد في المعاجم، والشارع في مدينة زايد.",
+    "en": "Ghandous is absent from the lexicons; the street lies in Zayed City."
   },
   "story": {
     "ar": "«جَبَل» جبل و«غَندُوس» اسم علم للموضع لا يُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في مدينة زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -44463,8 +44463,8 @@ window.STREETS = [
   "ar": "شارع جَبَل غِينا",
   "en": "Jabal Gheena Street",
   "meaning": {
-    "ar": "«جَبَل غِينا»: جبل",
-    "en": "Jabal Gheena: mountain"
+    "ar": "المعاجم لا تُفسِّر «غِينا»، والشارع في جَرْن يَافُور.",
+    "en": "The lexicons do not explain Gheena; the street lies in Jarn Yafour."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«غِينا» يُنسب إليه اسم الموضع. وهو الشارع في جَرْن يَافُور، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -44479,8 +44479,8 @@ window.STREETS = [
   "ar": "شارع جَبَل لاشِيب",
   "en": "Jabal Lasheeb Street",
   "meaning": {
-    "ar": "«جَبَل لاشِيب»: جبل",
-    "en": "Jabal Lasheeb: mountain"
+    "ar": "«لاشِيب» اسمٌ لا يُفسَّر، والشارع في السَّمْحة.",
+    "en": "Lasheeb is an unexplained proper name; the street lies in Al Samhah."
   },
   "story": {
     "ar": "«جَبَل» جبل في الموضع المعروف بـ«لاشِيب». والشارع في السَّمْحة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -44495,8 +44495,8 @@ window.STREETS = [
   "ar": "شارع جَبَل لَحة",
   "en": "Jabal Lahah Street",
   "meaning": {
-    "ar": "«جَبَل لَحة»: جبل",
-    "en": "Jabal Lahah: mountain"
+    "ar": "«لَحة» لا يُفسَّر في المعاجم، والشارع في مدينة زايد.",
+    "en": "Lahah is unexplained in the lexicons; the street lies in Zayed City."
   },
   "story": {
     "ar": "«لَحة» اسم موضع «جَبَل»، و«جَبَل» جبل من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -44511,8 +44511,8 @@ window.STREETS = [
   "ar": "شارع جَبَل لَحرَيَّة",
   "en": "Jabal Lahrayah Street",
   "meaning": {
-    "ar": "«جَبَل لَحرَيَّة»: جبل",
-    "en": "Jabal Lahrayah: mountain"
+    "ar": "«لَحرَيَّة» اسمٌ مجهولُ التفسير، والشارع في مدينة زايد.",
+    "en": "Lahrayyah is a name of unknown meaning; the street lies in Zayed City."
   },
   "story": {
     "ar": "«جَبَل» جبل واسم موضعه «لَحرَيَّة»، وليس كلمة تُفسَّر. والشارع في مدينة زايد من إمارة أبوظبي.",
@@ -44527,8 +44527,8 @@ window.STREETS = [
   "ar": "شارع جَبَل لَحِيمَر",
   "en": "Jabal Laheemar Street",
   "meaning": {
-    "ar": "«جَبَل لَحِيمَر»: جبل",
-    "en": "Jabal Laheemar: mountain"
+    "ar": "«لَحِيمَر» تصغيرُ «أحمر» في كلام الأعراب؛ ولعلّ الجبل سُمّي بلونه.",
+    "en": "Laheemar resembles a diminutive of red; likely named for its colour."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«لَحِيمَر» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في الصَّارُوج، أبوظبي.",
@@ -44543,8 +44543,8 @@ window.STREETS = [
   "ar": "شارع جَبَل لِشَن",
   "en": "Jabal Lishan Street",
   "meaning": {
-    "ar": "«جَبَل لِشَن»: جبل",
-    "en": "Jabal Lishan: mountain"
+    "ar": "«لِشَن» لم تُثبَت معانيه في المعاجم، والشارع في الصَّارُوج.",
+    "en": "Lishan has no established gloss; the street lies in Al Sarouj."
   },
   "story": {
     "ar": "«لِشَن» اسم الموضع في «جَبَل»؛ و«جَبَل» جبل. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّارُوج.",
@@ -44559,8 +44559,8 @@ window.STREETS = [
   "ar": "شارع جَبَل لِمرَيبِي",
   "en": "Jabal Limraybi Street",
   "meaning": {
-    "ar": "«جَبَل لِمرَيبِي»: جبل",
-    "en": "Jabal Limraybi: mountain"
+    "ar": "«لِمرَيبِي» لا تُفسِّره المعاجم، والشارع في مدينة محمد بن زايد.",
+    "en": "Limraybi is left unexplained by the lexicons; the street lies in MBZ City."
   },
   "story": {
     "ar": "جبل اسمه «جَبَل»، و«لِمرَيبِي» اسم يُنسب إليه. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -44575,8 +44575,8 @@ window.STREETS = [
   "ar": "شارع جَبَل مْحَيِير",
   "en": "Jabal Mhayeer Street",
   "meaning": {
-    "ar": "«جَبَل مْحَيِير»: جبل",
-    "en": "Jabal Mhayeer: mountain"
+    "ar": "«مْحَيِير» تصغيرُ «مُحَيَّر» من الحَيْرَة؛ ولعلّ الجبل سُمّي به.",
+    "en": "Mhayeer is a diminutive of the bewildered one; a plausible mountain name."
   },
   "story": {
     "ar": "«مْحَيِير» اسم الموضع، و«جَبَل» جبل من أسماء المواضع. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -44591,8 +44591,8 @@ window.STREETS = [
   "ar": "شارع جَبَل مُرَيشد",
   "en": "Jabal Murayshid Street",
   "meaning": {
-    "ar": "«جَبَل مُرَيشد»: جبل",
-    "en": "Jabal Murayshid: mountain"
+    "ar": "«مُرَيشد» تصغيرُ «مُرْشِد» من الرَّشاد؛ ولعلّ الجبل سُمّي به.",
+    "en": "Murayshid is a diminutive of a guide; a plausible mountain name."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«مُرَيشد» اسم يُنسب إليه الموضع. والاسم يُنسب إلى موضع، والشارع في السَّعادة من إمارة أبوظبي.",
@@ -44607,8 +44607,8 @@ window.STREETS = [
   "ar": "شارع جَبَل مسَيرِيع",
   "en": "Jabal Msayree' Street",
   "meaning": {
-    "ar": "«جَبَل مسَيرِيع»: جبل",
-    "en": "Jabal Msayree': mountain"
+    "ar": "«مسَيرِيع» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في الوَثْبَة.",
+    "en": "Msayree' is an unexplained proper name; the street lies in Al Wathbah."
   },
   "story": {
     "ar": "«مسَيرِيع» اسم لا يُفسَّر بالمعجم، و«جَبَل» جبل. وتقع الشوارع التي تحمل هذا الاسم في الوَثْبَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -44623,8 +44623,8 @@ window.STREETS = [
   "ar": "شارع جَبَل مَلاقَط",
   "en": "Jabal Malaqat Street",
   "meaning": {
-    "ar": "«جَبَل مَلاقَط»: جبل",
-    "en": "Jabal Malaqat: mountain"
+    "ar": "«مَلاقَط» اسمٌ مجهولُ التفسير، والشارع في الظَّاهِر.",
+    "en": "Malaqat is a name of unknown meaning; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "جبل «جَبَل»، و«مَلاقَط» اسمه الذي يُنسب إليه. وهو الشارع في الظَّاهِر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -44639,8 +44639,8 @@ window.STREETS = [
   "ar": "شارع جَبَل ملَيح",
   "en": "Jabal Milayh Street",
   "meaning": {
-    "ar": "«جَبَل ملَيح»: جبل",
-    "en": "Jabal Milayh: mountain"
+    "ar": "«المَلِيح» الجميلُ أو المملوحُ؛ ولعلّ الجبل سُمّي بذلك.",
+    "en": "Mleih means the pleasant or the salty; a plausible mountain name."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«ملَيح» اسم للموضع لا للكلمة. والشارع في زاخِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -44655,8 +44655,8 @@ window.STREETS = [
   "ar": "شارع جَبَل مِنَب",
   "en": "Jabal Minab Street",
   "meaning": {
-    "ar": "«جَبَل مِنَب»: جبل",
-    "en": "Jabal Minab: mountain"
+    "ar": "«مِنَب» اسمٌ لا يُفسَّر، والشارع في النَّهضة.",
+    "en": "Minab is an unexplained proper name; the street lies in Al Nahdah."
   },
   "story": {
     "ar": "«مِنَب» اسم موضع «جَبَل» جبل، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في النَّهضة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -44671,8 +44671,8 @@ window.STREETS = [
   "ar": "شارع جَبَل مِندَسَّة",
   "en": "Jabal Mindassah Street",
   "meaning": {
-    "ar": "«جَبَل مِندَسَّة»: جبل",
-    "en": "Jabal Mindassah: mountain"
+    "ar": "لم يَرِد «مِندَسَّة» في المعاجم، والشارع في مدينة شخبوط.",
+    "en": "Mindassah is absent from the lexicons; the street lies in Shakhbout City."
   },
   "story": {
     "ar": "الاسم «جَبَل مِندَسَّة»: جبل، و«مِندَسَّة» اسم. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -44687,8 +44687,8 @@ window.STREETS = [
   "ar": "شارع جَبَل مُوزُوه",
   "en": "Jabal Mouzouh Street",
   "meaning": {
-    "ar": "«جَبَل مُوزُوه»: جبل",
-    "en": "Jabal Mouzouh: mountain"
+    "ar": "«مُوزُوه» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في مدينة شخبوط.",
+    "en": "Mouzouh is an unexplained proper name; the street lies in Shakhbout City."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«مُوزُوه» اسمه، والاسم من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
@@ -44703,8 +44703,8 @@ window.STREETS = [
   "ar": "شارع جَبَل نَصله",
   "en": "Jabal Naslah Street",
   "meaning": {
-    "ar": "«جَبَل نَصله»: جبل",
-    "en": "Jabal Naslah: mountain"
+    "ar": "«نَصله» قد تُنسب إلى النَّصَل من الأسنة؛ ولعلّ الجبل سُمّي بها.",
+    "en": "Naslah may derive from arrowheads; the mountain may be so named."
   },
   "story": {
     "ar": "«نَصله» من أسماء المواضع، و«جَبَل» جبل يُنسب إليه. والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -44735,8 +44735,8 @@ window.STREETS = [
   "ar": "شارع جَبَل هِدَيهِد",
   "en": "Jabal Hidayhid Street",
   "meaning": {
-    "ar": "«جَبَل هِدَيهِد»: جبل",
-    "en": "Jabal Hidayhid: mountain"
+    "ar": "«هِدَيهِد» طائرُ الهُدهُد المعروف؛ ولعلّ الجبل سُمّي به.",
+    "en": "Hidayhid is the well-known hoopoe bird; the mountain may be named so."
   },
   "story": {
     "ar": "جبل يُسمى «جَبَل»، و«هِدَيهِد» اسم موضعه المألوف. والاسم يُنسب إلى موضع، والشارع في مدينة شخبوط من إمارة أبوظبي.",
@@ -44751,8 +44751,8 @@ window.STREETS = [
   "ar": "شارع جَبَل وِحِيد",
   "en": "Jabal Wiheed Street",
   "meaning": {
-    "ar": "«جَبَل وِحِيد»: جبل",
-    "en": "Jabal Wiheed: mountain"
+    "ar": "«الوَحيد» المنفردُ؛ ولعلّ الجبل سُمّي بوحدته.",
+    "en": "Waheed means the solitary one; the mountain may be named for isolation."
   },
   "story": {
     "ar": "«وِحِيد» اسم «جَبَل وِحِيد»، و«جَبَل» جبل، والاسم مركّب. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -44767,8 +44767,8 @@ window.STREETS = [
   "ar": "شارع جَبَل وَشَل",
   "en": "Jabal Washal Street",
   "meaning": {
-    "ar": "«جَبَل وَشَل»: جبل",
-    "en": "Jabal Washal: mountain"
+    "ar": "«وَشَل» اسمٌ لا يُفسَّر، والشارع في العامرة.",
+    "en": "Washal is an unexplained proper name; the street lies in Al Amerah."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«وَشَل» اسم يحمله الموضع. وهو الشارع في العامرة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -44783,8 +44783,8 @@ window.STREETS = [
   "ar": "طريق جبل علي - لهباب",
   "en": "Jebel Ali - Lahbab Road",
   "meaning": {
-    "ar": "«جبل علي - لهباب»: جبل",
-    "en": "Jebel Ali - Lahbab: mountain"
+    "ar": "«لهباب» قد تُنسب إلى اللَّهَب؛ والطريق يصلها بجبل علي.",
+    "en": "Lehbab may derive from flames; the road links it to Jebel Ali."
   },
   "story": {
     "ar": "اسم الموضع «جبل» جبل، و«علي - لهباب» اسم ذلك الموضع. والطريق في اليفرة 2، والاسم من أسماء المواضع في إمارة دبي.",
@@ -56415,8 +56415,8 @@ window.STREETS = [
   "ar": "شارع رَأس الجُرف",
   "en": "Ras Al Jurf Street",
   "meaning": {
-    "ar": "«رَأس الجُرف»: رَأْسُ الجُرْف",
-    "en": "Ras Al Jurf: headland of cliff"
+    "ar": "«الجُرْف» حافَةُ الوادي المنهَدِمَة؛ ولعلّ الرأس سُمّي به.",
+    "en": "The jurf is an eroded valley bank; the headland may be named so."
   },
   "story": {
     "ar": "اسم مركّب: «رَأس» رأس، و«الجُرف» معناه «رَأْسُ الجُرْف». وهو من الشوارع الفلاح في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -56783,8 +56783,8 @@ window.STREETS = [
   "ar": "شارع رأس الكَهف",
   "en": "Ras Al Kahf Street",
   "meaning": {
-    "ar": "«رأس الكَهف»: رَأْسُ الكَهْف",
-    "en": "Ras Al Kahf: headland of cave"
+    "ar": "«الكَهْف» الغارُ في الجبل؛ ولعلّ الرأس سُمّي به.",
+    "en": "A cave is a hollow in the mountain; the headland may be named so."
   },
   "story": {
     "ar": "«رأس» رأس، ومعنى الاسم «رَأْسُ الكَهْف»؛ و«الكَهف» في الاسم. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -56863,8 +56863,8 @@ window.STREETS = [
   "ar": "شارع رَأس الموتَر",
   "en": "Ras Al Moutar Street",
   "meaning": {
-    "ar": "«رَأس الموتَر»: رَأْسُ المُوتَر",
-    "en": "Ras Al Moutar: headland of car"
+    "ar": "«المُوتَر» محرّكُ السيارة؛ ولعلّ الرأس سُمّي بذلك.",
+    "en": "The motor is a car engine; the headland may be named for it."
   },
   "story": {
     "ar": "«الموتَر» في اسم «رَأس»، ومعناه «رَأْسُ المُوتَر». وهو من الشوارع بني ياس في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -57087,8 +57087,8 @@ window.STREETS = [
   "ar": "شارع رَأس ضَدنا",
   "en": "Ras Dadna Street",
   "meaning": {
-    "ar": "«رَأس ضَدنا»: رَأْس",
-    "en": "Ras Dadna: headland of level"
+    "ar": "«ضَدنا» لا تُفسِّره المعاجم، والشارع في الشَّامْخَة.",
+    "en": "Dadna is left unexplained by the lexicons; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«ضَدنا» اسم موضع «رَأس» رَأْس، وليس كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في الشَّامْخَة، أبوظبي.",
@@ -59631,8 +59631,8 @@ window.STREETS = [
   "ar": "شارع مَحضَر الخَرِيمة",
   "en": "Mahdar Al Khareemah Street",
   "meaning": {
-    "ar": "«مَحضَر الخَرِيمة»: مَحْضَر",
-    "en": "Mahdar Al Khareemah: a palm-garden settlement"
+    "ar": "«الخَرِيمة» اسمٌ مجهولُ التفسير، والشارع في العِقَابِيَّة.",
+    "en": "Khareemah is a name of unknown meaning; the street lies in Al 'Aqabiyah."
   },
   "story": {
     "ar": "«الخَرِيمة» اسم موضع «مَحضَر» مَحْضَر، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في العِقَابِيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -59759,8 +59759,8 @@ window.STREETS = [
   "ar": "شارع مَحْضَر العِد",
   "en": "Mahdar Al 'Idd Street",
   "meaning": {
-    "ar": "«مَحْضَر العِد»: مَحْضَر",
-    "en": "Mahdar Al 'Idd: a palm-garden settlement"
+    "ar": "«العِدّ» الوعدُ أو العَهْد؛ ولعلّ المَحْضَر سُمّي بذلك.",
+    "en": "Al 'Idd means the promise or covenant; the settlement may be so named."
   },
   "story": {
     "ar": "«مَحْضَر» مَحْضَر، و«العِد» اسم يحمله الموضع. والاسم من أسماء المواضع، والشارع في المحاضر الغربية، أبوظبي.",
@@ -60207,8 +60207,8 @@ window.STREETS = [
   "ar": "شارع مَحضَر قرمدة",
   "en": "Mahdar Qurmidah Street",
   "meaning": {
-    "ar": "«مَحضَر قرمدة»: مَحْضَر",
-    "en": "Mahdar Qurmidah: a palm-garden settlement"
+    "ar": "«قرمدة» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في الوِقن.",
+    "en": "Qurmidah is an unexplained proper name; the street lies in Al Wiqan."
   },
   "story": {
     "ar": "مَحْضَر يُسمى «مَحضَر»، و«قرمدة» اسم موضعه المألوف. والاسم من أسماء المواضع، والشارع في الوِقن، أبوظبي.",
@@ -65215,8 +65215,8 @@ window.STREETS = [
   "ar": "شارع السَّبخَة",
   "en": "As Sabkhah Street",
   "meaning": {
-    "ar": "«السَّبخَة»: سبخة",
-    "en": "As Sabkhah: salt flat"
+    "ar": "السَّبْخَة أرضٌ مالحةٌ تُعلوها المِلْحة؛ والشارع في بني ياس.",
+    "en": "A sabkhah is a salt-crusted flat; the street lies in Bani Yas."
   },
   "story": {
     "ar": "«السَّبخَة» سَبْخَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -65231,8 +65231,8 @@ window.STREETS = [
   "ar": "شارع سَبخة أم الأبياب",
   "en": "Sabkhat Um Al Abyab Street",
   "meaning": {
-    "ar": "«سَبخة أم الأبياب»: سبخة",
-    "en": "Sabkhat Um Al Abyab: salt flat"
+    "ar": "«الأبياب» جمعُ «باب»؛ ولعلّ الموضع سُمّي بذلك.",
+    "en": "Al Abyab is the plural of doors; the sabkhah may be so named."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«أم الأبياب» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -65247,8 +65247,8 @@ window.STREETS = [
   "ar": "شارع سَبخة أم الزُّمُول",
   "en": "Sabkhat Um Az Zumoul Street",
   "meaning": {
-    "ar": "«سَبخة أم الزُّمُول»: سبخة",
-    "en": "Sabkhat Um Az Zumoul: salt flat"
+    "ar": "«الزُّمُول» الفحلُ من الإبل؛ ولعلّ الموضع سُمّي به.",
+    "en": "Az Zumoul is the stallion camel; the sabkhah may be named for it."
   },
   "story": {
     "ar": "«أم الزُّمُول» اسم الموضع في «سَبخة»؛ و«سَبخة» سَبْخَة. والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -65263,8 +65263,8 @@ window.STREETS = [
   "ar": "شارع سَبخة أم العَلقا",
   "en": "Sabkhat Um Al 'Alqa Street",
   "meaning": {
-    "ar": "«سَبخة أم العَلقا»: سبخة",
-    "en": "Sabkhat Um Al 'Alqa: salt flat"
+    "ar": "«العَلقا» العَلَقُ أو نبتٌ معروف؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al 'Alqa means leeches or a known plant; a plausible sabkhah name."
   },
   "story": {
     "ar": "سَبْخَة اسمه «سَبخة»، و«أم العَلقا» اسم يُنسب إليه. وهو من الشوارع الفلاح في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -65279,8 +65279,8 @@ window.STREETS = [
   "ar": "شارع سَبخة أم دَرثُوم",
   "en": "Sabkhat Um Darthoum Street",
   "meaning": {
-    "ar": "«سَبخة أم دَرثُوم»: سبخة",
-    "en": "Sabkhat Um Darthoum: salt flat"
+    "ar": "«دَرثُوم» لا يُفسَّر في المعاجم، والشارع في المُنتَزه.",
+    "en": "Darthoum is unexplained in the lexicons; the street lies in Al Muntazah."
   },
   "story": {
     "ar": "«أم دَرثُوم» اسم الموضع، و«سَبخة» سَبْخَة من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في المُنتَزه من إمارة أبوظبي.",
@@ -65295,8 +65295,8 @@ window.STREETS = [
   "ar": "شارع سَبخة أم لَيله",
   "en": "Sabkhat Um Lailah Street",
   "meaning": {
-    "ar": "«سَبخة أم لَيله»: سبخة",
-    "en": "Sabkhat Um Lailah: salt flat"
+    "ar": "«لَيله» ليلةٌ من الليالي؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Lailah means a night; the sabkhah may be named for a night."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«أم لَيله» اسم يُنسب إليه الموضع. وتقع الشوارع التي تحمل هذا الاسم في بني ياس بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -65327,8 +65327,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الحَصُون",
   "en": "Sabkhat Al Hasoun Street",
   "meaning": {
-    "ar": "«سَبخة الحَصُون»: سبخة",
-    "en": "Sabkhat Al Hasoun: salt flat"
+    "ar": "«الحَصُون» جمعُ «حِصْن»؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Hasoun is the plural of forts; the sabkhah may be so named."
   },
   "story": {
     "ar": "«الحَصُون» اسم لا يُفسَّر بالمعجم، و«سَبخة» سَبْخَة. والشارع في الروضة الشرقية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -65359,8 +65359,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الحَفَّار",
   "en": "Sabkhat Al Haffar Street",
   "meaning": {
-    "ar": "«سَبخة الحَفَّار»: سبخة",
-    "en": "Sabkhat Al Haffar: salt flat"
+    "ar": "«الحَفَّار» من الحَفْر؛ ولعلّ الموضع سُمّي به.",
+    "en": "Al Haffar means the digger; the sabkhah may be named for one."
   },
   "story": {
     "ar": "سَبْخَة «سَبخة»، و«الحَفَّار» اسمه الذي يُنسب إليه. والاسم من أسماء المواضع، والشارع في البطين، أبوظبي.",
@@ -65375,8 +65375,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الحِنوة",
   "en": "Sabkhat Al Hinwah Street",
   "meaning": {
-    "ar": "«سَبخة الحِنوة»: سبخة",
-    "en": "Sabkhat Al Hinwah: salt flat"
+    "ar": "«الحِنوة» نبتٌ من العَضاه؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Hinwah is a desert shrub; the sabkhah may be named for it."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«الحِنوة» اسم للموضع لا للكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المُشرِف.",
@@ -65391,8 +65391,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الحِوَيذة",
   "en": "Sabkhat Al Hiwaydhah Street",
   "meaning": {
-    "ar": "«سَبخة الحِوَيذة»: سبخة",
-    "en": "Sabkhat Al Hiwaydhah: salt flat"
+    "ar": "«الحِوَيذة» اسمٌ لا يُفسَّر، والشارع في الظَّاهِر.",
+    "en": "Al Hiwaydhah is an unexplained proper name; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "«الحِوَيذة» اسم موضع «سَبخة» سَبْخَة، وليس كلمة تُفسَّر. والشارع يقع في الظَّاهِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -65407,8 +65407,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الدِّعَيسِيَّة",
   "en": "Sabkhat Ad Di'aysiyah Street",
   "meaning": {
-    "ar": "«سَبخة الدِّعَيسِيَّة»: سبخة",
-    "en": "Sabkhat Ad Di'aysiyah: salt flat"
+    "ar": "«الدِّعَيسِيَّة» نسبةٌ إلى «دُعَيس»؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Ad Di'aysiyyah is a nisbah to a proper name; a plausible sabkhah name."
   },
   "story": {
     "ar": "الاسم «سَبخة الدِّعَيسِيَّة»: سَبْخَة، و«الدِّعَيسِيَّة» اسم. وهو من الشوارع حَدْبَة الزَّعْفَرَانَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -65423,8 +65423,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الرَّمراميَّات",
   "en": "Sabkhat Ar Ramramiyat Street",
   "meaning": {
-    "ar": "«سَبخة الرَّمراميَّات»: سبخة",
-    "en": "Sabkhat Ar Ramramiyat: salt flat"
+    "ar": "«الرَّمراميَّات» جمعُ «رَمْرَام» نبتٌ مِلْحيٌّ؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Ar Ramramiyat is the plural of a salt-tolerant plant; a plausible name."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«الرَّمراميَّات» اسمه، والاسم من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في نِعْمة من إمارة أبوظبي.",
@@ -65439,8 +65439,8 @@ window.STREETS = [
   "ar": "شارع سَبخة السَّلَمِيَّة",
   "en": "Sabkhat Al Salamiyah Street",
   "meaning": {
-    "ar": "«سَبخة السَّلَمِيَّة»: سَبْخَة",
-    "en": "Sabkhat Al Salamiyah: salt flat of Salamiyah"
+    "ar": "«السَّلَمِيَّة» نسبةٌ إلى السَّلَم من الشجر؛ ولعلّ الموضع سُمّي بها.",
+    "en": "As Salamiyyah derives from the salam tree; a plausible sabkhah name."
   },
   "story": {
     "ar": "«السَّلَمِيَّة» من أسماء المواضع، و«سَبخة» سَبْخَة يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في السَّلاَمَات بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -65455,8 +65455,8 @@ window.STREETS = [
   "ar": "شارع سَبخة السِّلِيل",
   "en": "Sabkhat Al Sileel Street",
   "meaning": {
-    "ar": "«سَبخة السِّلِيل»: سبخة",
-    "en": "Sabkhat Al Sileel: salt flat"
+    "ar": "«السِّلِيل» الماءُ الجاري أو الولد؛ ولعلّ الموضع سُمّي به.",
+    "en": "As Sileel means flowing water or offspring; a plausible sabkhah name."
   },
   "story": {
     "ar": "سَبْخَة يُسمى «سَبخة»، و«السِّلِيل» اسم موضعه المألوف. وهو الشارع في القوع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -65471,8 +65471,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الشَّنايِن",
   "en": "Sabkhat Ash Shanayin Street",
   "meaning": {
-    "ar": "«سَبخة الشَّنايِن»: سبخة",
-    "en": "Sabkhat Ash Shanayin: salt flat"
+    "ar": "«الشَّنايِن» لا تُفسِّره المعاجم، والشارع في السَّمْحة.",
+    "en": "Ash Shanayin is left unexplained by the lexicons; the street lies in Al Samhah."
   },
   "story": {
     "ar": "«الشَّنايِن» اسم «سَبخة الشَّنايِن»، و«سَبخة» سَبْخَة، والاسم مركّب. والشارع في السَّمْحة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -65487,8 +65487,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الظباء",
   "en": "Sabkhat Adh Dhiba-a Street",
   "meaning": {
-    "ar": "«سَبخة الظباء»: سبخة",
-    "en": "Sabkhat Adh Dhiba-a: salt flat"
+    "ar": "«الظِّباء» جمعُ «ظَبْي»؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Adh Dhiba' is the plural of gazelles; the sabkhah may be so named."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«الظباء» اسم يحمله الموضع. وهذا الموضع أخذ منه اسم الشارع في القوع بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -65503,8 +65503,8 @@ window.STREETS = [
   "ar": "شارع سَبخة العَوِيَّة",
   "en": "Sabkhat Al 'Awiyah Street",
   "meaning": {
-    "ar": "«سَبخة العَوِيَّة»: سبخة",
-    "en": "Sabkhat Al 'Awiyah: salt flat"
+    "ar": "لا يُفسَّر «العَوِيَّة» في المعاجم، والشارع في الدَّانَةْ.",
+    "en": "Al 'Awiyyah is unexplained in the lexicons; the street lies in Al Danah."
   },
   "story": {
     "ar": "اسم الموضع «سَبخة» سَبْخَة، و«العَوِيَّة» اسم ذلك الموضع. والشارع في الدَّانَةْ من إمارة أبوظبي.",
@@ -65519,8 +65519,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الغَطفة",
   "en": "Sabkhat Al Ghatfah Street",
   "meaning": {
-    "ar": "«سَبخة الغَطفة»: سبخة",
-    "en": "Sabkhat Al Ghatfah: salt flat"
+    "ar": "«الغَطْفَة» الكِراسةُ من التمر؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Ghatfah is a bunch of dates; the sabkhah may be named for it."
   },
   "story": {
     "ar": "«الغَطفة» اسم يُضاف إلى «سَبخة» سَبْخَة، ولا يُفسَّر بالمعجم. والاسم من أسماء المواضع، والشارع في شعبة الوُطَاه، أبوظبي.",
@@ -65535,8 +65535,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الفَيحة",
   "en": "Sabkhat Al Fayhah Street",
   "meaning": {
-    "ar": "«سَبخة الفَيحة»: سبخة",
-    "en": "Sabkhat Al Fayhah: salt flat"
+    "ar": "«الفَيحة» انتشارُ الطيب أو الفَيْح من الأرض؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Fayhah means spreading fragrance or open land; a plausible sabkhah name."
   },
   "story": {
     "ar": "«سَبخة الفَيحة» سَبْخَة، و«الفَيحة» اسم لا تُفسَّره المعاجم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في القوع.",
@@ -65551,8 +65551,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الكَفاف",
   "en": "Sabkhat Al Kafaf Street",
   "meaning": {
-    "ar": "«سَبخة الكَفاف»: سبخة",
-    "en": "Sabkhat Al Kafaf: salt flat"
+    "ar": "«الكَفاف» القوتُ أو الأرضُ المستوية؛ ولعلّ الموضع سُمّي به.",
+    "en": "Al Kafaf means plain sustenance or flat land; a plausible sabkhah name."
   },
   "story": {
     "ar": "«الكَفاف» اسم الموضع الذي فيه «سَبخة» سَبْخَة، وليس كلمة تُفسَّر. والشارع يقع في الظَّاهِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -65567,8 +65567,8 @@ window.STREETS = [
   "ar": "شارع سَبخة المضباعه",
   "en": "Sabkhat Al Midba'ah Street",
   "meaning": {
-    "ar": "«سَبخة المضباعه»: سبخة",
-    "en": "Sabkhat Al Midba'ah: salt flat"
+    "ar": "«المضباعه» اسمٌ مجهولُ التفسير، والشارع في الشَّامْخَة.",
+    "en": "Al Midba'ah is a name of unknown meaning; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة و«المضباعه» اسم علم للموضع لا يُفسَّر. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -65583,8 +65583,8 @@ window.STREETS = [
   "ar": "شارع سَبخة المِغَرة",
   "en": "Sabkhat Al Migharah Street",
   "meaning": {
-    "ar": "«سَبخة المِغَرة»: سبخة",
-    "en": "Sabkhat Al Migharah: salt flat"
+    "ar": "«المِغْرَة» صِبْغٌ أحمرُ أو حجارةٌ حمراء؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Migharah is red ochre or ruddy stones; a plausible sabkhah name."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«المِغَرة» يُنسب إليه اسم الموضع. والاسم يُنسب إلى موضع، والشارع في الدَّانَةْ من إمارة أبوظبي.",
@@ -65599,8 +65599,8 @@ window.STREETS = [
   "ar": "شارع سَبخة الهايرِيَّه",
   "en": "Sabkhat Al Hayriyah Street",
   "meaning": {
-    "ar": "«سَبخة الهايرِيَّه»: سبخة",
-    "en": "Sabkhat Al Hayriyah: salt flat"
+    "ar": "«الهايرِيَّة» مجهولُ المعنى في المعاجم، والشارع في العِقَابِيَّة.",
+    "en": "Al Hayriyyah is of unknown meaning; the street lies in Al 'Aqabiyah."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة في الموضع المعروف بـ«الهايرِيَّه». وتقع الشوارع التي تحمل هذا الاسم في العِقَابِيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -65647,8 +65647,8 @@ window.STREETS = [
   "ar": "شارع سَبخة برِّمَّه",
   "en": "Sabkhat Birrimmah Street",
   "meaning": {
-    "ar": "«سَبخة برِّمَّه»: سبخة",
-    "en": "Sabkhat Birrimmah: salt flat"
+    "ar": "لا يُفسَّر «برِّمَّه» في المعاجم، والشارع في القوع.",
+    "en": "Birrimmah is unexplained in the lexicons; the street lies in Al Qaw'."
   },
   "story": {
     "ar": "«برِّمَّه» اسم موضع «سَبخة»، و«سَبخة» سَبْخَة من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في القوع بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -65663,8 +65663,8 @@ window.STREETS = [
   "ar": "شارع سَبخة بو شِعَيرة",
   "en": "Sabkhat Bu Shi'ayrah Street",
   "meaning": {
-    "ar": "«سَبخة بو شِعَيرة»: سبخة",
-    "en": "Sabkhat Bu Shi'ayrah: salt flat"
+    "ar": "«شِعَيرة» نوعٌ من الحبوب؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Shi'ayrah is a kind of grain; the sabkhah may be named for it."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة واسم موضعه «بو شِعَيرة»، وليس كلمة تُفسَّر. والشارع في السَّمْحة من إمارة أبوظبي.",
@@ -65679,8 +65679,8 @@ window.STREETS = [
   "ar": "شارع سَبخة بو طِمِير",
   "en": "Sabkhat Bu Timeer Street",
   "meaning": {
-    "ar": "«سَبخة بو طِمِير»: سبخة",
-    "en": "Sabkhat Bu Timeer: salt flat"
+    "ar": "«طِمِير» لا يُفسَّر في المعاجم، والشارع في النَّهضة.",
+    "en": "Timeer is unexplained in the lexicons; the street lies in Al Nahdah."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«بو طِمِير» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في النَّهضة، أبوظبي.",
@@ -65695,8 +65695,8 @@ window.STREETS = [
   "ar": "شارع سَبخة بو كرَيبه",
   "en": "Sabkhat Bu Kraybah Street",
   "meaning": {
-    "ar": "«سَبخة بو كرَيبه»: سبخة",
-    "en": "Sabkhat Bu Kraybah: salt flat"
+    "ar": "«كُرَيبه» لا تُفسِّره المعاجم، والشارع في الفلاح.",
+    "en": "Kraybah is left unexplained by the lexicons; the street lies in Al Falah."
   },
   "story": {
     "ar": "«بو كرَيبه» اسم الموضع في «سَبخة»؛ و«سَبخة» سَبْخَة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -65711,8 +65711,8 @@ window.STREETS = [
   "ar": "شارع سَبخة بو نخَيلة",
   "en": "Sabkhat Bu Nkhaylah Street",
   "meaning": {
-    "ar": "«سَبخة بو نخَيلة»: سبخة",
-    "en": "Sabkhat Bu Nkhaylah: salt flat"
+    "ar": "«نَخِيلة» نخلةٌ أو مَنْبِتُ النخل؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Nkhaylah means a palm tree or palm grove; a plausible sabkhah name."
   },
   "story": {
     "ar": "سَبْخَة اسمه «سَبخة»، و«بو نخَيلة» اسم يُنسب إليه. والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -65727,8 +65727,8 @@ window.STREETS = [
   "ar": "شارع سَبخة بو هفافة",
   "en": "Sabkhat Bu Huffafah Street",
   "meaning": {
-    "ar": "«سَبخة بو هفافة»: سبخة",
-    "en": "Sabkhat Bu Huffafah: salt flat"
+    "ar": "لم يَرِد «هفافة» في المعاجم، والشارع في الشَّوامخ.",
+    "en": "Huffafah is absent from the lexicons; the street lies in Al Shawamekh."
   },
   "story": {
     "ar": "«بو هفافة» اسم الموضع، و«سَبخة» سَبْخَة من أسماء المواضع. وهو من الشوارع الشَّوامخ في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -65743,8 +65743,8 @@ window.STREETS = [
   "ar": "شارع سَبخة حَلِيبة",
   "en": "Sabkhat Haleebah Street",
   "meaning": {
-    "ar": "«سَبخة حَلِيبة»: سبخة",
-    "en": "Sabkhat Haleebah: salt flat"
+    "ar": "«حَلِيبة» تصغيرُ «حَلْبَة» من اللبن؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Haleebah is a diminutive related to milk; a plausible sabkhah name."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«حَلِيبة» اسم يُنسب إليه الموضع. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -65759,8 +65759,8 @@ window.STREETS = [
   "ar": "شارع سَبخة حَلِيمة",
   "en": "Sabkhat Haleemah Street",
   "meaning": {
-    "ar": "«سَبخة حَلِيمة»: سبخة",
-    "en": "Sabkhat Haleemah: salt flat"
+    "ar": "«حَلِيمة» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في المَنهَل.",
+    "en": "Haleemah is an unexplained proper name; the street lies in Al Manhal."
   },
   "story": {
     "ar": "«حَلِيمة» اسم لا يُفسَّر بالمعجم، و«سَبخة» سَبْخَة. وتقع الشوارع التي تحمل هذا الاسم في المَنهَل بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -65775,8 +65775,8 @@ window.STREETS = [
   "ar": "شارع سَبخة حَمامه",
   "en": "Sabkhat Hamamah Street",
   "meaning": {
-    "ar": "«سَبخة حَمامه»: سبخة",
-    "en": "Sabkhat Hamamah: salt flat"
+    "ar": "«الحَمامة» طائرٌ معروف؛ ولعلّ الموضع سُمّي بها.",
+    "en": "The dove is a known bird; the sabkhah may be named for it."
   },
   "story": {
     "ar": "سَبْخَة «سَبخة»، و«حَمامه» اسمه الذي يُنسب إليه. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -65791,8 +65791,8 @@ window.STREETS = [
   "ar": "شارع سَبخة دِرعان",
   "en": "Sabkhat Dir'an Street",
   "meaning": {
-    "ar": "«سَبخة دِرعان»: سبخة",
-    "en": "Sabkhat Dir'an: salt flat"
+    "ar": "«دِرعان» لم يَرِد في المعاجم، والشارع في الفلاح.",
+    "en": "Dir'an is absent from the lexicons; the street lies in Al Falah."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«دِرعان» اسم للموضع لا للكلمة. والشارع في الفلاح، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -65807,8 +65807,8 @@ window.STREETS = [
   "ar": "شارع سَبخة رقَيطُوَّة",
   "en": "Sabkhat Rqaytuwwah Street",
   "meaning": {
-    "ar": "«سَبخة رقَيطُوَّة»: سَبْخَة",
-    "en": "Sabkhat Rqaytuwwah: salt flat of very small"
+    "ar": "«رَقِيطُوَّة» لا معنى له في المعاجم، والشارع في القوع.",
+    "en": "Rqaytuwwah has no meaning in the lexicons; the street lies in Al Qaw'."
   },
   "story": {
     "ar": "«رقَيطُوَّة» اسم موضع «سَبخة» سَبْخَة، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في القوع بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -65823,8 +65823,8 @@ window.STREETS = [
   "ar": "شارع سَبخة زَبادة",
   "en": "Sabkhat Zabadah Street",
   "meaning": {
-    "ar": "«سَبخة زَبادة»: سبخة",
-    "en": "Sabkhat Zabadah: salt flat"
+    "ar": "«زَبادة» هي الزَّبَدَة من اللبن أو زَبَدُه؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Zabadah is butter or milk froth; the sabkhah may be named for it."
   },
   "story": {
     "ar": "الاسم «سَبخة زَبادة»: سَبْخَة، و«زَبادة» اسم. والاسم من أسماء المواضع، والشارع في نِعْمة، أبوظبي.",
@@ -65839,8 +65839,8 @@ window.STREETS = [
   "ar": "شارع سَبخة عَدانة",
   "en": "Sabkhat 'Adanah Street",
   "meaning": {
-    "ar": "«سَبخة عَدانة»: سبخة",
-    "en": "Sabkhat 'Adanah: salt flat"
+    "ar": "لا يُفسَّر «عَدانة» في المعاجم، والشارع في الفلاح.",
+    "en": "Adanah is unexplained in the lexicons; the street lies in Al Falah."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«عَدانة» اسمه، والاسم من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -65855,8 +65855,8 @@ window.STREETS = [
   "ar": "شارع سَبخة قِرَيطِيسة",
   "en": "Sabkhat Qirayteesah Street",
   "meaning": {
-    "ar": "«سَبخة قِرَيطِيسة»: سبخة",
-    "en": "Sabkhat Qirayteesah: salt flat"
+    "ar": "«قِرَيطِيسة» لا يُفسَّر في المعاجم، والشارع في النَّهضة.",
+    "en": "Qirayteesah is unexplained in the lexicons; the street lies in Al Nahdah."
   },
   "story": {
     "ar": "«قِرَيطِيسة» من أسماء المواضع، و«سَبخة» سَبْخَة يُنسب إليه. والشارع يقع في النَّهضة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -65871,8 +65871,8 @@ window.STREETS = [
   "ar": "شارع سَبخة مَطِّي",
   "en": "Sabkhat Matti Street",
   "meaning": {
-    "ar": "«سَبخة مَطِّي»: سبخة",
-    "en": "Sabkhat Matti: salt flat"
+    "ar": "«المَطِيّ» ركائبُ الإبل؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Matti means riding camels; the sabkhah may be named for them."
   },
   "story": {
     "ar": "سَبْخَة يُسمى «سَبخة»، و«مَطِّي» اسم موضعه المألوف. وهو من الشوارع السِّلَع في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -65887,8 +65887,8 @@ window.STREETS = [
   "ar": "شارع سَبخة مَلد",
   "en": "Sabkhat Mald Street",
   "meaning": {
-    "ar": "«سَبخة مَلد»: سبخة",
-    "en": "Sabkhat Mald: salt flat"
+    "ar": "«المَلْد» الأرضُ اللينةُ الملساء؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Mald is soft smooth ground; the sabkhah may be named for it."
   },
   "story": {
     "ar": "«مَلد» اسم «سَبخة مَلد»، و«سَبخة» سَبْخَة، والاسم مركّب. والاسم يُنسب إلى موضع، والشارع في القوع من إمارة أبوظبي.",
@@ -65903,8 +65903,8 @@ window.STREETS = [
   "ar": "شارع سَبخة مِلَيحة",
   "en": "Sabkhat Milayhah Street",
   "meaning": {
-    "ar": "«سَبخة مِلَيحة»: سَبْخَة",
-    "en": "Sabkhat Milayhah: salt flat of Mleiha"
+    "ar": "«مِلَيحة» هو تصغيرُ «مَلِيح»؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Mlayhah is a diminutive of pleasant or salty; a plausible sabkhah name."
   },
   "story": {
     "ar": "«سَبخة» سَبْخَة، و«مِلَيحة» اسم يحمله الموضع. وتقع الشوارع التي تحمل هذا الاسم في مدينة شخبوط بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -65919,8 +65919,8 @@ window.STREETS = [
   "ar": "شارع سَبخة هِرَيمه",
   "en": "Sabkhat Hiraymah Street",
   "meaning": {
-    "ar": "«سَبخة هِرَيمه»: سبخة",
-    "en": "Sabkhat Hiraymah: salt flat"
+    "ar": "«هِرَيمه» في تصغير «هَرْمَة» من الرَّمل؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Hiraymah is a diminutive of a sand mound; a plausible sabkhah name."
   },
   "story": {
     "ar": "اسم الموضع «سَبخة» سَبْخَة، و«هِرَيمه» اسم ذلك الموضع. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -65935,8 +65935,8 @@ window.STREETS = [
   "ar": "شارع سَبخة وَثِيق",
   "en": "Sabkhat Watheeq Street",
   "meaning": {
-    "ar": "«سَبخة وَثِيق»: سبخة",
-    "en": "Sabkhat Watheeq: salt flat"
+    "ar": "«الوَثِيق» المُحكَمُ المُتين؛ ولعلّ الموضع سُمّي به.",
+    "en": "Al Watheeq means the firm and solid; a plausible sabkhah name."
   },
   "story": {
     "ar": "«وَثِيق» اسم يُضاف إلى «سَبخة» سَبْخَة، ولا يُفسَّر بالمعجم. والشارع في المُشرِف، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -65951,8 +65951,8 @@ window.STREETS = [
   "ar": "شارع سَبخة وصَلة",
   "en": "Sabkhat Wsalah Street",
   "meaning": {
-    "ar": "«سَبخة وصَلة»: سبخة",
-    "en": "Sabkhat Wsalah: salt flat"
+    "ar": "«وصَلة» من الوَصْل والاتصال؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Waslah means connection and union; the sabkhah may be so named."
   },
   "story": {
     "ar": "«سَبخة وصَلة» سَبْخَة، و«وصَلة» اسم لا تُفسَّره المعاجم. وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -65983,8 +65983,8 @@ window.STREETS = [
   "ar": "طريق السبخة",
   "en": "Al Sabkha Road",
   "meaning": {
-    "ar": "«السبخة»: سبخة",
-    "en": "Al Sabkha: salt flat"
+    "ar": "السَّبْخَة أرضٌ مالحةٌ تُعلوها المِلْحة؛ والطريق فيها.",
+    "en": "A sabkhah is a salt flat; the road runs through one in Dubai."
   },
   "story": {
     "ar": "الاسم «السبخة» سَبْخَة، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الطرق في دبي، والطريق في السبخة.",
@@ -65999,8 +65999,8 @@ window.STREETS = [
   "ar": "شارع الجزيرة",
   "en": "Al Jazeera Street",
   "meaning": {
-    "ar": "«الجزيرة»: جزيرة",
-    "en": "Al Jazeera: island"
+    "ar": "الجَزِيرَة قطعةٌ من الأرض يحيطُ بها الماء؛ والشارع في المرقبات.",
+    "en": "An island is a piece of land ringed by water; the street lies in Al Merqabat."
   },
   "story": {
     "ar": "«الجزيرة» جَزِيرَة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المرقبات من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -66015,8 +66015,8 @@ window.STREETS = [
   "ar": "شارع الجَزِيرة",
   "en": "Al Jazeerah Street",
   "meaning": {
-    "ar": "«الجَزِيرة»: جزيرة",
-    "en": "Al Jazeerah: island"
+    "ar": "الجَزِيرَة أرضٌ يحيطُ بها الماء؛ والشارع في الخِبِيصِي.",
+    "en": "A jazirah is land encircled by water; the street lies in Al Khubaisi."
   },
   "story": {
     "ar": "الاسم «الجَزِيرة» جَزِيرَة، وليس مركّباً. وهو من الشوارع الخِبِيصِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -66031,8 +66031,8 @@ window.STREETS = [
   "ar": "شارع الجَزيرة الخَضراء",
   "en": "Al Jazeerah Al Khadra-a Street",
   "meaning": {
-    "ar": "«الجَزيرة الخَضراء»: جزيرة",
-    "en": "Al Jazeerah Al Khadra-a: island"
+    "ar": "«الخَضراء» من الأخضر من الألوان؛ ولعلّ الجزيرة سُمّيَت بلون نباتها.",
+    "en": "The green one is a colour; the island may be named for its vegetation."
   },
   "story": {
     "ar": "«الجَزيرة» جَزِيرَة، و«الخَضراء» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في جَرْن يَافُور من إمارة أبوظبي.",
@@ -66047,8 +66047,8 @@ window.STREETS = [
   "ar": "شارع الجَزيره الحَمراء",
   "en": "Al Jazeerah Al Hamra-a Street",
   "meaning": {
-    "ar": "«الجَزيره الحَمراء»: جزيرة",
-    "en": "Al Jazeerah Al Hamra-a: island"
+    "ar": "«الحَمراء» أنثى الأحمر من الألوان؛ ولعلّ الجزيرة سُمّيَت بلون تربتها.",
+    "en": "The red one is a colour; the island may be named for its soil."
   },
   "story": {
     "ar": "«الحَمراء» اسم الموضع في «الجَزيره»؛ و«الجَزيره» جَزِيرَة. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -66063,8 +66063,8 @@ window.STREETS = [
   "ar": "شارع جزيرة أبو موسى",
   "en": "Jazeerat Abu Mousa Street",
   "meaning": {
-    "ar": "«جزيرة أبو موسى»: جزيرة",
-    "en": "Jazeerat Abu Mousa: island"
+    "ar": "«موسى» اسمٌ مجهولُ التفسير، والشارع في فَلَج هَزَّاع.",
+    "en": "Musa is a name of unknown meaning; the street lies in Falaj Hazza'."
   },
   "story": {
     "ar": "جَزِيرَة اسمه «جزيرة»، و«أبو موسى» اسم يُنسب إليه. وهو الشارع في فَلَج هَزَّاع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -66079,8 +66079,8 @@ window.STREETS = [
   "ar": "شارع جزيرة أبو موسى",
   "en": "Abu Mousa Island Street",
   "meaning": {
-    "ar": "«جزيرة أبو موسى»: جزيرة",
-    "en": "Abu Mousa Island Street: island"
+    "ar": "«موسى» لا تُفسِّره المعاجم، والشارع في مشيرف.",
+    "en": "Musa is left unexplained by the lexicons; the street lies in Mushrif."
   },
   "story": {
     "ar": "جَزِيرَة هو «جزيرة»، و«أبو موسى» اسم يُنسب إليه. والشارع في مشيرف، والاسم من أسماء المواضع في إمارة عجمان.",
@@ -66095,8 +66095,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة أم النَّار",
   "en": "Jazeerat Um An Nar Street",
   "meaning": {
-    "ar": "«جَزِيرة أم النَّار»: جزيرة",
-    "en": "Jazeerat Um An Nar: island"
+    "ar": "«النَّار» اللهبُ الملتهب؛ ولعلّ الجزيرة سُمّيَت بذلك.",
+    "en": "Fire is burning flame; the island may be named for it."
   },
   "story": {
     "ar": "«أم النَّار» اسم الموضع، و«جَزِيرة» جَزِيرَة من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في الظَّاهِر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -66111,8 +66111,8 @@ window.STREETS = [
   "ar": "شارع جزيرة الأغلة",
   "en": "Jazeerat Al Aghalah Street",
   "meaning": {
-    "ar": "«جزيرة الأغلة»: جزيرة",
-    "en": "Jazeerat Al Aghalah: island"
+    "ar": "لا يُفسَّر «الأغلة» في المعاجم، والشارع في الحِصِن.",
+    "en": "Al Aghalah is unexplained in the lexicons; the street lies in Al Hisn."
   },
   "story": {
     "ar": "«جزيرة» جَزِيرَة، و«الأغلة» اسم يُنسب إليه الموضع. والاسم من أسماء المواضع، والشارع في الحِصِن، أبوظبي.",
@@ -66127,8 +66127,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة الأكعاب",
   "en": "Jazeerat Al Ak'ab Street",
   "meaning": {
-    "ar": "«جَزِيرة الأكعاب»: جزيرة",
-    "en": "Jazeerat Al Ak'ab: island"
+    "ar": "«الأكعاب» اسمٌ لا يُفسَّر، والشارع في الشَّامْخَة.",
+    "en": "Al Ak'ab is an unexplained proper name; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«الأكعاب» اسم لا يُفسَّر بالمعجم، و«جَزِيرة» جَزِيرَة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّامْخَة.",
@@ -66143,8 +66143,8 @@ window.STREETS = [
   "ar": "شارع جزيرة البِديَه",
   "en": "Jazeerat Al Bidyah Street",
   "meaning": {
-    "ar": "«جزيرة البِديَه»: جزيرة",
-    "en": "Jazeerat Al Bidyah: island"
+    "ar": "«البَدِيَّة» الصحراءُ أو حِدَّةُ الخاطر؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "Al Badyah means the open desert or ready wit; a plausible island name."
   },
   "story": {
     "ar": "جَزِيرَة «جزيرة»، و«البِديَه» اسمه الذي يُنسب إليه. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -66159,8 +66159,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة البَزَم",
   "en": "Jazeerat Al Bazam Street",
   "meaning": {
-    "ar": "«جَزِيرة البَزَم»: جزيرة",
-    "en": "Jazeerat Al Bazam: island"
+    "ar": "لم يَرِد «البَزَم» في المعاجم، والشارع في الظَّاهِر.",
+    "en": "Al Bazam is absent from the lexicons; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة، و«البَزَم» اسم للموضع لا للكلمة. وهو من الشوارع الظَّاهِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -66175,8 +66175,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة الحالة",
   "en": "Jazeerat Al Halah Street",
   "meaning": {
-    "ar": "«جَزِيرة الحالة»: جزيرة",
-    "en": "Jazeerat Al Halah: island"
+    "ar": "«الحالة» من الأحوال؛ ولعلّ الجزيرة سُمّيَت بذلك.",
+    "en": "Al Halah relates to states and conditions; a plausible island name."
   },
   "story": {
     "ar": "«الحالة» اسم موضع «جَزِيرة» جَزِيرَة، وليس كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في الظَّاهِر من إمارة أبوظبي.",
@@ -66191,8 +66191,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة الرَّفِيق",
   "en": "Jazeerat Al Rafeeq Street",
   "meaning": {
-    "ar": "«جَزيرة الرَّفِيق»: جزيرة",
-    "en": "Jazeerat Al Rafeeq: island"
+    "ar": "«الرَّفِيق» الصاحبُ الملازِم؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Al Rafiq means the constant companion; the island may be named so."
   },
   "story": {
     "ar": "الاسم «جَزيرة الرَّفِيق»: جَزِيرَة، و«الرَّفِيق» اسم. وتقع الشوارع التي تحمل هذا الاسم في زاخِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -66207,8 +66207,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة الرِّيم",
   "en": "Jazeerat Ar Reem Street",
   "meaning": {
-    "ar": "«جَزِيرة الرِّيم»: جزيرة",
-    "en": "Jazeerat Ar Reem: island"
+    "ar": "«الرِّيم» الظبيُّ الأبيضُ أو المها؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Ar Reem is the white gazelle or oryx; the island may be named so."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة، و«الرِّيم» اسمه، والاسم من أسماء المواضع. وهو الشارع في الروضة الشرقية، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -66223,8 +66223,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة الزَّورة",
   "en": "Jazeerat Az Zawrah Street",
   "meaning": {
-    "ar": "«جَزِيرة الزَّورة»: جزيرة",
-    "en": "Jazeerat Az Zawrah: island"
+    "ar": "«الزَّوْرَة» الزيارة؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "Az Zawrah means the visit; the island may be named for it."
   },
   "story": {
     "ar": "«الزَّورة» من أسماء المواضع، و«جَزِيرة» جَزِيرَة يُنسب إليه. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -66239,8 +66239,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة السِّينيَّه",
   "en": "Jazeerat As Seeniyah Street",
   "meaning": {
-    "ar": "«جَزِيرة السِّينيَّه»: جزيرة",
-    "en": "Jazeerat As Seeniyah: island"
+    "ar": "المعاجم لا تُفسِّر «السِّينيَّة»، والشارع في الطِّوَيَّة.",
+    "en": "The lexicons do not explain As Seeniyyah; the street lies in Al Tiwayyah."
   },
   "story": {
     "ar": "جَزِيرَة يُسمى «جَزِيرة»، و«السِّينيَّه» اسم موضعه المألوف. وهذا الموضع أخذ منه اسم الشارع في الطِّوَيَّة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -66255,8 +66255,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة الشُّوَيهات",
   "en": "Jazeerat Ash Shuwayhat Street",
   "meaning": {
-    "ar": "«جَزِيرة الشُّوَيهات»: جزيرة",
-    "en": "Jazeerat Ash Shuwayhat: island"
+    "ar": "«الشُّوَيهات» لا معنى له في المعاجم، والشارع في مَزْيَد.",
+    "en": "Ash Shuwayhat has no meaning in the lexicons; the street lies in Mazyad."
   },
   "story": {
     "ar": "«الشُّوَيهات» اسم «جَزِيرة الشُّوَيهات»، و«جَزِيرة» جَزِيرَة، والاسم مركّب. والشارع في مَزْيَد من إمارة أبوظبي.",
@@ -66271,8 +66271,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة الصَّفية",
   "en": "Jazeerat As Safyah Street",
   "meaning": {
-    "ar": "«جَزِيرة الصَّفية»: جزيرة",
-    "en": "Jazeerat As Safyah: island"
+    "ar": "«الصَّفِيَّة» الطاهرةُ المختارة؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "As Safiyyah means the pure and chosen; a plausible island name."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة، و«الصَّفية» اسم يحمله الموضع. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -66287,8 +66287,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة العَقَّه",
   "en": "Jazeerat Al Aqqah Street",
   "meaning": {
-    "ar": "«جَزيرة العَقَّه»: جزيرة",
-    "en": "Jazeerat Al Aqqah: island"
+    "ar": "لا يُفسَّر «العَقَّة» في المعاجم، والشارع في الوَثْبَة.",
+    "en": "Al 'Aqqah is unexplained in the lexicons; the street lies in Al Wathbah."
   },
   "story": {
     "ar": "اسم الموضع «جَزيرة» جَزِيرَة، و«العَقَّه» اسم ذلك الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الوَثْبَة.",
@@ -66303,8 +66303,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة الفطَيسِي",
   "en": "Jazeerat Al Fteysi Street",
   "meaning": {
-    "ar": "«جَزِيرة الفطَيسِي»: جزيرة",
-    "en": "Jazeerat Al Fteysi: island"
+    "ar": "«الفَطيس» وعاءٌ أو نجمٌ معروف؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Al Fatees is a bowl or a known star; a plausible island name."
   },
   "story": {
     "ar": "«الفطَيسِي» اسم يُضاف إلى «جَزِيرة» جَزِيرَة، ولا يُفسَّر بالمعجم. والشارع يقع في السَّلاَمَات من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -66319,8 +66319,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة القُرم",
   "en": "Jazeerat Al Qurm Street",
   "meaning": {
-    "ar": "«جَزِيرة القُرم»: جَزِيرَةُ القُرْم",
-    "en": "Jazeerat Al Qurm: island of mangrove"
+    "ar": "«القُرْم» شجرُ المانغروف؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Al Qurm is the mangrove tree; the island may be named for it."
   },
   "story": {
     "ar": "«جَزِيرة» جزيرة، ومعنى الاسم «جَزِيرَةُ القُرْم»؛ و«القُرم» في الاسم. وهو من الشوارع بني ياس في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -66335,8 +66335,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة اللُّولُو",
   "en": "Jazeerat Al Lulu Street",
   "meaning": {
-    "ar": "«جَزِيرة اللُّولُو»: جزيرة",
-    "en": "Jazeerat Al Lulu: island"
+    "ar": "«اللُّولُو» هو اللؤلؤُ من البحر؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Al Lulu means sea pearls; the island may be named for them."
   },
   "story": {
     "ar": "«جَزِيرة اللُّولُو» جَزِيرَة، و«اللُّولُو» اسم لا تُفسَّره المعاجم. والاسم يُنسب إلى موضع، والشارع في الصَّارُوج من إمارة أبوظبي.",
@@ -66351,8 +66351,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة بو السَّياييف",
   "en": "Jazeerat Bu As Sayayif Street",
   "meaning": {
-    "ar": "«جَزيرة بو السَّياييف»: جزيرة",
-    "en": "Jazeerat Bu As Sayayif: island"
+    "ar": "«السَّياييف» جمعُ «سَيّاف»؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "As Sayayif is the plural of swordsmen; a plausible island name."
   },
   "story": {
     "ar": "«بو السَّياييف» اسم الموضع الذي فيه «جَزيرة» جَزِيرَة، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الظَّاهِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -66367,8 +66367,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة بُويريَّات",
   "en": "Jazeerat Buweriyat Street",
   "meaning": {
-    "ar": "«جَزيرة بُويريَّات»: جَزِيرَة",
-    "en": "Jazeerat Buweriyat: island of Bu Yirriyat"
+    "ar": "«بُويريَّات» ليس في المعاجم، والشارع في شعاب الأشخر.",
+    "en": "Buweriyat is not found in the lexicons; the street lies in Shiab Al Ashkhar."
   },
   "story": {
     "ar": "«جَزيرة» جَزِيرَة و«بُويريَّات» اسم علم للموضع لا يُفسَّر. وهو الشارع في شعاب الأشخر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -66383,8 +66383,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة جِنانة",
   "en": "Jazeerat Jinanah Street",
   "meaning": {
-    "ar": "«جَزِيرة جِنانة»: جزيرة",
-    "en": "Jazeerat Jinanah: island"
+    "ar": "«جِنانة» في تصغير «جَنَّة»؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "Jinanah is a diminutive of a garden; the island may be named so."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة، و«جِنانة» يُنسب إليه اسم الموضع. والشارع في السَّلاَمَات، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -66399,8 +66399,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة خِردال",
   "en": "Jazeerat Khirdal Street",
   "meaning": {
-    "ar": "«جَزِيرة خِردال»: جزيرة",
-    "en": "Jazeerat Khirdal: island"
+    "ar": "«خِردال» الخُرْدَلُ من النبات؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Khirdal is the mustard plant; the island may be named for it."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة في الموضع المعروف بـ«خِردال». وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -66431,8 +66431,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرَة دلمَا",
   "en": "Jazeerat Delma Street",
   "meaning": {
-    "ar": "«جَزِيرَة دلمَا»: جزيرة",
-    "en": "Jazeerat Delma: island"
+    "ar": "«دلمَا» لم يَرِد في المعاجم، والشارع في زاخِر.",
+    "en": "Delma is absent from the lexicons; the street lies in Zakhir."
   },
   "story": {
     "ar": "«دلمَا» اسم موضع «جَزِيرَة»، و«جَزِيرَة» جَزِيرَة من أسماء المواضع. والاسم من أسماء المواضع، والشارع في زاخِر، أبوظبي.",
@@ -66447,8 +66447,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة رَمحان",
   "en": "Jazeerat Ramhan Street",
   "meaning": {
-    "ar": "«جَزِيرة رَمحان»: جزيرة",
-    "en": "Jazeerat Ramhan: island"
+    "ar": "«رَمحان» لم يَرِد في المعاجم، والشارع في مدينة شخبوط.",
+    "en": "Ramhan is absent from the lexicons; the street lies in Shakhbout City."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة واسم موضعه «رَمحان»، وليس كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
@@ -66463,8 +66463,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة زَركوه",
   "en": "Jazeerat Zarkoh Street",
   "meaning": {
-    "ar": "«جَزِيرة زَركوه»: جزيرة",
-    "en": "Jazeerat Zarkoh: island"
+    "ar": "«زَركوه» لم تُثبَت معانيه في المعاجم، والشارع في مدينة زايد.",
+    "en": "Zarkoh has no established gloss; the street lies in Zayed City."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة، و«زَركوه» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع يقع في مدينة زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -66479,8 +66479,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة شْرَيْعَة",
   "en": "Jazeerat Shiray'ah Street",
   "meaning": {
-    "ar": "«جَزيرة شْرَيْعَة»: جزيرة",
-    "en": "Jazeerat Shiray'ah: island"
+    "ar": "«شْرَيْعَة» تصغيرُ «شَرِيعة» مَوارِدُ الماء؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "Shray'ah is a diminutive of watering places; a plausible island name."
   },
   "story": {
     "ar": "«شْرَيْعَة» اسم الموضع في «جَزيرة»؛ و«جَزيرة» جَزِيرَة. وهو من الشوارع مدينة شخبوط في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -66495,8 +66495,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرَة صَلاَحَة",
   "en": "Jazeerat Salahah Street",
   "meaning": {
-    "ar": "«جَزِيرَة صَلاَحَة»: جزيرة",
-    "en": "Jazeerat Salahah: island"
+    "ar": "«صَلاَحَة» من الصَّلاح والاستقامة؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "Salahah derives from goodness and uprightness; a plausible island name."
   },
   "story": {
     "ar": "جَزِيرَة اسمه «جَزِيرَة»، و«صَلاَحَة» اسم يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في زاخِر من إمارة أبوظبي.",
@@ -66511,8 +66511,8 @@ window.STREETS = [
   "ar": "شارع جزيرة طلَيعة",
   "en": "Jazeerat Tlay'ah Street",
   "meaning": {
-    "ar": "«جزيرة طلَيعة»: جزيرة",
-    "en": "Jazeerat Tlay'ah: island"
+    "ar": "«طلَيعة» الطلائعُ أو أوّلُ ما يُرى؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "Tlay'ah means scouts or what first appears; a plausible island name."
   },
   "story": {
     "ar": "«طلَيعة» اسم الموضع، و«جزيرة» جَزِيرَة من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في الفلاح بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -66527,8 +66527,8 @@ window.STREETS = [
   "ar": "شارع جزيرة طنب الصغرى",
   "en": "The Lesser Tunb Island Street",
   "meaning": {
-    "ar": "«جزيرة طنب الصغرى»: جزيرة",
-    "en": "The Lesser Tunb Island Street: island"
+    "ar": "«الصُّغرى» أنثى الأصغر، و«طنب» اسمٌ لا يُفسَّر.",
+    "en": "Sughra is the feminine of lesser while Tunb is unexplained."
   },
   "story": {
     "ar": "«طنب الصغرى» اسم الموضع، و«جزيرة» جَزِيرَة. وهو الشارع في الجرف، والاسم من أسماء المواضع التي تعرفها عجمان.",
@@ -66543,8 +66543,8 @@ window.STREETS = [
   "ar": "شارع جزيرة طنب العظمى",
   "en": "The Great Tunb Island Street",
   "meaning": {
-    "ar": "«جزيرة طنب العظمى»: جزيرة",
-    "en": "The Great Tunb Island Street: island"
+    "ar": "«العُظمى» أنثى الأكبر، و«طنب» اسمٌ لا يُفسَّر.",
+    "en": "Uthma is the feminine of greater while Tunb is unexplained."
   },
   "story": {
     "ar": "«طنب العظمى» اسم موضع «جزيرة»، وليس كلمة تُفسَّر. والشارع في الحميدية، والاسم من أسماء المواضع في إمارة عجمان.",
@@ -66559,8 +66559,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة عِقَيْلَة",
   "en": "Jazeerat 'Iqaylah Street",
   "meaning": {
-    "ar": "«جَزيرة عِقَيْلَة»: جزيرة",
-    "en": "Jazeerat 'Iqaylah: island"
+    "ar": "«عِقَيْلَة» تصغيرُ «عَقيلة»؛ ولعلّ الجزيرة سُمّيَت بها.",
+    "en": "Iqaylah is a diminutive of Aqilah; the island may be named so."
   },
   "story": {
     "ar": "«جَزيرة» جَزِيرَة، و«عِقَيْلَة» اسم يُنسب إليه الموضع. وهذا الموضع أخذ منه اسم الشارع في الخَالِدية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -66575,8 +66575,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة قرنِين",
   "en": "Jazeerat Qurneen Street",
   "meaning": {
-    "ar": "«جَزِيرة قرنِين»: جزيرة",
-    "en": "Jazeerat Qurneen: island"
+    "ar": "«قرنِين» مثنّى «قَرْن»؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Qurneen is the dual of horn; the island may be named for two horns."
   },
   "story": {
     "ar": "«قرنِين» اسم لا يُفسَّر بالمعجم، و«جَزِيرة» جَزِيرَة. والاسم من أسماء المواضع، والشارع في الساد، أبوظبي.",
@@ -66591,8 +66591,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة قَفاي",
   "en": "Jazeerat Qaffay Street",
   "meaning": {
-    "ar": "«جَزِيرة قَفاي»: جزيرة",
-    "en": "Jazeerat Qaffay: island"
+    "ar": "«قَفاي» اسمٌ لا يُفسَّر، والشارع في نِعْمة.",
+    "en": "Qaffay is an unexplained proper name; the street lies in Ni'mah."
   },
   "story": {
     "ar": "جَزِيرَة «جَزِيرة»، و«قَفاي» اسمه الذي يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في نِعْمة.",
@@ -66607,8 +66607,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة مِفلِح",
   "en": "Jazeerat Miflih Street",
   "meaning": {
-    "ar": "«جَزِيرة مِفلِح»: جزيرة",
-    "en": "Jazeerat Miflih: island"
+    "ar": "«مِفلِح» من الفَلَح والنجاح؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Miflih derives from success and canals; a plausible island name."
   },
   "story": {
     "ar": "«جَزِيرة» جَزِيرَة، و«مِفلِح» اسم للموضع لا للكلمة. والشارع يقع في المُشرِف من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -66623,8 +66623,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة مِلاح",
   "en": "Jazeerat Milah Street",
   "meaning": {
-    "ar": "«جَزِيرة مِلاح»: جزيرة",
-    "en": "Jazeerat Milah: island"
+    "ar": "«مِلاح» من المِلْح؛ ولعلّ الجزيرة سُمّيَت به.",
+    "en": "Milah derives from salt; the island may be named for salinity."
   },
   "story": {
     "ar": "«مِلاح» اسم موضع «جَزِيرة» جَزِيرَة، وليس كلمة تُفسَّر. وهو من الشوارع مدينة شخبوط في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -66639,8 +66639,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة مِلاح",
   "en": "Milah Island Street",
   "meaning": {
-    "ar": "«جَزِيرة مِلاح»: جزيرة",
-    "en": "Milah Island Street: island"
+    "ar": "«مِلاح» نسبةٌ إلى المِلْح؛ والشارع في العامرة.",
+    "en": "Milah is a nisbah to salt; the street lies in Al Amerah."
   },
   "story": {
     "ar": "الاسم «مِلاح» على «جَزِيرة»: جَزِيرَة. والاسم يُنسب إلى موضع، والشارع في العامرة من إمارة أبوظبي.",
@@ -66655,8 +66655,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة مهَمَّلِيَّة",
   "en": "Jazeerat Mhammaliyah Street",
   "meaning": {
-    "ar": "«جَزِيرة مهَمَّلِيَّة»: جزيرة",
-    "en": "Jazeerat Mhammaliyah: island"
+    "ar": "«مهَمَّلِيَّة» اسمٌ مجهولُ التفسير، والشارع في شعبة الوُطَاه.",
+    "en": "Mhammaliyyah is a name of unknown meaning; the street lies in Shi'bat Al Wutah."
   },
   "story": {
     "ar": "الاسم «جَزِيرة مهَمَّلِيَّة»: جَزِيرَة، و«مهَمَّلِيَّة» اسم. وتقع الشوارع التي تحمل هذا الاسم في شعبة الوُطَاه بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -66671,8 +66671,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة نَشَيله",
   "en": "Jazeerat Nashaylah Street",
   "meaning": {
-    "ar": "«جَزيرة نَشَيله»: جزيرة",
-    "en": "Jazeerat Nashaylah: island"
+    "ar": "«نَشَيله» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في البطين.",
+    "en": "Nashaylah is an unexplained proper name; the street lies in Al Bateen."
   },
   "story": {
     "ar": "«جَزيرة» جَزِيرَة، و«نَشَيله» اسمه، والاسم من أسماء المواضع. وهو الشارع في البطين، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -66687,8 +66687,8 @@ window.STREETS = [
   "ar": "شارع جَزِيرة ياس",
   "en": "Jazeerat Yas Street",
   "meaning": {
-    "ar": "«جَزِيرة ياس»: جزيرة",
-    "en": "Jazeerat Yas: island"
+    "ar": "«ياس» لا تُفسِّره المعاجم، والشارع في زاخِر.",
+    "en": "Yas is left unexplained by the lexicons; the street lies in Zakhir."
   },
   "story": {
     "ar": "«ياس» من أسماء المواضع، و«جَزِيرة» جَزِيرَة يُنسب إليه. والشارع في زاخِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -66703,8 +66703,8 @@ window.STREETS = [
   "ar": "شارع جَزيرة يَبر",
   "en": "Jazeerat Yabr Street",
   "meaning": {
-    "ar": "«جَزيرة يَبر»: جزيرة",
-    "en": "Jazeerat Yabr: island"
+    "ar": "«يَبر» لا يُفسَّر في المعاجم، والشارع في المرْفَأ.",
+    "en": "Yabr is unexplained in the lexicons; the street lies in Al Mina."
   },
   "story": {
     "ar": "جَزِيرَة يُسمى «جَزيرة»، و«يَبر» اسم موضعه المألوف. وهذا الموضع أخذ منه اسم الشارع في المرْفَأ بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -67647,8 +67647,8 @@ window.STREETS = [
   "ar": "شارع خُور القَرم",
   "en": "Khor Al Qarm Street",
   "meaning": {
-    "ar": "«خُور القَرم»: خَوْرُ القُرْم",
-    "en": "Khor Al Qarm: creek of mangrove"
+    "ar": "«القَرم» شجرُ المانغروف؛ ولعلّ الخور سُمّي به.",
+    "en": "Al Qarm is the mangrove tree; the creek may be named for it."
   },
   "story": {
     "ar": "اسم مركّب: «خُور» خور، و«القَرم» معناه «خَوْرُ القُرْم». وهو من الشوارع مْبَزَّرَة الخَضْراء في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -68015,8 +68015,8 @@ window.STREETS = [
   "ar": "شارع خُور كَلباء",
   "en": "Khor Kalba Street",
   "meaning": {
-    "ar": "«خُور كَلباء»: خَوْر",
-    "en": "Khor Kalba: creek of Kalba"
+    "ar": "«كَلباء» اسمٌ لا يُفسَّر، والشارع في مْبَزَّرَة الخَضْراء.",
+    "en": "Kalba is an unexplained proper name; the street lies in Mbazzarah Al Khadra."
   },
   "story": {
     "ar": "«كَلباء» اسم موضع «خُور» خَوْر، وليس كلمة تُفسَّر. والشارع في مْبَزَّرَة الخَضْراء، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -70271,8 +70271,8 @@ window.STREETS = [
   "ar": "برج خليفة",
   "en": "Burj Khalifa Boulevard",
   "meaning": {
-    "ar": "«برج خليفة»: برج",
-    "en": "Burj Khalifa Boulevard: tower"
+    "ar": "«خليفة» من الخَلَفة؛ ولعلّ البرج سُمّي بذلك.",
+    "en": "Khalifa derives from succession; the tower may be so named."
   },
   "story": {
     "ar": "«برج» بُرْج، و«خليفة» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من المواضع وسط مدينة دبي في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -70287,8 +70287,8 @@ window.STREETS = [
   "ar": "شارع البرج",
   "en": "Al Borj Street",
   "meaning": {
-    "ar": "«البرج»: برج",
-    "en": "Al Borj: tower"
+    "ar": "البُرْجُ بِناءٌ مرتفع؛ والشارع في نايف.",
+    "en": "A burj is a tall building; the street lies in Naif, Dubai."
   },
   "story": {
     "ar": "«البرج» بُرْج، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في نايف من إمارة دبي.",
@@ -70303,8 +70303,8 @@ window.STREETS = [
   "ar": "شارع البرج",
   "en": "Al Burj Street",
   "meaning": {
-    "ar": "«البرج»: برج",
-    "en": "Al Burj: tower"
+    "ar": "البُرْجُ البناءُ المرتفعُ أو القِلعة؛ والشارع في شنتير.",
+    "en": "A burj is a tall tower or fort; the street lies in Shintir."
   },
   "story": {
     "ar": "الاسم «البرج» بُرْج، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في شنتير بإمارة أم القيوين، والاسم من أسماء المواضع.",
@@ -70319,8 +70319,8 @@ window.STREETS = [
   "ar": "شارع البُرْج",
   "en": "Al Burj Street",
   "meaning": {
-    "ar": "«البُرْج»: برج",
-    "en": "Al Burj: tower"
+    "ar": "«البُرْج» البناءُ المرتفعُ من القِلال؛ والشارع في الدَّانَةْ.",
+    "en": "Al Burj means the tall tower among forts; the street lies in Al Danah."
   },
   "story": {
     "ar": "«البُرْج» بُرْج، والاسم هو الكلمة نفسها. وهو الشارع في الدَّانَةْ، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -70335,8 +70335,8 @@ window.STREETS = [
   "ar": "شارع برج الحصن",
   "en": "Burj Al Hisn Street",
   "meaning": {
-    "ar": "«برج الحصن»: بُرْجُ الحِصن",
-    "en": "Burj Al Hisn: tower of fort"
+    "ar": "«الحصن» القِلعةُ المُحصَّنة؛ ولعلّ البرج سُمّي به.",
+    "en": "Al Hisn is the fortified tower; the burj may be named for it."
   },
   "story": {
     "ar": "«برج» بُرْج، ومعنى الاسم «بُرْجُ الحِصن»؛ و«الحصن» في الاسم. والشارع في المَنهَل، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -70351,8 +70351,8 @@ window.STREETS = [
   "ar": "شارع برج الخان",
   "en": "Burj Al Khan Street",
   "meaning": {
-    "ar": "«برج الخان»: برج",
-    "en": "Burj Al Khan: tower"
+    "ar": "«الخان» المَنزلُ للقوافل؛ ولعلّ البرج سُمّي به.",
+    "en": "Al Khan is the caravanserai; the burj may be named for one."
   },
   "story": {
     "ar": "«الخان» اسم الموضع في «برج»؛ و«برج» بُرْج. وهذا الموضع أخذ منه اسم الشارع في البطين بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -70367,8 +70367,8 @@ window.STREETS = [
   "ar": "شارع برج الشمالي",
   "en": "Burj Ash Shamali Street",
   "meaning": {
-    "ar": "«برج الشمالي»: برج",
-    "en": "Burj Ash Shamali: tower"
+    "ar": "«الشمالي» من الشمال؛ ولعلّ البرج سُمّي بموقعه.",
+    "en": "Ash Shamali means the northern one; the burj may be named for its site."
   },
   "story": {
     "ar": "بُرْج اسمه «برج»، و«الشمالي» اسم يُنسب إليه. والاسم من أسماء المواضع، والشارع في الظَّاهِر، أبوظبي.",
@@ -70383,8 +70383,8 @@ window.STREETS = [
   "ar": "شارع برج الصَّنابي",
   "en": "Burj As Sanabi Street",
   "meaning": {
-    "ar": "«برج الصَّنابي»: برج",
-    "en": "Burj As Sanabi: tower"
+    "ar": "«الصَّنابي» اسمٌ لا يُفسَّر، والشارع في مْبَزَّرَة الخَضْراء.",
+    "en": "As Sanabi is an unexplained proper name; the street lies in Mbazzarah Al Khadra."
   },
   "story": {
     "ar": "«الصَّنابي» اسم الموضع، و«برج» بُرْج من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مْبَزَّرَة الخَضْراء.",
@@ -70399,8 +70399,8 @@ window.STREETS = [
   "ar": "شارع برج الطريف",
   "en": "Burj At Tareef Street",
   "meaning": {
-    "ar": "«برج الطريف»: برج",
-    "en": "Burj At Tareef: tower"
+    "ar": "«الطريف» الجديدُ المستطرف؛ ولعلّ البرج سُمّي بذلك.",
+    "en": "At Tareef means the novel and pleasing; a plausible burj name."
   },
   "story": {
     "ar": "«برج» بُرْج، و«الطريف» اسم يُنسب إليه الموضع. والشارع يقع في الظَّاهِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -70415,8 +70415,8 @@ window.STREETS = [
   "ar": "شارع برج الطلاع",
   "en": "Burj At Tala' Street",
   "meaning": {
-    "ar": "«برج الطلاع»: برج",
-    "en": "Burj At Tala': tower"
+    "ar": "«الطلاع» اسمٌ مجهولُ التفسير، والشارع في آل نَهيان.",
+    "en": "At Tala' is a name of unknown meaning; the street lies in Al Nahyan."
   },
   "story": {
     "ar": "«الطلاع» اسم لا يُفسَّر بالمعجم، و«برج» بُرْج. وهو من الشوارع آل نَهيان في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -70431,8 +70431,8 @@ window.STREETS = [
   "ar": "شارع برج العدواني",
   "en": "Burj Al 'Adwani Street",
   "meaning": {
-    "ar": "«برج العدواني»: برج",
-    "en": "Burj Al 'Adwani: tower"
+    "ar": "«العدواني» نسبةٌ إلى عَدْوان؛ ولعلّ البرج سُمّي بها.",
+    "en": "Al Adwani is a nisbah to Adwan; a plausible burj name."
   },
   "story": {
     "ar": "بُرْج «برج»، و«العدواني» اسمه الذي يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -70447,8 +70447,8 @@ window.STREETS = [
   "ar": "شارع بُرج العَرَب",
   "en": "Burj Al 'Arab Street",
   "meaning": {
-    "ar": "«بُرج العَرَب»: برج",
-    "en": "Burj Al 'Arab: tower"
+    "ar": "«العَرَب» الأمةُ المعروفة؛ ولعلّ البرج سُمّي بها.",
+    "en": "Al Arab means the well-known people; the burj may be named so."
   },
   "story": {
     "ar": "«بُرج» بُرْج، و«العَرَب» اسم للموضع لا للكلمة. وتقع الشوارع التي تحمل هذا الاسم في العامرة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -70463,8 +70463,8 @@ window.STREETS = [
   "ar": "شارع برج العلالي",
   "en": "Burj Al 'Alali Street",
   "meaning": {
-    "ar": "«برج العلالي»: برج",
-    "en": "Burj Al 'Alali: tower"
+    "ar": "«العلالي» عَوالي الأماكنِ ومرتفعاتُها؛ ولعلّ البرج سُمّي بها.",
+    "en": "Al Alali are the high places and ridges; a plausible burj name."
   },
   "story": {
     "ar": "«العلالي» اسم موضع «برج» بُرْج، وليس كلمة تُفسَّر. وهو الشارع في فَلَج هَزَّاع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -70479,8 +70479,8 @@ window.STREETS = [
   "ar": "شارع برج الفلج",
   "en": "Burj Al Falaj Street",
   "meaning": {
-    "ar": "«برج الفلج»: بُرْجُ الفَلَج",
-    "en": "Burj Al Falaj: tower of irrigation channel"
+    "ar": "«الفَلَج» سَيْلُ الماء المَحْفُور؛ ولعلّ البرج سُمّي به.",
+    "en": "Al Falaj is the dug water channel; the burj may be named for it."
   },
   "story": {
     "ar": "بُرْج اسمه «برج» ومعناه «بُرْجُ الفَلَج»، و«الفلج» في الاسم. والشارع في القَطَّارَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -70495,8 +70495,8 @@ window.STREETS = [
   "ar": "شارع برج القلعة",
   "en": "Burj Al Qal'ah Street",
   "meaning": {
-    "ar": "«برج القلعة»: برج",
-    "en": "Burj Al Qal'ah: tower"
+    "ar": "«القلعة» الحصنُ المرتفع؛ ولعلّ البرج سُمّي بها.",
+    "en": "Al Qal'ah is the raised fortress; the burj may be named for it."
   },
   "story": {
     "ar": "الاسم «برج القلعة»: بُرْج، و«القلعة» اسم. وهذا الموضع أخذ منه اسم الشارع في هِيلِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -70511,8 +70511,8 @@ window.STREETS = [
   "ar": "شارع برج الليوار",
   "en": "Burj Al Liwar Street",
   "meaning": {
-    "ar": "«برج الليوار»: برج",
-    "en": "Burj Al Liwar: tower"
+    "ar": "«الليوار» اسمٌ لا يُفسَّر، والشارع في هِيلِي.",
+    "en": "Al Liwar is an unexplained proper name; the street lies in Hili."
   },
   "story": {
     "ar": "«برج» بُرْج، و«الليوار» اسمه، والاسم من أسماء المواضع. والاسم من أسماء المواضع، والشارع في هِيلِي، أبوظبي.",
@@ -70543,8 +70543,8 @@ window.STREETS = [
   "ar": "شارع بُرج المَقطَع",
   "en": "Burj Al Maqta' Street",
   "meaning": {
-    "ar": "«بُرج المَقطَع»: برج",
-    "en": "Burj Al Maqta': tower"
+    "ar": "«المَقطَع» المكانُ المقطوعُ أو المَقطع؛ ولعلّ البرج سُمّي به.",
+    "en": "Al Maqta' means the cut place; the burj may be named for it."
   },
   "story": {
     "ar": "«المَقطَع» من أسماء المواضع، و«بُرج» بُرْج يُنسب إليه. والشارع يقع في الظَّاهِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -70559,8 +70559,8 @@ window.STREETS = [
   "ar": "شارع برج النَّجدِي",
   "en": "Burj An Najdi Street",
   "meaning": {
-    "ar": "«برج النَّجدِي»: برج",
-    "en": "Burj An Najdi: tower"
+    "ar": "«النَّجدِي» نسبةٌ إلى نَجْد؛ ولعلّ البرج سُمّي بها.",
+    "en": "An Najdi is a nisbah to Najd; a plausible burj name."
   },
   "story": {
     "ar": "بُرْج يُسمى «برج»، و«النَّجدِي» اسم موضعه المألوف. وهو من الشوارع الظَّاهِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -70575,8 +70575,8 @@ window.STREETS = [
   "ar": "شارع برج النخل",
   "en": "Burj An Nakhl Street",
   "meaning": {
-    "ar": "«برج النخل»: برج",
-    "en": "Burj An Nakhl: tower"
+    "ar": "«النخل» جمعُ «نَخْلة»؛ ولعلّ البرج سُمّي بها.",
+    "en": "An Nakhil is the plural of palm trees; the burj may be named so."
   },
   "story": {
     "ar": "«النخل» اسم «برج النخل»، و«برج» بُرْج، والاسم مركّب. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -70591,8 +70591,8 @@ window.STREETS = [
   "ar": "شارع برج النَّهار",
   "en": "Burj An Nahar Street",
   "meaning": {
-    "ar": "«برج النَّهار»: برج",
-    "en": "Burj An Nahar: tower"
+    "ar": "«النَّهار» ضِدُّ الليل؛ ولعلّ البرج سُمّي بذلك.",
+    "en": "An Nahar means daytime against night; a plausible burj name."
   },
   "story": {
     "ar": "«برج» بُرْج، و«النَّهار» اسم يحمله الموضع. وتقع الشوارع التي تحمل هذا الاسم في زاخِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -70607,8 +70607,8 @@ window.STREETS = [
   "ar": "شارع برج الوسطاني",
   "en": "Burj Al Wastani Street",
   "meaning": {
-    "ar": "«برج الوسطاني»: برج",
-    "en": "Burj Al Wastani: tower"
+    "ar": "«الوسطاني» الأوسطُ في المكان؛ ولعلّ البرج سُمّي بذلك.",
+    "en": "Al Wasatani means the middle one; the burj may be named for position."
   },
   "story": {
     "ar": "اسم الموضع «برج» بُرْج، و«الوسطاني» اسم ذلك الموضع. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -70623,8 +70623,8 @@ window.STREETS = [
   "ar": "شارع برج بخوت",
   "en": "Burj Bakhout Street",
   "meaning": {
-    "ar": "«برج بخوت»: برج",
-    "en": "Burj Bakhout: tower"
+    "ar": "«بخوت» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في الشَّامْخَة.",
+    "en": "Bakhout is an unexplained proper name; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«بخوت» اسم يُضاف إلى «برج» بُرْج، ولا يُفسَّر بالمعجم. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -70639,8 +70639,8 @@ window.STREETS = [
   "ar": "شارع برج حصن فلي",
   "en": "Burj Hisn Fili Street",
   "meaning": {
-    "ar": "«برج حصن فلي»: برج",
-    "en": "Burj Hisn Fili: tower"
+    "ar": "«فِلِي» تصغيرُ الفَأْر في كلامهم؛ ولعلّ الحصن سُمّي به.",
+    "en": "Fili is a diminutive of the mouse in their speech; a plausible name."
   },
   "story": {
     "ar": "«برج حصن فلي» بُرْج، و«حصن فلي» اسم لا تُفسَّره المعاجم. وهذا الموضع أخذ منه اسم الشارع في شعبة الوُطَاه بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -70655,8 +70655,8 @@ window.STREETS = [
   "ar": "شارع برج خَت",
   "en": "Burj Khat Street",
   "meaning": {
-    "ar": "«برج خَت»: برج",
-    "en": "Burj Khat: tower"
+    "ar": "«خَت» اسمٌ مجهولُ التفسير، والبرجُ في مدينة محمد بن زايد.",
+    "en": "Khat is a name of unknown meaning; the burj stands in MBZ City."
   },
   "story": {
     "ar": "«خَت» اسم الموضع الذي فيه «برج» بُرْج، وليس كلمة تُفسَّر. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -70671,8 +70671,8 @@ window.STREETS = [
   "ar": "شارع برج خزام",
   "en": "Burj Khuzam Street",
   "meaning": {
-    "ar": "«برج خزام»: برج",
-    "en": "Burj Khuzam: tower"
+    "ar": "«خُزام» نبتٌ طيّبُ الرائحة؛ ولعلّ البرج سُمّي به.",
+    "en": "Khuzam is a fragrant plant; the burj may be named for it."
   },
   "story": {
     "ar": "«برج» بُرْج و«خزام» اسم علم للموضع لا يُفسَّر. والاسم من أسماء المواضع، والشارع في حلوان، الشارقة.",
@@ -70687,8 +70687,8 @@ window.STREETS = [
   "ar": "شارع برج دانق",
   "en": "Burj Daniq Street",
   "meaning": {
-    "ar": "«برج دانق»: برج",
-    "en": "Burj Daniq: tower"
+    "ar": "«دانق» أصغرُ أوزانِ الذَّهب؛ ولعلّ البرج سُمّي به.",
+    "en": "Daniq is the smallest weight of gold; a plausible burj name."
   },
   "story": {
     "ar": "«برج» بُرْج، و«دانق» يُنسب إليه اسم الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -70703,8 +70703,8 @@ window.STREETS = [
   "ar": "شارع برج مانع",
   "en": "Burj Mani' Street",
   "meaning": {
-    "ar": "«برج مانع»: برج",
-    "en": "Burj Mani': tower"
+    "ar": "«مانع» المانعُ أو الصارف؛ ولعلّ البرج سُمّي به.",
+    "en": "Mani' means the one who prevents; the burj may be named so."
   },
   "story": {
     "ar": "«برج» بُرْج في الموضع المعروف بـ«مانع». والشارع يقع في السَّعادة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -71855,8 +71855,8 @@ window.STREETS = [
   "ar": "دوار الخور",
   "en": "Al Khor Rounabout",
   "meaning": {
-    "ar": "«دوار الخور»: دَوَّارُ الخَوْر",
-    "en": "Al Khor Rounabout: creek roundabout"
+    "ar": "«الخور» المَدخلُ البحريُّ الضيّق؛ والدوار في الخور.",
+    "en": "Al Khor is the narrow sea inlet; the roundabout stands in it."
   },
   "story": {
     "ar": "«دوار» دَوَّار، ومعنى الاسم «دَوَّارُ الخَوْر»؛ و«الخور» في الاسم. والطريق في الخور، والاسم من أسماء المواضع في إمارة أم القيوين.",
@@ -72015,8 +72015,8 @@ window.STREETS = [
   "ar": "دوار القصر",
   "en": "Al Qaser Roundabout",
   "meaning": {
-    "ar": "«دوار القصر»: دَوَّارُ القَصْر",
-    "en": "Al Qaser Roundabout: palace roundabout"
+    "ar": "«القصر» البِناءُ الشاهقُ أو المَسكن؛ والدوار في الظيت الشمالي.",
+    "en": "Al Qasr is the tall building or dwelling; the roundabout lies in north Al Dhait."
   },
   "story": {
     "ar": "معنى «دوار القصر» هو «دَوَّارُ القَصْر»؛ و«دوار» دَوَّار. وهذا الموضع أخذ منه اسم الطريق في الظيت الشمالي بإمارة رأس الخيمة، وليس كلمة تُفسَّر.",
@@ -72047,8 +72047,8 @@ window.STREETS = [
   "ar": "دوار المصلى",
   "en": "Al Musalla Roundabout",
   "meaning": {
-    "ar": "«دوار المصلى»: دَوَّارُ المُصَلَّى",
-    "en": "Al Musalla Roundabout: prayer ground roundabout"
+    "ar": "«المُصَلَّى» موضعُ الصَّلاة؛ والدوار في الحوية.",
+    "en": "Al Musalla is the prayer ground; the roundabout lies in Al Huwayyah."
   },
   "story": {
     "ar": "الاسم «دوار المصلى» دَوَّار، ومعناه «دَوَّارُ المُصَلَّى». والاسم من أسماء المواضع، والطريق في الحوية، أم القيوين.",
@@ -72063,8 +72063,8 @@ window.STREETS = [
   "ar": "دوار المطار",
   "en": "Airport Roundabout",
   "meaning": {
-    "ar": "«دوار المطار»: دَوَّارُ المَطَار",
-    "en": "Airport Roundabout: airport roundabout"
+    "ar": "«المَطَار» مَوضِعُ الطيران؛ والدوار في مطار العين.",
+    "en": "Al Matar is the airfield; the roundabout stands at Al Ain Airport."
   },
   "story": {
     "ar": "«دوار» دَوَّار ومعنى «المطار» فيه «دَوَّارُ المَطَار». والاسم من أسماء المواضع التي تُنسب إليها الطرق في أبوظبي، والطريق في مطار العين الدولي.",
@@ -72159,8 +72159,8 @@ window.STREETS = [
   "ar": "شارع الحد",
   "en": "Al Hadd Street",
   "meaning": {
-    "ar": "«الحد»: حد",
-    "en": "Al Hadd: limit"
+    "ar": "«الحَدّ» النِّهايةُ أو الفصلُ بين شيئين؛ والشارع في جميرا.",
+    "en": "Al Hadd is the boundary between two things; the street lies in Jumeirah."
   },
   "story": {
     "ar": "«الحد» حَدّ، والاسم مأخوذ من هذه الكلمة. والشارع في جميرا، والاسم من أسماء المواضع في إمارة دبي.",
@@ -72175,8 +72175,8 @@ window.STREETS = [
   "ar": "شارع الحَد",
   "en": "Al Had Street",
   "meaning": {
-    "ar": "«الحَد»: حد",
-    "en": "Al Had: limit"
+    "ar": "«الحَدّ» الغايةُ والمنتهى؛ والشارع في الخَالِدية.",
+    "en": "Al Hadd is the limit and end; the street lies in Al Khalidiyah."
   },
   "story": {
     "ar": "الاسم «الحَد» حَدّ، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الخَالِدية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -72191,8 +72191,8 @@ window.STREETS = [
   "ar": "شارع الحَد الغَربِي",
   "en": "Al Had Al Gharbi Street",
   "meaning": {
-    "ar": "«الحَد الغَربِي»: حد",
-    "en": "Al Had Al Gharbi: limit"
+    "ar": "«الغَربِي» من الغَرب؛ ولعلّ الحَدّ سُمّي بموقعه.",
+    "en": "Al Gharbi means the western one; the boundary may be named for its site."
   },
   "story": {
     "ar": "«الحَد» حَدّ، و«الغَربِي» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في نِعْمة من إمارة أبوظبي.",
@@ -72207,8 +72207,8 @@ window.STREETS = [
   "ar": "شارع حِد أم الكِيزان",
   "en": "Hid Um Al Keezan Street",
   "meaning": {
-    "ar": "«حِد أم الكِيزان»: حد",
-    "en": "Hid Um Al Keezan: limit"
+    "ar": "«الكِيزان» جِرارُ الماء أو أوعيتُه؛ ولعلّ الموضع سُمّي بها.",
+    "en": "Al Kizan are water jars or vessels; the place may be named for them."
   },
   "story": {
     "ar": "«حِد» حَدّ، و«أم الكِيزان» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّوامخ.",
@@ -72223,8 +72223,8 @@ window.STREETS = [
   "ar": "شارع حَد التلَّاي",
   "en": "Had At Tallay Street",
   "meaning": {
-    "ar": "«حَد التلَّاي»: حد",
-    "en": "Had At Tallay: limit"
+    "ar": "«التلَّاي» اسمٌ لا يُفسَّر، والشارع في هِيلِي.",
+    "en": "At Tallay is an unexplained proper name; the street lies in Hili."
   },
   "story": {
     "ar": "«التلَّاي» اسم الموضع في «حَد»؛ و«حَد» حَدّ. والشارع يقع في هِيلِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -72239,8 +72239,8 @@ window.STREETS = [
   "ar": "شارع حَد الحاير",
   "en": "Had Al Hayir Street",
   "meaning": {
-    "ar": "«حَد الحاير»: حد",
-    "en": "Had Al Hayir: limit"
+    "ar": "«الحاير» الحائِرُ أو المَحوَر؛ ولعلّ الحَدّ سُمّي به.",
+    "en": "Al Hayir means the bewildered or enclosed; a plausible boundary name."
   },
   "story": {
     "ar": "حَدّ اسمه «حَد»، و«الحاير» اسم يُنسب إليه. وهو من الشوارع الظَّاهِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -72255,8 +72255,8 @@ window.STREETS = [
   "ar": "شارع حَد الدَّقَل",
   "en": "Had Al Daqal Street",
   "meaning": {
-    "ar": "«حَد الدَّقَل»: حد",
-    "en": "Had Al Daqal: limit"
+    "ar": "«الدَّقَل» ساقُ النَّخلة؛ ولعلّ الحَدّ سُمّي به.",
+    "en": "Ad Daql is the palm trunk; the boundary may be named for it."
   },
   "story": {
     "ar": "«الدَّقَل» اسم الموضع، و«حَد» حَدّ من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -72271,8 +72271,8 @@ window.STREETS = [
   "ar": "شارع حَد الطَّير",
   "en": "Had At Tayr Street",
   "meaning": {
-    "ar": "«حَد الطَّير»: حد",
-    "en": "Had At Tayr: limit"
+    "ar": "«الطَّير» جمعُ «طائر»؛ ولعلّ الحَدّ سُمّي بها.",
+    "en": "At Tayr is the plural of birds; the boundary may be named for them."
   },
   "story": {
     "ar": "«حَد» حَدّ، و«الطَّير» اسم يُنسب إليه الموضع. وتقع الشوارع التي تحمل هذا الاسم في المرْفَأ بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -72287,8 +72287,8 @@ window.STREETS = [
   "ar": "شارع حَد الطَّيْر",
   "en": "Had Al Tayr Street",
   "meaning": {
-    "ar": "«حَد الطَّيْر»: حد",
-    "en": "Had Al Tayr: limit"
+    "ar": "«الطَّيْر» الطيورُ التي تحلّق؛ والشارع في المَقَام.",
+    "en": "At Tayr means the flying birds; the street lies in Al Maqam."
   },
   "story": {
     "ar": "«الطَّيْر» اسم لا يُفسَّر بالمعجم، و«حَد» حَدّ. وهو الشارع في المَقَام، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -72303,8 +72303,8 @@ window.STREETS = [
   "ar": "شارع حَد الطَّيف",
   "en": "Had At Tayf Street",
   "meaning": {
-    "ar": "«حَد الطَّيف»: حد",
-    "en": "Had At Tayf: limit"
+    "ar": "«الطَّيف» الخَيالُ أو الظِّلّ؛ ولعلّ الحَدّ سُمّي به.",
+    "en": "At Tayf is the apparition or shade; a plausible boundary name."
   },
   "story": {
     "ar": "حَدّ «حَد»، و«الطَّيف» اسمه الذي يُنسب إليه. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -72319,8 +72319,8 @@ window.STREETS = [
   "ar": "شارع حَد الغِبَيم",
   "en": "Had Al Ghibaym Street",
   "meaning": {
-    "ar": "«حَد الغِبَيم»: حد",
-    "en": "Had Al Ghibaym: limit"
+    "ar": "«الغِبَيم» اسمٌ مجهولُ التفسير، والشارع في مدينة شخبوط.",
+    "en": "Al Ghibaym is a name of unknown meaning; the street lies in Shakhbout City."
   },
   "story": {
     "ar": "«حَد» حَدّ، و«الغِبَيم» اسم للموضع لا للكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة شخبوط بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -72335,8 +72335,8 @@ window.STREETS = [
   "ar": "شارع حَد الفِرَيضة",
   "en": "Had Al Firaydah Street",
   "meaning": {
-    "ar": "«حَد الفِرَيضة»: حد",
-    "en": "Had Al Firaydah: limit"
+    "ar": "«الفِرَيضة» النَّصيبُ المفروض؛ ولعلّ الحَدّ سُمّي بها.",
+    "en": "Al Firaydah is the allotted obligatory share; a plausible boundary name."
   },
   "story": {
     "ar": "«الفِرَيضة» اسم موضع «حَد» حَدّ، وليس كلمة تُفسَّر. والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -72351,8 +72351,8 @@ window.STREETS = [
   "ar": "شارع حِد اللَّكِّيَّة",
   "en": "Hid Al Lakkiyah Street",
   "meaning": {
-    "ar": "«حِد اللَّكِّيَّة»: حد",
-    "en": "Hid Al Lakkiyah: limit"
+    "ar": "«اللَّكِّيَّة» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في السَّلاَمَات.",
+    "en": "Al Lakkiyyah is an unexplained proper name; the street lies in Al Salamat."
   },
   "story": {
     "ar": "الاسم «حِد اللَّكِّيَّة»: حَدّ، و«اللَّكِّيَّة» اسم. والاسم من أسماء المواضع، والشارع في السَّلاَمَات، أبوظبي.",
@@ -72367,8 +72367,8 @@ window.STREETS = [
   "ar": "شارع حَد المَبرَدة",
   "en": "Had Al Mabradah Street",
   "meaning": {
-    "ar": "«حَد المَبرَدة»: حد",
-    "en": "Had Al Mabradah: limit"
+    "ar": "«المَبرَدة» المِبرَدُ أو مَوضعُ التبريد؛ ولعلّ الحَدّ سُمّي بها.",
+    "en": "Al Mabradah is the file or cooling place; a plausible boundary name."
   },
   "story": {
     "ar": "«حَد» حَدّ، و«المَبرَدة» اسمه، والاسم من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّارُوج.",
@@ -72383,8 +72383,8 @@ window.STREETS = [
   "ar": "شارع حَد المِشَد",
   "en": "Had Al Mishad Street",
   "meaning": {
-    "ar": "«حَد المِشَد»: حد",
-    "en": "Had Al Mishad: limit"
+    "ar": "«المِشَد» لا يُفسَّر في المعاجم، والشارع في البطين.",
+    "en": "Al Mishad is unexplained in the lexicons; the street lies in Al Bateen."
   },
   "story": {
     "ar": "«المِشَد» من أسماء المواضع، و«حَد» حَدّ يُنسب إليه. والشارع يقع في البطين من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -72399,8 +72399,8 @@ window.STREETS = [
   "ar": "شارع حَد المُصلال",
   "en": "Had Al Muslal Street",
   "meaning": {
-    "ar": "«حَد المُصلال»: حد",
-    "en": "Had Al Muslal: limit"
+    "ar": "«المُصلال» اسمٌ مجهولُ التفسير، والشارع في بني ياس.",
+    "en": "Al Muslal is a name of unknown meaning; the street lies in Bani Yas."
   },
   "story": {
     "ar": "حَدّ يُسمى «حَد»، و«المُصلال» اسم موضعه المألوف. وهو من الشوارع بني ياس في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -72415,8 +72415,8 @@ window.STREETS = [
   "ar": "شارع حَد الوَسَب",
   "en": "Had Al Wasab Street",
   "meaning": {
-    "ar": "«حَد الوَسَب»: حد",
-    "en": "Had Al Wasab: limit"
+    "ar": "«الوَسَب» الكَلأُ الرَّطْبُ أو المال؛ ولعلّ الحَدّ سُمّي به.",
+    "en": "Al Wasab is lush pasture or livestock; a plausible boundary name."
   },
   "story": {
     "ar": "«الوَسَب» اسم «حَد الوَسَب»، و«حَد» حَدّ، والاسم مركّب. والاسم يُنسب إلى موضع، والشارع في بني ياس من إمارة أبوظبي.",
@@ -72431,8 +72431,8 @@ window.STREETS = [
   "ar": "شارع حَد بُوصفَير",
   "en": "Had Bu Sfayr Street",
   "meaning": {
-    "ar": "«حَد بُوصفَير»: حد",
-    "en": "Had Bu Sfayr: limit"
+    "ar": "«بُوصفَير» لا تُفسِّره المعاجم، والشارع في غَنْتُوت.",
+    "en": "Bu Sfayr is left unexplained by the lexicons; the street lies in Ghantoot."
   },
   "story": {
     "ar": "«حَد» حَدّ، و«بُوصفَير» اسم يحمله الموضع. وتقع الشوارع التي تحمل هذا الاسم في غَنْتُوت بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -72447,8 +72447,8 @@ window.STREETS = [
   "ar": "شارع حَد سُوَأ",
   "en": "Had Suwa-a Street",
   "meaning": {
-    "ar": "«حَد سُوَأ»: حد",
-    "en": "Had Suwa-a: limit"
+    "ar": "«سُوَأ» اسمٌ مجهولُ التفسير، والشارع في الساد.",
+    "en": "Suwa' is a name of unknown meaning; the street lies in As Sad."
   },
   "story": {
     "ar": "اسم الموضع «حَد» حَدّ، و«سُوَأ» اسم ذلك الموضع. وهو الشارع في الساد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -72463,8 +72463,8 @@ window.STREETS = [
   "ar": "شارع حَد شِراع",
   "en": "Had Shira' Street",
   "meaning": {
-    "ar": "«حَد شِراع»: حد",
-    "en": "Had Shira': limit"
+    "ar": "«شِراع» جَنَاحُ السَّفينة؛ ولعلّ الحَدّ سُمّي به.",
+    "en": "Shira' is the ship's sail; the boundary may be named for it."
   },
   "story": {
     "ar": "«شِراع» اسم يُضاف إلى «حَد» حَدّ، ولا يُفسَّر بالمعجم. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -72815,8 +72815,8 @@ window.STREETS = [
   "ar": "شارع الحصن",
   "en": "Al Hisn Street",
   "meaning": {
-    "ar": "«الحصن»: حصن",
-    "en": "Al Hisn: fort"
+    "ar": "«الحصن» البِناءُ المُحصَّن؛ والشارع في السوق الكبير.",
+    "en": "Al Hisn is the fortified building; the street lies in Al Souk Al Kabir."
   },
   "story": {
     "ar": "«الحصن» حِصن، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السوق الكبير، دبي.",
@@ -72831,8 +72831,8 @@ window.STREETS = [
   "ar": "شارع الحصن",
   "en": "Al Hason Street",
   "meaning": {
-    "ar": "«الحصن»: حصن",
-    "en": "Al Hason: fort"
+    "ar": "الحِصنُ بِناءٌ مَنيعٌ مُحصَّن؛ والشارع في المدينة القديمة.",
+    "en": "A hisn is a strong fortified building; the street lies in the Old City."
   },
   "story": {
     "ar": "الاسم «الحصن» حِصن، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في المدينة القديمة.",
@@ -72847,8 +72847,8 @@ window.STREETS = [
   "ar": "شارع الحِصن",
   "en": "Al Hisn Street",
   "meaning": {
-    "ar": "«الحِصن»: حصن",
-    "en": "Al Hisn: fort"
+    "ar": "«الحِصن» من الحِصْنَة والمَنْعَة؛ والشارع في الحِصِن.",
+    "en": "Al Hisn derives from strength and resistance; the street lies in Al Hisn."
   },
   "story": {
     "ar": "«الحِصن» حِصن، والاسم هو الكلمة نفسها. والشارع يقع في الحِصِن من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -72863,8 +72863,8 @@ window.STREETS = [
   "ar": "شارع الحصن الشرقي",
   "en": "Al Husn Ash Sharqi Street",
   "meaning": {
-    "ar": "«الحصن الشرقي»: حصن",
-    "en": "Al Husn Ash Sharqi: fort"
+    "ar": "«الشرقي» من الشَّرق؛ ولعلّ الحصن سُمّي بموقعه.",
+    "en": "Ash Sharqi means the eastern one; the fort may be named for its site."
   },
   "story": {
     "ar": "«الحصن» حِصن، و«الشرقي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع الفُوعَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -72895,8 +72895,8 @@ window.STREETS = [
   "ar": "شارع حِصن الجاهِلِي",
   "en": "Hisn Al Jahili Street",
   "meaning": {
-    "ar": "«حِصن الجاهِلِي»: حصن",
-    "en": "Hisn Al Jahili: fort"
+    "ar": "«الجاهِلِي» نسبةٌ إلى الجاهِلِيَّة؛ ولعلّ الحصن سُمّي بها.",
+    "en": "Al Jahili is a nisbah to the pre-Islamic age; a plausible fort name."
   },
   "story": {
     "ar": "«الجاهِلِي» اسم الموضع في «حِصن»؛ و«حِصن» حِصن. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -72911,8 +72911,8 @@ window.STREETS = [
   "ar": "شارع حِصن الرَّابِي",
   "en": "Hisn Ar Rabi Street",
   "meaning": {
-    "ar": "«حِصن الرَّابِي»: حصن",
-    "en": "Hisn Ar Rabi: fort"
+    "ar": "«الرَّابِي» المرتفعُ السّامِي؛ ولعلّ الحصن سُمّي به.",
+    "en": "Ar Rabi means the elevated one; the fort may be named for height."
   },
   "story": {
     "ar": "حِصن اسمه «حِصن»، و«الرَّابِي» اسم يُنسب إليه. وهو الشارع في النَّهضة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -72927,8 +72927,8 @@ window.STREETS = [
   "ar": "شارع حِصن الشَّارِقة",
   "en": "Hisn Ash Shariqah Street",
   "meaning": {
-    "ar": "«حِصن الشَّارِقة»: حصن",
-    "en": "Hisn Ash Shariqah: fort"
+    "ar": "«الشَّارِقة» التي تَستَقبلُ الشَّرق؛ ولعلّ الحصن سُمّي بها.",
+    "en": "Ash Shariqah faces the east; the fort may be named for its aspect."
   },
   "story": {
     "ar": "«الشَّارِقة» اسم الموضع، و«حِصن» حِصن من أسماء المواضع. والشارع في الشَّوامخ، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -72943,8 +72943,8 @@ window.STREETS = [
   "ar": "شارع حِصن العانكة",
   "en": "Hisn Al 'Ankah Street",
   "meaning": {
-    "ar": "«حِصن العانكة»: حصن",
-    "en": "Hisn Al 'Ankah: fort"
+    "ar": "«العانكة» اسمٌ لا يُفسَّر، والشارع في رِمَاح.",
+    "en": "Al 'Ankah is an unexplained proper name; the street lies in Rimah."
   },
   "story": {
     "ar": "«حِصن» حِصن، و«العانكة» اسم يُنسب إليه الموضع. وهذا الموضع أخذ منه اسم الشارع في رِمَاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -72975,8 +72975,8 @@ window.STREETS = [
   "ar": "شارع حِصن المدام",
   "en": "Hisn Al Madam Street",
   "meaning": {
-    "ar": "«حِصن المدام»: حصن",
-    "en": "Hisn Al Madam: fort"
+    "ar": "«المَدام» الشَّرابُ أو الخمر؛ ولعلّ الحصن سُمّي بها.",
+    "en": "Al Madam is the drink or wine; a plausible fort name."
   },
   "story": {
     "ar": "«المدام» اسم لا يُفسَّر بالمعجم، و«حِصن» حِصن. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -72991,8 +72991,8 @@ window.STREETS = [
   "ar": "شارع حِصن المِزرَع",
   "en": "Hisn Al Mizra' Street",
   "meaning": {
-    "ar": "«حِصن المِزرَع»: حصن",
-    "en": "Hisn Al Mizra': fort"
+    "ar": "«المِزرَع» المَزرعةُ التي تُزرَع؛ ولعلّ الحصن سُمّي بها.",
+    "en": "Al Mizra' is the cultivated farm; the fort may be named for it."
   },
   "story": {
     "ar": "حِصن «حِصن»، و«المِزرَع» اسمه الذي يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في آل نَهيان.",
@@ -73007,8 +73007,8 @@ window.STREETS = [
   "ar": "شارع حِصن اليِزِيرة",
   "en": "Hisn Al Yizeerah Street",
   "meaning": {
-    "ar": "«حِصن اليِزِيرة»: حصن",
-    "en": "Hisn Al Yizeerah: fort"
+    "ar": "«اليِزِيرة» تصغيرُ «جَزيرة»؛ ولعلّ الحصن سُمّي بها.",
+    "en": "Al Yizeerah is a diminutive of island; a plausible fort name."
   },
   "story": {
     "ar": "«حِصن» حِصن، و«اليِزِيرة» اسم للموضع لا للكلمة. والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -73023,8 +73023,8 @@ window.STREETS = [
   "ar": "شارع حِصن خور كلباء",
   "en": "Hisn Khor Kalba Street",
   "meaning": {
-    "ar": "«حِصن خور كلباء»: حِصن",
-    "en": "Hisn Khor Kalba: fort of Kalba"
+    "ar": "لا يُفسَّر «خور كلباء» في المعاجم، والشارع في الشَّامْخَة.",
+    "en": "Khor Kalba is unexplained in the lexicons; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«خور كلباء» اسم موضع «حِصن» حِصن، وليس كلمة تُفسَّر. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -73039,8 +73039,8 @@ window.STREETS = [
   "ar": "شارع حِصن فِلِي",
   "en": "Hisn Filiy Street",
   "meaning": {
-    "ar": "«حِصن فِلِي»: حصن",
-    "en": "Hisn Filiy: fort"
+    "ar": "«فِلِي» تصغيرُ الفَأْر عندهم؛ والشارع في الصَّارُوج.",
+    "en": "Fili is a diminutive of the mouse in their speech; the street lies in Al Sarouj."
   },
   "story": {
     "ar": "الاسم «حِصن فِلِي»: حِصن، و«فِلِي» اسم. والاسم يُنسب إلى موضع، والشارع في الصَّارُوج من إمارة أبوظبي.",
@@ -73055,8 +73055,8 @@ window.STREETS = [
   "ar": "شارع حِصن كلباء",
   "en": "Hisn Kalba Street",
   "meaning": {
-    "ar": "«حِصن كلباء»: حِصن",
-    "en": "Hisn Kalba: fort of Kalba"
+    "ar": "«كلباء» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في المُنتَزه.",
+    "en": "Kalba is an unexplained proper name; the street lies in Al Muntazah."
   },
   "story": {
     "ar": "«حِصن» حِصن، و«كلباء» اسمه، والاسم من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في المُنتَزه بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -73071,8 +73071,8 @@ window.STREETS = [
   "ar": "شارع حِصن مُرَيجب",
   "en": "Hisn Murayjib Street",
   "meaning": {
-    "ar": "«حِصن مُرَيجب»: حصن",
-    "en": "Hisn Murayjib: fort"
+    "ar": "«مُرَيجب» تصغيرُ «رَجَب»؛ ولعلّ الحصن سُمّي به.",
+    "en": "Murayjib is a diminutive of Rajab; a plausible fort name."
   },
   "story": {
     "ar": "«مُرَيجب» من أسماء المواضع، و«حِصن» حِصن يُنسب إليه. وهو الشارع في المَسْعُودِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -73087,8 +73087,8 @@ window.STREETS = [
   "ar": "شارع حصن مزيد",
   "en": "Hisn Mezyad Street",
   "meaning": {
-    "ar": "«حصن مزيد»: حصن",
-    "en": "Hisn Mezyad: fort"
+    "ar": "«مزيد» المزيدُ والزيادة؛ والشارع في مَزْيَد.",
+    "en": "Mazyad means increase and addition; the street lies in Mazyad."
   },
   "story": {
     "ar": "حِصن يُسمى «حصن»، و«مزيد» اسم موضعه المألوف. والشارع في مَزْيَد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -73103,8 +73103,8 @@ window.STREETS = [
   "ar": "شارع حِصن نَصلة",
   "en": "Hisn Naslah Street",
   "meaning": {
-    "ar": "«حِصن نَصلة»: حصن",
-    "en": "Hisn Naslah: fort"
+    "ar": "«نَصلة» مِقدَمَةُ السَّهم؛ ولعلّ الحصن سُمّي بها.",
+    "en": "Naslah is the arrowhead; the fort may be named for it."
   },
   "story": {
     "ar": "«نَصلة» اسم «حِصن نَصلة»، و«حِصن» حِصن، والاسم مركّب. وهذا الموضع أخذ منه اسم الشارع في نِعْمة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -73407,8 +73407,8 @@ window.STREETS = [
   "ar": "طريق الحصن",
   "en": "Al Hisn Road",
   "meaning": {
-    "ar": "«الحصن»: حصن",
-    "en": "Al Hisn: fort"
+    "ar": "«الحصن» قِلعةٌ مَنيعةٌ مُحصَّنة؛ والطريق في سحيم.",
+    "en": "A hisn is a strong fortified fort; the road lies in Suhaim."
   },
   "story": {
     "ar": "كلمة «الحصن» معناها «حِصن»، والاسم منها. وهو الطريق في سحيم، والاسم من أسماء المواضع التي تعرفها رأس الخيمة.",
@@ -74303,8 +74303,8 @@ window.STREETS = [
   "ar": "شارع غابة الحلوه",
   "en": "Ghabat Al Hilwah Street",
   "meaning": {
-    "ar": "«غابة الحلوه»: غابة",
-    "en": "Ghabat Al Hilwah: forest"
+    "ar": "«الحلوه» الحُلوى أو الطَّيّبة؛ ولعلّ الغابة سُمّيَت بها.",
+    "en": "Al Hilwah is the sweet one; the forest may be named for it."
   },
   "story": {
     "ar": "«غابة» غَابَة، و«الحلوه» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في مدينة زايد، أبوظبي.",
@@ -74335,8 +74335,8 @@ window.STREETS = [
   "ar": "شارع غابة السَّعَدِيَّة",
   "en": "Ghabat As Sa'adiyah Street",
   "meaning": {
-    "ar": "«غابة السَّعَدِيَّة»: غابة",
-    "en": "Ghabat As Sa'adiyah: forest"
+    "ar": "«السَّعَدِيَّة» نسبةٌ إلى سَعْد؛ ولعلّ الغابة سُمّيَت بها.",
+    "en": "As Sa'adiyyah is a nisbah to Sa'd; a plausible forest name."
   },
   "story": {
     "ar": "«السَّعَدِيَّة» اسم الموضع في «غابة»؛ و«غابة» غَابَة. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -74351,8 +74351,8 @@ window.STREETS = [
   "ar": "شارع غابة الفَلاحِيَّة",
   "en": "Ghabat Al Falahiyah Street",
   "meaning": {
-    "ar": "«غابة الفَلاحِيَّة»: غابة",
-    "en": "Ghabat Al Falahiyah: forest"
+    "ar": "«الفَلاحِيَّة» من الفَلاحة والزَّراعة؛ ولعلّ الغابة سُمّيَت بها.",
+    "en": "Al Falahiyyah derives from farming and agriculture; a plausible name."
   },
   "story": {
     "ar": "غَابَة اسمه «غابة»، و«الفَلاحِيَّة» اسم يُنسب إليه. وهو من الشوارع هِيلِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -74367,8 +74367,8 @@ window.STREETS = [
   "ar": "شارع غابة المَرخِيَّة",
   "en": "Ghabat Al Markhiyah Street",
   "meaning": {
-    "ar": "«غابة المَرخِيَّة»: غابة",
-    "en": "Ghabat Al Markhiyah: forest"
+    "ar": "«المَرخِيَّة» نسبةٌ إلى المَرْخ شجرٍ من العَضاه؛ ولعلّ الغابة سُمّيَت بها.",
+    "en": "Al Markhiyyah is a nisbah to the markh shrub; a plausible forest name."
   },
   "story": {
     "ar": "«المَرخِيَّة» اسم الموضع، و«غابة» غَابَة من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في المَسْعُودِي من إمارة أبوظبي.",
@@ -74383,8 +74383,8 @@ window.STREETS = [
   "ar": "شارع غابة المَلش",
   "en": "Ghabat Al Malsh Street",
   "meaning": {
-    "ar": "«غابة المَلش»: غابة",
-    "en": "Ghabat Al Malsh: forest"
+    "ar": "«المَلش» لا يُفسَّر في المعاجم، والشارع في الصَّارُوج.",
+    "en": "Al Malsh is unexplained in the lexicons; the street lies in Al Sarouj."
   },
   "story": {
     "ar": "«غابة» غَابَة، و«المَلش» اسم يُنسب إليه الموضع. وتقع الشوارع التي تحمل هذا الاسم في الصَّارُوج بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -74399,8 +74399,8 @@ window.STREETS = [
   "ar": "شارع غابة المِلَيسا",
   "en": "Ghabat Al Mlaysa Street",
   "meaning": {
-    "ar": "«غابة المِلَيسا»: غابة",
-    "en": "Ghabat Al Mlaysa: forest"
+    "ar": "«المِلَيسا» لم تُثبَت معانيها في المعاجم، والشارع في الشَّامْخَة.",
+    "en": "Al Mlaysa has no established gloss; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«المِلَيسا» اسم لا يُفسَّر بالمعجم، و«غابة» غَابَة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -74431,8 +74431,8 @@ window.STREETS = [
   "ar": "شارع غابة الهَدوَانِيَّة",
   "en": "Ghabat Al Hadwaniyah Street",
   "meaning": {
-    "ar": "«غابة الهَدوَانِيَّة»: غابة",
-    "en": "Ghabat Al Hadwaniyah: forest"
+    "ar": "«الهَدوَانِيَّة» لم يَرِد في المعاجم، والشارع في فَلَج هَزَّاع.",
+    "en": "Al Hadwaniyyah is absent from the lexicons; the street lies in Falaj Hazza'."
   },
   "story": {
     "ar": "غَابَة «غابة»، و«الهَدوَانِيَّة» اسمه الذي يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في فَلَج هَزَّاع بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -74447,8 +74447,8 @@ window.STREETS = [
   "ar": "شارع غابة الهِيَيمة",
   "en": "Ghabat Al Hiyaymah Street",
   "meaning": {
-    "ar": "«غابة الهِيَيمة»: غابة",
-    "en": "Ghabat Al Hiyaymah: forest"
+    "ar": "«الهِيَيمة» تصغيرُ «هَيْمَة» من الهَيام؛ ولعلّ الغابة سُمّيَت بها.",
+    "en": "Al Hiyyamah is a diminutive of wilderness; a plausible forest name."
   },
   "story": {
     "ar": "«غابة» غَابَة، و«الهِيَيمة» اسم للموضع لا للكلمة. والاسم من أسماء المواضع، والشارع في القَطَّارَة، أبوظبي.",
@@ -74463,8 +74463,8 @@ window.STREETS = [
   "ar": "شارع غابة بِالحامِض",
   "en": "Ghabat Bilhamid Street",
   "meaning": {
-    "ar": "«غابة بِالحامِض»: غابة",
-    "en": "Ghabat Bilhamid: forest"
+    "ar": "«بِالحامِض» الحامضُ من الطُّعوم؛ ولعلّ الغابة سُمّيَت به.",
+    "en": "Bil Hamid is the sour one among tastes; a plausible forest name."
   },
   "story": {
     "ar": "«بِالحامِض» اسم موضع «غابة» غَابَة، وليس كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في سوِيحَان.",
@@ -74479,8 +74479,8 @@ window.STREETS = [
   "ar": "شارع غابة بِالقِيعان",
   "en": "Ghabat Bilqee'an Street",
   "meaning": {
-    "ar": "«غابة بِالقِيعان»: غابة",
-    "en": "Ghabat Bilqee'an: forest"
+    "ar": "«بِالقِيعان» جمعُ «قَعْر» من الأرض؛ ولعلّ الغابة سُمّيَت بها.",
+    "en": "Bil Qi'an is the plural of low plains; a plausible forest name."
   },
   "story": {
     "ar": "الاسم «غابة بِالقِيعان»: غَابَة، و«بِالقِيعان» اسم. والشارع يقع في السَّلاَمَات من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -74495,8 +74495,8 @@ window.STREETS = [
   "ar": "شارع غابة سَفران",
   "en": "Ghabat Safran Street",
   "meaning": {
-    "ar": "«غابة سَفران»: غابة",
-    "en": "Ghabat Safran: forest"
+    "ar": "«سَفران» لا تُفسِّره المعاجم، والشارع في الطِّوَيَّة.",
+    "en": "Safran is left unexplained by the lexicons; the street lies in Al Tiwayyah."
   },
   "story": {
     "ar": "«غابة» غَابَة، و«سَفران» اسمه، والاسم من أسماء المواضع. وهو من الشوارع الطِّوَيَّة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -74511,8 +74511,8 @@ window.STREETS = [
   "ar": "شارع غابة عَرفه",
   "en": "Ghabat 'Arfah Street",
   "meaning": {
-    "ar": "«غابة عَرفه»: غابة",
-    "en": "Ghabat 'Arfah: forest"
+    "ar": "«عَرفه» من العِرْف والمَعرِفة؛ ولعلّ الغابة سُمّيَت بها.",
+    "en": "Arfah derives from knowledge and recognition; a plausible forest name."
   },
   "story": {
     "ar": "«عَرفه» من أسماء المواضع، و«غابة» غَابَة يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في مَزْيَد من إمارة أبوظبي.",
@@ -74527,8 +74527,8 @@ window.STREETS = [
   "ar": "شارع غَابَة مِلَيسَة",
   "en": "Ghabat Milaysah Street",
   "meaning": {
-    "ar": "«غَابَة مِلَيسَة»: غابة",
-    "en": "Ghabat Milaysah: forest"
+    "ar": "«مِلَيسَة» لم تُثبَت معانيها في المعاجم، والشارع في الشهامة.",
+    "en": "Milaysah has no established gloss; the street lies in Al Shahamah."
   },
   "story": {
     "ar": "غَابَة يُسمى «غَابَة»، و«مِلَيسَة» اسم موضعه المألوف. وتقع الشوارع التي تحمل هذا الاسم في الشهامة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -74719,8 +74719,8 @@ window.STREETS = [
   "ar": "شارع قَلعة مَسافِي",
   "en": "Qal'at Masafi Street",
   "meaning": {
-    "ar": "«قَلعة مَسافِي»: قَلْعَة",
-    "en": "Qal'at Masafi: fortress of Masafi"
+    "ar": "«مَسافِي» لم يَرِد في المعاجم، والشارع في الشَّوامخ.",
+    "en": "Masafi is absent from the lexicons; the street lies in Al Shawamekh."
   },
   "story": {
     "ar": "الاسم «قَلعة مَسافِي»: قَلْعَة، و«مَسافِي» اسم. وهذا الموضع أخذ منه اسم الشارع في الشَّوامخ بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -74847,8 +74847,8 @@ window.STREETS = [
   "ar": "شارع نَجد المصَلِّي",
   "en": "Najd Al Msalli Street",
   "meaning": {
-    "ar": "«نَجد المصَلِّي»: نَجْدُ المُصَلَّى",
-    "en": "Najd Al Msalli: highland of prayer ground"
+    "ar": "«المصَلِّي» مُقِيمُ الصَّلاة؛ ولعلّ النَّجْد سُمّي به.",
+    "en": "Al Musalli is the one who prays; the highland may be named so."
   },
   "story": {
     "ar": "نَجْد اسمه «نَجد» ومعناه «نَجْدُ المُصَلَّى»، و«المصَلِّي» في الاسم. وهو الشارع في المُشرِف، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -75023,8 +75023,8 @@ window.STREETS = [
   "ar": "شارع هُور الأشخِر",
   "en": "Hor Al Ashkhir Street",
   "meaning": {
-    "ar": "«هُور الأشخِر»: هَوْرُ الأَشْخَر",
-    "en": "Hor Al Ashkhir: lagoon of the ashkhar shrub"
+    "ar": "«الأشخِر» نبتٌ مَرٌّ من العَضاه؛ ولعلّ الهَوْر سُمّي به.",
+    "en": "Al Ashkhar is a bitter desert shrub; the lagoon may be named for it."
   },
   "story": {
     "ar": "«هُور» هَوْر، ومعنى الاسم «هَوْرُ الأَشْخَر»؛ و«الأشخِر» في الاسم. والشارع في السَّعادة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -75967,8 +75967,8 @@ window.STREETS = [
   "ar": "شارع الجِبال",
   "en": "Al Jibal Street",
   "meaning": {
-    "ar": "«الجِبال»: جبال",
-    "en": "Al Jibal: mountains"
+    "ar": "«الجِبال» جمعُ «جَبَل»؛ والشارع في مدينة محمد بن زايد.",
+    "en": "Al Jibal is the plural of mountains; the street lies in MBZ City."
   },
   "story": {
     "ar": "«الجِبال» جِبَال، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -76111,8 +76111,8 @@ window.STREETS = [
   "ar": "شارع جِبال أَبو سليه",
   "en": "Jibal Abu Silyah Street",
   "meaning": {
-    "ar": "«جِبال أَبو سليه»: جبال",
-    "en": "Jibal Abu Silyah: mountains"
+    "ar": "«سُليه» الوَلَدُ الصغيرُ من الإبل؛ ولعلّ الجبال سُمّيَت به.",
+    "en": "Sulyah is the newborn camel-calf; the mountains may be named so."
   },
   "story": {
     "ar": "«جِبال» جِبَال، و«أَبو سليه» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الحِصِن بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -76127,8 +76127,8 @@ window.STREETS = [
   "ar": "شارع جِبال الحِشَّة",
   "en": "Jibal Al Hishah Street",
   "meaning": {
-    "ar": "«جِبال الحِشَّة»: جبال",
-    "en": "Jibal Al Hishah: mountains"
+    "ar": "«الحِشَّة» المتاعُ والأمتعة؛ ولعلّ الجبال سُمّيَت بها.",
+    "en": "Al Hishah is the baggage and gear; the mountains may be named so."
   },
   "story": {
     "ar": "«الحِشَّة» اسم الموضع في «جِبال»؛ و«جِبال» جِبَال. وهو الشارع في الفلاح، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -76143,8 +76143,8 @@ window.STREETS = [
   "ar": "شارع جِبال الحَمراه",
   "en": "Jibal Al Hamrah Street",
   "meaning": {
-    "ar": "«جِبال الحَمراه»: جبال",
-    "en": "Jibal Al Hamrah: mountains"
+    "ar": "«الحَمراه» أنثى الأحمر؛ ولعلّ الجبال سُمّيَت بلونها.",
+    "en": "Al Hamrah is the feminine of red; the mountains may be named for colour."
   },
   "story": {
     "ar": "جِبَال اسمه «جِبال»، و«الحَمراه» اسم يُنسب إليه. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -76159,8 +76159,8 @@ window.STREETS = [
   "ar": "شارع جِبال الحِيار",
   "en": "Jibal Al Hiyar Street",
   "meaning": {
-    "ar": "«جِبال الحِيار»: جبال",
-    "en": "Jibal Al Hiyar: mountains"
+    "ar": "«الحِيار» لا يُفسَّر في المعاجم، والشارع في الظَّاهِر.",
+    "en": "Al Hiyar is unexplained in the lexicons; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "«الحِيار» اسم الموضع، و«جِبال» جِبَال من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في الظَّاهِر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -76175,8 +76175,8 @@ window.STREETS = [
   "ar": "شارع جِبال السُّهُوب",
   "en": "Jibal As Suhoub Street",
   "meaning": {
-    "ar": "«جِبال السُّهُوب»: جبال",
-    "en": "Jibal As Suhoub: mountains"
+    "ar": "«السُّهُوب» جمعُ «سَهْب» من الأرض؛ ولعلّ الجبال سُمّيَت بها.",
+    "en": "As Suhub is the plural of open plains; a plausible mountains name."
   },
   "story": {
     "ar": "«جِبال» جِبَال، و«السُّهُوب» اسم يُنسب إليه الموضع. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -76191,8 +76191,8 @@ window.STREETS = [
   "ar": "شارع جِبال الصَّقُوع",
   "en": "Jibal As Saqou' Street",
   "meaning": {
-    "ar": "«جِبال الصَّقُوع»: جبال",
-    "en": "Jibal As Saqou': mountains"
+    "ar": "«الصَّقُوع» الجُرُفُ العاليةُ من الجبل؛ ولعلّ الجبال سُمّيَت بها.",
+    "en": "As Saqu' is the high cliff of a mountain; a plausible mountains name."
   },
   "story": {
     "ar": "«الصَّقُوع» اسم لا يُفسَّر بالمعجم، و«جِبال» جِبَال. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَنهَل.",
@@ -76207,8 +76207,8 @@ window.STREETS = [
   "ar": "شارع جِبال الضَّيبِي",
   "en": "Jibal Ad Daybi Street",
   "meaning": {
-    "ar": "«جِبال الضَّيبِي»: جبال",
-    "en": "Jibal Ad Daybi: mountains"
+    "ar": "«الضَّيبِي» لا تُفسِّره المعاجم، والشارع في النَّهضة.",
+    "en": "Ad Daybi is left unexplained by the lexicons; the street lies in Al Nahdah."
   },
   "story": {
     "ar": "جِبَال «جِبال»، و«الضَّيبِي» اسمه الذي يُنسب إليه. والشارع يقع في النَّهضة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -76223,8 +76223,8 @@ window.STREETS = [
   "ar": "شارع جِبال الغِلَّان",
   "en": "Jibal Al Ghillan Street",
   "meaning": {
-    "ar": "«جِبال الغِلَّان»: جِبَالُ الغِلَّان",
-    "en": "Jibal Al Ghillan: mountains of small watercourses"
+    "ar": "«الغِلَّان» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في العامرة.",
+    "en": "Al Ghillan is an unexplained proper name; the street lies in Al Amerah."
   },
   "story": {
     "ar": "«جِبال» جِبَال، ومعنى الاسم «جِبَالُ الغِلَّان»؛ و«الغِلَّان» في الاسم. وهو من الشوارع العامرة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -76271,8 +76271,8 @@ window.STREETS = [
   "ar": "شارع جِبال المَصالِيل",
   "en": "Jibal Al Masaleel Street",
   "meaning": {
-    "ar": "«جِبال المَصالِيل»: جبال",
-    "en": "Jibal Al Masaleel: mountains"
+    "ar": "«المَصالِيل» ليس في المعاجم، والشارع في الظَّاهِر.",
+    "en": "Al Masaleel is not found in the lexicons; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "«جِبال» جِبَال، و«المَصالِيل» اسم للموضع لا للكلمة. والاسم من أسماء المواضع، والشارع في الظَّاهِر، أبوظبي.",
@@ -76287,8 +76287,8 @@ window.STREETS = [
   "ar": "شارع جِبال شُوما",
   "en": "Jibal Shouma Street",
   "meaning": {
-    "ar": "«جِبال شُوما»: جبال",
-    "en": "Jibal Shouma: mountains"
+    "ar": "«شُوما» لا يُفسَّر في المعاجم، والشارع في الصَّارُوج.",
+    "en": "Shouma is unexplained in the lexicons; the street lies in Al Sarouj."
   },
   "story": {
     "ar": "«شُوما» اسم موضع «جِبال» جِبَال، وليس كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّارُوج.",
@@ -77279,8 +77279,8 @@ window.STREETS = [
   "ar": "ميدان الزهراء",
   "en": "Al Zahra'a Square",
   "meaning": {
-    "ar": "«ميدان الزهراء»: مَيْدَانُ الزَّهْرَاء",
-    "en": "Al Zahra'a Square: al-Zahra square"
+    "ar": "«الزهراء» المُزهرةُ البيضاءُ النّضرة؛ والميدانُ في الشرق.",
+    "en": "Az Zahra is the blooming radiant one; the square lies in Ash Sharq."
   },
   "story": {
     "ar": "«ميدان» مَيْدَان، ومعنى الاسم «مَيْدَانُ الزَّهْرَاء»؛ و«الزهراء» في الاسم. وتقع الطرق التي تحمل هذا الاسم في الشرق بإمارة الشارقة، والاسم من أسماء المواضع.",
@@ -77359,8 +77359,8 @@ window.STREETS = [
   "ar": "ميدان خورفكان",
   "en": "Khorfakkan Square",
   "meaning": {
-    "ar": "«ميدان خورفكان»: مَيْدَانُ خُورَفَكَّان",
-    "en": "Khorfakkan Square: Khor Fakkan square"
+    "ar": "«خورفكان» لم يَرِد في المعاجم، والميدانُ في خورفكان.",
+    "en": "Khor Fakkan is absent from the lexicons; the square stands in it."
   },
   "story": {
     "ar": "مَيْدَان اسمه «ميدان» ومعناه «مَيْدَانُ خُورَفَكَّان»، و«خورفكان» في الاسم. والاسم من أسماء المواضع التي تُنسب إليها الطرق في الشارقة، والطريق في خورفكان.",
@@ -77423,8 +77423,8 @@ window.STREETS = [
   "ar": "شارع السد",
   "en": "Al Sad Street",
   "meaning": {
-    "ar": "«السد»: سد",
-    "en": "Al Sad: dam, dike"
+    "ar": "«السد» الحاجزُ بين الماء والأرض؛ والشارع في الرملة.",
+    "en": "As Sadd is the barrier holding back water; the street lies in Ar Rumlah."
   },
   "story": {
     "ar": "«السد» سَدّ، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الرملة بإمارة أم القيوين، والاسم من أسماء المواضع.",
@@ -77439,8 +77439,8 @@ window.STREETS = [
   "ar": "شارع السَّد",
   "en": "As Sad Street",
   "meaning": {
-    "ar": "«السَّد»: سد",
-    "en": "As Sad: dam, dike"
+    "ar": "«السَّد» الجِدارُ المانعُ للماء؛ والشارع في حَدْبَة الزَّعْفَرَانَة.",
+    "en": "As Sadd is the wall that holds water; the street lies in Hadbat Al Za'faranah."
   },
   "story": {
     "ar": "الاسم «السَّد» سَدّ، وليس مركّباً. وهو الشارع في حَدْبَة الزَّعْفَرَانَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -77679,8 +77679,8 @@ window.STREETS = [
   "ar": "شارع سَد تَوِيَن",
   "en": "Sad Tawiyan Street",
   "meaning": {
-    "ar": "«سَد تَوِيَن»: سد",
-    "en": "Sad Tawiyan: dam, dike"
+    "ar": "«تَوِيَن» لم يَرِد في المعاجم، والشارع في مدينة شخبوط.",
+    "en": "Tawiyan is absent from the lexicons; the street lies in Shakhbout City."
   },
   "story": {
     "ar": "«سَد» سَدّ، و«تَوِيَن» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في مدينة شخبوط بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -77695,8 +77695,8 @@ window.STREETS = [
   "ar": "شارع سَد ثيب",
   "en": "Sad Theeb Street",
   "meaning": {
-    "ar": "«سَد ثيب»: سد",
-    "en": "Sad Theeb: dam, dike"
+    "ar": "«ثيب» لم تُثبَت معانيه في المعاجم، والشارع في الفلاح.",
+    "en": "Theeb has no established gloss; the street lies in Al Falah."
   },
   "story": {
     "ar": "«ثيب» اسم الموضع في «سَد»؛ و«سَد» سَدّ. والاسم من أسماء المواضع، والشارع في الفلاح، أبوظبي.",
@@ -77711,8 +77711,8 @@ window.STREETS = [
   "ar": "شارع سَد حَتَّا",
   "en": "Sad Hatta Street",
   "meaning": {
-    "ar": "«سَد حَتَّا»: سد",
-    "en": "Sad Hatta: dam, dike"
+    "ar": "«حَتَّا» لم يُفسِّر اللغويون، والشارع في زاخِر.",
+    "en": "Hatta is left unexplained by linguists; the street lies in Zakhir."
   },
   "story": {
     "ar": "سَدّ اسمه «سَد»، و«حَتَّا» اسم يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في زاخِر.",
@@ -77727,8 +77727,8 @@ window.STREETS = [
   "ar": "شارع سَد دَلَم",
   "en": "Sad Dalam Street",
   "meaning": {
-    "ar": "«سَد دَلَم»: سد",
-    "en": "Sad Dalam: dam, dike"
+    "ar": "«دَلَم» لا يُفسَّر في المعاجم، والشارع في نَاهِل.",
+    "en": "Dalam is unexplained in the lexicons; the street lies in Nahil."
   },
   "story": {
     "ar": "«دَلَم» اسم الموضع، و«سَد» سَدّ من أسماء المواضع. والشارع يقع في نَاهِل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -77743,8 +77743,8 @@ window.STREETS = [
   "ar": "شارع سَد رَكِب",
   "en": "Sad Rakib Street",
   "meaning": {
-    "ar": "«سَد رَكِب»: سد",
-    "en": "Sad Rakib: dam, dike"
+    "ar": "«رَكِب» الرُّكُوبُ أو المَرْكَب؛ ولعلّ السَّدّ سُمّي به.",
+    "en": "Rakib means riding or a mount; the dam may be named so."
   },
   "story": {
     "ar": "«سَد» سَدّ، و«رَكِب» اسم يُنسب إليه الموضع. وهو من الشوارع غْنَيْمَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -77759,8 +77759,8 @@ window.STREETS = [
   "ar": "شارع سَد سِج",
   "en": "Sad Sij Street",
   "meaning": {
-    "ar": "«سَد سِج»: سد",
-    "en": "Sad Sij: dam, dike"
+    "ar": "«سِج» اسمٌ مجهولُ التفسير، والشارع في المَسْعُودِي.",
+    "en": "Sij is a name of unknown meaning; the street lies in Al Mas'oudi."
   },
   "story": {
     "ar": "«سِج» اسم لا يُفسَّر بالمعجم، و«سَد» سَدّ. والاسم يُنسب إلى موضع، والشارع في المَسْعُودِي من إمارة أبوظبي.",
@@ -77775,8 +77775,8 @@ window.STREETS = [
   "ar": "شارع سَد مِربة",
   "en": "Sad Mirbah Street",
   "meaning": {
-    "ar": "«سَد مِربة»: سد",
-    "en": "Sad Mirbah: dam, dike"
+    "ar": "«مِربة» اسمٌ لا يُفسَّر، والشارع في مدينة محمد بن زايد.",
+    "en": "Mirbah is an unexplained proper name; the street lies in MBZ City."
   },
   "story": {
     "ar": "سَدّ «سَد»، و«مِربة» اسمه الذي يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -77791,8 +77791,8 @@ window.STREETS = [
   "ar": "شارع سَد وُرَية",
   "en": "Sad Wurayah Street",
   "meaning": {
-    "ar": "«سَد وُرَية»: سد",
-    "en": "Sad Wurayah: dam, dike"
+    "ar": "«وُرَية» لم يَرِد في المعاجم، والشارع في الشَّامْخَة.",
+    "en": "Wurayah is absent from the lexicons; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«سَد» سَدّ، و«وُرَية» اسم للموضع لا للكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -77839,8 +77839,8 @@ window.STREETS = [
   "ar": "شارع فَلَج الذِّيد",
   "en": "Falaj Adh Dheed Street",
   "meaning": {
-    "ar": "«فَلَج الذِّيد»: فَلَج",
-    "en": "Falaj Adh Dheed: an irrigation channel"
+    "ar": "«الذِّيد» اسمٌ لا يُفسَّر، والشارع في الشَّامْخَة.",
+    "en": "Adh Dhaid is an unexplained proper name; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "فَلَج اسمه «فَلَج»، و«الذِّيد» اسم يُنسب إليه. والاسم من أسماء المواضع، والشارع في الشَّامْخَة، أبوظبي.",
@@ -77855,8 +77855,8 @@ window.STREETS = [
   "ar": "شارع فَلَج الذِّيْد",
   "en": "Falaj Al Dheed Street",
   "meaning": {
-    "ar": "«فَلَج الذِّيْد»: فَلَج",
-    "en": "Falaj Al Dheed: irrigation channel of Al Dhaid"
+    "ar": "«الذِّيْد» لا تُفسِّره المعاجم، والشارع في غْنَيْمَة.",
+    "en": "Adh Dhaid is left unexplained by the lexicons; the street lies in Ghunaymah."
   },
   "story": {
     "ar": "«الذِّيْد» اسم الموضع، و«فَلَج» فَلَج من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في غْنَيْمَة.",
@@ -77935,8 +77935,8 @@ window.STREETS = [
   "ar": "شارع فَلَج هيلي",
   "en": "Falaj Hili Street",
   "meaning": {
-    "ar": "«فَلَج هيلي»: فَلَج",
-    "en": "Falaj Hili: irrigation channel of Hili"
+    "ar": "«هيلي» اسمٌ مجهولُ التفسير، والشارع في هِيلِي.",
+    "en": "Hili is a name of unknown meaning; the street lies in Hili."
   },
   "story": {
     "ar": "«فَلَج» فَلَج، و«هيلي» اسم للموضع لا للكلمة. وهو الشارع في هِيلِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -77951,8 +77951,8 @@ window.STREETS = [
   "ar": "طريق سدّ وادي البصيرة",
   "en": "Al Besseirah Dam Road",
   "meaning": {
-    "ar": "«سدّ وادي البصيرة»: سد",
-    "en": "Al Besseirah Dam Road: dam, dike"
+    "ar": "«البَصيرة» البَصِيرَةُ والمَعرِفة؛ والطريق في البصيرة.",
+    "en": "Al Basirah means insight and knowledge; the road lies in Al Basirah."
   },
   "story": {
     "ar": "سَدّ هو «سدّ»، و«وادي البصيرة» اسم يُنسب إليه. والطريق في البصيرة، والاسم من أسماء المواضع في إمارة الفجيرة.",
@@ -77967,8 +77967,8 @@ window.STREETS = [
   "ar": "طريق سدّ وادي البصيرة",
   "en": "Wadi Al Besseirah Dam Road",
   "meaning": {
-    "ar": "«سدّ وادي البصيرة»: سد",
-    "en": "Wadi Al Besseirah Dam Road: dam, dike"
+    "ar": "«البَصيرة» من البَصَرِ والمَعرِفة؛ والطريق في الحلاة.",
+    "en": "Al Basirah derives from sight and knowledge; the road lies in Al Halah."
   },
   "story": {
     "ar": "«وادي البصيرة» اسم الموضع، و«سدّ» سَدّ. وهذا الموضع أخذ منه اسم الطريق في الحلاة بإمارة الفجيرة، وليس كلمة تُفسَّر.",
@@ -78175,8 +78175,8 @@ window.STREETS = [
   "ar": "الجسر العائم",
   "en": "Floating Bridge",
   "meaning": {
-    "ar": "«الجسر العائم»: جسر",
-    "en": "Floating Bridge: bridge"
+    "ar": "«العائم» الذي يَسْبُحُ على الماء؛ والجسرُ في أم هرير.",
+    "en": "Al 'A'im floats on water; the bridge stands in Umm Hurair."
   },
   "story": {
     "ar": "«الجسر» جِسْر، و«العائم» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الطرق في دبي، والطريق في أم هرير.",
@@ -78191,8 +78191,8 @@ window.STREETS = [
   "ar": "جسر آل مكتوم",
   "en": "Al Maktoum Bridge",
   "meaning": {
-    "ar": "«جسر آل مكتوم»: جسر",
-    "en": "Al Maktoum Bridge: bridge"
+    "ar": "«مكتوم» اسمٌ عَلَمٌ لا يُفسَّر، والجسرُ في رقة البطين.",
+    "en": "Maktoum is an unexplained proper name; the bridge stands in Raqqat Al Bateen."
   },
   "story": {
     "ar": "«آل مكتوم» اسم الموضع في «جسر»؛ و«جسر» جِسْر. والطريق يقع في رقة البطين من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -78207,8 +78207,8 @@ window.STREETS = [
   "ar": "جسر إنفينيتي",
   "en": "Infinity Bridge",
   "meaning": {
-    "ar": "«جسر إنفينيتي»: جسر",
-    "en": "Infinity Bridge: bridge"
+    "ar": "«إنفينيتي» اسمٌ أعجميٌّ معناه اللانهاية؛ والجسرُ في كورنيش ديرة.",
+    "en": "Infinity is a foreign word meaning endlessness; the bridge stands on Deira Corniche."
   },
   "story": {
     "ar": "جِسْر هو «جسر»، و«إنفينيتي» اسم يُنسب إليه. وهو من الطرق كورنيش ديرة في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -78271,8 +78271,8 @@ window.STREETS = [
   "ar": "جسر المدفق",
   "en": "Mdfaaq Bridge",
   "meaning": {
-    "ar": "«جسر المدفق»: جسر",
-    "en": "Mdfaaq Bridge: bridge"
+    "ar": "«المَدْفَق» مَوضِعُ الاندِفَاق؛ والجسرُ في المدفق.",
+    "en": "Al Madfaq is the pouring place; the bridge stands there."
   },
   "story": {
     "ar": "«المدفق» اسم الموضع، و«جسر» جِسْر. والطريق في المدفق، والاسم من أسماء المواضع في إمارة أم القيوين.",
@@ -78287,8 +78287,8 @@ window.STREETS = [
   "ar": "جسر المقطع",
   "en": "Maqta Bridge",
   "meaning": {
-    "ar": "«جسر المقطع»: جسر",
-    "en": "Maqta Bridge: bridge"
+    "ar": "«المقطع» المَوضِعُ المَقْطُوعُ بين شيئين؛ والجسرُ في ربدان.",
+    "en": "Al Maqta' is the cut passage between two sides; the bridge stands in Rabdan."
   },
   "story": {
     "ar": "«جسر» جِسْر، و«المقطع» اسم يُنسب إليه الموضع. وهذا الموضع أخذ منه اسم الطريق في ربدان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -78303,8 +78303,8 @@ window.STREETS = [
   "ar": "جسر جافزا",
   "en": "Jafza Bridge",
   "meaning": {
-    "ar": "«جسر جافزا»: جسر",
-    "en": "Jafza Bridge: bridge"
+    "ar": "«جافزا» اسمٌ لا يُفسَّر، والجسرُ في جبل علي الصناعية.",
+    "en": "Jafza is an unexplained proper name; the bridge stands in Jebel Ali Industrial."
   },
   "story": {
     "ar": "«جافزا» اسم لا يُفسَّر بالمعجم، و«جسر» جِسْر. والاسم من أسماء المواضع، والطريق في جبل علي الصناعية 2، دبي.",
@@ -78319,8 +78319,8 @@ window.STREETS = [
   "ar": "جسر غولفا",
   "en": "Gulfa Bridge",
   "meaning": {
-    "ar": "«جسر غولفا»: جسر",
-    "en": "Gulfa Bridge: bridge"
+    "ar": "«غولفا» اسمٌ مجهولُ التفسير، والجسرُ في مشيرف.",
+    "en": "Gulfa is a name of unknown meaning; the bridge stands in Mushrif."
   },
   "story": {
     "ar": "جِسْر «جسر»، و«غولفا» اسمه الذي يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الطرق في عجمان، والطريق في مشيرف.",
@@ -78687,8 +78687,8 @@ window.STREETS = [
   "ar": "شارع الغابات",
   "en": "Al Ghabat Street",
   "meaning": {
-    "ar": "«الغابات»: غابات",
-    "en": "Al Ghabat: forests"
+    "ar": "«الغابات» جمعُ «غابة»؛ والشارع في السَّمْحة.",
+    "en": "Al Ghabat is the plural of forests; the street lies in Al Samhah."
   },
   "story": {
     "ar": "«الغابات» غَابَات، والاسم مأخوذ من هذه الكلمة. والشارع في السَّمْحة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -78703,8 +78703,8 @@ window.STREETS = [
   "ar": "شارع النخيل",
   "en": "Al Nakheel Street",
   "meaning": {
-    "ar": "«النخيل»: نخيل",
-    "en": "Al Nakheel: palm trees"
+    "ar": "«النخيل» جمعُ «نَخْلة»؛ والشارع في أم غَافة.",
+    "en": "Al Nakhil is the plural of palm trees; the street lies in Umm Ghafah."
   },
   "story": {
     "ar": "«النخيل» نَخِيل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم غَافة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -78719,8 +78719,8 @@ window.STREETS = [
   "ar": "شارع النخيل",
   "en": "Al Nakheel Street",
   "meaning": {
-    "ar": "«النخيل»: نخيل",
-    "en": "Al Nakheel: palm trees"
+    "ar": "«النَّخيل» النَّخِيلُ من الشَّجَر؛ والشارع في دبا الحصن.",
+    "en": "An Nakhil are the tall palm trees; the street lies in Dibba Al Hisn."
   },
   "story": {
     "ar": "الاسم «النخيل» نَخِيل، وليس مركّباً. والاسم من أسماء المواضع، والشارع في دبا الحصن، الشارقة.",
@@ -78735,8 +78735,8 @@ window.STREETS = [
   "ar": "شارع النخيل",
   "en": "Al Nakheel Street",
   "meaning": {
-    "ar": "«النخيل»: نخيل",
-    "en": "Al Nakheel: palm trees"
+    "ar": "النَّخيلُ جموعُ النَّخْلِ الطَّويل؛ والشارع في الحرس الوطني.",
+    "en": "Nakhil are the tall palm groves; the street lies in National Guard."
   },
   "story": {
     "ar": "«النخيل» نَخِيل، والاسم هو الكلمة نفسها. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في الحرس الوطني.",
@@ -78751,8 +78751,8 @@ window.STREETS = [
   "ar": "شارع النَّخيل",
   "en": "An Nakheel Street",
   "meaning": {
-    "ar": "«النَّخيل»: نخيل",
-    "en": "An Nakheel: palm trees"
+    "ar": "«النَّخيل» جِمالُ النَّخْلِ وصفوفُه؛ والشارع في حَدْبَة الزَّعْفَرَانَة.",
+    "en": "An Nakhil are palm rows and groves; the street lies in Hadbat Al Za'faranah."
   },
   "story": {
     "ar": "كلمة «النَّخيل» معناها «نَخِيل»، والاسم منها. والشارع يقع في حَدْبَة الزَّعْفَرَانَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -79039,8 +79039,8 @@ window.STREETS = [
   "ar": "شارع غابات الظَّفرة",
   "en": "Ghabat Adh Dhafrah Street",
   "meaning": {
-    "ar": "«غابات الظَّفرة»: غَابَات",
-    "en": "Ghabat Adh Dhafrah: forests of Al Dhafra"
+    "ar": "«الظَّفرة» اسمٌ لا يُفسَّر، والشارع في مدينة زايد.",
+    "en": "Adh Dhafrah is an unexplained proper name; the street lies in Zayed City."
   },
   "story": {
     "ar": "«غابات» غَابَات، و«الظَّفرة» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع يقع في مدينة زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -79055,8 +79055,8 @@ window.STREETS = [
   "ar": "شارع غابات المِغَايِل",
   "en": "Ghabat Al Mighayil Street",
   "meaning": {
-    "ar": "«غابات المِغَايِل»: غابات",
-    "en": "Ghabat Al Mighayil: forests"
+    "ar": "«المِغَايِل» اسمٌ مجهولُ التفسير، والشارع في مدينة شخبوط.",
+    "en": "Al Mighayil is a name of unknown meaning; the street lies in Shakhbout City."
   },
   "story": {
     "ar": "«المِغَايِل» اسم الموضع في «غابات»؛ و«غابات» غَابَات. وهو من الشوارع مدينة شخبوط في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -79071,8 +79071,8 @@ window.STREETS = [
   "ar": "شارع غابات النِّمَيريَّه",
   "en": "Ghabat An Nimayriyah Street",
   "meaning": {
-    "ar": "«غابات النِّمَيريَّه»: غابات",
-    "en": "Ghabat An Nimayriyah: forests"
+    "ar": "«النِّمَيريَّة» نسبةٌ إلى نُمَير؛ والشارع في رِمَاح.",
+    "en": "An Nimayriyyah is a nisbah to Numayr; the street lies in Rimah."
   },
   "story": {
     "ar": "غَابَات اسمه «غابات»، و«النِّمَيريَّه» اسم يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في رِمَاح من إمارة أبوظبي.",
@@ -79087,8 +79087,8 @@ window.STREETS = [
   "ar": "شارع غابات بو ذِيب",
   "en": "Ghabat Bu Dheeb Street",
   "meaning": {
-    "ar": "«غابات بو ذِيب»: غابات",
-    "en": "Ghabat Bu Dheeb: forests"
+    "ar": "«ذِيب» الذِّئْبُ من السِّباع؛ ولعلّ الغابات سُمّيَت به.",
+    "en": "Dheeb is the wolf among beasts; the forests may be named for it."
   },
   "story": {
     "ar": "«بو ذِيب» اسم الموضع، و«غابات» غَابَات من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في مدينة خليفة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -79103,8 +79103,8 @@ window.STREETS = [
   "ar": "شارع غابات رَكنا",
   "en": "Ghabat Rakna Street",
   "meaning": {
-    "ar": "«غابات رَكنا»: غابات",
-    "en": "Ghabat Rakna: forests"
+    "ar": "«رَكنا» من الرُّكْنِ والمَحَلّ؛ ولعلّ الغابات سُمّيَت بها.",
+    "en": "Rakna derives from a corner and place; the forests may be named so."
   },
   "story": {
     "ar": "«غابات» غَابَات، و«رَكنا» اسم يُنسب إليه الموضع. وهو الشارع في آل نَهيان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -79119,8 +79119,8 @@ window.STREETS = [
   "ar": "شارع غابات مَيهُولة",
   "en": "Ghabat Mayhoulah Street",
   "meaning": {
-    "ar": "«غابات مَيهُولة»: غابات",
-    "en": "Ghabat Mayhoulah: forests"
+    "ar": "«مَيهُولة» لا يُفسَّر في المعاجم، والشارع في الوَثْبَة.",
+    "en": "Mayhoulah is unexplained in the lexicons; the street lies in Al Wathbah."
   },
   "story": {
     "ar": "«مَيهُولة» اسم لا يُفسَّر بالمعجم، و«غابات» غَابَات. والشارع في الوَثْبَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -79135,8 +79135,8 @@ window.STREETS = [
   "ar": "شارع غَابَات يِعَيلة",
   "en": "Ghabat Yi'aylah Street",
   "meaning": {
-    "ar": "«غَابَات يِعَيلة»: غابات",
-    "en": "Ghabat Yi'aylah: forests"
+    "ar": "«يِعَيلة» مجهولُ المعنى في المعاجم، والشارع في الشَّامْخَة.",
+    "en": "Yi'aylah is an unexplained proper name; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "غَابَات «غَابَات»، و«يِعَيلة» اسمه الذي يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في الشَّامْخَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -79151,8 +79151,8 @@ window.STREETS = [
   "ar": "شارع نَخِيل السّلَيه",
   "en": "Nakheel As Silayah Street",
   "meaning": {
-    "ar": "«نَخِيل السّلَيه»: نخيل",
-    "en": "Nakheel As Silayah: palm trees"
+    "ar": "«السِّلَيه» الوَلَدُ الصغيرُ من الإبل؛ ولعلّ النَّخِيل سُمّي به.",
+    "en": "As Silayah is the newborn camel-calf; the palms may be named so."
   },
   "story": {
     "ar": "«نَخِيل» نَخِيل، و«السّلَيه» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في هِيلِي من إمارة أبوظبي.",
@@ -79167,8 +79167,8 @@ window.STREETS = [
   "ar": "شارع نَخِيل الفاقِي",
   "en": "Nakheel Al Faqi Street",
   "meaning": {
-    "ar": "«نَخِيل الفاقِي»: نخيل",
-    "en": "Nakheel Al Faqi: palm trees"
+    "ar": "«الفاقِي» اسمٌ مجهولُ التفسير، والشارع في مدينة محمد بن زايد.",
+    "en": "Al Faqi is a name of unknown meaning; the street lies in MBZ City."
   },
   "story": {
     "ar": "«الفاقِي» اسم الموضع في «نَخِيل»؛ و«نَخِيل» نَخِيل. والاسم من أسماء المواضع، والشارع في مدينة محمد بن زايد، أبوظبي.",
@@ -79183,8 +79183,8 @@ window.STREETS = [
   "ar": "شارع نَخِيل الكرَيمه",
   "en": "Nakheel Al Kiraymah Street",
   "meaning": {
-    "ar": "«نَخِيل الكرَيمه»: نخيل",
-    "en": "Nakheel Al Kiraymah: palm trees"
+    "ar": "«الكرَيمه» تصغيرُ «كَرِيمة»؛ ولعلّ النَّخِيل سُمّي بها.",
+    "en": "Al Kiraymah is a diminutive of Karimah; the palms may be named so."
   },
   "story": {
     "ar": "نَخِيل اسمه «نَخِيل»، و«الكرَيمه» اسم يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الزَّاهية.",
@@ -79199,8 +79199,8 @@ window.STREETS = [
   "ar": "شارع نَخِيل هَرمة",
   "en": "Nakheel Harmah Street",
   "meaning": {
-    "ar": "«نَخِيل هَرمة»: نخيل",
-    "en": "Nakheel Harmah: palm trees"
+    "ar": "«هَرمة» الهَرْمَةُ من الرَّمل؛ ولعلّ النَّخِيل سُمّي بها.",
+    "en": "Harmah is the sand mound; the palms may be named for it."
   },
   "story": {
     "ar": "«هَرمة» اسم الموضع، و«نَخِيل» نَخِيل من أسماء المواضع. والشارع يقع في الدَّانَةْ من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -79215,8 +79215,8 @@ window.STREETS = [
   "ar": "طريق النخيل",
   "en": "Al Nakheel Road",
   "meaning": {
-    "ar": "«النخيل»: نخيل",
-    "en": "Al Nakheel: palm trees"
+    "ar": "«النخيل» النَّخْلُ المُثْمِرُ؛ والطريق في العويد.",
+    "en": "Al Nakhil are the fruiting palms; the road lies in Al Uwayd."
   },
   "story": {
     "ar": "«النخيل» نَخِيل، والاسم مأخوذ من اسم هذا الموضع. وهو من الطرق العويد في الفجيرة، والاسم يدل على موضع لا على كلمة.",
@@ -79247,8 +79247,8 @@ window.STREETS = [
   "ar": "شارع البطين",
   "en": "Al Butain Street",
   "meaning": {
-    "ar": "«البطين»: بطين",
-    "en": "Al Butain: ventricle"
+    "ar": "«البَطِين» الصَّغِيرُ مِنَ البُطُون؛ والشارع في الحمرة.",
+    "en": "Al Bateen is the small one among bellies; the street lies in Al Hamrah."
   },
   "story": {
     "ar": "«البطين» بَطِين، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الحمرة بإمارة أم القيوين، والاسم من أسماء المواضع.",
@@ -79263,8 +79263,8 @@ window.STREETS = [
   "ar": "شارع البَطِين",
   "en": "Al Bateen Street",
   "meaning": {
-    "ar": "«البَطِين»: بطين",
-    "en": "Al Bateen: ventricle"
+    "ar": "«البَطِين» البَطْنُ الصَّغيرُ في كلامهم؛ والشارع في البطين.",
+    "en": "Al Bateen is the little belly in their speech; the street lies in Al Bateen."
   },
   "story": {
     "ar": "الاسم «البَطِين» بَطِين، وليس مركّباً. وهو الشارع في البطين، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -79279,8 +79279,8 @@ window.STREETS = [
   "ar": "شارع الحصاة",
   "en": "Al Hesah Street",
   "meaning": {
-    "ar": "«الحصاة»: حصاة",
-    "en": "Al Hesah: pebble, shingle"
+    "ar": "«الحصاة» الحَجَرُ الصَّغيرُ المُسْتَطِيل؛ والشارع في المنطقة الحرة.",
+    "en": "Al Hasah is the small elongated stone; the street lies in the Free Zone."
   },
   "story": {
     "ar": "«الحصاة» حَصَاة، والاسم مأخوذ من هذه الكلمة. والشارع في المنطقة الحرة شمال جبل علي، والاسم من أسماء المواضع في إمارة دبي.",
@@ -79407,8 +79407,8 @@ window.STREETS = [
   "ar": "شارع بَطين أرزنة",
   "en": "Bateen Arzanah Street",
   "meaning": {
-    "ar": "«بَطين أرزنة»: بطين",
-    "en": "Bateen Arzanah: ventricle"
+    "ar": "«أرزنة» اسمٌ لا يُفسَّر، والشارع في عَيْن الفَايْضَة.",
+    "en": "Arzanah is an unexplained proper name; the street lies in 'Ayn Al Faydah."
   },
   "story": {
     "ar": "«بَطين» بَطِين، و«أرزنة» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في عَيْن الفَايْضَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -79423,8 +79423,8 @@ window.STREETS = [
   "ar": "شارع بَطِين إشغَبة",
   "en": "Bateen Ishghabah Street",
   "meaning": {
-    "ar": "«بَطِين إشغَبة»: بطين",
-    "en": "Bateen Ishghabah: ventricle"
+    "ar": "«إشغَبة» اسمٌ مجهولُ التفسير، والشارع في الشَّامْخَة.",
+    "en": "Ishghabah is a name of unknown meaning; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«إشغَبة» اسم الموضع في «بَطِين»؛ و«بَطِين» بَطِين. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -79439,8 +79439,8 @@ window.STREETS = [
   "ar": "شارع بَطِين الحِلَيو",
   "en": "Bateen Al Hilayw Street",
   "meaning": {
-    "ar": "«بَطِين الحِلَيو»: بطين",
-    "en": "Bateen Al Hilayw: ventricle"
+    "ar": "«الحِلَيو» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في الظَّاهِر.",
+    "en": "Al Hilayw is an unexplained proper name; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "بَطِين اسمه «بَطِين»، و«الحِلَيو» اسم يُنسب إليه. والشارع في الظَّاهِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -79455,8 +79455,8 @@ window.STREETS = [
   "ar": "شارع بِطِين السِّلِمة",
   "en": "Biteen As Silimah Street",
   "meaning": {
-    "ar": "«بِطِين السِّلِمة»: بطين",
-    "en": "Biteen As Silimah: ventricle"
+    "ar": "«السِّلِمة» شجرُ السَّلَم؛ ولعلّ البَطِين سُمّي به.",
+    "en": "As Silimah is the salam tree; the bateen may be named for it."
   },
   "story": {
     "ar": "«السِّلِمة» اسم الموضع، و«بِطِين» بَطِين من أسماء المواضع. وهذا الموضع أخذ منه اسم الشارع في الشَّامْخَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -79471,8 +79471,8 @@ window.STREETS = [
   "ar": "شارع بَطِين بو أرطاه",
   "en": "Bateen Bu Artah Street",
   "meaning": {
-    "ar": "«بَطِين بو أرطاه»: بطين",
-    "en": "Bateen Bu Artah: ventricle"
+    "ar": "«الأرْطى» نبتٌ من العَضاه؛ ولعلّ البَطِين سُمّي به.",
+    "en": "Al Arta is a desert shrub; the bateen may be named for it."
   },
   "story": {
     "ar": "«بَطِين» بَطِين، و«بو أرطاه» اسم يُنسب إليه الموضع. والاسم من أسماء المواضع، والشارع في النَّهضة، أبوظبي.",
@@ -79487,8 +79487,8 @@ window.STREETS = [
   "ar": "شارع حَصاة إِبوَيِّض",
   "en": "Hasaat Ibwayid Street",
   "meaning": {
-    "ar": "«حَصاة إِبوَيِّض»: حصاة",
-    "en": "Hasaat Ibwayid: pebble, shingle"
+    "ar": "«إِبوَيِّض» تصغيرُ «أبيض»؛ ولعلّ الحَصَاة سُمّيَت به.",
+    "en": "Ibwayyid is a diminutive of white; the pebble may be named so."
   },
   "story": {
     "ar": "«حَصاة» حَصَاة، و«إِبوَيِّض» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في زاخِر.",
@@ -79503,8 +79503,8 @@ window.STREETS = [
   "ar": "شارع حَصاة البانه",
   "en": "Hasaat Al Banah Street",
   "meaning": {
-    "ar": "«حَصاة البانه»: حصاة",
-    "en": "Hasaat Al Banah: pebble, shingle"
+    "ar": "«البانه» شجرُ البَانِ؛ ولعلّ الحَصَاة سُمّيَت به.",
+    "en": "Al Banah is the ban tree; the pebble may be named for it."
   },
   "story": {
     "ar": "«البانه» اسم الموضع في «حَصاة»؛ و«حَصاة» حَصَاة. والشارع يقع في آل نَهيان من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -79519,8 +79519,8 @@ window.STREETS = [
   "ar": "شارع حَصاة السِّوِيد",
   "en": "Hasaat As Siweed Street",
   "meaning": {
-    "ar": "«حَصاة السِّوِيد»: حصاة",
-    "en": "Hasaat As Siweed: pebble, shingle"
+    "ar": "«السِّوِيد» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في الشَّامْخَة.",
+    "en": "As Siweed is an unexplained proper name; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "حَصَاة اسمه «حَصاة»، و«السِّوِيد» اسم يُنسب إليه. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -79535,8 +79535,8 @@ window.STREETS = [
   "ar": "شارع حَصاة الوُدَيمة",
   "en": "Hasaat Al Wudaymah Street",
   "meaning": {
-    "ar": "«حَصاة الوُدَيمة»: حصاة",
-    "en": "Hasaat Al Wudaymah: pebble, shingle"
+    "ar": "«الوُدَيمة» لا يُفسَّر في المعاجم، والشارع في زاخِر.",
+    "en": "Al Wudaymah is a name of unknown meaning; the street lies in Zakhir."
   },
   "story": {
     "ar": "«الوُدَيمة» اسم الموضع، و«حَصاة» حَصَاة من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في زاخِر من إمارة أبوظبي.",
@@ -79551,8 +79551,8 @@ window.STREETS = [
   "ar": "شارع حَصاة الوسُوم",
   "en": "Hasaat Al Wsoum Street",
   "meaning": {
-    "ar": "«حَصاة الوسُوم»: حصاة",
-    "en": "Hasaat Al Wsoum: pebble, shingle"
+    "ar": "«الوسُوم» جمعُ «وَسْم» من العلامات؛ ولعلّ الحَصَاة سُمّيَت بها.",
+    "en": "Al Wusum is the plural of brands and marks; a plausible pebble name."
   },
   "story": {
     "ar": "«حَصاة» حَصَاة، و«الوسُوم» اسم يُنسب إليه الموضع. وتقع الشوارع التي تحمل هذا الاسم في حَدْبَة الزَّعْفَرَانَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -79567,8 +79567,8 @@ window.STREETS = [
   "ar": "شارع حَصاة الوسُوم",
   "en": "Hasat Al Wsoum Street",
   "meaning": {
-    "ar": "«حَصاة الوسُوم»: حصاة",
-    "en": "Hasat Al Wsoum: pebble, shingle"
+    "ar": "«الوسُوم» آثارُ الوَسْمِ والعَلَامة؛ والشارع في العامرة.",
+    "en": "Al Wusum are marks of branding; the street lies in Al Amerah."
   },
   "story": {
     "ar": "«الوسُوم» اسم لا يُفسَّر بالمعجم، و«حَصاة» حَصَاة. وهو الشارع في العامرة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -79583,8 +79583,8 @@ window.STREETS = [
   "ar": "شارع حَصاة اليِمَيلِي",
   "en": "Hasaat Al Yimayli Street",
   "meaning": {
-    "ar": "«حَصاة اليِمَيلِي»: حصاة",
-    "en": "Hasaat Al Yimayli: pebble, shingle"
+    "ar": "«اليِمَيلِي» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في زاخِر.",
+    "en": "Al Yimayli is an unexplained proper name; the street lies in Zakhir."
   },
   "story": {
     "ar": "حَصَاة «حَصاة»، و«اليِمَيلِي» اسمه الذي يُنسب إليه. والشارع في زاخِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -79871,8 +79871,8 @@ window.STREETS = [
   "ar": "شارع السوق",
   "en": "Al Suq Street",
   "meaning": {
-    "ar": "«السوق»: سوق",
-    "en": "Al Suq: market"
+    "ar": "«السوق» مَوضِعُ البَيْعِ والشِّرَاء؛ والشارع في السوق الكبير.",
+    "en": "As Suq is the place of buying and selling; the street lies in Al Souk Al Kabir."
   },
   "story": {
     "ar": "«السوق» سُوق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في السوق الكبير.",
@@ -79887,8 +79887,8 @@ window.STREETS = [
   "ar": "شارع السوق",
   "en": "Al Suq Street",
   "meaning": {
-    "ar": "«السوق»: سوق",
-    "en": "Al Suq: market"
+    "ar": "السُّوقُ المَكانُ الذي يُتَجَارُ فيه؛ والشارع في السوق الكبير.",
+    "en": "A suq is where trade is carried on; the street lies in Al Souk Al Kabir."
   },
   "story": {
     "ar": "الاسم «السوق» سُوق، وليس مركّباً. والشارع يقع في المدينة القديمة من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -79903,8 +79903,8 @@ window.STREETS = [
   "ar": "شارع السُّوق",
   "en": "As Souq Street",
   "meaning": {
-    "ar": "«السُّوق»: سوق",
-    "en": "As Souq: market"
+    "ar": "«السُّوق» سُوقُ التِّجَارَةِ والفَتْح؛ والشارع في بني ياس.",
+    "en": "As Souq is the market of trade; the street lies in Bani Yas."
   },
   "story": {
     "ar": "«السُّوق» سُوق، والاسم هو الكلمة نفسها. وهو من الشوارع بني ياس في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -79919,8 +79919,8 @@ window.STREETS = [
   "ar": "شارع السوق الكبير",
   "en": "Al Souk Al Kabeer Street",
   "meaning": {
-    "ar": "«السوق الكبير»: سوق",
-    "en": "Al Souk Al Kabeer: market"
+    "ar": "«الكبير» ضِدُّ الصَّغير؛ والشارع في البطين.",
+    "en": "Al Kabir is the opposite of small; the street lies in Al Bateen."
   },
   "story": {
     "ar": "«السوق» سُوق، و«الكبير» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في البطين من إمارة دبي.",
@@ -79983,8 +79983,8 @@ window.STREETS = [
   "ar": "شارع النخلة",
   "en": "Al Nakhlah Street",
   "meaning": {
-    "ar": "«النخلة»: نخلة",
-    "en": "Al Nakhlah: palm tree"
+    "ar": "«النخلة» شَجَرَةُ التَّمْر؛ والشارع في شنتير.",
+    "en": "An Nakhlah is the date-palm tree; the street lies in Shintir."
   },
   "story": {
     "ar": "«النخلة» نَخْلَة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في شنتير بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -79999,8 +79999,8 @@ window.STREETS = [
   "ar": "شارع النَّخْلة",
   "en": "Al Nakhlah Street",
   "meaning": {
-    "ar": "«النَّخْلة»: نخلة",
-    "en": "Al Nakhlah: palm tree"
+    "ar": "النَّخْلَةُ مِنَ النَّخْلِ الطَّويلِ المُثْمِر؛ والشارع في ساس النَّخْل.",
+    "en": "A nakhlah is a tall fruiting palm; the street lies in Sas Al Nakhil."
   },
   "story": {
     "ar": "الاسم «النَّخْلة» نَخْلَة، وليس مركّباً. والاسم من أسماء المواضع، والشارع في ساس النَّخْل، أبوظبي.",
@@ -80255,8 +80255,8 @@ window.STREETS = [
   "ar": "شارع بَطحاء هيلي",
   "en": "Bat-ha Hili Street",
   "meaning": {
-    "ar": "«بَطحاء هيلي»: بَطْحَاء",
-    "en": "Bat-ha Hili: wide valley of Hili"
+    "ar": "«البَطحاء» الأَرْضُ الوَاسِعَةُ المُسْتَوِيَة؛ والشارع في السَّعادة.",
+    "en": "Al Batha is wide level ground; the street lies in As Sa'adah."
   },
   "story": {
     "ar": "«هيلي» اسم الموضع، و«بَطحاء» بَطْحَاء من أسماء المواضع. والشارع في السَّعادة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -80319,8 +80319,8 @@ window.STREETS = [
   "ar": "شارع خَبَّة الأشخر",
   "en": "Khabbat Al Ashkhar Street",
   "meaning": {
-    "ar": "خَبّة الأشخر: منخفض من الأرض ينبت فيه شجر الأشخر",
-    "en": "the hollow where the ashkhar shrub grows"
+    "ar": "«الخَبَّة» المَنْخَفَضُ يَجْتَمِعُ فيه الماء؛ والشارع في الساد.",
+    "en": "Al Khabbah is the hollow where water gathers; the street lies in As Sad."
   },
   "story": {
     "ar": "«الخَبّة» منخفض من الأرض يجتمع فيه الماء أو الرمل، و«الأشخر» شجر من الفصيلة الدفلية ينبت في الرمل. فاسم الموضع يصفه بنباته. والشارع في الساد بأبوظبي.",
@@ -80495,8 +80495,8 @@ window.STREETS = [
   "ar": "شارع سوق أبوظبي العالمي - الثاني",
   "en": "Abu Dhabi Global Market Street - Second",
   "meaning": {
-    "ar": "«سوق أبوظبي العالمي - الثاني»: سوق",
-    "en": "Abu Dhabi Global Market Street - Second: market"
+    "ar": "«العالميّ» نسبةٌ إلى العالَم؛ والشارع في جزيرة المارية.",
+    "en": "Al 'Alami relates to the world; the street lies in Al Maryah Island."
   },
   "story": {
     "ar": "«أبوظبي العالمي - الثاني» اسم الموضع في «سوق»؛ و«سوق» سُوق. وهو من الشوارع جزيرة المارية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -80511,8 +80511,8 @@ window.STREETS = [
   "ar": "شارع سوق ديرة",
   "en": "Souk Deira Street",
   "meaning": {
-    "ar": "«سوق ديرة»: سوق",
-    "en": "Souk Deira: market"
+    "ar": "«ديرة» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في البطين.",
+    "en": "Deira is an unexplained proper name; the street lies in Al Bateen."
   },
   "story": {
     "ar": "سُوق اسمه «سوق»، و«ديرة» اسم يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في البطين من إمارة دبي.",
@@ -80527,8 +80527,8 @@ window.STREETS = [
   "ar": "شارع سُوق سابِع",
   "en": "Souq Sabi' Street",
   "meaning": {
-    "ar": "«سُوق سابِع»: سوق",
-    "en": "Souq Sabi': market"
+    "ar": "«سابِع» المَرْقَمُ السابع؛ والشارع في مدينة محمد بن زايد.",
+    "en": "Sabi' is the seventh in order; the street lies in MBZ City."
   },
   "story": {
     "ar": "«سابِع» اسم الموضع، و«سُوق» سُوق من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -80559,8 +80559,8 @@ window.STREETS = [
   "ar": "شارع شَعبيَّة المانع",
   "en": "Sha'biyat Al Mani' Street",
   "meaning": {
-    "ar": "«شَعبيَّة المانع»: شعبية",
-    "en": "Sha'biyat Al Mani': popularity"
+    "ar": "«المانع» المانعُ أو الصارف؛ والشارع في هِيلِي.",
+    "en": "Al Mani' is the one who prevents; the street lies in Hili."
   },
   "story": {
     "ar": "«شَعبيَّة» شَعْبِيَّة، و«المانع» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في هِيلِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -80591,8 +80591,8 @@ window.STREETS = [
   "ar": "شارع شعبية حَمْرُور",
   "en": "Sha'biyat Hamrour Street",
   "meaning": {
-    "ar": "«شعبية حَمْرُور»: شعبية",
-    "en": "Sha'biyat Hamrour: popularity"
+    "ar": "«حَمْرُور» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في المحاضر الغربية.",
+    "en": "Hamrour is an unexplained proper name; the street lies in Western Al Mahadir."
   },
   "story": {
     "ar": "«حَمْرُور» اسم الموضع في «شعبية»؛ و«شعبية» شَعْبِيَّة. والاسم من أسماء المواضع، والشارع في المحاضر الغربية، أبوظبي.",
@@ -80623,8 +80623,8 @@ window.STREETS = [
   "ar": "شارع شعبية مَروان",
   "en": "Sha'biyat Marwan Street",
   "meaning": {
-    "ar": "«شعبية مَروان»: شعبية",
-    "en": "Sha'biyat Marwan: popularity"
+    "ar": "«مَروان» لا يُفسَّر في المعاجم، والشارع في مْزِيرْعَة.",
+    "en": "Marwan is a name of unknown meaning; the street lies in Mzaira'ah."
   },
   "story": {
     "ar": "شَعْبِيَّة اسمه «شعبية»، و«مَروان» اسم يُنسب إليه. والشارع يقع في مْزِيرْعَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -80639,8 +80639,8 @@ window.STREETS = [
   "ar": "شارع شعبية وِذِيل",
   "en": "Sha'biyat Widheel Street",
   "meaning": {
-    "ar": "«شعبية وِذِيل»: شعبية",
-    "en": "Sha'biyat Widheel: popularity"
+    "ar": "«وِذِيل» لا يُفسَّر في المعاجم، والشارع في المحاضر الشرقية.",
+    "en": "Widheel is unexplained in the lexicons; the street lies in Eastern Al Mahadir."
   },
   "story": {
     "ar": "«وِذِيل» اسم الموضع، و«شعبية» شَعْبِيَّة من أسماء المواضع. وهو من الشوارع المحاضر الشرقية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -80943,8 +80943,8 @@ window.STREETS = [
   "ar": "شارع نَخلة الفَضية",
   "en": "Nakhlat Al Fadyah Street",
   "meaning": {
-    "ar": "«نَخلة الفَضية»: نخلة",
-    "en": "Nakhlat Al Fadyah: palm tree"
+    "ar": "«الفَضية» مِنَ الفِضَّةِ أو مِنَ الأَبْيَضِ المُلَمْلَم؛ والشارع في نِعْمة.",
+    "en": "Al Fadyah is silvery or shining white; the street lies in Ni'mah."
   },
   "story": {
     "ar": "«نَخلة» نَخْلَة، و«الفَضية» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع نِعْمة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -80959,8 +80959,8 @@ window.STREETS = [
   "ar": "شارع نَخلة القَرايِن",
   "en": "Nakhlat Al Qarayin Street",
   "meaning": {
-    "ar": "«نَخلة القَرايِن»: نخلة",
-    "en": "Nakhlat Al Qarayin: palm tree"
+    "ar": "«القَرايِن» لا تُفسِّره المعاجم، والشارع في جَرْن يَافُور.",
+    "en": "Al Qarayin is an unexplained proper name; the street lies in Jarn Yafour."
   },
   "story": {
     "ar": "«القَرايِن» اسم الموضع في «نَخلة»؛ و«نَخلة» نَخْلَة. والاسم يُنسب إلى موضع، والشارع في جَرْن يَافُور من إمارة أبوظبي.",
@@ -80975,8 +80975,8 @@ window.STREETS = [
   "ar": "شارع نَخَلة جبل علي",
   "en": "Nakhalat Jabal Ali Street",
   "meaning": {
-    "ar": "«نَخَلة جبل علي»: نخلة",
-    "en": "Nakhalat Jabal Ali: palm tree"
+    "ar": "«جبل علي» اسمٌ مركّبٌ مَألوف؛ والشارع في الظَّاهِر.",
+    "en": "Jabal Ali is a familiar compound name; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "نَخْلَة اسمه «نَخَلة»، و«جبل علي» اسم يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في الظَّاهِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -81167,8 +81167,8 @@ window.STREETS = [
   "ar": "نخلة الجميرا نفق الهلال",
   "en": "Palm Jumeirah Crescent Tunnel",
   "meaning": {
-    "ar": "«نخلة الجميرا نفق الهلال»: نخلة",
-    "en": "Palm Jumeirah Crescent: palm tree"
+    "ar": "«الهلال» البَدْرُ النَّاقِصُ أو الِانْتِصَاب المُقَوَّس؛ والنفقُ في نخلة جميرا.",
+    "en": "Al Hilal is the crescent moon; the tunnel runs on Palm Jumeirah."
   },
   "story": {
     "ar": "«الجميرا نفق الهلال» اسم الموضع، و«نخلة» نَخْلَة من أسماء المواضع. وهذا الموضع أخذ منه اسم الطريق في نخلة جميرا بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -81215,8 +81215,8 @@ window.STREETS = [
   "ar": "نفق الشندغة",
   "en": "Al Shindagha Tunnel",
   "meaning": {
-    "ar": "«نفق الشندغة»: نفق",
-    "en": "Al Shindagha Tunnel: tunnel"
+    "ar": "«الشندغة» لا تُفسِّره المعاجم، والنفقُ في الرأس.",
+    "en": "Ash Shindagha is an unexplained proper name; the tunnel lies in Al Ras."
   },
   "story": {
     "ar": "«الشندغة» اسم الموضع في «نفق»؛ و«نفق» نَفْق. والاسم من أسماء المواضع التي تُنسب إليها الطرق في دبي، والطريق في الرأس.",
@@ -81231,8 +81231,8 @@ window.STREETS = [
   "ar": "نفق المطار",
   "en": "Airport Tunnel",
   "meaning": {
-    "ar": "«نفق المطار»: نَفْقُ المَطَار",
-    "en": "Airport Tunnel: airport tunnel"
+    "ar": "«المَطَار» مَوضِعُ طَيَرانِ الطَّائِرَات؛ والنفقُ في مطار دبي.",
+    "en": "Al Matar is the airfield for aircraft; the tunnel lies at Dubai Airport."
   },
   "story": {
     "ar": "نَفْق اسمه «نفق» ومعناه «نَفْقُ المَطَار»، و«المطار» في الاسم. والطريق يقع في مطار دبي الدولي من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -81247,8 +81247,8 @@ window.STREETS = [
   "ar": "نفق الملتقى",
   "en": "Al Multaqa Tunnel",
   "meaning": {
-    "ar": "«نفق الملتقى»: نفق",
-    "en": "Al Multaqa Tunnel: tunnel"
+    "ar": "«الملتقى» مَوضِعُ الاجْتِمَاع؛ والنفقُ في خورفكان.",
+    "en": "Al Multaqa is the meeting place; the tunnel lies in Khor Fakkan."
   },
   "story": {
     "ar": "نَفْق هو «نفق»، و«الملتقى» اسم يُنسب إليه. وهو من الطرق خورفكان في الشارقة، والاسم يدل على موضع لا على كلمة.",
@@ -81263,8 +81263,8 @@ window.STREETS = [
   "ar": "نفق ميناء زايد",
   "en": "Mina Zayed Tunnel",
   "meaning": {
-    "ar": "«نفق ميناء زايد»: نفق",
-    "en": "Mina Zayed Tunnel: tunnel"
+    "ar": "«ميناء زايد» اسمٌ مركّبٌ لِمَوْقِعٍ مَألوف؛ والنفقُ فيه.",
+    "en": "Mina Zayed is a familiar compound name; the tunnel lies in the port."
   },
   "story": {
     "ar": "«ميناء زايد» اسم الموضع، و«نفق» نَفْق. والاسم يُنسب إلى موضع، والطريق في ميناء زايد من إمارة أبوظبي.",
@@ -81279,8 +81279,8 @@ window.STREETS = [
   "ar": "نفق ياس",
   "en": "Yas Tunnel",
   "meaning": {
-    "ar": "«نفق ياس»: نفق",
-    "en": "Yas Tunnel: tunnel"
+    "ar": "«ياس» لا تُفسِّره المعاجم، والنفقُ في الراحة.",
+    "en": "Yas is an unexplained proper name; the tunnel lies in Ar Rahah."
   },
   "story": {
     "ar": "«نفق» نَفْق، و«ياس» اسم يُنسب إليه الموضع. وتقع الطرق التي تحمل هذا الاسم في الراحة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -81375,8 +81375,8 @@ window.STREETS = [
   "ar": "شارع الخليج",
   "en": "Al Khaleej Street",
   "meaning": {
-    "ar": "«الخليج»: خليج",
-    "en": "Al Khaleej: gulf"
+    "ar": "«الخليج» فَرْعٌ مِنَ البَحْرِ يَدْخُلُ في اليابسة؛ والشارع في كورنيش ديرة.",
+    "en": "A gulf is a sea branch reaching inland; the street lies on Deira Corniche."
   },
   "story": {
     "ar": "«الخليج» خليج، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع كورنيش ديرة في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -81391,8 +81391,8 @@ window.STREETS = [
   "ar": "شارع الخليج",
   "en": "Al Khaleej Street",
   "meaning": {
-    "ar": "«الخليج»: خليج",
-    "en": "Al Khaleej: gulf"
+    "ar": "الخَلِيجُ البَحْرُ الصَّغيرُ المُتَّسِعُ؛ والشارع في الرأس.",
+    "en": "A khaleej is a wide small sea; the street lies in Al Ras."
   },
   "story": {
     "ar": "الاسم «الخليج» خليج، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الرأس من إمارة أم القيوين.",
@@ -81407,8 +81407,8 @@ window.STREETS = [
   "ar": "شارع الخَلِيج",
   "en": "Al Khaleej Street",
   "meaning": {
-    "ar": "«الخَلِيج»: خليج",
-    "en": "Al Khaleej: gulf"
+    "ar": "«الخَلِيج» مَجْرَى المَاءِ البحريُّ الضَّيِّق؛ والشارع في المَقَام.",
+    "en": "Al Khaleej is the narrow sea inlet; the street lies in Al Maqam."
   },
   "story": {
     "ar": "«الخَلِيج» خليج، والاسم هو الكلمة نفسها. وتقع الشوارع التي تحمل هذا الاسم في المَقَام بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -81423,8 +81423,8 @@ window.STREETS = [
   "ar": "شارع الخليج التجاري",
   "en": "Al Khaleej Al Tejari Street",
   "meaning": {
-    "ar": "«الخليج التجاري»: خليج",
-    "en": "Al Khaleej Al Tejari: gulf"
+    "ar": "«التِّجاريّ» نسبةٌ إلى التِّجَارَة؛ والشارع في الخليج التجاري.",
+    "en": "At Tijari relates to commerce; the street lies in Business Bay."
   },
   "story": {
     "ar": "«الخليج» خليج، و«التجاري» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في الخليج التجاري، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -81439,8 +81439,8 @@ window.STREETS = [
   "ar": "شارع الخليج العربي",
   "en": "Arabian Gulf Street",
   "meaning": {
-    "ar": "«الخليج العربي»: خليج",
-    "en": "Arabian Gulf: gulf"
+    "ar": "«العَرَبِيّ» نسبةٌ إلى العَرَب؛ والشارع في الغرب.",
+    "en": "Al 'Arabi relates to the Arabs; the street lies in Al Gharb."
   },
   "story": {
     "ar": "«العربي» اسم الموضع في «الخليج»؛ و«الخليج» خليج. والشارع في الغرب، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -81455,8 +81455,8 @@ window.STREETS = [
   "ar": "شارع الخَلِيج العَربِي",
   "en": "Al Khaleej Al Arabi Street",
   "meaning": {
-    "ar": "«الخَلِيج العَربِي»: خليج",
-    "en": "Al Khaleej Al Arabi: gulf"
+    "ar": "«العَربِيّ» المَنْسُوبُ إلى العَرَبِيَّة؛ والشارع في الروضة.",
+    "en": "Al 'Arabi is that which relates to Arabia; the street lies in Ar Rawdah."
   },
   "story": {
     "ar": "خليج اسمه «الخَلِيج»، و«العَربِي» اسم يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في الروضة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -81471,8 +81471,8 @@ window.STREETS = [
   "ar": "شارع الرَّملات",
   "en": "Ar Ramlat Street",
   "meaning": {
-    "ar": "«الرَّملات»: رملات",
-    "en": "Ar Ramlat: sandy patches"
+    "ar": "«الرَّملات» جمعُ «رَمْلَة» من الرَّمل؛ والشارع في غِيَّاثِي.",
+    "en": "Ar Ramlat is the plural of sandy patches; the street lies in Ghayathi."
   },
   "story": {
     "ar": "«الرَّملات» رملات، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في غِيَّاثِي، أبوظبي.",
@@ -81487,8 +81487,8 @@ window.STREETS = [
   "ar": "شارع الرَّمْلاَت",
   "en": "Al Ramlat Street",
   "meaning": {
-    "ar": "«الرَّمْلاَت»: رملات",
-    "en": "Al Ramlat: sandy patches"
+    "ar": "الرَّمْلاَتُ مَوَاضِعُ مَرْمُولَةٌ مِنَ الرِّمَال؛ والشارع في الدَّانَةْ.",
+    "en": "Ar Ramlat are sand-covered places; the street lies in Al Danah."
   },
   "story": {
     "ar": "الاسم «الرَّمْلاَت» رملات، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الدَّانَةْ.",
@@ -81503,8 +81503,8 @@ window.STREETS = [
   "ar": "شارع الروضة",
   "en": "Al Rawdha Street",
   "meaning": {
-    "ar": "«الروضة»: روضة",
-    "en": "Al Rawdha: meadow"
+    "ar": "«الروضة» المَوْضِعُ النَّاضِرُ مِنَ الأَرْضِ؛ والشارع في برشا هايتس.",
+    "en": "Ar Rawdah is the fresh green ground; the street lies in Barsha Heights."
   },
   "story": {
     "ar": "«الروضة» روضة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في برشا هايتس من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -81519,8 +81519,8 @@ window.STREETS = [
   "ar": "شارع الرَّوضة الشَّرقِية",
   "en": "Ar Rawdah Ash Sharqiyah Street",
   "meaning": {
-    "ar": "«الرَّوضة الشَّرقِية»: روضة",
-    "en": "Ar Rawdah Ash Sharqiyah: meadow"
+    "ar": "«الشَّرقِيَّة» مِنَ الشَّرقِ في المَكَانِ؛ والشارع في الروضة الشرقية.",
+    "en": "Ash Sharqiyyah is the eastern side; the street lies in Ar Rawdah Ash Sharqiyah."
   },
   "story": {
     "ar": "«الرَّوضة» روضة، و«الشَّرقِية» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع الروضة الشرقية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -81535,8 +81535,8 @@ window.STREETS = [
   "ar": "شارع الزَّهْرَة",
   "en": "Al Zahrah Street",
   "meaning": {
-    "ar": "«الزَّهْرَة»: زهرة",
-    "en": "Al Zahrah: flower"
+    "ar": "«الزَّهْرَة» النَّوْرَةُ مِنَ النَّبَات؛ والشارع في المُعْتَرِض.",
+    "en": "Az Zahrah is the blossom of a plant; the street lies in Al Mu'tarid."
   },
   "story": {
     "ar": "«الزَّهْرَة» زَهْرَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُعْتَرِض من إمارة أبوظبي.",
@@ -81551,8 +81551,8 @@ window.STREETS = [
   "ar": "شارع السلام",
   "en": "Al Salam Street",
   "meaning": {
-    "ar": "«السلام»: سلام",
-    "en": "Al Salam: peace"
+    "ar": "«السلام» التَّسْلِيمُ والأَمْنُ؛ والشارع في المحاضر الغربية.",
+    "en": "As Salam is greeting and safety; the street lies in Western Al Mahadir."
   },
   "story": {
     "ar": "«السلام» سلام، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المحاضر الغربية بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -81567,8 +81567,8 @@ window.STREETS = [
   "ar": "شارع السلام",
   "en": "Al Salam Street",
   "meaning": {
-    "ar": "«السلام»: سلام",
-    "en": "Al Salam: peace"
+    "ar": "السَّلامُ ضِدُّ الحَرْبِ والسَّلَامَةُ؛ والشارع في مدن.",
+    "en": "As Salam is peace against war; the street lies in Mudad."
   },
   "story": {
     "ar": "الاسم «السلام» سلام، وليس مركّباً. وهو الشارع في مدن، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -81583,8 +81583,8 @@ window.STREETS = [
   "ar": "شارع السلام",
   "en": "Al Salam Street",
   "meaning": {
-    "ar": "«السلام»: سلام",
-    "en": "Al Salam: peace"
+    "ar": "«السلام» البِرُّ والتَّحِيَّةُ بين الناس؛ والشارع في الرقة.",
+    "en": "As Salam is kindness and greeting among people; the street lies in Ar Raqqah."
   },
   "story": {
     "ar": "«السلام» سلام، والاسم هو الكلمة نفسها. والشارع في الرقة، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -81599,8 +81599,8 @@ window.STREETS = [
   "ar": "شارع السَّلام",
   "en": "As Salam Street",
   "meaning": {
-    "ar": "«السَّلام»: سلام",
-    "en": "As Salam: peace"
+    "ar": "السَّلامُ أَمَانٌ وسَلَامَةٌ مِنَ الآفَات؛ والشارع في وسط المدينة.",
+    "en": "As Salam is safety and soundness; the street lies in the city centre."
   },
   "story": {
     "ar": "«السَّلام» سلام، والاسم مأخوذ من اسم هذا الموضع. وهذا الموضع أخذ منه اسم الشارع في وسط المدينة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -81695,8 +81695,8 @@ window.STREETS = [
   "ar": "شارع القَصر",
   "en": "Al Qasr Street",
   "meaning": {
-    "ar": "«القَصر»: قصر",
-    "en": "Al Qasr: palace"
+    "ar": "«القَصر» البِناءُ الشَّاهِقُ المَنيع؛ والشارع في الصَّدر.",
+    "en": "Al Qasr is the tall strong building; the street lies in As Sidr."
   },
   "story": {
     "ar": "«القَصر» قَصْر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الصَّدر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -81711,8 +81711,8 @@ window.STREETS = [
   "ar": "شارع النور",
   "en": "Al Noor Street",
   "meaning": {
-    "ar": "«النور»: نور",
-    "en": "Al Noor: light"
+    "ar": "«النور» الضِّيَاءُ والسَّطوع؛ والشارع في حدائق الصفوح.",
+    "en": "An Noor is light and shining; the street lies in Al Safouh Gardens."
   },
   "story": {
     "ar": "«النور» نور، والاسم مأخوذ من هذه الكلمة. وهو الشارع في حدائق الصفوح، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -81727,8 +81727,8 @@ window.STREETS = [
   "ar": "شارع النور",
   "en": "Al Noor Street",
   "meaning": {
-    "ar": "«النور»: نور",
-    "en": "Al Noor: light"
+    "ar": "النُّورُ الضَّوْءُ المُنِيرُ في الظَّلَام؛ والشارع في الرقة.",
+    "en": "An Noor is the bright light in darkness; the street lies in Ar Raqqah."
   },
   "story": {
     "ar": "الاسم «النور» نور، وليس مركّباً. والشارع في الرقة، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -81743,8 +81743,8 @@ window.STREETS = [
   "ar": "شارع النور",
   "en": "Street Al Noor",
   "meaning": {
-    "ar": "«النور»: نور",
-    "en": "Street Al Noor: light"
+    "ar": "«النُّور» مَا يُضِيءُ ويَتَلَأْلَأ؛ والشارع في حدائق الصفوح.",
+    "en": "An Noor is what glows and gleams; the street lies in Al Safouh Gardens."
   },
   "story": {
     "ar": "«النور» نور، والاسم هو الكلمة نفسها. وهذا الموضع أخذ منه اسم الشارع في مغيدر بإمارة الشارقة، وليس كلمة تُفسَّر.",
@@ -81759,8 +81759,8 @@ window.STREETS = [
   "ar": "شارع النور",
   "en": "Al Nour Street",
   "meaning": {
-    "ar": "«النور»: نور",
-    "en": "Al Nour: light"
+    "ar": "النُّورُ مُقَابِلُ الظُّلْمَةِ والسَّوَاد؛ والشارع في الميدان.",
+    "en": "An Noor stands against gloom and darkness; the street lies in Al Maidan."
   },
   "story": {
     "ar": "«النور» نور، والاسم مأخوذ من اسم هذا الموضع. والاسم من أسماء المواضع، والشارع في الميدان، أم القيوين.",
@@ -81775,8 +81775,8 @@ window.STREETS = [
   "ar": "شارع النُّور",
   "en": "Al Nour Street",
   "meaning": {
-    "ar": "«النُّور»: نور",
-    "en": "Al Nour: light"
+    "ar": "«النُّور» السَّطْعَةُ والبَهْجَةُ؛ والشارع في المَقَام.",
+    "en": "An Noor is radiance and delight; the street lies in Al Maqam."
   },
   "story": {
     "ar": "«النُّور» نور، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَقَام.",
@@ -81791,8 +81791,8 @@ window.STREETS = [
   "ar": "شارع النُّور",
   "en": "An Nour Street",
   "meaning": {
-    "ar": "«النُّور»: نور",
-    "en": "An Nour: light"
+    "ar": "النُّورُ أَشَدُّ الضَّوْءِ سَطوعاً ووُضُوحاً؛ والشارع في القَطَّارَة.",
+    "en": "An Noor is the brightest and clearest light; the street lies in Al Qattarah."
   },
   "story": {
     "ar": "الاسم «النُّور» نور، وليس مركّباً. والشارع يقع في القَطَّارَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -81839,8 +81839,8 @@ window.STREETS = [
   "ar": "شارع الواحة",
   "en": "Al Wahah Street",
   "meaning": {
-    "ar": "«الواحة»: واحة",
-    "en": "Al Wahah: oasis"
+    "ar": "«الواحة» المَوْضِعُ المُخْضِرُّ في الصَّحْرَاء؛ والشارع في المُشرِف.",
+    "en": "Al Wahah is the green spot in the desert; the street lies in Al Mushrif."
   },
   "story": {
     "ar": "«الواحة» وَاحَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المُشرِف بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -81855,8 +81855,8 @@ window.STREETS = [
   "ar": "شارع الواحة",
   "en": "Waha Street",
   "meaning": {
-    "ar": "«الواحة»: واحة",
-    "en": "Waha: oasis"
+    "ar": "الوَاحَةُ أَرْضٌ مَزْرُوعَةٌ بَيْنَ الرِّمَال؛ والشارع في النعيمية.",
+    "en": "A wahah is cultivated land among sands; the street lies in An Na'imiyah."
   },
   "story": {
     "ar": "الاسم «الواحة» وَاحَة، وليس مركّباً. وهو الشارع في النعيمية، والاسم من أسماء المواضع التي تعرفها عجمان.",
@@ -81871,8 +81871,8 @@ window.STREETS = [
   "ar": "شارع الواحة",
   "en": "Al Waha Street",
   "meaning": {
-    "ar": "«الواحة»: واحة",
-    "en": "Al Waha: oasis"
+    "ar": "«الواحة» رَوْضَةٌ مُونِقَةٌ في الفَلَوَات؛ والشارع في مجتمع القوز.",
+    "en": "Al Wahah is a pleasant garden in the sands; the street lies in Al Quoz."
   },
   "story": {
     "ar": "«الواحة» وَاحَة، والاسم هو الكلمة نفسها. والشارع في مجتمع القوز، والاسم من أسماء المواضع في إمارة دبي.",
@@ -81887,8 +81887,8 @@ window.STREETS = [
   "ar": "شارع الواحة",
   "en": "Al Waha Street",
   "meaning": {
-    "ar": "«الواحة»: واحة",
-    "en": "Al Waha: oasis"
+    "ar": "الوَاحَةُ مَجْمَعُ النَّخْلِ والمَاءِ في البَادِيَة؛ والشارع في مجتمع القوز.",
+    "en": "A wahah is palms and water gathered in the wild; the street lies in Al Quoz."
   },
   "story": {
     "ar": "«الواحة» وَاحَة، والاسم مأخوذ من اسم هذا الموضع. وهذا الموضع أخذ منه اسم الشارع في السلمة بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -82319,8 +82319,8 @@ window.STREETS = [
   "ar": "شارع دِبا الحِصن",
   "en": "Diba Al Hisn Street",
   "meaning": {
-    "ar": "«دِبا الحِصن»: دِبا الحِصن",
-    "en": "Diba Al Hisn: Dibba of fort"
+    "ar": "«الحِصن» البِناءُ المَنيعُ المُحصَّن؛ والشارع في مدينة محمد بن زايد.",
+    "en": "Al Hisn is the fortified strong building; the street lies in MBZ City."
   },
   "story": {
     "ar": "«دِبا» بَلْدَة، ومعنى الاسم «دِبا الحِصن»؛ و«الحِصن» في الاسم. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -82351,8 +82351,8 @@ window.STREETS = [
   "ar": "شارع رَملات السَحَم",
   "en": "Ramlat Al Saham Street",
   "meaning": {
-    "ar": "«رَملات السَحَم»: رملات",
-    "en": "Ramlat Al Saham: sandy patches"
+    "ar": "«السَّحَم» لا يُفسَّر في المعاجم، والشارع في الوِقن.",
+    "en": "As Saham is a name of unknown meaning; the street lies in Al Wiqan."
   },
   "story": {
     "ar": "«رَملات» رملات، و«السَحَم» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في الوِقن، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -82367,8 +82367,8 @@ window.STREETS = [
   "ar": "شارع رَملات شُبَحات",
   "en": "Ramlat Shubahat Street",
   "meaning": {
-    "ar": "«رَملات شُبَحات»: رملات",
-    "en": "Ramlat Shubahat: sandy patches"
+    "ar": "«شُبَحات» لا تُفسِّره المعاجم، والشارع في الظَّاهِر.",
+    "en": "Shubahat is an unexplained proper name; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "«شُبَحات» اسم الموضع في «رَملات»؛ و«رَملات» رملات. وهذا الموضع أخذ منه اسم الشارع في الظَّاهِر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -82383,8 +82383,8 @@ window.STREETS = [
   "ar": "شارع رَملات شُنُوف",
   "en": "Ramlat Shunouf Street",
   "meaning": {
-    "ar": "«رَملات شُنُوف»: رملات",
-    "en": "Ramlat Shunouf: sandy patches"
+    "ar": "«شُنُوف» جمعُ «شَنَف» من الحُلِيّ؛ ولعلّ الرَّمْلاَت سُمّيَت بها.",
+    "en": "Shunuf is the plural of earrings; the sands may be named for them."
   },
   "story": {
     "ar": "رملات اسمه «رَملات»، و«شُنُوف» اسم يُنسب إليه. والاسم من أسماء المواضع، والشارع في المَنهَل، أبوظبي.",
@@ -82399,8 +82399,8 @@ window.STREETS = [
   "ar": "شارع رَملاتِ معَيشِيق",
   "en": "Ramlat M'aysheeq Street",
   "meaning": {
-    "ar": "«رَملاتِ معَيشِيق»: رملات",
-    "en": "Ramlat M'aysheeq: sandy patches"
+    "ar": "«معَيشِيق» مجهولُ المعنى في المعاجم، والشارع في الفلاح.",
+    "en": "Ma'aysheeq is an unexplained proper name; the street lies in Al Falah."
   },
   "story": {
     "ar": "«معَيشِيق» اسم الموضع، و«رَملاتِ» رملات من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -82415,8 +82415,8 @@ window.STREETS = [
   "ar": "شارع رَوضة الرِّيف",
   "en": "Rawdat Ar Reef Street",
   "meaning": {
-    "ar": "«رَوضة الرِّيف»: روضة",
-    "en": "Rawdat Ar Reef: meadow"
+    "ar": "«الرِّيف» البَادِيَةُ وقُرَاهَا؛ والشارع في العامرة.",
+    "en": "Ar Reef is the countryside and its villages; the street lies in Al Amerah."
   },
   "story": {
     "ar": "«الرِّيف» اسم الموضع في «رَوضة»؛ و«رَوضة» روضة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -82431,8 +82431,8 @@ window.STREETS = [
   "ar": "شارع رَوضة النَّاقة",
   "en": "Rawdat An Naqah Street",
   "meaning": {
-    "ar": "«رَوضة النَّاقة»: روضة",
-    "en": "Rawdat An Naqah: meadow"
+    "ar": "«النَّاقة» الأُنْثَى مِنَ الإِبِل؛ ولعلّ الرَّوضة سُمّيَت بها.",
+    "en": "An Naqah is the female camel; the meadow may be named for it."
   },
   "story": {
     "ar": "روضة اسمه «رَوضة»، و«النَّاقة» اسم يُنسب إليه. وهو من الشوارع الفلاح في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -82447,8 +82447,8 @@ window.STREETS = [
   "ar": "شارع روضه البشاير",
   "en": "Rawda Al-Bashayer Street",
   "meaning": {
-    "ar": "«روضه البشاير»: روضة",
-    "en": "Rawda Al-Bashayer: meadow"
+    "ar": "«البشاير» جمعُ «بُشْرَى» مِنَ الخَبَرِ السَّارّ؛ والشارع في شعبية راشد.",
+    "en": "Al Bashair is the plural of glad tidings; the street lies in Shi'biyyah Rashid."
   },
   "story": {
     "ar": "«البشاير» اسم الموضع، و«روضه» روضة من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في شعبية راشد من إمارة رأس الخيمة.",
@@ -82463,8 +82463,8 @@ window.STREETS = [
   "ar": "شارع زَهرة الأرا",
   "en": "Zahrat Al Ara Street",
   "meaning": {
-    "ar": "«زَهرة الأرا»: زَهْرَةُ الأَرَا",
-    "en": "Zahrat Al Ara: flower of the aerva shrub"
+    "ar": "«الأرا» نبتٌ مَعْرُوفٌ مِنَ الحَمْض؛ ولعلّ الزَّهْرَة سُمّيَت به.",
+    "en": "Al Ara is a known shrub; the flower street may be named for it."
   },
   "story": {
     "ar": "«زَهرة» زَهْرَة، ومعنى الاسم «زَهْرَةُ الأَرَا»؛ و«الأرا» في الاسم. وتقع الشوارع التي تحمل هذا الاسم في هِيلِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -82479,8 +82479,8 @@ window.STREETS = [
   "ar": "شارع زَهرة الأشخَر",
   "en": "Zahrat Al Ashkhar Street",
   "meaning": {
-    "ar": "«زَهرة الأشخَر»: زَهْرَةُ الأَشْخَر",
-    "en": "Zahrat Al Ashkhar: flower of the ashkhar shrub"
+    "ar": "«الأشخَر» نبتٌ مَرٌّ مِنَ العَضاه؛ ولعلّ الزَّهْرَة سُمّيَت به.",
+    "en": "Al Ashkhar is a bitter desert shrub; the flower street may be named for it."
   },
   "story": {
     "ar": "زَهْرَة اسمه «زَهرة» ومعناه «زَهْرَةُ الأَشْخَر»، و«الأشخَر» في الاسم. وهو الشارع في مُصَفَح، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -82495,8 +82495,8 @@ window.STREETS = [
   "ar": "شارع زَهرة البُستان",
   "en": "Zahrat Al Bustan Street",
   "meaning": {
-    "ar": "«زَهرة البُستان»: زَهْرَةُ البُسْتَان",
-    "en": "Zahrat Al Bustan: flower of orchard"
+    "ar": "«البُستان» البَسْتَانُ المُزْرَعُ المُثْمِر؛ والشارع في المَنهَل.",
+    "en": "Al Bustan is the planted fruitful garden; the street lies in Al Manhal."
   },
   "story": {
     "ar": "«البُستان» يصف الموضع في «زَهرة»؛ والمعنى «زَهْرَةُ البُسْتَان». والشارع في المَنهَل، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -82511,8 +82511,8 @@ window.STREETS = [
   "ar": "شارع زَهرة الفُل",
   "en": "Zahrat Al Ful Street",
   "meaning": {
-    "ar": "«زَهرة الفُل»: زهرة",
-    "en": "Zahrat Al Ful: flower"
+    "ar": "«الفُل» نَوْرُ اليَاسَمِينِ الطَّيّب؛ ولعلّ الزَّهْرَة سُمّيَت به.",
+    "en": "Al Ful is the sweet jasmine blossom; the flower street may be named for it."
   },
   "story": {
     "ar": "«زَهرة» زَهْرَة، و«الفُل» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في حَدْبَة الزَّعْفَرَانَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -82527,8 +82527,8 @@ window.STREETS = [
   "ar": "شارع زَهرة اللُّوتَس",
   "en": "Zahrat Al Lutes Street",
   "meaning": {
-    "ar": "«زَهرة اللُّوتَس»: زهرة",
-    "en": "Zahrat Al Lutes: flower"
+    "ar": "«اللُّوتَس» زَهْرَةٌ مَعْرُوفَةٌ في المَاء؛ ولعلّ الزَّهْرَة سُمّيَت بها.",
+    "en": "Al Lutus is a known water flower; the flower street may be named for it."
   },
   "story": {
     "ar": "«اللُّوتَس» اسم الموضع في «زَهرة»؛ و«زَهرة» زَهْرَة. والاسم من أسماء المواضع، والشارع في الفلاح، أبوظبي.",
@@ -82543,8 +82543,8 @@ window.STREETS = [
   "ar": "شارع سلام أبو ناصر",
   "en": "Salam Abu Nasr Street",
   "meaning": {
-    "ar": "«سلام أبو ناصر»: سلام",
-    "en": "Salam Abu Nasr: peace"
+    "ar": "«ناصر» ليس في المعاجم، والشارع في الذيد.",
+    "en": "Nasr is an unexplained proper name; the street lies in Adh Dhaid."
   },
   "story": {
     "ar": "«سلام» سلام، و«أبو ناصر» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في الشارقة، والشارع في الذيد.",
@@ -82559,8 +82559,8 @@ window.STREETS = [
   "ar": "شارع عَقَبَة الأشخَرة",
   "en": "'Aqabat Al Ashkharah Street",
   "meaning": {
-    "ar": "«عَقَبَة الأشخَرة»: عَقَبَةُ الأَشْخَرَة",
-    "en": "'Aqabat Al Ashkharah: mountain pass of the ashkhar shrub"
+    "ar": "«العَقَبَة» الطَّرِيقُ في الجَبَلِ الصَّعْب؛ والشارع في النَّهضة.",
+    "en": "Al 'Aqabah is the hard mountain pass; the street lies in Al Nahdah."
   },
   "story": {
     "ar": "«عَقَبَة» عَقَبَة، ومعنى الاسم «عَقَبَةُ الأَشْخَرَة»؛ و«الأشخَرة» في الاسم. والشارع يقع في النَّهضة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -82767,8 +82767,8 @@ window.STREETS = [
   "ar": "شارع قصر البحر",
   "en": "Qasr Al Bahr Street",
   "meaning": {
-    "ar": "«قصر البحر»: قصر",
-    "en": "Qasr Al Bahr: palace"
+    "ar": "«البحر» المَاءُ المَالِحُ المُتَّسِع؛ والشارع في قَصر البَحر.",
+    "en": "Al Bahr is the wide salty water; the street lies in Qasr Al Bahr."
   },
   "story": {
     "ar": "«قصر» قَصْر، و«البحر» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في قَصر البَحر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -82783,8 +82783,8 @@ window.STREETS = [
   "ar": "شارع قصر السراب",
   "en": "Al Sarab Palace Street",
   "meaning": {
-    "ar": "«قصر السراب»: قصر",
-    "en": "Al Sarab Palace: palace"
+    "ar": "«السَّراب» المَاءُ المُتَخَيَّلُ في الهَجْرَة؛ والشارع في بَطين ليوا.",
+    "en": "As Sarab is the imagined water in the heat; the street lies in Bateen Liwa."
   },
   "story": {
     "ar": "«السراب» اسم الموضع في «قصر»؛ و«قصر» قَصْر. والشارع في بَطين ليوا، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -82799,8 +82799,8 @@ window.STREETS = [
   "ar": "شارع قصر العهد",
   "en": "Qasr Al Aahad Street",
   "meaning": {
-    "ar": "«قصر العهد»: قصر",
-    "en": "Qasr Al Aahad: palace"
+    "ar": "«العَهْد» الوَعْدُ والمِيثَاق؛ والشارع في العهد.",
+    "en": "Al 'Ahd is the promise and covenant; the street lies in Al 'Ahd."
   },
   "story": {
     "ar": "قَصْر اسمه «قصر»، و«العهد» اسم يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في العهد بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -82815,8 +82815,8 @@ window.STREETS = [
   "ar": "شارع قصر زعبيل",
   "en": "Zaa'beel Palace Street",
   "meaning": {
-    "ar": "«قصر زعبيل»: قَصْر",
-    "en": "Zaa'beel Palace: palace of Zabeel"
+    "ar": "«زعبيل» اسمٌ لا يُفسَّر، والشارع في زعبيل.",
+    "en": "Za'abeel is an unexplained proper name; the street lies in Za'abeel."
   },
   "story": {
     "ar": "«زعبيل» اسم الموضع، و«قصر» قَصْر من أسماء المواضع. والاسم من أسماء المواضع، والشارع في زعبيل، دبي.",
@@ -83007,8 +83007,8 @@ window.STREETS = [
   "ar": "شارع واحة الكرامة",
   "en": "Wahat Al Karama Street",
   "meaning": {
-    "ar": "«واحة الكرامة»: واحة",
-    "en": "Wahat Al Karama: oasis"
+    "ar": "«الكرامة» المَنْزِلَةُ الرَّفِيعَةُ والمَعْرُوف؛ والشارع في الروضة.",
+    "en": "Al Karamah is high standing and generosity; the street lies in Ar Rawdah."
   },
   "story": {
     "ar": "«واحة» وَاحَة، و«الكرامة» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع يقع في الروضة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -83119,8 +83119,8 @@ window.STREETS = [
   "ar": "طريق الرَّوضة",
   "en": "Ar Rawdah Road",
   "meaning": {
-    "ar": "«الرَّوضة»: روضة",
-    "en": "Ar Rawdah: meadow"
+    "ar": "الرَّوضةُ مِنَ الأَرْضِ مَا اخْضَرَّ ونَبَتَ؛ والطريق في ربدان.",
+    "en": "Ar Rawdah is green growing ground; the road lies in Rabdan."
   },
   "story": {
     "ar": "الاسم «الرَّوضة» روضة، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الطرق في أبوظبي، والطريق في ربدان.",
@@ -83135,8 +83135,8 @@ window.STREETS = [
   "ar": "طريق السلام",
   "en": "Al Salam Road",
   "meaning": {
-    "ar": "«السلام»: سلام",
-    "en": "Al Salam: peace"
+    "ar": "«السلام» التَّسْلِيمُ والأَمْنُ؛ والطريق في المحاضر الغربية.",
+    "en": "As Salam is greeting and safety; the road lies in Western Al Mahadir."
   },
   "story": {
     "ar": "«السلام» سلام، والاسم مأخوذ من هذه الكلمة. والطريق يقع في اﻹتحاد من إمارة الفجيرة، والاسم مأخوذ من موضع.",
@@ -83151,8 +83151,8 @@ window.STREETS = [
   "ar": "طريق القصر",
   "en": "Al Qasar Road",
   "meaning": {
-    "ar": "«القصر»: قصر",
-    "en": "Al Qasar: palace"
+    "ar": "«القَصر» البِناءُ الشَّاهِقُ المَنيع؛ والطريق في الفصيل.",
+    "en": "Al Qasr is the tall strong building; the road lies in Al Fasil."
   },
   "story": {
     "ar": "الاسم «القصر» قَصْر، وليس مركّباً. وهو من الطرق الفصيل في الفجيرة، والاسم يدل على موضع لا على كلمة.",
@@ -83295,8 +83295,8 @@ window.STREETS = [
   "ar": "شارع البدر",
   "en": "Al Bader Street",
   "meaning": {
-    "ar": "«البدر»: بدر",
-    "en": "Al Bader: full moon"
+    "ar": "«البدر» القَمَرُ التَّامُّ المُتَمَدِّد؛ والشارع في الصفوح.",
+    "en": "Al Badr is the full spreading moon; the street lies in Al Safouh."
   },
   "story": {
     "ar": "«البدر» بدر، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الصفوح 1 في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -83311,8 +83311,8 @@ window.STREETS = [
   "ar": "شارع البدر",
   "en": "Al Badr Street",
   "meaning": {
-    "ar": "«البدر»: بدر",
-    "en": "Al Badr: full moon"
+    "ar": "«البَدر» البَدْرُ ضِدُّ الهِلالِ في الاكتمال؛ والشارع في الرأس.",
+    "en": "Al Badr stands against the crescent in fullness; the street lies in Al Ras."
   },
   "story": {
     "ar": "الاسم «البدر» بدر، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الرأس من إمارة أم القيوين.",
@@ -83327,8 +83327,8 @@ window.STREETS = [
   "ar": "شارع البَدر",
   "en": "Al Badr Street",
   "meaning": {
-    "ar": "«البَدر»: بدر",
-    "en": "Al Badr: full moon"
+    "ar": "البَدْرُ القَمَرُ لَمَّا يَكْمُلُ نُورُه؛ والشارع في آل نَهيان.",
+    "en": "A badr is the moon at the height of its light; the street lies in Al Nahyan."
   },
   "story": {
     "ar": "«البَدر» بدر، والاسم هو الكلمة نفسها. وتقع الشوارع التي تحمل هذا الاسم في آل نَهيان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -83343,8 +83343,8 @@ window.STREETS = [
   "ar": "شارع البركة",
   "en": "Al Barakah Street",
   "meaning": {
-    "ar": "«البركة»: بركة",
-    "en": "Al Barakah: pond"
+    "ar": "«البركة» مَوْضِعُ المَاءِ الرَّاكِدِ المُتَجَمِّع؛ والشارع في الرقة.",
+    "en": "Al Barakah is the still gathered water; the street lies in Ar Raqqah."
   },
   "story": {
     "ar": "«البركة» بِرْكَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الرقة، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -83359,8 +83359,8 @@ window.STREETS = [
   "ar": "شارع البَركة",
   "en": "Al Barakah Street",
   "meaning": {
-    "ar": "«البَركة»: بركة",
-    "en": "Al Barakah: pond"
+    "ar": "«البَركة» الخَيْرُ الكَثِيرُ أو المَحْفَظَة؛ والشارع في مدينة خليفة.",
+    "en": "Al Barakah is abundant good or a purse; the street lies in Khalifa City."
   },
   "story": {
     "ar": "الاسم «البَركة» بِرْكَة، وليس مركّباً. والشارع في مدينة خليفة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -83375,8 +83375,8 @@ window.STREETS = [
   "ar": "شارع التلال",
   "en": "Al Tilal Street",
   "meaning": {
-    "ar": "«التلال»: تلال",
-    "en": "Al Tilal: hills"
+    "ar": "«التلال» جمعُ «تَلَّة» مِنَ الأَرْضِ المُرْتَفِعَة؛ والشارع في جزيرة السعديات.",
+    "en": "At Tilal is the plural of raised hills; the street lies on Saadiyat Island."
   },
   "story": {
     "ar": "«التلال» تلال، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في جزيرة السعديات بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -83391,8 +83391,8 @@ window.STREETS = [
   "ar": "شارع الحدائق",
   "en": "Al Hadaeq St",
   "meaning": {
-    "ar": "«الحدائق»: حدائق",
-    "en": "Al Hadaeq St: gardens"
+    "ar": "«الحدائق» جمعُ «حَدِيقَة» مِنَ البُسْتَان؛ والشارع في البرشاء جنوب 3.",
+    "en": "Al Hada'iq is the plural of gardens; the street lies in Barsha South 3."
   },
   "story": {
     "ar": "«الحدائق» حدائق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في البرشاء جنوب 3، دبي.",
@@ -83407,8 +83407,8 @@ window.STREETS = [
   "ar": "شارع الحَدائِق",
   "en": "Al Hada-iq Street",
   "meaning": {
-    "ar": "«الحَدائِق»: حدائق",
-    "en": "Al Hada-iq: gardens"
+    "ar": "«الحَدائِق» مَوَاضِعُ الزَّرْعِ والنَّوَرِ والنُّزْهَة؛ والشارع في المحاضر الشرقية.",
+    "en": "Al Hadaiq are places of planting and leisure; the street lies in Eastern Al Mahadir."
   },
   "story": {
     "ar": "الاسم «الحَدائِق» حدائق، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المحاضر الشرقية.",
@@ -83551,8 +83551,8 @@ window.STREETS = [
   "ar": "شارع الشَّاطِئ",
   "en": "Ash Shati Street",
   "meaning": {
-    "ar": "«الشَّاطِئ»: شاطئ",
-    "en": "Ash Shati: beach"
+    "ar": "«الشَّاطِئ» حَافَةُ البَحْرِ أو النَّهْرِ المُمْتَدّ؛ والشارع في الصَّدر.",
+    "en": "Ash Shati is the stretching sea or river bank; the street lies in As Sidr."
   },
   "story": {
     "ar": "«الشَّاطِئ» شَاطِئ، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّدر.",
@@ -83775,8 +83775,8 @@ window.STREETS = [
   "ar": "شارع النادي",
   "en": "Club Drive",
   "meaning": {
-    "ar": "«النادي»: نادي",
-    "en": "Club Drive: club"
+    "ar": "«النادي» مَوضِعُ الاجْتِمَاعِ والتَّرْفِيح؛ والشارع في قرى فيكتوري هايتس.",
+    "en": "An Nadi is the meeting and leisure place; the street lies in Victory Heights."
   },
   "story": {
     "ar": "«النادي» نادي، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في قرى فيكتوري هايتس بإمارة دبي، والاسم من أسماء المواضع.",
@@ -83791,8 +83791,8 @@ window.STREETS = [
   "ar": "شارع النادي",
   "en": "Al Nadee Street",
   "meaning": {
-    "ar": "«النادي»: نادي",
-    "en": "Al Nadee: club"
+    "ar": "النَّادِي المَكَانُ الَّذِي يَجْتَمِعُ فيه الأَصْدِقَاء؛ والشارع في كلباء.",
+    "en": "A nadi is where friends gather; the street lies in Kalba."
   },
   "story": {
     "ar": "الاسم «النادي» نادي، وليس مركّباً. وهو الشارع في كلباء، والاسم من أسماء المواضع التي تعرفها الشارقة.",
@@ -83807,8 +83807,8 @@ window.STREETS = [
   "ar": "شارع النَّادِي",
   "en": "Al Nadi Street",
   "meaning": {
-    "ar": "«النَّادِي»: نادي",
-    "en": "Al Nadi: club"
+    "ar": "«النَّادِي» مَجْلِسُ الطَّائِفَةِ أو مَوْضِعُ النُّزْهَة؛ والشارع في مدينة الرياض.",
+    "en": "An Nadi is a circle's hall or a leisure place; the street lies in Ar Riyadah."
   },
   "story": {
     "ar": "«النَّادِي» نادي، والاسم هو الكلمة نفسها. والشارع في مدينة الرياض، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -83823,8 +83823,8 @@ window.STREETS = [
   "ar": "شارع النادي العربي",
   "en": "Arab Club Street",
   "meaning": {
-    "ar": "«النادي العربي»: نادي",
-    "en": "Arab Club: club"
+    "ar": "«العربيّ» نسبةٌ إلى العَرَبِ ولُغَتِهِم؛ والشارع في المجاز.",
+    "en": "Al 'Arabi relates to the Arabs and their tongue; the street lies in Al Majaz."
   },
   "story": {
     "ar": "«النادي» نادي، و«العربي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في المجاز بإمارة الشارقة، وليس كلمة تُفسَّر.",
@@ -83887,8 +83887,8 @@ window.STREETS = [
   "ar": "شارع بدر",
   "en": "Bader Street",
   "meaning": {
-    "ar": "«بدر»: بدر",
-    "en": "Bader: full moon"
+    "ar": "«بدر» القَمَرُ البَاهِرُ لَيْلَةَ التَّمَام؛ والشارع في السوان.",
+    "en": "Badr is the radiant moon on the night of fullness; the street lies in As Siwan."
   },
   "story": {
     "ar": "«بدر» بدر، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع السوان في عجمان، والاسم يدل على موضع لا على كلمة.",
@@ -83903,8 +83903,8 @@ window.STREETS = [
   "ar": "شارع بدر",
   "en": "Badr Street",
   "meaning": {
-    "ar": "«بدر»: بدر",
-    "en": "Badr: full moon"
+    "ar": "البَدْرُ أَبْيَضُ القَمَرِ كَمَالاً ونُوراً؛ والشارع في الحديثة.",
+    "en": "A badr is the moon at its whitest and fullest; the street lies in Al Hadithah."
   },
   "story": {
     "ar": "الاسم «بدر» بدر، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الحديثة من إمارة أم القيوين.",
@@ -83919,8 +83919,8 @@ window.STREETS = [
   "ar": "شارع بِركة السِّمَيح",
   "en": "Birkat As Simayh Street",
   "meaning": {
-    "ar": "«بِركة السِّمَيح»: بركة",
-    "en": "Birkat As Simayh: pond"
+    "ar": "«السِّمَيح» اسمٌ لا يُفسَّر، والشارع في الشَّامْخَة.",
+    "en": "As Simayh is an unexplained proper name; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«بِركة» بِرْكَة، و«السِّمَيح» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -83951,8 +83951,8 @@ window.STREETS = [
   "ar": "شارع بركة كليب",
   "en": "Birkat Kulayb Street",
   "meaning": {
-    "ar": "«بركة كليب»: بركة",
-    "en": "Birkat Kulayb: pond"
+    "ar": "«كليب» اسمٌ مجهولُ التفسير، والشارع في الشَّامْخَة.",
+    "en": "Kulaib is a name of unknown meaning; the street lies in Al Shamkhah."
   },
   "story": {
     "ar": "«كليب» اسم الموضع في «بركة»؛ و«بركة» بِرْكَة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -83967,8 +83967,8 @@ window.STREETS = [
   "ar": "شارع تلال الإمارات",
   "en": "Emirates Hills Road",
   "meaning": {
-    "ar": "«تلال الإمارات»: تلال",
-    "en": "Emirates Hills: hills"
+    "ar": "«الإمارات» مَمَالِكُ وَأَحْكَامُ بَلَادٍ مَعْرُوفَة؛ والشارع في الثنية 3.",
+    "en": "Al Imarat is the plural of emirates; the street lies in Al Thenya 3."
   },
   "story": {
     "ar": "«تلال» تلال، و«الإمارات» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الطريق في الثنية 3 بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -83983,8 +83983,8 @@ window.STREETS = [
   "ar": "شارع تلال الامارات",
   "en": "Tilal Al Imarat Street",
   "meaning": {
-    "ar": "«تلال الامارات»: تلال",
-    "en": "Tilal Al Imarat: hills"
+    "ar": "«الامارات» أَرْضُ الإِمَارَاتِ المَعْرُوفَة؛ والشارع في الصَّارُوج.",
+    "en": "Al Imarat is the well-known land of emirates; the street lies in Al Sarouj."
   },
   "story": {
     "ar": "«الامارات» اسم الموضع في «تلال»؛ و«تلال» تلال. والاسم من أسماء المواضع، والشارع في الصَّارُوج، أبوظبي.",
@@ -83999,8 +83999,8 @@ window.STREETS = [
   "ar": "شارع تِلال المَرفأ",
   "en": "Tilal Al Marfa Street",
   "meaning": {
-    "ar": "«تِلال المَرفأ»: تلال",
-    "en": "Tilal Al Marfa: hills"
+    "ar": "«المَرفأ» مَوْقِفُ السُّفُنِ ومرْسَاهَا؛ والشارع في مدينة الرياض.",
+    "en": "Al Marfa is where ships berth and anchor; the street lies in Ar Riyadah."
   },
   "story": {
     "ar": "تلال اسمه «تِلال»، و«المَرفأ» اسم يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -84015,8 +84015,8 @@ window.STREETS = [
   "ar": "شارع تِلال ليوا",
   "en": "Tilal Liwa Street",
   "meaning": {
-    "ar": "«تِلال ليوا»: تلال",
-    "en": "Tilal Liwa: hills"
+    "ar": "«ليوا» اسمٌ لا يُفسَّر، والشارع في مدينة الرياض.",
+    "en": "Liwa is an unexplained proper name; the street lies in Ar Riyadah."
   },
   "story": {
     "ar": "«ليوا» اسم الموضع، و«تِلال» تلال من أسماء المواضع. والشارع يقع في مدينة الرياض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -84031,8 +84031,8 @@ window.STREETS = [
   "ar": "شارع حدائق الراحة",
   "en": "Hada-iq Ar Rahah Street",
   "meaning": {
-    "ar": "«حدائق الراحة»: حدائق",
-    "en": "Hada-iq Ar Rahah: gardens"
+    "ar": "«الراحة» السَّكِينَةُ وانْتِشَارُ الطُّمَأْنِينَة؛ والشارع في الطِّوَيَّة.",
+    "en": "Ar Rahah is calmness and spreading reassurance; the street lies in Al Tiwayyah."
   },
   "story": {
     "ar": "«حدائق» حدائق، و«الراحة» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع الطِّوَيَّة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -84047,8 +84047,8 @@ window.STREETS = [
   "ar": "شارع حَدَائِق الياسَمِين",
   "en": "Hada-iq Al Yasameen Street",
   "meaning": {
-    "ar": "«حَدَائِق الياسَمِين»: حدائق",
-    "en": "Hada-iq Al Yasameen: gardens"
+    "ar": "«الياسَمين» نَوْرٌ طَيِّبُ الرَّائِحَة؛ والشارع في مْزِيرْعَة.",
+    "en": "Al Yasamin is a sweet-scented blossom; the street lies in Mzaira'ah."
   },
   "story": {
     "ar": "«الياسَمِين» اسم الموضع في «حَدَائِق»؛ و«حَدَائِق» حدائق. والاسم يُنسب إلى موضع، والشارع في مْزِيرْعَة من إمارة أبوظبي.",
@@ -84063,8 +84063,8 @@ window.STREETS = [
   "ar": "شارع حَدَائِق الياسَمِين",
   "en": "Hada-iq Al Yasmeen Street",
   "meaning": {
-    "ar": "«حَدَائِق الياسَمِين»: حدائق",
-    "en": "Hada-iq Al Yasmeen: gardens"
+    "ar": "اليَاسَمِينُ زَهْرٌ مَعْرُوفٌ مُطَيَّبٌ؛ والشارع في المَقَام.",
+    "en": "Yasmin is a known fragrant flower; the street lies in Al Maqam."
   },
   "story": {
     "ar": "حدائق اسمه «حَدَائِق»، و«الياسَمِين» اسم يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في المَقَام بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -84111,8 +84111,8 @@ window.STREETS = [
   "ar": "شارع خَب القَرن",
   "en": "Khab Al Qurn Street",
   "meaning": {
-    "ar": "«خَب القَرن»: خَبُّ القَرْن",
-    "en": "Khab Al Qurn: a broad hollow in the plain of peak"
+    "ar": "«القَرن» الطَّرَفُ أو الوَتَدُ مِنَ الأَرْض؛ والشارع في المُشرِف.",
+    "en": "Al Qarn is a ridge or stake of ground; the street lies in Al Mushrif."
   },
   "story": {
     "ar": "«خَب» خَبّ، ومعنى الاسم «خَبُّ القَرْن»؛ و«القَرن» في الاسم. وهذا الموضع أخذ منه اسم الشارع في المُشرِف بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -84191,8 +84191,8 @@ window.STREETS = [
   "ar": "شارع شاطئ السعديات",
   "en": "Shati' Al Saadiyat Street",
   "meaning": {
-    "ar": "«شاطئ السعديات»: شَاطِئ",
-    "en": "Shati' Al Saadiyat: beach of Saadiyat"
+    "ar": "«السعديات» اسمٌ مركّبٌ مَألوفٌ لِجَزِيرَة؛ والشارع في جزيرة السعديات.",
+    "en": "As Saadiyat is a familiar island name; the street lies on Saadiyat Island."
   },
   "story": {
     "ar": "«شاطئ» شَاطِئ، و«السعديات» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في جزيرة السعديات.",
@@ -84207,8 +84207,8 @@ window.STREETS = [
   "ar": "شارع شاطئ الممزر",
   "en": "Al Mamzar Beach Street",
   "meaning": {
-    "ar": "«شاطئ الممزر»: شاطئ",
-    "en": "Al Mamzar Beach: beach"
+    "ar": "«الممزر» اسمٌ لا يُفسَّر، والشارع في الممزر.",
+    "en": "Al Mamzar is an unexplained proper name; the street lies in Al Mamzar."
   },
   "story": {
     "ar": "«الممزر» اسم الموضع في «شاطئ»؛ و«شاطئ» شَاطِئ. والشارع يقع في الممزر من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -84223,8 +84223,8 @@ window.STREETS = [
   "ar": "شارع شاطِئ ياس",
   "en": "Shati Yas Street",
   "meaning": {
-    "ar": "«شاطِئ ياس»: شاطئ",
-    "en": "Shati Yas: beach"
+    "ar": "«ياس» اسمٌ مجهولُ التفسير، والشارع في شعبة الوُطَاه.",
+    "en": "Yas is a name of unknown meaning; the street lies in Shi'bat Al Wutah."
   },
   "story": {
     "ar": "شَاطِئ اسمه «شاطِئ»، و«ياس» اسم يُنسب إليه. وهو من الشوارع شعبة الوُطَاه في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -84239,8 +84239,8 @@ window.STREETS = [
   "ar": "شارع شِعاب الأشخر",
   "en": "Shi'ab Al Ashkhar Street",
   "meaning": {
-    "ar": "«شِعاب الأشخر»: شِعَابُ الأَشْخَر",
-    "en": "Shi'ab Al Ashkhar: gullies of the ashkhar shrub"
+    "ar": "«الأشخر» نبتٌ مَرٌّ مِنَ العَضاه؛ والشارع في الفلاح.",
+    "en": "Al Ashkhar is a bitter desert shrub; the street lies in Al Falah."
   },
   "story": {
     "ar": "«شِعاب» شِعَاب، ومعنى الاسم «شِعَابُ الأَشْخَر»؛ و«الأشخر» في الاسم. والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
@@ -84271,8 +84271,8 @@ window.STREETS = [
   "ar": "شارع شِعاب الغاف",
   "en": "Shi'ab Al Ghaf Street",
   "meaning": {
-    "ar": "«شِعاب الغاف»: شِعَابُ الغَاف",
-    "en": "Shi'ab Al Ghaf: gullies of ghaf tree"
+    "ar": "«الغاف» شَجَرَةٌ مَعْرُوفَةٌ فِي الأَرْضِ الوَطَنِيَّة؛ والشارع في العامرة.",
+    "en": "Al Ghaf is a known tree of the land; the street lies in Al Amerah."
   },
   "story": {
     "ar": "شِعَاب اسمه «شِعاب» ومعناه «شِعَابُ الغَاف»، و«الغاف» في الاسم. وهو الشارع في العامرة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -84351,8 +84351,8 @@ window.STREETS = [
   "ar": "شارع ضاحِية حَلوان",
   "en": "Dahiyat Halwan Street",
   "meaning": {
-    "ar": "«ضاحِية حَلوان»: ضَاحِيَةُ حَلْوَان",
-    "en": "Dahiyat Halwan: suburb of Helwan"
+    "ar": "«حَلوان» اسمٌ لا يُفسَّر، والشارع في الفلاح.",
+    "en": "Halwan is an unexplained proper name; the street lies in Al Falah."
   },
   "story": {
     "ar": "«ضاحِية» ضَاحِيَة، ومعنى الاسم «ضَاحِيَةُ حَلْوَان»؛ و«حَلوان» في الاسم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -84431,8 +84431,8 @@ window.STREETS = [
   "ar": "شارع ظَهَرة الرّمث",
   "en": "Dhahart Ar Rimth Street",
   "meaning": {
-    "ar": "«ظَهَرة الرّمث»: ظَهْرَةُ الرِّمْث",
-    "en": "Dhahart Ar Rimth: ridge of rimth"
+    "ar": "«الرُّمث» نبتٌ مِنَ الحَمْضِ الطَّويلِ السَّاقِط؛ والشارع في الظَّاهِر.",
+    "en": "Ar Rimth is a long desert shrub; the street lies in Al Dhahir."
   },
   "story": {
     "ar": "«ظَهَرة» ظَهْرَة، ومعنى الاسم «ظَهْرَةُ الرِّمْث»؛ و«الرّمث» في الاسم. وهو الشارع في الظَّاهِر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -84671,8 +84671,8 @@ window.STREETS = [
   "ar": "شارع مالك الخثمي",
   "en": "Malek Al Khathami Street",
   "meaning": {
-    "ar": "«مالك الخثمي»: مالك",
-    "en": "Malek Al Khathami: owner"
+    "ar": "«الخثمي» نسبةٌ إلى خَثْعَمَ مِنَ القَبَائِل؛ والشارع في مدينة الشارقة.",
+    "en": "Al Khathami is a nisbah to Khath'am tribe; the street lies in Sharjah City."
   },
   "story": {
     "ar": "«مالك» مالك، و«الخثمي» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع يقع في مدينة الشارقة من إمارة الشارقة، والاسم مأخوذ من موضع.",
@@ -84687,8 +84687,8 @@ window.STREETS = [
   "ar": "شارع مالك الصوائف",
   "en": "Malek Al Sawa'ef Street",
   "meaning": {
-    "ar": "«مالك الصوائف»: مالك",
-    "en": "Malek Al Sawa'ef: owner"
+    "ar": "«الصوائف» جمعُ «صائفة» مِنَ الجُيُوشِ المُرْتَحِلَة؛ والشارع في مدينة الشارقة.",
+    "en": "As Sawa'if is the plural of seasonal campaigns; the street lies in Sharjah City."
   },
   "story": {
     "ar": "«الصوائف» اسم الموضع في «مالك»؛ و«مالك» مالك. وهو من الشوارع مدينة الشارقة في الشارقة، والاسم يدل على موضع لا على كلمة.",
@@ -84703,8 +84703,8 @@ window.STREETS = [
   "ar": "شارع مالك الغافقي",
   "en": "Malek Al Ghafeqi Street",
   "meaning": {
-    "ar": "«مالك الغافقي»: مالك",
-    "en": "Malek Al Ghafeqi: owner"
+    "ar": "«الغافقي» نسبةٌ إلى غَافِقَ مِنَ النَّاس؛ والشارع في الشرق.",
+    "en": "Al Ghafeqi is a nisbah to Ghafig; the street lies in Ash Sharq."
   },
   "story": {
     "ar": "مالك اسمه «مالك»، و«الغافقي» اسم يُنسب إليه. والاسم يُنسب إلى موضع، والشارع في الشرق من إمارة الشارقة.",
@@ -84719,8 +84719,8 @@ window.STREETS = [
   "ar": "شارع مالك النصري",
   "en": "Malik Al Nasri Street",
   "meaning": {
-    "ar": "«مالك النصري»: مالك",
-    "en": "Malik Al Nasri: owner"
+    "ar": "«النصري» نسبةٌ إلى نَصْرٍ مِنَ الأَسْمَاء؛ والشارع في حلوان.",
+    "en": "An Nasri is a nisbah to Nasr; the street lies in Halwan."
   },
   "story": {
     "ar": "«النصري» اسم الموضع، و«مالك» مالك من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في حلوان بإمارة الشارقة، والاسم من أسماء المواضع.",
@@ -84799,8 +84799,8 @@ window.STREETS = [
   "ar": "شارع نادي الوصل",
   "en": "Al Wasl Club Street",
   "meaning": {
-    "ar": "«نادي الوصل»: نادي",
-    "en": "Al Wasl Club: club"
+    "ar": "«الوصل» الاتِّصَالُ وضِدُّ الهِجْرَان؛ والشارع في الجداف.",
+    "en": "Al Wasl is union against separation; the street lies in Al Jadaf."
   },
   "story": {
     "ar": "«الوصل» اسم الموضع في «نادي»؛ و«نادي» نادي. والاسم من أسماء المواضع، والشارع في الجداف، دبي.",
@@ -85007,8 +85007,8 @@ window.STREETS = [
   "ar": "طريق شاطئ كلباء",
   "en": "Kalba Beach Road",
   "meaning": {
-    "ar": "«شاطئ كلباء»: شَاطِئ",
-    "en": "Kalba Beach: beach of Kalba"
+    "ar": "«كلباء» اسمٌ لا يُفسَّر، والطريق في كلباء.",
+    "en": "Kalba is an unexplained proper name; the road lies in Kalba."
   },
   "story": {
     "ar": "«كلباء» اسم الموضع، و«شاطئ» شَاطِئ من أسماء المواضع. والاسم يُنسب إلى موضع، والطريق في كلباء من إمارة الشارقة.",
@@ -85039,8 +85039,8 @@ window.STREETS = [
   "ar": "شارع الثمام",
   "en": "Al Thmam Street",
   "meaning": {
-    "ar": "«الثمام»: ثمام",
-    "en": "Al Thmam: the thamam grass"
+    "ar": "«الثمام» نَبْتَةٌ مَعْرُوفَةٌ مِنَ الأَعْشَابِ البَرِّيَّة؛ والشارع في المَرْخَانِيَّة.",
+    "en": "Ath Thamam is a known wild grass; the street lies in Al Markhaniyyah."
   },
   "story": {
     "ar": "«الثمام» ثَمَام، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَرْخَانِيَّة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -85055,8 +85055,8 @@ window.STREETS = [
   "ar": "شارع الثمام",
   "en": "Ath Thmam Street",
   "meaning": {
-    "ar": "«الثمام»: ثمام",
-    "en": "Ath Thmam: the thamam grass"
+    "ar": "الثَّمَامُ عُشْبٌ مُعْتَمِرٌ فِي الأَرْضِ الحَرَّاء؛ والشارع في مدينة محمد بن زايد.",
+    "en": "Thamam is a grass that grows in open ground; the street lies in MBZ City."
   },
   "story": {
     "ar": "الاسم «الثمام» ثَمَام، وليس مركّباً. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -85071,8 +85071,8 @@ window.STREETS = [
   "ar": "شارع الثمام",
   "en": "Al Thammam Street",
   "meaning": {
-    "ar": "«الثمام»: ثمام",
-    "en": "Al Thammam: the thamam grass"
+    "ar": "«الثمام» الحَبُّ المَعْرُوفُ أَوِ الحَشِيشُ النَّبَاتِيّ؛ والشارع في الحبية 5.",
+    "en": "Ath Thamam is the known grain or herbage; the street lies in Al Habiyah 5."
   },
   "story": {
     "ar": "«الثمام» ثَمَام، والاسم هو الكلمة نفسها. وهذا الموضع أخذ منه اسم الشارع في الحبية 5 بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -85087,8 +85087,8 @@ window.STREETS = [
   "ar": "شارع الثمام",
   "en": "Al Thamam Street",
   "meaning": {
-    "ar": "«الثمام»: ثمام",
-    "en": "Al Thamam: the thamam grass"
+    "ar": "الثَّمَامُ مِنَ النَّبَاتِ البَرِّيِّ الدَّائِمِ المَعْرُوف؛ والشارع في الحرس الوطني.",
+    "en": "Thamam is a known lasting wild plant; the street lies in National Guard."
   },
   "story": {
     "ar": "كلمة «الثمام» معناها «ثَمَام»، والاسم منها. والاسم من أسماء المواضع، والشارع في الحرس الوطني، أم القيوين.",
@@ -85119,8 +85119,8 @@ window.STREETS = [
   "ar": "شارع الحديقة",
   "en": "Al Hadiqa Street",
   "meaning": {
-    "ar": "«الحديقة»: حديقة",
-    "en": "Al Hadiqa: garden, park"
+    "ar": "«الحديقة» الرَّوْضَةُ المَزْرُوعَةُ المُنَظَّمَة؛ والشارع في الوصل.",
+    "en": "Al Hadiqah is the planted orderly garden; the street lies in Al Wasl."
   },
   "story": {
     "ar": "«الحديقة» حديقة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الوصل من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -85135,8 +85135,8 @@ window.STREETS = [
   "ar": "شارع الحَدِيقَة",
   "en": "Al Hadeeqah Street",
   "meaning": {
-    "ar": "«الحَدِيقَة»: حديقة",
-    "en": "Al Hadeeqah: garden, park"
+    "ar": "الحَدِيقَةُ مَوْضِعُ النَّزْهَةِ والزَّهْرِ والنَّبَات؛ والشارع في مدينة زايد.",
+    "en": "A hadiqah is a place of leisure and flowers; the street lies in Zayed City."
   },
   "story": {
     "ar": "الاسم «الحَدِيقَة» حديقة، وليس مركّباً. وهو من الشوارع مدينة زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -85215,8 +85215,8 @@ window.STREETS = [
   "ar": "شارع الخيل",
   "en": "Al Khail Street",
   "meaning": {
-    "ar": "«الخيل»: خيل",
-    "en": "Al Khail: horses"
+    "ar": "«الخيل» جمعُ «حِصَان» ونُجُوبُ الإِبِلِ الأَصِيلَة؛ والشارع في الجرف.",
+    "en": "Al Khail is horses and fine-bred camels; the street lies in Al Jurf."
   },
   "story": {
     "ar": "«الخيل» خَيْل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الجرف بإمارة عجمان، وليس كلمة تُفسَّر.",
@@ -85231,8 +85231,8 @@ window.STREETS = [
   "ar": "شارع الخَيل",
   "en": "Al Khayl Street",
   "meaning": {
-    "ar": "«الخَيل»: خيل",
-    "en": "Al Khayl: horses"
+    "ar": "الخَيْلُ الأَصِيلَةُ مِنَ الخَيْلِ الكَرِيمِ السَّرِيع؛ والشارع في مدينة خليفة.",
+    "en": "Khayl are purebred swift horses; the street lies in Khalifa City."
   },
   "story": {
     "ar": "الاسم «الخَيل» خَيْل، وليس مركّباً. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -85247,8 +85247,8 @@ window.STREETS = [
   "ar": "شارع الخيل الأول",
   "en": "First Al Khail Street",
   "meaning": {
-    "ar": "«الخيل الأول»: خيل",
-    "en": "First Al Khail: horses"
+    "ar": "«الأول» الأَوَّلُ فِي التَّرْتِيبِ والتَّقْدِيم؛ والشارع في جبل علي الصناعية 1.",
+    "en": "Al Awwal is the first in order; the street lies in Jebel Ali Industrial 1."
   },
   "story": {
     "ar": "«الخيل» خَيْل، و«الأول» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في جبل علي الصناعية 1.",
@@ -85263,8 +85263,8 @@ window.STREETS = [
   "ar": "شارع الخيل الأول",
   "en": "First Al-Khail Street",
   "meaning": {
-    "ar": "«الخيل الأول»: خيل",
-    "en": "First Al-Khail: horses"
+    "ar": "«الأوَّل» المُقَدَّمُ فِي النِّسْبَةِ والرُّتْبَة؛ والشارع في جبل علي الصناعية 1.",
+    "en": "Al Awwal is the foremost in rank; the street lies in Jebel Ali Industrial 1."
   },
   "story": {
     "ar": "«الأول» اسم الموضع في «الخيل»؛ و«الخيل» خَيْل. والشارع يقع في جبل علي الصناعية 2 من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -85583,8 +85583,8 @@ window.STREETS = [
   "ar": "شارع الزمرد",
   "en": "Al Zumorrod Street",
   "meaning": {
-    "ar": "«الزمرد»: زمرد",
-    "en": "Al Zumorrod: emerald"
+    "ar": "«الزمرد» الحَجَرُ الكَرِيمُ الأَخْضَرُ المُتَّجِر؛ والشارع في مجتمع القوز.",
+    "en": "Az Zumurrud is the precious green stone; the street lies in Al Quoz."
   },
   "story": {
     "ar": "«الزمرد» زمرد، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مجتمع القوز في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -85599,8 +85599,8 @@ window.STREETS = [
   "ar": "شارع الزمرد",
   "en": "Al Zomorrod Street",
   "meaning": {
-    "ar": "«الزمرد»: زمرد",
-    "en": "Al Zomorrod: emerald"
+    "ar": "الزُّمُرُّدُ مِنَ الجَوَاهِرِ الخَضْرَاءِ الثَّمِينَة؛ والشارع في الحوية.",
+    "en": "Zumurrud is among the precious green gems; the street lies in Al Huwayyah."
   },
   "story": {
     "ar": "الاسم «الزمرد» زمرد، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الحوية من إمارة أم القيوين.",
@@ -85615,8 +85615,8 @@ window.STREETS = [
   "ar": "شارع الزُمرُّد",
   "en": "Al Zumurrud Street",
   "meaning": {
-    "ar": "«الزُمرُّد»: زمرد",
-    "en": "Al Zumurrud: emerald"
+    "ar": "«الزُمرُّد» يَاقُوتَةٌ خَضْرَاءُ نَفِيسَةٌ مَعْرُوفَة؛ والشارع في المُعْتَرِض.",
+    "en": "Az Zumurrud is a known precious emerald; the street lies in Al Mu'tarid."
   },
   "story": {
     "ar": "«الزُمرُّد» زمرد، والاسم هو الكلمة نفسها. وتقع الشوارع التي تحمل هذا الاسم في المُعْتَرِض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -85631,8 +85631,8 @@ window.STREETS = [
   "ar": "شارع الزُمُرُّد",
   "en": "Az Zumurrud Street",
   "meaning": {
-    "ar": "«الزُمُرُّد»: زمرد",
-    "en": "Az Zumurrud: emerald"
+    "ar": "الزُّمُرُّدُ جَوْهَرٌ أَخْضَرُ نَفِيسٌ مِنَ الأَجْوَهَر؛ والشارع في الروضة.",
+    "en": "Zumurrud is a precious green jewel; the street lies in Ar Rawdah."
   },
   "story": {
     "ar": "«الزُمُرُّد» زمرد، والاسم مأخوذ من اسم هذا الموضع. وهو الشارع في الروضة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -85775,8 +85775,8 @@ window.STREETS = [
   "ar": "شارع الشروق",
   "en": "Al Shorouk Street",
   "meaning": {
-    "ar": "«الشروق»: شروق",
-    "en": "Al Shorouk: sunrise"
+    "ar": "«الشروق» طُلُوعُ الشَّمْسِ أَوَّلَ النَّهَار؛ والشارع في الحديثة.",
+    "en": "Ash Shuruq is the sunrise at daybreak; the street lies in Al Hadithah."
   },
   "story": {
     "ar": "«الشروق» شروق، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الحديثة، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -85791,8 +85791,8 @@ window.STREETS = [
   "ar": "شارع الشُّرُوق",
   "en": "Al Shurouq Street",
   "meaning": {
-    "ar": "«الشُّرُوق»: شروق",
-    "en": "Al Shurouq: sunrise"
+    "ar": "الشُّرُوقُ خُرُوجُ الشَّمْسِ عَنِ الأُفُقِ الزَّاهِر؛ والشارع في وسط المدينة.",
+    "en": "Shuruq is the sun leaving the bright horizon; the street lies in the city centre."
   },
   "story": {
     "ar": "الاسم «الشُّرُوق» شروق، وليس مركّباً. والشارع في وسط المدينة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -85807,8 +85807,8 @@ window.STREETS = [
   "ar": "شارع الشُّرُوق",
   "en": "Ash Shurouq Street",
   "meaning": {
-    "ar": "«الشُّرُوق»: شروق",
-    "en": "Ash Shurouq: sunrise"
+    "ar": "«الشُّرُوق» مَوَاقِتُ طُلُوعِ الشَّمْسِ فِي الصَّبَاح؛ والشارع في المرْفَأ.",
+    "en": "Ash Shuruq are the times of sunrise in the morning; the street lies in Al Mina."
   },
   "story": {
     "ar": "«الشُّرُوق» شروق، والاسم هو الكلمة نفسها. وهذا الموضع أخذ منه اسم الشارع في المرْفَأ بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -85887,8 +85887,8 @@ window.STREETS = [
   "ar": "شارع العروبة",
   "en": "Al Urouba Road",
   "meaning": {
-    "ar": "«العروبة»: عروبة",
-    "en": "Al Urouba: Arabness; Arabicness"
+    "ar": "«العروبة» الانْتِمَاءُ إلى العَرَبِ ولُغَتِهِم؛ والشارع في جميرا.",
+    "en": "Al 'Urubah is belonging to the Arabs and their language; the street lies in Jumeirah."
   },
   "story": {
     "ar": "الاسم «العروبة» عروبة، وليس مركّباً. والاسم يُنسب إلى موضع، والطريق في جميرا من إمارة دبي.",
@@ -85903,8 +85903,8 @@ window.STREETS = [
   "ar": "شارع العروبة",
   "en": "Al Arouba Street",
   "meaning": {
-    "ar": "«العروبة»: عروبة",
-    "en": "Al Arouba: Arabness; Arabicness"
+    "ar": "العُرُوبَةُ حَقِيقَةُ العَرَبِيَّةِ وقِيَمِهَا؛ والشارع في السور.",
+    "en": "Urubah is the essence of Arab identity; the street lies in As Sur."
   },
   "story": {
     "ar": "«العروبة» عروبة، والاسم هو الكلمة نفسها. وتقع الشوارع التي تحمل هذا الاسم في السور بإمارة الشارقة، والاسم من أسماء المواضع.",
@@ -85919,8 +85919,8 @@ window.STREETS = [
   "ar": "شارع العروبة",
   "en": "Al Orobah Street",
   "meaning": {
-    "ar": "«العروبة»: عروبة",
-    "en": "Al Orobah: Arabness; Arabicness"
+    "ar": "«العروبة» أَصَالَةُ العَرَبِ وقِيَمُهُمُ الأَصِيلَة؛ والشارع في الروضة.",
+    "en": "Al 'Urubah is the heritage and values of the Arabs; the street lies in Ar Rawdah."
   },
   "story": {
     "ar": "«العروبة» عروبة، والاسم مأخوذ من اسم هذا الموضع. وهو الشارع في الروضة، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -85983,8 +85983,8 @@ window.STREETS = [
   "ar": "شارع الفَارِس",
   "en": "Al Faris Street",
   "meaning": {
-    "ar": "«الفَارِس»: فارس",
-    "en": "Al Faris: horseman, rider"
+    "ar": "«الفَارِس» رَاكِبُ الخَيْلِ الشُّجَاعُ المَاهِر؛ والشارع في الخَالِدية.",
+    "en": "Al Faris is the skilled brave horseman; the street lies in Al Khalidiyah."
   },
   "story": {
     "ar": "«الفَارِس» فارس، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الخَالِدية.",
@@ -86127,8 +86127,8 @@ window.STREETS = [
   "ar": "شارع الكرامة",
   "en": "Al Karamah Street",
   "meaning": {
-    "ar": "«الكرامة»: كرامة",
-    "en": "Al Karamah: dignity"
+    "ar": "«الكرامة» المَنْزِلَةُ الرَّفِيعَةُ والمَعْرُوفُ الكَثِير؛ والشارع في المَنهَل.",
+    "en": "Al Karamah is high standing and generosity; the street lies in Al Manhal."
   },
   "story": {
     "ar": "«الكرامة» كرامة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَنهَل.",
@@ -86143,8 +86143,8 @@ window.STREETS = [
   "ar": "شارع الكرامة",
   "en": "Al Karama Street",
   "meaning": {
-    "ar": "«الكرامة»: كرامة",
-    "en": "Al Karama: dignity"
+    "ar": "الكَرَامَةُ الشَّرَفُ والقَدْرُ المَحْفُوظُ لِلنَّاس؛ والشارع في النخيل.",
+    "en": "Karamah is nobility and preserved human worth; the street lies in Al Nakhil."
   },
   "story": {
     "ar": "الاسم «الكرامة» كرامة، وليس مركّباً. والشارع يقع في النخيل من إمارة عجمان، والاسم مأخوذ من موضع.",
@@ -86159,8 +86159,8 @@ window.STREETS = [
   "ar": "شارع الكرامة",
   "en": "Al karama Street",
   "meaning": {
-    "ar": "«الكرامة»: كرامة",
-    "en": "Al karama: dignity"
+    "ar": "«الكرامة» الإِحْسَانُ وإِجْلَالُ النَّاسِ لِبَعْضِهِم؛ والشارع في الكرامة.",
+    "en": "Al Karamah is kindness and respect among people; the street lies in Al Karamah."
   },
   "story": {
     "ar": "«الكرامة» كرامة، والاسم هو الكلمة نفسها. وهو من الشوارع الكرامة في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -86175,8 +86175,8 @@ window.STREETS = [
   "ar": "شارع الكرامة",
   "en": "Al Karama Street",
   "meaning": {
-    "ar": "«الكرامة»: كرامة",
-    "en": "Al Karama: dignity"
+    "ar": "الكَرَامَةُ ضِدُّ الهَوَانِ والسُّقُوطِ فِي الأَعْيُن؛ والشارع في النخيل.",
+    "en": "Karamah stands against disgrace and fall; the street lies in Al Nakhil."
   },
   "story": {
     "ar": "«الكرامة» كرامة، والاسم مأخوذ من اسم هذا الموضع. والاسم يُنسب إلى موضع، والشارع في الرقة من إمارة أم القيوين.",
@@ -86239,8 +86239,8 @@ window.STREETS = [
   "ar": "شارع المدار",
   "en": "Al Madaar Street",
   "meaning": {
-    "ar": "«المدار»: مدار",
-    "en": "Al Madaar: orbit"
+    "ar": "«المدار» الفَلَكُ أو دَائِرَةُ الدَّوْرَانِ السَّمَاوِيّ؛ والشارع في الصفوح 2.",
+    "en": "Al Madar is the orbit or turning circle; the street lies in Al Safouh 2."
   },
   "story": {
     "ar": "«المدار» مدار، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الصفوح 2 بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -86255,8 +86255,8 @@ window.STREETS = [
   "ar": "شارع المدار",
   "en": "Al Madar Street",
   "meaning": {
-    "ar": "«المدار»: مدار",
-    "en": "Al Madar: orbit"
+    "ar": "المَدَارُ مَجْرَى الكَوَاكِبِ فِي السَّمَاءِ الفَلَكِيَّة؛ والشارع في السلمة.",
+    "en": "Madar is the path of stars in the sky; the street lies in As Salamah."
   },
   "story": {
     "ar": "الاسم «المدار» مدار، وليس مركّباً. والاسم من أسماء المواضع، والشارع في السلمة، أم القيوين.",
@@ -86271,8 +86271,8 @@ window.STREETS = [
   "ar": "شارع المَدار",
   "en": "Al Madar Street",
   "meaning": {
-    "ar": "«المَدار»: مدار",
-    "en": "Al Madar: orbit"
+    "ar": "«المَدار» الحَدُّ الَّذِي يَدُورُ عَلَيْهِ الشَّيْءُ بِاسْتِمْرَار؛ والشارع في الطِّوَيَّة.",
+    "en": "Al Madar is the line something turns on; the street lies in Al Tiwayyah."
   },
   "story": {
     "ar": "«المَدار» مدار، والاسم هو الكلمة نفسها. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الطِّوَيَّة.",
@@ -86303,8 +86303,8 @@ window.STREETS = [
   "ar": "شارع المستشفى",
   "en": "Al Mustashfa Street",
   "meaning": {
-    "ar": "«المستشفى»: مستشفى",
-    "en": "Al Mustashfa: hospital"
+    "ar": "«المستشفى» مَكَانُ عِلَاجِ المَرْضَى وقُرْصَنَتِهِم؛ والشارع في خورفكان.",
+    "en": "Al Mustashfa is where the sick are treated; the street lies in Khor Fakkan."
   },
   "story": {
     "ar": "«المستشفى» مستشفى، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع خورفكان في الشارقة، والاسم يدل على موضع لا على كلمة.",
@@ -86319,8 +86319,8 @@ window.STREETS = [
   "ar": "شارع المستشفى",
   "en": "Al Mustashfa Street",
   "meaning": {
-    "ar": "«المستشفى»: مستشفى",
-    "en": "Al Mustashfa: hospital"
+    "ar": "المُسْتَشْفَى بِنَاءُ الشِّفَاءِ والطِّبِّ الحَدِيث؛ والشارع في خورفكان.",
+    "en": "A mustashfa is a building for healing and medicine; the street lies in Khor Fakkan."
   },
   "story": {
     "ar": "الاسم «المستشفى» مستشفى، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الرأس من إمارة أم القيوين.",
@@ -86415,8 +86415,8 @@ window.STREETS = [
   "ar": "شارع الهلال",
   "en": "Al Helal Street",
   "meaning": {
-    "ar": "«الهلال»: هلال",
-    "en": "Al Helal: crescent"
+    "ar": "«الهلال» البَدْرُ النَّاقِصُ المُقَوَّسُ فِي السَّمَاء؛ والشارع في الرأس.",
+    "en": "Al Hilal is the curved waning moon; the street lies in Al Ras."
   },
   "story": {
     "ar": "«الهلال» هلال، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الرأس من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -86431,8 +86431,8 @@ window.STREETS = [
   "ar": "شارع الهِلال",
   "en": "Al Hilal Street",
   "meaning": {
-    "ar": "«الهِلال»: هلال",
-    "en": "Al Hilal: crescent"
+    "ar": "الهِلالُ أَوَّلُ مَا يُرَى مِنَ القَمَرِ الْمُبْتَدِئ؛ والشارع في المُشرِف.",
+    "en": "A hilal is the first sight of the new moon; the street lies in Al Mushrif."
   },
   "story": {
     "ar": "الاسم «الهِلال» هلال، وليس مركّباً. وهو من الشوارع المُشرِف في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -86447,8 +86447,8 @@ window.STREETS = [
   "ar": "شارع الهلال الشرقي",
   "en": "Crescent Road East",
   "meaning": {
-    "ar": "«الهلال الشرقي»: هلال",
-    "en": "Crescent Road East: crescent"
+    "ar": "«الشرقي» مِنَ الشَّرْقِ فِي المَكَانِ والجِهَة؛ والشارع في نخلة جميرا.",
+    "en": "Ash Sharqi is the eastern side in place; the street lies on Palm Jumeirah."
   },
   "story": {
     "ar": "«الهلال» هلال، و«الشرقي» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في نخلة جميرا من إمارة دبي.",
@@ -86463,8 +86463,8 @@ window.STREETS = [
   "ar": "شارع الهلال غرب",
   "en": "Crescent Road West",
   "meaning": {
-    "ar": "«الهلال غرب»: هلال",
-    "en": "Crescent Road West: crescent"
+    "ar": "«غرب» مُقَابِلُ الشَّرْقِ فِي جِهَةِ المَكَان؛ والشارع في نخلة جميرا.",
+    "en": "Gharb stands opposite the east in direction; the street lies on Palm Jumeirah."
   },
   "story": {
     "ar": "«غرب» اسم الموضع في «الهلال»؛ و«الهلال» هلال. وتقع الشوارع التي تحمل هذا الاسم في نخلة جميرا بإمارة دبي، والاسم من أسماء المواضع.",
@@ -86479,8 +86479,8 @@ window.STREETS = [
   "ar": "شارع الياسمين",
   "en": "Jasmine Street",
   "meaning": {
-    "ar": "«الياسمين»: ياسمين",
-    "en": "Jasmine: jasmine"
+    "ar": "«الياسمين» نَوْرٌ أَبْيَضُ طَيِّبُ الرَّائِحَةِ المَعْرُوف؛ والشارع في الحدائق.",
+    "en": "Al Yasmin is a known white fragrant flower; the street lies in Al Hada'iq."
   },
   "story": {
     "ar": "«الياسمين» ياسمين، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الحدائق، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -86495,8 +86495,8 @@ window.STREETS = [
   "ar": "شارع الياسمين",
   "en": "Yasmeen Street",
   "meaning": {
-    "ar": "«الياسمين»: ياسمين",
-    "en": "Yasmeen: jasmine"
+    "ar": "اليَاسَمِينُ مِنَ الزُّهُورِ المُطَيَّبَةِ الشَّهِيرَة؛ والشارع في الثنية 3.",
+    "en": "Yasmin is among the famous scented flowers; the street lies in Al Thenya 3."
   },
   "story": {
     "ar": "الاسم «الياسمين» ياسمين، وليس مركّباً. والشارع في الثنية 3، والاسم من أسماء المواضع في إمارة دبي.",
@@ -86511,8 +86511,8 @@ window.STREETS = [
   "ar": "شارع اليَاسمِين",
   "en": "Al Yasmeen Street",
   "meaning": {
-    "ar": "«اليَاسمِين»: ياسمين",
-    "en": "Al Yasmeen: jasmine"
+    "ar": "«اليَاسمِين» شَجَرٌ أَوْ زَهْرٌ مَعْرُوفٌ طَيِّب؛ والشارع في المَقَام.",
+    "en": "Al Yasmin is a known sweet tree or flower; the street lies in Al Maqam."
   },
   "story": {
     "ar": "«اليَاسمِين» ياسمين، والاسم هو الكلمة نفسها. وهذا الموضع أخذ منه اسم الشارع في المَقَام بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -86575,8 +86575,8 @@ window.STREETS = [
   "ar": "شارع جدة",
   "en": "Jeddah Street",
   "meaning": {
-    "ar": "«جدة»: جَدَّة",
-    "en": "Jeddah: grandmother"
+    "ar": "«جدة» مَدِينَةٌ مَعْرُوفَةٌ أَوِ الأُنْثَى مِنَ الأَجْدَاد؛ والشارع في الدَّانَةْ.",
+    "en": "Jeddah is a known city or a grandmother; the street lies in Al Danah."
   },
   "story": {
     "ar": "«جدة» جَدَّة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الدَّانَةْ من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -86591,8 +86591,8 @@ window.STREETS = [
   "ar": "شارع جدة",
   "en": "Jeddah Street",
   "meaning": {
-    "ar": "«جدة»: جَدَّة",
-    "en": "Jeddah: grandmother"
+    "ar": "جَدَّةُ أُمُّ الوَالِدِ فِي النَّسَبِ والعَائِلَة؛ والشارع في الدَّانَةْ.",
+    "en": "A jaddah is the father's mother in lineage; the street lies in Al Danah."
   },
   "story": {
     "ar": "الاسم «جدة» جَدَّة، وليس مركّباً. وهو من الشوارع المنطقة الصناعية في أم القيوين، والاسم يدل على موضع لا على كلمة.",
@@ -86607,8 +86607,8 @@ window.STREETS = [
   "ar": "شارع جَدَّة",
   "en": "Jaddah Street",
   "meaning": {
-    "ar": "«جَدَّة»: جَدَّة",
-    "en": "Jaddah: grandmother"
+    "ar": "«جَدَّة» الأُنْثَى مِنَ الأَجْدَادِ فِي القَبِيلَة؛ والشارع في زاخِر.",
+    "en": "Jaddah is the female ancestor in the tribe; the street lies in Zakhir."
   },
   "story": {
     "ar": "«جَدَّة» جَدَّة، والاسم هو الكلمة نفسها. والاسم يُنسب إلى موضع، والشارع في زاخِر من إمارة أبوظبي.",
@@ -86623,8 +86623,8 @@ window.STREETS = [
   "ar": "شارع جِدَّة سِلَيَّة",
   "en": "Jiddat Silayah Street",
   "meaning": {
-    "ar": "«جِدَّة سِلَيَّة»: جَدَّة",
-    "en": "Jiddat Silayah: grandmother"
+    "ar": "«سِلَيَّة» الوَلَدُ الصَّغيرُ مِنَ الإِبِلِ الوَلُود؛ والشارع في الصَّارُوج.",
+    "en": "Sillayah is the newborn camel-calf; the street lies in Al Sarouj."
   },
   "story": {
     "ar": "«جِدَّة» جَدَّة، والاسم مأخوذ من اسم هذا الموضع. وتقع الشوارع التي تحمل هذا الاسم في الصَّارُوج بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -86687,8 +86687,8 @@ window.STREETS = [
   "ar": "شارع حَديقة الغِزلان",
   "en": "Hadeeqat Al Ghizlan Street",
   "meaning": {
-    "ar": "«حَديقة الغِزلان»: حديقة",
-    "en": "Hadeeqat Al Ghizlan: garden, park"
+    "ar": "«الغِزلان» جمعُ «غَزَال» مِنَ البَهَائِمِ الأَشِمَّة؛ والشارع في مْبَزَّرَة الخَضْراء.",
+    "en": "Al Ghizlan is the plural of gazelles; the street lies in Mbazzarah Al Khadra."
   },
   "story": {
     "ar": "«حَديقة» حديقة، و«الغِزلان» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
@@ -86847,8 +86847,8 @@ window.STREETS = [
   "ar": "شارع دمشق",
   "en": "Damascus Street",
   "meaning": {
-    "ar": "«دمشق»: دِمَشْق",
-    "en": "Damascus: Damascus"
+    "ar": "«دمشق» مَدِينَةٌ مَعْرُوفَةٌ قَدِيمَةٌ شَهِيرَة؛ والشارع في الزهراء.",
+    "en": "Damascus is a famous ancient city; the street lies in Az Zahra."
   },
   "story": {
     "ar": "«دمشق» مَدِينَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الزهراء، عجمان.",
@@ -86863,8 +86863,8 @@ window.STREETS = [
   "ar": "شارع دمشق",
   "en": "Damascus Street",
   "meaning": {
-    "ar": "«دمشق»: دِمَشْق",
-    "en": "Damascus: Damascus"
+    "ar": "دِمَشقُ مِنَ المُدُنِ التَّارِيخِيَّةِ المَأْثُورَة؛ والشارع في القصيص الصناعية.",
+    "en": "Dimashq is among the recorded historic cities; the street lies in Al Qusais Industrial."
   },
   "story": {
     "ar": "الاسم «دمشق» مَدِينَة، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في القصيص الصناعية.",
@@ -86879,8 +86879,8 @@ window.STREETS = [
   "ar": "شارع دِمَشق",
   "en": "Damascus Street",
   "meaning": {
-    "ar": "«دِمَشق»: دِمَشْق",
-    "en": "Damascus: Damascus"
+    "ar": "«دِمَشق» اسْمُ مَدِينَةٍ مَأْثُورَةٍ فِي الكُتُب؛ والشارع في حَدْبَة الزَّعْفَرَانَة.",
+    "en": "Dimashq is the name of a city in books; the street lies in Hadbat Al Za'faranah."
   },
   "story": {
     "ar": "«دِمَشق» مَدِينَة، والاسم هو الكلمة نفسها. والشارع يقع في حَدْبَة الزَّعْفَرَانَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -86895,8 +86895,8 @@ window.STREETS = [
   "ar": "شارع دِمَشق",
   "en": "Dimashq Street",
   "meaning": {
-    "ar": "«دِمَشق»: دِمَشْق",
-    "en": "Dimashq: Damascus"
+    "ar": "دِمَشقُ مَدِينَةُ اليَاسَمِينِ المَشْهُورَةُ فِي التَّارِيخ؛ والشارع في وسط المدينة.",
+    "en": "Dimashq is the famous city of jasmine; the street lies in the city centre."
   },
   "story": {
     "ar": "كلمة «دِمَشق» معناها «دِمَشْق»، والاسم منها. وهو من الشوارع وسط المدينة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -87055,8 +87055,8 @@ window.STREETS = [
   "ar": "شارع سطح أم القصَّار",
   "en": "Sat-h Um Al Qussar Street",
   "meaning": {
-    "ar": "«سطح أم القصَّار»: سطح",
-    "en": "Sat-h Um Al Qussar: surface"
+    "ar": "«القصَّار» مَنْ يَقْصِرُ الثِّيَابَ ويُبْيِضُهَا؛ والشارع في مدينة زايد.",
+    "en": "Al Qassar is one who whitens and finishes cloth; the street lies in Zayed City."
   },
   "story": {
     "ar": "«سطح» سطح، و«أم القصَّار» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع مدينة زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -87071,8 +87071,8 @@ window.STREETS = [
   "ar": "شارع سَطح البيَّتل",
   "en": "Sat-h Al Biyatl Street",
   "meaning": {
-    "ar": "«سَطح البيَّتل»: سطح",
-    "en": "Sat-h Al Biyatl: surface"
+    "ar": "«البيَّتل» اسمٌ مجهولُ التفسير، والشارع في المَنهَل.",
+    "en": "Al Biyattal is a name of unknown meaning; the street lies in Al Manhal."
   },
   "story": {
     "ar": "«البيَّتل» اسم الموضع في «سَطح»؛ و«سَطح» سطح. والاسم يُنسب إلى موضع، والشارع في المَنهَل من إمارة أبوظبي.",
@@ -87087,8 +87087,8 @@ window.STREETS = [
   "ar": "شارع سَطح الجنانير",
   "en": "Sat-h Al Jinaneer Street",
   "meaning": {
-    "ar": "«سَطح الجنانير»: سطح",
-    "en": "Sat-h Al Jinaneer: surface"
+    "ar": "«الجنانير» اسمٌ لا يُفسَّر، والشارع في الطِّوَيَّة.",
+    "en": "Al Jananir is an unexplained proper name; the street lies in Al Tiwayyah."
   },
   "story": {
     "ar": "سطح اسمه «سَطح»، و«الجنانير» اسم يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في الطِّوَيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -87103,8 +87103,8 @@ window.STREETS = [
   "ar": "شارع سَطح الرَّازبُوت",
   "en": "Sat-h Al Razbout Street",
   "meaning": {
-    "ar": "«سَطح الرَّازبُوت»: سطح",
-    "en": "Sat-h Al Razbout: surface"
+    "ar": "«الرَّازبُوت» اسمٌ أعجميٌّ لِقَائِدِ الجُنْدِ فِيمَا سَلَف؛ والشارع في مدينة زايد.",
+    "en": "Ar Razbut is a foreign word for an army chief; the street lies in Zayed City."
   },
   "story": {
     "ar": "«الرَّازبُوت» اسم الموضع، و«سَطح» سطح من أسماء المواضع. وهو الشارع في مدينة زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -87119,8 +87119,8 @@ window.STREETS = [
   "ar": "شارع شروق",
   "en": "Shorooq Drive",
   "meaning": {
-    "ar": "«شروق»: شروق",
-    "en": "Shorooq Drive: sunrise"
+    "ar": "«شروق» طُلُوعُ الشَّمْسِ فِي الْغُدْوَةِ الْمُبْكِرَة؛ والشارع في مردف.",
+    "en": "Shuruq is the early morning sunrise; the street lies in Mirdif."
   },
   "story": {
     "ar": "«شروق» شروق، والاسم مأخوذ من اسم هذا الموضع. والشارع في مردف، والاسم من أسماء المواضع في إمارة دبي.",
@@ -87167,8 +87167,8 @@ window.STREETS = [
   "ar": "شارع شَريعة هيلي",
   "en": "Sharee'at Hili Street",
   "meaning": {
-    "ar": "«شَريعة هيلي»: شَرِيعَة",
-    "en": "Sharee'at Hili: way of Hili"
+    "ar": "«شَريعة» الطَّرِيقُ وسَبِيلُ المَشْيِ المَعْلُوم؛ والشارع في هِيلِي.",
+    "en": "Shari'ah is the known path and way; the street lies in Hili."
   },
   "story": {
     "ar": "«هيلي» اسم الموضع في «شَريعة»؛ و«شَريعة» شَرِيعَة. والاسم من أسماء المواضع، والشارع في هِيلِي، أبوظبي.",
@@ -87375,8 +87375,8 @@ window.STREETS = [
   "ar": "شارع مستشفى المكتوم",
   "en": "Al Maktoum Hospital Road",
   "meaning": {
-    "ar": "«مستشفى المكتوم»: مستشفى",
-    "en": "Al Maktoum Hospital: hospital"
+    "ar": "«المكتوم» اسمٌ عَلَمٌ لا يُفسَّر، والشارع في الرقة.",
+    "en": "Al Maktoum is an unexplained proper name; the street lies in Ar Raqqah."
   },
   "story": {
     "ar": "«مستشفى» مستشفى، و«المكتوم» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والطريق في الرقة من إمارة دبي.",
@@ -87391,8 +87391,8 @@ window.STREETS = [
   "ar": "شارع مستشفى لطيفة",
   "en": "Latifa Hospital Street",
   "meaning": {
-    "ar": "«مستشفى لطيفة»: مستشفى",
-    "en": "Latifa Hospital: hospital"
+    "ar": "«لطيفة» اسمٌ مجهولُ التفسير، والشارع في الجداف.",
+    "en": "Latifa is a name of unknown meaning; the street lies in Al Jadaf."
   },
   "story": {
     "ar": "«مستشفى» مستشفى، و«لطيفة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في الجداف.",
@@ -87487,8 +87487,8 @@ window.STREETS = [
   "ar": "طريق الياسمين",
   "en": "Jasmine Drive",
   "meaning": {
-    "ar": "«الياسمين»: ياسمين",
-    "en": "Jasmine Drive: jasmine"
+    "ar": "«الياسمين» نَوْرٌ مُطَيَّبٌ مَعْرُوفٌ فِي البُسْتَان؛ والطريق في جرين كميونيتي الشرق.",
+    "en": "Al Yasmin is a known scented garden bloom; the road lies in Green Community East."
   },
   "story": {
     "ar": "«الياسمين» ياسمين، والاسم مأخوذ من هذه الكلمة. والطريق في جرين كميونيتي الشرق، والاسم من أسماء المواضع في إمارة دبي.",
@@ -87503,8 +87503,8 @@ window.STREETS = [
   "ar": "طريق حديقة الشلال",
   "en": "Waterfall Avenue",
   "meaning": {
-    "ar": "«حديقة الشلال»: حديقة",
-    "en": "Waterfall: garden, park"
+    "ar": "«الشلال» المَاءُ السَّاقِطُ مِنَ الارْتِفَاعِ الْجَبَلِيّ؛ والطريق في اللَّيان.",
+    "en": "Ash Shallal is water falling from a height; the road lies in Al Layan."
   },
   "story": {
     "ar": "«حديقة» حديقة، و«الشلال» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الطريق في اللَّيان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -87535,8 +87535,8 @@ window.STREETS = [
   "ar": "فارس M",
   "en": "Persia M",
   "meaning": {
-    "ar": "«فارس M»: فارس",
-    "en": "Persia M: horseman, rider"
+    "ar": "«فارس» رَاكِبُ الخَيْلِ أَوِ الأَرْضُ المَعْرُوفَة؛ والشارع في ورسان.",
+    "en": "Faris is a horseman or a known land; the street lies in Warsan."
   },
   "story": {
     "ar": "«فارس» فارس، و«M» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها المواضع في دبي، والموضع في ورسان.",
@@ -87551,8 +87551,8 @@ window.STREETS = [
   "ar": "فارس N",
   "en": "Persia N",
   "meaning": {
-    "ar": "«فارس N»: فارس",
-    "en": "Persia N: horseman, rider"
+    "ar": "الفَارِسُ الشُّجَاعُ الَّذِي يَرْكَبُ الخَيْلَ فِي الحَرْب؛ والشارع في ورسان.",
+    "en": "A faris is the brave rider of war-horses; the street lies in Warsan."
   },
   "story": {
     "ar": "«N» اسم الموضع في «فارس»؛ و«فارس» فارس. والموضع يقع في ورسان من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -87567,8 +87567,8 @@ window.STREETS = [
   "ar": "فارس O",
   "en": "Persia O",
   "meaning": {
-    "ar": "«فارس O»: فارس",
-    "en": "Persia O: horseman, rider"
+    "ar": "«فارس» نَسَبٌ مَعْرُوفٌ أَوْ رُكُوبٌ لِلخَيْلِ الأَصِيلَة؛ والشارع في ورسان.",
+    "en": "Faris is a known lineage or riding of purebred horses; the street lies in Warsan."
   },
   "story": {
     "ar": "فارس اسمه «فارس»، و«O» اسم يُنسب إليه. وهو من المواضع ورسان في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -87583,8 +87583,8 @@ window.STREETS = [
   "ar": "مدار",
   "en": "Madar",
   "meaning": {
-    "ar": "«مدار»: مدار",
-    "en": "Madar: orbit"
+    "ar": "«مدار» دَائِرَةُ الدَّوْرَانِ والفَلَكِ المُسْتَمِرّ؛ والشارع في مويلح.",
+    "en": "Madar is the circle of continuous orbit; the street lies in Muwailih."
   },
   "story": {
     "ar": "«مدار» مدار، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والموضع في مويلح من إمارة الشارقة.",
@@ -87615,8 +87615,8 @@ window.STREETS = [
   "ar": "المطار رقم",
   "en": "Airport Terminal",
   "meaning": {
-    "ar": "«المطار رقم»: مطار",
-    "en": "Airport Terminal: airport"
+    "ar": "«المطار» مَوْقِفُ الطَّائِرَاتِ وانْتِصَابُهَا الْمَعْرُوف؛ والشارع في مطار دبي الدولي.",
+    "en": "Al Matar is where aircraft park and stand; the street lies at Dubai Airport."
   },
   "story": {
     "ar": "«المطار» مطار، و«رقم» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الموضع في مطار دبي الدولي، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -87631,8 +87631,8 @@ window.STREETS = [
   "ar": "ساحة الخليج",
   "en": "Al Khaleej Square",
   "meaning": {
-    "ar": "«ساحة الخليج»: ساحة",
-    "en": "Al Khaleej: gulf square"
+    "ar": "«الخليج» فَرْعٌ مِنَ البَحْرِ المُتَّسِعِ فِي اليَابِسَة؛ والساحةُ في الغرب.",
+    "en": "Al Khaleej is a wide sea branch inland; the square lies in Al Gharb."
   },
   "story": {
     "ar": "«ساحة» ساحة، و«الخليج» اسم يخصّ الموضع لا كلمة تُفسَّر. والطريق في الغرب، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -87647,8 +87647,8 @@ window.STREETS = [
   "ar": "ساحة واسط",
   "en": "Wasit Square",
   "meaning": {
-    "ar": "«ساحة واسط»: ساحة",
-    "en": "Wasit: square"
+    "ar": "«واسط» اسمٌ مجهولُ التفسير، والساحةُ في الرقة.",
+    "en": "Wasit is a name of unknown meaning; the square lies in Ar Raqqah."
   },
   "story": {
     "ar": "«واسط» اسم الموضع في «ساحة»؛ و«ساحة» ساحة. وهذا الموضع أخذ منه اسم الطريق في الرقة بإمارة الشارقة، وليس كلمة تُفسَّر.",
@@ -87663,8 +87663,8 @@ window.STREETS = [
   "ar": "شارع آثَار هيلي",
   "en": "Athar Hili Street",
   "meaning": {
-    "ar": "«آثَار هيلي»: آثَار",
-    "en": "Athar Hili: archeology of Hili"
+    "ar": "«آثَار» بَقَايَا مِنَ القُدَمَاءِ تُذَكِّرُ بِهِمْ وتُتَلَمَّس؛ والشارع في هِيلِي.",
+    "en": "Athar are traces of the ancients; the street lies in Hili."
   },
   "story": {
     "ar": "«آثَار» آثَار، و«هيلي» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في هِيلِي من إمارة أبوظبي.",
@@ -87679,8 +87679,8 @@ window.STREETS = [
   "ar": "شارع أبراج الميناء",
   "en": "Abraj Al Mina Street",
   "meaning": {
-    "ar": "«أبراج الميناء»: أَبْرَاج",
-    "en": "Abraj Al Mina: towers of port"
+    "ar": "«الميناء» مَوْقِفُ السُّفُنِ وحَافَتُهَا الْمَعْرُوفَة؛ والشارع في الحدائق.",
+    "en": "Al Mina is where ships dock and its shore; the street lies in Al Hada'iq."
   },
   "story": {
     "ar": "«أبراج» أَبْرَاج، و«الميناء» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في الحدائق، دبي.",
@@ -87695,8 +87695,8 @@ window.STREETS = [
   "ar": "شارع أبراج نخيل",
   "en": "Abraj Nakheel Street",
   "meaning": {
-    "ar": "«أبراج نخيل»: أَبْرَاج",
-    "en": "Abraj Nakheel: towers of palm trees"
+    "ar": "«نخيل» النَّخْلُ المُزْرَعُ فِي الأَرْضِ السَّاعِيَة؛ والشارع في الفرجان.",
+    "en": "Nakhil are palms planted in working land; the street lies in Al Furjan."
   },
   "story": {
     "ar": "«نخيل» اسم الموضع في «أبراج»؛ و«أبراج» أَبْرَاج. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في الفرجان.",
@@ -87711,8 +87711,8 @@ window.STREETS = [
   "ar": "شارع الآثار",
   "en": "Al Athar Street",
   "meaning": {
-    "ar": "«الآثار»: آثار",
-    "en": "Al Athar: archeology"
+    "ar": "«الآثار» بَقَايَا الْقُدَمَاءِ وَعَلَامَاتُهُمْ؛ والشارع في هِيلِي.",
+    "en": "Al Athar are traces of the ancients; the street lies in Hili."
   },
   "story": {
     "ar": "«الآثار» آثار، والاسم مأخوذ من هذه الكلمة. والشارع يقع في هِيلِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -87727,8 +87727,8 @@ window.STREETS = [
   "ar": "شارع الأبراج",
   "en": "Al Abraj Street",
   "meaning": {
-    "ar": "«الأبراج»: أبراج",
-    "en": "Al Abraj: towers"
+    "ar": "«الأبراج» جمعُ «بُرْج» مِنَ البُنِيَانِ الْعَالِي؛ والشارع في جزيرة ياس.",
+    "en": "Al Abraj is the plural of tall towers; the street lies on Yas Island."
   },
   "story": {
     "ar": "«الأبراج» أبراج، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع جزيرة ياس في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -87807,8 +87807,8 @@ window.STREETS = [
   "ar": "شارع الأوركيد",
   "en": "Orchid Street",
   "meaning": {
-    "ar": "«الأوركيد»: أوركيد",
-    "en": "Orchid: orchid"
+    "ar": "«الأوركيد» زَهْرَةٌ مَعْرُوفَةٌ مُزْهِرَةٌ مُتَفَتِّحَة؛ والشارع في الحدائق.",
+    "en": "Al Orchid is a known blooming flower; the street lies in Al Hada'iq."
   },
   "story": {
     "ar": "«الأوركيد» أوركيد، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الحدائق بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -87823,8 +87823,8 @@ window.STREETS = [
   "ar": "شارع الاثار",
   "en": "Al Athar Street",
   "meaning": {
-    "ar": "«الاثار»: آثار",
-    "en": "Al Athar: archeology"
+    "ar": "الآثَارُ بَقَايَا مَا تَرَكَهُ الأَوَّلُونَ مِنْ آثَارِهِم؛ والشارع في هِيلِي.",
+    "en": "Athar are remains left by those before; the street lies in Hili."
   },
   "story": {
     "ar": "الاسم «الاثار» آثار، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في جميرا.",
@@ -88143,8 +88143,8 @@ window.STREETS = [
   "ar": "شارع التاج",
   "en": "Al Taj Street",
   "meaning": {
-    "ar": "«التاج»: تاج",
-    "en": "Al Taj: crown"
+    "ar": "«التاج» مَا يُوَضَّعُ رَأْسَ المَلِكِ الْمُتَمَلِّك؛ والشارع في الجَاهلِي.",
+    "en": "At Taj is what is placed on a king's head; the street lies in Al Jahili."
   },
   "story": {
     "ar": "«التاج» تاج، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الجَاهلِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -88159,8 +88159,8 @@ window.STREETS = [
   "ar": "شارع التَّاج",
   "en": "At Taj Street",
   "meaning": {
-    "ar": "«التَّاج»: تاج",
-    "en": "At Taj: crown"
+    "ar": "التَّاجُ غِطَاءُ الرَّأْسِ الْمَزِينُ الْمَعْرُوف؛ والشارع في بني ياس.",
+    "en": "A taj is a known ornate head covering; the street lies in Bani Yas."
   },
   "story": {
     "ar": "الاسم «التَّاج» تاج، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في بني ياس من إمارة أبوظبي.",
@@ -88175,8 +88175,8 @@ window.STREETS = [
   "ar": "شارع التعاون",
   "en": "Al Taawun Street",
   "meaning": {
-    "ar": "«التعاون»: تعاون",
-    "en": "Al Taawun: cooperation"
+    "ar": "«التعاون» تَعَاوُنُ النَّاسِ فِي الْأَمْرِ الْمُشْتَرِك؛ والشارع في مدينة الشارقة.",
+    "en": "At Ta'awun is people working together; the street lies in Sharjah City."
   },
   "story": {
     "ar": "«التعاون» تعاون، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الشارقة بإمارة الشارقة، والاسم من أسماء المواضع.",
@@ -88191,8 +88191,8 @@ window.STREETS = [
   "ar": "شارع التعاون",
   "en": "Al Ta'awen Street",
   "meaning": {
-    "ar": "«التعاون»: تعاون",
-    "en": "Al Ta'awen: cooperation"
+    "ar": "التَّعَاوُنُ ضِدُّ الْفُرْقَةِ وَالتَّشَتُّتِ فِي الْعَمَل؛ والشارع في الرأس.",
+    "en": "Ta'awun stands against division in work; the street lies in Al Ras."
   },
   "story": {
     "ar": "الاسم «التعاون» تعاون، وليس مركّباً. وهو الشارع في الرأس، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -88207,8 +88207,8 @@ window.STREETS = [
   "ar": "شارع التَّعاوُن",
   "en": "Al Ta'awun Street",
   "meaning": {
-    "ar": "«التَّعاوُن»: تعاون",
-    "en": "Al Ta'awun: cooperation"
+    "ar": "«التَّعاوُن» مُوَازَرَةُ النَّاسِ بَعْضِهِمْ لِبَعْضٍ فِي الْخَيْر؛ والشارع في مدينة زايد.",
+    "en": "At Ta'awun is people supporting one another; the street lies in Zayed City."
   },
   "story": {
     "ar": "«التَّعاوُن» تعاون، والاسم هو الكلمة نفسها. والشارع في مدينة زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -88367,8 +88367,8 @@ window.STREETS = [
   "ar": "شارع الثريا",
   "en": "Al Thoraya Street",
   "meaning": {
-    "ar": "«الثريا»: ثريا",
-    "en": "Al Thoraya: chandelier"
+    "ar": "«الثريا» نَجْمٌ مَعْرُوفٌ لَامِعٌ فِي السَّمَاءِ الْعَالِيَة؛ والشارع في الرأس.",
+    "en": "Ath Thurayya is a known bright star; the street lies in Al Ras."
   },
   "story": {
     "ar": "«الثريا» ثريا، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الرأس بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -88383,8 +88383,8 @@ window.STREETS = [
   "ar": "شارع الثريا",
   "en": "Al Thurayaa Street",
   "meaning": {
-    "ar": "«الثريا»: ثريا",
-    "en": "Al Thurayaa: chandelier"
+    "ar": "الثُّرَيَّا مَجْمُوعَةُ نُجُومٍ مُشْتَهِرَةٍ فِي اللَّيْل؛ والشارع في شنتير.",
+    "en": "Thurayya is a famous cluster of stars; the street lies in Shintir."
   },
   "story": {
     "ar": "الاسم «الثريا» ثريا، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في شنتير.",
@@ -88399,8 +88399,8 @@ window.STREETS = [
   "ar": "شارع الثُّريَّا",
   "en": "Ath Thuraya Street",
   "meaning": {
-    "ar": "«الثُّريَّا»: ثريا",
-    "en": "Ath Thuraya: chandelier"
+    "ar": "«الثُّريَّا» نُجُومٌ لَامِعَةٌ مَعْرُوفَةٌ فِي السَّمَاء؛ والشارع في مدينة محمد بن زايد.",
+    "en": "Ath Thurayya are known shining stars; the street lies in MBZ City."
   },
   "story": {
     "ar": "«الثُّريَّا» ثريا، والاسم هو الكلمة نفسها. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -88607,8 +88607,8 @@ window.STREETS = [
   "ar": "شارع الحكمة",
   "en": "Al Hikmah Street",
   "meaning": {
-    "ar": "«الحكمة»: حكمة",
-    "en": "Al Hikmah: wisdom"
+    "ar": "«الحكمة» إِصَابَةُ الْحَقِّ فِي الْقَوْلِ وَالْفِعْل؛ والشارع في المُشرِف.",
+    "en": "Al Hikmah is hitting the truth in word and deed; the street lies in Al Mushrif."
   },
   "story": {
     "ar": "«الحكمة» حكمة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المُشرِف، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -88623,8 +88623,8 @@ window.STREETS = [
   "ar": "شارع الحكمة",
   "en": "Al Hikmah Street",
   "meaning": {
-    "ar": "«الحكمة»: حكمة",
-    "en": "Al Hikmah: wisdom"
+    "ar": "الحِكْمَةُ ضِدُّ الْحُمْقِ وَعَدَمِ التَّدَبُّرِ فِي الأُمُور؛ والشارع في المُشرِف.",
+    "en": "Hikmah stands against folly in affairs; the street lies in Al Mushrif."
   },
   "story": {
     "ar": "الاسم «الحكمة» حكمة، وليس مركّباً. والشارع في الرقة، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -88639,8 +88639,8 @@ window.STREETS = [
   "ar": "شارع الحكمة",
   "en": "Al Hikmma Street",
   "meaning": {
-    "ar": "«الحكمة»: حكمة",
-    "en": "Al Hikmma: wisdom"
+    "ar": "«الحِكمة» الحكمةُ في القول والعمل.",
+    "en": "«Al Hikmah» is wisdom in word and deed."
   },
   "story": {
     "ar": "«الحكمة» حكمة، والاسم هو الكلمة نفسها. وهذا الموضع أخذ منه اسم الشارع في الرقة بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -88703,8 +88703,8 @@ window.STREETS = [
   "ar": "شارع الخزامى",
   "en": "Al Khuzama Street",
   "meaning": {
-    "ar": "«الخزامى»: خزامى",
-    "en": "Al Khuzama: lavender"
+    "ar": "«الخُزامى» نباتُ الخزامى العطري؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khuzama» is the fragrant lavender; the name comes from this word."
   },
   "story": {
     "ar": "«الخزامى» خزامى، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -88719,8 +88719,8 @@ window.STREETS = [
   "ar": "شارع الخزامى",
   "en": "Lavender Street",
   "meaning": {
-    "ar": "«الخزامى»: خزامى",
-    "en": "Lavender: lavender"
+    "ar": "معنى «الخُزامى» الخُزامى من نبات الربيع.",
+    "en": "«Al Khuzama» means the lavender of spring."
   },
   "story": {
     "ar": "الاسم «الخزامى» خزامى، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الحدائق من إمارة دبي.",
@@ -88735,8 +88735,8 @@ window.STREETS = [
   "ar": "شارع الخزامى",
   "en": "Al Khuzama Street",
   "meaning": {
-    "ar": "«الخزامى»: خزامى",
-    "en": "Al Khuzama: lavender"
+    "ar": "«الخُزامى» شجرةٌ عطرةٌ معروفة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khuzama» is a known fragrant shrub; the name holds it."
   },
   "story": {
     "ar": "«الخزامى» خزامى، والاسم هو الكلمة نفسها. وتقع الشوارع التي تحمل هذا الاسم في مدينة الشارقة بإمارة الشارقة، والاسم من أسماء المواضع.",
@@ -89055,8 +89055,8 @@ window.STREETS = [
   "ar": "شارع الرَّاية",
   "en": "Al Raya Street",
   "meaning": {
-    "ar": "«الرَّاية»: راية",
-    "en": "Al Raya: banner"
+    "ar": "«الرَّاية» العَلَمُ الذي يُرفع؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rayah» is the banner one raises."
   },
   "story": {
     "ar": "«الرَّاية» راية، والاسم هو الكلمة نفسها. وهو الشارع في عَشَارِج، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -89615,8 +89615,8 @@ window.STREETS = [
   "ar": "شارع السَّاحة",
   "en": "As Sahah Street",
   "meaning": {
-    "ar": "«السَّاحة»: ساحة",
-    "en": "As Sahah: square"
+    "ar": "«السَّاحة» الفضاءُ الواسع بين الديار؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahah» is the wide open ground between houses."
   },
   "story": {
     "ar": "«السَّاحة» ساحة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في زاخِر من إمارة أبوظبي.",
@@ -90047,8 +90047,8 @@ window.STREETS = [
   "ar": "شارع السهل",
   "en": "Al Sahl Street",
   "meaning": {
-    "ar": "«السهل»: سهل",
-    "en": "Al Sahl: plain"
+    "ar": "«السَّهل» الأرضُ المنبسطة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahl» is the level ground; the name comes from this word."
   },
   "story": {
     "ar": "«السهل» سهل، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة زايد من إمارة أبوظبي.",
@@ -90063,8 +90063,8 @@ window.STREETS = [
   "ar": "شارع السهل",
   "en": "Al Sahel Street",
   "meaning": {
-    "ar": "«السهل»: سهل",
-    "en": "Al Sahel: plain"
+    "ar": "معنى «السَّهل» السهلُ من الأرض.",
+    "en": "«As Sahl» means the easy, flat land."
   },
   "story": {
     "ar": "الاسم «السهل» سهل، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في القطعة Q من أبراج بحيرات جميرا بإمارة دبي، والاسم من أسماء المواضع.",
@@ -90079,8 +90079,8 @@ window.STREETS = [
   "ar": "شارع السَّهل",
   "en": "As Sahl Street",
   "meaning": {
-    "ar": "«السَّهل»: سهل",
-    "en": "As Sahl: plain"
+    "ar": "«السَّسهل» الأرضُ الفسيحةُ المنبسطة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahl» is the broad flat land."
   },
   "story": {
     "ar": "«السَّهل» سهل، والاسم هو الكلمة نفسها. وهو الشارع في الدَّانَةْ، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -90239,8 +90239,8 @@ window.STREETS = [
   "ar": "شارع الشراع",
   "en": "Al Sheera Street",
   "meaning": {
-    "ar": "«الشراع»: شراع",
-    "en": "Al Sheera: sail"
+    "ar": "«الشِّراع» شراعُ السفينة؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shira'» is the ship's sail; the name comes from this word."
   },
   "story": {
     "ar": "«الشراع» شراع، والاسم مأخوذ من هذه الكلمة. والشارع في جميرا، والاسم من أسماء المواضع في إمارة دبي.",
@@ -90255,8 +90255,8 @@ window.STREETS = [
   "ar": "شارع الشراع",
   "en": "Al Shera'a Street",
   "meaning": {
-    "ar": "«الشراع»: شراع",
-    "en": "Al Shera'a: sail"
+    "ar": "معنى «الشِّراع» القماشُ الذي تُنصبُ في السفن.",
+    "en": "«Ash Shira'» means the cloth raised on ships."
   },
   "story": {
     "ar": "الاسم «الشراع» شراع، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الرأس بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -90271,8 +90271,8 @@ window.STREETS = [
   "ar": "شارع الشِّراع",
   "en": "Ash Shira' Street",
   "meaning": {
-    "ar": "«الشِّراع»: شراع",
-    "en": "Ash Shira': sail"
+    "ar": "«الشِّراع» جِنْبَةُ السفينة التي تَجُرُّها الريح؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shira'» is the sail the wind pulls."
   },
   "story": {
     "ar": "«الشِّراع» شراع، والاسم هو الكلمة نفسها. والاسم من أسماء المواضع، والشارع في البطين، أبوظبي.",
@@ -90335,8 +90335,8 @@ window.STREETS = [
   "ar": "شارع الشمس",
   "en": "Al Shams Road",
   "meaning": {
-    "ar": "«الشمس»: شمس",
-    "en": "Al Shams: sun"
+    "ar": "«الشَّمس» الشمسُ المعروفة؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shams» is the sun; the name comes from this word."
   },
   "story": {
     "ar": "«الشمس» شمس، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والطريق في مجمع دبي للاستثمار 2 من إمارة دبي.",
@@ -90351,8 +90351,8 @@ window.STREETS = [
   "ar": "شارع الشَّمس",
   "en": "Ash Shams Street",
   "meaning": {
-    "ar": "«الشَّمس»: شمس",
-    "en": "Ash Shams: sun"
+    "ar": "معنى «الشَّمس» الشمسُ في السماء.",
+    "en": "«Ash Shams» means the sun in the sky."
   },
   "story": {
     "ar": "الاسم «الشَّمس» شمس، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في السِّلَع بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -90735,8 +90735,8 @@ window.STREETS = [
   "ar": "شارع الطموح",
   "en": "Al Tumooh Street",
   "meaning": {
-    "ar": "«الطموح»: طموح",
-    "en": "Al Tumooh: ambitious"
+    "ar": "«الطُّمُوح» رفعُ النفس إلى الأعلى؛ والاسم من هذا اللفظ.",
+    "en": "«At Tumuh» is lifting the self toward the high."
   },
   "story": {
     "ar": "«الطموح» طموح، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الرقة من إمارة الشارقة، والاسم مأخوذ من موضع.",
@@ -90751,8 +90751,8 @@ window.STREETS = [
   "ar": "شارع الطُّمُوح",
   "en": "Al Tumouh Street",
   "meaning": {
-    "ar": "«الطُّمُوح»: طموح",
-    "en": "Al Tumouh: ambitious"
+    "ar": "معنى «الطُّمُوح» الطُّمُوحُ إلى المطالب.",
+    "en": "«At Tumuh» means reaching for one's aims."
   },
   "story": {
     "ar": "الاسم «الطُّمُوح» طموح، وليس مركّباً. وهو من الشوارع الزَّاهية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -90767,8 +90767,8 @@ window.STREETS = [
   "ar": "شارع الطُّمُوح",
   "en": "At Tumouh Street",
   "meaning": {
-    "ar": "«الطُّمُوح»: طموح",
-    "en": "At Tumouh: ambitious"
+    "ar": "«الطُّمُوح» إرادةُ العلوّ؛ والاسم من هذا اللفظ.",
+    "en": "«At Tumuh» is the will for the heights."
   },
   "story": {
     "ar": "«الطُّمُوح» طموح، والاسم هو الكلمة نفسها. والاسم يُنسب إلى موضع، والشارع في فَلَج هَزَّاع من إمارة أبوظبي.",
@@ -90895,8 +90895,8 @@ window.STREETS = [
   "ar": "شارع العَاصِم",
   "en": "Al 'Asim Street",
   "meaning": {
-    "ar": "«العَاصِم»: عَاصِم",
-    "en": "Al 'Asim: protector"
+    "ar": "«العَاصِم» الحافظُ الذي يَعصم؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Asim» is the guardian who shields."
   },
   "story": {
     "ar": "«العَاصِم» عَاصِم، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع عَشَارِج في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -91103,8 +91103,8 @@ window.STREETS = [
   "ar": "شارع الفيروز",
   "en": "Al Fayrooz Street",
   "meaning": {
-    "ar": "«الفيروز»: فيروز",
-    "en": "Al Fayrooz: turquoise"
+    "ar": "«الفَيْرُوز» حجرُ الفيروز الأزرق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fayruz» is the blue turquoise stone; the name comes from this word."
   },
   "story": {
     "ar": "«الفيروز» فيروز، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المنطقة الحرة بالحمرا بإمارة رأس الخيمة، وليس كلمة تُفسَّر.",
@@ -91119,8 +91119,8 @@ window.STREETS = [
   "ar": "شارع الفيروز",
   "en": "Al Fayroz Street",
   "meaning": {
-    "ar": "«الفيروز»: فيروز",
-    "en": "Al Fayroz: turquoise"
+    "ar": "معنى «الفَيْرُوز» الفيروزُ من الجواهر.",
+    "en": "«Al Fayruz» means the turquoise among gems."
   },
   "story": {
     "ar": "الاسم «الفيروز» فيروز، وليس مركّباً. والاسم من أسماء المواضع، والشارع في الحوية، أم القيوين.",
@@ -91135,8 +91135,8 @@ window.STREETS = [
   "ar": "شارع الفَيْرُوز",
   "en": "Al Fayrouz Street",
   "meaning": {
-    "ar": "«الفَيْرُوز»: فيروز",
-    "en": "Al Fayrouz: turquoise"
+    "ar": "«الفَيْرُوز» حجرٌ كريمٌ أزرق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fayruz» is a blue precious stone."
   },
   "story": {
     "ar": "«الفَيْرُوز» فيروز، والاسم هو الكلمة نفسها. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -91343,8 +91343,8 @@ window.STREETS = [
   "ar": "شارع الليلك",
   "en": "Al Laylak Street",
   "meaning": {
-    "ar": "«الليلك»: ليلك",
-    "en": "Al Laylak: lilac"
+    "ar": "«اللَّيلَك» شجرةُ الليلك؛ والاسم من هذا اللفظ.",
+    "en": "«Al Laylak» is the lilac tree."
   },
   "story": {
     "ar": "«الليلك» ليلك، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في السَّمْحة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -91455,8 +91455,8 @@ window.STREETS = [
   "ar": "شارع المحار",
   "en": "Al Mehaar Street",
   "meaning": {
-    "ar": "«المحار»: محار",
-    "en": "Al Mehaar: oyster"
+    "ar": "«المَحار» صدفةُ اللؤلؤ؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahar» is the oyster shell; the name comes from this word."
   },
   "story": {
     "ar": "«المحار» محار، والاسم مأخوذ من هذه الكلمة. وهو الشارع في جميرا، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -91471,8 +91471,8 @@ window.STREETS = [
   "ar": "شارع المحار",
   "en": "Al Mahar Street",
   "meaning": {
-    "ar": "«المحار»: محار",
-    "en": "Al Mahar: oyster"
+    "ar": "معنى «المَحار» المحارُ من أصداف البحر.",
+    "en": "«Al Mahar» means the sea's shells."
   },
   "story": {
     "ar": "الاسم «المحار» محار، وليس مركّباً. والشارع في الحمرة، والاسم من أسماء المواضع في إمارة أم القيوين.",
@@ -91487,8 +91487,8 @@ window.STREETS = [
   "ar": "شارع المَحَّار",
   "en": "Al Mahhar Street",
   "meaning": {
-    "ar": "«المَحَّار»: محار",
-    "en": "Al Mahhar: oyster"
+    "ar": "«المَحَّار» ما يُؤخذ منه اللؤلؤ؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahhar» is what yields pearls."
   },
   "story": {
     "ar": "«المَحَّار» محار، والاسم هو الكلمة نفسها. وهذا الموضع أخذ منه اسم الشارع في البطين بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -91775,8 +91775,8 @@ window.STREETS = [
   "ar": "شارع المصلى",
   "en": "Al Musalla Street",
   "meaning": {
-    "ar": "«المصلى»: مصلى",
-    "en": "Al Musalla: prayer ground"
+    "ar": "«المُصَلَّى» موضعُ الصلاة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Musalla» is the place of prayer; the name comes from this word."
   },
   "story": {
     "ar": "«المصلى» مصلى، والاسم مأخوذ من هذه الكلمة. والشارع في خورفكان، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -91791,8 +91791,8 @@ window.STREETS = [
   "ar": "شارع المُصلى",
   "en": "Al Musalla Street",
   "meaning": {
-    "ar": "«المُصلى»: مصلى",
-    "en": "Al Musalla: prayer ground"
+    "ar": "معنى «المُصَلَّى» المكانُ الذي يُصلّى فيه.",
+    "en": "«Al Musalla» means where prayer is made."
   },
   "story": {
     "ar": "الاسم «المُصلى» مصلى، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في مدينة خليفة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -91871,8 +91871,8 @@ window.STREETS = [
   "ar": "شارع المنارة",
   "en": "Al Manara Street",
   "meaning": {
-    "ar": "«المنارة»: منارة",
-    "en": "Al Manara: lighthouse"
+    "ar": "«المَنارة» البرجُ الذي يُضيء للسفن.",
+    "en": "«Al Manarah» is the tower that lights ships."
   },
   "story": {
     "ar": "«المنارة» منارة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في أم سقيم من إمارة دبي.",
@@ -91887,8 +91887,8 @@ window.STREETS = [
   "ar": "شارع المنارة",
   "en": "Al Manara Street",
   "meaning": {
-    "ar": "«المنارة»: منارة",
-    "en": "Al Manara: lighthouse"
+    "ar": "معنى «المَنارة» منارةُ الطريق والبحر.",
+    "en": "«Al Manarah» means the lighthouse of road and sea."
   },
   "story": {
     "ar": "الاسم «المنارة» منارة، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في الرملة بإمارة أم القيوين، والاسم من أسماء المواضع.",
@@ -91903,8 +91903,8 @@ window.STREETS = [
   "ar": "شارع المَنارة",
   "en": "Al Manarah Street",
   "meaning": {
-    "ar": "«المَنارة»: منارة",
-    "en": "Al Manarah: lighthouse"
+    "ar": "«المَنارة» موضعُ الضوء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manarah» is the place of light."
   },
   "story": {
     "ar": "«المَنارة» منارة، والاسم هو الكلمة نفسها. وهو الشارع في المُعْتَرِض، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -92095,8 +92095,8 @@ window.STREETS = [
   "ar": "شارع الميناء",
   "en": "Al Meena Street",
   "meaning": {
-    "ar": "«الميناء»: ميناء",
-    "en": "Al Meena: port"
+    "ar": "«الميناء» مرسى السفن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mina'» is the harbour; the name comes from this word."
   },
   "story": {
     "ar": "«الميناء» ميناء، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الزَّاهية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -92111,8 +92111,8 @@ window.STREETS = [
   "ar": "شارع الميناء",
   "en": "Al Mina Street",
   "meaning": {
-    "ar": "«الميناء»: ميناء",
-    "en": "Al Mina: port"
+    "ar": "معنى «الميناء» المكانُ الذي ترسو فيه السفن.",
+    "en": "«Al Mina'» means where ships moor."
   },
   "story": {
     "ar": "الاسم «الميناء» ميناء، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في الميناء.",
@@ -93039,8 +93039,8 @@ window.STREETS = [
   "ar": "شارع بيروت",
   "en": "Beirut Street",
   "meaning": {
-    "ar": "«بيروت»: بيروت",
-    "en": "Beirut: Beirut"
+    "ar": "«بيروت» اسمُ مدينةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Bayrut» is the name of an ancient city; the name comes from this word."
   },
   "story": {
     "ar": "«بيروت» بيروت، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في حَدْبَة الزَّعْفَرَانَة من إمارة أبوظبي.",
@@ -93055,8 +93055,8 @@ window.STREETS = [
   "ar": "شارع بيروت",
   "en": "Beirut Street",
   "meaning": {
-    "ar": "«بيروت»: بيروت",
-    "en": "Beirut: Beirut"
+    "ar": "معنى «بيروت» بيروتُ لبنان؛ والاسم من هذا اللفظ.",
+    "en": "«Bayrut» means Beirut of Lebanon; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «بيروت» بيروت، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في محيصنة بإمارة دبي، والاسم من أسماء المواضع.",
@@ -93071,8 +93071,8 @@ window.STREETS = [
   "ar": "شارع بَيروت",
   "en": "Beirout Street",
   "meaning": {
-    "ar": "«بَيروت»: بيروت",
-    "en": "Beirout: Beirut"
+    "ar": "«بيروت» مدينةٌ ساحليةٌ مشهورة؛ والاسم من هذا اللفظ.",
+    "en": "«Bayrut» is a famous coastal city."
   },
   "story": {
     "ar": "«بَيروت» بيروت، والاسم هو الكلمة نفسها. وهو الشارع في وسط المدينة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -93087,8 +93087,8 @@ window.STREETS = [
   "ar": "شارع تاج مَحَل",
   "en": "Taj Mahal Street",
   "meaning": {
-    "ar": "«تاج مَحَل»: تاج",
-    "en": "Taj Mahal: crown"
+    "ar": "«تاج مَحَل» اسمٌ مألوف لمشهدٍ معماريٍّ مشهور.",
+    "en": "«Taj Mahal» is a familiar name for a famous monument."
   },
   "story": {
     "ar": "«تاج» تاج، و«مَحَل» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في وسط المدينة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -93103,8 +93103,8 @@ window.STREETS = [
   "ar": "شارع تونس",
   "en": "Tunis Street",
   "meaning": {
-    "ar": "«تونس»: تونس",
-    "en": "Tunis: Tunisia"
+    "ar": "«تونس» اسمُ مدينةٍ ودولةٍ عريقة.",
+    "en": "«Tunis» is the name of an ancient city and country."
   },
   "story": {
     "ar": "«تونس» تونس، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المزهر بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -93119,8 +93119,8 @@ window.STREETS = [
   "ar": "شارع تونس",
   "en": "Tunis Road",
   "meaning": {
-    "ar": "«تونس»: تونس",
-    "en": "Tunis: Tunisia"
+    "ar": "معنى «تونس» تونسُ البلاد؛ والاسم من هذا اللفظ.",
+    "en": "«Tunis» means Tunis the land; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «تونس» تونس، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الطرق في الفجيرة، والطريق في مريشيد.",
@@ -93135,8 +93135,8 @@ window.STREETS = [
   "ar": "شارع تُونس",
   "en": "Tunis Street",
   "meaning": {
-    "ar": "«تُونس»: تونس",
-    "en": "Tunis: Tunisia"
+    "ar": "«تونس» عاصمةٌ شمال أفريقية؛ والاسم من هذا اللفظ.",
+    "en": "«Tunis» is a North African capital."
   },
   "story": {
     "ar": "«تُونس» تونس، والاسم هو الكلمة نفسها. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -93343,8 +93343,8 @@ window.STREETS = [
   "ar": "شارع خورفكان",
   "en": "Khor Fakkan Street",
   "meaning": {
-    "ar": "«خورفكان»: خورفكان",
-    "en": "Khor Fakkan: Khor Fakkan"
+    "ar": "«خُورفُكان» اسمُ مدينةٍ ساحلية؛ والاسم من هذا اللفظ.",
+    "en": "«Khor Fakkan» is a coastal city; the name comes from this word."
   },
   "story": {
     "ar": "«خورفكان» خورفكان، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مْبَزَّرَة الخَضْراء، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -93551,8 +93551,8 @@ window.STREETS = [
   "ar": "شارع شِعب الغَيل",
   "en": "Shi'b Al Ghayl Street",
   "meaning": {
-    "ar": "«شِعب الغَيل»: شِعْب",
-    "en": "Shi'b Al Ghayl: gullies"
+    "ar": "«الغَيل» الماءُ الباقي في مجرى الوادي؛ والاسم مركّب.",
+    "en": "«Al Ghayl» is the water left in a wadi bed; the name is compound."
   },
   "story": {
     "ar": "«شِعب» شِعْب، و«الغَيل» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -93583,8 +93583,8 @@ window.STREETS = [
   "ar": "شارع شمس الدين الكلي",
   "en": "Shamsuldeen Al Kuli Street",
   "meaning": {
-    "ar": "«شمس الدين الكلي»: شمس",
-    "en": "Shamsuldeen Al Kuli: sun"
+    "ar": "«شمس الدين» اسمٌ مركّب مألوف؛ والاسم من هذا اللفظ.",
+    "en": "«Shamsuddeen» is a familiar compound name."
   },
   "story": {
     "ar": "«شمس» شمس، و«الدين الكلي» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في الشارقة، والشارع في مدينة الشارقة.",
@@ -93727,8 +93727,8 @@ window.STREETS = [
   "ar": "شارع ظاهَر المُصَلى",
   "en": "Dhahar Al Musalla Street",
   "meaning": {
-    "ar": "«ظاهَر المُصَلى»: ظَاهِر",
-    "en": "Dhahar Al Musalla: face of prayer ground"
+    "ar": "«الظَّاهِر» النقيضُ الباطن؛ والاسم مركّب.",
+    "en": "«Adh Dahir» is the opposite of the hidden; the name is compound."
   },
   "story": {
     "ar": "«ظاهَر» ظَاهِر، و«المُصَلى» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في مدينة محمد بن زايد، أبوظبي.",
@@ -93967,8 +93967,8 @@ window.STREETS = [
   "ar": "شارع قرطبة",
   "en": "Qortbah Street",
   "meaning": {
-    "ar": "«قرطبة»: قرطبة",
-    "en": "Qortbah: Córdoba"
+    "ar": "«قُرطُبة» اسمُ مدينةٍ عريقة في الأندلس.",
+    "en": "«Qurtubah» is an ancient city in Andalusia."
   },
   "story": {
     "ar": "«قرطبة» قرطبة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في السلمة بإمارة أم القيوين، والاسم من أسماء المواضع.",
@@ -93983,8 +93983,8 @@ window.STREETS = [
   "ar": "شارع قُرطُبَة",
   "en": "Qurtubah Street",
   "meaning": {
-    "ar": "«قُرطُبَة»: قرطبة",
-    "en": "Qurtubah: Córdoba"
+    "ar": "معنى «قُرطُبة» قرطبةُ الأندلس؛ والاسم من هذا اللفظ.",
+    "en": "«Qurtubah» means Cordoba of Andalusia; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «قُرطُبَة» قرطبة، وليس مركّباً. وهو الشارع في بُو حَصَا، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -93999,8 +93999,8 @@ window.STREETS = [
   "ar": "شارع قِلَّة الحِصن",
   "en": "Qillat Al Hisn Street",
   "meaning": {
-    "ar": "«قِلَّة الحِصن»: قِلَّة",
-    "en": "Qillat Al Hisn: a stony hillock"
+    "ar": "«القِلَّة» التلُّ الحجريُّ البارز؛ والاسم مركّب.",
+    "en": "«Al Qillah» is the prominent stony hill; the name is compound."
   },
   "story": {
     "ar": "«قِلَّة» قِلَّة، و«الحِصن» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في مَزْيَد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -94015,8 +94015,8 @@ window.STREETS = [
   "ar": "شارع قلَّة الخُور",
   "en": "Qillat Al Khor Street",
   "meaning": {
-    "ar": "«قلَّة الخُور»: قِلَّة",
-    "en": "Qillat Al Khor: a stony hillock"
+    "ar": "معنى «القِلَّة» القِلَّةُ من الجبال؛ والاسم مركّب.",
+    "en": "«Al Qillah» means the stony rise; the name is compound."
   },
   "story": {
     "ar": "«الخُور» اسم الموضع في «قلَّة»؛ و«قلَّة» قِلَّة. وهذا الموضع أخذ منه اسم الشارع في الفُوعَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -94095,8 +94095,8 @@ window.STREETS = [
   "ar": "شارع ماء المُرَبَّعات",
   "en": "Ma Al Murabba'at Street",
   "meaning": {
-    "ar": "«ماء المُرَبَّعات»: ماء",
-    "en": "Ma Al Murabba'at: water"
+    "ar": "«الماء» الماءُ المعروف؛ والاسم مركّب.",
+    "en": "«Al Ma'» is the water; the name is compound."
   },
   "story": {
     "ar": "«ماء» ماء، و«المُرَبَّعات» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع فَلَج هَزَّاع في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -94111,8 +94111,8 @@ window.STREETS = [
   "ar": "شارع ماء الوَرد",
   "en": "Ma Al Ward Street",
   "meaning": {
-    "ar": "«ماء الوَرد»: ماء",
-    "en": "Ma Al Ward: water"
+    "ar": "معنى «الماء» الماءُ الذي يُشرب؛ والاسم مركّب.",
+    "en": "«Al Ma'» means the water one drinks; the name is compound."
   },
   "story": {
     "ar": "«الوَرد» اسم الموضع في «ماء»؛ و«ماء» ماء. والاسم يُنسب إلى موضع، والشارع في المَنهَل من إمارة أبوظبي.",
@@ -94127,8 +94127,8 @@ window.STREETS = [
   "ar": "شارع ماء سِلوان",
   "en": "Ma Silwan Street",
   "meaning": {
-    "ar": "«ماء سِلوان»: ماء",
-    "en": "Ma Silwan: water"
+    "ar": "«الماء» ماءُ الحياة؛ والاسم مركّب.",
+    "en": "«Al Ma'» is the water of life; the name is compound."
   },
   "story": {
     "ar": "ماء اسمه «ماء»، و«سِلوان» اسم يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في المَنهَل بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -94159,8 +94159,8 @@ window.STREETS = [
   "ar": "شارع مراكش",
   "en": "Marrakech Street",
   "meaning": {
-    "ar": "«مراكش»: مراكش",
-    "en": "Marrakech: Marrakech"
+    "ar": "«مَرّاكِش» اسمُ مدينةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Marrakesh» is the name of an ancient city; the name comes from this word."
   },
   "story": {
     "ar": "«مراكش» مراكش، والاسم مأخوذ من هذه الكلمة. والشارع في القرهود، والاسم من أسماء المواضع في إمارة دبي.",
@@ -94175,8 +94175,8 @@ window.STREETS = [
   "ar": "شارع مَرّاكِش",
   "en": "Marrakesh Street",
   "meaning": {
-    "ar": "«مَرّاكِش»: مراكش",
-    "en": "Marrakesh: Marrakech"
+    "ar": "معنى «مَرّاكِش» مراكشُ المغرب؛ والاسم من هذا اللفظ.",
+    "en": "«Marrakesh» means Marrakech of Morocco; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «مَرّاكِش» مراكش، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في وسط المدينة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -94207,8 +94207,8 @@ window.STREETS = [
   "ar": "شارع مطار آل مكتوم",
   "en": "Al Maktoum Airport Street",
   "meaning": {
-    "ar": "«مطار آل مكتوم»: مطار",
-    "en": "Al Maktoum Airport: airport"
+    "ar": "«المَطار» موضعُ طيران الطائرات؛ والاسم مركّب.",
+    "en": "«Al Matar» is where aircraft fly; the name is compound."
   },
   "story": {
     "ar": "«مطار» مطار، و«آل مكتوم» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في حصيان 1، دبي.",
@@ -94223,8 +94223,8 @@ window.STREETS = [
   "ar": "شارع مطار العين الدولي",
   "en": "Al Ain International Airport Street",
   "meaning": {
-    "ar": "«مطار العين الدولي»: مطار",
-    "en": "Al Ain International Airport: airport"
+    "ar": "معنى «المَطار» المطارُ الدوليُّ؛ والاسم مركّب.",
+    "en": "«Al Matar» means the airport; the name is compound."
   },
   "story": {
     "ar": "«العين الدولي» اسم الموضع في «مطار»؛ و«مطار» مطار. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مطار العين الدولي.",
@@ -94319,8 +94319,8 @@ window.STREETS = [
   "ar": "شارع واسط",
   "en": "Wasett Street",
   "meaning": {
-    "ar": "«واسط»: واسط",
-    "en": "Wasett: Wasit"
+    "ar": "«واسِط» اسمُ مدينةٍ عريقة في العراق.",
+    "en": "«Wasit» is an ancient city in Iraq."
   },
   "story": {
     "ar": "«واسط» واسط، والاسم مأخوذ من هذه الكلمة. والشارع في واسط، والاسم من أسماء المواضع في إمارة الفجيرة.",
@@ -94335,8 +94335,8 @@ window.STREETS = [
   "ar": "شارع واسط",
   "en": "Wasit Street",
   "meaning": {
-    "ar": "«واسط»: واسط",
-    "en": "Wasit: Wasit"
+    "ar": "معنى «واسِط» واسطُ العراق؛ والاسم من هذا اللفظ.",
+    "en": "«Wasit» means Wasit of Iraq; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «واسط» واسط، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في مغيدر بإمارة الشارقة، وليس كلمة تُفسَّر.",
@@ -94351,8 +94351,8 @@ window.STREETS = [
   "ar": "شارع واسِط",
   "en": "Wasit Street",
   "meaning": {
-    "ar": "«واسِط»: واسط",
-    "en": "Wasit: Wasit"
+    "ar": "«واسِط» مدينةٌ على دجلة؛ والاسم من هذا اللفظ.",
+    "en": "«Wasit» is a city on the Tigris."
   },
   "story": {
     "ar": "«واسِط» واسط، والاسم هو الكلمة نفسها. والاسم من أسماء المواضع، والشارع في آل نَهيان، أبوظبي.",
@@ -94511,8 +94511,8 @@ window.STREETS = [
   "ar": "طريق الليّلك",
   "en": "Lilac Way",
   "meaning": {
-    "ar": "«الليّلك»: ليلك",
-    "en": "Lilac: lilac"
+    "ar": "«اللَّيلَك» شجرةُ الليلك الزاهرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Laylak» is the blooming lilac; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الليّلك» ليلك، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الطرق في دبي، والطريق في جرين كميونيتي الشرق.",
@@ -94559,8 +94559,8 @@ window.STREETS = [
   "ar": "طريق المصلى",
   "en": "Al Mussalla Road",
   "meaning": {
-    "ar": "«المصلى»: مصلى",
-    "en": "Al Mussalla: prayer ground"
+    "ar": "«المُصَلَّى» موضعُ الصلاة والعبادة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Musalla» is the place of prayer and worship; the name comes from this word."
   },
   "story": {
     "ar": "«المصلى» مصلى، والاسم هو الكلمة نفسها. والاسم يُنسب إلى موضع، والطريق في نايف من إمارة دبي.",
@@ -94575,8 +94575,8 @@ window.STREETS = [
   "ar": "طريق الميناء",
   "en": "Port Road",
   "meaning": {
-    "ar": "«الميناء»: ميناء",
-    "en": "Port Road: port"
+    "ar": "«الميناء» مرسى السفن والتجارة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mina'» is the harbour of ships and trade; the name comes from this word."
   },
   "story": {
     "ar": "«الميناء» ميناء، والاسم هو الكلمة نفسها. وتقع الطرق التي تحمل هذا الاسم في الهلال بإمارة الفجيرة، والاسم من أسماء المواضع.",
@@ -94591,8 +94591,8 @@ window.STREETS = [
   "ar": "طريق خورفكان",
   "en": "Khorfakkan Road",
   "meaning": {
-    "ar": "«خورفكان»: خورفكان",
-    "en": "Khorfakkan: Khor Fakkan"
+    "ar": "«خُورفُكان» مدينةٌ على ساحل الخليج.",
+    "en": "«Khor Fakkan» is a city on the gulf shore."
   },
   "story": {
     "ar": "الاسم «خورفكان» خورفكان، وليس مركّباً. وهو الطريق في دفتا، والاسم من أسماء المواضع التي تعرفها الفجيرة.",
@@ -94607,8 +94607,8 @@ window.STREETS = [
   "ar": "طريق خورفكان",
   "en": "Khorfakkan Road",
   "meaning": {
-    "ar": "«خورفكان»: خورفكان",
-    "en": "Khorfakkan: Khor Fakkan"
+    "ar": "معنى «خُورفُكان» خورفُكانُ الشارقة؛ والاسم من هذا اللفظ.",
+    "en": "«Khor Fakkan» means Khor Fakkan of Sharjah; the name comes from this word."
   },
   "story": {
     "ar": "«خورفكان» خورفكان، والاسم هو الكلمة نفسها. والطريق في مدينة الشارقة، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -94623,8 +94623,8 @@ window.STREETS = [
   "ar": "طريق قرطبة",
   "en": "Korthabah Road",
   "meaning": {
-    "ar": "«قرطبة»: قرطبة",
-    "en": "Korthabah: Córdoba"
+    "ar": "«قُرطُبة» مدينةٌ أندلسيةٌ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Qurtubah» is an ancient Andalusian city; the name comes from this word."
   },
   "story": {
     "ar": "«قرطبة» قرطبة، والاسم هو الكلمة نفسها. وهذا الموضع أخذ منه اسم الطريق في مركز المدينة بإمارة الفجيرة، وليس كلمة تُفسَّر.",
@@ -94639,8 +94639,8 @@ window.STREETS = [
   "ar": "ليلك",
   "en": "Lilac",
   "meaning": {
-    "ar": "«ليلك»: ليلك",
-    "en": "Lilac: lilac"
+    "ar": "«ليلك» نباتُ الليلك؛ والاسم من هذا اللفظ.",
+    "en": "«Laylak» is the lilac plant."
   },
   "story": {
     "ar": "«ليلك» ليلك، والاسم هو الكلمة نفسها. والاسم من أسماء المواضع التي تُنسب إليها المواضع في الشارقة، والموضع في مويلح.",
@@ -94655,8 +94655,8 @@ window.STREETS = [
   "ar": "مراكش شارع الجاردنز",
   "en": "Marrakech Gardens Street",
   "meaning": {
-    "ar": "«مراكش شارع الجاردنز»: مراكش",
-    "en": "Marrakech Gardens: Marrakech"
+    "ar": "«مراكش» مدينةٌ عريقة؛ والاسم مركّب.",
+    "en": "«Marrakesh» is an ancient city; the name is compound."
   },
   "story": {
     "ar": "«مراكش» مراكش، و«شارع الجاردنز» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع يقع في قرية المعرفة من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -94671,8 +94671,8 @@ window.STREETS = [
   "ar": "ممر الأوركيد",
   "en": "Orchid Lane",
   "meaning": {
-    "ar": "«ممر الأوركيد»: أوركيد",
-    "en": "Orchid Lane: orchid"
+    "ar": "«الأوركيد» زهرةُ الأوركيد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Urkid» is the orchid flower."
   },
   "story": {
     "ar": "«ممر» أوركيد، و«الأوركيد» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من المواضع مدينة دبي للاستوديوهات 1 في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -94767,8 +94767,8 @@ window.STREETS = [
   "ar": "شارع",
   "en": "Meadows",
   "meaning": {
-    "ar": "«شارع»: شارع",
-    "en": "Meadows: street"
+    "ar": "«شارع» الطريقُ الواسع؛ والاسم من هذا اللفظ.",
+    "en": "«Shari'» is the wide road."
   },
   "story": {
     "ar": "«شارع» شارع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الينابيع، دبي.",
@@ -94783,8 +94783,8 @@ window.STREETS = [
   "ar": "شارع",
   "en": "Al Khair Street",
   "meaning": {
-    "ar": "«شارع»: شارع",
-    "en": "Al Khair: street"
+    "ar": "معنى «شارع» الشارعُ في المدينة.",
+    "en": "«Shari'» means the street in a town."
   },
   "story": {
     "ar": "الاسم «شارع» شارع، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في الشارقة، والشارع في الرقة.",
@@ -94975,8 +94975,8 @@ window.STREETS = [
   "ar": "شارع الأسد",
   "en": "Al Asad Street",
   "meaning": {
-    "ar": "«الأسد»: أسد",
-    "en": "Al Asad: lion"
+    "ar": "«الأسد» الأسدُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Asad» is the lion; the name comes from this word."
   },
   "story": {
     "ar": "«الأسد» أسد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -94991,8 +94991,8 @@ window.STREETS = [
   "ar": "شارع الأسد",
   "en": "Al Asad Street",
   "meaning": {
-    "ar": "«الأسد»: أسد",
-    "en": "Al Asad: lion"
+    "ar": "معنى «الأسد» أسدُ الغابة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Asad» means the lion of the forest; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الأسد» أسد، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في مدينة دبي للإعلام بإمارة دبي، والاسم من أسماء المواضع.",
@@ -95327,8 +95327,8 @@ window.STREETS = [
   "ar": "شارع الإِنْجَاز",
   "en": "Al Injaz Street",
   "meaning": {
-    "ar": "«الإِنْجَاز»: إنجاز",
-    "en": "Al Injaz: achievement"
+    "ar": "«الإنجاز» إتمامُ العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Injaz» is the finishing of a work; the name comes from this word."
   },
   "story": {
     "ar": "«الإِنْجَاز» إنجاز، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الروضة الشرقية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -95407,8 +95407,8 @@ window.STREETS = [
   "ar": "شارع الانجاز",
   "en": "Al Enjaaz Street",
   "meaning": {
-    "ar": "«الانجاز»: إنجاز",
-    "en": "Al Enjaaz: achievement"
+    "ar": "معنى «الإنجاز» بلوغُ المطلوب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Injaz» means reaching what is wanted; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الانجاز» إنجاز، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الوصل من إمارة دبي.",
@@ -95599,8 +95599,8 @@ window.STREETS = [
   "ar": "شارع البخور",
   "en": "Al Bukhur Street",
   "meaning": {
-    "ar": "«البخور»: بخور",
-    "en": "Al Bukhur: incense"
+    "ar": "«البَخُور» البخورُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bukhur» is the incense; the name comes from this word."
   },
   "story": {
     "ar": "«البخور» بخور، والاسم مأخوذ من هذه الكلمة. والشارع في السلمة، والاسم من أسماء المواضع في إمارة أم القيوين.",
@@ -95615,8 +95615,8 @@ window.STREETS = [
   "ar": "شارع البَخُور",
   "en": "Al Bakhour Street",
   "meaning": {
-    "ar": "«البَخُور»: بخور",
-    "en": "Al Bakhour: incense"
+    "ar": "معنى «البَخُور» ما يُبخَّر به.",
+    "en": "«Al Bukhur» means what is burned as incense."
   },
   "story": {
     "ar": "الاسم «البَخُور» بخور، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في ربدان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -96143,8 +96143,8 @@ window.STREETS = [
   "ar": "شارع التَّبَّان",
   "en": "Al Tabban Street",
   "meaning": {
-    "ar": "«التَّبَّان»: تَبَّان",
-    "en": "Al Tabban: straw dealer"
+    "ar": "«التَّبَّان» بائعُ التبن؛ والاسم من هذا اللفظ.",
+    "en": "«At Tabban» is the straw dealer; the name comes from this word."
   },
   "story": {
     "ar": "«التَّبَّان» تَبَّان، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الدَّانَةْ في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -96159,8 +96159,8 @@ window.STREETS = [
   "ar": "شارع التَّبَّان",
   "en": "At Tabban Street",
   "meaning": {
-    "ar": "«التَّبَّان»: تَبَّان",
-    "en": "At Tabban: straw dealer"
+    "ar": "معنى «التَّبَّان» صاحبُ التبن؛ والاسم من هذا اللفظ.",
+    "en": "«At Tabban» means the straw seller; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «التَّبَّان» تَبَّان، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في نِعْمة من إمارة أبوظبي.",
@@ -96239,8 +96239,8 @@ window.STREETS = [
   "ar": "شارع التَّرابُط",
   "en": "At Tarabut Street",
   "meaning": {
-    "ar": "«التَّرابُط»: تَرَابُط",
-    "en": "At Tarabut: cohesion"
+    "ar": "«التَّرابُط» التماسُكُ بين الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tarabut» is the cohesion between things."
   },
   "story": {
     "ar": "«التَّرابُط» تَرَابُط، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -96255,8 +96255,8 @@ window.STREETS = [
   "ar": "شارع التَّرَابُط",
   "en": "Al Tarabut Street",
   "meaning": {
-    "ar": "«التَّرَابُط»: تَرَابُط",
-    "en": "Al Tarabut: cohesion"
+    "ar": "معنى «التَّرابُط» الوصلُ بين الأشياء.",
+    "en": "«At Tarabut» means the link between things."
   },
   "story": {
     "ar": "الاسم «التَّرَابُط» تَرَابُط، وليس مركّباً. والاسم من أسماء المواضع، والشارع في رملة سويحان، أبوظبي.",
@@ -96367,8 +96367,8 @@ window.STREETS = [
   "ar": "شارع الترنج",
   "en": "Al Tarannuj Street",
   "meaning": {
-    "ar": "«الترنج»: تَرَنُّج",
-    "en": "Al Tarannuj: a mandorla"
+    "ar": "«التَّرنُّج» الشكلُ اللوزيُّ في الزخرفة؛ والاسم من هذا اللفظ.",
+    "en": "«At Tarannuj» is the almond shape in ornament."
   },
   "story": {
     "ar": "«الترنج» تَرَنُّج، والاسم مأخوذ من هذه الكلمة. والشارع في الرَّحبة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -96383,8 +96383,8 @@ window.STREETS = [
   "ar": "شارع التَّرنُّج",
   "en": "At Tarannuj Street",
   "meaning": {
-    "ar": "«التَّرنُّج»: تَرَنُّج",
-    "en": "At Tarannuj: a mandorla"
+    "ar": "معنى «التَّرنُّج» الشكلُ اللوزيُّ في الزخرفة.",
+    "en": "«At Tarannuj» means the almond shape in ornament."
   },
   "story": {
     "ar": "الاسم «التَّرنُّج» تَرَنُّج، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الهِيَر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -96463,8 +96463,8 @@ window.STREETS = [
   "ar": "شارع التسهيل",
   "en": "Al Tas-heel Street",
   "meaning": {
-    "ar": "«التسهيل»: تَسْهِيل",
-    "en": "Al Tas-heel: facilitation"
+    "ar": "«التسهيل» تسهيلُ الأمور؛ والاسم من هذا اللفظ.",
+    "en": "«At Tashil» is the easing of affairs."
   },
   "story": {
     "ar": "«التسهيل» تَسْهِيل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُعْتَرِض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -96479,8 +96479,8 @@ window.STREETS = [
   "ar": "شارع التَّسهيل",
   "en": "At Tas-heel Street",
   "meaning": {
-    "ar": "«التَّسهيل»: تَسْهِيل",
-    "en": "At Tas-heel: facilitation"
+    "ar": "معنى «التسهيل» جعلُ الشيء سهلاً.",
+    "en": "«At Tashil» means making a thing easy."
   },
   "story": {
     "ar": "الاسم «التَّسهيل» تَسْهِيل، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -96623,8 +96623,8 @@ window.STREETS = [
   "ar": "شارع التطلع",
   "en": "Al Tatalu' Street",
   "meaning": {
-    "ar": "«التطلع»: تَطَلُّع",
-    "en": "Al Tatalu': endeavor, aim"
+    "ar": "«التَّطلُّع» رفعُ النفس إلى المطلوب؛ والاسم من هذا اللفظ.",
+    "en": "«At Tatalu'» is reaching toward what is wanted."
   },
   "story": {
     "ar": "«التطلع» تَطَلُّع، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع البَاهية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -96639,8 +96639,8 @@ window.STREETS = [
   "ar": "شارع التَّطلُّع",
   "en": "At Tatalu' Street",
   "meaning": {
-    "ar": "«التَّطلُّع»: تَطَلُّع",
-    "en": "At Tatalu': endeavor, aim"
+    "ar": "معنى «التَّطلُّع» الطُّموحُ إلى المطالب.",
+    "en": "«At Tatalu'» means the urge toward aims."
   },
   "story": {
     "ar": "الاسم «التَّطلُّع» تَطَلُّع، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -96655,8 +96655,8 @@ window.STREETS = [
   "ar": "شارع التَّعاطف",
   "en": "Al Ta'atuf Street",
   "meaning": {
-    "ar": "«التَّعاطف»: تَعَاطُف",
-    "en": "Al Ta'atuf: sympathy"
+    "ar": "«التَّعاطُف» التراحمُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'atuf» is compassion between people."
   },
   "story": {
     "ar": "«التَّعاطف» تَعَاطُف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في رملة سويحان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -96671,8 +96671,8 @@ window.STREETS = [
   "ar": "شارع التَّعاطُف",
   "en": "At Ta'atuf Street",
   "meaning": {
-    "ar": "«التَّعاطُف»: تَعَاطُف",
-    "en": "At Ta'atuf: sympathy"
+    "ar": "معنى «التَّعاطُف» الرقةُ بين الناس.",
+    "en": "«At Ta'atuf» means tenderness between people."
   },
   "story": {
     "ar": "الاسم «التَّعاطُف» تَعَاطُف، وليس مركّباً. وهو الشارع في بني ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -96687,8 +96687,8 @@ window.STREETS = [
   "ar": "شارع التعايش",
   "en": "Al Ta'ayush Street",
   "meaning": {
-    "ar": "«التعايش»: تَعَايُش",
-    "en": "Al Ta'ayush: coexistence"
+    "ar": "«التَّعايش» العيشُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'ayush» is living among people."
   },
   "story": {
     "ar": "«التعايش» تَعَايُش، والاسم مأخوذ من هذه الكلمة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -96703,8 +96703,8 @@ window.STREETS = [
   "ar": "شارع التَّعايش",
   "en": "At Ta'ayush Street",
   "meaning": {
-    "ar": "«التَّعايش»: تَعَايُش",
-    "en": "At Ta'ayush: coexistence"
+    "ar": "معنى «التَّعايش» العيشُ في وئام.",
+    "en": "«At Ta'ayush» means living in accord."
   },
   "story": {
     "ar": "الاسم «التَّعايش» تَعَايُش، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في مدينة شخبوط بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -96719,8 +96719,8 @@ window.STREETS = [
   "ar": "شارع التَّعَلُّم",
   "en": "Al Ta'allum Street",
   "meaning": {
-    "ar": "«التَّعَلُّم»: تَعَلُّم",
-    "en": "Al Ta'allum: action of learning"
+    "ar": "«التَّعَلُّم» أخذُ العلم؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'allum» is the taking of knowledge."
   },
   "story": {
     "ar": "«التَّعَلُّم» تَعَلُّم، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المَقَام، أبوظبي.",
@@ -96735,8 +96735,8 @@ window.STREETS = [
   "ar": "شارع التَّعَلُّم",
   "en": "At Ta'allum Street",
   "meaning": {
-    "ar": "«التَّعَلُّم»: تَعَلُّم",
-    "en": "At Ta'allum: action of learning"
+    "ar": "معنى «التَّعَلُّم» التعلُّمُ في المدارس.",
+    "en": "«At Ta'allum» means learning in schools."
   },
   "story": {
     "ar": "الاسم «التَّعَلُّم» تَعَلُّم، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -96783,8 +96783,8 @@ window.STREETS = [
   "ar": "شارع التَّغرِيد",
   "en": "At Taghreed Street",
   "meaning": {
-    "ar": "«التَّغرِيد»: تَغْرِيد",
-    "en": "At Taghreed: singing (of birds)"
+    "ar": "«التَّغْريد» صوتُ الطير إذا غنّى؛ والاسم من هذا اللفظ.",
+    "en": "«At Taghreed» is the bird's song."
   },
   "story": {
     "ar": "«التَّغرِيد» تَغْرِيد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في فَلَج هَزَّاع من إمارة أبوظبي.",
@@ -96799,8 +96799,8 @@ window.STREETS = [
   "ar": "شارع التَّغْرِيد",
   "en": "Al Taghreed Street",
   "meaning": {
-    "ar": "«التَّغْرِيد»: تَغْرِيد",
-    "en": "Al Taghreed: singing (of birds)"
+    "ar": "معنى «التَّغْريد» تغريدُ العصافير؛ والاسم من هذا اللفظ.",
+    "en": "«At Taghreed» means the singing of birds; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «التَّغْرِيد» تَغْرِيد، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -96879,8 +96879,8 @@ window.STREETS = [
   "ar": "شارع التقوى",
   "en": "Al Taqwa Street",
   "meaning": {
-    "ar": "«التقوى»: تَقْوَى",
-    "en": "Al Taqwa: piety, godliness, taqwa"
+    "ar": "«التَّقوى» الاحتراسُ من المكروه؛ والاسم من هذا اللفظ.",
+    "en": "«At Taqwa» is caution against what is feared."
   },
   "story": {
     "ar": "«التقوى» تَقْوَى، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
@@ -96895,8 +96895,8 @@ window.STREETS = [
   "ar": "شارع التَّقوَى",
   "en": "At Taqwa Street",
   "meaning": {
-    "ar": "«التَّقوَى»: تَقْوَى",
-    "en": "At Taqwa: piety, godliness, taqwa"
+    "ar": "معنى «التَّقوى» الورعُ والبعدُ عن المعصية.",
+    "en": "«At Taqwa» means scrupulousness and staying clear of wrong."
   },
   "story": {
     "ar": "الاسم «التَّقوَى» تَقْوَى، وليس مركّباً. والشارع يقع في الطِّوَيَّة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -97007,8 +97007,8 @@ window.STREETS = [
   "ar": "شارع التنعم",
   "en": "Al Tana'um Street",
   "meaning": {
-    "ar": "«التنعم»: تَنَعُّم",
-    "en": "Al Tana'um: *comfort"
+    "ar": "«التَّنعُّم» العيشُ في الدعة؛ والاسم من هذا اللفظ.",
+    "en": "«At Tana'um» is living at ease."
   },
   "story": {
     "ar": "«التنعم» تَنَعُّم، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -97023,8 +97023,8 @@ window.STREETS = [
   "ar": "شارع التَّنعُّم",
   "en": "At Tana'uum Street",
   "meaning": {
-    "ar": "«التَّنعُّم»: تَنَعُّم",
-    "en": "At Tana'uum: living in comfort and luxury"
+    "ar": "معنى «التَّنعُّم» النعيمُ في العيش.",
+    "en": "«At Tana'um» means comfort in living."
   },
   "story": {
     "ar": "الاسم «التَّنعُّم» تَنَعُّم، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الساد.",
@@ -97039,8 +97039,8 @@ window.STREETS = [
   "ar": "شارع التنمية",
   "en": "Al Tanmiyah Street",
   "meaning": {
-    "ar": "«التنمية»: تَنْمِيَة",
-    "en": "Al Tanmiyah: development"
+    "ar": "«التَّنميَّة» رفعُ الشيءُ وزيادتُه؛ والاسم من هذا اللفظ.",
+    "en": "«At Tanmiyah» is the raising and growing of a thing."
   },
   "story": {
     "ar": "«التنمية» تَنْمِيَة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الجيمي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -97055,8 +97055,8 @@ window.STREETS = [
   "ar": "شارع التَّنميَّة",
   "en": "At Tanmiyyah Street",
   "meaning": {
-    "ar": "«التَّنميَّة»: تَنْمِيَة",
-    "en": "At Tanmiyyah: development"
+    "ar": "معنى «التَّنميَّة» تنميةُ البلدان؛ والاسم من هذا اللفظ.",
+    "en": "«At Tanmiyah» means the development of lands; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «التَّنميَّة» تَنْمِيَة، وليس مركّباً. وهو من الشوارع مدينة خليفة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -97103,8 +97103,8 @@ window.STREETS = [
   "ar": "شارع التَّوازُن",
   "en": "At Tawazun Street",
   "meaning": {
-    "ar": "«التَّوازُن»: تَوَازُن",
-    "en": "At Tawazun: balance"
+    "ar": "«التَّوازُن» التعادلُ بين الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawazun» is the balance between things."
   },
   "story": {
     "ar": "«التَّوازُن» تَوَازُن، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الدَّانَةْ، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -97119,8 +97119,8 @@ window.STREETS = [
   "ar": "شارع التَّوَازُن",
   "en": "Al Tawazun Street",
   "meaning": {
-    "ar": "«التَّوَازُن»: تَوَازُن",
-    "en": "Al Tawazun: being or becoming of equal weight"
+    "ar": "معنى «التَّوازُن» الميزانُ بين شيئين.",
+    "en": "«At Tawazun» means the scale between two things."
   },
   "story": {
     "ar": "الاسم «التَّوَازُن» تَوَازُن، وليس مركّباً. والشارع في الروضة الشرقية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -97135,8 +97135,8 @@ window.STREETS = [
   "ar": "شارع التوقير",
   "en": "Al Tawqeer Street",
   "meaning": {
-    "ar": "«التوقير»: تَوْقِير",
-    "en": "Al Tawqeer: *respect"
+    "ar": "«التَّوقِير» من مادة «وَقَرَ يَقِرُ»؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawqeer» comes from the root waqara; the name holds it."
   },
   "story": {
     "ar": "«التوقير» تَوْقِير، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المَرْخَانِيَّة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -97151,8 +97151,8 @@ window.STREETS = [
   "ar": "شارع التَّوقِير",
   "en": "At Tawqeer Street",
   "meaning": {
-    "ar": "«التَّوقِير»: تَوْقِير",
-    "en": "At Tawqeer: *respect"
+    "ar": "معنى «التَّوقِير» من «وَقَرَ»؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawqeer» belongs to the root waqara."
   },
   "story": {
     "ar": "الاسم «التَّوقِير» تَوْقِير، وليس مركّباً. والاسم من أسماء المواضع، والشارع في المرْفَأ، أبوظبي.",
@@ -97231,8 +97231,8 @@ window.STREETS = [
   "ar": "شارع التين",
   "en": "Al Teen Street",
   "meaning": {
-    "ar": "«التين»: تِين",
-    "en": "Al Teen: the fig"
+    "ar": "«التِّين» التينُ من الأشجار؛ والاسم من هذا اللفظ.",
+    "en": "«At Teen» is the fig tree; the name comes from this word."
   },
   "story": {
     "ar": "«التين» تِين، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الخِبِيصِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -97247,8 +97247,8 @@ window.STREETS = [
   "ar": "شارع التِّين",
   "en": "At Teen Street",
   "meaning": {
-    "ar": "«التِّين»: تِين",
-    "en": "At Teen: fig (fruit and tree)"
+    "ar": "معنى «التِّين» ثمرةُ التين؛ والاسم من هذا اللفظ.",
+    "en": "«At Teen» means the fig fruit; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «التِّين» تِين، وليس مركّباً. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -97311,8 +97311,8 @@ window.STREETS = [
   "ar": "شارع الثرى",
   "en": "Al Thara Street",
   "meaning": {
-    "ar": "«الثرى»: ثَرًى",
-    "en": "Al Thara: earth, soil"
+    "ar": "«الثَّرى» تُرابُ الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Thara» is the soil of the earth; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الثرى» ثَرًى، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَرْخَانِيَّة.",
@@ -97327,8 +97327,8 @@ window.STREETS = [
   "ar": "شارع الثَّرى",
   "en": "Ath Thara Street",
   "meaning": {
-    "ar": "«الثَّرى»: ثَرًى",
-    "en": "Ath Thara: earth, soil"
+    "ar": "معنى «الثَّرى» التُّرابُ الذي يُمشى عليه.",
+    "en": "«Ath Thara» means the ground one walks on."
   },
   "story": {
     "ar": "«الثَّرى» ثَرًى، والاسم هو الكلمة نفسها. والشارع يقع في السَّعادة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -97375,8 +97375,8 @@ window.STREETS = [
   "ar": "شارع الثقافة",
   "en": "Al Thaqafah Street",
   "meaning": {
-    "ar": "«الثقافة»: ثَقَافَة",
-    "en": "Al Thaqafah: *culture"
+    "ar": "«الثَّقافة» الفهمُ والعلمُ الراسخ؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Thaqafah» is deep knowledge and understanding; the name comes from this word."
   },
   "story": {
     "ar": "«الثقافة» ثَقَافَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الحصن2 بإمارة أم القيوين، والاسم من أسماء المواضع.",
@@ -97391,8 +97391,8 @@ window.STREETS = [
   "ar": "شارع الثَّقافة",
   "en": "Al Thaqafah Street",
   "meaning": {
-    "ar": "«الثَّقافة»: ثَقَافَة",
-    "en": "Al Thaqafah: *culture"
+    "ar": "معنى «الثَّقافة» الحذقُ في العلم.",
+    "en": "«Ath Thaqafah» means skill in learning."
   },
   "story": {
     "ar": "الاسم «الثَّقافة» ثَقَافَة، وليس مركّباً. وهو الشارع في الصَّدر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -97407,8 +97407,8 @@ window.STREETS = [
   "ar": "شارع الثَّقافِي",
   "en": "Ath Thaqafi Street",
   "meaning": {
-    "ar": "«الثَّقافِي»: ثَقَافِيّ",
-    "en": "Ath Thaqafi: cultural"
+    "ar": "«الثَّقافي» المنسوبُ إلى الثقافة؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Thaqafi» is the adjective of culture."
   },
   "story": {
     "ar": "«الثَّقافِي» ثَقَافِيّ، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة خليفة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -97423,8 +97423,8 @@ window.STREETS = [
   "ar": "شارع الثَّقَافِي",
   "en": "Al Thaqafi Street",
   "meaning": {
-    "ar": "«الثَّقَافِي»: ثَقَافِيّ",
-    "en": "Al Thaqafi: cultural"
+    "ar": "معنى «الثَّقافي» الثقافيُّ من الأمور.",
+    "en": "«Ath Thaqafi» means the cultural in matters."
   },
   "story": {
     "ar": "الاسم «الثَّقَافِي» ثَقَافِيّ، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -97535,8 +97535,8 @@ window.STREETS = [
   "ar": "شارع الثَّواب",
   "en": "Al Thawab Street",
   "meaning": {
-    "ar": "«الثَّواب»: ثَوَاب",
-    "en": "Al Thawab: remuneration; reward"
+    "ar": "«الثَّواب» الجزاءُ على العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Thawab» is the return upon a deed."
   },
   "story": {
     "ar": "«الثَّواب» ثَوَاب، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -97679,8 +97679,8 @@ window.STREETS = [
   "ar": "شارع الجامعة",
   "en": "University Street",
   "meaning": {
-    "ar": "«الجامعة»: جَامِعَة",
-    "en": "University: university, academy"
+    "ar": "«الجامعة» المكانُ الذي يجتمع فيه الطلاب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jami'ah» is where students gather, the university."
   },
   "story": {
     "ar": "«الجامعة» جَامِعَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الجرف من إمارة عجمان.",
@@ -97951,8 +97951,8 @@ window.STREETS = [
   "ar": "شارع الجوهرة",
   "en": "Al Jawhara Street",
   "meaning": {
-    "ar": "«الجوهرة»: جوهرة",
-    "en": "Al Jawhara: jewel"
+    "ar": "«الجَوهَرة» الجوهرةُ من الجواهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jawharah» is the jewel among gems; the name comes from this word."
   },
   "story": {
     "ar": "«الجوهرة» جوهرة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الحوية من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -97967,8 +97967,8 @@ window.STREETS = [
   "ar": "شارع الجَوهَرة",
   "en": "Al Jawharah Street",
   "meaning": {
-    "ar": "«الجَوهَرة»: جوهرة",
-    "en": "Al Jawharah: jewel"
+    "ar": "معنى «الجَوهَرة» الجوهرةُ النفيسة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jawharah» means the precious jewel; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الجَوهَرة» جوهرة، وليس مركّباً. وهو من الشوارع ربدان في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -97983,8 +97983,8 @@ window.STREETS = [
   "ar": "شارع الجير",
   "en": "Al Jeer Drive",
   "meaning": {
-    "ar": "«الجير»: جِير",
-    "en": "Al Jeer Drive: chalk, lime"
+    "ar": "«الجير» الجيرُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jeer» is the lime, well known."
   },
   "story": {
     "ar": "«الجير» جِير، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مردف من إمارة دبي.",
@@ -97999,8 +97999,8 @@ window.STREETS = [
   "ar": "شارع الجير",
   "en": "Al Jeer Road",
   "meaning": {
-    "ar": "«الجير»: جِير",
-    "en": "Al Jeer: chalk, lime"
+    "ar": "معنى «الجير» مادةُ الجير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jeer» means the material lime; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الجير» جِير، وليس مركّباً. وتقع الطرق التي تحمل هذا الاسم في الجير بإمارة رأس الخيمة، والاسم من أسماء المواضع.",
@@ -98095,8 +98095,8 @@ window.STREETS = [
   "ar": "شارع الحرمل",
   "en": "Al Harmull Street",
   "meaning": {
-    "ar": "«الحرمل»: حَرْمَل",
-    "en": "Al Harmull: the harmal plant"
+    "ar": "«الحرمل» نباتُ الحرمل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Harmal» is the harmal plant."
   },
   "story": {
     "ar": "«الحرمل» حَرْمَل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في البرشاء.",
@@ -98111,8 +98111,8 @@ window.STREETS = [
   "ar": "شارع الحرمل",
   "en": "Al Harmal Street",
   "meaning": {
-    "ar": "«الحرمل»: حَرْمَل",
-    "en": "Al Harmal: the harmal plant"
+    "ar": "معنى «الحرمل» نباتٌ معروف في البادية.",
+    "en": "«Al Harmal» means a plant known in the desert."
   },
   "story": {
     "ar": "الاسم «الحرمل» حَرْمَل، وليس مركّباً. والشارع يقع في الحرس الوطني من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -98223,8 +98223,8 @@ window.STREETS = [
   "ar": "شارع الحي",
   "en": "Al Hay Street",
   "meaning": {
-    "ar": "«الحي»: حي",
-    "en": "Al Hay: alive"
+    "ar": "«الحَيّ» النقيضُ الميت؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hayy» is the opposite of the dead."
   },
   "story": {
     "ar": "«الحي» حي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في جَزِيرَة الرِّيم، أبوظبي.",
@@ -98319,8 +98319,8 @@ window.STREETS = [
   "ar": "شارع الخريف",
   "en": "Al Khareef Street",
   "meaning": {
-    "ar": "«الخريف»: خريف",
-    "en": "Al Khareef: autumn, fall"
+    "ar": "«الخريف» فصلُ الخريف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kharif» is the autumn season."
   },
   "story": {
     "ar": "«الخريف» خريف، والاسم مأخوذ من هذه الكلمة. وهو الشارع في السَّمْحة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -98335,8 +98335,8 @@ window.STREETS = [
   "ar": "شارع الخريف",
   "en": "Al Khareef Street",
   "meaning": {
-    "ar": "«الخريف»: خريف",
-    "en": "Al Khareef: autumn, fall"
+    "ar": "«الخريف» فصلُ الخريف من السنة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kharif» is the autumn season of the year."
   },
   "story": {
     "ar": "الاسم «الخريف» خريف، وليس مركّباً. والشارع في برشا هايتس، والاسم من أسماء المواضع في إمارة دبي.",
@@ -98847,8 +98847,8 @@ window.STREETS = [
   "ar": "شارع الدستور",
   "en": "Al Dustoor Street",
   "meaning": {
-    "ar": "«الدستور»: دستور",
-    "en": "Al Dustoor: constitution"
+    "ar": "«الدُّستُور» القانونُ الأساسي؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dustur» is the fundamental law."
   },
   "story": {
     "ar": "«الدستور» دستور، والاسم مأخوذ من هذه الكلمة. وهو الشارع في جميرا، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -98863,8 +98863,8 @@ window.STREETS = [
   "ar": "شارع الدُّستُور",
   "en": "Ad Dustour Street",
   "meaning": {
-    "ar": "«الدُّستُور»: دستور",
-    "en": "Ad Dustour: constitution"
+    "ar": "معنى «الدُّستُور» نظامُ المدينة والدولة.",
+    "en": "«Ad Dustur» means the order of a polity."
   },
   "story": {
     "ar": "الاسم «الدُّستُور» دستور، وليس مركّباً. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -99391,8 +99391,8 @@ window.STREETS = [
   "ar": "شارع الذهب",
   "en": "Al Dhahab Street",
   "meaning": {
-    "ar": "«الذهب»: ذهب",
-    "en": "Al Dhahab: gold"
+    "ar": "«الذَّهَب» الذهبُ المعروف من المعادن.",
+    "en": "«Adh Dhahab» is gold, known among metals."
   },
   "story": {
     "ar": "«الذهب» ذهب، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع شنتير في أم القيوين، والاسم يدل على موضع لا على كلمة.",
@@ -99407,8 +99407,8 @@ window.STREETS = [
   "ar": "شارع الذَّهَب",
   "en": "Al Dhahab Street",
   "meaning": {
-    "ar": "«الذَّهَب»: ذهب",
-    "en": "Al Dhahab: gold"
+    "ar": "معنى «الذَّهَب» المعدنُ الأصفر النفيس.",
+    "en": "«Adh Dhahab» means the precious yellow metal."
   },
   "story": {
     "ar": "الاسم «الذَّهَب» ذهب، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -99631,8 +99631,8 @@ window.STREETS = [
   "ar": "شارع الرحيل",
   "en": "Al Rhyl Street",
   "meaning": {
-    "ar": "«الرحيل»: رَحِيل",
-    "en": "Al Rhyl: leaving, departure"
+    "ar": "«الرَّحيل» الذهابُ عن المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rahil» is the leaving of a place."
   },
   "story": {
     "ar": "«الرحيل» رَحِيل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السلمة، أم القيوين.",
@@ -99647,8 +99647,8 @@ window.STREETS = [
   "ar": "شارع الرِّحَيل",
   "en": "Ar Rihayl Street",
   "meaning": {
-    "ar": "«الرِّحَيل»: رَحِيل",
-    "en": "Ar Rihayl: leaving, departure"
+    "ar": "معنى «الرِّحَيل» الرحيلُ عن الديار.",
+    "en": "«Ar Rahil» means departing one's homes."
   },
   "story": {
     "ar": "الاسم «الرِّحَيل» رَحِيل، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -99855,8 +99855,8 @@ window.STREETS = [
   "ar": "شارع الرطب",
   "en": "Al Ratab Street",
   "meaning": {
-    "ar": "«الرطب»: رطب",
-    "en": "Al Ratab: humid, moist"
+    "ar": "«الرَّطب» هنا بمعنى الرُّتَب، وهي الدرجات والمراتب؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ratab» here means ranks and degrees; the name comes from it."
   },
   "story": {
     "ar": "«الرطب» رطب، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في شنتير بإمارة أم القيوين، والاسم من أسماء المواضع.",
@@ -99871,8 +99871,8 @@ window.STREETS = [
   "ar": "شارع الرُّطَب",
   "en": "Al Rutab Street",
   "meaning": {
-    "ar": "«الرُّطَب»: رطب",
-    "en": "Al Rutab: humid, moist"
+    "ar": "«الرُّطَب» ضدُّ اليابس؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rutub» is the opposite of the dry."
   },
   "story": {
     "ar": "الاسم «الرُّطَب» رطب، وليس مركّباً. وهو الشارع في آل نَهيان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -99887,8 +99887,8 @@ window.STREETS = [
   "ar": "شارع الرعد",
   "en": "Al Ra'd Street",
   "meaning": {
-    "ar": "«الرعد»: رعد",
-    "en": "Al Ra'd: thunder"
+    "ar": "«الرَّعد» صوتُ السماء إذا برقَت؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ra'd» is the sound of the sky when it flashes."
   },
   "story": {
     "ar": "«الرعد» رعد، والاسم مأخوذ من هذه الكلمة. والشارع في المُويجْعِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -99903,8 +99903,8 @@ window.STREETS = [
   "ar": "شارع الرَّعد",
   "en": "Ar Ra'd Street",
   "meaning": {
-    "ar": "«الرَّعد»: رعد",
-    "en": "Ar Ra'd: thunder"
+    "ar": "معنى «الرَّعد» الرعدُ في السماء.",
+    "en": "«Ar Ra'd» means thunder in the sky."
   },
   "story": {
     "ar": "الاسم «الرَّعد» رعد، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الحِصِن بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -100063,8 +100063,8 @@ window.STREETS = [
   "ar": "شارع الرَّقَاع الصُّفُر",
   "en": "Ar Raqa' As Sufur Street",
   "meaning": {
-    "ar": "«الرَّقَاع الصُّفُر»: رَّقَاع",
-    "en": "Ar Raqa' As Sufur: flat patches, thin ground"
+    "ar": "«الرَّقَاع» المواضعُ المسطّحة؛ والاسم مركّب.",
+    "en": "«Ar Raqa'» are the flat patches; the name is compound."
   },
   "story": {
     "ar": "«الرَّقَاع» رَّقَاع، و«الصُّفُر» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في شعبة الوُطَاه بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -100111,8 +100111,8 @@ window.STREETS = [
   "ar": "شارع الرَّكب",
   "en": "Ar Rakb Street",
   "meaning": {
-    "ar": "«الرَّكب»: رَّكب",
-    "en": "Ar Rakb: caravan travellers"
+    "ar": "«الرَّكب» جماعةُ المسافرين؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rakb» is the band of travellers."
   },
   "story": {
     "ar": "«الرَّكب» رَّكب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في بني ياس.",
@@ -100191,8 +100191,8 @@ window.STREETS = [
   "ar": "شارع الرَّمرام",
   "en": "Ar Ramram Street",
   "meaning": {
-    "ar": "«الرَّمرام»: رَمْرَام",
-    "en": "Ar Ramram: Chenopodium and Chenopodiastrum"
+    "ar": "«الرَّمْرام» نباتٌ صحراوي؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ramram» is a desert plant."
   },
   "story": {
     "ar": "«الرَّمرام» رَمْرَام، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -100639,8 +100639,8 @@ window.STREETS = [
   "ar": "شارع الزاهر",
   "en": "Al Zaher Street",
   "meaning": {
-    "ar": "«الزاهر»: زَاهِر",
-    "en": "Al Zaher: blooming, bloomy"
+    "ar": "«الزَّاهِر» المزهرُ من النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zahir» is the blooming one among plants."
   },
   "story": {
     "ar": "«الزاهر» زَاهِر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في السوان بإمارة عجمان، والاسم من أسماء المواضع.",
@@ -100655,8 +100655,8 @@ window.STREETS = [
   "ar": "شارع الزَّاهِر",
   "en": "Al Zahir Street",
   "meaning": {
-    "ar": "«الزَّاهِر»: زَاهِر",
-    "en": "Al Zahir: blooming, bloomy"
+    "ar": "معنى «الزَّاهِر» الظاهرُ المنبسط؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zahir» means the open and spreading one; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الزَّاهِر» زَاهِر، وليس مركّباً. وهو الشارع في أم غَافة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -100671,8 +100671,8 @@ window.STREETS = [
   "ar": "شارع الزَّباد",
   "en": "Az Zabaad Street",
   "meaning": {
-    "ar": "«الزَّباد»: زَبَاد",
-    "en": "Az Zabaad: civet"
+    "ar": "«الزَّباد» الزَّبادُ من الطيب؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zabad» is the civet perfume."
   },
   "story": {
     "ar": "«الزَّباد» زَبَاد، والاسم مأخوذ من هذه الكلمة. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -100687,8 +100687,8 @@ window.STREETS = [
   "ar": "شارع الزَّبَاد",
   "en": "Al Zbad Street",
   "meaning": {
-    "ar": "«الزَّبَاد»: زَبَاد",
-    "en": "Al Zbad: civet"
+    "ar": "معنى «الزَّبَاد» الزبادُ المعروف من الطيب.",
+    "en": "«Az Zabad» means the known civet musk."
   },
   "story": {
     "ar": "الاسم «الزَّبَاد» زَبَاد، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في وسط المدينة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -100719,8 +100719,8 @@ window.STREETS = [
   "ar": "شارع الزبرجد",
   "en": "Al Zabrjad Street",
   "meaning": {
-    "ar": "«الزبرجد»: زَبَرْجَد",
-    "en": "Al Zabrjad: chrysolite, olivine, peridot"
+    "ar": "«الزَّبَرجَد» حجرٌ كريمٌ أخضر؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zabrijad» is a green precious stone."
   },
   "story": {
     "ar": "«الزبرجد» زَبَرْجَد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الحوية، أم القيوين.",
@@ -100735,8 +100735,8 @@ window.STREETS = [
   "ar": "شارع الزَّبَرجَد",
   "en": "Az Zabarjad Street",
   "meaning": {
-    "ar": "«الزَّبَرجَد»: زَبَرْجَد",
-    "en": "Az Zabarjad: chrysolite, olivine, peridot"
+    "ar": "معنى «الزَّبَرجَد» الزبرجدُ من الجواهر.",
+    "en": "«Az Zabrijad» means the chrysolite among gems."
   },
   "story": {
     "ar": "الاسم «الزَّبَرجَد» زَبَرْجَد، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّامْخَة.",
@@ -100783,8 +100783,8 @@ window.STREETS = [
   "ar": "شارع الزعفران",
   "en": "Al Zefaran Street",
   "meaning": {
-    "ar": "«الزعفران»: زَعْفَرَان",
-    "en": "Al Zefaran: saffron"
+    "ar": "«الزَّعْفَرَان» الزعفرانُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Az Za'faran» is the saffron, well known."
   },
   "story": {
     "ar": "«الزعفران» زَعْفَرَان، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في السلمة من إمارة أم القيوين.",
@@ -100799,8 +100799,8 @@ window.STREETS = [
   "ar": "شارع الزَّعْفَرَان",
   "en": "Al Za'faran Street",
   "meaning": {
-    "ar": "«الزَّعْفَرَان»: زَعْفَرَان",
-    "en": "Al Za'faran: saffron"
+    "ar": "معنى «الزَّعْفَرَان» نباتُ الزعفران؛ والاسم من هذا اللفظ.",
+    "en": "«Az Za'faran» means the saffron plant; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الزَّعْفَرَان» زَعْفَرَان، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في آل نَهيان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -100815,8 +100815,8 @@ window.STREETS = [
   "ar": "شارع الزِّمام",
   "en": "Az Zimam Street",
   "meaning": {
-    "ar": "«الزِّمام»: زِمَام",
-    "en": "Az Zimam: reins"
+    "ar": "«الزِّمام» زِمامُ الدابة؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zimam» is the rein of a mount."
   },
   "story": {
     "ar": "«الزِّمام» زِمَام، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الصَّارُوج، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -100831,8 +100831,8 @@ window.STREETS = [
   "ar": "شارع الزِّمَام",
   "en": "Al Zimam Street",
   "meaning": {
-    "ar": "«الزِّمَام»: زِمَام",
-    "en": "Al Zimam: reins"
+    "ar": "معنى «الزِّمام» حبلُ الزمام؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zimam» means the rein rope; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الزِّمَام» زِمَام، وليس مركّباً. والشارع في الشهامة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -100847,8 +100847,8 @@ window.STREETS = [
   "ar": "شارع الزِّهبة",
   "en": "Az Zihbah Street",
   "meaning": {
-    "ar": "«الزِّهبة»: زِهْبَة",
-    "en": "Az Zihbah: the bride's belongings"
+    "ar": "«الزِّهبة» جِهازُ العروس؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zihbah» is the bride's belongings."
   },
   "story": {
     "ar": "«الزِّهبة» زِهْبَة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -100863,8 +100863,8 @@ window.STREETS = [
   "ar": "شارع الزِّهبَة",
   "en": "Al Zihbah Street",
   "meaning": {
-    "ar": "«الزِّهبَة»: زِهْبَة",
-    "en": "Al Zihbah: the bride's belongings"
+    "ar": "معنى «الزِّهبة» ما يُهيَّأ للعروس.",
+    "en": "«Az Zihbah» means what is prepared for the bride."
   },
   "story": {
     "ar": "الاسم «الزِّهبَة» زِهْبَة، وليس مركّباً. والاسم من أسماء المواضع، والشارع في أم غَافة، أبوظبي.",
@@ -100879,8 +100879,8 @@ window.STREETS = [
   "ar": "شارع الزَّهو",
   "en": "Az Zahw Street",
   "meaning": {
-    "ar": "«الزَّهو»: زَهْو",
-    "en": "Az Zahw: bloom, florescence"
+    "ar": "«الزَّهْو» ازدهارُ النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zahw» is the florescence of plants."
   },
   "story": {
     "ar": "«الزَّهو» زَهْو، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في فَلَج هَزَّاع.",
@@ -100895,8 +100895,8 @@ window.STREETS = [
   "ar": "شارع الزَّهْو",
   "en": "Al Zahou Street",
   "meaning": {
-    "ar": "«الزَّهْو»: زَهْو",
-    "en": "Al Zahou: bloom, florescence"
+    "ar": "معنى «الزَّهْو» الزهوُّ في النبات.",
+    "en": "«Az Zahw» means the bloom in plants."
   },
   "story": {
     "ar": "الاسم «الزَّهْو» زَهْو، وليس مركّباً. والشارع يقع في مدينة الرياض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -100943,8 +100943,8 @@ window.STREETS = [
   "ar": "شارع الزَّيتون",
   "en": "Az Zaytoun Street",
   "meaning": {
-    "ar": "«الزَّيتون»: زَيْتُون",
-    "en": "Az Zaytoun: olive (fruit or tree)"
+    "ar": "«الزَّيتون» شجرةُ الزيتون؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zaytun» is the olive tree."
   },
   "story": {
     "ar": "«الزَّيتون» زَيْتُون، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في عَشَارِج بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -100975,8 +100975,8 @@ window.STREETS = [
   "ar": "شارع السَّاج",
   "en": "Al Saj Street",
   "meaning": {
-    "ar": "«السَّاج»: سَاج",
-    "en": "Al Saj: the teak tree"
+    "ar": "«السَّاج» شجرةُ الساج؛ والاسم من هذا اللفظ.",
+    "en": "«As Saj» is the teak tree."
   },
   "story": {
     "ar": "«السَّاج» سَاج، والاسم مأخوذ من هذه الكلمة. والشارع في البَاهية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -100991,8 +100991,8 @@ window.STREETS = [
   "ar": "شارع السَّاج",
   "en": "As Saj Street",
   "meaning": {
-    "ar": "«السَّاج»: سَاج",
-    "en": "As Saj: the teak tree"
+    "ar": "معنى «السَّاج» خشبُ الساج؛ والاسم من هذا اللفظ.",
+    "en": "«As Saj» means teak wood; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «السَّاج» سَاج، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الصَّارُوج بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -101007,8 +101007,8 @@ window.STREETS = [
   "ar": "شارع الساحل",
   "en": "Al Sahil Street",
   "meaning": {
-    "ar": "«الساحل»: ساحل",
-    "en": "Al Sahil: coast"
+    "ar": "«السَّاحل» جانبُ البحر؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahil» is the coast of the sea."
   },
   "story": {
     "ar": "«الساحل» ساحل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المِعْرَاض، أبوظبي.",
@@ -101055,8 +101055,8 @@ window.STREETS = [
   "ar": "شارع الساقية",
   "en": "Al Saqyah Street",
   "meaning": {
-    "ar": "«الساقية»: سَاقِيَة",
-    "en": "Al Saqyah: female cupbearer"
+    "ar": "«السَّاقِية» التي تُسقي الناس؛ والاسم من هذا اللفظ.",
+    "en": "«As Saqiyah» is the one who gives people drink."
   },
   "story": {
     "ar": "«الساقية» سَاقِيَة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع شنتير في أم القيوين، والاسم يدل على موضع لا على كلمة.",
@@ -101071,8 +101071,8 @@ window.STREETS = [
   "ar": "شارع السَّاقِية",
   "en": "As Saqiyah Street",
   "meaning": {
-    "ar": "«السَّاقِية»: سَاقِيَة",
-    "en": "As Saqiyah: female cupbearer"
+    "ar": "معنى «السَّاقِية» المرأةُ التي تُسقي.",
+    "en": "«As Saqiyah» means the woman who serves drink."
   },
   "story": {
     "ar": "الاسم «السَّاقِية» سَاقِيَة، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
@@ -101119,8 +101119,8 @@ window.STREETS = [
   "ar": "شارع السبع",
   "en": "Al Sab' Street",
   "meaning": {
-    "ar": "«السبع»: سُبُع",
-    "en": "Al Sab': one seventh"
+    "ar": "«السَّبع» واحدٌ من سبعة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sab'» is one of seven."
   },
   "story": {
     "ar": "«السبع» سُبُع، والاسم مأخوذ من هذه الكلمة. والشارع في الشَّوامخ، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -101135,8 +101135,8 @@ window.STREETS = [
   "ar": "شارع السبع",
   "en": "Al Seba Street",
   "meaning": {
-    "ar": "«السبع»: سُبُع",
-    "en": "Al Seba: one seventh"
+    "ar": "معنى «السَّبع» السبعُ من الأعداد.",
+    "en": "«As Sab'» means the seventh part of numbers."
   },
   "story": {
     "ar": "الاسم «السبع» سُبُع، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الثنية 5 بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -101295,8 +101295,8 @@ window.STREETS = [
   "ar": "شارع السراج",
   "en": "Al Siraj Street",
   "meaning": {
-    "ar": "«السراج»: سَرَّاج",
-    "en": "Al Siraj: saddler"
+    "ar": "«السِّراج» صانعُ السروج؛ والاسم من هذا اللفظ.",
+    "en": "«As Siraj» is the saddler."
   },
   "story": {
     "ar": "«السراج» سَرَّاج، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في السلمة بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -101311,8 +101311,8 @@ window.STREETS = [
   "ar": "شارع السِّراج",
   "en": "As Siraj Street",
   "meaning": {
-    "ar": "«السِّراج»: سَرَّاج",
-    "en": "As Siraj: saddler"
+    "ar": "معنى «السِّراج» السِّراجُ من الحِرَف.",
+    "en": "«As Siraj» means the saddler's craft."
   },
   "story": {
     "ar": "الاسم «السِّراج» سَرَّاج، وليس مركّباً. والاسم من أسماء المواضع، والشارع في جزيرة ياس، أبوظبي.",
@@ -101359,8 +101359,8 @@ window.STREETS = [
   "ar": "شارع السُّرُور",
   "en": "Al Surour Street",
   "meaning": {
-    "ar": "«السُّرُور»: سُرُور",
-    "en": "Al Surour: joy, pleasure, satisfaction"
+    "ar": "«السُّرور» الفرحُ والابتهاج؛ والاسم من هذا اللفظ.",
+    "en": "«As Surur» is joy and delight."
   },
   "story": {
     "ar": "«السُّرُور» سُرُور، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُعْتَرِض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -101375,8 +101375,8 @@ window.STREETS = [
   "ar": "شارع السُّرُور",
   "en": "As Surour Street",
   "meaning": {
-    "ar": "«السُّرُور»: سُرُور",
-    "en": "As Surour: joy, pleasure, satisfaction"
+    "ar": "معنى «السُّرور» السُّرورُ والمسرة؛ والاسم من هذا اللفظ.",
+    "en": "«As Surur» means joy and gladness; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «السُّرُور» سُرُور، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في ربدان من إمارة أبوظبي.",
@@ -101615,8 +101615,8 @@ window.STREETS = [
   "ar": "شارع السُكُون",
   "en": "Al Sukoun Street",
   "meaning": {
-    "ar": "«السُكُون»: سُكُون",
-    "en": "Al Sukoun: quiet, rest, quietude"
+    "ar": "«السُّكون» السَّكينةُ والهدوء؛ والاسم من هذا اللفظ.",
+    "en": "«As Sukun» is quiet and rest."
   },
   "story": {
     "ar": "«السُكُون» سُكُون، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في زاخِر، أبوظبي.",
@@ -101631,8 +101631,8 @@ window.STREETS = [
   "ar": "شارع السُكُون",
   "en": "As Sukoun Street",
   "meaning": {
-    "ar": "«السُكُون»: سُكُون",
-    "en": "As Sukoun: quiet, rest, quietude"
+    "ar": "معنى «السُّكون» السكونُ من الحركة.",
+    "en": "«As Sukun» means stillness away from motion."
   },
   "story": {
     "ar": "الاسم «السُكُون» سُكُون، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في بني ياس.",
@@ -101711,8 +101711,8 @@ window.STREETS = [
   "ar": "شارع السَّليم",
   "en": "As Saleem Street",
   "meaning": {
-    "ar": "«السَّليم»: سَلِيم",
-    "en": "As Saleem: safe, secure"
+    "ar": "«السَّليم» السالمُ من الآفات؛ والاسم من هذا اللفظ.",
+    "en": "«As Salim» is the one free of harm."
   },
   "story": {
     "ar": "«السَّليم» سَلِيم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -101727,8 +101727,8 @@ window.STREETS = [
   "ar": "شارع السماء",
   "en": "Al Sama Street",
   "meaning": {
-    "ar": "«السماء»: سَمَاء",
-    "en": "Al Sama: the sky"
+    "ar": "«السَّماء» السماءُ المعروفة فوقنا؛ والاسم من هذا اللفظ.",
+    "en": "«As Sama'» is the sky above us; the name comes from this word."
   },
   "story": {
     "ar": "«السماء» سَمَاء، والاسم مأخوذ من هذه الكلمة. والشارع في الجيمي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -101743,8 +101743,8 @@ window.STREETS = [
   "ar": "شارع السَّماء",
   "en": "As Sama-a Street",
   "meaning": {
-    "ar": "«السَّماء»: سَمَاء",
-    "en": "As Sama-a: the sky"
+    "ar": "معنى «السَّماء» ما ينزلُ منها من مطر.",
+    "en": "«As Sama'» means what falls from it, as rain."
   },
   "story": {
     "ar": "الاسم «السَّماء» سَمَاء، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في الروضة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -101759,8 +101759,8 @@ window.STREETS = [
   "ar": "شارع السِّمَّانِي",
   "en": "Al Simmani Street",
   "meaning": {
-    "ar": "«السِّمَّانِي»: سَمَانَى",
-    "en": "Al Simmani: quail (Coturnix coturnix)"
+    "ar": "«السِّمَّاني» طائرُ السمانى؛ والاسم من هذا اللفظ.",
+    "en": "«As Simmani» is the quail bird."
   },
   "story": {
     "ar": "«السِّمَّانِي» سَمَانَى، والاسم مأخوذ من هذه الكلمة. والشارع في الخِبِيصِي من إمارة أبوظبي.",
@@ -101775,8 +101775,8 @@ window.STREETS = [
   "ar": "شارع السِّمَّانِي",
   "en": "As Simmani Street",
   "meaning": {
-    "ar": "«السِّمَّانِي»: سَمَانَى",
-    "en": "As Simmani: quail (Coturnix coturnix)"
+    "ar": "معنى «السِّمَّاني» السمانى من الطير.",
+    "en": "«As Simmani» means the quail among birds."
   },
   "story": {
     "ar": "الاسم «السِّمَّانِي» سَمَانَى، وليس مركّباً. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -101823,8 +101823,8 @@ window.STREETS = [
   "ar": "شارع السُّمو",
   "en": "Al Sumou Street",
   "meaning": {
-    "ar": "«السُّمو»: سُمُوّ",
-    "en": "Al Sumou: highness"
+    "ar": "«السُّمو» الارتفاعُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«As Sumuww» is rising high in place."
   },
   "story": {
     "ar": "«السُّمو» سُمُوّ، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -101839,8 +101839,8 @@ window.STREETS = [
   "ar": "شارع السُّمو",
   "en": "As Sumuw Street",
   "meaning": {
-    "ar": "«السُّمو»: سُمُوّ",
-    "en": "As Sumuw: highness"
+    "ar": "معنى «السُّمو» العلوُّ في الرتبة.",
+    "en": "«As Sumuww» means loftiness in rank."
   },
   "story": {
     "ar": "الاسم «السُّمو» سُمُوّ، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في المَسْعُودِي من إمارة أبوظبي.",
@@ -102015,8 +102015,8 @@ window.STREETS = [
   "ar": "شارع السَّهم",
   "en": "Al Sahm Street",
   "meaning": {
-    "ar": "«السَّهم»: سَهْم",
-    "en": "Al Sahm: arrow, dart"
+    "ar": "«السَّهم» السهمُ من السهام؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahm» is the arrow among arrows."
   },
   "story": {
     "ar": "«السَّهم» سَهْم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة شخبوط، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -102031,8 +102031,8 @@ window.STREETS = [
   "ar": "شارع السَّهم",
   "en": "As Sahm Street",
   "meaning": {
-    "ar": "«السَّهم»: سَهْم",
-    "en": "As Sahm: arrow, dart"
+    "ar": "معنى «السَّهم» السهمُ الذي يُرمى.",
+    "en": "«As Sahm» means the arrow one shoots."
   },
   "story": {
     "ar": "الاسم «السَّهم» سَهْم، وليس مركّباً. والشارع في زاخِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -102111,8 +102111,8 @@ window.STREETS = [
   "ar": "شارع السور",
   "en": "Al Soor Street",
   "meaning": {
-    "ar": "«السور»: سُور",
-    "en": "Al Soor: an enclosing wall"
+    "ar": "«السُّور» جدارُ الحصن؛ والاسم من هذا اللفظ.",
+    "en": "«As Sur» is the wall of a fort."
   },
   "story": {
     "ar": "«السور» سُور، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الضغاية في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -102127,8 +102127,8 @@ window.STREETS = [
   "ar": "شارع السور",
   "en": "Al Sur Street",
   "meaning": {
-    "ar": "«السور»: سُور",
-    "en": "Al Sur: an enclosing wall"
+    "ar": "معنى «السُّور» السورُ الذي يحيط بالبناء.",
+    "en": "«As Sur» means the wall that surrounds a building."
   },
   "story": {
     "ar": "الاسم «السور» سُور، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في المدينة القديمة من إمارة أم القيوين.",
@@ -102159,8 +102159,8 @@ window.STREETS = [
   "ar": "شارع السيادة",
   "en": "Al Siyadah Street",
   "meaning": {
-    "ar": "«السيادة»: سَيَادَة",
-    "en": "Al Siyadah: sovereignty"
+    "ar": "«السِّيادة» الرِّياسةُ والتغلُّب؛ والاسم من هذا اللفظ.",
+    "en": "«As Siyadah» is mastery and command."
   },
   "story": {
     "ar": "«السيادة» سَيَادَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة الرياض، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -102175,8 +102175,8 @@ window.STREETS = [
   "ar": "شارع السِّيادة",
   "en": "As Siyadah Street",
   "meaning": {
-    "ar": "«السِّيادة»: سَيَادَة",
-    "en": "As Siyadah: sovereignty"
+    "ar": "معنى «السِّيادة» الرياسةُ على الناس.",
+    "en": "«As Siyadah» means leading people."
   },
   "story": {
     "ar": "الاسم «السِّيادة» سَيَادَة، وليس مركّباً. والشارع في مدينة خليفة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -102351,8 +102351,8 @@ window.STREETS = [
   "ar": "شارع الشاعر",
   "en": "Al Sha'ir Street",
   "meaning": {
-    "ar": "«الشاعر»: شَاعِر",
-    "en": "Al Sha'ir: poet"
+    "ar": "«الشَّاعِر» من ينظم الشعر؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Sha'ir» is the one who composes poetry."
   },
   "story": {
     "ar": "«الشاعر» شَاعِر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الشَّامْخَة، أبوظبي.",
@@ -102367,8 +102367,8 @@ window.STREETS = [
   "ar": "شارع الشاعر راشد الخضر",
   "en": "Poet Rashid Al Khadir Street",
   "meaning": {
-    "ar": "«الشاعر راشد الخضر»: شَاعِر",
-    "en": "Poet Rashid Al Khadir: poet"
+    "ar": "«الشَّاعِر» من ينظم الشعر؛ والاسم مركّب.",
+    "en": "«Ash Sha'ir» is the poet; the name is compound."
   },
   "story": {
     "ar": "«الشاعر» شَاعِر، و«راشد الخضر» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في عجمان، والشارع في الجرف.",
@@ -102447,8 +102447,8 @@ window.STREETS = [
   "ar": "شارع الشَّجَن",
   "en": "Al Shajan Street",
   "meaning": {
-    "ar": "«الشَّجَن»: شَجَن",
-    "en": "Al Shajan: worry, anxiety"
+    "ar": "«الشَّجَن» الهمُّ والحزن؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shajan» is worry and grief."
   },
   "story": {
     "ar": "«الشَّجَن» شَجَن، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الخِبِيصِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -102463,8 +102463,8 @@ window.STREETS = [
   "ar": "شارع الشَّجَن",
   "en": "Ash Shajan Street",
   "meaning": {
-    "ar": "«الشَّجَن»: شَجَن",
-    "en": "Ash Shajan: worry, anxiety"
+    "ar": "معنى «الشَّجَن» الشجنُ من الهمّ.",
+    "en": "«Ash Shajan» means the sorrow of worry."
   },
   "story": {
     "ar": "الاسم «الشَّجَن» شَجَن، وليس مركّباً. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -102511,8 +102511,8 @@ window.STREETS = [
   "ar": "شارع الشَّرفة الشَّرقيَّة",
   "en": "Ash Sharfah Ash Sharqiyah Street",
   "meaning": {
-    "ar": "«الشَّرفة الشَّرقيَّة»: شَرْفَة",
-    "en": "Ash Sharfah Ash Sharqiyah: veranda"
+    "ar": "«الشَّرفة» العُلُوُّ من البناء؛ والاسم مركّب.",
+    "en": "«Ash Sharfah» is the high part of a building."
   },
   "story": {
     "ar": "«الشَّرفة» شَرْفَة، و«الشَّرقيَّة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في الظَّاهِر، أبوظبي.",
@@ -102527,8 +102527,8 @@ window.STREETS = [
   "ar": "شارع الشَّرفة الغَربِيَّة",
   "en": "Ash Sharfah Al Gharbiyah Street",
   "meaning": {
-    "ar": "«الشَّرفة الغَربِيَّة»: شَرْفَة",
-    "en": "Ash Sharfah Al Gharbiyah: veranda"
+    "ar": "معنى «الشَّرفة» شرفةُ الدار؛ والاسم مركّب.",
+    "en": "«Ash Sharfah» means the house's veranda; the name is compound."
   },
   "story": {
     "ar": "«الغَربِيَّة» اسم الموضع في «الشَّرفة»؛ و«الشَّرفة» شَرْفَة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّامْخَة.",
@@ -102591,8 +102591,8 @@ window.STREETS = [
   "ar": "شارع الشِّعَيْبَة",
   "en": "Al Shi'aybah Street",
   "meaning": {
-    "ar": "«الشِّعَيْبَة»: شُعَيْبَة",
-    "en": "Al Shi'aybah: small gully, branch of a wadi"
+    "ar": "«الشِّعَيْبَة» الشِّعبُ الصغير؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shi'aybah» is the small gully."
   },
   "story": {
     "ar": "«الشِّعَيْبَة» شُعَيْبَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -102607,8 +102607,8 @@ window.STREETS = [
   "ar": "شارع الشفق",
   "en": "Al Shafaq Street",
   "meaning": {
-    "ar": "«الشفق»: شَفَق",
-    "en": "Al Shafaq: compassion"
+    "ar": "«الشَّفَق» الرقةُ والعطف؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shafaq» is tender sympathy."
   },
   "story": {
     "ar": "«الشفق» شَفَق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في السلمة.",
@@ -102623,8 +102623,8 @@ window.STREETS = [
   "ar": "شارع الشَّفَق",
   "en": "Ash Shafaq Street",
   "meaning": {
-    "ar": "«الشَّفَق»: شَفَق",
-    "en": "Ash Shafaq: compassion"
+    "ar": "معنى «الشَّفَق» الشفقُ بين الناس.",
+    "en": "«Ash Shafaq» means compassion among people."
   },
   "story": {
     "ar": "الاسم «الشَّفَق» شَفَق، وليس مركّباً. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -102639,8 +102639,8 @@ window.STREETS = [
   "ar": "شارع الشَّلَّال",
   "en": "Ash Shallal Street",
   "meaning": {
-    "ar": "«الشَّلَّال»: شَلَّال",
-    "en": "Ash Shallal: waterfall"
+    "ar": "«الشَّلَّال» الماءُ الساقط من علوّ؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shallal» is water falling from a height."
   },
   "story": {
     "ar": "«الشَّلَّال» شَلَّال، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مُصَفَح في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -102655,8 +102655,8 @@ window.STREETS = [
   "ar": "شارع الشلة",
   "en": "Al Shallah Street",
   "meaning": {
-    "ar": "«الشلة»: شِلَّة",
-    "en": "Al Shallah: clique, squad"
+    "ar": "«الشَّلَّة» الجماعةُ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shallah» is a band of people."
   },
   "story": {
     "ar": "«الشلة» شِلَّة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الدار البيضاء من إمارة أم القيوين.",
@@ -102671,8 +102671,8 @@ window.STREETS = [
   "ar": "شارع الشَّلَّة",
   "en": "Al Shallah Street",
   "meaning": {
-    "ar": "«الشَّلَّة»: شِلَّة",
-    "en": "Al Shallah: clique, squad"
+    "ar": "معنى «الشَّلَّة» الجماعةُ المختارة؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shallah» means the chosen group; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الشَّلَّة» شِلَّة، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في الخِبِيصِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -102751,8 +102751,8 @@ window.STREETS = [
   "ar": "شارع الشمول",
   "en": "Al Shumoul Street",
   "meaning": {
-    "ar": "«الشمول»: شُمُول",
-    "en": "Al Shumoul: inclusion"
+    "ar": "«الشُّمول» الإحاطةُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shumul» is encompassing a thing."
   },
   "story": {
     "ar": "«الشمول» شُمُول، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الجيمي، أبوظبي.",
@@ -102767,8 +102767,8 @@ window.STREETS = [
   "ar": "شارع الشُّمول",
   "en": "Ash Shumoul Street",
   "meaning": {
-    "ar": "«الشُّمول»: شُمُول",
-    "en": "Ash Shumoul: inclusion"
+    "ar": "معنى «الشُّمول» الشمولُ والإحاطة؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shumul» means inclusion and reach; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الشُّمول» شُمُول، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -102783,8 +102783,8 @@ window.STREETS = [
   "ar": "شارع الشنان",
   "en": "Al Shanan Street",
   "meaning": {
-    "ar": "«الشنان»: شَنَان",
-    "en": "Al Shanan: raft"
+    "ar": "«الشَّنان» طوفُ الخشب؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shanan» is the wooden raft."
   },
   "story": {
     "ar": "«الشنان» شَنَان، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المَرْخَانِيَّة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -102799,8 +102799,8 @@ window.STREETS = [
   "ar": "شارع الشنان",
   "en": "Ash Shanan Street",
   "meaning": {
-    "ar": "«الشنان»: شَنَان",
-    "en": "Ash Shanan: raft"
+    "ar": "معنى «الشَّنان» المركبُ الصغير من الخشب.",
+    "en": "«Ash Shanan» means the small wooden craft."
   },
   "story": {
     "ar": "الاسم «الشنان» شَنَان، وليس مركّباً. وهو من الشوارع السَّمْحة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -102943,8 +102943,8 @@ window.STREETS = [
   "ar": "شارع الشِّيَم",
   "en": "Al Shiyam Street",
   "meaning": {
-    "ar": "«الشِّيَم»: شِيَم",
-    "en": "Al Shiyam: the caranx fish"
+    "ar": "«الشِّيَم» سمكُ الشيم؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shiyam» is the caranx fish."
   },
   "story": {
     "ar": "«الشِّيَم» شِيَم، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُشرِف في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -102959,8 +102959,8 @@ window.STREETS = [
   "ar": "شارع الشِّيَم",
   "en": "Ash Shiyam Street",
   "meaning": {
-    "ar": "«الشِّيَم»: شِيَم",
-    "en": "Ash Shiyam: the caranx fish"
+    "ar": "معنى «الشِّيَم» الشيمُ من أسماك البحر.",
+    "en": "«Ash Shiyam» means the caranx among sea fish."
   },
   "story": {
     "ar": "الاسم «الشِّيَم» شِيَم، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الجَزيرَة من إمارة أبوظبي.",
@@ -103135,8 +103135,8 @@ window.STREETS = [
   "ar": "شارع الصحابة",
   "en": "Al Sahaba Street",
   "meaning": {
-    "ar": "«الصحابة»: صَحَابَة",
-    "en": "Al Sahaba: companions"
+    "ar": "«الصَّحابة» جمع «صَحِيب»؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahabah» is the plural of sahib — companions."
   },
   "story": {
     "ar": "«الصحابة» صَحَابَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الحمرة، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -103151,8 +103151,8 @@ window.STREETS = [
   "ar": "شارع الصَّحابة",
   "en": "As Sahaabah Street",
   "meaning": {
-    "ar": "«الصَّحابة»: صَحَابَة",
-    "en": "As Sahaabah: companions"
+    "ar": "معنى «الصَّحابة» الجُلَساءُ والأصحاب؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahabah» means the companions and fellows; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الصَّحابة» صَحَابَة، وليس مركّباً. والشارع في العامرة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -103167,8 +103167,8 @@ window.STREETS = [
   "ar": "شارع الصَّحراء",
   "en": "As Sahra-a Street",
   "meaning": {
-    "ar": "«الصَّحراء»: صحراء",
-    "en": "As Sahra-a: desert"
+    "ar": "«الصَّحراء» الباديةُ الواسعة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahra'» is the wide desert."
   },
   "story": {
     "ar": "«الصَّحراء» صحراء، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الوِقن بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -103183,8 +103183,8 @@ window.STREETS = [
   "ar": "شارع الصحراء الكبرى",
   "en": "Al Sahra-a Al Kubra Street",
   "meaning": {
-    "ar": "«الصحراء الكبرى»: صحراء",
-    "en": "Al Sahra-a Al Kubra: desert"
+    "ar": "«الكبرى» العُظمى؛ والاسم مركّب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kubra» is the greater; the name is compound; the name comes from this word."
   },
   "story": {
     "ar": "«الصحراء» صحراء، و«الكبرى» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -103231,8 +103231,8 @@ window.STREETS = [
   "ar": "شارع الصخر",
   "en": "Al Sakhr Street",
   "meaning": {
-    "ar": "«الصخر»: صَخْر",
-    "en": "Al Sakhr: rocks"
+    "ar": "«الصَّخر» الصخرُ من الحجارة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sakhr» is rock among stones."
   },
   "story": {
     "ar": "«الصخر» صَخْر، والاسم مأخوذ من هذه الكلمة. والشارع يقع في جزيرة ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -103247,8 +103247,8 @@ window.STREETS = [
   "ar": "شارع الصَّدَف",
   "en": "As Sadaf Street",
   "meaning": {
-    "ar": "«الصَّدَف»: صَدَف",
-    "en": "As Sadaf: highest part, top"
+    "ar": "«الصَّدَف» أعلىُ كل شيء؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadaf» is the top of anything."
   },
   "story": {
     "ar": "«الصَّدَف» صَدَف، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الجيمي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -103263,8 +103263,8 @@ window.STREETS = [
   "ar": "شارع الصَّدَى",
   "en": "Al Sda Street",
   "meaning": {
-    "ar": "«الصَّدَى»: صَدًى",
-    "en": "Al Sda: an echo"
+    "ar": "«الصَّدَى» صدىُ الصوت؛ والاسم من هذا اللفظ.",
+    "en": "«As Sada» is the echo of sound."
   },
   "story": {
     "ar": "«الصَّدَى» صَدًى، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في رملة سويحان من إمارة أبوظبي.",
@@ -103279,8 +103279,8 @@ window.STREETS = [
   "ar": "شارع الصَّدَى",
   "en": "As Sada Street",
   "meaning": {
-    "ar": "«الصَّدَى»: صَدًى",
-    "en": "As Sada: echo"
+    "ar": "معنى «الصَّدَى» الصوتُ الراجع؛ والاسم من هذا اللفظ.",
+    "en": "«As Sada» means the returning sound; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الصَّدَى» صَدًى، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -103327,8 +103327,8 @@ window.STREETS = [
   "ar": "شارع الصَف",
   "en": "As Saf Street",
   "meaning": {
-    "ar": "«الصَف»: صَف",
-    "en": "As Saf: setting in type"
+    "ar": "«الصَّف» تسويةُ الحروف في الكتابة؛ والاسم من هذا اللفظ.",
+    "en": "«As Saff» is the setting of letters in writing."
   },
   "story": {
     "ar": "«الصَف» صَف، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في ربدان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -103343,8 +103343,8 @@ window.STREETS = [
   "ar": "شارع الصُّفَد",
   "en": "As Sufad Street",
   "meaning": {
-    "ar": "«الصُّفَد»: صَفَد",
-    "en": "As Sufad: chain, shackles"
+    "ar": "«الصُّفَد» القيودُ والاكبَال؛ والاسم من هذا اللفظ.",
+    "en": "«As Sufad» are chains and shackles."
   },
   "story": {
     "ar": "«الصُّفَد» صَفَد، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -103423,8 +103423,8 @@ window.STREETS = [
   "ar": "شارع الصَّقر",
   "en": "As Saqr Street",
   "meaning": {
-    "ar": "«الصَّقر»: صَقْر",
-    "en": "As Saqr: falcon"
+    "ar": "«الصَّقر» الصقرُ من الطير؛ والاسم من هذا اللفظ.",
+    "en": "«As Saqr» is the falcon among birds."
   },
   "story": {
     "ar": "«الصَّقر» صَقْر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في النَّهضة من إمارة أبوظبي.",
@@ -103439,8 +103439,8 @@ window.STREETS = [
   "ar": "شارع الصَّلَّة",
   "en": "Al Sallah Street",
   "meaning": {
-    "ar": "«الصَّلَّة»: صِلَة",
-    "en": "Al Sallah: link, connection"
+    "ar": "«الصِّلَّة» الوصلُ بين شيئين؛ والاسم من هذا اللفظ.",
+    "en": "«As Silah» is the link between two things."
   },
   "story": {
     "ar": "«الصَّلَّة» صِلَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في زاخِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -103487,8 +103487,8 @@ window.STREETS = [
   "ar": "شارع الصمود",
   "en": "Al Sumood Street",
   "meaning": {
-    "ar": "«الصمود»: صَمُود",
-    "en": "Al Sumood: steadfastness"
+    "ar": "«الصُّمود» الثباتُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«As Sumud» is standing firm in place."
   },
   "story": {
     "ar": "«الصمود» صَمُود، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الرقة بإمارة الشارقة، وليس كلمة تُفسَّر.",
@@ -103503,8 +103503,8 @@ window.STREETS = [
   "ar": "شارع الصُّمُود",
   "en": "As Sumoud Street",
   "meaning": {
-    "ar": "«الصُّمُود»: صَمُود",
-    "en": "As Sumoud: steadfastness"
+    "ar": "معنى «الصُّمود» الثباتُ وعدمُ الانصراف.",
+    "en": "«As Sumud» means holding on and not turning away."
   },
   "story": {
     "ar": "الاسم «الصُّمُود» صَمُود، وليس مركّباً. والاسم من أسماء المواضع، والشارع في مدينة الرياض، أبوظبي.",
@@ -103519,8 +103519,8 @@ window.STREETS = [
   "ar": "شارع الصُهِيل",
   "en": "Al Suheel Street",
   "meaning": {
-    "ar": "«الصُهِيل»: صُهِيل",
-    "en": "Al Suheel: neighing, whinnying"
+    "ar": "«الصُّهيل» صوتُ الفرس؛ والاسم من هذا اللفظ.",
+    "en": "«As Suhayl» is the neighing of a horse."
   },
   "story": {
     "ar": "«الصُهِيل» صُهِيل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -103727,8 +103727,8 @@ window.STREETS = [
   "ar": "شارع الضحى",
   "en": "Al Duha Street",
   "meaning": {
-    "ar": "«الضحى»: ضحى",
-    "en": "Al Duha: forenoon"
+    "ar": "«الضُّحى» أوّلُ النهار بعد الشروق؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Duha» is the start of day after sunrise."
   },
   "story": {
     "ar": "«الضحى» ضحى، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الهَرميَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -103743,8 +103743,8 @@ window.STREETS = [
   "ar": "شارع الضُّحى",
   "en": "Ad Duha Street",
   "meaning": {
-    "ar": "«الضُّحى»: ضحى",
-    "en": "Ad Duha: forenoon"
+    "ar": "معنى «الضُّحى» الضحىُّ من النهار.",
+    "en": "«Ad Duha» means the forenoon of the day."
   },
   "story": {
     "ar": "الاسم «الضُّحى» ضحى، وليس مركّباً. وهو الشارع في الفُوعَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -104015,8 +104015,8 @@ window.STREETS = [
   "ar": "شارع الطيف",
   "en": "Al Taif Road",
   "meaning": {
-    "ar": "«الطيف»: طَيْف",
-    "en": "Al Taif: ghost, apparition"
+    "ar": "«الطَّيف» الخيالُ الذي يُرى؛ والاسم من هذا اللفظ.",
+    "en": "«At Tayf» is the phantom one sees."
   },
   "story": {
     "ar": "«الطيف» طَيْف، والاسم مأخوذ من هذه الكلمة. وتقع الطرق التي تحمل هذا الاسم في مجمع دبي للاستثمار 2 بإمارة دبي، والاسم من أسماء المواضع.",
@@ -104031,8 +104031,8 @@ window.STREETS = [
   "ar": "شارع الطِّيف",
   "en": "At Teef Street",
   "meaning": {
-    "ar": "«الطِّيف»: طَيْف",
-    "en": "At Teef: ghost, apparition"
+    "ar": "معنى «الطَّيف» الشبحُ في المنام.",
+    "en": "«At Tayf» means the ghost in sleep."
   },
   "story": {
     "ar": "الاسم «الطِّيف» طَيْف، وليس مركّباً. وهو الشارع في الطِّوَيَّة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -104415,8 +104415,8 @@ window.STREETS = [
   "ar": "شارع العقيق",
   "en": "Aqeeq Street",
   "meaning": {
-    "ar": "«العقيق»: عقيق",
-    "en": "Aqeeq: agate"
+    "ar": "«العَقِيق» حجرُ العقيق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Aqiq» is the agate stone."
   },
   "story": {
     "ar": "«العقيق» عقيق، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في لمغدر من إمارة أم القيوين.",
@@ -104431,8 +104431,8 @@ window.STREETS = [
   "ar": "شارع العَقِيق",
   "en": "Al 'Aqeeq Street",
   "meaning": {
-    "ar": "«العَقِيق»: عقيق",
-    "en": "Al 'Aqeeq: agate"
+    "ar": "معنى «العَقِيق» العقيقُ من الجواهر.",
+    "en": "«Al Aqiq» means the agate among gems."
   },
   "story": {
     "ar": "الاسم «العَقِيق» عقيق، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في المُويجْعِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -104511,8 +104511,8 @@ window.STREETS = [
   "ar": "شارع العُمران",
   "en": "Al 'Umran Street",
   "meaning": {
-    "ar": "«العُمران»: عمران",
-    "en": "Al 'Umran: Islamic figure Imran"
+    "ar": "«عِمْران» اسمٌ مألوف، والاسم من هذا اللفظ.",
+    "en": "«Imran» is a familiar name; the name holds it."
   },
   "story": {
     "ar": "«العُمران» عمران، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -104835,8 +104835,8 @@ window.STREETS = [
   "ar": "شارع الغربى",
   "en": "Al Gharbi Street",
   "meaning": {
-    "ar": "«الغربى»: غربي",
-    "en": "Al Gharbi: western"
+    "ar": "«الغَرْبي» الغربيُّ من الجهات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Gharbi» is the western one; the name comes from this word."
   },
   "story": {
     "ar": "«الغربى» غربي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في مرسى دبي.",
@@ -104851,8 +104851,8 @@ window.STREETS = [
   "ar": "شارع الغَربِي",
   "en": "Al Gharbi Street",
   "meaning": {
-    "ar": "«الغَربِي»: غربي",
-    "en": "Al Gharbi: western"
+    "ar": "معنى «الغَرْبي» الغربيُّ من الأرض.",
+    "en": "«Al Gharbi» means the western of the land."
   },
   "story": {
     "ar": "الاسم «الغَربِي» غربي، وليس مركّباً. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -104883,8 +104883,8 @@ window.STREETS = [
   "ar": "شارع الغزال",
   "en": "Al Ghazal Street",
   "meaning": {
-    "ar": "«الغزال»: غزال",
-    "en": "Al Ghazal: gazelle"
+    "ar": "«الغَزال» الظبيُّ الصغير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghazal» is the young gazelle; the name comes from this word."
   },
   "story": {
     "ar": "«الغزال» غزال، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مردف من إمارة دبي.",
@@ -104899,8 +104899,8 @@ window.STREETS = [
   "ar": "شارع الغَزَال",
   "en": "Al Ghazal Street",
   "meaning": {
-    "ar": "«الغَزَال»: غزال",
-    "en": "Al Ghazal: gazelle"
+    "ar": "معنى «الغَزال» الغزالُ من الظباء.",
+    "en": "«Al Ghazal» means the gazelle among antelopes."
   },
   "story": {
     "ar": "الاسم «الغَزَال» غزال، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في المُويجْعِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -104947,8 +104947,8 @@ window.STREETS = [
   "ar": "شارع الغواص",
   "en": "Al Ghawas Street",
   "meaning": {
-    "ar": "«الغواص»: غواص",
-    "en": "Al Ghawas: diver"
+    "ar": "«الغَوَّاص» من يغوص في الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghawwas» is the one who dives in water."
   },
   "story": {
     "ar": "«الغواص» غواص، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في شنتير بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -104963,8 +104963,8 @@ window.STREETS = [
   "ar": "شارع الغَوَّاص",
   "en": "Al Ghawwas Street",
   "meaning": {
-    "ar": "«الغَوَّاص»: غواص",
-    "en": "Al Ghawwas: diver"
+    "ar": "معنى «الغَوَّاص» الغوّاصُ في البحر.",
+    "en": "«Al Ghawwas» means the diver in the sea."
   },
   "story": {
     "ar": "الاسم «الغَوَّاص» غواص، وليس مركّباً. والاسم من أسماء المواضع، والشارع في البَاهية، أبوظبي.",
@@ -105315,8 +105315,8 @@ window.STREETS = [
   "ar": "شارع الفضة",
   "en": "Al Fiddah Street",
   "meaning": {
-    "ar": "«الفضة»: فضة",
-    "en": "Al Fiddah: silver"
+    "ar": "«الفِضَّة» الفضَّةُ من المعادن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fiddah» is silver among metals."
   },
   "story": {
     "ar": "«الفضة» فضة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الجيمي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -105331,8 +105331,8 @@ window.STREETS = [
   "ar": "شارع الفضة",
   "en": "Al Fedda Street",
   "meaning": {
-    "ar": "«الفضة»: فضة",
-    "en": "Al Fedda: silver"
+    "ar": "معنى «الفِضَّة» المعدنُ الأبيض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fiddah» means the white metal; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الفضة» فضة، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الحوية من إمارة أم القيوين.",
@@ -105523,8 +105523,8 @@ window.STREETS = [
   "ar": "شارع القبة",
   "en": "Al Qubba Street",
   "meaning": {
-    "ar": "«القبة»: قبة",
-    "en": "Al Qubba: canopy"
+    "ar": "«القُبَّة» البناءُ المستدير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qubbah» is the rounded building, the dome."
   },
   "story": {
     "ar": "«القبة» قبة، والاسم مأخوذ من هذه الكلمة. والشارع في أم سقيم، والاسم من أسماء المواضع في إمارة دبي.",
@@ -105699,8 +105699,8 @@ window.STREETS = [
   "ar": "شارع القمر",
   "en": "Al Qamar Street",
   "meaning": {
-    "ar": "«القمر»: قمر",
-    "en": "Al Qamar: moon"
+    "ar": "«القَمَر» القمرُ المعروف في السماء.",
+    "en": "«Al Qamar» is the moon in the sky."
   },
   "story": {
     "ar": "«القمر» قمر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الجيمي، أبوظبي.",
@@ -105715,8 +105715,8 @@ window.STREETS = [
   "ar": "شارع القمر",
   "en": "Al Qmar Street",
   "meaning": {
-    "ar": "«القمر»: قمر",
-    "en": "Al Qmar: moon"
+    "ar": "معنى «القَمَر» القمرُ في الليلة.",
+    "en": "«Al Qamar» means the moon in the night."
   },
   "story": {
     "ar": "الاسم «القمر» قمر، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في الرأس.",
@@ -105971,8 +105971,8 @@ window.STREETS = [
   "ar": "شارع اللوز",
   "en": "Al Louz Street",
   "meaning": {
-    "ar": "«اللوز»: لوز",
-    "en": "Al Louz: almond"
+    "ar": "«اللُّوز» شجرةُ اللوز؛ والاسم من هذا اللفظ.",
+    "en": "«Al Luzz» is the almond tree."
   },
   "story": {
     "ar": "«اللوز» لوز، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الرملة، أم القيوين.",
@@ -105987,8 +105987,8 @@ window.STREETS = [
   "ar": "شارع اللُّوز",
   "en": "Al Louz Street",
   "meaning": {
-    "ar": "«اللُّوز»: لوز",
-    "en": "Al Louz: almond"
+    "ar": "معنى «اللُّوز» ثمرةُ اللوز؛ والاسم من هذا اللفظ.",
+    "en": "«Al Luzz» means the almond fruit; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «اللُّوز» لوز، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -106067,8 +106067,8 @@ window.STREETS = [
   "ar": "شارع المجد",
   "en": "Al Majd Street",
   "meaning": {
-    "ar": "«المجد»: مجد",
-    "en": "Al Majd: glory"
+    "ar": "«المَجد» من «مَجُدَ يَمْجُدُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Majd» comes from the root majada; the name holds it."
   },
   "story": {
     "ar": "«المجد» مجد، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الرأس، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -106083,8 +106083,8 @@ window.STREETS = [
   "ar": "شارع المَجد",
   "en": "Al Majd Street",
   "meaning": {
-    "ar": "«المَجد»: مجد",
-    "en": "Al Majd: glory"
+    "ar": "معنى «المَجد» من مادة «مَجُدَ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Majd» belongs to the root majada."
   },
   "story": {
     "ar": "الاسم «المَجد» مجد، وليس مركّباً. والشارع في الروضة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -106131,8 +106131,8 @@ window.STREETS = [
   "ar": "شارع المجرة",
   "en": "Al Majarrah Street",
   "meaning": {
-    "ar": "«المجرة»: مجرة",
-    "en": "Al Majarrah: galaxy"
+    "ar": "«المَجَرَّة» مجرّةُ السماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Majarrah» is the galaxy of the sky."
   },
   "story": {
     "ar": "«المجرة» مجرة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة دبي للإعلام، دبي.",
@@ -106147,8 +106147,8 @@ window.STREETS = [
   "ar": "شارع المَجَرَّة",
   "en": "Al Majarrah Street",
   "meaning": {
-    "ar": "«المَجَرَّة»: مجرة",
-    "en": "Al Majarrah: galaxy"
+    "ar": "معنى «المَجَرَّة» درُّ التُّرَاب في السماء.",
+    "en": "«Al Majarrah» means the milky way in the sky."
   },
   "story": {
     "ar": "الاسم «المَجَرَّة» مجرة، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في حَدْبَة الزَّعْفَرَانَة.",
@@ -106163,8 +106163,8 @@ window.STREETS = [
   "ar": "شارع المجلس",
   "en": "Al Majlis Street",
   "meaning": {
-    "ar": "«المجلس»: مَجْلِس",
-    "en": "Al Majlis: seat"
+    "ar": "«المَجلِس» موضعُ الجلوس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Majlis» is the place of sitting."
   },
   "story": {
     "ar": "«المجلس» مَجْلِس، والاسم مأخوذ من هذه الكلمة. والشارع يقع في زعبيل من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -106179,8 +106179,8 @@ window.STREETS = [
   "ar": "شارع المجلس",
   "en": "Majalis Road",
   "meaning": {
-    "ar": "«المجلس»: مَجْلِس",
-    "en": "Majalis: seat"
+    "ar": "معنى «المَجلِس» المجلسُ الذي يُجلس فيه.",
+    "en": "«Al Majlis» means the assembly one sits in."
   },
   "story": {
     "ar": "الاسم «المجلس» مَجْلِس، وليس مركّباً. وهو من الطرق سيح السلم في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -106323,8 +106323,8 @@ window.STREETS = [
   "ar": "شارع المرساة",
   "en": "Al Mursah Street",
   "meaning": {
-    "ar": "«المرساة»: مرساة",
-    "en": "Al Mursah: anchor"
+    "ar": "«المِرساة» مِرساةُ السفينة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mirsa'» is the ship's anchor."
   },
   "story": {
     "ar": "«المرساة» مرساة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع السلمة في أم القيوين، والاسم يدل على موضع لا على كلمة.",
@@ -106339,8 +106339,8 @@ window.STREETS = [
   "ar": "شارع المِرساة",
   "en": "Al Mirsat Street",
   "meaning": {
-    "ar": "«المِرساة»: مرساة",
-    "en": "Al Mirsat: anchor"
+    "ar": "معنى «المِرساة» ما يُرسى به المركب.",
+    "en": "«Al Mirsa'» means what a boat is moored with."
   },
   "story": {
     "ar": "الاسم «المِرساة» مرساة، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الخَالِدية من إمارة أبوظبي.",
@@ -106419,8 +106419,8 @@ window.STREETS = [
   "ar": "شارع المركب",
   "en": "Al Marcup Street",
   "meaning": {
-    "ar": "«المركب»: مُرَكَّب",
-    "en": "Al Marcup: compound"
+    "ar": "«المَركَب» الشيءُ المركَّب من أجزاء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Markab» is the thing composed of parts."
   },
   "story": {
     "ar": "«المركب» مُرَكَّب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في أم سقيم.",
@@ -106435,8 +106435,8 @@ window.STREETS = [
   "ar": "شارع المركب",
   "en": "Al Markab Street",
   "meaning": {
-    "ar": "«المركب»: مُرَكَّب",
-    "en": "Al Markab: compound"
+    "ar": "معنى «المَركَب» المركَّبُ من عدة أشياء.",
+    "en": "«Al Markab» means what is put together from several."
   },
   "story": {
     "ar": "الاسم «المركب» مُرَكَّب، وليس مركّباً. والشارع يقع في الرأس من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -106515,8 +106515,8 @@ window.STREETS = [
   "ar": "شارع المستقبل",
   "en": "Al Mustaqbal Street",
   "meaning": {
-    "ar": "«المستقبل»: مستقبل",
-    "en": "Al Mustaqbal: future"
+    "ar": "«المُستقبل» الزمانُ الآتي؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mustaqbal» is the time to come."
   },
   "story": {
     "ar": "«المستقبل» مستقبل، والاسم مأخوذ من هذه الكلمة. والشارع في زعبيل، والاسم من أسماء المواضع في إمارة دبي.",
@@ -106531,8 +106531,8 @@ window.STREETS = [
   "ar": "شارع المُستقبل",
   "en": "Al Mustaqbal Street",
   "meaning": {
-    "ar": "«المُستقبل»: مستقبل",
-    "en": "Al Mustaqbal: future"
+    "ar": "معنى «المُستقبل» المستقبلُ من الزمان.",
+    "en": "«Al Mustaqbal» means the future of time."
   },
   "story": {
     "ar": "الاسم «المُستقبل» مستقبل، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في مدينة خليفة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -106547,8 +106547,8 @@ window.STREETS = [
   "ar": "شارع المسجد",
   "en": "Al Masjid Street",
   "meaning": {
-    "ar": "«المسجد»: مسجد",
-    "en": "Al Masjid: mosque"
+    "ar": "«المَسجد» موضعُ السجود؛ والاسم من هذا اللفظ.",
+    "en": "«Al Masjid» is the place of prostration."
   },
   "story": {
     "ar": "«المسجد» مسجد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الدَّهْماء، أبوظبي.",
@@ -106563,8 +106563,8 @@ window.STREETS = [
   "ar": "شارع المسجد الكبير",
   "en": "Al Masjid Al Kabeer Street",
   "meaning": {
-    "ar": "«المسجد الكبير»: مسجد",
-    "en": "Al Masjid Al Kabeer: mosque"
+    "ar": "«الكبير» العظيمُ الحجم؛ والاسم مركّب.",
+    "en": "«Al Kabir» is the big one; the name is compound."
   },
   "story": {
     "ar": "«المسجد» مسجد، و«الكبير» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في زاخِر.",
@@ -106579,8 +106579,8 @@ window.STREETS = [
   "ar": "شارع المسك",
   "en": "Al Mske Street",
   "meaning": {
-    "ar": "«المسك»: مسك",
-    "en": "Al Mske: musk"
+    "ar": "«المِسْك» المسكُ من الطيب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Misk» is musk among perfumes; the name comes from this word."
   },
   "story": {
     "ar": "«المسك» مسك، والاسم مأخوذ من هذه الكلمة. والشارع يقع في السلمة من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -106595,8 +106595,8 @@ window.STREETS = [
   "ar": "شارع المِسْك",
   "en": "Al Misk Street",
   "meaning": {
-    "ar": "«المِسْك»: مسك",
-    "en": "Al Misk: musk"
+    "ar": "معنى «المِسْك» المسكُ المعروف من الطيب.",
+    "en": "«Al Misk» means the known musk."
   },
   "story": {
     "ar": "الاسم «المِسْك» مسك، وليس مركّباً. وهو من الشوارع الجيمي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -106755,8 +106755,8 @@ window.STREETS = [
   "ar": "شارع المغزي",
   "en": "Al Maghzi Street",
   "meaning": {
-    "ar": "«المغزي»: مَغْزَى",
-    "en": "Al Maghzi: a sense"
+    "ar": "«المَغزى» المغزىُّ من الكلام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Maghza» is the point of a saying."
   },
   "story": {
     "ar": "«المغزي» مَغْزَى، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في أم سقيم من إمارة دبي.",
@@ -106883,8 +106883,8 @@ window.STREETS = [
   "ar": "شارع المنتزه",
   "en": "Al Muntazah Street",
   "meaning": {
-    "ar": "«المنتزه»: مُنْتَزَه",
-    "en": "Al Muntazah: park"
+    "ar": "«المُنتزَه» موضعُ التنزُّه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muntazah» is the place of strolling."
   },
   "story": {
     "ar": "«المنتزه» مُنْتَزَه، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الشارقة في الشارقة، والاسم يدل على موضع لا على كلمة.",
@@ -106963,8 +106963,8 @@ window.STREETS = [
   "ar": "شارع المُهرة",
   "en": "Al Muhrah Street",
   "meaning": {
-    "ar": "«المُهرة»: مهرة",
-    "en": "Al Muhrah: filly"
+    "ar": "«المُهرة» أنثىُ المهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muhrah» is the filly."
   },
   "story": {
     "ar": "«المُهرة» مهرة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -107043,8 +107043,8 @@ window.STREETS = [
   "ar": "شارع المينا",
   "en": "Al Meena Street",
   "meaning": {
-    "ar": "«المينا»: مِينَا",
-    "en": "Al Meena: glaze"
+    "ar": "«المينا» مرسى السفن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mina» is the harbour of ships."
   },
   "story": {
     "ar": "«المينا» مِينَا، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الخالدية في الشارقة، والاسم يدل على موضع لا على كلمة.",
@@ -107107,8 +107107,8 @@ window.STREETS = [
   "ar": "شارع الناصرية",
   "en": "Al Nasserya Street",
   "meaning": {
-    "ar": "«الناصرية»: نَاصِرِيَّة",
-    "en": "Al Nasserya: Nasserism"
+    "ar": "لا يُفسَّر «الناصرية» في المعاجم، والشارع في الشرق، الشارقة.",
+    "en": "«الناصرية» is not explained in the lexicons; it is a place name in Sharjah."
   },
   "story": {
     "ar": "«الناصرية» نَاصِرِيَّة، والاسم مأخوذ من هذه الكلمة. والشارع في الشرق، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -107123,8 +107123,8 @@ window.STREETS = [
   "ar": "شارع النَّاصِرية",
   "en": "An Nasiriyah Street",
   "meaning": {
-    "ar": "«النَّاصِرية»: نَاصِرِيَّة",
-    "en": "An Nasiriyah: Nasserism"
+    "ar": "«النَّاصِرية» اسمٌ لا يُفسَّر، وهو في مدينة محمد بن زايد، أبوظبي.",
+    "en": "The name «النَّاصِرية» is left unexplained; the streets carrying it stand in Abu Dhabi."
   },
   "story": {
     "ar": "الاسم «النَّاصِرية» نَاصِرِيَّة، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -107235,8 +107235,8 @@ window.STREETS = [
   "ar": "شارع النَّجم",
   "en": "An Najm Street",
   "meaning": {
-    "ar": "«النَّجم»: نَّجم",
-    "en": "An Najm: installment"
+    "ar": "«النَّجْم» الجَزءُ من الثمن؛ والاسم من هذا اللفظ.",
+    "en": "«An Najm» is the part of a price, the installment."
   },
   "story": {
     "ar": "«النَّجم» نَّجم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في دلما، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -107315,8 +107315,8 @@ window.STREETS = [
   "ar": "شارع الندى",
   "en": "Al Nada Street",
   "meaning": {
-    "ar": "«الندى»: ندى",
-    "en": "Al Nada: dew"
+    "ar": "«النَّدَى» الندىُّ على النبات؛ والاسم من هذا اللفظ.",
+    "en": "«An Nada» is the dew on plants; the name comes from this word."
   },
   "story": {
     "ar": "«الندى» ندى، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الرأس من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -107331,8 +107331,8 @@ window.STREETS = [
   "ar": "شارع النَّدَى",
   "en": "Al Nada Street",
   "meaning": {
-    "ar": "«النَّدَى»: ندى",
-    "en": "Al Nada: dew"
+    "ar": "معنى «النَّدَى» الندىُّ إذا نزل.",
+    "en": "«An Nada» means dew when it settles."
   },
   "story": {
     "ar": "الاسم «النَّدَى» ندى، وليس مركّباً. وهو من الشوارع المُعْتَرِض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -107379,8 +107379,8 @@ window.STREETS = [
   "ar": "شارع النرجس",
   "en": "Al Narjis Street",
   "meaning": {
-    "ar": "«النرجس»: نَرْجِس",
-    "en": "Al Narjis: Narcissus gen. et spp."
+    "ar": "«النَّرجِس» زهرةُ النرجس؛ والاسم من هذا اللفظ.",
+    "en": "«An Narjis» is the narcissus flower."
   },
   "story": {
     "ar": "«النرجس» نَرْجِس، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الرملة، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -107395,8 +107395,8 @@ window.STREETS = [
   "ar": "شارع النَّرجِس",
   "en": "An Narjis Street",
   "meaning": {
-    "ar": "«النَّرجِس»: نَرْجِس",
-    "en": "An Narjis: Narcissus gen. et spp."
+    "ar": "معنى «النَّرجِس» النرجسُ من الأزهار.",
+    "en": "«An Narjis» means the narcissus among flowers."
   },
   "story": {
     "ar": "الاسم «النَّرجِس» نَرْجِس، وليس مركّباً. والشارع في المَسْعُودِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -107507,8 +107507,8 @@ window.STREETS = [
   "ar": "شارع النسناس",
   "en": "Al Nessnass Street",
   "meaning": {
-    "ar": "«النسناس»: نِسْنَاس",
-    "en": "Al Nessnass: a creature of legend"
+    "ar": "«النِّسناس» خَلْقٌ من خَلْق الجن؛ والاسم من هذا اللفظ.",
+    "en": "«An Nisnas» is a creature linked to the jinn."
   },
   "story": {
     "ar": "«النسناس» نِسْنَاس، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في جميرا بإمارة دبي، والاسم من أسماء المواضع.",
@@ -107523,8 +107523,8 @@ window.STREETS = [
   "ar": "شارع النِّسناس",
   "en": "An Nisnas Street",
   "meaning": {
-    "ar": "«النِّسناس»: نِسْنَاس",
-    "en": "An Nisnas: a creature of legend"
+    "ar": "معنى «النِّسناس» مخلوقٌ من مخلوقات الجن.",
+    "en": "«An Nisnas» means a being of the jinn's creation."
   },
   "story": {
     "ar": "الاسم «النِّسناس» نِسْنَاس، وليس مركّباً. وهو الشارع في حَدْبَة الزَّعْفَرَانَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -107635,8 +107635,8 @@ window.STREETS = [
   "ar": "شارع النَّعَم",
   "en": "Al N'am Street",
   "meaning": {
-    "ar": "«النَّعَم»: نعم",
-    "en": "Al N'am: yes"
+    "ar": "«نَعَم» كلمةُ الجواب بالإيجاب؛ والاسم من هذا اللفظ.",
+    "en": "«Na'am» is the word of yes."
   },
   "story": {
     "ar": "«النَّعَم» نعم، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الروضة الشرقية من إمارة أبوظبي.",
@@ -107651,8 +107651,8 @@ window.STREETS = [
   "ar": "شارع النَّعَم",
   "en": "An N'am Street",
   "meaning": {
-    "ar": "«النَّعَم»: نعم",
-    "en": "An N'am: yes"
+    "ar": "معنى «نَعَم» النعمُ في الجواب.",
+    "en": "«Na'am» means yes in reply."
   },
   "story": {
     "ar": "الاسم «النَّعَم» نعم، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في الشَّوامخ بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -107667,8 +107667,8 @@ window.STREETS = [
   "ar": "شارع النعيم",
   "en": "An Na'eem Street",
   "meaning": {
-    "ar": "«النعيم»: نَعِيم",
-    "en": "An Na'eem: bliss, delight"
+    "ar": "«النَّعيم» النعيمُ والدَّعة؛ والاسم من هذا اللفظ.",
+    "en": "«An Na'im» is bliss and ease."
   },
   "story": {
     "ar": "«النعيم» نَعِيم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -107683,8 +107683,8 @@ window.STREETS = [
   "ar": "شارع النعيم",
   "en": "Al Naim Street",
   "meaning": {
-    "ar": "«النعيم»: نَعِيم",
-    "en": "Al Naim: bliss, delight"
+    "ar": "معنى «النَّعيم» النعيمُ في العيش.",
+    "en": "«An Na'im» means delight in living."
   },
   "story": {
     "ar": "الاسم «النعيم» نَعِيم، وليس مركّباً. والشارع في الرملة، والاسم من أسماء المواضع في إمارة أم القيوين.",
@@ -107731,8 +107731,8 @@ window.STREETS = [
   "ar": "شارع النمر",
   "en": "Al Namir Street",
   "meaning": {
-    "ar": "«النمر»: نمر",
-    "en": "Al Namir: tiger"
+    "ar": "«النَّمر» النمرُ من السباع؛ والاسم من هذا اللفظ.",
+    "en": "«An Namir» is the tiger among beasts."
   },
   "story": {
     "ar": "«النمر» نمر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في جزيرة ياس.",
@@ -107747,8 +107747,8 @@ window.STREETS = [
   "ar": "شارع النَّمر",
   "en": "An Namir Street",
   "meaning": {
-    "ar": "«النَّمر»: نمر",
-    "en": "An Namir: tiger"
+    "ar": "معنى «النَّمر» النمرُ المعروف من الحيوانات.",
+    "en": "«An Namir» means the tiger among animals."
   },
   "story": {
     "ar": "الاسم «النَّمر» نمر، وليس مركّباً. والشارع يقع في الهِيَر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -107763,8 +107763,8 @@ window.STREETS = [
   "ar": "شارع النهار",
   "en": "Al Nahar Street",
   "meaning": {
-    "ar": "«النهار»: نَهَار",
-    "en": "Al Nahar: daytime, day"
+    "ar": "«النَّهار» النهارُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«An Nahar» is the day; the name comes from this word."
   },
   "story": {
     "ar": "«النهار» نَهَار، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع برشا هايتس في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -107779,8 +107779,8 @@ window.STREETS = [
   "ar": "شارع النَّهار",
   "en": "An Nahar Street",
   "meaning": {
-    "ar": "«النَّهار»: نَهَار",
-    "en": "An Nahar: daytime, day"
+    "ar": "معنى «النَّهار» النهارُ من الزمان.",
+    "en": "«An Nahar» means the daytime of the hours."
   },
   "story": {
     "ar": "الاسم «النَّهار» نَهَار، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في المُشرِف من إمارة أبوظبي.",
@@ -107891,8 +107891,8 @@ window.STREETS = [
   "ar": "شارع النورس",
   "en": "Al Nawras Street",
   "meaning": {
-    "ar": "«النورس»: نورس",
-    "en": "Al Nawras: gull, seagull"
+    "ar": "«النَّوْرَس» طائرُ النورس؛ والاسم من هذا اللفظ.",
+    "en": "«An Nawras» is the gull."
   },
   "story": {
     "ar": "«النورس» نورس، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في السلمة.",
@@ -107907,8 +107907,8 @@ window.STREETS = [
   "ar": "شارع النَّوْرَس",
   "en": "Al Nawras Street",
   "meaning": {
-    "ar": "«النَّوْرَس»: نورس",
-    "en": "Al Nawras: gull, seagull"
+    "ar": "معنى «النَّوْرَس» النورسُ من الطير.",
+    "en": "«An Nawras» means the seagull among birds."
   },
   "story": {
     "ar": "الاسم «النَّوْرَس» نورس، وليس مركّباً. والشارع يقع في الخِبِيصِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -108067,8 +108067,8 @@ window.STREETS = [
   "ar": "شارع الهديل",
   "en": "Al Hadil Street",
   "meaning": {
-    "ar": "«الهديل»: هديل",
-    "en": "Al Hadil: cooing"
+    "ar": "«الهَديل» صوتُ الحمام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hadil» is the cooing of pigeons."
   },
   "story": {
     "ar": "«الهديل» هديل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع شنتير في أم القيوين، والاسم يدل على موضع لا على كلمة.",
@@ -108083,8 +108083,8 @@ window.STREETS = [
   "ar": "شارع الهَدِيل",
   "en": "Al Hadeel Street",
   "meaning": {
-    "ar": "«الهَدِيل»: هديل",
-    "en": "Al Hadeel: cooing (of pigeons)"
+    "ar": "معنى «الهَديل» هديلُ الحمام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hadil» means the dove's coo; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الهَدِيل» هديل، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -108211,8 +108211,8 @@ window.STREETS = [
   "ar": "شارع الهيل",
   "en": "Al Hayl Road",
   "meaning": {
-    "ar": "«الهيل»: هيل",
-    "en": "Al Hayl: cardamom"
+    "ar": "«الهَيْل» الهيلُ من التوابل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hayl» is cardamom among spices; the name comes from this word."
   },
   "story": {
     "ar": "«الهيل» هيل، والاسم مأخوذ من هذه الكلمة. والطريق يقع في الحليفات من إمارة الفجيرة، والاسم مأخوذ من موضع.",
@@ -108227,8 +108227,8 @@ window.STREETS = [
   "ar": "شارع الهَيْل",
   "en": "Al Hayl Street",
   "meaning": {
-    "ar": "«الهَيْل»: هيل",
-    "en": "Al Hayl: cardamom"
+    "ar": "معنى «الهَيْل» الهيلُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hayl» means the known cardamom; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «الهَيْل» هيل، وليس مركّباً. وهو من الشوارع آل نَهيان في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -108243,8 +108243,8 @@ window.STREETS = [
   "ar": "شارع الواجهة",
   "en": "Al Wajihah Street",
   "meaning": {
-    "ar": "«الواجهة»: وَاجِهَة",
-    "en": "Al Wajihah: face, front"
+    "ar": "«الواجهة» جهةُ البناء الأمامية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Wajihah» is the front of a building."
   },
   "story": {
     "ar": "«الواجهة» وَاجِهَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -108259,8 +108259,8 @@ window.STREETS = [
   "ar": "شارع الواجهة البحرية",
   "en": "The Waterfront Street",
   "meaning": {
-    "ar": "«الواجهة البحرية»: وَاجِهَة",
-    "en": "The Waterfront: face, front"
+    "ar": "معنى «الواجهة» الواجهةُ من الشيء.",
+    "en": "«Al Wajihah» means the face of a thing."
   },
   "story": {
     "ar": "«الواجهة» وَاجِهَة، و«البحرية» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في كورنيش ديرة بإمارة دبي، والاسم من أسماء المواضع.",
@@ -108339,8 +108339,8 @@ window.STREETS = [
   "ar": "شارع الورود",
   "en": "Al Worood Street",
   "meaning": {
-    "ar": "«الورود»: وُرُود",
-    "en": "Al Worood: arrival"
+    "ar": "«الوُرود» القدومُ إلى المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Wurud» is the coming to a place."
   },
   "story": {
     "ar": "«الورود» وُرُود، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في جزر الجميرا.",
@@ -108355,8 +108355,8 @@ window.STREETS = [
   "ar": "شارع الوُرُود",
   "en": "Al Wuroud Street",
   "meaning": {
-    "ar": "«الوُرُود»: وُرُود",
-    "en": "Al Wuroud: coming, arrival, advent"
+    "ar": "معنى «الوُرود» الوصولُ إلى المكان.",
+    "en": "«Al Wurud» means arriving at a place."
   },
   "story": {
     "ar": "الاسم «الوُرُود» وُرُود، وليس مركّباً. والشارع يقع في المَنهَل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -108675,8 +108675,8 @@ window.STREETS = [
   "ar": "شارع اليسر",
   "en": "Al Yousr Street",
   "meaning": {
-    "ar": "«اليسر»: يُسْر",
-    "en": "Al Yousr: well-being"
+    "ar": "«اليُسر» اليسرُ ولينُ العيش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Yusr» is ease and a soft life."
   },
   "story": {
     "ar": "«اليسر» يُسْر، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الرقة من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -108691,8 +108691,8 @@ window.STREETS = [
   "ar": "شارع اليُسر",
   "en": "Al Yusr Street",
   "meaning": {
-    "ar": "«اليُسر»: يُسْر",
-    "en": "Al Yusr: well-being, comfort"
+    "ar": "معنى «اليُسر» اليُسرُ في الأمور.",
+    "en": "«Al Yusr» means ease in affairs."
   },
   "story": {
     "ar": "الاسم «اليُسر» يُسْر، وليس مركّباً. وهو من الشوارع الهِيَر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -108803,8 +108803,8 @@ window.STREETS = [
   "ar": "شارع بغداد",
   "en": "Baghdad Street",
   "meaning": {
-    "ar": "«بغداد»: بغداد",
-    "en": "Baghdad: Baghdad"
+    "ar": "«بَغداد» اسمُ مدينةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Baghdad» is the name of an ancient city; the name comes from this word."
   },
   "story": {
     "ar": "«بغداد» بغداد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في النهدة، دبي.",
@@ -108819,8 +108819,8 @@ window.STREETS = [
   "ar": "شارع بَغداد",
   "en": "Baghdad Street",
   "meaning": {
-    "ar": "«بَغداد»: بغداد",
-    "en": "Baghdad: Baghdad"
+    "ar": "معنى «بَغداد» بغدادُ العراق؛ والاسم من هذا اللفظ.",
+    "en": "«Baghdad» means Baghdad of Iraq; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «بَغداد» بغداد، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الدَّانَةْ.",
@@ -108899,8 +108899,8 @@ window.STREETS = [
   "ar": "شارع بَيت اَلشَّعَر",
   "en": "Bayt Ash Sha'ar Street",
   "meaning": {
-    "ar": "«بَيت اَلشَّعَر»: بَيْت",
-    "en": "Bayt Ash Sha'ar: house, building"
+    "ar": "«البَيت» البيتُ المعروف؛ والاسم مركّب.",
+    "en": "«Al Bayt» is the house; the name is compound."
   },
   "story": {
     "ar": "«بَيت» بَيْت، و«اَلشَّعَر» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في الدَّانَةْ، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -108915,8 +108915,8 @@ window.STREETS = [
   "ar": "شارع بيت المريخي",
   "en": "Bayt Al Mreekhi Street",
   "meaning": {
-    "ar": "«بيت المريخي»: بَيْت",
-    "en": "Bayt Al Mreekhi: house, building"
+    "ar": "معنى «البَيت» بيتُ السكن؛ والاسم مركّب.",
+    "en": "«Al Bayt» means the dwelling; the name is compound."
   },
   "story": {
     "ar": "«المريخي» اسم الموضع في «بيت»؛ و«بيت» بَيْت. والشارع في دلما، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -109027,8 +109027,8 @@ window.STREETS = [
   "ar": "شارع توليب",
   "en": "Tulip Street",
   "meaning": {
-    "ar": "«توليب»: تُولِيب",
-    "en": "Tulip: tulip"
+    "ar": "«التوليب» زهرةُ التوليب؛ والاسم من هذا اللفظ.",
+    "en": "«At Tulip» is the tulip flower."
   },
   "story": {
     "ar": "«توليب» تُولِيب، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الحدائق من إمارة دبي.",
@@ -109059,8 +109059,8 @@ window.STREETS = [
   "ar": "شارع ثُقبة المازمي",
   "en": "Thuqbat Al Mazmi Street",
   "meaning": {
-    "ar": "«ثُقبة المازمي»: ثُقْبَة",
-    "en": "Thuqbat Al Mazmi: hole"
+    "ar": "«الثُّقبة» الثقبُ الصغير؛ والاسم مركّب.",
+    "en": "«Ath Thuqbah» is the small hole; the name is compound."
   },
   "story": {
     "ar": "«ثُقبة» ثُقْبَة، و«المازمي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في هِيلِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -109075,8 +109075,8 @@ window.STREETS = [
   "ar": "شارع ثُقبة صاع",
   "en": "Thuqbat Sa' Street",
   "meaning": {
-    "ar": "«ثُقبة صاع»: ثُقْبَة",
-    "en": "Thuqbat Sa': hole"
+    "ar": "معنى «الثُّقبة» الفتحةُ في الشيء؛ والاسم مركّب.",
+    "en": "«Ath Thuqbah» means the opening in a thing."
   },
   "story": {
     "ar": "«صاع» اسم الموضع في «ثُقبة»؛ و«ثُقبة» ثُقْبَة. والشارع في هِيلِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -109091,8 +109091,8 @@ window.STREETS = [
   "ar": "شارع ثواب",
   "en": "Thowaab Street",
   "meaning": {
-    "ar": "«ثواب»: ثَوَاب",
-    "en": "Thowaab: a reward"
+    "ar": "«ثَواب» الجزاءُ على العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Thawab» is the return upon a deed."
   },
   "story": {
     "ar": "«ثواب» ثَوَاب، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مرسى دبي بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -109123,8 +109123,8 @@ window.STREETS = [
   "ar": "شارع جزر جميرا",
   "en": "Jumeirah Island Street",
   "meaning": {
-    "ar": "«جزر جميرا»: جَزَر",
-    "en": "Jumeirah Island: carrots of Jumeirah"
+    "ar": "«الجُزُر» هنا جمع «جزيرة»؛ والاسم مركّب.",
+    "en": "«Al Juzur» here is the plural of jazirah, islands."
   },
   "story": {
     "ar": "«جزر» جَزَر، و«جميرا» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في الثنية 5، دبي.",
@@ -109251,8 +109251,8 @@ window.STREETS = [
   "ar": "شارع حطاب السلمي",
   "en": "Hatab Al Salami Street",
   "meaning": {
-    "ar": "«حطاب السلمي»: حَطَّاب",
-    "en": "Hatab Al Salami: lumberjack"
+    "ar": "«الحِطَّاب» جامعُ الحطب؛ والاسم مركّب.",
+    "en": "«Al Hittab» is the gatherer of firewood."
   },
   "story": {
     "ar": "«حطاب» حَطَّاب، و«السلمي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في الشرق بإمارة الشارقة، وليس كلمة تُفسَّر.",
@@ -109267,8 +109267,8 @@ window.STREETS = [
   "ar": "شارع حطاب السلمي",
   "en": "Hattab Al Salam Street",
   "meaning": {
-    "ar": "«حطاب السلمي»: حَطَّاب",
-    "en": "Hattab Al Salam: lumberjack"
+    "ar": "معنى «الحِطَّاب» صاحبُ الحطب؛ والاسم مركّب.",
+    "en": "«Al Hittab» means the wood seller; the name is compound."
   },
   "story": {
     "ar": "«السلمي» اسم الموضع في «حطاب»؛ و«حطاب» حَطَّاب. والاسم من أسماء المواضع، والشارع في كلباء، الشارقة.",
@@ -109283,8 +109283,8 @@ window.STREETS = [
   "ar": "شارع حِقنة عَبالة",
   "en": "Hiqnat 'Abalah Street",
   "meaning": {
-    "ar": "«حِقنة عَبالة»: حِقْنَة",
-    "en": "Hiqnat 'Abalah: injected substance"
+    "ar": "«الحِقنة» الحُقنةُ من الدواء؛ والاسم مركّب.",
+    "en": "«Al Hiqnah» is a dose of medicine; the name is compound."
   },
   "story": {
     "ar": "«حِقنة» حِقْنَة، و«عَبالة» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في شعاب الأشخر.",
@@ -109299,8 +109299,8 @@ window.STREETS = [
   "ar": "شارع حِقنة مرَيوِد",
   "en": "Hiqnat Mraywid Street",
   "meaning": {
-    "ar": "«حِقنة مرَيوِد»: حِقْنَة",
-    "en": "Hiqnat Mraywid: injected substance"
+    "ar": "معنى «الحِقنة» ما يُحقن من دواء؛ والاسم مركّب.",
+    "en": "«Al Hiqnah» means what is injected as medicine."
   },
   "story": {
     "ar": "«مرَيوِد» اسم الموضع في «حِقنة»؛ و«حِقنة» حِقْنَة. والشارع يقع في الظَّاهِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -109379,8 +109379,8 @@ window.STREETS = [
   "ar": "شارع حَي الشَّرق",
   "en": "Hay Ash Sharq Street",
   "meaning": {
-    "ar": "«حَي الشَّرق»: حي",
-    "en": "Hay Ash Sharq: alive"
+    "ar": "«الحَيّ» النقيضُ الميت، و«الشَّرق» نقيضُ الغرب؛ والاسم مركّب.",
+    "en": "«Al Hayy» is the opposite of the dead and «Ash Sharq» the opposite of the west; the name is compound."
   },
   "story": {
     "ar": "«حَي» حي، و«الشَّرق» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في هِيلِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -109411,8 +109411,8 @@ window.STREETS = [
   "ar": "شارع خَطم الشِّكلة",
   "en": "Khatm Ash Shiklah Street",
   "meaning": {
-    "ar": "«خَطم الشِّكلة»: خَطْم",
-    "en": "Khatm Ash Shiklah: a nose-mark"
+    "ar": "«الخَطم» الخَتمُ على أنف البعير؛ والاسم مركّب.",
+    "en": "«Al Khatm» is the mark on a camel's nose."
   },
   "story": {
     "ar": "«خَطم» خَطْم، و«الشِّكلة» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في مَلاقط من إمارة أبوظبي.",
@@ -109587,8 +109587,8 @@ window.STREETS = [
   "ar": "شارع رِقاع الرِّمث",
   "en": "Riqa' Ar Rimth Street",
   "meaning": {
-    "ar": "«رِقاع الرِّمث»: رِقَاع",
-    "en": "Riqa' Ar Rimth: flat patches of rimth"
+    "ar": "«الرِّمَث» نباتٌ صحراوي؛ والاسم مركّب.",
+    "en": "«Ar Rimth» is a desert plant; the name is compound."
   },
   "story": {
     "ar": "«رِقاع» رِقَاع، و«الرِّمث» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في الوِقن، أبوظبي.",
@@ -109603,8 +109603,8 @@ window.STREETS = [
   "ar": "شارع ركَب البَدعه",
   "en": "Rikab Al Bad'ah Street",
   "meaning": {
-    "ar": "«ركَب البَدعه»: رُكْب",
-    "en": "Rikab Al Bad'ah: caravans"
+    "ar": "«الرَّكب» جماعةُ المسافرين؛ والاسم مركّب.",
+    "en": "«Ar Rakb» is the band of travellers."
   },
   "story": {
     "ar": "«ركَب» رُكْب، و«البَدعه» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّوامخ.",
@@ -109619,8 +109619,8 @@ window.STREETS = [
   "ar": "شارع رمرام",
   "en": "Remraam Street",
   "meaning": {
-    "ar": "«رمرام»: رَمْرَام",
-    "en": "Remraam: the rumex plant"
+    "ar": "«الرَّمْرام» نباتٌ صحراوي؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ramram» is a desert plant."
   },
   "story": {
     "ar": "«رمرام» رَمْرَام، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الحبية 5 من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -109635,8 +109635,8 @@ window.STREETS = [
   "ar": "شارع رَمِل البَرقاء",
   "en": "Ramil Al Barqa-a Street",
   "meaning": {
-    "ar": "«رَمِل البَرقاء»: رَمْل",
-    "en": "Ramil Al Barqa-a: sand"
+    "ar": "«الرَّمْل» الرملُ المعروف؛ والاسم مركّب.",
+    "en": "«Ar Raml» is sand, well known."
   },
   "story": {
     "ar": "«رَمِل» رَمْل، و«البَرقاء» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -109651,8 +109651,8 @@ window.STREETS = [
   "ar": "شارع رَمل واسط",
   "en": "Raml Wasit Street",
   "meaning": {
-    "ar": "«رَمل واسط»: رَمْل",
-    "en": "Raml Wasit: sand"
+    "ar": "معنى «الرَّمْل» رملُ الصحراء؛ والاسم مركّب.",
+    "en": "«Ar Raml» means desert sand; the name is compound."
   },
   "story": {
     "ar": "«واسط» اسم الموضع في «رَمل»؛ و«رَمل» رَمْل. والاسم يُنسب إلى موضع، والشارع في بني ياس من إمارة أبوظبي.",
@@ -109683,8 +109683,8 @@ window.STREETS = [
   "ar": "شارع زعبيل",
   "en": "Zaa'beel Street",
   "meaning": {
-    "ar": "«زعبيل»: زعبيل",
-    "en": "Zaa'beel: Zabeel"
+    "ar": "«زَعبيل» اسمٌ معروف لموضعٍ في دبي.",
+    "en": "«Zabeel» is a known name for a place in Dubai."
   },
   "story": {
     "ar": "«زعبيل» زعبيل، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الكرامة، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -109699,8 +109699,8 @@ window.STREETS = [
   "ar": "شارع زَعبِيل",
   "en": "Za'beel Street",
   "meaning": {
-    "ar": "«زَعبِيل»: زعبيل",
-    "en": "Za'beel: Zabeel"
+    "ar": "معنى «زَعبِيل» زعبيلُ دبي؛ والاسم من هذا اللفظ.",
+    "en": "«Zabeel» means Zabeel of Dubai; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «زَعبِيل» زعبيل، وليس مركّباً. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -109747,8 +109747,8 @@ window.STREETS = [
   "ar": "شارع سليم بالاسود العامري",
   "en": "Slayem Bilaswad Al Ameri Street",
   "meaning": {
-    "ar": "«سليم بالاسود العامري»: سَلِيم",
-    "en": "Slayem Bilaswad Al Ameri: safe, secure"
+    "ar": "«سَليم» السالمُ من الآفات؛ والاسم مركّب.",
+    "en": "«Salim» is the one free of harm; the name is compound."
   },
   "story": {
     "ar": "«سليم» سَلِيم، و«بالاسود العامري» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في القوع، أبوظبي.",
@@ -109763,8 +109763,8 @@ window.STREETS = [
   "ar": "شارع سليمان الهاشمي",
   "en": "Sulayman Al Hashimi Street",
   "meaning": {
-    "ar": "«سليمان الهاشمي»: سُلَيْمَان",
-    "en": "Sulayman Al Hashimi: Solomon"
+    "ar": "«سُلَيْمان» اسمٌ مألوف؛ والاسم مركّب.",
+    "en": "«Sulayman» is a familiar name; the name is compound."
   },
   "story": {
     "ar": "«سليمان» سُلَيْمَان، و«الهاشمي» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في الشارقة، والشارع في مدينة الشارقة.",
@@ -109811,8 +109811,8 @@ window.STREETS = [
   "ar": "شارع شِعَيبة السِّدِر",
   "en": "Shi'aybat As Sidir Street",
   "meaning": {
-    "ar": "«شِعَيبة السِّدِر»: شُعَيْبَة",
-    "en": "Shi'aybat As Sidir: small gully, branch of a wadi"
+    "ar": "«السِّدِر» شجرةُ السدر؛ والاسم مركّب.",
+    "en": "«As Sidr» is the sidr tree; the name is compound."
   },
   "story": {
     "ar": "«شِعَيبة» شُعَيْبَة، و«السِّدِر» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -109827,8 +109827,8 @@ window.STREETS = [
   "ar": "شارع شَلَّال الوِرَيعة",
   "en": "Shallal Al Wiray'ah Street",
   "meaning": {
-    "ar": "«شَلَّال الوِرَيعة»: شَلَّال",
-    "en": "Shallal Al Wiray'ah: waterfall"
+    "ar": "«الشَّلَّال» الماءُ الساقط من علوّ؛ والاسم مركّب.",
+    "en": "«Ash Shallal» is falling water; the name is compound."
   },
   "story": {
     "ar": "«شَلَّال» شَلَّال، و«الوِرَيعة» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -109843,8 +109843,8 @@ window.STREETS = [
   "ar": "شارع صخر العابدي",
   "en": "Sakher Al Abdi Street",
   "meaning": {
-    "ar": "«صخر العابدي»: صَخْر",
-    "en": "Sakher Al Abdi: rocks"
+    "ar": "«الصَّخر» الصخرُ من الحجارة؛ والاسم مركّب.",
+    "en": "«As Sakhr» is rock among stones; the name is compound."
   },
   "story": {
     "ar": "«صخر» صَخْر، و«العابدي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في الرقة، والاسم من أسماء المواضع التي تعرفها الشارقة.",
@@ -109859,8 +109859,8 @@ window.STREETS = [
   "ar": "شارع صدف",
   "en": "Sadaf Avenue",
   "meaning": {
-    "ar": "«صدف»: صَدَف",
-    "en": "Sadaf: highest part, top"
+    "ar": "«صَدَف» أعلىُ كل شيء؛ والاسم من هذا اللفظ.",
+    "en": "«Sadaf» is the top of anything."
   },
   "story": {
     "ar": "«صدف» صَدَف، والاسم مأخوذ من هذه الكلمة. والشارع في مرسى دبي، والاسم من أسماء المواضع في إمارة دبي.",
@@ -109875,8 +109875,8 @@ window.STREETS = [
   "ar": "شارع صَف الغاف",
   "en": "Saf Al Ghaf Street",
   "meaning": {
-    "ar": "«صَف الغاف»: صَفّ",
-    "en": "Saf Al Ghaf: a row"
+    "ar": "«الغاف» شجرةُ الغاف؛ والاسم مركّب.",
+    "en": "«Al Ghaf» is the ghaf tree; the name is compound."
   },
   "story": {
     "ar": "«صَف» صَفّ، و«الغاف» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في عَيْن الفَايْضَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -109891,8 +109891,8 @@ window.STREETS = [
   "ar": "شارع صفد",
   "en": "Safad Street",
   "meaning": {
-    "ar": "«صفد»: صَفَد",
-    "en": "Safad: chain, shackles"
+    "ar": "«صَفَد» القيودُ والاكبَال؛ والاسم من هذا اللفظ.",
+    "en": "«Safad» is chains and shackles."
   },
   "story": {
     "ar": "«صفد» صَفَد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السلمة، أم القيوين.",
@@ -109971,8 +109971,8 @@ window.STREETS = [
   "ar": "شارع صَلَّة مَحَنَّا",
   "en": "Sallat Mahanna Street",
   "meaning": {
-    "ar": "«صَلَّة مَحَنَّا»: صِلَة",
-    "en": "Sallat Mahanna: link, connection"
+    "ar": "«الصِّلَّة» الوصلُ بين شيئين؛ والاسم مركّب.",
+    "en": "«As Silah» is the link between two things."
   },
   "story": {
     "ar": "«صَلَّة» صِلَة، و«مَحَنَّا» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الظَّاهِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -109987,8 +109987,8 @@ window.STREETS = [
   "ar": "شارع صَنعاء",
   "en": "San'a Street",
   "meaning": {
-    "ar": "«صَنعاء»: صنعاء",
-    "en": "San'a: Sanaa"
+    "ar": "«صَنعاء» اسمُ مدينةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Sana'» is the name of an ancient city; the name comes from this word."
   },
   "story": {
     "ar": "«صَنعاء» صنعاء، والاسم مأخوذ من هذه الكلمة. وهو الشارع في غْنَيْمَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -110003,8 +110003,8 @@ window.STREETS = [
   "ar": "شارع صَنْعَاء",
   "en": "Sana'a Street",
   "meaning": {
-    "ar": "«صَنْعَاء»: صنعاء",
-    "en": "Sana'a: Sanaa"
+    "ar": "معنى «صَنْعَاء» صنعاءُ اليمن؛ والاسم من هذا اللفظ.",
+    "en": "«Sana'» means Sanaa of Yemen; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «صَنْعَاء» صنعاء، وليس مركّباً. والشارع في رأس الخور الصناعية 1، والاسم من أسماء المواضع في إمارة دبي.",
@@ -110019,8 +110019,8 @@ window.STREETS = [
   "ar": "شارع صهيل",
   "en": "Saheel Street",
   "meaning": {
-    "ar": "«صهيل»: صُهِيل",
-    "en": "Saheel: neighing, whinnying"
+    "ar": "«الصَّهيل» صوتُ الفرس؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahl» is the neighing of a horse."
   },
   "story": {
     "ar": "«صهيل» صُهِيل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في وادي الصفا 6 بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -110067,8 +110067,8 @@ window.STREETS = [
   "ar": "شارع صَيَّاح",
   "en": "Sayyah Street",
   "meaning": {
-    "ar": "«صَيَّاح»: صَيَاح",
-    "en": "Sayyah: yelling, shouting"
+    "ar": "«الصَّياح» الصوتُ العالي؛ والاسم من هذا اللفظ.",
+    "en": "«As Sayyah» is the loud cry."
   },
   "story": {
     "ar": "«صَيَّاح» صَيَاح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -110083,8 +110083,8 @@ window.STREETS = [
   "ar": "شارع صياح كناني",
   "en": "Saeyah Kunani Street",
   "meaning": {
-    "ar": "«صياح كناني»: صَيَاح",
-    "en": "Saeyah Kunani: yelling, shouting"
+    "ar": "معنى «الصَّياح» الصياحُ والنداء؛ والاسم مركّب.",
+    "en": "«As Sayyah» means crying out and calling."
   },
   "story": {
     "ar": "«صياح» صَيَاح، و«كناني» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع يقع في حلوان من إمارة الشارقة، والاسم مأخوذ من موضع.",
@@ -110099,8 +110099,8 @@ window.STREETS = [
   "ar": "شارع طَرَابلُس",
   "en": "Tarablus Street",
   "meaning": {
-    "ar": "«طَرَابلُس»: طرابلس",
-    "en": "Tarablus: Tripoli"
+    "ar": "«طَرَابلُس» اسمُ مدينةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Tarabulus» is the name of an ancient city; the name comes from this word."
   },
   "story": {
     "ar": "«طَرَابلُس» طرابلس، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم غَافة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -110115,8 +110115,8 @@ window.STREETS = [
   "ar": "شارع طَرابلُس الغرب",
   "en": "Tripoli Street",
   "meaning": {
-    "ar": "«طَرابلُس الغرب»: طرابلس",
-    "en": "Tripoli: Tripoli (the capital city of Libya)"
+    "ar": "«الغَرْب» نقيضُ الشرق؛ والاسم مركّب.",
+    "en": "«Al Gharb» is the opposite of the east."
   },
   "story": {
     "ar": "«طَرابلُس» طرابلس، و«الغرب» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في حَدْبَة الزَّعْفَرَانَة من إمارة أبوظبي.",
@@ -110131,8 +110131,8 @@ window.STREETS = [
   "ar": "شارع طف بينونة",
   "en": "Taf Baynounah Street",
   "meaning": {
-    "ar": "«طف بينونة»: طُفْ",
-    "en": "Taf Baynounah: a low mound"
+    "ar": "«الطَّف» التلُّ الصغير؛ والاسم مركّب من «طَفِّ بَينونة».",
+    "en": "«At Taf» is the low mound; the name is compound, «Taf Baynunah»."
   },
   "story": {
     "ar": "«طف» طُفْ، و«بينونة» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الحَمْرَا بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -110147,8 +110147,8 @@ window.STREETS = [
   "ar": "شارع عارِض الجِد",
   "en": "'Arid Al Jid Street",
   "meaning": {
-    "ar": "«عارِض الجِد»: عارِض",
-    "en": "'Arid Al Jid: obstacle"
+    "ar": "«العَارِض» المانعُ والحائل؛ والاسم مركّب.",
+    "en": "«Al 'Arid» is the obstacle in the way."
   },
   "story": {
     "ar": "«عارِض» عارِض، و«الجِد» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في المَنهَل، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -110259,8 +110259,8 @@ window.STREETS = [
   "ar": "شارع عمان",
   "en": "Amman Street",
   "meaning": {
-    "ar": "«عمان»: عُمان",
-    "en": "Amman: Oman"
+    "ar": "«عُمَّان» اسمُ دولةٍ وبلدٍ عريق.",
+    "en": "«Umman» is the name of an ancient land."
   },
   "story": {
     "ar": "«عمان» عُمان، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في القصيص بإمارة دبي، والاسم من أسماء المواضع.",
@@ -110275,8 +110275,8 @@ window.STREETS = [
   "ar": "شارع عَمَّان",
   "en": "Amman Street",
   "meaning": {
-    "ar": "«عَمَّان»: عُمان",
-    "en": "Amman Street: Oman"
+    "ar": "معنى «عُمَّان» عُمانُ البلاد؛ والاسم من هذا اللفظ.",
+    "en": "«Umman» means Oman the country; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «عَمَّان» عُمان، وليس مركّباً. وهو الشارع في حَدْبَة الزَّعْفَرَانَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -110291,8 +110291,8 @@ window.STREETS = [
   "ar": "شارع عمران البرجامي",
   "en": "Omran Al Burjami Street",
   "meaning": {
-    "ar": "«عمران البرجامي»: عمران",
-    "en": "Omran Al Burjami: Islamic figure Imran"
+    "ar": "«عِمْران» اسمٌ مألوف؛ والاسم مركّب.",
+    "en": "«Imran» is a familiar name; the name is compound."
   },
   "story": {
     "ar": "«عمران» عمران، و«البرجامي» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في الشرق، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -110307,8 +110307,8 @@ window.STREETS = [
   "ar": "شارع غرناطة",
   "en": "Gernata Street",
   "meaning": {
-    "ar": "«غرناطة»: غرناطة",
-    "en": "Gernata: Granada"
+    "ar": "«غَرناطة» اسمُ مدينةٍ أندلسية؛ والاسم من هذا اللفظ.",
+    "en": "«Gharnatah» is the name of an Andalusian city; the name comes from this word."
   },
   "story": {
     "ar": "«غرناطة» غرناطة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في النهدة بإمارة الشارقة، وليس كلمة تُفسَّر.",
@@ -110323,8 +110323,8 @@ window.STREETS = [
   "ar": "شارع غرناطة",
   "en": "Granadah Street",
   "meaning": {
-    "ar": "«غرناطة»: غرناطة",
-    "en": "Granadah: Granada"
+    "ar": "معنى «غَرناطة» غرناطةُ الأندلس؛ والاسم من هذا اللفظ.",
+    "en": "«Gharnatah» means Granada of Andalusia; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «غرناطة» غرناطة، وليس مركّباً. والاسم من أسماء المواضع، والشارع في السلمة، أم القيوين.",
@@ -110435,8 +110435,8 @@ window.STREETS = [
   "ar": "شارع قبة الصخرة",
   "en": "Qubbat As Sakhrah Street",
   "meaning": {
-    "ar": "«قبة الصخرة»: قُبَّة",
-    "en": "Qubbat As Sakhrah: canopy of rock"
+    "ar": "«الصَّخرة» الحجارةُ الكبيرة؛ والاسم مركّب.",
+    "en": "«As Sakhr» is the great rock; the name is compound."
   },
   "story": {
     "ar": "«قبة» قُبَّة، و«الصخرة» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في السَّعادة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -110451,8 +110451,8 @@ window.STREETS = [
   "ar": "شارع قطيفة",
   "en": "Qateefah Street",
   "meaning": {
-    "ar": "«قطيفة»: قُطِيفَة",
-    "en": "Qateefah: satin, velvet"
+    "ar": "«القَطيفة» القطيفةُ من الثياب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qatifah» is the satin cloth."
   },
   "story": {
     "ar": "«قطيفة» قُطِيفَة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في السَّلاَمَات بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -110467,8 +110467,8 @@ window.STREETS = [
   "ar": "شارع قطيفة",
   "en": "Qatifa Street",
   "meaning": {
-    "ar": "«قطيفة»: قُطِيفَة",
-    "en": "Qatifa: satin, velvet"
+    "ar": "معنى «القَطيفة» القماشُ اللين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qatifah» means the soft fabric; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «قطيفة» قُطِيفَة، وليس مركّباً. والاسم من أسماء المواضع، والشارع في شنتير، أم القيوين.",
@@ -110627,8 +110627,8 @@ window.STREETS = [
   "ar": "شارع مسقط",
   "en": "Muscat Street",
   "meaning": {
-    "ar": "«مسقط»: مَسْقَط",
-    "en": "Muscat: projection (drawing)"
+    "ar": "«مَسقَط» اسمُ مدينةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Masqat» is the name of an ancient city; the name comes from this word."
   },
   "story": {
     "ar": "«مسقط» مَسْقَط، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الدَّانَةْ.",
@@ -110643,8 +110643,8 @@ window.STREETS = [
   "ar": "شارع مسقط",
   "en": "Muscat Street",
   "meaning": {
-    "ar": "«مسقط»: مَسْقَط",
-    "en": "Muscat: projection (drawing)"
+    "ar": "معنى «مَسقَط» مسقطُ البناء في الرسم.",
+    "en": "«Masqat» means the building's plan in drawing."
   },
   "story": {
     "ar": "الاسم «مسقط» مَسْقَط، وليس مركّباً. والشارع يقع في المركاض من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -110659,8 +110659,8 @@ window.STREETS = [
   "ar": "شارع مغْزِي",
   "en": "Maghzi Street",
   "meaning": {
-    "ar": "«مغْزِي»: مَغْزَى",
-    "en": "Maghzi: sense, point, significance"
+    "ar": "«مَغْزِي» المغزىُّ من الكلام؛ والاسم من هذا اللفظ.",
+    "en": "«Maghzi» is the point of a saying."
   },
   "story": {
     "ar": "«مغْزِي» مَغْزَى، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم غَافة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -110723,8 +110723,8 @@ window.STREETS = [
   "ar": "شارع مهره محمد الزعابي",
   "en": "Mahra Mohamed Al Zaabi Street",
   "meaning": {
-    "ar": "«مهره محمد الزعابي»: مهرة",
-    "en": "Mahra Mohamed Al Zaabi: filly"
+    "ar": "«مُهرة» أنثىُ المهر؛ والاسم مركّب.",
+    "en": "«Muhrah» is the filly; the name is compound."
   },
   "story": {
     "ar": "«مهره» مهرة، و«محمد الزعابي» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في الخَالِدية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -110739,8 +110739,8 @@ window.STREETS = [
   "ar": "شارع مينا جبل علي",
   "en": "Mina Jabal Ali Street",
   "meaning": {
-    "ar": "«مينا جبل علي»: مِينَا",
-    "en": "Mina Jabal Ali: glaze"
+    "ar": "«المينا» الطلاءُ اللامع؛ والاسم مركّب.",
+    "en": "«Al Mina» is the shining glaze; the name is compound."
   },
   "story": {
     "ar": "«مينا» مِينَا، و«جبل علي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في المنطقة الحرة شمال جبل علي بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -110755,8 +110755,8 @@ window.STREETS = [
   "ar": "شارع نافع العبسي",
   "en": "Nafe'a Al Absi Street",
   "meaning": {
-    "ar": "«نافع العبسي»: نَافِع",
-    "en": "Nafe'a Al Absi: useful, beneficial"
+    "ar": "«نافع» النافعُ المفيد؛ والاسم مركّب.",
+    "en": "«Nafi'» is the useful one; the name is compound."
   },
   "story": {
     "ar": "«نافع» نَافِع، و«العبسي» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في الشرق من إمارة الشارقة.",
@@ -110787,8 +110787,8 @@ window.STREETS = [
   "ar": "شارع نِعْمة",
   "en": "Ni'mah Street",
   "meaning": {
-    "ar": "«نِعْمة»: نِعْمَة",
-    "en": "Ni'mah: blessing, grace, benefit"
+    "ar": "«نِعْمة» النعمةُ من الرزق؛ والاسم من هذا اللفظ.",
+    "en": "«Ni'mah» is the blessing of provision; the name comes from this word."
   },
   "story": {
     "ar": "«نِعْمة» نِعْمَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة زايد.",
@@ -110803,8 +110803,8 @@ window.STREETS = [
   "ar": "شارع نواكشوط",
   "en": "Nouakshott Street",
   "meaning": {
-    "ar": "«نواكشوط»: نواكشوط",
-    "en": "Nouakshott: Nouakchott"
+    "ar": "«نواكشوط» اسمُ عاصمةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Nawakshut» is the name of an ancient capital; the name comes from this word."
   },
   "story": {
     "ar": "«نواكشوط» نواكشوط، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المَنهَل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -110819,8 +110819,8 @@ window.STREETS = [
   "ar": "شارع نواكشوط",
   "en": "Nouakchott Street",
   "meaning": {
-    "ar": "«نواكشوط»: نواكشوط",
-    "en": "Nouakchott: Nouakchott"
+    "ar": "معنى «نواكشوط» نواكشوطُ موريتانيا؛ والاسم من هذا اللفظ.",
+    "en": "«Nawakshut» means Nouakchott of Mauritania; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «نواكشوط» نواكشوط، وليس مركّباً. وهو من الشوارع الورقاء في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -110883,8 +110883,8 @@ window.STREETS = [
   "ar": "طريق التوليب",
   "en": "Tulip Way",
   "meaning": {
-    "ar": "«التوليب»: تُولِيب",
-    "en": "Tulip: a tulip"
+    "ar": "«التوليب» زهرةٌ ملوّنةٌ معروفة؛ والاسم من هذا اللفظ.",
+    "en": "«At Tulip» is the known coloured flower."
   },
   "story": {
     "ar": "«التوليب» تُولِيب، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الطريق في جرين كميونيتي الشرق بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -110899,8 +110899,8 @@ window.STREETS = [
   "ar": "طريق الجامعة الأمريكية في رأس الخيمة",
   "en": "American University of Ras Al Khaimah Road",
   "meaning": {
-    "ar": "«الجامعة الأمريكية في رأس الخيمة»: جَامِعَة",
-    "en": "American University of Ras Al Khaimah: university, academy"
+    "ar": "«الجامعة» المكانُ الذي يجتمع فيه الطلاب؛ والاسم مركّب.",
+    "en": "«Al Jami'ah» is where students gather; the name is compound."
   },
   "story": {
     "ar": "«الجامعة» جَامِعَة، و«الأمريكية في رأس الخيمة» اسم يخصّ الموضع لا كلمة تُفسَّر. والطريق في البريرات من إمارة رأس الخيمة.",
@@ -110915,8 +110915,8 @@ window.STREETS = [
   "ar": "طريق الجزر الوسطية",
   "en": "Mid-Island Parkway",
   "meaning": {
-    "ar": "«الجزر الوسطية»: جزر",
-    "en": "Mid-Island Parkway: carrots"
+    "ar": "«الجُزُر» هنا جمع «جزيرة»؛ والاسم مركّب.",
+    "en": "«Al Juzur» here is the plural of island; the name is compound."
   },
   "story": {
     "ar": "«الجزر» جزر، و«الوسطية» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع، والطريق في جزيرة السعديات، أبوظبي.",
@@ -110931,8 +110931,8 @@ window.STREETS = [
   "ar": "طريق الخشخاش",
   "en": "Poppy Lane",
   "meaning": {
-    "ar": "«الخشخاش»: خَشْخَاش",
-    "en": "Poppy Lane: the poppy"
+    "ar": "«الخَشخاش» نباتُ الخشخاش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khaskhash» is the poppy plant."
   },
   "story": {
     "ar": "«الخشخاش» خَشْخَاش، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الطرق في دبي، والطريق في جرين كميونيتي الشرق.",
@@ -110947,8 +110947,8 @@ window.STREETS = [
   "ar": "طريق الخشخاش الغربي",
   "en": "Poppy Lane West",
   "meaning": {
-    "ar": "«الخشخاش الغربي»: خَشْخَاش",
-    "en": "Poppy Lane West: poppy (Papaver gen. et spp.)"
+    "ar": "معنى «الخَشخاش» الخشخاشُ من النباتات.",
+    "en": "«Al Khaskhash» means the poppy among plants."
   },
   "story": {
     "ar": "«الخشخاش» خَشْخَاش، و«الغربي» اسم يخصّ الموضع لا كلمة تُفسَّر. والطريق يقع في جرين كميونيتي الشرق من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -110963,8 +110963,8 @@ window.STREETS = [
   "ar": "طريق الزيتون",
   "en": "Olive Way",
   "meaning": {
-    "ar": "«الزيتون»: زَيْتُون",
-    "en": "Olive: olive (fruit or tree)"
+    "ar": "«الزَّيتون» شجرةُ الزيتون؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zaytun» is the olive tree."
   },
   "story": {
     "ar": "«الزيتون» زَيْتُون، والاسم مأخوذ من هذه الكلمة. وهو من الطرق قرية المجتمع الخضراء في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -110979,8 +110979,8 @@ window.STREETS = [
   "ar": "طريق السَّاحِل",
   "en": "As Sahil Road",
   "meaning": {
-    "ar": "«السَّاحِل»: ساحل",
-    "en": "As Sahil: coast"
+    "ar": "«السَّاحِل» جانبُ البحر؛ والاسم من هذا اللفظ.",
+    "en": "«As Sahil» is the coast of the sea."
   },
   "story": {
     "ar": "«السَّاحِل» ساحل، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والطريق في الشِّنَايِن من إمارة أبوظبي.",
@@ -110995,8 +110995,8 @@ window.STREETS = [
   "ar": "طريق الطَّف",
   "en": "At Taf Road",
   "meaning": {
-    "ar": "«الطَّف»: طَّف",
-    "en": "At Taf: a low mound, a bank"
+    "ar": "«الطَّف» التلُّ الصغير والضفةُ من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«At Taf» is the low mound and the bank of land."
   },
   "story": {
     "ar": "«الطَّف» طَّف، والاسم مأخوذ من هذه الكلمة. وتقع الطرق التي تحمل هذا الاسم في مُوَيلح بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -111059,8 +111059,8 @@ window.STREETS = [
   "ar": "طريق المنتزه",
   "en": "Al Muntazah Road",
   "meaning": {
-    "ar": "«المنتزه»: مُنْتَزَه",
-    "en": "Al Muntazah: park"
+    "ar": "«المُنتزَه» موضعُ التنزُّه في الطبيعة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muntazah» is where one strolls in nature."
   },
   "story": {
     "ar": "«المنتزه» مُنْتَزَه، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والطريق في الغلل، الفجيرة.",
@@ -111107,8 +111107,8 @@ window.STREETS = [
   "ar": "طريق عجمان الدائري",
   "en": "Ajman Ring Road",
   "meaning": {
-    "ar": "«عجمان الدائري»: عَجْمَان",
-    "en": "Ajman Ring: a city in the UAE"
+    "ar": "«عَجمان» اسمُ إمارةٍ وعاصمتها؛ والاسم مركّب.",
+    "en": "«Ajman» is the name of an emirate and its capital."
   },
   "story": {
     "ar": "«عجمان» عَجْمَان، و«الدائري» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الطرق الجرف في عجمان، والاسم يدل على موضع لا على كلمة.",
@@ -111123,8 +111123,8 @@ window.STREETS = [
   "ar": "طريق عجمان الدائري",
   "en": "Ajman Ring Road",
   "meaning": {
-    "ar": "«عجمان الدائري»: عَجْمَان",
-    "en": "Ajman Ring: a city in the UAE"
+    "ar": "معنى «عَجمان» عجمانُ الدولة؛ والاسم مركّب.",
+    "en": "«Ajman» means Ajman the emirate; the name is compound."
   },
   "story": {
     "ar": "«الدائري» اسم الموضع في «عجمان»؛ و«عجمان» عَجْمَان. والاسم يُنسب إلى موضع، والطريق في واسط من إمارة الشارقة.",
@@ -111171,8 +111171,8 @@ window.STREETS = [
   "ar": "طريق نِعمة",
   "en": "Ni'mah Road",
   "meaning": {
-    "ar": "«نِعمة»: نِعْمَة",
-    "en": "Ni'mah: blessing, grace, benefit"
+    "ar": "«نِعْمة» النعمةُ والفضل؛ والاسم من هذا اللفظ.",
+    "en": "«Ni'mah» is the blessing and the grace."
   },
   "story": {
     "ar": "الاسم «نِعمة» نِعْمَة، وليس مركّباً. والطريق في نِعْمة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -111203,8 +111203,8 @@ window.STREETS = [
   "ar": "ممر الصَّقر",
   "en": "Al Saqr Lane",
   "meaning": {
-    "ar": "«ممر الصَّقر»: صَقْر",
-    "en": "Al Saqr Lane: falcon"
+    "ar": "«الصَّقر» الصقرُ من الطير؛ والاسم من هذا اللفظ.",
+    "en": "«As Saqr» is the falcon among birds."
   },
   "story": {
     "ar": "«ممر» صَقْر، و«الصَّقر» اسم يخصّ الموضع لا كلمة تُفسَّر. والموضع في البَاهية من إمارة أبوظبي.",
@@ -111315,8 +111315,8 @@ window.STREETS = [
   "ar": "جادة جزيرة المرجان",
   "en": "Marjan Island Boulevard",
   "meaning": {
-    "ar": "«جادة جزيرة المرجان»: جزيرة",
-    "en": "Marjan Island Boulevard: island"
+    "ar": "«المَرجان» مرجانُ البحر؛ والاسم مركّب.",
+    "en": "«Al Marjan» is the coral of the sea."
   },
   "story": {
     "ar": "«جادة» جَزِيرَة، و«جزيرة المرجان» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الموضع في جزيرة المرجان، والاسم من أسماء المواضع التي تعرفها رأس الخيمة.",
@@ -111395,8 +111395,8 @@ window.STREETS = [
   "ar": "شارع أخّاذ",
   "en": "Akkhadh Street",
   "meaning": {
-    "ar": "«أخّاذ»: أخّاذ",
-    "en": "Akkhadh: captivating"
+    "ar": "«الأخَّاذ» من أخذَ يَأْخُذُ؛ والاسم من هذا اللفظ.",
+    "en": "«Al Akkhadh» comes from the root of taking."
   },
   "story": {
     "ar": "«أخّاذ» أخّاذ، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في عَشَارِج.",
@@ -111427,8 +111427,8 @@ window.STREETS = [
   "ar": "شارع أذَن",
   "en": "Athan Street",
   "meaning": {
-    "ar": "«أذَن»: أذَن",
-    "en": "Athan: ear"
+    "ar": "«الأذَن» الأذنُ المعروفة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Adhan» is the ear, well known."
   },
   "story": {
     "ar": "«أذَن» أذَن، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -111459,8 +111459,8 @@ window.STREETS = [
   "ar": "شارع أرجواني",
   "en": "Lilac Street",
   "meaning": {
-    "ar": "«أرجواني»: أرجواني",
-    "en": "Lilac: redbud-related"
+    "ar": "«الأرجواني» نسبةٌ إلى الأرجوان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Arjuwani» relates to the colour purple."
   },
   "story": {
     "ar": "«أرجواني» أرجواني، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الحدائق بإمارة دبي، والاسم من أسماء المواضع.",
@@ -111523,8 +111523,8 @@ window.STREETS = [
   "ar": "شارع أسْوَان",
   "en": "Aswan Street",
   "meaning": {
-    "ar": "«أسْوَان»: أسْوَان",
-    "en": "Aswan: grieving, mourning"
+    "ar": "«أسوان» من «الأسى»؛ والاسم من هذا اللفظ.",
+    "en": "«Aswan» comes from the word for grief."
   },
   "story": {
     "ar": "«أسْوَان» أسْوَان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في غْنَيْمَة، أبوظبي.",
@@ -111539,8 +111539,8 @@ window.STREETS = [
   "ar": "شارع أَطْلَس",
   "en": "Atlas Street",
   "meaning": {
-    "ar": "«أَطْلَس»: أَطْلَس",
-    "en": "Atlas Street: satin"
+    "ar": "«الأطلس» الأطلسُ من الثياب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Atlas» is the satin among cloths."
   },
   "story": {
     "ar": "«أَطْلَس» أَطْلَس، والاسم هو الكلمة نفسها. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الجَاهلِي.",
@@ -111619,8 +111619,8 @@ window.STREETS = [
   "ar": "شارع أيُّوب السِّختِيانِي",
   "en": "Ayoub As Sikhtiyani Street",
   "meaning": {
-    "ar": "«أيُّوب السِّختِيانِي»: أيُّوب",
-    "en": "Ayoub As Sikhtiyani: Job (prophet)"
+    "ar": "«أيُّوب» اسمٌ مألوف؛ والاسم مركّب.",
+    "en": "«Ayyub» is a familiar name; the name is compound."
   },
   "story": {
     "ar": "«أيُّوب» أيُّوب، و«السِّختِيانِي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في مدينة شخبوط، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -111667,8 +111667,8 @@ window.STREETS = [
   "ar": "شارع اثراء",
   "en": "Ithra Street",
   "meaning": {
-    "ar": "«اثراء»: اثراء",
-    "en": "Ithra: enrichment"
+    "ar": "«إثراء» زيادةُ الشيء وتنميته؛ والاسم من هذا اللفظ.",
+    "en": "«Ithra'» is the enriching and growing of a thing."
   },
   "story": {
     "ar": "«اثراء» اثراء، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في كورنيش ديرة، دبي.",
@@ -111699,8 +111699,8 @@ window.STREETS = [
   "ar": "شارع الآبَار",
   "en": "Al Abar Street",
   "meaning": {
-    "ar": "«الآبَار»: آبَار",
-    "en": "Al Abar: lead, Pb"
+    "ar": "«الآبار» جمع «بئر»، وهي الآبار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Abar» is the plural of bi'r — wells."
   },
   "story": {
     "ar": "«الآبَار» آبَار، والاسم مأخوذ من هذه الكلمة. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -111715,8 +111715,8 @@ window.STREETS = [
   "ar": "شارع الآرَام",
   "en": "Al Aram Street",
   "meaning": {
-    "ar": "«الآرَام»: آرَام",
-    "en": "Al Aram: Aram"
+    "ar": "«الآرام» اسمٌ لا يُفسَّر في المعاجم.",
+    "en": "«Al Aram» is not explained in the lexicons."
   },
   "story": {
     "ar": "«الآرَام» آرَام، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم غَافة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -111731,8 +111731,8 @@ window.STREETS = [
   "ar": "شارع الآفاق",
   "en": "Al Afaq Street",
   "meaning": {
-    "ar": "«الآفاق»: آفاق",
-    "en": "Al Afaq: horizons"
+    "ar": "«الآفاق» جمع «أُفُق»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Afaq» is the plural of ufq — horizons."
   },
   "story": {
     "ar": "«الآفاق» آفاق، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الجيمي من إمارة أبوظبي.",
@@ -111747,8 +111747,8 @@ window.STREETS = [
   "ar": "شارع الأبجر",
   "en": "Al Abjar Street",
   "meaning": {
-    "ar": "«الأبجر»: أبجر",
-    "en": "Al Abjar: potbellied"
+    "ar": "«الأبجَر» عريضُ البطن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Abjar» is the potbellied one."
   },
   "story": {
     "ar": "«الأبجر» أبجر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في آل نَهيان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -111763,8 +111763,8 @@ window.STREETS = [
   "ar": "شارع الأبطال",
   "en": "Al Abtal Street",
   "meaning": {
-    "ar": "«الأبطال»: أبطال",
-    "en": "Al Abtal: nullification"
+    "ar": "«الأبطال» جمع «بَطَل»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Abtal» is the plural of batal."
   },
   "story": {
     "ar": "«الأبطال» أبطال، والاسم مأخوذ من هذه الكلمة. وهو الشارع في السِّلَع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -111779,8 +111779,8 @@ window.STREETS = [
   "ar": "شارع الأبْنوس",
   "en": "Al Abnous Street",
   "meaning": {
-    "ar": "«الأبْنوس»: أبْنوس",
-    "en": "Al Abnous: ebony"
+    "ar": "«الأبْنوس» شجرةُ الأبنوس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Abnus» is the ebony tree."
   },
   "story": {
     "ar": "«الأبْنوس» أبْنوس، والاسم مأخوذ من هذه الكلمة. والشارع في الجيمي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -111811,8 +111811,8 @@ window.STREETS = [
   "ar": "شارع الأبيض",
   "en": "Al Abyad Street",
   "meaning": {
-    "ar": "«الأبيض»: أبيض",
-    "en": "Al Abyad: white"
+    "ar": "«الأبيض» الأبيضُ من الألوان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Abyad» is white among colours."
   },
   "story": {
     "ar": "«الأبيض» أبيض، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في نِعْمة، أبوظبي.",
@@ -111827,8 +111827,8 @@ window.STREETS = [
   "ar": "شارع الأثر",
   "en": "Al Athr Street",
   "meaning": {
-    "ar": "«الأثر»: أثر",
-    "en": "Al Athr: trace, vestige"
+    "ar": "«الأثر» الأثرُ الباقٍ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Athar» is the trace left by a thing."
   },
   "story": {
     "ar": "«الأثر» أثر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -111843,8 +111843,8 @@ window.STREETS = [
   "ar": "شارع الأثَل",
   "en": "Al Athal Street",
   "meaning": {
-    "ar": "«الأثَل»: أثَل",
-    "en": "Al Athal: tamarisk"
+    "ar": "«الأثَل» شجرةُ الأثل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Athal» is the tamarisk tree."
   },
   "story": {
     "ar": "«الأثَل» أثَل، والاسم مأخوذ من هذه الكلمة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -111859,8 +111859,8 @@ window.STREETS = [
   "ar": "شارع الأجمَل",
   "en": "Al Ajmal Street",
   "meaning": {
-    "ar": "«الأجمَل»: أجمَل",
-    "en": "Al Ajmal: more beautiful"
+    "ar": "«الأجمَل» من «جَمُلَ يَجْمُلُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ajmal» comes from the root jamula."
   },
   "story": {
     "ar": "«الأجمَل» أجمَل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الطِّوَيَّة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -111875,8 +111875,8 @@ window.STREETS = [
   "ar": "شارع الأحداث",
   "en": "Al Ahdath Street",
   "meaning": {
-    "ar": "«الأحداث»: أحداث",
-    "en": "Al Ahdath: producing a new thing"
+    "ar": "«الأحداث» جمع «حَدَث»، وهي الحوادث؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ahdath» is the plural of hadath — events."
   },
   "story": {
     "ar": "«الأحداث» أحداث، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الجيمي من إمارة أبوظبي.",
@@ -111907,8 +111907,8 @@ window.STREETS = [
   "ar": "شارع الأُخدود",
   "en": "Al Ukhdoud Street",
   "meaning": {
-    "ar": "«الأُخدود»: أُخدود",
-    "en": "Al Ukhdoud: trench, ditch"
+    "ar": "«الأُخدود» الحفرةُ الطويلة في الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ukhdud» is the long trench in the ground."
   },
   "story": {
     "ar": "«الأُخدود» أُخدود، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الفقع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -111923,8 +111923,8 @@ window.STREETS = [
   "ar": "شارع الأخلاق",
   "en": "Al Akhlaq Street",
   "meaning": {
-    "ar": "«الأخلاق»: أخلاق",
-    "en": "Al Akhlaq: morals, ethics"
+    "ar": "«الأخلاق» جمع «خُلُق»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Akhlaq» is the plural of khuluq — morals."
   },
   "story": {
     "ar": "«الأخلاق» أخلاق، والاسم مأخوذ من هذه الكلمة. والشارع في السَّمْحة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -111939,8 +111939,8 @@ window.STREETS = [
   "ar": "شارع الأخوَّة",
   "en": "Al Ukhuwwah Street",
   "meaning": {
-    "ar": "«الأخوَّة»: أخوَّة",
-    "en": "Al Ukhuwwah: brotherhood, fraternity"
+    "ar": "«الأخوَّة» أخوةُ الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ukhuwwah» is the brotherhood of people."
   },
   "story": {
     "ar": "«الأخوَّة» أخوَّة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة شخبوط بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -111955,8 +111955,8 @@ window.STREETS = [
   "ar": "شارع الأَدْعَج",
   "en": "Al Ad'aj Street",
   "meaning": {
-    "ar": "«الأَدْعَج»: أَدْعَج",
-    "en": "Al Ad'aj: black-eyed"
+    "ar": "«الأَدْعَج» ذو العين السوداء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ad'aj» is the black-eyed one."
   },
   "story": {
     "ar": "«الأَدْعَج» أَدْعَج، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -111971,8 +111971,8 @@ window.STREETS = [
   "ar": "شارع الأَدِيب",
   "en": "Al Adeeb Street",
   "meaning": {
-    "ar": "«الأَدِيب»: أَدِيب",
-    "en": "Al Adeeb: writer, author, novelist"
+    "ar": "«الأَدِيب» صاحبُ الأدب والكتابة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Adib» is the writer and man of letters."
   },
   "story": {
     "ar": "«الأَدِيب» أَدِيب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَقَام.",
@@ -111987,8 +111987,8 @@ window.STREETS = [
   "ar": "شارع الأراك",
   "en": "Al Arak Street",
   "meaning": {
-    "ar": "«الأراك»: أراك",
-    "en": "Al Arak: toothbrush tree"
+    "ar": "«الأراك» شجرةُ الأراك؛ والاسم من هذا اللفظ.",
+    "en": "«Al Arak» is the toothbrush tree."
   },
   "story": {
     "ar": "«الأراك» أراك، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الجيمي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -112003,8 +112003,8 @@ window.STREETS = [
   "ar": "شارع الأُرْجُوَان",
   "en": "Al Urjuwan Street",
   "meaning": {
-    "ar": "«الأُرْجُوَان»: أُرْجُوَان",
-    "en": "Al Urjuwan: amethyst"
+    "ar": "«الأُرْجُوَان» الأرجوانُ من الجواهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Urjuwan» is the amethyst among gems."
   },
   "story": {
     "ar": "«الأُرْجُوَان» أُرْجُوَان، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المَقَام في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -112019,8 +112019,8 @@ window.STREETS = [
   "ar": "شارع الأرخَبِيل",
   "en": "Al Arkhabeel Street",
   "meaning": {
-    "ar": "«الأرخَبِيل»: أرخَبِيل",
-    "en": "Al Arkhabeel: archipelago"
+    "ar": "«الأرخَبِيل» جزرٌ متجاورةٌ في البحر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Arkhabil» is an archipelago of islands."
   },
   "story": {
     "ar": "«الأرخَبِيل» أرخَبِيل، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في بني ياس من إمارة أبوظبي.",
@@ -112067,8 +112067,8 @@ window.STREETS = [
   "ar": "شارع الأَرِيج",
   "en": "Al Areej Street",
   "meaning": {
-    "ar": "«الأَرِيج»: أَرِيج",
-    "en": "Al Areej: fragrance"
+    "ar": "«الأَرِيج» أريجُ الطيب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Areej» is the fragrance of perfume."
   },
   "story": {
     "ar": "«الأَرِيج» أَرِيج، والاسم مأخوذ من هذه الكلمة. والشارع في الصَّدر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -112083,8 +112083,8 @@ window.STREETS = [
   "ar": "شارع الأزهر",
   "en": "Al Azhar Road",
   "meaning": {
-    "ar": "«الأزهر»: أزهر",
-    "en": "Al Azhar: more shining"
+    "ar": "«الأزهر» المونقُ من الزهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Azhar» is the blooming one among flowers."
   },
   "story": {
     "ar": "«الأزهر» أزهر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الطريق في اﻹتحاد بإمارة الفجيرة، وليس كلمة تُفسَّر.",
@@ -112099,8 +112099,8 @@ window.STREETS = [
   "ar": "شارع الأَسَاطير",
   "en": "Al Asateer Street",
   "meaning": {
-    "ar": "«الأَسَاطير»: أَسَاطِير",
-    "en": "Al Asateer: myths, legends"
+    "ar": "«الأَسَاطير» جمع «أسطورة»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Asatir» is the plural of usturah — legends."
   },
   "story": {
     "ar": "«الأَسَاطير» أَسَاطِير، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المرْفَأ، أبوظبي.",
@@ -112131,8 +112131,8 @@ window.STREETS = [
   "ar": "شارع الأسطُرلاب",
   "en": "Al Astorlab Street",
   "meaning": {
-    "ar": "«الأسطُرلاب»: أسطُرلاب",
-    "en": "Al Astorlab: astrolabe"
+    "ar": "«الأسطُرلاب» آلةٌ معروفة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Asturlab» is the astrolabe, a known instrument."
   },
   "story": {
     "ar": "«الأسطُرلاب» أسطُرلاب، والاسم مأخوذ من هذه الكلمة. والشارع يقع في بني ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -112147,8 +112147,8 @@ window.STREETS = [
   "ar": "شارع الأسْعَد",
   "en": "Al As'ad Street",
   "meaning": {
-    "ar": "«الأسْعَد»: أسْعَد",
-    "en": "Al As'ad: happier; happiest"
+    "ar": "«الأسْعَد» من «سَعُدَ يَسْعُدُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al As'ad» comes from the root sa'uda."
   },
   "story": {
     "ar": "«الأسْعَد» أسْعَد، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم غَافة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -112195,8 +112195,8 @@ window.STREETS = [
   "ar": "شارع الأسواق",
   "en": "Al Aswaq Street",
   "meaning": {
-    "ar": "«الأسواق»: أسواق",
-    "en": "Al Aswaq: markets"
+    "ar": "«الأسواق» جمع «سُوق»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Aswaq» is the plural of suq — markets."
   },
   "story": {
     "ar": "«الأسواق» أسواق، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الجيمي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -112211,8 +112211,8 @@ window.STREETS = [
   "ar": "شارع الأشعار",
   "en": "Al Ash'ar Street",
   "meaning": {
-    "ar": "«الأشعار»: أشعار",
-    "en": "Al Ash'ar: making known"
+    "ar": "«الأشعار» جمع «إشعار»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ash'ar» is the plural of ish'ar — notices."
   },
   "story": {
     "ar": "«الأشعار» أشعار، والاسم مأخوذ من هذه الكلمة. والشارع في المَسْعُودِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -112227,8 +112227,8 @@ window.STREETS = [
   "ar": "شارع الأشعل",
   "en": "Al Ash'al Street",
   "meaning": {
-    "ar": "«الأشعل»: أَشْعَل",
-    "en": "Al Ash'al: tawny"
+    "ar": "«الأشعل» من لونِ الكُمّأة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ash'al» is the tawny shade among colours."
   },
   "story": {
     "ar": "«الأشعل» أَشْعَل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في القَطَّارَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -112243,8 +112243,8 @@ window.STREETS = [
   "ar": "شارع الأَشْقَر",
   "en": "Al Ashqar Street",
   "meaning": {
-    "ar": "«الأَشْقَر»: أَشْقَر",
-    "en": "Al Ashqar: yellowish; fair, blond"
+    "ar": "«الأَشْقَر» الأصفرُ المائل إلى الحمرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ashqar» is the yellow tending to red."
   },
   "story": {
     "ar": "«الأَشْقَر» أَشْقَر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المُعْتَرِض، أبوظبي.",
@@ -112259,8 +112259,8 @@ window.STREETS = [
   "ar": "شارع الأشكال",
   "en": "Al Ashkal Street",
   "meaning": {
-    "ar": "«الأشكال»: أشكال",
-    "en": "Al Ashkal: doubtfulness"
+    "ar": "«الأشكال» جمع «شَكْل»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ashkal» is the plural of shakl — forms."
   },
   "story": {
     "ar": "«الأشكال» أشكال، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -112307,8 +112307,8 @@ window.STREETS = [
   "ar": "شارع الأصفَران",
   "en": "Al Asfaran Street",
   "meaning": {
-    "ar": "«الأصفَران»: أصفَران",
-    "en": "Al Asfaran: yellow"
+    "ar": "«الأصفَران» نسبةٌ إلى الصفرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Asfaran» relates to the colour yellow."
   },
   "story": {
     "ar": "«الأصفَران» أصفَران، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة شخبوط من إمارة أبوظبي.",
@@ -112323,8 +112323,8 @@ window.STREETS = [
   "ar": "شارع الأصل",
   "en": "Al Asal Street",
   "meaning": {
-    "ar": "«الأصل»: أصل",
-    "en": "Al Asal: ground"
+    "ar": "«الأصل» أصلُ الشيء وبدايتُه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Asl» is the origin and beginning of a thing."
   },
   "story": {
     "ar": "«الأصل» أصل، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الجيمي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -112339,8 +112339,8 @@ window.STREETS = [
   "ar": "شارع الأصلح",
   "en": "Al Aslah Street",
   "meaning": {
-    "ar": "«الأصلح»: أصلح",
-    "en": "Al Aslah: more correct"
+    "ar": "«الأصلح» من «صَلُحَ يَصْلُحُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Aslah» comes from the root saluha."
   },
   "story": {
     "ar": "«الأصلح» أصلح، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشهامة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -112355,8 +112355,8 @@ window.STREETS = [
   "ar": "شارع الأضواء",
   "en": "Al Adwa-a Street",
   "meaning": {
-    "ar": "«الأضواء»: أضواء",
-    "en": "Al Adwa-a: lights"
+    "ar": "«الأضواء» جمع «ضَوْء»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Adwa'» is the plural of daw' — lights."
   },
   "story": {
     "ar": "«الأضواء» أضواء، والاسم مأخوذ من هذه الكلمة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -112435,8 +112435,8 @@ window.STREETS = [
   "ar": "شارع الأغَر",
   "en": "Al Aghar Street",
   "meaning": {
-    "ar": "«الأغَر»: أغَر",
-    "en": "Al Aghar: honorable"
+    "ar": "«الأغَر» الأبيضُ الجبين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Aghar» is the white-browed one."
   },
   "story": {
     "ar": "«الأغَر» أغَر، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع غِيَّاثِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -112467,8 +112467,8 @@ window.STREETS = [
   "ar": "شارع الأُفُق",
   "en": "Al Ufuq Street",
   "meaning": {
-    "ar": "«الأُفُق»: أُفُق",
-    "en": "Al Ufuq: horizon"
+    "ar": "«الأُفُق» أُفُقُ السماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ufuq» is the horizon of the sky."
   },
   "story": {
     "ar": "«الأُفُق» أُفُق، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الوَثْبَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -112499,8 +112499,8 @@ window.STREETS = [
   "ar": "شارع الأقحُوان",
   "en": "Al Uqhuwan Street",
   "meaning": {
-    "ar": "«الأقحُوان»: أَقْحُوَان",
-    "en": "Al Uqhuwan: the camomile"
+    "ar": "«الأقحُوان» زهرةُ الأقحوان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ukhwan» is the anemone flower."
   },
   "story": {
     "ar": "«الأقحُوان» أَقْحُوَان، والاسم مأخوذ من هذه الكلمة. والشارع في الخِرَيْر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -112515,8 +112515,8 @@ window.STREETS = [
   "ar": "شارع الأَكْحَل",
   "en": "Al Ak-hal Street",
   "meaning": {
-    "ar": "«الأَكْحَل»: أَكْحَل",
-    "en": "Al Ak-hal: black"
+    "ar": "«الأَكْحَل» ذو الكُحْل في عينيه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Akhal» is the kohl-eyed one."
   },
   "story": {
     "ar": "«الأَكْحَل» أَكْحَل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في طَرِيف بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -112579,8 +112579,8 @@ window.STREETS = [
   "ar": "شارع الألفة",
   "en": "Al Ulfah Street",
   "meaning": {
-    "ar": "«الألفة»: ألفة",
-    "en": "Al Ulfah: familiarity"
+    "ar": "«الألفة» الألفةُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ulfah» is the familiarity between people."
   },
   "story": {
     "ar": "«الألفة» ألفة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع البَاهية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -112595,8 +112595,8 @@ window.STREETS = [
   "ar": "شارع الألماس",
   "en": "Al Almas Street",
   "meaning": {
-    "ar": "«الألماس»: ألماس",
-    "en": "Al Almas: diamond"
+    "ar": "«الألْماس» الألماسُ من الجواهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Almas» is the diamond among gems."
   },
   "story": {
     "ar": "«الألماس» ألماس، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في غِيَّاثِي من إمارة أبوظبي.",
@@ -112627,8 +112627,8 @@ window.STREETS = [
   "ar": "شارع الأمان",
   "en": "Al Aman Street",
   "meaning": {
-    "ar": "«الأمان»: أمان",
-    "en": "Al Aman: security"
+    "ar": "«الأمان» الأمنُ من الخوف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Aman» is safety from fear."
   },
   "story": {
     "ar": "«الأمان» أمان، والاسم مأخوذ من هذه الكلمة. وهو الشارع في السَّعادة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -112643,8 +112643,8 @@ window.STREETS = [
   "ar": "شارع الأمانة",
   "en": "Al Amanah Street",
   "meaning": {
-    "ar": "«الأمانة»: أمانة",
-    "en": "Al Amanah: trust"
+    "ar": "«الأمانة» حفظُ المنقول؛ والاسم من هذا اللفظ.",
+    "en": "«Al Amanah» is keeping what is entrusted."
   },
   "story": {
     "ar": "«الأمانة» أمانة، والاسم مأخوذ من هذه الكلمة. والشارع في المَقَام، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -112659,8 +112659,8 @@ window.STREETS = [
   "ar": "شارع الأمة",
   "en": "Al Ummah Street",
   "meaning": {
-    "ar": "«الأمة»: أمة",
-    "en": "Al Ummah: slave-girl"
+    "ar": "«الأمة» الأمةُ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ummah» is the community of people."
   },
   "story": {
     "ar": "«الأمة» أمة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الشهامة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -112691,8 +112691,8 @@ window.STREETS = [
   "ar": "شارع الأمطار",
   "en": "Al Amtar Street",
   "meaning": {
-    "ar": "«الأمطار»: أمطار",
-    "en": "Al Amtar: rains"
+    "ar": "«الأمطار» جمع «مَطَر»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Amtar» is the plural of matar — rains."
   },
   "story": {
     "ar": "«الأمطار» أمطار، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الدَّانَةْ.",
@@ -112707,8 +112707,8 @@ window.STREETS = [
   "ar": "شارع الأَمَل",
   "en": "Al Amal Street",
   "meaning": {
-    "ar": "«الأَمَل»: أَمَل",
-    "en": "Al Amal: hope, expectation"
+    "ar": "«الأَمَل» الشأنُ والأمرُ؛ والاسم من هذا اللفظ.",
+    "en": "«Al Amal» is the affair and the matter."
   },
   "story": {
     "ar": "«الأَمَل» أَمَل، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المَقَام من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -112723,8 +112723,8 @@ window.STREETS = [
   "ar": "شارع الأمم",
   "en": "Al Umam Street",
   "meaning": {
-    "ar": "«الأمم»: أمم",
-    "en": "Al Umam: United Nations"
+    "ar": "«الأمَم» جمع «أُمَّة»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Umam» is the plural of ummah — nations."
   },
   "story": {
     "ar": "«الأمم» أمم، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الطِّوَيَّة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -112739,8 +112739,8 @@ window.STREETS = [
   "ar": "شارع الأمنية",
   "en": "Al Umniyah Street",
   "meaning": {
-    "ar": "«الأمنية»: أمنية",
-    "en": "Al Umniyah: wish, desire, hope"
+    "ar": "«الأمنية» الرغبةُ فيما يُرجى؛ والاسم من هذا اللفظ.",
+    "en": "«Al Amniyah» is the wish for what is hoped."
   },
   "story": {
     "ar": "«الأمنية» أمنية، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة زايد من إمارة أبوظبي.",
@@ -112755,8 +112755,8 @@ window.STREETS = [
   "ar": "شارع الأمِير",
   "en": "Al Ameer Street",
   "meaning": {
-    "ar": "«الأمِير»: أمِير",
-    "en": "Al Ameer: prince"
+    "ar": "«الأمير» الأميرُ من الولاة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Amir» is the prince among rulers."
   },
   "story": {
     "ar": "«الأمِير» أمِير، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة شخبوط بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -112771,8 +112771,8 @@ window.STREETS = [
   "ar": "شارع الأناة",
   "en": "Al Anah Street",
   "meaning": {
-    "ar": "«الأناة»: أناة",
-    "en": "Al Anah: patience"
+    "ar": "«الأناة» التمهُّلُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Anah» is the patience in a matter."
   },
   "story": {
     "ar": "«الأناة» أناة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الخِبِيصِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -112787,8 +112787,8 @@ window.STREETS = [
   "ar": "شارع الأَنَاقة",
   "en": "Al Anaqah Street",
   "meaning": {
-    "ar": "«الأَنَاقة»: أَنَاقة",
-    "en": "Al Anaqah: elegance, grace"
+    "ar": "«الأنَاقة» الحُسنُ في اللباس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Anaqah» is grace in dress."
   },
   "story": {
     "ar": "«الأَنَاقة» أَنَاقة، والاسم مأخوذ من هذه الكلمة. والشارع في أم غَافة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -112819,8 +112819,8 @@ window.STREETS = [
   "ar": "شارع الأندلسي",
   "en": "Al Andalousi Street",
   "meaning": {
-    "ar": "«الأندلسي»: أندلسي",
-    "en": "Al Andalousi: Andalusian"
+    "ar": "«الأندلسي» المنسوبُ إلى الأندلس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Andalusi» is the adjective of Andalusia."
   },
   "story": {
     "ar": "«الأندلسي» أندلسي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في وسط المدينة، أبوظبي.",
@@ -112835,8 +112835,8 @@ window.STREETS = [
   "ar": "شارع الأنَس",
   "en": "Al Anas Street",
   "meaning": {
-    "ar": "«الأنَس»: أنَس",
-    "en": "Al Anas: comforting, solace"
+    "ar": "«الأنَس» الأنسُ بخلاف الوحشة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Anas» is company, the opposite of solitude."
   },
   "story": {
     "ar": "«الأنَس» أنَس، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في النَّهضة.",
@@ -112867,8 +112867,8 @@ window.STREETS = [
   "ar": "شارع الأنِيق",
   "en": "Al Aneeq Street",
   "meaning": {
-    "ar": "«الأنِيق»: أنِيق",
-    "en": "Al Aneeq: stylish"
+    "ar": "«الأنِيق» الحسنُ الترتيب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Aniq» is the well-ordered one."
   },
   "story": {
     "ar": "«الأنِيق» أنِيق، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المَرْخَانِيَّة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -112883,8 +112883,8 @@ window.STREETS = [
   "ar": "شارع الأوائِل",
   "en": "Al Awa-il Street",
   "meaning": {
-    "ar": "«الأوائِل»: أوائِل",
-    "en": "Al Awa-il: the first part"
+    "ar": "«الأوائِل» جمع «أوّل»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Awa'il» is the plural of awwal — the firsts."
   },
   "story": {
     "ar": "«الأوائِل» أوائِل، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في ربدان من إمارة أبوظبي.",
@@ -112899,8 +112899,8 @@ window.STREETS = [
   "ar": "شارع الأوسط",
   "en": "Al Awsat Street",
   "meaning": {
-    "ar": "«الأوسط»: أوسط",
-    "en": "Al Awsat: middle, central"
+    "ar": "«الأوسط» الأوسطُ بين شيئين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Awsat» is the middle between two things."
   },
   "story": {
     "ar": "«الأوسط» أوسط، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في عَشَارِج بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -112915,8 +112915,8 @@ window.STREETS = [
   "ar": "شارع الأول",
   "en": "Forat",
   "meaning": {
-    "ar": "«الأول»: أول",
-    "en": "Forat: first"
+    "ar": "«الأوّل» السابقُ في كل شيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Awwal» is the one ahead of all."
   },
   "story": {
     "ar": "«الأول» أول، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الثنية 3، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -112931,8 +112931,8 @@ window.STREETS = [
   "ar": "شارع الأيام",
   "en": "Al Ayyam Street",
   "meaning": {
-    "ar": "«الأيام»: أَيَّام",
-    "en": "Al Ayyam: days"
+    "ar": "«الأيام» جمع «يَوْم»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ayyam» is the plural of yawm — days."
   },
   "story": {
     "ar": "«الأيام» أَيَّام، والاسم مأخوذ من هذه الكلمة. والشارع في المَقَام، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -112947,8 +112947,8 @@ window.STREETS = [
   "ar": "شارع الأيك",
   "en": "Al Ayk Street",
   "meaning": {
-    "ar": "«الأيك»: أيك",
-    "en": "Al Ayk: thicket, jungle"
+    "ar": "«الأيك» الأجمةُ من الشجر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ayk» is the thicket of trees."
   },
   "story": {
     "ar": "«الأيك» أيك، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -112963,8 +112963,8 @@ window.STREETS = [
   "ar": "شارع الإبريز",
   "en": "Al Ibreez Street",
   "meaning": {
-    "ar": "«الإبريز»: إبريز",
-    "en": "Al Ibreez: pure gold"
+    "ar": "«الإبريز» الذهبُ الخالص؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ibriz» is pure gold."
   },
   "story": {
     "ar": "«الإبريز» إبريز، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الجيمي، أبوظبي.",
@@ -112979,8 +112979,8 @@ window.STREETS = [
   "ar": "شارع الإِبريق",
   "en": "Al Ibreeq Street",
   "meaning": {
-    "ar": "«الإِبريق»: إِبريق",
-    "en": "Al Ibreeq: pitcher, jug"
+    "ar": "«الإِبريق» الإبريقُ من الآنية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ibriq» is the pitcher among vessels."
   },
   "story": {
     "ar": "«الإِبريق» إِبريق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الراحة.",
@@ -112995,8 +112995,8 @@ window.STREETS = [
   "ar": "شارع الإثمِد",
   "en": "Al Ithmid Street",
   "meaning": {
-    "ar": "«الإثمِد»: إثمِد",
-    "en": "Al Ithmid: antimony"
+    "ar": "«الإثمِد» الإثمِدُ من المعادن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ithmid» is antimony among minerals."
   },
   "story": {
     "ar": "«الإثمِد» إثمِد، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الفُوعَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -113011,8 +113011,8 @@ window.STREETS = [
   "ar": "شارع الإِحْساس",
   "en": "Al Ihsas Street",
   "meaning": {
-    "ar": "«الإِحْساس»: إِحْساس",
-    "en": "Al Ihsas: feeling, sensation, emotion"
+    "ar": "«الإِحْساس» الشعورُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ihsas» is the feeling of a thing."
   },
   "story": {
     "ar": "«الإِحْساس» إِحْساس، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع السِّلَع في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -113027,8 +113027,8 @@ window.STREETS = [
   "ar": "شارع الإحسان",
   "en": "Al Ihsan Street",
   "meaning": {
-    "ar": "«الإحسان»: إحسان",
-    "en": "Al Ihsan: good deed"
+    "ar": "«الإحسان» الإتقانُ في العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ihsan» is excellence in doing."
   },
   "story": {
     "ar": "«الإحسان» إحسان، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة شخبوط من إمارة أبوظبي.",
@@ -113043,8 +113043,8 @@ window.STREETS = [
   "ar": "شارع الإِخْتِيار",
   "en": "Al Ikhtiyar Street",
   "meaning": {
-    "ar": "«الإِخْتِيار»: إِخْتِيار",
-    "en": "Al Ikhtiyar: choice"
+    "ar": "«الإِخْتِيار» انتقاءُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ikhtiyar» is the choosing of a thing."
   },
   "story": {
     "ar": "«الإِخْتِيار» إِخْتِيار، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -113059,8 +113059,8 @@ window.STREETS = [
   "ar": "شارع الإخلاص",
   "en": "Al Ikhlas Street",
   "meaning": {
-    "ar": "«الإخلاص»: إخلاص",
-    "en": "Al Ikhlas: sincere devotion"
+    "ar": "«الإخلاص» الخُلُصُ في النية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ikhlas» is sincerity in intention."
   },
   "story": {
     "ar": "«الإخلاص» إخلاص، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -113075,8 +113075,8 @@ window.STREETS = [
   "ar": "شارع الإدراك",
   "en": "Al Idrak Street",
   "meaning": {
-    "ar": "«الإدراك»: إدراك",
-    "en": "Al Idrak: catching up"
+    "ar": "«الإدراك» بلوغُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Idrak» is the reaching of a thing."
   },
   "story": {
     "ar": "«الإدراك» إدراك، والاسم مأخوذ من هذه الكلمة. والشارع في الفُوعَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -113091,8 +113091,8 @@ window.STREETS = [
   "ar": "شارع الإذاعة",
   "en": "Al Eza'ah Street",
   "meaning": {
-    "ar": "«الإذاعة»: إذاعة",
-    "en": "Al Eza'ah: radio channel"
+    "ar": "«الإذاعة» الإذاعةُ بالخبر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Idha'ah» is the broadcasting of news."
   },
   "story": {
     "ar": "«الإذاعة» إذاعة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الحديثة بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -113107,8 +113107,8 @@ window.STREETS = [
   "ar": "شارع الإرَادة",
   "en": "Al Iradah Street",
   "meaning": {
-    "ar": "«الإرَادة»: إرَادة",
-    "en": "Al Iradah: will, intention, desire"
+    "ar": "«الإرادة» إرادةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iradah» is the will for a thing."
   },
   "story": {
     "ar": "«الإرَادة» إرَادة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -113139,8 +113139,8 @@ window.STREETS = [
   "ar": "شارع الإِسْتِقبال",
   "en": "Al Istiqbal Street",
   "meaning": {
-    "ar": "«الإِسْتِقبال»: إِسْتِقبال",
-    "en": "Al Istiqbal: reception"
+    "ar": "«الإِسْتِقبال» استقبالُ القادم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Istiqbal» is receiving the one who comes."
   },
   "story": {
     "ar": "«الإِسْتِقبال» إِسْتِقبال، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الجَاهلِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -113155,8 +113155,8 @@ window.STREETS = [
   "ar": "شارع الإستمرار",
   "en": "Al Istimrar Street",
   "meaning": {
-    "ar": "«الإستمرار»: إستمرار",
-    "en": "Al Istimrar: duration"
+    "ar": "«الاستمرار» المضيُّ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Istimrar» is the going on in a thing."
   },
   "story": {
     "ar": "«الإستمرار» إستمرار، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الجيمي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -113171,8 +113171,8 @@ window.STREETS = [
   "ar": "شارع الإسراء",
   "en": "Al Isra-a Street",
   "meaning": {
-    "ar": "«الإسراء»: إسراء",
-    "en": "Al Isra-a: nocturnal journey"
+    "ar": "«الإسراء» السيرُ ليلاً؛ والاسم من هذا اللفظ.",
+    "en": "«Al Isra'» is travelling by night."
   },
   "story": {
     "ar": "«الإسراء» إسراء، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -113203,8 +113203,8 @@ window.STREETS = [
   "ar": "شارع الإسناد",
   "en": "Al Isnad Street",
   "meaning": {
-    "ar": "«الإسناد»: إسناد",
-    "en": "Al Isnad: ascription"
+    "ar": "«الإسناد» إسنادُ الكلام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Isnad» is the ascription of a saying."
   },
   "story": {
     "ar": "«الإسناد» إسناد، والاسم مأخوذ من هذه الكلمة. وهو الشارع في البطين، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -113219,8 +113219,8 @@ window.STREETS = [
   "ar": "شارع الإشارة",
   "en": "Al Isharah Street",
   "meaning": {
-    "ar": "«الإشارة»: إشارة",
-    "en": "Al Isharah: sign, signal"
+    "ar": "«الإشارة» الإشارةُ باليد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Isharah» is the sign made with the hand."
   },
   "story": {
     "ar": "«الإشارة» إشارة، والاسم مأخوذ من هذه الكلمة. والشارع في الخِبِيصِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -113235,8 +113235,8 @@ window.STREETS = [
   "ar": "شارع الإشراق",
   "en": "Al Ishraq Street",
   "meaning": {
-    "ar": "«الإشراق»: إشراق",
-    "en": "Al Ishraq: shine"
+    "ar": "«الإشراق» الإشراقُ والضياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ishraq» is shining and brightness."
   },
   "story": {
     "ar": "«الإشراق» إشراق، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المُشرِف بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -113251,8 +113251,8 @@ window.STREETS = [
   "ar": "شارع الإطلاَلَة",
   "en": "Al Itlalah Street",
   "meaning": {
-    "ar": "«الإطلاَلَة»: إطلاَلَة",
-    "en": "Al Itlalah: countenance"
+    "ar": "«الإطلالة» الطلالةُ من الوجه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Itlalah» is the countenance of the face."
   },
   "story": {
     "ar": "«الإطلاَلَة» إطلاَلَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في جزيرة ياس، أبوظبي.",
@@ -113267,8 +113267,8 @@ window.STREETS = [
   "ar": "شارع الإعانة",
   "en": "Al I'anah Street",
   "meaning": {
-    "ar": "«الإعانة»: إعانة",
-    "en": "Al I'anah: aid"
+    "ar": "«الإعانة» العونُ على الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al I'anah» is help in a matter."
   },
   "story": {
     "ar": "«الإعانة» إعانة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة زايد.",
@@ -113283,8 +113283,8 @@ window.STREETS = [
   "ar": "شارع الإعتبار",
   "en": "Al I'tibar Street",
   "meaning": {
-    "ar": "«الإعتبار»: إعتبار",
-    "en": "Al I'tibar: regard, respect"
+    "ar": "«الاعتبار» الاعتبارُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al I'tibar» is taking a thing to heart."
   },
   "story": {
     "ar": "«الإعتبار» إعتبار، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المَرْخَانِيَّة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -113299,8 +113299,8 @@ window.STREETS = [
   "ar": "شارع الإعمار",
   "en": "Al I'mar Street",
   "meaning": {
-    "ar": "«الإعمار»: إعمار",
-    "en": "Al I'mar: cultivating"
+    "ar": "«الإعمار» عمرانُ المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al I'mar» is the building up of a place."
   },
   "story": {
     "ar": "«الإعمار» إعمار، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الخِبِيصِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -113315,8 +113315,8 @@ window.STREETS = [
   "ar": "شارع الإقبال",
   "en": "Al Iqbal Street",
   "meaning": {
-    "ar": "«الإقبال»: إقبال",
-    "en": "Al Iqbal: approach"
+    "ar": "«الإقبال» الاقبالُ على الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iqbal» is the turning to a thing."
   },
   "story": {
     "ar": "«الإقبال» إقبال، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في السَّمْحة من إمارة أبوظبي.",
@@ -113331,8 +113331,8 @@ window.STREETS = [
   "ar": "شارع الإقتصاد",
   "en": "Al Iqtisad Street",
   "meaning": {
-    "ar": "«الإقتصاد»: اقْتِصَاد",
-    "en": "Al Iqtisad: economy"
+    "ar": "«الاقتصاد» الاقتصادُ في الإنفاق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iqtisad» is frugality in spending."
   },
   "story": {
     "ar": "«الإقتصاد» اقْتِصَاد، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -113347,8 +113347,8 @@ window.STREETS = [
   "ar": "شارع الإِقْدام",
   "en": "Al Iqdam Street",
   "meaning": {
-    "ar": "«الإِقْدام»: إِقْدام",
-    "en": "Al Iqdam: putting forward"
+    "ar": "«الإقدام» تقديمُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iqdam» is the putting forward of a thing."
   },
   "story": {
     "ar": "«الإِقْدام» إِقْدام، والاسم مأخوذ من هذه الكلمة. وهو الشارع في أم غَافة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -113363,8 +113363,8 @@ window.STREETS = [
   "ar": "شارع الإقط",
   "en": "Al Iqt Street",
   "meaning": {
-    "ar": "«الإقط»: إِقْط",
-    "en": "Al Iqt: curd"
+    "ar": "«الإقط» الإقطُ من الألبان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iqt» is curd among dairy foods."
   },
   "story": {
     "ar": "«الإقط» إِقْط، والاسم مأخوذ من هذه الكلمة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -113379,8 +113379,8 @@ window.STREETS = [
   "ar": "شارع الإكرام",
   "en": "Al Ikram Street",
   "meaning": {
-    "ar": "«الإكرام»: إكرام",
-    "en": "Al Ikram: honoring, praise"
+    "ar": "«الإكرام» من «كَرُمَ يَكْرُمُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ikram» comes from the root karama."
   },
   "story": {
     "ar": "«الإكرام» إكرام، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -113395,8 +113395,8 @@ window.STREETS = [
   "ar": "شارع الإكلِيل",
   "en": "Al Ikleel Street",
   "meaning": {
-    "ar": "«الإكلِيل»: إكلِيل",
-    "en": "Al Ikleel: crown"
+    "ar": "«الإكليل» إكليلُ الرأس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ikilil» is the crown of the head."
   },
   "story": {
     "ar": "«الإكلِيل» إكلِيل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في البطين، أبوظبي.",
@@ -113411,8 +113411,8 @@ window.STREETS = [
   "ar": "شارع الإلهام",
   "en": "Al Ilham Street",
   "meaning": {
-    "ar": "«الإلهام»: إلهام",
-    "en": "Al Ilham: inspiration"
+    "ar": "«الإلهام» الإلهامُ بالخير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ilham» is the prompting toward good."
   },
   "story": {
     "ar": "«الإلهام» إلهام، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الطِّوَيَّة.",
@@ -113427,8 +113427,8 @@ window.STREETS = [
   "ar": "شارع الإِنْتاج",
   "en": "Al Intaj Street",
   "meaning": {
-    "ar": "«الإِنْتاج»: إِنْتاج",
-    "en": "Al Intaj: production"
+    "ar": "«الإنتاج» إنتاجُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Intaj» is the producing of a thing."
   },
   "story": {
     "ar": "«الإِنْتاج» إِنْتاج، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المحاضر الشرقية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -113443,8 +113443,8 @@ window.STREETS = [
   "ar": "شارع الإنتشار",
   "en": "Al Intishar Street",
   "meaning": {
-    "ar": "«الإنتشار»: إنتشار",
-    "en": "Al Intishar: spread, proliferation"
+    "ar": "«الانتشار» الانتشارُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Intishar» is the spreading in a place."
   },
   "story": {
     "ar": "«الإنتشار» إنتشار، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم غَافة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -113491,8 +113491,8 @@ window.STREETS = [
   "ar": "شارع الإِنْسِجَام",
   "en": "Al Insijam Street",
   "meaning": {
-    "ar": "«الإِنْسِجَام»: إِنْسِجَام",
-    "en": "Al Insijam: agreement, harmony"
+    "ar": "«الإِنْسِجَام» الانسجامُ بين الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Insijam» is the harmony between things."
   },
   "story": {
     "ar": "«الإِنْسِجَام» إِنْسِجَام، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -113507,8 +113507,8 @@ window.STREETS = [
   "ar": "شارع الإِنْشاء",
   "en": "Al Insha Street",
   "meaning": {
-    "ar": "«الإِنْشاء»: إِنْشاء",
-    "en": "Al Insha: establishment"
+    "ar": "«الإِنْشاء» إنشاءُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Insha'» is the founding of a thing."
   },
   "story": {
     "ar": "«الإِنْشاء» إِنْشاء، والاسم مأخوذ من هذه الكلمة. والشارع في العزيزة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -113523,8 +113523,8 @@ window.STREETS = [
   "ar": "شارع الإنصاف",
   "en": "Al Insaf Street",
   "meaning": {
-    "ar": "«الإنصاف»: إنصاف",
-    "en": "Al Insaf: fairness"
+    "ar": "«الإنصاف» إعطاءُ كل ذي حقٍّ حقَّه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Insaf» is giving each right its due."
   },
   "story": {
     "ar": "«الإنصاف» إنصاف، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في زاخِر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -113539,8 +113539,8 @@ window.STREETS = [
   "ar": "شارع الإِهْتِمام",
   "en": "Al Ihtimam Street",
   "meaning": {
-    "ar": "«الإِهْتِمام»: إِهْتِمام",
-    "en": "Al Ihtimam: zeal, diligence"
+    "ar": "«الإِهْتِمام» الاهتمامُ بالأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ihtimam» is the caring for a matter."
   },
   "story": {
     "ar": "«الإِهْتِمام» إِهْتِمام، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -113555,8 +113555,8 @@ window.STREETS = [
   "ar": "شارع الإيثار",
   "en": "Al Eethar Street",
   "meaning": {
-    "ar": "«الإيثار»: إيثار",
-    "en": "Al Eethar: selflessness"
+    "ar": "«الإيثار» ترجيحُ الغير على النفس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ithar» is preferring others to oneself."
   },
   "story": {
     "ar": "«الإيثار» إيثار، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في شعاب الأشخر، أبوظبي.",
@@ -113571,8 +113571,8 @@ window.STREETS = [
   "ar": "شارع الإيجابي",
   "en": "Al Ieejabi Street",
   "meaning": {
-    "ar": "«الإيجابي»: إيجابي",
-    "en": "Al Ieejabi: positive, affirmative"
+    "ar": "«الإيجابي» المائلُ إلى الإيجاب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ijabi» is the one leaning to the affirmative."
   },
   "story": {
     "ar": "«الإيجابي» إيجابي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في البَاهية.",
@@ -113587,8 +113587,8 @@ window.STREETS = [
   "ar": "شارع الإيجابية",
   "en": "Al Iejabiyyah Street",
   "meaning": {
-    "ar": "«الإيجابية»: إيجابية",
-    "en": "Al Iejabiyyah: positivity"
+    "ar": "«الإيجابية» الميلُ إلى الإيجاب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ijabiyyah» is the leaning to the affirmative."
   },
   "story": {
     "ar": "«الإيجابية» إيجابية، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُويجْعِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -113603,8 +113603,8 @@ window.STREETS = [
   "ar": "شارع الإيضاح",
   "en": "Al Idah Street",
   "meaning": {
-    "ar": "«الإيضاح»: إيضاح",
-    "en": "Al Idah: clarification"
+    "ar": "«الإيضاح» إيضاحُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Idah» is the making of a thing clear."
   },
   "story": {
     "ar": "«الإيضاح» إيضاح، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع رملة سويحان في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -113619,8 +113619,8 @@ window.STREETS = [
   "ar": "شارع الإيلاف",
   "en": "Al Eelaf Street",
   "meaning": {
-    "ar": "«الإيلاف»: إيلاف",
-    "en": "Al Eelaf: pact, covenant"
+    "ar": "«الإيلاف» العهدُ والميثاق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ilaf» is the pact and covenant."
   },
   "story": {
     "ar": "«الإيلاف» إيلاف، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في نِعْمة من إمارة أبوظبي.",
@@ -113635,8 +113635,8 @@ window.STREETS = [
   "ar": "شارع الإيمان",
   "en": "Al Eyman Street",
   "meaning": {
-    "ar": "«الإيمان»: إيمان",
-    "en": "Al Eyman: belief, faith"
+    "ar": "«الإيمان» التصديقُ بالقلب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iman» is belief in the heart."
   },
   "story": {
     "ar": "«الإيمان» إيمان، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الرقة بإمارة الشارقة، والاسم من أسماء المواضع.",
@@ -113651,8 +113651,8 @@ window.STREETS = [
   "ar": "شارع الابتسام",
   "en": "Al Ibtisam Street",
   "meaning": {
-    "ar": "«الابتسام»: ابتسام",
-    "en": "Al Ibtisam: smiling"
+    "ar": "«الابتسام» الابتسامُ بالوجه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ibtisam» is smiling with the face."
   },
   "story": {
     "ar": "«الابتسام» ابتسام، والاسم مأخوذ من هذه الكلمة. وهو الشارع في البطين، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -113667,8 +113667,8 @@ window.STREETS = [
   "ar": "شارع الابْتِسَامَة",
   "en": "Al Ibtisamah Street",
   "meaning": {
-    "ar": "«الابْتِسَامَة»: ابتسامة",
-    "en": "Al Ibtisamah: smile"
+    "ar": "«الابْتِسَامَة» الابتسامةُ على الوجه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ibtisamah» is the smile on the face."
   },
   "story": {
     "ar": "«الابْتِسَامَة» ابتسامة، والاسم مأخوذ من هذه الكلمة. والشارع في المُطَاوْعَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -113683,8 +113683,8 @@ window.STREETS = [
   "ar": "شارع الابتِهاج",
   "en": "Al Ibtihaj Street",
   "meaning": {
-    "ar": "«الابتِهاج»: ابتِهاج",
-    "en": "Al Ibtihaj: being or becoming rejoiced"
+    "ar": "«الابتِهاج» الفرحُ والابتهاج؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ibtihaj» is joy and gladness."
   },
   "story": {
     "ar": "«الابتِهاج» ابتِهاج، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في جَرْن يَافُور بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -113699,8 +113699,8 @@ window.STREETS = [
   "ar": "شارع الاجتِهاد",
   "en": "Al Ijtihad Street",
   "meaning": {
-    "ar": "«الاجتِهاد»: اجتِهاد",
-    "en": "Al Ijtihad: diligence"
+    "ar": "«الاجتِهاد» بذلُ الطاقة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ijtihad» is the giving of one's effort."
   },
   "story": {
     "ar": "«الاجتِهاد» اجتِهاد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في جزيرة ياس، أبوظبي.",
@@ -113715,8 +113715,8 @@ window.STREETS = [
   "ar": "شارع الاحترام",
   "en": "Al Ihtiram Street",
   "meaning": {
-    "ar": "«الاحترام»: احترام",
-    "en": "Al Ihtiram: respect"
+    "ar": "«الاحترام» من مادة «حَرُمَ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ihtiram» comes from the root harama."
   },
   "story": {
     "ar": "«الاحترام» احترام، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في جزيرة ياس.",
@@ -113747,8 +113747,8 @@ window.STREETS = [
   "ar": "شارع الارتقاء",
   "en": "Al Irtiqa-a Street",
   "meaning": {
-    "ar": "«الارتقاء»: ارتقاء",
-    "en": "Al Irtiqa-a: ascending up"
+    "ar": "«الارتقاء» الصعودُ إلى الأعلى؛ والاسم من هذا اللفظ.",
+    "en": "«Al Irtiqa'» is the rising to the high."
   },
   "story": {
     "ar": "«الارتقاء» ارتقاء، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع السَّلاَمَات في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -113763,8 +113763,8 @@ window.STREETS = [
   "ar": "شارع الارقان",
   "en": "Al Arqan Street",
   "meaning": {
-    "ar": "«الارقان»: ارقان",
-    "en": "Al Arqan: argan"
+    "ar": "«الارقان» شجرةُ الأرقان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Arqan» is the argan tree."
   },
   "story": {
     "ar": "«الارقان» ارقان، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في صناعية الإمارات الحديثة من إمارة أم القيوين.",
@@ -113779,8 +113779,8 @@ window.STREETS = [
   "ar": "شارع الازدِهار",
   "en": "Al Izdihar Street",
   "meaning": {
-    "ar": "«الازدِهار»: ازدِهار",
-    "en": "Al Izdihar: prosperity"
+    "ar": "«الازدِهار» ازدهارُ النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Izdihar» is the flourishing of plants."
   },
   "story": {
     "ar": "«الازدِهار» ازدِهار، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في السَّعادة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -113795,8 +113795,8 @@ window.STREETS = [
   "ar": "شارع الاستثمار",
   "en": "Al Istithmar Street",
   "meaning": {
-    "ar": "«الاستثمار»: استثمار",
-    "en": "Al Istithmar: investment"
+    "ar": "«الاستثمار» استثمارُ المال؛ والاسم من هذا اللفظ.",
+    "en": "«Al Istithmar» is the investing of money."
   },
   "story": {
     "ar": "«الاستثمار» استثمار، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الجيمي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -113811,8 +113811,8 @@ window.STREETS = [
   "ar": "شارع الاسْتِدَامَة",
   "en": "Al Istidamah Street",
   "meaning": {
-    "ar": "«الاسْتِدَامَة»: اسْتِدَامَة",
-    "en": "Al Istidamah: acting with perseverance"
+    "ar": "«الاسْتِدَامَة» الاستمرارُ على الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Istidamah» is the perseverance in a thing."
   },
   "story": {
     "ar": "«الاسْتِدَامَة» اسْتِدَامَة، والاسم مأخوذ من هذه الكلمة. والشارع في الصَّدر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -113827,8 +113827,8 @@ window.STREETS = [
   "ar": "شارع الاسْتِشْرَاف",
   "en": "Al Istishraf Street",
   "meaning": {
-    "ar": "«الاسْتِشْرَاف»: اسْتِشْرَاف",
-    "en": "Al Istishraf: futurology"
+    "ar": "«الاسْتِشْرَاف» استشرافُ المستقبل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Istishraf» is looking toward the future."
   },
   "story": {
     "ar": "«الاسْتِشْرَاف» اسْتِشْرَاف، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الوَثْبَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -113843,8 +113843,8 @@ window.STREETS = [
   "ar": "شارع الاستِقرار",
   "en": "Al Istiqrar Street",
   "meaning": {
-    "ar": "«الاستِقرار»: استِقرار",
-    "en": "Al Istiqrar: stabilization, stability"
+    "ar": "«الاستِقرار» الاستقرارُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Istiqrar» is settling in a place."
   },
   "story": {
     "ar": "«الاستِقرار» استِقرار، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المَنهَل، أبوظبي.",
@@ -113859,8 +113859,8 @@ window.STREETS = [
   "ar": "شارع الاطمِئنان",
   "en": "Al Itmi-anan Street",
   "meaning": {
-    "ar": "«الاطمِئنان»: اطمِئنان",
-    "en": "Al Itmi-anan: tranquility"
+    "ar": "«الاطمِئنان» سكونُ القلب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Itmi'nan» is the calm of the heart."
   },
   "story": {
     "ar": "«الاطمِئنان» اطمِئنان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفُوعَة.",
@@ -113875,8 +113875,8 @@ window.STREETS = [
   "ar": "شارع الاعتدال",
   "en": "Al I'tidal Street",
   "meaning": {
-    "ar": "«الاعتدال»: اعتدال",
-    "en": "Al I'tidal: moderation; mildness"
+    "ar": "«الاعتدال» الاعتدالُ في الأمور؛ والاسم من هذا اللفظ.",
+    "en": "«Al I'tidal» is moderation in affairs."
   },
   "story": {
     "ar": "«الاعتدال» اعتدال، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الوَثْبَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -113891,8 +113891,8 @@ window.STREETS = [
   "ar": "شارع الافتِخار",
   "en": "Al Iftikhar Street",
   "meaning": {
-    "ar": "«الافتِخار»: افتِخار",
-    "en": "Al Iftikhar: pride"
+    "ar": "«الافتِخار» من «فَخُرَ يَفْخُرُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iftikhar» comes from the root fakhura."
   },
   "story": {
     "ar": "«الافتِخار» افتِخار، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع العامرة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -113907,8 +113907,8 @@ window.STREETS = [
   "ar": "شارع الاقتدار",
   "en": "Al Iqtidar Street",
   "meaning": {
-    "ar": "«الاقتدار»: اقتدار",
-    "en": "Al Iqtidar: ability, capability"
+    "ar": "«الاقتدار» القدرةُ على الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iqtidar» is the ability to do a thing."
   },
   "story": {
     "ar": "«الاقتدار» اقتدار، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -113923,8 +113923,8 @@ window.STREETS = [
   "ar": "شارع الاكتشاف",
   "en": "Al Iktishaf Street",
   "meaning": {
-    "ar": "«الاكتشاف»: اكتشاف",
-    "en": "Al Iktishaf: discovery"
+    "ar": "«الاكتشاف» اكتشافُ الجديد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Iktishaf» is the discovery of the new."
   },
   "story": {
     "ar": "«الاكتشاف» اكتشاف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المَرْخَانِيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -113939,8 +113939,8 @@ window.STREETS = [
   "ar": "شارع الامتِياز",
   "en": "Al Imtiyaz Street",
   "meaning": {
-    "ar": "«الامتِياز»: امتِياز",
-    "en": "Al Imtiyaz: distinguishing, distinction"
+    "ar": "«الامتِياز» التميُّزُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Imtiyaz» is standing out by a thing."
   },
   "story": {
     "ar": "«الامتِياز» امتِياز، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -113971,8 +113971,8 @@ window.STREETS = [
   "ar": "شارع الانتفاضة",
   "en": "Al Entifada Street",
   "meaning": {
-    "ar": "«الانتفاضة»: انتفاضة",
-    "en": "Al Entifada: shaking off"
+    "ar": "«الانتفاضة» من «نَفَضَ يَنْفُضُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Intifadah» comes from the root nafada."
   },
   "story": {
     "ar": "«الانتفاضة» انتفاضة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المجاز من إمارة الشارقة، والاسم مأخوذ من موضع.",
@@ -113987,8 +113987,8 @@ window.STREETS = [
   "ar": "شارع الانتفاع",
   "en": "Al Intifa' Street",
   "meaning": {
-    "ar": "«الانتفاع»: انتفاع",
-    "en": "Al Intifa': usufruct"
+    "ar": "«الانتفاع» الانتفاعُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Intifa'» is the using of a thing."
   },
   "story": {
     "ar": "«الانتفاع» انتفاع، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الجَاهلِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -114003,8 +114003,8 @@ window.STREETS = [
   "ar": "شارع الانحياز",
   "en": "Al Inhiyaz Street",
   "meaning": {
-    "ar": "«الانحياز»: انحياز",
-    "en": "Al Inhiyaz: taking sides, favoritism"
+    "ar": "«الانحياز» الميلُ إلى جهة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Inhiyaz» is the leaning to a side."
   },
   "story": {
     "ar": "«الانحياز» انحياز، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الصَّدر من إمارة أبوظبي.",
@@ -114019,8 +114019,8 @@ window.STREETS = [
   "ar": "شارع الايناس",
   "en": "Al Ienas Street",
   "meaning": {
-    "ar": "«الايناس»: ايناس",
-    "en": "Al Ienas: cordiality, closeness"
+    "ar": "«الايناس» الألفةُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Inas» is the closeness between people."
   },
   "story": {
     "ar": "«الايناس» ايناس، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المُعْتَرِض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -114067,8 +114067,8 @@ window.STREETS = [
   "ar": "شارع البارِح",
   "en": "Al Barih Street",
   "meaning": {
-    "ar": "«البارِح»: بارِح",
-    "en": "Al Barih: yesterday"
+    "ar": "«البارِح» الأمسُ من الزمان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barih» is yesterday of time."
   },
   "story": {
     "ar": "«البارِح» بارِح، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الروضة الشرقية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -114083,8 +114083,8 @@ window.STREETS = [
   "ar": "شارع البارع",
   "en": "Al Bari' Street",
   "meaning": {
-    "ar": "«البارع»: بارع",
-    "en": "Al Bari': skillful, skilled"
+    "ar": "«البارع» من «بَرُعَ يَبْرَعُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bari'» comes from the root baru'a."
   },
   "story": {
     "ar": "«البارع» بارع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -114099,8 +114099,8 @@ window.STREETS = [
   "ar": "شارع البارُود",
   "en": "Al Baroud Street",
   "meaning": {
-    "ar": "«البارُود»: بارُود",
-    "en": "Al Baroud: saltpetre"
+    "ar": "«البارُود» البارودُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barud» is saltpetre, well known."
   },
   "story": {
     "ar": "«البارُود» بارُود، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المحاضر الشرقية.",
@@ -114115,8 +114115,8 @@ window.STREETS = [
   "ar": "شارع الباز",
   "en": "Al Baz Street",
   "meaning": {
-    "ar": "«الباز»: باز",
-    "en": "Al Baz: hawk"
+    "ar": "«الباز» البازُ من الطير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Baz» is the hawk among birds."
   },
   "story": {
     "ar": "«الباز» باز، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مردف من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -114131,8 +114131,8 @@ window.STREETS = [
   "ar": "شارع البَاسِل",
   "en": "Al Basil Street",
   "meaning": {
-    "ar": "«البَاسِل»: بَاسِل",
-    "en": "Al Basil: brave, fearless, gallant"
+    "ar": "«الباسِل» الشجاعُ في الحرب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Basil» is the brave one in battle."
   },
   "story": {
     "ar": "«البَاسِل» بَاسِل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع غْنَيْمَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -114147,8 +114147,8 @@ window.STREETS = [
   "ar": "شارع الباسِم",
   "en": "Al Basim Street",
   "meaning": {
-    "ar": "«الباسِم»: باسِم",
-    "en": "Al Basim: smiler"
+    "ar": "«الباسِم» المبتسم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Basim» is the one who smiles."
   },
   "story": {
     "ar": "«الباسِم» باسِم، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -114163,8 +114163,8 @@ window.STREETS = [
   "ar": "شارع البَاقَة",
   "en": "Al Baqah Street",
   "meaning": {
-    "ar": "«البَاقَة»: بَاقَة",
-    "en": "Al Baqah: a bunch"
+    "ar": "«البَاقَة» حزمةُ الزهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Baqah» is the bundle of flowers."
   },
   "story": {
     "ar": "«البَاقَة» بَاقَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في وسط المدينة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -114179,8 +114179,8 @@ window.STREETS = [
   "ar": "شارع الباكورة",
   "en": "Al Bakourah Street",
   "meaning": {
-    "ar": "«الباكورة»: باكورة",
-    "en": "Al Bakourah: first"
+    "ar": "«الباكورة» أوّلُ الشيء من عملٍ أو نتاج؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bakurah» is the first of one's work or produce."
   },
   "story": {
     "ar": "«الباكورة» باكورة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في ميناء زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -114227,8 +114227,8 @@ window.STREETS = [
   "ar": "شارع البترول",
   "en": "Al Pitroul Street",
   "meaning": {
-    "ar": "«البترول»: بترول",
-    "en": "Al Pitroul: petroleum, oil"
+    "ar": "«البترول» لفظةٌ دخيلة تعني النفط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Pitroul» is a borrowed word for petroleum."
   },
   "story": {
     "ar": "«البترول» بترول، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -114243,8 +114243,8 @@ window.STREETS = [
   "ar": "شارع البجادى",
   "en": "Al Bajada Street",
   "meaning": {
-    "ar": "«البجادى»: بجادى",
-    "en": "Al Bajada: garnet"
+    "ar": "«البجادى» حجرٌ كريمٌ أحمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bajada» is the red garnet stone."
   },
   "story": {
     "ar": "«البجادى» بجادى، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في أم غَافة.",
@@ -114259,8 +114259,8 @@ window.STREETS = [
   "ar": "شارع البَحَّار",
   "en": "Al Bahhar Street",
   "meaning": {
-    "ar": "«البَحَّار»: بَحَّار",
-    "en": "Al Bahhar: seaman, seafarer, sailor"
+    "ar": "«البَحَّار» البحّارُ من البحارة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bahhar» is the seaman among sailors."
   },
   "story": {
     "ar": "«البَحَّار» بَحَّار، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الحِصِن من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -114275,8 +114275,8 @@ window.STREETS = [
   "ar": "شارع البَحر",
   "en": "Al Bahr Street",
   "meaning": {
-    "ar": "«البَحر»: بَحر",
-    "en": "Al Bahr: poetic meter"
+    "ar": "«البَحر» بحرُ القصيد في علم العروض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bahr» is the poetic metre in prosody."
   },
   "story": {
     "ar": "«البَحر» بَحر، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع القُرْم في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -114291,8 +114291,8 @@ window.STREETS = [
   "ar": "شارع البَحرِي",
   "en": "Al Bahri Street",
   "meaning": {
-    "ar": "«البَحرِي»: بَحرِي",
-    "en": "Al Bahri: seaman"
+    "ar": "«البَحرِي» المنسوبُ إلى البحر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bahri» is the adjective of the sea."
   },
   "story": {
     "ar": "الاسم «البَحرِي» بَحرِي، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في الفُوعَة من إمارة أبوظبي.",
@@ -114307,8 +114307,8 @@ window.STREETS = [
   "ar": "شارع البِحْرِيَّة",
   "en": "Al Bihriyyah Street",
   "meaning": {
-    "ar": "«البِحْرِيَّة»: بِحْرِيَّة",
-    "en": "Al Bihriyyah: marine, navy"
+    "ar": "«البِحْرِيَّة» المنسوبةُ إلى البحر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bihriyyah» is what relates to the sea."
   },
   "story": {
     "ar": "«البِحْرِيَّة» بِحْرِيَّة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في ربدان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -114323,8 +114323,8 @@ window.STREETS = [
   "ar": "شارع البِخَّار",
   "en": "Al Bikhar Street",
   "meaning": {
-    "ar": "«البِخَّار»: بِخَّار",
-    "en": "Al Bikhar: vapor, fume"
+    "ar": "«البِخَّار» البخارُ الصاعد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bikhar» is the rising vapour."
   },
   "story": {
     "ar": "«البِخَّار» بِخَّار، والاسم مأخوذ من هذه الكلمة. وهو الشارع في جزيرة ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -114339,8 +114339,8 @@ window.STREETS = [
   "ar": "شارع البَخْت",
   "en": "Al Bakht Street",
   "meaning": {
-    "ar": "«البَخْت»: بَخْت",
-    "en": "Al Bakht: luck, fortune"
+    "ar": "«البَخْت» الحظُّ من العيش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bakht» is one's lot in life."
   },
   "story": {
     "ar": "«البَخْت» بَخْت، والاسم مأخوذ من هذه الكلمة. والشارع في المَرْخَانِيَّة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -114371,8 +114371,8 @@ window.STREETS = [
   "ar": "شارع البَدعة",
   "en": "Al Bad'ah Street",
   "meaning": {
-    "ar": "«البَدعة»: بَدعة",
-    "en": "Al Bad'ah: an innovation"
+    "ar": "«البَدعة» البدعةُ من الأمر، وفي الخليج البئر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bad'ah» is an innovation, and in the Gulf a well."
   },
   "story": {
     "ar": "«البَدعة» بَدعة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مَزْيَد، أبوظبي.",
@@ -114387,8 +114387,8 @@ window.STREETS = [
   "ar": "شارع البِدْن",
   "en": "Al Bidn Street",
   "meaning": {
-    "ar": "«البِدْن»: بِدْن",
-    "en": "Al Bidn: body; figure"
+    "ar": "«البِدْن» البدنُ من الأجساد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bidn» is the body among forms."
   },
   "story": {
     "ar": "«البِدْن» بِدْن، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في ربدان.",
@@ -114419,8 +114419,8 @@ window.STREETS = [
   "ar": "شارع البراد",
   "en": "Al Barrad Street",
   "meaning": {
-    "ar": "«البراد»: براد",
-    "en": "Al Barrad: refrigerator"
+    "ar": "«البراد» البرادُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barrad» is the refrigerator among devices."
   },
   "story": {
     "ar": "«البراد» براد، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُويجْعِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -114435,8 +114435,8 @@ window.STREETS = [
   "ar": "شارع البَرَاعَة",
   "en": "Al Bara'ah Street",
   "meaning": {
-    "ar": "«البَرَاعَة»: بَرَاعَة",
-    "en": "Al Bara'ah: ability, skill, know-how"
+    "ar": "«البَرَاعَة» البراعةُ في العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bara'ah» is skill in work."
   },
   "story": {
     "ar": "«البَرَاعَة» بَرَاعَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الخِبِيصِي من إمارة أبوظبي.",
@@ -114451,8 +114451,8 @@ window.STREETS = [
   "ar": "شارع البَرَّاق",
   "en": "Al Barraq Street",
   "meaning": {
-    "ar": "«البَرَّاق»: بَرَّاق",
-    "en": "Al Barraq: Buraq"
+    "ar": "«البَرَّاق» اسمٌ مألوف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barraq» is a familiar name."
   },
   "story": {
     "ar": "«البَرَّاق» بَرَّاق، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في السَّلاَمَات بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -114467,8 +114467,8 @@ window.STREETS = [
   "ar": "شارع البَرجَد",
   "en": "Al Barjad Street",
   "meaning": {
-    "ar": "«البَرجَد»: بَرْجَد",
-    "en": "Al Barjad: a kind of elegant vestment"
+    "ar": "«البَرجَد» ثوبٌ فاخر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barjad» is a fine garment."
   },
   "story": {
     "ar": "«البَرجَد» بَرْجَد، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الفلاح، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -114483,8 +114483,8 @@ window.STREETS = [
   "ar": "شارع البُرْدَة",
   "en": "Al Burdah Street",
   "meaning": {
-    "ar": "«البُرْدَة»: بُرْدَة",
-    "en": "Al Burdah: a cloak"
+    "ar": "«البُرْدَة» البردةُ من الثياب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Burdah» is the cloak among garments."
   },
   "story": {
     "ar": "«البُرْدَة» بُرْدَة، والاسم مأخوذ من هذه الكلمة. والشارع في وسط المدينة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -114499,8 +114499,8 @@ window.STREETS = [
   "ar": "شارع البَرْدِي",
   "en": "Al Bardi Street",
   "meaning": {
-    "ar": "«البَرْدِي»: بَرْدِي",
-    "en": "Al Bardi: cattail (Typha spp.)"
+    "ar": "«البَرْدِي» نباتُ البردي؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bardi» is the cattail plant."
   },
   "story": {
     "ar": "«البَرْدِي» بَرْدِي، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في وسط المدينة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -114515,8 +114515,8 @@ window.STREETS = [
   "ar": "شارع البَرْقَة",
   "en": "Al Barqah Street",
   "meaning": {
-    "ar": "«البَرْقَة»: برقة",
-    "en": "Al Barqah: Cyrenaica."
+    "ar": "«البَرْقَة» اسمُ منطقةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barqah» is the name of an ancient region."
   },
   "story": {
     "ar": "«البَرْقَة» برقة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الدَّهْماء، أبوظبي.",
@@ -114531,8 +114531,8 @@ window.STREETS = [
   "ar": "شارع البَرْنِي",
   "en": "Al Barni Street",
   "meaning": {
-    "ar": "«البَرْنِي»: بَرْنِي",
-    "en": "Al Barni: a date variety"
+    "ar": "«البَرْنِي» البرنيُّ من التمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barni» is the barni date."
   },
   "story": {
     "ar": "«البَرْنِي» بَرْنِي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في آل نَهيان.",
@@ -114563,8 +114563,8 @@ window.STREETS = [
   "ar": "شارع البُرْوَاز",
   "en": "Al Burwaz Street",
   "meaning": {
-    "ar": "«البُرْوَاز»: بُرْوَاز",
-    "en": "Al Burwaz: frame"
+    "ar": "«البُرْوَاز» إطارُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Burwaz» is the frame of a thing."
   },
   "story": {
     "ar": "«البُرْوَاز» بُرْوَاز، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الدَّانَةْ في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -114595,8 +114595,8 @@ window.STREETS = [
   "ar": "شارع البُرُوق",
   "en": "Al Burouq Street",
   "meaning": {
-    "ar": "«البُرُوق»: بُرُوق",
-    "en": "Al Burouq: kingspear"
+    "ar": "«البُرُوق» نباتُ البروق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Buruq» is the kingspear plant."
   },
   "story": {
     "ar": "«البُرُوق» بُرُوق، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -114611,8 +114611,8 @@ window.STREETS = [
   "ar": "شارع البري",
   "en": "Al Barry Street",
   "meaning": {
-    "ar": "«البري»: بري",
-    "en": "Al Barry: wild"
+    "ar": "«البري» البريُّ من الحيوان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Barri» is the wild among animals."
   },
   "story": {
     "ar": "«البري» بري، والاسم مأخوذ من هذه الكلمة. وهو الشارع في جميرا، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -114643,8 +114643,8 @@ window.STREETS = [
   "ar": "شارع البَرِيد",
   "en": "Al Bareed Street",
   "meaning": {
-    "ar": "«البَرِيد»: بُرَيْد",
-    "en": "Al Bareed: a bread piece"
+    "ar": "«البَرِيد» فتاتُ الخبز؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bareed» is crumb of bread."
   },
   "story": {
     "ar": "«البَرِيد» بُرَيْد، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -114659,8 +114659,8 @@ window.STREETS = [
   "ar": "شارع البَساطة",
   "en": "Al Basatah Street",
   "meaning": {
-    "ar": "«البَساطة»: بَساطة",
-    "en": "Al Basatah: simplicity"
+    "ar": "«البساطة» البساطةُ في العيش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Basatah» is simplicity in living."
   },
   "story": {
     "ar": "«البَساطة» بَساطة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المُشرِف، أبوظبي.",
@@ -114675,8 +114675,8 @@ window.STREETS = [
   "ar": "شارع البَسالة",
   "en": "Al Basalah Street",
   "meaning": {
-    "ar": "«البَسالة»: بَسالة",
-    "en": "Al Basalah: courage"
+    "ar": "«البَسالة» الشجاعةُ في الحرب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Basalah» is courage in battle."
   },
   "story": {
     "ar": "«البَسالة» بَسالة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَنهَل.",
@@ -114707,8 +114707,8 @@ window.STREETS = [
   "ar": "شارع البسيط",
   "en": "Al Baseet Street",
   "meaning": {
-    "ar": "«البسيط»: بسيط",
-    "en": "Al Baseet: wide"
+    "ar": "«البسيط» الواسعُ المنبسط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Basit» is the wide and spread-out one."
   },
   "story": {
     "ar": "«البسيط» بسيط، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -114723,8 +114723,8 @@ window.STREETS = [
   "ar": "شارع البِشْر",
   "en": "Al Bishr Street",
   "meaning": {
-    "ar": "«البِشْر»: بِشْر",
-    "en": "Al Bishr: human"
+    "ar": "«البِشْر» البشرُ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bishr» is humankind, people in general."
   },
   "story": {
     "ar": "«البِشْر» بِشْر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُعْتَرِض من إمارة أبوظبي.",
@@ -114739,8 +114739,8 @@ window.STREETS = [
   "ar": "شارع البُشْرَى",
   "en": "Al Bushra Street",
   "meaning": {
-    "ar": "«البُشْرَى»: بُشْرَى",
-    "en": "Al Bushra: news"
+    "ar": "«البُشْرَى» البشرىُّ من الأخبار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bushra» is the good news among reports."
   },
   "story": {
     "ar": "«البُشْرَى» بُشْرَى، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -114755,8 +114755,8 @@ window.STREETS = [
   "ar": "شارع البَشُوش",
   "en": "Al Bashoush Street",
   "meaning": {
-    "ar": "«البَشُوش»: بَشُوش",
-    "en": "Al Bashoush: cheerful"
+    "ar": "«البَشُوش» طليقُ الوجه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bashush» is the open-faced one."
   },
   "story": {
     "ar": "«البَشُوش» بَشُوش، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَسْعُودِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -114771,8 +114771,8 @@ window.STREETS = [
   "ar": "شارع البَصِير",
   "en": "Al Baseer Street",
   "meaning": {
-    "ar": "«البَصِير»: بَصِير",
-    "en": "Al Baseer: well-seeing"
+    "ar": "«البَصِير» البصيرُ بعينه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Basir» is the one who sees with his eye."
   },
   "story": {
     "ar": "«البَصِير» بَصِير، والاسم مأخوذ من هذه الكلمة. والشارع في العامرة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -114787,8 +114787,8 @@ window.STREETS = [
   "ar": "شارع البَصِيرة",
   "en": "Al Baseerah Street",
   "meaning": {
-    "ar": "«البَصِيرة»: بَصِيرَة",
-    "en": "Al Baseerah: insight"
+    "ar": "«البَصِيرة» بصيرةُ القلب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Basirah» is the insight of the heart."
   },
   "story": {
     "ar": "«البَصِيرة» بَصِيرَة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -114803,8 +114803,8 @@ window.STREETS = [
   "ar": "شارع البُطُولة",
   "en": "Al Butoulah Street",
   "meaning": {
-    "ar": "«البُطُولة»: بُطُولة",
-    "en": "Al Butoulah: bravery"
+    "ar": "«البُطُولة» البسالةُ في الحرب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Butulah» is valour in battle."
   },
   "story": {
     "ar": "«البُطُولة» بُطُولة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة زايد، أبوظبي.",
@@ -114819,8 +114819,8 @@ window.STREETS = [
   "ar": "شارع البغدادي",
   "en": "Al Baghdady Street",
   "meaning": {
-    "ar": "«البغدادي»: بغدادي",
-    "en": "Al Baghdady: Baghdadi"
+    "ar": "«البغدادي» المنسوبُ إلى بغداد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Baghdadi» is the adjective of Baghdad."
   },
   "story": {
     "ar": "«البغدادي» بغدادي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في الحمرة.",
@@ -114835,8 +114835,8 @@ window.STREETS = [
   "ar": "شارع البغلة",
   "en": "Al Baghla Street",
   "meaning": {
-    "ar": "«البغلة»: بغلة",
-    "en": "Al Baghla: she-mule"
+    "ar": "«البغلة» أنثىُ البغل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Baghlah» is the she-mule."
   },
   "story": {
     "ar": "«البغلة» بغلة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في أم سقيم من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -114851,8 +114851,8 @@ window.STREETS = [
   "ar": "شارع البقرة",
   "en": "Al Baqqarah Street",
   "meaning": {
-    "ar": "«البقرة»: بقرة",
-    "en": "Al Baqqarah: cow"
+    "ar": "«البقرة» أنثىُ البقر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Baqqarah» is the cow."
   },
   "story": {
     "ar": "«البقرة» بقرة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الرأس في أم القيوين، والاسم يدل على موضع لا على كلمة.",
@@ -114899,8 +114899,8 @@ window.STREETS = [
   "ar": "شارع البلاتين",
   "en": "Al Plateen Street",
   "meaning": {
-    "ar": "«البلاتين»: بلاتين",
-    "en": "Al Plateen: platinum"
+    "ar": "«البلاتين» معدنُ البلاتين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Plateen» is the metal platinum."
   },
   "story": {
     "ar": "«البلاتين» بلاتين، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المنطقة الحرة بالحمرا، والاسم من أسماء المواضع التي تعرفها رأس الخيمة.",
@@ -114915,8 +114915,8 @@ window.STREETS = [
   "ar": "شارع البَلاغة",
   "en": "Al Balaghah Street",
   "meaning": {
-    "ar": "«البَلاغة»: بَلاغة",
-    "en": "Al Balaghah: rhetoric"
+    "ar": "«البَلاغة» البلاغةُ في القول؛ والاسم من هذا اللفظ.",
+    "en": "«Al Balaghah» is eloquence in speech."
   },
   "story": {
     "ar": "«البَلاغة» بَلاغة، والاسم مأخوذ من هذه الكلمة. والشارع في المرْفَأ، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -114931,8 +114931,8 @@ window.STREETS = [
   "ar": "شارع البُلْبُل",
   "en": "Al Bulbul Street",
   "meaning": {
-    "ar": "«البُلْبُل»: بُلْبُل",
-    "en": "Al Bulbul: a spinning top"
+    "ar": "«البُلْبُل» اللعبةُ الدوّارة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bulbul» is the spinning top."
   },
   "story": {
     "ar": "«البُلْبُل» بُلْبُل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المَقَام بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -114947,8 +114947,8 @@ window.STREETS = [
   "ar": "شارع البَلَح",
   "en": "Al Balah Street",
   "meaning": {
-    "ar": "«البَلَح»: بَلَح",
-    "en": "Al Balah: fresh dates"
+    "ar": "«البَلَح» البَلَحُ من التمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Balah» is the fresh date."
   },
   "story": {
     "ar": "«البَلَح» بَلَح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في وسط المدينة، أبوظبي.",
@@ -114963,8 +114963,8 @@ window.STREETS = [
   "ar": "شارع البِلْد",
   "en": "Al Bild Street",
   "meaning": {
-    "ar": "«البِلْد»: بِلْد",
-    "en": "Al Bild: country, land, homeland"
+    "ar": "«البِلْد» البِلْدُ من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bild» is the land among earths."
   },
   "story": {
     "ar": "«البِلْد» بِلْد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في ربدان.",
@@ -114979,8 +114979,8 @@ window.STREETS = [
   "ar": "شارع البلدة",
   "en": "Al Balda Street",
   "meaning": {
-    "ar": "«البلدة»: بلدة",
-    "en": "Al Balda: township"
+    "ar": "«البلدة» البلدةُ من المدن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Balda» is the township among towns."
   },
   "story": {
     "ar": "«البلدة» بلدة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في حدائق الصفوح من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -114995,8 +114995,8 @@ window.STREETS = [
   "ar": "شارع البَلْسَم",
   "en": "Al Balsam Street",
   "meaning": {
-    "ar": "«البَلْسَم»: بَلْسَم",
-    "en": "Al Balsam: balsam"
+    "ar": "«البَلْسَم» صمغُ البَلْسَم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Balsam» is the balsam resin."
   },
   "story": {
     "ar": "«البَلْسَم» بَلْسَم، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع زاخِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -115011,8 +115011,8 @@ window.STREETS = [
   "ar": "شارع البلشون",
   "en": "Al Balshoun Street",
   "meaning": {
-    "ar": "«البلشون»: بلشون",
-    "en": "Al Balshoun: heron"
+    "ar": "«البلشون» طائرُ البلشون؛ والاسم من هذا اللفظ.",
+    "en": "«Al Balshun» is the heron bird."
   },
   "story": {
     "ar": "«البلشون» بلشون، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في غْنَيْمَة من إمارة أبوظبي.",
@@ -115027,8 +115027,8 @@ window.STREETS = [
   "ar": "شارع البلور",
   "en": "Al Bloor Street",
   "meaning": {
-    "ar": "«البلور»: بلور",
-    "en": "Al Bloor: crystal"
+    "ar": "«البلور» البلورُ من الأحجار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Balur» is crystal among stones."
   },
   "story": {
     "ar": "«البلور» بلور، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المنطقة الصناعية بالحمرا بإمارة رأس الخيمة، والاسم من أسماء المواضع.",
@@ -115043,8 +115043,8 @@ window.STREETS = [
   "ar": "شارع البلّوط",
   "en": "Al Ballout Street",
   "meaning": {
-    "ar": "«البلّوط»: بلّوط",
-    "en": "Al Ballout: acorn"
+    "ar": "«البلّوط» شجرةُ البلوط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ballut» is the oak tree."
   },
   "story": {
     "ar": "«البلّوط» بلّوط، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -115059,8 +115059,8 @@ window.STREETS = [
   "ar": "شارع البناء",
   "en": "Al Benaa Street",
   "meaning": {
-    "ar": "«البناء»: بناء",
-    "en": "Al Benaa: builder"
+    "ar": "«البناء» صاحبُ البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bina'» is the builder."
   },
   "story": {
     "ar": "«البناء» بناء، والاسم مأخوذ من هذه الكلمة. والشارع في الرأس، والاسم من أسماء المواضع في إمارة أم القيوين.",
@@ -115075,8 +115075,8 @@ window.STREETS = [
   "ar": "شارع البند",
   "en": "Al Band Street",
   "meaning": {
-    "ar": "«البند»: بند",
-    "en": "Al Band: banner"
+    "ar": "«البند» البندُ من الأعلام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Band» is the banner among flags."
   },
   "story": {
     "ar": "«البند» بند، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم غَافة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -115091,8 +115091,8 @@ window.STREETS = [
   "ar": "شارع البُندُق",
   "en": "Al Bunduq Street",
   "meaning": {
-    "ar": "«البُندُق»: بُندُق",
-    "en": "Al Bunduq: hazelnut"
+    "ar": "«البُندُق» البندقُ من الثمار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bunduq» is the hazelnut among fruits."
   },
   "story": {
     "ar": "«البُندُق» بُندُق، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -115107,8 +115107,8 @@ window.STREETS = [
   "ar": "شارع البُندُقِيَّة",
   "en": "Al Bunduqiyah Street",
   "meaning": {
-    "ar": "«البُندُقِيَّة»: بُندُقِيَّة",
-    "en": "Al Bunduqiyah: rifle, gun, musket"
+    "ar": "«البُندُقِيَّة» البندقيةُ من السلاح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bunduqiyyah» is the rifle among weapons."
   },
   "story": {
     "ar": "«البُندُقِيَّة» بُندُقِيَّة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في البطين، أبوظبي.",
@@ -115139,8 +115139,8 @@ window.STREETS = [
   "ar": "شارع البُنيان",
   "en": "Al Bunyan Street",
   "meaning": {
-    "ar": "«البُنيان»: بُنيان",
-    "en": "Al Bunyan: wall"
+    "ar": "«البُنيان» جدارُ البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bunyan» is the wall of a building."
   },
   "story": {
     "ar": "«البُنيان» بُنيان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في ربدان، أبوظبي.",
@@ -115155,8 +115155,8 @@ window.STREETS = [
   "ar": "شارع البهرج",
   "en": "Al Bahraj Street",
   "meaning": {
-    "ar": "«البهرج»: بهرج",
-    "en": "Al Bahraj: false, phony"
+    "ar": "«البهرج» الباطلُ الزائف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bahraj» is the false and showy."
   },
   "story": {
     "ar": "«البهرج» بهرج، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في جزيرة ياس.",
@@ -115171,8 +115171,8 @@ window.STREETS = [
   "ar": "شارع البهلول",
   "en": "Al Bahloul Street",
   "meaning": {
-    "ar": "«البهلول»: بهلول",
-    "en": "Al Bahloul: joker, jester, fool"
+    "ar": "«البهلول» المُهرِّج في القوم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bahlul» is the jester among people."
   },
   "story": {
     "ar": "«البهلول» بهلول، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الشَّامْخَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -115203,8 +115203,8 @@ window.STREETS = [
   "ar": "شارع البَوصَلة",
   "en": "Al Bawsalah Street",
   "meaning": {
-    "ar": "«البَوصَلة»: بَوصَلة",
-    "en": "Al Bawsalah: compass"
+    "ar": "«البَوصَلة» البوصلةُ التي تُهتدى بها؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bawsalah» is the compass one steers by."
   },
   "story": {
     "ar": "«البَوصَلة» بَوصَلة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -115219,8 +115219,8 @@ window.STREETS = [
   "ar": "شارع البيان",
   "en": "Al Bayan Street",
   "meaning": {
-    "ar": "«البيان»: بيان",
-    "en": "Al Bayan: piano"
+    "ar": "«البيان» البيانُ في القول؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bayan» is clarity in speech."
   },
   "story": {
     "ar": "«البيان» بيان، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المَرْخَانِيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -115235,8 +115235,8 @@ window.STREETS = [
   "ar": "شارع البَيدر",
   "en": "Al Baydar Street",
   "meaning": {
-    "ar": "«البَيدر»: بَيدر",
-    "en": "Al Baydar: threshing-floor"
+    "ar": "«البَيدر» موضعُ درسِ الحبوب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Baydar» is the threshing-floor."
   },
   "story": {
     "ar": "«البَيدر» بَيدر، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -115251,8 +115251,8 @@ window.STREETS = [
   "ar": "شارع البَيرَق",
   "en": "Al Bayraq Street",
   "meaning": {
-    "ar": "«البَيرَق»: بَيرَق",
-    "en": "Al Bayraq: flag, banner, standard"
+    "ar": "«البَيرَق» البَيرَقُ من الأعلام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bayraq» is the flag among banners."
   },
   "story": {
     "ar": "«البَيرَق» بَيرَق، والاسم مأخوذ من هذه الكلمة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -115267,8 +115267,8 @@ window.STREETS = [
   "ar": "شارع البَيلَسان",
   "en": "Al Baylasan Street",
   "meaning": {
-    "ar": "«البَيلَسان»: بَيْلَسَان",
-    "en": "Al Baylasan: the balsam tree"
+    "ar": "«البَيلَسان» شجرةُ البَيلَسان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Baylasan» is the balsam tree."
   },
   "story": {
     "ar": "«البَيلَسان» بَيْلَسَان، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في عَيْن الفَايْضَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -115283,8 +115283,8 @@ window.STREETS = [
   "ar": "شارع التَّآلُف",
   "en": "At Ta-aluf Street",
   "meaning": {
-    "ar": "«التَّآلُف»: تَّآلُف",
-    "en": "At Ta-aluf: impaired"
+    "ar": "«التَّآلُف» من «آلَفَ يُؤَلِّفُ»؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'aluf» comes from the root alafa."
   },
   "story": {
     "ar": "«التَّآلُف» تَّآلُف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة زايد، أبوظبي.",
@@ -115299,8 +115299,8 @@ window.STREETS = [
   "ar": "شارع التأثير",
   "en": "Al Ta-theer Street",
   "meaning": {
-    "ar": "«التأثير»: تأثير",
-    "en": "Al Ta-theer: influence"
+    "ar": "«التأثير» التأثيرُ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'thir» is the effecting of a thing."
   },
   "story": {
     "ar": "«التأثير» تأثير، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -115315,8 +115315,8 @@ window.STREETS = [
   "ar": "شارع التَّأْسِيْس",
   "en": "Al Ta-sees Street",
   "meaning": {
-    "ar": "«التَّأْسِيْس»: تَّأْسِيْس",
-    "en": "Al Ta-sees: founding"
+    "ar": "«التَّأْسِيْس» تأسيسُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'sis» is the founding of a thing."
   },
   "story": {
     "ar": "«التَّأْسِيْس» تَّأْسِيْس، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة الرياض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -115331,8 +115331,8 @@ window.STREETS = [
   "ar": "شارع التَّألُّق",
   "en": "At Ta-alluq Street",
   "meaning": {
-    "ar": "«التَّألُّق»: تَّألُّق",
-    "en": "At Ta-alluq: luminescence"
+    "ar": "«التَّألُّق» التألُّقُ والضياء؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'alluq» is shining and brightness."
   },
   "story": {
     "ar": "«التَّألُّق» تَّألُّق، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع البطين في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -115363,8 +115363,8 @@ window.STREETS = [
   "ar": "شارع التابع",
   "en": "Al Taabea' Street",
   "meaning": {
-    "ar": "«التابع»: تابع",
-    "en": "Al Taabea': follower"
+    "ar": "«التابع» التابعُ لغيره؛ والاسم من هذا اللفظ.",
+    "en": "«At Taabi'» is the follower of another."
   },
   "story": {
     "ar": "«التابع» تابع، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الصفوح 1 بإمارة دبي، والاسم من أسماء المواضع.",
@@ -115379,8 +115379,8 @@ window.STREETS = [
   "ar": "شارع التاجر",
   "en": "Al Tajir Street",
   "meaning": {
-    "ar": "«التاجر»: تاجر",
-    "en": "Al Tajir: merchant"
+    "ar": "«التاجر» التاجرُ من التجار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Tajir» is the merchant among traders."
   },
   "story": {
     "ar": "«التاجر» تاجر، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الجيمي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -115395,8 +115395,8 @@ window.STREETS = [
   "ar": "شارع التِّبْر",
   "en": "Al Tibr Street",
   "meaning": {
-    "ar": "«التِّبْر»: تِبْر",
-    "en": "Al Tibr: pure ore"
+    "ar": "«التِّبْر» الذهبُ الخام؛ والاسم من هذا اللفظ.",
+    "en": "«At Tibr» is unrefined gold."
   },
   "story": {
     "ar": "«التِّبْر» تِبْر، والاسم مأخوذ من هذه الكلمة. والشارع في المَسْعُودِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -115427,8 +115427,8 @@ window.STREETS = [
   "ar": "شارع التِّجَارَة",
   "en": "Al Tijarah Street",
   "meaning": {
-    "ar": "«التِّجَارَة»: تِّجَارَة",
-    "en": "Al Tijarah: commerce"
+    "ar": "«التِّجَارَة» البيعُ والشراء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tijarah» is selling and buying."
   },
   "story": {
     "ar": "«التِّجَارَة» تِّجَارَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة الرياض، أبوظبي.",
@@ -115443,8 +115443,8 @@ window.STREETS = [
   "ar": "شارع التَّجدِيد",
   "en": "At Tajdeed Street",
   "meaning": {
-    "ar": "«التَّجدِيد»: تَّجدِيد",
-    "en": "At Tajdeed: renewal, restoration"
+    "ar": "«التَّجدِيد» التجديدُ للشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tajdid» is the renewing of a thing."
   },
   "story": {
     "ar": "«التَّجدِيد» تَّجدِيد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -115475,8 +115475,8 @@ window.STREETS = [
   "ar": "شارع التجوال",
   "en": "Al Tijwal Street",
   "meaning": {
-    "ar": "«التجوال»: تجوال",
-    "en": "Al Tijwal: perambulation, roam"
+    "ar": "«التجوال» التجوالُ في الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«At Tijwal» is roaming the land."
   },
   "story": {
     "ar": "«التجوال» تجوال، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع وسط المدينة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -115491,8 +115491,8 @@ window.STREETS = [
   "ar": "شارع التَّجوِيد",
   "en": "At Tajweed Street",
   "meaning": {
-    "ar": "«التَّجوِيد»: تَّجوِيد",
-    "en": "At Tajweed: elocution"
+    "ar": "«التَّجوِيد» التجويدُ في القراءة؛ والاسم من هذا اللفظ.",
+    "en": "«At Tajwid» is the elocution in reciting."
   },
   "story": {
     "ar": "«التَّجوِيد» تَّجوِيد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -115507,8 +115507,8 @@ window.STREETS = [
   "ar": "شارع التَحالُف",
   "en": "At Tahaluf Street",
   "meaning": {
-    "ar": "«التَحالُف»: تَحالُف",
-    "en": "At Tahaluf: union"
+    "ar": "«التَحالُف» من «حَلَفَ يَحْلِفُ»؛ والاسم من هذا اللفظ.",
+    "en": "«At Tahaluf» comes from the root halafa."
   },
   "story": {
     "ar": "«التَحالُف» تَحالُف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في بني ياس بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -115523,8 +115523,8 @@ window.STREETS = [
   "ar": "شارع التحسين",
   "en": "Al Tahseen Street",
   "meaning": {
-    "ar": "«التحسين»: تحسين",
-    "en": "Al Tahseen: amelioration"
+    "ar": "«التحسين» التحسينُ للشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tahsin» is the bettering of a thing."
   },
   "story": {
     "ar": "«التحسين» تحسين، والاسم مأخوذ من هذه الكلمة. وهو الشارع في بِلْجِعان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -115539,8 +115539,8 @@ window.STREETS = [
   "ar": "شارع التَحْصِيل",
   "en": "Al Tahseel Street",
   "meaning": {
-    "ar": "«التَحْصِيل»: تَحْصِيل",
-    "en": "Al Tahseel: extracting, educing"
+    "ar": "«التَحْصِيل» تحصيلُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tahsil» is the obtaining of a thing."
   },
   "story": {
     "ar": "«التَحْصِيل» تَحْصِيل، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة الرياض، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -115555,8 +115555,8 @@ window.STREETS = [
   "ar": "شارع التحية",
   "en": "Al Tahiyyah Street",
   "meaning": {
-    "ar": "«التحية»: تحية",
-    "en": "Al Tahiyyah: a greeting"
+    "ar": "«التحية» التحيةُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«At Tahiyyah» is the greeting between people."
   },
   "story": {
     "ar": "«التحية» تحية، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الجيمي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -115571,8 +115571,8 @@ window.STREETS = [
   "ar": "شارع التَّخطِيط",
   "en": "At Takhteet Street",
   "meaning": {
-    "ar": "«التَّخطِيط»: تَّخطِيط",
-    "en": "At Takhteet: striping"
+    "ar": "«التَّخطِيط» من «خَطَّ يَخُطُّ»؛ والاسم من هذا اللفظ.",
+    "en": "«At Takhtit» comes from the root khatta."
   },
   "story": {
     "ar": "«التَّخطِيط» تَّخطِيط، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -115587,8 +115587,8 @@ window.STREETS = [
   "ar": "شارع التَّدبير",
   "en": "At Tadbeer Street",
   "meaning": {
-    "ar": "«التَّدبير»: تَّدبير",
-    "en": "At Tadbeer: order"
+    "ar": "«التَّدبير» تدبيرُ الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«At Tadbir» is the arranging of a matter."
   },
   "story": {
     "ar": "«التَّدبير» تَّدبير، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -115619,8 +115619,8 @@ window.STREETS = [
   "ar": "شارع التُّرَاث",
   "en": "Al Turath Street",
   "meaning": {
-    "ar": "«التُّرَاث»: تُّرَاث",
-    "en": "Al Turath: heritage"
+    "ar": "«التُّرَاث» ما يُورَث من الآباء؛ والاسم من هذا اللفظ.",
+    "en": "«At Turath» is what is inherited from fathers."
   },
   "story": {
     "ar": "«التُّرَاث» تُّرَاث، والاسم مأخوذ من هذه الكلمة. والشارع يقع في آل نَهيان من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -115635,8 +115635,8 @@ window.STREETS = [
   "ar": "شارع التَّرتِيل",
   "en": "At Tarteel Street",
   "meaning": {
-    "ar": "«التَّرتِيل»: تَّرتِيل",
-    "en": "At Tarteel: hymnody"
+    "ar": "«التَّرتِيل» الترتيلُ في القراءة؛ والاسم من هذا اللفظ.",
+    "en": "«At Tartil» is the measured reciting."
   },
   "story": {
     "ar": "«التَّرتِيل» تَّرتِيل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة خليفة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -115651,8 +115651,8 @@ window.STREETS = [
   "ar": "شارع الترخيص",
   "en": "Al Tarkhees Street",
   "meaning": {
-    "ar": "«الترخيص»: ترخيص",
-    "en": "Al Tarkhees: authorization"
+    "ar": "«الترخيص» الترخيصُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tarkhis» is the permitting of a thing."
   },
   "story": {
     "ar": "«الترخيص» ترخيص، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -115667,8 +115667,8 @@ window.STREETS = [
   "ar": "شارع الترس",
   "en": "Al Tars Street",
   "meaning": {
-    "ar": "«الترس»: ترس",
-    "en": "Al Tars: shield, scutum"
+    "ar": "«الترس» الترسُ من السلاح؛ والاسم من هذا اللفظ.",
+    "en": "«At Tars» is the shield among arms."
   },
   "story": {
     "ar": "«الترس» ترس، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في ربدان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -115683,8 +115683,8 @@ window.STREETS = [
   "ar": "شارع الترسيخ",
   "en": "Al Tarseekh Street",
   "meaning": {
-    "ar": "«الترسيخ»: ترسيخ",
-    "en": "Al Tarseekh: rooting"
+    "ar": "«الترسيخ» ترسيخُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tarsikh» is the fixing of a thing."
   },
   "story": {
     "ar": "«الترسيخ» ترسيخ، والاسم مأخوذ من هذه الكلمة. وهو الشارع في رملة سويحان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -115699,8 +115699,8 @@ window.STREETS = [
   "ar": "شارع التركيز",
   "en": "Al Tarkeez Street",
   "meaning": {
-    "ar": "«التركيز»: تركيز",
-    "en": "Al Tarkeez: concentration"
+    "ar": "«التركيز» تركيزُ الذهن؛ والاسم من هذا اللفظ.",
+    "en": "«At Tarkiz» is the focusing of the mind."
   },
   "story": {
     "ar": "«التركيز» تركيز، والاسم مأخوذ من هذه الكلمة. والشارع في الشهامة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -115715,8 +115715,8 @@ window.STREETS = [
   "ar": "شارع التَّزكية",
   "en": "At Tazkiyah Street",
   "meaning": {
-    "ar": "«التَّزكية»: تَّزكية",
-    "en": "At Tazkiyah: purification, chastening"
+    "ar": "«التَّزكية» تزكيةُ النفس؛ والاسم من هذا اللفظ.",
+    "en": "«At Tazkiyah» is the purifying of the self."
   },
   "story": {
     "ar": "«التَّزكية» تَّزكية، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في جَرْن يَافُور بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -115731,8 +115731,8 @@ window.STREETS = [
   "ar": "شارع التسويق",
   "en": "Al Tasweeq Street",
   "meaning": {
-    "ar": "«التسويق»: تسويق",
-    "en": "Al Tasweeq: marketing"
+    "ar": "«التسويق» تسويقُ السلع؛ والاسم من هذا اللفظ.",
+    "en": "«At Taswiq» is the marketing of goods."
   },
   "story": {
     "ar": "«التسويق» تسويق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الجيمي، أبوظبي.",
@@ -115747,8 +115747,8 @@ window.STREETS = [
   "ar": "شارع التَشجيْر",
   "en": "Al Tashjeer Street",
   "meaning": {
-    "ar": "«التَشجيْر»: تَشجيْر",
-    "en": "Al Tashjeer: forestation, tree-planting"
+    "ar": "«التَشجيْر» تشجيرُ الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«At Tashjir» is the planting of trees."
   },
   "story": {
     "ar": "«التَشجيْر» تَشجيْر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشَّامْخَة.",
@@ -115763,8 +115763,8 @@ window.STREETS = [
   "ar": "شارع التَّشرِيع",
   "en": "At Tashree' Street",
   "meaning": {
-    "ar": "«التَّشرِيع»: تَّشرِيع",
-    "en": "At Tashree': legal restriction"
+    "ar": "«التَّشرِيع» التشريعُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«At Tashri'» is the legislating of a matter."
   },
   "story": {
     "ar": "«التَّشرِيع» تَّشرِيع، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الشَّوامخ من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -115795,8 +115795,8 @@ window.STREETS = [
   "ar": "شارع التطريز",
   "en": "Al Tatreez Street",
   "meaning": {
-    "ar": "«التطريز»: تطريز",
-    "en": "Al Tatreez: embroidery"
+    "ar": "«التطريز» تطريزُ الثوب؛ والاسم من هذا اللفظ.",
+    "en": "«At Tatriz» is the embroidering of cloth."
   },
   "story": {
     "ar": "«التطريز» تطريز، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُعْتَرِض من إمارة أبوظبي.",
@@ -115811,8 +115811,8 @@ window.STREETS = [
   "ar": "شارع التَّطَوُّر",
   "en": "At Tatawwur Street",
   "meaning": {
-    "ar": "«التَّطَوُّر»: تَّطَوُّر",
-    "en": "At Tatawwur: development, evolution, advancement"
+    "ar": "«التَّطَوُّر» التطورُ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tatawwur» is the evolving of a thing."
   },
   "story": {
     "ar": "«التَّطَوُّر» تَّطَوُّر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الخَالِدية بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -115827,8 +115827,8 @@ window.STREETS = [
   "ar": "شارع التَّعلِيم",
   "en": "At Ta'leem Street",
   "meaning": {
-    "ar": "«التَّعلِيم»: تَّعلِيم",
-    "en": "At Ta'leem: teaching, education"
+    "ar": "«التَّعلِيم» تعليمُ العلم؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'lim» is the teaching of knowledge."
   },
   "story": {
     "ar": "«التَّعلِيم» تَّعلِيم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -115843,8 +115843,8 @@ window.STREETS = [
   "ar": "شارع التَّعمِير",
   "en": "At Ta'meer Street",
   "meaning": {
-    "ar": "«التَّعمِير»: تَعْمِير",
-    "en": "At Ta'meer: building"
+    "ar": "«التَّعمِير» عمرانُ المكان؛ والاسم من هذا اللفظ.",
+    "en": "«At Ta'mir» is the building up of a place."
   },
   "story": {
     "ar": "«التَّعمِير» تَعْمِير، والاسم مأخوذ من هذه الكلمة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -115859,8 +115859,8 @@ window.STREETS = [
   "ar": "شارع التَّفَاؤُل",
   "en": "Al Tafau-ol Street",
   "meaning": {
-    "ar": "«التَّفَاؤُل»: تَّفَاؤُل",
-    "en": "Al Tafau-ol: optimism"
+    "ar": "«التَّفَاؤُل» التفاؤلُ بالخير؛ والاسم من هذا اللفظ.",
+    "en": "«At Tafa'ul» is looking to the good."
   },
   "story": {
     "ar": "«التَّفَاؤُل» تَّفَاؤُل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المُعْتَرِض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -115875,8 +115875,8 @@ window.STREETS = [
   "ar": "شارع التقني",
   "en": "Al Tiqani Street",
   "meaning": {
-    "ar": "«التقني»: تِقْنِيّ",
-    "en": "Al Tiqani: technical"
+    "ar": "«التقني» المنسوبُ إلى التقنية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Tiqani» is the adjective of technique."
   },
   "story": {
     "ar": "«التقني» تِقْنِيّ، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في وسط المدينة، أبوظبي.",
@@ -115907,8 +115907,8 @@ window.STREETS = [
   "ar": "شارع التِّقنِيَّة",
   "en": "At Tiqniyah Street",
   "meaning": {
-    "ar": "«التِّقنِيَّة»: تِّقنِيَّة",
-    "en": "At Tiqniyah: technique"
+    "ar": "«التِّقنِيَّة» التقنيةُ في العمل؛ والاسم من هذا اللفظ.",
+    "en": "«At Tiqniyyah» is the technique in work."
   },
   "story": {
     "ar": "«التِّقنِيَّة» تِّقنِيَّة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة محمد بن زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -115923,8 +115923,8 @@ window.STREETS = [
   "ar": "شارع التُّقَى",
   "en": "Al Tuqa Street",
   "meaning": {
-    "ar": "«التُّقَى»: تُّقَى",
-    "en": "Al Tuqa: God-fearing"
+    "ar": "«التُّقَى» الاحتراسُ من المكروه؛ والاسم من هذا اللفظ.",
+    "en": "«At Tuqa» is caution against what is feared."
   },
   "story": {
     "ar": "«التُّقَى» تُّقَى، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الدَّهْماء في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -115955,8 +115955,8 @@ window.STREETS = [
   "ar": "شارع التِّمار",
   "en": "At Timar Street",
   "meaning": {
-    "ar": "«التِّمار»: تِمَّار",
-    "en": "At Timar: seller of dates"
+    "ar": "«التِّمار» بائعُ التمر؛ والاسم من هذا اللفظ.",
+    "en": "«At Timar» is the seller of dates."
   },
   "story": {
     "ar": "«التِّمار» تِمَّار، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -115987,8 +115987,8 @@ window.STREETS = [
   "ar": "شارع التَّماسُك",
   "en": "At Tamasuk Street",
   "meaning": {
-    "ar": "«التَّماسُك»: تَّماسُك",
-    "en": "At Tamasuk: cohesion"
+    "ar": "«التَّماسُك» التماسكُ بين الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tamasuk» is the cohesion between things."
   },
   "story": {
     "ar": "«التَّماسُك» تَّماسُك، والاسم مأخوذ من هذه الكلمة. والشارع في هِيلِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -116003,8 +116003,8 @@ window.STREETS = [
   "ar": "شارع التَّمَام",
   "en": "Al Tamam Street",
   "meaning": {
-    "ar": "«التَّمَام»: تَّمَام",
-    "en": "Al Tamam: complete, whole, entire, full"
+    "ar": "«التَّمَام» الكمالُ التام؛ والاسم من هذا اللفظ.",
+    "en": "«At Tamam» is the full completion."
   },
   "story": {
     "ar": "«التَّمَام» تَّمَام، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الجَاهلِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -116019,8 +116019,8 @@ window.STREETS = [
   "ar": "شارع التَّمر",
   "en": "At Tamr Street",
   "meaning": {
-    "ar": "«التَّمر»: تَّمر",
-    "en": "At Tamr: date (fruit)"
+    "ar": "«التَّمر» التمرُ من النخل؛ والاسم من هذا اللفظ.",
+    "en": "«At Tamr» is the date from the palm."
   },
   "story": {
     "ar": "«التَّمر» تَّمر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في هِيلِي، أبوظبي.",
@@ -116035,8 +116035,8 @@ window.STREETS = [
   "ar": "شارع التَّمْرِين",
   "en": "Al Tamreen Street",
   "meaning": {
-    "ar": "«التَّمْرِين»: تَّمْرِين",
-    "en": "Al Tamreen: practice"
+    "ar": "«التَّمْرِين» تمرينُ النفس؛ والاسم من هذا اللفظ.",
+    "en": "«At Tamrin» is the training of the self."
   },
   "story": {
     "ar": "«التَّمْرِين» تَّمْرِين، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -116051,8 +116051,8 @@ window.STREETS = [
   "ar": "شارع التمهيد",
   "en": "Al Tamheed Street",
   "meaning": {
-    "ar": "«التمهيد»: تمهيد",
-    "en": "Al Tamheed: preface"
+    "ar": "«التمهيد» تمهيدُ الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«At Tamhid» is the paving of a matter."
   },
   "story": {
     "ar": "«التمهيد» تمهيد، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُعْتَرِض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -116067,8 +116067,8 @@ window.STREETS = [
   "ar": "شارع التَّمويل",
   "en": "At Tamweel Street",
   "meaning": {
-    "ar": "«التَّمويل»: تَّمويل",
-    "en": "At Tamweel: funding, sponsorship"
+    "ar": "«التَّمويل» تمويلُ المشروع؛ والاسم من هذا اللفظ.",
+    "en": "«At Tamwil» is the funding of a project."
   },
   "story": {
     "ar": "«التَّمويل» تَّمويل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة خليفة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -116083,8 +116083,8 @@ window.STREETS = [
   "ar": "شارع التَّمَيُّز",
   "en": "Al Tamayyuz Street",
   "meaning": {
-    "ar": "«التَّمَيُّز»: تَّمَيُّز",
-    "en": "Al Tamayyuz: standing out"
+    "ar": "«التَّمَيُّز» التميزُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tamayyuz» is standing out by a thing."
   },
   "story": {
     "ar": "«التَّمَيُّز» تَّمَيُّز، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة شخبوط من إمارة أبوظبي.",
@@ -116099,8 +116099,8 @@ window.STREETS = [
   "ar": "شارع التَّنَافُس",
   "en": "Al Tanafus Street",
   "meaning": {
-    "ar": "«التَّنَافُس»: تَّنَافُس",
-    "en": "Al Tanafus: competition"
+    "ar": "«التَّنَافُس» التنافسُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«At Tanafus» is the striving in a matter."
   },
   "story": {
     "ar": "«التَّنَافُس» تَّنَافُس، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -116115,8 +116115,8 @@ window.STREETS = [
   "ar": "شارع التَّنْسِيق",
   "en": "Al Tanseeq Street",
   "meaning": {
-    "ar": "«التَّنْسِيق»: تَّنْسِيق",
-    "en": "Al Tanseeq: coordination, harmonization"
+    "ar": "«التَّنْسِيق» تنسيقُ الأمور؛ والاسم من هذا اللفظ.",
+    "en": "«At Tansiq» is the ordering of affairs."
   },
   "story": {
     "ar": "«التَّنْسِيق» تَّنْسِيق، والاسم مأخوذ من هذه الكلمة. وهو الشارع في جزيرة ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -116131,8 +116131,8 @@ window.STREETS = [
   "ar": "شارع التَّهلِيل",
   "en": "At Tahleel Street",
   "meaning": {
-    "ar": "«التَّهلِيل»: تَّهلِيل",
-    "en": "At Tahleel: cheer, acclamation"
+    "ar": "«التَّهلِيل» التهليلُ والدعاء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tahil» is the proclaiming and the prayer."
   },
   "story": {
     "ar": "«التَّهلِيل» تَّهلِيل، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة شخبوط، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -116147,8 +116147,8 @@ window.STREETS = [
   "ar": "شارع التَّوافُق",
   "en": "At Tawafuq Street",
   "meaning": {
-    "ar": "«التَّوافُق»: تَّوافُق",
-    "en": "At Tawafuq: compatibility, harmony"
+    "ar": "«التَّوافُق» التوافقُ بين شيئين؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawafuq» is the accord between two things."
   },
   "story": {
     "ar": "«التَّوافُق» تَّوافُق، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في العامرة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -116163,8 +116163,8 @@ window.STREETS = [
   "ar": "شارع التوحيد",
   "en": "Al Tawheed Street",
   "meaning": {
-    "ar": "«التوحيد»: توحيد",
-    "en": "Al Tawheed: oneness"
+    "ar": "«التوحيد» إفرادُ الواحد؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawhid» is affirming the One."
   },
   "story": {
     "ar": "«التوحيد» توحيد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الرقة، أم القيوين.",
@@ -116179,8 +116179,8 @@ window.STREETS = [
   "ar": "شارع التوطين",
   "en": "Al Tawteen Street",
   "meaning": {
-    "ar": "«التوطين»: تَوْطِين",
-    "en": "Al Tawteen: naturalization"
+    "ar": "«التوطين» توطينُ الناس؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawtin» is the settling of people."
   },
   "story": {
     "ar": "«التوطين» تَوْطِين، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في رُوْضَة الرِّيْف.",
@@ -116195,8 +116195,8 @@ window.STREETS = [
   "ar": "شارع التَّوعية",
   "en": "At Taw'iyah Street",
   "meaning": {
-    "ar": "«التَّوعية»: تَّوعية",
-    "en": "At Taw'iyah: awareness, enlightenment"
+    "ar": "«التَّوعية» توعيةُ الناس؛ والاسم من هذا اللفظ.",
+    "en": "«At Taw'iyyah» is the raising of people's awareness."
   },
   "story": {
     "ar": "«التَّوعية» تَّوعية، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة خليفة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -116211,8 +116211,8 @@ window.STREETS = [
   "ar": "شارع التَّوفِيق",
   "en": "At Tawfeeq Street",
   "meaning": {
-    "ar": "«التَّوفِيق»: تَوْفِيق",
-    "en": "At Tawfeeq: guidance and grace of God"
+    "ar": "«التَّوفِيق» من «وَفَّقَ يُوَفِّقُ»؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawfiq» comes from the root waffaqa."
   },
   "story": {
     "ar": "«التَّوفِيق» تَوْفِيق، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -116259,8 +116259,8 @@ window.STREETS = [
   "ar": "شارع التَّيسِير",
   "en": "At Tayseer Street",
   "meaning": {
-    "ar": "«التَّيسِير»: تَّيسِير",
-    "en": "At Tayseer: facilitation, easing"
+    "ar": "«التَّيسِير» تسهيلُ الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«At Tayisir» is the easing of a matter."
   },
   "story": {
     "ar": "«التَّيسِير» تَّيسِير، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَنهَل، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -116275,8 +116275,8 @@ window.STREETS = [
   "ar": "شارع الثَاقِب",
   "en": "Al Thaqib Street",
   "meaning": {
-    "ar": "«الثَاقِب»: ثَاقِب",
-    "en": "Al Thaqib: penetrating"
+    "ar": "«الثَاقِب» الثاقبُ من كل شيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Thaqib» is the penetrating one."
   },
   "story": {
     "ar": "«الثَاقِب» ثَاقِب، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة الرياض، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -116291,8 +116291,8 @@ window.STREETS = [
   "ar": "شارع الثَّامر",
   "en": "Ath Thamir Street",
   "meaning": {
-    "ar": "«الثَّامر»: ثَّامر",
-    "en": "Ath Thamir: cowpea, green beans"
+    "ar": "«الثَّامر» نباتُ الثامر؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Thamir» is the cowpea plant."
   },
   "story": {
     "ar": "«الثَّامر» ثَّامر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة خليفة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -116307,8 +116307,8 @@ window.STREETS = [
   "ar": "شارع الثَّبات",
   "en": "Ath Thabat Street",
   "meaning": {
-    "ar": "«الثَّبات»: ثَّبات",
-    "en": "Ath Thabat: firmness"
+    "ar": "«الثَّبات» الثباتُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Thabat» is firmness in place."
   },
   "story": {
     "ar": "«الثَّبات» ثَّبات، والاسم مأخوذ من هذه الكلمة. والشارع في شارع المدينة الصناعية 3 من إمارة أبوظبي.",
@@ -116339,8 +116339,8 @@ window.STREETS = [
   "ar": "شارع الثَّروانيَّة",
   "en": "Al Tharwaniyyah Street",
   "meaning": {
-    "ar": "«الثَّروانيَّة»: ثَّروانيَّة",
-    "en": "Al Tharwaniyyah: high ground"
+    "ar": "«الثَّروانيَّة» المكانُ المرتفع؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Tharwaniyyah» is the high ground."
   },
   "story": {
     "ar": "«الثَّروانيَّة» ثَّروانيَّة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشُّوَيْمَة.",
@@ -116355,8 +116355,8 @@ window.STREETS = [
   "ar": "شارع الثَرْوَة",
   "en": "Al Tharwah Street",
   "meaning": {
-    "ar": "«الثَرْوَة»: ثَرْوَة",
-    "en": "Al Tharwah: plenty"
+    "ar": "«الثَّرْوَة» الكثرةُ من المال؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Tharwah» is plenty of wealth."
   },
   "story": {
     "ar": "«الثَرْوَة» ثَرْوَة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة الرياض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -116371,8 +116371,8 @@ window.STREETS = [
   "ar": "شارع الثِّقة",
   "en": "Ath Thiqah Street",
   "meaning": {
-    "ar": "«الثِّقة»: ثِّقة",
-    "en": "Ath Thiqah: reliance, confidence"
+    "ar": "«الثِّقة» الثقةُ بالشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ath Thiqah» is reliance on a thing."
   },
   "story": {
     "ar": "«الثِّقة» ثِّقة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مُصَفَح في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -116387,8 +116387,8 @@ window.STREETS = [
   "ar": "شارع الثمين",
   "en": "Al Thameen Street",
   "meaning": {
-    "ar": "«الثمين»: ثمين",
-    "en": "Al Thameen: valuable"
+    "ar": "«الثمين» الثمينُ من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Thamin» is the valuable among things."
   },
   "story": {
     "ar": "«الثمين» ثمين، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُطَاوْعَة من إمارة أبوظبي.",
@@ -116403,8 +116403,8 @@ window.STREETS = [
   "ar": "شارع الثَيِّل",
   "en": "AL Thayyil Street",
   "meaning": {
-    "ar": "«الثَيِّل»: ثَيْل",
-    "en": "AL Thayyil: the camel's sheath"
+    "ar": "«الثَيِّل» ثَيِّلُ البعير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Thayyil» is the camel's sheath."
   },
   "story": {
     "ar": "«الثَيِّل» ثَيْل، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المَرْخَانِيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -116419,8 +116419,8 @@ window.STREETS = [
   "ar": "شارع الجار",
   "en": "Al Jar Street",
   "meaning": {
-    "ar": "«الجار»: جار",
-    "en": "Al Jar: neighbor"
+    "ar": "«الجار» الجارُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jar» is the neighbour."
   },
   "story": {
     "ar": "«الجار» جار، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة شخبوط، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -116435,8 +116435,8 @@ window.STREETS = [
   "ar": "شارع الجَاهلِي",
   "en": "Al Jahili Street",
   "meaning": {
-    "ar": "«الجَاهلِي»: جَاهِلِيّ",
-    "en": "Al Jahili: pre-Islamic pagan"
+    "ar": "«الجَاهلِي» المنسوبُ إلى الجاهلية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jahili» is the adjective of the pre-Islamic age."
   },
   "story": {
     "ar": "«الجَاهلِي» جَاهِلِيّ، والاسم مأخوذ من هذه الكلمة. والشارع في الجَاهلِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -116467,8 +116467,8 @@ window.STREETS = [
   "ar": "شارع الجبهة",
   "en": "Al Jabha Street",
   "meaning": {
-    "ar": "«الجبهة»: جبهة",
-    "en": "Al Jabha: forehead, brow"
+    "ar": "«الجبهة» الجبهةُ من الوجه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jabhah» is the forehead of the face."
   },
   "story": {
     "ar": "«الجبهة» جبهة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الصفوح 1، دبي.",
@@ -116483,8 +116483,8 @@ window.STREETS = [
   "ar": "شارع الجَدْوَل",
   "en": "Al Jadwal Street",
   "meaning": {
-    "ar": "«الجَدْوَل»: جَدْوَل",
-    "en": "Al Jadwal: creek, brook, little stream"
+    "ar": "«الجَدْوَل» الجدولُ الصغير من الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jadwal» is the little stream of water."
   },
   "story": {
     "ar": "«الجَدْوَل» جَدْوَل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -116499,8 +116499,8 @@ window.STREETS = [
   "ar": "شارع الجدوى",
   "en": "Al Jadwa Street",
   "meaning": {
-    "ar": "«الجدوى»: جدوى",
-    "en": "Al Jadwa: avail, benefit"
+    "ar": "«الجدوى» الفائدةُ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jadwa» is the benefit of a thing."
   },
   "story": {
     "ar": "«الجدوى» جدوى، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُعْتَرِض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -116515,8 +116515,8 @@ window.STREETS = [
   "ar": "شارع الجدي",
   "en": "Al Jaddi Street",
   "meaning": {
-    "ar": "«الجدي»: جدي",
-    "en": "Al Jaddi: serious"
+    "ar": "«الجدي» الجادُّ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jaddi» is the earnest one in a matter."
   },
   "story": {
     "ar": "«الجدي» جدي، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع قرية المعرفة في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -116547,8 +116547,8 @@ window.STREETS = [
   "ar": "شارع الجُرف",
   "en": "Al Jurf Street",
   "meaning": {
-    "ar": "«الجُرف»: جُرف",
-    "en": "Al Jurf: cliff, bank"
+    "ar": "«الجُرف» الحافّةُ المنكسرة من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jurf» is the broken bank of earth."
   },
   "story": {
     "ar": "«الجُرف» جُرف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -116579,8 +116579,8 @@ window.STREETS = [
   "ar": "شارع الجِريان",
   "en": "Al Jiryan Street",
   "meaning": {
-    "ar": "«الجِريان»: جِريان",
-    "en": "Al Jiryan: flow"
+    "ar": "«الجِريان» جريانُ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jiryan» is the flowing of water."
   },
   "story": {
     "ar": "«الجِريان» جِريان، والاسم مأخوذ من هذه الكلمة. والشارع في الظَّاهِر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -116595,8 +116595,8 @@ window.STREETS = [
   "ar": "شارع الجريد",
   "en": "Al Jareed Street",
   "meaning": {
-    "ar": "«الجريد»: جَرِيد",
-    "en": "Al Jareed: a palm frond"
+    "ar": "«الجريد» الجريدُ من النخل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jareed» is the stripped palm branch."
   },
   "story": {
     "ar": "«الجريد» جَرِيد، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في البَاهية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -116643,8 +116643,8 @@ window.STREETS = [
   "ar": "شارع الجُسُور",
   "en": "Al Jusour Street",
   "meaning": {
-    "ar": "«الجُسُور»: جُسُور",
-    "en": "Al Jusour: bold, daring; courageous"
+    "ar": "«الجُسُور» الجريءُ الشجاع؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jusur» is the bold and daring one."
   },
   "story": {
     "ar": "«الجُسُور» جُسُور، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في وسط المدينة.",
@@ -116659,8 +116659,8 @@ window.STREETS = [
   "ar": "شارع الجُلمُود",
   "en": "Al Julmoud Street",
   "meaning": {
-    "ar": "«الجُلمُود»: جُلمُود",
-    "en": "Al Julmoud: a rock, stone"
+    "ar": "«الجُلمُود» الصخرةُ الكبيرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Julmud» is the great rock."
   },
   "story": {
     "ar": "«الجُلمُود» جُلمُود، والاسم مأخوذ من هذه الكلمة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -116675,8 +116675,8 @@ window.STREETS = [
   "ar": "شارع الجَمَل",
   "en": "Al Jamal Street",
   "meaning": {
-    "ar": "«الجَمَل»: جَمَل",
-    "en": "Al Jamal: male camel"
+    "ar": "«الجَمَل» الجملُ من الإبل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jamal» is the male camel."
   },
   "story": {
     "ar": "«الجَمَل» جَمَل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الجيمي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -116691,8 +116691,8 @@ window.STREETS = [
   "ar": "شارع الجُمهُور",
   "en": "Al Jumhour Street",
   "meaning": {
-    "ar": "«الجُمهُور»: جُمهُور",
-    "en": "Al Jumhour: the majority"
+    "ar": "«الجُمهُور» جمهورُ الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jumhur» is the mass of people."
   },
   "story": {
     "ar": "«الجُمهُور» جُمهُور، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -116707,8 +116707,8 @@ window.STREETS = [
   "ar": "شارع الجموح",
   "en": "Al Jamouh Street",
   "meaning": {
-    "ar": "«الجموح»: جموح",
-    "en": "Al Jamouh: recalcitrance"
+    "ar": "«الجموح» جموحُ الدابة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jamuh» is the unruliness of a mount."
   },
   "story": {
     "ar": "«الجموح» جموح، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في السَّلاَمَات بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -116723,8 +116723,8 @@ window.STREETS = [
   "ar": "شارع الجَمِيل",
   "en": "Al Jameel Street",
   "meaning": {
-    "ar": "«الجَمِيل»: جَمِيل",
-    "en": "Al Jameel: beautiful"
+    "ar": "«الجَمِيل» من «جَمُلَ يَجْمُلُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jamil» comes from the root jamula."
   },
   "story": {
     "ar": "«الجَمِيل» جَمِيل، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -116739,8 +116739,8 @@ window.STREETS = [
   "ar": "شارع الجُند",
   "en": "Al Jund Street",
   "meaning": {
-    "ar": "«الجُند»: جُند",
-    "en": "Al Jund: soldiery"
+    "ar": "«الجُند» الجندُ من العسكر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jund» is the soldiery."
   },
   "story": {
     "ar": "«الجُند» جُند، والاسم مأخوذ من هذه الكلمة. والشارع في السَّعادة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -116755,8 +116755,8 @@ window.STREETS = [
   "ar": "شارع الجَندل",
   "en": "Al Jandal Street",
   "meaning": {
-    "ar": "«الجَندل»: جَندل",
-    "en": "Al Jandal: large rock, boulder"
+    "ar": "«الجَندل» الحجارةُ الكبيرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jandal» are the great boulders."
   },
   "story": {
     "ar": "«الجَندل» جَندل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة الرياض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -116787,8 +116787,8 @@ window.STREETS = [
   "ar": "شارع الجُندي",
   "en": "Al Jundi Street",
   "meaning": {
-    "ar": "«الجُندي»: جُندي",
-    "en": "Al Jundi: soldier"
+    "ar": "«الجُندي» الجنديُّ من العسكر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jundi» is the soldier."
   },
   "story": {
     "ar": "«الجُندي» جُندي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في ربدان، أبوظبي.",
@@ -116803,8 +116803,8 @@ window.STREETS = [
   "ar": "شارع الجَنَى",
   "en": "Al Jana Street",
   "meaning": {
-    "ar": "«الجَنَى»: جَنَى",
-    "en": "Al Jana: harvest"
+    "ar": "«الجَنَى» الجنىُّ من الثمار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jana» is the harvest of fruit."
   },
   "story": {
     "ar": "«الجَنَى» جَنَى، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
@@ -116819,8 +116819,8 @@ window.STREETS = [
   "ar": "شارع الجواب",
   "en": "Al Jawab Street",
   "meaning": {
-    "ar": "«الجواب»: جواب",
-    "en": "Al Jawab: answer, reply"
+    "ar": "«الجواب» الجوابُ عن السؤال؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jawab» is the answer to a question."
   },
   "story": {
     "ar": "«الجواب» جواب، والاسم مأخوذ من هذه الكلمة. والشارع يقع في غْنَيْمَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -116851,8 +116851,8 @@ window.STREETS = [
   "ar": "شارع الجَوَّال",
   "en": "Al Jawwal Street",
   "meaning": {
-    "ar": "«الجَوَّال»: جَوَّال",
-    "en": "Al Jawwal: mobile phone"
+    "ar": "«الجَوَّال» الجوّالُ من الهواتف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jawwal» is the mobile phone."
   },
   "story": {
     "ar": "«الجَوَّال» جَوَّال، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الطِّوَيَّة من إمارة أبوظبي.",
@@ -116867,8 +116867,8 @@ window.STREETS = [
   "ar": "شارع الجَودة",
   "en": "Al Jawdah Street",
   "meaning": {
-    "ar": "«الجَودة»: جَوْدَة",
-    "en": "Al Jawdah: quality"
+    "ar": "«الجَودة» الجودةُ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jawdah» is the quality in a thing."
   },
   "story": {
     "ar": "«الجَودة» جَوْدَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة خليفة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -116883,8 +116883,8 @@ window.STREETS = [
   "ar": "شارع الجُورِي",
   "en": "Al Jouri Street",
   "meaning": {
-    "ar": "«الجُورِي»: جُورِي",
-    "en": "Al Jouri: damask rose"
+    "ar": "«الجُورِي» الجوريُّ من الورد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Juri» is the damask rose."
   },
   "story": {
     "ar": "«الجُورِي» جُورِي، والاسم مأخوذ من هذه الكلمة. وهو الشارع في أم غَافة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -116899,8 +116899,8 @@ window.STREETS = [
   "ar": "شارع الجَوشن",
   "en": "Al Jawshan Street",
   "meaning": {
-    "ar": "«الجَوشن»: جَوشن",
-    "en": "Al Jawshan: armour, chain mail"
+    "ar": "«الجَوشن» الجَوشنُ من السلاح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jawshan» is the coat of mail."
   },
   "story": {
     "ar": "«الجَوشن» جَوشن، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة خليفة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -116915,8 +116915,8 @@ window.STREETS = [
   "ar": "شارع الجَوْهَر",
   "en": "Al Jawhar Street",
   "meaning": {
-    "ar": "«الجَوْهَر»: جَوْهَر",
-    "en": "Al Jawhar: soul"
+    "ar": "«الجَوْهَر» جوهرُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jawhar» is the essence of a thing."
   },
   "story": {
     "ar": "«الجَوْهَر» جَوْهَر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة شخبوط بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -116947,8 +116947,8 @@ window.STREETS = [
   "ar": "شارع الجيش",
   "en": "Al Jesh Street",
   "meaning": {
-    "ar": "«الجيش»: جيش",
-    "en": "Al Jesh: an army"
+    "ar": "«الجيش» الجيشُ من العسكر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Jesh» is the army."
   },
   "story": {
     "ar": "«الجيش» جيش، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في جميرا.",
@@ -116995,8 +116995,8 @@ window.STREETS = [
   "ar": "شارع الحافِز",
   "en": "Al Hafiz Street",
   "meaning": {
-    "ar": "«الحافِز»: حافِز",
-    "en": "Al Hafiz: incentive, stimulant"
+    "ar": "«الحافِز» الحافزُ إلى العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hafiz» is the incentive to work."
   },
   "story": {
     "ar": "«الحافِز» حافِز، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في آل نَهيان من إمارة أبوظبي.",
@@ -117011,8 +117011,8 @@ window.STREETS = [
   "ar": "شارع الحافِل",
   "en": "Al Hafil Street",
   "meaning": {
-    "ar": "«الحافِل»: حافِل",
-    "en": "Al Hafil: rich in, full of"
+    "ar": "«الحافِل» الآخذُ من الشيء بوفور؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hafil» is the one full of a thing."
   },
   "story": {
     "ar": "«الحافِل» حافِل، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة خليفة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -117027,8 +117027,8 @@ window.STREETS = [
   "ar": "شارع الحَامول",
   "en": "Al Hamoul Street",
   "meaning": {
-    "ar": "«الحَامول»: حَامُول",
-    "en": "Al Hamoul: the dodder plant"
+    "ar": "«الحَامول» نباتُ الحامول؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hamul» is the dodder plant."
   },
   "story": {
     "ar": "«الحَامول» حَامُول، والاسم مأخوذ من هذه الكلمة. وهو الشارع في ربدان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -117059,8 +117059,8 @@ window.STREETS = [
   "ar": "شارع الحَبّار",
   "en": "Al Habbar Street",
   "meaning": {
-    "ar": "«الحَبّار»: حَبّار",
-    "en": "Al Habbar: squid"
+    "ar": "«الحَبّار» الحَبّارُ من الأحياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Habbar» is the cuttlefish."
   },
   "story": {
     "ar": "«الحَبّار» حَبّار، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم غَافة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -117155,8 +117155,8 @@ window.STREETS = [
   "ar": "شارع الحَدوة",
   "en": "Al Hadwah Street",
   "meaning": {
-    "ar": "«الحَدوة»: حَدوة",
-    "en": "Al Hadwah: horseshoe"
+    "ar": "«الحَدوة» حدوةُ الفرس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hadwah» is the horseshoe."
   },
   "story": {
     "ar": "«الحَدوة» حَدوة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في بني ياس من إمارة أبوظبي.",
@@ -117171,8 +117171,8 @@ window.STREETS = [
   "ar": "شارع الحُر",
   "en": "Al Hur Street",
   "meaning": {
-    "ar": "«الحُر»: حُر",
-    "en": "Al Hur: free"
+    "ar": "«الحُر» الحُرُّ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hur» is the free one among people."
   },
   "story": {
     "ar": "«الحُر» حُر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الصَّارُوج بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -117187,8 +117187,8 @@ window.STREETS = [
   "ar": "شارع الحراب",
   "en": "Al Hirab Street",
   "meaning": {
-    "ar": "«الحراب»: حراب",
-    "en": "Al Hirab: warfare"
+    "ar": "«الحراب» الحربُ والقتال؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hirab» is warfare and fighting."
   },
   "story": {
     "ar": "«الحراب» حراب، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَرْخَانِيَّة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -117219,8 +117219,8 @@ window.STREETS = [
   "ar": "شارع الحرث",
   "en": "Al Harth Street",
   "meaning": {
-    "ar": "«الحرث»: حرث",
-    "en": "Al Harth: arable land"
+    "ar": "«الحرث» أرضُ الحرث؛ والاسم من هذا اللفظ.",
+    "en": "«Al Harth» is the tilled land."
   },
   "story": {
     "ar": "«الحرث» حرث، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الشَّوامخ بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -117235,8 +117235,8 @@ window.STREETS = [
   "ar": "شارع الحَرَس",
   "en": "Al Haras Street",
   "meaning": {
-    "ar": "«الحَرَس»: حَرَس",
-    "en": "Al Haras: watch"
+    "ar": "«الحَرَس» الحراسةُ والحفظ؛ والاسم من هذا اللفظ.",
+    "en": "«Al Haras» is the watch and keeping."
   },
   "story": {
     "ar": "«الحَرَس» حَرَس، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة الرياض، أبوظبي.",
@@ -117251,8 +117251,8 @@ window.STREETS = [
   "ar": "شارع الحِرَف",
   "en": "Al Hiraf Street",
   "meaning": {
-    "ar": "«الحِرَف»: حِرَف",
-    "en": "Al Hiraf: consonant"
+    "ar": "«الحِرَف» الحرفُ من الحروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hiraf» is the consonant among letters."
   },
   "story": {
     "ar": "«الحِرَف» حِرَف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مُصَفَح.",
@@ -117283,8 +117283,8 @@ window.STREETS = [
   "ar": "شارع الحُرِّيَّة",
   "en": "Al Hurriyah Street",
   "meaning": {
-    "ar": "«الحُرِّيَّة»: حُرِّيَّة",
-    "en": "Al Hurriyah: freedom, liberty"
+    "ar": "«الحُرِّيَّة» الحُرِّيَّةُ من العبودية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hurriyyah» is freedom from bondage."
   },
   "story": {
     "ar": "«الحُرِّيَّة» حُرِّيَّة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -117299,8 +117299,8 @@ window.STREETS = [
   "ar": "شارع الحَرِير",
   "en": "Al Hareer Street",
   "meaning": {
-    "ar": "«الحَرِير»: حَرِير",
-    "en": "Al Hareer: silk"
+    "ar": "«الحَرِير» الحريرُ من الثياب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Harir» is silk among cloths."
   },
   "story": {
     "ar": "«الحَرِير» حَرِير، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المَنهَل من إمارة أبوظبي.",
@@ -117315,8 +117315,8 @@ window.STREETS = [
   "ar": "شارع الحساس",
   "en": "Al Hassas Street",
   "meaning": {
-    "ar": "«الحساس»: حساس",
-    "en": "Al Hassas: living being"
+    "ar": "«الحساس» الحساسُ من الأحياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hassas» is the living being."
   },
   "story": {
     "ar": "«الحساس» حساس، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الرَّحبة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -117331,8 +117331,8 @@ window.STREETS = [
   "ar": "شارع الحُسام",
   "en": "Al Husam Street",
   "meaning": {
-    "ar": "«الحُسام»: حُسام",
-    "en": "Al Husam: sharp sabre, sword"
+    "ar": "«الحُسام» الحسامُ من السيوف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Husam» is the sharp sabre."
   },
   "story": {
     "ar": "«الحُسام» حُسام، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الدَّانَةْ، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -117347,8 +117347,8 @@ window.STREETS = [
   "ar": "شارع الحسم",
   "en": "Al Hasm Street",
   "meaning": {
-    "ar": "«الحسم»: حسم",
-    "en": "Al Hasm: decisiveness"
+    "ar": "«الحسم» الحسمُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hasm» is decisiveness in a matter."
   },
   "story": {
     "ar": "«الحسم» حسم، والاسم مأخوذ من هذه الكلمة. والشارع في العامرة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -117363,8 +117363,8 @@ window.STREETS = [
   "ar": "شارع الحِشمة",
   "en": "Al Hishmah Street",
   "meaning": {
-    "ar": "«الحِشمة»: حِشمة",
-    "en": "Al Hishmah: modesty"
+    "ar": "«الحِشمة» الحشمةُ في الهيئة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hishmah» is modesty in bearing."
   },
   "story": {
     "ar": "«الحِشمة» حِشمة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الفُوعَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -117379,8 +117379,8 @@ window.STREETS = [
   "ar": "شارع الحصاد",
   "en": "Al Hasaad Street",
   "meaning": {
-    "ar": "«الحصاد»: حصاد",
-    "en": "Al Hasaad: harvest"
+    "ar": "«الحصاد» حصادُ الزرع؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hasad» is the harvest of crops."
   },
   "story": {
     "ar": "الاسم «الحصاد» حصاد، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -117411,8 +117411,8 @@ window.STREETS = [
   "ar": "شارع الحصى",
   "en": "Al Hasa Street",
   "meaning": {
-    "ar": "«الحصى»: حصى",
-    "en": "Al Hasa: pebble, gravel"
+    "ar": "«الحصى» الحصىُّ من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hasa» is gravel of the ground."
   },
   "story": {
     "ar": "«الحصى» حصى، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الرَّحبة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -117443,8 +117443,8 @@ window.STREETS = [
   "ar": "شارع الحضارة",
   "en": "Al Hadarah Street",
   "meaning": {
-    "ar": "«الحضارة»: حضارة",
-    "en": "Al Hadarah: civilization"
+    "ar": "«الحضارة» حضارةُ الأمم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hadarah» is the civilization of peoples."
   },
   "story": {
     "ar": "«الحضارة» حضارة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المَنهَل بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -117459,8 +117459,8 @@ window.STREETS = [
   "ar": "شارع الحَظ",
   "en": "Al Hadh Street",
   "meaning": {
-    "ar": "«الحَظ»: حَظ",
-    "en": "Al Hadh: luck"
+    "ar": "«الحَظ» الحظُّ من العيش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hazz» is one's lot in life."
   },
   "story": {
     "ar": "الاسم «الحَظ» حَظ، وليس مركّباً. وهو الشارع في الجَاهلِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -117475,8 +117475,8 @@ window.STREETS = [
   "ar": "شارع الحقبة الجهني",
   "en": "Al Huqba Al Jahni Street",
   "meaning": {
-    "ar": "«الحقبة الجهني»: حقبة",
-    "en": "Al Huqba Al Jahni: age, epoch"
+    "ar": "«الحقبة» الحقبةُ من الزمان؛ والاسم مركّب.",
+    "en": "«Al Huqbah» is an age of time; the name is compound."
   },
   "story": {
     "ar": "«الحقبة» حقبة، و«الجهني» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في كلباء، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -117491,8 +117491,8 @@ window.STREETS = [
   "ar": "شارع الحُقُف",
   "en": "Al Huquf Street",
   "meaning": {
-    "ar": "«الحُقُف»: حُقُف",
-    "en": "Al Huquf: long winding sandhill"
+    "ar": "«الحُقُف» الكثيبُ الرمليُّ الطويل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Huquf» is the long winding sandhill."
   },
   "story": {
     "ar": "«الحُقُف» حُقُف، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الروضة الشرقية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -117507,8 +117507,8 @@ window.STREETS = [
   "ar": "شارع الحَكِيم",
   "en": "Al Hakeem Street",
   "meaning": {
-    "ar": "«الحَكِيم»: حَكِيم",
-    "en": "Al Hakeem: wise"
+    "ar": "«الحَكِيم» الحكيمُ في رأيه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hakim» is the wise one in counsel."
   },
   "story": {
     "ar": "«الحَكِيم» حَكِيم، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الفُوعَة، أبوظبي.",
@@ -117523,8 +117523,8 @@ window.STREETS = [
   "ar": "شارع الحلة البيضا",
   "en": "Al Halah Al Beydhah Street",
   "meaning": {
-    "ar": "«الحلة البيضا»: حلة",
-    "en": "Al Halah Al Beydhah: suit"
+    "ar": "«الحلة» الثيابُ الكاملة؛ والاسم مركّب.",
+    "en": "«Al Halah» is the full suit of clothes; the name is compound."
   },
   "story": {
     "ar": "«الحلة» حلة، و«البيضا» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في الدار البيضاء.",
@@ -117555,8 +117555,8 @@ window.STREETS = [
   "ar": "شارع الحلقة",
   "en": "Al Halqah Street",
   "meaning": {
-    "ar": "«الحلقة»: حلقة",
-    "en": "Al Halqah: ring, loop"
+    "ar": "«الحلقة» الحلقةُ من الخواتم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Halqah» is the ring among rings."
   },
   "story": {
     "ar": "«الحلقة» حلقة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المَرْخَانِيَّة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -117571,8 +117571,8 @@ window.STREETS = [
   "ar": "شارع الحِلم",
   "en": "Al Hilm Street",
   "meaning": {
-    "ar": "«الحِلم»: حِلم",
-    "en": "Al Hilm: utopia"
+    "ar": "«الحِلم» الحلمُ الذي يُرى؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hilm» is the dream one sees."
   },
   "story": {
     "ar": "«الحِلم» حِلم، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مُصَفَح من إمارة أبوظبي.",
@@ -117587,8 +117587,8 @@ window.STREETS = [
   "ar": "شارع الحِلِيف",
   "en": "Al Hileef Street",
   "meaning": {
-    "ar": "«الحِلِيف»: حِلِيف",
-    "en": "Al Hileef: ally, confederate"
+    "ar": "«الحِلِيف» من «حَلَفَ يَحْلِفُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hilif» comes from the root halafa."
   },
   "story": {
     "ar": "«الحِلِيف» حِلِيف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المَنهَل بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -117603,8 +117603,8 @@ window.STREETS = [
   "ar": "شارع الحِمَايَة",
   "en": "Al Himayah Street",
   "meaning": {
-    "ar": "«الحِمَايَة»: حماية",
-    "en": "Al Himayah: protection"
+    "ar": "«الحِمَايَة» الحمايةُ من الضرر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Himayah» is protection from harm."
   },
   "story": {
     "ar": "الاسم «الحِمَايَة» حماية، وليس مركّباً. وهو الشارع في مدينة الرياض، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -117619,8 +117619,8 @@ window.STREETS = [
   "ar": "شارع الحُمر",
   "en": "Al Humr Street",
   "meaning": {
-    "ar": "«الحُمر»: حُمر",
-    "en": "Al Humr: tamarind"
+    "ar": "«الحُمر» نباتُ الحُمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Humr» is the tamarind."
   },
   "story": {
     "ar": "«الحُمر» حُمر، والاسم مأخوذ من هذه الكلمة. والشارع في الهِيَر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -117651,8 +117651,8 @@ window.STREETS = [
   "ar": "شارع الحملة",
   "en": "Al Hamlah Street",
   "meaning": {
-    "ar": "«الحملة»: حملة",
-    "en": "Al Hamlah: attack"
+    "ar": "«الحملة» الحملةُ من الجيوش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hamlah» is the campaign of armies."
   },
   "story": {
     "ar": "«الحملة» حملة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في أم سقيم، دبي.",
@@ -117683,8 +117683,8 @@ window.STREETS = [
   "ar": "شارع الحِنَّاء",
   "en": "Al Hinna-a Street",
   "meaning": {
-    "ar": "«الحِنَّاء»: حِنَّاء",
-    "en": "Al Hinna-a: henna"
+    "ar": "«الحِنَّاء» نباتُ الحناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hinna'» is the henna plant."
   },
   "story": {
     "ar": "«الحِنَّاء» حِنَّاء، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُشرِف من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -117715,8 +117715,8 @@ window.STREETS = [
   "ar": "شارع الحَنيَة",
   "en": "Al Hanyah Street",
   "meaning": {
-    "ar": "«الحَنيَة»: حَنيَة",
-    "en": "Al Hanyah: curvature, bow"
+    "ar": "«الحَنيَة» الانحناءةُ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Haniyyah» is the curve in a thing."
   },
   "story": {
     "ar": "«الحَنيَة» حَنيَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -117731,8 +117731,8 @@ window.STREETS = [
   "ar": "شارع الحُوار",
   "en": "Al Howar Street",
   "meaning": {
-    "ar": "«الحُوار»: حُوار",
-    "en": "Al Howar: dialogue, conversation"
+    "ar": "«الحُوار» الحوارُ بين اثنين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hawar» is the dialogue between two."
   },
   "story": {
     "ar": "«الحُوار» حُوار، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المَرْخَانِيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -117747,8 +117747,8 @@ window.STREETS = [
   "ar": "شارع الحُوَّة",
   "en": "Al Huwwah Street",
   "meaning": {
-    "ar": "«الحُوَّة»: حُوَّة",
-    "en": "Al Huwwah: a dark brown) colour"
+    "ar": "«الحُوَّة» لونٌ أسمرُ مائل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Huwwah» is the dark brown colour."
   },
   "story": {
     "ar": "«الحُوَّة» حُوَّة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في فَلَج هَزَّاع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -117763,8 +117763,8 @@ window.STREETS = [
   "ar": "شارع الحُوَر",
   "en": "Al Huwar Street",
   "meaning": {
-    "ar": "«الحُوَر»: حُوَر",
-    "en": "Al Huwar: intense whiteness"
+    "ar": "«الحُوَر» شدةُ البياض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Huwar» is intense whiteness."
   },
   "story": {
     "ar": "«الحُوَر» حُوَر، والاسم مأخوذ من هذه الكلمة. والشارع في أم غَافة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -117779,8 +117779,8 @@ window.STREETS = [
   "ar": "شارع الحوراء",
   "en": "Al Hawra-a Street",
   "meaning": {
-    "ar": "«الحوراء»: حوراء",
-    "en": "Al Hawra-a: belle"
+    "ar": "«الحوراء» من «الحَوَر» في العينين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hawra'» comes from the hawr of the eyes."
   },
   "story": {
     "ar": "«الحوراء» حوراء، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الحِصِن بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -117795,8 +117795,8 @@ window.STREETS = [
   "ar": "شارع الحُوريَّة",
   "en": "Al Houriyyah Street",
   "meaning": {
-    "ar": "«الحُوريَّة»: حُوريَّة",
-    "en": "Al Houriyyah: maiden"
+    "ar": "«الحُوريَّة» من «الحَوَر»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Huriyyah» comes from the root hawara."
   },
   "story": {
     "ar": "«الحُوريَّة» حُوريَّة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الحِصِن.",
@@ -117811,8 +117811,8 @@ window.STREETS = [
   "ar": "شارع الحوض",
   "en": "Al Hawd Street",
   "meaning": {
-    "ar": "«الحوض»: حوض",
-    "en": "Al Hawd: basin"
+    "ar": "«الحوض» الحوضُ من الآنية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hawd» is the basin among vessels."
   },
   "story": {
     "ar": "«الحوض» حوض، والاسم مأخوذ من هذه الكلمة. والشارع يقع في النَّهضة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -117827,8 +117827,8 @@ window.STREETS = [
   "ar": "شارع الحُومه",
   "en": "Al Houmah Street",
   "meaning": {
-    "ar": "«الحُومه»: حُومه",
-    "en": "Al Houmah: low ground by water"
+    "ar": "«الحُومه» المكانُ المنخفضُ عند الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Humah» is the low ground by water."
   },
   "story": {
     "ar": "«الحُومه» حُومه، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الطَّوِيلَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -117875,8 +117875,8 @@ window.STREETS = [
   "ar": "شارع الحيطة",
   "en": "Al Heetah Street",
   "meaning": {
-    "ar": "«الحيطة»: حيطة",
-    "en": "Al Heetah: cautiousness"
+    "ar": "«الحيطة» الحيطةُ والحذر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Haytah» is caution and prudence."
   },
   "story": {
     "ar": "«الحيطة» حيطة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّوامخ، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -117923,8 +117923,8 @@ window.STREETS = [
   "ar": "شارع الخاص",
   "en": "Al Khas Street",
   "meaning": {
-    "ar": "«الخاص»: خاص",
-    "en": "Al Khas: special"
+    "ar": "«الخاص» الخاصُّ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khas» is the special one among people."
   },
   "story": {
     "ar": "«الخاص» خاص، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الصَّدر، أبوظبي.",
@@ -117939,8 +117939,8 @@ window.STREETS = [
   "ar": "شارع الخاطر",
   "en": "Al Khatir Street",
   "meaning": {
-    "ar": "«الخاطر»: خاطر",
-    "en": "Al Khatir: thought"
+    "ar": "«الخاطر» الخاطرُ من الأفكار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khatir» is the passing thought."
   },
   "story": {
     "ar": "«الخاطر» خاطر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الروضة الشرقية.",
@@ -117955,8 +117955,8 @@ window.STREETS = [
   "ar": "شارع الخان",
   "en": "Al Khan Street",
   "meaning": {
-    "ar": "«الخان»: خان",
-    "en": "Al Khan: hostel"
+    "ar": "«الخان» الخانُ من المباني؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khan» is the caravanserai."
   },
   "story": {
     "ar": "«الخان» خان، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المجاز من إمارة الشارقة، والاسم مأخوذ من موضع.",
@@ -117987,8 +117987,8 @@ window.STREETS = [
   "ar": "شارع الخُبَط",
   "en": "Al Khubat Street",
   "meaning": {
-    "ar": "«الخُبَط»: خُبَط",
-    "en": "Al Khubat: knock, kick, hit"
+    "ar": "«الخُبَط» الخبطةُ من الضرب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khubat» is the knock of a blow."
   },
   "story": {
     "ar": "«الخُبَط» خُبَط، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في شعبة الوُطَاه من إمارة أبوظبي.",
@@ -118003,8 +118003,8 @@ window.STREETS = [
   "ar": "شارع الختام",
   "en": "Al Khitam Street",
   "meaning": {
-    "ar": "«الختام»: ختام",
-    "en": "Al Khitam: end"
+    "ar": "«الختام» خاتمةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khitam» is the end of a thing."
   },
   "story": {
     "ar": "«الختام» ختام، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الجيمي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -118019,8 +118019,8 @@ window.STREETS = [
   "ar": "شارع الخرج",
   "en": "Al Kharj Street",
   "meaning": {
-    "ar": "«الخرج»: خرج",
-    "en": "Al Kharj: saddlebag"
+    "ar": "«الخرج» الخرجُ من الجلود؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kharij» is the saddlebag of leather."
   },
   "story": {
     "ar": "«الخرج» خرج، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المنطقة الصناعية، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -118035,8 +118035,8 @@ window.STREETS = [
   "ar": "شارع الخَرَز",
   "en": "Al Kharaz Street",
   "meaning": {
-    "ar": "«الخَرَز»: خَرَز",
-    "en": "Al Kharaz: beads"
+    "ar": "«الخَرَز» الخرزُ من الجواهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kharaz» is the beads."
   },
   "story": {
     "ar": "«الخَرَز» خَرَز، والاسم مأخوذ من هذه الكلمة. والشارع في ميناء زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -118067,8 +118067,8 @@ window.STREETS = [
   "ar": "شارع الخِرَيْر",
   "en": "Al Khirayr Street",
   "meaning": {
-    "ar": "«الخِرَيْر»: خَرِير",
-    "en": "Al Khirayr: a murmur"
+    "ar": "«الخِرَيْر» خريرُ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khirayr» is the murmur of flowing water."
   },
   "story": {
     "ar": "«الخِرَيْر» خَرِير، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في آل نَهيان، أبوظبي.",
@@ -118083,8 +118083,8 @@ window.STREETS = [
   "ar": "شارع الخَزَّاف",
   "en": "Al Khazzaf Street",
   "meaning": {
-    "ar": "«الخَزَّاف»: خَزَّاف",
-    "en": "Al Khazzaf: potter"
+    "ar": "«الخَزَّاف» صانعُ الخزف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khazzaf» is the potter."
   },
   "story": {
     "ar": "«الخَزَّاف» خَزَّاف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في عَشَارِج.",
@@ -118099,8 +118099,8 @@ window.STREETS = [
   "ar": "شارع الخَزان",
   "en": "Al Khazan Street",
   "meaning": {
-    "ar": "«الخَزان»: خَزان",
-    "en": "Al Khazan: dam"
+    "ar": "«الخَزان» الخزانُ من البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khazan» is the dam among structures."
   },
   "story": {
     "ar": "«الخَزان» خَزان، والاسم مأخوذ من هذه الكلمة. والشارع يقع في نَاهِل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -118115,8 +118115,8 @@ window.STREETS = [
   "ar": "شارع الخَزَف",
   "en": "Al Khazaf Street",
   "meaning": {
-    "ar": "«الخَزَف»: خَزَف",
-    "en": "Al Khazaf: earthenware"
+    "ar": "«الخَزَف» الخزفُ من الآنية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khazaf» is earthenware among vessels."
   },
   "story": {
     "ar": "«الخَزَف» خَزَف، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع زاخِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -118131,8 +118131,8 @@ window.STREETS = [
   "ar": "شارع الخزن",
   "en": "Al Kazn Street",
   "meaning": {
-    "ar": "«الخزن»: خزن",
-    "en": "Al Kazn: storing"
+    "ar": "«الخزن» خزنُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khazn» is the storing of a thing."
   },
   "story": {
     "ar": "«الخزن» خزن، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -118147,8 +118147,8 @@ window.STREETS = [
   "ar": "شارع الخَزنة",
   "en": "Al Khaznah Street",
   "meaning": {
-    "ar": "«الخَزنة»: خَزنة",
-    "en": "Al Khaznah: treasure house"
+    "ar": "«الخَزنة» بيتُ الخزنة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khaznah» is the treasure house."
   },
   "story": {
     "ar": "«الخَزنة» خَزنة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -118179,8 +118179,8 @@ window.STREETS = [
   "ar": "شارع الخَصَب",
   "en": "Al Khasab Street",
   "meaning": {
-    "ar": "«الخَصَب»: خَصَب",
-    "en": "Al Khasab: fertile, fruitful"
+    "ar": "«الخَصَب» الخصبُ في الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khasab» is the fertility of land."
   },
   "story": {
     "ar": "«الخَصَب» خَصَب، والاسم مأخوذ من هذه الكلمة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -118211,8 +118211,8 @@ window.STREETS = [
   "ar": "شارع الخِضَاب",
   "en": "Al Khidab Street",
   "meaning": {
-    "ar": "«الخِضَاب»: خِضَاب",
-    "en": "Al Khidab: pigment, dye"
+    "ar": "«الخِضَاب» الخضابُ من الأصباغ؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khidab» is the dye among pigments."
   },
   "story": {
     "ar": "«الخِضَاب» خِضَاب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المُويجْعِي، أبوظبي.",
@@ -118243,8 +118243,8 @@ window.STREETS = [
   "ar": "شارع الخطَّاط",
   "en": "Al Khattat Street",
   "meaning": {
-    "ar": "«الخطَّاط»: خطَّاط",
-    "en": "Al Khattat: calligrapher"
+    "ar": "«الخطَّاط» صاحبُ الخط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khattat» is the calligrapher."
   },
   "story": {
     "ar": "«الخطَّاط» خطَّاط، والاسم مأخوذ من هذه الكلمة. والشارع يقع في ربدان من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -118259,8 +118259,8 @@ window.STREETS = [
   "ar": "شارع الخطام",
   "en": "Al Khtam Street",
   "meaning": {
-    "ar": "«الخطام»: خِطَام",
-    "en": "Al Khtam: a noseband"
+    "ar": "«الخطام» حبلُ أنف البعير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khtam» is the cord on a camel's nose."
   },
   "story": {
     "ar": "«الخطام» خِطَام، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -118275,8 +118275,8 @@ window.STREETS = [
   "ar": "شارع الخَطِيب",
   "en": "Al Khateeb Street",
   "meaning": {
-    "ar": "«الخَطِيب»: خَطِيب",
-    "en": "Al Khateeb: speaker, lecturer"
+    "ar": "«الخَطِيب» الخطيبُ من المتكلمين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khatib» is the speaker among orators."
   },
   "story": {
     "ar": "«الخَطِيب» خَطِيب، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الجيمي من إمارة أبوظبي.",
@@ -118291,8 +118291,8 @@ window.STREETS = [
   "ar": "شارع الخلَاص",
   "en": "Al Khalas Street",
   "meaning": {
-    "ar": "«الخلَاص»: خلَاص",
-    "en": "Al Khalas: liberation"
+    "ar": "«الخلَاص» الخلاصُ من الشدائد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khalas» is deliverance from hardship."
   },
   "story": {
     "ar": "«الخلَاص» خلَاص، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -118307,8 +118307,8 @@ window.STREETS = [
   "ar": "شارع الخَلالَة",
   "en": "Al Khalalah Street",
   "meaning": {
-    "ar": "«الخَلالَة»: خَلالَة",
-    "en": "Al Khalalah: sincere friendship, amity"
+    "ar": "«الخَلالَة» المودةُ الصادقة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khalalah» is sincere friendship."
   },
   "story": {
     "ar": "«الخَلالَة» خَلالَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في أم غَافة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -118339,8 +118339,8 @@ window.STREETS = [
   "ar": "شارع الخِلَّة",
   "en": "Al Khillah Street",
   "meaning": {
-    "ar": "«الخِلَّة»: خِلَّة",
-    "en": "Al Khillah: cordiality"
+    "ar": "«الخِلَّة» الخلةُ الصادقة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khillah» is true friendship."
   },
   "story": {
     "ar": "«الخِلَّة» خِلَّة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في ربدان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -118355,8 +118355,8 @@ window.STREETS = [
   "ar": "شارع الخلجان",
   "en": "Al Khiljan Street",
   "meaning": {
-    "ar": "«الخلجان»: خلجان",
-    "en": "Al Khiljan: irregular movement"
+    "ar": "«الخلجان» حركاتٌ غيرُ مستقيمة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khiljan» is irregular movement."
   },
   "story": {
     "ar": "«الخلجان» خلجان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الصَّدر، أبوظبي.",
@@ -118371,8 +118371,8 @@ window.STREETS = [
   "ar": "شارع الخلخال",
   "en": "Al Khalkhal Street",
   "meaning": {
-    "ar": "«الخلخال»: خلخال",
-    "en": "Al Khalkhal: anklet"
+    "ar": "«الخلخال» الخلخالُ من الحلي؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khalkhal» is the anklet among ornaments."
   },
   "story": {
     "ar": "«الخلخال» خلخال، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في كورنيش ديرة.",
@@ -118387,8 +118387,8 @@ window.STREETS = [
   "ar": "شارع الخُلد",
   "en": "Al Khuld Street",
   "meaning": {
-    "ar": "«الخُلد»: خُلد",
-    "en": "Al Khuld: mole-rat"
+    "ar": "«الخُلد» الخُلدُ من الحيوان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khuld» is the mole-rat."
   },
   "story": {
     "ar": "«الخُلد» خُلد، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة خليفة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -118403,8 +118403,8 @@ window.STREETS = [
   "ar": "شارع الخلود",
   "en": "Al Khuloud Street",
   "meaning": {
-    "ar": "«الخلود»: خلود",
-    "en": "Al Khuloud: eternity"
+    "ar": "«الخلود» الخلودُ والبقاء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khulud» is eternity and lasting."
   },
   "story": {
     "ar": "«الخلود» خلود، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المَقَام في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -118435,8 +118435,8 @@ window.STREETS = [
   "ar": "شارع الخِلَيف",
   "en": "Al Khilayf Street",
   "meaning": {
-    "ar": "«الخِلَيف»: خِلَيف",
-    "en": "Al Khilayf: successor"
+    "ar": "«الخِلَيف» الخليفةُ من بعده؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khilayf» is the successor after another."
   },
   "story": {
     "ar": "«الخِلَيف» خِلَيف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في هِيلِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -118451,8 +118451,8 @@ window.STREETS = [
   "ar": "شارع الخِن",
   "en": "Al Khinn Street",
   "meaning": {
-    "ar": "«الخِن»: خِن",
-    "en": "Al Khinn: stinking"
+    "ar": "«الخِن» الريحُ النتنة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khinn» is the stinking smell."
   },
   "story": {
     "ar": "«الخِن» خِن، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَرْخَانِيَّة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -118467,8 +118467,8 @@ window.STREETS = [
   "ar": "شارع الخنجر",
   "en": "Al Khanjar Street",
   "meaning": {
-    "ar": "«الخنجر»: خنجر",
-    "en": "Al Khanjar: dagger"
+    "ar": "«الخنجر» الخنجرُ من السلاح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khanjar» is the dagger among arms."
   },
   "story": {
     "ar": "«الخنجر» خنجر، والاسم مأخوذ من هذه الكلمة. والشارع في السَّعادة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -118499,8 +118499,8 @@ window.STREETS = [
   "ar": "شارع الخُوص",
   "en": "Al Khous Street",
   "meaning": {
-    "ar": "«الخُوص»: خُوص",
-    "en": "Al Khous: palm fibre"
+    "ar": "«الخُوص» خوصُ النخل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khaws» is the palm frond."
   },
   "story": {
     "ar": "«الخُوص» خُوص، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -118515,8 +118515,8 @@ window.STREETS = [
   "ar": "شارع الخوَي",
   "en": "Al Khawiy Street",
   "meaning": {
-    "ar": "«الخوَي»: خوي",
-    "en": "Al Khawiy: Khoy"
+    "ar": "«الخوَي» اسمُ مدينةٍ عريقة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khawy» is the name of an ancient city."
   },
   "story": {
     "ar": "«الخوَي» خوي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الدَّانَةْ.",
@@ -118531,8 +118531,8 @@ window.STREETS = [
   "ar": "شارع الخَيَّال",
   "en": "Al Khayal Street",
   "meaning": {
-    "ar": "«الخَيَّال»: خيال",
-    "en": "Al Khayal: imagination"
+    "ar": "«الخَيَّال» الخيالُ من النفس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khayyal» is the imagination of the mind."
   },
   "story": {
     "ar": "«الخَيَّال» خيال، والاسم مأخوذ من هذه الكلمة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -118563,8 +118563,8 @@ window.STREETS = [
   "ar": "شارع الخَيْرَات",
   "en": "Al Khayrat Street",
   "meaning": {
-    "ar": "«الخَيْرَات»: خَيْرَات",
-    "en": "Al Khayrat: good deeds"
+    "ar": "«الخَيْرَات» جمع «خَيْرَة»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khayrat» is the plural of khayrah — good things."
   },
   "story": {
     "ar": "«الخَيْرَات» خَيْرَات، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُعْتَرِض من إمارة أبوظبي.",
@@ -118579,8 +118579,8 @@ window.STREETS = [
   "ar": "شارع الخَيّرة",
   "en": "Al Khayrah Street",
   "meaning": {
-    "ar": "«الخَيّرة»: خَيّرة",
-    "en": "Al Khayrah: elite, pick, prime"
+    "ar": "«الخَيّرة» المنتقاةُ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khayrah» is the chosen part of a thing."
   },
   "story": {
     "ar": "«الخَيّرة» خَيّرة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة شخبوط بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -118595,8 +118595,8 @@ window.STREETS = [
   "ar": "شارع الخيري",
   "en": "Al Khayree Street",
   "meaning": {
-    "ar": "«الخيري»: خيري",
-    "en": "Al Khayree: charitable"
+    "ar": "«الخيري» المنسوبُ إلى الخير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khayri» is the adjective of good."
   },
   "story": {
     "ar": "«الخيري» خيري، والاسم مأخوذ من هذه الكلمة. وهو الشارع في وسط المدينة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -118611,8 +118611,8 @@ window.STREETS = [
   "ar": "شارع الخَيزُران",
   "en": "Al Khayzuran Street",
   "meaning": {
-    "ar": "«الخَيزُران»: خَيزُران",
-    "en": "Al Khayzuran: bamboo, rattan"
+    "ar": "«الخَيزُران» الخيزرانُ من النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khayzuran» is the rattan among plants."
   },
   "story": {
     "ar": "«الخَيزُران» خَيزُران، والاسم مأخوذ من هذه الكلمة. والشارع في الروضة الشرقية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -118627,8 +118627,8 @@ window.STREETS = [
   "ar": "شارع الخَيمة",
   "en": "Al Khaymah Street",
   "meaning": {
-    "ar": "«الخَيمة»: خَيمة",
-    "en": "Al Khaymah: tent"
+    "ar": "«الخَيمة» الخيمةُ من المساكن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khaymah» is the tent among dwellings."
   },
   "story": {
     "ar": "«الخَيمة» خَيمة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الظَّاهِر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -118659,8 +118659,8 @@ window.STREETS = [
   "ar": "شارع الدْبَاغ",
   "en": "Al Dabagh Street",
   "meaning": {
-    "ar": "«الدْبَاغ»: دْبَاغ",
-    "en": "Al Dabagh: tanner"
+    "ar": "«الدْبَاغ» الدبّاغُ من الصناع؛ والاسم من هذا اللفظ.",
+    "en": "«Al Dabbagh» is the tanner among craftsmen."
   },
   "story": {
     "ar": "«الدْبَاغ» دْبَاغ، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الهَرميَّة، أبوظبي.",
@@ -118675,8 +118675,8 @@ window.STREETS = [
   "ar": "شارع الدَّثر",
   "en": "Ad Dathr Street",
   "meaning": {
-    "ar": "«الدَّثر»: دَثَر",
-    "en": "Ad Dathr: abundant water"
+    "ar": "«الدَّثر» كثرةُ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dathr» is copious water."
   },
   "story": {
     "ar": "«الدَّثر» دَثَر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في دلما.",
@@ -118723,8 +118723,8 @@ window.STREETS = [
   "ar": "شارع الدراج",
   "en": "Ad Daraj Street",
   "meaning": {
-    "ar": "«الدراج»: دراج",
-    "en": "Ad Daraj: cyclist, biker"
+    "ar": "«الدراج» راكبُ الدراجة؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Daraj» is the cyclist."
   },
   "story": {
     "ar": "«الدراج» دراج، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في بني ياس من إمارة أبوظبي.",
@@ -118739,8 +118739,8 @@ window.STREETS = [
   "ar": "شارع الدُّرَّة",
   "en": "Ad Durrah Street",
   "meaning": {
-    "ar": "«الدُّرَّة»: دُّرَّة",
-    "en": "Ad Durrah: pearl"
+    "ar": "«الدُّرَّة» الدُّرَّةُ من اللؤلؤ؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Durrah» is the pearl."
   },
   "story": {
     "ar": "«الدُّرَّة» دُّرَّة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في ربدان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -118755,8 +118755,8 @@ window.STREETS = [
   "ar": "شارع الدَّرَجَة",
   "en": "Al Darajah Street",
   "meaning": {
-    "ar": "«الدَّرَجَة»: دَّرَجَة",
-    "en": "Al Darajah: stair, step"
+    "ar": "«الدَّرَجَة» الدرجةُ من البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Darajah» is the stair of a building."
   },
   "story": {
     "ar": "«الدَّرَجَة» دَّرَجَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في وسط المدينة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -118771,8 +118771,8 @@ window.STREETS = [
   "ar": "شارع الدِّرْع",
   "en": "Al Dir' Street",
   "meaning": {
-    "ar": "«الدِّرْع»: دِّرْع",
-    "en": "Al Dir': protective coverings"
+    "ar": "«الدِّرْع» الدرعُ من السلاح؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dir'» is the shield among arms."
   },
   "story": {
     "ar": "«الدِّرْع» دِّرْع، والاسم مأخوذ من هذه الكلمة. والشارع في الرَّحبة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -118787,8 +118787,8 @@ window.STREETS = [
   "ar": "شارع الدِّرهم",
   "en": "Ad Dirham Street",
   "meaning": {
-    "ar": "«الدِّرهم»: دِّرهم",
-    "en": "Ad Dirham: dirham, dirhem"
+    "ar": "«الدِّرهم» الدِّرهمُ من العُملات؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dirham» is the dirham among coins."
   },
   "story": {
     "ar": "«الدِّرهم» دِّرهم، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المُشرِف بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -118835,8 +118835,8 @@ window.STREETS = [
   "ar": "شارع الدِّشمة",
   "en": "Ad Dishmah Street",
   "meaning": {
-    "ar": "«الدِّشمة»: دِّشمة",
-    "en": "Ad Dishmah: bunker"
+    "ar": "«الدِّشمة» الحفرةُ المدافعة؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dishmah» is the bunker."
   },
   "story": {
     "ar": "«الدِّشمة» دِّشمة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -118851,8 +118851,8 @@ window.STREETS = [
   "ar": "شارع الدَّفَّة",
   "en": "Ad Daffah Street",
   "meaning": {
-    "ar": "«الدَّفَّة»: دَّفَّة",
-    "en": "Ad Daffah: side"
+    "ar": "«الدَّفَّة» جهةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Daffah» is the side of a thing."
   },
   "story": {
     "ar": "«الدَّفَّة» دَّفَّة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع بني ياس في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -118867,8 +118867,8 @@ window.STREETS = [
   "ar": "شارع الدلال",
   "en": "Al Dalal Street",
   "meaning": {
-    "ar": "«الدلال»: دلال",
-    "en": "Al Dalal: coquetry"
+    "ar": "«الدلال» الدلالُ في الهيئة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Dalal» is coquetry in bearing."
   },
   "story": {
     "ar": "«الدلال» دلال، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -118883,8 +118883,8 @@ window.STREETS = [
   "ar": "شارع الدلفين",
   "en": "Dolphin Street",
   "meaning": {
-    "ar": "«الدلفين»: دلفين",
-    "en": "Dolphin: dolphin"
+    "ar": "«الدلفين» الدلفينُ من الأحياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Dalfin» is the dolphin."
   },
   "story": {
     "ar": "«الدلفين» دلفين، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -118899,8 +118899,8 @@ window.STREETS = [
   "ar": "شارع الدَّلِيل",
   "en": "Al Daleel Street",
   "meaning": {
-    "ar": "«الدَّلِيل»: دَّلِيل",
-    "en": "Al Daleel: director"
+    "ar": "«الدَّلِيل» الدليلُ الهادي؛ والاسم من هذا اللفظ.",
+    "en": "«Al Dalil» is the guiding proof."
   },
   "story": {
     "ar": "«الدَّلِيل» دَّلِيل، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الوَثْبَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -118931,8 +118931,8 @@ window.STREETS = [
   "ar": "شارع الدِّمَن",
   "en": "Ad Diman Street",
   "meaning": {
-    "ar": "«الدِّمَن»: دِّمَن",
-    "en": "Ad Diman: dung"
+    "ar": "«الدِّمَن» الدِّمَنُ من السماد؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Diman» is dung among fertilisers."
   },
   "story": {
     "ar": "«الدِّمَن» دِّمَن، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مُصَفَح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -118963,8 +118963,8 @@ window.STREETS = [
   "ar": "شارع الدنيا",
   "en": "Al Dunya Street",
   "meaning": {
-    "ar": "«الدنيا»: دنيا",
-    "en": "Al Dunya: this mortal life"
+    "ar": "«الدنيا» الحياةُ في الدنيا؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dunya» is the life of this world."
   },
   "story": {
     "ar": "«الدنيا» دنيا، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الخِبِيصِي، أبوظبي.",
@@ -118995,8 +118995,8 @@ window.STREETS = [
   "ar": "شارع الدودة الحليطي العامري",
   "en": "Aldoda Alhelitti Al Ameri Street",
   "meaning": {
-    "ar": "«الدودة الحليطي العامري»: دودة",
-    "en": "Aldoda Alhelitti Al Ameri: worm"
+    "ar": "«الدودة» الدودةُ المعروفة؛ والاسم مركّب.",
+    "en": "«Al Dudah» is the worm; the name is compound."
   },
   "story": {
     "ar": "«الدودة» دودة، و«الحليطي العامري» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -119011,8 +119011,8 @@ window.STREETS = [
   "ar": "شارع الدور",
   "en": "Al Dour Street",
   "meaning": {
-    "ar": "«الدور»: دور",
-    "en": "Al Dour: role"
+    "ar": "«الدور» الدورُ في العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dawr» is the role in a work."
   },
   "story": {
     "ar": "«الدور» دور، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -119043,8 +119043,8 @@ window.STREETS = [
   "ar": "شارع الدولاب",
   "en": "Al Doulab Street",
   "meaning": {
-    "ar": "«الدولاب»: دولاب",
-    "en": "Al Doulab: water-wheel"
+    "ar": "«الدولاب» الدولابُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dulab» is the water-wheel."
   },
   "story": {
     "ar": "«الدولاب» دولاب، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -119059,8 +119059,8 @@ window.STREETS = [
   "ar": "شارع الدِيَار",
   "en": "Al Diyar Street",
   "meaning": {
-    "ar": "«الدِيَار»: دِيَار",
-    "en": "Al Diyar: monastic, monk"
+    "ar": "«الدِّيَار» جمع «دار»؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Diyar» is the plural of dar — dwellings."
   },
   "story": {
     "ar": "«الدِيَار» دِيَار، والاسم مأخوذ من هذه الكلمة. وهو الشارع في أم غَافة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -119091,8 +119091,8 @@ window.STREETS = [
   "ar": "شارع الذخر",
   "en": "Al Dhakhir Street",
   "meaning": {
-    "ar": "«الذخر»: ذخر",
-    "en": "Al Dhakhir: asset, hoard"
+    "ar": "«الذخر» الذخرُ المدَّخر؛ والاسم من هذا اللفظ.",
+    "en": "«Adh Dhakhar» is the stored asset."
   },
   "story": {
     "ar": "«الذخر» ذخر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم غَافة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -119123,8 +119123,8 @@ window.STREETS = [
   "ar": "شارع الذراع",
   "en": "Al Theraa' Street",
   "meaning": {
-    "ar": "«الذراع»: ذِرَاع",
-    "en": "Al Theraa': a forearm"
+    "ar": "«الذراع» ذراعُ الإنسان والحيوان؛ والاسم من هذا اللفظ.",
+    "en": "«Adh Dhira'» is the limb of man and beast."
   },
   "story": {
     "ar": "«الذراع» ذِرَاع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في الصفوح 1.",
@@ -119155,8 +119155,8 @@ window.STREETS = [
   "ar": "شارع الذري",
   "en": "Al Dhri Street",
   "meaning": {
-    "ar": "«الذري»: ذري",
-    "en": "Al Dhri: atomic"
+    "ar": "«الذَّري» المنسوبُ إلى الذرّ؛ والاسم من هذا اللفظ.",
+    "en": "«Adh Dhari» relates to the atom."
   },
   "story": {
     "ar": "«الذري» ذري، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -119171,8 +119171,8 @@ window.STREETS = [
   "ar": "شارع الذكر",
   "en": "Al Thecker Street",
   "meaning": {
-    "ar": "«الذكر»: ذكر",
-    "en": "Al Thecker: male"
+    "ar": "«الذَّكر» الذَّكرُ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Adh Dhakar» is the male among people."
   },
   "story": {
     "ar": "«الذكر» ذكر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الرقة من إمارة الشارقة.",
@@ -119203,8 +119203,8 @@ window.STREETS = [
   "ar": "شارع الذوق",
   "en": "Al Dhawq Street",
   "meaning": {
-    "ar": "«الذوق»: ذوق",
-    "en": "Al Dhawq: taste"
+    "ar": "«الذوق» الذوقُ من الحسّ؛ والاسم من هذا اللفظ.",
+    "en": "«Adh Dhawq» is taste among the senses."
   },
   "story": {
     "ar": "«الذوق» ذوق، والاسم مأخوذ من هذه الكلمة. وهو الشارع في آل نَهيان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -119219,8 +119219,8 @@ window.STREETS = [
   "ar": "شارع الرَأَفَة",
   "en": "Al Ra-fah Street",
   "meaning": {
-    "ar": "«الرَأَفَة»: رَأَفَة",
-    "en": "Al Ra-fah: mercy, pity, kindness"
+    "ar": "«الرَّأَفَة» الرقةُ والرأفة؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ra'fah» is tenderness and mercy."
   },
   "story": {
     "ar": "«الرَأَفَة» رَأَفَة، والاسم مأخوذ من هذه الكلمة. والشارع في المُطَاوْعَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -119235,8 +119235,8 @@ window.STREETS = [
   "ar": "شارع الرؤيا",
   "en": "Al Ru-iya Street",
   "meaning": {
-    "ar": "«الرؤيا»: رؤيا",
-    "en": "Al Ru-iya: Revelation"
+    "ar": "«الرؤيا» الرؤياُ في المنام؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ru'ya» is the vision in sleep."
   },
   "story": {
     "ar": "«الرؤيا» رؤيا، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الرَّحبة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -119251,8 +119251,8 @@ window.STREETS = [
   "ar": "شارع الرُّؤية",
   "en": "Ar Ru-yah Street",
   "meaning": {
-    "ar": "«الرُّؤية»: رُّؤية",
-    "en": "Ar Ru-yah: sight"
+    "ar": "«الرُّؤية» الرُّؤيةُ بالعين؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ru'yah» is sight with the eye."
   },
   "story": {
     "ar": "«الرُّؤية» رُّؤية، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السَّعادة، أبوظبي.",
@@ -119267,8 +119267,8 @@ window.STREETS = [
   "ar": "شارع الرئيس جوكو ويدودو",
   "en": "President Joko Widodo Street",
   "meaning": {
-    "ar": "«الرئيس جوكو ويدودو»: رئيس",
-    "en": "President Joko Widodo: boss, chief, leader"
+    "ar": "«الرئيس» الرئيسُ من القوم؛ والاسم مركّب.",
+    "en": "«Ar Ra'is» is the chief among people; the name is compound."
   },
   "story": {
     "ar": "«الرئيس» رئيس، و«جوكو ويدودو» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الروضة.",
@@ -119283,8 +119283,8 @@ window.STREETS = [
   "ar": "شارع الرئيسي",
   "en": "Al Mail Street",
   "meaning": {
-    "ar": "«الرئيسي»: رئيسي",
-    "en": "Al Mail: main"
+    "ar": "«الرئيسي» الرئيسُ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ra'isi» is the principal in a thing."
   },
   "story": {
     "ar": "«الرئيسي» رئيسي، والاسم مأخوذ من هذه الكلمة. والشارع يقع في أم سقيم من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -119299,8 +119299,8 @@ window.STREETS = [
   "ar": "شارع الرَّائِج",
   "en": "Al Ra-ij Street",
   "meaning": {
-    "ar": "«الرَّائِج»: رَّائِج",
-    "en": "Al Ra-ij: common, popular, widespread"
+    "ar": "«الرَّائِج» الرائجُ من السلع؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ra'ij» is the popular among goods."
   },
   "story": {
     "ar": "«الرَّائِج» رَّائِج، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع البَاهية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -119315,8 +119315,8 @@ window.STREETS = [
   "ar": "شارع الرائد",
   "en": "Al Ra-id Street",
   "meaning": {
-    "ar": "«الرائد»: رائد",
-    "en": "Al Ra-id: pioneer"
+    "ar": "«الرائد» الرائدُ المتقدّم؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ra'id» is the pioneer ahead."
   },
   "story": {
     "ar": "«الرائد» رائد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -119331,8 +119331,8 @@ window.STREETS = [
   "ar": "شارع الراتب",
   "en": "Al Ratib Street",
   "meaning": {
-    "ar": "«الراتب»: راتب",
-    "en": "Al Ratib: monotonous"
+    "ar": "«الراتب» الراتبُ المتكرّر؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ratib» is the recurring and dull."
   },
   "story": {
     "ar": "«الراتب» راتب، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الرَّحبة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -119347,8 +119347,8 @@ window.STREETS = [
   "ar": "شارع الرَّاجِحِين",
   "en": "Al Rajiheen Street",
   "meaning": {
-    "ar": "«الرَّاجِحِين»: رَّاجِحِين",
-    "en": "Al Rajiheen: likely, probable, favored, preponderant"
+    "ar": "«الرَّاجِحِين» جمع «راجِح»؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rajihin» is the plural of rajih — the preponderant."
   },
   "story": {
     "ar": "«الرَّاجِحِين» رَّاجِحِين، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الرَّحبة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -119363,8 +119363,8 @@ window.STREETS = [
   "ar": "شارع الرَّاحة",
   "en": "Ar Rahah Street",
   "meaning": {
-    "ar": "«الرَّاحة»: رَّاحة",
-    "en": "Ar Rahah: rest"
+    "ar": "«الرَّاحة» الراحةُ بعد التعب؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rahah» is rest after toil."
   },
   "story": {
     "ar": "«الرَّاحة» رَّاحة، والاسم مأخوذ من هذه الكلمة. والشارع في الراحة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -119379,8 +119379,8 @@ window.STREETS = [
   "ar": "شارع الرَّاسِن",
   "en": "Ar Rasin Street",
   "meaning": {
-    "ar": "«الرَّاسِن»: رَّاسِن",
-    "en": "Ar Rasin: elecampane (Inula helenium)"
+    "ar": "«الرَّاسِن» نباتُ الراسن؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rasin» is the elecampane plant."
   },
   "story": {
     "ar": "«الرَّاسِن» رَّاسِن، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مُصَفَح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -119395,8 +119395,8 @@ window.STREETS = [
   "ar": "شارع الرَّاسِي",
   "en": "Ar Rasi Street",
   "meaning": {
-    "ar": "«الرَّاسِي»: رَّاسِي",
-    "en": "Ar Rasi: vertical"
+    "ar": "«الرَّاسِي» الراسيُّ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rasi» is the fixed and vertical one."
   },
   "story": {
     "ar": "«الرَّاسِي» رَّاسِي، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -119427,8 +119427,8 @@ window.STREETS = [
   "ar": "شارع الرَّافِد",
   "en": "Ar Rafid Street",
   "meaning": {
-    "ar": "«الرَّافِد»: رَّافِد",
-    "en": "Ar Rafid: tributary"
+    "ar": "«الرَّافِد» الرافدُ من الأنهار؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rafid» is the tributary among streams."
   },
   "story": {
     "ar": "«الرَّافِد» رَّافِد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في البطين.",
@@ -119443,8 +119443,8 @@ window.STREETS = [
   "ar": "شارع الرامث",
   "en": "Al Ramth Street",
   "meaning": {
-    "ar": "«الرامث»: رامث",
-    "en": "Al Ramth: rimth"
+    "ar": "«الرامث» نباتُ الرمث؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ramth» is the rimth shrub."
   },
   "story": {
     "ar": "«الرامث» رامث، والاسم مأخوذ من هذه الكلمة. والشارع يقع في البرشاء 1 من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -119459,8 +119459,8 @@ window.STREETS = [
   "ar": "شارع الراي",
   "en": "Al Rai Street",
   "meaning": {
-    "ar": "«الراي»: راي",
-    "en": "Al Rai: raï"
+    "ar": "«الراي» فنٌّ غنائيٌّ معروف؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rai» is a known genre of song."
   },
   "story": {
     "ar": "«الراي» راي، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع عَشَارِج في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -119475,8 +119475,8 @@ window.STREETS = [
   "ar": "شارع الرباعي",
   "en": "Al Ruba'i Street",
   "meaning": {
-    "ar": "«الرباعي»: رِبَاعِيّ",
-    "en": "Al Ruba'i: relay team of four"
+    "ar": "«الرباعي» المركَّبُ من أربعة؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ruba'i» is what is made of four."
   },
   "story": {
     "ar": "«الرباعي» رِبَاعِيّ، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -119491,8 +119491,8 @@ window.STREETS = [
   "ar": "شارع الربش",
   "en": "Al Rabsh Street",
   "meaning": {
-    "ar": "«الربش»: رَبَش",
-    "en": "Al Rabsh: nail whiteness"
+    "ar": "«الربش» بياضٌ في أظافر الصغار؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rabsh» is whiteness in children's nails."
   },
   "story": {
     "ar": "«الربش» رَبَش، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في أم سقيم بإمارة دبي، والاسم من أسماء المواضع.",
@@ -119507,8 +119507,8 @@ window.STREETS = [
   "ar": "شارع الرُّبع الخالِي",
   "en": "Ar Rub' Al Khali Street",
   "meaning": {
-    "ar": "«الرُّبع الخالِي»: رُّبع",
-    "en": "Ar Rub' Al Khali: one fourth; one quarter"
+    "ar": "«الرُّبع» الرُّبعُ من الأرباع؛ والاسم مركّب.",
+    "en": "«Ar Rub'» is the quarter among fourths; the name is compound."
   },
   "story": {
     "ar": "«الرُّبع» رُّبع، و«الخالِي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في آل نَهيان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -119523,8 +119523,8 @@ window.STREETS = [
   "ar": "شارع الرَّبوة",
   "en": "Ar Rabwah Street",
   "meaning": {
-    "ar": "«الرَّبوة»: رَّبوة",
-    "en": "Ar Rabwah: myriad, ten thousand"
+    "ar": "«الرَّبوة» العشرةُ آلاف؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rabwah» is ten thousand."
   },
   "story": {
     "ar": "«الرَّبوة» رَّبوة، والاسم مأخوذ من هذه الكلمة. والشارع في الروضة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -119555,8 +119555,8 @@ window.STREETS = [
   "ar": "شارع الرُتَم",
   "en": "Al Rutam Street",
   "meaning": {
-    "ar": "«الرُتَم»: رُتَم",
-    "en": "Al Rutam: crushed, bruised"
+    "ar": "«الرُتَم» المكسورُ المهروش؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rutam» is the crushed and bruised."
   },
   "story": {
     "ar": "«الرُتَم» رُتَم، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في ميناء زايد، أبوظبي.",
@@ -119603,8 +119603,8 @@ window.STREETS = [
   "ar": "شارع الرَّحِيق",
   "en": "Al Raheeq Street",
   "meaning": {
-    "ar": "«الرَّحِيق»: رَّحِيق",
-    "en": "Al Raheeq: choicest wine"
+    "ar": "«الرَّحِيق» الشرابُ المصفّى؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Raheeq» is the strained drink."
   },
   "story": {
     "ar": "«الرَّحِيق» رَّحِيق، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع ربدان في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -119619,8 +119619,8 @@ window.STREETS = [
   "ar": "شارع الرخام",
   "en": "Al Rukham Street",
   "meaning": {
-    "ar": "«الرخام»: رخام",
-    "en": "Al Rukham: marble"
+    "ar": "«الرخام» الرخامُ من الأحجار؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rukham» is marble among stones."
   },
   "story": {
     "ar": "«الرخام» رخام، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المرْفَأ من إمارة أبوظبي.",
@@ -119635,8 +119635,8 @@ window.STREETS = [
   "ar": "شارع الرِّدَاء",
   "en": "Al Rida Street",
   "meaning": {
-    "ar": "«الرِّدَاء»: رِدَاء",
-    "en": "Al Rida: a garment"
+    "ar": "«الرِّدَاء» الرداءُ من الثياب؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rida'» is the garment among clothes."
   },
   "story": {
     "ar": "«الرِّدَاء» رِدَاء، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -119667,8 +119667,8 @@ window.STREETS = [
   "ar": "شارع الرَّدِيف",
   "en": "Al Radeef Street",
   "meaning": {
-    "ar": "«الرَّدِيف»: رَّدِيف",
-    "en": "Al Radeef: who comes behind another"
+    "ar": "«الرَّدِيف» الذي يأتي بعد غيره؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Radif» is the one who comes behind another."
   },
   "story": {
     "ar": "«الرَّدِيف» رَّدِيف، والاسم مأخوذ من هذه الكلمة. والشارع في المُشرِف، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -119683,8 +119683,8 @@ window.STREETS = [
   "ar": "شارع الرَّذاذ",
   "en": "Al Radhadh Street",
   "meaning": {
-    "ar": "«الرَّذاذ»: رَّذاذ",
-    "en": "Al Radhadh: drizzle, drizzling"
+    "ar": "«الرَّذاذ» الرذاذُ من المطر؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Radhadh» is the drizzle of rain."
   },
   "story": {
     "ar": "«الرَّذاذ» رَّذاذ، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الجيمي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -119715,8 +119715,8 @@ window.STREETS = [
   "ar": "شارع الرِّزق",
   "en": "Ar Rizq Street",
   "meaning": {
-    "ar": "«الرِّزق»: رِّزق",
-    "en": "Ar Rizq: daily wage"
+    "ar": "«الرِّزق» الرزقُ من العيش؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rizq» is one's livelihood."
   },
   "story": {
     "ar": "«الرِّزق» رِّزق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في زاخِر، أبوظبي.",
@@ -119731,8 +119731,8 @@ window.STREETS = [
   "ar": "شارع الرِّزمة",
   "en": "Ar Rizmah Street",
   "meaning": {
-    "ar": "«الرِّزمة»: رِّزمة",
-    "en": "Ar Rizmah: a high sand hill"
+    "ar": "«الرِّزمة» الكثيبُ الرمليُّ العالي؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rizmah» is the high sand hill."
   },
   "story": {
     "ar": "«الرِّزمة» رِّزمة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المرْفَأ.",
@@ -119747,8 +119747,8 @@ window.STREETS = [
   "ar": "شارع الرسالة",
   "en": "Al Risalah Street",
   "meaning": {
-    "ar": "«الرسالة»: رسالة",
-    "en": "Al Risalah: letter"
+    "ar": "«الرسالة» الرسالةُ المكتوبة؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Risalah» is the written letter."
   },
   "story": {
     "ar": "«الرسالة» رسالة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُويجْعِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -119763,8 +119763,8 @@ window.STREETS = [
   "ar": "شارع الرَّسَن",
   "en": "Ar Rasan Street",
   "meaning": {
-    "ar": "«الرَّسَن»: رَسَن",
-    "en": "Ar Rasan: a leading rope"
+    "ar": "«الرَّسَن» رسنُ البعير؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rasan» is the animal's leading rope."
   },
   "story": {
     "ar": "«الرَّسَن» رَسَن، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع غِيَّاثِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -119779,8 +119779,8 @@ window.STREETS = [
   "ar": "شارع الرَّش",
   "en": "Al Rash Street",
   "meaning": {
-    "ar": "«الرَّش»: رَّش",
-    "en": "Al Rash: sprinkling"
+    "ar": "«الرَّش» رشُّ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rash» is the sprinkling of water."
   },
   "story": {
     "ar": "«الرَّش» رَّش، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في غْنَيْمَة من إمارة أبوظبي.",
@@ -119811,8 +119811,8 @@ window.STREETS = [
   "ar": "شارع الرِّشاء",
   "en": "Ar Risha-a Street",
   "meaning": {
-    "ar": "«الرِّشاء»: رِّشاء",
-    "en": "Ar Risha-a: rope, cable"
+    "ar": "«الرِّشاء» الحبلُ الممدود؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Risha'» is the stretched rope."
   },
   "story": {
     "ar": "«الرِّشاء» رِّشاء، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -119827,8 +119827,8 @@ window.STREETS = [
   "ar": "شارع الرُّشْد",
   "en": "Al Rushd Street",
   "meaning": {
-    "ar": "«الرُّشْد»: رُّشْد",
-    "en": "Al Rushd: going the right way"
+    "ar": "«الرُّشْد» الرشدُ في الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rushd» is going the right way."
   },
   "story": {
     "ar": "«الرُّشْد» رُّشْد، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة شخبوط، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -119875,8 +119875,8 @@ window.STREETS = [
   "ar": "شارع الرَّصد",
   "en": "Ar Rasd Street",
   "meaning": {
-    "ar": "«الرَّصد»: رَّصد",
-    "en": "Ar Rasd: observation"
+    "ar": "«الرَّصد» الرصدُ والمراقبة؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rasd» is observation and watching."
   },
   "story": {
     "ar": "«الرَّصد» رَّصد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في ربدان، أبوظبي.",
@@ -119907,8 +119907,8 @@ window.STREETS = [
   "ar": "شارع الرضوان",
   "en": "Al Rudwan Street",
   "meaning": {
-    "ar": "«الرضوان»: رضوان",
-    "en": "Al Rudwan: consent"
+    "ar": "«الرضوان» الرضاُّ عن الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ridwan» is contentment with a thing."
   },
   "story": {
     "ar": "«الرضوان» رضوان، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الرقة من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -119923,8 +119923,8 @@ window.STREETS = [
   "ar": "شارع الرضي",
   "en": "Al Radiy Street",
   "meaning": {
-    "ar": "«الرضي»: رضي",
-    "en": "Al Radiy: satisfied"
+    "ar": "«الرضي» الرضيُّ بما قُسِّم؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Radi» is the one pleased with his lot."
   },
   "story": {
     "ar": "«الرضي» رضي، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -119939,8 +119939,8 @@ window.STREETS = [
   "ar": "شارع الرُطَبَة",
   "en": "Al Rotbah Street",
   "meaning": {
-    "ar": "«الرُطَبَة»: رُطَبَة",
-    "en": "Al Rotbah: lucerne"
+    "ar": "«الرُطَبَة» الرُّطَبَةُ من النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rutbah» is the lucerne plant."
   },
   "story": {
     "ar": "«الرُطَبَة» رُطَبَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -119971,8 +119971,8 @@ window.STREETS = [
   "ar": "شارع الرعاية",
   "en": "Al Ri'ayah Street",
   "meaning": {
-    "ar": "«الرعاية»: رعاية",
-    "en": "Al Ri'ayah: care"
+    "ar": "«الرعاية» الرعايةُ للناس؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ri'ayah» is the care for people."
   },
   "story": {
     "ar": "«الرعاية» رعاية، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المُطَاوْعَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -120003,8 +120003,8 @@ window.STREETS = [
   "ar": "شارع الرف",
   "en": "Al Raf Street",
   "meaning": {
-    "ar": "«الرف»: رف",
-    "en": "Al Raf: sill"
+    "ar": "«الرف» الرفُّ من البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Raff» is the shelf of a building."
   },
   "story": {
     "ar": "«الرف» رف، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المُويجْعِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -120019,8 +120019,8 @@ window.STREETS = [
   "ar": "شارع الرِّفاعة",
   "en": "Ar Rifa'ah Street",
   "meaning": {
-    "ar": "«الرِّفاعة»: رِّفاعة",
-    "en": "Ar Rifa'ah: highness (in rank or status)"
+    "ar": "«الرِّفاعة» الرفعةُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rifa'ah» is highness in place."
   },
   "story": {
     "ar": "«الرِّفاعة» رِّفاعة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في العامرة، أبوظبي.",
@@ -120051,8 +120051,8 @@ window.STREETS = [
   "ar": "شارع الرِّفاه",
   "en": "Ar Rifah Street",
   "meaning": {
-    "ar": "«الرِّفاه»: رِّفاه",
-    "en": "Ar Rifah: welfare"
+    "ar": "«الرِّفاه» الارتفاعُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rifah» is the rising in place."
   },
   "story": {
     "ar": "«الرِّفاه» رِّفاه، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الشَّامْخَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -120067,8 +120067,8 @@ window.STREETS = [
   "ar": "شارع الرَّفراف",
   "en": "Ar Rafraf Street",
   "meaning": {
-    "ar": "«الرَّفراف»: رَّفراف",
-    "en": "Ar Rafraf: kingfisher (Alcedinidae)"
+    "ar": "«الرَّفراف» طائرُ الرفراف؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rafraf» is the kingfisher bird."
   },
   "story": {
     "ar": "«الرَّفراف» رَّفراف، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة خليفة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -120083,8 +120083,8 @@ window.STREETS = [
   "ar": "شارع الرِّفقة",
   "en": "Ar Rifqah Street",
   "meaning": {
-    "ar": "«الرِّفقة»: رِّفقة",
-    "en": "Ar Rifqah: company"
+    "ar": "«الرِّفقة» الرفقةُ في الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rifqah» is company on the way."
   },
   "story": {
     "ar": "«الرِّفقة» رِّفقة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في العامرة من إمارة أبوظبي.",
@@ -120115,8 +120115,8 @@ window.STREETS = [
   "ar": "شارع الرفيف",
   "en": "Al Rafeef Street",
   "meaning": {
-    "ar": "«الرفيف»: رفيف",
-    "en": "Al Rafeef: skylight"
+    "ar": "«الرفيف» رفيفُ السماء؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rafif» is the skylight."
   },
   "story": {
     "ar": "«الرفيف» رفيف، والاسم مأخوذ من هذه الكلمة. وهو الشارع في غْنَيْمَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -120147,8 +120147,8 @@ window.STREETS = [
   "ar": "شارع الرِّقَيِّب",
   "en": "Ar Riqayyib Street",
   "meaning": {
-    "ar": "«الرِّقَيِّب»: رَقِيب",
-    "en": "Ar Riqayyib: watchman"
+    "ar": "«الرِّقَيِّب» الرقيبُ الحافظ؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Raqayyib» is the watchman and keeper."
   },
   "story": {
     "ar": "«الرِّقَيِّب» رَقِيب، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في دلما بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -120179,8 +120179,8 @@ window.STREETS = [
   "ar": "شارع الرِّقَيعات",
   "en": "Ar Riqay'at Street",
   "meaning": {
-    "ar": "«الرِّقَيعات»: رِّقَيعات",
-    "en": "Ar Riqay'at: patched, having suffered mending"
+    "ar": "«الرِّقَيعات» المرقَّعةُ من الثياب؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Riqa'at» are the mended and patched."
   },
   "story": {
     "ar": "«الرِّقَيعات» رِّقَيعات، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في القوع.",
@@ -120195,8 +120195,8 @@ window.STREETS = [
   "ar": "شارع الرُّكن",
   "en": "Ar Rukn Street",
   "meaning": {
-    "ar": "«الرُّكن»: رُكْن",
-    "en": "Ar Rukn: a corner"
+    "ar": "«الرُّكن» زاويةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rukn» is the corner of a thing."
   },
   "story": {
     "ar": "«الرُّكن» رُكْن، والاسم مأخوذ من هذه الكلمة. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -120211,8 +120211,8 @@ window.STREETS = [
   "ar": "شارع الرَّكِيزة",
   "en": "Ar Rakeezah Street",
   "meaning": {
-    "ar": "«الرَّكِيزة»: رَّكِيزة",
-    "en": "Ar Rakeezah: carrying pole"
+    "ar": "«الرَّكِيزة» العَمَدُ الذي يُسند إليه؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rakizah» is the supporting pillar."
   },
   "story": {
     "ar": "«الرَّكِيزة» رَّكِيزة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع العامرة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -120227,8 +120227,8 @@ window.STREETS = [
   "ar": "شارع الرِّمث",
   "en": "Ar Rimth Street",
   "meaning": {
-    "ar": "«الرِّمث»: رِّمث",
-    "en": "Ar Rimth: rimth"
+    "ar": "«الرِّمث» نباتُ الرمث؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rimth» is the rimth shrub."
   },
   "story": {
     "ar": "الاسم «الرِّمث» رِّمث، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في المُشرِف من إمارة أبوظبي.",
@@ -120243,8 +120243,8 @@ window.STREETS = [
   "ar": "شارع الرَّمثاء",
   "en": "Ar Ramtha-a Street",
   "meaning": {
-    "ar": "«الرَّمثاء»: رَّمثاء",
-    "en": "Ar Ramtha-a: place where rimth grows"
+    "ar": "«الرَّمثاء» موضعُ نبات الرمث؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ramtha'» is where the rimth grows."
   },
   "story": {
     "ar": "«الرَّمثاء» رَّمثاء، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مَزْيَد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -120259,8 +120259,8 @@ window.STREETS = [
   "ar": "شارع الرمثه",
   "en": "Al Ramthah Street",
   "meaning": {
-    "ar": "«الرمثه»: رَمْثَة",
-    "en": "Al Ramthah: a stand of rimth shrub"
+    "ar": "«الرمثه» أجمةُ الرمث؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ramthah» is the stand of rimth shrub."
   },
   "story": {
     "ar": "«الرمثه» رَمْثَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -120275,8 +120275,8 @@ window.STREETS = [
   "ar": "شارع الرمية",
   "en": "Al Rumiah Street",
   "meaning": {
-    "ar": "«الرمية»: رمية",
-    "en": "Al Rumiah: throw"
+    "ar": "«الرمية» الرميةُ من الرمي؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rumiyah» is the throw of casting."
   },
   "story": {
     "ar": "«الرمية» رمية، والاسم مأخوذ من هذه الكلمة. والشارع في أم سقيم، والاسم من أسماء المواضع في إمارة دبي.",
@@ -120291,8 +120291,8 @@ window.STREETS = [
   "ar": "شارع الرَّهَج",
   "en": "Al Rahaj Street",
   "meaning": {
-    "ar": "«الرَّهَج»: رَّهَج",
-    "en": "Al Rahaj: dust, haze"
+    "ar": "«الرَّهَج» الغبارُ في الهواء؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rahaj» is dust in the air."
   },
   "story": {
     "ar": "«الرَّهَج» رَّهَج، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة الرياض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -120323,8 +120323,8 @@ window.STREETS = [
   "ar": "شارع الرَّوَّاح",
   "en": "Ar Rawwah Street",
   "meaning": {
-    "ar": "«الرَّوَّاح»: رَّوَّاح",
-    "en": "Ar Rawwah: evening"
+    "ar": "«الرَّوَّاح» المساءُ بعد الغروب؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rawwah» is the evening after sunset."
   },
   "story": {
     "ar": "«الرَّوَّاح» رَّوَّاح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في القوع.",
@@ -120339,8 +120339,8 @@ window.STREETS = [
   "ar": "شارع الرُواية",
   "en": "Ar Riwayah Street",
   "meaning": {
-    "ar": "«الرُواية»: رُواية",
-    "en": "Ar Riwayah: novel, story"
+    "ar": "«الرُواية» الروايةُ من الكتب؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Riwayah» is the novel among books."
   },
   "story": {
     "ar": "«الرُواية» رُواية، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُنتَزه من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -120403,8 +120403,8 @@ window.STREETS = [
   "ar": "شارع الرَّي",
   "en": "Al Rayy Street",
   "meaning": {
-    "ar": "«الرَّي»: رَّي",
-    "en": "Al Rayy: irrigation"
+    "ar": "«الرَّي» ريُّ الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rayy» is the watering of land."
   },
   "story": {
     "ar": "«الرَّي» رَّي، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَرْخَانِيَّة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -120419,8 +120419,8 @@ window.STREETS = [
   "ar": "شارع الريح",
   "en": "Al Reeh Street",
   "meaning": {
-    "ar": "«الريح»: ريح",
-    "en": "Al Reeh: wind"
+    "ar": "«الريح» الريحُ المعروفة؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rih» is the wind."
   },
   "story": {
     "ar": "«الريح» ريح، والاسم مأخوذ من هذه الكلمة. والشارع في المَرْخَانِيَّة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -120451,8 +120451,8 @@ window.STREETS = [
   "ar": "شارع الريمة",
   "en": "Al Reemah Street",
   "meaning": {
-    "ar": "«الريمة»: ريمة",
-    "en": "Al Reemah: Raymah"
+    "ar": "«الريمة» الخيمةُ الصغيرة؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Rimah» is the small tent."
   },
   "story": {
     "ar": "«الريمة» ريمة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المحاضر الشرقية، أبوظبي.",
@@ -120467,8 +120467,8 @@ window.STREETS = [
   "ar": "شارع الزِئْبَق",
   "en": "Al Zi-baq Street",
   "meaning": {
-    "ar": "«الزِئْبَق»: زِئْبَق",
-    "en": "Al Zi-baq: mercury"
+    "ar": "«الزِئْبَق» الزئبقُ من العناصر؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zi'baq» is mercury among elements."
   },
   "story": {
     "ar": "«الزِئْبَق» زِئْبَق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -120483,8 +120483,8 @@ window.STREETS = [
   "ar": "شارع الزارعين",
   "en": "Al Zari'een Street",
   "meaning": {
-    "ar": "«الزارعين»: زارعين",
-    "en": "Al Zari'een: planting, sowing"
+    "ar": "«الزارعين» جمع «زارع»؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zari'in» is the plural of zari' — planters."
   },
   "story": {
     "ar": "«الزارعين» زارعين، والاسم مأخوذ من هذه الكلمة. والشارع يقع في عَشَارِج من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -120515,8 +120515,8 @@ window.STREETS = [
   "ar": "شارع الزَّامة",
   "en": "Az Zamah Street",
   "meaning": {
-    "ar": "«الزَّامة»: زَّامة",
-    "en": "Az Zamah: powerful voice"
+    "ar": "«الزَّامة» الصوتُ الشديد؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zamah» is the powerful voice."
   },
   "story": {
     "ar": "«الزَّامة» زَّامة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -120531,8 +120531,8 @@ window.STREETS = [
   "ar": "شارع الزَّاوِيَة",
   "en": "Al Zawiyah Street",
   "meaning": {
-    "ar": "«الزَّاوِيَة»: زَّاوِيَة",
-    "en": "Al Zawiyah: angle, corner, edge"
+    "ar": "«الزَّاوِيَة» زاويةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zawiyah» is the angle of a thing."
   },
   "story": {
     "ar": "«الزَّاوِيَة» زَّاوِيَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الخِبِيصِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -120547,8 +120547,8 @@ window.STREETS = [
   "ar": "شارع الزَّبَد",
   "en": "Az Zabad Street",
   "meaning": {
-    "ar": "«الزَّبَد»: زَّبَد",
-    "en": "Az Zabad: butter"
+    "ar": "«الزَّبَد» الزبدُ من اللبن؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zabad» is butter from milk."
   },
   "story": {
     "ar": "«الزَّبَد» زَّبَد، والاسم مأخوذ من هذه الكلمة. وهو الشارع في حميم، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -120563,8 +120563,8 @@ window.STREETS = [
   "ar": "شارع الزِّبِيل",
   "en": "Al Zibeel Street",
   "meaning": {
-    "ar": "«الزِّبِيل»: زِّبِيل",
-    "en": "Al Zibeel: frail, basket"
+    "ar": "«الزِّبِيل» الزبيلُ من الجريد؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zibil» is the palm-frond basket."
   },
   "story": {
     "ar": "«الزِّبِيل» زِّبِيل، والاسم مأخوذ من هذه الكلمة. والشارع في الخَالِدية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -120579,8 +120579,8 @@ window.STREETS = [
   "ar": "شارع الزَّخرَفة",
   "en": "Az Zakhrafah Street",
   "meaning": {
-    "ar": "«الزَّخرَفة»: زَّخرَفة",
-    "en": "Az Zakhrafah: adornment"
+    "ar": "«الزَّخرَفة» زخرفةُ البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zakhrafah» is the ornamenting of a building."
   },
   "story": {
     "ar": "«الزَّخرَفة» زَّخرَفة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مُصَفَح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -120595,8 +120595,8 @@ window.STREETS = [
   "ar": "شارع الزراعة",
   "en": "Al Zira'ah Street",
   "meaning": {
-    "ar": "«الزراعة»: زراعة",
-    "en": "Al Zira'ah: agriculture"
+    "ar": "«الزراعة» الزراعةُ في الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zira'ah» is farming the land."
   },
   "story": {
     "ar": "«الزراعة» زراعة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة الرياض، أبوظبي.",
@@ -120627,8 +120627,8 @@ window.STREETS = [
   "ar": "شارع الزَّرع",
   "en": "Az Zar' Street",
   "meaning": {
-    "ar": "«الزَّرع»: زَّرع",
-    "en": "Az Zar': seed"
+    "ar": "«الزَّرع» الزرعُ من الحبوب؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zar'» is the seed among grains."
   },
   "story": {
     "ar": "«الزَّرع» زَّرع، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مَزْيَد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -120659,8 +120659,8 @@ window.STREETS = [
   "ar": "شارع الزُّلال",
   "en": "Az Zulal Street",
   "meaning": {
-    "ar": "«الزُّلال»: زُّلال",
-    "en": "Az Zulal: limpid"
+    "ar": "«الزُّلال» الماءُ الصافي؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zulal» is the limpid water."
   },
   "story": {
     "ar": "«الزُّلال» زُّلال، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في زاخِر من إمارة أبوظبي.",
@@ -120675,8 +120675,8 @@ window.STREETS = [
   "ar": "شارع الزَّمَان",
   "en": "Al Zman Street",
   "meaning": {
-    "ar": "«الزَّمَان»: زَّمَان",
-    "en": "Al Zman Street: time"
+    "ar": "«الزَّمَان» الزمانُ من الأزمنة؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zaman» is time among times."
   },
   "story": {
     "ar": "«الزَّمَان» زَّمَان، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -120691,8 +120691,8 @@ window.STREETS = [
   "ar": "شارع الزِّنَّاد",
   "en": "Az Zinnad Street",
   "meaning": {
-    "ar": "«الزِّنَّاد»: زِّنَّاد",
-    "en": "Az Zinnad: trigger"
+    "ar": "«الزِّنَّاد» زنادُ البندقية؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zinnad» is the trigger of a gun."
   },
   "story": {
     "ar": "«الزِّنَّاد» زِّنَّاد، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -120707,8 +120707,8 @@ window.STREETS = [
   "ar": "شارع الزَّنبَق",
   "en": "Az Zanbaq Street",
   "meaning": {
-    "ar": "«الزَّنبَق»: زنبق",
-    "en": "Az Zanbaq: lily"
+    "ar": "«الزَّنبَق» زهرةُ الزنبق؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zanbaq» is the lily flower."
   },
   "story": {
     "ar": "«الزَّنبَق» زنبق، والاسم مأخوذ من هذه الكلمة. والشارع في الخِرَيْر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -120723,8 +120723,8 @@ window.STREETS = [
   "ar": "شارع الزَّهْريّة",
   "en": "Al Zahriyah Street",
   "meaning": {
-    "ar": "«الزَّهْريّة»: زَّهْريّة",
-    "en": "Al Zahriyah: vase, flowerpot"
+    "ar": "«الزَّهْريّة» موضعُ الزهر؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zahriyyah» is the flowerpot."
   },
   "story": {
     "ar": "«الزَّهْريّة» زَّهْريّة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في وسط المدينة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -120755,8 +120755,8 @@ window.STREETS = [
   "ar": "شارع الزِّيارة",
   "en": "Az Ziyarah Street",
   "meaning": {
-    "ar": "«الزِّيارة»: زِّيارة",
-    "en": "Az Ziyarah: visit"
+    "ar": "«الزِّيارة» زيارةُ الأهل؛ والاسم من هذا اللفظ.",
+    "en": "«Az Ziyarah» is visiting kin."
   },
   "story": {
     "ar": "«الزِّيارة» زِّيارة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -120803,8 +120803,8 @@ window.STREETS = [
   "ar": "شارع الزِّينة",
   "en": "Az Zeenah Street",
   "meaning": {
-    "ar": "«الزِّينة»: زِّينة",
-    "en": "Az Zeenah: embellishment"
+    "ar": "«الزِّينة» الزينةُ والزخرفة؛ والاسم من هذا اللفظ.",
+    "en": "«Az Zinah» is adornment and decor."
   },
   "story": {
     "ar": "«الزِّينة» زِّينة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المحاضر الشرقية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -120819,8 +120819,8 @@ window.STREETS = [
   "ar": "شارع السائرين",
   "en": "Al Sa-ireen Street",
   "meaning": {
-    "ar": "«السائرين»: سائرين",
-    "en": "Al Sa-ireen: going, walking"
+    "ar": "«السائرين» جمع «سائِر»؛ والاسم من هذا اللفظ.",
+    "en": "«As Sa'irin» is the plural of sa'ir — walkers."
   },
   "story": {
     "ar": "الاسم «السائرين» سائرين، وليس مركّباً. والاسم يُنسب إلى موضع، والشارع في أم غَافة من إمارة أبوظبي.",
@@ -120835,8 +120835,8 @@ window.STREETS = [
   "ar": "شارع السابع",
   "en": "Al Sabi' Street",
   "meaning": {
-    "ar": "«السابع»: سابع",
-    "en": "Al Sabi': seventh"
+    "ar": "«السابع» السابعُ في العدد؛ والاسم من هذا اللفظ.",
+    "en": "«As Sabi'» is the seventh in number."
   },
   "story": {
     "ar": "«السابع» سابع، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الخِبِيصِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -120851,8 +120851,8 @@ window.STREETS = [
   "ar": "شارع السار",
   "en": "Al Sar Street",
   "meaning": {
-    "ar": "«السار»: سار",
-    "en": "Al Sar: valid"
+    "ar": "«السار» السارِي من الأمور؛ والاسم من هذا اللفظ.",
+    "en": "«As Sar» is the valid among matters."
   },
   "story": {
     "ar": "«السار» سار، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الجيمي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -120867,8 +120867,8 @@ window.STREETS = [
   "ar": "شارع السَّارِي",
   "en": "Al Sary Street",
   "meaning": {
-    "ar": "«السَّارِي»: سَارِي",
-    "en": "Al Sary: a sari"
+    "ar": "«السَّارِي» الثوبُ الهنديُّ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«As Sari» is the known Indian cloth."
   },
   "story": {
     "ar": "«السَّارِي» سَارِي، والاسم مأخوذ من هذه الكلمة. والشارع في المُعْتَرِض، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -120899,8 +120899,8 @@ window.STREETS = [
   "ar": "شارع السَّاطِع",
   "en": "Al Sati' Street",
   "meaning": {
-    "ar": "«السَّاطِع»: سَّاطِع",
-    "en": "Al Sati': radiant, sparkling, glittering"
+    "ar": "«السَّاطِع» الساطعُ من الضوء؛ والاسم من هذا اللفظ.",
+    "en": "«As Sati'» is the radiant one among lights."
   },
   "story": {
     "ar": "«السَّاطِع» سَّاطِع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة الرياض، أبوظبي.",
@@ -120915,8 +120915,8 @@ window.STREETS = [
   "ar": "شارع السَّاف",
   "en": "As Saaf Street",
   "meaning": {
-    "ar": "«السَّاف»: سَّاف",
-    "en": "As Saaf: sparrowhawk"
+    "ar": "«السَّاف» أقصى الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«As Saf» is the farthest part of a thing."
   },
   "story": {
     "ar": "«السَّاف» سَّاف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مْبَزَّرَة الخَضْراء.",
@@ -120947,8 +120947,8 @@ window.STREETS = [
   "ar": "شارع السامي",
   "en": "Al Sami Street",
   "meaning": {
-    "ar": "«السامي»: سامي",
-    "en": "Al Sami: Semite"
+    "ar": "«السَّامي» اسمٌ مألوف؛ والاسم من هذا اللفظ.",
+    "en": "«As Sami» is a familiar name."
   },
   "story": {
     "ar": "«السامي» سامي، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُويجْعِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -120963,8 +120963,8 @@ window.STREETS = [
   "ar": "شارع السامية",
   "en": "Al Samiah Street",
   "meaning": {
-    "ar": "«السامية»: سَامِيَة",
-    "en": "Al Samiah: lofty"
+    "ar": "«السامية» اسمٌ مألوف؛ والاسم من هذا اللفظ.",
+    "en": "«As Samiyyah» is a familiar name."
   },
   "story": {
     "ar": "«السامية» سَامِيَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المَرْخَانِيَّة من إمارة أبوظبي.",
@@ -120979,8 +120979,8 @@ window.STREETS = [
   "ar": "شارع السَّبابة",
   "en": "As Sabbabah Street",
   "meaning": {
-    "ar": "«السَّبابة»: سَّبابة",
-    "en": "As Sabbabah: index finger"
+    "ar": "«السَّبابة» السبابةُ من الأصابع؛ والاسم من هذا اللفظ.",
+    "en": "«As Sabbabah» is the index finger."
   },
   "story": {
     "ar": "«السَّبابة» سَّبابة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في السَّلاَمَات بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -120995,8 +120995,8 @@ window.STREETS = [
   "ar": "شارع السبط",
   "en": "Al Sabt Street",
   "meaning": {
-    "ar": "«السبط»: سبط",
-    "en": "Al Sabt: lanky"
+    "ar": "«السبط» السبطُ من الرجال؛ والاسم من هذا اللفظ.",
+    "en": "«As Sabt» is the lanky one among men."
   },
   "story": {
     "ar": "«السبط» سبط، والاسم مأخوذ من هذه الكلمة. وهو الشارع في أم الشيف، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -121011,8 +121011,8 @@ window.STREETS = [
   "ar": "شارع السجل",
   "en": "Al Sejil Street",
   "meaning": {
-    "ar": "«السجل»: سجل",
-    "en": "Al Sejil: scroll, book"
+    "ar": "«السجل» السجلُّ من الكتب؛ والاسم من هذا اللفظ.",
+    "en": "«As Sijil» is the scroll among books."
   },
   "story": {
     "ar": "«السجل» سجل، والاسم مأخوذ من هذه الكلمة. والشارع في جميرا، والاسم من أسماء المواضع في إمارة دبي.",
@@ -121027,8 +121027,8 @@ window.STREETS = [
   "ar": "شارع السَّخاء",
   "en": "As Sakha-a Street",
   "meaning": {
-    "ar": "«السَّخاء»: سَّخاء",
-    "en": "As Sakha-a: generosity, munificence"
+    "ar": "«السَّخاء» كثرةُ العطاء؛ والاسم من هذا اللفظ.",
+    "en": "«As Sakha'» is abundance in giving."
   },
   "story": {
     "ar": "«السَّخاء» سَّخاء، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في ربدان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -121043,8 +121043,8 @@ window.STREETS = [
   "ar": "شارع السَّخِي",
   "en": "As Sakhi Street",
   "meaning": {
-    "ar": "«السَّخِي»: سَّخِي",
-    "en": "As Sakhi: generous, kind"
+    "ar": "«السَّخِي» الكثيرُ العطاء؛ والاسم من هذا اللفظ.",
+    "en": "«As Sakhi» is the one who gives much."
   },
   "story": {
     "ar": "«السَّخِي» سَّخِي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الشَّوامخ، أبوظبي.",
@@ -121059,8 +121059,8 @@ window.STREETS = [
   "ar": "شارع السَّدَاد",
   "en": "Al Sadad Street",
   "meaning": {
-    "ar": "«السَّدَاد»: سَّدَاد",
-    "en": "Al Sadad: thrombus"
+    "ar": "«السَّدَاد» ما يسدُّ العرق؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadad» is what blocks a vessel."
   },
   "story": {
     "ar": "«السَّدَاد» سَّدَاد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -121091,8 +121091,8 @@ window.STREETS = [
   "ar": "شارع السُّدس",
   "en": "As Suds Street",
   "meaning": {
-    "ar": "«السُّدس»: سُّدس",
-    "en": "As Suds: one sixth"
+    "ar": "«السُّدس» السُّدسُ من الأجزاء؛ والاسم من هذا اللفظ.",
+    "en": "«As Suds» is one sixth among parts."
   },
   "story": {
     "ar": "«السُّدس» سُّدس، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع شعاب الأشخر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -121107,8 +121107,8 @@ window.STREETS = [
   "ar": "شارع السُّدُود",
   "en": "As Sudoud Street",
   "meaning": {
-    "ar": "«السُّدُود»: سُّدُود",
-    "en": "As Sudoud: tight, grouted, sealed"
+    "ar": "«السُّدُود» المسدودُ المختوم؛ والاسم من هذا اللفظ.",
+    "en": "«As Sudud» is the sealed and closed."
   },
   "story": {
     "ar": "«السُّدُود» سُّدُود، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المَنهَل من إمارة أبوظبي.",
@@ -121123,8 +121123,8 @@ window.STREETS = [
   "ar": "شارع السَّدِيم",
   "en": "As Sadeem Street",
   "meaning": {
-    "ar": "«السَّدِيم»: سَّدِيم",
-    "en": "As Sadeem: mist"
+    "ar": "«السَّدِيم» السديمُ من البخار؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadeem» is the mist among vapours."
   },
   "story": {
     "ar": "«السَّدِيم» سَّدِيم، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -121139,8 +121139,8 @@ window.STREETS = [
   "ar": "شارع السَّرَّاء",
   "en": "As Sarra-a Street",
   "meaning": {
-    "ar": "«السَّرَّاء»: سَّرَّاء",
-    "en": "As Sarra-a: ease, prosperity, happiness, joy"
+    "ar": "«السَّرَّاء» السرورُ والدَّعة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarra'» is ease and happiness."
   },
   "story": {
     "ar": "«السَّرَّاء» سَّرَّاء، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المُنتَزه، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -121155,8 +121155,8 @@ window.STREETS = [
   "ar": "شارع السَّراب",
   "en": "As Sarab Street",
   "meaning": {
-    "ar": "«السَّراب»: سَّراب",
-    "en": "As Sarab: mirage, fata morgana"
+    "ar": "«السَّراب» السرابُ في الفلاة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarab» is the mirage in the waste."
   },
   "story": {
     "ar": "«السَّراب» سَّراب، والاسم مأخوذ من هذه الكلمة. والشارع في الصَّارُوج، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -121187,8 +121187,8 @@ window.STREETS = [
   "ar": "شارع السَرْب",
   "en": "Al Sarb Street",
   "meaning": {
-    "ar": "«السَرْب»: سَرْب",
-    "en": "Al Sarb: burrow, den, lair"
+    "ar": "«السَرْب» عُشُّ الحيوان؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarb» is the animal's den."
   },
   "story": {
     "ar": "«السَرْب» سَرْب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الرَّحبة، أبوظبي.",
@@ -121203,8 +121203,8 @@ window.STREETS = [
   "ar": "شارع السَّرج",
   "en": "As Sarj Street",
   "meaning": {
-    "ar": "«السَّرج»: سَّرج",
-    "en": "As Sarj: saddle"
+    "ar": "«السَّرج» السرجُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarj» is the saddle among gear."
   },
   "story": {
     "ar": "«السَّرج» سَّرج، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مْبَزَّرَة الخَضْراء.",
@@ -121219,8 +121219,8 @@ window.STREETS = [
   "ar": "شارع السرحان",
   "en": "Al Sarhan Street",
   "meaning": {
-    "ar": "«السرحان»: سرحان",
-    "en": "Al Sarhan: wolf"
+    "ar": "«السرحان» الذئبُ في كلام العرب؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarhan» is the wolf in Arabic speech."
   },
   "story": {
     "ar": "«السرحان» سرحان، والاسم مأخوذ من هذه الكلمة. والشارع يقع في ساس النَّخْل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -121235,8 +121235,8 @@ window.STREETS = [
   "ar": "شارع السَّرمَق",
   "en": "As Sarmaq Street",
   "meaning": {
-    "ar": "«السَّرمَق»: سَرْمَق",
-    "en": "As Sarmaq: Chenopodium gen. et spp."
+    "ar": "«السَّرمَق» نباتُ السرمق؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarmaq» is the saltbush plant."
   },
   "story": {
     "ar": "«السَّرمَق» سَرْمَق، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع نِعْمة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -121251,8 +121251,8 @@ window.STREETS = [
   "ar": "شارع السريان",
   "en": "Al Sarayan Street",
   "meaning": {
-    "ar": "«السريان»: سريان",
-    "en": "Al Sarayan: flow"
+    "ar": "«السريان» سريانُ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarayan» is the flowing of water."
   },
   "story": {
     "ar": "«السريان» سريان، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الرَّحبة من إمارة أبوظبي.",
@@ -121283,8 +121283,8 @@ window.STREETS = [
   "ar": "شارع السريع",
   "en": "Al Saree' Street",
   "meaning": {
-    "ar": "«السريع»: سَرِيع",
-    "en": "Al Saree': swift"
+    "ar": "«السريع» السريعُ في العدو؛ والاسم من هذا اللفظ.",
+    "en": "«As Sari'» is the swift in running."
   },
   "story": {
     "ar": "«السريع» سَرِيع، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -121315,8 +121315,8 @@ window.STREETS = [
   "ar": "شارع السعة",
   "en": "Al Si'ah Street",
   "meaning": {
-    "ar": "«السعة»: سعة",
-    "en": "Al Si'ah: capacity"
+    "ar": "«السعة» السعةُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«As Si'ah» is the roominess of a place."
   },
   "story": {
     "ar": "«السعة» سعة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المَرْخَانِيَّة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -121331,8 +121331,8 @@ window.STREETS = [
   "ar": "شارع السعدان",
   "en": "As Sa'dan Street",
   "meaning": {
-    "ar": "«السعدان»: سعدان",
-    "en": "As Sa'dan: monkey, ape (mammal)"
+    "ar": "«السعدان» السعدانُ من الحيوان؛ والاسم من هذا اللفظ.",
+    "en": "«As Sa'dan» is the monkey among beasts."
   },
   "story": {
     "ar": "«السعدان» سعدان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المَنهَل، أبوظبي.",
@@ -121347,8 +121347,8 @@ window.STREETS = [
   "ar": "شارع السَّعَف",
   "en": "As Sa'af Street",
   "meaning": {
-    "ar": "«السَّعَف»: سَّعَف",
-    "en": "As Sa'af: palm fronds"
+    "ar": "«السَّعف» سعفُ النخل؛ والاسم من هذا اللفظ.",
+    "en": "«As Sa'af» is the palm frond."
   },
   "story": {
     "ar": "«السَّعَف» سَّعَف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في حَدْبَة الزَّعْفَرَانَة.",
@@ -121379,8 +121379,8 @@ window.STREETS = [
   "ar": "شارع السَعِي",
   "en": "Al Sa'ay Street",
   "meaning": {
-    "ar": "«السَعِي»: سَعِي",
-    "en": "Al Sa'ay: endeavor"
+    "ar": "«السَعِي» السعيُّ في الطلب؛ والاسم من هذا اللفظ.",
+    "en": "«As Sa'y» is the striving in seeking."
   },
   "story": {
     "ar": "«السَعِي» سَعِي، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع البَاهية في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -121395,8 +121395,8 @@ window.STREETS = [
   "ar": "شارع السفر",
   "en": "Al Safar Street",
   "meaning": {
-    "ar": "«السفر»: سفر",
-    "en": "Al Safar: written book"
+    "ar": "«السفر» السفرُ من الكتب؛ والاسم من هذا اللفظ.",
+    "en": "«As Saffar» is the volume among books."
   },
   "story": {
     "ar": "«السفر» سفر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في وسط المدينة من إمارة أبوظبي.",
@@ -121427,8 +121427,8 @@ window.STREETS = [
   "ar": "شارع السَّفَرجل",
   "en": "Al Safarjal Street",
   "meaning": {
-    "ar": "«السَّفَرجل»: سَّفَرجل",
-    "en": "Al Safarjal: quince"
+    "ar": "«السَّفَرجل» السفرجلُ من الثمار؛ والاسم من هذا اللفظ.",
+    "en": "«As Safarjal» is the quince among fruits."
   },
   "story": {
     "ar": "«السَّفَرجل» سَّفَرجل، والاسم مأخوذ من هذه الكلمة. وهو الشارع في زاخِر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -121443,8 +121443,8 @@ window.STREETS = [
   "ar": "شارع السَّفَري",
   "en": "As Safare Street",
   "meaning": {
-    "ar": "«السَّفَري»: سَّفَري",
-    "en": "As Safare: takeout, to go"
+    "ar": "«السَّفَري» السفريُّ من الطعام؛ والاسم من هذا اللفظ.",
+    "en": "«As Safari» is the takeout among foods."
   },
   "story": {
     "ar": "«السَّفَري» سَّفَري، والاسم مأخوذ من هذه الكلمة. والشارع في ربدان، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -121459,8 +121459,8 @@ window.STREETS = [
   "ar": "شارع السَّفَن",
   "en": "Al Safan Street",
   "meaning": {
-    "ar": "«السَّفَن»: سَّفَن",
-    "en": "Al Safan: adze"
+    "ar": "«السَّفَن» السَّفَنُ من الأدوات؛ والاسم من هذا اللفظ.",
+    "en": "«As Safan» is the adze among tools."
   },
   "story": {
     "ar": "«السَّفَن» سَّفَن، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة الرياض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -121491,8 +121491,8 @@ window.STREETS = [
   "ar": "شارع السقى",
   "en": "As Suqa Street",
   "meaning": {
-    "ar": "«السقى»: سقى",
-    "en": "As Suqa: watering"
+    "ar": "«السقى» سقيُّ الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«As Siqa» is the watering of land."
   },
   "story": {
     "ar": "«السقى» سقى، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في عَيْن الفَايْضَة.",
@@ -121523,8 +121523,8 @@ window.STREETS = [
   "ar": "شارع السَّكب",
   "en": "As Sakb Street",
   "meaning": {
-    "ar": "«السَّكب»: سَّكب",
-    "en": "As Sakb: spilling"
+    "ar": "«السَّكب» سكبُ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«As Sakb» is the pouring of water."
   },
   "story": {
     "ar": "«السَّكب» سَّكب، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -121539,8 +121539,8 @@ window.STREETS = [
   "ar": "شارع السُّكَّري",
   "en": "As Sukkari Street",
   "meaning": {
-    "ar": "«السُّكَّري»: سُّكَّري",
-    "en": "As Sukkari: sugary"
+    "ar": "«السُّكَّري» المنسوبُ إلى السكر؛ والاسم من هذا اللفظ.",
+    "en": "«As Sukkari» relates to sugar."
   },
   "story": {
     "ar": "«السُّكَّري» سُّكَّري، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في حميم من إمارة أبوظبي.",
@@ -121555,8 +121555,8 @@ window.STREETS = [
   "ar": "شارع السَّكِينة",
   "en": "As Sakeenah Street",
   "meaning": {
-    "ar": "«السَّكِينة»: سَّكِينة",
-    "en": "As Sakeenah: inner peace"
+    "ar": "«السَّكِينة» سكونُ القلب؛ والاسم من هذا اللفظ.",
+    "en": "«As Sakinah» is the calm of the heart."
   },
   "story": {
     "ar": "«السَّكِينة» سَّكِينة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مُصَفَح بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -121571,8 +121571,8 @@ window.STREETS = [
   "ar": "شارع السُّلاَّف",
   "en": "Al Sullaf Street",
   "meaning": {
-    "ar": "«السُّلاَّف»: سُّلاَّف",
-    "en": "Al Sullaf: Slavs"
+    "ar": "«السُّلاَّف» اسمٌ مأثور؛ والاسم من هذا اللفظ.",
+    "en": "«As Sullaf» is an inherited name."
   },
   "story": {
     "ar": "«السُّلاَّف» سُّلاَّف، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة الرياض، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -121587,8 +121587,8 @@ window.STREETS = [
   "ar": "شارع السَّلَف",
   "en": "As Salaf Street",
   "meaning": {
-    "ar": "«السَّلَف»: سَّلَف",
-    "en": "As Salaf: brother-in-law"
+    "ar": "«السَّلَف» السلفُ من الأقارب؛ والاسم من هذا اللفظ.",
+    "en": "«As Salaf» is the brother-in-law among kin."
   },
   "story": {
     "ar": "«السَّلَف» سَّلَف، والاسم مأخوذ من هذه الكلمة. والشارع في القَطَّارَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -121635,8 +121635,8 @@ window.STREETS = [
   "ar": "شارع السُّلوان",
   "en": "As Sulwan Street",
   "meaning": {
-    "ar": "«السُّلوان»: سُّلوان",
-    "en": "As Sulwan: forgetting"
+    "ar": "«السُّلوان» النسيانُ عن الهمّ؛ والاسم من هذا اللفظ.",
+    "en": "«As Sulwan» is forgetting one's cares."
   },
   "story": {
     "ar": "«السُّلوان» سُّلوان، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -121651,8 +121651,8 @@ window.STREETS = [
   "ar": "شارع السَّلوَى",
   "en": "As Salwa Street",
   "meaning": {
-    "ar": "«السَّلوَى»: سَّلوَى",
-    "en": "As Salwa: quails"
+    "ar": "«السَّلوَى» السُّمانى من الطير؛ والاسم من هذا اللفظ.",
+    "en": "«As Salwa» are the quails among birds."
   },
   "story": {
     "ar": "«السَّلوَى» سَّلوَى، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع العامرة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -121667,8 +121667,8 @@ window.STREETS = [
   "ar": "شارع السَّماح",
   "en": "As Samah Street",
   "meaning": {
-    "ar": "«السَّماح»: سَّماح",
-    "en": "As Samah: permission"
+    "ar": "«السَّماح» السماحُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«As Samah» is leniency in a matter."
   },
   "story": {
     "ar": "«السَّماح» سَّماح، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -121683,8 +121683,8 @@ window.STREETS = [
   "ar": "شارع السماك",
   "en": "Al Simmak Street",
   "meaning": {
-    "ar": "«السماك»: سماك",
-    "en": "Al Simmak: fishmonger"
+    "ar": "«السماك» بائعُ السمك؛ والاسم من هذا اللفظ.",
+    "en": "«As Simmak» is the fishmonger."
   },
   "story": {
     "ar": "«السماك» سماك، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في حدائق الصفوح بإمارة دبي، والاسم من أسماء المواضع.",
@@ -121699,8 +121699,8 @@ window.STREETS = [
   "ar": "شارع السِّمَّان",
   "en": "Al Simman Street",
   "meaning": {
-    "ar": "«السِّمَّان»: سِّمَّان",
-    "en": "Al Simman: butter-dealer"
+    "ar": "«السِّمَّان» بائعُ السمن؛ والاسم من هذا اللفظ.",
+    "en": "«As Simman» is the butter-dealer."
   },
   "story": {
     "ar": "«السِّمَّان» سِّمَّان، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المُويجْعِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -121731,8 +121731,8 @@ window.STREETS = [
   "ar": "شارع السمعة",
   "en": "Al Sama'a Street",
   "meaning": {
-    "ar": "«السمعة»: سمعة",
-    "en": "Al Sama'a: reputation"
+    "ar": "«السَّمعة» السمعةُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«As Sama'ah» is the repute among people."
   },
   "story": {
     "ar": "«السمعة» سمعة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم سقيم بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -121747,8 +121747,8 @@ window.STREETS = [
   "ar": "شارع السمك",
   "en": "Al Samak Street",
   "meaning": {
-    "ar": "«السمك»: سمك",
-    "en": "Al Samak: fish"
+    "ar": "«السمك» السمكُ من الأحياء؛ والاسم من هذا اللفظ.",
+    "en": "«As Samak» is fish among creatures."
   },
   "story": {
     "ar": "«السمك» سمك، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في جميرا.",
@@ -121779,8 +121779,8 @@ window.STREETS = [
   "ar": "شارع السن",
   "en": "Al Senn Street",
   "meaning": {
-    "ar": "«السن»: سن",
-    "en": "Al Senn: eloquent"
+    "ar": "«السِّن» البليغُ في كلامه؛ والاسم من هذا اللفظ.",
+    "en": "«As Sinn» is the fluent in speech."
   },
   "story": {
     "ar": "«السن» سن، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع جميرا في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -121795,8 +121795,8 @@ window.STREETS = [
   "ar": "شارع السَّنا",
   "en": "As Sana Street",
   "meaning": {
-    "ar": "«السَّنا»: سَّنا",
-    "en": "As Sana: senna"
+    "ar": "«السَّنا» نباتُ السنا؛ والاسم من هذا اللفظ.",
+    "en": "«As Sana» is the senna plant."
   },
   "story": {
     "ar": "«السَّنا» سَّنا، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المرْفَأ من إمارة أبوظبي.",
@@ -121827,8 +121827,8 @@ window.STREETS = [
   "ar": "شارع السِّنان",
   "en": "As Sinan Street",
   "meaning": {
-    "ar": "«السِّنان»: سِّنان",
-    "en": "As Sinan: spearhead"
+    "ar": "«السِّنان» سنانُ الرمح؛ والاسم من هذا اللفظ.",
+    "en": "«As Sinan» is the spearhead."
   },
   "story": {
     "ar": "«السِّنان» سِّنان، والاسم مأخوذ من هذه الكلمة. والشارع في حَدْبَة الزَّعْفَرَانَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -121859,8 +121859,8 @@ window.STREETS = [
   "ar": "شارع السَّنْبُوق",
   "en": "Al Sanbouq Street",
   "meaning": {
-    "ar": "«السَّنْبُوق»: سَنْبُوق",
-    "en": "Al Sanbouq: a skiff"
+    "ar": "«السَّنْبُوق» السفنُ الصغيرة؛ والاسم من هذا اللفظ.",
+    "en": "«As Sanbuq» is the small skiff."
   },
   "story": {
     "ar": "«السَّنْبُوق» سَنْبُوق، والاسم مأخوذ من هذه الكلمة. والشارع في المُعْتَرِض من إمارة أبوظبي.",
@@ -121875,8 +121875,8 @@ window.STREETS = [
   "ar": "شارع السِّنْدان",
   "en": "Al Sindan Street",
   "meaning": {
-    "ar": "«السِّنْدان»: سِّنْدان",
-    "en": "Al Sindan: anvil"
+    "ar": "«السِّنْدان» سندانُ الحدّاد؛ والاسم من هذا اللفظ.",
+    "en": "«As Sindan» is the anvil of the smith."
   },
   "story": {
     "ar": "«السِّنْدان» سِّنْدان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الزَّاهية، أبوظبي.",
@@ -121891,8 +121891,8 @@ window.STREETS = [
   "ar": "شارع السِّندِيان",
   "en": "As Sindiyan Street",
   "meaning": {
-    "ar": "«السِّندِيان»: سِّندِيان",
-    "en": "As Sindiyan: oak, holm oak"
+    "ar": "«السِّندِيان» شجرةُ السندبان؛ والاسم من هذا اللفظ.",
+    "en": "«As Sindyan» is the oak tree."
   },
   "story": {
     "ar": "«السِّندِيان» سِّندِيان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَنهَل.",
@@ -121907,8 +121907,8 @@ window.STREETS = [
   "ar": "شارع السنونو",
   "en": "Al Sunounou Street",
   "meaning": {
-    "ar": "«السنونو»: سنونو",
-    "en": "Al Sunounou: swallow"
+    "ar": "«السنونو» طائرُ السنونو؛ والاسم من هذا اللفظ.",
+    "en": "«As Sununu» is the swallow bird."
   },
   "story": {
     "ar": "«السنونو» سنونو، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الجيمي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -121939,8 +121939,8 @@ window.STREETS = [
   "ar": "شارع السَوِي",
   "en": "Al Sawi Street",
   "meaning": {
-    "ar": "«السَوِي»: سَوِي",
-    "en": "Al Sawi: equal"
+    "ar": "«السَوِي» المعتدلُ المستوي؛ والاسم من هذا اللفظ.",
+    "en": "«As Sawi» is the equal and symmetrical one."
   },
   "story": {
     "ar": "«السَوِي» سَوِي، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في عَشَارِج من إمارة أبوظبي.",
@@ -121987,8 +121987,8 @@ window.STREETS = [
   "ar": "شارع السياحي",
   "en": "Al Seyahi Street",
   "meaning": {
-    "ar": "«السياحي»: سياحي",
-    "en": "Al Seyahi: tourist"
+    "ar": "«السياحي» المنسوبُ إلى السياحة؛ والاسم من هذا اللفظ.",
+    "en": "«As Siyahi» relates to travel and tourism."
   },
   "story": {
     "ar": "«السياحي» سياحي، والاسم مأخوذ من هذه الكلمة. والشارع في مرسى دبي، والاسم من أسماء المواضع في إمارة دبي.",
@@ -122019,8 +122019,8 @@ window.STREETS = [
   "ar": "شارع الشاخص",
   "en": "Al Shakhis Street",
   "meaning": {
-    "ar": "«الشاخص»: شاخص",
-    "en": "Al Shakhis: fixed"
+    "ar": "«الشاخص» الثابتُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shakhis» is the fixed one in place."
   },
   "story": {
     "ar": "«الشاخص» شاخص، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الروضة الشرقية، أبوظبي.",
@@ -122035,8 +122035,8 @@ window.STREETS = [
   "ar": "شارع الشاشه",
   "en": "Al Shasha Street",
   "meaning": {
-    "ar": "«الشاشه»: شاشه",
-    "en": "Al Shasha: screen"
+    "ar": "«الشاشه» الشاشةُ من العرض؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shashah» is the screen of display."
   },
   "story": {
     "ar": "«الشاشه» شاشه، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في أم سقيم.",
@@ -122051,8 +122051,8 @@ window.STREETS = [
   "ar": "شارع الشَّاكِرِين",
   "en": "Al Shakireen Street",
   "meaning": {
-    "ar": "«الشَّاكِرِين»: شَّاكِرِين",
-    "en": "Al Shakireen: thankful, grateful"
+    "ar": "«الشَّاكِرِين» جمع «شاكِر»؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shakirin» is the plural of shakir — the thankful."
   },
   "story": {
     "ar": "«الشَّاكِرِين» شَّاكِرِين، والاسم مأخوذ من هذه الكلمة. والشارع يقع في وسط المدينة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -122067,8 +122067,8 @@ window.STREETS = [
   "ar": "شارع الشَّامَة",
   "en": "Al Shamah Street",
   "meaning": {
-    "ar": "«الشَّامَة»: شَّامَة",
-    "en": "Al Shamah: mole"
+    "ar": "«الشَّامَة» الشامةُ في الجسد؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shamah» is the mole on the body."
   },
   "story": {
     "ar": "«الشَّامَة» شَّامَة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع زاخِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -122083,8 +122083,8 @@ window.STREETS = [
   "ar": "شارع الشَّامِخ",
   "en": "Ash Shamikh Street",
   "meaning": {
-    "ar": "«الشَّامِخ»: شَّامِخ",
-    "en": "Ash Shamikh: high, tall"
+    "ar": "«الشَّامِخ» الشامخُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shamikh» is the towering one in place."
   },
   "story": {
     "ar": "«الشَّامِخ» شَّامِخ، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -122099,8 +122099,8 @@ window.STREETS = [
   "ar": "شارع الشَاهِق",
   "en": "Al Shahiq Street",
   "meaning": {
-    "ar": "«الشَاهِق»: شَاهِق",
-    "en": "Al Shahiq: an elevated or high place"
+    "ar": "«الشَاهِق» الجبلُ العالي؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shahiq» is the high mountain."
   },
   "story": {
     "ar": "«الشَاهِق» شَاهِق، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في وسط المدينة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -122115,8 +122115,8 @@ window.STREETS = [
   "ar": "شارع الشاهين",
   "en": "Al Shahein Street",
   "meaning": {
-    "ar": "«الشاهين»: شاهين",
-    "en": "Al Shahein: Indian falcon"
+    "ar": "«الشاهين» الصقرُ الهندي؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shahin» is the Indian falcon."
   },
   "story": {
     "ar": "«الشاهين» شاهين، والاسم مأخوذ من هذه الكلمة. وهو الشارع في شنتير، والاسم من أسماء المواضع التي تعرفها أم القيوين.",
@@ -122131,8 +122131,8 @@ window.STREETS = [
   "ar": "شارع الشَّباب",
   "en": "Ash Shabab Street",
   "meaning": {
-    "ar": "«الشَّباب»: شَّباب",
-    "en": "Ash Shabab: youth"
+    "ar": "«الشَّباب» الشبابُ من العمر؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shabab» is the youth of life."
   },
   "story": {
     "ar": "«الشَّباب» شَّباب، والاسم مأخوذ من هذه الكلمة. والشارع في البطين، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -122147,8 +122147,8 @@ window.STREETS = [
   "ar": "شارع الشَّبِيبَة",
   "en": "Al Shabeebah Street",
   "meaning": {
-    "ar": "«الشَّبِيبَة»: شَبِيبَة",
-    "en": "Al Shabeebah: youth, the state of a youngster"
+    "ar": "«الشَّبِيبَة» زمنُ الشباب؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shabibah» is the time of youth."
   },
   "story": {
     "ar": "الاسم «الشَّبِيبَة» شَبِيبَة، وليس مركّباً. وهذا الموضع أخذ منه اسم الشارع في البَاهية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -122163,8 +122163,8 @@ window.STREETS = [
   "ar": "شارع الشِّتَاء",
   "en": "Al Shita Street",
   "meaning": {
-    "ar": "«الشِّتَاء»: شِّتَاء",
-    "en": "Al Shita: winter"
+    "ar": "«الشِّتَاء» الشتاءُ من الفصول؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shita'» is winter among seasons."
   },
   "story": {
     "ar": "«الشِّتَاء» شِّتَاء، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الجَاهلِي، أبوظبي.",
@@ -122179,8 +122179,8 @@ window.STREETS = [
   "ar": "شارع الشَّتلة",
   "en": "Ash Shatlah Street",
   "meaning": {
-    "ar": "«الشَّتلة»: شَّتلة",
-    "en": "Ash Shatlah: plantling"
+    "ar": "«الشَّتلة» الشتلةُ من النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shatlah» is the seedling among plants."
   },
   "story": {
     "ar": "«الشَّتلة» شَّتلة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في شعبة الوُطَاه.",
@@ -122195,8 +122195,8 @@ window.STREETS = [
   "ar": "شارع الشَّتَوِي",
   "en": "Al Shatawi Street",
   "meaning": {
-    "ar": "«الشَّتَوِي»: شَّتَوِي",
-    "en": "Al Shatawi: wintry, hibernal"
+    "ar": "«الشَّتَوِي» المنسوبُ إلى الشتاء؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shatawi» relates to winter."
   },
   "story": {
     "ar": "«الشَّتَوِي» شَّتَوِي، والاسم مأخوذ من هذه الكلمة. والشارع يقع في البَاهية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -122211,8 +122211,8 @@ window.STREETS = [
   "ar": "شارع الشَّجاعة",
   "en": "Ash Shaja'ah Street",
   "meaning": {
-    "ar": "«الشَّجاعة»: شَّجاعة",
-    "en": "Ash Shaja'ah: courage, bravery, boldness"
+    "ar": "«الشَّجاعة» الشجاعةُ في الحرب؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shaja'ah» is courage in battle."
   },
   "story": {
     "ar": "«الشَّجاعة» شَّجاعة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المَنهَل في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -122227,8 +122227,8 @@ window.STREETS = [
   "ar": "شارع الشجر",
   "en": "Al Shajar Street",
   "meaning": {
-    "ar": "«الشجر»: شجر",
-    "en": "Al Shajar: chin"
+    "ar": "«الشجر» الشجرُ من النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shajar» is trees among plants."
   },
   "story": {
     "ar": "«الشجر» شجر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في جزيرة ياس من إمارة أبوظبي.",
@@ -122243,8 +122243,8 @@ window.STREETS = [
   "ar": "شارع الشَّذَر",
   "en": "Ash Shadhar Street",
   "meaning": {
-    "ar": "«الشَّذَر»: شَذَر",
-    "en": "Ash Shadhar: gold grains"
+    "ar": "«الشَّذَر» شظايا الذهب؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shadhar» are pieces of gold."
   },
   "story": {
     "ar": "«الشَّذَر» شَذَر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الفلاح بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -122259,8 +122259,8 @@ window.STREETS = [
   "ar": "شارع الشرطة",
   "en": "Al Shorta Street",
   "meaning": {
-    "ar": "«الشرطة»: شرطة",
-    "en": "Al Shorta: line"
+    "ar": "«الشرطة» الخطُّ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shurtah» is the line in a thing."
   },
   "story": {
     "ar": "«الشرطة» شرطة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة دبي للإعلام، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -122275,8 +122275,8 @@ window.STREETS = [
   "ar": "شارع الشرق",
   "en": "Al Sharq Street",
   "meaning": {
-    "ar": "«الشرق»: شرق",
-    "en": "Al Sharq: east; Orient"
+    "ar": "«الشرق» الشرقُ من الجهات؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Sharq» is the east among directions."
   },
   "story": {
     "ar": "«الشرق» شرق، والاسم مأخوذ من هذه الكلمة. والشارع في الشرق، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -122291,8 +122291,8 @@ window.STREETS = [
   "ar": "شارع الشُّطفة",
   "en": "Ash Shutfah Street",
   "meaning": {
-    "ar": "«الشُّطفة»: شُّطفة",
-    "en": "Ash Shutfah: a chunk, speel or spelk"
+    "ar": "«الشُّطفة» القطعةُ من الخشب؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shutfah» is the chunk of wood."
   },
   "story": {
     "ar": "«الشُّطفة» شُّطفة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -122307,8 +122307,8 @@ window.STREETS = [
   "ar": "شارع الشِّعاع",
   "en": "Ash Shi'a' Street",
   "meaning": {
-    "ar": "«الشِّعاع»: شِّعاع",
-    "en": "Ash Shi'a': ray, beam"
+    "ar": "«الشِّعاع» شعاعُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shi'a'» is the ray of the sun."
   },
   "story": {
     "ar": "«الشِّعاع» شِّعاع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -122323,8 +122323,8 @@ window.STREETS = [
   "ar": "شارع الشعبي",
   "en": "Al Sha'bi Street",
   "meaning": {
-    "ar": "«الشعبي»: شعبي",
-    "en": "Al Sha'bi: national"
+    "ar": "«الشعبي» المنسوبُ إلى الشعب؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Sha'bi» relates to the people."
   },
   "story": {
     "ar": "«الشعبي» شعبي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الجيمي.",
@@ -122339,8 +122339,8 @@ window.STREETS = [
   "ar": "شارع الشعر",
   "en": "Al Hair Street",
   "meaning": {
-    "ar": "«الشعر»: شعر",
-    "en": "Al Hair: hair"
+    "ar": "«الشعر» شعرُ الرأس؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Sha'r» is the hair of the head."
   },
   "story": {
     "ar": "«الشعر» شعر، والاسم مأخوذ من هذه الكلمة. والشارع يقع في جميرا من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -122355,8 +122355,8 @@ window.STREETS = [
   "ar": "شارع الشعري",
   "en": "Al Shaari Street",
   "meaning": {
-    "ar": "«الشعري»: شعري",
-    "en": "Al Shaari: poetic"
+    "ar": "«الشعري» المنسوبُ إلى الشعر؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Sha'ri» relates to poetry."
   },
   "story": {
     "ar": "«الشعري» شعري، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع جميرا في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -122387,8 +122387,8 @@ window.STREETS = [
   "ar": "شارع الشَّفْع",
   "en": "Al Shaf' Street",
   "meaning": {
-    "ar": "«الشَّفْع»: شَّفْع",
-    "en": "Al Shaf': double, pair"
+    "ar": "«الشَّفْع» الشفعُ من الأعداد؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shaf'» is the even among numbers."
   },
   "story": {
     "ar": "«الشَّفْع» شَّفْع، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الخِبِيصِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -122403,8 +122403,8 @@ window.STREETS = [
   "ar": "شارع الشَّقِيق",
   "en": "Al Shaqeeq Street",
   "meaning": {
-    "ar": "«الشَّقِيق»: شَّقِيق",
-    "en": "Al Shaqeeq: brother- or sister-"
+    "ar": "«الشَّقِيق» الأخُ الشقيق؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shaqiq» is the full brother."
   },
   "story": {
     "ar": "«الشَّقِيق» شَّقِيق، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الرَّحبة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -122419,8 +122419,8 @@ window.STREETS = [
   "ar": "شارع الشُّكُر",
   "en": "Ash Shukur Street",
   "meaning": {
-    "ar": "«الشُّكُر»: شُّكُر",
-    "en": "Ash Shukur: thankfulness, gratitude"
+    "ar": "«الشُّكُر» الشكرُ على الجميل؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shukur» is gratitude for a good."
   },
   "story": {
     "ar": "«الشُّكُر» شُّكُر، والاسم مأخوذ من هذه الكلمة. والشارع في الحِصِن، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -122451,8 +122451,8 @@ window.STREETS = [
   "ar": "شارع الشِّلو",
   "en": "Ash Shilw Street",
   "meaning": {
-    "ar": "«الشِّلو»: شِلْو",
-    "en": "Ash Shilw: a remnant"
+    "ar": "«الشِّلو» القطعةُ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shilw» is the piece of a thing."
   },
   "story": {
     "ar": "«الشِّلو» شِلْو، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في العامرة، أبوظبي.",
@@ -122467,8 +122467,8 @@ window.STREETS = [
   "ar": "شارع الشليل",
   "en": "Ash Shileel Street",
   "meaning": {
-    "ar": "«الشليل»: شَلِيل",
-    "en": "Ash Shileel: saddle padding"
+    "ar": "«الشليل» الوسادةُ تحت الرحل؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shalil» is the pad under the saddle."
   },
   "story": {
     "ar": "«الشليل» شَلِيل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّدر.",
@@ -122483,8 +122483,8 @@ window.STREETS = [
   "ar": "شارع الشَّمالِي",
   "en": "Ash Shamali Street",
   "meaning": {
-    "ar": "«الشَّمالِي»: شَّمالِي",
-    "en": "Ash Shamali: northern"
+    "ar": "«الشَّمالِي» الشماليُّ من الجهات؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shamali» is the northern among directions."
   },
   "story": {
     "ar": "«الشَّمالِي» شَّمالِي، والاسم مأخوذ من هذه الكلمة. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -122515,8 +122515,8 @@ window.STREETS = [
   "ar": "شارع الشمر",
   "en": "Al Shammar Street",
   "meaning": {
-    "ar": "«الشمر»: شمر",
-    "en": "Al Shammar: fennel"
+    "ar": "«الشمر» النشيطُ الفعال؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shamar» is the energetic and active."
   },
   "story": {
     "ar": "«الشمر» شمر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في السلمة من إمارة أم القيوين.",
@@ -122531,8 +122531,8 @@ window.STREETS = [
   "ar": "شارع الشَّمرُوخ",
   "en": "Ash Shamroukh Street",
   "meaning": {
-    "ar": "«الشَّمرُوخ»: شَّمرُوخ",
-    "en": "Ash Shamroukh: stalk"
+    "ar": "«الشَّمرُوخ» عنقودُ النخل؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shamrukh» is the palm stalk."
   },
   "story": {
     "ar": "«الشَّمرُوخ» شَّمرُوخ، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة شخبوط بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -122563,8 +122563,8 @@ window.STREETS = [
   "ar": "شارع الشمع",
   "en": "Al Sham' Street",
   "meaning": {
-    "ar": "«الشمع»: شمع",
-    "en": "Al Sham': wax"
+    "ar": "«الشمع» الشمعُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Sham'» is wax, well known."
   },
   "story": {
     "ar": "«الشمع» شمع، والاسم مأخوذ من هذه الكلمة. والشارع في البَاهية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -122595,8 +122595,8 @@ window.STREETS = [
   "ar": "شارع الشَّمَم",
   "en": "Ash Shamam Street",
   "meaning": {
-    "ar": "«الشَّمَم»: شَّمَم",
-    "en": "Ash Shamam: height"
+    "ar": "«الشَّمَم» الارتفاعُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shamam» is height in place."
   },
   "story": {
     "ar": "«الشَّمَم» شَّمَم، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -122611,8 +122611,8 @@ window.STREETS = [
   "ar": "شارع الشِّهاب",
   "en": "Ash Shihab Street",
   "meaning": {
-    "ar": "«الشِّهاب»: شِّهاب",
-    "en": "Ash Shihab: brand"
+    "ar": "«الشِّهاب» اللهبُ المشتعل؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shihab» is the burning flame."
   },
   "story": {
     "ar": "«الشِّهاب» شِّهاب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المَنهَل، أبوظبي.",
@@ -122643,8 +122643,8 @@ window.STREETS = [
   "ar": "شارع الشَّهلاء",
   "en": "Ash Shahla-a Street",
   "meaning": {
-    "ar": "«الشَّهلاء»: شَّهلاء",
-    "en": "Ash Shahla-a: want"
+    "ar": "«الشَّهلاء» من «الشَّهْل» في العينين؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shahla'» comes from the shahl of the eyes."
   },
   "story": {
     "ar": "«الشَّهلاء» شَّهلاء، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الظَّاهْرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -122675,8 +122675,8 @@ window.STREETS = [
   "ar": "شارع الشوفان",
   "en": "Al Shoufan Street",
   "meaning": {
-    "ar": "«الشوفان»: شوفان",
-    "en": "Al Shoufan: oat"
+    "ar": "«الشوفان» الشوفانُ من الحبوب؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shufan» is the oat among grains."
   },
   "story": {
     "ar": "«الشوفان» شوفان، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في جزيرة ياس من إمارة أبوظبي.",
@@ -122691,8 +122691,8 @@ window.STREETS = [
   "ar": "شارع الشُّولة",
   "en": "Ash Shoulah Street",
   "meaning": {
-    "ar": "«الشُّولة»: شُولَة",
-    "en": "Ash Shoulah: a scorpion's tail"
+    "ar": "«الشُّولة» ذنبُ العقرب المرفوع؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shulah» is the raised tail of a scorpion."
   },
   "story": {
     "ar": "«الشُّولة» شُولَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في البطين بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -122707,8 +122707,8 @@ window.STREETS = [
   "ar": "شارع الشِّيْمَة",
   "en": "Al Sheemah Street",
   "meaning": {
-    "ar": "«الشِّيْمَة»: شِّيْمَة",
-    "en": "Al Sheemah: trait"
+    "ar": "«الشِّيْمَة» سجيةُ الإنسان؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shimah» is the natural trait of a person."
   },
   "story": {
     "ar": "«الشِّيْمَة» شِّيْمَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة الرياض، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -122723,8 +122723,8 @@ window.STREETS = [
   "ar": "شارع الصائب",
   "en": "Al Sa-ib Street",
   "meaning": {
-    "ar": "«الصائب»: صائب",
-    "en": "Al Sa-ib: right"
+    "ar": "«الصائب» الصائبُ في رأيه؛ والاسم من هذا اللفظ.",
+    "en": "«As Sa'ib» is the right one in opinion."
   },
   "story": {
     "ar": "«الصائب» صائب، والاسم مأخوذ من هذه الكلمة. والشارع في البَاهية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -122755,8 +122755,8 @@ window.STREETS = [
   "ar": "شارع الصَّادِق",
   "en": "As Sadiq Street",
   "meaning": {
-    "ar": "«الصَّادِق»: صَّادِق",
-    "en": "As Sadiq: telling the truth"
+    "ar": "«الصَّادِق» الصادقُ في قوله؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadiq» is the truthful in speech."
   },
   "story": {
     "ar": "«الصَّادِق» صَّادِق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -122771,8 +122771,8 @@ window.STREETS = [
   "ar": "شارع الصارمين",
   "en": "Al Sarimeen Street",
   "meaning": {
-    "ar": "«الصارمين»: صارمين",
-    "en": "Al Sarimeen: sharp"
+    "ar": "«الصارمين» جمع «صارِم»؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarimin» is the plural of sarim — the keen-edged."
   },
   "story": {
     "ar": "«الصارمين» صارمين، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة الرياض.",
@@ -122787,8 +122787,8 @@ window.STREETS = [
   "ar": "شارع الصاعد",
   "en": "Al Sa'id Street",
   "meaning": {
-    "ar": "«الصاعد»: صاعد",
-    "en": "Al Sa'id: ascending"
+    "ar": "«الصاعد» الصاعدُ إلى الأعلى؛ والاسم من هذا اللفظ.",
+    "en": "«As Sa'id» is the one ascending."
   },
   "story": {
     "ar": "«الصاعد» صاعد، والاسم مأخوذ من هذه الكلمة. والشارع يقع في رُوْضَة الرِّيْف من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -122835,8 +122835,8 @@ window.STREETS = [
   "ar": "شارع الصَّالِح",
   "en": "Al Salih Street",
   "meaning": {
-    "ar": "«الصَّالِح»: صَّالِح",
-    "en": "Al Salih: in good condition"
+    "ar": "«الصَّالِح» الصالحُ من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«As Salih» is the sound among things."
   },
   "story": {
     "ar": "«الصَّالِح» صَّالِح، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في أم غَافة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -122851,8 +122851,8 @@ window.STREETS = [
   "ar": "شارع الصامت",
   "en": "Al Samt Street",
   "meaning": {
-    "ar": "«الصامت»: صامت",
-    "en": "Al Samt: silent"
+    "ar": "«الصامت» الصامتُ عن الكلام؛ والاسم من هذا اللفظ.",
+    "en": "«As Samit» is the silent one."
   },
   "story": {
     "ar": "«الصامت» صامت، والاسم مأخوذ من هذه الكلمة. وهو الشارع في كلباء، والاسم من أسماء المواضع التي تعرفها الشارقة.",
@@ -122883,8 +122883,8 @@ window.STREETS = [
   "ar": "شارع الصَّبابة",
   "en": "As Sababah Street",
   "meaning": {
-    "ar": "«الصَّبابة»: صَّبابة",
-    "en": "As Sababah: longing"
+    "ar": "«الصَّبابة» الصبابةُ من الشوق؛ والاسم من هذا اللفظ.",
+    "en": "«As Sababah» is the longing of desire."
   },
   "story": {
     "ar": "«الصَّبابة» صَّبابة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -122899,8 +122899,8 @@ window.STREETS = [
   "ar": "شارع الصُّباحة",
   "en": "As Subahah Street",
   "meaning": {
-    "ar": "«الصُّباحة»: صُّباحة",
-    "en": "As Subahah: beauty, fairness"
+    "ar": "«الصُّباحة» من مادة «صَبُحَ»؛ والاسم من هذا اللفظ.",
+    "en": "«As Subahah» comes from the root sabuha."
   },
   "story": {
     "ar": "«الصُّباحة» صُّباحة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السِّلَع، أبوظبي.",
@@ -122915,8 +122915,8 @@ window.STREETS = [
   "ar": "شارع الصبّار",
   "en": "As Sabbar Street",
   "meaning": {
-    "ar": "«الصبّار»: صبّار",
-    "en": "As Sabbar: cactus"
+    "ar": "«الصبّار» نباتُ الصبّار؛ والاسم من هذا اللفظ.",
+    "en": "«As Sabbar» is the cactus plant."
   },
   "story": {
     "ar": "«الصبّار» صبّار، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -122947,8 +122947,8 @@ window.STREETS = [
   "ar": "شارع الصُّبُوح",
   "en": "As Subouh Street",
   "meaning": {
-    "ar": "«الصُّبُوح»: صُّبُوح",
-    "en": "As Subouh: morning draught"
+    "ar": "«الصُّبُوح» شربةُ الصباح؛ والاسم من هذا اللفظ.",
+    "en": "«As Subuh» is the morning draught."
   },
   "story": {
     "ar": "«الصُّبُوح» صُّبُوح، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع عَيْن الفَايْضَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -122963,8 +122963,8 @@ window.STREETS = [
   "ar": "شارع الصِبيح",
   "en": "Al Sibeeh Street",
   "meaning": {
-    "ar": "«الصِبيح»: صِبيح",
-    "en": "Al Sibeeh: pretty, comely"
+    "ar": "«الصِبيح» من «صَبُحَ»؛ والاسم من هذا اللفظ.",
+    "en": "«As Sibih» comes from the root sabuha."
   },
   "story": {
     "ar": "«الصِبيح» صِبيح، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في أم غَافة من إمارة أبوظبي.",
@@ -122979,8 +122979,8 @@ window.STREETS = [
   "ar": "شارع الصُّحبة",
   "en": "As Suhbah Street",
   "meaning": {
-    "ar": "«الصُّحبة»: صُّحبة",
-    "en": "As Suhbah: companionship, fellowship"
+    "ar": "«الصُّحبة» الصحبةُ في الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«As Suhbah» is companionship on the way."
   },
   "story": {
     "ar": "«الصُّحبة» صُّحبة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -122995,8 +122995,8 @@ window.STREETS = [
   "ar": "شارع الصحة",
   "en": "Al Sihah Street",
   "meaning": {
-    "ar": "«الصحة»: صحة",
-    "en": "Al Sihah: health"
+    "ar": "«الصحة» الصحةُ في الجسد؛ والاسم من هذا اللفظ.",
+    "en": "«As Sihhah» is health in the body."
   },
   "story": {
     "ar": "«الصحة» صحة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الخِبِيصِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -123011,8 +123011,8 @@ window.STREETS = [
   "ar": "شارع الصداقة",
   "en": "Al Sadaqah Street",
   "meaning": {
-    "ar": "«الصداقة»: صداقة",
-    "en": "Al Sadaqah: friendship"
+    "ar": "«الصداقة» الصداقةُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadaqah» is friendship between people."
   },
   "story": {
     "ar": "«الصداقة» صداقة، والاسم مأخوذ من هذه الكلمة. والشارع في الرقة، والاسم من أسماء المواضع في إمارة الشارقة.",
@@ -123027,8 +123027,8 @@ window.STREETS = [
   "ar": "شارع الصَّدر",
   "en": "As Sadr Street",
   "meaning": {
-    "ar": "«الصَّدر»: صَّدر",
-    "en": "As Sadr: a chest, a breast"
+    "ar": "«الصَّدر» صدرُ الإنسان؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadr» is the chest of a person."
   },
   "story": {
     "ar": "«الصَّدر» صَّدر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الطَّوِيلَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -123043,8 +123043,8 @@ window.STREETS = [
   "ar": "شارع الصِّدق",
   "en": "As Sidq Street",
   "meaning": {
-    "ar": "«الصِّدق»: صِّدق",
-    "en": "As Sidq: true, truthful, sincere"
+    "ar": "«الصِّدق» الصدقُ في القول؛ والاسم من هذا اللفظ.",
+    "en": "«As Sidq» is truthfulness in speech."
   },
   "story": {
     "ar": "«الصِّدق» صِّدق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في العامرة، أبوظبي.",
@@ -123059,8 +123059,8 @@ window.STREETS = [
   "ar": "شارع الصَّدَقة",
   "en": "Al Sadaqa Street",
   "meaning": {
-    "ar": "«الصَّدَقة»: صَّدَقة",
-    "en": "Al Sadaqa: dowry"
+    "ar": "«الصَّدَقة» الصدقةُ من المال؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadaqah» is the gift of money."
   },
   "story": {
     "ar": "«الصَّدَقة» صَّدَقة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الخِبِيصِي.",
@@ -123075,8 +123075,8 @@ window.STREETS = [
   "ar": "شارع الصدوق",
   "en": "Al Sadouq Street",
   "meaning": {
-    "ar": "«الصدوق»: صدوق",
-    "en": "Al Sadouq: always truthful"
+    "ar": "«الصدوق» الصادقُ الدائم؛ والاسم من هذا اللفظ.",
+    "en": "«As Sadauq» is the one always truthful."
   },
   "story": {
     "ar": "«الصدوق» صدوق، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الجيمي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -123091,8 +123091,8 @@ window.STREETS = [
   "ar": "شارع الصِّدِّيق",
   "en": "Al Siddeeq Street",
   "meaning": {
-    "ar": "«الصِّدِّيق»: صِّدِّيق",
-    "en": "Al Siddeeq: friend"
+    "ar": "«الصِّدِّيق» الصديقُ المقرَّب؛ والاسم من هذا اللفظ.",
+    "en": "«As Siddiq» is the close friend."
   },
   "story": {
     "ar": "«الصِّدِّيق» صِّدِّيق، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -123107,8 +123107,8 @@ window.STREETS = [
   "ar": "شارع الصَّرِيح",
   "en": "As Sareeh Street",
   "meaning": {
-    "ar": "«الصَّرِيح»: صَّرِيح",
-    "en": "As Sareeh: explicit, straightforward"
+    "ar": "«الصَّرِيح» الصريحُ في القول؛ والاسم من هذا اللفظ.",
+    "en": "«As Sarih» is the straightforward in speech."
   },
   "story": {
     "ar": "«الصَّرِيح» صَّرِيح، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الطِّوَيَّة من إمارة أبوظبي.",
@@ -123123,8 +123123,8 @@ window.STREETS = [
   "ar": "شارع الصُّعود",
   "en": "As Su'oud Street",
   "meaning": {
-    "ar": "«الصُّعود»: صُّعود",
-    "en": "As Su'oud: climbing, mounting"
+    "ar": "«الصُّعود» الصعودُ إلى الأعلى؛ والاسم من هذا اللفظ.",
+    "en": "«As Su'ud» is the climbing upward."
   },
   "story": {
     "ar": "«الصُّعود» صُّعود، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في ربدان بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -123139,8 +123139,8 @@ window.STREETS = [
   "ar": "شارع الصَّفاء",
   "en": "As Safa-a Street",
   "meaning": {
-    "ar": "«الصَّفاء»: صَّفاء",
-    "en": "As Safa-a: serenity"
+    "ar": "«الصَّفاء» صفاءُ النفس؛ والاسم من هذا اللفظ.",
+    "en": "«As Safa'» is serenity of the soul."
   },
   "story": {
     "ar": "«الصَّفاء» صَّفاء، والاسم مأخوذ من هذه الكلمة. وهو الشارع في زاخِر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -123155,8 +123155,8 @@ window.STREETS = [
   "ar": "شارع الصَّفح",
   "en": "As Safh Street",
   "meaning": {
-    "ar": "«الصَّفح»: صَّفح",
-    "en": "As Safh: pardon, remission"
+    "ar": "«الصَّفح» الصفحُ عن الذنب؛ والاسم من هذا اللفظ.",
+    "en": "«As Safh» is pardon for a fault."
   },
   "story": {
     "ar": "«الصَّفح» صَّفح، والاسم مأخوذ من هذه الكلمة. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -123171,8 +123171,8 @@ window.STREETS = [
   "ar": "شارع الصِّفْر",
   "en": "Al Sifr Street",
   "meaning": {
-    "ar": "«الصِّفْر»: صِّفْر",
-    "en": "Al Sifr: brass"
+    "ar": "«الصِّفْر» الصفرُ من المعادن؛ والاسم من هذا اللفظ.",
+    "en": "«As Sifr» is brass among metals."
   },
   "story": {
     "ar": "«الصِّفْر» صِّفْر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة الرياض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -123187,8 +123187,8 @@ window.STREETS = [
   "ar": "شارع الصَّفرة",
   "en": "As Safrah Street",
   "meaning": {
-    "ar": "«الصَّفرة»: صَّفرة",
-    "en": "As Safrah: yellowness, yellow"
+    "ar": "«الصَّفرة» الصفرةُ في اللون؛ والاسم من هذا اللفظ.",
+    "en": "«As Safrah» is yellowness in colour."
   },
   "story": {
     "ar": "«الصَّفرة» صَّفرة، والاسم مأخوذ من هذه الكلمة. والشارع في المنطقة الصناعية من إمارة أبوظبي.",
@@ -123203,8 +123203,8 @@ window.STREETS = [
   "ar": "شارع الصَّفصاف",
   "en": "As Safsaf Street",
   "meaning": {
-    "ar": "«الصَّفصاف»: صَفْصَاف",
-    "en": "As Safsaf: willow (Salix gen. et spp.)"
+    "ar": "«الصَّفصاف» شجرةُ الصفصاف؛ والاسم من هذا اللفظ.",
+    "en": "«As Safsaf» is the willow tree."
   },
   "story": {
     "ar": "«الصَّفصاف» صَفْصَاف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة خليفة، أبوظبي.",
@@ -123235,8 +123235,8 @@ window.STREETS = [
   "ar": "شارع الصَّفوة",
   "en": "As Safwah Street",
   "meaning": {
-    "ar": "«الصَّفوة»: صَّفوة",
-    "en": "As Safwah: the best"
+    "ar": "«الصَّفوة» المنتقاةُ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«As Safwah» is the chosen part of a thing."
   },
   "story": {
     "ar": "«الصَّفوة» صَّفوة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في حَدْبَة الزَّعْفَرَانَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -123251,8 +123251,8 @@ window.STREETS = [
   "ar": "شارع الصَّفِيح",
   "en": "As Safeeh Street",
   "meaning": {
-    "ar": "«الصَّفِيح»: صَّفِيح",
-    "en": "As Safeeh: thin plate, sheet, lamina"
+    "ar": "«الصَّفِيح» الصفيحةُ من المعدن؛ والاسم من هذا اللفظ.",
+    "en": "«As Sfih» is the thin plate of metal."
   },
   "story": {
     "ar": "«الصَّفِيح» صَّفِيح، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المَنهَل في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -123267,8 +123267,8 @@ window.STREETS = [
   "ar": "شارع الصَّقِيل",
   "en": "As Saqeel Street",
   "meaning": {
-    "ar": "«الصَّقِيل»: صَّقِيل",
-    "en": "As Saqeel: polished, finished"
+    "ar": "«الصَّقِيل» الملمَّعُ البَرّاق؛ والاسم من هذا اللفظ.",
+    "en": "«As Saqil» is the polished and shining."
   },
   "story": {
     "ar": "«الصَّقِيل» صَّقِيل، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في البطين من إمارة أبوظبي.",
@@ -123283,8 +123283,8 @@ window.STREETS = [
   "ar": "شارع الصَّلابة",
   "en": "As Salabah Street",
   "meaning": {
-    "ar": "«الصَّلابة»: صَّلابة",
-    "en": "As Salabah: hardness"
+    "ar": "«الصَّلابة» الصلابةُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«As Salabah» is hardness and firmness."
   },
   "story": {
     "ar": "«الصَّلابة» صَّلابة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في السَّمْحة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -123299,8 +123299,8 @@ window.STREETS = [
   "ar": "شارع الصناعي الرابع",
   "en": "Fourth Industrial Street",
   "meaning": {
-    "ar": "«الصناعي الرابع»: صناعي",
-    "en": "Fourth Industrial: industrial"
+    "ar": "«الرابع» الرابعُ في العدد؛ والاسم مركّب.",
+    "en": "«Ar Rabi'» is the fourth in number; the name is compound."
   },
   "story": {
     "ar": "«الصناعي» صناعي، و«الرابع» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في مدينة الشارقة، والاسم من أسماء المواضع التي تعرفها الشارقة.",
@@ -123315,8 +123315,8 @@ window.STREETS = [
   "ar": "شارع الصَّندل",
   "en": "As Sandal Street",
   "meaning": {
-    "ar": "«الصَّندل»: صَّندل",
-    "en": "As Sandal: sandals"
+    "ar": "«الصَّندل» الصندلُ من الأحذية؛ والاسم من هذا اللفظ.",
+    "en": "«As Sandal» is the sandal among footwear."
   },
   "story": {
     "ar": "«الصَّندل» صَّندل، والاسم مأخوذ من هذه الكلمة. والشارع في الفلاح، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -123331,8 +123331,8 @@ window.STREETS = [
   "ar": "شارع الصَنُوبَر",
   "en": "Al Sanoubar Street",
   "meaning": {
-    "ar": "«الصَنُوبَر»: صَنُوبَر",
-    "en": "Al Sanoubar: pine, pine tree"
+    "ar": "«الصَنُوبَر» شجرةُ الصنوبر؛ والاسم من هذا اللفظ.",
+    "en": "«As Sanubar» is the pine tree."
   },
   "story": {
     "ar": "«الصَنُوبَر» صَنُوبَر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة الرياض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -123347,8 +123347,8 @@ window.STREETS = [
   "ar": "شارع الصَّواب",
   "en": "As Sawab Street",
   "meaning": {
-    "ar": "«الصَّواب»: صَّواب",
-    "en": "As Sawab: right, correct"
+    "ar": "«الصَّواب» الصوابُ من القول؛ والاسم من هذا اللفظ.",
+    "en": "«As Sawab» is the right among sayings."
   },
   "story": {
     "ar": "الاسم «الصَّواب» صَّواب، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في ربدان.",
@@ -123363,8 +123363,8 @@ window.STREETS = [
   "ar": "شارع الصُّوار",
   "en": "As Suwar Street",
   "meaning": {
-    "ar": "«الصُّوار»: صُّوار",
-    "en": "As Suwar: Someone who draws"
+    "ar": "«الصُّوار» الجالبُ للشيء؛ والاسم من هذا اللفظ.",
+    "en": "«As Suwar» is the one who brings a thing."
   },
   "story": {
     "ar": "«الصُّوار» صُّوار، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة زايد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -123379,8 +123379,8 @@ window.STREETS = [
   "ar": "شارع الصُّوَّة",
   "en": "As Suwwah Street",
   "meaning": {
-    "ar": "«الصُّوَّة»: صُّوَّة",
-    "en": "As Suwwah: guidepost"
+    "ar": "«الصُّوَّة» علامةُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«As Suwwah» is the signpost of the road."
   },
   "story": {
     "ar": "«الصُّوَّة» صُّوَّة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع جَزِيرَة الرِّيم في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -123395,8 +123395,8 @@ window.STREETS = [
   "ar": "شارع الصَّورة",
   "en": "Al Sourah Street",
   "meaning": {
-    "ar": "«الصَّورة»: صَّورة",
-    "en": "Al Sourah: form, shape, figure"
+    "ar": "«الصَّورة» الصورةُ والشكل؛ والاسم من هذا اللفظ.",
+    "en": "«As Surah» is the form and shape."
   },
   "story": {
     "ar": "«الصَّورة» صَّورة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الرَّحبة من إمارة أبوظبي.",
@@ -123411,8 +123411,8 @@ window.STREETS = [
   "ar": "شارع الصُّوف",
   "en": "As Souf Street",
   "meaning": {
-    "ar": "«الصُّوف»: صُّوف",
-    "en": "As Souf: wool"
+    "ar": "«الصُّوف» الصوفُ من الألياف؛ والاسم من هذا اللفظ.",
+    "en": "«As Suf» is wool among fibres."
   },
   "story": {
     "ar": "«الصُّوف» صُّوف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في العامرة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -123443,8 +123443,8 @@ window.STREETS = [
   "ar": "شارع الصيفي",
   "en": "Al Sayfi Street",
   "meaning": {
-    "ar": "«الصيفي»: صيفي",
-    "en": "Al Sayfi: summery, aestival"
+    "ar": "«الصيفي» المنسوبُ إلى الصيف؛ والاسم من هذا اللفظ.",
+    "en": "«As Sayfi» relates to summer."
   },
   "story": {
     "ar": "«الصيفي» صيفي، والاسم مأخوذ من هذه الكلمة. والشارع في جزيرة ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -123475,8 +123475,8 @@ window.STREETS = [
   "ar": "شارع الضُّباب",
   "en": "Ad Dubab Street",
   "meaning": {
-    "ar": "«الضُّباب»: ضُّباب",
-    "en": "Ad Dubab: fog"
+    "ar": "«الضُّباب» الضبابُ في الجو؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dabab» is fog in the air."
   },
   "story": {
     "ar": "«الضُّباب» ضُّباب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في ربدان، أبوظبي.",
@@ -123491,8 +123491,8 @@ window.STREETS = [
   "ar": "شارع الضبع",
   "en": "Al Dheba Street",
   "meaning": {
-    "ar": "«الضبع»: ضبع",
-    "en": "Al Dheba: hyena"
+    "ar": "«الضبع» الضبعُ من السباع؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Duba'» is the hyena among beasts."
   },
   "story": {
     "ar": "«الضبع» ضبع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في السلمة.",
@@ -123507,8 +123507,8 @@ window.STREETS = [
   "ar": "شارع الضِّفَّة",
   "en": "Ad Diffah Street",
   "meaning": {
-    "ar": "«الضِّفَّة»: ضِّفَّة",
-    "en": "Ad Diffah: bank, shore"
+    "ar": "«الضِّفَّة» ضفّةُ النهر؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Diffah» is the bank of a river."
   },
   "story": {
     "ar": "«الضِّفَّة» ضِّفَّة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -123523,8 +123523,8 @@ window.STREETS = [
   "ar": "شارع الضماد",
   "en": "Al Damad Street",
   "meaning": {
-    "ar": "«الضماد»: ضماد",
-    "en": "Al Damad: bandage"
+    "ar": "«الضماد» ضمادُ الجرح؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Damad» is the dressing of a wound."
   },
   "story": {
     "ar": "«الضماد» ضماد، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم غَافة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -123539,8 +123539,8 @@ window.STREETS = [
   "ar": "شارع الضمان",
   "en": "Al Dhaman Street",
   "meaning": {
-    "ar": "«الضمان»: ضمان",
-    "en": "Al Dhaman: guarantee"
+    "ar": "«الضمان» الضمانُ للشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Daman» is the guarantee for a thing."
   },
   "story": {
     "ar": "«الضمان» ضمان، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -123555,8 +123555,8 @@ window.STREETS = [
   "ar": "شارع الضميمة",
   "en": "Ad Dameemah Street",
   "meaning": {
-    "ar": "«الضميمة»: ضميمة",
-    "en": "Ad Dameemah: attachment"
+    "ar": "«الضميمة» المُضافُ إلى الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dameemah» is the attachment to a thing."
   },
   "story": {
     "ar": "«الضميمة» ضميمة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مُصَفَح بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -123587,8 +123587,8 @@ window.STREETS = [
   "ar": "شارع الضِّيافة",
   "en": "Ad Diyafah Street",
   "meaning": {
-    "ar": "«الضِّيافة»: ضِّيافة",
-    "en": "Ad Diyafah: accommodation"
+    "ar": "«الضِّيافة» ضيافةُ الضيوف؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Diyafah» is the hosting of guests."
   },
   "story": {
     "ar": "«الضِّيافة» ضِّيافة، والاسم مأخوذ من هذه الكلمة. والشارع في المطار، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -123603,8 +123603,8 @@ window.STREETS = [
   "ar": "شارع الضَّيف",
   "en": "Ad Dayf Street",
   "meaning": {
-    "ar": "«الضَّيف»: ضَّيف",
-    "en": "Ad Dayf: guest(s)"
+    "ar": "«الضَّيف» الضيفُ في الدار؛ والاسم من هذا اللفظ.",
+    "en": "«Ad Dayf» is the guest in the house."
   },
   "story": {
     "ar": "«الضَّيف» ضَّيف، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في هِيلِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -123619,8 +123619,8 @@ window.STREETS = [
   "ar": "شارع الطَاقَة",
   "en": "Al Taqah Street",
   "meaning": {
-    "ar": "«الطَاقَة»: طَاقَة",
-    "en": "Al Taqah: window"
+    "ar": "«الطَاقَة» الطاقةُ من البناء؛ والاسم من هذا اللفظ.",
+    "en": "«At Taqah» is the window of a building."
   },
   "story": {
     "ar": "«الطَاقَة» طَاقَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة الرياض، أبوظبي.",
@@ -123635,8 +123635,8 @@ window.STREETS = [
   "ar": "شارع الطالب",
   "en": "Al Talib Street",
   "meaning": {
-    "ar": "«الطالب»: طالب",
-    "en": "Al Talib: seeker, pursuer"
+    "ar": "«الطالب» الطالبُ للعلم؛ والاسم من هذا اللفظ.",
+    "en": "«At Talib» is the seeker of knowledge."
   },
   "story": {
     "ar": "«الطالب» طالب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الجيمي.",
@@ -123651,8 +123651,8 @@ window.STREETS = [
   "ar": "شارع الطالع",
   "en": "Al Taala' Street",
   "meaning": {
-    "ar": "«الطالع»: طالع",
-    "en": "Al Taala': omen"
+    "ar": "«الطالع» الطالعُ من الفأل؛ والاسم من هذا اللفظ.",
+    "en": "«At Tali'» is the omen."
   },
   "story": {
     "ar": "«الطالع» طالع، والاسم مأخوذ من هذه الكلمة. والشارع يقع في حدائق الصفوح من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -123667,8 +123667,8 @@ window.STREETS = [
   "ar": "شارع الطبلة",
   "en": "Al Tabla Street",
   "meaning": {
-    "ar": "«الطبلة»: طبلة",
-    "en": "Al Tabla: drum"
+    "ar": "«الطبلة» الطبلةُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«At Tablah» is the drum among instruments."
   },
   "story": {
     "ar": "«الطبلة» طبلة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الضغاية في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -123683,8 +123683,8 @@ window.STREETS = [
   "ar": "شارع الطَّبِيعة",
   "en": "At Tabee'ah Street",
   "meaning": {
-    "ar": "«الطَّبِيعة»: طَّبِيعة",
-    "en": "At Tabee'ah: nature, quality, essence"
+    "ar": "«الطَّبِيعة» طبيعةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tabi'ah» is the nature of a thing."
   },
   "story": {
     "ar": "«الطَّبِيعة» طَّبِيعة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
@@ -123699,8 +123699,8 @@ window.STREETS = [
   "ar": "شارع الطراد",
   "en": "Al Tarad Street",
   "meaning": {
-    "ar": "«الطراد»: طراد",
-    "en": "Al Tarad: cruiser"
+    "ar": "«الطراد» سفينةُ السير؛ والاسم من هذا اللفظ.",
+    "en": "«At Tarad» is the cruising vessel."
   },
   "story": {
     "ar": "«الطراد» طراد، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في جميرا بإمارة دبي، والاسم من أسماء المواضع.",
@@ -123715,8 +123715,8 @@ window.STREETS = [
   "ar": "شارع الطراز",
   "en": "Al Traz Street",
   "meaning": {
-    "ar": "«الطراز»: طراز",
-    "en": "Al Traz: embroiderer"
+    "ar": "«الطراز» الطرازُ من النسّاجين؛ والاسم من هذا اللفظ.",
+    "en": "«At Traz» is the embroiderer among weavers."
   },
   "story": {
     "ar": "«الطراز» طراز، والاسم مأخوذ من هذه الكلمة. وهو الشارع في جزيرة ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -123731,8 +123731,8 @@ window.STREETS = [
   "ar": "شارع الطرفه",
   "en": "Al Tarffah Street",
   "meaning": {
-    "ar": "«الطرفه»: طرفه",
-    "en": "Al Tarffah: novelty"
+    "ar": "«الطرفه» الشيءُ النادرُ الجميل؛ والاسم من هذا اللفظ.",
+    "en": "«At Tarfah» is the rare and fine object."
   },
   "story": {
     "ar": "«الطرفه» طرفه، والاسم مأخوذ من هذه الكلمة. والشارع في حدائق الصفوح، والاسم من أسماء المواضع في إمارة دبي.",
@@ -123763,8 +123763,8 @@ window.STREETS = [
   "ar": "شارع الطَّلح",
   "en": "At Talh Street",
   "meaning": {
-    "ar": "«الطَّلح»: طَّلح",
-    "en": "At Talh: Vachellia"
+    "ar": "«الطَّلح» شجرةُ الطلح؛ والاسم من هذا اللفظ.",
+    "en": "«At Talh» is the acacia tree."
   },
   "story": {
     "ar": "«الطَّلح» طَّلح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في غِيَّاثِي، أبوظبي.",
@@ -123779,8 +123779,8 @@ window.STREETS = [
   "ar": "شارع الطُّلُوع",
   "en": "At Tulou' Street",
   "meaning": {
-    "ar": "«الطُّلُوع»: طُلُوع",
-    "en": "At Tulou': rising"
+    "ar": "«الطُّلُوع» طلوعُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«At Tulu'» is the rising of the sun."
   },
   "story": {
     "ar": "«الطُّلُوع» طُلُوع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -123795,8 +123795,8 @@ window.STREETS = [
   "ar": "شارع الطُّمَأنِينة",
   "en": "At Tuma-neenah Street",
   "meaning": {
-    "ar": "«الطُّمَأنِينة»: طُّمَأنِينة",
-    "en": "At Tuma-neenah: tranquility, calmness, quietism"
+    "ar": "«الطُّمَأنِينة» سكونُ القلب؛ والاسم من هذا اللفظ.",
+    "en": "«At Tuma'ninah» is the calm of the heart."
   },
   "story": {
     "ar": "«الطُّمَأنِينة» طُّمَأنِينة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المنطقة الصناعية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -123811,8 +123811,8 @@ window.STREETS = [
   "ar": "شارع الطهر العربي",
   "en": "At Tahr Al Arabi Street",
   "meaning": {
-    "ar": "«الطهر العربي»: طهر",
-    "en": "At Tahr Al Arabi: tahr"
+    "ar": "«الطَّهْر» حيوانُ الوعول؛ والاسم مركّب.",
+    "en": "«At Tahr» is the tahr animal; the name is compound."
   },
   "story": {
     "ar": "«الطهر» طهر، و«العربي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -123827,8 +123827,8 @@ window.STREETS = [
   "ar": "شارع الطَّواف",
   "en": "At Tawaf Street",
   "meaning": {
-    "ar": "«الطَّواف»: طَّواف",
-    "en": "At Tawaf: wanderer"
+    "ar": "«الطَّواف» الطوافُ حول الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawwaf» is the going around a thing."
   },
   "story": {
     "ar": "«الطَّواف» طَّواف، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -123859,8 +123859,8 @@ window.STREETS = [
   "ar": "شارع الطُّوفان",
   "en": "At Toufan Street",
   "meaning": {
-    "ar": "«الطُّوفان»: طُّوفان",
-    "en": "At Toufan: storm"
+    "ar": "«الطُّوفان» الطوفانُ من الماء؛ والاسم من هذا اللفظ.",
+    "en": "«At Tufan» is the storm of water."
   },
   "story": {
     "ar": "«الطُّوفان» طُّوفان، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مُصَفَح، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -123891,8 +123891,8 @@ window.STREETS = [
   "ar": "شارع الطويل",
   "en": "Al Taweel Street",
   "meaning": {
-    "ar": "«الطويل»: طويل",
-    "en": "Al Taweel: long, tall"
+    "ar": "«الطويل» الطويلُ في القامة؛ والاسم من هذا اللفظ.",
+    "en": "«At Tawil» is the tall one in stature."
   },
   "story": {
     "ar": "«الطويل» طويل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في جزيرة ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -123939,8 +123939,8 @@ window.STREETS = [
   "ar": "شارع الطِّيْب",
   "en": "Al Teeb Street",
   "meaning": {
-    "ar": "«الطِّيْب»: طِّيْب",
-    "en": "Al Teeb: charming"
+    "ar": "«الطِّيْب» الطيبُ من الروائح؛ والاسم من هذا اللفظ.",
+    "en": "«At Tayyib» is the pleasant among scents."
   },
   "story": {
     "ar": "«الطِّيْب» طِّيْب، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة الرياض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -123955,8 +123955,8 @@ window.STREETS = [
   "ar": "شارع الطَّيْر",
   "en": "Al Tayr Street",
   "meaning": {
-    "ar": "«الطَّيْر»: طَّيْر",
-    "en": "Al Tayr: birds"
+    "ar": "«الطَّيْر» الطيورُ المعروفة؛ والاسم من هذا اللفظ.",
+    "en": "«At Tayr» are the birds."
   },
   "story": {
     "ar": "«الطَّيْر» طَّيْر، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُويجْعِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -123971,8 +123971,8 @@ window.STREETS = [
   "ar": "شارع الطَّيَران",
   "en": "Al Tayaran Street",
   "meaning": {
-    "ar": "«الطَّيَران»: طَّيَران",
-    "en": "Al Tayaran: flight"
+    "ar": "«الطَّيَران» طيرانُ الطير؛ والاسم من هذا اللفظ.",
+    "en": "«At Tayaran» is the flight of birds."
   },
   "story": {
     "ar": "«الطَّيَران» طَّيَران، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المطار من إمارة أبوظبي.",
@@ -123987,8 +123987,8 @@ window.STREETS = [
   "ar": "شارع الظَّاهْرة",
   "en": "Al Dhahrah Street",
   "meaning": {
-    "ar": "«الظَّاهْرة»: ظَّاهْرة",
-    "en": "Al Dhahrah: phenomenon"
+    "ar": "«الظَّاهْرة» الظاهرةُ من الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Adh Dhahirah» is the phenomenon of a matter."
   },
   "story": {
     "ar": "«الظَّاهْرة» ظَّاهْرة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -124019,8 +124019,8 @@ window.STREETS = [
   "ar": "شارع العائم",
   "en": "Al 'A-im Street",
   "meaning": {
-    "ar": "«العائم»: عائم",
-    "en": "Al 'A-im: afloat, floating"
+    "ar": "«العائم» العائمُ على الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al A'im» is the one afloat on water."
   },
   "story": {
     "ar": "«العائم» عائم، والاسم مأخوذ من هذه الكلمة. والشارع في جزيرة ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -124035,8 +124035,8 @@ window.STREETS = [
   "ar": "شارع العَاج",
   "en": "Al 'Aj Street",
   "meaning": {
-    "ar": "«العَاج»: عَاج",
-    "en": "Al 'Aj: ivory"
+    "ar": "«العَاج» العاجُ من الأنياب؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Aj» is ivory among tusks."
   },
   "story": {
     "ar": "«العَاج» عَاج، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الخِبِيصِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -124051,8 +124051,8 @@ window.STREETS = [
   "ar": "شارع العاجل",
   "en": "Al 'Ajil Street",
   "meaning": {
-    "ar": "«العاجل»: عاجل",
-    "en": "Al 'Ajil: urgent, hasty"
+    "ar": "«العاجل» العاجلُ من الأمور؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ajil» is the urgent among matters."
   },
   "story": {
     "ar": "«العاجل» عاجل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة الرياض، أبوظبي.",
@@ -124067,8 +124067,8 @@ window.STREETS = [
   "ar": "شارع العاجِي",
   "en": "Al 'Aji Street",
   "meaning": {
-    "ar": "«العاجِي»: عاجِي",
-    "en": "Al 'Aji: ivory (color)"
+    "ar": "«العاجِي» لونُ العاج؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Aji» is the colour of ivory."
   },
   "story": {
     "ar": "الاسم «العاجِي» عاجِي، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المحاضر الغربية.",
@@ -124083,8 +124083,8 @@ window.STREETS = [
   "ar": "شارع العَادِي",
   "en": "Al 'Adi Street",
   "meaning": {
-    "ar": "«العَادِي»: عَادِي",
-    "en": "Al 'Adi: ancient, very old"
+    "ar": "«العَادِي» القديمُ العتيق؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Adi» is the ancient and old."
   },
   "story": {
     "ar": "«العَادِي» عَادِي، والاسم مأخوذ من هذه الكلمة. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -124099,8 +124099,8 @@ window.STREETS = [
   "ar": "شارع العَازِم",
   "en": "Al 'Azim Street",
   "meaning": {
-    "ar": "«العَازِم»: عَازِم",
-    "en": "Al 'Azim: resolved"
+    "ar": "«العَازِم» العازمُ على الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Azim» is the one resolved on a matter."
   },
   "story": {
     "ar": "«العَازِم» عَازِم، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُويجْعِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -124115,8 +124115,8 @@ window.STREETS = [
   "ar": "شارع العَاضِد",
   "en": "Al 'Adid Street",
   "meaning": {
-    "ar": "«العَاضِد»: عَاضِد",
-    "en": "Al 'Adid: a palm row"
+    "ar": "«العَاضِد» سِلْسِلةُ النخيل على ضفة النهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Adid» is the line of palms along a riverbank."
   },
   "story": {
     "ar": "«العَاضِد» عَاضِد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الروضة الشرقية من إمارة أبوظبي.",
@@ -124147,8 +124147,8 @@ window.STREETS = [
   "ar": "شارع العالِم",
   "en": "Al 'Alim Street",
   "meaning": {
-    "ar": "«العالِم»: عالم",
-    "en": "Al 'Alim: world"
+    "ar": "«العالِم» العالَمُ الكائن؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Alim» is the world that is."
   },
   "story": {
     "ar": "«العالِم» عالم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في ربدان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -124179,8 +124179,8 @@ window.STREETS = [
   "ar": "شارع العالي",
   "en": "A'ali Street",
   "meaning": {
-    "ar": "«العالي»: عالي",
-    "en": "A'ali: over, upon, above"
+    "ar": "«العالي» العاليُّ من المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ali» is the high among places."
   },
   "story": {
     "ar": "«العالي» عالي، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم سقيم بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -124195,8 +124195,8 @@ window.STREETS = [
   "ar": "شارع العَبَّارَة",
   "en": "Al 'Abbarah Street",
   "meaning": {
-    "ar": "«العَبَّارَة»: عَبَّارَة",
-    "en": "Al 'Abbarah: ferry"
+    "ar": "«العَبَّارَة» العبّارةُ في الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Abarah» is the ferry on the water."
   },
   "story": {
     "ar": "«العَبَّارَة» عَبَّارَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في أم غَافة، أبوظبي.",
@@ -124211,8 +124211,8 @@ window.STREETS = [
   "ar": "شارع العِبَل",
   "en": "Al 'Ibal Street",
   "meaning": {
-    "ar": "«العِبَل»: عِبَل",
-    "en": "Al 'Ibal: bulky, thick, gross"
+    "ar": "«العِبَل» الثقيلُ السميك؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ibal» is the bulky and thick."
   },
   "story": {
     "ar": "«العِبَل» عِبَل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المُشرِف.",
@@ -124227,8 +124227,8 @@ window.STREETS = [
   "ar": "شارع العبور",
   "en": "Al 'Ubour Street",
   "meaning": {
-    "ar": "«العبور»: عبور",
-    "en": "Al 'Ubour: crossing, passing"
+    "ar": "«العبور» عبورُ النهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ubur» is the crossing of a river."
   },
   "story": {
     "ar": "«العبور» عبور، والاسم مأخوذ من هذه الكلمة. والشارع يقع في السَّلاَمَات من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -124243,8 +124243,8 @@ window.STREETS = [
   "ar": "شارع العَبِير",
   "en": "Al 'Abeer Street",
   "meaning": {
-    "ar": "«العَبِير»: عَبِير",
-    "en": "Al 'Abeer: a perfume"
+    "ar": "«العَبِير» العبيرُ من الطيب؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Abir» is the blended perfume."
   },
   "story": {
     "ar": "«العَبِير» عَبِير، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الخِبِيصِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -124259,8 +124259,8 @@ window.STREETS = [
   "ar": "شارع العَتاد",
   "en": "Al 'Atad Street",
   "meaning": {
-    "ar": "«العَتاد»: عَتاد",
-    "en": "Al 'Atad: equipment"
+    "ar": "«العَتاد» العتادُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Atad» is the equipment among gear."
   },
   "story": {
     "ar": "«العَتاد» عَتاد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -124275,8 +124275,8 @@ window.STREETS = [
   "ar": "شارع العَتِيق",
   "en": "Al 'Ateeq Street",
   "meaning": {
-    "ar": "«العَتِيق»: عَتِيق",
-    "en": "Al 'Ateeq: freed"
+    "ar": "«العَتِيق» المعتَّقُ القديم؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Atiq» is the freed and the old."
   },
   "story": {
     "ar": "«العَتِيق» عَتِيق، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الجَاهلِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -124291,8 +124291,8 @@ window.STREETS = [
   "ar": "شارع العَجائِب",
   "en": "Al 'Aja-ib Street",
   "meaning": {
-    "ar": "«العَجائِب»: عَجَائِب",
-    "en": "Al 'Aja-ib: wonders"
+    "ar": "«العَجائِب» جمع «عَجِيبة»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Aja'ib» is the plural of ajibah — wonders."
   },
   "story": {
     "ar": "«العَجائِب» جمع عجيبة: كل ما يدعو إلى الدهشة والتعجب أو يثير إعجاباً شديداً لغرابته، والاسم مأخوذ من هذه الكلمة. والشارع في بني ياس من إمارة أبوظبي.",
@@ -124307,8 +124307,8 @@ window.STREETS = [
   "ar": "شارع العجاب",
   "en": "Al 'Ajab Street",
   "meaning": {
-    "ar": "«العجاب»: عجاب",
-    "en": "Al 'Ajab: amazing"
+    "ar": "«العجاب» العجيبُ من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ajab» is the amazing among things."
   },
   "story": {
     "ar": "«العجاب» عجاب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الجيمي، أبوظبي.",
@@ -124387,8 +124387,8 @@ window.STREETS = [
   "ar": "شارع العدَّاء",
   "en": "Al 'Adda-a Street",
   "meaning": {
-    "ar": "«العدَّاء»: عدَّاء",
-    "en": "Al 'Adda-a: runner"
+    "ar": "«العدَّاء» العدّاءُ في السباق؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Adda'» is the runner in a race."
   },
   "story": {
     "ar": "«العدَّاء» عدَّاء، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الفُوعَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -124403,8 +124403,8 @@ window.STREETS = [
   "ar": "شارع العَدالة",
   "en": "Al 'Adalah Street",
   "meaning": {
-    "ar": "«العَدالة»: عَدالة",
-    "en": "Al 'Adalah: justice"
+    "ar": "«العَدالة» العدالةُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Adalah» is justice between people."
   },
   "story": {
     "ar": "«العَدالة» عَدالة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في زاخِر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -124419,8 +124419,8 @@ window.STREETS = [
   "ar": "شارع العدان",
   "en": "Al 'Adan Street",
   "meaning": {
-    "ar": "«العدان»: عدان",
-    "en": "Al 'Adan: a time"
+    "ar": "«العدان» الوقتُ المضبوط؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Adan» is the appointed time."
   },
   "story": {
     "ar": "«العدان» عدان، والاسم مأخوذ من هذه الكلمة. والشارع في وسط المدينة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -124435,8 +124435,8 @@ window.STREETS = [
   "ar": "شارع العديد",
   "en": "Al 'Aded Street",
   "meaning": {
-    "ar": "«العديد»: عديد",
-    "en": "Al 'Aded: numerous, many"
+    "ar": "«العديد» الكثيرُ من العدد؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Adid» is the many in number."
   },
   "story": {
     "ar": "«العديد» عديد، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الصَّدر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -124451,8 +124451,8 @@ window.STREETS = [
   "ar": "شارع العَذْب",
   "en": "Al 'Adhb Street",
   "meaning": {
-    "ar": "«العَذْب»: عَذْب",
-    "en": "Al 'Adhb: fresh, potable"
+    "ar": "«العَذْب» الماءُ العذب؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Adhb» is fresh potable water."
   },
   "story": {
     "ar": "«العَذْب» عَذْب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السِّلَع، أبوظبي.",
@@ -124499,8 +124499,8 @@ window.STREETS = [
   "ar": "شارع العراء",
   "en": "Al A'thra' Street",
   "meaning": {
-    "ar": "«العراء»: عراء",
-    "en": "Al A'thra': bareness"
+    "ar": "«العراء» العراةُ من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ira'» is the bareness of land."
   },
   "story": {
     "ar": "«العراء» عراء، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة دبي للإعلام في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -124515,8 +124515,8 @@ window.STREETS = [
   "ar": "شارع العرار",
   "en": "Al Arar Street",
   "meaning": {
-    "ar": "«العرار»: عرار",
-    "en": "Al Arar: oxeye"
+    "ar": "«العرار» نباتُ العرار؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Arar» is the oxeye plant."
   },
   "story": {
     "ar": "«العرار» عرار، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في شنتير من إمارة أم القيوين.",
@@ -124563,8 +124563,8 @@ window.STREETS = [
   "ar": "شارع العِرفان",
   "en": "Al 'Irfan Street",
   "meaning": {
-    "ar": "«العِرفان»: عِرفان",
-    "en": "Al 'Irfan: knowledge"
+    "ar": "«العِرفان» المعرفةُ البالغة؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Irfan» is deep knowledge."
   },
   "story": {
     "ar": "«العِرفان» عِرفان، والاسم مأخوذ من هذه الكلمة. والشارع في السَّعادة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -124579,8 +124579,8 @@ window.STREETS = [
   "ar": "شارع العُرُوج",
   "en": "Al 'Urouj Street",
   "meaning": {
-    "ar": "«العُرُوج»: عُرُوج",
-    "en": "Al 'Urouj: ascent, ascension"
+    "ar": "«العُرُوج» الصعودُ إلى الأعلى؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Uruj» is the ascent upward."
   },
   "story": {
     "ar": "«العُرُوج» عُرُوج، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في غِيَّاثِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -124611,8 +124611,8 @@ window.STREETS = [
   "ar": "شارع العِريش",
   "en": "Al 'Ireesh Street",
   "meaning": {
-    "ar": "«العِريش»: عِريش",
-    "en": "Al 'Ireesh: bower, arbor"
+    "ar": "«العِريش» العريشُ من البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Irish» is the bower among structures."
   },
   "story": {
     "ar": "«العِريش» عِريش، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع وسط المدينة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -124659,8 +124659,8 @@ window.STREETS = [
   "ar": "شارع العرين",
   "en": "Al 'Areen Street",
   "meaning": {
-    "ar": "«العرين»: عرين",
-    "en": "Al 'Areen: den"
+    "ar": "«العرين» عرينُ الأسد؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Areen» is the lion's den."
   },
   "story": {
     "ar": "«العرين» عرين، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -124707,8 +124707,8 @@ window.STREETS = [
   "ar": "شارع العَزم",
   "en": "Al 'Azm Street",
   "meaning": {
-    "ar": "«العَزم»: عَزم",
-    "en": "Al 'Azm: firm resolution"
+    "ar": "«العَزم» العزمُ على الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Azm» is the resolve on a matter."
   },
   "story": {
     "ar": "«العَزم» عَزم، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -124723,8 +124723,8 @@ window.STREETS = [
   "ar": "شارع العزيمة",
   "en": "Al 'Azeemah Street",
   "meaning": {
-    "ar": "«العزيمة»: عزيمة",
-    "en": "Al 'Azeemah: determination"
+    "ar": "«العزيمة» العزيمةُ المؤكدة؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Azimah» is the firm determination."
   },
   "story": {
     "ar": "«العزيمة» عزيمة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في ميناء زايد.",
@@ -124739,8 +124739,8 @@ window.STREETS = [
   "ar": "شارع العَسبِق",
   "en": "Al 'Asbiq Street",
   "meaning": {
-    "ar": "«العَسبِق»: عَسبِق",
-    "en": "Al 'Asbiq: Euphorbia larica"
+    "ar": "«العَسبِق» نباتُ العسبق؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Asbiq» is the euphorbia plant."
   },
   "story": {
     "ar": "«العَسبِق» عَسبِق، والاسم مأخوذ من هذه الكلمة. والشارع يقع في القوع من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -124787,8 +124787,8 @@ window.STREETS = [
   "ar": "شارع العشار",
   "en": "Al Oshaar Street",
   "meaning": {
-    "ar": "«العشار»: عشار",
-    "en": "Al Oshaar: the ashkhar shrub"
+    "ar": "«العشار» نباتُ العشار؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ashar» is the ashkhar shrub."
   },
   "story": {
     "ar": "«العشار» عشار، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في أم سقيم بإمارة دبي، والاسم من أسماء المواضع.",
@@ -124803,8 +124803,8 @@ window.STREETS = [
   "ar": "شارع العِشْبة",
   "en": "Al 'Ishbah Street",
   "meaning": {
-    "ar": "«العِشْبة»: عِشْبة",
-    "en": "Al 'Ishbah: a fresh"
+    "ar": "«العِشْبة» العشبةُ الخضراء؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ishbah» is the green herb."
   },
   "story": {
     "ar": "الاسم «العِشْبة» عِشْبة، وليس مركّباً. وهو الشارع في السِّلَع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -124819,8 +124819,8 @@ window.STREETS = [
   "ar": "شارع العَشِيَّة",
   "en": "Al 'Ashiyah Street",
   "meaning": {
-    "ar": "«العَشِيَّة»: عَشِيَّة",
-    "en": "Al 'Ashiyah: evening, nightfall"
+    "ar": "«العَشِيَّة» العشيةُ من الزمان؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ashiyyah» is the evening of time."
   },
   "story": {
     "ar": "«العَشِيَّة» عَشِيَّة، والاسم مأخوذ من هذه الكلمة. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -124835,8 +124835,8 @@ window.STREETS = [
   "ar": "شارع العَصر",
   "en": "Al 'Asr Street",
   "meaning": {
-    "ar": "«العَصر»: عَصْر",
-    "en": "Al 'Asr: an era"
+    "ar": "«العَصر» العصرُ من الأزمنة؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Asr» is the age among times."
   },
   "story": {
     "ar": "«العَصر» عَصْر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -124851,8 +124851,8 @@ window.STREETS = [
   "ar": "شارع العصري",
   "en": "Al 'Asri Street",
   "meaning": {
-    "ar": "«العصري»: عصري",
-    "en": "Al 'Asri: modern"
+    "ar": "«العصري» المنسوبُ إلى العصر؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Asri» relates to the age."
   },
   "story": {
     "ar": "«العصري» عصري، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الخِبِيصِي، أبوظبي.",
@@ -124867,8 +124867,8 @@ window.STREETS = [
   "ar": "شارع العَطَّار",
   "en": "Al 'Attar Street",
   "meaning": {
-    "ar": "«العَطَّار»: عَطَّار",
-    "en": "Al 'Attar: perfumer"
+    "ar": "«العَطَّار» العطّارُ من التجار؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Attar» is the perfumer among merchants."
   },
   "story": {
     "ar": "«العَطَّار» عَطَّار، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة زايد.",
@@ -124883,8 +124883,8 @@ window.STREETS = [
   "ar": "شارع العِطر",
   "en": "Al 'Itr Street",
   "meaning": {
-    "ar": "«العِطر»: عِطر",
-    "en": "Al 'Itr: perfume, scent"
+    "ar": "«العِطر» العطرُ من الطيب؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Itr» is perfume among scents."
   },
   "story": {
     "ar": "الاسم «العِطر» عِطر، وليس مركّباً. والشارع يقع في الطِّوَيَّة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -124899,8 +124899,8 @@ window.STREETS = [
   "ar": "شارع العَفُو",
   "en": "Al 'Afou Street",
   "meaning": {
-    "ar": "«العَفُو»: عَفُو",
-    "en": "Al 'Afou: remitting much"
+    "ar": "«العَفُو» من «عَفَا يَعْفُو»؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Afw» comes from the root 'afa."
   },
   "story": {
     "ar": "«العَفُو» عَفُو، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مُصَفَح في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -124915,8 +124915,8 @@ window.STREETS = [
   "ar": "شارع العقار",
   "en": "Al 'Aqar Street",
   "meaning": {
-    "ar": "«العقار»: عقار",
-    "en": "Al 'Aqar: real estate"
+    "ar": "«العقار» العقارُ من الأموال؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Aqar» is real estate among assets."
   },
   "story": {
     "ar": "«العقار» عقار، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -124931,8 +124931,8 @@ window.STREETS = [
   "ar": "شارع العقد الفريد",
   "en": "Al Akd Al Fareed Street",
   "meaning": {
-    "ar": "«العقد الفريد»: عقد",
-    "en": "Al Akd Al Fareed: necklace"
+    "ar": "«العقد» العقدُ من الجواهر؛ والاسم مركّب.",
+    "en": "«Al 'Aqd» is the necklace among gems; the name is compound."
   },
   "story": {
     "ar": "«العقد» عقد، و«الفريد» اسم يخصّ الموضع لا كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في دبا الحصن بإمارة الشارقة، والاسم من أسماء المواضع.",
@@ -124947,8 +124947,8 @@ window.STREETS = [
   "ar": "شارع العقرب",
   "en": "Al Aqurab Street",
   "meaning": {
-    "ar": "«العقرب»: عقرب",
-    "en": "Al Aqurab: scorpion"
+    "ar": "«العقرب» العقربُ من الحيوان؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Aqrab» is the scorpion among creatures."
   },
   "story": {
     "ar": "«العقرب» عقرب، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة دبي للإنترنت، والاسم من أسماء المواضع التي تعرفها دبي.",
@@ -124963,8 +124963,8 @@ window.STREETS = [
   "ar": "شارع العَقِيقة",
   "en": "Al 'Aqeeqah Street",
   "meaning": {
-    "ar": "«العَقِيقة»: عَقِيقة",
-    "en": "Al 'Aqeeqah: a crooked tool"
+    "ar": "«العَقِيقة» الآلةُ المعوجّة؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Aqiqah» is the crooked tool."
   },
   "story": {
     "ar": "«العَقِيقة» عَقِيقة، والاسم مأخوذ من هذه الكلمة. والشارع في عَشَارِج، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -124979,8 +124979,8 @@ window.STREETS = [
   "ar": "شارع العكَّاسة",
   "en": "Al 'Akkasah Street",
   "meaning": {
-    "ar": "«العكَّاسة»: عكَّاسة",
-    "en": "Al 'Akkasah: a camera"
+    "ar": "«العكَّاسة» العكّاسةُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Akkasah» is the camera among devices."
   },
   "story": {
     "ar": "«العكَّاسة» عكَّاسة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -125011,8 +125011,8 @@ window.STREETS = [
   "ar": "شارع العلو",
   "en": "Al 'Ulow Street",
   "meaning": {
-    "ar": "«العلو»: علو",
-    "en": "Al 'Ulow: highness"
+    "ar": "«العلو» العلوُّ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Uluww» is elevation in place."
   },
   "story": {
     "ar": "«العلو» علو، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في النَّهضة.",
@@ -125027,8 +125027,8 @@ window.STREETS = [
   "ar": "شارع العلوم",
   "en": "Al 'Uloum Street",
   "meaning": {
-    "ar": "«العلوم»: علوم",
-    "en": "Al 'Uloum: science"
+    "ar": "«العلوم» جمع «عِلْم»؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ulum» is the plural of 'ilm — sciences."
   },
   "story": {
     "ar": "«العلوم» علوم، والاسم مأخوذ من هذه الكلمة. والشارع يقع في البَاهية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -125043,8 +125043,8 @@ window.STREETS = [
   "ar": "شارع العَلياء",
   "en": "Al 'Alya-a Street",
   "meaning": {
-    "ar": "«العَلياء»: عَلياء",
-    "en": "Al 'Alya-a: elevation, highness"
+    "ar": "«العَلياء» العلوُّ والارتفاع؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Alya'» is elevation and height."
   },
   "story": {
     "ar": "«العَلياء» عَلياء، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة شخبوط في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -125059,8 +125059,8 @@ window.STREETS = [
   "ar": "شارع العَمارين",
   "en": "Al 'Amareen Street",
   "meaning": {
-    "ar": "«العَمارين»: عَمارين",
-    "en": "Al 'Amareen: developer, builder"
+    "ar": "«العَمارين» جمع «عَمّار»؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Amarin» is the plural of 'ammar — builders."
   },
   "story": {
     "ar": "«العَمارين» عَمارين، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في ربدان من إمارة أبوظبي.",
@@ -125075,8 +125075,8 @@ window.STREETS = [
   "ar": "شارع العَمَد",
   "en": "Al 'Amad Street",
   "meaning": {
-    "ar": "«العَمَد»: عَمَد",
-    "en": "Al 'Amad: intentional"
+    "ar": "«العَمَد» المقصودُ القاصد؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Amad» is the intentional one."
   },
   "story": {
     "ar": "«العَمَد» عَمَد، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الشَّوامخ بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -125091,8 +125091,8 @@ window.STREETS = [
   "ar": "شارع العملاق",
   "en": "Al 'Imlaq Street",
   "meaning": {
-    "ar": "«العملاق»: عملاق",
-    "en": "Al 'Imlaq: giant"
+    "ar": "«العملاق» العملاقُ من الرجال؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Imlaq» is the giant among men."
   },
   "story": {
     "ar": "«العملاق» عملاق، والاسم مأخوذ من هذه الكلمة. وهو الشارع في البَاهية، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -125107,8 +125107,8 @@ window.STREETS = [
   "ar": "شارع العملة",
   "en": "Al Aamlah Street",
   "meaning": {
-    "ar": "«العملة»: عملة",
-    "en": "Al Aamlah: evil deed"
+    "ar": "«العملة» العملةُ من النقود؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Amlah» is the coin among monies."
   },
   "story": {
     "ar": "«العملة» عملة، والاسم مأخوذ من هذه الكلمة. والشارع في جميرا، والاسم من أسماء المواضع في إمارة دبي.",
@@ -125123,8 +125123,8 @@ window.STREETS = [
   "ar": "شارع العميق",
   "en": "Al 'Ameeq Street",
   "meaning": {
-    "ar": "«العميق»: عميق",
-    "en": "Al 'Ameeq: deep"
+    "ar": "«العميق» العميقُ من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Amiq» is the deep among things."
   },
   "story": {
     "ar": "«العميق» عميق، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الجيمي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -125139,8 +125139,8 @@ window.STREETS = [
   "ar": "شارع العَنان",
   "en": "Al 'Anan Street",
   "meaning": {
-    "ar": "«العَنان»: عَنان",
-    "en": "Al 'Anan: clouds"
+    "ar": "«العَنان» عنانُ السماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Anan» is the cloudy sky."
   },
   "story": {
     "ar": "«العَنان» عَنان، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في عَيْن الفَايْضَة، أبوظبي.",
@@ -125155,8 +125155,8 @@ window.STREETS = [
   "ar": "شارع العَنبَر",
   "en": "Al 'Anbar Street",
   "meaning": {
-    "ar": "«العَنبَر»: عَنبَر",
-    "en": "Al 'Anbar: ambergris"
+    "ar": "«العَنبَر» العنبرُ من الطيب؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Anbar» is ambergris among scents."
   },
   "story": {
     "ar": "«العَنبَر» عَنبَر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الجَاهلِي.",
@@ -125171,8 +125171,8 @@ window.STREETS = [
   "ar": "شارع العَندَليب",
   "en": "Al 'Andaleeb Street",
   "meaning": {
-    "ar": "«العَندَليب»: عَندَليب",
-    "en": "Al 'Andaleeb: nightingale"
+    "ar": "«العَندَليب» طائرُ العنادل؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Andalib» is the nightingale bird."
   },
   "story": {
     "ar": "«العَندَليب» عَندَليب، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الشَّامْخَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -125187,8 +125187,8 @@ window.STREETS = [
   "ar": "شارع العَنزَرُوت",
   "en": "Al 'Anzarout Street",
   "meaning": {
-    "ar": "«العَنزَرُوت»: عَنْزَرُوت",
-    "en": "Al 'Anzarout: sarcocolla resin"
+    "ar": "«العَنزَرُوت» صمغُ العنزروت؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Anzarut» is the sarcocolla resin."
   },
   "story": {
     "ar": "«العَنزَرُوت» عَنْزَرُوت، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -125203,8 +125203,8 @@ window.STREETS = [
   "ar": "شارع العَنقُود",
   "en": "Al 'Anqoud Street",
   "meaning": {
-    "ar": "«العَنقُود»: عَنقُود",
-    "en": "Al 'Anqoud: cluster"
+    "ar": "«العَنقُود» عنقودُ العنب؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Unqud» is the cluster of grapes."
   },
   "story": {
     "ar": "«العَنقُود» عَنقُود، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُشرِف من إمارة أبوظبي.",
@@ -125219,8 +125219,8 @@ window.STREETS = [
   "ar": "شارع العُنُود",
   "en": "Al 'Unoud Street",
   "meaning": {
-    "ar": "«العُنُود»: عُنُود",
-    "en": "Al 'Unoud: perverse"
+    "ar": "«العُنُود» المائلُ عن الجادة؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Unud» is the one declining from the right way."
   },
   "story": {
     "ar": "«العُنُود» عُنُود، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الصَّارُوج بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -125235,8 +125235,8 @@ window.STREETS = [
   "ar": "شارع العَهد",
   "en": "Al 'Ahd Street",
   "meaning": {
-    "ar": "«العَهد»: عَهد",
-    "en": "Al 'Ahd: covenant"
+    "ar": "«العَهد» العهدُ والميثاق؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ahd» is the covenant and pledge."
   },
   "story": {
     "ar": "«العَهد» عَهد، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -125251,8 +125251,8 @@ window.STREETS = [
   "ar": "شارع العَوْدة",
   "en": "Al 'Awdah Street",
   "meaning": {
-    "ar": "«العَوْدة»: عَوْدة",
-    "en": "Al 'Awdah: return"
+    "ar": "«العَوْدة» العودةُ إلى المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Awdah» is the return to a place."
   },
   "story": {
     "ar": "«العَوْدة» عَوْدة، والاسم مأخوذ من هذه الكلمة. والشارع في الشهامة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -125267,8 +125267,8 @@ window.STREETS = [
   "ar": "شارع العُون",
   "en": "Al 'Oun Street",
   "meaning": {
-    "ar": "«العُون»: عُون",
-    "en": "Al 'Oun: help"
+    "ar": "«العُون» العونُ على الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Awn» is the help in a matter."
   },
   "story": {
     "ar": "«العُون» عُون، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في ربدان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -125283,8 +125283,8 @@ window.STREETS = [
   "ar": "شارع العَيني",
   "en": "Al 'Ayni Street",
   "meaning": {
-    "ar": "«العَيني»: عَيني",
-    "en": "Al 'Ayni: ocular, eye-related"
+    "ar": "«العَيني» المنسوبُ إلى العين؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Ayni» relates to the eye."
   },
   "story": {
     "ar": "«العَيني» عَيني، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في زاخِر، أبوظبي.",
@@ -125299,8 +125299,8 @@ window.STREETS = [
   "ar": "شارع الغالية",
   "en": "Al Ghaliyah Street",
   "meaning": {
-    "ar": "«الغالية»: غَالِيَة",
-    "en": "Al Ghaliyah: precious"
+    "ar": "«الغالية» المنسوبةُ إلى الغلاء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghaliyyah» relates to dearness."
   },
   "story": {
     "ar": "«الغالية» غَالِيَة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَقَام.",
@@ -125315,8 +125315,8 @@ window.STREETS = [
   "ar": "شارع الغامر",
   "en": "Al Ghamir Street",
   "meaning": {
-    "ar": "«الغامر»: غامر",
-    "en": "Al Ghamir: immense"
+    "ar": "«الغامر» الغامرُ من كل شيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghamir» is the immense among things."
   },
   "story": {
     "ar": "«الغامر» غامر، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُويجْعِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -125363,8 +125363,8 @@ window.STREETS = [
   "ar": "شارع الغاية",
   "en": "Al Ghayah Street",
   "meaning": {
-    "ar": "«الغاية»: غاية",
-    "en": "Al Ghayah: end"
+    "ar": "«الغاية» غايةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghayah» is the end of a thing."
   },
   "story": {
     "ar": "«الغاية» غاية، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في فَلَج هَزَّاع بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -125411,8 +125411,8 @@ window.STREETS = [
   "ar": "شارع الغبيرة",
   "en": "Al Ghabeerah Street",
   "meaning": {
-    "ar": "«الغبيرة»: غبيرة",
-    "en": "Al Ghabeerah: conidium"
+    "ar": "«الغبيرة» الغبيرةُ من الأحياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghabirah» is the conidium among living things."
   },
   "story": {
     "ar": "«الغبيرة» غبيرة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -125427,8 +125427,8 @@ window.STREETS = [
   "ar": "شارع الغَدَق",
   "en": "Al Ghadaq Street",
   "meaning": {
-    "ar": "«الغَدَق»: غَدَق",
-    "en": "Al Ghadaq: plentiful, bountiful"
+    "ar": "«الغَدَق» الغدقُ من الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghadaq» is the plentiful water."
   },
   "story": {
     "ar": "«الغَدَق» غَدَق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -125443,8 +125443,8 @@ window.STREETS = [
   "ar": "شارع الغِر",
   "en": "Al Ghir Street",
   "meaning": {
-    "ar": "«الغِر»: غِر",
-    "en": "Al Ghir: credulous"
+    "ar": "«الغِر» الساذجُ في الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghir» is the gullible among people."
   },
   "story": {
     "ar": "«الغِر» غِر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الرَّحبة.",
@@ -125459,8 +125459,8 @@ window.STREETS = [
   "ar": "شارع الغرب",
   "en": "Al Gharb Street",
   "meaning": {
-    "ar": "«الغرب»: غرب",
-    "en": "Al Gharb: west, occident"
+    "ar": "«الغرب» الغربُ من الجهات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Gharb» is the west among directions."
   },
   "story": {
     "ar": "«الغرب» غرب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّدر.",
@@ -125475,8 +125475,8 @@ window.STREETS = [
   "ar": "شارع الغِرِزة",
   "en": "Al Ghirizah Street",
   "meaning": {
-    "ar": "«الغِرِزة»: غِرِزة",
-    "en": "Al Ghirizah: stitch, suture"
+    "ar": "«الغِرِزة» الغرزةُ في الخياطة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghirzah» is the stitch in sewing."
   },
   "story": {
     "ar": "«الغِرِزة» غِرِزة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -125491,8 +125491,8 @@ window.STREETS = [
   "ar": "شارع الغَرس",
   "en": "Al Ghars Street",
   "meaning": {
-    "ar": "«الغَرس»: غَرس",
-    "en": "Al Ghars: planting"
+    "ar": "«الغَرس» غرسُ الشجر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghars» is the planting of trees."
   },
   "story": {
     "ar": "«الغَرس» غَرس، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع العامرة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -125507,8 +125507,8 @@ window.STREETS = [
   "ar": "شارع الغَرْنُوق",
   "en": "Al Gharnouq Street",
   "meaning": {
-    "ar": "«الغَرْنُوق»: غَرْنُوق",
-    "en": "Al Gharnouq: crane, gruid"
+    "ar": "«الغَرْنُوق» طائرُ الغرنوق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Gharnuq» is the crane bird."
   },
   "story": {
     "ar": "«الغَرْنُوق» غَرْنُوق، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -125523,8 +125523,8 @@ window.STREETS = [
   "ar": "شارع الغُروب",
   "en": "Al Ghuroub Street",
   "meaning": {
-    "ar": "«الغُروب»: غُروب",
-    "en": "Al Ghuroub: set, going down"
+    "ar": "«الغُروب» غروبُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghurub» is the setting of the sun."
   },
   "story": {
     "ar": "«الغُروب» غُروب، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -125555,8 +125555,8 @@ window.STREETS = [
   "ar": "شارع الغِزَر",
   "en": "Al Ghizar Street",
   "meaning": {
-    "ar": "«الغِزَر»: غِزَر",
-    "en": "Al Ghizar: abundance"
+    "ar": "«الغِزَر» كثرةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghizar» is the abundance of a thing."
   },
   "story": {
     "ar": "«الغِزَر» غِزَر، والاسم مأخوذ من هذه الكلمة. والشارع في المُويجْعِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -125571,8 +125571,8 @@ window.STREETS = [
   "ar": "شارع الغَزل",
   "en": "Al Ghazl Street",
   "meaning": {
-    "ar": "«الغَزل»: غَزل",
-    "en": "Al Ghazl: thread, yarn"
+    "ar": "«الغَزل» الغزلُ من الخيوط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghazl» is thread among yarns."
   },
   "story": {
     "ar": "«الغَزل» غَزل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مُصَفَح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -125587,8 +125587,8 @@ window.STREETS = [
   "ar": "شارع الغِزِير",
   "en": "Al Ghizeer Street",
   "meaning": {
-    "ar": "«الغِزِير»: غِزِير",
-    "en": "Al Ghizeer: abundant"
+    "ar": "«الغِزِير» الكثيرُ الوافر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghizir» is the abundant and ample."
   },
   "story": {
     "ar": "«الغِزِير» غِزِير، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في أم غَافة، أبوظبي.",
@@ -125619,8 +125619,8 @@ window.STREETS = [
   "ar": "شارع الغَسَق",
   "en": "Al Ghasaq Street",
   "meaning": {
-    "ar": "«الغَسَق»: غَسَق",
-    "en": "Al Ghasaq: nightfall; dusk"
+    "ar": "«الغَسَق» مغيبُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghasaq» is the dusk of nightfall."
   },
   "story": {
     "ar": "«الغَسَق» غَسَق، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الفُوعَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -125651,8 +125651,8 @@ window.STREETS = [
   "ar": "شارع الغَطَّاس",
   "en": "Al Ghattas Street",
   "meaning": {
-    "ar": "«الغَطَّاس»: غَطَّاس",
-    "en": "Al Ghattas: diver"
+    "ar": "«الغَطَّاس» الغطّاسُ في الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghattas» is the diver in water."
   },
   "story": {
     "ar": "«الغَطَّاس» غَطَّاس، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في دلما من إمارة أبوظبي.",
@@ -125667,8 +125667,8 @@ window.STREETS = [
   "ar": "شارع الغفلة",
   "en": "Al Gaflah Street",
   "meaning": {
-    "ar": "«الغفلة»: غفلة",
-    "en": "Al Gaflah: neglect"
+    "ar": "«الغفلة» الغفلةُ عن الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghafalah» is neglect of a thing."
   },
   "story": {
     "ar": "«الغفلة» غفلة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في أم سقيم بإمارة دبي، والاسم من أسماء المواضع.",
@@ -125721,8 +125721,8 @@ window.STREETS = [
   "ar": "شارع الغَمامة",
   "en": "Al Ghumamah Street",
   "meaning": {
-    "ar": "«الغَمامة»: غَمامة",
-    "en": "Al Ghumamah: cloud"
+    "ar": "«الغَمامة» غمامةُ السماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghamamah» is the cloud of the sky."
   },
   "story": {
     "ar": "«الغَمامة» غَمامة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -125737,8 +125737,8 @@ window.STREETS = [
   "ar": "شارع الغِمد",
   "en": "Al Ghimd Street",
   "meaning": {
-    "ar": "«الغِمد»: غِمد",
-    "en": "Al Ghimd: sheath, scabbard"
+    "ar": "«الغِمد» غمدُ السيف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghimd» is the sword's sheath."
   },
   "story": {
     "ar": "«الغِمد» غِمد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السَّلاَمَات، أبوظبي.",
@@ -125769,8 +125769,8 @@ window.STREETS = [
   "ar": "شارع الغنج",
   "en": "Al Ghanj Street",
   "meaning": {
-    "ar": "«الغنج»: غنج",
-    "en": "Al Ghanj: coquet, flirty"
+    "ar": "«الغنج» الغنجُ في الهيئة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghunj» is coquetry in bearing."
   },
   "story": {
     "ar": "«الغنج» غنج، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُعْتَرِض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -125801,8 +125801,8 @@ window.STREETS = [
   "ar": "شارع الغيد",
   "en": "Al Ghayd Street",
   "meaning": {
-    "ar": "«الغيد»: غيد",
-    "en": "Al Ghayd: smoothness"
+    "ar": "«الغيد» لينُ الشباب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ghayd» is the tenderness of youth."
   },
   "story": {
     "ar": "«الغيد» غيد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المَرْخَانِيَّة من إمارة أبوظبي.",
@@ -125881,8 +125881,8 @@ window.STREETS = [
   "ar": "شارع الفؤاد",
   "en": "Al Fu-ad Street",
   "meaning": {
-    "ar": "«الفؤاد»: فؤاد",
-    "en": "Al Fu-ad: heart"
+    "ar": "«الفؤاد» فؤادُ الإنسان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fu'ad» is the heart of a person."
   },
   "story": {
     "ar": "«الفؤاد» فؤاد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة محمد بن زايد، أبوظبي.",
@@ -125929,8 +125929,8 @@ window.STREETS = [
   "ar": "شارع الفاتح",
   "en": "Al Fateh Street",
   "meaning": {
-    "ar": "«الفاتح»: فاتح",
-    "en": "Al Fateh: victor, conqueror"
+    "ar": "«الفاتح» من «فَتَحَ يَفْتَحُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fath» comes from the root fataha."
   },
   "story": {
     "ar": "الاسم «الفاتح» فاتح، وليس مركّباً. وهو من الشوارع مغيدر في الشارقة، والاسم يدل على موضع لا على كلمة.",
@@ -125945,8 +125945,8 @@ window.STREETS = [
   "ar": "شارع الفاخر",
   "en": "Al Fakhir Street",
   "meaning": {
-    "ar": "«الفاخر»: فاخر",
-    "en": "Al Fakhir: proud, boasting"
+    "ar": "«الفاخر» من «فَخُرَ يَفْخُرُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fakhir» comes from the root fakhura."
   },
   "story": {
     "ar": "«الفاخر» فاخر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المَرْخَانِيَّة من إمارة أبوظبي.",
@@ -125961,8 +125961,8 @@ window.STREETS = [
   "ar": "شارع الفارِع",
   "en": "Al Fari' Street",
   "meaning": {
-    "ar": "«الفارِع»: فارِع",
-    "en": "Al Fari': tall, lofty, towering"
+    "ar": "«الفارِع» الطويلُ الرفيع؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fari'» is the tall and lofty."
   },
   "story": {
     "ar": "«الفارِع» فارِع، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المُويجْعِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -125977,8 +125977,8 @@ window.STREETS = [
   "ar": "شارع الفارق",
   "en": "Al Fariq Street",
   "meaning": {
-    "ar": "«الفارق»: فارق",
-    "en": "Al Fariq: a difference"
+    "ar": "«الفارق» الفرقُ بين شيئين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fariq» is the difference between two things."
   },
   "story": {
     "ar": "«الفارق» فارق، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الصَّدر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -125993,8 +125993,8 @@ window.STREETS = [
   "ar": "شارع الفاصل",
   "en": "Al Fasil Street",
   "meaning": {
-    "ar": "«الفاصل»: فاصل",
-    "en": "Al Fasil: screen"
+    "ar": "«الفاصل» الحاجزُ بين شيئين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fasil» is the barrier between two things."
   },
   "story": {
     "ar": "«الفاصل» فاصل، والاسم مأخوذ من هذه الكلمة. والشارع في الجيمي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -126009,8 +126009,8 @@ window.STREETS = [
   "ar": "شارع الفانُوس",
   "en": "Al Fanous Street",
   "meaning": {
-    "ar": "«الفانُوس»: فانُوس",
-    "en": "Al Fanous: lantern"
+    "ar": "«الفانُوس» الفانوسُ من المصابيح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fanus» is the lantern among lamps."
   },
   "story": {
     "ar": "«الفانُوس» فانُوس، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في ربدان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -126025,8 +126025,8 @@ window.STREETS = [
   "ar": "شارع الفَتِيل",
   "en": "Al Fateel Street",
   "meaning": {
-    "ar": "«الفَتِيل»: فَتِيل",
-    "en": "Al Fateel: twisted"
+    "ar": "«الفَتِيل» المفتولُ من الخيوط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fatil» is the twisted thread."
   },
   "story": {
     "ar": "«الفَتِيل» فَتِيل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في العامرة، أبوظبي.",
@@ -126041,8 +126041,8 @@ window.STREETS = [
   "ar": "شارع الفَتِيلة",
   "en": "Al Fateelah Street",
   "meaning": {
-    "ar": "«الفَتِيلة»: فَتِيلة",
-    "en": "Al Fateelah: fuse, wick"
+    "ar": "«الفَتِيلة» فتيلةُ الفتيل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fatilah» is the wick."
   },
   "story": {
     "ar": "«الفَتِيلة» فَتِيلة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
@@ -126057,8 +126057,8 @@ window.STREETS = [
   "ar": "شارع الفَجر",
   "en": "Al Fajr Street",
   "meaning": {
-    "ar": "«الفَجر»: فَجر",
-    "en": "Al Fajr: dawn"
+    "ar": "«الفَجر» فجرُ الصباح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fajr» is the dawn of morning."
   },
   "story": {
     "ar": "«الفَجر» فَجر، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مْزِيرْعَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -126105,8 +126105,8 @@ window.STREETS = [
   "ar": "شارع الفخر",
   "en": "Al Fakhr Street",
   "meaning": {
-    "ar": "«الفخر»: فخر",
-    "en": "Al Fakhr: pride"
+    "ar": "«الفخر» من «فَخُرَ يَفْخُرُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fakhr» comes from the root fakhura."
   },
   "story": {
     "ar": "«الفخر» فخر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الزَّاهية بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -126121,8 +126121,8 @@ window.STREETS = [
   "ar": "شارع الفخم",
   "en": "Al Fakhm Street",
   "meaning": {
-    "ar": "«الفخم»: فخم",
-    "en": "Al Fakhm: stately"
+    "ar": "«الفخم» الفخمُ من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fakhm» is the stately among things."
   },
   "story": {
     "ar": "«الفخم» فخم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في رُوْضَة الرِّيْف، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -126137,8 +126137,8 @@ window.STREETS = [
   "ar": "شارع الفِداء",
   "en": "Al Fida-a Street",
   "meaning": {
-    "ar": "«الفِداء»: فِداء",
-    "en": "Al Fida-a: redemption, ransoming"
+    "ar": "«الفِداء» الفداءُ بالمال؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fida'» is ransoming with money."
   },
   "story": {
     "ar": "«الفِداء» فِداء، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -126153,8 +126153,8 @@ window.STREETS = [
   "ar": "شارع الفُرَات",
   "en": "Al Furat Street",
   "meaning": {
-    "ar": "«الفُرَات»: فُرَات",
-    "en": "Al Furat: the Euphrates"
+    "ar": "«الفُرَات» اسمُ نهرٍ عريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Furat» is the name of an ancient river."
   },
   "story": {
     "ar": "«الفُرَات» فُرَات، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المُعْتَرِض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -126169,8 +126169,8 @@ window.STREETS = [
   "ar": "شارع الفراشات",
   "en": "Al Farashat Street",
   "meaning": {
-    "ar": "«الفراشات»: فراشات",
-    "en": "Al Farashat: butterflies"
+    "ar": "«الفراشات» جمع «فراشة»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Farashat» is the plural of farashah — butterflies."
   },
   "story": {
     "ar": "«الفراشات» فراشات، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المُويجْعِي، أبوظبي.",
@@ -126185,8 +126185,8 @@ window.STREETS = [
   "ar": "شارع الفَرَح",
   "en": "Al Farah Street",
   "meaning": {
-    "ar": "«الفَرَح»: فَرَح",
-    "en": "Al Farah: happy"
+    "ar": "«الفَرَح» الفرحُ والسرور؛ والاسم من هذا اللفظ.",
+    "en": "«Al Farah» is joy and gladness."
   },
   "story": {
     "ar": "«الفَرَح» فَرَح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّارُوج.",
@@ -126201,8 +126201,8 @@ window.STREETS = [
   "ar": "شارع الفَرحة",
   "en": "Al Farhah Street",
   "meaning": {
-    "ar": "«الفَرحة»: فَرحة",
-    "en": "Al Farhah: joy"
+    "ar": "«الفَرحة» الفرحةُ في النفس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Farhah» is the joy in the soul."
   },
   "story": {
     "ar": "«الفَرحة» فَرحة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في السَّمْحة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -126217,8 +126217,8 @@ window.STREETS = [
   "ar": "شارع الفرد - السعفة A",
   "en": "Al Fardh - Frond A Street",
   "meaning": {
-    "ar": "«الفرد - السعفة A»: فرد",
-    "en": "Al Fardh - Frond A: pistol"
+    "ar": "«الفرد» الفردُ من السلاح؛ والاسم مركّب.",
+    "en": "«Al Fard» is the single one among arms; the name is compound."
   },
   "story": {
     "ar": "«الفرد» فرد، و«السعفة A» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع نخلة جميرا في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -126249,8 +126249,8 @@ window.STREETS = [
   "ar": "شارع الفَرْدِي",
   "en": "Al Fardi Street",
   "meaning": {
-    "ar": "«الفَرْدِي»: فَرْدِي",
-    "en": "Al Fardi: single"
+    "ar": "«الفَرْدِي» الواحدُ المنفرد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fardi» is the single and lone."
   },
   "story": {
     "ar": "«الفَرْدِي» فَرْدِي، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في أم غَافة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -126265,8 +126265,8 @@ window.STREETS = [
   "ar": "شارع الفرز",
   "en": "Al Farz Street",
   "meaning": {
-    "ar": "«الفرز»: فرز",
-    "en": "Al Farz: screening"
+    "ar": "«الفرز» فرزُ الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Farz» is the screening of things."
   },
   "story": {
     "ar": "«الفرز» فرز، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الجيمي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -126281,8 +126281,8 @@ window.STREETS = [
   "ar": "شارع الفَرَس",
   "en": "Al Faras Street",
   "meaning": {
-    "ar": "«الفَرَس»: فَرَس",
-    "en": "Al Faras: Persians"
+    "ar": "«الفَرَس» الفرسُ من الخيل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Faras» is the horse among steeds."
   },
   "story": {
     "ar": "«الفَرَس» فَرَس، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة الرياض، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -126313,8 +126313,8 @@ window.STREETS = [
   "ar": "شارع الفِرصاد",
   "en": "Al Firsad Street",
   "meaning": {
-    "ar": "«الفِرصاد»: فِرصاد",
-    "en": "Al Firsad: mulberry"
+    "ar": "«الفِرصاد» شجرةُ الفرصاد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Firsad» is the mulberry tree."
   },
   "story": {
     "ar": "«الفِرصاد» فِرصاد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الشَّامْخَة، أبوظبي.",
@@ -126329,8 +126329,8 @@ window.STREETS = [
   "ar": "شارع الفَرضة",
   "en": "Al Fardah Street",
   "meaning": {
-    "ar": "«الفَرضة»: فَرضة",
-    "en": "Al Fardah: crevasse"
+    "ar": "«الفَرضة» الشقُّ في الصخر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fardah» is the crevasse in rock."
   },
   "story": {
     "ar": "«الفَرضة» فَرضة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في ربدان.",
@@ -126345,8 +126345,8 @@ window.STREETS = [
   "ar": "شارع الفُرُوسِيَّة",
   "en": "Al Furousiyyah Street",
   "meaning": {
-    "ar": "«الفُرُوسِيَّة»: فُرُوسِيَّة",
-    "en": "Al Furousiyyah: horsemanship, hippology, farriery"
+    "ar": "«الفُرُوسِيَّة» فروسيةُ الفارس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Furuusiyyah» is horsemanship and riding skill."
   },
   "story": {
     "ar": "«الفُرُوسِيَّة» فُرُوسِيَّة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المَقَام من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -126361,8 +126361,8 @@ window.STREETS = [
   "ar": "شارع الفِرية",
   "en": "Al Firyah Street",
   "meaning": {
-    "ar": "«الفِرية»: فِرية",
-    "en": "Al Firyah: libel"
+    "ar": "«الفِرية» الفريةُ الباطلة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Firyah» is the false libel."
   },
   "story": {
     "ar": "«الفِرية» فِرية، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع نِعْمة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -126377,8 +126377,8 @@ window.STREETS = [
   "ar": "شارع الفَرِيد",
   "en": "Al Fareed Street",
   "meaning": {
-    "ar": "«الفَرِيد»: فَرِيد",
-    "en": "Al Fareed: alone, single"
+    "ar": "«الفَرِيد» الوحيدُ المنفرد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Farid» is the alone and single."
   },
   "story": {
     "ar": "«الفَرِيد» فَرِيد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الرَّحبة من إمارة أبوظبي.",
@@ -126393,8 +126393,8 @@ window.STREETS = [
   "ar": "شارع الفُسفور",
   "en": "Al Fusfour Street",
   "meaning": {
-    "ar": "«الفُسفور»: فُسفور",
-    "en": "Al Fusfour: phosphorus"
+    "ar": "«الفُسفور» الفسفورُ من العناصر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fusfur» is phosphorus among elements."
   },
   "story": {
     "ar": "«الفُسفور» فُسفور، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الجيمي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -126409,8 +126409,8 @@ window.STREETS = [
   "ar": "شارع الفَسِيلة",
   "en": "Al Faseelah Street",
   "meaning": {
-    "ar": "«الفَسِيلة»: فَسِيلة",
-    "en": "Al Faseelah: sapling, shoot, sprout"
+    "ar": "«الفَسِيلة» الفسيلةُ من النخل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fasilah» is the palm shoot."
   },
   "story": {
     "ar": "«الفَسِيلة» فَسِيلة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشَّامْخَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -126425,8 +126425,8 @@ window.STREETS = [
   "ar": "شارع الفَصاحة",
   "en": "Al Fasahah Street",
   "meaning": {
-    "ar": "«الفَصاحة»: فَصَاحَة",
-    "en": "Al Fasahah: eloquence, clarity of speech"
+    "ar": "«الفَصاحة» الفصاحةُ في القول؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fasahah» is eloquence in speech."
   },
   "story": {
     "ar": "«الفَصاحة» فَصَاحَة، والاسم مأخوذ من هذه الكلمة. والشارع في عَيْن الفَايْضَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -126441,8 +126441,8 @@ window.STREETS = [
   "ar": "شارع الفصل",
   "en": "Al Fasl Street",
   "meaning": {
-    "ar": "«الفصل»: فصل",
-    "en": "Al Fasl: separation"
+    "ar": "«الفصل» الفصلُ بين شيئين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fasl» is the separation between two things."
   },
   "story": {
     "ar": "«الفصل» فصل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الروضة الشرقية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -126457,8 +126457,8 @@ window.STREETS = [
   "ar": "شارع الفَصِيح",
   "en": "Al Faseeh Street",
   "meaning": {
-    "ar": "«الفَصِيح»: فَصِيح",
-    "en": "Al Faseeh: eloquent"
+    "ar": "«الفَصِيح» الفصيحُ من الكلام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fasih» is the eloquent in speech."
   },
   "story": {
     "ar": "«الفَصِيح» فَصِيح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في العامرة، أبوظبي.",
@@ -126489,8 +126489,8 @@ window.STREETS = [
   "ar": "شارع الفَضل",
   "en": "Al Fadl Street",
   "meaning": {
-    "ar": "«الفَضل»: فَضل",
-    "en": "Al Fadl: a blessing"
+    "ar": "«الفَضل» من «فَضُلَ يَفْضُلُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fadl» comes from the root fadula."
   },
   "story": {
     "ar": "«الفَضل» فَضل، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المَنهَل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -126505,8 +126505,8 @@ window.STREETS = [
   "ar": "شارع الفَضِيلة",
   "en": "Al Fadeelah Street",
   "meaning": {
-    "ar": "«الفَضِيلة»: فَضِيلة",
-    "en": "Al Fadeelah: virtue, merit"
+    "ar": "«الفَضِيلة» من «فَضُلَ يَفْضُلُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fadilah» comes from the root fadula."
   },
   "story": {
     "ar": "«الفَضِيلة» فَضِيلة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الخِرَيْر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -126521,8 +126521,8 @@ window.STREETS = [
   "ar": "شارع الفِطرة",
   "en": "Al Fitrah Street",
   "meaning": {
-    "ar": "«الفِطرة»: فِطرة",
-    "en": "Al Fitrah: creation"
+    "ar": "«الفِطرة» فطرةُ الخلق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fitrah» is the creation of a thing."
   },
   "story": {
     "ar": "«الفِطرة» فِطرة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الفُوعَة من إمارة أبوظبي.",
@@ -126537,8 +126537,8 @@ window.STREETS = [
   "ar": "شارع الفِطنة",
   "en": "Al Fitnah Street",
   "meaning": {
-    "ar": "«الفِطنة»: فِطنة",
-    "en": "Al Fitnah: acuteness"
+    "ar": "«الفِطنة» الفطنةُ في الذهن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fitnah» is acuteness of mind."
   },
   "story": {
     "ar": "«الفِطنة» فِطنة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -126553,8 +126553,8 @@ window.STREETS = [
   "ar": "شارع الفِكر",
   "en": "Al Fikr Street",
   "meaning": {
-    "ar": "«الفِكر»: فِكر",
-    "en": "Al Fikr: thinking"
+    "ar": "«الفِكر» الفكرُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fikr» is thinking about a matter."
   },
   "story": {
     "ar": "«الفِكر» فِكر، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَنهَل، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -126569,8 +126569,8 @@ window.STREETS = [
   "ar": "شارع الفَلا",
   "en": "Al Fala Street",
   "meaning": {
-    "ar": "«الفَلا»: فَلا",
-    "en": "Al Fala: waterless desert"
+    "ar": "«الفَلا» الفلاةُ القفراء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fala» is the waterless desert."
   },
   "story": {
     "ar": "«الفَلا» فَلا، والاسم مأخوذ من هذه الكلمة. والشارع في المُويجْعِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -126585,8 +126585,8 @@ window.STREETS = [
   "ar": "شارع الفلس",
   "en": "Al Fils Street",
   "meaning": {
-    "ar": "«الفلس»: فِلْس",
-    "en": "Al Fils: scale of a fish"
+    "ar": "«الفلس» فلسُ السمكة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fils» is the scale of a fish."
   },
   "story": {
     "ar": "«الفلس» فِلْس، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم سقيم بإمارة دبي، وليس كلمة تُفسَّر.",
@@ -126601,8 +126601,8 @@ window.STREETS = [
   "ar": "شارع الفَلق",
   "en": "Al Falaq Street",
   "meaning": {
-    "ar": "«الفَلق»: فَلق",
-    "en": "Al Falaq: split"
+    "ar": "«الفَلق» الشقُّ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Falaq» is the split in a thing."
   },
   "story": {
     "ar": "«الفَلق» فَلق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في زاخِر، أبوظبي.",
@@ -126617,8 +126617,8 @@ window.STREETS = [
   "ar": "شارع الفَن",
   "en": "Al Fan Street",
   "meaning": {
-    "ar": "«الفَن»: فَن",
-    "en": "Al Fan: genre"
+    "ar": "«الفَن» الفنُّ من العلوم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fann» is the genre among arts."
   },
   "story": {
     "ar": "«الفَن» فَن، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في زاخِر.",
@@ -126633,8 +126633,8 @@ window.STREETS = [
   "ar": "شارع الفِناء",
   "en": "Al Fina-a Street",
   "meaning": {
-    "ar": "«الفِناء»: فِناء",
-    "en": "Al Fina-a: yard"
+    "ar": "«الفِناء» فناءُ الدار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fina'» is the courtyard of a house."
   },
   "story": {
     "ar": "«الفِناء» فِناء، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة شخبوط من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -126649,8 +126649,8 @@ window.STREETS = [
   "ar": "شارع الفِنجان",
   "en": "Al Finjan Street",
   "meaning": {
-    "ar": "«الفِنجان»: فِنجان",
-    "en": "Al Finjan: cup"
+    "ar": "«الفِنجان» الفنجانُ من الآنية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Finjan» is the cup among vessels."
   },
   "story": {
     "ar": "«الفِنجان» فِنجان، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع حَدْبَة الزَّعْفَرَانَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -126665,8 +126665,8 @@ window.STREETS = [
   "ar": "شارع الفَهد",
   "en": "Al Fahd Street",
   "meaning": {
-    "ar": "«الفَهد»: فَهد",
-    "en": "Al Fahd: cheetah"
+    "ar": "«الفَهد» الفهدُ من السباع؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fahd» is the cheetah among beasts."
   },
   "story": {
     "ar": "«الفَهد» فَهد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُنتَزه من إمارة أبوظبي.",
@@ -126681,8 +126681,8 @@ window.STREETS = [
   "ar": "شارع الفهرس",
   "en": "Al Fahras Street",
   "meaning": {
-    "ar": "«الفهرس»: فهرس",
-    "en": "Al Fahras: index"
+    "ar": "«الفهرس» فهرسُ الكتاب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fahras» is the index of a book."
   },
   "story": {
     "ar": "«الفهرس» فهرس، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في جزيرة ياس بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -126713,8 +126713,8 @@ window.STREETS = [
   "ar": "شارع الفُوَالَة",
   "en": "Al Fuwalah Street",
   "meaning": {
-    "ar": "«الفُوَالَة»: فُوَالَة",
-    "en": "Al Fuwalah: a small treat, snack"
+    "ar": "«الفُوَالَة» اللقمةُ الصغيرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fuwalah» is the small snack."
   },
   "story": {
     "ar": "«الفُوَالَة» فُوَالَة، والاسم مأخوذ من هذه الكلمة. والشارع في الدَّهْماء، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -126729,8 +126729,8 @@ window.STREETS = [
   "ar": "شارع الفَوج",
   "en": "Al Fawj Street",
   "meaning": {
-    "ar": "«الفَوج»: فَوج",
-    "en": "Al Fawj: company"
+    "ar": "«الفَوج» الفوجُ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fawj» is the company of people."
   },
   "story": {
     "ar": "«الفَوج» فَوج، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -126745,8 +126745,8 @@ window.STREETS = [
   "ar": "شارع الفَيَّة",
   "en": "Al Fayyah Street",
   "meaning": {
-    "ar": "«الفَيَّة»: فَيَّة",
-    "en": "Al Fayyah: millennium"
+    "ar": "«الفَيَّة» الألفُ من السنين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fayyah» is the millennium of years."
   },
   "story": {
     "ar": "«الفَيَّة» فَيَّة، والاسم مأخوذ من هذه الكلمة. والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
@@ -126761,8 +126761,8 @@ window.STREETS = [
   "ar": "شارع الفَيْض",
   "en": "Al Fayd Street",
   "meaning": {
-    "ar": "«الفَيْض»: فَيْض",
-    "en": "Al Fayd: flood"
+    "ar": "«الفَيْض» فيضُ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Fayd» is the overflow of water."
   },
   "story": {
     "ar": "«الفَيْض» فَيْض، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الروضة الشرقية، أبوظبي.",
@@ -126777,8 +126777,8 @@ window.STREETS = [
   "ar": "شارع الفيلق",
   "en": "Al Faylaq Street",
   "meaning": {
-    "ar": "«الفيلق»: فيلق",
-    "en": "Al Faylaq: corps"
+    "ar": "«الفيلق» الفيلقُ من الجيوش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Faylaq» is the legion among armies."
   },
   "story": {
     "ar": "«الفيلق» فيلق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الجيمي.",
@@ -126793,8 +126793,8 @@ window.STREETS = [
   "ar": "شارع القارب",
   "en": "Al Qaarib Street",
   "meaning": {
-    "ar": "«القارب»: قارب",
-    "en": "Al Qaarib: small boat"
+    "ar": "«القارب» القاربُ الصغير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qarib» is the small boat."
   },
   "story": {
     "ar": "«القارب» قارب، والاسم مأخوذ من هذه الكلمة. والشارع يقع في أم سقيم من إمارة دبي، والاسم مأخوذ من موضع.",
@@ -126809,8 +126809,8 @@ window.STREETS = [
   "ar": "شارع القَاطعه",
   "en": "Al Qat'ah Street",
   "meaning": {
-    "ar": "«القَاطعه»: قَاطعه",
-    "en": "Al Qat'ah: incisor"
+    "ar": "«القَاطعه» القاطعةُ من الأسنان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qati'ah» is the incisor among teeth."
   },
   "story": {
     "ar": "«القَاطعه» قَاطعه، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الشَّوامخ في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -126825,8 +126825,8 @@ window.STREETS = [
   "ar": "شارع القافِلة",
   "en": "Al Qafilah Street",
   "meaning": {
-    "ar": "«القافِلة»: قافِلة",
-    "en": "Al Qafilah: caravan"
+    "ar": "«القافِلة» قافلةُ المسافرين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qafilah» is the caravan of travellers."
   },
   "story": {
     "ar": "«القافِلة» قافِلة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
@@ -126841,8 +126841,8 @@ window.STREETS = [
   "ar": "شارع القافِية",
   "en": "Al Qafiyah Street",
   "meaning": {
-    "ar": "«القافِية»: قَافِيَة",
-    "en": "Al Qafiyah: nape of the neck"
+    "ar": "«القافِية» قافيةُ العنق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qafiyah» is the nape of the neck."
   },
   "story": {
     "ar": "«القافِية» قَافِيَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الخَالِدية بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -126857,8 +126857,8 @@ window.STREETS = [
   "ar": "شارع القانُون",
   "en": "Al Qanoun Street",
   "meaning": {
-    "ar": "«القانُون»: قانُون",
-    "en": "Al Qanoun: canon"
+    "ar": "«القانُون» القانونُ في العلوم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qanun» is the canon among sciences."
   },
   "story": {
     "ar": "«القانُون» قانُون، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -126873,8 +126873,8 @@ window.STREETS = [
   "ar": "شارع القبضة",
   "en": "Al Qabdah Street",
   "meaning": {
-    "ar": "«القبضة»: قبضة",
-    "en": "Al Qabdah: fist"
+    "ar": "«القبضة» قبضةُ اليد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qabdah» is the fist of the hand."
   },
   "story": {
     "ar": "«القبضة» قبضة، والاسم مأخوذ من هذه الكلمة. والشارع في غْنَيْمَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -126889,8 +126889,8 @@ window.STREETS = [
   "ar": "شارع القُبطان",
   "en": "Al Qubtan Street",
   "meaning": {
-    "ar": "«القُبطان»: قُبطان",
-    "en": "Al Qubtan: captain"
+    "ar": "«القُبطان» قبطانُ السفينة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qubtan» is the captain of a ship."
   },
   "story": {
     "ar": "«القُبطان» قُبطان، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الخَالِدية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -126905,8 +126905,8 @@ window.STREETS = [
   "ar": "شارع القِبْلي",
   "en": "Al Qibli Street",
   "meaning": {
-    "ar": "«القِبْلي»: قِبْلي",
-    "en": "Al Qibli: tribal"
+    "ar": "«القِبْلي» القبليُّ من القبائل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qibli» is the tribal one."
   },
   "story": {
     "ar": "«القِبْلي» قِبْلي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في ميناء زايد، أبوظبي.",
@@ -126921,8 +126921,8 @@ window.STREETS = [
   "ar": "شارع القراءة",
   "en": "Al Qira-ah Street",
   "meaning": {
-    "ar": "«القراءة»: قراءة",
-    "en": "Al Qira-ah: reading"
+    "ar": "«القراءة» القراءةُ في الكتاب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qira'ah» is the reading of a book."
   },
   "story": {
     "ar": "«القراءة» قراءة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في جزيرة ياس.",
@@ -126937,8 +126937,8 @@ window.STREETS = [
   "ar": "شارع القرابة",
   "en": "Al Qarabah Street",
   "meaning": {
-    "ar": "«القرابة»: قرابة",
-    "en": "Al Qarabah: relation"
+    "ar": "«القرابة» القرابةُ من الأقارب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qarabah» is kinship among relatives."
   },
   "story": {
     "ar": "«القرابة» قرابة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المحاضر الشرقية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -126953,8 +126953,8 @@ window.STREETS = [
   "ar": "شارع القرش",
   "en": "Al Qersh Street",
   "meaning": {
-    "ar": "«القرش»: قرش",
-    "en": "Al Qersh: shark"
+    "ar": "«القرش» القرشُ من الأسماك؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qirsh» is the shark among fish."
   },
   "story": {
     "ar": "«القرش» قرش، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع جميرا في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -126969,8 +126969,8 @@ window.STREETS = [
   "ar": "شارع القَرَط",
   "en": "Al Qarat Street",
   "meaning": {
-    "ar": "«القَرَط»: قَرَط",
-    "en": "Al Qarat: a kind of leek"
+    "ar": "«القَرَط» القرطُ من النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qarat» is the leek among plants."
   },
   "story": {
     "ar": "«القَرَط» قَرَط، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
@@ -126985,8 +126985,8 @@ window.STREETS = [
   "ar": "شارع القُرُنفُل",
   "en": "Al Qurunful Street",
   "meaning": {
-    "ar": "«القُرُنفُل»: قُرُنفُل",
-    "en": "Al Qurunful: clove (Syzygium aromaticum)"
+    "ar": "«القُرُنفُل» القرنفلُ من التوابل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qurnufl» is the clove among spices."
   },
   "story": {
     "ar": "«القُرُنفُل» قُرُنفُل، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة خليفة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -127001,8 +127001,8 @@ window.STREETS = [
   "ar": "شارع القِرَيَّة",
   "en": "Al Qirayah Street",
   "meaning": {
-    "ar": "«القِرَيَّة»: قِرَيَّة",
-    "en": "Al Qirayah: staff, cane, pole, yard"
+    "ar": "«القِرَيَّة» العصاُ الطويلة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qirayyah» is the long staff."
   },
   "story": {
     "ar": "«القِرَيَّة» قِرَيَّة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في العامرة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -127017,8 +127017,8 @@ window.STREETS = [
   "ar": "شارع القز",
   "en": "Al Quz Street",
   "meaning": {
-    "ar": "«القز»: قز",
-    "en": "Al Quz: silk"
+    "ar": "«القز» القزُّ من الأقمشة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qazz» is silk among fabrics."
   },
   "story": {
     "ar": "«القز» قز، والاسم مأخوذ من هذه الكلمة. والشارع في شعاب الأشخر، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -127033,8 +127033,8 @@ window.STREETS = [
   "ar": "شارع القسمة",
   "en": "Al Qismah Street",
   "meaning": {
-    "ar": "«القسمة»: قسمة",
-    "en": "Al Qismah: division"
+    "ar": "«القسمة» قسمةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qismah» is the division of a thing."
   },
   "story": {
     "ar": "«القسمة» قسمة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الوَثْبَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -127049,8 +127049,8 @@ window.STREETS = [
   "ar": "شارع القَصَب",
   "en": "Al Qasab Street",
   "meaning": {
-    "ar": "«القَصَب»: قَصَب",
-    "en": "Al Qasab: stalk"
+    "ar": "«القَصَب» قصبُ النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qasab» is the stalk of a plant."
   },
   "story": {
     "ar": "«القَصَب» قَصَب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المَسْعُودِي، أبوظبي.",
@@ -127065,8 +127065,8 @@ window.STREETS = [
   "ar": "شارع القِصَد",
   "en": "Al Qisad Street",
   "meaning": {
-    "ar": "«القِصَد»: قِصَد",
-    "en": "Al Qisad: intention"
+    "ar": "«القِصَد» القصدُ إلى الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qasad» is the intention toward a matter."
   },
   "story": {
     "ar": "«القِصَد» قِصَد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في بني ياس.",
@@ -127097,8 +127097,8 @@ window.STREETS = [
   "ar": "شارع القُصُور",
   "en": "Al Qusour Street",
   "meaning": {
-    "ar": "«القُصُور»: قُصُور",
-    "en": "Al Qusour: shortcoming"
+    "ar": "«القُصُور» القصورُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qusur» is the shortfall in a matter."
   },
   "story": {
     "ar": "«القُصُور» قُصُور، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع دلما في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -127129,8 +127129,8 @@ window.STREETS = [
   "ar": "شارع القَضاء",
   "en": "Al Qada-a Street",
   "meaning": {
-    "ar": "«القَضاء»: قَضاء",
-    "en": "Al Qada-a: judgement"
+    "ar": "«القَضاء» القضاءُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qada'» is the judgement between people."
   },
   "story": {
     "ar": "«القَضاء» قَضاء، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في البطين بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -127161,8 +127161,8 @@ window.STREETS = [
   "ar": "شارع القَطَا",
   "en": "Al Qata Street",
   "meaning": {
-    "ar": "«القَطَا»: قَطَا",
-    "en": "Al Qata: sandgrouse"
+    "ar": "«القَطَا» القطاُ من الطير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qata» is the sandgrouse among birds."
   },
   "story": {
     "ar": "«القَطَا» قَطَا، والاسم مأخوذ من هذه الكلمة. والشارع في الخِبِيصِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -127177,8 +127177,8 @@ window.STREETS = [
   "ar": "شارع القَطَّار",
   "en": "Al Qattar Street",
   "meaning": {
-    "ar": "«القَطَّار»: قَطَّار",
-    "en": "Al Qattar Street: row"
+    "ar": "«القَطَّار» صفُّ المسافرين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qattar» is the row of travellers."
   },
   "story": {
     "ar": "«القَطَّار» قَطَّار، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -127193,8 +127193,8 @@ window.STREETS = [
   "ar": "شارع القُطُب",
   "en": "Al Qutb Street",
   "meaning": {
-    "ar": "«القُطُب»: قُطُب",
-    "en": "Al Qutb: axis, axle"
+    "ar": "«القُطُب» قطبُ الدائرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qutb» is the axis of a circle."
   },
   "story": {
     "ar": "«القُطُب» قُطُب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في البطين، أبوظبي.",
@@ -127257,8 +127257,8 @@ window.STREETS = [
   "ar": "شارع القطِيفِي",
   "en": "Al Qteefi Street",
   "meaning": {
-    "ar": "«القطِيفِي»: قطِيفِي",
-    "en": "Al Qteefi: Of or from Qatif, Qatifi"
+    "ar": "«القطِيفِي» المنسوبُ إلى القطيف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qatifi» relates to Qatif."
   },
   "story": {
     "ar": "«القطِيفِي» قطِيفِي، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في فَلَج هَزَّاع من إمارة أبوظبي.",
@@ -127273,8 +127273,8 @@ window.STREETS = [
   "ar": "شارع القِفا",
   "en": "Al Qifa Street",
   "meaning": {
-    "ar": "«القِفا»: قِفَا",
-    "en": "Al Qifa: the nape"
+    "ar": "«القِفا» القفاُ من الرأس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qifa» is the back of the head."
   },
   "story": {
     "ar": "الاسم «القِفا» قِفَا، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -127305,8 +127305,8 @@ window.STREETS = [
   "ar": "شارع القِلادة",
   "en": "Al Qiladah Street",
   "meaning": {
-    "ar": "«القِلادة»: قِلادة",
-    "en": "Al Qiladah: pendant"
+    "ar": "«القِلادة» القلادةُ من الحلي؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qiladah» is the pendant among jewels."
   },
   "story": {
     "ar": "«القِلادة» قِلادة، والاسم مأخوذ من هذه الكلمة. والشارع في ميناء زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -127321,8 +127321,8 @@ window.STREETS = [
   "ar": "شارع القِلاع",
   "en": "Al Qila' Street",
   "meaning": {
-    "ar": "«القِلاع»: قِلاع",
-    "en": "Al Qila': self-heal (Prunella)"
+    "ar": "«القِلاع» نباتُ القلاع؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qi'a» is the self-heal plant."
   },
   "story": {
     "ar": "«القِلاع» قِلاع، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في السَّعادة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -127337,8 +127337,8 @@ window.STREETS = [
   "ar": "شارع القَلَم",
   "en": "Al Qalam Street",
   "meaning": {
-    "ar": "«القَلَم»: قَلَم",
-    "en": "Al Qalam: pen, reed pen"
+    "ar": "«القَلَم» القلمُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qalam» is the pen among tools."
   },
   "story": {
     "ar": "«القَلَم» قَلَم، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في البَاهية، أبوظبي.",
@@ -127353,8 +127353,8 @@ window.STREETS = [
   "ar": "شارع القماش",
   "en": "Al Qumash Street",
   "meaning": {
-    "ar": "«القماش»: قماش",
-    "en": "Al Qumash: draper"
+    "ar": "«القماش» بائعُ القماش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qumash» is the cloth merchant."
   },
   "story": {
     "ar": "«القماش» قماش، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في دبي، والشارع في جميرا.",
@@ -127369,8 +127369,8 @@ window.STREETS = [
   "ar": "شارع القِمَّة",
   "en": "Al Qimmah Street",
   "meaning": {
-    "ar": "«القِمَّة»: قِمَّة",
-    "en": "Al Qimmah: top"
+    "ar": "«القِمَّة» قمةُ الجبل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qimmah» is the top of a mountain."
   },
   "story": {
     "ar": "«القِمَّة» قِمَّة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة الرياض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -127385,8 +127385,8 @@ window.STREETS = [
   "ar": "شارع القناع",
   "en": "Al Qina' Street",
   "meaning": {
-    "ar": "«القناع»: قناع",
-    "en": "Al Qina': armor"
+    "ar": "«القناع» القناعُ من السلاح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qina'» is the mask among gear."
   },
   "story": {
     "ar": "«القناع» قناع، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الشهامة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -127401,8 +127401,8 @@ window.STREETS = [
   "ar": "شارع القَناعة",
   "en": "Al Qana'ah Street",
   "meaning": {
-    "ar": "«القَناعة»: قَناعة",
-    "en": "Al Qana'ah: conviction; belief"
+    "ar": "«القَناعة» القناعةُ بالمقسوم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qana'ah» is contentment with one's lot."
   },
   "story": {
     "ar": "«القَناعة» قَناعة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -127433,8 +127433,8 @@ window.STREETS = [
   "ar": "شارع القَنْطَرَة",
   "en": "Al Qantarah Street",
   "meaning": {
-    "ar": "«القَنْطَرَة»: قَنْطَرَة",
-    "en": "Al Qantarah: arch, vault"
+    "ar": "«القَنْطَرَة» القنطرةُ من البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qantarah» is the arch among structures."
   },
   "story": {
     "ar": "«القَنْطَرَة» قَنْطَرَة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -127449,8 +127449,8 @@ window.STREETS = [
   "ar": "شارع القوت",
   "en": "Al Qout Street",
   "meaning": {
-    "ar": "«القوت»: قوت",
-    "en": "Al Qout: food"
+    "ar": "«القوت» قوتُ الحياة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qawt» is the food of life."
   },
   "story": {
     "ar": "«القوت» قوت، والاسم مأخوذ من هذه الكلمة. والشارع في عَشَارِج، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -127465,8 +127465,8 @@ window.STREETS = [
   "ar": "شارع القوس",
   "en": "Al Qaws Street",
   "meaning": {
-    "ar": "«القوس»: قوس",
-    "en": "Al Qaws: bow"
+    "ar": "«القوس» القوسُ المعوجّة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qaws» is the curved bow."
   },
   "story": {
     "ar": "«القوس» قوس، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في السِّلَع بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -127481,8 +127481,8 @@ window.STREETS = [
   "ar": "شارع القُوصرة",
   "en": "Al Qousarah Street",
   "meaning": {
-    "ar": "«القُوصرة»: قُوصرة",
-    "en": "Al Qousarah: basket"
+    "ar": "«القُوصرة» القصرةُ من الجريد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qusarah» is the palm-frond basket."
   },
   "story": {
     "ar": "«القُوصرة» قُوصرة، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -127497,8 +127497,8 @@ window.STREETS = [
   "ar": "شارع القِيادة",
   "en": "Al Qiyadah Street",
   "meaning": {
-    "ar": "«القِيادة»: قِيادة",
-    "en": "Al Qiyadah: leadership, control"
+    "ar": "«القِيادة» قيادةُ الجيش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qiyadah» is the leading of an army."
   },
   "story": {
     "ar": "«القِيادة» قِيادة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الروضة، أبوظبي.",
@@ -127513,8 +127513,8 @@ window.STREETS = [
   "ar": "شارع القياس",
   "en": "Al Qiyas Street",
   "meaning": {
-    "ar": "«القياس»: قياس",
-    "en": "Al Qiyas: size"
+    "ar": "«القياس» قياسُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qiyas» is the measuring of a thing."
   },
   "story": {
     "ar": "«القياس» قياس، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في رُوْضَة الرِّيْف.",
@@ -127529,8 +127529,8 @@ window.STREETS = [
   "ar": "شارع القيد",
   "en": "Al Qayd Street",
   "meaning": {
-    "ar": "«القيد»: قيد",
-    "en": "Al Qayd: fetter"
+    "ar": "«القيد» قيدُ الدابة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qayd» is the fetter of a mount."
   },
   "story": {
     "ar": "«القيد» قيد، والاسم مأخوذ من هذه الكلمة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -127545,8 +127545,8 @@ window.STREETS = [
   "ar": "شارع القِيْدُوم",
   "en": "Al Qiydoum Street",
   "meaning": {
-    "ar": "«القِيْدُوم»: قِيْدُوم",
-    "en": "Al Qiydoum: front"
+    "ar": "«القِيْدُوم» المقدَّمُ في السير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qaydum» is the one in front."
   },
   "story": {
     "ar": "«القِيْدُوم» قِيْدُوم، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع آل نَهيان في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -127577,8 +127577,8 @@ window.STREETS = [
   "ar": "شارع القَيصَر",
   "en": "Al Qaisar Street",
   "meaning": {
-    "ar": "«القَيصَر»: قَيْصَر",
-    "en": "Al Qaisar: Caesar"
+    "ar": "«القَيصَر» لقبُ ملوك الروم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qaysar» is the title of Roman emperors."
   },
   "story": {
     "ar": "«القَيصَر» قَيْصَر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في وسط المدينة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -127593,8 +127593,8 @@ window.STREETS = [
   "ar": "شارع القَيصُوم",
   "en": "Al Qaysoum Street",
   "meaning": {
-    "ar": "«القَيصُوم»: قَيْصُوم",
-    "en": "Al Qaysoum: yarrow (Achillea gen. et spp.)"
+    "ar": "«القَيصُوم» نباتُ القيصوم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qaysum» is the yarrow plant."
   },
   "story": {
     "ar": "«القَيصُوم» قَيْصُوم، والاسم مأخوذ من هذه الكلمة. وهو الشارع في شعاب الأشخر، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -127609,8 +127609,8 @@ window.STREETS = [
   "ar": "شارع القِيَم",
   "en": "Al Qiyam Street",
   "meaning": {
-    "ar": "«القِيَم»: قِيَم",
-    "en": "Al Qiyam: valuable, worthy"
+    "ar": "«القِيَم» القِيَمُ من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qiyam» is the worthy among things."
   },
   "story": {
     "ar": "«القِيَم» قِيَم، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة شخبوط، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -127641,8 +127641,8 @@ window.STREETS = [
   "ar": "شارع الكَاف",
   "en": "Al Kaf Street",
   "meaning": {
-    "ar": "«الكَاف»: كَاف",
-    "en": "Al Kaf: enough, sufficient"
+    "ar": "«الكَاف» الكافيُّ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kaf» is the sufficient among things."
   },
   "story": {
     "ar": "«الكَاف» كَاف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السِّلَع، أبوظبي.",
@@ -127657,8 +127657,8 @@ window.STREETS = [
   "ar": "شارع الكافور",
   "en": "Al Kafour Street",
   "meaning": {
-    "ar": "«الكافور»: كافور",
-    "en": "Al Kafour: camphor tree"
+    "ar": "«الكافور» شجرةُ الكافور؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kafur» is the camphor tree."
   },
   "story": {
     "ar": "«الكافور» كافور، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أم القيوين، والشارع في السلمة.",
@@ -127673,8 +127673,8 @@ window.STREETS = [
   "ar": "شارع الكبة",
   "en": "Al Kabah Street",
   "meaning": {
-    "ar": "«الكبة»: كَبَّة",
-    "en": "Al Kabah: a throng"
+    "ar": "«الكبة» كتيبةُ الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kabbah» is the crowd of people."
   },
   "story": {
     "ar": "«الكبة» كَبَّة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الدار البيضاء من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -127689,8 +127689,8 @@ window.STREETS = [
   "ar": "شارع الكِبس الغَربِي",
   "en": "Al Kibs Al Gharbi Street",
   "meaning": {
-    "ar": "«الكِبس الغَربِي»: كِبس",
-    "en": "Al Kibs Al Gharbi: pressure, squeeze, pressing"
+    "ar": "«الكِبس» ضغطُ الشيء؛ والاسم مركّب.",
+    "en": "«Al Kabs» is the pressing of a thing; the name is compound."
   },
   "story": {
     "ar": "«الكِبس» كِبس، و«الغَربِي» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو من الشوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -127705,8 +127705,8 @@ window.STREETS = [
   "ar": "شارع الكِتاب",
   "en": "Al Kitab Street",
   "meaning": {
-    "ar": "«الكِتاب»: كِتاب",
-    "en": "Al Kitab: book"
+    "ar": "«الكِتاب» الكتابُ من الورق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kitab» is the book of paper."
   },
   "story": {
     "ar": "«الكِتاب» كِتاب، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في البَاهية من إمارة أبوظبي.",
@@ -127721,8 +127721,8 @@ window.STREETS = [
   "ar": "شارع الكِتَّان",
   "en": "Al Kittan Street",
   "meaning": {
-    "ar": "«الكِتَّان»: كِتَّان",
-    "en": "Al Kittan: flax"
+    "ar": "«الكِتَّان» الكتانُ من النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kittan» is the flax plant."
   },
   "story": {
     "ar": "«الكِتَّان» كِتَّان، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في العامرة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -127737,8 +127737,8 @@ window.STREETS = [
   "ar": "شارع الكحلاء",
   "en": "Al Kahla-a Street",
   "meaning": {
-    "ar": "«الكحلاء»: كحلاء",
-    "en": "Al Kahla-a: alkanet"
+    "ar": "«الكحلاء» نباتُ الكحلاء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kahla'» is the alkanet plant."
   },
   "story": {
     "ar": "«الكحلاء» كحلاء، والاسم مأخوذ من هذه الكلمة. وهو الشارع في وسط المدينة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -127753,8 +127753,8 @@ window.STREETS = [
   "ar": "شارع الكراس",
   "en": "Al Kurras Street",
   "meaning": {
-    "ar": "«الكراس»: كُرَّاس",
-    "en": "Al Kurras: booklets"
+    "ar": "«الكراس» جمع «كُرَّاسة»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kurras» is the plural of kurrasah — notebooks."
   },
   "story": {
     "ar": "«الكراس» كُرَّاس، والاسم مأخوذ من هذه الكلمة. والشارع في جزيرة ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -127785,8 +127785,8 @@ window.STREETS = [
   "ar": "شارع الكسب",
   "en": "Al Kasb Street",
   "meaning": {
-    "ar": "«الكسب»: كسب",
-    "en": "Al Kasb: revenue"
+    "ar": "«الكسب» كسبُ المال؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kasb» is the earning of money."
   },
   "story": {
     "ar": "«الكسب» كسب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في القوع، أبوظبي.",
@@ -127833,8 +127833,8 @@ window.STREETS = [
   "ar": "شارع الكِفاح",
   "en": "Al Kifah Street",
   "meaning": {
-    "ar": "«الكِفاح»: كِفاح",
-    "en": "Al Kifah: contention, strife"
+    "ar": "«الكِفاح» الكفاحُ في الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kifah» is the striving in a matter."
   },
   "story": {
     "ar": "«الكِفاح» كِفاح، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة خليفة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -127849,8 +127849,8 @@ window.STREETS = [
   "ar": "شارع الكَفاف",
   "en": "Al Kafaf Street",
   "meaning": {
-    "ar": "«الكَفاف»: كَفاف",
-    "en": "Al Kafaf: subsistence"
+    "ar": "«الكَفاف» الكفافُ من العيش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kafaf» is the sufficiency of living."
   },
   "story": {
     "ar": "«الكَفاف» كَفاف، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المحاضر الغربية من إمارة أبوظبي.",
@@ -127865,8 +127865,8 @@ window.STREETS = [
   "ar": "شارع الكِفاية",
   "en": "Al Kifayah Street",
   "meaning": {
-    "ar": "«الكِفاية»: كِفاية",
-    "en": "Al Kifayah: enough"
+    "ar": "«الكِفاية» ما يكفي من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kifayah» is what suffices of a thing."
   },
   "story": {
     "ar": "الاسم «الكِفاية» كِفاية، وليس مركّباً. وتقع الشوارع التي تحمل هذا الاسم في مدينة خليفة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -127881,8 +127881,8 @@ window.STREETS = [
   "ar": "شارع الكلية",
   "en": "College Street",
   "meaning": {
-    "ar": "«الكلية»: كلية",
-    "en": "College: kidney"
+    "ar": "«الكلية» الكليةُ من الأعضاء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kulliyyah» is the kidney among organs."
   },
   "story": {
     "ar": "«الكلية» كلية، والاسم مأخوذ من هذه الكلمة. وهو الشارع في النعيمية، والاسم من أسماء المواضع التي تعرفها عجمان.",
@@ -127897,8 +127897,8 @@ window.STREETS = [
   "ar": "شارع الكَنَار",
   "en": "Al Kanar Street",
   "meaning": {
-    "ar": "«الكَنَار»: كَنَار",
-    "en": "Al Kanar: canary bird"
+    "ar": "«الكَنَار» طائرُ الكنار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kanar» is the canary bird."
   },
   "story": {
     "ar": "«الكَنَار» كَنَار، والاسم مأخوذ من هذه الكلمة. والشارع في المُطَاوْعَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -127913,8 +127913,8 @@ window.STREETS = [
   "ar": "شارع الكندي",
   "en": "Kindi Road",
   "meaning": {
-    "ar": "«الكندي»: كندي",
-    "en": "Kindi: Canadian"
+    "ar": "«الكندي» المنسوبُ إلى كندا؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kindi» relates to Canada."
   },
   "story": {
     "ar": "«الكندي» كندي، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الطريق في صفد بإمارة الفجيرة، وليس كلمة تُفسَّر.",
@@ -127929,8 +127929,8 @@ window.STREETS = [
   "ar": "شارع الكنز",
   "en": "Al Kanz Street",
   "meaning": {
-    "ar": "«الكنز»: كنز",
-    "en": "Al Kanz: treasure"
+    "ar": "«الكنز» الكنزُ المدفون؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kanz» is the buried treasure."
   },
   "story": {
     "ar": "«الكنز» كنز، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في البَاهية، أبوظبي.",
@@ -127961,8 +127961,8 @@ window.STREETS = [
   "ar": "شارع الكور",
   "en": "Al Kour Street",
   "meaning": {
-    "ar": "«الكور»: كور",
-    "en": "Al Kour: camel saddle"
+    "ar": "«الكور» كورُ البعير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kawr» is the camel saddle."
   },
   "story": {
     "ar": "«الكور» كور، والاسم مأخوذ من هذه الكلمة. والشارع يقع في السَّعادة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -127993,8 +127993,8 @@ window.STREETS = [
   "ar": "شارع الكَوْن",
   "en": "Al Kawn Street",
   "meaning": {
-    "ar": "«الكَوْن»: كَوْن",
-    "en": "Al Kawn: being, essence"
+    "ar": "«الكَوْن» الكونُ من الوجود؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kawn» is being among existence."
   },
   "story": {
     "ar": "«الكَوْن» كَوْن، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -128009,8 +128009,8 @@ window.STREETS = [
   "ar": "شارع الكويتي",
   "en": "Kuwaiti Street",
   "meaning": {
-    "ar": "«الكويتي»: كويتي",
-    "en": "Kuwaiti: Kuwaiti"
+    "ar": "«الكويتي» المنسوبُ إلى الكويت؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kuwayti» relates to Kuwait."
   },
   "story": {
     "ar": "«الكويتي» كويتي، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة رأس الخيمة بإمارة رأس الخيمة، والاسم من أسماء المواضع.",
@@ -128025,8 +128025,8 @@ window.STREETS = [
   "ar": "شارع اللُّؤلُؤ",
   "en": "Al Lulu Street",
   "meaning": {
-    "ar": "«اللُّؤلُؤ»: لؤلؤ",
-    "en": "Al Lulu: pearls"
+    "ar": "«اللُّؤلُؤ» اللؤلؤُ من الجواهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lulu» is pearl among gems."
   },
   "story": {
     "ar": "«اللُّؤلُؤ» لؤلؤ، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مْبَزَّرَة الخَضْراء، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -128041,8 +128041,8 @@ window.STREETS = [
   "ar": "شارع اللَّابه",
   "en": "Al Labah Street",
   "meaning": {
-    "ar": "«اللَّابه»: لَّابه",
-    "en": "Al Labah: black volcanic rock"
+    "ar": "«اللَّابه» الحجرُ الأسودُ البركاني؛ والاسم من هذا اللفظ.",
+    "en": "«Al Labah» is the black basalt rock."
   },
   "story": {
     "ar": "«اللَّابه» لَّابه، والاسم مأخوذ من هذه الكلمة. والشارع في القوع، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -128057,8 +128057,8 @@ window.STREETS = [
   "ar": "شارع اللاَّحِم",
   "en": "Al Lahim Street",
   "meaning": {
-    "ar": "«اللاَّحِم»: لاَّحِم",
-    "en": "Al Lahim: carnivorous"
+    "ar": "«اللاَّحِم» آكلُ اللحم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lahim» is the carnivorous one."
   },
   "story": {
     "ar": "«اللاَّحِم» لاَّحِم، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -128073,8 +128073,8 @@ window.STREETS = [
   "ar": "شارع اللَّازورد",
   "en": "Al Lazourd Street",
   "meaning": {
-    "ar": "«اللَّازورد»: لَّازورد",
-    "en": "Al Lazourd: lapis lazuli"
+    "ar": "«اللَّازورد» حجرُ اللازورد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lazurd» is lapis lazuli."
   },
   "story": {
     "ar": "«اللَّازورد» لَّازورد، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -128089,8 +128089,8 @@ window.STREETS = [
   "ar": "شارع اللامع",
   "en": "Al Lami' Street",
   "meaning": {
-    "ar": "«اللامع»: لامع",
-    "en": "Al Lami': shiny, brilliant"
+    "ar": "«اللامع» اللامعُ من الضوء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lami» is the shining one among lights."
   },
   "story": {
     "ar": "«اللامع» لامع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المَسْعُودِي، أبوظبي.",
@@ -128105,8 +128105,8 @@ window.STREETS = [
   "ar": "شارع اللِّبا",
   "en": "Al Liba Street",
   "meaning": {
-    "ar": "«اللِّبا»: لِّبا",
-    "en": "Al Liba: beestings, colostrum"
+    "ar": "«اللِّبا» أولُ اللبن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Liba» is the first milk."
   },
   "story": {
     "ar": "«اللِّبا» لِّبا، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -128121,8 +128121,8 @@ window.STREETS = [
   "ar": "شارع اللُّباب",
   "en": "Al Lubab Street",
   "meaning": {
-    "ar": "«اللُّباب»: لُّباب",
-    "en": "Al Lubab: pulp"
+    "ar": "«اللُّباب» لبابُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lubab» is the pulp of a thing."
   },
   "story": {
     "ar": "«اللُّباب» لُّباب، والاسم مأخوذ من هذه الكلمة. والشارع يقع في نَاهِل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -128137,8 +128137,8 @@ window.STREETS = [
   "ar": "شارع اللَّباقة",
   "en": "Al Labaqah Street",
   "meaning": {
-    "ar": "«اللَّباقة»: لَّباقة",
-    "en": "Al Labaqah: tact"
+    "ar": "«اللَّباقة» اللباقةُ في القول؛ والاسم من هذا اللفظ.",
+    "en": "«Al Labaqah» is tact in speech."
   },
   "story": {
     "ar": "«اللَّباقة» لَّباقة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الروضة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -128153,8 +128153,8 @@ window.STREETS = [
   "ar": "شارع اللِّبان",
   "en": "Al Liban Street",
   "meaning": {
-    "ar": "«اللِّبان»: لِّبان",
-    "en": "Al Liban: olibanum, frankincense"
+    "ar": "«اللِّبان» اللبانُ من الطيب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Luban» is frankincense among scents."
   },
   "story": {
     "ar": "«اللِّبان» لِّبان، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في ربدان من إمارة أبوظبي.",
@@ -128169,8 +128169,8 @@ window.STREETS = [
   "ar": "شارع اللَّبسة",
   "en": "Al Labsah Street",
   "meaning": {
-    "ar": "«اللَّبسة»: لَبْسَة",
-    "en": "Al Labsah: a way of dress"
+    "ar": "«اللَّبسة» لبسةُ الثياب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Labsah» is the way of dressing."
   },
   "story": {
     "ar": "«اللَّبسة» لَبْسَة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة شخبوط بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -128185,8 +128185,8 @@ window.STREETS = [
   "ar": "شارع اللَّبِيب",
   "en": "Al Labeeb Street",
   "meaning": {
-    "ar": "«اللَّبِيب»: لَّبِيب",
-    "en": "Al Labeeb: sensible, reasonable, smart"
+    "ar": "«اللَّبِيب» اللبيبُ العاقل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Labib» is the sensible one."
   },
   "story": {
     "ar": "«اللَّبِيب» لَّبِيب، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -128201,8 +128201,8 @@ window.STREETS = [
   "ar": "شارع اللِّجام",
   "en": "Al Lijam Street",
   "meaning": {
-    "ar": "«اللِّجام»: لِّجام",
-    "en": "Al Lijam: a bridle bit"
+    "ar": "«اللِّجام» لجامُ الدابة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lijam» is the bridle of a mount."
   },
   "story": {
     "ar": "«اللِّجام» لِّجام، والاسم مأخوذ من هذه الكلمة. والشارع في المرْفَأ، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -128217,8 +128217,8 @@ window.STREETS = [
   "ar": "شارع اللُّجَين",
   "en": "Al Lujayn Street",
   "meaning": {
-    "ar": "«اللُّجَين»: لُّجَين",
-    "en": "Al Lujayn: refined silver"
+    "ar": "«اللُّجَين» الفضةُ المصفّاة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lujayn» is refined silver."
   },
   "story": {
     "ar": "«اللُّجَين» لُّجَين، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المنطقة الصناعية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -128233,8 +128233,8 @@ window.STREETS = [
   "ar": "شارع اللَحْن",
   "en": "Al Lahin Street",
   "meaning": {
-    "ar": "«اللَحْن»: لَحْن",
-    "en": "Al Lahin: mispronunciation"
+    "ar": "«اللَحْن» اللحنُ في الكلام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lahn» is the error in speech."
   },
   "story": {
     "ar": "«اللَحْن» لَحْن، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة زايد، أبوظبي.",
@@ -128249,8 +128249,8 @@ window.STREETS = [
   "ar": "شارع اللَطِيف",
   "en": "Al Lateef Street",
   "meaning": {
-    "ar": "«اللَطِيف»: لَطِيف",
-    "en": "Al Lateef: thin"
+    "ar": "«اللَطِيف» اللطيفُ الرقيق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Latif» is the fine and delicate."
   },
   "story": {
     "ar": "«اللَطِيف» لَطِيف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الروضة الشرقية.",
@@ -128281,8 +128281,8 @@ window.STREETS = [
   "ar": "شارع الليف",
   "en": "Al Leef Street",
   "meaning": {
-    "ar": "«الليف»: لِيف",
-    "en": "Al Leef: plant fibre"
+    "ar": "«الليف» ليفُ النبات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Lif» is the fibre of a plant."
   },
   "story": {
     "ar": "«الليف» لِيف، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الدَّانَةْ في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -128297,8 +128297,8 @@ window.STREETS = [
   "ar": "شارع اللَّيْنَة",
   "en": "Al Laynah Street",
   "meaning": {
-    "ar": "«اللَّيْنَة»: لَيْنَة",
-    "en": "Al Laynah: a kind of palm tree"
+    "ar": "«اللَّيْنَة» شجرةُ اللينة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Laynah» is a kind of palm tree."
   },
   "story": {
     "ar": "«اللَّيْنَة» لَيْنَة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في ربدان من إمارة أبوظبي.",
@@ -128329,8 +128329,8 @@ window.STREETS = [
   "ar": "شارع المَأْثُور",
   "en": "Al Ma-thor Street",
   "meaning": {
-    "ar": "«المَأْثُور»: مَأْثُور",
-    "en": "Al Ma-thor: transmitted, passed down, quoted"
+    "ar": "«المَأْثُور» المأثورُ من الآثار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'thur» is what is passed down."
   },
   "story": {
     "ar": "«المَأْثُور» مَأْثُور، والاسم مأخوذ من هذه الكلمة. وهو الشارع في آل نَهيان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -128345,8 +128345,8 @@ window.STREETS = [
   "ar": "شارع المأمون",
   "en": "Al Mamon Street",
   "meaning": {
-    "ar": "«المأمون»: مأمون",
-    "en": "Al Mamon: made safe"
+    "ar": "«المأمون» المأمونُ على الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'mun» is the one made safe."
   },
   "story": {
     "ar": "«المأمون» مأمون، والاسم مأخوذ من هذه الكلمة. والشارع في الحمرة، والاسم من أسماء المواضع في إمارة أم القيوين.",
@@ -128361,8 +128361,8 @@ window.STREETS = [
   "ar": "شارع المُؤاخاة",
   "en": "Al Mu-akhat Street",
   "meaning": {
-    "ar": "«المُؤاخاة»: مُؤاخاة",
-    "en": "Al Mu-akhat: fraternization"
+    "ar": "«المُؤاخاة» المؤاخاةُ بين اثنين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'akhah» is the fraternizing between two."
   },
   "story": {
     "ar": "«المُؤاخاة» مُؤاخاة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة خليفة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -128377,8 +128377,8 @@ window.STREETS = [
   "ar": "شارع المُؤتَمرات",
   "en": "Al Mu-atamarat Street",
   "meaning": {
-    "ar": "«المُؤتَمرات»: مُؤتَمرات",
-    "en": "Al Mu-atamarat: conference, congress, convention"
+    "ar": "«المُؤتَمرات» جمع «مؤتمر»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'tamarat» is the plural of mu'tamar — conferences."
   },
   "story": {
     "ar": "«المُؤتَمرات» مُؤتَمرات، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الروضة، أبوظبي.",
@@ -128393,8 +128393,8 @@ window.STREETS = [
   "ar": "شارع المُؤثِر",
   "en": "Al Mu-athir Street",
   "meaning": {
-    "ar": "«المُؤثِر»: مُؤثِر",
-    "en": "Al Mu-athir: affecter"
+    "ar": "«المُؤثِر» المؤثِرُ في القلوب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'thir» is the one who affects hearts."
   },
   "story": {
     "ar": "«المُؤثِر» مُؤثِر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مْزِيرْعَة.",
@@ -128409,8 +128409,8 @@ window.STREETS = [
   "ar": "شارع المؤشر",
   "en": "Al Mu-ashir Street",
   "meaning": {
-    "ar": "«المؤشر»: مؤشر",
-    "en": "Al Mu-ashir: indicator"
+    "ar": "«المؤشر» المؤشرُ في الرسم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'shir» is the pointer in a drawing."
   },
   "story": {
     "ar": "«المؤشر» مؤشر، والاسم مأخوذ من هذه الكلمة. والشارع يقع في البَاهية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -128425,8 +128425,8 @@ window.STREETS = [
   "ar": "شارع المادة",
   "en": "Al Madda Street",
   "meaning": {
-    "ar": "«المادة»: مادة",
-    "en": "Al Madda: matter"
+    "ar": "«المادة» مادةُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Maddah» is the matter of a thing."
   },
   "story": {
     "ar": "«المادة» مادة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم سقيم في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -128441,8 +128441,8 @@ window.STREETS = [
   "ar": "شارع الماسة",
   "en": "Al Masah Street",
   "meaning": {
-    "ar": "«الماسة»: ماسة",
-    "en": "Al Masah: a diamond"
+    "ar": "«الماسة» الماسةُ من الجواهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Masah» is the diamond among gems."
   },
   "story": {
     "ar": "«الماسة» ماسة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في البطين من إمارة أبوظبي.",
@@ -128473,8 +128473,8 @@ window.STREETS = [
   "ar": "شارع الماهر",
   "en": "Al Mahir Street",
   "meaning": {
-    "ar": "«الماهر»: ماهر",
-    "en": "Al Mahir: skilled"
+    "ar": "«الماهر» الماهرُ في صنعته؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahir» is the skilled one in his craft."
   },
   "story": {
     "ar": "«الماهر» ماهر، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الجيمي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -128505,8 +128505,8 @@ window.STREETS = [
   "ar": "شارع المُبَادَرَة",
   "en": "Al Mubadarah Street",
   "meaning": {
-    "ar": "«المُبَادَرَة»: مُبَادَرَة",
-    "en": "Al Mubadarah: an initiative"
+    "ar": "«المُبَادَرَة» المبادرةُ إلى الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mubadarah» is the initiative toward a matter."
   },
   "story": {
     "ar": "«المُبَادَرَة» مُبَادَرَة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المِعْرَاض بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -128521,8 +128521,8 @@ window.STREETS = [
   "ar": "شارع المُبارزة",
   "en": "Al Mubarazah Street",
   "meaning": {
-    "ar": "«المُبارزة»: مُبارزة",
-    "en": "Al Mubarazah: duel"
+    "ar": "«المُبارزة» المبارزةُ بين اثنين؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mubarazah» is the duel between two."
   },
   "story": {
     "ar": "«المُبارزة» مُبارزة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في غِيَّاثِي، أبوظبي.",
@@ -128537,8 +128537,8 @@ window.STREETS = [
   "ar": "شارع المباشر",
   "en": "Al Mubashir Street",
   "meaning": {
-    "ar": "«المباشر»: مباشر",
-    "en": "Al Mubashir: direct, firsthand"
+    "ar": "«المباشر» المباشرُ للشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mubashir» is the direct one."
   },
   "story": {
     "ar": "«المباشر» مباشر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في السَّمْحة.",
@@ -128569,8 +128569,8 @@ window.STREETS = [
   "ar": "شارع المِبخَر",
   "en": "Al Mibkhar Street",
   "meaning": {
-    "ar": "«المِبخَر»: مِبخَر",
-    "en": "Al Mibkhar: evaporator"
+    "ar": "«المِبخَر» المبخَرُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mibkhar» is the evaporator among devices."
   },
   "story": {
     "ar": "«المِبخَر» مِبخَر، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الحِصِن في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -128601,8 +128601,8 @@ window.STREETS = [
   "ar": "شارع المبدعون",
   "en": "Al Mubdi'oun Street",
   "meaning": {
-    "ar": "«المبدعون»: مبدعون",
-    "en": "Al Mubdi'oun: creative, innovative"
+    "ar": "«المبدعون» جمع «مبدِع»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mubdi'un» is the plural of mubdi' — originators."
   },
   "story": {
     "ar": "«المبدعون» مبدعون، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الخِبِيصِي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -128617,8 +128617,8 @@ window.STREETS = [
   "ar": "شارع المبذول",
   "en": "Al Mabdhoul Street",
   "meaning": {
-    "ar": "«المبذول»: مبذول",
-    "en": "Al Mabdhoul: donated"
+    "ar": "«المبذول» المبذولُ من المال؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mabdhu'l» is what is offered of money."
   },
   "story": {
     "ar": "«المبذول» مبذول، والاسم مأخوذ من هذه الكلمة. وهو الشارع في البَاهية، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -128633,8 +128633,8 @@ window.STREETS = [
   "ar": "شارع المبسوط",
   "en": "Al Mabsout Street",
   "meaning": {
-    "ar": "«المبسوط»: مبسوط",
-    "en": "Al Mabsout: spread out"
+    "ar": "«المبسوط» المبسوطُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mabsut» is the one spread out in place."
   },
   "story": {
     "ar": "«المبسوط» مبسوط، والاسم مأخوذ من هذه الكلمة. والشارع في الجيمي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -128649,8 +128649,8 @@ window.STREETS = [
   "ar": "شارع المُتأَلِق",
   "en": "Al Muta-aliq Street",
   "meaning": {
-    "ar": "«المُتأَلِق»: مُتأَلِق",
-    "en": "Al Muta-aliq: flashing, glimmering, dazzling"
+    "ar": "«المُتأَلِق» المتألقُ في الضوء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muta'aliq» is the flashing one in light."
   },
   "story": {
     "ar": "«المُتأَلِق» مُتأَلِق، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم غَافة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -128665,8 +128665,8 @@ window.STREETS = [
   "ar": "شارع المتاح",
   "en": "Al Mutah Street",
   "meaning": {
-    "ar": "«المتاح»: متاح",
-    "en": "Al Mutah: granted"
+    "ar": "«المتاح» المتاحُ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mutah» is what is granted of a thing."
   },
   "story": {
     "ar": "«المتاح» متاح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في جزيرة ياس، أبوظبي.",
@@ -128681,8 +128681,8 @@ window.STREETS = [
   "ar": "شارع المَتَّة",
   "en": "Al Mattah Street",
   "meaning": {
-    "ar": "«المَتَّة»: مَتَّة",
-    "en": "Al Mattah: maté"
+    "ar": "«المَتَّة» شرابُ المتة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mattah» is the maté drink."
   },
   "story": {
     "ar": "«المَتَّة» مَتَّة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الجَاهلِي.",
@@ -128697,8 +128697,8 @@ window.STREETS = [
   "ar": "شارع المُتْحَف",
   "en": "Al Mut-haf Street",
   "meaning": {
-    "ar": "«المُتْحَف»: مُتْحَف",
-    "en": "Al Mut-haf: museum"
+    "ar": "«المُتْحَف» المتحفُ من الآثار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muthaf» is the museum of relics."
   },
   "story": {
     "ar": "«المُتْحَف» مُتْحَف، والاسم مأخوذ من هذه الكلمة. والشارع يقع في وسط المدينة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -128713,8 +128713,8 @@ window.STREETS = [
   "ar": "شارع المُتسابِقِين",
   "en": "Al Mutasabiqeen Street",
   "meaning": {
-    "ar": "«المُتسابِقِين»: مُتسابِقِين",
-    "en": "Al Mutasabiqeen: competing (with)"
+    "ar": "«المُتسابِقِين» جمع «مُتسابِق»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mutasabiqin» is the plural of mutasabiq — competitors."
   },
   "story": {
     "ar": "«المُتسابِقِين» مُتسابِقِين، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع عَيْن الفَايْضَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -128729,8 +128729,8 @@ window.STREETS = [
   "ar": "شارع المُتَفَوِق",
   "en": "Al Mutafawiq Street",
   "meaning": {
-    "ar": "«المُتَفَوِق»: مُتَفَوِق",
-    "en": "Al Mutafawiq: superior, surpassing"
+    "ar": "«المُتَفَوِق» المتجاوزُ لغيره؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mutafawiq» is the one surpassing others."
   },
   "story": {
     "ar": "«المُتَفَوِق» مُتَفَوِق، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -128745,8 +128745,8 @@ window.STREETS = [
   "ar": "شارع المُتَوَافِق",
   "en": "Al Mutawafiq Street",
   "meaning": {
-    "ar": "«المُتَوَافِق»: مُتَوَافِق",
-    "en": "Al Mutawafiq: concurrent"
+    "ar": "«المُتَوَافِق» المتفقُّ مع غيره؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mutawafiq» is the one in accord with others."
   },
   "story": {
     "ar": "«المُتَوَافِق» مُتَوَافِق، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الشهامة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -128761,8 +128761,8 @@ window.STREETS = [
   "ar": "شارع المُثابَرة",
   "en": "Al Muthabarah Street",
   "meaning": {
-    "ar": "«المُثابَرة»: مُثابَرة",
-    "en": "Al Muthabarah: perseverance"
+    "ar": "«المُثابَرة» المثابرةُ على العمل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muthabarah» is perseverance in work."
   },
   "story": {
     "ar": "«المُثابَرة» مُثابَرة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في ربدان، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -128777,8 +128777,8 @@ window.STREETS = [
   "ar": "شارع المِثال",
   "en": "Al Mithal Street",
   "meaning": {
-    "ar": "«المِثال»: مِثال",
-    "en": "Al Mithal: resemblance"
+    "ar": "«المِثال» مثالُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mithal» is the likeness of a thing."
   },
   "story": {
     "ar": "«المِثال» مِثال، والاسم مأخوذ من هذه الكلمة. والشارع في سوِيحَان، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -128793,8 +128793,8 @@ window.STREETS = [
   "ar": "شارع المثاني",
   "en": "Al Mathani Street",
   "meaning": {
-    "ar": "«المثاني»: مثاني",
-    "en": "Al Mathani: cystic"
+    "ar": "«المثاني» المثنَّى من كل شيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mathani» is the paired among things."
   },
   "story": {
     "ar": "«المثاني» مثاني، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الرَّحبة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -128809,8 +128809,8 @@ window.STREETS = [
   "ar": "شارع المِثْقَال",
   "en": "Al Mithqal Street",
   "meaning": {
-    "ar": "«المِثْقَال»: مِثْقَال",
-    "en": "Al Mithqal: scale"
+    "ar": "«المِثْقَال» ميزانُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mithqal» is the scale of a thing."
   },
   "story": {
     "ar": "«المِثْقَال» مِثْقَال، والاسم مأخوذ من هذه الكلمة. والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -128841,8 +128841,8 @@ window.STREETS = [
   "ar": "شارع المثنى",
   "en": "Al Muthanna Street",
   "meaning": {
-    "ar": "«المثنى»: مثنى",
-    "en": "Al Muthanna: double"
+    "ar": "«المثنى» المثنَّى من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muthanna» is the two-fold among things."
   },
   "story": {
     "ar": "«المثنى» مثنى، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الشهامة.",
@@ -128857,8 +128857,8 @@ window.STREETS = [
   "ar": "شارع المجازي",
   "en": "Al Majazi Street",
   "meaning": {
-    "ar": "«المجازي»: مجازي",
-    "en": "Al Majazi: figurative"
+    "ar": "«المجازي» المجازيُّ في القول؛ والاسم من هذا اللفظ.",
+    "en": "«Al Majazi» is the figurative in speech."
   },
   "story": {
     "ar": "«المجازي» مجازي، والاسم مأخوذ من هذه الكلمة. والشارع يقع في جزيرة ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -128873,8 +128873,8 @@ window.STREETS = [
   "ar": "شارع المجتمع",
   "en": "Al Mujtama' Street",
   "meaning": {
-    "ar": "«المجتمع»: مُجْتَمَع",
-    "en": "Al Mujtama': place of assembly"
+    "ar": "«المجتمع» موضعُ الاجتماع؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mujtama'» is the place of assembly."
   },
   "story": {
     "ar": "«المجتمع» مُجْتَمَع، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المَقَام في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -128889,8 +128889,8 @@ window.STREETS = [
   "ar": "شارع المُجتَهِد",
   "en": "Al Mujtahid Street",
   "meaning": {
-    "ar": "«المُجتَهِد»: مُجتَهِد",
-    "en": "Al Mujtahid: diligent"
+    "ar": "«المُجتَهِد» المجتهدُ في عمله؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mujtahid» is the diligent in his work."
   },
   "story": {
     "ar": "«المُجتَهِد» مُجتَهِد، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في شارع المدينة الصناعية 3 من إمارة أبوظبي.",
@@ -128905,8 +128905,8 @@ window.STREETS = [
   "ar": "شارع المجدد",
   "en": "Al Mujaddad Street",
   "meaning": {
-    "ar": "«المجدد»: مجدد",
-    "en": "Al Mujaddad: reformer"
+    "ar": "«المجدد» المجددُ للشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mujaddad» is the renewer of a thing."
   },
   "story": {
     "ar": "«المجدد» مجدد، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الجيمي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -128921,8 +128921,8 @@ window.STREETS = [
   "ar": "شارع المَجرى",
   "en": "Al Majra Street",
   "meaning": {
-    "ar": "«المَجرى»: مَجرى",
-    "en": "Al Majra: galactic"
+    "ar": "«المَجرى» مجرىُ الماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Majra» is the course of water."
   },
   "story": {
     "ar": "«المَجرى» مَجرى، والاسم مأخوذ من هذه الكلمة. وهو الشارع في القوع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -128937,8 +128937,8 @@ window.STREETS = [
   "ar": "شارع المَحاسِن",
   "en": "Al Mahasin Street",
   "meaning": {
-    "ar": "«المَحاسِن»: مَحاسِن",
-    "en": "Al Mahasin: good qualities"
+    "ar": "«المَحاسِن» من «حَسُنَ يَحْسُنُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahasin» comes from the root hasuna."
   },
   "story": {
     "ar": "«المَحاسِن» مَحاسِن، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة خليفة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -128969,8 +128969,8 @@ window.STREETS = [
   "ar": "شارع المِحبَرة",
   "en": "Al Mihbarah Street",
   "meaning": {
-    "ar": "«المِحبَرة»: مِحبَرة",
-    "en": "Al Mihbarah: inkstand, inkwell, inkpot"
+    "ar": "«المِحبَرة» محبَرةُ الحبر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mihbarah» is the inkwell."
   },
   "story": {
     "ar": "«المِحبَرة» مِحبَرة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -128985,8 +128985,8 @@ window.STREETS = [
   "ar": "شارع المحترف",
   "en": "Al Muhtarif Street",
   "meaning": {
-    "ar": "«المحترف»: محترف",
-    "en": "Al Muhtarif: professional"
+    "ar": "«المحترف» المحترفُ في صنعته؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muhtarif» is the professional in his craft."
   },
   "story": {
     "ar": "«المحترف» محترف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الرَّحبة.",
@@ -129017,8 +129017,8 @@ window.STREETS = [
   "ar": "شارع المِحراث",
   "en": "Al Mihrath Street",
   "meaning": {
-    "ar": "«المِحراث»: مِحراث",
-    "en": "Al Mihrath: plough, plow"
+    "ar": "«المِحراث» محراثُ الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mihrath» is the plough of the land."
   },
   "story": {
     "ar": "«المِحراث» مِحراث، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مْزِيرْعَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -129033,8 +129033,8 @@ window.STREETS = [
   "ar": "شارع المحسوب",
   "en": "Al Mahsoub Street",
   "meaning": {
-    "ar": "«المحسوب»: محسوب",
-    "en": "Al Mahsoub: calculated"
+    "ar": "«المحسوب» المحسوبُ بالعدد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahsub» is what is counted in number."
   },
   "story": {
     "ar": "«المحسوب» محسوب، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في البَاهية من إمارة أبوظبي.",
@@ -129049,8 +129049,8 @@ window.STREETS = [
   "ar": "شارع المَحْصُول",
   "en": "Al Mahsoul Street",
   "meaning": {
-    "ar": "«المَحْصُول»: مَحْصُول",
-    "en": "Al Mahsoul: result, outcome"
+    "ar": "«المَحْصُول» حاصلُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahsul» is the result of a thing."
   },
   "story": {
     "ar": "«المَحْصُول» مَحْصُول، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الجيمي بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -129065,8 +129065,8 @@ window.STREETS = [
   "ar": "شارع المَحطَّة",
   "en": "Al Mahattah Street",
   "meaning": {
-    "ar": "«المَحطَّة»: مَحطَّة",
-    "en": "Al Mahattah: station"
+    "ar": "«المَحطَّة» محطَّةُ السفر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahattah» is the station of travel."
   },
   "story": {
     "ar": "«المَحطَّة» مَحطَّة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المَعْمُورَة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -129081,8 +129081,8 @@ window.STREETS = [
   "ar": "شارع المحلي",
   "en": "Al Mahali Street",
   "meaning": {
-    "ar": "«المحلي»: محلي",
-    "en": "Al Mahali: local"
+    "ar": "«المحلّي» المحلّيُّ من البلاد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahalli» is the local among lands."
   },
   "story": {
     "ar": "«المحلي» محلي، والاسم مأخوذ من هذه الكلمة. والشارع في الشهامة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -129113,8 +129113,8 @@ window.STREETS = [
   "ar": "شارع المَحمِيَّة",
   "en": "Al Mahmiyah Street",
   "meaning": {
-    "ar": "«المَحمِيَّة»: مَحمِيَّة",
-    "en": "Al Mahmiyah: reservation"
+    "ar": "«المَحمِيَّة» موضعُ الحماية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mahmiyyah» is the reservation."
   },
   "story": {
     "ar": "«المَحمِيَّة» مَحمِيَّة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في النَّهضة، أبوظبي.",
@@ -129129,8 +129129,8 @@ window.STREETS = [
   "ar": "شارع المِحور",
   "en": "Al Mihwar Street",
   "meaning": {
-    "ar": "«المِحور»: مِحور",
-    "en": "Al Mihwar: axis, pivot"
+    "ar": "«المِحور» محورُ الدائرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mihwar» is the axis of a circle."
   },
   "story": {
     "ar": "الاسم «المِحور» مِحور، وليس مركّباً. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الخِرَيْر.",
@@ -129145,8 +129145,8 @@ window.STREETS = [
   "ar": "شارع المحيط",
   "en": "Al Muhait Road",
   "meaning": {
-    "ar": "«المحيط»: محيط",
-    "en": "Al Muhait: whole"
+    "ar": "«المحيط» المحيطُ من المياه؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muhit» is the whole that surrounds."
   },
   "story": {
     "ar": "«المحيط» محيط، والاسم مأخوذ من هذه الكلمة. والطريق يقع في القرفة من إمارة الفجيرة، والاسم مأخوذ من موضع.",
@@ -129177,8 +129177,8 @@ window.STREETS = [
   "ar": "شارع المُخْتار",
   "en": "Al Mukhtar Street",
   "meaning": {
-    "ar": "«المُخْتار»: مُخْتار",
-    "en": "Al Mukhtar: chosen"
+    "ar": "«المُخْتار» المختارُ من الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mukhtar» is the chosen among people."
   },
   "story": {
     "ar": "«المُخْتار» مُخْتار، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة زايد من إمارة أبوظبي.",
@@ -129193,8 +129193,8 @@ window.STREETS = [
   "ar": "شارع المختصر",
   "en": "Al Mukhtasar Street",
   "meaning": {
-    "ar": "«المختصر»: مختصر",
-    "en": "Al Mukhtasar: brief"
+    "ar": "«المختصر» المختصرُ من الكلام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mukhtasar» is the brief among sayings."
   },
   "story": {
     "ar": "«المختصر» مختصر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -129225,8 +129225,8 @@ window.STREETS = [
   "ar": "شارع المَخطوط",
   "en": "Al Makhtout Street",
   "meaning": {
-    "ar": "«المَخطوط»: مَخطوط",
-    "en": "Al Makhtout: manuscript"
+    "ar": "«المَخطوط» المخطوطُ من الكتب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Makhtut» is the manuscript among books."
   },
   "story": {
     "ar": "«المَخطوط» مَخطوط، والاسم مأخوذ من هذه الكلمة. والشارع في عَيْن الفَايْضَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -129305,8 +129305,8 @@ window.STREETS = [
   "ar": "شارع المِدَاد",
   "en": "Al Midad Street",
   "meaning": {
-    "ar": "«المِدَاد»: مِدَاد",
-    "en": "Al Midad: ink"
+    "ar": "«المِدَاد» المِدادُ من الجسد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Midad» is the forearm of the body."
   },
   "story": {
     "ar": "«المِدَاد» مِدَاد، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُويجْعِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -129337,8 +129337,8 @@ window.STREETS = [
   "ar": "شارع المدخل",
   "en": "Al Madkhal Street",
   "meaning": {
-    "ar": "«المدخل»: مدخل",
-    "en": "Al Madkhal: entrance"
+    "ar": "«المدخل» مدخلُ الدار؛ والاسم من هذا اللفظ.",
+    "en": "«Al Madkhal» is the entrance of a house."
   },
   "story": {
     "ar": "«المدخل» مدخل، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المُويجْعِي من إمارة أبوظبي.",
@@ -129353,8 +129353,8 @@ window.STREETS = [
   "ar": "شارع المِدْخَن",
   "en": "Al Midkhan Street",
   "meaning": {
-    "ar": "«المِدْخَن»: مِدْخَن",
-    "en": "Al Midkhan: smoker"
+    "ar": "«المِدْخَن» المِدْخَنُ من الآلات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Midkhan» is the smoker among devices."
   },
   "story": {
     "ar": "«المِدْخَن» مِدْخَن، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الدَّانَةْ بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -129369,8 +129369,8 @@ window.STREETS = [
   "ar": "شارع المَدَر",
   "en": "Al Mdar Street",
   "meaning": {
-    "ar": "«المَدَر»: مَدَر",
-    "en": "Al Mdar: thick mud"
+    "ar": "«المَدَر» الطينُ السميك؛ والاسم من هذا اللفظ.",
+    "en": "«Al Madar» is the thick mud."
   },
   "story": {
     "ar": "«المَدَر» مَدَر، والاسم مأخوذ من هذه الكلمة. وهو الشارع في المُعْتَرِض، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -129385,8 +129385,8 @@ window.STREETS = [
   "ar": "شارع المدفع",
   "en": "Al Midfa' Street",
   "meaning": {
-    "ar": "«المدفع»: مدفع",
-    "en": "Al Midfa': gun; cannon"
+    "ar": "«المدفع» المدفعُ من السلاح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Midfa'» is the cannon among arms."
   },
   "story": {
     "ar": "«المدفع» مدفع، والاسم مأخوذ من هذه الكلمة. والشارع في السَّمْحة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -129401,8 +129401,8 @@ window.STREETS = [
   "ar": "شارع المُدْهِش",
   "en": "Al Mud-hish Street",
   "meaning": {
-    "ar": "«المُدْهِش»: مُدْهِش",
-    "en": "Al Mud-hish: amazing"
+    "ar": "«المُدْهِش» المدهشُ من الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mud'hish» is the amazing among things."
   },
   "story": {
     "ar": "«المُدْهِش» مُدْهِش، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في أم غَافة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -129417,8 +129417,8 @@ window.STREETS = [
   "ar": "شارع المَدى",
   "en": "Al Mada Street",
   "meaning": {
-    "ar": "«المَدى»: مَدى",
-    "en": "Al Mada: extension"
+    "ar": "«المَدى» مدىُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mada» is the extent of a thing."
   },
   "story": {
     "ar": "«المَدى» مَدى، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الخَالِدية، أبوظبي.",
@@ -129433,8 +129433,8 @@ window.STREETS = [
   "ar": "شارع المراجع",
   "en": "Al Maraji' Street",
   "meaning": {
-    "ar": "«المراجع»: مراجع",
-    "en": "Al Maraji': reviewer"
+    "ar": "«المراجع» المراجعُ للكتب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Maraji'» is the reviewer of books."
   },
   "story": {
     "ar": "«المراجع» مراجع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المُشرِف.",
@@ -129449,8 +129449,8 @@ window.STREETS = [
   "ar": "شارع المراح",
   "en": "Al Mrah Street",
   "meaning": {
-    "ar": "«المراح»: مَرَاح",
-    "en": "Al Mrah: cheerfulness"
+    "ar": "«المراح» الفرحُ والنشاط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marah» is cheerfulness and vigour."
   },
   "story": {
     "ar": "«المراح» مَرَاح، والاسم مأخوذ من هذه الكلمة. والشارع يقع في القوع من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -129465,8 +129465,8 @@ window.STREETS = [
   "ar": "شارع المرافق",
   "en": "Al Marafiq Street",
   "meaning": {
-    "ar": "«المرافق»: مرافق",
-    "en": "Al Marafiq: bodyguard"
+    "ar": "«المرافق»مرافقُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marafiq» are the companions on the way."
   },
   "story": {
     "ar": "«المرافق» مرافق، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الصَّدر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -129481,8 +129481,8 @@ window.STREETS = [
   "ar": "شارع المراقب",
   "en": "Al Muraqib Street",
   "meaning": {
-    "ar": "«المراقب»: مراقب",
-    "en": "Al Muraqib: controlled"
+    "ar": "«المراقب» المراقبُ للأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muraqib» is the watcher of a matter."
   },
   "story": {
     "ar": "«المراقب» مراقب، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في السَّمْحة من إمارة أبوظبي.",
@@ -129497,8 +129497,8 @@ window.STREETS = [
   "ar": "شارع المَرام",
   "en": "Al Maram Street",
   "meaning": {
-    "ar": "«المَرام»: مَرام",
-    "en": "Al Maram: longing"
+    "ar": "«المَرام» المطلوبُ من الأماني؛ والاسم من هذا اللفظ.",
+    "en": "«Al Maram» is what is longed for."
   },
   "story": {
     "ar": "«المَرام» مَرام، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في العامرة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -129513,8 +129513,8 @@ window.STREETS = [
   "ar": "شارع المَرامرِي",
   "en": "Al Maramri Street",
   "meaning": {
-    "ar": "«المَرامرِي»: مَرامرِي",
-    "en": "Al Maramri: kudu"
+    "ar": "«المَرامرِي» حيوانُ المرامري؛ والاسم من هذا اللفظ.",
+    "en": "«Al Maramri» is the kudu animal."
   },
   "story": {
     "ar": "«المَرامرِي» مَرامرِي، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -129545,8 +129545,8 @@ window.STREETS = [
   "ar": "شارع المُرْتَفِع",
   "en": "Al Murtafi' Street",
   "meaning": {
-    "ar": "«المُرْتَفِع»: مُرْتَفِع",
-    "en": "Al Murtafi': elevated"
+    "ar": "«المُرْتَفِع» المرتفعُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Murtafi'» is the elevated one in place."
   },
   "story": {
     "ar": "«المُرْتَفِع» مُرْتَفِع، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المُويجْعِي بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -129561,8 +129561,8 @@ window.STREETS = [
   "ar": "شارع المُرْتَفِعَات",
   "en": "Al Murtafi'at Street",
   "meaning": {
-    "ar": "«المُرْتَفِعَات»: مُرْتَفِعَات",
-    "en": "Al Murtafi'at: high, elevated, lofty"
+    "ar": "«المُرْتَفِعَات» جمع «مُرْتَفِعَة»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Murtafi'at» is the plural of murtafi'ah — the high ones."
   },
   "story": {
     "ar": "«المُرْتَفِعَات» مُرْتَفِعَات، والاسم مأخوذ من هذه الكلمة. والشارع في الرَّحبة من إمارة أبوظبي.",
@@ -129577,8 +129577,8 @@ window.STREETS = [
   "ar": "شارع المُرْتَقِب",
   "en": "Al Murtaqib Street",
   "meaning": {
-    "ar": "«المُرْتَقِب»: مُرْتَقِب",
-    "en": "Al Murtaqib: anticipated, expected"
+    "ar": "«المُرْتَقِب» المنتظرُ للأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Murtaqib» is the one expecting a thing."
   },
   "story": {
     "ar": "«المُرْتَقِب» مُرْتَقِب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة زايد، أبوظبي.",
@@ -129593,8 +129593,8 @@ window.STREETS = [
   "ar": "شارع المَرَح",
   "en": "Al Marah Street",
   "meaning": {
-    "ar": "«المَرَح»: مَرَح",
-    "en": "Al Marah: joyful"
+    "ar": "«المَرَح» البِشْرُ والنشاط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marah» is joy and glee."
   },
   "story": {
     "ar": "«المَرَح» مَرَح، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -129625,8 +129625,8 @@ window.STREETS = [
   "ar": "شارع المِرَد",
   "en": "Al Mirad Street",
   "meaning": {
-    "ar": "«المِرَد»: مِرَد",
-    "en": "Al Mirad: arak fruit"
+    "ar": "«المِرَد» المِرَدُ من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mirad» is a kind of ground."
   },
   "story": {
     "ar": "«المِرَد» مِرَد، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة الرياض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -129641,8 +129641,8 @@ window.STREETS = [
   "ar": "شارع المرزاب",
   "en": "Al Mirzab Street",
   "meaning": {
-    "ar": "«المرزاب»: مرزاب",
-    "en": "Al Mirzab: gutter"
+    "ar": "«المرزاب» ميزابُ البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mirzab» is the gutter of a building."
   },
   "story": {
     "ar": "«المرزاب» مرزاب، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في البَاهية من إمارة أبوظبي.",
@@ -129657,8 +129657,8 @@ window.STREETS = [
   "ar": "شارع المِرْسَل",
   "en": "Al Mirsal Street",
   "meaning": {
-    "ar": "«المِرْسَل»: مِرْسَل",
-    "en": "Al Mirsal: transmitter"
+    "ar": "«المِرْسَل» المُرسِلُ للرسائل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mirsal» is the transmitter of messages."
   },
   "story": {
     "ar": "«المِرْسَل» مِرْسَل، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في البَاهية بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -129689,8 +129689,8 @@ window.STREETS = [
   "ar": "شارع المرْفَأ",
   "en": "Al Marfa Street",
   "meaning": {
-    "ar": "«المرْفَأ»: مرْفَأ",
-    "en": "Al Marfa: port, harbour, dock"
+    "ar": "«المرْفَأ» مرسى السفن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marfa'» is the port where ships moor."
   },
   "story": {
     "ar": "«المرْفَأ» مرْفَأ، والاسم مأخوذ من هذه الكلمة. والشارع في البَاهية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -129737,8 +129737,8 @@ window.STREETS = [
   "ar": "شارع المرموق",
   "en": "Al Marmouq Street",
   "meaning": {
-    "ar": "«المرموق»: مرموق",
-    "en": "Al Marmouq: notable"
+    "ar": "«المرموق» المطلوعُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marmuq» is the one looked up to among people."
   },
   "story": {
     "ar": "«المرموق» مرموق، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الجيمي، أبوظبي.",
@@ -129769,8 +129769,8 @@ window.STREETS = [
   "ar": "شارع المَرْو",
   "en": "Al Marwu Street",
   "meaning": {
-    "ar": "«المَرْو»: مَرْو",
-    "en": "Al Marwu: odoriferous plants"
+    "ar": "«المَرْو» النباتُ الطيبُ الرائحة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marw» is the fragrant herb."
   },
   "story": {
     "ar": "«المَرْو» مَرْو، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُعْتَرِض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -129785,8 +129785,8 @@ window.STREETS = [
   "ar": "شارع المُرُوءة",
   "en": "Al Muroua-ah Street",
   "meaning": {
-    "ar": "«المُرُوءة»: مُرُوءة",
-    "en": "Al Muroua-ah: courage"
+    "ar": "«المُرُوءة» من مادة «مَرُؤَ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muru'ah» comes from the root maru'a."
   },
   "story": {
     "ar": "«المُرُوءة» مُرُوءة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -129817,8 +129817,8 @@ window.STREETS = [
   "ar": "شارع المروى",
   "en": "Al Marwa Street",
   "meaning": {
-    "ar": "«المروى»: مروى",
-    "en": "Al Marwa: irrigated, watered"
+    "ar": "«المروى» المرويُّ بالماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marwa» is what is irrigated with water."
   },
   "story": {
     "ar": "«المروى» مروى، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في المَرْخَانِيَّة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -129833,8 +129833,8 @@ window.STREETS = [
   "ar": "شارع المِرياح",
   "en": "Al Miryah Street",
   "meaning": {
-    "ar": "«المِرياح»: مِرياح",
-    "en": "Al Miryah: anemometer"
+    "ar": "«المِرياح» آلةُ قياس الريح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Miryah» is the wind gauge."
   },
   "story": {
     "ar": "«المِرياح» مِرياح، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة خليفة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -129849,8 +129849,8 @@ window.STREETS = [
   "ar": "شارع المَرِّية",
   "en": "Al Mariyah Street",
   "meaning": {
-    "ar": "«المَرِّية»: مَرِّية",
-    "en": "Al Mariyah: doubt, suspicion"
+    "ar": "«المَرِّية» الشكُّ في الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Marriyyah» is doubt in a thing."
   },
   "story": {
     "ar": "«المَرِّية» مَرِّية، والاسم مأخوذ من هذه الكلمة. والشارع في الطِّوَيَّة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -129865,8 +129865,8 @@ window.STREETS = [
   "ar": "شارع المريحان",
   "en": "Al Mryhan Street",
   "meaning": {
-    "ar": "«المريحان»: مريحان",
-    "en": "Al Mryhan: comfortable (of a thing)"
+    "ar": "«المريحان» المريحُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mrihan» is the comfortable one in place."
   },
   "story": {
     "ar": "«المريحان» مريحان، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المَرْخَانِيَّة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -129881,8 +129881,8 @@ window.STREETS = [
   "ar": "شارع المرِير",
   "en": "Al Mreer Street",
   "meaning": {
-    "ar": "«المرِير»: مرِير",
-    "en": "Al Mreer: strong"
+    "ar": "«المرِير» الشديدُ الثبات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mrir» is the strong and tenacious."
   },
   "story": {
     "ar": "«المرِير» مرِير، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -129897,8 +129897,8 @@ window.STREETS = [
   "ar": "شارع المَزَّار",
   "en": "Al Mazzar Street",
   "meaning": {
-    "ar": "«المَزَّار»: مَزَّار",
-    "en": "Al Mazzar: a place that people visit"
+    "ar": "«المَزَّار» موضعُ الزيارة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mazzar» is the place people visit."
   },
   "story": {
     "ar": "«المَزَّار» مَزَّار، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -129913,8 +129913,8 @@ window.STREETS = [
   "ar": "شارع المزارعين",
   "en": "Al Muzari'een Street",
   "meaning": {
-    "ar": "«المزارعين»: مزارعين",
-    "en": "Al Muzari'een: farmer"
+    "ar": "«المزارعين» جمع «مزارِع»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muzari'in» is the plural of muzari' — farmers."
   },
   "story": {
     "ar": "«المزارعين» مزارعين، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الصَّدر.",
@@ -129929,8 +129929,8 @@ window.STREETS = [
   "ar": "شارع المَزج",
   "en": "Al Mazj Street",
   "meaning": {
-    "ar": "«المَزج»: مَزج",
-    "en": "Al Mazj: blending, mixing"
+    "ar": "«المَزج» مزجُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mazj» is the blending of a thing."
   },
   "story": {
     "ar": "«المَزج» مَزج، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مُصَفَح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -129945,8 +129945,8 @@ window.STREETS = [
   "ar": "شارع المزدهر",
   "en": "Al Muzdahir Street",
   "meaning": {
-    "ar": "«المزدهر»: مزدهر",
-    "en": "Al Muzdahir: prosperous"
+    "ar": "«المزدهر» المزدهرُ في العيش؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muzdahir» is the thriving in life."
   },
   "story": {
     "ar": "«المزدهر» مزدهر، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُويجْعِي في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -129961,8 +129961,8 @@ window.STREETS = [
   "ar": "شارع المِزمَاة",
   "en": "Al Mizmat Street",
   "meaning": {
-    "ar": "«المِزمَاة»: مِزمَاة",
-    "en": "Al Mizmat: a basket like the mikhrafa"
+    "ar": "«المِزمَاة» القفةُ من الجريد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mizmah» is the date basket."
   },
   "story": {
     "ar": "«المِزمَاة» مِزمَاة، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في ربدان من إمارة أبوظبي.",
@@ -130009,8 +130009,8 @@ window.STREETS = [
   "ar": "شارع المَسار",
   "en": "Al Masar Street",
   "meaning": {
-    "ar": "«المَسار»: مَسار",
-    "en": "Al Masar: track"
+    "ar": "«المَسار» مسارُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Masar» is the course of a road."
   },
   "story": {
     "ar": "«المَسار» مَسار، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة خليفة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -130025,8 +130025,8 @@ window.STREETS = [
   "ar": "شارع المُسامَحة",
   "en": "Al Musamahah Street",
   "meaning": {
-    "ar": "«المُسامَحة»: مُسامَحة",
-    "en": "Al Musamahah: forgiveness"
+    "ar": "«المُسامَحة» المسامحةُ بين الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Musamahah» is forgiveness between people."
   },
   "story": {
     "ar": "«المُسامَحة» مُسامَحة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في النَّهضة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -130041,8 +130041,8 @@ window.STREETS = [
   "ar": "شارع المُسْتَحِق",
   "en": "Al Mustahiq Street",
   "meaning": {
-    "ar": "«المُسْتَحِق»: مُسْتَحِق",
-    "en": "Al Mustahiq: worthy, deserving, meritorious"
+    "ar": "«المُسْتَحِق» من «حَقَّ يَحِقُّ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mustahiq» comes from the root haqqa."
   },
   "story": {
     "ar": "«المُسْتَحِق» مُسْتَحِق، والاسم مأخوذ من هذه الكلمة. والشارع في الشُّوِيهَات من إمارة أبوظبي.",
@@ -130057,8 +130057,8 @@ window.STREETS = [
   "ar": "شارع المستودعات",
   "en": "Al Mustawda'at Street",
   "meaning": {
-    "ar": "«المستودعات»: مستودعات",
-    "en": "Al Mustawda'at: warehouse, depot, storehouse"
+    "ar": "«المستودعات» جمع «مستودع»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mustawda'at» is the plural of mustawda' — storehouses."
   },
   "story": {
     "ar": "«المستودعات» مستودعات، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في السَّمْحة، أبوظبي.",
@@ -130073,8 +130073,8 @@ window.STREETS = [
   "ar": "شارع المُسعِف",
   "en": "Al Mus'if Street",
   "meaning": {
-    "ar": "«المُسعِف»: مُسعِف",
-    "en": "Al Mus'if: rescuer, paramedic"
+    "ar": "«المُسعِف» المُسعِفُ للناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mus'if» is the rescuer of people."
   },
   "story": {
     "ar": "«المُسعِف» مُسعِف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة خليفة.",
@@ -130089,8 +130089,8 @@ window.STREETS = [
   "ar": "شارع المسعى",
   "en": "Al Mas'a Street",
   "meaning": {
-    "ar": "«المسعى»: مسعى",
-    "en": "Al Mas'a: effort, struggle"
+    "ar": "«المسعى» مسعىُ الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mas'a» is the effort of people."
   },
   "story": {
     "ar": "«المسعى» مسعى، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُعْتَرِض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -130105,8 +130105,8 @@ window.STREETS = [
   "ar": "شارع المِسَلَّة",
   "en": "Al Misallah Street",
   "meaning": {
-    "ar": "«المِسَلَّة»: مِسَلَّة",
-    "en": "Al Misallah: packing needle"
+    "ar": "«المِسَلَّة» مسلَّةُ الخياطة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Misallah» is the packing needle."
   },
   "story": {
     "ar": "«المِسَلَّة» مِسَلَّة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -130153,8 +130153,8 @@ window.STREETS = [
   "ar": "شارع المِشاش",
   "en": "Al Mishash Street",
   "meaning": {
-    "ar": "«المِشاش»: مِشاش",
-    "en": "Al Mishash: epiphyses"
+    "ar": "«المِشاش» المِشاشُ من العظام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mishash» is the epiphysis among bones."
   },
   "story": {
     "ar": "«المِشاش» مِشاش، والاسم مأخوذ من هذه الكلمة. والشارع في غِيَّاثِي، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -130169,8 +130169,8 @@ window.STREETS = [
   "ar": "شارع المُشْتِي",
   "en": "Al Mushti Street",
   "meaning": {
-    "ar": "«المُشْتِي»: مُشْتِي",
-    "en": "Al Mushti: winter residence"
+    "ar": "«المُشْتِي» موضعُ الشتاء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mushti» is the winter residence."
   },
   "story": {
     "ar": "«المُشْتِي» مُشْتِي، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في الدَّهْماء بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -130185,8 +130185,8 @@ window.STREETS = [
   "ar": "شارع المشد",
   "en": "Al Mashad Street",
   "meaning": {
-    "ar": "«المشد»: مشد",
-    "en": "Al Mashad: corset, stays"
+    "ar": "«المشد» من الثياب المشدودة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mashad» is the tight garment."
   },
   "story": {
     "ar": "«المشد» مشد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الشهامة، أبوظبي.",
@@ -130217,8 +130217,8 @@ window.STREETS = [
   "ar": "شارع المَشرِق",
   "en": "Al Mashriq Street",
   "meaning": {
-    "ar": "«المَشرِق»: مَشرِق",
-    "en": "Al Mashriq: east"
+    "ar": "«المَشرِق» مشرقُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mashriq» is where the sun rises."
   },
   "story": {
     "ar": "«المَشرِق» مَشرِق، والاسم مأخوذ من هذه الكلمة. والشارع يقع في جَرْن يَافُور من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -130233,8 +130233,8 @@ window.STREETS = [
   "ar": "شارع المشوار",
   "en": "Al Mishwar Street",
   "meaning": {
-    "ar": "«المشوار»: مشوار",
-    "en": "Al Mishwar: errand"
+    "ar": "«المشوار» مشوارُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mishwar» is the errand on the way."
   },
   "story": {
     "ar": "«المشوار» مشوار، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع وسط المدينة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -130249,8 +130249,8 @@ window.STREETS = [
   "ar": "شارع المِصباح",
   "en": "Al Misbah Street",
   "meaning": {
-    "ar": "«المِصباح»: مصباح",
-    "en": "Al Misbah: lamp"
+    "ar": "«المِصباح» المصباحُ من المصابيح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Misbah» is the lamp among lights."
   },
   "story": {
     "ar": "«المِصباح» مصباح، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -130265,8 +130265,8 @@ window.STREETS = [
   "ar": "شارع المِصَف",
   "en": "Al Misaf Street",
   "meaning": {
-    "ar": "«المِصَف»: مِصَف",
-    "en": "Al Misaf: composing stick"
+    "ar": "«المِصَف» مِصفُّ الحروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Misaf» is the composing stick."
   },
   "story": {
     "ar": "«المِصَف» مِصَف، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في مدينة الرياض بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -130281,8 +130281,8 @@ window.STREETS = [
   "ar": "شارع المِصفاة",
   "en": "Al Misfat Street",
   "meaning": {
-    "ar": "«المِصفاة»: مِصفاة",
-    "en": "Al Misfat: colander"
+    "ar": "«المِصفاة» المصفاةُ من الآنية؛ والاسم من هذا اللفظ.",
+    "en": "«Al Misfat» is the colander among vessels."
   },
   "story": {
     "ar": "«المِصفاة» مِصفاة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في بني ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -130297,8 +130297,8 @@ window.STREETS = [
   "ar": "شارع المُصَمِّم",
   "en": "Al Musammim Street",
   "meaning": {
-    "ar": "«المُصَمِّم»: مُصَمِّم",
-    "en": "Al Musammim: designer"
+    "ar": "«المُصَمِّم» المصمِّمُ للأشكال؛ والاسم من هذا اللفظ.",
+    "en": "«Al Musammim» is the designer of forms."
   },
   "story": {
     "ar": "«المُصَمِّم» مُصَمِّم، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة الرويس الصناعية، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -130329,8 +130329,8 @@ window.STREETS = [
   "ar": "شارع المَصيف",
   "en": "Al Masyaf Street",
   "meaning": {
-    "ar": "«المَصيف»: مَصيف",
-    "en": "Al Masyaf: summer resort"
+    "ar": "«المَصيف» موضعُ الصيف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Masyaf» is the summer resort."
   },
   "story": {
     "ar": "«المَصيف» مَصيف، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في العامرة، أبوظبي.",
@@ -130345,8 +130345,8 @@ window.STREETS = [
   "ar": "شارع المِضمار",
   "en": "Al Midmar Street",
   "meaning": {
-    "ar": "«المِضمار»: مِضمار",
-    "en": "Al Midmar: course, track"
+    "ar": "«المِضمار» مضمارُ السباق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Midmar» is the racecourse."
   },
   "story": {
     "ar": "«المِضمار» مِضمار، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في آل نَهيان.",
@@ -130361,8 +130361,8 @@ window.STREETS = [
   "ar": "شارع المَضِيف",
   "en": "Al Madeef Street",
   "meaning": {
-    "ar": "«المَضِيف»: مَضِيف",
-    "en": "Al Madeef: host"
+    "ar": "«المَضِيف» المضيفُ للضيوف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Madif» is the host of guests."
   },
   "story": {
     "ar": "«المَضِيف» مَضِيف، والاسم مأخوذ من هذه الكلمة. والشارع يقع في مدينة الرياض من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -130393,8 +130393,8 @@ window.STREETS = [
   "ar": "شارع المَطاف",
   "en": "Al Mataf Street",
   "meaning": {
-    "ar": "«المَطاف»: مَطاف",
-    "en": "Al Mataf: journey"
+    "ar": "«المَطاف» مطافُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mataf» is the journey of the road."
   },
   "story": {
     "ar": "«المَطاف» مَطاف، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في البطين من إمارة أبوظبي.",
@@ -130409,8 +130409,8 @@ window.STREETS = [
   "ar": "شارع المَطَر",
   "en": "Al Matar Street",
   "meaning": {
-    "ar": "«المَطَر»: مطر",
-    "en": "Al Matar: rain"
+    "ar": "«المَطَر» المطرُ من السماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Matar» is the rain from the sky."
   },
   "story": {
     "ar": "«المَطَر» مطر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في زاخِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -130457,8 +130457,8 @@ window.STREETS = [
   "ar": "شارع المُطِل",
   "en": "Al Mutil Street",
   "meaning": {
-    "ar": "«المُطِل»: مُطِل",
-    "en": "Al Mutil: viewing area"
+    "ar": "«المُطِل» المطلُّ على المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mutill» is the viewing area."
   },
   "story": {
     "ar": "«المُطِل» مُطِل، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة محمد بن زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -130489,8 +130489,8 @@ window.STREETS = [
   "ar": "شارع المَطلَع",
   "en": "Al Matla' Street",
   "meaning": {
-    "ar": "«المَطلَع»: مَطلَع",
-    "en": "Al Matla': beginning, onset, outset"
+    "ar": "«المَطلَع» مطلعُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Matla'» is the beginning of a thing."
   },
   "story": {
     "ar": "«المَطلَع» مَطلَع، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في البطين، أبوظبي.",
@@ -130505,8 +130505,8 @@ window.STREETS = [
   "ar": "شارع المطمر",
   "en": "Al Matmar Street",
   "meaning": {
-    "ar": "«المطمر»: مطمر",
-    "en": "Al Matmar: plumb line"
+    "ar": "«المطمر» خيطُ البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Matmar» is the plumb line of building."
   },
   "story": {
     "ar": "«المطمر» مطمر، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في رأس الخيمة، والشارع في المنطقة الحرة بالحمرا.",
@@ -130553,8 +130553,8 @@ window.STREETS = [
   "ar": "شارع المَعبَر",
   "en": "Al Ma'bar Street",
   "meaning": {
-    "ar": "«المَعبَر»: مَعبَر",
-    "en": "Al Ma'bar: crossing"
+    "ar": "«المَعبَر» معبَرُ النهر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'bar» is the crossing of a river."
   },
   "story": {
     "ar": "«المَعبَر» مَعبَر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -130569,8 +130569,8 @@ window.STREETS = [
   "ar": "شارع المُعجَم",
   "en": "Al Mu'jam Street",
   "meaning": {
-    "ar": "«المُعجَم»: مُعجَم",
-    "en": "Al Mu'jam: dictionary"
+    "ar": "«المُعجَم» معجمُ اللغة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'jam» is the dictionary of a language."
   },
   "story": {
     "ar": "«المُعجَم» مُعجَم، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الفلاح بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -130585,8 +130585,8 @@ window.STREETS = [
   "ar": "شارع المَعروف",
   "en": "Al Ma'rouf Street",
   "meaning": {
-    "ar": "«المَعروف»: مَعروف",
-    "en": "Al Ma'rouf: known"
+    "ar": "«المَعروف» المعلومُ عند الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'ruf» is what is known among people."
   },
   "story": {
     "ar": "«المَعروف» مَعروف، والاسم مأخوذ من هذه الكلمة. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -130601,8 +130601,8 @@ window.STREETS = [
   "ar": "شارع المعزة",
   "en": "Al Ma'azzah Street",
   "meaning": {
-    "ar": "«المعزة»: معزة",
-    "en": "Al Ma'azzah: female goat"
+    "ar": "«المعزة» المعزةُ من الأغنام؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'izzah» is the nanny goat among sheep."
   },
   "story": {
     "ar": "«المعزة» معزة، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -130617,8 +130617,8 @@ window.STREETS = [
   "ar": "شارع المُعَسكَر",
   "en": "Al Mu'askar Street",
   "meaning": {
-    "ar": "«المُعَسكَر»: مُعَسكَر",
-    "en": "Al Mu'askar: camp"
+    "ar": "«المُعَسكَر» معسكرُ الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'askar» is the camp of people."
   },
   "story": {
     "ar": "«المُعَسكَر» مُعَسكَر، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في رُوْضَة الرِّيْف بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -130633,8 +130633,8 @@ window.STREETS = [
   "ar": "شارع المِعْطَاء",
   "en": "Al Mi'ta Street",
   "meaning": {
-    "ar": "«المِعْطَاء»: مِعْطَاء",
-    "en": "Al Mi'ta: inclined to give"
+    "ar": "«المِعْطَاء» المُعطِي للناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mi'ta» is the one who gives to people."
   },
   "story": {
     "ar": "«المِعْطَاء» مِعْطَاء، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في الخِبِيصِي، أبوظبي.",
@@ -130649,8 +130649,8 @@ window.STREETS = [
   "ar": "شارع المُعْطِي",
   "en": "Al Mu'ti Street",
   "meaning": {
-    "ar": "«المُعْطِي»: مُعْطِي",
-    "en": "Al Mu'ti: given"
+    "ar": "«المُعْطِي» المُعْطِي للشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'ti» is the giver of a thing."
   },
   "story": {
     "ar": "«المُعْطِي» مُعْطِي، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في غْنَيْمَة.",
@@ -130665,8 +130665,8 @@ window.STREETS = [
   "ar": "شارع المعقود",
   "en": "Al Ma'qoud Street",
   "meaning": {
-    "ar": "«المعقود»: معقود",
-    "en": "Al Ma'qoud: knit, knotted"
+    "ar": "«المعقود» المعقودُ من الخيوط؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'qud» is the knitted one."
   },
   "story": {
     "ar": "«المعقود» معقود، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الجيمي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -130681,8 +130681,8 @@ window.STREETS = [
   "ar": "شارع المعلقات",
   "en": "Al Mu'allaqat Street",
   "meaning": {
-    "ar": "«المعلقات»: معلقات",
-    "en": "Al Mu'allaqat: the Mu'allaqat)"
+    "ar": "«المعلقات» المعلَّقاتُ من القصائد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'allaqat» are the suspended odes."
   },
   "story": {
     "ar": "«المعلقات» معلقات، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع السَّمْحة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -130697,8 +130697,8 @@ window.STREETS = [
   "ar": "شارع المُعَلِّم",
   "en": "Al Mu'allim Street",
   "meaning": {
-    "ar": "«المُعَلِّم»: مُعَلِّم",
-    "en": "Al Mu'allim: master of a trade"
+    "ar": "«المُعَلِّم» المعلمُ للصبيان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mu'allim» is the master of a trade."
   },
   "story": {
     "ar": "«المُعَلِّم» مُعَلِّم، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -130713,8 +130713,8 @@ window.STREETS = [
   "ar": "شارع المعماري",
   "en": "Al Mi'mari Street",
   "meaning": {
-    "ar": "«المعماري»: معماري",
-    "en": "Al Mi'mari: architectural"
+    "ar": "«المعماري» المنسوبُ إلى العمارة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mi'mari» relates to architecture."
   },
   "story": {
     "ar": "«المعماري» معماري، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في جزيرة ياس بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -130745,8 +130745,8 @@ window.STREETS = [
   "ar": "شارع المَعْمُور",
   "en": "Al Ma'mour Street",
   "meaning": {
-    "ar": "«المَعْمُور»: مَعْمُور",
-    "en": "Al Ma'mour: inhabited"
+    "ar": "«المَعْمُور» المعمورُ من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'mur» is the inhabited among lands."
   },
   "story": {
     "ar": "«المَعْمُور» مَعْمُور، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة الرياض، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -130761,8 +130761,8 @@ window.STREETS = [
   "ar": "شارع المَعمُورة",
   "en": "Al Ma'mourah Street",
   "meaning": {
-    "ar": "«المَعمُورة»: مَعمُورة",
-    "en": "Al Ma'mourah: the world, the universe"
+    "ar": "«المَعمُورة» المعمورةُ من الأرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'murah» is the world of the earth."
   },
   "story": {
     "ar": "«المَعمُورة» مَعمُورة، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في آل نَهيان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -130777,8 +130777,8 @@ window.STREETS = [
   "ar": "شارع المَعْهَد",
   "en": "Al Ma'had Street",
   "meaning": {
-    "ar": "«المَعْهَد»: مَعْهَد",
-    "en": "Al Ma'had: institute"
+    "ar": "«المَعْهَد» معهدُ العلم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'had» is the institute of learning."
   },
   "story": {
     "ar": "«المَعْهَد» مَعْهَد، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في المُعْتَرِض، أبوظبي.",
@@ -130793,8 +130793,8 @@ window.STREETS = [
   "ar": "شارع المَعُونة",
   "en": "Al Ma'ounah Street",
   "meaning": {
-    "ar": "«المَعُونة»: مَعُونة",
-    "en": "Al Ma'ounah: help, assistance"
+    "ar": "«المَعُونة» العونُ على الأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Ma'unah» is the help in a matter."
   },
   "story": {
     "ar": "«المَعُونة» مَعُونة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في بني ياس.",
@@ -130809,8 +130809,8 @@ window.STREETS = [
   "ar": "شارع المغرب",
   "en": "Al Maghrib Street",
   "meaning": {
-    "ar": "«المغرب»: مَغْرِب",
-    "en": "Al Maghrib: sunset"
+    "ar": "«المغرب» مغربُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Maghrib» is where the sun sets."
   },
   "story": {
     "ar": "«المغرب» مَغْرِب، والاسم مأخوذ من هذه الكلمة. والشارع يقع في العامرة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -130825,8 +130825,8 @@ window.STREETS = [
   "ar": "شارع المِغَرَة",
   "en": "Al Migharah Street",
   "meaning": {
-    "ar": "«المِغَرَة»: مِغَرَة",
-    "en": "Al Migharah: colour inclining to red"
+    "ar": "«المِغَرَة» الطينُ الأحمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Migharah» is the red ochre."
   },
   "story": {
     "ar": "«المِغَرَة» مِغَرَة، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع أم غَافة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -130841,8 +130841,8 @@ window.STREETS = [
   "ar": "شارع المِغوار",
   "en": "Al Migwar Street",
   "meaning": {
-    "ar": "«المِغوار»: مِغوار",
-    "en": "Al Migwar: swift, vehement, spunky"
+    "ar": "«المِغوار» السريعُ في السير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Migwar» is the swift in going."
   },
   "story": {
     "ar": "«المِغوار» مِغوار، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في عَيْن الفَايْضَة من إمارة أبوظبي.",
@@ -130857,8 +130857,8 @@ window.STREETS = [
   "ar": "شارع المغِيب",
   "en": "Al Mgheeb Street",
   "meaning": {
-    "ar": "«المغِيب»: مغِيب",
-    "en": "Al Mgheeb: sundown, sunset"
+    "ar": "«المغِيب» مغيبُ الشمس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mughib» is sundown and the end of day."
   },
   "story": {
     "ar": "«المغِيب» مغِيب، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في زاخِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -130873,8 +130873,8 @@ window.STREETS = [
   "ar": "شارع المفتاح",
   "en": "Al Miftah Street",
   "meaning": {
-    "ar": "«المفتاح»: مفتاح",
-    "en": "Al Miftah: railroad switch"
+    "ar": "«المفتاح» مفتاحُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Miftah» is the switch of the road."
   },
   "story": {
     "ar": "«المفتاح» مفتاح، والاسم مأخوذ من هذه الكلمة. وهو الشارع في جزيرة ياس، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -130889,8 +130889,8 @@ window.STREETS = [
   "ar": "شارع المفرق",
   "en": "Al Mafraq Street",
   "meaning": {
-    "ar": "«المفرق»: مفرق",
-    "en": "Al Mafraq: junction"
+    "ar": "«المفرق» مفترقُ الطرق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mafraq» is the junction of roads."
   },
   "story": {
     "ar": "«المفرق» مفرق، والاسم مأخوذ من هذه الكلمة. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -130953,8 +130953,8 @@ window.STREETS = [
   "ar": "شارع المقدام",
   "en": "Al Miqdam Street",
   "meaning": {
-    "ar": "«المقدام»: مقدام",
-    "en": "Al Miqdam: bold, fearless"
+    "ar": "«المقدام» الجريءُ في الأمور؛ والاسم من هذا اللفظ.",
+    "en": "«Al Miqdam» is the bold in matters."
   },
   "story": {
     "ar": "«المقدام» مقدام، والاسم مأخوذ من هذه الكلمة. والشارع يقع في البَاهية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -130969,8 +130969,8 @@ window.STREETS = [
   "ar": "شارع المقدم",
   "en": "Al Maqadam Street",
   "meaning": {
-    "ar": "«المقدم»: مقدم",
-    "en": "Al Maqadam: chief"
+    "ar": "«المقدم» المقدَّمُ على القوم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muqaddam» is the chief before people."
   },
   "story": {
     "ar": "«المقدم» مقدم، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع الصفوح 1 في دبي، والاسم يدل على موضع لا على كلمة.",
@@ -131001,8 +131001,8 @@ window.STREETS = [
   "ar": "شارع المقيم",
   "en": "Al Muqeem Street",
   "meaning": {
-    "ar": "«المقيم»: مقيم",
-    "en": "Al Muqeem: dwelling"
+    "ar": "«المقيم» المقيمُ في المكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muqim» is the one residing in a place."
   },
   "story": {
     "ar": "«المقيم» مقيم، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في البَاهية بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -131017,8 +131017,8 @@ window.STREETS = [
   "ar": "شارع المكتسب",
   "en": "Al Muktasib Street",
   "meaning": {
-    "ar": "«المكتسب»: مكتسب",
-    "en": "Al Muktasib: acquired"
+    "ar": "«المكتسب» المكتسبُ بعد الولادة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muktasib» is what is acquired after birth."
   },
   "story": {
     "ar": "«المكتسب» مكتسب، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الشُّوِيهَات، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -131033,8 +131033,8 @@ window.STREETS = [
   "ar": "شارع المَكْرَمَة",
   "en": "Al Makramah Street",
   "meaning": {
-    "ar": "«المَكْرَمَة»: مَكْرَمَة",
-    "en": "Al Makramah: noble deed, noble quality"
+    "ar": "«المَكْرَمَة» من «كَرُمَ يَكْرُمُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Makramah» comes from the root karama."
   },
   "story": {
     "ar": "«المَكْرَمَة» مَكْرَمَة، والاسم مأخوذ من هذه الكلمة. والشارع في المُعْتَرِض، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -131049,8 +131049,8 @@ window.STREETS = [
   "ar": "شارع المِكيال",
   "en": "Al Mikyal Street",
   "meaning": {
-    "ar": "«المِكيال»: مِكيال",
-    "en": "Al Mikyal: measure"
+    "ar": "«المِكيال» مكيالُ الحبوب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mikyal» is the measure for grain."
   },
   "story": {
     "ar": "«المِكيال» مِكيال، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في مدينة شخبوط بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -131065,8 +131065,8 @@ window.STREETS = [
   "ar": "شارع المِلاحة",
   "en": "Al Milahah Street",
   "meaning": {
-    "ar": "«المِلاحة»: مِلاحة",
-    "en": "Al Milahah: navigation, shipping"
+    "ar": "«المِلاحة» الملاحةُ في البحر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Milahah» is navigation in the sea."
   },
   "story": {
     "ar": "«المِلاحة» مِلاحة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في ربدان، أبوظبي.",
@@ -131097,8 +131097,8 @@ window.STREETS = [
   "ar": "شارع المُلتَقى",
   "en": "Al Multaqa Street",
   "meaning": {
-    "ar": "«المُلتَقى»: مُلتَقى",
-    "en": "Al Multaqa: met, encountered"
+    "ar": "«المُلتَقى» ملتقى الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Multaqa» is where people meet."
   },
   "story": {
     "ar": "«المُلتَقى» مُلتَقى، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الروضة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -131113,8 +131113,8 @@ window.STREETS = [
   "ar": "شارع الملقى",
   "en": "Al Malqa Street",
   "meaning": {
-    "ar": "«الملقى»: ملقى",
-    "en": "Al Malqa: cast"
+    "ar": "«الملقى» الملقوُّ من الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Malqa» is what is cast away."
   },
   "story": {
     "ar": "«الملقى» ملقى، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المرْفَأ في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -131129,8 +131129,8 @@ window.STREETS = [
   "ar": "شارع الممدوح",
   "en": "Al Mamdouh Street",
   "meaning": {
-    "ar": "«الممدوح»: ممدوح",
-    "en": "Al Mamdouh: acclaimed"
+    "ar": "«الممدوح» من «مَدَحَ يَمْدَحُ»؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mamduh» comes from the root madaha."
   },
   "story": {
     "ar": "«الممدوح» ممدوح، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في المَقَام من إمارة أبوظبي.",
@@ -131145,8 +131145,8 @@ window.STREETS = [
   "ar": "شارع المُمْطِر",
   "en": "Al Mumtir Street",
   "meaning": {
-    "ar": "«المُمْطِر»: ممطر",
-    "en": "Al Mumtir: rainy"
+    "ar": "«المُمْطِر» الممطرُ من السماء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mumtir» is the rainy one from the sky."
   },
   "story": {
     "ar": "«المُمْطِر» ممطر، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في وسط المدينة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -131161,8 +131161,8 @@ window.STREETS = [
   "ar": "شارع المُمَيَز",
   "en": "Al Mumayaz Street",
   "meaning": {
-    "ar": "«المُمَيَز»: مُمَيَز",
-    "en": "Al Mumayaz: discerning, discriminative"
+    "ar": "«المُمَيَز» المميزُ بين الأشياء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mumayyaz» is the discerning among things."
   },
   "story": {
     "ar": "«المُمَيَز» مُمَيَز، والاسم مأخوذ من هذه الكلمة. وهو الشارع في الجَاهلِي، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -131177,8 +131177,8 @@ window.STREETS = [
   "ar": "شارع المناخ",
   "en": "Al Munakh Street",
   "meaning": {
-    "ar": "«المناخ»: مناخ",
-    "en": "Al Munakh: climate"
+    "ar": "«المناخ» مناخُ البلاد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manakh» is the climate of lands."
   },
   "story": {
     "ar": "«المناخ» مناخ، والاسم مأخوذ من هذه الكلمة. والشارع في جزيرة ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -131193,8 +131193,8 @@ window.STREETS = [
   "ar": "شارع المنار",
   "en": "Al Manar Street",
   "meaning": {
-    "ar": "«المنار»: منار",
-    "en": "Al Manar: waymark, landmark"
+    "ar": "«المنار» علامةُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manar» is the waymark of the road."
   },
   "story": {
     "ar": "«المنار» منار، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في السلمة بإمارة أم القيوين، وليس كلمة تُفسَّر.",
@@ -131209,8 +131209,8 @@ window.STREETS = [
   "ar": "شارع المناسب",
   "en": "Al Munasib Street",
   "meaning": {
-    "ar": "«المناسب»: مناسب",
-    "en": "Al Munasib: appropriate"
+    "ar": "«المناسب» المناسبُ للأمر؛ والاسم من هذا اللفظ.",
+    "en": "«Al Munasib» is the proper one for a matter."
   },
   "story": {
     "ar": "«المناسب» مناسب، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في زاخِر، أبوظبي.",
@@ -131225,8 +131225,8 @@ window.STREETS = [
   "ar": "شارع المنال",
   "en": "Al Manal Street",
   "meaning": {
-    "ar": "«المنال»: منال",
-    "en": "Al Manal: achievement"
+    "ar": "«المنال» نيلُ المطلوب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manal» is the attainment of a goal."
   },
   "story": {
     "ar": "«المنال» منال، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الجَاهلِي.",
@@ -131241,8 +131241,8 @@ window.STREETS = [
   "ar": "شارع المنبة",
   "en": "Al Manba' Street",
   "meaning": {
-    "ar": "«المنبة»: منبة",
-    "en": "Al Manba': alarm clock"
+    "ar": "«المنبة» منبّهُ الصباح؛ والاسم من هذا اللفظ.",
+    "en": "«Al Munabbih» is the alarm of morning."
   },
   "story": {
     "ar": "«المنبة» منبة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في الرملة من إمارة أم القيوين، والاسم مأخوذ من موضع.",
@@ -131273,8 +131273,8 @@ window.STREETS = [
   "ar": "شارع المِنْبَر",
   "en": "Al Minbar Street",
   "meaning": {
-    "ar": "«المِنْبَر»: مِنْبَر",
-    "en": "Al Minbar: minbar, pulpit"
+    "ar": "«المِنْبَر» منبرُ المسجد؛ والاسم من هذا اللفظ.",
+    "en": "«Al Minbar» is the pulpit of the mosque."
   },
   "story": {
     "ar": "«المِنْبَر» مِنْبَر، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة الرياض من إمارة أبوظبي.",
@@ -131289,8 +131289,8 @@ window.STREETS = [
   "ar": "شارع المُنتَدَى",
   "en": "Al Muntada Street",
   "meaning": {
-    "ar": "«المُنتَدَى»: مُنتَدَى",
-    "en": "Al Muntada: an internet forum"
+    "ar": "«المُنتَدَى» ملتقى الناس؛ والاسم من هذا اللفظ.",
+    "en": "«Al Muntada» is the forum where people gather."
   },
   "story": {
     "ar": "«المُنتَدَى» مُنتَدَى، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في الروضة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -131321,8 +131321,8 @@ window.STREETS = [
   "ar": "شارع المُنْجَل",
   "en": "Al Munjal Street",
   "meaning": {
-    "ar": "«المُنْجَل»: مُنْجَل",
-    "en": "Al Munjal: scythe, sickle"
+    "ar": "«المُنْجَل» المنجلُ من الأدوات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Munjal» is the sickle among tools."
   },
   "story": {
     "ar": "«المُنْجَل» مُنْجَل، والاسم مأخوذ من هذه الكلمة. والشارع في الرَّحبة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -131369,8 +131369,8 @@ window.STREETS = [
   "ar": "شارع المَنْزِل",
   "en": "Al Manzil Street",
   "meaning": {
-    "ar": "«المَنْزِل»: مَنْزِل",
-    "en": "Al Manzil: house, dwelling"
+    "ar": "«المَنْزِل» منزلُ السكن؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manzil» is the house of dwelling."
   },
   "story": {
     "ar": "«المَنْزِل» مَنْزِل، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع، والشارع في جزيرة ياس، أبوظبي.",
@@ -131385,8 +131385,8 @@ window.STREETS = [
   "ar": "شارع المَنزِلة",
   "en": "Al Manzilah Street",
   "meaning": {
-    "ar": "«المَنزِلة»: مَنزِلة",
-    "en": "Al Manzilah: position, status, rank"
+    "ar": "«المَنزِلة» منزلةُ الشخص؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manzilah» is the position of a person."
   },
   "story": {
     "ar": "«المَنزِلة» مَنزِلة، والاسم مأخوذ من هذه الكلمة. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في زاخِر.",
@@ -131401,8 +131401,8 @@ window.STREETS = [
   "ar": "شارع المَنَصَّة",
   "en": "Al Manassah Street",
   "meaning": {
-    "ar": "«المَنَصَّة»: مَنَصَّة",
-    "en": "Al Manassah: platform"
+    "ar": "«المَنَصَّة» منصّةُ البناء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manassah» is the platform of a building."
   },
   "story": {
     "ar": "«المَنَصَّة» مَنَصَّة، والاسم مأخوذ من هذه الكلمة. والشارع يقع في المُويجْعِي من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -131433,8 +131433,8 @@ window.STREETS = [
   "ar": "شارع المَنظُوم",
   "en": "Al Mandhoum Street",
   "meaning": {
-    "ar": "«المَنظُوم»: مَنظُوم",
-    "en": "Al Mandhoum: organized, arranged"
+    "ar": "«المَنظُوم» المنسّقُ المرتّب؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mandhum» is the organized and arranged."
   },
   "story": {
     "ar": "«المَنظُوم» مَنظُوم، والاسم مأخوذ من هذه الكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة خليفة من إمارة أبوظبي.",
@@ -131449,8 +131449,8 @@ window.STREETS = [
   "ar": "شارع المَنفعة",
   "en": "Al Manfa'ah Street",
   "meaning": {
-    "ar": "«المَنفعة»: مَنفعة",
-    "en": "Al Manfa'ah: benefit"
+    "ar": "«المَنفعة» نفعُ الشيء؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manfa'ah» is the benefit of a thing."
   },
   "story": {
     "ar": "«المَنفعة» مَنفعة، والاسم مأخوذ من هذه الكلمة. وتقع الشوارع التي تحمل هذا الاسم في وسط المدينة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -131465,8 +131465,8 @@ window.STREETS = [
   "ar": "شارع المَنقَلة",
   "en": "Al Manqalah Street",
   "meaning": {
-    "ar": "«المَنقَلة»: مَنقَلة",
-    "en": "Al Manqalah: protractor"
+    "ar": "«المَنقَلة» منقلةُ الرسم؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manqalah» is the protractor of drawing."
   },
   "story": {
     "ar": "«المَنقَلة» مَنقَلة، والاسم مأخوذ من هذه الكلمة. وهو الشارع في العامرة، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -131481,8 +131481,8 @@ window.STREETS = [
   "ar": "شارع المنقول",
   "en": "Al Manqoul Street",
   "meaning": {
-    "ar": "«المنقول»: منقول",
-    "en": "Al Manqoul: transmitted"
+    "ar": "«المنقول» المنقولُ من مكان؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manqul» is what is carried from a place."
   },
   "story": {
     "ar": "«المنقول» منقول، والاسم مأخوذ من هذه الكلمة. والشارع في الشهامة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -131497,8 +131497,8 @@ window.STREETS = [
   "ar": "شارع المَنهَج",
   "en": "Al Manhaj Street",
   "meaning": {
-    "ar": "«المَنهَج»: مَنْهَج",
-    "en": "Al Manhaj: a method"
+    "ar": "«المَنهَج» منهجُ الطريق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manhaj» is the method of the way."
   },
   "story": {
     "ar": "«المَنهَج» مَنْهَج، والاسم مأخوذ من هذه الكلمة. وهذا الموضع أخذ منه اسم الشارع في المَنهَل بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -131513,8 +131513,8 @@ window.STREETS = [
   "ar": "شارع المَنوال",
   "en": "Al Manwal Street",
   "meaning": {
-    "ar": "«المَنوال»: مَنوال",
-    "en": "Al Manwal: manner, way"
+    "ar": "«المَنوال» منوالُ النسيج؛ والاسم من هذا اللفظ.",
+    "en": "«Al Manwal» is the loom of weaving."
   },
   "story": {
     "ar": "«المَنوال» مَنوال، والاسم مأخوذ من هذه الكلمة. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
