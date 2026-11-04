@@ -2847,17 +2847,17 @@ window.STREETS = [
   "ar": "شارع تميم بن يعار",
   "en": "Tameem Bin Ya'ar Street",
   "meaning": {
-    "en": "An Ansari Companion who fought at Badr and Uhud",
-    "ar": "صحابي أنصاري شهد بدراً وأُحداً"
+    "ar": "صحابي أنصاري من الخزرج، شهد بدراً وأُحداً",
+    "en": "an Ansari Companion of the Khazraj, present at Badr and Uhud"
   },
   "story": {
-    "en": "Tamim ibn Ya'ar was an Ansari Companion of the Khazraj who fought at Badr and Uhud.",
-    "ar": "تميم بن يعار بن قيس بن عدي الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأنصار شهد مع النبي محمد ﷺ صلى الل."
+    "ar": "تميم بن يعار بن قيس بن عدي الخزرجي الأنصاري، صحابي من قبيلة الخزرج من الأنصار، شهد مع النبي محمد ﷺ غزوة بدر وغزوة أُحد.",
+    "en": "Tamim ibn Ya'ar ibn Qays al-Khazraji al-Ansari, a Companion of the Khazraj tribe of the Ansar, was present with the Prophet Muhammad ﷺ at the battle of Badr and at Uhud."
   },
   "refs": [
     {
-      "label": "Wikipedia — تميم بن يعار",
-      "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D9%8A%D9%85_%D8%A8%D9%86_%D9%8A%D8%B9%D8%A7%D8%B1"
+      "label": "ويكيبيديا العربية — تميم بن يعار",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AA%D9%85%D9%8A%D9%85%20%D8%A8%D9%86%20%D9%8A%D8%B9%D8%A7%D8%B1"
     }
   ]
 },
@@ -3551,17 +3551,17 @@ window.STREETS = [
   "ar": "شارع البراء بن معرور",
   "en": "Al Bara-a Bin Ma'rour Street",
   "meaning": {
-    "en": "Companion of the Prophet Muhammad",
-    "ar": "أحد النقباء الاثني عشر من الأنصار، أول من تكلم ليلة العقبة وأول من مات من النقباء"
+    "ar": "من نقباء الأنصار، وأول من بايع في العقبة",
+    "en": "one of the Ansar's representatives, the first to give the pledge at Aqaba"
   },
   "story": {
-    "en": "Al-Bara ibn Marur (d. 622) was a companion of the Prophet Muhammad.",
-    "ar": "البـراء بن معرور بن صخر بن خنساء بن سنان بن عبيد بن عبيد بن عدي بن غنم بن كعب بن سلمة الأ."
+    "ar": "البراء بن معرور بن صخر الأنصاري الخزرجي، أبو بشر، أحد نقباء الأنصار، وأول من بايع في بيعة العقبة الثانية في قول ابن إسحاق، وأول من استقبل القبلة، وأول من أوصى بثلث ماله.",
+    "en": "Al-Bara ibn Ma'rur ibn Sakhr al-Ansari al-Khazraji, Abu Bishr, was one of the Ansar's chosen representatives and, by Ibn Ishaq's account, the first to give the pledge at the second Aqaba, the first to face the qibla in prayer, and the first to bequeath a third of his wealth."
   },
   "refs": [
     {
-      "label": "Wikipedia — البراء بن معرور",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1_%D8%A8%D9%86_%D9%85%D8%B9%D8%B1%D9%88%D8%B1"
+      "label": "ويكيبيديا العربية — البراء بن معرور",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1%20%D8%A8%D9%86%20%D9%85%D8%B9%D8%B1%D9%88%D8%B1"
     }
   ]
 },
@@ -3595,17 +3595,17 @@ window.STREETS = [
   "ar": "شارع المغيره بن شعبه",
   "en": "Al Mugheerah Bin Shu'bah Street",
   "meaning": {
-    "en": "Companion of the Islamic prophet Muhammad",
-    "ar": "صحابي"
+    "ar": "صحابي من ثقيف، ومن دهاة العرب",
+    "en": "a Companion of Thaqif, counted among the shrewd of the Arabs"
   },
   "story": {
-    "en": "Mughira ibn Shu'ba (600–671) was a companion of the Prophet Muhammad.",
-    "ar": "أبو عبد الله المغيرة بن شعبة بن أبي عامر بن مسعود الثقفي (600م/23 ق ه- 670م/50 هـ) من كبا."
+    "ar": "أبو عبد الله المغيرة بن شعبة بن أبي عامر الثقفي (٢٣ ق.هـ–٥٠هـ)، من كبار الصحابة، وُلد بالطائف في ثقيف ونشأ بها، وأسلم عام الخندق، وكان كثير الأسفار، وكان من دهاة العرب. توفي سنة ٥٠هـ بالكوفة.",
+    "en": "Abu Abd Allah al-Mughira ibn Shu'ba ibn Abi Amir al-Thaqafi (23 BH–50 AH) was among the senior Companions. Born and raised in Ta'if among Thaqif, he accepted Islam in the year of the Trench, travelled widely, and was counted among the shrewd of the Arabs. He died in Kufa in 50 AH."
   },
   "refs": [
     {
-      "label": "Wikipedia — المغيرة بن شعبة",
-      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%BA%D9%8A%D8%B1%D8%A9_%D8%A8%D9%86_%D8%B4%D8%B9%D8%A8%D8%A9"
+      "label": "ويكيبيديا العربية — المغيرة بن شعبة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%BA%D9%8A%D8%B1%D8%A9%20%D8%A8%D9%86%20%D8%B4%D8%B9%D8%A8%D8%A9"
     }
   ]
 },
@@ -4057,12 +4057,12 @@ window.STREETS = [
   "ar": "شارع نعيم بن مسعود",
   "en": "Nu'aym Bin Mas'oud Street",
   "meaning": {
-    "en": "Sahabah",
-    "ar": "صحابي من بني أشجع من قبيلة غطفان كان له دور مهم في مناصرة النبي محمد ﷺ و خداع الأحزاب في غزوة الخندق"
+    "ar": "صحابي من أشجع",
+    "en": "a Companion of the Ashja' tribe"
   },
   "story": {
-    "en": "Nuaym ibn Masud (600–650) was a companion of the Prophet Muhammad.",
-    "ar": "أبو سلمة نعيم بن مسعود بن عامر الأشجعي الغطفاني صحاب."
+    "ar": "أبو سلمة نعيم بن مسعود بن عامر الأشجعي الغطفاني، صحابي من قبيلة أشجع.",
+    "en": "Abu Salama Nu'aym ibn Mas'ud ibn Amir al-Ashja'i al-Ghatafani, a Companion of the Ashja' tribe."
   },
   "refs": [
     {
@@ -4079,17 +4079,17 @@ window.STREETS = [
   "ar": "شارع نسيبه بنت كعب",
   "en": "Nusaybah Bint Ka'ab Street",
   "meaning": {
-    "en": "Early woman to convert to Islam",
-    "ar": "صحابية"
+    "ar": "صحابية من الخزرج، شهدت العقبة والرضوان",
+    "en": "a Companion of the Khazraj, present at Aqaba and Ridwan"
   },
   "story": {
-    "en": "Nusaybah bint Ka'ab (d. 634) was among the early women to accept Islam.",
-    "ar": "أم عُمارةَ نَسِيبَةُ بنتُ كَعْب المازنية الأنصارية (توفيت نحو سنة 13 هـ / 634 م) هي صحاب."
+    "ar": "أم عُمارة نسيبة بنت كعب المازنية الأنصارية (ت نحو ١٣هـ)، صحابية من الخزرج، شهدت بيعة العقبة وبيعة الرضوان، وشاركت في عدد من الغزوات في القتال وإسعاف الجرحى، واشتُهرت بشجاعتها وبراعتها في الرمي.",
+    "en": "Umm Umara Nusayba bint Ka'b al-Maziniyya al-Ansariyya (d. c. 13 AH) was a Companion of the Khazraj. She was present at the pledge of Aqaba and the pledge of Ridwan, took part in several expeditions both fighting and tending the wounded, and was known for her courage and her skill with the bow."
   },
   "refs": [
     {
-      "label": "Wikipedia — نسيبة بنت كعب",
-      "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B3%D9%8A%D8%A8%D8%A9_%D8%A8%D9%86%D8%AA_%D9%83%D8%B9%D8%A8"
+      "label": "ويكيبيديا العربية — نسیبة بنت كعب",
+      "url": "https://ar.wikipedia.org/wiki/%D9%86%D8%B3%DB%8C%D8%A8%D8%A9%20%D8%A8%D9%86%D8%AA%20%D9%83%D8%B9%D8%A8"
     }
   ]
 },
@@ -4145,17 +4145,17 @@ window.STREETS = [
   "ar": "شارع سهله بنت سهيل",
   "en": "Sahlah Bint Suhail Street",
   "meaning": {
-    "en": "Sahabah",
-    "ar": "صحابي"
+    "ar": "صحابية قرشية، من المهاجرات إلى الحبشة",
+    "en": "a Qurashi Companion, among those who emigrated to Abyssinia"
   },
   "story": {
-    "en": "Sahla bint Suhayl was a companion of the Prophet Muhammad.",
-    "ar": "سَهْلَةُ بنتُ سُهَيل بن عمرو العامرية الق."
+    "ar": "سهلة بنت سهيل بن عمرو العامرية القرشية، صحابية أسلمت بمكة، وهاجرت في الهجرة الأولى إلى الحبشة مع زوجها أبي حذيفة بن عتبة بن ربيعة.",
+    "en": "Sahla bint Suhayl ibn Amr al-Amiriya al-Qurashiya was a Companion who accepted Islam in Mecca and emigrated in the first migration to Abyssinia with her husband Abu Hudhayfa ibn Utba ibn Rabi'a."
   },
   "refs": [
     {
-      "label": "Wikipedia — سهلة بنت سهيل",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%87%D9%84%D8%A9_%D8%A8%D9%86%D8%AA_%D8%B3%D9%87%D9%8A%D9%84"
+      "label": "ويكيبيديا العربية — سهلة بنت سهيل",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D9%87%D9%84%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B3%D9%87%D9%8A%D9%84"
     }
   ]
 },
@@ -4717,17 +4717,17 @@ window.STREETS = [
   "ar": "شارع محمد بن مسلمه",
   "en": "Mohammed Bin Maslamah Street",
   "meaning": {
-    "en": "Sahabah",
-    "ar": "صحابي أنصاري، ولاه النبي محمد ﷺ المدينة"
+    "ar": "صحابي من الأوس، شهد المشاهد إلا تبوك",
+    "en": "a Companion of the Aws, present at every expedition but Tabuk"
   },
   "story": {
-    "en": "Muhammad ibn Maslamah (589–666) was a companion of the Prophet Muhammad.",
-    "ar": "محمد بن مسلمة (المتوفي سنة 46 هـ) صحابي من بني حارثة بن الح."
+    "ar": "محمد بن مسلمة (ت ٤٦هـ)، صحابي من بني حارثة بن الحارث من الأوس، وحليف بني عبد الأشهل. أسلم قديماً، وشهد المشاهد كلها إلا غزوة تبوك، وشارك في فتح مصر، وكان المبعوث الخاص لعمر بن الخطاب إلى ولاته.",
+    "en": "Muhammad ibn Maslama (d. 46 AH) was a Companion of Banu Haritha ibn al-Harith of the Aws, an ally of Banu Abd al-Ashhal. He accepted Islam early, was present at every expedition except Tabuk, took part in the conquest of Egypt, and served as Umar ibn al-Khattab's special envoy to his governors."
   },
   "refs": [
     {
-      "label": "Wikipedia — محمد بن مسلمة",
-      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D9%85%D8%B3%D9%84%D9%85%D8%A9"
+      "label": "ويكيبيديا العربية — محمد بن مسلمة",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D9%85%D8%B3%D9%84%D9%85%D8%A9"
     }
   ]
 },
@@ -4805,17 +4805,17 @@ window.STREETS = [
   "ar": "شارع سعيد بن المسيب",
   "en": "Said Ibn Al Musayyib Street",
   "meaning": {
-    "en": "Medina-based Muslim scholar",
-    "ar": "تابعي مدني، وأحد رواة الحديث النبوي، وأحد فقهاء المدينة السبعة من التابعين"
+    "ar": "من كبار التابعين، ولُقّب بسيد التابعين",
+    "en": "among the senior Successors, known as the scholar of Medina"
   },
   "story": {
-    "en": "Said ibn al-Musayyib (634–712) was a Medina-based Muslim scholar.",
-    "ar": "أبو محمد سعيد بن الْمُسَيِّبِ بن حزن بن أبي وهب المخزومي القرشي (15 هـ - 94 هـ) تابع."
+    "ar": "أبو محمد سعيد بن المسيب المخزومي القرشي (١٥–٩٤هـ)، تابعي من كبار التابعين بالمدينة المنورة، لُقّب بـ«عالم أهل المدينة» و«سيد التابعين» في زمانه، وأحد فقهاء المدينة السبعة وأحد رواة الحديث.",
+    "en": "Abu Muhammad Sa'id ibn al-Musayyib al-Makhzumi al-Qurashi (15–94 AH) was among the senior Successors in Medina, called «the scholar of the people of Medina» in his time, one of the seven jurists of Medina, and a narrator of hadith."
   },
   "refs": [
     {
-      "label": "Wikipedia — سعيد بن المسيب",
-      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A8"
+      "label": "ويكيبيديا العربية — سعيد بن المسيب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A8"
     }
   ]
 },
@@ -7181,12 +7181,12 @@ window.STREETS = [
   "ar": "شارع الحكَم بن عَمرو",
   "en": "Al Hakam Bin 'Amr Street",
   "meaning": {
-    "en": "Companion of Muhammad",
-    "ar": "صحابي"
+    "ar": "صحابي غفاري، وقائد من قادة الفتوحات",
+    "en": "a Ghifari Companion and a commander of the conquests"
   },
   "story": {
-    "en": "Al-Hakam ibn Amr al-Ghifari (d. 670) was a companion of Muhammad.",
-    "ar": "الحكم بن عمرو الغفاري الكناني صحابي جليل، وقائد عسكري كبير من كبار قادة الفتوحات الإ."
+    "ar": "الحكم بن عمرو الغفاري الكناني، صحابي جليل، وقائد عسكري من كبار قادة الفتوحات الإسلامية.",
+    "en": "Al-Hakam ibn Amr al-Ghifari al-Kinani, a Companion and one of the senior commanders of the early Islamic conquests."
   },
   "refs": [
     {
@@ -7247,12 +7247,12 @@ window.STREETS = [
   "ar": "شارع بِلال بن أبي الدَّرداء",
   "en": "Bilal Bin Abi Ad Darda-a Street",
   "meaning": {
-    "en": "judge",
-    "ar": "تابعي وأحد رواة الحديث النبوي وقاضي"
+    "ar": "ابن الصحابي أبي الدرداء الأنصاري",
+    "en": "son of the Companion Abu al-Darda al-Ansari"
   },
   "story": {
-    "en": "Bilal ibn Abi al-Darda was a judge of Damascus in the Umayyad period.",
-    "ar": "أبو محمد بلال بن أبي الدرداء الأنصاري الد."
+    "ar": "أبو محمد بلال بن أبي الدرداء الأنصاري، ابن الصحابي أبي الدرداء، ذُكر في كتب الرجال.",
+    "en": "Abu Muhammad Bilal ibn Abi al-Darda al-Ansari, son of the Companion Abu al-Darda, is named in the biographical works."
   },
   "refs": [
     {
@@ -19218,12 +19218,12 @@ window.STREETS = [
   "ar": "شارع رِبعِي بن حِراش",
   "en": "Ribee'I Bin Hirash Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "احد التابعين ورواة الحديث"
+    "ar": "تابعي كوفي، من رواة الحديث",
+    "en": "a Kufan Successor and narrator of hadith"
   },
   "story": {
-    "en": "Rib'i ibn Hirash (NaN–719) was a Tabi'i.",
-    "ar": "ربعي بن حراش العبسي تابعي كوفي، وأحد رواة الحديث الن."
+    "ar": "ربعي بن حراش العبسي، تابعي كوفي، وأحد رواة الحديث النبوي.",
+    "en": "Rib'i ibn Hirash al-Absi was a Kufan Successor and one of the narrators of the Prophet's hadith."
   },
   "refs": [
     {
@@ -20630,12 +20630,12 @@ window.STREETS = [
   "ar": "شارع سماك بن سعد",
   "en": "Samak Bin Sa'ad Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "صحابي"
+    "ar": "صحابي أنصاري من الخزرج",
+    "en": "an Ansari Companion of the Khazraj"
   },
   "story": {
-    "en": "Simak ibn Sa'd was a companion of the Prophet Muhammad.",
-    "ar": "سماك بن سعد بن ثعلبة الخزرجي الأنصاري صحابي جليل من قبيلة الخزرج من الأ."
+    "ar": "سماك بن سعد بن ثعلبة الخزرجي الأنصاري، صحابي من الأنصار من قبيلة الخزرج.",
+    "en": "Samak ibn Sa'd ibn Thalaba al-Khazraji al-Ansari, a Companion of the Ansar of the Khazraj tribe."
   },
   "refs": [
     {
