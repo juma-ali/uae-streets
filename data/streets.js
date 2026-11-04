@@ -39673,8 +39673,8 @@ window.STREETS = [
   "ar": "شارع وادِي المَدَينة",
   "en": "Wadi Al Madaynah Street",
   "meaning": {
-    "ar": "«وادِي المَدَينة»: وادي المدينة",
-    "en": "Wadi Al Madaynah: valley of city"
+    "ar": "«المَدَينة» المدينة، و«الوادِي» مسيل الماء الجافّ؛ والاسم يُقرأ «وادي المدينة».",
+    "en": "«Al Madaynah» is the city, and a wadi is a dry watercourse; the name reads «valley of the city»."
   },
   "story": {
     "ar": "«وادِي» وادٍ ومعنى «المَدَينة» فيه «وادي المدينة». والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -41993,8 +41993,8 @@ window.STREETS = [
   "ar": "شارع الجَبَل",
   "en": "Al Jabal Street",
   "meaning": {
-    "ar": "«الجَبَل»: جبل",
-    "en": "Al Jabal: mountain"
+    "ar": "معنى «الجَبَل» المرتفع الشاهق من الأرض، وهو أشهر ما يُسمّى به.",
+    "en": "«Al Jabal» means the high mountain — the commonest word for a raised landform."
   },
   "story": {
     "ar": "«الجَبَل» جبل، والاسم مأخوذ من هذه الكلمة. وهو من الشوارع المُعْتَرِض في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -42009,8 +42009,8 @@ window.STREETS = [
   "ar": "شارع الجَبل الأحمَر",
   "en": "Al Jabal Al Ahmar Street",
   "meaning": {
-    "ar": "«الجَبل الأحمَر»: جبل",
-    "en": "Al Jabal Al Ahmar: mountain"
+    "ar": "معنى «الأحمَر» الأحمرُ من الألوان؛ ولعل الجبل سُمّي بلون تربته أو حجارته.",
+    "en": "«Al Ahmar» is the red colour; the mountain may be named for the hue of its soil or rocks."
   },
   "story": {
     "ar": "«الجَبل» جبل، و«الأحمَر» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في الخَالِدية من إمارة أبوظبي.",
@@ -42025,8 +42025,8 @@ window.STREETS = [
   "ar": "شارع جَبَل أبو السَّماسِم",
   "en": "Jabal Abu As Samasim Street",
   "meaning": {
-    "ar": "«جَبَل أبو السَّماسِم»: جبل",
-    "en": "Jabal Abu As Samasim: mountain"
+    "ar": "عُرف الجبل باسم «أبو السَّماسِم»، وهو اسمٌ لا يُفسَّر في المعاجم.",
+    "en": "The mountain is known as «Abu As Samasim», a name the lexicons do not explain."
   },
   "story": {
     "ar": "«أبو السَّماسِم» اسم الموضع في «جَبَل»؛ و«جَبَل» جبل. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -42041,8 +42041,8 @@ window.STREETS = [
   "ar": "شارع جَبَل أَبو ضِباع",
   "en": "Jabal Abu Diba' Street",
   "meaning": {
-    "ar": "«جَبَل أَبو ضِباع»: جبل",
-    "en": "Jabal Abu Diba': mountain"
+    "ar": "«الضِّباع» جمع «ضبع»، وهي السباع المعروفة؛ و«أَبو ضِباع» اسمٌ لا يُفسَّر.",
+    "en": "«Ad Diba'» is the plural of duba', hyenas; «Abu Diba'» as a name is not explained."
   },
   "story": {
     "ar": "جبل اسمه «جَبَل»، و«أَبو ضِباع» اسم يُنسب إليه. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -42057,8 +42057,8 @@ window.STREETS = [
   "ar": "شارع جَبَل أرحَبة",
   "en": "Jabal Arhabah Street",
   "meaning": {
-    "ar": "«جَبَل أرحَبة»: جبل",
-    "en": "Jabal Arhabah: mountain"
+    "ar": "جبلٌ في نِعْمة، و«أرحَبة» اسمٌ لا يُفسَّر في المعاجم.",
+    "en": "A mountain in Ni'mah; «Arhabah» is a name the lexicons leave unexplained."
   },
   "story": {
     "ar": "«أرحَبة» اسم الموضع، و«جَبَل» جبل من أسماء المواضع. والشارع في نِعْمة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -42073,8 +42073,8 @@ window.STREETS = [
   "ar": "شارع جَبَل أم لَحيُوف",
   "en": "Jabal Um Lahyouf Street",
   "meaning": {
-    "ar": "«جَبَل أم لَحيُوف»: جبل",
-    "en": "Jabal Um Lahyouf: mountain"
+    "ar": "لا يُفسَّر «أم لَحيُوف» في المعاجم، وهو اسمُ هذا الموضع.",
+    "en": "«Um Lahyouf» carries no lexical meaning; it is the name of this place."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«أم لَحيُوف» اسم يُنسب إليه الموضع. وهذا الموضع أخذ منه اسم الشارع في المَنهَل بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -42089,8 +42089,8 @@ window.STREETS = [
   "ar": "شارع جَبل الأبرَق",
   "en": "Jabal Al Abraq Street",
   "meaning": {
-    "ar": "«جَبل الأبرَق»: جبل",
-    "en": "Jabal Al Abraq: mountain"
+    "ar": "عُرف الجبل بلون حجارته؛ و«الأبرَق» الأرضُ ذات الحصى المختلط بياضُه وسوادُه.",
+    "en": "The mountain is known for its stone; «Al Abraq» is ground of mixed white and black pebbles."
   },
   "story": {
     "ar": "«الأبرَق» اسم لا يُفسَّر بالمعجم، و«جَبل» جبل. والاسم من أسماء المواضع، والشارع في الظَّاهْرة، أبوظبي.",
@@ -42105,8 +42105,8 @@ window.STREETS = [
   "ar": "شارع جَبل الأشقَر",
   "en": "Jabal Al Ashqar Street",
   "meaning": {
-    "ar": "«جَبل الأشقَر»: جبل",
-    "en": "Jabal Al Ashqar: mountain"
+    "ar": "جبلٌ في زاخِر، و«الأشقَر» من الألوان: الأصفرُ المائل إلى الحمرة؛ ولعل الجبل سُمّي بلونه.",
+    "en": "«Al Ashqar» is a colour, the yellow tending to red; the mountain may be named for its hue."
   },
   "story": {
     "ar": "جبل «جَبل»، و«الأشقَر» اسمه الذي يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في زاخِر.",
@@ -42121,8 +42121,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الأشكَل",
   "en": "Jabal Al Ashkal Street",
   "meaning": {
-    "ar": "«جَبَل الأشكَل»: جبل",
-    "en": "Jabal Al Ashkal: mountain"
+    "ar": "«الأشكَل» المختلطُ الألوان؛ ولعل الجبل سُمّي بتلوّن صخوره.",
+    "en": "«Al Ashkal» is the variegated one; the mountain may be named for its mixed-coloured rocks."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الأشكَل» اسم للموضع لا للكلمة. والشارع يقع في بني ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -42137,8 +42137,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الأنبر",
   "en": "Jabal Al Anbar Street",
   "meaning": {
-    "ar": "«جَبَل الأنبر»: جبل",
-    "en": "Jabal Al Anbar: mountain"
+    "ar": "بقي «الأنبر» اسمًا لا يُفسَّر، وهو اسمُ هذا الجبل.",
+    "en": "«Al Anbar» remains a name unexplained; it is this mountain's name."
   },
   "story": {
     "ar": "«الأنبر» اسم موضع «جَبَل» جبل، وليس كلمة تُفسَّر. وهو من الشوارع مدينة محمد بن زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -42153,8 +42153,8 @@ window.STREETS = [
   "ar": "شارع جَبل البازم",
   "en": "Jabal Al Bazim Street",
   "meaning": {
-    "ar": "«جَبل البازم»: جبل",
-    "en": "Jabal Al Bazim: mountain"
+    "ar": "الاسم «البازم» اسمٌ للموضع لا للكلمة، ولا يُفسَّر بالمعجم.",
+    "en": "«Al Bazim» is a name for the place, not a word to be explained."
   },
   "story": {
     "ar": "الاسم «جَبل البازم»: جبل، و«البازم» اسم. والاسم يُنسب إلى موضع، والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
@@ -42169,8 +42169,8 @@ window.STREETS = [
   "ar": "شارع جَبل البَحر",
   "en": "Jabal Al Bahr Street",
   "meaning": {
-    "ar": "«جَبل البَحر»: جبل",
-    "en": "Jabal Al Bahr: mountain"
+    "ar": "«البَحر» البحر، والماءُ المالحُ الكثير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Bahr» is the sea, the great body of salt water; the name comes from this word."
   },
   "story": {
     "ar": "«جَبل» جبل، و«البَحر» اسمه، والاسم من أسماء المواضع. وتقع الشوارع التي تحمل هذا الاسم في مدينة محمد بن زايد بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -42185,8 +42185,8 @@ window.STREETS = [
   "ar": "شارع جَبَل البَشِّيَّة",
   "en": "Jabal Al Bashiyah Street",
   "meaning": {
-    "ar": "«جَبَل البَشِّيَّة»: جبل",
-    "en": "Jabal Al Bashiyah: mountain"
+    "ar": "لا يُفسَّر «البَشِّيَّة» في المعاجم، والجبل يحمله في رِمَاح.",
+    "en": "«Al Bashiyyah» is not explained in the lexicons; the mountain carries it in Rimah."
   },
   "story": {
     "ar": "«البَشِّيَّة» من أسماء المواضع، و«جَبَل» جبل يُنسب إليه. وهو الشارع في رِمَاح، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -42201,8 +42201,8 @@ window.STREETS = [
   "ar": "شارع جَبَل البطَحات",
   "en": "Jabal Al Btahat Street",
   "meaning": {
-    "ar": "«جَبَل البطَحات»: جبل",
-    "en": "Jabal Al Btahat: mountain"
+    "ar": "«البطَحات» جمع «بَطْحاء»، وهي الأرضُ الواسعة ذات الحصى؛ ولعل الجبل سُمّي بأرضه.",
+    "en": "«Al Btahat» is the plural of batha', wide pebbly ground; the mountain may be named for its land."
   },
   "story": {
     "ar": "جبل يُسمى «جَبَل»، و«البطَحات» اسم موضعه المألوف. والشارع في الفلاح، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -42217,8 +42217,8 @@ window.STREETS = [
   "ar": "شارع جَبَل البلَيده",
   "en": "Jabal Al Blaydah Street",
   "meaning": {
-    "ar": "«جَبَل البلَيده»: جبل",
-    "en": "Jabal Al Blaydah: mountain"
+    "ar": "«البلَيده» تصغير «بَلِيدة» في الظاهر، وهي القرية الصغيرة.",
+    "en": "«Al Blaydah» looks like the diminutive of balidah, a small town."
   },
   "story": {
     "ar": "«البلَيده» اسم «جَبَل البلَيده»، و«جَبَل» جبل، والاسم مركّب. وهذا الموضع أخذ منه اسم الشارع في الشَّامْخَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -42233,8 +42233,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الثِّيب",
   "en": "Jabal Ath Theeb Street",
   "meaning": {
-    "ar": "«جَبَل الثِّيب»: جبل",
-    "en": "Jabal Ath Theeb: mountain"
+    "ar": "«الثِّيب» لفظةٌ لا يُفسَّر معناها، وهي اسمُ هذا الجبل.",
+    "en": "«Ath Theeb» is a word left unexplained; it is this mountain's name."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الثِّيب» اسم يحمله الموضع. والاسم من أسماء المواضع، والشارع في الشَّوامخ، أبوظبي.",
@@ -42249,8 +42249,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الجَشَّة",
   "en": "Jabal Al Jashah Street",
   "meaning": {
-    "ar": "«جَبَل الجَشَّة»: جبل",
-    "en": "Jabal Al Jashah: mountain"
+    "ar": "موضعٌ يُعرف بـ«الجَشَّة»، ولا يُفسَّر هذا الاسم في المعاجم.",
+    "en": "A place known as «Al Jashah»; the name is not explained in the lexicons."
   },
   "story": {
     "ar": "اسم الموضع «جَبَل» جبل، و«الجَشَّة» اسم ذلك الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَنهَل.",
@@ -42265,8 +42265,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الجِميل",
   "en": "Jabal Al Jimeel Street",
   "meaning": {
-    "ar": "«جَبَل الجِميل»: جبل",
-    "en": "Jabal Al Jimeel: mountain"
+    "ar": "جبلٌ في شعبة الوُطَاه، و«الجِميل» من مادة «جَمُلَ»؛ ولعل الجبل سُمّي لحسن منظره.",
+    "en": "«Al Jimeel» comes from the root jamula; the mountain may be named for its fine view."
   },
   "story": {
     "ar": "«الجِميل» اسم يُضاف إلى «جَبَل» جبل، ولا يُفسَّر بالمعجم. والشارع يقع في شعبة الوُطَاه من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -42281,8 +42281,8 @@ window.STREETS = [
   "ar": "شارع جَبل الجيب",
   "en": "Jabal Al Jeeb Street",
   "meaning": {
-    "ar": "«جَبل الجيب»: جبل",
-    "en": "Jabal Al Jeeb: mountain"
+    "ar": "«الجيب» جيبُ الثوب ونحوه؛ والاسم من هذا اللفظ على الظاهر.",
+    "en": "«Al Jeeb» is the pocket of a garment; the name appears to come from this word."
   },
   "story": {
     "ar": "«جَبل الجيب» جبل، و«الجيب» اسم لا تُفسَّره المعاجم. وهو من الشوارع الوِقن في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -42297,8 +42297,8 @@ window.STREETS = [
   "ar": "شارع جَبل الجير",
   "en": "Jabal Al Jeer Street",
   "meaning": {
-    "ar": "«جَبل الجير»: جبل",
-    "en": "Jabal Al Jeer: mountain"
+    "ar": "«الجير» مادةٌ معروفة تُخلط بالطين؛ ولعل الجبل عُرف بحجارته.",
+    "en": "«Al Jeer» is lime, a known material mixed with clay; the mountain may be known for its stone."
   },
   "story": {
     "ar": "«الجير» اسم الموضع الذي فيه «جَبل» جبل، وليس كلمة تُفسَّر. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -42329,8 +42329,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الحَكِيمة",
   "en": "Jabal Al Hakeemah Street",
   "meaning": {
-    "ar": "«جَبَل الحَكِيمة»: جبل",
-    "en": "Jabal Al Hakeemah: mountain"
+    "ar": "بقي «الحَكِيمة» اسمًا لا يُفسَّر، وهو على وزن «فَعِيلة».",
+    "en": "«Al Hakeemah» is unexplained; it carries the form fa'ilah."
   },
   "story": {
     "ar": "«جَبَل» جبل و«الحَكِيمة» اسم علم للموضع لا يُفسَّر. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -42345,8 +42345,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الحَلِيفة",
   "en": "Jabal Al Haleefah Street",
   "meaning": {
-    "ar": "«جَبَل الحَلِيفة»: جبل",
-    "en": "Jabal Al Haleefah: mountain"
+    "ar": "جبلٌ في بني ياس، و«الحَلِيفة» اسمٌ لا يُفسَّر في المعاجم.",
+    "en": "A mountain in Bani Yas; «Al Haleefah» is a name the lexicons leave unexplained."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الحَلِيفة» يُنسب إليه اسم الموضع. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -42361,8 +42361,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الخَتمة",
   "en": "Jabal Al Khatmah Street",
   "meaning": {
-    "ar": "«جَبَل الخَتمة»: جبل",
-    "en": "Jabal Al Khatmah: mountain"
+    "ar": "معنى «الخَتمة» من «الختم»، ما يُختم به ويُغلق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Khatmah» comes from khatm, the seal; the name belongs to this word."
   },
   "story": {
     "ar": "«جَبَل» جبل في الموضع المعروف بـ«الخَتمة». وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -42377,8 +42377,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الخِشَيم",
   "en": "Jabal Al Khishaym Street",
   "meaning": {
-    "ar": "«جَبَل الخِشَيم»: جبل",
-    "en": "Jabal Al Khishaym: mountain"
+    "ar": "«الخِشَيم» لفظةٌ لا يُفسَّر معناها، وهو اسمُ الموضع.",
+    "en": "«Al Khishaym» carries no lexical meaning; it is the place's name."
   },
   "story": {
     "ar": "«الخِشَيم» اسم موضع «جَبَل»، و«جَبَل» جبل من أسماء المواضع. والشارع في مدينة زايد من إمارة أبوظبي.",
@@ -42393,8 +42393,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الخطيم",
   "en": "Jabal Al Khteem Street",
   "meaning": {
-    "ar": "«جَبَل الخطيم»: جبل",
-    "en": "Jabal Al Khteem: mountain"
+    "ar": "«الخطيم» الأنف؛ والاسم من هذا اللفظ على الظاهر.",
+    "en": "«Al Khteem» is the nose; the name appears to come from this word."
   },
   "story": {
     "ar": "«جَبَل» جبل واسم موضعه «الخطيم»، وليس كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في مدينة شخبوط، أبوظبي.",
@@ -42409,8 +42409,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الدَّعان",
   "en": "Jabal Ad Da'an Street",
   "meaning": {
-    "ar": "«جَبَل الدَّعان»: جبل",
-    "en": "Jabal Ad Da'an: mountain"
+    "ar": "يحمل الجبل اسم «الدَّعان»، وهو اسمٌ لا يُفسَّر بالمعجم.",
+    "en": "The mountain carries the name «Ad Da'an», which is not explained in the lexicons."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الدَّعان» اسم يخصّ الموضع لا كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الفلاح.",
@@ -42425,8 +42425,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الدَّعلة",
   "en": "Jabal Ad Da'lah Street",
   "meaning": {
-    "ar": "«جَبَل الدَّعلة»: جبل",
-    "en": "Jabal Ad Da'lah: mountain"
+    "ar": "«الدَّعلة» اسمٌ للموضع لا يُفسَّر، والجبل في الشَّوامخ.",
+    "en": "«Ad Da'lah» is a place name left unexplained; the mountain stands in Al Shawamekh."
   },
   "story": {
     "ar": "«الدَّعلة» اسم الموضع في «جَبَل»؛ و«جَبَل» جبل. والشارع يقع في الشَّوامخ من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -42441,8 +42441,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الدَّعنه",
   "en": "Jabal Ad Da'nah Street",
   "meaning": {
-    "ar": "«جَبَل الدَّعنه»: جبل",
-    "en": "Jabal Ad Da'nah: mountain"
+    "ar": "مراد «الدَّعنه» أنه اسمٌ بقي على حاله، لا يُفسَّر في المعاجم.",
+    "en": "«Ad Da'nah» has stayed as it is — a name the lexicons do not explain."
   },
   "story": {
     "ar": "جبل اسمه «جَبَل»، و«الدَّعنه» اسم يُنسب إليه. وهو من الشوارع السَّمْحة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -42457,8 +42457,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الدِّعَينة",
   "en": "Jabal Ad Di'aynah Street",
   "meaning": {
-    "ar": "«جَبَل الدِّعَينة»: جبل",
-    "en": "Jabal Ad Di'aynah: mountain"
+    "ar": "«الدِّعَينة» على وزن التصغير في الظاهر، وهو اسمٌ لا يُفسَّر.",
+    "en": "«Ad Di'aynah» has the appearance of a diminutive; the name itself is unexplained."
   },
   "story": {
     "ar": "«الدِّعَينة» اسم الموضع، و«جَبَل» جبل من أسماء المواضع. والاسم يُنسب إلى موضع، والشارع في مدينة شخبوط من إمارة أبوظبي.",
@@ -42473,8 +42473,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الدَّك",
   "en": "Jabal Ad Dak Street",
   "meaning": {
-    "ar": "«جَبَل الدَّك»: جبل",
-    "en": "Jabal Ad Dak: mountain"
+    "ar": "«الدَّكّ» الأرضُ المستوية المرتفعة، من «دَكَّ» الترابَ سوّاه؛ ولعل الجبل سُمّي لاستواء أعلاه.",
+    "en": "«Ad Dak» is level raised ground, from dakka, to pound earth level; the mountain may be named for its flat top."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الدَّك» اسم يُنسب إليه الموضع. وتقع الشوارع التي تحمل هذا الاسم في زاخِر بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -42489,8 +42489,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الدُّورة",
   "en": "Jabal Ad Dourah Street",
   "meaning": {
-    "ar": "«جَبَل الدُّورة»: جبل",
-    "en": "Jabal Ad Dourah: mountain"
+    "ar": "معنى «الدُّورة» ما يَدُور ويُطاف به؛ ولعل الجبل سُمّي لاستدارته.",
+    "en": "«Ad Dourah» means what turns and is circled; the mountain may be named for its roundness."
   },
   "story": {
     "ar": "«الدُّورة» اسم لا يُفسَّر بالمعجم، و«جَبَل» جبل. وهو الشارع في الفلاح، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -42505,8 +42505,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الدِّيرِي",
   "en": "Jabal Ad Deeri Street",
   "meaning": {
-    "ar": "«جَبَل الدِّيرِي»: جبل",
-    "en": "Jabal Ad Deeri: mountain"
+    "ar": "«الدِّيرِي» اسمٌ بقي على حاله لا يُفسَّر، والجبل في مدينة محمد بن زايد.",
+    "en": "«Ad Deeri» is unexplained; the mountain stands in Mohamed Bin Zayed City."
   },
   "story": {
     "ar": "جبل «جَبَل»، و«الدِّيرِي» اسمه الذي يُنسب إليه. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -42521,8 +42521,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الرَّابيه",
   "en": "Jabal Ar Rabyah Street",
   "meaning": {
-    "ar": "«جَبَل الرَّابيه»: جبل",
-    "en": "Jabal Ar Rabyah: mountain"
+    "ar": "معنى «الرَّابيه» التلُّ والمرتفع من الأرض؛ والجبل عند رابية.",
+    "en": "«Ar Rabyah» is the hill, the raised ground; the mountain stands by a rise."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الرَّابيه» اسم للموضع لا للكلمة. وهذا الموضع أخذ منه اسم الشارع في آل نَهيان بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -42537,8 +42537,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الرَّاوت",
   "en": "Jabal Ar Rawt Street",
   "meaning": {
-    "ar": "«جَبَل الرَّاوت»: جبل",
-    "en": "Jabal Ar Rawt: mountain"
+    "ar": "عُرف الجبل بـ«الرَّاوت»، اسمٍ لا يُفسَّر في المعاجم.",
+    "en": "The mountain is known as «Ar Rawt», a name the lexicons do not explain."
   },
   "story": {
     "ar": "«الرَّاوت» اسم موضع «جَبَل» جبل، وليس كلمة تُفسَّر. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -42553,8 +42553,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الرَّايبة",
   "en": "Jabal Ar Raybah Street",
   "meaning": {
-    "ar": "«جَبَل الرَّايبة»: جبل",
-    "en": "Jabal Ar Raybah: mountain"
+    "ar": "«الرَّايبة» عَلَمٌ لا يُفسَّر، وهو اسمُ الجبل.",
+    "en": "«Ar Raybah» has no meaning in the lexicons; it is the mountain's name."
   },
   "story": {
     "ar": "الاسم «جَبَل الرَّايبة»: جبل، و«الرَّايبة» اسم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -42569,8 +42569,8 @@ window.STREETS = [
   "ar": "شارع جَبل الرِّق",
   "en": "Jabal Ar Riq Street",
   "meaning": {
-    "ar": "«جَبل الرِّق»: جبل",
-    "en": "Jabal Ar Riq: mountain"
+    "ar": "«الرِّقّ» الأرضُ اللينة؛ ولعل الجبل سُمّي بأرضٍ يجاوره.",
+    "en": "«Ar Riq» is soft ground; the mountain may be named for the land beside it."
   },
   "story": {
     "ar": "«جَبل» جبل، و«الرِّق» اسمه، والاسم من أسماء المواضع. والشارع يقع في شعبة الوُطَاه من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -42585,8 +42585,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الرَّمِيَّة",
   "en": "Jabal Ar Ramiyah Street",
   "meaning": {
-    "ar": "«جَبَل الرَّمِيَّة»: جبل",
-    "en": "Jabal Ar Ramiyah: mountain"
+    "ar": "جبلٌ في السَّعادة، و«الرَّمِيَّة» موضعُ الرمي أو ما يُرمى؛ والاسم من هذا اللفظ.",
+    "en": "«Ar Ramiyah» is the place of shooting, or what is shot; the name comes from this word."
   },
   "story": {
     "ar": "«الرَّمِيَّة» من أسماء المواضع، و«جَبَل» جبل يُنسب إليه. وهو من الشوارع السَّعادة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -42601,8 +42601,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السَّابه",
   "en": "Jabal As Sabah Street",
   "meaning": {
-    "ar": "«جَبَل السَّابه»: جبل",
-    "en": "Jabal As Sabah: mountain"
+    "ar": "جبلٌ في الشَّامْخَة، و«السَّابه» اسمٌ لا يُفسَّر.",
+    "en": "A mountain in Al Shamkhah; «As Sabah» is a name left unexplained."
   },
   "story": {
     "ar": "جبل يُسمى «جَبَل»، و«السَّابه» اسم موضعه المألوف. والاسم يُنسب إلى موضع، والشارع في الشَّامْخَة من إمارة أبوظبي.",
@@ -42617,8 +42617,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السِّبَيطان",
   "en": "Jabal As Sibaytan Street",
   "meaning": {
-    "ar": "«جَبَل السِّبَيطان»: جبل",
-    "en": "Jabal As Sibaytan: mountain"
+    "ar": "معنى «السِّبَيطان» مثنىٌ في الظاهر، وهو اسمٌ لا يُفسَّر بالموضع.",
+    "en": "«As Sibaytan» looks like a dual form; the place name is unexplained."
   },
   "story": {
     "ar": "«السِّبَيطان» اسم «جَبَل السِّبَيطان»، و«جَبَل» جبل، والاسم مركّب. وتقع الشوارع التي تحمل هذا الاسم في الشَّوامخ بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -42633,8 +42633,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السِّدَيرة",
   "en": "Jabal As Sidayrah Street",
   "meaning": {
-    "ar": "«جَبَل السِّدَيرة»: جبل",
-    "en": "Jabal As Sidayrah: mountain"
+    "ar": "«السِّدَيرة» تصغير سِدرة، والجبل عند شجرة سِدر.",
+    "en": "«As Sidayrah» is the diminutive of sidrah; the mountain stands by a sidr tree."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«السِّدَيرة» اسم يحمله الموضع. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -42649,8 +42649,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السُّطُوح",
   "en": "Jabal As Sutouh Street",
   "meaning": {
-    "ar": "«جَبَل السُّطُوح»: جبل",
-    "en": "Jabal As Sutouh: mountain"
+    "ar": "«السُّطُوح» جمع سطح؛ ولعل الجبل سُمّي لتساوي أعلاه.",
+    "en": "«As Sutuh» is the plural of sath; the mountain may be named for its level summit."
   },
   "story": {
     "ar": "اسم الموضع «جَبَل» جبل، و«السُّطُوح» اسم ذلك الموضع. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -42681,8 +42681,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السَّلوى",
   "en": "Jabal As Salwa Street",
   "meaning": {
-    "ar": "«جَبَل السَّلوى»: جبل",
-    "en": "Jabal As Salwa: mountain"
+    "ar": "«السَّلوى» طائر السُّمانى، أو ما يُسَلّي.",
+    "en": "«As Salwa» is the quail, or that which consoles."
   },
   "story": {
     "ar": "«السَّلوى» اسم يُضاف إلى «جَبَل» جبل، ولا يُفسَّر بالمعجم. والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -42697,8 +42697,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السِّلَيل",
   "en": "Jabal As Silayl Street",
   "meaning": {
-    "ar": "«جَبَل السِّلَيل»: جبل",
-    "en": "Jabal As Silayl: mountain"
+    "ar": "معنى «السِّلَيل» ماءُ الوادي الجاري، أو نسلُ الإنسان؛ والاسم من هذا اللفظ.",
+    "en": "«As Silayl» means running water in a valley, or one's offspring; the name comes from this word."
   },
   "story": {
     "ar": "«جَبَل السِّلَيل» جبل، و«السِّلَيل» اسم لا تُفسَّره المعاجم. والاسم من أسماء المواضع، والشارع في الفلاح، أبوظبي.",
@@ -42713,8 +42713,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السِّلَيوة",
   "en": "Jabal As Silaywah Street",
   "meaning": {
-    "ar": "«جَبَل السِّلَيوة»: جبل",
-    "en": "Jabal As Silaywah: mountain"
+    "ar": "هو «السِّلَيوة» اسمٌ لا يُفسَّر، وهو على وزن التصغير.",
+    "en": "«As Silaywah» is unexplained; it carries the form of a diminutive."
   },
   "story": {
     "ar": "«السِّلَيوة» اسم الموضع الذي فيه «جَبَل» جبل، وليس كلمة تُفسَّر. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -42729,8 +42729,8 @@ window.STREETS = [
   "ar": "شارع جَبَل السُّوَيرة",
   "en": "Jabal As Suwayrah Street",
   "meaning": {
-    "ar": "«جَبَل السُّوَيرة»: جبل",
-    "en": "Jabal As Suwayrah: mountain"
+    "ar": "معنى «السُّوَيرة» تصغير «سَوْرة» على الظاهر؛ وهو اسمٌ لا يُفسَّر بالموضع.",
+    "en": "«As Suwayrah» looks like the diminutive of sawrah; the place name is unexplained."
   },
   "story": {
     "ar": "«جَبَل» جبل و«السُّوَيرة» اسم علم للموضع لا يُفسَّر. والشارع يقع في العَدلَة من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -42761,8 +42761,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الشِّبكة",
   "en": "Jabal Ash Shibkah Street",
   "meaning": {
-    "ar": "«جَبَل الشِّبكة»: جبل",
-    "en": "Jabal Ash Shibkah: mountain"
+    "ar": "«الشِّبكة» ما يُنسج ويُصاد به؛ والاسم من هذا اللفظ.",
+    "en": "«Ash Shibkah» is the net, woven to catch; the name comes from this word."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الشِّبكة» يُنسب إليه اسم الموضع. وتقع الشوارع التي تحمل هذا الاسم في جزيرة ياس بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -42777,8 +42777,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الشُّكُول",
   "en": "Jabal Ash Shukoul Street",
   "meaning": {
-    "ar": "«جَبَل الشُّكُول»: جبل",
-    "en": "Jabal Ash Shukoul: mountain"
+    "ar": "جبلٌ في فَلَج هَزَّاع، و«الشُّكُول» غيرُ مفسَّر في المعاجم، والجبل في فَلَج هَزَّاع.",
+    "en": "«Ash Shukoul» is unexplained; the mountain stands in Falaj Hazza'."
   },
   "story": {
     "ar": "«جَبَل» جبل في الموضع المعروف بـ«الشُّكُول». وهو الشارع في فَلَج هَزَّاع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -42793,8 +42793,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الشُّوع",
   "en": "Jabal Ash Shou' Street",
   "meaning": {
-    "ar": "«جَبَل الشُّوع»: جبل",
-    "en": "Jabal Ash Shou': mountain"
+    "ar": "عُرف الجبل بأشجار «الشُّوع»؛ وهي شجرةُ المورينغا البرية.",
+    "en": "The mountain is known for its «Ash Shou'» trees — the wild moringa."
   },
   "story": {
     "ar": "«الشُّوع» اسم موضع «جَبَل»، و«جَبَل» جبل من أسماء المواضع. والشارع في شعبة الوُطَاه، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -42809,8 +42809,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الشَّوقَة",
   "en": "Jabal Ash Shawqah Street",
   "meaning": {
-    "ar": "«جَبَل الشَّوقَة»: جبل",
-    "en": "Jabal Ash Shawqah: mountain"
+    "ar": "لم يُفسَّر «الشَّوقَة» في المعاجم، وهو اسمُ الموضع.",
+    "en": "«Ash Shawqah» carries no lexical meaning; it is the place's name."
   },
   "story": {
     "ar": "«جَبَل» جبل واسم موضعه «الشَّوقَة»، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في بني ياس بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -42825,8 +42825,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الصَّاطِف",
   "en": "Jabal As Satif Street",
   "meaning": {
-    "ar": "«جَبَل الصَّاطِف»: جبل",
-    "en": "Jabal As Satif: mountain"
+    "ar": "جبلٌ في بني ياس، و«الصَّاطِف» اسمٌ لا يُفسَّر بالمعجم.",
+    "en": "A mountain in Bani Yas; «As Satif» is not explained in the lexicons."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الصَّاطِف» اسم يخصّ الموضع لا كلمة تُفسَّر. والشارع في بني ياس من إمارة أبوظبي.",
@@ -42841,8 +42841,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الصِّبَيطة",
   "en": "Jabal As Sibaytah Street",
   "meaning": {
-    "ar": "«جَبَل الصِّبَيطة»: جبل",
-    "en": "Jabal As Sibaytah: mountain"
+    "ar": "«الصِّبَيطة» تصغيرٌ في الظاهر، وهو اسمٌ لا يُفسَّر.",
+    "en": "«As Sibaytah» appears to be a diminutive; the name is unexplained."
   },
   "story": {
     "ar": "«الصِّبَيطة» اسم الموضع في «جَبَل»؛ و«جَبَل» جبل. والاسم من أسماء المواضع، والشارع في الوِقن، أبوظبي.",
@@ -42857,8 +42857,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الصِّفره",
   "en": "Jabal As Sifrah Street",
   "meaning": {
-    "ar": "«جَبَل الصِّفره»: جبل",
-    "en": "Jabal As Sifrah: mountain"
+    "ar": "سُمّي الجبل بـ«الصِّفره»، ولا يُفسَّر هذا الاسم.",
+    "en": "The mountain carries the name «As Sifrah» in Al Wathbah; the name is not explained."
   },
   "story": {
     "ar": "جبل اسمه «جَبَل»، و«الصِّفره» اسم يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الوَثْبَة.",
@@ -42873,8 +42873,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الضَّاهِر",
   "en": "Jabal Ad Dahir Street",
   "meaning": {
-    "ar": "«جَبَل الضَّاهِر»: جبل",
-    "en": "Jabal Ad Dahir: mountain"
+    "ar": "موضعٌ يُعرف بـ«الضَّاهِر»، ولا يُفسَّر الاسم، وهو اسمُ الجبل.",
+    "en": "«Ad Dahir» is not explained in the lexicons; it is the mountain's name."
   },
   "story": {
     "ar": "«الضَّاهِر» اسم الموضع، و«جَبَل» جبل من أسماء المواضع. والشارع يقع في بني ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -42889,8 +42889,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الطَّفَّة",
   "en": "Jabal At Taffah Street",
   "meaning": {
-    "ar": "«جَبَل الطَّفَّة»: جبل",
-    "en": "Jabal At Taffah: mountain"
+    "ar": "معنى «الطَّفَّة» الحافّة والطرف؛ ولعل الجبل سُمّي لحافّته.",
+    "en": "«At Taffah» is the brim and edge; the mountain may be named for its rim."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الطَّفَّة» اسم يُنسب إليه الموضع. وهو من الشوارع مدينة زايد في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -42937,8 +42937,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الظَّيت",
   "en": "Jabal Adh Dhayt Street",
   "meaning": {
-    "ar": "«جَبَل الظَّيت»: جبل",
-    "en": "Jabal Adh Dhayt: mountain"
+    "ar": "لا يُفسَّر «الظَّيت» في المعاجم، والجبل في فَلَج هَزَّاع.",
+    "en": "«Adh Dhayt» is unexplained; the mountain stands in Falaj Hazza'."
   },
   "story": {
     "ar": "جبل «جَبَل»، و«الظَّيت» اسمه الذي يُنسب إليه. وهو الشارع في فَلَج هَزَّاع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -42953,8 +42953,8 @@ window.STREETS = [
   "ar": "شارع جَبل العتم",
   "en": "Jabal Al 'Itim Street",
   "meaning": {
-    "ar": "«جَبل العتم»: جبل",
-    "en": "Jabal Al 'Itim: mountain"
+    "ar": "«العتم» شدةُ الظلام؛ ولعل الجبل سُمّي لشدة سواده أو ظلّه.",
+    "en": "«Al 'Itim» is deep darkness; the mountain may be named for its dark shade."
   },
   "story": {
     "ar": "«جَبل» جبل، و«العتم» اسم للموضع لا للكلمة. والشارع في الشَّامْخَة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -42969,8 +42969,8 @@ window.STREETS = [
   "ar": "شارع جَبَل العَرفَي",
   "en": "Jabal Al 'Arfay Street",
   "meaning": {
-    "ar": "«جَبَل العَرفَي»: جبل",
-    "en": "Jabal Al 'Arfay: mountain"
+    "ar": "عُرف الجبل بـ«العَرفَي»، اسمٍ لا يُفسَّر في المعاجم.",
+    "en": "The mountain is known as «Al 'Arfay», a name the lexicons do not explain."
   },
   "story": {
     "ar": "«العَرفَي» اسم موضع «جَبَل» جبل، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في نِعْمة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -42985,8 +42985,8 @@ window.STREETS = [
   "ar": "شارع جَبَل العَريش",
   "en": "Jabal Al 'Areesh Street",
   "meaning": {
-    "ar": "«جَبَل العَريش»: جبل",
-    "en": "Jabal Al 'Areesh: mountain"
+    "ar": "«العَريش» البناءُ المسقوف من خشب وسعف؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Areesh» is the roofed arbour of wood and palm fronds; the name comes from this word."
   },
   "story": {
     "ar": "الاسم «جَبَل العَريش»: جبل، و«العَريش» اسم. والاسم من أسماء المواضع، والشارع في فَلَج هَزَّاع، أبوظبي.",
@@ -43001,8 +43001,8 @@ window.STREETS = [
   "ar": "شارع جَبَل العَرِين",
   "en": "Jabal Al 'Areen Street",
   "meaning": {
-    "ar": "«جَبَل العَرِين»: جبل",
-    "en": "Jabal Al 'Areen: mountain"
+    "ar": "«العَرِين» عرينُ الأسد ومأواه؛ ولعل الجبل سُمّي بهذا اللفظ.",
+    "en": "«Al 'Areen» is the lion's lair; the mountain may be named after this word."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«العَرِين» اسمه، والاسم من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -43017,8 +43017,8 @@ window.STREETS = [
   "ar": "شارع جَبَل العِطَيفة",
   "en": "Jabal Al 'Itayfah Street",
   "meaning": {
-    "ar": "«جَبَل العِطَيفة»: جبل",
-    "en": "Jabal Al 'Itayfah: mountain"
+    "ar": "بقي «العِطَيفة» اسمًا لا يُفسَّر، وهو اسمُ الموضع.",
+    "en": "«Al 'Itayfah» has no meaning in the lexicons; it is the place's name."
   },
   "story": {
     "ar": "«العِطَيفة» من أسماء المواضع، و«جَبَل» جبل يُنسب إليه. والشارع يقع في الفلاح من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -43049,8 +43049,8 @@ window.STREETS = [
   "ar": "شارع جَبَل العِقِل",
   "en": "Jabal Al 'Iqil Street",
   "meaning": {
-    "ar": "«جَبَل العِقِل»: جبل",
-    "en": "Jabal Al 'Iqil: mountain"
+    "ar": "الاسم «العِقِل» لفظةٌ لا يُفسَّر معناها، والجبل في الدَّانَةْ.",
+    "en": "«Al 'Iqil» is unexplained; the mountain stands in Al Danah."
   },
   "story": {
     "ar": "جبل يُسمى «جَبَل»، و«العِقِل» اسم موضعه المألوف. والاسم يُنسب إلى موضع، والشارع في الدَّانَةْ من إمارة أبوظبي.",
@@ -43065,8 +43065,8 @@ window.STREETS = [
   "ar": "شارع جَبَل العقَيبات",
   "en": "Jabal Al 'Iqaybat Street",
   "meaning": {
-    "ar": "«جَبَل العقَيبات»: جبل",
-    "en": "Jabal Al 'Iqaybat: mountain"
+    "ar": "جبلٌ في البطين، و«العقَيبات» جمع «عَقِيبة»، وهي الكعب أو التلّة الصغيرة؛ والاسم من هذا اللفظ.",
+    "en": "«Al 'Iqaybat» is the plural of 'aqibah, the heel or a small hill; the name comes from this word."
   },
   "story": {
     "ar": "«العقَيبات» اسم «جَبَل العقَيبات»، و«جَبَل» جبل، والاسم مركّب. وتقع الشوارع التي تحمل هذا الاسم في البطين بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -43081,8 +43081,8 @@ window.STREETS = [
   "ar": "شارع جَبَل العِقيبة",
   "en": "Jabal Al 'Iqeebah Street",
   "meaning": {
-    "ar": "«جَبَل العِقيبة»: جبل",
-    "en": "Jabal Al 'Iqeebah: mountain"
+    "ar": "«العِقيبة» الكعب، والمرتفعُ الصغير؛ والجبل عند عقيبة.",
+    "en": "«Al 'Iqeebah» is the heel, and a small rise; the mountain stands by one."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«العِقيبة» اسم يحمله الموضع. وهو الشارع في المَنهَل، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -43113,8 +43113,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الغَميلة",
   "en": "Jabal Al Ghameelah Street",
   "meaning": {
-    "ar": "«جَبَل الغَميلة»: جبل",
-    "en": "Jabal Al Ghameelah: mountain"
+    "ar": "سُمّي الجبل بـ«الغَميلة»، ولا يُفسَّر هذا الاسم.",
+    "en": "The mountain carries the name «Al Ghameelah» in Al Shamkhah; the name is not explained."
   },
   "story": {
     "ar": "اسم الموضع «جَبَل» جبل، و«الغَميلة» اسم ذلك الموضع. وهذا الموضع أخذ منه اسم الشارع في الشَّامْخَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -43145,8 +43145,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الفرَيد",
   "en": "Jabal Al Firayd Street",
   "meaning": {
-    "ar": "«جَبَل الفرَيد»: جبل",
-    "en": "Jabal Al Firayd: mountain"
+    "ar": "«الفرَيد» الوحيدُ الفريد؛ والاسم من هذا اللفظ على الظاهر.",
+    "en": "«Al Firayd» is the one of its kind; the name appears to come from this word."
   },
   "story": {
     "ar": "«الفرَيد» اسم يُضاف إلى «جَبَل» جبل، ولا يُفسَّر بالمعجم. والاسم من أسماء المواضع، والشارع في بني ياس، أبوظبي.",
@@ -43161,8 +43161,8 @@ window.STREETS = [
   "ar": "شارع جَبَل القَدَح",
   "en": "Jabal Al Qadah Street",
   "meaning": {
-    "ar": "«جَبَل القَدَح»: جبل",
-    "en": "Jabal Al Qadah: mountain"
+    "ar": "معنى «القَدَح» الكأس، والسهمُ الصغير؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qadah» is the cup, and a small arrow; the name comes from this word."
   },
   "story": {
     "ar": "«جَبَل القَدَح» جبل، و«القَدَح» اسم لا تُفسَّره المعاجم. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
@@ -43177,8 +43177,8 @@ window.STREETS = [
   "ar": "شارع جَبَل القِصَيد",
   "en": "Jabal Al Qisayd Street",
   "meaning": {
-    "ar": "«جَبَل القِصَيد»: جبل",
-    "en": "Jabal Al Qisayd: mountain"
+    "ar": "معنى «القِصَيد» القصيدة؛ والاسم من هذا اللفظ على الظاهر.",
+    "en": "«Al Qisayd» means the poem; the name appears to come from this word."
   },
   "story": {
     "ar": "«القِصَيد» اسم الموضع الذي فيه «جَبَل» جبل، وليس كلمة تُفسَّر. والشارع يقع في الروضة الشرقية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -43193,8 +43193,8 @@ window.STREETS = [
   "ar": "شارع جَبَل القَطَّاره",
   "en": "Jabal Al Qattarah Street",
   "meaning": {
-    "ar": "«جَبَل القَطَّاره»: جبل",
-    "en": "Jabal Al Qattarah: mountain"
+    "ar": "جبلٌ في الظَّاهِر، و«القَطَّاره» القطرة، والاسم من هذا اللفظ.",
+    "en": "A mountain in Al Dhahir; «Al Qattarah» is the droplet, and the name comes from it."
   },
   "story": {
     "ar": "«جَبَل» جبل و«القَطَّاره» اسم علم للموضع لا يُفسَّر. وهو من الشوارع الظَّاهِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -43209,8 +43209,8 @@ window.STREETS = [
   "ar": "شارع جَبل القُمَر",
   "en": "Jabal Al Qumar Street",
   "meaning": {
-    "ar": "«جَبل القُمَر»: جبل",
-    "en": "Jabal Al Qumar: mountain"
+    "ar": "«القُمَر» القمرُ المعروف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Qumar» is the moon; the name comes from this word."
   },
   "story": {
     "ar": "«جَبل» جبل، و«القُمَر» يُنسب إليه اسم الموضع. والاسم يُنسب إلى موضع، والشارع في الطِّوَيَّة من إمارة أبوظبي.",
@@ -43225,8 +43225,8 @@ window.STREETS = [
   "ar": "شارع جَبَل القِنان",
   "en": "Jabal Al Qinan Street",
   "meaning": {
-    "ar": "«جَبَل القِنان»: جبل",
-    "en": "Jabal Al Qinan: mountain"
+    "ar": "«القِنان» قممُ الجبال وآكامها؛ ولعل الجبل سُمّي بقممه.",
+    "en": "«Al Qinan» are mountain peaks and ridges; the mountain may be named for its summits."
   },
   "story": {
     "ar": "«جَبَل» جبل في الموضع المعروف بـ«القِنان». وتقع الشوارع التي تحمل هذا الاسم في النَّهضة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -43241,8 +43241,8 @@ window.STREETS = [
   "ar": "شارع جَبَل القُولة",
   "en": "Jabal Al Qoulah Street",
   "meaning": {
-    "ar": "«جَبَل القُولة»: جبل",
-    "en": "Jabal Al Qoulah: mountain"
+    "ar": "سُمّي الجبل بـ«القُولة»، ولا يُفسَّر هذا الاسم.",
+    "en": "The mountain carries the name «Al Qoulah» in Shakhbout City; the name is not explained."
   },
   "story": {
     "ar": "«القُولة» اسم موضع «جَبَل»، و«جَبَل» جبل من أسماء المواضع. وهو الشارع في مدينة شخبوط، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -43257,8 +43257,8 @@ window.STREETS = [
   "ar": "شارع جَبل الكتاب",
   "en": "Jabal Al Kitab Street",
   "meaning": {
-    "ar": "«جَبل الكتاب»: جبل",
-    "en": "Jabal Al Kitab: mountain"
+    "ar": "«الكتاب» الكتابُ المعروف، الجامعُ للمقالات؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kitab» is the book, the written volume; the name comes from this word."
   },
   "story": {
     "ar": "«جَبل» جبل واسم موضعه «الكتاب»، وليس كلمة تُفسَّر. والشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -43273,8 +43273,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الكتيبة",
   "en": "Jabal Al Kiteebah Street",
   "meaning": {
-    "ar": "«جَبَل الكتيبة»: جبل",
-    "en": "Jabal Al Kiteebah: mountain"
+    "ar": "معنى «الكتيبة» الجماعةُ المتماسكة، والقطعةُ المكتنفة؛ والاسم من هذا اللفظ.",
+    "en": "«Al Kiteebah» is the compact band and the clustered piece; the name comes from this word."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الكتيبة» اسم يخصّ الموضع لا كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في الشَّامْخَة بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -43289,8 +43289,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الكِسُوح",
   "en": "Jabal Al Kisouh Street",
   "meaning": {
-    "ar": "«جَبَل الكِسُوح»: جبل",
-    "en": "Jabal Al Kisouh: mountain"
+    "ar": "«الكِسُوح» اسمٌ بقي على حاله لا يُفسَّر، وهو اسمُ الجبل.",
+    "en": "«Al Kisouh» has no meaning in the language; it is the mountain's name."
   },
   "story": {
     "ar": "«الكِسُوح» اسم الموضع في «جَبَل»؛ و«جَبَل» جبل. والاسم من أسماء المواضع، والشارع في جَرْن يَافُور، أبوظبي.",
@@ -43305,8 +43305,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الكِفَيَّات",
   "en": "Jabal Al Kifayat Street",
   "meaning": {
-    "ar": "«جَبَل الكِفَيَّات»: جبل",
-    "en": "Jabal Al Kifayat: mountain"
+    "ar": "«الكِفَيَّات» عَلَمٌ لا يُفسَّر، والجبل في المَسْعُودِي.",
+    "en": "«Al Kifayat» is unexplained; the mountain stands in Al Mas'oudi."
   },
   "story": {
     "ar": "جبل اسمه «جَبَل»، و«الكِفَيَّات» اسم يُنسب إليه. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في المَسْعُودِي.",
@@ -43321,8 +43321,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الكَنتُول",
   "en": "Jabal Al Kantoul Street",
   "meaning": {
-    "ar": "«جَبَل الكَنتُول»: جبل",
-    "en": "Jabal Al Kantoul: mountain"
+    "ar": "«الكَنتُول» اسمٌ بقي على حاله، لا يُفسَّر بالمعجم.",
+    "en": "«Al Kantoul» has stayed as it is — not explained in the lexicons."
   },
   "story": {
     "ar": "«الكَنتُول» اسم الموضع، و«جَبَل» جبل من أسماء المواضع. والشارع يقع في الساد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -43337,8 +43337,8 @@ window.STREETS = [
   "ar": "شارع جَبَل اللَّتَّان",
   "en": "Jabal Al Lattan Street",
   "meaning": {
-    "ar": "«جَبَل اللَّتَّان»: جبل",
-    "en": "Jabal Al Lattan: mountain"
+    "ar": "يُفسَّر «اللَّتَّان» بأنه اسمٌ للموضع لا يُفسَّر، والجبل في الشَّامْخَة.",
+    "en": "«Al Lattan» is a place name left unexplained; the mountain stands in Al Shamkhah."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«اللَّتَّان» اسم يُنسب إليه الموضع. وهو من الشوارع الشَّامْخَة في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -43353,8 +43353,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المخناق",
   "en": "Jabal Al Mikhnaq Street",
   "meaning": {
-    "ar": "«جَبَل المخناق»: جبل",
-    "en": "Jabal Al Mikhnaq: mountain"
+    "ar": "«المخناق» الممرُّ الضيّق، والشيءُ المضيّق؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mikhnaq» is the narrow pass, the tightening; the name comes from this word."
   },
   "story": {
     "ar": "«المخناق» اسم لا يُفسَّر بالمعجم، و«جَبَل» جبل. والاسم يُنسب إلى موضع، والشارع في الفلاح من إمارة أبوظبي.",
@@ -43369,8 +43369,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المَرايغ",
   "en": "Jabal Al Marayigh Street",
   "meaning": {
-    "ar": "«جَبَل المَرايغ»: جبل",
-    "en": "Jabal Al Marayigh: mountain"
+    "ar": "هو «المَرايغ» اسمٌ لا يُفسَّر، وهو اسمُ الموضع.",
+    "en": "«Al Marayigh» carries no lexical meaning; it is the place's name."
   },
   "story": {
     "ar": "جبل «جَبَل»، و«المَرايغ» اسمه الذي يُنسب إليه. وتقع الشوارع التي تحمل هذا الاسم في نِعْمة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -43385,8 +43385,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِربَأ",
   "en": "Jabal Al Mirba-a Street",
   "meaning": {
-    "ar": "«جَبَل المِربَأ»: جبل",
-    "en": "Jabal Al Mirba-a: mountain"
+    "ar": "«المِربَأ» غيرُ مفسَّر في المعاجم، وهو على وزن «مِفْعَل».",
+    "en": "«Al Mirba'» is unexplained; it carries the form mif'al."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«المِربَأ» اسم للموضع لا للكلمة. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -43417,8 +43417,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المَرفَع",
   "en": "Jabal Al Marfa' Street",
   "meaning": {
-    "ar": "«جَبَل المَرفَع»: جبل",
-    "en": "Jabal Al Marfa': mountain"
+    "ar": "جبلٌ في مَزْيَد، و«المَرفَع» موضعُ الرفع والمرتفع؛ ولعل الجبل سُمّي بارتفاعه.",
+    "en": "«Al Marfa'» is the place of raising, the height; the mountain may be named for its rise."
   },
   "story": {
     "ar": "«المَرفَع» اسم موضع «جَبَل» جبل، وليس كلمة تُفسَّر. وهذا الموضع أخذ منه اسم الشارع في مَزْيَد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -43433,8 +43433,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المسيد",
   "en": "Jabal Al Mseed Street",
   "meaning": {
-    "ar": "«جَبَل المسيد»: جبل",
-    "en": "Jabal Al Mseed: mountain"
+    "ar": "سُمّي الجبل بـ«المسيد»، ولا يُفسَّر هذا الاسم.",
+    "en": "The mountain carries the name «Al Mseed» in Jarn Yafour; the name is not explained."
   },
   "story": {
     "ar": "الاسم «جَبَل المسيد»: جبل، و«المسيد» اسم. والاسم من أسماء المواضع، والشارع في جَرْن يَافُور، أبوظبي.",
@@ -43449,8 +43449,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِشِيط",
   "en": "Jabal Al Misheet Street",
   "meaning": {
-    "ar": "«جَبَل المِشِيط»: جبل",
-    "en": "Jabal Al Misheet: mountain"
+    "ar": "لم يُفسَّر «المِشِيط» في المعاجم، والجبل في مدينة محمد بن زايد.",
+    "en": "«Al Misheet» is not explained in the lexicons; the mountain stands in Mohamed Bin Zayed City."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«المِشِيط» اسمه، والاسم من أسماء المواضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة محمد بن زايد.",
@@ -43465,8 +43465,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المضَيكم",
   "en": "Jabal Al Midaykim Street",
   "meaning": {
-    "ar": "«جَبَل المضَيكم»: جبل",
-    "en": "Jabal Al Midaykim: mountain"
+    "ar": "مراد «المضَيكم» أنه اسمٌ للموضع لا للكلمة، ولا يُفسَّر بالمعجم.",
+    "en": "«Al Midaykim» is a name for the place, not a word to be explained."
   },
   "story": {
     "ar": "«المضَيكم» من أسماء المواضع، و«جَبَل» جبل يُنسب إليه. والشارع يقع في بني ياس من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -43481,8 +43481,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِعتِرِض",
   "en": "Jabal Al Mi'tirid Street",
   "meaning": {
-    "ar": "«جَبَل المِعتِرِض»: جبل",
-    "en": "Jabal Al Mi'tirid: mountain"
+    "ar": "«المِعتِرِض» من «اعترضَ»، وهو الآخذُ في العرض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Mi'tirid» comes from i'tarada, to cut across; the name belongs to this word."
   },
   "story": {
     "ar": "جبل يُسمى «جَبَل»، و«المِعتِرِض» اسم موضعه المألوف. وهو من الشوارع مدينة شخبوط في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -43497,8 +43497,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِعراض",
   "en": "Jabal Al Mi'rad Street",
   "meaning": {
-    "ar": "«جَبَل المِعراض»: جبل",
-    "en": "Jabal Al Mi'rad: mountain"
+    "ar": "عُرف الجبل بـ«المِعراض»، اسمٍ لا يُفسَّر في المعاجم.",
+    "en": "The mountain is known as «Al Mi'rad», a name the lexicons do not explain."
   },
   "story": {
     "ar": "«المِعراض» اسم «جَبَل المِعراض»، و«جَبَل» جبل، والاسم مركّب. والاسم يُنسب إلى موضع، والشارع في نَاهِل من إمارة أبوظبي.",
@@ -43513,8 +43513,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِعَيرِض",
   "en": "Jabal Al Mi'ayrid Street",
   "meaning": {
-    "ar": "«جَبَل المِعَيرِض»: جبل",
-    "en": "Jabal Al Mi'ayrid: mountain"
+    "ar": "موضعٌ يُعرف بـ«المِعَيرِض»، ولا يُفسَّر الاسم، والجبل في الفلاح.",
+    "en": "«Al Mi'ayrid» is unexplained; the mountain stands in Al Falah."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«المِعَيرِض» اسم يحمله الموضع. وتقع الشوارع التي تحمل هذا الاسم في الفلاح بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -43529,8 +43529,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِقَشاع",
   "en": "Jabal Al Miqasha' Street",
   "meaning": {
-    "ar": "«جَبَل المِقَشاع»: جبل",
-    "en": "Jabal Al Miqasha': mountain"
+    "ar": "لا يُفسَّر «المِقَشاع» في المعاجم، وهو اسمُ هذا الجبل.",
+    "en": "«Al Miqasha'» is not explained in the lexicons; it is this mountain's name."
   },
   "story": {
     "ar": "اسم الموضع «جَبَل» جبل، و«المِقَشاع» اسم ذلك الموضع. وهو الشارع في فَلَج هَزَّاع، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -43545,8 +43545,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِقصار",
   "en": "Jabal Al Miqsar Street",
   "meaning": {
-    "ar": "«جَبَل المِقصار»: جبل",
-    "en": "Jabal Al Miqsar: mountain"
+    "ar": "بقي «المِقصار» اسمًا لا يُفسَّر، وهو على وزن «مِفْعَل».",
+    "en": "«Al Miqsar» is unexplained; it carries the form mif'al."
   },
   "story": {
     "ar": "«المِقصار» اسم يُضاف إلى «جَبَل» جبل، ولا يُفسَّر بالمعجم. والشارع في الطِّوَيَّة، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -43561,8 +43561,8 @@ window.STREETS = [
   "ar": "شارع جَبل الملُوح",
   "en": "Jabal Al Milouh Street",
   "meaning": {
-    "ar": "«جَبل الملُوح»: جبل",
-    "en": "Jabal Al Milouh: mountain"
+    "ar": "«الملُوح» الكثيرُ المِلح؛ ولعل الجبل سُمّي بملوحة أرضه.",
+    "en": "«Al Milouh» is the salty; the mountain may be named for the salt in its soil."
   },
   "story": {
     "ar": "«جَبل الملُوح» جبل، و«الملُوح» اسم لا تُفسَّره المعاجم. وهذا الموضع أخذ منه اسم الشارع في الفلاح بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -43577,8 +43577,8 @@ window.STREETS = [
   "ar": "شارع جَبَل المِنقاب",
   "en": "Jabal Al Minqab Street",
   "meaning": {
-    "ar": "«جَبَل المِنقاب»: جبل",
-    "en": "Jabal Al Minqab: mountain"
+    "ar": "«المِنقاب» الآلةُ التي يُنقب بها، والممرُّ في الجبل؛ والاسم من هذا اللفظ.",
+    "en": "«Al Minqab» is the pick, and the pass cut through a mountain; the name comes from this word."
   },
   "story": {
     "ar": "«المِنقاب» اسم الموضع الذي فيه «جَبَل» جبل، وليس كلمة تُفسَّر. والشارع في النَّهضة من إمارة أبوظبي.",
@@ -43593,8 +43593,8 @@ window.STREETS = [
   "ar": "شارع جَبَل النِّجد",
   "en": "Jabal An Nijd Street",
   "meaning": {
-    "ar": "«جَبَل النِّجد»: جبل",
-    "en": "Jabal An Nijd: mountain"
+    "ar": "معنى «النِّجد» الأرضُ المرتفعة والطريقُ في الجبل؛ ولعل الجبل سُمّي بعلوّه.",
+    "en": "«An Nijd» is high land and the road through the mountains; the mountain may be named for its height."
   },
   "story": {
     "ar": "«جَبَل» جبل و«النِّجد» اسم علم للموضع لا يُفسَّر. والاسم من أسماء المواضع، والشارع في العامرة، أبوظبي.",
@@ -43609,8 +43609,8 @@ window.STREETS = [
   "ar": "شارع جَبل النِّجيد",
   "en": "Jabal An Nijeed Street",
   "meaning": {
-    "ar": "«جَبل النِّجيد»: جبل",
-    "en": "Jabal An Nijeed: mountain"
+    "ar": "«النِّجيد» لفظةٌ لا يُفسَّر معناها، وهو اسمُ الموضع.",
+    "en": "«An Nijeed» carries no lexical meaning; it is the place's name."
   },
   "story": {
     "ar": "«جَبل» جبل، و«النِّجيد» يُنسب إليه اسم الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في حَدْبَة الزَّعْفَرَانَة.",
@@ -43625,8 +43625,8 @@ window.STREETS = [
   "ar": "شارع جَبَل النِّجَيمات",
   "en": "Jabal An Nijaymat Street",
   "meaning": {
-    "ar": "«جَبَل النِّجَيمات»: جبل",
-    "en": "Jabal An Nijaymat: mountain"
+    "ar": "جبلٌ في المَنهَل، و«النِّجَيمات» تصغيرُ النُّجوم في الظاهر؛ والاسم من هذا اللفظ.",
+    "en": "«An Nijaymat» looks like a diminutive of the stars; the name comes from this form."
   },
   "story": {
     "ar": "«جَبَل» جبل في الموضع المعروف بـ«النِّجَيمات». والشارع يقع في المَنهَل من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -43641,8 +43641,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الهَزم",
   "en": "Jabal Al Hazm Street",
   "meaning": {
-    "ar": "«جَبَل الهَزم»: جبل",
-    "en": "Jabal Al Hazm: mountain"
+    "ar": "معنى «الهَزم» الكسرُ والانكسار، والموضعُ المنخفض؛ والاسم من هذا اللفظ.",
+    "en": "«Al Hazm» means breaking, and a hollow in the ground; the name comes from this word."
   },
   "story": {
     "ar": "«الهَزم» اسم موضع «جَبَل»، و«جَبَل» جبل من أسماء المواضع. وهو من الشوارع زاخِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -43673,8 +43673,8 @@ window.STREETS = [
   "ar": "شارع جَبل الوِشاحات",
   "en": "Jabal Al Wishahat Street",
   "meaning": {
-    "ar": "«جَبل الوِشاحات»: جبل",
-    "en": "Jabal Al Wishahat: mountain"
+    "ar": "«الوِشاحات» جمع «وشاح»، وهو ما يُلتفّ على الكتف؛ والاسم من هذا اللفظ.",
+    "en": "«Al Wishahat» is the plural of wishah, the sash worn on the shoulder; the name comes from this word."
   },
   "story": {
     "ar": "«جَبل» جبل واسم موضعه «الوِشاحات»، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في الفُوعَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -43689,8 +43689,8 @@ window.STREETS = [
   "ar": "شارع جَبَل الوِشَيل",
   "en": "Jabal Al Wishayl Street",
   "meaning": {
-    "ar": "«جَبَل الوِشَيل»: جبل",
-    "en": "Jabal Al Wishayl: mountain"
+    "ar": "معنى «الوِشَيل» تصغير «وشاح» على الظاهر، والجبل في مدينة شخبوط.",
+    "en": "«Al Wishayl» looks like the diminutive of wishah; the mountain stands in Shakhbout City."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«الوِشَيل» اسم يخصّ الموضع لا كلمة تُفسَّر. وهو الشارع في مدينة شخبوط، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -43705,8 +43705,8 @@ window.STREETS = [
   "ar": "شارع جَبَل اليِراب",
   "en": "Jabal Al Yirab Street",
   "meaning": {
-    "ar": "«جَبَل اليِراب»: جبل",
-    "en": "Jabal Al Yirab: mountain"
+    "ar": "يحمل الجبل اسم «اليِراب» في بني ياس، ولا يُفسَّر هذا الاسم.",
+    "en": "The mountain carries the name «Al Yirab» in Bani Yas; the name is not explained."
   },
   "story": {
     "ar": "«اليِراب» اسم الموضع في «جَبَل»؛ و«جَبَل» جبل. والشارع في بني ياس، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -43721,8 +43721,8 @@ window.STREETS = [
   "ar": "شارع جَبَل اليُوازِي",
   "en": "Jabal Al Yuwazi Street",
   "meaning": {
-    "ar": "«جَبَل اليُوازِي»: جبل",
-    "en": "Jabal Al Yuwazi: mountain"
+    "ar": "«اليُوازِي» اسمٌ بقي على حاله لا يُفسَّر، وهو اسمُ الجبل.",
+    "en": "«Al Yuwazi» is not explained in the lexicons; it is the mountain's name."
   },
   "story": {
     "ar": "جبل اسمه «جَبَل»، و«اليُوازِي» اسم يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في الروضة الشرقية بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -43737,8 +43737,8 @@ window.STREETS = [
   "ar": "شارع جَبَل بَديه",
   "en": "Jabal Badiyah Street",
   "meaning": {
-    "ar": "«جَبَل بَديه»: جبل",
-    "en": "Jabal Badiyah: mountain"
+    "ar": "«بَديه» الفلاةُ القفراء، والبَديهةُ ما يُبادر به؛ والاسم من هذا اللفظ.",
+    "en": "«Badiyah» is the desert wilderness, and ready wit; the name comes from this word."
   },
   "story": {
     "ar": "«بَديه» اسم الموضع، و«جَبَل» جبل من أسماء المواضع. والشارع في مْبَزَّرَة الخَضْراء من إمارة أبوظبي.",
@@ -43769,8 +43769,8 @@ window.STREETS = [
   "ar": "شارع جَبَل بو طالِب",
   "en": "Jabal Bu Talib Street",
   "meaning": {
-    "ar": "«جَبَل بو طالِب»: جبل",
-    "en": "Jabal Bu Talib: mountain"
+    "ar": "عُرف الجبل بـ«بو طالِب»، اسمٍ لا يُفسَّر في المعاجم.",
+    "en": "The mountain is known as «Bu Talib», a name the lexicons do not explain."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«بو طالِب» اسم يُنسب إليه الموضع. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في مدينة شخبوط.",
@@ -43785,8 +43785,8 @@ window.STREETS = [
   "ar": "شارع جَبَل بو عِمامة",
   "en": "Jabal Bu 'Imamah Street",
   "meaning": {
-    "ar": "«جَبَل بو عِمامة»: جبل",
-    "en": "Jabal Bu 'Imamah: mountain"
+    "ar": "«بو عِمامة» عَلَمٌ لا يُفسَّر، والجبل في دلما.",
+    "en": "«Bu 'Imamah» is unexplained; the mountain stands in Delma."
   },
   "story": {
     "ar": "«بو عِمامة» اسم لا يُفسَّر بالمعجم، و«جَبَل» جبل. والشارع يقع في دلما من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -43801,8 +43801,8 @@ window.STREETS = [
   "ar": "شارع جَبَل بَيقة",
   "en": "Jabal Bayqah Street",
   "meaning": {
-    "ar": "«جَبَل بَيقة»: جبل",
-    "en": "Jabal Bayqah: mountain"
+    "ar": "هو «بَيقة» اسمٌ لا يُفسَّر، وهو اسمُ الموضع.",
+    "en": "«Bayqah» has no meaning in the lexicons; it is the place's name."
   },
   "story": {
     "ar": "جبل «جَبَل»، و«بَيقة» اسمه الذي يُنسب إليه. وهو من الشوارع المَنهَل في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -43817,8 +43817,8 @@ window.STREETS = [
   "ar": "شارع جَبَل ثانيس",
   "en": "Jabal Thanees Street",
   "meaning": {
-    "ar": "«جَبَل ثانيس»: جبل",
-    "en": "Jabal Thanees: mountain"
+    "ar": "سُمّي الجبل بـ«ثانيس»، ولا يُفسَّر هذا الاسم.",
+    "en": "The mountain carries the name «Thanees» in Mohamed Bin Zayed City; the name is not explained."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«ثانيس» اسم للموضع لا للكلمة. والاسم يُنسب إلى موضع، والشارع في مدينة محمد بن زايد من إمارة أبوظبي.",
@@ -43833,8 +43833,8 @@ window.STREETS = [
   "ar": "شارع جَبَل حَتَّا",
   "en": "Jabal Hatta Street",
   "meaning": {
-    "ar": "«جَبَل حَتَّا»: جبل",
-    "en": "Jabal Hatta: mountain"
+    "ar": "«حَتَّا» اسمٌ معروف للموضع، ولا يُفسَّر بالمعجم.",
+    "en": "«Hatta» is a known place name; the word itself is not explained in the lexicons."
   },
   "story": {
     "ar": "«حَتَّا» اسم موضع «جَبَل» جبل، وليس كلمة تُفسَّر. وتقع الشوارع التي تحمل هذا الاسم في المَنهَل بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -43849,8 +43849,8 @@ window.STREETS = [
   "ar": "شارع جَبَل حُدَيد",
   "en": "Jabal Hudayd Street",
   "meaning": {
-    "ar": "«جَبَل حُدَيد»: جبل",
-    "en": "Jabal Hudayd: mountain"
+    "ar": "«حُدَيد» تصغير «حديد» في الظاهر، والجبل في مدينة محمد بن زايد.",
+    "en": "«Hudayd» looks like the diminutive of hadid, iron; the mountain stands in Mohamed Bin Zayed City."
   },
   "story": {
     "ar": "الاسم «جَبَل حُدَيد»: جبل، و«حُدَيد» اسم. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -43865,8 +43865,8 @@ window.STREETS = [
   "ar": "شارع جَبَل حَسَن",
   "en": "Jabal Hasan Street",
   "meaning": {
-    "ar": "«جَبَل حَسَن»: جبل",
-    "en": "Jabal Hasan: mountain"
+    "ar": "«حَسَن» اسمٌ مألوف لا يُفسَّر بالموضع، والجبل في جزيرة الرِّيم.",
+    "en": "«Hasan» is a familiar name left unexplained as a place name; the mountain stands on Al Reem Island."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«حَسَن» اسمه، والاسم من أسماء المواضع. والشارع في جَزِيرَة الرِّيم، والاسم من أسماء المواضع في إمارة أبوظبي.",
@@ -43881,8 +43881,8 @@ window.STREETS = [
   "ar": "شارع جَبَل حفَّه",
   "en": "Jabal Haffah Street",
   "meaning": {
-    "ar": "«جَبَل حفَّه»: جبل",
-    "en": "Jabal Haffah: mountain"
+    "ar": "«حفَّه» غيرُ مفسَّر في المعاجم، والجبل يحمله في شعاب الأشخر.",
+    "en": "«Haffah» is unexplained; the mountain carries it in Shiab Al Ashkhar."
   },
   "story": {
     "ar": "«حفَّه» من أسماء المواضع، و«جَبَل» جبل يُنسب إليه. وهذا الموضع أخذ منه اسم الشارع في شعاب الأشخر بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -43913,8 +43913,8 @@ window.STREETS = [
   "ar": "شارع جَبَل حَلف",
   "en": "Jabal Half Street",
   "meaning": {
-    "ar": "«جَبَل حَلف»: جبل",
-    "en": "Jabal Half: mountain"
+    "ar": "معنى «حَلف» الحلفُ والعهد، ونباتٌ صحراوي؛ والاسم من هذا اللفظ.",
+    "en": "«Half» is the oath and covenant, and a desert plant; the name comes from this word."
   },
   "story": {
     "ar": "«حَلف» اسم «جَبَل حَلف»، و«جَبَل» جبل، والاسم مركّب. والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في الوَثْبَة.",
@@ -43929,8 +43929,8 @@ window.STREETS = [
   "ar": "شارع جَبَل حَمُوده",
   "en": "Jabal Hamoudah Street",
   "meaning": {
-    "ar": "«جَبَل حَمُوده»: جبل",
-    "en": "Jabal Hamoudah: mountain"
+    "ar": "لم يُفسَّر «حَمُوده» في المعاجم، وهو اسمُ الجبل.",
+    "en": "«Hamoudah» is not explained in the lexicons; it is the mountain's name."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«حَمُوده» اسم يحمله الموضع. والشارع يقع في الروضة الشرقية من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -43945,8 +43945,8 @@ window.STREETS = [
   "ar": "شارع جَبَل حُوق",
   "en": "Jabal Houq Street",
   "meaning": {
-    "ar": "«جَبَل حُوق»: جبل",
-    "en": "Jabal Houq: mountain"
+    "ar": "موضعٌ يُعرف بـ«حُوق»، ولا يُفسَّر الاسم، والجبل في البطين.",
+    "en": "«Houq» is unexplained; the mountain stands in Al Bateen."
   },
   "story": {
     "ar": "اسم الموضع «جَبَل» جبل، و«حُوق» اسم ذلك الموضع. وهو من الشوارع البطين في أبوظبي، والاسم يدل على موضع لا على كلمة.",
@@ -43961,8 +43961,8 @@ window.STREETS = [
   "ar": "شارع جَبَل خِضُور",
   "en": "Jabal Khidour Street",
   "meaning": {
-    "ar": "«جَبَل خِضُور»: جبل",
-    "en": "Jabal Khidour: mountain"
+    "ar": "لا يُفسَّر «خِضُور» في المعاجم، وهو على وزن «فِعول».",
+    "en": "«Khidour» is unexplained; it carries the form fi'ul."
   },
   "story": {
     "ar": "«خِضُور» اسم يُضاف إلى «جَبَل» جبل، ولا يُفسَّر بالمعجم. والاسم يُنسب إلى موضع، والشارع في الصَّارُوج من إمارة أبوظبي.",
@@ -43977,8 +43977,8 @@ window.STREETS = [
   "ar": "شارع جَبَل دِقَيِّق",
   "en": "Jabal Diqayiq Street",
   "meaning": {
-    "ar": "«جَبَل دِقَيِّق»: جبل",
-    "en": "Jabal Diqayiq: mountain"
+    "ar": "«دِقَيِّق» تصغير «دقيق» في الظاهر؛ وهو اسمٌ لا يُفسَّر بالموضع.",
+    "en": "«Diqayyiq» looks like the diminutive of daqiq; the place name is unexplained."
   },
   "story": {
     "ar": "«جَبَل دِقَيِّق» جبل، و«دِقَيِّق» اسم لا تُفسَّره المعاجم. وتقع الشوارع التي تحمل هذا الاسم في الشَّامْخَة بإمارة أبوظبي، والاسم من أسماء المواضع.",
@@ -43993,8 +43993,8 @@ window.STREETS = [
   "ar": "شارع جَبَل ذَيب",
   "en": "Jabal Dhayb Street",
   "meaning": {
-    "ar": "«جَبَل ذَيب»: جبل",
-    "en": "Jabal Dhayb: mountain"
+    "ar": "«ذَيب» الذئبُ في كلام العرب؛ ولعل الجبل سُمّي بهذا اللفظ.",
+    "en": "«Dhayb» is the wolf in Arabic speech; the mountain may be named after it."
   },
   "story": {
     "ar": "«ذَيب» اسم الموضع الذي فيه «جَبَل» جبل، وليس كلمة تُفسَّر. وهو الشارع في مدينة زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
@@ -44025,8 +44025,8 @@ window.STREETS = [
   "ar": "شارع جَبَل رُمَح",
   "en": "Jabal Rumah Street",
   "meaning": {
-    "ar": "«جَبَل رُمَح»: جبل",
-    "en": "Jabal Rumah: mountain"
+    "ar": "«رُمَح» جمع «رمح»، وهي الرماح؛ والاسم من هذا اللفظ.",
+    "en": "«Rumah» is the plural of rumh, spears; the name comes from this word."
   },
   "story": {
     "ar": "«جَبَل» جبل و«رُمَح» اسم علم للموضع لا يُفسَّر. وهذا الموضع أخذ منه اسم الشارع في مدينة زايد بإمارة أبوظبي، وليس كلمة تُفسَّر.",
@@ -44041,8 +44041,8 @@ window.STREETS = [
   "ar": "شارع جَبَل سَدَرِيَّه",
   "en": "Jabal Sadariyah Street",
   "meaning": {
-    "ar": "«جَبَل سَدَرِيَّه»: جبل",
-    "en": "Jabal Sadariyah: mountain"
+    "ar": "معنى «سَدَرِيَّه» نسبةٌ إلى السِّدر على الظاهر، والجبل في الشَّوامخ.",
+    "en": "«Sadariyyah» appears to relate to the sidr tree; the mountain stands in Al Shawamekh."
   },
   "story": {
     "ar": "«جَبَل» جبل، و«سَدَرِيَّه» يُنسب إليه اسم الموضع. والاسم من أسماء المواضع، والشارع في الشَّوامخ، أبوظبي.",
@@ -44057,8 +44057,8 @@ window.STREETS = [
   "ar": "شارع جَبَل سِر",
   "en": "Jabal Sir Street",
   "meaning": {
-    "ar": "«جَبَل سِر»: جبل",
-    "en": "Jabal Sir: mountain"
+    "ar": "«سِر» السرُّ وما يُخفى؛ والاسم من هذا اللفظ على الظاهر.",
+    "en": "«Sir» is the secret, what is hidden; the name appears to come from this word."
   },
   "story": {
     "ar": "«جَبَل» جبل في الموضع المعروف بـ«سِر». والاسم من أسماء المواضع التي تُنسب إليها الشوارع في أبوظبي، والشارع في النَّهضة.",
@@ -44073,8 +44073,8 @@ window.STREETS = [
   "ar": "شارع جَبَل سَعَد",
   "en": "Jabal Sa'ad Street",
   "meaning": {
-    "ar": "«جَبَل سَعَد»: جبل",
-    "en": "Jabal Sa'ad: mountain"
+    "ar": "«سَعَد» اسمٌ مألوف لا يُفسَّر بالموضع، والجبل في زاخِر.",
+    "en": "«Sa'ad» is a familiar name left unexplained as a place name; the mountain stands in Zakhir."
   },
   "story": {
     "ar": "«سَعَد» اسم موضع «جَبَل»، و«جَبَل» جبل من أسماء المواضع. والشارع يقع في زاخِر من إمارة أبوظبي، والاسم مأخوذ من موضع.",
@@ -44089,8 +44089,8 @@ window.STREETS = [
   "ar": "شارع جَبَل سِلاطِين",
   "en": "Jabal Silateen Street",
   "meaning": {
-    "ar": "«جَبَل سِلاطِين»: جبل",
-    "en": "Jabal Silateen: mountain"
+    "ar": "«سِلاطِين» جمع «سلطان»، وهو الحاكم؛ والاسم من هذا اللفظ.",
+    "en": "«Silateen» is the plural of sultan, the ruler; the name comes from this word."
   },
   "story": {
     "ar": "«جَبَل» جبل واسم موضعه «سِلاطِين»، وليس كلمة تُفسَّر. وهو من الشوارع الظَّاهِر في أبوظبي، والاسم يدل على موضع لا على كلمة.",
