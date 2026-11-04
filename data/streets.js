@@ -80281,12 +80281,12 @@ window.STREETS = [
   "ar": "شارع خَبَّة الأشخر",
   "en": "Khabbat Al Ashkhar Street",
   "meaning": {
-    "ar": "«خَبَّة الأشخر»: خُبَّةُ الأَشْخَر",
-    "en": "Khabbat Al Ashkhar: a hollow where water or sand collects"
+    "ar": "خَبّة الأشخر: منخفض من الأرض ينبت فيه شجر الأشخر",
+    "en": "the hollow where the ashkhar shrub grows"
   },
   "story": {
-    "ar": "«خَبَّة» خُبَّة، ومعنى الاسم «خُبَّةُ الأَشْخَر»؛ و«الأشخر» في الاسم. والشارع يقع في الساد من إمارة أبوظبي، والاسم مأخوذ من موضع.",
-    "en": "«Khabbat» is a hollow where water or sand collects; the name means «a hollow where water or sand collects of the ashkhar shrub», and «Al Ashkhar» is in the name. The street lies in Al Sad, in the Emirate of Abu Dhabi."
+    "ar": "«الخَبّة» منخفض من الأرض يجتمع فيه الماء أو الرمل، و«الأشخر» شجر من الفصيلة الدفلية ينبت في الرمل. فاسم الموضع يصفه بنباته. والشارع في الساد بأبوظبي.",
+    "en": "«Al Khabbah» is a hollow where water or sand collects, and «al-ashkhar» is a shrub of the dogbane family (Calotropis) that grows in sand. The place name describes the ground by what grows on it. The street is in As Sad, Abu Dhabi."
   }
 },
 {
@@ -80313,12 +80313,12 @@ window.STREETS = [
   "ar": "شارع خِبَّة المَطارِح",
   "en": "Khibbat Al Matarih Street",
   "meaning": {
-    "ar": "«خِبَّة المَطارِح»: خُبَّةُ مَطَارِحَ مَحْشُوَّة",
-    "en": "Khibbat Al Matarih: a hollow where water or sand collects of bedding; a stuffed mattress"
+    "ar": "خِبّة المَطارِح: منخفض يُلقى فيه المتاع",
+    "en": "the hollow where goods are set down"
   },
   "story": {
-    "ar": "«المَطارِح» في اسم «خِبَّة»، ومعناه «خُبَّةُ مَطَارِحَ مَحْشُوَّة». والاسم يُنسب إلى موضع، والشارع في الفقع من إمارة أبوظبي.",
-    "en": "The name of «Khibbat» means «a hollow where water or sand collects of bedding; a stuffed mattress»: «Al Matarih» completes it. The name is attributed to a site, and the street lies in Al Faqa', in the Emirate of Abu Dhabi."
+    "ar": "«الخِبّة» منخفض من الأرض، و«المَطارِح» جمع مَطْرَح، وهو الموضع الذي يُلقى فيه الشيء أو يُوضع. والشارع في الفقع، أبوظبي.",
+    "en": "«Al Khibbah» is a hollow, and «al-matarih» is the plural of matrah — a place where something is set down. The street is in Al Faqa', Abu Dhabi."
   }
 },
 {
@@ -80345,12 +80345,12 @@ window.STREETS = [
   "ar": "شارع خَبَّة حَمَّد",
   "en": "Khabbat Hammad Street",
   "meaning": {
-    "ar": "«خَبَّة حَمَّد»: خُبَّةُ المَدْح",
-    "en": "Khabbat Hammad: a hollow where water or sand collects of praise"
+    "ar": "خَبّة حَمَّد: منخفض من الأرض يُنسب إلى حَمَّد",
+    "en": "the hollow named after Hammad"
   },
   "story": {
-    "ar": "خُبَّة اسمه «خَبَّة» ومعناه «خُبَّةُ المَدْح»، و«حَمَّد» في الاسم. وهو الشارع في مدينة محمد بن زايد، والاسم من أسماء المواضع التي تعرفها أبوظبي.",
-    "en": "«Khabbat» is a hollow where water or sand collects with the meaning «a hollow where water or sand collects of praise», and «Hammad» is in the name. It is a street in Mohamed Bin Zayed City, the name taken from a place name in the Emirate of Abu Dhabi."
+    "ar": "«الخَبّة» منخفض من الأرض، و«حَمَّد» اسم رجل أُضيف إليه الموضع. والشارع في مدينة محمد بن زايد، أبوظبي.",
+    "en": "«Al Khabbah» is a hollow in the ground, and «Hammad» is a man's name the place was attached to. The street is in Mohamed Bin Zayed City, Abu Dhabi."
   }
 },
 {
