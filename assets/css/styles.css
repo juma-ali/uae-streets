@@ -535,13 +535,25 @@ html[dir="rtl"] .eg-en { text-align: right; }
 html[dir="rtl"] .footer__ext { display: inline-block; transform: scaleX(-1); }
 
 /* The disclosure line: quieter than the base row, and it wraps widely. */
-.footer__ai {
-  margin: 0 0 1.1rem;
-  max-width: 62ch;
-  font-size: .82rem;
-  line-height: 1.65;
-  opacity: .62;
+/* The disclosure line: readable, not a whisper. It carries a claim about how the
+   site is made, so it should not be the faintest text on the page. */
+/* .footer p sets .82rem and a muted colour; this line must win over it. */
+.footer p.footer__ai {
+  margin: 0 0 1.2rem;
+  max-width: 72ch;
+  font-size: .88rem;
+  line-height: 1.7;
+  color: var(--ink-2);
 }
+.footer__ai-link {
+  display: inline-block;
+  margin-inline-start: .35rem;
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: .18em;
+  text-decoration-thickness: 1px;
+}
+.footer__ai-link:hover { color: var(--ink); }
 
 .footer__base {
   display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
