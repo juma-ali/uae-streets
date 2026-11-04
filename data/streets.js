@@ -21715,18 +21715,23 @@ window.STREETS = [
   "id": "abu-malik-al-ash-ari-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبو مالِك الأشعَرِي",
   "en": "Abu Malik Al Ash'ari Street",
   "meaning": {
-    "en": "An Emirati figure of the Ash'ari family",
-    "ar": "شخصية إماراتية من أسرة الاشعري"
+    "ar": "صحابي أشعري، عقده النبي ﷺ على خيل الطلب",
+    "en": "an Ash'ari Companion, placed by the Prophet ﷺ over the pursuit horsemen"
   },
   "story": {
-    "en": "The street carries the name of Abu Malik, an Emirati figure of the Ash'ari family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم ابو مالك الاشعري، وهو شخصية إماراتية من أسرة الاشعري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "كعب بن عاصم أبو مالك الأشعري، صحابي قدم مع الأشعريين في سفينة فأسلم، وصحب النبي محمد ﷺ وغزا معه وروى عنه. عقده النبي ﷺ على خيل الطلب، وأمره أن يطلب هوازن حين انهزمت، وروى عنه أصحاب السنن الأربعة.",
+    "en": "Ka'b ibn Asim Abu Malik al-Ash'ari, a Companion who came with the Ash'aris by ship, accepted Islam, accompanied the Prophet Muhammad ﷺ, fought with him and related hadith from him. The Prophet ﷺ placed him over the pursuit horsemen and ordered him after Hawazin when they broke, and the compilers of the four Sunan works recorded hadith from him."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — أبو مالك الأشعري",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D9%85%D8%A7%D9%84%D9%83_%D8%A7%D9%84%D8%A3%D8%B4%D8%B9%D8%B1%D9%8A"
+    }
+  ]
 },
 {
   "id": "abu-qatadah-al-ansari-street",
