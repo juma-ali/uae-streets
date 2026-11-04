@@ -537,11 +537,18 @@ html[dir="rtl"] .footer__ext { display: inline-block; transform: scaleX(-1); }
 /* The disclosure line: quieter than the base row, and it wraps widely. */
 /* The disclosure line: readable, not a whisper. It carries a claim about how the
    site is made, so it should not be the faintest text on the page. */
-/* .footer p sets .82rem and a muted colour; this line must win over it. */
+/* .footer p sets .82rem and a muted colour; this line must win over it.
+   It is a band of its own: a hairline above, then the small print beneath it,
+   so the disclosure is neither lost between the columns nor glued to them. */
+.footer__disclosure {
+  margin-block-start: 2.2rem;
+  padding-block-start: 1.25rem;
+  border-block-start: 1px solid var(--line);
+}
 .footer p.footer__ai {
-  margin: 0 0 1.2rem;
-  max-width: 72ch;
-  font-size: .88rem;
+  margin: 0;
+  max-width: 78ch;
+  font-size: .86rem;
   line-height: 1.7;
   color: var(--ink-2);
 }
@@ -557,8 +564,8 @@ html[dir="rtl"] .footer__ext { display: inline-block; transform: scaleX(-1); }
 
 .footer__base {
   display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
-  margin-block-start: 2.6rem; padding-block-start: 1.2rem;
-  border-block-start: 1px solid var(--line);
+  margin-block-start: 1.1rem; padding-block-start: 0;
+  border-block-start: 0;
   font-size: .76rem; color: var(--ink-3);
 }
 .footer__top { text-decoration: none; color: var(--ink-3); }
