@@ -19438,17 +19438,21 @@ window.STREETS = [
   "ar": "شارع زَيد بن أسلَم",
   "en": "Zayd Bin Aslam Street",
   "meaning": {
-    "en": "A figure of the early Islamic period",
-    "ar": "تابعي وفقيه مدني، وأحد رواة الحديث النبوي"
+    "ar": "تابعي وفقيه مدني، صاحب تفسير وحلقة في المسجد النبوي",
+    "en": "a Medinan Successor and jurist, with a tafsir and a teaching circle in the Prophet's Mosque"
   },
   "story": {
-    "en": "Zayd ibn Aslam (d. 753) was a Tabi'i.",
-    "ar": "زيد بن أسلم تابعي وفقيه مدني، وأحد رواة الحديث."
+    "ar": "زيد بن أسلم (ت نحو ١٣٦هـ)، تابعي وفقيه من فقهاء المدينة. أبوه أسلم مولى عمر بن الخطاب، فتربّى في البيت العمري وأخذ العلم عن عبدالله بن عمر. كانت له حلقة في المسجد النبوي، وله تفسير للقرآن رواه عنه ابنه عبدالرحمن بن زيد بن أسلم، وله في مسنده أكثر من مائتي حديث.",
+    "en": "Zayd ibn Aslam (d. c. 136 AH) was a Successor and one of the jurists of Medina. His father was Aslam, the freedman of Umar ibn al-Khattab, so he was raised in Umar's household and studied with Abdullah ibn Umar. He held a teaching circle in the Prophet's Mosque, left a tafsir of the Qur'an transmitted by his son Abd al-Rahman ibn Zayd ibn Aslam, and more than two hundred hadith are recorded from him."
   },
   "refs": [
     {
-      "label": "Wikipedia — زيد بن أسلم",
+      "label": "ويكيبيديا العربية — زيد بن أسلم",
       "url": "https://ar.wikipedia.org/wiki/%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A3%D8%B3%D9%84%D9%85"
+    },
+    {
+      "label": "ويكيبيديا العربية — عبد الرحمن بن زيد بن أسلم (راوي تفسيره)",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A8%D9%86_%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A3%D8%B3%D9%84%D9%85"
     }
   ]
 },
