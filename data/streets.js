@@ -21450,18 +21450,23 @@ window.STREETS = [
   "id": "abdulrahman-bin-udays-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرحمن بن عديس",
   "en": "Abdulrahman Bin 'Udays Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي من بَلِيّ، شهد بيعة الرضوان وفتح مصر",
+    "en": "a Companion of the Bali tribe, present at the pledge of Ridwan and the conquest of Egypt"
   },
   "story": {
-    "en": "The street carries the name of عبدالرحمن بن عديس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن عديس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالرحمن بن عديس البلوي، صحابي أسلم قبل صلح الحديبية، وشهد الصلح وبايع النبي محمد ﷺ تحت الشجرة في بيعة الرضوان، ثم شارك في فتح مصر. وذكره المؤرخون في أحداث أواخر خلافة عثمان، واختلفوا في دوره فيها، وتذكر بعض المصادر أنه قُتل نحو سنة ٣٦هـ.",
+    "en": "Abd al-Rahman ibn Udays al-Balawi, a Companion who accepted Islam before the treaty of Hudaybiyya, witnessed the treaty, and gave the pledge of Ridwan to the Prophet Muhammad ﷺ under the tree. He later took part in the conquest of Egypt. Historians mention him among the events at the end of Uthman's caliphate and differ over his role in them; some sources say he was killed around 36 AH."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الرحمن بن عديس",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A8%D9%86_%D8%B9%D8%AF%D9%8A%D8%B3"
+    }
+  ]
 },
 {
   "id": "abdulrahman-bin-al-habeet-street",
