@@ -21406,18 +21406,23 @@ window.STREETS = [
   "id": "abdulrahman-al-awza-i-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرَّحمَن الأوزاعِي",
   "en": "Abdulrahman Al Awza'i Street",
   "meaning": {
-    "en": "An Emirati figure of the Awza'i family",
-    "ar": "شخصية إماراتية من أسرة الاوزاعي"
+    "ar": "إمام أهل الشام في زمانه، وإليه يُنسب المذهب الأوزاعي",
+    "en": "the leading jurist of Syria in his time, after whom the Awza'i school is named"
   },
   "story": {
-    "en": "The street carries the name of Abdulrahman, an Emirati figure of the Awza'i family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عبدالرحمن الاوزاعي، وهو شخصية إماراتية من أسرة الاوزاعي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "أبو عمرو عبدالرحمن بن عمرو الأوزاعي (٨٨–١٥٧هـ)، فقيه ومحدّث من تابعي التابعين، وإمام أهل الشام في زمانه. نُسب إلى قبيلة الأوزاع اليمنية، ووُلد في بعلبك على الأرجح، ونشأ في البقاع ثم بيروت، ومات فيها. وإليه تُنسب مدرسة فقهية عُرفت بالمذهب الأوزاعي.",
+    "en": "Abu Amr Abd al-Rahman ibn Amr al-Awza'i (88–157 AH), a jurist and hadith scholar of the generation after the Successors, and the leading authority of Syria in his time. He was named after the Yemeni tribe of al-Awza', was probably born in Baalbek, grew up in the Biqa' and then Beirut, and died there. The legal school known as the Awza'i madhhab is named after him."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الرحمن الأوزاعي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D9%88%D8%B2%D8%A7%D8%B9%D9%8A"
+    }
+  ]
 },
 {
   "id": "abdulrahman-bin-a-idh-street",
