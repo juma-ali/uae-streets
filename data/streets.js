@@ -21515,18 +21515,23 @@ window.STREETS = [
   "id": "abdulrahman-bin-samurah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرحمن بن سمُرة",
   "en": "Abdulrahman Bin Samurah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي قرشي، والي سجستان، وافتتح سجستان وكابل",
+    "en": "a Qurashi Companion, governor of Sistan, who opened Sistan and Kabul"
   },
   "story": {
-    "en": "The street carries the name of عبدالرحمن بن سمُرة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن سمُرة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالرحمن بن سمرة القرشي العبشمي، صحابي كان اسمه عبد الكعبة فسمّاه النبي محمد ﷺ عبدالرحمن، وأسلم يوم الفتح. شهد غزوة مؤتة، وافتتح سجستان وكابل، وكان والياً على سجستان، وروى عن النبي ﷺ وعن معاذ بن جبل. توفي بالبصرة سنة ٥٠هـ، وقيل ٥١هـ.",
+    "en": "Abd al-Rahman ibn Samura al-Qurashi al-Abshami, a Companion whose name was Abd al-Ka'ba until the Prophet Muhammad ﷺ named him Abd al-Rahman; he accepted Islam on the day of the conquest of Mecca. He was present at the expedition of Mu'ta, opened Sistan and Kabul, served as governor of Sistan, and related hadith from the Prophet ﷺ and from Mu'adh ibn Jabal. He died in Basra in 50 AH, or 51 by another report."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الرحمن بن سمرة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A8%D9%86_%D8%B3%D9%85%D8%B1%D8%A9"
+    }
+  ]
 },
 {
   "id": "abdulrahman-bin-zayd-street",
