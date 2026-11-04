@@ -21428,18 +21428,23 @@ window.STREETS = [
   "id": "abdulrahman-bin-a-idh-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرَّحمَن بن عائِذ",
   "en": "Abdulrahman Bin 'A-idh Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "تابعي من أهل حِمص، ومن كبار رواة الحديث",
+    "en": "a Successor of Homs, among the senior hadith narrators"
   },
   "story": {
-    "en": "The street carries the name of عبدالرَّحمَن بن عائِذ. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالرَّحمَن بن عائِذ، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالرحمن بن عائذ الأزدي، تابعي من أهل حِمص، يُكنّى أبا عبدالله، وعُدّ من كبار التابعين، واختلف العلماء في صحبته. روى عن أنس بن مالك وعلي بن أبي طالب وغيرهما، وأدرك يوم الجماجم سنة ٨٣هـ، وأُتي به الحجاج أسيراً فخلّى سبيله.",
+    "en": "Abd al-Rahman ibn A'idh al-Azdi, a Successor from Homs known by the kunya Abu Abd Allah. He is counted among the senior Successors, and scholars differed over whether he met the Prophet. He related hadith from Anas ibn Malik and Ali ibn Abi Talib among others, lived to see the Battle of al-Jamajim in 83 AH, and was brought captive to al-Hajjaj, who released him."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الرحمن بن عائذ",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A8%D9%86_%D8%B9%D8%A7%D8%A6%D8%B0"
+    }
+  ]
 },
 {
   "id": "abdulrahman-bin-udays-street",
