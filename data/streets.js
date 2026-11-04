@@ -28555,17 +28555,21 @@ window.STREETS = [
   "ar": "شارع أبي بكر بن عياش",
   "en": "Abi Baker Bin Ayash Street",
   "meaning": {
-    "en": "A reciter of the Quran and jurist of Kufa",
-    "ar": "مقرئ وفقيه من الكوفة"
+    "ar": "مقرئ كوفي، أحد راويَي قراءة عاصم، ويُعرف بشعبة",
+    "en": "a Kufan reciter, one of the two transmitters of Asim's reading, known as Shu'ba"
   },
   "story": {
-    "en": "Abu Bakr ibn Ayyash (713–809) was a Kufan reciter, jurist and narrator of hadith, and one of the transmitters of the seven canonical recitations.",
-    "ar": "أبو بكر بن عياش (95–193هـ) مقرئ وفقيه ومحدّث كوفي، وهو أحد رواة القراءات السبعة، قرأ على عاصم بن أبي النجود."
+    "ar": "أبو بكر بن عياش الأسدي الكوفي (٩٥–١٩٣هـ)، مقرئ وفقيه ومحدّث، ذُكر في بعض الروايات باسم «شعبة»، وبه تُعرف إحدى روايتَي قراءة عاصم بن أبي النجود، وقد قرأ عليه عاصماً ثلاث مرات. قرأ عنه الكسائي وغيره، وهو من رواة القراءات السبعة.",
+    "en": "Abu Bakr ibn Ayyash al-Asadi al-Kufi (95–193 AH) was a reciter, jurist and hadith scholar of Kufa. Some reports give his name as «Shu'ba», and under that name one of the two transmissions of Asim ibn Abi al-Najud's reading is known; he read the Qur'an with Asim three times. Al-Kisa'i and others read with him, and he is one of the transmitters of the seven canonical recitations."
   },
   "refs": [
     {
-      "label": "Wikipedia — أبو بكر بن عياش",
+      "label": "ويكيبيديا العربية — أبو بكر بن عياش",
       "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%A8%D9%83%D8%B1_%D8%A8%D9%86_%D8%B9%D9%8A%D8%A7%D8%B4"
+    },
+    {
+      "label": "ويكيبيديا العربية — شعبة بن عياش (الاسم نفسه، يحوّل إلى ترجمته)",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B4%D8%B9%D8%A8%D8%A9_%D8%A8%D9%86_%D8%B9%D9%8A%D8%A7%D8%B4"
     }
   ]
 },
