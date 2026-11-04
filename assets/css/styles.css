@@ -401,9 +401,12 @@ code { font-family: var(--font-mono); font-size: .86em; background: var(--paper-
   line-height: 1.65; color: var(--ink-3); direction: rtl; text-align: left;
   margin-block-start: .3rem;
 }
+/* No line clamp: a clamped line silently cuts the meaning, and Arabic needs
+   more lines than English for the same sentence, so it was Arabic that
+   disappeared first. The card grows instead. */
 .card__meaning {
   font-size: .83rem; font-style: italic; color: var(--ink-3);
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  overflow-wrap: break-word;
 }
 .card__foot {
   margin-block-start: auto; padding-block-start: .7rem;
