@@ -21340,18 +21340,23 @@ window.STREETS = [
   "id": "abdullah-ibn-um-maktoum-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله ابن أم مكتُوم",
   "en": "Abdullah Ibn Um Maktoum Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي أعمى، مؤذّن النبي ﷺ مع بلال، استخلفه على المدينة",
+    "en": "a blind Companion, the Prophet's mu'adhdhin with Bilal, left in charge of Medina"
   },
   "story": {
-    "en": "The street carries the name of عبدالله ابن أم مكتُوم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله ابن أم مكتُوم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدالله بن أم مكتوم العامري القرشي، من السابقين الأولين إلى الإسلام، وابن خال خديجة بنت خويلد. كان أعمى، وكان مؤذّن النبي محمد ﷺ مع بلال بن رباح، ويستخلفه النبي ﷺ على المدينة فيصلّي بالناس في غزواته. وذكر أهل العلم أن سورة عبس نزلت في شأنه.",
+    "en": "Abdullah ibn Umm Maktum al-Amiri al-Qurashi, among the first to accept Islam and a cousin of Khadija bint Khuwaylid. He was blind, and he was the Prophet Muhammad's ﷺ mu'adhdhin together with Bilal ibn Rabah. The Prophet ﷺ would leave him in charge of Medina to lead the prayer during his expeditions. Scholars hold that Surat Abasa was revealed concerning him."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا العربية — عبد الله بن أم مكتوم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%A3%D9%85_%D9%85%D9%83%D8%AA%D9%88%D9%85"
+    }
+  ]
 },
 {
   "id": "abdullah-omran-taryam-street",
