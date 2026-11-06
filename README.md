@@ -46,11 +46,11 @@ quiet.
 |---|---|
 | Named streets | 11,246 |
 | Districts | 456 |
-| Cards with a written story | 8,267 |
+| Cards with a written story | 9,644 |
 | — sourced to a published reference | 1,056 |
-| — recorded accounts | 6,610 |
-| — recorded and nothing claimed | 601 |
-| Streets that carry a meaning | 6,776 |
+| — recorded accounts | 7,997 |
+| — recorded and nothing claimed | 591 |
+| Streets that carry a meaning | 8,158 |
 | Streets with a route number | 387 |
 | Directory pages | 347 |
 
