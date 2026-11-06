@@ -27677,8 +27677,8 @@ window.STREETS = [
     "en": "Al-Majidi ibn Dhahir, an Emirati Nabati poet"
   },
   "story": {
-    "ar": "الماجدي ابن ظاهر، واسمه علي بن ظاهر، شاعر نبطي إماراتي من قبيلة المواجد، عمل بالنخيل وصيد الأسماك وتجارة اللؤلؤ، وشعره في الحكمة ووصف الطبيعة، وتوفي سنة ١٨٧١ ودُفن بالخران.",
-    "en": "Al-Majidi ibn Dhahir, named Ali ibn Dhahir, an Emirati Nabati poet of the Muwaid tribe who worked in palm cultivation, fishing and the pearl trade; he died in 1871 and was buried in Al Kharran, Ras Al Khaimah."
+    "ar": "بن ظاهر هو الماجدي ابن ظاهر، واسمه علي بن ظاهر، شاعر نبطي إماراتي من قبيلة المواجد، عمل بالنخيل وصيد الأسماك وتجارة اللؤلؤ، ونظم في الحكمة ووصف الطبيعة، وتوفي سنة ١٨٧١ ودُفن بالخران. و«بن ظاهر» و«ابن ظاهر» اسمان لرجل واحد.",
+    "en": "Bin Dhahir is Al-Majidi ibn Dhahir, named Ali ibn Dhahir, an Emirati Nabati poet of the Muwaid tribe who worked in palm cultivation, fishing and the pearl trade and wrote on wisdom and the desert; he died in 1871 and was buried in Al Kharran, Ras Al Khaimah. «Bin Dhahir» and «Ibn Dhahir» are two spellings of one man."
   },
   "refs": []
 },
@@ -29366,16 +29366,16 @@ window.STREETS = [
   "id": "amer-bin-abd-amro-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عامر بن عبد عمرو",
   "en": "Amer Bin Abd Amro Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عامر بن عبد عمرو الأنصاري، صحابي",
+    "en": "Amir ibn Abd Amr Al-Ansari, a companion"
   },
   "story": {
-    "en": "The street carries the name of عامر بن عبد عمرو. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عامر بن عبد عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عامر بن عبد عمرو بن عمير الأنصاري الأوس، ويُكنى أبا حبة، صحابي من بني الأوس، ويُقال له عامر بن عمير، روى عن النبي محمد ﷺ وعنه ابن حزم.",
+    "en": "Amir ibn Abd Amr ibn Umayr Al-Ansari of Aws, known as Abu Habah, a companion also called Amir ibn Umayr; he narrated from the Prophet Muhammad (peace be upon him) and Ibn Hazm narrated from him."
   },
   "refs": []
 },
@@ -29461,16 +29461,16 @@ window.STREETS = [
   "id": "amr-bin-abi-al-sarh-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عمرو بن أبي السرح",
   "en": "Amr Bin Abi Al Sarh Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عبد الله بن سعد بن أبي السرح، صحابي",
+    "en": "Abd Allah ibn Sa'd ibn Abi Sarh, a companion"
   },
   "story": {
-    "en": "The street carries the name of عمرو بن أبي السرح. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمرو بن أبي السرح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبد الله بن سعد بن أبي السرح، صحابي وكاتب الوحي، ولاّه عثمان بن عفان على مصر سنة ٢٥ هـ ففتح في عهده إفريقية، وتوفي في عسقلان. ويُرجَّح أن «عمرو بن أبي السرح» على اللوحة تصحيفٌ لاسمه.",
+    "en": "Abd Allah ibn Sa'd ibn Abi Sarh Al-Qurashi, a companion and scribe of the revelation; Uthman ibn Affan appointed him over Egypt in 25 AH, where he opened Ifriqiyah and raided Nubia, and he died in Asqalan. The sign's Amr ibn Abi Sarh is likely a miswriting of his name."
   },
   "refs": []
 },
@@ -29594,16 +29594,16 @@ window.STREETS = [
   "id": "amro-bin-hazem-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عمرو بن حازم",
   "en": "Amro Bin Hazem Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عمرو بن حازم الأنصاري، صحابي",
+    "en": "Amr ibn Hazim Al-Ansari, a companion"
   },
   "story": {
-    "en": "The street carries the name of عمرو بن حازم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمرو بن حازم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عمرو بن حازم الأنصاري، ويُكنى أبا ضمرة، صحابي من بني النجار من الخزرج، بعثه النبي محمد ﷺ إلى اليمن وكتب له كتاباً في الفرائض والديات وأحكام الصدقات، وروى عنه حفيده أبو بكر بن محمد.",
+    "en": "Amr ibn Hazim Al-Ansari, Abu Damrah, a companion of Bani Najjar; the Prophet Muhammad (peace be upon him) sent him to Yemen and wrote him a document on inheritance, blood-money and alms, and his grandson Abu Bakr narrated from him."
   },
   "refs": []
 },
@@ -29730,16 +29730,16 @@ window.STREETS = [
   "id": "autba-bin-al-farqad-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عتبة بن الفرقد",
   "en": "Autba Bin Al Farqad Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عتبة بن فرقد السلمي، صحابي",
+    "en": "Utbah ibn Farqad Al-Sulami, a companion"
   },
   "story": {
-    "en": "The street carries the name of عتبة بن الفرقد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عتبة بن الفرقد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عتبة بن فرقد بن يربوع السلمي، أبو عبد الله، صحابي، شهد غزوة خيبر، ولاّه عمر بن الخطاب على فتوح العراق وأذربيجان، وتوفي في الكوفة بين سنة ٤١ و٥٠ هـ.",
+    "en": "Utbah ibn Farqad ibn Yarbu Al-Sulami, Abu Abd Allah, a companion who witnessed Khaybar; Umar ibn al-Khattab appointed him over the conquests of Iraq and Azerbaijan, and he died in Kufa between 41 and 50 AH."
   },
   "refs": []
 },
@@ -29764,16 +29764,16 @@ window.STREETS = [
   "id": "aws-bin-thabet-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع أوس بن ثابت",
   "en": "Aws Bin Thabet Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "أوس بن ثابت الأنصاري، صحابي",
+    "en": "Aws ibn Thabit Al-Ansari, a companion"
   },
   "story": {
-    "en": "The street carries the name of أوس بن ثابت. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أوس بن ثابت، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أوس بن ثابت الأنصاري الخزرجي، صحابي، أخو حسان بن ثابت ووالد شداد بن أوس، شهد بيعة العقبة الثانية وغزوة بدر، واستُشهد في أحد سنة ٣ هـ على المشهور.",
+    "en": "Aws ibn Thabit Al-Ansari of the Khazraj, a companion, brother of Hassan ibn Thabit and father of Shaddad ibn Aws; he attended the second Pledge of Al-Aqabah and Badr, and was killed at Uhud in 3 AH by the common account."
   },
   "refs": []
 },
@@ -29978,16 +29978,16 @@ window.STREETS = [
   "id": "handhala-bin-al-kateb-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع حنظلة بن الكاتب",
   "en": "Handhala Bin Al Kateb Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "حنظلة بن الربيع، صحابي كاتب",
+    "en": "Handhalah ibn Al-Rabi, a companion and scribe"
   },
   "story": {
-    "en": "The street carries the name of حنظلة بن الكاتب. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حنظلة بن الكاتب، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "حنظلة بن الربيع الأسيدي التميمي، المعروف بحنظلة الكاتب، صحابي، من كتاب الوحي، وابن أخ أكثم بن صيفي، شهد القادسية وفتوح العراق، وتوفي سنة ٥٢ هـ وليس له عقب.",
+    "en": "Handhalah ibn Al-Rabi Al-Asdi Al-Tamimi, known as Handhalah the Scribe, a companion and scribe of the revelation, nephew of Aktham ibn Sayfi; he died in 52 AH leaving no offspring."
   },
   "refs": []
 },
@@ -30012,16 +30012,16 @@ window.STREETS = [
   "id": "hani-e-bin-qubaisa-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع هانئ بن قبيصة",
   "en": "Hani'e Bin Qubaisa Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "هانئ بن قبيصة الشيباني، من سادات بني شيبان",
+    "en": "Hani ibn Qubaysah Al-Shaybani, a notable of Bani Shayban"
   },
   "story": {
-    "en": "The street carries the name of هانئ بن قبيصة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم هانئ بن قبيصة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "هانئ بن قبيصة بن هانئ الشيباني، من سادات بني شيبان، اشتهر بخطبته يوم ذي قار بين العرب والفرس، ووقع أسيراً يوم الغبيطين ثم فُدي، واختلف المؤرخون في إدراكه للإسلام.",
+    "en": "Hani ibn Qubaysah ibn Hani Al-Shaybani, a notable of Bani Shayban, known for his address on the day of Dhi Qar between the Arabs and Persians; historians differ over whether he lived into the Islamic era."
   },
   "refs": []
 },
@@ -30046,16 +30046,16 @@ window.STREETS = [
   "id": "hashim-al-merqal-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع هاشم المرقال",
   "en": "Hashim Al Merqal Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "هاشم بن عتبة الزهري، الملقب بالمرقال",
+    "en": "Hashim ibn Utbah Al-Zuhri, called Al-Mirqal"
   },
   "story": {
-    "en": "The street carries the name of هاشم المرقال. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم هاشم المرقال، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "هاشم بن عتبة بن أبي وقاص الزهري القرشي، الملقب بالمرقال لسرعة مشيه في الحرب، صحابي ابن أخ سعد بن أبي وقاص، أسلم يوم فتح مكة وفقد إحدى عينيه في اليرموك، واستشهد سنة ٣٧ هـ.",
+    "en": "Hashim ibn Utbah ibn Abi Waqqas Al-Zuhri Al-Qurashi, called Al-Mirqal for his speed in war, a companion and nephew of Sa'd ibn Abi Waqqas; he lost an eye at Yarmouk and was killed in 37 AH."
   },
   "refs": []
 },
@@ -30097,16 +30097,16 @@ window.STREETS = [
   "id": "hisham-bin-abdul-rahman-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع هشام بن عبد الرحمن",
   "en": "Hisham bin Abdul Rahman Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "هشام بن عبد الرحمن الداخل، أمير أموي",
+    "en": "Hisham ibn Abd al-Rahman, an Umayyad ruler"
   },
   "story": {
-    "en": "The street carries the name of هشام بن عبد الرحمن. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم هشام بن عبد الرحمن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "هشام بن عبد الرحمن الداخل، ويُعرف بهشام الرضا، ثاني أمراء بني أمية في الأندلس، تولى إمارة قرطبة سنة ١٧٢ هـ بعد وفاة والده، وأدخل المذهب المالكي ووسع مسجد قرطبة، وتوفي سنة ١٨٠ هـ.",
+    "en": "Hisham ibn Abd al-Rahman, known as Hisham Al-Rida, the second Umayyad ruler of Al-Andalus; he took power in Cordoba in 172 AH, introduced the Maliki school and expanded the great mosque, and died in 180 AH."
   },
   "refs": []
 },
@@ -30114,16 +30114,16 @@ window.STREETS = [
   "id": "hudhaifa-bin-mas-oud-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع حذيفة بن مسعود",
   "en": "Hudhaifa Bin Mas'oud Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "حذيفة بن اليمان العبسي، صحابي",
+    "en": "Hudhayfah ibn Al-Yaman Al-Abshi, a companion"
   },
   "story": {
-    "en": "The street carries the name of حذيفة بن مسعود. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حذيفة بن مسعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "حذيفة بن اليمان العبسي، صحابي، شهد غزوة الخندق وسائر المشاهد، وتوفي بالمدائن سنة ٣٦ هـ، ويُرجَّح أن «حذيفة بن مسعود» على اللوحة التباسٌ بينه وبين أبي مسعود الأنصاري.",
+    "en": "Hudhayfah ibn Al-Yaman Al-Abshi, a companion who witnessed the Trench and the other battles, dying in Al-Mada'in in 36 AH; the sign's Hudhayfah ibn Mas'ud is likely a confusion with Abu Mas'ud Al-Ansari."
   },
   "refs": []
 },
@@ -30148,16 +30148,16 @@ window.STREETS = [
   "id": "huratha-bin-al-nuo-man-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع حراثة بن النعمان",
   "en": "Huratha Bin Al Nuo'man Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "حارثة بن النعمان الأنصاري، صحابي",
+    "en": "Harithah ibn Al-Nu'man Al-Ansari, a companion"
   },
   "story": {
-    "en": "The street carries the name of حراثة بن النعمان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حراثة بن النعمان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "حارثة بن النعمان الأنصاري الخزرجي، أبو عبد الله، صحابي من أهل بدر، شهد أحداً والخندق وحنيناً، وعُرف ببرّه بأمه، وتوفي في عهد معاوية. ويُكتب على اللوحة «حراثه» وفي المصادر «حارثة».",
+    "en": "Harithah ibn Al-Nu'man ibn Naf' Al-Ansari of the Khazraj, Abu Abd Allah, a companion of Badr who also witnessed Uhud, the Trench and Hunayn, known for his kindness to his mother; the sign reads Harathah while sources read Harithah."
   },
   "refs": []
 },
@@ -30165,16 +30165,16 @@ window.STREETS = [
   "id": "hussain-al-kandi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع حسين الكندي",
   "en": "Hussain Al Kandi Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "حسين بن علي الكندي، طبيب أكاديمي عماني",
+    "en": "Husayn ibn Ali Al-Kindi, an Omani physician and academic"
   },
   "story": {
-    "en": "The street carries the name of حسين الكندي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم حسين الكندي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الدكتور حسين بن علي الكندي، طبيب وأكاديمي عماني، استشاري أمراض الجهاز التنفسي للأطفال وأستاذ مشارك في جامعة السلطان قابوس، ورئيس سابق للرابطة العمانية للجهاز التنفسي.",
+    "en": "Dr Husayn ibn Ali Al-Kindi, an Omani physician and academic, consultant in paediatric respiratory disease and associate professor at Sultan Qaboos University, and former head of the Omani Respiratory Association."
   },
   "refs": []
 },
@@ -30376,16 +30376,16 @@ window.STREETS = [
   "id": "ibn-dhaher-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع ابن ظاهر",
   "en": "Ibn Dhaher Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "الماجدي ابن ظاهر، شاعر نبطي إماراتي",
+    "en": "Al-Majidi ibn Dhahir, an Emirati Nabati poet"
   },
   "story": {
-    "en": "The street carries the name of ابن ظاهر. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ابن ظاهر، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الماجدي ابن ظاهر، واسمه علي بن ظاهر، شاعر نبطي إماراتي من قبيلة المواجد، عمل بالنخيل وصيد الأسماك وتجارة اللؤلؤ، وشعره في الحكمة ووصف الطبيعة، وتوفي سنة ١٨٧١ ودُفن بالخران.",
+    "en": "Al-Majidi ibn Dhahir, named Ali ibn Dhahir, an Emirati Nabati poet of the Muwaid tribe who worked in palm cultivation, fishing and the pearl trade; he died in 1871 and was buried in Al Kharran."
   },
   "refs": []
 },
@@ -30393,16 +30393,16 @@ window.STREETS = [
   "id": "ibn-dhi-al-burdeen",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "ابن ذي البردين",
   "en": "Ibn Dhi Al Burdeen",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "ابن ذي البردين الهلالي، قائد في القادسية",
+    "en": "Ibn Dhi Al-Burdan Al-Hilali, a commander at Al-Qadisiyyah"
   },
   "story": {
-    "en": "The street carries the name of ابن ذي البردين. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم ابن ذي البردين، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "ابن ذي البردين الهلالي، فارس من بني هلال، من قادة معركة القادسية، اختاره القعقاع بن عمرو لتنفيذ خطة الوصول إلى قائد الفرس رستم. ويُلتبس اسمه أحياناً بذي البردين في الشعر الجاهلي.",
+    "en": "Ibn Dhi Al-Burdan Al-Hilali, a warrior of Bani Hilal and a commander at Al-Qadisiyyah, chosen by Al-Qa'qa to reach the Persian commander Rustam; his name is sometimes confused with Dhi Al-Burdan of pre-Islamic poetry."
   },
   "refs": []
 },
@@ -30568,16 +30568,16 @@ window.STREETS = [
   "id": "jamih-bin-shaddad-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع جامح بن شداد",
   "en": "Jamih Bin Shaddad Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "جامع بن شداد المحاربي، تابعي",
+    "en": "Jami ibn Shaddad Al-Muharibi, a tabi'i"
   },
   "story": {
-    "en": "The street carries the name of جامح بن شداد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم جامح بن شداد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "جامع بن شداد المحاربي، أبو صخرة، تابعي من رواة الحديث بالكوفة، وعنه الأعمش وشعبة بن الحجاج، وتوفي بالكوفة سنة ١١٨ هـ. ويُكتب على اللوحة «جامح» وفي المصادر «جامع».",
+    "en": "Jami ibn Shaddad Al-Muharibi of Kufa, Abu Sakhrat, a tabi'i and hadith narrator; he died in Kufa in 118 AH. The sign reads Jamih while the sources read Jami."
   },
   "refs": []
 },
@@ -30994,16 +30994,16 @@ window.STREETS = [
   "id": "mo-awth-bin-afra-a-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع معوذ بن عفراء",
   "en": "Mo'awth Bin Afra'a Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "معوذ بن عفراء، صحابي من الأنصار",
+    "en": "Mu'awwidh ibn Afra, a companion of the Ansar"
   },
   "story": {
-    "en": "The street carries the name of معوذ بن عفراء. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم معوذ بن عفراء، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "معوِّذ بن الحارث بن رفاعة الأنصاري النجاري، المعروف بمعوذ بن عفراء، صحابي من بني النجار، وأخو معاذ وعوف بني الحارث، شهد غزوة بدر واستُشهد فيها.",
+    "en": "Mu'awwidh ibn Al-Harith ibn Rafi'ah Al-Ansari, known as Mu'awwidh ibn Afra, a companion of Bani Najjar and brother of Mu'adh and Awf; he witnessed Badr and was killed there."
   },
   "refs": []
 },
@@ -31011,16 +31011,16 @@ window.STREETS = [
   "id": "mo-awyah-al-sakoni-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع معاوية السكوني",
   "en": "Mo'awyah Al Sakoni Street",
   "meaning": {
-    "en": "An Emirati figure of the Sakoni family",
-    "ar": "شخصية إماراتية من أسرة السكوني"
+    "ar": "معاوية بن حُدَيج السكوني، قائد عسكري",
+    "en": "Muawiyah ibn Hudayj Al-Sakuni, a military commander"
   },
   "story": {
-    "en": "The street carries the name of Mo'awyah, an Emirati figure of the Sakoni family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم معاويه السكوني، وهو شخصية إماراتية من أسرة السكوني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "معاوية بن حُدَيج بن جفنة السكوني، أبو نعيم، قائد عسكري، اختلف في صحبته، وفتح إفريقية في عهد عثمان بن عفان، وتوفي سنة ٥٢ هـ.",
+    "en": "Muawiyah ibn Hudayj ibn Jafnah Al-Sakuni, Abu Nu'aym, a military commander whose companion status is a matter of differing reports; he opened Ifriqiyah under Uthman ibn Affan and died in 52 AH."
   },
   "refs": []
 },
@@ -31196,16 +31196,16 @@ window.STREETS = [
   "id": "mudlaj-bin-amr-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع مدلاج بن عمرو",
   "en": "Mudlaj Bin Amr Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "مدلاج بن عمرو السلمي، صحابي",
+    "en": "Midlaj ibn Amr Al-Sulami, a companion"
   },
   "story": {
-    "en": "The street carries the name of مدلاج بن عمرو. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مدلاج بن عمرو، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مِدْلاج بن عمرو بن سميط السُّلمي، صحابي من بني سليم، وكان حليفاً لبني عبد شمس، وشهد بدراً وأحداً وسائر المشاهد، وتوفي سنة ٥٠ هـ. ويُروى اسمه «مدلج» بغير ألف.",
+    "en": "Midlaj ibn Amr ibn Samit Al-Sulami, a companion of Bani Sulaym allied with Bani Abd Shams; he witnessed Badr, Uhud and the other battles and died in 50 AH; his name is also read Madlaj without an alif."
   },
   "refs": []
 },
@@ -31213,16 +31213,16 @@ window.STREETS = [
   "id": "mujashe-a-bin-masoud-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع مجاشع بن مسعود",
   "en": "Mujashe'a Bin Masoud Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "مجاشع بن مسعود السلمي، صحابي",
+    "en": "Mujashi ibn Mas'ud Al-Sulami, a companion"
   },
   "story": {
-    "en": "The street carries the name of مجاشع بن مسعود. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم مجاشع بن مسعود، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "مجاشع بن مسعود السلمي، صحابي، أسلم بعد فتح مكة، وشارك في فتوح فارس وغزا مكران وكابل، وروى عنه أبو عثمان النهدي، وتوفي سنة ٣٦ هـ.",
+    "en": "Mujashi ibn Mas'ud Al-Sulami, a companion who embraced Islam after the conquest of Mecca, took part in the Persian conquests and raided Makran and Kabul; Abu Uthman Al-Nahdi narrated from him, and he died in 36 AH."
   },
   "refs": []
 },
@@ -31320,16 +31320,16 @@ window.STREETS = [
   "id": "obaid-bin-hayyan-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عبيد بن حيان",
   "en": "Obaid Bin Hayyan Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عبيد بن حيان، راوٍ للحديث",
+    "en": "Ubayd ibn Hayyan, a hadith narrator"
   },
   "story": {
-    "en": "The street carries the name of عبيد بن حيان. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبيد بن حيان، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبيد بن حيان الجبيلي، راوٍ للحديث من أهل الشام، روى عن مالك بن أنس وعبد الله بن لهيعة، وعنه العباس بن الوليد بن مزيد، ويُخلط أحياناً بغيره ممن يحمل اسم حيان.",
+    "en": "Ubayd ibn Hayyan Al-Jubali, a hadith narrator of the Levant who heard from Malik and Ibn Lahi'ah; he is sometimes confused with others bearing the name Hayyan."
   },
   "refs": []
 },
@@ -31405,16 +31405,16 @@ window.STREETS = [
   "id": "omair-bin-al-hamam-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عمير بن الهمام",
   "en": "Omair Bin Al Hamam Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عمير بن الحمام الأنصاري، صحابي",
+    "en": "Umayr ibn Al-Hamam Al-Ansari, a companion"
   },
   "story": {
-    "en": "The street carries the name of عمير بن الهمام. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عمير بن الهمام، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عمير بن الحمام بن الجموح الأنصاري السلمي، صحابي من الأوس، من السابقين إلى الإسلام، وأول قتيل من الأنصار يوم بدر. ويُكتب على اللوحة «ابن الهمام» وفي المصادر «ابن الحمام».",
+    "en": "Umayr ibn Al-Hamam ibn Al-Jamuh Al-Ansari Al-Sulami, a companion of Aws and an early convert, the first of the Ansar killed at Badr; the sign reads ibn Al-Hammam while sources read ibn Al-Hamam."
   },
   "refs": []
 },
@@ -31473,16 +31473,16 @@ window.STREETS = [
   "id": "omar-al-sahmi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عمر السهمي",
   "en": "Omar Al Sahmi Street",
   "meaning": {
-    "en": "An Emirati figure of the Sahmi family",
-    "ar": "شخصية إماراتية من أسرة السهمي"
+    "ar": "عمرو بن العاص السهمي، صحابي",
+    "en": "Amr ibn Al-As Al-Sahmi, a companion"
   },
   "story": {
-    "en": "The street carries the name of Omar, an Emirati figure of the Sahmi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عمر السهمي، وهو شخصية إماراتية من أسرة السهمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عمرو بن العاص السهمي القرشي، صحابي، أسلم سنة ٨ هـ، وقاد الفتح لمصر وصار أول والٍ عليها وبنى جامعه بالفسطاط، وتوفي سنة ٤٣ هـ. ويُرجَّح أن «عمر السهمي» على اللوحة تصحيفٌ لاسمه.",
+    "en": "Amr ibn Al-As ibn Wa'il Al-Sahmi Al-Qurashi, a companion who embraced Islam in 8 AH, led the conquest of Egypt and became its first governor, building his mosque in Fustat; he died in 43 AH. The sign's Omar Al-Sahmi is likely a miswriting of his name."
   },
   "refs": []
 },
@@ -31636,16 +31636,16 @@ window.STREETS = [
   "id": "otba-bin-arwa-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عتبة بن عروة",
   "en": "Otba Bin Arwa Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عتبة بن عروة الثقفي، صحابي",
+    "en": "Utbah ibn Urwah Al-Thaqafi, a companion"
   },
   "story": {
-    "en": "The street carries the name of عتبة بن عروة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عتبة بن عروة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عتبة بن عروة بن مسعود الثقفي، ذُكر في عداد الصحابة، وروى ابنه عبد الله عنه حديثاً في أحكام شرب الخمر. ويُخلط اسمه أحياناً بعروة بن عتبة الشاعر الجاهلي.",
+    "en": "Utbah ibn Urwah ibn Mas'ud Al-Thaqafi, counted among the companions; his son Abd Allah narrated from him a hadith on the rules of wine; he is sometimes confused with the pre-Islamic poet Urwah ibn Utbah."
   },
   "refs": []
 },
@@ -31687,16 +31687,16 @@ window.STREETS = [
   "id": "otibah-bin-al-nahas-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عتيبة بن النحاس",
   "en": "Otibah Bin Al Nahas Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عتيبة بن النهاس العجلي، من سادات بني عجل",
+    "en": "Utbah ibn Al-Nahhas Al-Ijli, a notable of Bani Ijl"
   },
   "story": {
-    "en": "The street carries the name of عتيبة بن النحاس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عتيبة بن النحاس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عتيبة بن النهاس العجلي، ويُكتب في بعض المصادر النحاس، أدرك الجاهلية والإسلام، وشهد اليمامة مع خالد بن الوليد، وابنه المغيرة تولى قضاء الكوفة، ويُخلط نسبه أحياناً بالحكم بن عتيبة.",
+    "en": "Utbah ibn Al-Nahhas Al-Ijli, also written Al-Nahhas with a different letter, a notable of Bani Ijl who lived into Islam and fought at Al-Yamamah with Khalid ibn al-Walid; he is sometimes confused with Al-Hakam ibn Utaybah."
   },
   "refs": []
 },
@@ -31721,16 +31721,16 @@ window.STREETS = [
   "id": "qais-bin-muhsin-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع قيس بن محسن",
   "en": "Qais Bin Muhsin Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قيس بن مِحصَن الأنصاري، صحابي",
+    "en": "Qays ibn Mihsan Al-Ansari, a companion"
   },
   "story": {
-    "en": "The street carries the name of قيس بن محسن. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم قيس بن محسن، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "قيس بن مِحصَن الأنصاري الخزرجي، صحابي، شهد غزوة بدر وأحداً، ورُوي أنه ممن استخرج السحر من بئر ذروان. ويُرجَّح أن «محسن» على اللوحة تصحيفٌ لـ«محصن».",
+    "en": "Qays ibn Mihsan Al-Ansari of the Khazraj, a companion who witnessed Badr and Uhud and is said to have removed the magic from the well of Dhu Rawan; the sign's Muhsin is likely a miswriting of Mihsan."
   },
   "refs": []
 },
@@ -32408,16 +32408,16 @@ window.STREETS = [
   "id": "sheikh-khalid-bin-mohammed-al-qasimi-road",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "طريق الشيخ خالد بن محمد القاسمي",
   "en": "Sheikh Khalid Bin Mohammed Al Qasimi Road",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "ar": "خالد بن محمد القاسمي، حاكم الشارقة",
+    "en": "Khalid ibn Muhammad Al Qasimi, ruler of Sharjah"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Khalid Bin Mohammed, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "الطريق منسوب إلى الشيخ خالد بن محمد القاسمي، من أسرة القاسمي الحاكمة في الشارقة."
+    "ar": "الشيخ خالد بن محمد بن صقر القاسمي، حاكم الشارقة، تولى الحكم سنة ١٩٦٥ ووقّع الدستور للاتحاد سنة ١٩٧١، وفي عهده أُنشئ ميناء خالد ومطار الشارقة، وتوفي في ٢٤ يناير سنة ١٩٧٢.",
+    "en": "Sheikh Khalid ibn Muhammad ibn Saqr Al Qasimi, the ninth ruler of Sharjah, took power in 1965 and signed the provisional constitution of the union in 1971; Khalid Port and Sharjah Airport were built in his era, and he died on 24 January 1972."
   },
   "refs": []
 },
@@ -32464,16 +32464,16 @@ window.STREETS = [
   "id": "sheikh-khalifa-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع الشيخ خليفة",
   "en": "Sheikh Khalifa Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "خليفة بن زايد آل نهيان، رئيس الإمارات",
+    "en": "Khalifa bin Zayed Al Nahyan, president of the UAE"
   },
   "story": {
-    "en": "The street carries the name of الشيخ خليفة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الشيخ خليفة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الشيخ خليفة بن زايد آل نهيان، ثاني رئيس لدولة الإمارات وحاكم إمارة أبوظبي، وُلد سنة ١٩٤٨ وتولى الرئاسة سنة ٢٠٠٤، وأسس جهاز أبوظبي للاستثمار، وتوفي في ١٣ مايو سنة ٢٠٢٢.",
+    "en": "Sheikh Khalifa bin Zayed Al Nahyan, the second president of the UAE and ruler of Abu Dhabi, born in 1948, acceding in 2004; he founded the Abu Dhabi Investment Authority and died on 13 May 2022."
   },
   "refs": []
 },
@@ -32588,16 +32588,16 @@ window.STREETS = [
   "id": "sheikh-sa-eed-bin-hamad-al-qasimi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع الشيخ سعيد بن حمد القاسمي",
   "en": "Sheikh Sa'eed Bin Hamad Al Qasimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "ar": "سعيد بن حمد القاسمي، حاكم كلباء",
+    "en": "Sa'id ibn Hamad Al Qasimi, ruler of Kalba"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Sa'eed Bin Hamad, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ سعيد بن حمد القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشيخ سعيد بن حمد القاسمي، حاكم إمارة كلباء وتوابعها من سنة ١٩٠٣ إلى سنة ١٩٣٧، وبيته في كلباء كان مقرّاً للحكم وصار متحفاً تراثياً، ومسجدٌ في كلباء منسوب إليه.",
+    "en": "Sheikh Sa'id ibn Hamad Al Qasimi, ruler of Kalba and its dependencies from 1903 to 1937; his house in Kalba, once the seat of rule, is now a heritage museum, and a mosque there is named after him."
   },
   "refs": []
 },
@@ -32656,16 +32656,16 @@ window.STREETS = [
   "id": "sheikh-saud-bin-sultan-al-qasimi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع الشيخ سعود بن سلطان القاسمي",
   "en": "Sheikh Saud Bin Sultan Al Qasimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasimi family",
-    "ar": "شخصية إماراتية من أسرة القاسمي"
+    "ar": "سعود بن سلطان القاسمي، مدير الشارقة الرقمية",
+    "en": "Saud ibn Sultan Al Qasimi, head of Sharjah Digital"
   },
   "story": {
-    "en": "The street carries the name of Sheikh Saud Bin Sultan, an Emirati figure of the Qasimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم الشيخ سعود بن سلطان القاسمي، وهو شخصية إماراتية من أسرة القاسمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "الشيخ سعود بن سلطان القاسمي، مدير عام دائرة الشارقة الرقمية منذ يناير سنة ٢٠٢٤، وكان قبلها مدير مكتب الشارقة الرقمية، ويُشرف على مبادرات التحول الرقمي والأمن السيبراني.",
+    "en": "Sheikh Saud ibn Sultan ibn Muhammad Al Qasimi, director general of the Sharjah Digital Department since January 2024, formerly head of the Sharjah Digital Office; he oversees digital transformation and cybersecurity initiatives in Sharjah."
   },
   "refs": []
 },
