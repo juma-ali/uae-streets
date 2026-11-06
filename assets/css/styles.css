@@ -733,12 +733,21 @@ html[dir="rtl"] .card__ar { text-align: right; }
      hundreds of districts), the wrap cannot shrink, and the whole page scrolls
      sideways with it. */
   .filter-row, .filters .wrap { min-width: 0; max-width: 100%; }
+  /* Seven emirates, five name-types, three provenances: those fit on two or
+     three wrapped lines, and a wrapped row cannot look truncated. Only the
+     district strip can run to hundreds, so only it scrolls sideways — with a
+     fade at each edge, because a half chip with no hint reads as a bug. */
   .chips {
-    overflow-x: auto; flex-wrap: nowrap; padding-block-end: .35rem;
-    scrollbar-width: none; -webkit-overflow-scrolling: touch;
+    flex-wrap: wrap;
     inline-size: 100%; max-inline-size: 100%; min-inline-size: 0;
   }
-  .chips::-webkit-scrollbar { display: none; }
+  #district-chips {
+    flex-wrap: nowrap; overflow-x: auto; padding-block-end: .35rem;
+    scrollbar-width: none; -webkit-overflow-scrolling: touch;
+    mask-image: linear-gradient(to right, transparent 0, #000 6%, #000 94%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0, #000 6%, #000 94%, transparent 100%);
+  }
+  #district-chips::-webkit-scrollbar { display: none; }
   .filters { padding-block: .6rem; }
   .filters[data-expanded="true"] .filter-row { gap: .3rem; }
   .filter-row__label { font-size: .6rem; letter-spacing: .1em; }
