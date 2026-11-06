@@ -20875,18 +20875,23 @@ window.STREETS = [
   "id": "abdah-bin-al-hassas-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدة بن الحساس",
   "en": "Abdah Bin Al Hassas Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي أنصاري، أسَر قيس بن السائب يوم بدر، وقُتل يوم أُحد",
+    "en": "an Ansari Companion who took Qays ibn al-Sa'ib captive at Badr, and was killed at Uhud"
   },
   "story": {
-    "en": "The street carries the name of عبدة بن الحساس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدة بن الحساس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبدة بن الحسحاس، صحابي من الأنصار، وهو ابن عم المجذّر بن زياد وأخوه لأمه. أسَر قيس بن السائب يوم بدر، وقُتل يوم أُحد. وسمّاه ابن إسحاق وأبو معشر «عبادة بن الخشخاش»، فزادا ألفاً وجعلا الحاء خاءً — وهو اختلاف في رسم الاسم لا في صاحبه.",
+    "en": "Abdah ibn al-Hashas was an Ansari Companion, a cousin of al-Mujadhdhar ibn Ziyad and his brother through their mother. He took Qays ibn al-Sa'ib captive at Badr, and was killed at Uhud. Ibn Ishaq and Abu Ma'shar give him as «Ubada ibn al-Khashkhash», adding an alif and reading the ha' as kha' — a difference in how the name is written, not in who the man was."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "أسد الغابة — ابن الأثير، ترجمة «عبدة بن الحسحاس»",
+      "url": "https://read.shamela.ws/book/1559/1134"
+    }
+  ]
 },
 {
   "id": "abdelaziz-sarhan-al-kaabi-street",
