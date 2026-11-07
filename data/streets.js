@@ -15393,17 +15393,17 @@ window.STREETS = [
   "ar": "شارع خالِد بن سلطان",
   "en": "Khalid Bin Sultan Street",
   "meaning": {
-    "en": "An Emirati fashion designer",
-    "ar": "مصمم أزياء إماراتي"
+    "ar": "شقيق الشيخ زايد بن سلطان، ونائب الحكم في أبوظبي",
+    "en": "a brother of Sheikh Zayed and a deputy ruler of Abu Dhabi"
   },
   "story": {
-    "en": "Sheikh Khalid bin Sultan Al Qasimi (1980–2019) was an Emirati fashion designer who founded a fashion house in Sharjah.",
-    "ar": "الشيخ خالد بن سلطان القاسمي (1980–2019م) مصمم أزياء إماراتي، وأسس دار أزياء في الشارقة."
+    "ar": "الشيخ خالد بن سلطان بن زايد الأول، الابن الثالث للشيخ سلطان بن زايد حاكم أبوظبي، والشقيق الأكبر للشيخ زايد بن سلطان آل نهيان. ناب عن أخيه شخبوط في الحكم عند سفره، وكان من المحكمين بين القبائل.",
+    "en": "Sheikh Khalid bin Sultan bin Zayed the First, the third son of Sheikh Sultan bin Zayed, ruler of Abu Dhabi, and the elder brother of Sheikh Zayed bin Sultan Al Nahyan. He deputised for his brother Shakhbut in governing during his travels, and was one of the arbitrators between the tribes."
   },
   "refs": [
     {
-      "label": "Wikipedia — خالد بن سلطان بن محمد القاسمي",
-      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%D9%8A"
+      "label": "دائرة البلديات والنقل — رواد الإمارات: خالد بن سلطان",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/Founding-UAE-Listing-Section/Khalid-Bin-Sultan"
     }
   ]
 },
@@ -32447,18 +32447,23 @@ window.STREETS = [
   "id": "sheikh-khalid-bin-sultan-al-qasimi-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "account",
+  "origin": "documented",
   "ar": "شارع الشيخ خالد بن سلطان القاسمي",
   "en": "Sheikh Khalid Bin Sultan Al Qasimi Street",
   "meaning": {
     "ar": "خالد بن سلطان القاسمي، مصمم أزياء",
-    "en": "Khalid ibn Sultan Al Qasimi, a fashion designer"
+    "en": "Khalid bin Sultan Al Qasimi, a fashion designer"
   },
   "story": {
-    "ar": "الشيخ خالد بن سلطان بن محمد القاسمي، مصمم أزياء، وُلد في الشارقة سنة ١٩٨٠ وأسس علامة «قاسمي» سنة ٢٠٠٨، وترأس مجلس الشارقة للتخطيط العمراني، وتوفي في لندن سنة ٢٠١٩.",
-    "en": "Sheikh Khalid ibn Sultan ibn Muhammad Al Qasimi, a fashion designer born in Sharjah in 1980 who founded the label Qasimi in 2008 and chaired the Sharjah Urban Planning Council; he died in London in 2019."
+    "ar": "الشيخ خالد بن سلطان بن محمد القاسمي (١٩٨٠–٢٠١٩)، نجل حاكم الشارقة، مصمم أزياء أسس علامة «قاسمي» سنة ٢٠٠٨، وترأس مجلس الشارقة للتخطيط العمراني، وتوفي في بريطانيا في ١ يوليو ٢٠١٩.",
+    "en": "Sheikh Khalid bin Sultan bin Muhammad Al Qasimi (1980–2019), a son of the ruler of Sharjah, was a fashion designer who founded the label Qasimi in 2008 and chaired the Sharjah Urban Planning Council; he died in Britain on 1 July 2019."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا — خالد بن سلطان بن محمد القاسمي",
+      "url": "https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D9%84%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%D9%8A"
+    }
+  ]
 },
 {
   "id": "sheikh-khalifa-street",
