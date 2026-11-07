@@ -12610,22 +12610,6 @@ window.STREETS = [
   ]
 },
 {
-  "id": "mubarak-bin-qaran-al-mansouri",
-  "emirate": "abu-dhabi",
-  "category": "person",
-  "origin": "unsourced",
-  "ar": "طريق مبارك بن قرآن المنصوري",
-  "en": "Mubarak Bin Qaran Al Mansouri Road",
-  "meaning": {
-    "ar": "شخص يحمل الشارع اسمه",
-    "en": "A person the street is named after"
-  },
-  "story": {
-    "ar": "يحمل الشارع اسم مبارك بن قرآن المنصوري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
-    "en": "The street carries the name Mubarak Bin Qaran Al Mansouri, which is all the record holds."
-  }
-},
-{
   "id": "mubarak-bin-saeed-al-mansouri",
   "emirate": "abu-dhabi",
   "category": "person",
@@ -15283,17 +15267,21 @@ window.STREETS = [
   "ar": "شارع مبارك بن قرآن المنصوري",
   "en": "Mubarak Bin Qaran Al Mansouri Street",
   "meaning": {
-    "en": "A figure close to Sheikh Zayed from the 1960s",
-    "ar": "من الشخصيات التي رافقت الشيخ زايد"
+    "ar": "مرافق للشيخ زايد، من رجال أبوظبي",
+    "en": "a companion of Sheikh Zayed and one of Abu Dhabi's men"
   },
   "story": {
-    "en": "Mubarak bin Qaran Al Mansouri was an Emirati figure who worked alongside Sheikh Zayed bin Sultan from the early 1960s.",
-    "ar": "مبارك بن قران بن راشد آل مانع المنصوري من الشخصيات الإماراتية التي رافقت الشيخ زايد بن سلطان منذ مطلع الستينيات."
+    "ar": "مبارك بن قرآن بن راشد بن مانع المنذري المنصوري، وُلد سنة ١٩٣٩ تقريباً، وكان مرافقاً للشيخ زايد بن سلطان آل نهيان، وكُرّم بجائزة أبوظبي سنة ٢٠١٧. ويحمل اسمه طريق في غياثي وشارع في مدينة الرياض.",
+    "en": "Mubarak bin Qaran bin Rashid bin Mani' Al Mandhri Al Mansouri, born around 1939, was a companion of Sheikh Zayed bin Sultan Al Nahyan and received the Abu Dhabi Award in 2017. A road in Ghiyathi and a street in Madinat Al Riyad both carry his name."
   },
   "refs": [
     {
-      "label": "Wikipedia — مبارك بن قران المنصوري",
-      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A8%D8%A7%D8%B1%D9%83_%D8%A8%D9%86_%D9%82%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A"
+      "label": "دائرة البلديات والنقل — رواد الإمارات: مبارك بن قرآن المنصوري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/mubarak-bin-qaran-al-mansouri"
+    },
+    {
+      "label": "ويكيبيديا — مبارك بن قرآن المنصوري",
+      "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%A8%D8%A7%D8%B1%D9%83_%D8%A8%D9%86_%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A"
     }
   ]
 },
