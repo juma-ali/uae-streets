@@ -16479,17 +16479,23 @@ window.STREETS = [
   "id": "nassib-bin-ahmed-al-humairi",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع نسيب بن أحمد الحميري",
   "en": "Nassib Bin Ahmed Al Humairi Street",
   "meaning": {
-    "ar": "شخص يحمل الشارع اسمه",
-    "en": "A person the street is named after"
+    "ar": "عضو المجلس الاستشاري الوطني سنة ١٩٧١",
+    "en": "a member of the National Consultative Council in 1971"
   },
   "story": {
-    "ar": "يحمل الشارع اسم نسيب بن أحمد الحميري، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
-    "en": "The street carries the name Nassib Bin Ahmed Al Humairi, which is all the record holds."
-  }
+    "ar": "نصيب بن أحمد بن محمد الحميري، وُلد سنة ١٩٣٠ تقريباً، وكان عضواً في المجلس الاستشاري الوطني سنة ١٩٧١. ويُكتب اسمه على اللوحة «نسيب» بالسين.",
+    "en": "Nassib bin Ahmed bin Muhammad Al Humairi, born around 1930, was a member of the National Consultative Council in 1971. The street sign writes his name «Naseeb» with a sin."
+  },
+  "refs": [
+    {
+      "label": "دائرة البلديات والنقل — رواد الإمارات: نصيب بن أحمد الحميري",
+      "url": "https://pages.dmt.gov.ae/ar/founding-uae/founding-uae-listing-section/nassib-bin-ahmed-al-humairi"
+    }
+  ]
 },
 {
   "id": "obaid-bilartee-al-humairi",
