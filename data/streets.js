@@ -115,10 +115,10 @@ window.STREETS = [
     en: "Electra Street",
     translit: "Shāriʿ al-Electra",
     now: { en: "Zayed The First Street", ar: "شارع زايد الأول" },
-    meaning: { en: "Named for the Electra electronics shop", ar: "نسبة إلى متجر إلكترا للإلكترونيات" },
+    meaning: { en: "Named for the Electra electronics shop", ar: "نسبة إلى متجر «الإلكترا» للإلكترونيات" },
     story: {
       en: "The street is named after Electra, an electronics shop that traded along it and became a familiar local landmark and the symbol of the area. Over the decades the street itself became known for its electrical and electronics shops and its telephone dealerships, which sold at modest prices — an association between the name and trade that residents still make.",
-      ar: "سُمّي الشارع تيمّناً بمتجر «إلكترا» للإلكترونيات الذي كان يعمل على امتداد هذا الطريق، وصار معلماً محلياً مألوفاً ورمزاً للمنطقة. وعلى مدى العقود اشتهر الشارع بكثرة محال الأجهزة الكهربائية والإلكترونية ووكالات بيع الهواتف بأسعار اقتصادية، فارتبط اسمه بالتجارة والتقنية في ذاكرة السكان."
+      ar: "سُمّي الشارع باسم متجر «الإلكترا» للإلكترونيات، الذي كان قائماً في الشارع وصار معلماً مألوفاً ورمزاً للمنطقة. وعلى مدى العقود امتلأ الشارع بمحال الأجهزة الكهربائية والإلكترونية ووكالات بيع الهواتف بأسعار معقولة، فارتبط اسمه في أذهان السكان بالتجارة."
     }
   },
   {
@@ -150,7 +150,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Named for Sheikh Khalifa bin Zayed Al Nahyan (1948–2022), second President of the UAE and ruler of Abu Dhabi. Before the presidency he held the emirate's oil and public-works portfolios. The street crosses the downtown area.",
-    "ar": "سُمّي تيمّناً بالشيخ خليفة بن زايد آل نهيان (1948–2022)، الرئيس الثاني للدولة وحاكم أبوظبي. وقبل الرئاسة تولّى قطاعي النفط والأشغال في الإمارة، ويمرّ الشارع في وسط المدينة."
+    "ar": "سُمّي الشارع باسم الشيخ خليفة بن زايد آل نهيان (1948–2022)، الرئيس الثاني للدولة وحاكم أبوظبي. وقبل الرئاسة تولّى ملفّي النفط والأشغال العامة في الإمارة، ويقطع الشارع وسط المدينة."
   },
   "refs": [
     {
@@ -171,8 +171,8 @@ window.STREETS = [
     translit: "Shāriʿ ash-Shaykh Zāyid",
     meaning: { en: "The founding father, the UAE's first President", ar: "المؤسس وأول رئيس للدولة" },
     story: {
-      en: "Dubai's spine and the longest road in the UAE, E11 is named after Sheikh Zayed bin Sultan Al Nahyan, first President of the UAE and ruler of Abu Dhabi. It was built through the desert in the 1970s and now runs through Dubai's skyscraper corridor.",
-      ar: "يُعدّ شارع الشيخ زايد (E11) أطول طرق الإمارات وعمود دبي الفقري، وقد سُمّي تيمّناً بالشيخ زايد بن سلطان آل نهيان، أول رئيس للدولة وحاكم أبوظبي. وشُقّ عبر الصحراء في سبعينيات القرن الماضي، ويمرّ اليوم بين أبراج دبي."
+      en: "Dubai's spine and one of the longest roads in the UAE, E11 is named after Sheikh Zayed bin Sultan Al Nahyan, first President of the UAE and ruler of Abu Dhabi. It was built through the desert in the 1970s and now runs through Dubai's skyscraper corridor.",
+      ar: "يُعدّ شارع الشيخ زايد (E11) من أطول شوارع الإمارات وعمود دبي الفقري، وقد سُمّي باسم الشيخ زايد بن سلطان آل نهيان، أول رئيس للدولة وحاكم أبوظبي. وشُقّ عبر الصحراء في سبعينيات القرن الماضي، ويمرّ اليوم بين أبراج دبي."
     },
     refs: [{ label: "Khaleej Times — when the road had more camels than cars", url: "https://www.khaleejtimes.com/uae/rewind-50-years-when-dubais-sheikh-zayed-road-had-more-camels-than-cars" }]
   },
@@ -210,7 +210,7 @@ window.STREETS = [
     meaning: { en: "Named after the Jumeirah area", ar: "نسبة إلى منطقة جميرا" },
     story: {
       en: "The street carries the name of the Jumeirah area, where settlement dates back to the 9th to 11th centuries. The Jumeirah Archaeological Site was a major trading station linking Iraq and Oman during the Abbasid Caliphate. For generations the road has marked the life of Dubai's people along the Gulf coast, and it is bound up with the memory of the founding generation.",
-      ar: "يحمل الشارع اسم منطقة جميرا، التي يعود الاستيطان فيها إلى القرنين التاسع والحادي عشر الميلاديين. وكان موقع جميرا الأثري محطة تجارية رئيسية تربط بين العراق وعُمان في زمن الخلافة العباسية. وظلّ الشارع على مدى أجيال شاهداً على حياة أهل دبي على ساحل الخليج العربي، ومرتبطاً بذاكرة جيل المؤسسين."
+      ar: "يحمل الشارع اسم منطقة جميرا، التي يعود الاستيطان فيها إلى ما بين القرنين التاسع والحادي عشر الميلاديين. وكان موقع جميرا الأثري محطة تجارية رئيسية تربط بين العراق وعُمان في زمن الخلافة العباسية. وعلى مدى أجيال رافق الشارع أهل دبي على ساحل الخليج، وظلّ حاضراً في ذاكرة جيل المؤسسين."
     }
   },
   {
@@ -223,11 +223,11 @@ window.STREETS = [
   "translit": "Shāriʿ Banī Yās",
   "meaning": {
     "en": "The road of Bani Yas: the tribe, and the Abu Dhabi district of the same name",
-    "ar": "طريق بني ياس: القبيلة، ومنطقة بني ياس في أبوظبي"
+    "ar": "شارع بني ياس: القبيلة، ومنطقة بني ياس في أبوظبي"
   },
   "story": {
     "en": "Bani Yas is one of the best-known Arab tribes of the Gulf coast and among the most numerous. From the beginning of the modern era until the time of Zayed bin Khalifa it formed the strongest land force in the Emirates, and both the Al Nahyan and Al Maktoum families descend from it. The name also belongs to a large residential and commercial district of Abu Dhabi. In Dubai the road runs along the Deira side of the Creek.",
-    "ar": "بنو ياس قبيلة عربية من أشهر قبائل ساحل الخليج وأكثرها عدداً، وكانت من بداية التاريخ الحديث وإلى عهد زايد بن خليفة (زايد الأول) أكبر قوة برية في الإمارات، ومنها تنحدر أسرتا آل نهيان وآل مكتوم. ويُطلق الاسم أيضاً على منطقة سكنية وتجارية كبيرة في إمارة أبوظبي. وفي دبي يمتد الشارع على جانب خور ديرة."
+    "ar": "بنو ياس قبيلة عربية من أشهر قبائل ساحل الخليج ومن أكثرها عدداً، وكانت منذ مطلع العصر الحديث حتى عهد زايد بن خليفة (زايد الأول) القوة البرية الأقوى في الإمارات، ومنها تنحدر أسرتا آل نهيان وآل مكتوم. ويُطلق الاسم أيضاً على منطقة سكنية وتجارية كبيرة في إمارة أبوظبي. وفي دبي يمتد الشارع على جانب خور ديرة."
   },
   "refs": [
     {
@@ -272,12 +272,12 @@ window.STREETS = [
   "en": "Al Ittihad Road",
   "translit": "Shāriʿ al-Ittiḥād",
   "meaning": {
-    "ar": "«الاتحاد» اتحاد الإمارات السبع عام ١٩٧١",
+    "ar": "«الاتحاد»: اتحاد الإمارات السبع عام 1971",
     "en": "the union of the seven emirates in 1971"
   },
   "story": {
-    "en": "Ittihad means union, and this road — the main artery between Dubai and Sharjah — is named for the 1971 federation that joined the seven emirates. That is also why you will find an Ittihad street in more than one emirate: the word belongs to all of them.",
-    "ar": "«الاتحاد» هو اتحاد الإمارات السبع عام 1971، وهذا الشارع — الشريان الرئيسي بين دبي والشارقة — يحمل ذكرى ذلك الاتحاد. ولهذا تجد شارع «الاتحاد» في أكثر من إمارة: الكلمة ملك للجميع."
+    "en": "Ittihad means union. This road — the main artery between Dubai and Sharjah — is named for the 1971 federation that joined the seven emirates. More than one emirate has a street with this name: the word belongs to all of them.",
+    "ar": "سُمّي الشارع باسم الاتحاد الذي قامت به الإمارات السبع عام 1971، وهو الشريان الرئيسي بين دبي والشارقة. وفي أكثر من إمارة شوارع تحمل الاسم نفسه؛ فالكلمة مشتركة بين الإمارات السبع."
   }
 },
   {
@@ -289,12 +289,12 @@ window.STREETS = [
   "en": "2nd December Street",
   "translit": "Shāriʿ ath-Thānī min Dīsambar",
   "meaning": {
-    "ar": "«الثاني من ديسمبر» يوم إعلان الاتحاد سنة ١٩٧١، وهو اليوم الوطني",
+    "ar": "«الثاني من ديسمبر» يوم إعلان الاتحاد سنة 1971، وهو اليوم الوطني",
     "en": "2 December 1971, the day the union was declared — the national day"
   },
   "story": {
     "en": "The date is the UAE's National Day: 2 December 1971, when the federation was proclaimed. The street had long been known as Al Dhiyafa — 'hospitality' — Road; the renaming turned an ordinary address into a civic anniversary, and older taxi drivers still use both names.",
-    "ar": "التاريخ هو العيد الوطني: الثاني من ديسمبر 1971، يوم إعلان الاتحاد. وكان الشارع يُعرف قبلاً بشارع «الضيافة»، فحوّل تغيير الاسم عنواناً عادياً إلى ذكرى وطنية، وما زال سائقو التاكسي الأقدمون يستخدمون الاسمين."
+    "ar": "التاريخ هو اليوم الوطني: الثاني من ديسمبر 1971، يوم إعلان الاتحاد. وكان الشارع يُعرف قبلاً بشارع «الضيافة»، فحوّل تغيير الاسم عنواناً عادياً إلى ذكرى وطنية، وما زال سائقو التاكسي الأقدمون يستخدمون الاسمين."
   }
 },
   {
@@ -327,7 +327,7 @@ window.STREETS = [
     meaning: { en: "The oud — the trunk of a ghaf tree", ar: "العود: جذع شجرة الغاف" },
     story: {
       en: "Oud Maitha carries the name of Sheikha Maitha bint Obaid Al Falasi, mother of Sheikh Saeed bin Maktoum, ruler of Dubai from 1912 to 1958. She spent the winter in Umm Hurair, and her home stood beside a large ghaf tree — an oud is the trunk of a ghaf that has risen and spread — which took her name. Sheikh Saeed was born in its shade around 1879, in the reign of his grandfather Sheikh Hasher bin Maktoum. The land around her house is still known as Fareej Maitha bint Obaid, and the mooring opposite it on the Creek as Mishra' Maitha.",
-      ar: "يحمل عود ميثاء اسم الشيخة ميثاء بنت عبيد الفلاسي، والدة الشيخ سعيد بن مكتوم حاكم دبي (1912–1958). كانت تقضي الشتاء في أم هرير، وكان مسكنها بجانب شجرة غاف كبيرة حملت اسمها، فالعود جذع الغاف إذا ارتفع وتفرّعت أغصانه. وُلد الشيخ سعيد في ظلالها عام 1879 تقريباً، في عهد جدّه الشيخ حشر بن مكتوم. ولا يزال المكان حول مسكنها يُعرف بفريج ميثاء بنت عبيد، ويقابله على الخور «مِشرَع ميثاء» لوقوف القوارب."
+      ar: "سُمّي عود ميثا باسم الشيخة ميثاء بنت عبيد الفلاسي، والدة الشيخ سعيد بن مكتوم حاكم دبي (1912–1958). كانت تقضي الشتاء في أم هرير، وكان مسكنها بجانب شجرة غاف كبيرة عُرفت باسمها، فالعود جذع الغاف إذا ارتفع وتفرّعت أغصانه. وُلد الشيخ سعيد في ظلالها عام 1879 تقريباً، في عهد جدّه الشيخ حشر بن مكتوم، ولا يزال المكان حول مسكنها يُعرف بفريج ميثاء بنت عبيد، ويقابله على الخور «مِشرَع ميثاء» لوقوف القوارب."
     }
   },
   {
@@ -344,7 +344,7 @@ window.STREETS = [
   },
   "story": {
     "en": "E311 is named after Sheikh Mohammed bin Zayed Al Nahyan, President of the United Arab Emirates since 2022; before that he was Crown Prince of Abu Dhabi and Supreme Commander of the Armed Forces. The road was previously named Emirates Road.",
-    "ar": "سُمّي الطريق E311 باسم الشيخ محمد بن زايد آل نهيان، رئيس الدولة منذ 2022، وكان قبل ذلك ولياً لعهد أبوظبي والقائد الأعلى للقوات المسلحة. وكان اسمه السابق «طريق الإمارات»."
+    "ar": "سُمّي الشارع E311 باسم الشيخ محمد بن زايد آل نهيان، رئيس الدولة منذ 2022، وكان قبل ذلك وليَّ عهد أبوظبي والقائد الأعلى للقوات المسلحة. وكان اسمه السابق «طريق الإمارات»."
   },
   "refs": [
     {
@@ -421,12 +421,12 @@ window.STREETS = [
   "en": "Maliha Road",
   "translit": "Shāriʿ Malīḥa",
   "meaning": {
-    "en": "The Mleiha road",
-    "ar": "طريق مليحة"
+    "en": "Named for the Mleiha archaeological site",
+    "ar": "نسبة إلى مليحة الأثرية"
   },
   "story": {
     "en": "The road runs east toward Mleiha, the archaeological site where tombs and a fortress record trade with Mesopotamia, Yemen and the Mediterranean thousands of years ago. A modern street name that leads straight into the country's deep past.",
-    "ar": "يمتدّ الطريق شرقاً نحو مليحة الأثرية، حيث تسجّل المقابر والحصن صلات تجارية مع بلاد الرافدين واليمن وحوض المتوسط قبل آلاف السنين. اسم شارع حديث يقود إلى عمق تاريخ البلاد."
+    "ar": "يمتدّ الشارع شرقاً نحو مليحة الأثرية، حيث تسجّل المقابر والحصن صلات تجارية مع بلاد الرافدين واليمن وحوض المتوسط قبل آلاف السنين. اسم شارع حديث يقود إلى عمق تاريخ البلاد."
   }
 },
 
@@ -445,7 +445,7 @@ window.STREETS = [
   },
   "story": {
     "en": "Ajman's main street is named after Sheikh Rashid bin Humaid Al Nuaimi, who ruled the emirate from 1928 to 1981. The Al Nuaimi family has ruled Ajman since the 19th century.",
-    "ar": "أكبر شوارع عجمان يحمل اسم الشيخ راشد بن حميد النعيمي الذي حكم الإمارة بين 1928 و1981. وآل النعيمي يحكمون عجمان منذ القرن التاسع عشر."
+    "ar": "الشارع الرئيسي في عجمان يحمل اسم الشيخ راشد بن حميد النعيمي الذي حكم الإمارة بين 1928 و1981. وآل النعيمي يحكمون عجمان منذ القرن التاسع عشر."
   },
   "refs": [
     {
@@ -483,16 +483,16 @@ window.STREETS = [
     id: "sheikh-mohammed-bin-salem-street",
     emirate: "ras-al-khaimah",
     category: "person",
-    origin: "documented",
+    origin: "account",
     ar: "شارع الشيخ محمد بن سالم",
     en: "Sheikh Mohammed bin Salem Street",
     translit: "Shāriʿ ash-Shaykh Muḥammad bin Sālim",
     meaning: { en: "Ruler of Ras Al Khaimah in the early 1900s", ar: "حاكم رأس الخيمة مطلع القرن العشرين" },
     story: {
-      en: "Ras Al Khaimah's main artery, part of the E11, is named after Sheikh Mohammed bin Salem Al Qasimi, who ruled the emirate in the early 20th century. In 2025 its speed limit was set at 80 km/h.",
-      ar: "شريان رأس الخيمة الرئيسي، وهو جزء من الطريق E11، يحمل اسم الشيخ محمد بن سالم القاسمي الذي حكم الإمارة مطلع القرن العشرين. وفي 2025 حُدّدت سرعة الطريق بـ80 كم/س."
+      en: "Ras Al Khaimah's main artery, part of the E11, is named after Sheikh Mohammed bin Salem Al Qasimi, one of the emirate's rulers in the early 20th century.",
+      ar: "شريان رأس الخيمة الرئيسي، وهو جزء من الطريق E11، يحمل اسم الشيخ محمد بن سالم القاسمي، أحد حكام الإمارة مطلع القرن العشرين."
     },
-    refs: [{ label: "Gulf Today — RAK speed limit reduced", url: "https://www.gulftoday.ae/news/2025/01/13/raks-road-speed-reduced-to-80-kmh-on-sheikh-mohammed-bin-salem-street-e11" }]
+    refs: []
   },
   {
   "id": "al-rams-road",
@@ -504,11 +504,11 @@ window.STREETS = [
   "translit": "Shāriʿ ar-Rams",
   "meaning": {
     "en": "The Al Rams road",
-    "ar": "طريق بلدة الرمس"
+    "ar": "شارع بلدة الرمس"
   },
   "story": {
     "en": "Al Rams is a fishing town north of Ras Al Khaimah city, long known for building wooden boats. The road that carries its name runs up the coast between mangroves and the foothills of the Hajar Mountains — geography as address.",
-    "ar": "«الرمس» بلدة صيد شمال مدينة رأس الخيمة، مشهورة بصناعة القوارب الخشبية. والطريق الذي يحمل اسمها يمتدّ على الساحل بين أشجار القرم وسفوح جبال الحجر — الجغرافيا تصبح عنواناً."
+    "ar": "«الرمس» بلدة صيد شمال مدينة رأس الخيمة، مشهورة بصناعة القوارب الخشبية. والشارع الذي يحمل اسمها يمتدّ على الساحل بين أشجار القرم وسفوح جبال الحجر — الجغرافيا تصبح عنواناً."
   }
 },
 
@@ -551,7 +551,7 @@ window.STREETS = [
     "en": "A leader of the Al Sharqi family, and father of Fujairah's ruler Mohammed bin Hamad"
   },
   "story": {
-    "ar": "حمد بن عبدالله الشرقي، أحد الزعماء المشهورين في المنطقة، وهو والد الشيخ محمد بن حمد الشرقي الذي حكم الفجيرة من ١٩٣٨ إلى ١٩٧٤. والشارع الرئيسي في الفجيرة يحمل اسم الأب لا اسم الحاكم.",
+    "ar": "سُمّي الشارع باسم الشيخ حمد بن عبدالله الشرقي، أحد زعماء المنطقة، وهو والد الشيخ محمد بن حمد الشرقي الذي حكم الفجيرة من 1938 إلى 1974. والشارع الرئيسي في الفجيرة يحمل اسم الأب لا اسم الابن الحاكم.",
     "en": "Hamad bin Abdullah Al Sharqi, one of the region's well-known leaders, was the father of Sheikh Mohammed bin Hamad Al Sharqi, who ruled Fujairah from 1938 to 1974. The main street in Fujairah carries the father's name, not the ruler's."
   },
   "refs": [
