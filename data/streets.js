@@ -24476,18 +24476,23 @@ window.STREETS = [
   "id": "khawlah-bint-al-azwar-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خَولة بنت الازور",
   "en": "Khawlah Bint Al Azwar Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شخصية في الروايات العربية، أخت ضرار بن الأزور",
+    "en": "A figure of Arab tradition, sister of Dhirar ibn al-Azwar"
   },
   "story": {
-    "en": "The street carries the name of خَولة بنت الازور. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم خَولة بنت الازور، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "يحمل الشارع اسم خولة بنت الأزور. تذكرها الروايات مقاتلة وشاعرة من قبيلة أسد وأخت ضرار بن الأزور. تنسب قصتها إلى «فتوح الشام» المنسوب خطأً إلى الواقدي، ويذكرها ابن أعثم الكوفي في «الفتوح»، وأغلب كتب التراجم التي ذكرتها متأخرة اعتمدت عليه.",
+    "en": "The street carries the name of Khawlah bint al-Azwar. Traditional accounts present her as a fighter and poet of the Banu Asad, the sister of Dhirar ibn al-Azwar. Her story is drawn from Futuh al-Sham, wrongly attributed to al-Waqidi; Ibn A'tham al-Kufi mentions her in al-Futuh, and most later biographical works that include her rely on that book."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خولة بنت الأزور",
+      "url": "https://ar.wikipedia.org/wiki/خولة_بنت_الأزور"
+    }
+  ]
 },
 {
   "id": "khawlah-bint-malik-street",
@@ -28062,18 +28067,23 @@ window.STREETS = [
   "id": "abdullah-bin-abi-sarh-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالله بن أبي سرح",
   "en": "Abdullah Bin Abi Sarh Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي وقائد، أخو عثمان بن عفان من الرضاعة",
+    "en": "A Companion and commander, Uthman's foster brother"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن أبي سرح. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن أبي سرح، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبد الله بن سعد بن أبي السرح صحابي وقائد، وهو أخو عثمان بن عفان من الرضاعة، وكان صاحب الميمنة في جيش عمرو بن العاص. ولّاه عثمان مصر سنة 27هـ، وغزا إفريقية، وقاد الأسطول في معركة ذات الصواري، وتوفي سنة 36هـ أو 37هـ ودُفن بعسقلان.",
+    "en": "Abdullah ibn Sa'd ibn Abi al-Sarh was a Companion and commander, and the foster brother of Uthman ibn Affan. He commanded the right wing of Amr ibn al-As's army. Uthman appointed him governor of Egypt in 27 AH; he campaigned in Ifriqiya and commanded the fleet at Dhat al-Sawari. He died in 36 or 37 AH and was buried at Ascalon."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — عبد الله بن سعد بن أبي السرح",
+      "url": "https://ar.wikipedia.org/wiki/عبد_الله_بن_سعد_بن_أبي_السرح"
+    }
+  ]
 },
 {
   "id": "abdullah-bin-afif-street",
@@ -28422,18 +28432,23 @@ window.STREETS = [
   "id": "abi-al-ataheya-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبي العتاهية",
   "en": "Abi Al Ataheya Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "شاعر عباسي غلب على شعره الزهد",
+    "en": "Abbasid poet whose verse centred on asceticism"
   },
   "story": {
-    "en": "The street carries the name of أبي العتاهية. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبي العتاهية، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "يحمل الشارع اسم أبي العتاهية، وهو إسماعيل بن القاسم بن سويد العنزي (ت 211هـ/826م)، شاعر عباسي وُلد في عين التمر سنة 130هـ، وانتقل إلى الكوفة ثم إلى بغداد، فمدح الخلفاء المهدي والهادي وهارون الرشيد، وغلب على شعره غرض الزهد.",
+    "en": "The street carries the name of Abu al-Atahiya, Ismail ibn al-Qasim ibn Suwayd al-Anazi (d. 211 AH / 826 CE), an Abbasid poet born at Ayn al-Tamr in 130 AH. He moved to Kufa and then to Baghdad, composed panegyric for the caliphs al-Mahdi, al-Hadi and Harun al-Rashid, and asceticism came to dominate his verse."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو العتاهية",
+      "url": "https://ar.wikipedia.org/wiki/أبو_العتاهية"
+    }
+  ]
 },
 {
   "id": "abi-al-fath-street",
@@ -28742,18 +28757,23 @@ window.STREETS = [
   "id": "abi-qatadah-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع أبي قتادة",
   "en": "Abi Qatadah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "صحابي أنصاري، قائد سرية في عهد النبي",
+    "en": "An Ansari Companion who led an expedition"
   },
   "story": {
-    "en": "The street carries the name of أبي قتادة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم أبي قتادة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "أبو قتادة الحارث بن ربعي الأنصاري صحابي من بني سلمة من الخزرج، شهد مع النبي محمد المشاهد كلها بعد غزوة بدر، وأرسله النبي قائدًا على سريتين سنة 8هـ إلى نجد وبطن إضم، وشارك في الفتح الإسلامي لفارس. وتوفي بالمدينة المنورة سنة 54هـ.",
+    "en": "Abu Qatadah al-Harith ibn Rib'i al-Ansari was a Companion of the Ansar from the Banu Salama of the Khazraj. He witnessed all the Prophet's campaigns after Badr, and in 8 AH the Prophet sent him in command of two expeditions, to Najd and Batan Idam. He fought in the Muslim conquest of Persia and died in Medina in 54 AH."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — أبو قتادة الأنصاري",
+      "url": "https://ar.wikipedia.org/wiki/أبو_قتادة_الأنصاري"
+    }
+  ]
 },
 {
   "id": "abi-safra-street",
@@ -30669,18 +30689,23 @@ window.STREETS = [
   "id": "khalid-al-qasri-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع خالد القسري",
   "en": "Khalid Al Qasri Street",
   "meaning": {
-    "en": "An Emirati figure of the Qasri family",
-    "ar": "شخصية إماراتية من أسرة القسري"
+    "ar": "والٍ أمويّ، أمير مكة ثم العراق والمشرق",
+    "en": "Umayyad governor of Mecca, then Iraq and the East"
   },
   "story": {
-    "en": "The street carries the name of Khalid, an Emirati figure of the Qasri family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم خالد القسري، وهو شخصية إماراتية من أسرة القسري، ولم يُعثر على ترجمة منشورة له."
+    "ar": "خالد بن عبد الله القسري البجلي والٍ أمويّ، ولّاه الوليد بن عبد الملك مكة المكرمة سنة 89هـ/708م، ثم ولّاه هشام بن عبد الملك العراق والمشرق كله سنة 105هـ/723م، ثم عُزل سنة 120هـ، وتوفي في محرم سنة 126هـ.",
+    "en": "Khalid ibn Abdallah al-Qasri al-Bajali was an Umayyad governor. Al-Walid ibn Abd al-Malik appointed him governor of Mecca in 89 AH / 708 CE, and Hisham ibn Abd al-Malik appointed him governor of Iraq and the whole East in 105 AH / 723 CE. He was dismissed in 120 AH and died in Muharram 126 AH."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — خالد القسري",
+      "url": "https://ar.wikipedia.org/wiki/خالد_القسري"
+    }
+  ]
 },
 {
   "id": "khalid-bin-qais-street",
@@ -31749,18 +31774,23 @@ window.STREETS = [
   "id": "quaibah-bin-muslim-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع قتيبة بن مسلم",
   "en": "Quaibah Bin Muslim Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "قائد عسكري، فتح بلاد ما وراء النهر",
+    "en": "A commander in the conquest of Transoxiana"
   },
   "story": {
-    "en": "The street carries the name of قتيبة بن مسلم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم قتيبة بن مسلم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "قتيبة بن مسلم الباهلي قائد عسكري من البصرة، وُلد سنة 49هـ/669م. فتح خوارزم وبخارى وسمرقند وبلخ في بلاد ما وراء النهر، ووصلت فتوحاته إلى كاشغر، ثم قُتل في فرغانة سنة 96هـ/715م.",
+    "en": "Qutaybah ibn Muslim al-Bahili was a military commander from Basra, born in 49 AH / 669 CE. He conquered Khwarazm, Bukhara, Samarkand and Balkh in Transoxiana, and his campaigns reached Kashgar. He was killed in Farghana in 96 AH / 715 CE."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — قتيبة بن مسلم الباهلي",
+      "url": "https://ar.wikipedia.org/wiki/قتيبة_بن_مسلم_الباهلي"
+    }
+  ]
 },
 {
   "id": "rab-ey-al-afkal-street",
@@ -33227,18 +33257,23 @@ window.STREETS = [
   "id": "yousef-al-buwyti-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع يوسف البويطي",
   "en": "Yousef Al Buwyti Street",
   "meaning": {
-    "en": "An Emirati figure of the Buwyti family",
-    "ar": "شخصية إماراتية من أسرة البويطي"
+    "ar": "فقيه شافعي وخليفة الشافعي على أصحابه",
+    "en": "Shafi'i jurist and al-Shafi'i's successor over his students"
   },
   "story": {
-    "en": "The street carries the name of Yousef, an Emirati figure of the Buwyti family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم يوسف البويطي، وهو شخصية إماراتية من أسرة البويطي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "يحمل الشارع اسم يوسف البويطي، وهو أبو يعقوب يوسف بن يحيى البويطي المصري (ت 231هـ/846م)، فقيه شافعي وصاحب الإمام الشافعي وخليفته على أصحابه، ومن أكبر أصحابه المصريين، وله «المختصر» المشهور باسم «مختصر البويطي».",
+    "en": "The street carries the name of Yusuf al-Buwayti, Abu Ya'qub Yusuf ibn Yahya al-Buwayti al-Misri (d. 231 AH / 846 CE), a Shafi'i jurist, disciple of Imam al-Shafi'i and his successor over his students, one of his most senior Egyptian disciples, and author of al-Mukhtasar, known as Mukhtasar al-Buwayti."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "Wikipedia — يوسف بن يحيى البويطي",
+      "url": "https://ar.wikipedia.org/wiki/يوسف_بن_يحيى_البويطي"
+    }
+  ]
 },
 {
   "id": "zara-ah-bin-amer-street",
