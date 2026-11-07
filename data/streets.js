@@ -7112,16 +7112,16 @@ window.STREETS = [
   "id": "bishr-bin-qays-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع بِشر بن قَيس",
   "en": "Bishr Bin Qays Street",
   "meaning": {
-    "en": "Identity not established",
-    "ar": "الهوية غير محددة"
+    "ar": "بشر بن قيس التغلبي، تابعي راوٍ للحديث",
+    "en": "Bishr ibn Qays Al-Taghlibi, a tabi'i hadith narrator"
   },
   "story": {
-    "en": "No published source was found identifying who Bishr Bin Qays — the name this street carries — was.",
-    "ar": "لم يُعثر على مصدر منشور يحدد من هو «بشر بن قيس» الذي يحمل الشارع اسمه."
+    "ar": "بشر بن قيس التغلبي، أبو قيس، من تغلب بن وائل، نزل قنسرين بالشام، روى عن أبي الدرداء ومعاوية بن أبي سفيان، وروى عنه ابنه قيس، وذكره العلماء في الطبقة الثانية من التابعين.",
+    "en": "Bishr ibn Qays Al-Taghlibi, Abu Qays, of Taghlib ibn Wa'il, who lived in Qinnasrin in Syria; he narrated from Abu al-Darda and Muawiyah ibn Abi Sufyan, his son Qays narrated from him, and scholars listed him in the second rank of the tabi'in."
   },
   "refs": []
 },
@@ -8433,16 +8433,16 @@ window.STREETS = [
   "id": "ahmed-bin-hudhayba-al-hameli",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "documented",
+  "origin": "account",
   "ar": "شارع أحمد بن حظيبة الهاملي",
   "en": "Ahmed Bin Hudhayba Al Hameli Street",
   "meaning": {
-    "ar": "شخص يحمل الشارع اسمه",
-    "en": "A person the street is named after"
+    "ar": "أحمد بن حظيبة الهاملي، شاعر نبطي إماراتي",
+    "en": "Ahmed ibn Hudhaybah Al-Hameli, an Emirati Nabati poet"
   },
   "story": {
-    "ar": "يحمل الشارع اسم أحمد بن حظيبة الهاملي، وورد اسمه في سجل «تكريم رواد الإمارات: شوارع تذكارية»، ولم يُنشر في المصدر أكثر من الاسم.",
-    "en": "The street carries the name Ahmed bin Hudhayba Al Hameli; he is recorded in the «Honouring the Pioneers of the UAE: Memorial Streets» listing, and the source publishes no more than the name."
+    "ar": "أحمد بن حظيبة الهاملي، شاعر نبطي إماراتي راحل، اشتهر بمساجلاته الشعرية ومنها قصيدته «هاج فن الشعر» مع الشاعر راشد الخضر، وسُمي شارع في مدينة محمد بن زايد بأبوظبي باسمه.",
+    "en": "Ahmed ibn Hudhaybah Al-Hameli, a late Emirati Nabati poet known for his poetic contests, among them his poem Hajj Fan al-Shi'r with the poet Rashid al-Khadr; a street in Mohammed Bin Zayed City, Abu Dhabi, carries his name."
   },
   "refs": [
     {
@@ -15195,16 +15195,16 @@ window.STREETS = [
   "id": "matar-bin-hamad-al-zeabi",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع مطر بن حمد الزعابي",
   "en": "Matar Bin Hamad Al Zeabi Street",
   "meaning": {
-    "ar": "شخص يحمل الشارع اسمه",
-    "en": "A person the street is named after"
+    "ar": "مطر بن حمد الزعابي، من شيوخ قبيلة زعب",
+    "en": "Matar ibn Hamad Al-Zaabi, a chief of the Zaab tribe"
   },
   "story": {
-    "ar": "يحمل الشارع اسم مطر بن حمد الزعابي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
-    "en": "The street carries the name Matar Bin Hamad Al Zeabi, which is all the record holds."
+    "ar": "الشيخ مطر بن حمد الزعابي، من شيوخ قبيلة زعب التاريخيين في منطقة خور كلباء بالشارقة، وتخليداً لذكراه سُمي شارع في مدينة خور كلباء باسمه.",
+    "en": "Sheikh Matar ibn Hamad Al-Zaabi, one of the historical chiefs of the Zaab tribe in the Khor Kalba area of Sharjah; a street in the city of Khor Kalba was named after him in his memory."
   }
 },
 {
@@ -17033,16 +17033,16 @@ window.STREETS = [
   "id": "abi-al-fadhel-al-tamimi",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع أبي الفضل التميمي",
   "en": "Abi Al Fadhel Al Tamimi Street",
   "meaning": {
-    "en": "An Emirati figure of the Tamimi family",
-    "ar": "شخصية إماراتية من أسرة التميمي"
+    "ar": "أبو الفضل التميمي، فقيه حنبلي من بغداد",
+    "en": "Abu al-Fadl Al-Tamimi, a Hanbali scholar of Baghdad"
   },
   "story": {
-    "en": "The street carries the name of Abi Al Fadhel, an Emirati figure of the Tamimi family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم أبي الفضل، وهو شخصية إماراتية من أسرة التميمي، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عبد الواحد بن عبد العزيز التميمي البغدادي، أبو الفضل، وُلد سنة ٣٤١ هـ وتوفي سنة ٤١٠ هـ، وتولى مشيخة الحنابلة في بغداد، ودُفن قرب قبر الإمام أحمد بن حنبل، وله كتاب اعتقاد الإمام أحمد.",
+    "en": "Abd al-Wahid ibn Abd al-Aziz al-Tamimi al-Baghdadi, Abu al-Fadl, born in 341 AH and died in 410 AH; he headed the Hanbalis in Baghdad and was buried near the grave of Imam Ahmad ibn Hanbal, and wrote a book on the creed of Imam Ahmad."
   },
   "refs": []
 },
@@ -17050,16 +17050,16 @@ window.STREETS = [
   "id": "abi-al-hassan-al-shadhli",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع أبي الحسن الشاذلي",
   "en": "Abi Al Hassan Al Shadhli Street",
   "meaning": {
-    "ar": "شخص يحمل الشارع اسمه",
-    "en": "A person the street is named after"
+    "ar": "أبو الحسن الشاذلي، مؤسس الطريقة الشاذلية",
+    "en": "Abu al-Hasan Al-Shadhili, founder of the Shadhili path"
   },
   "story": {
-    "ar": "أبو الحسن الشاذلي، إمام الطريقة الشاذلية في التصوف الإسلامي.",
-    "en": "The street carries the name Abi Al Hassan Al Shadhli."
+    "ar": "علي بن عبد الله بن عبد الجبار الشاذلي المالكي، وُلد نحو سنة ٥٧١ هـ قرب سبتة بالمغرب، وتلقى العلم بفاس وتونس، ثم استقر بالإسكندرية ونشر طريقته، وله عمدة السالك، وتوفي سنة ٦٥٦ هـ.",
+    "en": "Ali ibn Abd Allah ibn Abd al-Jabbar Al-Shadhili Al-Maliki, born around 571 AH near Ceuta in Morocco; he studied in Fes and Tunis, then settled in Alexandria and spread his path, and wrote Umdat al-Salik; he died in 656 AH."
   }
 },
 {
@@ -17099,16 +17099,16 @@ window.STREETS = [
   "id": "abi-dhar-al-ghifari",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع أبي ذر الغفاري",
   "en": "Abi Dhar Al Ghifari Street",
   "meaning": {
-    "ar": "شخص يحمل الشارع اسمه",
-    "en": "A person the street is named after"
+    "ar": "أبو ذر الغفاري، من السابقين إلى الإسلام",
+    "en": "Abu Dharr Al-Ghifari, among the early Muslims"
   },
   "story": {
-    "ar": "أبو ذر الغفاري (جندب بن جنادة)، صحابي من السابقين إلى الإسلام، توفي في الربذة سنة ٣١ أو ٣٢ هـ.",
-    "en": "The street carries the name Abi Dhar Al Ghifari, which is all the record holds."
+    "ar": "جُندب بن جنادة الغفاري، أبو ذر، من قبيلة غفار، أسلم مبكراً وهو رابع أو خامس من دخل في الإسلام، ويُقال إنه أول من جهر بإسلامه بمكة، وتوفي بالربذة سنة ٣١ أو ٣٢ هـ.",
+    "en": "Jundub ibn Junadah Al-Ghifari, Abu Dharr, of the Ghifar tribe, who embraced Islam early as the fourth or fifth to enter it and is said to be the first to declare his Islam publicly in Makkah; he died at al-Rabadhah in 31 or 32 AH."
   }
 },
 {
@@ -17131,16 +17131,16 @@ window.STREETS = [
   "id": "abi-hamid-al-sharqy",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع أبي حامد الشرقي",
   "en": "Abi Hamid Al Sharqy Street",
   "meaning": {
-    "ar": "شخص يحمل الشارع اسمه",
-    "en": "A person the street is named after"
+    "ar": "أبو حامد الشرقي، محدث نيسابوري",
+    "en": "Abu Hamid Al-Sharqi, a hadith scholar of Nishapur"
   },
   "story": {
-    "ar": "يحمل الشارع اسم أبي حامد الشرقي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم.",
-    "en": "The street carries the name Abi Hamid Al Sharqy, which is all the record holds."
+    "ar": "أحمد بن محمد بن الحسن بن الشرقي النيسابوري، أبو حامد، روى عن محمد بن يحيى الذهلي وطبقته، وروى عنه أبو علي الحافظ وأبو بكر بن إسحاق الصبغي، وتوفي في رمضان سنة ٣٢٥ هـ عن ٨٥ سنة.",
+    "en": "Ahmed ibn Mohammed ibn al-Hasan al-Sharqi al-Naysaburi, Abu Hamid, who narrated from Mohammed ibn Yahya al-Dhuhli and his generation; Abu Ali al-Hafiz and Abu Bakr ibn Ishaq al-Sabghi narrated from him; he died in Ramadan of 325 AH at about eighty-five years old."
   }
 },
 {
@@ -22209,16 +22209,16 @@ window.STREETS = [
   "id": "al-hur-bin-qays-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع الحُر بن قَيس",
   "en": "Al Hur Bin Qays Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "الحر بن قيس الفزاري، صحابي من وفد بني فزارة",
+    "en": "Al-Hurr ibn Qays Al-Fazari, a companion of the Bani Fazarah delegation"
   },
   "story": {
-    "en": "The street carries the name of الحُر بن قَيس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الحُر بن قَيس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الحر بن قيس بن حصن الفزاري، أبو خرشة، ابن أخي عيينة بن حصن، قدم مع وفد بني فزارة على النبي محمد ﷺ عند مرجعه من غزوة تبوك، وكان من القراء وجلساء عمر بن الخطاب.",
+    "en": "Al-Hurr ibn Qays ibn Hisn Al-Fazari, Abu Khurshah, nephew of Uyaynah ibn Hisn; he came with the delegation of Bani Fazarah to the Prophet Muhammad (peace be upon him) on his return from the Tabuk expedition, and was among the readers and companions of Umar ibn al-Khattab."
   },
   "refs": []
 },
@@ -28028,16 +28028,16 @@ window.STREETS = [
   "id": "abdullah-bin-abbas-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عبدالله بن عباس",
   "en": "Abdullah Bin Abbas Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عبد الله بن عباس رضي الله عنه، صحابي مفسّر",
+    "en": "Abd Allah ibn Abbas (may Allah be pleased with him), a companion"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن عباس. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن عباس، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبد الله بن عباس بن عبد المطلب رضي الله عنه، وُلد قبل الهجرة بثلاث سنوات في شعب أبي طالب، ودعا له النبي محمد ﷺ بفقه الدين وعلم التأويل، وعمره عند وفاته نحو عشر سنين وقيل أكثر.",
+    "en": "Abd Allah ibn Abbas ibn Abd al-Muttalib (may Allah be pleased with him), born three years before the Hijrah in the quarter of Abu Talib; the Prophet Muhammad (peace be upon him) prayed for him in understanding of religion and knowledge of interpretation, and he was about ten years old at the Prophet's death, and said older."
   },
   "refs": []
 },
@@ -28259,16 +28259,16 @@ window.STREETS = [
   "id": "abdullah-bin-suraqah-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عبدالله بن سراقة",
   "en": "Abdullah Bin Suraqah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عبد الله بن سراقة العدوي، صحابي من قريش",
+    "en": "Abd Allah ibn Suraqah Al-Adawi, a companion of Quraysh"
   },
   "story": {
-    "en": "The street carries the name of عبدالله بن سراقة. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالله بن سراقة، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبد الله بن سراقة بن المعتمر العدوي القرشي، أخو الصحابي عمرو بن سراقة، شهد أحداً وما بعدها من المشاهد مع النبي محمد ﷺ، وشهد بدراً وقيل إنه لم يشهدها.",
+    "en": "Abd Allah ibn Suraqah ibn al-Mu'tamir Al-Adawi Al-Qurashi, brother of the companion Amr ibn Suraqah, who witnessed Uhud and what followed with the Prophet Muhammad (peace be upon him), and witnessed Badr, and it is said he did not witness it."
   },
   "refs": []
 },
@@ -31433,16 +31433,16 @@ window.STREETS = [
   "id": "omar-al-jani-street",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "account",
   "ar": "شارع عمر الجاني",
   "en": "Omar Al Jani Street",
   "meaning": {
-    "en": "An Emirati figure of the Jani family",
-    "ar": "شخصية إماراتية من أسرة الجاني"
+    "ar": "عمر الجاني، لاعب كرة قدم غامبي",
+    "en": "Omar Jagne, a Gambian football player"
   },
   "story": {
-    "en": "The street carries the name of Omar, an Emirati figure of the Jani family. No published biography of him was found.",
-    "ar": "سُمّي الشارع باسم عمر الجاني، وهو شخصية إماراتية من أسرة الجاني، ولم يُعثر على ترجمة منشورة له."
+    "ar": "عمر الجاني، لاعب كرة قدم غامبي وُلد يوم ١٠ يونيو سنة ١٩٩٢، يلعب في مركز المهاجم، ويلعب حالياً لنادي إف كيه هانينغ في السويد.",
+    "en": "Omar Jagne, a Gambian football player born on 10 June 1992, who plays as a forward and currently plays for IFK Haninge in Sweden."
   },
   "refs": []
 },
