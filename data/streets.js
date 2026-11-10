@@ -17434,18 +17434,27 @@ window.STREETS = [
   "id": "mohammed-bin-tariq-al-maki",
   "emirate": "sharjah",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع محمد بن طارق المكي",
   "en": "Mohammed Bin Tariq Al Maki Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "تابعي مكي من رواة الحديث",
+    "en": "a Meccan tabi'i and hadith transmitter"
   },
   "story": {
-    "en": "The street carries the name of محمد بن طارق المكي. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم محمد بن طارق المكي، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "محمد بن طارق المكي، تابعي من الطبقة الثالثة من أهل مكة، روى عن ابن عمر وطاوس ومجاهد، وروى عنه ليث بن أبي سليم والسفيانان، وثّقه النسائي وذكره ابن حبان في الثقات.",
+    "en": "Muhammad ibn Tariq Al-Makki, a third-generation tabi'i of Mecca, narrated from Ibn Umar, Tawus and Mujahid; Layth ibn Abi Sulaym and the two Sufyans narrated from him. Al-Nasa'i rated him trustworthy, and Ibn Hibban listed him among the reliable."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "تهذيب التهذيب — ترجمة محمد بن طارق المكي",
+      "url": "https://sunna.alifta.gov.sa/BookToc/ViewServicePage?bookId=49&mainId=478560"
+    },
+    {
+      "label": "صفة الصفوة — ابن الجوزي، ج١ ص٤١٧",
+      "url": "https://read.shamela.ws/book/12031/567"
+    }
+  ]
 },
 {
   "id": "nadlah-bin-obied-al-aslami",
