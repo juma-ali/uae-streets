@@ -22007,18 +22007,23 @@ window.STREETS = [
   "id": "al-arqm-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الأرقم",
   "en": "Al Arqm Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "الأرقم بن أبي الأرقم، صحابي من السابقين",
+    "en": "Al-Arqam ibn Abi al-Arqam, one of the earliest Companions"
   },
   "story": {
-    "en": "The street carries the name of الأرقم. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الأرقم، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الأرقم بن أبي الأرقم المخزومي، صحابي من السابقين، كانت داره على الصفا مقراً للدعوة في أول الإسلام، وهاجر إلى المدينة وشهد الغزوات كلها، وتوفي بالمدينة سنة ٥٥ هـ وقيل ٥٣ هـ.",
+    "en": "Al-Arqam ibn Abi al-Arqam Abd Manaf Al-Makhzumi was one of the earliest Companions; his house at Al-Safa served as the base of the call in the first years of Islam. He migrated to Medina, took part in all the campaigns, and died there in 55 AH, or 53 AH by another account."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا — الأرقم بن أبي الأرقم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D9%85_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D9%85"
+    }
+  ]
 },
 {
   "id": "al-asma-i-street",
