@@ -22068,18 +22068,23 @@ window.STREETS = [
   "id": "al-harith-bin-abdullah-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الحارِث بن عبدالله",
   "en": "Al Harith Bin Abdullah Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "الحارث بن عبد الله بن أبي ربيعة، والٍ على البصرة",
+    "en": "Al-Harith ibn Abd Allah ibn Abi Rabi'ah, a governor of Basra"
   },
   "story": {
-    "en": "The street carries the name of الحارِث بن عبدالله. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الحارِث بن عبدالله، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "الحارث بن عبد الله بن أبي ربيعة المخزومي، المعروف بالقباع، ذكره البخاري وابن سعد في التابعين وقيل له صحبة، ولّاه ابن الزبير على البصرة سنة ثم عزله، وكان قليل رواية الحديث.",
+    "en": "Al-Harith ibn Abd Allah ibn Abi Rabi'ah Al-Makhzumi, known as Al-Qubba', was listed by al-Bukhari and Ibn Sa'd among the tabi'un, though some gave him the standing of a Companion. Ibn al-Zubayr appointed him governor of Basra for a year and then removed him, and he narrated few hadiths."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا — الحارث بن عبد الله بن أبي ربيعة",
+      "url": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%A3%D8%A8%D9%8A_%D8%B1%D8%A8%D9%8A%D8%B9%D8%A9"
+    }
+  ]
 },
 {
   "id": "al-harith-bin-al-azma-street",
