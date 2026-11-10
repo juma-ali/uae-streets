@@ -22056,18 +22056,23 @@ window.STREETS = [
   "id": "al-farouq-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع الفَارُوق",
   "en": "Al Farouq Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "الفاروق: لقب عمر بن الخطاب",
+    "en": "Al-Farouq, the epithet of Umar ibn al-Khattab"
   },
   "story": {
-    "en": "The street carries the name of الفَارُوق. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم الفَارُوق، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "«الفاروق» لقب عمر بن الخطاب (ت ٢٣هـ/٦٤٤م)، ثاني الخلفاء الراشدين، وفي عهده فُتحت الشام ومصر والعراق، ووُضع التقويم الهجري.",
+    "en": "«Al-Farouq» is the epithet of Umar ibn al-Khattab (d. 23 AH / 644 CE), the second of the Rashidun caliphs. In his time the Levant, Egypt and Iraq were conquered, and the Hijri calendar was established."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا — عمر بن الخطاب",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D8%A7%D8%A8"
+    }
+  ]
 },
 {
   "id": "al-harith-bin-abdullah-street",
