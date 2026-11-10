@@ -21553,18 +21553,23 @@ window.STREETS = [
   "id": "abdulrahman-bin-zayd-street",
   "emirate": "abu-dhabi",
   "category": "person",
-  "origin": "unsourced",
+  "origin": "documented",
   "ar": "شارع عبدالرحمن بن زيد",
   "en": "Abdulrahman Bin Zayd Street",
   "meaning": {
-    "en": "A person named on the street sign",
-    "ar": "شخص يحمل الشارع اسمه"
+    "ar": "عبد الرحمن بن زيد بن أسلم، مفسّر مدني",
+    "en": "Abd al-Rahman ibn Zayd ibn Aslam, a Medinan exegete"
   },
   "story": {
-    "en": "The street carries the name of عبدالرحمن بن زيد. No published biography was found, and the card claims nothing beyond the name.",
-    "ar": "يحمل الشارع اسم عبدالرحمن بن زيد، ولم يُعثر على ترجمة منشورة له، فلا تنسب البطاقة إليه أكثر من الاسم."
+    "ar": "عبد الرحمن بن زيد بن أسلم (ت ١٨٢ هـ)، مفسّر مدني، أخذ التفسير عن أبيه زيد بن أسلم، وأخذه عنه عبد الله بن وهب، وله آراء وروايات كثيرة في تفسير الطبري.",
+    "en": "Abd al-Rahman ibn Zayd ibn Aslam (d. 182 AH) was a Medinan exegete who took tafsir from his father Zayd ibn Aslam; Abdullah ibn Wahb took it from him, and he has many reports in al-Tabari's tafsir."
   },
-  "refs": []
+  "refs": [
+    {
+      "label": "ويكيبيديا — عبد الرحمن بن زيد بن أسلم",
+      "url": "https://ar.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86_%D8%A8%D9%86_%D8%B2%D9%8A%D8%AF_%D8%A8%D9%86_%D8%A3%D8%B3%D9%84%D9%85"
+    }
+  ]
 },
 {
   "id": "abu-al-aswad-ad-du-ali-street",
